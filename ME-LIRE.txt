@@ -1,0 +1,29 @@
+Projet Mercure-Galant (1672-1721)
+
+Rendez-vous avec Nathalie Berton <nathalie.berton-blivet@irpmf-cnrs.fr> du 19 février 2013
+
+http://philidor.cmbv.fr/jlbnet/jlbNet?html=Log
+
+La base actuelle contient quelques 1600 notices du périodique indexant chacune un article avec parfois son texte. La production des données reposent sur une solution commerciale (JLBNet) qui permet aussi la diffusion sur le web, à la condition de payer une licence. Le coût dissuasif a conduit le partenaire informatique du projet à développer une solution maison de diffusion des notices. Cependant, le projet Mercure-Galant n'est pas satisfait par cette solution qui n'exploite pas la puissance des thesaurus.
+
+Objectifs Obvil : la conversion en TEI des notices et leur mise en ligne en octobre 2013 (avec le texte intégral lorsque disponible), avec un accès privilégié par le thesaurus.
+
+Pour 2013, la modification de l'outil de production n’est pas encore prévue, mais la conversion de l’existant va nécessiter des moyens pour corriger les erreurs, ainsi que pour ajouter des champs (notamment un lien vers les pages numérisées). Une solution de production pour le Mercure-Galant rejoint les intérêts du Labex sur au moins deux fonctionnalités :
+ * pour les notices de métadonnées, un formulaire configurable avec suggestion de termes provenant d'un vocabulaire de référence (ici les thesaurus)
+ * pour l'édition des textes, indexation de termes dans le texte
+L'application de production doit prévoir un flux de travail avec gestion des droits d'écriture et de diffusion des notices (ex : état provisoire non diffusable au public). Une application de diffusion ne doit pas avoir à se soucier de cet aspect et pouvoir diffuser toutes les notices qui luis sont transmises.
+
+Les données se présentent sous deux formes
+* un export tabulaire (csv) des notices (avec parfois le texte)
+* un export texte structuré des thesaurus
+
+Les termes d’indexation des notices proviennent des thesaurus, exemple :
+BÉTHANCOURT-EN-VALOIS, Abbaye
+Mais les termes ne contiennent pas toute la hiérarchie (ici le parent: OISE).
+Ce réseau de termes doit rester externe, car c'est le moyen le plus sûr de conserver des graphies fiables et correctement reliées, et même, multiplement reliées (ex: BÉTHANCOURT-EN-VALOIS peut être rattaché à OISE, mais on peut souhaiter chercher par paroisse d'ancien régime, ce que permettrait un autre thesaurus)
+
+
+La conversion TEI des différents fichiers est une opération nécessaire pour la pérennité des données.
+L'application de diffusion sera un développement spécifique, avec notamment l’utilisation des thesaurus.
+
+Note : champs de gestion privés : "sous-catalogue", "gestion base" et "référence"
