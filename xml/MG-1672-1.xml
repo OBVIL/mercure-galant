@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/tei2html.xsl"?>-->
+<!--odt2tei: 2013-11-13T18:35:51+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1672_tome1" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition> ?</edition>
+        <respStmt>
+          <name>Alexandre De Craim</name>
+          <resp> ?</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp> ?</resp>
+        </respStmt>
+      </editionStmt>
+      <extent>
+        <measure quantity="18" unit="page"/>
+        <measure quantity="102" unit="paragraph"/>
+        <measure quantity="7901" unit="word"/>
+        <measure quantity="51260" unit="character"/>
+      </extent>
+      <publicationStmt>
+        <publisher> ?</publisher>
+        <date when="2013"/>
+        <idno> ?</idno>
+        <availability status="restricted">
+          <licence target=" ? ">License ?</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl> ?</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when=" ? "/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb/>
+      <head><hi rend="i">Mercure galant</hi>, tome 1 [janvier-avril] , 1672.</head>
+      <div type="titre1">
+        <head>Le Libraire au lecteur</head>
+        <bibl>[1672-1-0] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. I-VIII.</bibl>
+        <head rend="center">Le Libraire</head>
+        <head rend="center">au Lecteur.</head>
+        <p>CE Livre doit avoir dequoy plaire à tout le monde, à cause de la diversité des matieres dont il est remply : Ceux qui aiment que les Romans, y trouveront des Histoires divertissantes. Les Curieux des Nouvelles, &amp; les Provinciaux &amp; les Etrangers, qui n’ont aucune connoissance de plusieurs Personnes d’une grande naissance, ou d’un grand mérite, dont ils entendent souvent parler, apprendront dans ce Volume &amp; dans les suivans, par où ils sont recommandables, &amp; ce qui les fait estimer. Lors qu’on voudra connoître quelqu’un, on n’aura qu’à le chercher dans <hi rend="i">Le Mercure Galant</hi>, si l’on veut estre bientost éclaircy de ce qu’on souhaitera d’apprendre. On en donnera tous les trois Mois un Volume, &amp; dans le second on marquera les temps ausquels on les devra donner, afin que le Public les ait dorenavant à jour nommé. On y parlera à l’avenir des Provinces &amp; des Cours Etrangères. L’Autheur ne commence qu’à établir des correspondances, &amp; former des habitudes d’où qu’il puisse tirer des secours considérables, afin qu’il n’arrive rien de nouveau dans le Monde dont il ne parle dans ses Lettres. On ne doit regarder celles-cy que comme des Essays, &amp; par ce qu’elles sont, on doit les juger de ce que celles qui les suivront pouront estre. Ainsi l’on ne doit considérer ce Volume que comme le dessein d’un Ouvrage auquel on peut adjouter beaucoup, &amp; non comme un Ouvrage achevé. Ceux qui auront quelques Galanteries, &amp; quelque chose de curieux, qui méritera d’estre sçeu, pourront me l’apporter, &amp; je feray en sorte que l’Autheur en entretienne la Personne à qui il s’adresse dans ses Lettres. Je crois estre encor obligé de vous avertir que ce Livre n’a rien qui ressemble au <hi rend="i">Journal des Sçavans</hi> : Il ne parle que des Livres de Sciences qu’on imprime ; &amp; l’on en parle icy que d’Histoires amoureuses, &amp; que du mérite des Personnes qui en ont beaucoup, quand mesme leur plume ne produiroit aucun Ouvrage. Il n’est pas toûjours necessaire d’écrire pour avoir de l’esprit, &amp; l’on a souvent veu des preuves du contraire. Je dois adjoûter à tout cela, que si l’on parle icy de quelques Livres, ce n’est que de Livres de Galanteries, dont le Journal ne dit jamais rien ; &amp; qu’il n’y a pas dans ce Volume trente lignes sur cette matiere.</p>
+      </div>
+      <div type="titre1">
+        <head>[Dessein de l’Ouvrage.]</head>
+        <bibl>[1672-1-1] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 1-13.</bibl>
+        <p>MADAME,</p>
+        <p>Il n’estoit pas besoin de me faire souvenir que lors que vous partîtes de Paris, je vous promis de vous mander souvent des nouvelles capables de nourrir la curiosité des plus illustres de la Province qui doit avoir le bonheur de vous posseder si long-temps. Quand on songe souvent à une Personne, on n’oublie pas facilement ce qu’on luy promet. Je croy, Madame, que vous entendez bien ce que cela veut dire, &amp; qu’il n’est pas necessaire que je m’explique davantage. Passons donc aux nouvelles, ou plutost à l’ordre que j’ay résolu de tenir pour vous en apprendre. Je vous écriray tous les huit jours une fois, &amp; vous feray un long et curieux détail de tout ce que j’auray appris pendant la Semaine. Je vous manderay des choses que les Gazettes ne vous apprendront point, ou du moins qu’elles ne vous feront pas sçavoir avec tant de particularitez. Les moindres choses qui se passeront icy, n’échaperont pas à ma plume ; Vous sçaurez les Morts &amp; les Mariages de conséquence, avec des circonstances qui pouront quelque fois vous donner des plaisirs que ces sortes de nouvelles n’ont pas d’elles-mesmes. Je tâcheray de déveloper la verité de belles actions de ceux dont la valeur se fera remarquer dans les Armées, &amp; vous éclairciray souvent des choses dont la Renommée est toûjours mal instruite, parce qu’elle n’attend jamais pour partir qu’elle soit bien éclaircie, &amp; que les premiers bruits qu’elle seme ne se trouvent que rarement véritables. Je n’oubliray pas à vous parler de tous ceux qui recevront quelques bienfaits de notre Grand Monarque : Il donne de si bonne grace, que bien que ses présens soient considerables, on est plus charmé d’entendre le recit de la maniere dont il les fait, que ceux qui les reçoivent ne sont ravis de la magnificence de ses dons. Comme on entend de temps en temps parler de Procés si extraordinaire, &amp; si remplis d’avantures, que les romans les plus surprenans n’ont rien qui en approche, je ne manqueray pas de vous en divertir, &amp; de vous en mander les veritables circonstances, qui ne sont jamais bien sçeuës que de ceux qui se donnent la peine de les rechercher avec soin. La curiosité attirant à Paris non seulement quantité des plus Illustres de toutes les Provinces de France, mais encor de plusieurs Estrangers, je vous instruiray du mérite extraordinaire de ceux qui se feront admirer. Je vous envoyeray toutes les Pieces galantes qui auront de la reputation, comme Sonnets, Madrigaux, &amp; autres Ouvrages semblables. Je vous manderay le jugement qu’on fera de toutes les Comedies nouvelles &amp; de tous les livres de galanterie qui s’imprimeront ; je dis galanterie, parce que je ne prétens point parler de ceux qui regardent les Arts &amp; Sciences, à cause que je ne m’en pourois si dignement acquiter que ceux qui prennent le soin d’en donner tous les quinze jours des Memoires. Je feray pourtant plus que je ne vous ay promis, &amp; j’espere vous écrire souvent quelques Avantures nouvelles en forme d’Histoires. Paris est assez grand pour m’en fournir ; il y arrive chaque jour des choses assez considérables ; &amp; ceux qui voyent un peu le Monde, apprenent souvent des avantures extraordinaires, &amp; en sont de mesme quelquefois les témoins ; &amp; je ne doute point que je ne puisse vous faire part presque chaque Semaine d’une Histoire nouvelle. Quand Paris n’en fourniroit pas toûjours la matiere, je ne puis manquer d’en apprendre du grand nombre d’Etrangers qui sont dans cette grande Ville. J’adjoûteray à toutes ces choses toutes les nouvelles des Ruelles les plus galantes, &amp; vous manderay jusques aux Modes nouvelles : On est ravy en Province de les apprendre ; &amp; de tout ce que l’on peut mander, rien n’est souhaité avec plus de passion. Vous croyez bien que les Coquettes de Paris me fourniront assez dequoy vous écrire sur ce sujet, &amp; que toutes les choses que je vous viens de promettre me fourniront separément dequoy vous entretenir d’un nombre infiny de nouvelles. Je ne vous en manderay pas beaucoup d’étrangeres, ny d’Etat ; &amp; je vous parleray seulement de ces grandes nouvelles publiques dont s’entretiennent ceux-mesmes qui ne font point profession d’en sçavoir. Comme il n’y a point de nouvelle si publique qui n’ait quelque chose de particulier, &amp; qui n’est pas sçeu de tout le monde, je vous informeray de ce qu’en croiront ceux qui devront les mieux sçavoir que les autres. Si je puis venir à bout de mon dessein, &amp; que vous conserviez mes Lettres, elles pouront dans l’avenir servir de Memoires aux Curieux, &amp; l’on y trouvera beaucoup de choses qui ne pourront se rencontrer ailleurs, à cause de da diversité des matieres dont elles seront remplies ; mais il m’importe peu qu’elles soient utiles à d’autres, pourveu qu’elles vous divertissent : c’est mon unique but, &amp; c’est pourquoi je commence par une Histoire avant que d’entrer dans le détail des nouvelles de la Semaine.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire du Collier de Perles.]</head>
+        <bibl>[1672-1-13] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 13-34.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Honneurs rendus à la mémoire de feüe Madame de Montausier.]</head>
+        <bibl>[1672-1-34] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 34-37.</bibl>
+        <p>Quoy que mon dessein ne soit pas de vous entretenir toûjours des honneurs funebres que l’on rendra à ceux qui seront d’une naissance assez illustre pour obliger la Gazette à nous en parler, &amp; que je ne veuille pas vous fatiguer par la lecture des nouvelles publiques qui n’auront rien d’extraordinaire, je ne laisseray pas de vous faire remarquer ce qu’il y aura de nouveau dans celles qu’il semblera que je devrois passer sous silence, à cause du peu de plaisir que la lecture en donne. Je croy que la nouvelle du Service fait à Roüen pour feüe Madame de Montausier est de ce nombre, &amp; que pouvant aisément estre devinée, (parce que c’est la coûtume de rendre des devoirs funebres aux Morts) je ne devrois point parler. Cependant le merite extraordinaire de cette Illustre Defunte, &amp; l’estime particuliere que Monsieur Pelot Premier President du Parlement de Roüen en faisoit, ont esté cause que ces tristes honneurs ont esté accompagnez de circonstances dignes d’estre remarquées ; &amp; que contre l’usage de cette Illustre et Celebre compagnie, d’aller en Corps à de pareilles Cerémonies, elle a bien voulu faire quelque chose d’extraordinaire pour honorer la memoire d’une Personne aussi recommandable par son merite que feüe Madame de Montausier.</p>
+      </div>
+      <div type="titre1">
+        <head>[Éloge de Monsieur l’Abbé de Noailles.]</head>
+        <bibl>[1672-1-37] <title>Mercure galant</title>, tome 1 (janvier-avril) , p. 37-40.</bibl>
+        <p>Je ne sçais si je vous dois mander que M<hi rend="sup">r</hi> l’Abbé de Noailles fit dernierement paroistre son Esprit en Sorbonne, &amp; qu’il étonna tous les vieux docteurs. Vous direz sans doute en lisant cette nouvelle, que si je vous parle de tous ceux qui soûtiendront des Theses, je grossiray mes Lettres de nouvelles peu curieuses : mais quand vous sçaurez qu’il fit dans son premier Acte sur les matieres de Theologie, ce que les autres ne font que dans les derniers, vous trouverez que cette circonstance rend cette nouvelle digne de vous estre mandée, &amp; elle vous fera concevoir une idée de cet Illustre Abbé, qui vous le fera distinguer des autres quand vous en entendrez parler : Et comme mon dessein est, en vous mandant des nouvelles, de vous faire connoistre le merite des plus considérables Personnes de France, je ne laisseray échapper aucune occasion de vous en parler ; &amp; si les nouvelles que je vous manderay quelque fois, n’ont rien d’assez particulier pour vous apprendre quelque chose, les Eloges que je feray de ceux dont je vous entretiendray, serviront du moins à vous les faire connoistre. Ainsi les nouvelles les moins curieuses vous apprendrons ce qu’il est bon de sçavoir, lors que l’on est autant du Monde que vous, &amp; que l’on y fait une aussi belle figure.</p>
+      </div>
+      <div type="titre1">
+        <head>[Histoire des Bas de Soye verds.]</head>
+        <bibl>[1672-1-40] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 44-60.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine.]</head>
+        <bibl>[1672-1-65] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 65-71.</bibl>
+        <p>On representa ces jours passez sur le Theatre de l’Hostel de Bourgogne une Tragédie intitulée <hi rend="i">Bazajet</hi>, &amp; qui passe pour un Ouvrage admirable. Je croy que vous n’en douterez pas, quand vous sçaurez que cet Ouvrage est de Monsieur de Racine, puis qu’il ne part rien que d’achevé de la plume de cet Illustre Autheur. Le sujet de sa tragédie est Turc, à ce que rapporte l’Autheur dans sa Préface. Voicy en deux mots ce que j’ay appris de cette Histoire dans les Historiens du Païs, par où vous jugerez du génie admirable du Poëte, qui sans en prendre presque rien, a sçeu faire une Tragédie si achevée.</p>
+        <p>Amurat avoit trois Freres, quand il partit pour le Siege de Babylone : Il en fit étrangler deux, dont aucun ne s’appelloit Bajazet ; et l’on sauva le troisiéme de sa fureur, parce qu’il n’avoit point d’Enfans pour succeder à l’Empire. Ce Grand Seigneur mena dans son voyage sa Sultane favorite. Le Grand Visir que se nommoit Mahemet Pacha, y estoit aussi, comme nous voyons dans une Relation faite par un Turc de Serrail, &amp; traduite en François par Monsieur du Loir, qui estoit alors à Constantinople, &amp; ce fut ce Grand Visir qui commença l’attaque de cette fameuse Ville vers le Levant, avec le Gouverneur de la Gréce Aly Pacha, Fils d’Arlan, &amp; l’Aga des Janissaires avec son Regiment. A son retour il entra triomphant à Constantinople, comme avoit fait peu de jours auparavant le Grand Seigneur son Maistre. Cependant l’Autheur de Bajazet le fait demeurer ingénieusement dans Constantinople sous le nom d’Acomat, pour favoriser les desseins de Roxane qui se trouve dans le Serrail de Bisance, quoy qu’elle fut dans le Camp de sa Hautesse ; &amp; tout cela pour élever à l’Empire Bajazet, dont le nom est tres-bien inventé. Le troisiéme Frere du Sultan Amurat qui restoit, &amp; qui luy échapa, par les soins de leur commune Mere, se nommoit Ibrahim, dont ce cruel Empereur eut la barbarie de se vouloir défaire, dans l’extrêmité de la maladie qui le fit mourir, à dessein (dit-on) de faire son Sucesseur le jeune Mustapha Capoudan Pacha, son Favory, à qui il avoit donné en mariage une Fille unique qu’il avoit eüe de la Sultane qu’il aimoit le plus. Je ne puis estre pour ceux qui disent que cette Piece n’a rien d’assez Turc ; il y a des Turcs qui sont galans, &amp; puis elle plaist ; il n’importe comment ; &amp; il ne couste pas plus quand on a à feindre, d’inventer des caracteres d’honestes Gens &amp; de Femmes tendres &amp; galantes, que ceux de barbares qui ne conviennent pas au goust des Dames de ce Siecle, à qui sur toutes choses il est important de plaire.</p>
+      </div>
+      <div type="titre1">
+        <head>[Avantures arrivées à Constantinople à un François, par laquelle on peut juger de la galanterie des Turcs.]</head>
+        <bibl>[1672-1-71] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 71-89.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Suite du discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine.] *</head>
+        <bibl>[1672-1-89] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 89-90.</bibl>
+        <p>Mais retournons à l’Autheur de Bajazet, dont l’ouvrage m’a donné lieu de vous raconter cette aventure. Je n’ay rien à vous dire de son mérite ; il est si grand qu’on ne peut trouver de place sur le Parnasse aujourd’huy digne de luy estre offerte ; &amp; ses Amis le placent entre Sophocle &amp; Euripide, aux Pieces duquel il semble que Diogene Laërce veüille nous faire entendre que Socrate avoit la meilleure part des plus beaux endroits. Les Rivaux de cet Euripide ou Socrate François, voudroient bien je croy le voir déjà où sont ces grands personnages Grecs, quand bien mesme sa memoire devroit estre aussi glorieuse que celle qu’ils ont meritée.</p>
+        <p rend="right i">A Paris, ce 9. Janvier.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire de celle qui aima mieux se brûler avec son Mary, que de le voir infidèle.]</head>
+        <bibl>[1672-1-91] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 91-109.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur le Mariage de Bachus, Comedie héroïque.]</head>
+        <bibl>[1672-1-109] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 109-111.</bibl>
+        <p>On ne parle icy que de divertissemens, &amp; jamais les Balets &amp; la Musique ne furent si à la mode. Les Comédiens du Marais ont représenté depuis peu une Piece qui en est toute remplie ; elle est initulée <hi rend="i">le Mariage de Bachus et d’Ariane</hi> ; les Chansons en ont paru fort agreables, &amp; les Airs en sont faits par ce fameux Monsieur de Moliere, dont le mérite est si connu, &amp; qui a travaillé tant d’années aux Airs des Balets du Roy : Elle est de l’Autheur <hi rend="i">des Amours du Soleil</hi>, qui firent tant de bruit l’année dernière, &amp; qui cet Hyver ont encor occupé le Theatre pendant deux mois. Je ne vous diray rien à l’avantage de ses Pieces, il est trop de mes Amis, &amp; les loüanges que je luy donnerois seroient peut-estre suspectes.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire de la Famille visionnaire.]</head>
+        <bibl>[1672-1-114] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 114-128.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Retour de Suede de Monsieur le Duc de Pompone.]</head>
+        <bibl>[1671-1-129] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 129-130.</bibl>
+        <p>Monsieur de Pomponne est depuis peu de retour de Suede, &amp; il a déjà presté Serment pour la Charge de Secretaire d’Estat. Son merite est connu de tout le Monde puis que ce n’est que par là qu’il est parvenu à cette Dignité. Il n’y a personne icy qui ne soit persuadé qu’il remplira dignement le choix du plus sage et du plus grand Roy du Monde, &amp; l’on attend de grandes choses de luy. Il écrit avec une politesse &amp; une justesse qu’on ne voit point dans des Lettres les plus travaillées de nos Académiciens.</p>
+        <p rend="right i">A Paris, le 23. Janvier.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire de la Fille Soldat.]</head>
+        <bibl>[1672-1-131] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 131-147.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Eloge de Monsieur le Duc de Coaslin.]</head>
+        <bibl>[1672-1-147] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 147-149.</bibl>
+        <p>Monsieur le Chancelier se sentant pressé de son mal, a ordonné à ses Enfans de remttre les Sceaux entre les mains da sa Majesté, craignant que sa maladie ne l’empeschât de la servir avec la mesme application qu’il a fait pendant trente-neuf années qu’il a esté dans cette importante Charge. M<hi rend="sup">r</hi> le Duc de Coaslin porta la parole, &amp; le fit d’une maniere qui satisfit beaucoup sa Majesté. Je ne sçay, Madame, si vous sçavez tout le merite de ce Duc ; sa valeur est connüe, &amp; il passe pour un des meilleurs Hommes du Monde, &amp; pour le plus officieux Amy, le plus empressé, &amp; qui a le plus de joye à faire plaisir. Quant à son esprit, la place qu’il a dans l’Académie fait voir qu’il en a beaucoup.</p>
+        <p rend="right i">De Paris, le 30. Janvier.</p>
+      </div>
+      <div type="titre1">
+        <head>[Mort de Monsieur le Chancelier, &amp; son Eloge.]</head>
+        <bibl>[1672-1-150] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 150-153.</bibl>
+        <p>JE ne sçay, Madame, si cette Lettre aura le bonheur de vous plaire : J’en dois douter avec raison, puis que vous n’y trouverez point d’Histoire nouvelle comme dans les précedentes ; mais la douleur que me cause la mort de Monsieur le Chancelier ne laisse pas à mon esprit la liberté de vous raconter des Avantures. Ce grand Chancelier n’est plus, &amp; la Mort ne l’a respecté si longtemps, que pour ne rendre sa perte plus sensible à toute la France. C’estoit un homme d’un éminent sçavoir, d’une éloquence admirable, &amp; d’une prudence souvent éprouvée dans le Conseil des deux plus grands Roys du Monde. Il estoit le Bien-faiteur des Gens de Lettres, le Protecteur de Sçavans, &amp; pour comble de gloire, le plus ferme soûtien qu’ait eu l’Eglise depuis plusieurs Siecles. Je ne le dis que sur la foy de quantité de Prélats qui publient cette verité. Jamais Homme n’en entendit mieux la Justice, les Ordonnances, &amp; les Loix du Royaume, &amp; ne fit plus de cas des habiles Gens de toutes les Professions. Il cherchoit avec beaucoup de soin à s’instruire des choses que regardoient ou son employ, ou les conseils qu’il devoit donner dans les affaires de l’Estat, avoüant mesme souvent la recherche qu’il avoit faite des Personnes qui pouvoient luy donner quelques lumieres, quoy qu’il en eut beaucoup plus que tous ceux qu’il consultoit.</p>
+      </div>
+      <div type="titre1">
+        <head>[Eloges des Six Conseillers d’Etat ordinaires, &amp; de six Maistres des Requestes que le Roy a choisis pour assister au Sceau.]</head>
+        <bibl>[1672-1-162] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 162.</bibl>
+        <p>[…] Monsieur Boucherat est fort connu par les grandes charges qu’il a possedées, &amp; tant de grandes Commissions où il a reüssy au gré de sa Majesté, &amp; particulierement en Bretagne, où il a souvent esté Commissaire du Roy aux Estats. C’est un homme d’une grande littérature.</p>
+      </div>
+      <div type="titre1">
+        <head>[Eloges des Six Conseillers d’Etat ordinaires, &amp; de six Maistres des Requestes que le Roy a choisis pour assister au Sceau.]</head>
+        <bibl>[1672-1-165] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 165-166.</bibl>
+        <p>Monsieur Pellisson n’est inconnu de personne : Son esprit &amp; sa probité sont incontestables ; &amp; quand on auroit pas de tous costez mille marques, les graces qu’il reçoit continuellement du Roy doivent en donner témoignage.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire du Mary qui se croit Cocu par luy-mesme.]</head>
+        <bibl>[1672-1-169] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 169-176.</bibl>
+        <p>JE ne sçais, Madame, si vous n’avez point encore oüy parler d’une Avanture arrivée depuis quelque temps en cette Ville, &amp; qui a fait assez de bruit ce Carnaval dans tous les Bals de Paris.</p>
+        <p>Un jeune Marié s’estant trouvé une apresdînée avec plusieurs de ses Amis, leur dit que le soir mesme il y auroit assemblée chez luy, &amp; que l’on donnoit Bal à une Sœur de sa Femme qui demeuroit avec elle. Un des plus enjoüez de la Compagnie leur persuada qu’ils devoient tous y aller déguisez, &amp; dit à ce nouveau Marié qu’il auroit beaucoup plus de plaisir, s’il venoit avec eux sans se faire connoistre. Il y consentit, &amp; ils envoyerent sur l’heure chercher des Habits pour se travestir. L’Heure du Bal estant venuë, ils s’y rendirent, &amp; leur bonne mine y fit beaucoup conquestes. Le jeune Espoux en fit une dont la fin ne luy plût pas, &amp; sa Femme devint amoureuse de luy sans le reconnoistre. Elle ne fut pas longtemps sans luy en donner des marques : elle luy serra plusieurs fois la main ; &amp; il répondit à sa tendresse, en pressant aussi la sienne le plus amoureusement qu’il luy fut possible, car l’avanture le refroidissoit, loin de l’échauffer, &amp; jamais Homme ne fut si fâché d’estre pris pour un autre. Il voulut voir jusques où il pouvoit pousser ses affaires : mais il trouva les choses si bien disposées, qu’il n’eut pas de peine à devenir heureux ; je dis heureux en sa qualité de Galant, car il ne l’estoit pas comme Mary. Sa Femme qui avoit sans doute oüy dire qu’il ne faut jamais laisser perdre une occasion favorable, &amp; qu’on ne retrouve pas toûjours celles qu’on laisse échapper, crût qu’elle devoit profiter de celle que le Bal luy présentoit ; &amp; que la confusion de Gens qui estoient chez elle, luy donnant lieu de se dérober de l’assemblée sans qu’on s’en apperçût, elle devoit en sortir avec son nouvel Amant (ce qu’elle fit fort adroitement.) Elle le fit passer pour par un Escalier dérobé, &amp; le mena dans une Chambre où ils ne pouvoient estre surpris. Je ne vous diray point tout ce qui se passa, mais la Dame en fut assez contente : Elle eust pourtant du chagrin de ce qu’il ne vouloit point parler, &amp; de ce que de peur d’estre connu, il avoit éteint la lumiere avant que de se démasquer. Elle luy en demanda plusieurs fois les raisons : Il ne luy répondit point d’abord ; mais dés qu’il crût avoir assez dequoy la convaincre, il prit la parole pour luy reprocher son infidelité : Elle luy répondit avec une hardiesse d’autant plus grande, qu’il n’y avoit point de lumiere qui pût faire remarquer le changement de son visage ; &amp; comme elle eust le temps de se remettre de sa surprise, elle luy dit qu’elle l’avoit toûjours connu, &amp; qu’elle avoit voulu luy faire cette piece pour l’embarrasser. Il ne se paya pas de ces raisons, il voulut passer pour ce que tant de Gens appréhendent d’estre, &amp; quoy qu’il ne le fut que par luy-mesme, il crût qu’il l’estoit de bon jeu, &amp; qu’on ne pouvoit l’estre mieux. Il n’a pas voulu voir sa Femme depuis ce temps, &amp; se veut faire séparer d’avec elle. Je vous laisse à juger s’il a raison, &amp; je passe à d’autres nouvelles.</p>
+      </div>
+      <div type="titre1">
+        <head>[Le retour d’Italie de Messieurs de Vendosme.]</head>
+        <bibl>[1672-1-177] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 177-178.</bibl>
+        <p>Messieurs de Vendosme sont depuis peu de retour d’Italie, où ils se sont faits admirer dans tous les Lieux où ils ont passé. La vivacité de leur esprit est une chose incroyable ; &amp; ils font des Vers avec tant de justesse, qu’ils donneroient de la jalousie aux plus grands Autheurs, s’ils estoient d’une qualité à en faire souvent. Monsieur le Cardinal Patron fit avancer pour eux la representation d’un <hi rend="i">Opera</hi>, afin de leur en donner le divertissement. Jugez par là, Madame, combien les <hi rend="i">Opera</hi> sont considérables, puis que de tels Gens s’en meslent, &amp; les honorent de leur présence.</p>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur l’<hi rend="i">Ariane</hi>, Tragédie de Monsieur de Corneille le jeune.]</head>
+        <bibl>[1672-1-187] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 187-188.</bibl>
+        <p>Enfin l’<hi rend="i">Ariane</hi> de Monsieur de Corneille le jeune, qu’on attendoit depuis si longtemps, parut Vendredy dernier. On ne peut rien voir de plus touchant, &amp; cette Princesse s’exprime avec des sentiments si tendres &amp; si nouveaux, que personne ne croit qu’on puisse mieux réussir en ce genre d’écrire ; &amp; pour tout dire enfin, les charmes de <hi rend="i">Bajazet</hi> n’ont pas empesché leurs Admirateurs d’en trouver dans cette Piece, &amp; d’y retourner plus d’une fois.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Histoire du Cabinet des Miroirs.]</head>
+        <bibl>[1672-1-189] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 189-207.</bibl>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur une Comédie de Monsieur de Molière, intitulée les <hi rend="i">Femmes Sçavantes</hi>.]</head>
+        <bibl>[1672-1-207] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 207-215.</bibl>
+        <p>Jamais dans une seule année l’on ne vit tant de belles Pieces de Theatre &amp; le fameux Molière ne nous a point trompez dans l’espérance qu’il nous avoit donnée il y a tantost quatre ans, de faire representer au Palais Royal une Piece Comique de sa façon qui fut tout-à fait achevée : On y est bien diverty tantost par ces Prétieuses, ou Femmes Sçavantes, tantost par les agréables railleries d’une certaine Henriette, &amp; puis par les ridicules imaginations d’une Visionnaire qui se veut persuader que tout le monde est amoureux d’elle. Je ne parle point du caractere d’un Pere, qui veut faire croire qu’il est le Maistre dans sa Maison, qui se fait fort de tout quand il est seul, &amp; qui cede tout dés que sa femme paroist. Je ne dis rien aussi du personnage de Trissotin qui tout rempli de son sçavoir, &amp; tout glorifié de la gloire qu’il croit avoir meritée, paroist si plein de constance de luy-mesme, qu’il voit tout le Genre humain fort au dessous de luy. Le ridicule entêtement qu’une Mere que la lecture a gâtée fait voir pour ce Monsieur Trissotin, n’est pas moins plaisant ; &amp; cet entêtement aussi fort que celuy du Pere dans Tartuffe, dureroit toûjours, si par un artifice ingénieux de la fausse nouvelle d’un Procés perdu, &amp; d’une banqueroute (qui n’est pas d’une moins belle invention que l’Exempt dans l’Imposteur) , un Frere qui quoy que bien jeune, paroist l’Homme du monde du meilleur sens, ne le venoit faire cesser, en faisant le dénoüement de la Piece. Il y a au troisième Acte une querelle entre Monsieur Trissotin, &amp; un autre Sçavant, qui divertit beaucoup ; &amp; il y a au dernier, un retour d’une certaine Martine Servante de Cuisine, qui avoit esté chassée au premier, qui fait extrémement rire l’assemblée par un nombre infiny de jolies choses qu’elle dit en son patois, pour prouver que les Hommes doivent avoir la préseance sur les Femmes. Voilà confusément ce qu’il y a de plus considerable dans cette Comedie qui attire tout Paris. Il y a partout mil traits plein d’esprit, beaucoup de manieres de parler nouvelles &amp; hardies, dont l’invention ne peut estre assez loüée, &amp; qui ne peuvent estre imitées. Bien des Gens font des applications de cette Comédie ; &amp; une querelle de l’Autheur il y a environ huit ans avec un Homme de Lettres, qu’on prétend estre représenté par Monsieur Trissotin, a donné lieu à ce qui s’en est publié ; mais Monsieur de Moliere s’est suffisamment justifié de cela par une Harangue qu’il fit au Public deux jours avant la premiere representation de sa Piece : Et puis ce pretendu Original de cette agreable Comédie, ne doit pas s’en mettre en peine s’il est aussi sage &amp; aussi habile Homme que l’on dit, &amp; cela ne servira qu’à faire éclater davantage son mérite, en faisant naître l’envie de le connoistre, de lire ses Ecrits, &amp; d’aller à ses Sermons. Aristophane ne détruisit point la réputation de Socrate, en le joüant dans une de ses Farces, &amp; ce grand Philosophe n’en fut pas moins estimé dans toute la Gréce : mais pour bien juger du mérite de la Comédie dont je viens de parler, je conseillerois à tout le monde de la voir, &amp; de s’y divertir sans examiner autre chose, &amp; sans s’arrester à la critique de la plûpart des Gens, qui croyent qu’il est d’un bel Esprit de trouver à redire.</p>
+        <p rend="right i">A Paris, le 12. Mars.</p>
+      </div>
+      <div type="titre1">
+        <head>[Le Sujet du Voyage de l’Academie Françoise à Versailles […] .]</head>
+        <bibl>[1672-1-218] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 216-218.</bibl>
+        <p>Monsieur l’Archevesque de Paris, Directeur de l’Académie Françoise, la mena ces jours passez à Versailles, pour remercier le Roy de l’honneur qu’il a fait à cette Illustre &amp; Spirituelle Compagnie d’en vouloir prendre la place de Protecteur qu’avoit feu Monsieur le Chancelier. Il fit un compliment au Roy à sa maniere ordinaire, c’est à dire plein d’esprit &amp; d’éloquence. Vous sçavez bien qu’avec les charmes de sa Personne qui plaist aussitost qu’on le voit, il a une merveilleuse facilité de bien parler, &amp; que jamais Personne ne s’exprima si justement, ny avec tant de delicatesse. Il a de plus tout le savoir des Docteurs les plus conformez, &amp; chacun sçait qu’il l’a fait paroistre en mille sorte d’occasions ; mais je n’ay pas entrepris son Panegyrique, je le laisse à ceux qui écriront l’Histoire.</p>
+      </div>
+      <div type="titre1">
+        <head>[Régal de Monsieur le Marquis d’Angeau à Messieurs de l’Académie Françoise.]</head>
+        <bibl>[1672-1-218] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 218-225.</bibl>
+        <p>Monsieur d’Angeau Gouverneur d’Anjou, &amp; autrefois Mestre de Camp du Regiment du Roy, &amp; destiné à l’Ambassade du Suede, qui est aussi de l’Académie, traita magnifiquement ce Prelat avec tous les Académiciens ses Confrères. Monsieur Cotin n’estoit point de ce nombre, de peur (dit-on) qu’on ne crût qu’il s’estoit servy de cette occasion pour se plaindre au Roy de la Comédie qu’on prétend que Monsieur de Moliere ait faite contre luy : mais on ne peut croire qu’un Homme qui est souvent parmy les premieres Personnes de la Cour, &amp; que Mademoiselle honore du nom de son Amy, puisse estre crû l’objet d’une si sanglante Satyre. Le portrait en effet qu’on luy attribuë, ne convient point à un Homme qui a fait des Ouvrages qui ont eu une approbation aussi generale que ses Paraphrases sur le Cantique des Cantiques. Je ne parle point de ses Œuvres Galantes, dont il y a plusieurs éditions ; ce sont des jeux où il s’amusoit avant qu’il fit la Profession qu’il a embrassée avec autant d’austerité qu’on sçait qu’il a fait maintenant.</p>
+        <p>On vit dans cette Assemblée Monsieur Quinault, si connu par ses Vers tendres ; Monsieur Desmarests, si recommandable par tant de beaux Ouvrages, qu’ils font en mesme temps voir la grandeur de son esprit, &amp; la profondeur de sa science. Le fameux Monsieur de Corneille l’aisne prestoit aussi. Je ne puis rien dire de celuy-là qui ne soit au dessous de luy ; c’est le seul de qui on peut louer les Ouvrages sans les avoir veûs, &amp; de qui malgré le grand âge on doit toûjours attendre des Pieces achevées comme on trouvera sans doute sa dernière Tragédie qui paroistra l’hyver prochain sous le nom de <hi rend="i">Pulcherie</hi>, &amp; qui ne peut manquer de plaire à tous ceux qui ont le cœur &amp; l’esprit bien fait comme elle a déjà plû à ceux qui ont eu le bonheur de luy entendre lire. On vit dans cette celebre Compagnie les deux Abbez Tallemant ; l’un premier Aumosnier de Madame, dont le mérite est hors de doute ; &amp; qui a fait avec tant de succez &amp; d’utilité pour le Public, une si belle Version des Vies des Hommes Illustres de Plutarque. L’autre a donné en mille occasions des marques de son esprit : Il s’est fait admirer par mille choses spirituelles &amp; agreables qu’il a composées, &amp; par ses Sermons ; où l’on a connu &amp; son éloquence &amp; son sçavoir. J’oubliois de Monsieur l’Abbé Testu dont les Sermons ont autrefois charmé toute la Cour, &amp; dont les Vers tendres &amp; devots luy donnent encor la preference sur la plûpart de ceux qui s’en meslent, &amp; de qui nous pourrions attendre un grand nombre d’Ouvrages merveilleux, sans une cruelle maladie de vapeurs qui ne luy permet pas de rien faire. Je ne dois pas oublier Monsieur le Duc de Saint Aignan dont les illustres Galanteries, les Vers enjoüez &amp; galants, &amp; les hauts faits d’armes ne sont inconnus à personne, qui charme tout ceux qui le connoissent par une civilité obligeante, &amp; par les bons offices qu’il rend à tout le monde dans toutes les occasions qu’il en a. Il y en avoit encor plusieurs autres dont le mérite &amp; le sçavoir sont tres-considerables, &amp; dont je n’ai pas retenu les noms.</p>
+        <p rend="right i">A Paris, le 19. Mars.</p>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur les Eaux de Versailles, sur les Jardins, &amp; sur les nouveaux Ouvrages qu’on y a mis ; avec les noms des Sculpteurs.]</head>
+        <bibl>[1672-1-247] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 247-253.</bibl>
+        <p>JE n’ay rien de nouveau, Madame, à vous mander cette Semaine, que le Voyage du Roy à Versailles. Je sçais que vous l’avez vû, &amp; que vous avez lû la belle Description que Mademoiselle de Scudery en a faite : mais le Versailles que vous avez vû &amp; celuy dont elle a parlé, sont bien différents de celuy d’aujourd’hui ; &amp; le Roy n’est jamais un mois sans y aller, qu’il n’y en trouve un nouveau lors qu’il y retourne, tant il paroist changé, à cause des beautez qu’on y adjoûte sans cesse. On a depuis peu embelly la Grotte de plusieurs Figures incomparables ; on y a mis un grand Soleil environné de plusieurs Nymphes qui le couronnent &amp; luy lavent les pieds &amp; les mains. Ce merveilleux Ouvrage, &amp; le plus grand qui ait encore esté fait, est de Messieurs Girardon &amp; Renaudin. Dans deux niches qui sont aux costez, on y a mis quatre Chevaux du Soleil, qui semblent jetter du feu, &amp; vouloir prendre carrière, sans pouvoir estre arrestez par les puissans Tritons qui les tiennent. Monsieur Guerin a fait la moitié de cet Ouvrage, &amp; Messieurs Gaspard &amp; Baltazard ont fait le reste. On a encor placé dans cette Grotte plusieurs autres belles Figures de Monsieur Batiste Sculpteur tres fameux ; ce qui fait voir que la France peut fournir pour ces sortes d’Ouvrages d’aussi grands Hommes que l’Italie. Je n’aurois jamais fait, si je voulois vous parler des merveilles que les eaux produisent dans ce Lieu délicieux. Le Sieur Denys les y fait venir par des Pompes &amp; des Acqueducs admirables ; &amp; Monsieur de Francine leur fait faire des choses qui surpassent l’imagination ; témoin le Marais, l’Arbre, &amp; le Mont d’eau, sans oublier le Theatre, où les changements de décorations d’eau y sont aussi fréquens que ceux des Pieces de Machines, qui en sont les plus remplies : Mais comment l’eau manqueroit-elle pour toutes ces choses, puis que par les soins qu’ont pris ceux qui les font venir dans ces lieux, on y voit des Parterres entiers tres-beaux &amp; tres-fleuris, sous lesquels il y a des réservoirs d’eau ? Les miracles que fait Monsieur Nautre dans ces superbes Jardins, ne sont pas moins considérables. Le grand nombre d’Orangers plantez en terre, en fait foy, aussi-bien que les grands Arbres qui ont esté transplantez pour élargir la grande Allée ; ce qui ne s’est encor jamais vû. J’aurois encor mille choses à vous dire touchant ce Chasteau, qui surpasse le Palais d’Armide. Je devrois vous parler des Bâtiments, &amp; de ceux qui en prenent la conduite ; mais le detail en seroit trop long, &amp; je dois le remettre à une autre fois, ou plutost attendre qu’ils soient achevez.</p>
+        <p rend="right i">A Paris, le 2. Avril.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’institution de l’Académie des belles Lettres, avec les noms de Messieurs les Académiciens.]</head>
+        <bibl>[1672-1-260] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 260-267.</bibl>
+        <p>PUIS que vous souhaitez, Madame, qu’apres vous avoir entretenu de l’Académie Françoise, je vous dise quelque chose de celle de l’Abbé d’Aubignac, dont vous avez (dites-vous) oüy parler confusément ; je vous diray qu’elle s’appelloit l’Académie des belles Lettres, &amp; que son institution estoit pour examiner les Ouvrages d’Eloquence et de Poësie. On y faisoit le premier jour de chaque Mois un Discours sur la diversité des Conditions, où l’Eloquence se trouvoit necessaire. Le premier Discours échût à Monsieur Blondeau Advocat en Parlement : Il le fit sur l’éloquence du Barreau, &amp; s’en acquita tres-bien, dans la grande Salle de l’Hostel Matignon, devant une Assemblée composée de plusieurs Personnes de qualité de l’un &amp; de l’autre Sexe. Monsieur le Marquis de Vilaines se fit admirer un mois apres luy sur l’éloquence Militaire. L’impression qu’on a faite de ce Discours est une marque de bonté, c’est pourquoy je n’en parleray point, &amp; je passeray au troisieme ; qui échût à Monsieur l’Abbé de Saint-Germain. Les deux autres ayant fait des Discours qui regardoient leur Profession, cet illustre Abbé en voulut faire sur l’éloquence de la Chaire : Il eut un succés tres-avantageux, &amp; qui satisfit merveilleusement toute la belle Assemblée qui l’entendit. Monsieur Perachon se fit admirer un mois apres ; &amp; les autres Académiciens donnerent de mois en mois des marques de leur esprit et de leur érudition. À la fin de ces Discours, on lisoit des Ouvrages de Poësie composez par quelques-uns de Messieurs de l’Académie. Voicy le nom de ceux qui la composoient.</p>
+        <p>Monsieur l’Abbé d’Aubignac, Directeur.</p>
+        <p>Monsieur de Vaumorieres, Sous-Directeur.</p>
+        <p>Monsieur de Gueret, Secretaire de l’Académie.</p>
+        <p>Feu Monsieur le marquis du Châtelet.</p>
+        <p>Monsieur le Marquis de Vilaines.</p>
+        <p>Monsieur le Marquis d’Arbaux. </p>
+        <p>Monsieur Petit, Directeur apres Mr l’Abbé d’Aubignac.</p>
+        <p>Monsieur Perachon, Advocat au Parlement.</p>
+        <p>Monsieur l’Abbé de Vilars.</p>
+        <p>Monsieur l’Abbé de Villeserain, à present Evesque de Senés, Directeur apres Monsieur Petit.</p>
+        <p>Feu Monsieur l’Abbé Ganaret.</p>
+        <p>Monsieur de Launay.</p>
+        <p>Monsieur Caré, Advocat en Parlement.</p>
+        <p>Monsieur Richelet.</p>
+        <p>Monsieur du Perier.</p>
+        <p>Feu Monsieur Baurin, Advocat au Conseil.</p>
+        <p>Monsieur Barallis Medecin.</p>
+        <p>Monsieur l’Abbé de Saint Germain.</p>
+        <p>Cette Illustre Académie a esté rompuë depuis que Monsieur de Villeserain a esté nommé à l’Evesché de Senés. On avoit eu dessein quelque temps auparavant d’y faire entrer des Femmes, &amp; l’on proposoit Madame de Villedieu, dont les Ouvrages font tous les jours tant de bruit. On comptoit aussi la Marquise de Guibermeny, Fille de Monsieur le Marquis de Vilaines : Elle a l’esprit penétrant &amp; délicat, &amp; on ne peut assez la loüer. On n’oublioit pas Madame la Marquise Des-houlières : Vous en avez oüy parler, Madame, car son mérite la fait connoistre partout ; elle écrit tres-polîment en Prose &amp; en Vers, &amp; c’est enfin un Esprit du premier ordre.</p>
+      </div>
+      <div type="titre1">
+        <head>Lettre de Gas, Epagneul de Madame Des-houlieres.</head>
+        <bibl>[1672-1-267] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 267-271.</bibl>
+        <p>Il court des Pieces galantes de son Chien, qu’on appelle <hi rend="i">Gas</hi> : Il s’est fait depuis un peu Poëte excellent, &amp; ses Ouvrages méritent bien d’estre imprimez. Cette Dame en a fait le Cerbere du Parnasse, pour en défendre l’entrée aux mauvais Poëtes. Voicy de ses Vers, &amp; vous pourez par là juger de son esprit.</p>
+        <quote>
+          <l>Lettre de Gas,</l>
+          <l>Epagneul de Madame</l>
+          <l>Des-houlieres.</l>
+          <l>A Monsieur le Comte de L. T.</l>
+          <l>POur vous marquer mon courroux,</l>
+          <l>J’ay mis la plume à la patte ;</l>
+          <l>Il est temps que contre vous</l>
+          <l>Toute ma colere éclate.</l>
+          <l>Vous m’avez rendu jaloux ;</l>
+          <l>Entre nous autres Toutous,</l>
+          <l>Nous sommes là-dessus d’humeur fort délicate :</l>
+          <l>Pour se bien mettre avec nous,</l>
+          <l>En vain le Blondin nous flatte,</l>
+          <l>Nous n’en sommes pas plus doux,</l>
+          <l>Nous mordons jusqu’à l’Espoux.</l>
+          <l>Malgré ce naturel incommode &amp; farouche,</l>
+          <l>Je vous écoutois sans dépit</l>
+          <l>Loüer de ma Maistresse &amp; les yeux, &amp; la bouche ;</l>
+          <l>Ne croyant ces douceurs qu’un simple jeu d’esprit,</l>
+          <l>Sans m’opposer à rien, je dormois sur son Lit.</l>
+          <l>Si ce souvenir vous touche,</l>
+          <l>Ne songez plus à m’oster</l>
+          <l>La place que je possede :</l>
+          <l>Coyez-vous la mériter ?</l>
+          <l>Croyez-vous que je la cede ?</l>
+          <l>Sept fois l’aimable Printemps</l>
+          <l>A fait reverdir les Champs,</l>
+          <l>Sept fois la triste froidure</l>
+          <l>En a chassé la verdure,</l>
+          <l>Depuis le bienheureux jour</l>
+          <l>Que je suis le chien d’Amarille.</l>
+          <l>À ses pieds j’ay veû la Ville</l>
+          <l>Vainement brûler d’amour ;</l>
+          <l>Seul j’ay sçeu par mon adresse</l>
+          <l>Dans son insensible cœur</l>
+          <l>Faire naistre la tendresse.</l>
+          <l>Ne troublez plus mon bonheur :</l>
+          <l>Quand pour vanger son honneur,</l>
+          <l>Le petit Dieu suborneur</l>
+          <l>Qu’en tous lieux elle surmonte,</l>
+          <l>Décideroit à ma honte</l>
+          <l>Sur les droits que je prétens,</l>
+          <l>Sçachez, notre illustre Comte,</l>
+          <l>Que j’ay de fort bonne dents.</l>
+          <l>GAS.</l>
+        </quote>
+        <p>Je crois, Madame, que vous n’avez guère veû de Vers plus naturels, ny de Chiens plus habiles. J’en sçay bien la raison ; c’est que tous les Epagneuls n’ont pas de Maistresses si spirituelles.</p>
+      </div>
+      <div type="titre1">
+        <head>[La Mort de Monsieur de Morangis.]</head>
+        <bibl>[1672-1-271] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 271-272.</bibl>
+        <p>Monsieur de Maurangis Directeur de Finances, mourut la Semaine passée : C’estoit un Homme d’esprit et de bien ; &amp; la Gazette en dit tant, que je ne pourois rien dire qui en apporchast.</p>
+      </div>
+      <div type="titre1">
+        <head>[L’Entrée &amp; l’Audience de Monsieur le Comte de Molina Ambassadeur Extraordinaire d’Espagne. Remarques curieuses sur ce sujet.]</head>
+        <bibl>[1672-1-273] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 273-274.</bibl>
+        <p>Monsieur le Comte de Molina Ambassadeur Extraordinaire d’Espagne, a fait son Entrée accompagné de Monsieur le Mareschal de Grancé ; &amp; il fut conduit à l’Audiance du Roy par M le Comte d’Armagnac. Vous devez remarquer une chose à laquelle ceux qui lisent depuis vingt ans les Gazettes, n’ont peut-estre jamais pris garde ; c’est que les Ambassadeurs des Testes couronnées, &amp; ceux qu’on traitte de mesme, sont toujours conduits à l’Audiance par un Prince ; &amp; que le jour de leur Entrée publique, ne les conduit jamais au Louvre.</p>
+        <p rend="right i">A Paris, le 16. Avril.</p>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur le Journal des Sçavans.]</head>
+        <bibl>[1672-1-287] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 287.</bibl>
+        <p>On continuë depuis le mois de Janvier à donner au Public <hi rend="i">le Journal des Sçavans</hi>, que vous avez lû autrefois avec plaisir. C’est un Ouvrage tres-beau &amp; tres-utile ; l’Autheur en est fort estimé, &amp; il a l’honneur d’estre considéré d’un grand Ministre.</p>
+        <p rend="right i">A Paris, le 23. Avril.</p>
+      </div>
+      <div type="titre1">
+        <head>[Discours sur les Livres nouveaux de Galanterie.]</head>
+        <bibl>[1672-1-306] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 306-310.</bibl>
+        <p>JE vous envoye, Madame, une partie des Livres nouveaux qui se vendent depuis peu chez M<hi rend="sup">r</hi> Barbin. Le Beralde, d’un Autheur inconnu, vous paroistra bien escrit. Les Exilez de Mme de Villedieu, vous divertiront beaucoup ; les incidens en sont agréables &amp; délicatement touchez ; &amp; cette spirituelle Personne, dont jusques icy tous les Ecrits ont reüssy, mérite beaucoup de loüanges. Je vous envoie aussi le second Tome des Ouvrages de Monsieur le Païs : Le premier a eu autrefois un tres-grand succès ; vous jugerez de celuy-ci. Je vous feray part dans huit jours d’un Livre nouveau de Monsieur Ménage ; ce sont les Observations sur la Langue Françoise. Quoy qu’on ne doive pas toûjours estimer un Ouvrage par son succés, on peut néant-moins juger du mérite de celuy-ci par le plus grand bruit qu’il fait, puis que c’est avec justice qu’il plaist ; &amp; dans quelque temps, au lieu de dire <hi rend="i">parler Vaugelas</hi>, pour loüer ceux qui parleront bien, on ne dise <hi rend="i">parler Ménage</hi>. Ce grand homme (on peut le nommer ainsi puis qu’il a beaucoup d’érudition) expose d’abord toutes les différentes façons de parler, qui signifient, ou que l’on veut qui signifient une méme chose. Il cite tous ceux qui s’en sont servis ; &amp; apres avoir fait voir leur veritable étimologie, il décide presque toûjours en faveur de l’Usage, qu’il dit estre le souverain Maistre du Langage. C’est aussi à quoy l’on se doit le plus attacher ; &amp; quand on pécheroit contre les regles, on ne pouroit mal parler. Cette décision d’un si fameux Autheur sera d’une grande utilité, &amp; fera qu’à l’avenir tout le monde s’entendra, &amp; parlera d’une mesme maniere ; au lieu qu’on auroit toûjours veû le contraire, tant que les Sçavans auroient parlé selon l’usage, &amp; les autres à leur fantaisie, c’est à dire tantost d’une maniere, tantost de l’autre ; ce qui avec le temps auroit apporté beaucoup d’obscurité dans la Langue. Ainsi, Madame, tous les François ont beaucoup d’obligation à Monsieur Ménage de la peine qu’il s’est bien voulu donner de leur apprendre à parler.</p>
+      </div>
+      <div type="titre1">
+        <head>[Noms de tous les Autheurs citez par Monsieur Ménage dans son Livre intitulé, <hi rend="i">Observations sur la Langue Française</hi>.]</head>
+        <bibl>[1672-1-310] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 310-313.</bibl>
+        <p>Voicy une partie des Autheurs qu’il cite. Monsieur de Vaugelas, qu’il approuve et condamne souvent ; Messieurs Balzac, Malherbe, Sarazin, Voiture, Mainard, S. Amant, Brebeuf, Ablancourt, Colletet, Gombaut, le Pere Rapin, Racan, Mairet, le Pere Chislet, Desmarests, Gomberville, l’Abbé Chastelin, l’Abbé Sassy, Mezeray, Sorel, Charpentier, Brianville, l’Evesque de Vance, Pellisson, la Mothe Le Vayer, le Pere Bouhours, Patru, Chapelain, Segrais, Marolles, Benserade, Corneille, le Pere le Moine, Dandilly, l’Autheur du Comte de Gabalis, Bary, La Fontaine, Tallemant, Messieurs du Port-Royal, &amp; Mademoiselle de Scudery. Je ne donne point de rang à tous ces beaux Esprits, l’entreprise seroit trop hardie ; Monsieur Ménage ne leur en a point donné, ne les ayant tous citez plusieurs fois que selon qu’il a eu besoin de leurs Ouvrages pour autoriser ses sentimens. Il a encore parlé d’une douzaine d’autres ; mais leur mérite estant trop vieux, je ne crois pas devoir grossir cette Lettre de leurs noms.</p>
+      </div>
+      <div type="titre1">
+        <head>[Quelques mots presentement à la mode.]</head>
+        <bibl>[1672-1-323] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 323-326.</bibl>
+        <p>Je devois dans la Lettre où je vous ai parlé des Modes, vous entretenir de certains mots, qui bien qu’ils ne soient pas nouveaux, ne laissent pas d’estre presentement fort à la mode. <hi rend="i">Par toute terre</hi> est un de ceux-là ; &amp; quand on veut dire qu’on parle fort d’une chose, qu’elle sera approuvée, qu’elle plaira, &amp;c. on dit, on parle de cela <hi rend="i">par toute terre</hi>, cela plaira <hi rend="i">par toute terre</hi>, cela sera approuvé <hi rend="i">par toute terre</hi>. Les Gens du bel air ne disent pas présentement cinquante paroles, qu’ils ne disent dix fois, aussi bien que le mot de <hi rend="i">violant</hi> qu’on applique bien plus mal à tout ce qu’on dit ; car pour dire cela est fâcheux, on dit cela est <hi rend="i">violant</hi> ; pour dire il a tort, on le dit de mesme, &amp; il semble qu’on affecte de s’en servir pour exprimer toutes les choses avec lesquelles il ne convient pas. Je croy, Madame, que vous n’avez jamais oüy parler de rien de pareil ; ceux qui jusques icy ont inventé des mots où des expressions nouvelles, ne l’ayant fait que dans la pensée qu’ils signifioient mieux ce qu’ils vouloient dire. Le verbe <hi rend="i">desoler</hi> n’est pas moins à la mode ; &amp; quand une Personne veut dire présentement qu’une autre la fatigue, elle dit qu’elle la <hi rend="i">desole</hi> : quand on veut dire qu’on est de chagrin, on dit qu’on est <hi rend="i">desolé</hi> ; &amp; l’on applique enfin ce mot à toutes les choses qu’on veut marquer qui font de la peine.</p>
+      </div>
+      <div type="titre1">
+        <head>Lettre de Gas, Epagneul de Madame Des-houlières.</head>
+        <bibl>[1672-1-327] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 327-329.</bibl>
+        <p>Je vous ay déja envoyé des Vers du plus agréable Animal du Monde ; en voicy d’autres de sa façon, qui je croy vous plairont encore davantage.</p>
+        <quote>
+          <l>Lettre de Gas,</l>
+          <l>Epagneul de Madame</l>
+          <l>Des-houlières</l>
+          <l>A courte-oreille,</l>
+          <l>Tourne-Broche de M…..</l>
+          <l>J’Apprens de tous costez que malgré le destin</l>
+          <l>Qui vous a fait naistre Matin,</l>
+          <l>Vous chassez pourtant à merveille.</l>
+          <l>Ce grand Lievre fut pris par le preux Courte-oreille</l>
+          <l>(Disoit-on l’autre jour en ouvrant un Pasté.)</l>
+          <l>Du Vin, du Vin, qu’à sa santé</l>
+          <l>Il soit vuidé mainte Bouteille.</l>
+          <l>Lors le Verre à la main, vostre los fut chanté ;</l>
+          <l>Un Blondin, deux Abbez, &amp; plus d’une Beauté,</l>
+          <l>S’en acquiterent avec zele.</l>
+          <l>Foy d’Epagneul, j’en fais un rapport tres-fidelle,</l>
+          <l>J’estois present à tout, &amp; voyois sans douleur</l>
+          <l>Toute l’estime &amp; tout l’honneur</l>
+          <l>Dont vostre Chasse estoit suivie ;</l>
+          <l>Aupres d’Amarillis, content de mon bonheur,</l>
+          <l>Rien ne pouvant me faire envie.</l>
+          <l>Je me détermineray dans cet heureux moment</l>
+          <l>A vous dire sans compliment</l>
+          <l>Que vous avez bien fait de quitter la Cuisine</l>
+          <l>Où vous estiez souvent battu.</l>
+          <l>J’estime infiniment ceux qui par leur vertu</l>
+          <l>Démentent leur basse origine ;</l>
+          <l>Jamais l’honneur d’autruy ne m’a rendu jaloux ;</l>
+          <l>Et malgré tant de différence</l>
+          <l>Que le Ciel a mis entre nous,</l>
+          <l>Je veux bien faire connaissance,</l>
+          <l>Et lier commerce avec vous.</l>
+          <l>Devenons bons amis, abandonnez la Broche,</l>
+          <l>Allez comme Epagneul, Chien courant ou Limier,</l>
+          <l>Par tout Païs prendre Gibier ;</l>
+          <l>Ne craignez là-dessus ny plainte, ny reproche,</l>
+          <l>Personne ne fait son Métier.</l>
+        </quote>
+      </div>
+      <div type="titre1">
+        <head>[Histoire de Megius &amp; de son Compagnon, ou la Pierre Philosophale.]</head>
+        <bibl>[1672-1-329] <title>Mercure galant</title>, tome 1 [janvier-avril] , 1672, p. 329-340.</bibl>
+        <p>Je ne puis me resoudre à fermer cette Lettre, sans vous faire part d’une Histoire que je viens d’apprendre.</p>
+        <p>Mégius, Homme docte &amp; connu par quantité de beaux Ouvrages, fut il y a quelque temps chez une Dame de ses Amies, accompagné de Brétius, jeune Homme d’un grand esprit, mais qui ne le fit pas d’abord paroistre, parce qu’il demeura longtemps sans rien dire. L’Académie de Mégius aimoit fort l’Astrologie, &amp; croyoit en sçavoir quelque chose : c’estoit assez pour faire tomber la conversation là-dessus. Elle y tourna bientost aussi ; on y parla de fixer le Mercure. Mégius dit que si on vouloit en envoyer querir, il le fixeroit. On en apporta aussitost, &amp; il fit ce qu’il avoit promis au grand étonnement de la Dame, &amp; d’un Astrologue de ses amis qui estoit avec elle. Ce pretendu Astrologue luy demanda comment il avoit sçeu ce qu’il venoit de faire ; s’il l’avoit appris par lecture, s’il le tenoit de quelqu’un, si quelque avanture luy avoit faire sçavoir, ou si son esprit luy avoit fait trouver un si beau secret. Ce n’est par aucunes de ces choses, luy repartit Mégius, que j’ay appris ce que vous venez de voir ; &amp; voilà, luy dit-il en se tournant vers Brétius, qui n’avoit encor parlé que par monosyllabes, celuy qui m’a appris ce que je viens de faire. La Dame, &amp; son Ami, jetterent aussitost ses yeux sur luy ; ils le regarderent depuis les pieds jusques à la teste, &amp; se blâmerent en secret de ce que son silence l’avoit fait passer dans leur esprit pour un Homme qui en avoit peu. Ils luy donnerent mille loüanges, &amp; ne parlerent de luy qu’avec admiration. Il leur fit connoistre dans le reste de la conversation, qu’il avoit beaucoup d’esprit : mais loin de satisfaire pleinement leur curiosité sur tout ce qu’ils souhaitoient d’apprendre, ils leur dirent seulement des choses qui l’exciterent davantage, &amp; qui leur fit souhaiter passionnément de lier avec luy une étroite amitié. La nuit qui survint, les obligea de se séparer, plus tost qu’il ne l’auroient fait ; car chacun avoit son but, comme vous l’apprendrez par la suite de cette Histoire. L’Astrologue, dont je ne vous parlerais plus que sous le nom de Zoroaste, fut voir Brétius dés le lendemain, &amp; luy témoigna un si grand empressement d’apprendre son secret, que le jeune Homme qui souhaitoient depuis longtemps de trouver quelqu’un de qui il pût se divertir, fut ravy d’avoir trouvé celuy-ci. Zoroaste de son costé n’oublia rien pour gagner son amitié ; il luy fit des présens, il luy donna souvent de grands repas ; mais il avoit beau le presser ; Brétius qui vouloit se divertir, &amp; que ces repas recommençassent souvent, eut l’adresse de le remettre presque autant de temps qu’il le voulut. Enfin le grand jour qui devoit rendre Zoroaste si sçavant, arriva apres bien des remises ; &amp; toutes choses estant bien préparées, Brétius fit peser une petite boule de cire qu’il avoit apportée, &amp; qui ne pesoit presque rien ; il l’a mit dans le creuset, &amp; dit à Zoroaste apres l’avoir couvert, qu’il falloit estre deux heures sans y regarder, &amp; qu’ils pouvoient aller dans son Cabinet faire une figure pour voir si le travail seroit heureux. Les deux heures passées, on trouva de fort bon argent, au moins parut-il tel aux yeux de Zoroaste, qui fut aussitost le montrer à trois ou quatre Orfévres, qui dirent qu’ils n’en avoient point de meilleur dans leurs Boutiques. Les caresses qu’il fit à Brétius sont inconcevables ; il l’en accabla, &amp; le regala comme un Homme qui pouvoit luy donner un secret avec lequel il esperoit faire plus de trésors que tous les Roys du Monde n’en possedent. Dans cette esperance il luy conjura de luy donner dequoy faire seul de l’argent. Brétius luy donna une de ses boules, mais elle ne produisit rien à notre Astrologue ; il s’en plaignit, &amp; Brétius luy dit que sa curiosité en estoit cause, &amp; luy avoit fait regarder trop tost ce qu’il devoit plus longtemps tenir bien couvert. Il en refit avec luy, &amp; reüssit comme la premiere fois. Zoroaste convaincu, le fit dire au Prince ; puis il redit à Brétius ce qu’il avoit dit de luy. Ce jeune Homme se trouva embarassé, &amp; fut contraint de luy avoüer que ce n’estoit qu’un jeu de main, &amp; de luy apprendre son secret, &amp; les choses en demeurerent là. On trouve tous les jours beaucoup de Gens qui se laissent ainsi tromper par de belles apparences. Il me semble, Madame, que cette Lettre est assez longue : Je ne sçay si elle aura pû vous divertir, ny si les précedentes vous auront plû ; mais je sçay bien que j’ay des choses si particulieres &amp; si divertissantes à vous mander à l’avenir, que vous aurez lieu d’estre satisfaite.</p>
+        <head rend="center">FIN.</head>
+      </div>
+    </body>
+  </text>
+</TEI>
