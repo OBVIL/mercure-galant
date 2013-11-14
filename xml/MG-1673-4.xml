@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/tei2html.xsl"?>-->
+<!--odt2tei: 2013-11-14T21:20:28+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-4" xml:lang="">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition> ?</edition>
+        <respStmt>
+          <name>Alexandre De Craim</name>
+          <resp> ?</resp>
+        </respStmt>
+        <respStmt>
+          <name>Alexandre De Craim</name>
+          <resp> ?</resp>
+        </respStmt>
+      </editionStmt>
+      <extent>
+        <measure quantity="17" unit="page"/>
+        <measure quantity="399" unit="paragraph"/>
+        <measure quantity="7761" unit="word"/>
+        <measure quantity="43498" unit="character"/>
+      </extent>
+      <publicationStmt>
+        <publisher> ?</publisher>
+        <date when="2013"/>
+        <idno> ?</idno>
+        <availability status="restricted">
+          <licence target=" ? ">License ?</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl> ?</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when=" ? "/>
+      </creation>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="title">
+        <pb/>
+        <head><hi rend="i">Mercure galant</hi>, tome 4, 1673.</head>
+      </div>
+      <div>
+        <head>Au Lecteur.</head>
+        <bibl>[1673-4-0] <title>Mercure galant</title>, tome 4, 1673, p. [I-III] .</bibl>
+        <p><hi rend="i">JE ne dois pas me plaindre du succez du Mercure Galant ; On l’a contrefait en tant d’endroits, que j’ay lieu de croire que le debit en a esté tres-grand. Mes Libraires n’en doivent pas estre si satisfaits, &amp; les Impressions qu’on en a faites à Lyon, Vezel, Utrech, Amsterdam, &amp; autres Lieux, ont fait beaucoup de tort à celle de Paris : Ce n’est pas qu’elle ne soit beaucoup plus correcte, &amp; l’on n’en doit pas douter, puis que les Copies égalent rarement les Originaux. Je dois donc avertir le Lecteur, que ceux qui n’ont pas acheté ou acheter le Mercure galant à Paris, n’ont que des Exemplaires remplis de fautes tres-considerables, puis qu’elles changent le sens en beaucoup d’endroits, &amp; que la plupart des Noms de ceux dont j’ay parlé font tellement défigurez, qu’à peine en peut-on reconnoistre la moitié ; C’est à quoy le Lecteur doit prendre garde. Je le prie aussi de se souvenir que l’on vendra sans y manquer le premier jour d’Aoust prochain, le Cinquiéme Tome du</hi> Mercure Galant.</p>
+      </div>
+      <div>
+        <head>Leonidas. <hi rend="i">Nouvelle</hi>.</head>
+        <bibl>[1673-4-4] <title>Mercure galant</title>, tome 4, 1673, p. 4-106.</bibl>
+      </div>
+      <div>
+        <head>[Éloge de l’Académie française sur les valeurs militaires des Français.] *</head>
+        <bibl>[1673-4-111] <title>Mercure galant</title>, tome 4, 1673, p. 111-113.</bibl>
+        <p>Le Comte Catalan, les Marquis d’Est, de Livourne, de la Pierre, de Parelle, avec les Comptes de Roüere &amp; de la Trinité, &amp; le Chevalier d’Aglié, ne pouvant se résoudre à demander une Capitulation dans Castelvecchio, où ils estoient assiegez par neuf mille Hommes, s’ouvrirent un passage l’épée à la main, &amp; forcerent six Barricades en des endroits presques inaccessibles ; ce qui surprit beaucoup les Ennemis, qui s’estant saisis de toutes les avenues, ne s’attendoient pas de voir des effets d’une valeur dont les François donnent tous les jours des marques. On parla dernierement de cette valeur en bon lieu, reprit un autre ; &amp; l’Académie Françoise estant venuë faire compliment au Roy sur ses Conquestes, Monsieur Peraut Chancelier de cette Compagnie, &amp; qui portoit la parole, se fit admirer.</p>
+      </div>
+      <div>
+        <head>[Prophétie et explications.] *</head>
+        <bibl>[1673-4-122] <title>Mercure galant</title>, tome 4, 1673, p. 122-125.</bibl>
+        <p>Changeons donc de discours, reprit une Femme qui se piquoit de bel esprit, &amp; voyons comment nous pourions appliquer cette Prophetie au temps present.</p>
+        <quote>
+          <l>Quand le 2. apres 7. suivra le 6. &amp; 1.</l>
+          <l>Le Sivol 12. &amp; 2. sera veu d’un chacun,</l>
+          <l>Visitant ses Voisins avec un grand Bagage,</l>
+          <l>Aller sur Pont d’airain se venger du Fromage.</l>
+        </quote>
+        <p>Le Pont d’airain et le Fromage, firent croire à plusieurs que cette prophétie regardoit la Guerre de Hollande ; mais ils trouverent beaucoup d’obscurité dans le reste, &amp; le Pont d’airain ne les auroit pas moins embarassez, avant que le Roy eut fait faire des Bateaux d’airain, que tout Paris vit l’année derniere. Apres que chacun se fut regardé long-temps, &amp; que l’on dit beaucoup de méchantes choses qui ne déveloperent point le sens de la Prophetie, l’Abbé dont j’ay déjà parlé l’expliqua de la sorte.</p>
+        <p><hi rend="i">Quand le 2. apres 7. suivra le 6. &amp; 1.</hi> C’est à dire quand nous serons en 1672. <hi rend="i">le Sivol</hi>, Louis, <hi rend="i">12. &amp; 2. font Louis 14.</hi> sera veu d’un chacun, &amp;c. Je n’explique point le reste, poursuivit-il, parce que tout le monde l’entend. Chacun ayant retourné le <hi rend="i">Sivol</hi>, &amp; ayant trouvé <hi rend="i">Louis</hi>, toute la Compagnie trouva l’explication juste, &amp; donna des loüanges à l’Abbé, qui par modestie ne voulant pas les écouter, prit congé de la Compagnie. Plusieurs sortirent avecque luy, &amp; je fus de ce nombre.</p>
+      </div>
+      <div>
+        <head>La Femme aux Deux Maris. <hi rend="i">Nouvelle</hi>.*</head>
+        <bibl>[1673-4-127] <title>Mercure galant</title>, tome 4, 1673, p. 127-165.</bibl>
+      </div>
+      <div>
+        <head>Billet du Roy, à Monsieur le Prince de Marsillac.</head>
+        <bibl>[1673-4-173] <title>Mercure galant</title>, tome 4, 1673, p. 173-174.</bibl>
+        <p>Sa Majesté donna aussi presqu’en mesme temps à Monsieur le Prince de Marsillac la Charge de Grand Maistre de sa Garderobe ; mais il luy fit ce Present d’une maniere qui charma tout le monde, puis qu’il luy envoya ce billet par un de ses Ordinaires.</p>
+        <quote>
+          <p>Billet du Roy,</p>
+          <p>À Monsieur le Prince de Marsillac.</p>
+          <p>Je vois envoye la Gebertye, de qui vous apprendrez une Nouvelle, qui selon les apparences, vous sera fort agreable. Je me réjoüis avec vous, comme vostre Amy, du Present que je vous fais comme Vostre Majesté.</p>
+        </quote>
+      </div>
+      <div>
+        <head>L’Échange par Hazard. <hi rend="i">Nouvelle.</hi></head>
+        <bibl>[1673-4-180] <title>Mercure galant</title>, tome 4, 1673, p. 180-224.</bibl>
+      </div>
+      <div>
+        <head>[Visite du Comte de Sunderland, ambassadeur d’Angleterre.] *</head>
+        <bibl>[1673-4-225] <title>Mercure galant</title>, tome 4, 1673, p. 225.</bibl>
+        <p>Pour changer de ma matiere ainsi que ces Messieurs ont fait de Maistresses, je vous diray que nous avons depuis peu pour Ambassadeur d’Angleterre Monsieur le Comte de Sunderland. Il a de l’esprit infiniment, il aime les belles Lettres ; &amp; quoy qu’il soit encor fort jeune, il a de grandes connoissances des affaires, &amp; l’on peut dire que l’on n’a encor guere veu de Catons de son âge.</p>
+      </div>
+      <div>
+        <head>[<hi rend="i">Pulchérie</hi> de P. Corneille.] *</head>
+        <bibl>[1673-4-225] <title>Mercure galant</title>, tome 4, 1673, p. 225.</bibl>
+        <p>La Pulcherie de Monsieur de Corneille l’aisné, dont je vous ay déja parlé, a esté representée sur le Theatre du Marais ; &amp; tous les obstacles qui empeschent les Pieces de reüssir dans un Quartier si éloigné, n’ont pas esté assez puissans pour nuire à cet Ouvrage que l’on ne peut mieux loüer qu’en nommant son Autheur, à qui les Gens qui luy portent le plus d’envie, doivent la reputation qu’ils ont euë par leurs Ouvrages, puis qu’ils ne les auroient peut-estre jamais faits, si Monsieur de Corneille, n’avoit point travaillé pour le Theatre.</p>
+      </div>
+      <div>
+        <head>[<hi rend="i">Théodat</hi> de T. Corneille.] *</head>
+        <bibl>[1673-4-227] <title>Mercure galant</title>, tome 4, 1673, p. 227-228.</bibl>
+        <p>Le Theodat de Monsieur de Corneille le jeune a esté joüé à l’Hostel de Bourgogne dans le mesme temps que la Pulcherie. Cet ouvrage auroit eu un tres-grand succez, si la Fortune avoit esté un effet du merite ; mais comme ce ne sont plus les Ouvrages qui cabalent, il ne faut pas s’étonner si cette Piece, qui a eu l’approbation des meilleurs connoisseurs, n’a pas esté aussi suivie que les autres du mesme Autheur. Je voudrois bien ne vous parler que de divertissemens ; mais il faut, puis que vous voulez tout sçavoir, que je reprenne le Chapitre de la Guerre […] .</p>
+      </div>
+      <div>
+        <head>Lettre en vers libres, sur le siège de Charleroy.</head>
+        <bibl>[1673-4-233] <title>Mercure galant</title>, tome 4, 1673, p. 233-252.</bibl>
+        <p>Je vous envoye des Vers que l’on a faits sur la Levée de ce Siege. Ils ont esté icy fort estimez, &amp; je croy qu’il ne leur manquera rien, s’ils ont le bonheur de vous plaire.</p>
+        <quote>
+          <l>Lettre</l>
+          <l>En vers libres,</l>
+          <l>Sur le Siege de Charleroy</l>
+          <l>VErs la fin du mois de Decembre,</l>
+          <l>Dorilas vint un jour chez moy :</l>
+          <l>Ah Dieux ! s’écria-t-il en entrant dans ma Chambre,</l>
+          <l>Je suis saisi de dépit &amp; d’effroy ;</l>
+          <l>Les Ennemis ont marché vers la Sambre,</l>
+          <l>Et vont entrer dans Charleroy !</l>
+          <l/>
+          <l>Après ce mot… Ma foy, je ne sçaurois vous dire</l>
+          <l>S’il continua d’en conter,</l>
+          <l>Car je fis un éclat de rire</l>
+          <l>Qui m’empescha de l’ecouter.</l>
+          <l>Luy, d’un air serieux qui montre qu’il s’irrite :</l>
+          <l>Vostre rire est plus fou que ce qui vous l’excite,</l>
+          <l>Me dit-il, achevez bien de rire, achevez :</l>
+          <l>Mais de ma crainte enfin que vous desaprouvez,</l>
+          <l>La cause est-elle si petite,</l>
+          <l>Qu’on ne doive l’avoir qu’au point que vous l’avez ?</l>
+          <l>Eh ! non, non, Charleroy, dis-je, est un fort bon giste ;</l>
+          <l>Mais qu’ils entrent dans dedans, je croy que vous rêvez,</l>
+          <l>Car nos chers Hollandois sont, comme vous sçavez,</l>
+          <l>Trop gras &amp; trop pesans, pour avancer si viste.</l>
+          <l>Oüy, fort bien, reprit-il, ils sont gras &amp; pesans ;</l>
+          <l>Mais par quelle valeur si grande,</l>
+          <l>Le petit nombre de trois cens</l>
+          <l>Peut-il se defendre au dedans</l>
+          <l>Contre l’Armée entière de Holande ?</l>
+          <l>A laquelle on a joint ce secours si fameux</l>
+          <l>De nostre Amy le plus sincere,</l>
+          <l>De l’Espagnol, qui, pour le faire,</l>
+          <l>S’épuise, épie, &amp; court depuis un an, ou deux ?</l>
+          <l/>
+          <l>L’état où je vous voy, passe la raillerie,</l>
+          <l>Luy dis-je : Cependant pour vous mettre en repos,</l>
+          <l>Ecoutez-moy, je vous en prie.</l>
+          <l>L’y voyant disposé, je luy tins ce propos.</l>
+          <l>Ne rougissez-vous pas d’avoie eu l’ame atteinte</l>
+          <l>Des honteux mouvemens d’une si lâche crainte ?</l>
+          <l>D’avoir osé penser qu’on pût trouver un Bras</l>
+          <l>Qui portoit la Victoire où la France n’est pas,</l>
+          <l>Et qu’on pût surmonter la valeur sans seconde</l>
+          <l>D’un Peuple dont le Roy doit vaincre tout le Monde ?</l>
+          <l>A ces bas sentimens laissez-vous moins toucher,</l>
+          <l>Ou prenant tout au moins le soin de mieux cacher</l>
+          <l>Les effets criminels d’une crainte importune,</l>
+          <l>Abandonnez la France à sa bonne fortune.</l>
+          <l>Le Ciel, de son Monarque, en tous lieux est l’appuy :</l>
+          <l>Tout est miraculeux, quand il agit pour luy.</l>
+          <l>Il croiroit faire peu, si dans les moindres causes</l>
+          <l>Il ne passoit pour luy l’ordre commun des choses.</l>
+          <l>Ses moindres interests luy sont si précieux,</l>
+          <l>Qu’il a rendu sa Cour fertile en demy-Dieux,</l>
+          <l>Pour ne les confier qu’à d’Illustres Personnes,</l>
+          <l>Qu’à des Bras conquerans qui gagnent des Couronnes,</l>
+          <l>Et font que Loüis a le droit d’enseigner</l>
+          <l>Qu’il regne sur des Cœurs capables de regner.</l>
+          <l>Condé, qui vaut luy seul plus qu’une Armée entière,</l>
+          <l>D’un bonheur si certain est la preuve bien claire.</l>
+          <l>Est-il au Monde un Roy dont le nom soit plus grand,</l>
+          <l>Dont l’esprit soit plus beau, plus doux, plus bien-faisant ?</l>
+          <l>Et parmy ce qu’on voit de glorieux Monarques,</l>
+          <l>En peut-on distinguer par de plus nobles marques ?</l>
+          <l>Ainsi mille Vaillans que je ne nomme pas,</l>
+          <l>Qui bravent en un jour cent sortes de trépas,</l>
+          <l>Et pour qui le Rhin n’est ny profond ny rapide,</l>
+          <l>Quand ils doivent courir ou la Gloire les guide ;</l>
+          <l>C’est par eux Dorilas, c’est par leurs grands exploits,</l>
+          <l>Qu’en ce Siecle tout tremble au seul nom de François.</l>
+          <l>Est-il Ville, ny Fort, qui s’en puisse defendre,</l>
+          <l>Qui nous ose donner la peine de la prendre,</l>
+          <l>Et qui par ce nom seul n’ait veu les cœurs glacez,</l>
+          <l>Ses Rampars écroulez, &amp; ses Murs renversez ?</l>
+          <l>Cependant vous osez porter ce nom illustre</l>
+          <l>Dont chaque instant augmente &amp; la gloire &amp; le lustre,</l>
+          <l>Vous avez veu le jour dans le mesme Climat</l>
+          <l>Où les Astres plus purs roulent sur tout l’Estat,</l>
+          <l>Et répandent sur nous cette heureuse influence</l>
+          <l>Qui par tout l’Univers fait réverer la France,</l>
+          <l>Vous vous nommez François, &amp; vous pouvez trembler,</l>
+          <l>Quand deux foibles Partis songent à s’assembler ?</l>
+          <l>Ah ! j’atteste le Ciel, &amp; cet heureux Génie,</l>
+          <l>Dont je vois chaque jour la puissance infinie</l>
+          <l>Du grand Roy des François seconder les projets,</l>
+          <l>Et tourner la Victoire où sont ses interests,</l>
+          <l>Que je vous apprendray bientost à votre honte,</l>
+          <l>A craindre que jamais la Holande nous domte ;</l>
+          <l>Et s’il faut que vostre ame ait cet indigne effroy</l>
+          <l>De penser que Montal luy donne Charleroy.</l>
+          <l>L’ame de courroux animée,</l>
+          <l>J’allois poursuivre encor d’un ton plus furieux,</l>
+          <l>Lors qu’une Dame entra, que sans peine mes yeux</l>
+          <l>Connurent pour la Renommée :</l>
+          <l>Du feu, viste, du feu, je suis bien enrûmée,</l>
+          <l>Laissez-moy de chauffer, dit-elle, avec vous deux.</l>
+          <l>Il fait un froid insuportable,</l>
+          <l>Et sur tout devant Charleroy :</l>
+          <l>Hier encor l’assemblée y paroissoit passable,</l>
+          <l>Mais pour y demeurer, il faudroit par ma foy</l>
+          <l>Avoir la peau la plus dure que le Diable ;</l>
+          <l>Montal l’a de mesme je croy,</l>
+          <l>Car pendant que chacun court se chauffer chez soy,</l>
+          <l>Pour luy seul la place est tenable.</l>
+          <l>Comment, dis-je en riant, que veut dire cela ?</l>
+          <l>Eh ! quoy les Holandois, ces testes si subtiles,</l>
+          <l>Ces vaillans Repreneurs de Villes,</l>
+          <l>N’ont pas encor pris celle-là ?</l>
+          <l/>
+          <l>Pris celle-là, dit-elle, ô soupçons ridicules !</l>
+          <l>Oüy ! leurs talons ont pris de douloureuses mules.</l>
+          <l>De ce seul mot on devroit vous punir.</l>
+          <l>Ils vaincroient en Hyver ? Vous me le baillez belle !</l>
+          <l>Eux qui craignent le froid à tel point, reprit-elle,</l>
+          <l>Que pendant l’Esté mesme, en nous voyant venir,</l>
+          <l>Ils furent si glacez de la seule nouvelle,</l>
+          <l>Qu’ils ne sçavoient que devenir.</l>
+          <l>Comment à Charleroy pourroient-ils soûtenir</l>
+          <l>Les dangereux effets d’une bise mortelle,</l>
+          <l>Contre les rigueurs de laquelle,</l>
+          <l>Les Tourbes de Namur, &amp; le Bois de Bruxelles,</l>
+          <l>N’a pû les résoudre à tenir ?</l>
+          <l>Mais pour vous porte à me croire,</l>
+          <l>Ecoutez en deux mots vous en sçaurez l’Histoire.</l>
+          <l/>
+          <l>Dès que Montal à Tongre eût appris que Marsin</l>
+          <l>De luy rendre visite avoit fait le dessein ;</l>
+          <l>A quoy diable, dit-il, est-ce qu’il se dispose ?</l>
+          <l>Au temps qu’il fait, on devoit l’avertir</l>
+          <l>Qu’il est dangereux de sortir :</l>
+          <l>Mais il veut s’enrûmer, &amp; puis que j’en suis cause,</l>
+          <l>Je ne dois songer qu’à partir,</l>
+          <l>Pour l’aller recevoir, &amp; bien le divertir ;</l>
+          <l>Car puis que pour me voir, ainsi qu’il le supose,</l>
+          <l>Mon ancien Camarade à tant de froid s’expose,</l>
+          <l>Comme bon sang ne peut mentir,</l>
+          <l>Je dois le régaler au moins de quelque chose.</l>
+          <l/>
+          <l>Il part, il vole, &amp; par sa diligence,</l>
+          <l>De plus affreux passage il vient sans peine à bout ;</l>
+          <l>Et pour s’y voir à temps, sa noble impatience</l>
+          <l>Le fait marcher sur le ventre de tout.</l>
+          <l/>
+          <l>Dés qu’il est arrivé, son étude s’applique</l>
+          <l>A préparer, pour chasser le chagrin,</l>
+          <l>Un fort grand Concert de musique,</l>
+          <l>Avec des Instumens d’airin ;</l>
+          <l>Et comme le froid estoit rude,</l>
+          <l>Pour en faire écouter plus à l’aise le jeu,</l>
+          <l>Son obligeante inquiétude</l>
+          <l>Promit aux Visiteurs de leur faire grand feu.</l>
+          <l/>
+          <l>Quoy qu’au ton de nos Serenades</l>
+          <l>Ils dûssent estre accoûtumez</l>
+          <l>(Car ils ont eu souvent de pareilles aubades)</l>
+          <l>Espagnols, Holandois, tous furent alarmez,</l>
+          <l>Tous prirent le dessein de quitter la Partie ;</l>
+          <l>Et leur oreille au Bal fut si mal assortie,</l>
+          <l>Qu’a peine on avoit eu le temps de commencer,</l>
+          <l>Qu’ils témoignerent tous ne sçavoir rien danser,</l>
+          <l>Sinon le Branle de sortie.</l>
+          <l/>
+          <l>Ils le dansent en vérité,</l>
+          <l>Avecque leur air ordinaire ;</l>
+          <l>Mais cela ne m’étonne guere,</l>
+          <l>Car ils l’ont devant nous tant de fois repété,</l>
+          <l>Que pour Grossiers qu’ils puissent estre,</l>
+          <l>L’un et l’autre Païs le doit sçavoir en Masitre.</l>
+          <l/>
+          <l>Mais comme à servir les Ingrats</l>
+          <l>On gagne leur courroux pour tout prix de sa peine,</l>
+          <l>Nos genereux Danseurs conçeurent de la haine</l>
+          <l>Pour les Musiciens qui leur marquoient leurs pas :</l>
+          <l>Ils les auroient blessez s’ils avoient eu des Fléches ;</l>
+          <l>Car pour leurs malheureux Mousquets,</l>
+          <l>Le rûme &amp; la roupie en rompoient les effets,</l>
+          <l>En tombant sur le feu des méches,</l>
+          <l>Et la poudre des bassinets.</l>
+          <l/>
+          <l>A ce procédé punissable,</l>
+          <l>Les Musiciens irritez,</l>
+          <l>Entonnerent d’abord un air plus effroyable,</l>
+          <l>Et d’une fughe épouvantable</l>
+          <l>La Basse repéta cent tons précipitez.</l>
+          <l>Alors tous en desordre ils s’assurent d’un giste</l>
+          <l>Dans les Bois &amp; dans les Valons ;</l>
+          <l>Et quoy que gros, pesans, &amp; gueres longs,</l>
+          <l>Ils témoignerent par leur fuite,</l>
+          <l>Que le son des Violons</l>
+          <l>Estoit un beau secret pour les faire aller viste,</l>
+          <l>Encor qu’ils eussent tous les mules aux talons.</l>
+          <l/>
+          <l>Ainsi, tous quitterent la Place</l>
+          <l>En incivils, sans voir Montal,</l>
+          <l>Et sans luy rendre aucune grace</l>
+          <l>Du soin qu’il avoit pris pour ce fameux régal.</l>
+          <l>Mais comme je suis peu secrette,</l>
+          <l>Je veux tout dire, &amp; ne rien negliger.</l>
+          <l>Lors que cette Race indiscrette</l>
+          <l>A pris le soin de déloger,</l>
+          <l>Ce n’a pas esté sans Trompette :</l>
+          <l>Ils en ont dont sans doute ils doivent faire cas,</l>
+          <l>Leur industrie est en cela parfaite,</l>
+          <l>Et nous met aupres d’eux trente degrez plus bas,</l>
+          <l>Car ils sçavent sonner certain air de retraite</l>
+          <l>Qui charme à tous momens, &amp; sauve leurs Soldats,</l>
+          <l>Et qu’en France l’on ne sçait pas.</l>
+          <l/>
+          <l>L’Espagne par bonheur chez soy n’a point d’Achile,</l>
+          <l>C’est un Païs prudent qui n’en a pas produit,</l>
+          <l>Parce que pour nos Gens c’est un coup fort facile</l>
+          <l>D’emporter le talon d’un Héros qui s’enfuit.</l>
+          <l>Louvignies, dit-on, peut fort bien nous l’apprendre ;</l>
+          <l>Mais, par ma foy, si la chose est ainsi</l>
+          <l>Que l’on veut nous la faire entendre,</l>
+          <l>Son Cheval est donc mort aussi,</l>
+          <l>Car je vis quand il reçeut l’entorce</l>
+          <l>D’un coup pour son talon fatal,</l>
+          <l>Il les tenoit tous deux apuyez avec force</l>
+          <l>Contre les flancs de son Cheval.</l>
+          <l/>
+          <l>Adieu, Messieurs, poursuivit-elle,</l>
+          <l>Vous ne serez pas si-tost régalez</l>
+          <l>Du détail de cette nouvelle ;</l>
+          <l>Mais j’ay peine à la croire telle,</l>
+          <l>Sans que pour la rendre si belle,</l>
+          <l>Duras &amp; Montauban s’en soient un peu meslez.</l>
+          <l>Je vais d’une vistesse à nulle autre seconde</l>
+          <l>En informer tous les Estats,</l>
+          <l>Parler du Grand Loüis sur la Terre &amp; sur l’Onde,</l>
+          <l>Et disposer tout le Monde</l>
+          <l>A se soûmettre à son bras.</l>
+          <l>A cette derniere parle</l>
+          <l>La belle Courriere s’envole ;</l>
+          <l>Et je gronday tant Dorilas,</l>
+          <l>Qu’enfin je le rendis, par cent justes reproches,</l>
+          <l>Plus penaut qu’un Fondeur de Cloches.</l>
+        </quote>
+      </div>
+      <div>
+        <head>[Réception de Galoy, Fléchier et Racine à l’Académie française.] *</head>
+        <bibl>[1673-4-257] <title>Mercure galant</title>, tome 4, 1673, p. 257.</bibl>
+        <p>Messieurs Galoy, Fléchier &amp; Racine, ont esté reçeus à l’Academie Françoise, où Monsieur Colbert s’est rendu pour entendre leurs Harangues. Elles luy plurent beaucoup, &amp; toute la Compagnie en fut charmée.</p>
+      </div>
+      <div>
+        <head>[<hi rend="i">Mithridate</hi> de J. Racine.] *</head>
+        <bibl>[1673-4-258] <title>Mercure galant</title>, tome 4, 1673, p. 258-261.</bibl>
+        <p>J’aurois long-temps à vous entretenir, s’il falloit que je vous rendisse un compte exact des jugements qu’on a faits du Mithridate de Monsieur Racine. Il a plû comme font tous les Ouvrages de cet Illustre Autheur ; &amp; quoy qu’il ne se soit quasi servy que des noms de Mitrhidate, de ceux des Princes ses Fils &amp; de celuy de Monime, il ne luy est pas moins permis de changer la vérité des Histoires anciennes pour faire un Ouvrage agreable, qu’il luy a esté d’habiller à la Turque nos Amans &amp; Amantes. Il a adoucy la grande férocité de Mithridate qui avoit fait égorger Monime sa Femme, dont les Anciens nous vantent &amp; la grande beauté, &amp; la grande vertu, &amp; quoy que ce Prince fut barbare, il l’a rendu en mourant un des meilleurs Princes du monde : Il se dépoüille en faveur de ses Enfans de l’    amour &amp; et de la vengeance, qui sont les deux plus violentes passions où les Hommes soient sujets ; &amp; ce grand Roy meurt avec tant de respect pour les Dieux, qu’on pourroit le donner pour exemple à nos Princes les plus Chrestiens. Ainsi Monsieur Racine a atteint le but que doivent se proposer ceux qui font de ces sortes d’ouvrages &amp; les principales regles estant de plaire, d’instruire &amp; de toucher, on ne sçauroit donner trop de loüanges à cet Illustre Autheur, puis que sa Tragedie a plû, qu’elle est de bon exemple, &amp; qu’elle a touché les cœurs.</p>
+      </div>
+      <div>
+        <head>[Critique sur les deux précédentes livraisons du <hi rend="i">Mercure galant.</hi>] *</head>
+        <bibl>[1673-4-261] <title>Mercure galant</title>, tome 4, 1673, p. 261-266 [pagination erronée] .</bibl>
+        <p>Quelques affaires m’ayant empesché de retourner sitost que je souhaitois dans la Ruelle, où j’avois appris l’Histoire de Leonidas, je fus à peine delivré de l’embarras qu’elles me donnoient, que j’y retournay ; &amp; je n’y suis pas plutost entré, que j’entendis ce que vous allez apprendre, qui n’estoit qu’une suite de la conversation commencée avant que je fusse arrivé. Ah ne me parlez point, dit une Femme en s’adressant au reste de la Compagnie, du Second &amp; Troisiéme Tome du Mercure Galant ; Ils sont, à ce qu’on dit, trop remplis de Guerre &amp; de Nouvellistes, &amp; je n’ay pas seulement voulu les lire. Je croyois qu’on y verroit autant d’Histoires que dans le Premier, &amp; j’en aurois esté ravie ; car je vous avoüe que celles du Colier de Perles, des Bas Vers &amp; des Miroirs m’ont extrêmement divertie, &amp; que je n’en ay point encor veu de remplies d’incidens si plaisans &amp; si nouveaux. Vous avez raison, Madame, luy repartit froidement une autre, de dire ce que vous aimez ; mais quoy que les Histoires soient de vostre goust, &amp; que dans le Second &amp; Troisime Volume, il n’y en ait pas tant que dans le Premier, il faut voir si l’Autheur a fait une faute, &amp; si dans ces deux derniers Volumes, il a pû &amp; dû en mettre davantage qu’il n’a fait. Ce n’est pas ma pensée, poursuivit-elle, &amp; en voicy la raison. Il a promis dans son Premier Volume de parler de tout ce qui se passeroit ; &amp; comme dans les deux suivans, il a esté obligé de mettre toute la Campagne du Roy, &amp; que ce Prince a pris plus de Villes en trois mois, qu’on en prenoit autrefois pendant le cours de vingt-cinq années, l’Autheur pour suivre l’ordre qu’il s’estoit prescrit, ne pouvoit s’empescher de parler de Guerre en beaucoup d’endroits ; et quoy qu’il n’ait dit qu’un mot de la prise de chaque Ville, cette matiere peu Galante n’a pas laissé de tenir beaucoup de place dans ces deux Volumes. Il a fait plus, &amp; pour ne pas ennuyer il a crû de voir raconter beaucoup de choses par des Nouvellistes, afin que pas leurs manieres de les debiter, &amp; leurs contestations le recit des actions les plus serieuses &amp; les plus sanglantes pût donner du divertissement ; &amp; pour plaire aux Curieux, il est entré dans le détail des actions de tous les Braves, &amp; en a dit des particularitez dont aucune Gazette n’a parlé ; de sorte que l’on peut dire que dans les Volumes où il a parlé de la dernière Campagne, il a obligé toutes les plus illustres Familles de France, &amp; que ces Livres doivent estre un jour beaucoup recherchez, puis qu’il n’est parlé dans aucun autre du détail des actions particulieres ; &amp; ces deux Volumes contiennent tant de choses curieuses, que ceux qui les liront ne pouront manquer d’y trouver dequoy leur plaire, puis que bien que chacun soit d’un goust diferent, chacun ne laisser d’y trouver son compte dans un Livre general, &amp; que les uns cherchent ce qui ne plaist pas aux autres. Si les Ruelles veulent des Histoires, on trouve des Mélancoliques qui les traitent de bagatelles ; mais comme le nombre de ces derniers est moins grand, l’Autheur en mettra beaucoup dans les Volumes qu’ils donnera doresnavant au Public, &amp; reduira en peu de lignes toutes les autres Nouvelles. L’Autheur sera bien, reprit la premiere qui avoit parlé, de mettre à l’avenir beaucoup d’Histoires dans les Tomes du Mercure qu’il donnera au Public : les Femmes en veulent ; &amp; comme ce sont elles font réüssir les Ouvrages, ceux qui ne trouveront point le secret de leur plaire, ne réüssiront jamais.</p>
+      </div>
+      <div>
+        <head>[La mort de Molière.] *</head>
+        <bibl>[1673-4-266] <title>Mercure galant</title>, tome 4, 1673, p. 266-276.</bibl>
+        <p>Toute la Compagnie en demeura d’accord, &amp; se preparoit à parler d’autre chose, lors qu’un Homme qui avoit accoustumé de venir dans cette Ruelle, parla de la mort de Moliere dont on s’estoit déjà entretenu quelques jours auparavant. Il estoit Illustre de plusieurs manieres, &amp; sa reputation peu égaler celle du fameux Rocius ce grand Comedien si renommé dans l’Antiquité, &amp; qui merita du Prince des Orateurs cette belle Harangue qu’il recita dans le Senat pour ses interests. Le regret que le plus grand des Roys a fait paroistre de sa mort, est une marque incontestable de son merite. Il avoit trouvé l’art de faire voir les defauts de tout le monde, sans qu’on s’en pût offenser, &amp; les peignoit au naturel dans les Comedies qu’il composoit encor avec plus de succez qu’il ne les recitoit, quoy qu’il excelât dans l’un et dans l’autre. C’est luy qui a remis le Comique dans son premier éclat ; &amp; depuis Terence personne n’avoit pû legitimement pretendre à cet avantage. Il a le premier inventé la maniere de méler des Scenes de Musique &amp; des Balets dans les Comedies, &amp; il avoit trouvé par là un nouveau secret de plaire, qui avoit esté jusqu’alors inconnu, &amp; qui a donné lieu en France à ces fameux Opera, qui font aujourd’huy tant de bruit, &amp; dont la magnificence des Spectacles n’empesche pas qu’on ne le regrette tous les jours. J’eus à peine achevé de parler du merite de cet Autheur, qu’une Personne de la Compagnie tira quelques Pieces de Vers qui regardoient cet Illustre Defunt. Plusieurs en lûrent haut, &amp; les autres bas. Voicy ce qui fut entendu de toute la Compagnie.</p>
+        <quote>
+          <l>Pieces</l>
+          <l>en Vers,</l>
+          <l rend="sc">Sur la </l>
+          <l rend="sc">Mort de Moliere. </l>
+          <l>Si dans son Art, c’est estre un Ouvrier parfait,</l>
+          <l>Que sçavoir trait pour trait</l>
+          <l>Imiter la Nature</l>
+          <l>Molière doit passer pour tel ;</l>
+          <l>Michel-Ange, Le Brun et toute la Peinture.</l>
+          <l>Comme luy n’ont sçeu faire un Mort au naturel.</l>
+          <l>Autre.</l>
+          <l>CY git un grand Acteur que l’on dit estre mort ;</l>
+          <l>Je ne sçay s’il l’est, ou s’il dort.</l>
+          <l>Sa Maladie Imaginaire</l>
+          <l>Ne sçauroit l’avoir fait mourir,</l>
+          <l>C'est un tour qu’il fait à plaisir</l>
+          <l>Car il aimoit à contrefaire.</l>
+          <l>Quoi qu’il en soit cy gist Moliere ;</l>
+          <l>Comme il estoit Comedien,</l>
+          <l>S'il fait le Mort, il le fait bien.</l>
+          <l>Autre.</l>
+          <l>Cy gist le Terence François,</l>
+          <l>Qui merita pendant sa vie,</l>
+          <l>De divertir malgré l’envie,</l>
+          <l>Le plus sage de tous les Rois :</l>
+          <l>Il a poussé l’Esprit Comique</l>
+          <l>Jusques au dernier de ses jours ;</l>
+          <l>La Mort en arrestant le cours,</l>
+          <l>Il a finy par le Tragique.</l>
+          <l>Autre.</l>
+          <l>CY git qui parut sur la Scene</l>
+          <l>Le Singe de la Vie humaine,</l>
+          <l>Qui n’aura jamais son égal,</l>
+          <l>Qui voulant de la Mort, ainsi que de la Vie,</l>
+          <l>Estre l’Imitateur dans une Comedie,</l>
+          <l>Pour trop bien réüssir, y réüssit fort mal ;</l>
+          <l>Car la Mort en estant ravie,</l>
+          <l>Trouva si belle la Copie</l>
+          <l>Qu'elle en fit un Original.</l>
+          <l>Autre.</l>
+          <l>CY git sous cette froide Biere,</l>
+          <l>Le fameux Comique Moliere,</l>
+          <l>Je ne sçay pas bien s’il y dort ;</l>
+          <l>Celuy qui sçeut tout contrefaire,</l>
+          <l>Y pourroit bien encor contrefaire le Mort.</l>
+          <l>Autre.</l>
+          <l>Celuy qui git dans ce Tombeau,</l>
+          <l>Passant, c’est le fameux Moliere,</l>
+          <l>De qui l’esprit estoit si beau,</l>
+          <l>Que rien ne faisoit peine à sa vive lumière.</l>
+          <l>Regrete son trépas si tu chéris les vers,</l>
+          <l>Car il charmoit les sens sur tous Sujets divers :</l>
+          <l>Mais la cruelle Parque, en nous faisant injure,</l>
+          <l>S'accordant avecque la Mort,</l>
+          <l>La laissé dans la Sepulture,</l>
+          <l>Où cet Acteur faisait le Mort.</l>
+          <l>Autre.</l>
+          <l>Sous ce Tombeau gissent Plaute et Terence,</l>
+          <l>Et cependant le seul Moliere y git.</l>
+          <l>Leurs trois talens ne formoient qu’un esprit</l>
+          <l>Dont le bel art divertissoit la France,</l>
+          <l>Ils sont partis, &amp; j’ai peu d’espérance</l>
+          <l>De les revoir malgré tous nos efforts.</l>
+          <l>Pour un longtemps, selon toute apparence,</l>
+          <l>Terence, Plaute &amp; Moliere sont morts.</l>
+          <l>Autre.</l>
+          <l>C'Est donc là le pauvre Moliere</l>
+          <l>Qu'on porte dans le Cimetière,</l>
+          <l>En le voyant passer, dirent quelques Voisins.</l>
+          <l>Non, non, dit un Apoticaire,</l>
+          <l>Ce n’est qu’un Mort Imaginaire,</l>
+          <l>Qui se raille des Medecins.</l>
+          <l>Autre.</l>
+          <l>PLuton voulant donner aux gens de l’autre vie</l>
+          <l>Le plaisir de la Comedie,</l>
+          <l>Ayant pour faire un choix longtemps délibéré,</l>
+          <l>Ne trouva rien plus à leur gré,</l>
+          <l>Que le Malade Imaginaire ;</l>
+          <l>Mais comme par malheur il manquoit un Acteur,</l>
+          <l>L'un d’entr'eux dit tout haut qu’on ne pouvoit mieux faire</l>
+          <l>Que d’envoyer quérir l’Autheur.</l>
+          <l>Autre.</l>
+          <l><hi rend="sc">MOliere</hi> à chacun a fait voir</l>
+          <l>L'inutilité du sçavoir</l>
+          <l>De ceux qui font la Medecine ;</l>
+          <l>Et pour accomplir son dessein,</l>
+          <l>Et nous mieux prouver sa doctrine,</l>
+          <l>Il meurt dés qu’il est Medecin.</l>
+        </quote>
+        <p>Ces Vers donnerent occasion de parler de la Medecine ; Quelques uns se déclarerent contre, &amp; plusieurs prirent son party. Un de ceux qui la defendit avec le plus de chaleur, tint ce discours en parlant de Moliere. S'il avoit eu le temps d’estre malade, il ne seroit pas mort sans Medecin : Il n’estoit pas convaincu luy-mesme de tout ce qu’il disoit contre les Medecins, &amp; pour en avoir fait rire ses Auditeurs, il ne les a pas persuadez. Je demeure d’accord avec luy que la plus grande partie de la Medecine consiste dans l’Ordonnance des Lavemens, Saignées &amp; Purgations ; mais il faut les sçavoir ordonner à propos, &amp; sçavoir, selon les Maladies qu’on a à guérir, ce qu’il faut mettre dans le premier &amp; le dernier de ces remèdes. On en peut faire de cent manieres différentes ; mais pour cela il faut connoistre les Simples,  &amp; sçavoir leurs vertus. Non, non, le monde ne peut croire ce que cet Autheur a dit des Medecins. Il est constant qu’il y a des Remedes, les Bestes en trouvent &amp; se guérissent elles-mesmes : Hé pourquoy, puisque les hommes ont bien connu les Herbes qui empoisonnent, ne connoistroient-ils pas celles qui ont la vertu de les guérir ? Rien n’est si commun que les salutaires effets des Ordonnances des Médecins. On connoist ceux des Medecines &amp; des Lavemens, par la bile &amp; par les impuretez qu’elles font evacüer. On sçait combien la Saignée est nécessaire à un Malade quand il est oppressé ; &amp; Moliere, ce mesme Moliere, pendant une oppression, s’est fait saigner jusques à quatre fois pour un jour. Plusieurs eurent de la peine à le croire, &amp; chacun ne s’accordant pas sur le chapitre de la Medecine, on parla des Ouvrages du défunt, qu’un Defenseur voulut traiter de bagatelles. Je sçay bien, repartit un autre qui n’estoit pas de son sentiment, que Moliere a mis des bagatelles au Theatre ; mais elles sont tournées d’une maniere si agreable, elles sont placées avec tant d’art, &amp; sont si naturellement dépeintes, qu’on ne doit point s’étonner des applaudissements qu’on leur donne. Pour mériter le nom de Peintre fameux, il n’est pas nécessaire de peindre toûjours de grands Palais, &amp; de n’employer son pinceau qu’aux Portraits des Monarques : une Cabane bien touchée est quelquefois plus estimée de la main d’un habile Homme, qu’un Palais de marbre de celle d’un ignorant ; &amp; le Portrait d’un Roy, qui n’est recommandable que par le nom de la Personne qu’il représente, est moins admiré que celuy d’un Païsan, lors qu’il n’y manque rien de tout ce qui le peut faire regarder comme un bel Ouvrage. La conversation alloit s’échauffer, lorsqu’on vint dire à la Maistresse du Logis, que Cleante estoit prest, &amp; qu’elle pouvoit passer dans la Salle avec toute la Compagnie. Comme chacun se levoit sans sçavoir pourquoy on changeoit de lieu : Il faut, dit la Maistresse du Logis, en arrestant tout le monde, que je vous avertisse d’une chose qui vous surprendra fort. Cleante m’estant venu voir le lendemain que Moliere mourut, nous témoignâmes le regret que nous avions de sa perte. Il me dit qu’il avoit envie de faire son Oraison Funebre ; je me moquay de lui. Il me dit qu’il la feroit, &amp; qu’il la réciteroit mesme devant ceux que je voudrois. J'en demeuray d’accord, &amp; luy dis que j’avois fait faire une Chaise, parce que Moliere devoit venir joüer le Malade Imaginaire chez moy, &amp; qu’elle luy serviroit. Il m’a tenu parole, &amp; nous allons voir s’il s’acquitera bien de ce qu’il m’a promis. Comme Cleante estoit un Homme fort enjoué, &amp; qui divertissoit fort les Compagnies où il estoit, ils passerent tous avec empressement dans la Salle où on les attendoit : Elle estoit toute tenduë de deüil, &amp; remplie d’Ecussons aux Armes du Defunt. Cleante n’eust pas plutost appris que toute la Compagnie avait pris place, qu’ayant pris une Robe noire, il monta en Chaise avec un serieux qui fit rire toute l’Assemblée. Il commença de la sorte.</p>
+        <quote>
+          <p>Oraison</p>
+          <p>Funebre</p>
+          <p>De Moliere</p>
+        </quote>
+        <p rend="citationcar">MA Femme est morte, je la pleure ; si elle vivoit, nous nous querellerions, Acte premier de l’Amour Medecin de l’autheur dont nous pleurons aujourd’huy la perte. Quoy qu’il semble que ces paroles ne conviennent pas au sujet qui m’a fait monter dans cette Chaise, il faut pourtant qu’elles y servent, je sçaurai les y accommoder, &amp; je suivray en cela l’exemple de bien d’autres. Repetons les donc encore une fois ces paroles, pour les appliquer au sujet que nous traitons : Ma Femme est morte, je la pleure ; si elle vivoit, nous nous querellerions. Moliere est mort, plusieurs le pleurent, &amp; s’il vivoit, ils luy porteroient envie. Il est mort, ce grand Reformateur de tout le Genre humain ; ce Peintre des Mœurs, cet Introducteur des Plaisirs, des Ris &amp; des Jeux ; ce Frondeur des vices, ce redoutable Fleau de tous les Turlupins ; &amp; pour tout renfermer en un seul mot, ce Mome de la Terre, qui en a si souvent diverty les Dieux. Je ne puis songer à ce trépas, sans faire éclater mes sanglots. Je voy bien toutefois que vous attendez autre chose de moy que des soûpirs &amp; des larmes ; mais le moyen de s’empescher d’en répandre un torrent ! Que dis-je un torrent ! Ce n’est pas assez. Il en faut verser un Fleuve. Que dis-je un fleuve ! Ce seroit trop peu ; &amp; nos larmes devroient produire une autre Mer. Non, Messieurs, il n’est pas besoin du secours de l’art, pour vous faire voir ce que vous perdez ; la douleur est plus éloquente, plus éloquente, plus éloquente enfin… plus éloquente… Vous entendez bien ce que cela veut dire, &amp; cela suffit. Il faut passer à la Division des Parties de cet Eloge, dont le pauvre Defunt ne me remerciëra pas ; mais avant d’entrer dans cette Division, faisons une pose utile à nos santez, toussons, crachons, &amp; nous mouchons harmonieusement. Il faut quelquefois reprendre haleine, c’est ce qui nous fait vivre. </p>
+        <p rend="citationcar">La Musique a, dit-on, quatre Parties ; mon Discours n’en aura pas moins. Moliere Autheur, &amp; Moliere acteur en feront tout la sujet. Ce ne sont que deux Points, me direz-vous : Vous avez raison ; mais on en peut facilement faire quatre, &amp; voicy comment. Moliere Autheur fera deux points ; c’est à dire que je parleray dans le premier de la beauté de ses Ouvrages, &amp; dans le second des bons effets qu’ils ont produits, en corrigeant tous les Impertinens du Royaume. Moliere Acteur me fournira aussi la matière de deux Points ; &amp; je feray voir que non seulement il joüoit bien la Comédie, mais encor qu’il sçavoit bien la faire joüer. Voila si je compte bien mes quatre Points tout trouvez ; Si je les traite bien, vous ne me trouverez pas trop longs ; mais si je vous ennuye, ce sera trop de la moitié. Passons donc au premier, &amp; parlons de la beauté des Ouvrages du Defunt. Je ne croy pas qu’il soit necessaire de vous en entretenir long-temps ; peu de Gens en doutent ; &amp; ceux qui n’en sont pas persuadez, ne meritent pas d’estre desabusez. En effet, Messieurs, si l’Art qui approche le plus de la Nature, est le plus estimé, ne devons-nous pas admirer les Ouvrages du Defunt ? Les Figures les plus animées des Tableaux de nos plus grands Peintres, ne sont que des Peintures muettes, si nous les comparons à celles des Ouvrages de l’Autheur dont j’ay entrepris le Panegyrique. Quelle fécondité de Génie sur toutes sortes de matieres ! Que n’en tiroit-il point ? Vous l’avez veu ; &amp; vous sçavez qu’il estoit inépuisable sur le Chapitre des Medecins &amp; des Cocus. Mais passons outre, &amp; ne r’ouvrons point les playes de ces Messieurs. Finissons donc ce Point, en disant que le Defunt n’estoit pas seulement un habile Poëte, mais encor un grand Philosophe, Philosophe, me direz-vous., Philosophe ! Un Philosophe doit-il chercher à faire rire ? Démocrite en estoit un, chacun le sçait, &amp; cependant il rioit toûjours. C'estoit trop, il faut quelquefois pleurer : Pleurons donc, puis que c’est aujourd’huy un jour de pleurs. Pleurons tous, pleurons, remplissons nos mouchoirs de larmes. Pendant que vos pleurs couleront, je vais essuyer les miennes, &amp; par ce moyen reprendre haleine pour commencer mon second Point. </p>
+        <p rend="citationcar">Je vous ay promis, Messieurs, de vous faire voir, dans le second Point de cet Eloge Funebre, de quelle utilité les Ouvrages du Defunt ont esté au Public ; mais avant de vous le prouver, il est à propos de parler de tous ceux contre lesquels il a écrit. Il a joüé les Jeunes, les Vieux, les Sains, les Malades, les Cocus, les Jaloux, les Marquis, les Villageois, les Hipocrites, les Imposteurs, les Campagnards, les Prétieuses, les Fâcheux, les Avocats, les Ignorans, les Procureurs, les Misantropes, les Medecins, les Apoticaires, les Chirurgiens, les Avares, les Bourgeois qui affectent d’estre de Qualité, les Philosophes, les Autheurs, les Provinciaux, les Faux Braves, les grands Diseurs de rien, les Gens qui n’aiment qu’à contredire, les Coquettes, les Joüeurs, les Donneurs d’Avis, les Uzuriers, les Sergens, les Archers, &amp; tous les Impertinens enfin, de tout Sexe, de tout âge &amp; de toute condition. Que tous ces Noms m’ont altéré ! Je n’en puis plus ; &amp; si je ne buvois à vostre santé, je ne pourrois pas achever ce que j’ay entrepris. </p>
+        <p rend="citationcar">Je puis presentement continuer, &amp; je sens que je me porte assez bien. Disons donc que tous ceux que notre Autheur a joüez luy ont obligation. En faisant voir des Portraits de l’Avarice, il a fait honte aux Avares, &amp; leur a inspiré de la liberalité. En rendant ridicules ceux qui rencherissoient sur les Modes, il les a rendus plus sages. Ah ! combien de Cocus a-t-il empeschez de prendre leurs Gands &amp; leur Manteau, en voyant entrer chez eux les Galants de leurs Femmes ? Combien a-t-il fait changer de langage prétieux, aboly de Turlupinades ? Combien a-t-il redressé de Marquis à gros dos ? Combien a-t-il épargné de sang à toute la France, en faisant voir l’inutilité des frequentes Saignées ? Combien de Medecines ameres a-t-il empesché de prendre ? &amp; combien aussi a-t-il guery de Foux ? Quoy que tous ceux que je viens de nommer ayent obligation au Defunt, chacun en particulier, toute la France luy est obligée en general de l’avoir tant fait rire. Le Rire, Messieurs, est une chose merveilleuse, &amp; dont l’utilité est d’une utilité..... Vous l’allez voir par mon raisonnement : Le Rire délasse ceux qui travaillent du corps, il réjoüit l’esprit des Gens de Lettres ; &amp; défatigant ceux qui sont occupez aux grandes affaires, il est mesme utile aux Monarques. Puisqu’il est utile, la Comedie la doit estre ; si la Comedie est utile, les Comediens le sont ; si les Comediens sont utiles, les Autheurs le sont encor davantage ; si les Autheurs le sont, Moliere a dû l’estre beaucoup ; &amp; s’il l’a esté nous devons pleurer sa perte. Pleurons la donc, Messieurs, pleurons la ; mais pendant que nous la pleurerons, écoutons ces Violons qui la pleurent aussi<note n="1" place="bottom">Les Violons jouënt languissamment.</note>. C'est assez. Messieurs, c’est assez ; la maniere de joüer de cet inimitable Acteur me réveille, &amp; puis qu’elle fait le sujet de mon troisiéme Point, il faut que j’en parle sans attendre davantage. Les Anciens n’ont jamais eu d’Acteur égal à celuy dont nous pleurons aujourd’huy la perte ; &amp; Rocius, ce fameux Comedien de l’Antiquité, luy auroit cedé le premier rang s’il avoit vécu de son temps : C'est avec justice, Messieurs, qu’il le meritoit ; Il estoit tout Comedien depuis les pieds jusques à la teste ; il sembloit qu’il eut plusieurs voix, tout parloit en luy ; &amp; d’un pas, d’un soûrire, d’un clin d’œil, &amp; d’un remuëment de teste, il faisoit plus concevoir de choses que le plus grand Parleur n’auroit pû dire en une heure. Ah ! qu’un si grand Comedien meritoit bien d’avoir pour representer ses Ouvrages le Theatre de Marcus Scaurus ! Ce Theatre avoit sur sa hauteur trois cens soixante Colomnes en trois rangs, les unes sur les autres, où les trois Ordres estoient exactement observez. Le premier rang estoit de marbre, le second de verre, &amp; le troisième estoit tout brillant d’or ; Les plus basses Colomnes avoient trente-huit pieds de hauteur, &amp; il y avoit entre ces Colonnes trois mille Statuës d’airain. N'est-ce pas avec raison que les beaux Ouvrages de Moliere meritoient un aussi beau Theatre pour estre représentez, &amp; n’est-ce pas avec justice que.... car voyez-vous, Messieurs, si.... la raison.... vous sçavez que lors que.... Viens au secours de ma memoire, incomparable Acteur, &amp; puis que tu n’en as jamais manqué, donne-moy un peu de la tienne, aussi bien n’en as-tu que faire : Inspire-moy donc..... Ah ! Messieurs, les voila les Oeuvres de ce grand Homme ; Elles parleront mieux pour luy que je ne pourrois faire. Voila tous les Enfans dont il est le Pere : Ils sont cheris ces Enfans, de tous les Princes du Monde. Ah ! belles œuvres, que vous estes estimées par tout ! Et pour vous faire voir, Messieurs, que je dis vray, les voila en François, en Italien, en Espagnol, en Allemand ; &amp; par l’ordre du Grand Vizir, l’on travaille à les traduire en Turc. Ah pleurons la perte d’un si grand Homme, nous ne le pouvons trop regretter ; mais réjoüissons-nous plutost de ce qu’il estoit né chez nous, &amp; de ce qu’il vivra au Temple de Memoire. Pleurons de l’avoir perdu si jeune ; mais plutost que de perdre le temps à pleurer, passons à notre dernier Point, que je traitteray en peu de paroles. Il me sera facile, puisque j’y dois faire voir que notre Illustre Acteur excelloit dans l’Art de bien faire joüer la Comedie. Est-il quelqu’un qui n’en demeure pas d’accord, apres avoir veu de quelle maniere il faisoit joüer jusques aux enfans ? On voit par là que ce n’est pas sans raison qu’il disoit, qu’il feroit joüer jusques à des Fagots. Des Fagots Acteurs ! des Fagots ! Oüy, Messieurs, des Fagots ; &amp; il en est à la Comedie, qui auroient besoin de luy pour les rendre plus utiles qu’ils ne le sont. Ces veritez estant incontestables, voila mon quatriéme Point finy ; mais je ne suis pas pour cela au bout de ma carrière ; il faut des récapitulations d’une partie de ce que j’ay dit, il faut tirer de la Morale, il faut toucher les cœurs, il faut faire verser des larmes. Mais qui pourroit s’empescher d’en répandre apres la perte d’un si grand homme ! Avec son esprit il auroit pû tromper la Mort, si elle ne l’avoit point pris en traistre. Que dis-je en traistre ? On ne sçait si la Mort l’a trompé, ou s’il a trompé la Mort ; mais soit qu’il l’ait trompée, ou qu’elle l’ait surpris, il ne vit plus ce grand Homme. Ah ! tristes Comediens, ou du moins qui devez l’estre, que tous vos Theatres soient desormais aussi noirs que ma Robe ; n’y paroissez qu’avec des habits de Deüil, que tous vos Auditeurs le prennent, &amp; que chacun continuë d’écrire à sa gloire, comme on a commencé. En voila des preuves de toutes manières : Voilà des Epitaphes, voila des Sonnets, voila des Elegies<note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il montre quatre grosses liaces de Papiers.</hi></note>, &amp; voila des Eloges en Prose. Auroit-on tant écrit si le Defunt n’avoit eu du mérite ? Oüy, Messieurs, il en avoit, &amp; ses Ennemis mesmes en sont toûjours demeurez d’accord. Il faut finir, Messieurs : Mais que vois-je ! Tant d’Ecussons aux Armes du Defunt réveillent ma douleur. Vous les voyez, Messieurs, ces Armes parlantes, qui font connoistre ce que notre Illustre Autheur sçavait faire. Ces miroirs montrent qu’il voyoit tout ; ces Singes, qu’il contrefaisoit bien tout ce qu’il voyoit ; &amp; ces Masques qu’il a bien démasqué des Gens, ou plutost des Vices qui se cachoient sous de faux masques. Ce grand Peintre moral est presentement avec les Dieux, qu’il est allé faire rire de leurs propres defauts. Momus a d’abord esté le recevoir ; &amp; vous allez voir ce qui s’est passé à leur entrevuë. Paroissez, Momus, paroissez, Moliere, &amp; satisfaites la curiosité de l’Assemblée. </p>
+        <quote>
+          <p>Deux marionnettes paroissent aux deux coins de la Chaise.</p>
+        </quote>
+        <head rend="center">
+          <seg rend="citationcar">Momus.</seg>
+        </head>
+        <p><seg rend="citationcar">Que nous sommes obligez à la Mort, de nous avoir envoyé l’Illustre Moliere, dont le nom fait tant de bruit par tout le Monde</seg> !</p>
+        <head rend="center">
+          <seg rend="citationcar">Moliere.</seg>
+        </head>
+        <p rend="citationcar">Vous voyez, cher Momus, je viens voir les Dieux ; &amp; j’ay voulu joüer la Mort, afin qu’elle me prit, croyant se vanger, &amp; je l’ay trompée par ce stratagéme. </p>
+        <head rend="center">
+          <seg rend="citationcar">Momus.</seg>
+        </head>
+        <p rend="citationcar">Vous ne me dites pas tout, vous vous entendez avec la Mort, &amp; vous venez voir les defauts des Dieux, pour en aller divertir les mortels. </p>
+        <head rend="center">
+          <seg rend="citationcar">Moliere.</seg>
+        </head>
+        <p rend="citationcar">Non, Momus, je ne puis plus retourner au Monde. </p>
+        <head rend="center">
+          <seg rend="citationcar">Momus.</seg>
+        </head>
+        <p rend="citationcar">J'en suis fâché ; car les Dieux ne m’estimeront plus, &amp; vous les divertirez mieux que moy. </p>
+        <head rend="center">
+          <seg rend="citationcar">Moliere.</seg>
+        </head>
+        <p rend="citationcar">J'espère les bien divertir. </p>
+        <head rend="center">
+          <seg rend="citationcar">Momus.</seg>
+        </head>
+        <p rend="citationcar">Il faut du temps pour les bien connoistre. </p>
+        <head rend="center">
+          <seg rend="citationcar">Moliere.</seg>
+        </head>
+        <p rend="citationcar">Pas tant que vous pensez. </p>
+        <head rend="center">
+          <seg rend="citationcar">Momus.</seg>
+        </head>
+        <p rend="citationcar">C’est assez, vous pouriez vous échauffer. Loin de nous quereller, allez songer à vous unir, pour bien divertir les Dieux. </p>
+        <p rend="citationcar">Ce Dialogue vous a fait croire un moment que Moliere n’estoit pas mort ; mais il faut r’ouvrir vos playes, &amp; vous le faire voir sans parole &amp; sans vie : il faut vous faire voir son Tombeau. Hastez-vous. Est-il achevé ? Estes-vous prests ? Faites-nous voir ce qui doit renouveller nos douleurs. </p>
+        <quote>
+          <p>On tire un rideau de deuil, &amp; le mausolée paroist.</p>
+        </quote>
+        <p rend="citationcar">Ah que voy-je ! Je ne puis sans mourir regarder cet Illustre Défunt.<note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il s’enfonce dans la Chaise.</hi></note> Fuyons ces objets funebres. <note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il se releve.</hi></note>Il faut pourtant avoir un peu de fermeté, &amp; regarder ce Tombeau ; Tombeau, qui renfermez les ris &amp; les jeux ; Tombeau, qui renfermez la joye ; Tombeau... Tombeau... Tombeau... C’est un Tombeau, Messieurs, &amp; vous le voyez bien. Tous les Poëtes de l’antiquité remplissent ces niches ; &amp; les plus Comiques soûtiennent.... Ah ! Messieurs, je ne puis achever, quand je voy que les yeux de cet illustre Autheur sont fermez pour jamais ; je ne puis retenir mes larmes. Démocrite n’avoit jamais pleuré, &amp; vous voyez ce Philosophe le mouchoir à la main. Ephestion mourut de rire, &amp; cependant vous le voyez aujourd’huy fondre en larmes auprès du Tombeau de cet Illustre Défunt. Ah remplissons toutes ces urnes avec l’eau de nos pleurs. Il nous en a fait répandre de joye, versons-en de douleur auprès de son Tombeau ; honorons-le de toutes manieres. Riches, faites faire des Statuës à sa gloire. Beaux Esprits, apportez des Ouvrages qui ne chantent que ses louanges. Et vous, Peuples, donnez-luy des larmes, si vous ne les pouvez accompagner d’autre chose. Il est mort, ce grand Homme, mais il est mort trop tost pour luy, trop tost pour les siens, trop tost pour ses Camarades, trop tost pour les grands divertissemens de son Prince, trop tost pour les Libraires, Musiciens, Danceurs &amp; Peintres, &amp; trop tost enfin pour toute la Terre. Il est mort, &amp; nous vivons ; cependant il vivra apres nous, il vivra toûjours, &amp; nous mourrons ; c’est le destin des grands Hommes. </p>
+        <p>Cette Oraison Funebre fut à peine achevée, que chacun se leva, &amp; donna mille loüanges à Cleante, qui tourna luy-mesme en plaisanterie ce qu’il venoit de faire. Comme il estoit tard, chacun se retira bientost apres.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
