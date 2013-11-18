@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/tei2html.xsl"?>-->
-<!--odt2tei: 2013-11-14T21:20:28+01:00-->
+<?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
+<!--odt2tei: 2013-11-18T15:17:30+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-4" xml:lang="">
   <teiHeader>
     <fileDesc>
@@ -15,15 +15,15 @@
           <resp> ?</resp>
         </respStmt>
         <respStmt>
-          <name>Alexandre De Craim</name>
+          <name/>
           <resp> ?</resp>
         </respStmt>
       </editionStmt>
       <extent>
         <measure quantity="17" unit="page"/>
         <measure quantity="399" unit="paragraph"/>
-        <measure quantity="7761" unit="word"/>
-        <measure quantity="43498" unit="character"/>
+        <measure quantity="7760" unit="word"/>
+        <measure quantity="43496" unit="character"/>
       </extent>
       <publicationStmt>
         <publisher> ?</publisher>
@@ -378,8 +378,8 @@
         <quote>
           <l>Pieces</l>
           <l>en Vers,</l>
-          <l rend="sc">Sur la </l>
-          <l rend="sc">Mort de Moliere. </l>
+          <l>Sur la</l>
+          <l>Mort de Moliere.</l>
           <l>Si dans son Art, c’est estre un Ouvrier parfait,</l>
           <l>Que sçavoir trait pour trait</l>
           <l>Imiter la Nature</l>
@@ -476,46 +476,46 @@
         <p rend="citationcar">Je vous ay promis, Messieurs, de vous faire voir, dans le second Point de cet Eloge Funebre, de quelle utilité les Ouvrages du Defunt ont esté au Public ; mais avant de vous le prouver, il est à propos de parler de tous ceux contre lesquels il a écrit. Il a joüé les Jeunes, les Vieux, les Sains, les Malades, les Cocus, les Jaloux, les Marquis, les Villageois, les Hipocrites, les Imposteurs, les Campagnards, les Prétieuses, les Fâcheux, les Avocats, les Ignorans, les Procureurs, les Misantropes, les Medecins, les Apoticaires, les Chirurgiens, les Avares, les Bourgeois qui affectent d’estre de Qualité, les Philosophes, les Autheurs, les Provinciaux, les Faux Braves, les grands Diseurs de rien, les Gens qui n’aiment qu’à contredire, les Coquettes, les Joüeurs, les Donneurs d’Avis, les Uzuriers, les Sergens, les Archers, &amp; tous les Impertinens enfin, de tout Sexe, de tout âge &amp; de toute condition. Que tous ces Noms m’ont altéré ! Je n’en puis plus ; &amp; si je ne buvois à vostre santé, je ne pourrois pas achever ce que j’ay entrepris. </p>
         <p rend="citationcar">Je puis presentement continuer, &amp; je sens que je me porte assez bien. Disons donc que tous ceux que notre Autheur a joüez luy ont obligation. En faisant voir des Portraits de l’Avarice, il a fait honte aux Avares, &amp; leur a inspiré de la liberalité. En rendant ridicules ceux qui rencherissoient sur les Modes, il les a rendus plus sages. Ah ! combien de Cocus a-t-il empeschez de prendre leurs Gands &amp; leur Manteau, en voyant entrer chez eux les Galants de leurs Femmes ? Combien a-t-il fait changer de langage prétieux, aboly de Turlupinades ? Combien a-t-il redressé de Marquis à gros dos ? Combien a-t-il épargné de sang à toute la France, en faisant voir l’inutilité des frequentes Saignées ? Combien de Medecines ameres a-t-il empesché de prendre ? &amp; combien aussi a-t-il guery de Foux ? Quoy que tous ceux que je viens de nommer ayent obligation au Defunt, chacun en particulier, toute la France luy est obligée en general de l’avoir tant fait rire. Le Rire, Messieurs, est une chose merveilleuse, &amp; dont l’utilité est d’une utilité..... Vous l’allez voir par mon raisonnement : Le Rire délasse ceux qui travaillent du corps, il réjoüit l’esprit des Gens de Lettres ; &amp; défatigant ceux qui sont occupez aux grandes affaires, il est mesme utile aux Monarques. Puisqu’il est utile, la Comedie la doit estre ; si la Comedie est utile, les Comediens le sont ; si les Comediens sont utiles, les Autheurs le sont encor davantage ; si les Autheurs le sont, Moliere a dû l’estre beaucoup ; &amp; s’il l’a esté nous devons pleurer sa perte. Pleurons la donc, Messieurs, pleurons la ; mais pendant que nous la pleurerons, écoutons ces Violons qui la pleurent aussi<note n="1" place="bottom">Les Violons jouënt languissamment.</note>. C'est assez. Messieurs, c’est assez ; la maniere de joüer de cet inimitable Acteur me réveille, &amp; puis qu’elle fait le sujet de mon troisiéme Point, il faut que j’en parle sans attendre davantage. Les Anciens n’ont jamais eu d’Acteur égal à celuy dont nous pleurons aujourd’huy la perte ; &amp; Rocius, ce fameux Comedien de l’Antiquité, luy auroit cedé le premier rang s’il avoit vécu de son temps : C'est avec justice, Messieurs, qu’il le meritoit ; Il estoit tout Comedien depuis les pieds jusques à la teste ; il sembloit qu’il eut plusieurs voix, tout parloit en luy ; &amp; d’un pas, d’un soûrire, d’un clin d’œil, &amp; d’un remuëment de teste, il faisoit plus concevoir de choses que le plus grand Parleur n’auroit pû dire en une heure. Ah ! qu’un si grand Comedien meritoit bien d’avoir pour representer ses Ouvrages le Theatre de Marcus Scaurus ! Ce Theatre avoit sur sa hauteur trois cens soixante Colomnes en trois rangs, les unes sur les autres, où les trois Ordres estoient exactement observez. Le premier rang estoit de marbre, le second de verre, &amp; le troisième estoit tout brillant d’or ; Les plus basses Colomnes avoient trente-huit pieds de hauteur, &amp; il y avoit entre ces Colonnes trois mille Statuës d’airain. N'est-ce pas avec raison que les beaux Ouvrages de Moliere meritoient un aussi beau Theatre pour estre représentez, &amp; n’est-ce pas avec justice que.... car voyez-vous, Messieurs, si.... la raison.... vous sçavez que lors que.... Viens au secours de ma memoire, incomparable Acteur, &amp; puis que tu n’en as jamais manqué, donne-moy un peu de la tienne, aussi bien n’en as-tu que faire : Inspire-moy donc..... Ah ! Messieurs, les voila les Oeuvres de ce grand Homme ; Elles parleront mieux pour luy que je ne pourrois faire. Voila tous les Enfans dont il est le Pere : Ils sont cheris ces Enfans, de tous les Princes du Monde. Ah ! belles œuvres, que vous estes estimées par tout ! Et pour vous faire voir, Messieurs, que je dis vray, les voila en François, en Italien, en Espagnol, en Allemand ; &amp; par l’ordre du Grand Vizir, l’on travaille à les traduire en Turc. Ah pleurons la perte d’un si grand Homme, nous ne le pouvons trop regretter ; mais réjoüissons-nous plutost de ce qu’il estoit né chez nous, &amp; de ce qu’il vivra au Temple de Memoire. Pleurons de l’avoir perdu si jeune ; mais plutost que de perdre le temps à pleurer, passons à notre dernier Point, que je traitteray en peu de paroles. Il me sera facile, puisque j’y dois faire voir que notre Illustre Acteur excelloit dans l’Art de bien faire joüer la Comedie. Est-il quelqu’un qui n’en demeure pas d’accord, apres avoir veu de quelle maniere il faisoit joüer jusques aux enfans ? On voit par là que ce n’est pas sans raison qu’il disoit, qu’il feroit joüer jusques à des Fagots. Des Fagots Acteurs ! des Fagots ! Oüy, Messieurs, des Fagots ; &amp; il en est à la Comedie, qui auroient besoin de luy pour les rendre plus utiles qu’ils ne le sont. Ces veritez estant incontestables, voila mon quatriéme Point finy ; mais je ne suis pas pour cela au bout de ma carrière ; il faut des récapitulations d’une partie de ce que j’ay dit, il faut tirer de la Morale, il faut toucher les cœurs, il faut faire verser des larmes. Mais qui pourroit s’empescher d’en répandre apres la perte d’un si grand homme ! Avec son esprit il auroit pû tromper la Mort, si elle ne l’avoit point pris en traistre. Que dis-je en traistre ? On ne sçait si la Mort l’a trompé, ou s’il a trompé la Mort ; mais soit qu’il l’ait trompée, ou qu’elle l’ait surpris, il ne vit plus ce grand Homme. Ah ! tristes Comediens, ou du moins qui devez l’estre, que tous vos Theatres soient desormais aussi noirs que ma Robe ; n’y paroissez qu’avec des habits de Deüil, que tous vos Auditeurs le prennent, &amp; que chacun continuë d’écrire à sa gloire, comme on a commencé. En voila des preuves de toutes manières : Voilà des Epitaphes, voila des Sonnets, voila des Elegies<note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il montre quatre grosses liaces de Papiers.</hi></note>, &amp; voila des Eloges en Prose. Auroit-on tant écrit si le Defunt n’avoit eu du mérite ? Oüy, Messieurs, il en avoit, &amp; ses Ennemis mesmes en sont toûjours demeurez d’accord. Il faut finir, Messieurs : Mais que vois-je ! Tant d’Ecussons aux Armes du Defunt réveillent ma douleur. Vous les voyez, Messieurs, ces Armes parlantes, qui font connoistre ce que notre Illustre Autheur sçavait faire. Ces miroirs montrent qu’il voyoit tout ; ces Singes, qu’il contrefaisoit bien tout ce qu’il voyoit ; &amp; ces Masques qu’il a bien démasqué des Gens, ou plutost des Vices qui se cachoient sous de faux masques. Ce grand Peintre moral est presentement avec les Dieux, qu’il est allé faire rire de leurs propres defauts. Momus a d’abord esté le recevoir ; &amp; vous allez voir ce qui s’est passé à leur entrevuë. Paroissez, Momus, paroissez, Moliere, &amp; satisfaites la curiosité de l’Assemblée. </p>
         <quote>
-          <p>Deux marionnettes paroissent aux deux coins de la Chaise.</p>
-        </quote>
-        <head rend="center">
-          <seg rend="citationcar">Momus.</seg>
-        </head>
-        <p><seg rend="citationcar">Que nous sommes obligez à la Mort, de nous avoir envoyé l’Illustre Moliere, dont le nom fait tant de bruit par tout le Monde</seg> !</p>
-        <head rend="center">
-          <seg rend="citationcar">Moliere.</seg>
-        </head>
-        <p rend="citationcar">Vous voyez, cher Momus, je viens voir les Dieux ; &amp; j’ay voulu joüer la Mort, afin qu’elle me prit, croyant se vanger, &amp; je l’ay trompée par ce stratagéme. </p>
-        <head rend="center">
-          <seg rend="citationcar">Momus.</seg>
-        </head>
-        <p rend="citationcar">Vous ne me dites pas tout, vous vous entendez avec la Mort, &amp; vous venez voir les defauts des Dieux, pour en aller divertir les mortels. </p>
-        <head rend="center">
-          <seg rend="citationcar">Moliere.</seg>
-        </head>
-        <p rend="citationcar">Non, Momus, je ne puis plus retourner au Monde. </p>
-        <head rend="center">
-          <seg rend="citationcar">Momus.</seg>
-        </head>
-        <p rend="citationcar">J'en suis fâché ; car les Dieux ne m’estimeront plus, &amp; vous les divertirez mieux que moy. </p>
-        <head rend="center">
-          <seg rend="citationcar">Moliere.</seg>
-        </head>
-        <p rend="citationcar">J'espère les bien divertir. </p>
-        <head rend="center">
-          <seg rend="citationcar">Momus.</seg>
-        </head>
-        <p rend="citationcar">Il faut du temps pour les bien connoistre. </p>
-        <head rend="center">
-          <seg rend="citationcar">Moliere.</seg>
-        </head>
-        <p rend="citationcar">Pas tant que vous pensez. </p>
-        <head rend="center">
-          <seg rend="citationcar">Momus.</seg>
-        </head>
-        <p rend="citationcar">C’est assez, vous pouriez vous échauffer. Loin de nous quereller, allez songer à vous unir, pour bien divertir les Dieux. </p>
-        <p rend="citationcar">Ce Dialogue vous a fait croire un moment que Moliere n’estoit pas mort ; mais il faut r’ouvrir vos playes, &amp; vous le faire voir sans parole &amp; sans vie : il faut vous faire voir son Tombeau. Hastez-vous. Est-il achevé ? Estes-vous prests ? Faites-nous voir ce qui doit renouveller nos douleurs. </p>
-        <quote>
+          
+            <p>Deux marionnettes paroissent aux deux coins de la Chaise.</p>
+          
+          <label rend="center">
+            <seg rend="citationcar">Momus.</seg>
+          </label>
+          <p><seg rend="citationcar">Que nous sommes obligez à la Mort, de nous avoir envoyé l’Illustre Moliere, dont le nom fait tant de bruit par tout le Monde</seg> !</p>
+          <label rend="center">
+            <seg rend="citationcar">Moliere.</seg>
+          </label>
+          <p rend="citationcar">Vous voyez, cher Momus, je viens voir les Dieux ; &amp; j’ay voulu joüer la Mort, afin qu’elle me prit, croyant se vanger, &amp; je l’ay trompée par ce stratagéme. </p>
+          <label rend="center">
+            <seg rend="citationcar">Momus.</seg>
+          </label>
+          <p rend="citationcar">Vous ne me dites pas tout, vous vous entendez avec la Mort, &amp; vous venez voir les defauts des Dieux, pour en aller divertir les mortels. </p>
+          <label rend="center">
+            <seg rend="citationcar">Moliere.</seg>
+          </label>
+          <p rend="citationcar">Non, Momus, je ne puis plus retourner au Monde. </p>
+          <label rend="center">
+            <seg rend="citationcar">Momus.</seg>
+          </label>
+          <p rend="citationcar">J'en suis fâché ; car les Dieux ne m’estimeront plus, &amp; vous les divertirez mieux que moy. </p>
+          <label rend="center">
+            <seg rend="citationcar">Moliere.</seg>
+          </label>
+          <p rend="citationcar">J'espère les bien divertir. </p>
+          <label rend="center">
+            <seg rend="citationcar">Momus.</seg>
+          </label>
+          <p rend="citationcar">Il faut du temps pour les bien connoistre. </p>
+          <label rend="center">
+            <seg rend="citationcar">Moliere.</seg>
+          </label>
+          <p rend="citationcar">Pas tant que vous pensez. </p>
+          <label rend="center">
+            <seg rend="citationcar">Momus.</seg>
+          </label>
+          <p rend="citationcar">C’est assez, vous pouriez vous échauffer. Loin de nous quereller, allez songer à vous unir, pour bien divertir les Dieux. </p>
+          <p rend="citationcar">Ce Dialogue vous a fait croire un moment que Moliere n’estoit pas mort ; mais il faut r’ouvrir vos playes, &amp; vous le faire voir sans parole &amp; sans vie : il faut vous faire voir son Tombeau. Hastez-vous. Est-il achevé ? Estes-vous prests ? Faites-nous voir ce qui doit renouveller nos douleurs. </p>
           <p>On tire un rideau de deuil, &amp; le mausolée paroist.</p>
         </quote>
         <p rend="citationcar">Ah que voy-je ! Je ne puis sans mourir regarder cet Illustre Défunt.<note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il s’enfonce dans la Chaise.</hi></note> Fuyons ces objets funebres. <note n="*" place="bottom"><hi rend="sup">*</hi><hi rend="i">Il se releve.</hi></note>Il faut pourtant avoir un peu de fermeté, &amp; regarder ce Tombeau ; Tombeau, qui renfermez les ris &amp; les jeux ; Tombeau, qui renfermez la joye ; Tombeau... Tombeau... Tombeau... C’est un Tombeau, Messieurs, &amp; vous le voyez bien. Tous les Poëtes de l’antiquité remplissent ces niches ; &amp; les plus Comiques soûtiennent.... Ah ! Messieurs, je ne puis achever, quand je voy que les yeux de cet illustre Autheur sont fermez pour jamais ; je ne puis retenir mes larmes. Démocrite n’avoit jamais pleuré, &amp; vous voyez ce Philosophe le mouchoir à la main. Ephestion mourut de rire, &amp; cependant vous le voyez aujourd’huy fondre en larmes auprès du Tombeau de cet Illustre Défunt. Ah remplissons toutes ces urnes avec l’eau de nos pleurs. Il nous en a fait répandre de joye, versons-en de douleur auprès de son Tombeau ; honorons-le de toutes manieres. Riches, faites faire des Statuës à sa gloire. Beaux Esprits, apportez des Ouvrages qui ne chantent que ses louanges. Et vous, Peuples, donnez-luy des larmes, si vous ne les pouvez accompagner d’autre chose. Il est mort, ce grand Homme, mais il est mort trop tost pour luy, trop tost pour les siens, trop tost pour ses Camarades, trop tost pour les grands divertissemens de son Prince, trop tost pour les Libraires, Musiciens, Danceurs &amp; Peintres, &amp; trop tost enfin pour toute la Terre. Il est mort, &amp; nous vivons ; cependant il vivra apres nous, il vivra toûjours, &amp; nous mourrons ; c’est le destin des grands Hommes. </p>
