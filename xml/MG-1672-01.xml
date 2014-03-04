@@ -6,10 +6,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant</title>
+        <title>Mercure Galant, tome I, 1672</title>
       </titleStmt>
       <editionStmt>
-        <edition>OBVIL</edition>
+        <edition>OBVIL/IREMUS</edition>
         <respStmt>
           <name>Alexandre De Craim</name>
           <resp>Edition numérique</resp>
@@ -18,27 +18,31 @@
       <publicationStmt>
         <publisher>OBVIL</publisher>
         <date when="2014"/>
-        <idno type="application/tei+xml">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-01.xml</idno>
+        <idno type="application/tei+xml"
+          >http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-01.xml</idno>
         <availability status="restricted">
           <licence target=" ? ">License ?</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl> ?</bibl>
+        <bibl>
+          <title> Le Mercure Galant </title>
+          <publisher>Théodore Girard</publisher>
+          <date>1672</date>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when=" ? "/>
+        <date when="1672"/>
       </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <pb/>
       <head><hi rend="i">Mercure galant</hi>, tome 1 [janvier-avril], 1672.</head>
       <div>
         <head>Le Libraire au lecteur</head>
