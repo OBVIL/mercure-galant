@@ -1,54 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1673_02" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1673_02" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt> </titleStmt>
+      <titleStmt>
+        <title>Mercure Galant, tome II, 1673</title>
+      </titleStmt>
       <editionStmt>
-        <edition> ?</edition>
+        <edition>OBVIL/IREMUS</edition>
         <respStmt>
           <name>Alexandre De Craim</name>
-          <resp> ?</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp> ?</resp>
+          <resp>Edition numérique</resp>
         </respStmt>
       </editionStmt>
-      <extent>
-        <measure quantity="17" unit="page"/>
-        <measure quantity="329" unit="paragraph"/>
-        <measure quantity="12748" unit="word"/>
-        <measure quantity="72056" unit="character"/>
-      </extent>
       <publicationStmt>
-        <publisher> ?</publisher>
+        <publisher>OBVIL</publisher>
         <date when="2014"/>
-        <idno> ?</idno>
+        <idno type="application/tei+xml"
+          >http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-01.xml</idno>
         <availability status="restricted">
           <licence target=" ? ">License ?</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl> ?</bibl>
+        <bibl>
+          <title> Le Mercure Galant, tome II</title>
+          <publisher>Claude Barbin</publisher>
+          <date>1673</date>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when=" ? "/>
+        <date when="1673"/>
       </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div type="titreprincipal">
-        <pb/>
-        <head><hi rend="i">Mercure galant</hi>, tome 2 [mai-juillet 1672], 1673.</head>
-      </div>
+      <head><hi rend="i">Mercure galant</hi>, tome 2 [mai-juillet 1672], 1673.</head>
       <div>
         <head>Préface.</head>
         <bibl>[1673-02_000] <title>Mercure galant</title>, tome 2 [mai-juillet 1672], 1673,

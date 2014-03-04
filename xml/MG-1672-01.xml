@@ -2,7 +2,7 @@
 <!-- <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1673_01" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1672_01" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,7 +26,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title> Le Mercure Galant </title>
+          <title> Le Mercure Galant</title>
           <publisher>Théodore Girard</publisher>
           <date>1672</date>
         </bibl>
@@ -135,7 +135,7 @@
           sçeu de tout le monde, je vous informeray de ce qu’en croiront ceux qui devront les mieux
           sçavoir que les autres. Si je puis venir à bout de mon dessein, &amp; que vous conserviez
           mes Lettres, elles pouront dans l’avenir servir de Memoires aux Curieux, &amp; l’on y
-          trouvera beaucoup de choses qui ne pourront se rencontrer ailleurs, à cause de da
+          trouvera beaucoup de choses qui ne pourront se rencontrer ailleurs, à cause de la
           diversité des matieres dont elles seront remplies ; mais il m’importe peu qu’elles soient
           utiles à d’autres, pourveu qu’elles vous divertissent : c’est mon unique but, &amp; c’est
           pourquoi je commence par une Histoire avant que d’entrer dans le détail des nouvelles de
