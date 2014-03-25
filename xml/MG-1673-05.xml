@@ -46,9 +46,9 @@
   <text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, tome 5, 1673.</head>
-      <div>
+      <div xml:id="MG-1674-5_000">
         <head>Au Lecteur</head>
-        <bibl>[1674-5_000] <title>Mercure galant</title>, tome 5, 1674, p. I-VI.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. I-VI.</bibl>
         <p>SI cet Ouvrage n’avoit pas eu quelque approbation, &amp; si la suite n’en avoit pas esté
           demandée avec empressement, on ne l’auroit pas continué, &amp; l’on n’en verroit pas
           paroistre à la fois le Cinquiéme &amp; le Sixiéme Tome. Ils contiennent outre les
@@ -70,9 +70,9 @@
           pourquoy il seroit inutile de les luy marquer. Il ne me reste plus qu’à l’avertir que l’on
           continuëra toûjours le Mercure Galant.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_001">
         <head>Eugenio. <hi rend="i">Nouvelle</hi></head>
-        <bibl>[1674-5_001] <title>Mercure galant</title>, tome 5, 1674, p. 1-75.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 1-75.</bibl>
         <p>PUIS que vous souhaitez, Madame, que je continue de vous apprendre toutes sortes de
           Nouvelles de la maniere que j’ay fait depuis plus d’un an &amp; demy, je vais satisfaire
           vostre curiosité avec le plus d’exactitude qu’il me sera possible. Je vous entretiendray
@@ -481,9 +481,9 @@
           parla des nouvelles de guerre, &amp; l’on raisonna sur le depart &amp; sur la marche du
           Roy, qui faisoit trembler toute la Flandre.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_082">
         <head>L’Amour aux Dames de Dijon</head>
-        <bibl>[1674-5_082] <title>Mercure galant</title>, tome 5, 1674, p. 82-89.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 82-89.</bibl>
         <p>Cette avanture, poursuivit le mesme, a donné lieu à des Vers tres-galants que l’on a fait
           sous le nom de l’Amour. En achevant ces paroles, il les tira de sa poche ; &amp; la
           Compagnie l’ayant prié de les lire, il commença de la sorte.</p>
@@ -569,9 +569,9 @@
           nouvelles de guerre, furent ravis qu’on en avoit parlé, parce qu’elles avoient donné lieu
           à la lecture de cette Piece.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_098">
         <head>Le Soldat malgré luy. <hi rend="i">Nouvelle</hi></head>
-        <bibl>[1674-5_098] <title>Mercure galant</title>, tome 5, 1674, p. 98-155.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 98-155.</bibl>
         <p>Comme la diversité plaist, &amp; qu’on aime quelquefois à entendre parler des choses qui
           ne seroient pas agreables, si l’on s’y arrestoit trop long temps, je croy qu’il seroit à
           propos de passer à quelque Histoire. En voicy une où l’Amour a plus de part que la Guerre,
@@ -705,9 +705,9 @@
           le veuvage de Dorotée, il se marierent ; &amp; la maniere dont ils vivent fait croire
           qu'ils ne se sont jamais mieux aimez.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_135">
         <head>Le Miroir. <hi rend="i">Nouvelle</hi></head>
-        <bibl>[1674-5_135] <title>Mercure galant</title>, tome 5, 1674, p. 135-155.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 135-155.</bibl>
         <p>[…] passons au recit d’une maniere d’aventure qui vous suprendra, quoy qu’il en arrive
           souvent de pareilles à Paris.</p>
         <label rend="center b">Le Miroir.</label>
@@ -813,9 +813,9 @@
           esté aisé de deviner ce qu’elle avoit dit, lors qu’elle l’avoit veu resver en cherchant de
           l’argent dans sa poche.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_258">
         <head>[Etablissement de la Troupe du Roy au bout de la Ruë de Guenegaud]</head>
-        <bibl>[1674-5_258] <title>Mercure galant</title>, tome 5, 1674, p. 258-260.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 258-260.</bibl>
         <p>Pendant que nos Braves s’exposent aux perils pour leur Prince, pour leur Patrie &amp;
           pour acquerir de la gloire, on travaille icy à leur preparer des Divertissemens pour les
           délasser de leurs fatigues ; &amp; la Troupe du feu Monsieur de Moliere ayant choisi ce
@@ -829,9 +829,9 @@
           seulement illustre par sa naissance mais par ses lumieres particulieres qui font parler de
           luy par toute la terre.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_262">
         <head>Le Moineau. <hi rend="i">Nouvelle</hi></head>
-        <bibl>[1674-5_262] <title>Mercure galant</title>, tome 5, 1674, p. 262-267.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 262-267.</bibl>
         <p>On parle fort icy du Moineau d’une Belle ; &amp; comme je me suis engagé à vous mander
           toutes sortes de Nouvelles, je vous envoye une copie de ce que j’ay veu sur ce sujet.</p>
         <label rend="center b">Le Moineau.</label>
@@ -862,9 +862,9 @@
           &amp; plus elle le rebute, plus il luy fait de caresses. Plusieurs beaux Esprits vont
           faire des Vers sur ce sujet, que je vous envoyray au premier jour.</p>
       </div>
-      <div>
+      <div xml:id="MG-1674-5_267">
         <head>[Annonce du <hi rend="i">Mal de Mere</hi>, Nouvelle] *</head>
-        <bibl>[1674-5_267] <title>Mercure galant</title>, tome 5, 1674, p. 267-269.</bibl>
+        <bibl><title>Mercure galant</title>, tome 5, 1674, p. 267-269.</bibl>
         <p>Comme je m’informe avec soin de tout ce qui se passe de nouveau, afin de vous en faire
           part, j’appris dernierment que la Ruelle d’Alcidalis qui vous connoissez, estoit devenuë
           fort celebre depuis que vous estes partie de Paris. Je ne manquay pas d’aller aussi-tost
