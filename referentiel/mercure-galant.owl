@@ -23244,7 +23244,7 @@
   <DataPropertyAssertion>
     <DataProperty IRI="#label"/>
     <NamedIndividual IRI="#CRESCENDIO,_Alessandro_[1607-1688]"/>
-    <Literal datatypeIRI="&xsd;string">    SYN CRESCENDIO, Alessandro [1607-1688]</Literal>
+    <Literal datatypeIRI="&xsd;string">CRESCENDIO, Alessandro [1607-1688]</Literal>
   </DataPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#isAuthorityFormOf"/>
