@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, août 1677</title>
+        <title>Mercure Galant, août 1678</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
@@ -44,10 +44,10 @@
   </teiHeader>
   <text>
     <body>
-      <head>Mercure galant, août [tome 8], 1678.</head>
-      <div>
+      <head><hi rend="i">Mercure galant</hi>, août [tome 8], 1678.</head>
+      <div xml:id="MG-1678-08_000a">
         <head>À Monseigneur le Dauphin</head>
-        <bibl>[1678-08_000] <title>Mercure galant</title>, août [tome 8], 1678, non-paginé.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, non paginé.</bibl>
         <label rend="center">À</label>
         <label rend="center">Monseigneur</label>
         <label rend="center">le</label>
@@ -58,15 +58,15 @@
         <p>Vostre tres-humble &amp; tres-</p>
         <p>Obeissant Serviteur,     D.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_000b">
         <head>Preface</head>
-        <bibl>[1678-08_000] <title>Mercure galant</title>, août [tome 8], 1678, non-paginé.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, non paginé.</bibl>
         <label rend="center">Préface.</label>
         <p>Ceux qui veulent donner des Pieces pour le troisième Extraordinaire qui paroistra le 15. d’Octobre, sont priez de n’attendre point si tard. Comme il est d’un caractere plus petit que le Mercure, il faut plus de temps pour l’imprimer, &amp; les premieres feüilles sont déja tirées. On peut s’instruire de ce qui regarde les Extraordinaires par les Préfaces des deux autres. Quelques-uns se plaignent de n’estre point dans le Mercure. Il faut qu’il n’ayent pas lû l’Extraordinaire où ils se seroient trouvez. Messieurs de l’Académie de Troyes sont de ce nombre. Ceux qui envoyent des Explications d’Enigmes dans les derniers jours du Mois, se devroient épargner cette peine, puis qu’ils sçavent que leurs Lettres ne peuvent arriver qu’apres que le Mercure où l’on auroit parlé d’eux, comme à se debiter. La Guerre tient tant de place dans ce Volume, qu’on n’a mesme pû mettre tout ce qui la regarde. C’est pourquoy tous ceux qui ont envoyé des Ouvrages sur la Paix, ne doivent pas estre surpris s’ils ne les y rencontrent point. On prie ceux qui en envoyeront à l’avenir, de les faire extrémement courts. On préferera ceux qui n’auront que tres-peu de Vers, &amp; dont les pensées seront nouvelles. La matiere est assez belle pour faire trouver quelque chose d’extraordinaire. Il seroit à souhaiter qu’on observât la mesme chose dans toute sorte d’Ouvrages, c’est à dire qu’on tâchât de les faire courts, &amp; d’y mettre l’agrément de la nouveauté, soit pour les pensées, soit pour le tour.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_010">
         <head>[Lettre de M. l’abbé de la Valt sur la feste Bravade qui se fait tous les ans à Aix en Provence]</head>
-        <bibl>[1678-08_000] <title>Mercure galant</title>, août [tome 8], 1678, p. 10-27.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 10-27.</bibl>
         <p>Il s’en est fait une [Feste] à Aix en Provence, que je ne vous dois pas laisser ignorer. Quoy qu’elle soit d’une fort ancienne institution, elle a eu cette année des particularitez qui l’ont fait paroistre toute nouvelle. Vous en trouverez la description dans la Lettre que je vous envoye. Elle a esté écrite à un galant Homme de cette Province par M<hi rend="sup">r</hi> l’Abbé de la Valt. Ce nom ne vous doit pas estre inconnu. Je croy vous avoir déja dit que j’avois enfin découvert qu’il estoit l’Autheur de ces belles Lettres sur les Enigmes qui sont au commencement de l’Extraordinaire de Janvier. La maniere aisée dont il sçait tourner les choses, ne vous peut promettre qu’une entiere satisfaction de tout ce qui vient de luy.</p>
         <quote rend="border"><label rend="center">À Monsieur de***</label>
         <p>À Aix en Provence.</p>
@@ -88,19 +88,19 @@
         <p>On pouvoit prendre part aux Divertissemens diférens que ces officiers avoient préparez. Leur varieté donnoit un nouveau ravissement. Les yeux qui avoient esté enchantez ce jour-là par mille spectacles surprenans, trouverent de nouveaux […]<note n="1" place="bottom"> Illisible dans l’édition originale.</note> contens que de tout le reste. On voit icy les plus belles Femmes qui soient dans le Royaume ; &amp; la disposition qu’elles ont naturellement pour la Danse, sert infinîment à mettre en œuvre tout l’éclat de leur beauté.</p>
         <p>Enfin, Monsieur, tout se passa avec une si entiere satisfaction de tout le monde, que depuis longtemps on n’avoit point veu une si belle Feste dans la Province. Il sera peut-estre difficile qu’on n’y en voye jamais une semblable.</p></quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_033">
         <head>[L’Agent de soy mesme, Histoire]</head>
-        <bibl>[1678-08_033] <title>Mercure galant</title>, août [tome 8], 1678, p. 33-50.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 33-50.</bibl>
         <p>Il y a de la destinée en bien des choses. Si vous en doutez, ce que j’ay à vous dire vous en fera demeurer d’accord. Un Gentilhomme de province, venu à Paris pour un Procés, s’estoit logé dans une Auberge dont le Maistre le connoissoit depuis dix ans. Il estoit bien fait de sa personne, agreable dans la conversation, &amp; assez riche pour trouver des Partys fort avantageux, s’il eust voulu donner dans le Sacrement ; mais la liberté luy plaisoit, ou plutost son heure n’estoit point encor venuë, car quand elle frape, il n’y a plus moyen de diférer. Sa Chambre donnoit sur la Ruë. L’impatience de voir revenir un Laquais qu’il avoit envoyé en Ville, luy fit mettre la teste à la fenestre, &amp; ses yeux furent agreablement arrestez par une belle Personne qui fit la mesme chose que luy dans le mesme temps. Elle estoit dans une Chambre opposée directement à celle du Cavalier ; &amp; un bruit de Peuple dont elle vouloit sçavoir la cause, l’avoit obligée à se montrer. C’estoit une brune d’une beauté surprenante. De grands yeux noirs pleins de feu, la bouche admirable, le nez bien taillé, &amp; le teint aussi vif qu’uny. Le Gentilhomme charmé d’une si belle Voisine, luy fit un salut qui luy marqua l’admiration où il estoit. Il luy fut rendu d’un air sérieux, quy que fort civil ; &amp; la rumeur ayant cessé dans la Ruë, cette aimable Personne se retira au grand déplaisir du Cavalier qui la regardoit de tous ses yeux. La Porte de sa Maison qui estoit assez petite, luy fit croire qu’il n’auroit pas de peine à s’introduire chez elle comme Voisin, &amp; dans cette pensée il demanda à son Hoste qui elel estoit, &amp; quelles pouvoient estre ses habitudes. L’Hoste luy apprit que depuis un an elle occupoit une partie de cette Maison avec sa Mere ; qu’elle avoit de la naissance &amp; peu de bien ; qu’il n’y avoit rien de plus régulier que sa conduite ; que tout le monde en parloit avec grande estime, &amp; qu’il n’y avoit que des propositions de Mariage qui pûssent obliger la Mere à écouter des Gens comme luy. Le Cavalier trouva le party facheux. Il aimoit les belles Personnes, mais non pas jusqu’à vouloir épouser. Cependant il demeura ferme dans sa résolution de visiter. Il prit la Mere par son foible, &amp; luy ayant fait entendre qu’il luy venoit demander sa Fille pour un Amy qui en estoit devenu passionnément amoureux, il fut reçeu favorablement. Il donna du Bien &amp; une Charge considérable à cet Amy ; &amp; comme il estoit Maistre du Roman, il l’embellit de tout ce qui le pouvoit rendre vray-semblable. L’Amy estoit à la Campagne pour quinze jours. Des affaires importantes l’y avoient mené, &amp; il devoit luy écrire le succés de sa négotiation. On fut content de tout, pouveu que les choses se trouvassent telles qu’on les proposoit. La Mere s’informa du Cavalier dans son Auberge. On luy dit qu’il estoit tres-riche, d’une des plus considérables Maisons de sa Province, &amp; si fort en réputation d’Homme d’honneur, qu’on pouvoit s’assurer sur sa parole. Cependant il joüoit un rôle assez délicat ; mais comme il avoit de l’esprit, il ne s’en embarassoit pas. Il faisoit son compte de voir la Belle le plus longtemps qu’il pourroit sur le pied d’Agent, &amp; croyoit sortir d’affaire par un Amy qui feroit le passionné pendant quelques jours, &amp; romproit en suite sur les Articles, mais il fut la dupe de luy-mesme à force de voir. La taille de cette aimable Personne fut une nouvelle beauté pour luy, &amp; il acheva de se perdre en l’entretenant. Sa douceur, son honnesteté, son esprit, tout l’enchanta. Il suposoit tous les jours quelque Lettre de son Amy qu’il faisoit voir à la Mere, &amp; elle luy servoit de prétexte pour des visites qui ne le laissoient plus maistre de sa raison. La Belle ne s’engageoit pas moins que luy, &amp; il luy disoit quelquefois des choses si passionnées, qu’elle estoit contrainte de le faire souvenir qu’il s’égaroit. Un mois entier s’estant écoulé sans qu’il amenast son Amy, la Mere qui craignit d’estre joüée, le pria de ne plus revenir chez elle, tant qu’il n’auroit que des Lettres à luy montrer. Il se plaignit à la Belle de la cruauté de cet ordre. Cette charmante Personne luy répondit qu’elle vouloit bien luy avoüer, que l’impatience de voir l’Epoux qu’on luy destinoit, n’avoit rien qui la tourmentast, mais qu’elle avoit ses raisons pour n’estre pas fâchée que sa Mere luy eust fait la défense dont il se plaignoit. Le Cavalier comprit ce qu’il y avoit d’obligeant pour luy dans cette réponse, &amp; en sentit augmenter sa passion. Il n’osa pourtant continuer ses visites le lendemain ; &amp; ce jour passé sans voir ce qu’il adoroit, luy parut un siecle. Il voulut se faire violence pour en passer encor quelques-uns de la mesme sorte, afin de s’accoûtumer à se détacher ; mais le suplice estoit trop rude pour luy, &amp; l’habitude déja trop formée. Apres de longues agitations, l’amour l’emporta sur l’aversion qu’il avoit toûjours euë pour les engagemens qui pouvoient tirer à conséquence. Il retourna plus charmé qu’auparavant, où il connut trop qu’il avoit laissé son cœur ; &amp; pour arrester les plaintes qu’on commençoit déja de luy faire, il débuta par une Lettre de son Amy qui arrivoit ce mesme jour, &amp; qui devoit venir confirmer le lendemain toutes les assurances qu’il avit données pour luy. Cette nouvelle fut reçeuë diversement. Autant que la Mere en montra de joye, autant la Fille en eut de chagrin. Il fut remarqué du Cavalier qui s’en applaudit, &amp; qui eut la rigueur de la préparer à la reception de l’Epoux qu’on luy promettoit depuis si longtemps. Elle ne se sentoit pas le cœur assez libre pour se réjoüir de son arrivée, &amp; passa la nuit dans des inquiétudes qu’il seroit difficile de se figurer. L’heure de la visite estant venuë, le cavalier entra le premier. La joye qu’il fit paroistre de ce qu’il estoit enfin en état de tenir parole, fut un nouveau sujet de chagrin pour cette belle Personne, mais ce chagrin n’approcha point de la surprise où elle se trouva, en voyant entrer apres luy un Homme à manteau, &amp; aussi Bourgeois par son équipage que par sa mine. La Mere le regarda, la Fille rougit, &amp; il ne se peut rien de plus froid que la civilité dont elles payerent le salut qu’elles en reçeurent. Le Cavalier estoit dans un enjoüement extraordinaire, &amp; leur dire cent choses plaisantes sur le sérieux avec lequel elles recevoient une Personne qu’il croyoit leur devoir estre si agreable. L’Homme à manteau le laissa parler longtemps sans l’interrompre, &amp; ayant enfin demandé si on ne vouloit pas dresser les Articles, il fut fort surpris d’entendre dire à la Belle qu’il n’y avoit rien qui pressast,  que la chose luy estoit assez d’importance pour luy donner le temps d’y penser. Cette réponse, &amp; la maniere dédaigneuse dont elle regardoit l’Epoux prétendu qu’on luy avoit fait attendre depuis un mois, mirent le Cavalier dans des éclats de rire, qu’il luy fut impossible de retenir. Ils furent tels, que la Mere &amp; la Fille commencerent à s’en fâcher ; mais il n’eut pas de peine à faire sa paix, &amp; elles ne rirent pas moins que luy quand il leur eut appris qu’il estoit luy-mesme cet Amy dont il leur avoit parlé, &amp; que celuy qu’ils voyoient estoit un Notaire qu’il avoit amené pour dresser le Contract de Mariage. Jugez de la joye de la Belle, qui ne s’attendoit à rien moins qu’à une si agreable tromperie, &amp; qui s’estant laissée insensiblement prévenir pour le Cavalier, ne soufroit plus qu’avec peine qu’on parlast de la marier avec son Amy, quelque honneste Homme qu’elle pût le croire. Les Articles furent signez, &amp; la grande Cerémonie se fit un des derniers jours de l’autre Mois.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_051">
         <head>[Avanture arrivée à Gennes à un François]</head>
-        <bibl>[1678-08_050] <title>Mercure galant</title>, août [tome 8], 1678, p. 50-57.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 50-57.</bibl>
         <p>Voila, Madame, ce que le hazard produit quelquefois. Je connois un Cavalier voyageur, qui auroit peut-estre pris un pareil engagement, si on voyoit les Femmes en Italie avec la mesme liberté qu’on les voit en France. Il a passé une partie de l’Hyver à Gennes. Les réjoüissances du Carnaval y sont grandes ; Il les voulut voir, &amp; alla pour cela dans la belle Ruë qu’on apelle <hi rend="i">Strada nuova</hi>. Elle est pavée de marbre de diverses couleurs, &amp; bordée de hauts Portiques aussi de marbre, qui forment deux autres Ruës, couvertes de Palais tres-somptueux. Il s’y promenoit accompagné d’un Génois qui s’estoit engagé à luy faire voir les divertissemens de cette Saison. Ils consistent en de pompeuses Mascarades, &amp; en divers Jeux magnifiques, en faveur desquels le beau Sexe est dispensé pendant quelques apres-disnées de la retraite qu’on luy fait garder dans les autres temps. Les jeunes Demoiselles ont permission de se mettre à leurs fenestre pour voir ces Jeux. Elles y paroissent dans leurs plus superbes ajustemens. L’or, l’argent, &amp; les pierreries, y brillent en confusion, &amp; relevent admirablement l’éclat qu’elles tirent de leur beauté. Il se fait alors une infinité de combats galans entre ces belles Personnes &amp; les Cavaliers qui courent les Ruës, les uns masquez, les autres sans masque. Ces combats se font à coups d’œufs qui ont esté vuidez &amp; remplis d’eaux de senteur. Le Gentilhomme François ne pouvoit se lasser de voir cette profusion de richesses qui soûtenoit avec tant de faste le titre de Superbe que la Ville de Gennes s’est acquise. Apres avoir jetté quelque temps les yeux de tous costez, il les arresta sur un Balcon où estoit une jeune Demoiselle toute charmante. Elle s’apperçeut de son attachement à la regarder ; &amp; soit que la personne du François luy plût, soit qu’elle voulust récompenser la préference qu’il sembloit luy donner par ses regards sur toutes celles de son âge, elle luy jetta plusieurs œufs dont elle avoit fait provision. Il en demeura tout parfumé, &amp; jamais il n’avoit fait tant de revérences qu’il en fit pour remercier la Belle de cette faveur. Il se tint toûjours en lieu où il la pût voir tant qu’elle parut au Balcon ; &amp; quand elle s’en retira, la Feste fut finie pour luy. Les charmes de son visage, &amp; la maniere obligeante dont elle l’avoit distingué des autres, toucherent tellement son cœur, qu’il conjura son Amy avec des empressemens extraordinaires, d’imaginer un moyen qui luy pust donner l’avantage de l’entretenir. Vous jugez bien, Madame, que s’il eust pû se faciliter quelque accés chez elle, cette connoissance auroit eu des suites ; mais les Loix du Païs ont une severité qui ne soufre aux Hommes aucune communication avec le beau Sexe, &amp; il faut se contenter de voir quand l’occasion de quelque Feste en donne le privilege. Ce que je vous ay dit ajustemens où l’or &amp; les pierreries sont prodiguées, est une chose commune parmy ceux de cette Ville, où tout le monde se pique d’estre somptueux. Cela vous paroistra par les présens qu’un Illustre Génois a faits en se mariant depuis quelques mois. Il est de la Maison des Pallavicini, Neveu du Cardinal de ce nom, &amp; a épousé la Princesse de Venafro, Fille de la Princesse Rossane, à laquelle il envoya ce qui suit.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_060">
         <head>[Air nouveau]</head>
-        <bibl>[1678-08_060] <title>Mercure galant</title>, août [tome 8], 1678, p. 60-62.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 60-62.</bibl>
         <p>Je ne doute point que la magnificence des Nopces qui se sont faites à Frescati, n’ait répondu à ce que la richesse des présens en a fait attendre. C‘est une Feste dont je vous laisse imaginer la beauté. Comme apparemment elle ne s’est pas faite sans symphonie, elle me fait souvenir de l’engagement où je me suis mis avec vous de vous envoyer tous les mois des Airs nouveaux. En voicy un de la composition de M<hi rend="sup">r</hi> Goüet Maistre de Musique des Dames Religieuses de Lonchamp. On m’a dit que les Paroles estoient de M<hi rend="sup">r</hi> de Lignieres.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.</label>
@@ -112,9 +112,9 @@
           <l>On me verra mourir pour elle.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_065">
         <head>[Epistre en Vers]</head>
-        <bibl>[1678-08_065] <title>Mercure galant</title>, août [tome 8], 1678, p. 65-75.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 65-75.</bibl>
         <p>Je ne vous puis encor envoyer l’Elegie du jeune Marquis. Il me la refuse sur le prétexte d’y vouloir mettre la derniere main. À vous dire ce que j’en croy, le nom d’Autheur l’épouvante, &amp; il craint qu’on ne luy fasse un crime d’avoir fait des Vers. Il est vray qu’il seroit à souhaiter que ceux qui n’en font que de méchans y renonçassent ; mais il me semble que pour estre de qualité, il n’en doit pas estre plus honteux de faire paroistre qu’on a de l’esprit. Je pourrois nommer quantité de Personnes considérables par leurs Dignitez &amp; par leurs Emplois, sans en excepter mesme les Princes, qui se connoissant du talent pour la Poësie, n’ont point dédaigné de l’exercer. Ils n’avoient pas le scrupule qui arreste &amp; nostre jeune Marquis, &amp; un fort galant Homme que je connois. Il aime les Vers, en fait de tres-beaux, &amp; voudroit s’abandonner à son génie, mais il est d’une naissance qui luy fait appréhender qu’on ne regarde cet amusement comme une occupation indigne de luy. C’est là-dessus qu’il a fait la Piece que vous allez voir.</p>
         <quote rend="border">
           <label rend="center">À Monsieur **</label>
@@ -207,9 +207,9 @@
           <l>Passer en Campagnard ma languissante vie.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_092">
         <head>[Histoire de l’Ordre de la Liberté des Cœurs]</head>
-        <bibl>[1678-08_092] <title>Mercure galant</title>, août [tome 8], 1678, p. 92-106.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 92-106.</bibl>
         <p>Heureux qui peut conserver la liberté de son cœur ! Je vous ay déja mandé qu’il s’estoit étably un Ordre nouveau sous ce titre. Voicy ce qui luy a donné lieu.</p>
         <quote rend="border">
           <label rend="center">Histoire</label>
@@ -276,9 +276,9 @@
           <p>Voila quelles sont les principales Regles de cet Ordre. Comme on se relâche facilement, je ne sçay s’il n’aura pas besoin d’estre reformé de temps en temps. À la verité d’aimables Sœurs avec des Freres qui ne le sont pas moins, ne sont gueres propres à faire la guerre avec l’Amour ; neantmoins il suffit qu’ils ayent eu la force d’établir un Ordre Militaire destiné à ce seul employ, pour faire croire qu’ils en auront assez pour le maintenir.</p>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_117">
         <head>[Vers sur un Bouquet]</head>
-        <bibl>[1678-08_117] <title>Mercure galant</title>, août [tome 8], 1678, p. 117-118.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 117-118.</bibl>
         <p>Il se fait toûjours force Galanteries en matiere de Bouquets. Envoicy un envoyé à une Belle par le Fils d’un Auditeur des Comptes de Dijon. Je vous ay déja fait voir de ses Vers.</p>
         <quote rend="border">
           <label rend="center">Bouquet.</label>
@@ -300,9 +300,9 @@
           <l>Les Hommages profonds du plus tendre des cœurs.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_119">
         <head>[Autres Vers sur des Fleurs]</head>
-        <bibl>[1678-08_119] <title>Mercure galant</title>, août [tome 8], 1678, p. 119.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 119.</bibl>
         <p>Je ne dois pas oublier ces autres Vers qui ont esté faits à Rennes, sur ce qu’une aimable Personne avoit mis dans son sein des fleurs qu’elle venoit de cüeillir.</p>
         <quote rend="border">
           <l>Belles Fleurs qu’en mourant vous me donnez d’envie !</l>
@@ -314,9 +314,9 @@
           <l>Pour mourir mille fois je reprendrois la vie.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_120">
         <head>Air nouveau</head>
-        <bibl>[1678-08_120] <title>Mercure galant</title>, août [tome 8], 1678, p. 120-121.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 120-121.</bibl>
         <p>Une mort de cette nature, à condition de revivre toutefois &amp; quantes, seroit assurément préferable aux langueurs continuelles de ces malheureux Amans qui veulent souffrir sans qu’on le sçache, &amp; qui n’ont autre soin dans leurs plaintes que de recommander le discretion aux Forests. Ecoutez celles d’un Berger que l’absence accable. L’Air &amp; les Paroles sont de M<hi rend="sup">r</hi> Robsard de Fontaines.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.</label>
@@ -330,9 +330,9 @@
           <l>Et cachez les ennuis d’un Berger malheureux.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_121">
         <head>[Lettre à la plus aimée et à la plus ingrate Personne du monde]</head>
-        <bibl>[1678-08_121] <title>Mercure galant</title>, août [tome 8], 1678, p. 121-132.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 121-132.</bibl>
         <p>Les uns sont tourmentez par l’absence, &amp; les autres par le changement. La Lettre d’un Amant desesperé que je vous envoyay il y a trois mois, a esté tellement de vostre goust, qu’en ayant recouvré une seconde du mesme stile, je croy devoir vous en faire part. Elle n’a point d’autre Subscription que,</p>
         <quote rend="border">
           <label rend="center">Pour la plus Aimée</label>
@@ -341,15 +341,15 @@
           <p>Vous avez enfin connu ma tendresse ; mon cœur vous en a parlé ; mes yeux vous l’ont fait entendre ; mes soûpirs vous l’ont exprimée ; mes assiduitez vosu en ont convaincuë ; vous m’avoüastes hyer que vous m’aimez, &amp; vous m’amvez dit aujourd’huy qu’il faut cesser de se voir. Quel changement ! quelle inconstance ? Est-ce là cette foy qui devoit toûjours durer ? est ce la cet amour qui ne devoit jamais finir ? Ne sçavez-vous aimer qu’un jour, volage, &amp; n’en donnez-vous pas des preuves moins violentes ? Ay-je merité par une extréme passion un traitement aussi injuste, &amp; ne devez-vous pas une plus douce récompense à mes soins &amp; à mes empressemens ? C‘estoit seulement pour mieux penétrer dans les veritables sentimens d’un Cœur que vous ne possedez que trop, que vous m’avez flaté des apparences trompeuses d’une amitié sincere. Vous l’avez veu ce Cœur amoureux &amp; enflâmé. Il vous a plû sans déguisement, &amp; vous l’accablez de la nouvelle d’un si funeste séparation. Quels sont vos projets ? quelles sont vos irrésolutions ? ou plutost quelle destinée est la mienne, &amp; quel est mon aveuglement ? Quand ma passion ne commençoit que de naistre, vous m’avez commandé de l’étoufer. Il estoit en mon pouvoir de le faire ; elle ne l’emportoit pas encor sur ma raison. Quand vous m’avez veu disposé à vous obeir, vous vous y estes opposée. Vous avez rallumé cette passion par des espérances trompeuses. Vous l’en avez nourrie ; &amp; quand enfin elle est à son dernier période, que tout conspire contre moy, que mon cœur &amp; mon esprit sont d’intelligence avec vous pour me perdre, vous dites, Inhumaine, qu’il faut cesser de se voir. Helas ! qu’il est facile à une Amante déguisée de tromper un Amant passionné. Je rappelle aujourd’huy l’air indiférent &amp; la maniere tiede dont vous m’avez découvert vostre feu. Ah que j’estois aveugle de ne pas connoistre à ce peu d’empressement les secrets de vostre trahison. Trahison ! Non, j’ay tort de vous accuser. Vous n’estes point coupable d’une si noire perfidie. En effet, quelle gloire auriez-vous de passer pour une habile Fourbe ? Vous m’avez parlé de bonne foy. J’ay veu en vous ces manieres tendres qui touchent &amp; qui persuadent, &amp; j’aurois esté injuste si je fusse demeuré insensible à la chose du monde lap lus douce &amp; la plus charmante. Oüy, je n’en sçaurois douter ; vous m’aimez toûjours, quoy que vous m’ayez dit, &amp; ce n’est que pour mettre mon amour à l’êpreuve que vous m’avez commandé de ne vous plus voir ; car enfin on n’annonce point une si fâcheuse nouvelle avec aussi peu de précaution, &amp; d’un ton aussi moderé que vous avez fait. Eh, au nom de tout ce que vous avez de cher, ne me donnez plus de ces cruelles atteintes, elles sont mortelles pour moy. Si vous vous souvenez du moment de chagrin que vous me fistes, &amp; que vous remarquastes dans le Carrosse, vous jugerez aisément par là de mon agitation. Une parole me changea. Pensez, je vous suplie, au trouble que me doit causer ce que vous venez de me dire. Mais que fay-je, malheureux ! Je cherche encor à me flater. Je m’égare dans ma passion. Mon amour me trahit, apres avoir manqué de prévoyance. Il n’est que trop vray, Cruelle, que vous ne m’aimez plus, ou pour mieux dire, que vous ne m’avez jamais aimé. Il ne m’en faut pas de preuves plus convaincantes. Me bannir d’aupres de vous est un ordre qui ne me laisse pas lieu d’en douter. Hé bien, j’y consens. Ma raison vient à mon secours, je chercheray à me guérir. Vostre exemple ne me sera pas inutile. Je feray mes plus puissans efforts pour vous arracher de mon cœur, chere Perfide. Mais helas je les feray en vain ; car que peut-on sur un cœur qui n’est point à soy ?  Rendez-le moy donc au moins, Infidelle, ce cœur entier comme vous l’avez reçeu, &amp; n’y laissez aucun caractere de la plus grande &amp; de la plus belle passion qui fut jamais. Est-ce là, ma raison, le conseil que tu me vient offrir ? Lâche &amp; foible raison, laisse-moy mon amour, tout malheureux qu’il est. On ne demande point un cœur qu’on a volontairement donné. On n’oublie jamais ce qu’on a aimé éperdûment, &amp; c’est une lâcheté dont la seule pensée me tient lieu d’offence. Oüy, belle Ingrate, dans l’extremité où vous m’avez réduit, je veux vous aimer éternellement, mais d’un amour tendre, respectueux, sincere ; &amp; si c’est un crime de vous aimer &amp; de vous voir, vous ne me verrez plus. Mon obeïssance me coûtera cher ; il y va de ma vie, je mourray misérable mais je mourray pour vous, &amp; vous vivrez satisfaite.</p>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_149">
         <head>La Ressemblance, Histoire</head>
-        <bibl>[1678-08_149] <title>Mercure galant</title>, août [tome 8], 1678, p. 149-171.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 149-171.</bibl>
         <p>Nous avons veu autrefois joüer les Menechmes. Cette Piece n’a rien de plus surprenant que l’Avanture qui suit.</p>
         <p>Un Cavalier, appellé pour une affaire importante à plus de six-vingts lieuës de Paris, faisoit voyage avec un jeune Abbé dont il devoit épouser la Sœur à son retour. Elle estoit belle, il l’aimoit passionnément, &amp; ne s’en estant éloigné qu’avec beaucoup de chagrin, il faisoit de grandes journées pour estre plutost en pouvoir de s’en raprocher. Apres trois ou quatre jours de marche, ils arriverent dans une Ville où ils furent surpris de se voir salüer par beaucoup de monde qui leur estoit inconnu. Ils crûrent que c’estoit une civilité qu’on rendoit en ce lieu-là aux Etrangers ; &amp; sans en chercher d’autre cause, ils descendirent dans la premiere Hostellerie qu’ils rencontrerent. Ils laisserent le soin de leur Chevaux à leurs Gens, &amp; monterent dans une Cahmbre, où ayant demandé à souper, l’Hostesse vint sçavoir un moment apres ce qu’ils vouloient qu’on leur préparast. À peine eut-elle jetté les yeux sur le Cavalier, qu’elle fit un grand cry de joye, &amp; luy dit qu’elle n’avoit rien à luy donner ; qu’il falloit qu’il allast loger chez sa Femme qui avoit esté inconsolable depuis trois ans qu’il estoit party ; qu’elle avoit fait écrire par tout pour tâcher d’avoir de ses nouvelles ; que celuy qu’il croyoit avoir laissé mort, se portoit le mieux du monde, &amp; qu’il n’y avoit eu rien de plus innocent que la partie de Promenade où il l’avoit surprise avec luy. Le cavalier qui ne comprenoit rien à ce qu’on luy disoit, regardoit l’Abbé. L’Abbé se divertissoit de l’Avanture, &amp; feignoit d’entrer dans les sentimens de l’Hostesse, comme luy ayant dit sur le chemin, qu’il ne devoit point passer par ce lieu-là, s’il n’estoit dans le dessein de se reconcilier avec sa Femme. L’Hostesse adjoûta beaucoup de choses à ce qu’elle avoit déja dit, &amp; le tout fit comprendre au Cavalier qu’il ressembloit au Mary dont il estoit question ; que ce Mary soupçonnant sa Femme de galanterie, s’estoit fait une affaire avec quelque Amant ; qu’il l’avoit blessé, &amp; que la crainte des poursuites d’une Partie trop puissante l’avoit obligé de fuir sans qu’il eust fait sçavoir à sa Femme de quel costé il estoit tourné. L’Abbé continuoit à faire sa joye de cette rencontre, &amp; demandant des nouvelles de la Dame à l’Hostesse, il apprit le nom de deux Enfans qu’elle avoit, &amp; d’autres secrets fort importans à sçavoir pour le Cavalier, s’il luy eust pris envie de passer pour ce qu’il n’estoit pas. L’Hostesse qui crût que la froideur avec laquelle il luy répondoit, estoit causée par quelque reste de jalousie, s’obstinoit si fort à ne luy vouloir point donner à souper, que pour venir à bout d’elle, il fut obligé de luy promettre qu’il iroit voir sa Femme le lendemain, prenant pour prétexte du retardement, le besoin qu’il avoit de la nuit pour resver à une réconciliation de cette importance. Il croyoit estre quite de cette persecution quand la Dame entra elle-mesme,  vint embrasser le Cavalier avant qu’il eust le temps de jetter les yeux sur elle. Une fort aimable Personne l’accompagnoit. Elle embrassa le Cavalier à son tour, &amp; il se vit traiter de Mary &amp; de Frere dans le mesme temps. Quelques-uns de ceux qui l’avoient salüé dans la Ruë, les estoient venus avertir de son arrivée ; &amp; comme la Dame croyoit luy avoir donné quelque lieu de se plaindre de sa conduite, il n’est point d’avances qu’elle n’eust faites avec joye pour se remettre bien avec luy. Ainsi elle ne diféra point à venir où elle apprit qu’il estoit. Elle joignit les pleurs aux embrassemens les plus touchans ; &amp; le Cavalier qui estoit civil, &amp; qui eust bien voulu la desabuser, ne sçavoit comment se défendre de ses carresses. Elle avoit beaucoup d’agrément dans sa personne, le teint vif, la taille bien faite, &amp; les privileges de Mary que luy assuroit le personnage qu’il ne tenoit qu’à luy de joüer, estoient de grandes amorces pour un Homme qui n’eust pas esté préoccupé. Mais la Sœur de l’Abbé qu’il devoit épouser à son retour, avoit fait de trop fortes impressions dans son cœur pour le laisser capable de s’oublier. Cependant la Dame faisoit toutes les instances possibles pour l’obliger à venir chez elle. La jeune Sœur du Mary qui l’avoit accompagnée, conjuroit l’Abbé de joindre ses prieres aux siennes, afin de faire cesser un divorce qui n’avoit déja que trop éclaté. Elle estoit toute belle, avoit de l’esprit, &amp; sans les conséquences du raccommodement, l’Abbé auroit esté fort aise de s’arrester quelques jours dans un lieu où il auroit eu toute liberté de la voir. Tout ce qu’il pût répondre fut, que si le Cavalier l’eust voulu croire, il auroit esté descendre tout droit chez la Dame, mais que le passé luy tenoit encor un peu au cœur ; &amp; en mesme temps comme il cherchoit toûjours à se divertir, il demanda des nouvelles des deux Enfans dont l’Hostesse luy avoit appris le nom. Toutes ces choses qui avoient du raport avec l’Histoire du Mary, &amp; qu’il sembloit que l’Abbé ne pouvoit avoir sçeuës que du Cavalier, le mettoient hors d’état d’estre crû, quand il auroit dit qu’il n’estoit pas ce qu’on le pensoit. L’Abbé se réjoüissoit de son embarras. La froideur du Cavalier ne rebutoit point la Dame. Elle croyoit l’avoir meritée, &amp; tâchoit de la faire cesser par ses tendresses. Enfin comme elle voulut venir à un éclaircissement qu’il luy auroit esté inutile d’ écouter, il crût se tirer d’affaire, en l’assurant qu’il ne se souvenoit plus de ce qui les avoit tant de fois broüillez, &amp; la priant de luy laisser faire un voyage de huit jours qui luy estoit de la derniere importance ; apres quoy il reviendroit la trouver pour vivre avec elle dans toute l’union qu’elle pouvoit souhaiter d’un Mary qui l’avoit toûjours aimée. La Dame luy dit en soûpirant, qu’elle ne pouvoit l’empescher de faire tel voyage qu’il luy plairoit, mais qu’elle ne le quiteroit point jusqu’à son depart, &amp; que puis qu’il n’y avoit pas moyen de le tirer de l’Auberge, elle y souperoit avec luy. Le Cavalier y consentit avec joye, &amp; ordonna qu’on servist tout ce qu’on pourroit trouver de meilleur. Le Party accomodoit tous les deux. La Dame le regardoit comme un commencement de reconciliation qui luy faisoit esperer qu’en soupant elle gagneroit davantage, &amp; le Cavalier en avoit plus de temps à chercher comment il viendroit à bout de la convaincre qu’il n’estoit pas son Mary. L’Abbé estoit le plus content de tous. Outre ce qu’il trouvoit de plaisant dans la continuation de l’Avanture, il avoit la joye d’entretenir une fort aimable Personne qui n’avoit pas moins d’esprit que de beauté. Le Soupé fut servy. On se mit à table, &amp; le Cavalier ayant commencé à couper la viande, la Dame fit un haut cry, &amp; quita brusquement la place qu’elle avait prise. La Demoiselle se leva comme elle, &amp; luy ayant demandé le sujet de l’étonnement qu’elle faisoit remarquer, la Dame luy parla à l’oreille, &amp; apres qu’elle luy eut fait regarder ce qui l’avoit mise dans la surprise où on la voyoit, elles voulurent toutes deux sortir de la Chambre. Le Cavalier les arresta. L’abbé se joignit à luy, &amp; il fut question de dire ce qui les obligeoit d’en user ainsy. La Dame n’osoit presque lever les yeux sur le Cavalier. Elle luy avoit fait des carresses qui l’obligeoient de rougir, &amp; il ne sçavoit que juger de son silence quand la Demoiselle qui le regardoit attentivement, commença de dire qu’il n’y auroit eu personne qui n’y eust esté trompé. Ces paroles luy firent connoistre qu’on ne le prenoit plus pour le Mary. Il luy ressembloit si fort pour tous les traits du visage, qu’aucune des deux ne seroit sortie d’erreur, s’il n’eust pas montré sa main. Le Mary avoit perdu un doigt qu’on luy avoit esté obligé de luy couper ; &amp; soit que le Cavalier n’eust point osté ses Gands avant le Soupé, soit qu’il y eust quelque obscurité dans la Chambre, la Dame ne s’estoit apperçeuë qu’il avoit la main entiere que dans le commencement du Repas. Une autre qu’elle auroit eu la mesme surprise &amp; le mesme chagrin de s’estre laissée tromper. La tromperie estoit neantmoins fort innocente du costé du Cavalier. Aussi luy parla-t-il d’une maniere si honneste, qu’elle avoüa qu’il n’avoit pas tort. Les civilitez de l’Abbé acheverent de calmer son trouble, &amp; il luy fut impossible de refuser aux prieres de l’un &amp; de l’autre la grace qu’ils luy demanderent de demeurer à souper. Comme l’Avanture estoit fort extraordinaire, elle servit d’entretien le reste du soir ; &amp; l’Abbé, tout Abbé qu’il estoit, ne pût s’empescher de plaisanter sur le péril où des traits si ressemblans auroient exposé la Dame, si un mal honneste Homme avoit eu les avantages dont le Cavalier avoit fait scrupule de profiter. La fidelité qu’il devoit à une Maistresse dont il estoit fortement aimé, luy servoit de préservatif contre une tentation de cette nature. Il avoit d’ailleurs un Témoin qui luy pouvoit nuire, &amp; il n’y auroit pas eu de seûreté pour luy à faire un faux pas. L’heure de se séparer estant venuë, le Cavalier remena la Dame chez elle. L’Abbé donna la main à la jeune Sœur ; &amp; ce qu’il y eut de particulier, c’est que les deux Enfans estant accourus à la porte, prirent le Cavalier pour leur Pere, &amp; le forcerent à les embrasser. Il les carressa, revint à l’Auberge, &amp; rit quelque temps avec l’Abbé de l’embarras où l’auroit mis l’obstination de la Dame, si l’incontestable marque d’un doigt coupé ne l’eust point chassée. Il partit le lendemain d’assez bon matin, mais ce ne fut pas sans trouver quelques Creanciers du Mary qui l’attendoient dans la Ruë. Il les paya tous en ostant son Gand. L’accident du doigt perdu estoit connu de toute la Ville, &amp; il ne falloit rien autre chose que montrer sa main pour faire connoistre qu’il n’estoit pas celuy qu’ils cherchoient.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_171">
         <head>[Conte en Vers]</head>
-        <bibl>[1678-08_171] <title>Mercure galant</title>, août [tome 8], 1678, p. 171-174.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 171-174.</bibl>
         <p>Voila, Madame, ce qu’on m’assure estre vray dans toutes ses circonstances. Le Cavalier ne vous sçauroit estre inconnu, &amp; je vous satisferay sur son nom quand il vous plaira. J’ay receu un nouveau Conte de celuy dont vous en avez déja veu quelques-uns. Leur stile naïf vous a plû, &amp; j’espere que vous ne serez pas moins contente de ce dernier, que vous l’avez esté des premiers.</p>
         <quote rend="border">
           <label rend="center">Conte.</label>
@@ -387,9 +387,9 @@
           <l rend="i">N’en peut changer selon la bienséance.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_175">
         <head>Recit de Basse.</head>
-        <bibl>[1678-08_175] <title>Mercure galant</title>, août [tome 8], 1678, p. 175.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 175.</bibl>
         <p>Je vous envoye un troisiéme Air que j’ay reçeu de Poitiers. Il est de Mr Bessant.</p>
         <quote rend="border">
           <label rend="center">Recit de Basse.</label>
@@ -402,14 +402,14 @@
           <l>Ne valent pas le chant d’un seul Crieur de Vin.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_179">
         <head>[Sur M. de S. Andiol]</head>
-        <bibl>[1678-08_179] <title>Mercure galant</title>, août [tome 8], 1678, p. 179-183.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 179-183.</bibl>
         <p>C’est un endroit fort touchant pour vous, &amp; quand je ne m’en serois jamais apperçeu, je le connoistrois au reproche que vous me faites de ne vous avoir point parlé de Mr de S. Andiol, en vous entretenant des beaux Esprits d’Arles. Souvenez-vous cependant que l’Article où vous le croyez oublié, regarde seulement ceux qui composent l’Académie Royale de cette fameuse Ville, &amp; non pas les beaux Esprits d’Arles en general. Il est certain que M<hi rend="sup">r</hi> de S ; Andiol Archidiacre de la Petropole, est d’un mérite tres-singuler, &amp; aussi considérable par sa naissance que par sa profonde érudition. Il est Frere de cet Illustre Marquis de S ; Andiol, qui s’est autrefois si fort disintgué dans les Armées d’Italie, où il a toûjours eu de fort beaux Commandemens. Quoy que ses principales applications ayent esté pour les Sciences solides, il n’a pas dédaigné les belles Lettres, &amp; on ne peut avoir plus de facilité &amp; plus de délicatesse qu’il en fait paroistre dans tout ce qui luy échape de Poësies Latines. C‘est un talent qu’il n’a cultivé que depuis cinq ou six ans qu’il est devenu aveugle. Il a grand commerce avec les Sçavans, &amp; sur tout avec le fameux pere kirker. Il a fait imprimer plusieurs Ouvrages sur diférentes matieres, &amp; on a une extraordinaire impatience qu’il veüille donner au Public un Livre pieux qui est dans les mains de tout le monde, &amp; qu’il a mis en Vers d’Elegie. C’est celuy qui vous a tant plû dans l’admirable Traduction paraphrasée que l’Illustre Mr de Corneille en a fait depuis vingt-cinq ou trente ans. Vous aurez peut-estre veu quelques Dissertations par lesquelles il prouve que le Monument d’Arles qu’on a élevé depuis peu, est une veritable Pyramide, &amp; non pas un Obélisque. Il se fonde sur la tradition ancienne du Païs, sur plusieurs raisons qu’il donne de la diférence de la Pyramide &amp; de l’Obélisque, &amp; sur l’autorité des plus fameux Matématiciens de l’Europe qu’il a consultez sur ce Monument.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_183">
         <head>À Monsieur le Duc du Mayne, Rondeau</head>
-        <bibl>[1678-08_183] <title>Mercure galant</title>, août [tome 8], 1678, p. 183-185.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 183-185.</bibl>
         <p>Il y a longtemps que je ne vous ay fait voir de Rondeau. En voicy un sur un sujet fort particulier. M<hi rend="sup">r</hi> Robbe nourrissoit un petit Loup privé qu’il avoit promis à Monsieur le Duc du Maine ; &amp; comme ce jeune Prince l’attendoit impatiemment, il vint à Paris, &amp; le trouva étranglé dans le temps qu’il croyoit le faire porter à S. Germain. Ainsi il ne pût que donner ce Rondeau au lieu du Loup.</p>
         <quote rend="border">
           <lg><label rend="center">À Monsieur</label>
@@ -435,9 +435,9 @@
           <l><space/>Au Loup.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_187">
         <head>[Madrigal à M. le Mareschal de Céquy, après la Défaite des Impériaux sur le Pont de Rhinfeld]</head>
-        <bibl>[1678-08_187] <title>Mercure galant</title>, août [tome 8], 1678, p. 187-189.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 187-189.</bibl>
         <p>Le Madrigal qui suit est aussi de Mr Robbe. Souvenez-vous quand vous le lirez, que c’est le Magistrat de Basle qui parle à Mr le Mareschal de Créquy apres la défaite des Impériaux sur le Pont de Rhinfeld.</p>
         <quote rend="border">
           <label rend="center">Madrigal.</label>
@@ -456,9 +456,9 @@
           <l>Par monceaux dans le Rhin viennent passer dessous.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_188">
         <head>Sonnet</head>
-        <bibl>[1678-08_188] <title>Mercure galant</title>, août [tome 8], 1678, p. 188-190.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 188-190.</bibl>
         <p>J’oubliay à vous faire voir dés l’autre Mois les deux Sonnets que je vous envoye. L’un est de M<hi rend="sup">r</hi> Valete-d’Usés, sur la rapidité des Conquestes de Sa Majesté ; &amp; l’autre sur la Suspension d’armes qu’Elle avoit accordée aux Hollandois.</p>
         <quote rend="border">
           <label rend="center">Sonnet.</label>
@@ -481,9 +481,9 @@
           <l>Vous vaincrez assez tost s’il vous suffit d’un Monde.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_191">
         <head>Sonnet</head>
-        <bibl>[1678-08_191] <title>Mercure galant</title>, août [tome 8], 1678, p. 191-192.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 191-192.</bibl>
         <quote rend="border">
           <label rend="center">Sonnet.</label>
           <lg><l>Qu’on ne me chante plus cette Valeur guerriere,</l>
@@ -505,14 +505,14 @@
           <l><hi rend="sc">Loüis</hi> seul sçait par là couronner ses travaux.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_192">
         <head>[Réjouissances faites à Jenville en Beauce]</head>
-        <bibl>[1678-08_193] <title>Mercure galant</title>, août [tome 8], 1678, p. 192-194.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 192-194.</bibl>
         <p>Les premieres nouvelles qu’on eut des ofres que le Roy faisoit pour faciliter la Paix, furent un si grand sujet de joye, qu’on n’attendit point que le temps de la Suspension d’armes fust expiré pour en faire des réjoüissances à Jenville en Beauce. Toute la Noblesse voisine s’y assembla. La feste commença par la Representation d’une Comédie, apres laquelle il y eut un grand Festin. Rien n’y manqua de ce qui le pouvoit rendre agreable. Il fut suivy du Bal. Les Dames y estoient magnifiques. Leur parure donnoit un nouvel éclat à leur bauté, &amp; jamais les yeux n’eurent tant de lieu d’estre satsifaits. On passa la plus grande partie de la nuit à danser, &amp; on auroit continué jusqu’au jour, sans un Feu de joye qui avoit esté préparé. Ce Divertissement fit cesser le Bal. On tira plus de cent Fusées. Elles partirent toutes avec tant de rapidité, qu’elles furent veuës de Chartes &amp; d’Orléans.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_195">
         <head>[Rondeau]</head>
-        <bibl>[1678-08_195] <title>Mercure galant</title>, août [tome 8], 1678, p. 194-196.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 194-196.</bibl>
         <p>Si l’espérance qu’on avoit conçeuë de la Paix, a pû donner lieu à de pareilles réjoüissances, que ne doit-on point attendre de la Paix signée ? Jamais le Roy n’a mieux merité le nom de Grand, que par l’effort qu’il s’est fait en faveur des Peuples. Tout le monde en parle, tout le monde l’admire, &amp; c’est ce qui a donné lieu à ce Rondeau.</p>
         <quote rend="border">
           <label rend="center">Rondeau.</label>
@@ -535,20 +535,20 @@
           <l><space/>Le Nom de Grand.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_218">
         <head>[Avanture d’une Belle morte d’amour]</head>
-        <bibl>[1678-08_218] <title>Mercure galant</title>, août [tome 8], 1678, p. 218-231.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 218-231.</bibl>
         <p>Une violente passion couste quelquefois la vie. Ce que je vay vous dire en est une preuve. Voicy l’Avanture en peu de mots. Un Cavalier bien fait, galant, spirituel, &amp; dangereux pour les Dames, trouva moyen de se faire aimer d’une Fille de qualité. Elle estoit belle, &amp; avoit assez de bien pour le rendre heureux ; mais ses Parens n’estoient pas faciles, &amp; il falloit prendre de grandes précautions pour ne laisser pas éclater cet amour avant le temps. Ils se virent avec le plus de secret qu’ils pûrent, &amp; se ménagerent si bien, que les soins que le Cavalier rendit à la Belle, furent imputez à la seule complaisance qu’on doit au beau Sexe. Cependant il se rendit si bien maistre de son cœur, que rien ne fut capable de l’en détacher. L’absence mesme qui affoiblit les plus fortes passions, ne fit qu’augmenter celle de cette aimable Personne ; &amp; pendant cinq années qu’elle passa sans le voir, elle eut pour luy tout ce qu’on peut avoir pour ce qu’on aime avec le dernier attachement. Les Lettres adoucissoient leurs chagrins, &amp; ils les soulagoient en se rendant compte de leurs plus secretes pensées. La Belle ne laissoit pas d’accuser quelquefois le Cavalier d’aimer moins qu’il n’estoit aimé. Quoy que le reproche fust obligeant, il estoit injuste ; mais enfin quand les Femmes aiment veritablement, leur tendresse a de certaines manieres de s’exprimer qui l’emportent sur toutes les asseurances que peuvent donner les Hommes, &amp; il semble qu’elles aiment avec plus de force, parce qu’elles ont plus d’art à faire paroistre ce que l’amour leur a fait sentir. La Belle perdit son Pere pendant qu’elle fut éloignée de son Amant, &amp; comme sa Mere l’avoit toûjours fort aimée, elle crût ne risquer rien en priant le Cavalier de Satisfaire l’impatience qu’elle avoit de le revoir. Il accourut, &amp; se servant du prétexte dont il estoit convenu avec sa Maistresse, il la vint trouver dans une Maison de Campagne, où la Mere le reçeut avec beaucoup de civilité. Il y passa quatre jours, pendant lesquels l’amour de la Belle s’accrut avec tant de violence, qu’elle ne se pouvoit plus résoudre à s’en séparer. C’estoit pourtant une necessité absoluë. Outre les affaires qui le rappelloient au lieu qu’il avoit quitté, la bien-séance ne soufroit plus longtemps dans cette Maison. C’eust esté découvrir ce qui l’avoit amené ; &amp; dans l’état où estoient les choses, l’interest de leur amour les obligeoit encor au secret. Ainsi le Cavalier fit ses adieux à la Mere. La Belle ne les voulut point recevoir, &amp; prétendit, comme c’estoit seulement le lendemain qu’il devoit partir, que la nuit luy feroit imaginer quelque prétexte de demeurer encor quelques jours. Le Cavalier qui sentit combien cet adieu luy seroit sensible, jugea à propos de s’en épargner la douleur. Il partit de tres-grand matin sans revoir la Belle. La précipitation de ce depart la surprit si fort, qu’elle fut saisir d’un tremblement qui luy osta la parole. Elle croyoit l’avoir arresté en refusant de luy dire adieu ; &amp; le peu de complaisance qu’il sembloit avoir eu pour elle, luy fit penser cent choses qui la tourmenterent, &amp; qu’elle ne devoit point du tout penser. Elle rappella les reproches qu’elle luy avoit faits de ne luy marquer pas assez d’amour dans ses Lettres, &amp; s’estant mis en teste qu’il ne l’avoit quitté que parce que sa tendresse estoit affoiblie, elle tomba dans une pâmoison qui fit accourir tout le monde à son secours. Sa Mere qui l’aimoit tendrement, se desesperoit. On employa toute sorte de remedes pour la faire revenir, &amp; enfin on en vint à bout. La fievre la prit, &amp; dés le soir mesme cette fievre luy causa un transport qui ne la laissa plus maistresse de sa raison. Elle parla, &amp; le nom du Cavalier repeté cent fois, fit connoistre l’amour qu’elle avoit pour luy. Elle demandoit souvent pourquoy il l’avoit si ruellement abandonnée, &amp; elle n’estoit sensible qu’aux assurances qu’on luy donnoit qu’il arriveroit bientost. On avoit lieu de le croire. La Mere qui auroit tout fait pour tirer sa Fille de l’état dangereux où elle estoit, n’eut pas plutost connu que la cause de son mal venoit de l’éloignement du Cavalier qu’elle envoya apres luy à toute bride. Le Transport cessa. La Belle fut fort surprise d’apprendre ce qui luy estoit échapé. Sa Mere la consola, luy promit de consentir à son Mariage malgré l’inégalité du Bien, &amp; luy fit sçavoir les ordres qu’elle avoit donnez pour faire revenir le Cavalier. Mais toutes ces choses furent inutiles. La fievre ne diminua point, &amp; le saisissement qui l’avoit causée trancha les jours de cette belle personne avant que son Amant fut arrivé. Jugez de son desespoir quand il sçeut la perte qu’il venoit de faire. Il fut tel que la Mere toute accablée qu’elle estoit, ne pût se défendre de le consoler. Elle l’arresta chez elle, &amp; le regardant comme le Mary de sa Fille, elle ne trouvoit de soulagement à ses douleurs, qu’en s’entretenant avec luy du sujet qu’ils avoient tous deux de s’affliger. Il est encor chez elle, cette Dame n’ayant point voulu le laisser partir. Elle le traite comme son Fils, &amp; luy a fait promettre que s’il se resolvoit à se marier, il accepteroit une Femme de sa main. Beaucoup de Belles luy voudroient bien faire oublier son premier amour, mais ce sont des impressions qui ne s’effacent que par un long temps, &amp; la memoire de ce qu’il a perdu luy est trop chere pour le laisser capable de prendre si-tost un nouvel engagement.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_231">
         <head>[Avanture d’une Nourrice morte de joye]</head>
-        <bibl>[1678-08_231] <title>Mercure galant</title>, août [tome 8], 1678, p. 230-232.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 230-232.</bibl>
         <p>On meurt de joye comme de douleur. Quoy que la preuve que je vous en vay donner soit d’une Personne dont la condition est tres-mediocre, elle ne laisse pas de faire connoistre la verité de ce que je vous dis.</p>
         <p>Madame la Duchesse de Lesdiguieres voyant approcher le temps de ses Couches, arresta une Nourrice il y a quelques jours. Les Medecins l’avoient aprouvée, &amp; les avantages de nourrir le premier Enfant d’une Personne de cette qualité estoient grands. On luy promettoit un employ considérable pour son Mary, &amp; Madame la Duchesse recevoit une petite Fille qu’elle avoit à son service. Un si heureux changement dans sa fortune luy donna un si grand saisissement de joye, qu’elle en mourut dés le lendemain. Cet exemple n’est pas nouveau, &amp; ce qui est arrivé de nos jours à Mademoiselle de Grasset est encor plus singulier. Elle estoit Fille d’un Conseiller de la Cour des Aydes de Montpellier ; &amp; aimoit avec beaucoup de pasion un fort galant Homme qui n’en avoit pas moins pour elle. Des raisons de Famille obligerent les Parens de l’un &amp; de l’autre à refuser leur consentement à ce Mariage. Ces obstacles ne servirent qu’à augmenter leur amour. Enfin apres sept années d’épreuves, les Parens s’estant laissez fléchir, on prit jour pour la signature du Contract. La Demoiselle en eut tant de joye, qu’apres avoir écrit <hi rend="i">Marie de Gras…</hi> elle n’eut pas la force d’achever son nom, &amp; mourut la plume à la main.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_245">
         <head>[Motet du Sieur Paolo Lorenzani chanté devant Leurs Majestez]</head>
-        <bibl>[1678-08_245] <title>Mercure galant</title>, août [tome 8], 1678, p. 245-249.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 245-249.</bibl>
         <p>Je ne sçay, Madame, si le nom du Sieur Paolo Lorenzani Romain a esté jusqu’en vostre Province. Il estoit Maistre de Musique à Messine, &amp; a suivy les François à leur retour. Il a chanté un Motet de sa composition devant le Roy. Sa Majesté le trouva si beau, qu’elle se le fit chanter jusqu’à trois fois, &amp; ordonna une somme considérable pour son Autheur, auquel elle a fait chanter ce mesme Motet deux autres fois depuis ce temps-là. Ainsi il a esté entendu cinq fois, &amp; toûjours avec grand applaudissement des Connoisseurs. Il est certain que la maniere Italienne a quelque chose de particulier pour la Musique, qui la fait trouver toute agreable. Cela se peut voir par cet Air Italien que le Roy ne pouvoit se lasser d’entendre, &amp; qu’on luy a veu admirer toutes les fois qu’il l’a entendu. Vous l’allez trouver icy noté. Il est de feu M<hi rend="sup">r</hi> l’Abbé de la Barre Organiste de la Chapelle du Roy, &amp; assez beau pour faire vivre sa memoire éternellement. Quelques Gens l’ont ovulu faire passer pour estre de Luigi Rossy, &amp; ont mesme mis son nom au bas de quelques Copies. Je ne sçay quelle raison les a obligez d’en user ainsi, mais cet Air estat veritablement de feu Mr de la Barre, ils ne pouvoient porter un témoignage plus glorieux de ses Ouvrages, qu’en leur donnant pour Autheur un des Maistres qui s’est acquis le plus de réputation en Italie. Voicy les Paroles de cet Air.</p>
         <quote rend="border">
           <label rend="center">Air italien,</label>
@@ -561,9 +561,9 @@
           <l><space/>Chia perduto il suo ben, non hariposo.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_354">
         <head>[Air sur la Paix] *</head>
-        <bibl>[1678-08_354] <title>Mercure galant</title>, août [tome 8], 1678, p. 354-357.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 354-357.</bibl>
         <p>La Paix qui nous va produire tant de biens, a fait faire les Paroles que je vous envoye. Elles ont esté mises en Air par Mr de Riel, connu pour un des plus consommez que nous ayons dans la Musique, &amp; le premier Eleve de M<hi rend="sup">r</hi> Lambert.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.</label>
@@ -583,9 +583,9 @@
           <l><space/>La Paix rend à nos Champs &amp;c.</l></lg>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_356">
         <head>[Madrigal]</head>
-        <bibl>[1678-08_356] <title>Mercure galant</title>, août [tome 8], 1678, p. 356-358.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 356-358.</bibl>
         <p>Si la Paix est toûjours difficile à conclure, quand mesme il n’y a eu Guerre qu’entre deux Rois, on peut dire qu’elle est presque impossible lors que le nombre des Intéressez est grand. Ils ne peuvent avoir tous ce qu’ils souhaitent ; &amp; quand chacun auroit lieu d’estre satisfait à son égard, c’est en gouster imparfaitement la joye, que d’estre obligé de reconnoistre un Vainqueur, &amp; de voir toute la gloire d’un costé. Je vous en diray davantage apres l’échange des Ratifications. Voicy un Madrigal de M<hi rend="sup">r</hi> de Monchamps Avocat au Conseil, adressé à ceux des Conféderez qui refusent de signer la Paix.</p>
         <quote rend="border">
           <label rend="center">Madrigal.</label>
@@ -601,19 +601,19 @@
           <l>Ne le contraignez point d’en porter encor trois.</l>
         </quote>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_358">
         <head>[Feste de S. Louis celebrée par Messieurs de l’Académie]</head>
-        <bibl>[1678-08_358] <title>Mercure galant</title>, août [tome 8], 1678, p. 358-359.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 358-359.</bibl>
         <p>Messieurs de l’Académie Françoise célébrerent la Feste de S ; Loüis le Jeudy 25. de ce Mois, dans la Chapelle du Louvre. Il y eut grande Musique. M<hi rend="sup">r</hi> l’Abbé Desalleurs fit le Panégyrique du Saint avec un Eloge du Roy qui luy attira l’admiration de tout le monde. Ce succés luy est ordinaire. L’Assemblée, quoy que nombreuse, estoit presque toute de gens choisis. M<hi rend="sup">r</hi> l’Abbé Colbert s’y trouva, &amp; commença par là de faire connoistre à Messieurs de l’Académie, combien il tenoit à l’honneur d’estre de leur Corps. Il a esté choisy pour remplir la place de feu M<hi rend="sup">r</hi> Esprit. On croit sa Reception remise apres le retour de fontainebleau. Je ne vous en parleray que dans ce temps-là.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_359">
         <head>[Livre nouveau] *</head>
-        <bibl>[1678-08_359] <title>Mercure galant</title>, août [tome 8], 1678, p. 359.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 359.</bibl>
         <p>On a fait une Nouvelle Historique de la Vie de D. Juan d’Autriche, qui estoit Fils naturel de l’Empereur Charles V. &amp; qui gagna la fameuse Bataille de Lépante sous le Regne de Philippe II. Elle fait voir que toutes les inclinations de ce Prince estoient aussi relevées que sa naissance. La lecture de ce Livre est fort agreable. On le trouve au Palais, à l’Ange Gabriel, dans la Gallerie des Prisonniers.</p>
       </div>
-      <div>
+      <div xml:id="MG-1678-08_362">
         <head>[Sur le mot Porfil]</head>
-        <bibl>[1678-08_362] <title>Mercure galant</title>, août [tome 8], 1678, p. 362-364.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 8], 1678, p. 362-364.</bibl>
         <p>Quant au mot de <hi rend="i">Porfil</hi> que vous avez trouvé dans ma derniere Lettre, &amp; que vous croyez estre une faute d’impression, je vous avouë que je n’ay point songé à mettre <hi rend="i">Profil</hi>. Si ceux qui ont écrit depuis peu des Fortifications, se sont servis de ce dernier mot, mon oreille s’est accoustumée au premier. Cependant je n’ay pas voulu m’en croire. J’ay déja consulté quelques-uns de nos Maistres sur la Langue, qui tous sur l’exemple de Reg<anchor xml:id="_GoBack"/>uier, de M<hi rend="sup">r</hi> Balzac, &amp; d’autres fameux Ecrivains, n’admettent que le mot de <hi rend="i">Porfil</hi>. Je proposeray la Question de nouveau, &amp; si je suis condamné, je vous l’avoüeray de bonne-foy. La précipitation avec laquelle je suis contraint de vous écrire tous les Mois, me doit faire pardonner beaucoup de choses. Je ne vous dis rien sur les expressions qui vous paroissent trop hardies dans quelques Chansons. Ceux qui en font les Paroles ont plus de talent que moy, &amp; c’est d’eux que je voudrois apprendre jusqu’où peut aller l’élevation que la Poësie nous permet.</p>
       </div>
     </body>
