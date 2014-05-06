@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, tome I, 1672</title>
+        <title> Le Mercure Galant, tome I, 1672</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -30,7 +30,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Le Mercure Galant</title>, <publisher>Théodore Girard</publisher>, <date>1672</date>.</bibl>
+        <bibl><title>Le Mercure Galant</title>, <publisher>Claude Barbin</publisher> et <publisher>Theodore Girard</publisher>, <date>1672</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -44,10 +44,10 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure galant</hi>, tome 1 [janvier-avril], 1672.</head>
+      <head><hi rend="i">Mercure Galant</hi>, tome I [janvier-avril], 1672.</head>
       <div xml:id="MG-1672-01_000">
         <head>Le Libraire au lecteur</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. [I-VIII].</bibl>
         <label rend="center">Le Libraire</label>
         <label rend="center">Au Lecteur.</label>
@@ -81,7 +81,7 @@
       </div>
       <div xml:id="MG-1672-01_001">
         <head>[Dessein de l’Ouvrage] *</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 1-13.</bibl>
         <p>MADAME,</p>
         <p>Il n’estoit pas besoin de me faire souvenir que lors que vous partîtes de Paris, je vous
@@ -144,7 +144,7 @@
       </div>
       <div xml:id="MG-1672-01_013">
         <head>[L’Histoire du Collier de Perles]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672, p.
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672, p.
           13-34.</bibl>
         <p>c’est pourquoy je commence par une Histoire, avant que d’entrer dans le détail des
           nouvelles de cette Semaine. Un jeune Homme estant ces jours passez chez une belle Personne
@@ -257,7 +257,7 @@
       </div>
       <div xml:id="MG-1672-01_034">
         <head>[Honneurs rendus à la mémoire de feüe Madame de Montausier]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 34-37.</bibl>
         <p>Quoy que mon dessein ne soit pas de vous entretenir toûjours des honneurs funebres que
           l’on rendra à ceux qui seront d’une naissance assez illustre pour obliger la Gazette à
@@ -277,7 +277,7 @@
       </div>
       <div xml:id="MG-1672-01_037">
         <head>[Éloge de Monsieur l’Abbé de Noailles]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], p. 37-40.</bibl>
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], p. 37-40.</bibl>
         <p>Je ne sçais si je vous dois mander que M<hi rend="sup">r</hi> l’Abbé de Noailles fit
           dernierement paroistre son Esprit en Sorbonne, &amp; qu’il étonna tous les vieux docteurs.
           Vous direz sans doute en lisant cette nouvelle, que si je vous parle de tous ceux qui
@@ -296,7 +296,7 @@
       </div>
       <div xml:id="MG-1672-01_044">
         <head>[Histoire des Bas de Soye verds]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 44-60.</bibl>
         <p>Puis que je dois commencer les Nouvelles que je me suis engagé de vous écrire chaque
           Semaine par quelque Avanture extraordinaire, en voicy une véritable, &amp; qui aura sans
@@ -384,7 +384,7 @@
       </div>
       <div xml:id="MG-1672-01_065">
         <head>[Discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 65-71.</bibl>
         <p>On representa ces jours passez sur le Theatre de l’Hostel de Bourgogne une Tragédie
           intitulée <hi rend="i">Bazajet</hi>, &amp; qui passe pour un Ouvrage admirable. Je croy
@@ -421,7 +421,7 @@
       <div xml:id="MG-1672-01_071">
         <head>[Avantures arrivées à Constantinople à un François, par laquelle on peut juger de la
           galanterie des Turcs]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 71-89.</bibl>
         <p>La galanterie &amp; l’honnesteté des Turcs n’est pas une chose sans exemple, &amp; nous
           en avons une Histoire tres-agreable dans une Lettre de Monsieur du Loir écrite à Monsieur
@@ -515,7 +515,7 @@
       <div xml:id="MG-1672-01_089">
         <head>[Suite du discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine]
           *</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 89-90.</bibl>
         <p>Mais retournons à l’Autheur de Bajazet, dont l’ouvrage m’a donné lieu de vous raconter
           cette aventure. Je n’ay rien à vous dire de son mérite ; il est si grand qu’on ne peut
@@ -530,7 +530,7 @@
       <div xml:id="MG-1672-01_091">
         <head>[L’Histoire de celle qui aima mieux se brûler avec son Mary, que de le voir
           infidèle]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 91-109.</bibl>
         <p>Je ne sçay, Madame, si mes Lettres auront eu le bonheur de vous plaire ; mais je vous
           assure que je m’informe avec soin des Nouvelles les plus curieuses, &amp; des avantures
@@ -629,7 +629,7 @@
       </div>
       <div xml:id="MG-1672-01_109">
         <head>[Discours sur le Mariage de Bachus, Comedie héroïque]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 109-111.</bibl>
         <p>On ne parle icy que de divertissemens, &amp; jamais les Balets &amp; la Musique ne furent
           si à la mode. Les Comédiens du Marais ont représenté depuis peu une Piece qui en est toute
@@ -643,7 +643,7 @@
       </div>
       <div xml:id="MG-1672-01_114">
         <head>[L’Histoire de la Famille visionnaire]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 114-128.</bibl>
         <p>Quoy qu’il n’y ait rien de plus ordinaire que les complimens, il n’y a souvent rien de
           plus ennuyeux &amp; de plus inutile ; c’est pourquoy je vous prie, Madame, de trouver bon
@@ -718,7 +718,7 @@
       </div>
       <div xml:id="MG-1672-01_129">
         <head>[Retour de Suede de Monsieur le Duc de Pompone]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 129-130.</bibl>
         <p>Monsieur de Pomponne est depuis peu de retour de Suede, &amp; il a déjà presté Serment
           pour la Charge de Secretaire d’Estat. Son merite est connu de tout le Monde puis que ce
@@ -730,7 +730,7 @@
       </div>
       <div xml:id="MG-1672-01_131">
         <head>[L’Histoire de la Fille Soldat]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 131-147.</bibl>
         <p>Puis que je vous ay mandé dans ma derniere [lettre] que je ne vous ferois plus de
           compliment, &amp; que je commencerois toutes mes Lettres par les Histoires dont j’aurois à
@@ -818,7 +818,7 @@
       </div>
       <div xml:id="MG-1672-01_147">
         <head>[Eloge de Monsieur le Duc de Coaslin]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 147-149.</bibl>
         <p>Monsieur le Chancelier se sentant pressé de son mal, a ordonné à ses Enfans de remettre
           les Sceaux entre les mains da sa Majesté, craignant que sa maladie ne l’empeschât de la
@@ -833,7 +833,7 @@
       </div>
       <div xml:id="MG-1672-01_150">
         <head>[Mort de Monsieur le Chancelier, &amp; son Eloge]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 150-153.</bibl>
         <p>JE ne sçay, Madame, si cette Lettre aura le bonheur de vous plaire : J’en dois douter
           avec raison, puis que vous n’y trouverez point d’Histoire nouvelle comme dans les
@@ -855,7 +855,7 @@
       <div xml:id="MG-1672-01_165">
         <head>[Eloges des Six Conseillers d’Etat ordinaires, &amp; de six Maistres des Requestes que
           le Roy a choisis pour assister au Sceau]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 165-166.</bibl>
         <p>Monsieur Pellisson n’est inconnu de personne : Son esprit &amp; sa probité sont
           incontestables ; &amp; quand on auroit pas de tous costez mille marques, les graces qu’il
@@ -864,7 +864,7 @@
       <div xml:id="MG-1672-01_166">
         <head>[Avanture d’une jeune Marquise apres la mort de Monsieur Gaultier excellent Ioüeur de
           Luth]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 166-168.</bibl>
         <p>La jeune Marquise que vous connoissez, qui commençoit à joüer si bien du Lut, est au
           desespoir depuis quelques jours. Monsieur Gaultier qui luy montroit, luy avoit assuré
@@ -880,7 +880,7 @@
       </div>
       <div xml:id="MG-1672-01_169">
         <head>[L’Histoire du Mary qui se croit Cocu par luy-mesme]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 169-176.</bibl>
         <p>JE ne sçais, Madame, si vous n’avez point encore oüy parler d’une Avanture arrivée depuis
           quelque temps en cette Ville, &amp; qui a fait assez de bruit ce Carnaval dans tous les
@@ -922,7 +922,7 @@
       </div>
       <div xml:id="MG-1672-01_177">
         <head>[Le retour d’Italie de Messieurs de Vendosme]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 177-178.</bibl>
         <p>Messieurs de Vendosme sont depuis peu de retour d’Italie, où ils se sont faits admirer
           dans tous les Lieux où ils ont passé. La vivacité de leur esprit est une chose
@@ -936,7 +936,7 @@
       <div xml:id="MG-1672-01_187">
         <head>[Discours sur l’<hi rend="i">Ariane</hi>, Tragédie de monsieur de Corneille le
           jeune]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 187-188.</bibl>
         <p>Enfin l’<hi rend="i">Ariane</hi> de Monsieur de Corneille le jeune, qu’on attendoit
           depuis si longtemps, parut Vendredy dernier. On ne peut rien voir de plus touchant, &amp;
@@ -947,7 +947,7 @@
       </div>
       <div xml:id="MG-1672-01_189">
         <head>[L’Histoire du Cabinet des Miroirs]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 189-207.</bibl>
         <p>Je croy, Madame, que ce que je vais vous écrire de Monsieur le.… que vous connoissez
           aussi bien que moy, poura vous tenir lieu d’une Histoire agreable, &amp; que la lecture ne
@@ -1048,7 +1048,7 @@
       <div xml:id="MG-1672-01_207">
         <head>[Discours sur une Comédie de Monsieur de Molière, intitulée les <hi rend="i">Femmes
             Sçavantes</hi>]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 207-215.</bibl>
         <p>Jamais dans une seule année l’on ne vit tant de belles Pieces de Theatre &amp; le fameux
           Molière ne nous a point trompez dans l’espérance qu’il nous avoit donnée il y a tantost
@@ -1092,7 +1092,7 @@
       </div>
       <div xml:id="MG-1672-01_216">
         <head>[Le Sujet du Voyage de l’Academie Françoise à Versailles, conduite par Monsieur l'Archevesque de Paris]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 216-218.</bibl>
         <p>Monsieur l’Archevesque de Paris, Directeur de l’Académie Françoise, la mena ces jours
           passez à Versailles, pour remercier le Roy de l’honneur qu’il a fait à cette Illustre
@@ -1107,7 +1107,7 @@
       </div>
       <div xml:id="MG-1672-01_218">
         <head>[Régal de Monsieur le Marquis d’Angeau à Messieurs de l’Académie Françoise]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 218-225.</bibl>
         <p>Monsieur d’Angeau Gouverneur d’Anjou, &amp; autrefois Mestre de Camp du Regiment du Roy,
           &amp; destiné à l’Ambassade du Suede, qui est aussi de l’Académie, traita magnifiquement
@@ -1151,7 +1151,7 @@
       <div xml:id="MG-1672-01_247">
         <head>[Discours sur les Eaux de Versailles, sur les Jardins, &amp; sur les nouveaux Ouvrages
           qu’on y a mis ; avec les noms des Sculpteurs]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 247-253.</bibl>
         <p>JE n’ay rien de nouveau, Madame, à vous mander cette Semaine, que le Voyage du Roy à
           Versailles. Je sçais que vous l’avez vû, &amp; que vous avez lû la belle Description que
@@ -1188,7 +1188,7 @@
       <div xml:id="MG-1672-01_260">
         <head>[L’institution de l’Académie des belles Lettres, avec les noms de Messieurs les
           Académiciens]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 260-267.</bibl>
         <p>PUIS que vous souhaitez, Madame, qu’apres vous avoir entretenu de l’Académie Françoise,
           je vous dise quelque chose de celle de l’Abbé d’Aubignac, dont vous avez (dites-vous) oüy
@@ -1239,7 +1239,7 @@
       </div>
       <div xml:id="MG-1672-01_267">
         <head>Lettre de Gas, Epagneul de Madame Des-houlieres</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 267-271.</bibl>
         <p>Il court des Pieces galantes de son Chien, qu’on appelle <hi rend="i">Gas</hi> : Il s’est
           fait depuis un peu Poëte excellent, &amp; ses Ouvrages méritent bien d’estre imprimez.
@@ -1300,7 +1300,7 @@
       </div>
       <div xml:id="MG-1672-01_271">
         <head>[La Mort de Monsieur de Morangis]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 271-272.</bibl>
         <p>Monsieur de Maurangis Directeur de Finances, mourut la Semaine passée : C’estoit un Homme
           d’esprit et de bien ; &amp; la Gazette en dit tant, que je ne pourois rien dire qui en
@@ -1309,7 +1309,7 @@
       <div xml:id="MG-1672-01_273">
         <head>[L’Entrée &amp; l’Audience de Monsieur le Comte de Molina Ambassadeur Extraordinaire
           d’Espagne. Remarques curieuses sur ce sujet]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 273-274.</bibl>
         <p>Monsieur le Comte de Molina Ambassadeur Extraordinaire d’Espagne, a fait son Entrée
           accompagné de Monsieur le Mareschal de Grancé ; &amp; il fut conduit à l’Audiance du Roy
@@ -1322,7 +1322,7 @@
       </div>
       <div xml:id="MG-1672-01_287">
         <head>[Discours sur le Journal des Sçavans]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 287.</bibl>
         <p>On continuë depuis le mois de Janvier à donner au Public <hi rend="i">le Journal des
             Sçavans</hi>, que vous avez lû autrefois avec plaisir. C’est un Ouvrage tres-beau &amp;
@@ -1332,7 +1332,7 @@
       </div>
       <div xml:id="MG-1672-01_306">
         <head>[Discours sur les Livres nouveaux de Galanterie]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 306-310.</bibl>
         <p>JE vous envoye, Madame, une partie des Livres nouveaux qui se vendent depuis peu chez
             M<hi rend="sup">r</hi> Barbin. Le Beralde, d’un Autheur inconnu, vous paroistra bien
@@ -1363,7 +1363,7 @@
       <div xml:id="MG-1672-01_310">
         <head>[Noms de tous les Autheurs citez par Monsieur Ménage dans son Livre intitulé, <hi
             rend="i">Observations sur la Langue Françoise</hi>]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 310-313.</bibl>
         <p>Voicy une partie des Autheurs qu’il cite. Monsieur de Vaugelas, qu’il approuve et
           condamne souvent ; Messieurs Balzac, Malherbe, Sarazin, Voiture, Mainard, S. Amant,
@@ -1380,7 +1380,7 @@
       </div>
       <div xml:id="MG-1672-01_323">
         <head>[Quelques mots presentement à la mode]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 323-326.</bibl>
         <p>Je devois dans la Lettre où je vous ai parlé des Modes, vous entretenir de certains mots,
           qui bien qu’ils ne soient pas nouveaux, ne laissent pas d’estre presentement fort à la
@@ -1403,7 +1403,7 @@
       </div>
       <div xml:id="MG-1672-01_327">
         <head>Lettre de Gas, Epagneul de Madame Des-houlières</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 327-329.</bibl>
         <p>Je vous ay déja envoyé des Vers du plus agréable Animal du Monde ; en voicy d’autres de
           sa façon, qui je croy vous plairont encore davantage.</p>
@@ -1451,7 +1451,7 @@
       </div>
       <div xml:id="MG-1672-01_329">
         <head>[Histoire de Megius &amp; de son Compagnon, ou la Pierre Philosophale]</head>
-        <bibl><title>Mercure galant</title>, tome 1 [janvier-avril], 1672,
+        <bibl><title>Le Mercure Galant</title>, tome I [janvier-avril], 1672,
           p. 329-340.</bibl>
         <p>Je ne puis me resoudre à fermer cette Lettre, sans vous faire part d’une Histoire que je
           viens d’apprendre.</p>
