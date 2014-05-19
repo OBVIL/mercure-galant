@@ -12,8 +12,18 @@
         <edition>OBVIL/IREMUS</edition>
         <respStmt>
           <name>Alexandre De Craim</name>
-          <resp>Edition numérique</resp>
+          <resp>Édition numérique</resp>
         </respStmt>
+<respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+<respStmt><name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+</respStmt>
+<respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Transcription</resp></respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
