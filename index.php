@@ -8,10 +8,8 @@ $pot=new Teipot(dirname(__FILE__).'/mercure-galant.sqlite', 'fr');
 // est-ce qu’un fichier statique (ex: epub) est attendu pour ce chemin ? 
 // Si oui, l’envoyer maintenant depuis la base avant d’avoir écrit la moindre ligne
 $pot->file($pot->path);
-// chemin css, js ; baseHref est le nombre de '../' utile pour revenir en racine du site
-$teipot=$pot->baseHref.'../teipot/';
-// autres ressources spécifiques
-$theme=$pot->baseHref.'../theme/';
+$teipot = $pot->basehref() . '../teipot/';
+$theme = $pot->basehref() . '../theme/';
 // Si un document correspond à ce chemin, charger un tableau avec différents composants (body, head, breadcrumb…)
 $doc=$pot->doc($pot->path);
 // pas de body trouvé, charger des résultats en mémoire
@@ -40,7 +38,7 @@ else echo '
       <div id="bordertop"> </div>
       <header id="header">
         <h1>
-          <a href="<?php echo $pot->baseHref.'?'.$pot->qsa(); ?>">OBVIL, Mercure Galant</a>
+          <a href="<?php echo $pot->basehref() . $pot->qsa(null, null, '?'); ?>">OBVIL, Mercure Galant</a>
         </h1>
         <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
       </header>
@@ -54,7 +52,7 @@ if (isset($doc['bookid'])) {
   echo "\n".'<header>';
   if ($doc['end']) echo "\n".'<div class="date">'.$doc['end'] .'</div>';
   if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
-  echo "\n".'<a class="title" href="'.$pot->baseHref.$doc['bookname'].'/">'.$doc['title'].'</a>';
+  echo "\n".'<a class="title" href="' . $pot->basehref() . $doc['bookname'] . '/">' . $doc['title'] . '</a>';
   echo "\n".'</header>';
   // rechercher dans ce livre
   echo '
