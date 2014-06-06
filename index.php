@@ -106,6 +106,11 @@ if (isset($doc['body'])) {
 }
 // pas de livre demandé, montrer un rapport général
 else {
+  // présentation du corpus
+  if (!$pot->q) {
+    $presentation = new Chtimel('doc/presentation.html');
+    echo $presentation->body('');
+    }
   // nombre de résultats
   echo $pot->report();
   // présentation chronologique des résultats
