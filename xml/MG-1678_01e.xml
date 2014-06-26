@@ -32,7 +32,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1678-04/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1678-01e/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -44,7 +44,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, <publisher>Claude Blageart</publisher>, quartier de<date>janvier, 1678</date></bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, <publisher>Claude Blageart</publisher>, quartier de <date>janvier, 1678</date></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -166,7 +166,8 @@
         <head>[Air] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 59-61.</bibl>
         <p>Un peu d’interruption, Madame. Vous continuerez à lire plus volontiers quand vus vous serez divertie à chanter un Air qui a esté fait sur le Printemps. Il est de saison, &amp; vous n’en trouverez point qui ne le soient dans les Lettres extraordinaires que vous recevrez de moy. Vous ne sçavez peut-estre pas que tous les Maistres de Musique commencent toûjours chaque Saison de l’Année par des Chansons qui y conviennent, &amp; qu’ils ne donnent que dans ce temps-là. Ainsi vous en aurez un sur l’Esté dans l’Extraordinaire de Juillet, comme vous en avez aujourd’huy sur le Printemps. Ce premier Air de la composition de M. Fleury, non pas de celuy qui jouë si bien du Theorbe, mais de celuy qui se fait admirer par la maniere dont il touche le Clavessin. C‘est l’unique Ecolier qui montre de tous ceux qu’a eus feu Monsieur Hardel, qui est mort depuis quelques jours. La perte d’un si grand Maistre ne pouvoit estre mieux reparée que par un si habile Ecolier. Voicy les Paroles sur lesquelles il a fait ce que vous verrez noté en suite.</p>
-        <quote rend="border">
+<p>[Air gravé pour une voix et BC, inséré entre les pages 60 et 61.]</p>        
+<quote rend="border">
           <l><space/><space/>        AH, le beau temps,</l>
           <l><space/><space/>            Bergere !</l>
           <l><space/><space/>        Ah, le beau temps !</l>
@@ -1286,7 +1287,8 @@
           <label rend="center">Lettre LXIV.</label>
           <p rend="i">À Paris. </p>
           <p>LE Printemps est encor si peu avancé, qu’il commence à peine de nous donner des Fleurs. Cependant, Monsieur, voicy un Fruit précoce que je vous envoye. C’est un Air composé par une aimable &amp; jeune Personne qui n’en avoit point encor fait. L’illustre Monsieur Sicard vous est connu. L’aimable Personne dont je vous parle est sa Fille, &amp; je croy qu’il ne vous faut rien de plus pour vous persuadez de ce qu’elle sçait déja dans la Musique. Son merite ne se borne pas à ce seul talent, &amp; j’ay à vous apprendre qu’elle chante, qu’elle jouë du Lut, de la Viole &amp; du Clavessin, qu’elle est bien faite, &amp; que tout cela se peut dire d’elle sans qu’on se rende suspect de flaterie. Les Vers qui suivent dont ceux qu’elle a choisis pour faire son coup d’essay.</p>
-          <lg><l><space/>    L’aimable Flore est de retour,</l>
+<p>[Air gravé pour une voix et BC, inséré entre les pages 390 et 391.]</p>          
+<lg><l><space/>    L’aimable Flore est de retour,</l>
           <l><space/>    Les Jeux, les Zéphirs &amp; l’Amour</l>
           <l>Annoncent les coueurs de la Saison nouvelle.</l>
           <l><space/>    Le Printemps regne dans ces lieux,</l>
@@ -1841,6 +1843,34 @@
           <p>L. C.</p>
         </quote>
       </div>
+<div xml:id="MG-1678-01e_495">
+        <head>[Sur la première énigme de février 1677] *</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 485-488.</bibl>
+        <p>Ce qui suit est d’un Homme de Qualité de Bordeaux, qui ayant expliquë les deux Enigmes du mois de Fevrier sur le <hi rend="i">Tambour</hi> &amp; sur <hi rend="i">l’Enseigne</hi>, adresse ces Explications aux deux Personnes dont j’ay marqué que je les tenois.</p>
+        <quote rend="border">
+          <label rend="center">A l’Autrice de la premiere Enigme du Mercure de Fevrier.</label>
+          <p>Vostre <hi rend="i">Tambour</hi> a fait trop de bruit, Madame, pour n’estre pas entendu par tout Païs, &amp; vous en faites trop aussi pour n’estre pas connuë par tout le beau Monde. Vous estes merveilleuse à sçavoir dénaturer les choses. [...] Madame, permettez-moy de vous dire que vouloir vous cacher sous l’enveloppe d’une Enigme ; c’est proprement vouloir prendre le Lievre au son du Tambour, &amp; que l’Autheur du Mercure qui n’a pas voulu vous nommer ou par jalousie, ou par discretion, n’a pas réüssy. [...] Il veut vous faire connoistre par les caracteres de vos belles-Lettres, &amp; nous vous connoissons aussi par ceux de vostre belle Enigme [...].</p>
+          <lg><l>Le Tambour est dans sa <hi rend="i">naissance</hi></l>
+          <l>Bizarre comme dans son <hi rend="i">fort</hi></l>
+          <l>Il est composé d’un bois <hi rend="i">mort</hi></l>
+          <l>Qui n’a ny vertu ny <hi rend="i">puissance.</hi></l>
+          </lg><lg>
+          <l>Il marche aux champs, il marche aux <hi rend="i">Villes</hi></l>
+          <l>Sa suite se grossit de Maison en <hi rend="i">Maison</hi></l>
+          <l>Et quand elle est complete, il est avec <hi rend="i">raison</hi></l>
+          <l>Des fanfares de Mars une des plus <hi rend="i">utiles.</hi></l>
+          </lg><lg>
+          <l>Au Louvre, au Camp, on le <hi rend="i">desire</hi></l>
+          <l>Son tintamarre plaist au <hi rend="i">Roy</hi>,</l>
+          <l>Il est toûjours plein comme <hi rend="i">moy</hi></l>
+          <l>De la gloire de son <hi rend="i">empire.</hi></l>
+          </lg><lg>
+          <l>Son génie est tout à la <hi rend="i">Guerre</hi> ;</l>
+          <l>Quoy que mal-traité des <hi rend="i">Humains</hi>,</l>
+          <l>Plus il est batu de leurs <hi rend="i">mains</hi>,</l>
+          <l>Plus il fait de bruit sur la <hi rend="i">Terre.</hi></l></lg>
+        </quote>
+      </div>
       <div xml:id="MG-1678-01e_494">
         <head>[Histoire de la fausse morte] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 494-508.</bibl>
@@ -1861,7 +1891,8 @@
         <head>[Air du printemps] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 511-512.</bibl>
         <p rend="i">Je n’ay plus qu’un Air de Printemps à vous faire voir, avant que de venir à l’Histoire Enigmatique que je vous ay promis de vous envoyer. Cet Air est de la Composition d’un Maistre du Havre. J’espere qu’il vous fera demeurer d’accord que les Provinces ont d’aussi habiles Gens en Musique qu’en toute autre chose. Les Paroles sont du stile ordinaire des Amans qui croyent avoir toûjours sujet de se plaindre. </p>
-        <quote rend="border">
+<p>[Air gravé pour une voix et BC, inséré entre les pages 511 et 512.]</p>        
+<quote rend="border">
           <l>CRuel Printemps, peux-tu paroistre</l>
           <l>Où Climene ne paroist pas ?</l>
           <l><space/>    Qui t’engage à renaistre</l>
