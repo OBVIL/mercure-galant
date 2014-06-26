@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
-<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1672-01" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -10,7 +10,11 @@
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
-        <respStmt>
+<respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable d'édition</resp>
+        </respStmt>                 
+<respStmt>
           <name>Alexandre De Craim</name>
           <resp>Édition numérique</resp>
         </respStmt>
@@ -28,7 +32,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-01/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
