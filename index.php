@@ -31,7 +31,10 @@ else echo '
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    <style type="text/css">div.snip a.bookmark { display: none; }</style>
+    <style type="text/css">
+      div.snip a.bookmark { display: none; }
+      figure img {width: 650px;}
+    </style>
   </head>
   <body>
     <div id="center">
