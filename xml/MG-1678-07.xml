@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-07" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -10,25 +10,26 @@
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
-<respStmt>
+        <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable d'édition</resp>
         </respStmt>                 
-<respStmt>
+        <respStmt>
           <name>Alexandre De Craim</name>
           <resp>Édition numérique</resp>
         </respStmt>
-<respStmt>
+        <respStmt>
           <name>Frédéric Glorieux</name>
           <resp>Édition numérique</resp>
         </respStmt>
-<respStmt><name>Vincent Jolivet</name>
+        <respStmt>
+          <name>Vincent Jolivet</name>
           <resp>Édition numérique</resp>
-</respStmt>
-<respStmt>
+        </respStmt>
+        <respStmt>
           <name>Nathalie Berton-Blivet</name>
           <resp>Transcription</resp></respStmt>
-<respStmt>
+        <respStmt>
           <name>Adrien Vialet</name>
           <resp>Transcription</resp>
         </respStmt>
@@ -873,7 +874,7 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 242-244.</bibl>
         <p>[La pompe] qui accompagna il y a quelques jours la Benediction de Madame l’Abbesse de Farmontier, ne fut pas de cette nature. Je vous ay parlé d’elle dans ma Lettre du mois de Novembre, qui vous fit connoistre qu’elle est de la Maison d’Uxelles, &amp; Belle sœur de M<hi rend="sup">r</hi> le Comte de Beringhen. La Ceremonie se fit dans l’Eglise des Peres Feüillans, où l’on avoit dressé quelques Echafauts pour la commodité de l’Assemblée qui ne pouvoit manquer d’estre fort nombreuse. Cette précaution ne se trouva pas inutile. Le dehors du Balustre estoit tout remply de Gens de la premiere Qualité, Parens &amp; autres. On avoit reservé le dedans pour les Evesques &amp; pour ceux de la Cérémonie, qui fut tres-celebre. Monsieur l’Archevesque de Rheims officia avec la pompe ordinaire à ce grand Prelat. L’air majestueux de sa Personne, la richesse de ses ornemens, &amp; une excellente Musique composée de symphonie &amp; de voix, attiroient tour à tour &amp; les yeux &amp; l’attention de l’Assemblée. […]</p>
       </div>      
-<div xml:id="MG-1678-07_250">
+      <div xml:id="MG-1678-07_250">
         <head>[Air nouveau]</head>
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 250-251.</bibl>
         <p>Encor un Air nouveau, &amp; je passe à un Article qui fait l’entretien de tout Paris. Les Vers d’une petite Piece que je vous envoyay il y a quelque temps, ont tellement plû à M. l’Abbé Brossard, qu’il en a mis le premier Quatrain en Air. [Air imprimé pour une voix et BC, inséré entre les pages 250 et 251.]</p>
@@ -884,6 +885,10 @@
           <l>Vous avez des appas, &amp; mon cœur va trop viste</l>
           <l><space/>Quand il s’agit de se donner.</l>
         </quote>
+        <figure>
+          <graphic url="../img/MG-1678-07_NPe.png"/>
+          <desc>L’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</desc>
+        </figure>
       </div>
       <div xml:id="MG-1678-07_252a">
         <head>[Autre air nouveau]</head>
@@ -900,6 +905,10 @@
           <l>Si vous trouvez si doux, vous d’aimer, vous de boire,</l>
           <l>Quel plaisir n’est ce point de boire à ses amours !</l>
         </quote>
+        <figure>
+          <graphic url="../img/MG-1678-07_NPe.png"/>
+          <desc>L’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</desc>
+        </figure>
       </div>
 <div xml:id="MG-1678-07_252b">
         <head>[Procés touchant la cessation du Testament de Madame du Puis.]</head>
