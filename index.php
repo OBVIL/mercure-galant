@@ -50,7 +50,7 @@ else echo '
           <?php
 // les concordances peuvent être très lourdes, placer la nav sans attendre
 // livre
-if (isset($doc['bookid'])) {
+if (isset($doc['bookrowid'])) {
   // auteur, titre, date
   echo "\n".'<header>';
   if ($doc['end']) echo "\n".'<div class="date">'.$doc['end'] .'</div>';
@@ -105,7 +105,7 @@ if (isset($doc['prevnext'])) echo $doc['prevnext'];
 if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
-  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookid']);
+  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
 // pas de livre demandé, montrer un rapport général
 else {
