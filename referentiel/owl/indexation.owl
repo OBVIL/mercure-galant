@@ -1,0 +1,4725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ontology xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2002/07/owl#" xml:base="http://www.semanticweb.org/mercure-galant/ontologie/indexation-mercure" ontologyIRI="http://www.semanticweb.org/mercure-galant/ontologie/indexation-mercure">
+  <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+  <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+  <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+  <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+  <Declaration>
+    <ObjectProperty IRI="#contains_person"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#contains_topic"/>
+  </Declaration>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_person"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_topic"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_person"/>
+    <Class IRI="#AuthorityPersonForm"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_topic"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyRange>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_264"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_264</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+    <NamedIndividual IRI="#MICHEL,_Mr_[?-1677]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+    <NamedIndividual IRI="#décès"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+    <NamedIndividual IRI="#organiste"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_208"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_208</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#disposition_pour_la_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#air_d'opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_208"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_055"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_055"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_055"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_055</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_055"/>
+    <NamedIndividual IRI="#harpiste"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_055"/>
+    <NamedIndividual IRI="#testament"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-11_184"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-11/MG-1677-11_184</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#BERINGHEN,_Jacques-Louis_de_[1651-1723],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#AUMONT,_Louis-Marie-Victor_[1632-1704],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#théorbe"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#luth"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#trompette"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#timbale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_184"/>
+    <NamedIndividual IRI="#réception_officielle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-11_116"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-11/MG-1677-11_116</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+    <NamedIndividual IRI="#COLBERT,_Jean-Baptiste_[1619-1683]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+    <NamedIndividual IRI="#OUDOT,_Claude_[?-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+    <NamedIndividual IRI="#concert_privé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_116"/>
+    <NamedIndividual IRI="#petit_opéra"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-11_093"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-11/MG-1677-11_093</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+    <NamedIndividual IRI="#bourrée"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+    <NamedIndividual IRI="#menuet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+    <NamedIndividual IRI="#fable"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_093"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-11_081"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-11/MG-1677-11_081</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#AVAUX,_Jean-Antoine_II_de_Mesme_[1640-1709],_comte_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#ESTRADES,_Godefroy_[1607-1686],_comte_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#CLAPIER_ET_DE_LA_BÉRARDIÈRE,_Jacques_de_Solleysel_[1617-1680],_sieur_du"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#SOLLEYSEL,_dit_le_fils"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#luth"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#réception_privée"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#instrument_nouveau"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#flûte_douce"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#pochette"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-11_081"/>
+    <NamedIndividual IRI="#actualité_étrangère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_334"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_334"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_334"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_334</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_334"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_334"/>
+    <NamedIndividual IRI="#air_nouveau"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_304"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_304</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#TOSCANE,_Marguerite-Louise_d'Orléans_[1645-1721],_grande_duchesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#DESFORGES,_Mr"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#bourrée"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#parodie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#éloge_du_roi"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#courante"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_304"/>
+    <NamedIndividual IRI="#passepied"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_257"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_257</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <NamedIndividual IRI="#BERINGHEN,_Jacques-Louis_de_[1651-1723],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <NamedIndividual IRI="#BERINGHEN,_Marie-Madeleine-Élisabeth_Fare_d'Aumont_[1662-1728],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <NamedIndividual IRI="#mariage"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_257"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_250"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_250</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#CONTI,_Marie-Anne_de_Bourbon_[1666-1739],_princesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#DU_PIN,_Mr"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#COLBERT,_Jean-Baptiste_[1619-1683]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#COLBERT,_Marie_Charron_de_Ménars_[1630-1687],_Mme"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#VERMANDOIS,_Louis_de_Bourbon_[1667-1683],_comte_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#réception_officielle"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#transcription_instrumentale_de_musique_vocale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_250"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_200"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_200</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#BEAUCHAMP,_Pierre_[1631-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#HAUTEROCHE,_Noël_Le_Breton_[1630_ca-1707],_sieur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#PRADON,_Nicolas_[1632-1698]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#POISSON,_Raymond_[1633-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#MARCOUREAU,_Guillaume_[1638-1685]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#BOURSAULT,_Edme_[1638-1701]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#TRISTAN_L'HERMITE,_François_[1601-1655]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#CONTI,_Marie-Anne_de_Bourbon_[1666-1739],_princesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#SCARRON,_Paul_[1610-1660]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#ROTROU,_Jean_de_[1609-1650]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#tragédie_en_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#interprétation"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#mascarade"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#timbale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_200"/>
+    <NamedIndividual IRI="#trompette"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-10_083"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-10/MG-1677-10_083</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#lettre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#masque"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-10_083"/>
+    <NamedIndividual IRI="#costume"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-09_293"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-09/MG-1677-09_293</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#LOS_BALBASES,_Paulo_Vincento_Spinola_[1628-1699],_marqués_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#QUINTANA_DEL_MARCO,_Teresa_Spinola_y_Colónna_[1660-?],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#SPINOLA_Y_COLÓNNA,_Luisa"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#SPINOLA_Y_COLÓNNA,_Antonia"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#SAN_PEDRO,_Isabel_Spinola_Y_Colónna_[?-?],_duquesa_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#opéra_italien"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#interprète_princier"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_293"/>
+    <NamedIndividual IRI="#actualité_étrangère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-09_212"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-09/MG-1677-09_212</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#LOUIS,_dauphin_de_France_[1661-1711]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#DU_PONT,_abbé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#OUDOT,_Claude_[?-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#messe_en_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#fête_de_Saint-Louis"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_212"/>
+    <NamedIndividual IRI="#cérémonie_académique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-09_150"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-09/MG-1677-09_150</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#AVAUX,_Jean-Antoine_II_de_Mesme_[1640-1709],_comte_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#LOS_BALBASES,_Paulo_Vincento_Spinola_[1628-1699],_marqués_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#LOS_BALBASES,_Anna_Colonna_y_Doria_[1631-1689],_marquesa_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#ESTRADES,_Godefroy_[1607-1686],_comte_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#FORBIN-JANSON,_Toussaint_de_[1630-1713]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#QUINTANA_DEL_MARCO,_Teresa_Spinola_y_Colónna_[1660-?],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#TEMPLE,_Dorothy_Osborne_[1627-1695],_Mme"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#costume_de_bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_150"/>
+    <NamedIndividual IRI="#réception_officielle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-09_090"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-09/MG-1677-09_090</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-09_090"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_127"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_127</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#LA_VÉRUNE,_Mlle"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#LA_QUÈRE,_Tristan_de_[?-?]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#mariage"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#musique_de_plein_air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#feu_d'artifice"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#fête_galante"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_127"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_074"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_074</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#VIVONNE,_Louis-Victor_de_Rochechouart_[1636-1688],_maréchal-duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#SARTORIO,_Antonio_[1630-1680]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#FRESCHI,_Giovanni_Domenico_[1634-1670]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#MONIGLIA,_Giovanni_Andrea_[1624-700]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#GROSSI,_Carlo_[1634-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#VIVIANI,_Giovanni_Buonaventura_[1638-1692_ca]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#NORIS,_Matteo_[1640-1714]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#BUSSANI,_Giacomo-Francesco_[?-1680_ca]_[dramaturge]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#PFALZ-NEUBURG,_Eleonora_Magdalena_von_[1655-1720]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#LEGRENZI,_Giovanni"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#APOLLONI,_Apollonio_[1635_ca-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#GIANNINI,_Giovanni_Matteo"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#opéra_vénitien"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#décoration_de_théâtre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#actualité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_074"/>
+    <NamedIndividual IRI="#actualité_étrangère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_009"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_009</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#bourrée"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#éloge_du_roi"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#parodie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#lettre_en_chansons"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_009"/>
+    <NamedIndividual IRI="#timbre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_281"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_281</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#COLBERT,_Jean-Baptiste_[1619-1683]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#LE_BRUN,_Charles_[1619-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#GALAND,_Jacques_[?-1706_ap.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#musique_de_plein_air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#théâtre_éphémère"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#réception_officielle"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_281"/>
+    <NamedIndividual IRI="#lettre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_255"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_255</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#SCARRON,_Paul_[1610-1660]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#commentaire_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_255"/>
+    <NamedIndividual IRI="#intermède"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_243"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_243"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_243"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_243</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_243"/>
+    <NamedIndividual IRI="#LORRAINE,_Charles_V_[1643-1690],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_243"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_243"/>
+    <NamedIndividual IRI="#costume_de_bal"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_209"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_209</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#FOIX-RABAT,_Jean-Roger_II_[?-1688_ca],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#FOIX-RABAT,_Anne_d'Hendreson,_marquise_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_209"/>
+    <NamedIndividual IRI="#mariage"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_142"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_142</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#ANNE_D'AUTRICHE_[1601-1666],_reine_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#SCARRON,_Paul_[1610-1660]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#MAINTENON,_Françoise_d'Aubigné_[1635-1719],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#MAINE,_Louis-Auguste_de_Bourbon_[1670-1736],_duc_du"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#ROQUELAURE,_Gaston-Jean-Baptiste_de_[1615_ca-1683],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#JONZAC,_Julie_de_Saint-Maurent_[?-1726],_comtesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#AUBIGNÉ,_Charles_[1624-1703],_comte_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#SÈVE,_Guillaume_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#BARDIN,_abbé_Pierre_[?-1716]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#réception_officielle"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#tragédie_de_collège"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#éloge_d'un_prince"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_142"/>
+    <NamedIndividual IRI="#voyage_princier"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_105"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_105</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#TALLEMANT,_Paul_[1642-1712]_dit_le_jeune"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#MOLLIER,_Louis_de_[1615_ca-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#FRONTINIÈRE,_Mr_de_[fl._1668-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#ROHAN,_Marguerite_de_Chabot_[1617-1684],_duchesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#éloge_d'un_auteur"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_105"/>
+    <NamedIndividual IRI="#disposition_pour_la_musique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-06_167"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-06/MG-1677-06_167</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <NamedIndividual IRI="#SCARRON,_Paul_[1610-1660]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_167"/>
+    <NamedIndividual IRI="#costume"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-06_150"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-06_150"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-06_150"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-06/MG-1677-06_150</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_150"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_150"/>
+    <NamedIndividual IRI="#Te_Deum_laudamus"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_150"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-06_132"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-06/MG-1677-06_132</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#LOUVOIS,_Anne_de_Souvré_[1646-1715],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#COULANGES,_Philippe-Emmanuel_[1633-1716],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#CÉSAR,_Jules_[100_av._J.-C.-_44_av._J.-C]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#ACHILLE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#ALEXANDRE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#BAGNOLS,_François_Dugué_de_[1643-1686]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#parodie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#éloge_du_roi"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#lettre_en_chansons"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-06_132"/>
+    <NamedIndividual IRI="#timbre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-05_181"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-05_181"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-05_181"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-05/MG-1677-05_181</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-05_181"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_181"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_181"/>
+    <NamedIndividual IRI="#Te_Deum_laudamus"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-05_057"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-05/MG-1677-05_057</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#concert"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#musique_de_plein_air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#théorbe"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#musette"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#flûte_douce"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#réception"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#chanteur"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-05_057"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-04_073"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-04/MG-1677-04_073</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#EURIPIDE_[480_av._J.-C.-406_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#GARNIER,_Robert_[1545-1590]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#PRADON,_Nicolas_[1632-1698]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#SÉNÈQUE_[4_av._J.-C.-65_ap._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#comparaison_d'oeuvres_dramatiques"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_073"/>
+    <NamedIndividual IRI="#querelle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-04_015"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-04/MG-1677-04_015</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#LE_CAMUS,_Sébastien_[1610_ca-1677]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#ANNE_D'AUTRICHE_[1601-1666],_reine_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#CHARLES_II_[1630-1685],_roi_d'Angleterre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#BRIGOGNE,_Marie-Madeleine_[1652_ca-?]_[chanteuse]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#CAMBERT,_Robert_[1627_ca-1677]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#décès"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#qualité_vocale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_015"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_205"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_205</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+    <NamedIndividual IRI="#POMMEREU,_Auguste-Robert_de_[1627-1702]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+    <NamedIndividual IRI="#Te_Deum_laudamus"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_205"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_174"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_174</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+    <NamedIndividual IRI="#affaires_militaires"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_174"/>
+    <NamedIndividual IRI="#actualité_étrangère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_079"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_079"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_079"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_079</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_079"/>
+    <NamedIndividual IRI="#RANCHAIN,_Antoine"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_079"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_077"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_077</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#SAVOIE,_Anne-Marie_d'Orléans_[1669-1728],_duchesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#NANGIS,_Marie-Henriette_de_Rochefort_d'Aloigny_[1663-1736],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#ROCHEFORT,_Madeleine_d'Aloigny_[1646-1729],_maréchale_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#HOUSSET,_Claude_du_[?-1685]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_077"/>
+    <NamedIndividual IRI="#disposition_pour_la_danse"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_076"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_076</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#MANEVILLETTE,_Mr_de_[?-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_076"/>
+    <NamedIndividual IRI="#masque"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_069"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_069</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#FRONTINIÈRE,_Mr_de_[fl._1668-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#LALOUETTE,_Jean-François_[1651-1728]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#QUINAULT,_Philippe_[1635-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#OLIER_DE_VERNEUIL,_Jacques_[?-1689]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#DES_BROSSES,_Antoine_[?-1700]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#intermède"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_069"/>
+    <NamedIndividual IRI="#relation_maître/élève"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_064"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_064</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#SOISSONS,_Uranie_de_La_Cropte_[1655-1717],_comtesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#SAVOIE-SOISSONS,_Louise-Philiberte_de_[1667-1726]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#SAVOIE-SOISSONS,_Jeanne_de_[1665-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#CHÂTEAUNEUF,_Balthazar_Phélypeaux_[1638-1700],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_064"/>
+    <NamedIndividual IRI="#masque"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_062"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_062</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#LIGNY,_Dominique_de_[?-1681]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#FURSTEMBERG,_Marie_de_Ligny_[?-1711],_princesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#WÜRSTEMBERG,_Franz-Égon_de_[1626-1682]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#WÜRSTEMBERG,_Antoine-Égon_[1654-1716],_prince_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_062"/>
+    <NamedIndividual IRI="#disposition_pour_la_musique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_054"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_054</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <NamedIndividual IRI="#galanterie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_054"/>
+    <NamedIndividual IRI="#masque"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-03_026"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-03/MG-1677-03_026</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#BEAUCHAMP,_Pierre_[1631-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#PRADON,_Nicolas_[1632-1698]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#BERAIN,_Jean_[1640-1711]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#QUINAULT,_Philippe_[1635-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#LAAR,_Pieter_van_[1592_ca-1642],_dit_Bamboche"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#DOLIVET,_François_Hilaire_[danseur]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#SOPHOCLE_[496_ca_av._J.-C.-405_ca_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#TIRSO_DE_MOLINA_[1583-1648]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#tragédie_en_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#comparaison_d'oeuvres_dramatiques"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#commentaire_de_l'intrigue"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#commentaire_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#carrière_d'une_oeuvre_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#orchestre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#costume"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#éloge_d'un_auteur"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#lettre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-03_026"/>
+    <NamedIndividual IRI="#actualité_dramatique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_248"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_248</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#RICHELIEU,_Armand-Jean_de_Vignerot_du_Plessis_[1629-1715],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#MONTFLEURY_[1639-1685]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_248"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_202"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_202</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#PLUTARQUE_[45-125]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#BOYER,_Claude_[1618-1698],_abbé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#PARMENON"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#représentation_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_202"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_052"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_052</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#CASTRIES,_Jean-François_de_La_Croix_[1663-1728],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#CASTRIES,_René-Gaspard_de_La_Croix_[1611_ca-1674],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#CASTRIES,_Élisabeth_de_Bonzi_[1626-1708],_marquise_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#bal"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#Te_Deum_laudamus"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_052"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_047"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_047</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#BOISFRANC,_Joachim_Seiglière_[1630_ca-1695],_seigneur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#HAUTEROCHE,_Noël_Le_Breton_[1630_ca-1707],_sieur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#MECKLEMBOURG-SCHWERIN,_Élisabeth-Angélique_de_Montmorency-Boutteville_[1627-1695],_duchesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#MONACO,_Charlotte-Catherine_de_Gramont_[1639-1678],_princesse_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#GUISE,_Élisabeth-Marguerite_d'Orléans_[1646-1696],_Mme_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#MAZARIN,_Armand-Charles_de_La_Porte_[1632-1713],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#réception_privée"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#musique_de_plein_air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#musique_de_table"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#banquet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#musette"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#hautbois"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_047"/>
+    <NamedIndividual IRI="#théâtre_éphémère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_037"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_037</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <NamedIndividual IRI="#poésie_de_circonstance"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <NamedIndividual IRI="#éloge_du_roi"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_037"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_035"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_035</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+    <NamedIndividual IRI="#VIGNON,_Mr"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+    <NamedIndividual IRI="#non_identifié"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+    <NamedIndividual IRI="#air_en_dialogue"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_035"/>
+    <NamedIndividual IRI="#petit_opéra"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_032"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_032</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#LOUVOIS,_François-Michel_Le_Tellier_[1641-1691],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#non_identifié"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#air_à_boire"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#éloge_du_roi"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_032"/>
+    <NamedIndividual IRI="#poésie_de_circonstance"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_022b"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_022b</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#Un_grand_prince"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#parodie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022b"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_022a"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_022a"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_022a"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_022a</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_022a"/>
+    <NamedIndividual IRI="#Une_dame_de_Caen"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022a"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_022a"/>
+    <NamedIndividual IRI="#air_sérieux"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_021"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_021</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+    <NamedIndividual IRI="#non_identifié"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_021"/>
+    <NamedIndividual IRI="#air_sérieux"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_020"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_020</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <NamedIndividual IRI="#LE_CAMUS,_Sébastien_[1610_ca-1677]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <NamedIndividual IRI="#R...,_Mr_le_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <NamedIndividual IRI="#air_sérieux"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_020"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-06_018"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-06/MG-1673-06_018</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+    <NamedIndividual IRI="#LA_CORNEILLÈRE,_François_Lesage_[?-?],_seigneur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-06_018"/>
+    <NamedIndividual IRI="#air_sérieux"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-05_098"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-05/MG-1673-05_098</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+    <NamedIndividual IRI="#disposition_pour_la_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-05_098"/>
+    <NamedIndividual IRI="#disposition_pour_la_danse"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#DÉMOCRITE_[460_av._J.-C.-370_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#ROSIUS_GALLUS_[comédien_antique]_[126_av._J.-C.-62_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#SCAURUS,_Marcus_Aemilius_[163_av._J.-C.-88_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#EPHESTION_[356_av._J.-C.-324_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#marionnette"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#ROSIUS_GALLUS_[comédien_antique]_[126_av._J.-C.-62_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#TÉRENCE_[190_av._J.-C.-149_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#comédie-ballet"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_225"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_225</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#comédie_héroïque"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_225"/>
+    <NamedIndividual IRI="#querelle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_001"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_001"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_001"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_001</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_001"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_001"/>
+    <NamedIndividual IRI="#fiction"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_001"/>
+    <NamedIndividual IRI="#comédie_mêlée_de_musique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-03_376"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-03/MG-1672-03_376</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#BEAUCHAMP,_Pierre_[1631-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#DONNEAU_DE_VISÉ,_Jean_[1638-1710]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#QUINAULT,_Philippe_[1635-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#HAUTEROCHE,_Noël_Le_Breton_[1630_ca-1707],_sieur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#MONTFLEURY_[1639-1685]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#tragédie-ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#comédie-ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#commentaire_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#lecture_d'oeuvre_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_376"/>
+    <NamedIndividual IRI="#querelle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-03_337"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-03/MG-1672-03_337</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#BEAUCHAMP,_Pierre_[1631-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#DAVID"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#PLUTARQUE_[45-125]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#SOURDÉAC,_Alexandre_de_Rieux_[1620_ca-1695],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#SOCRATE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#THÉOPHRASTE_[372_av._J.-C.-290_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#ATHÉNÉE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#DÉMOCRITE_[460_av._J.-C.-370_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#HENRI_III_[1551-1589],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#BOÈCE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#SAÜL"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#ANTIGONUS_CARYSTIUS"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#ARISTOTE_[384_av._J.-C.-322_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#ASCLEPIADE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#SALOMON_[?-931_av._J.-C._ca]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#THALÈS_[625_av._J.-C.-547_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#tragédie_à_machines"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#machine"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#tragédie-ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#goût_français"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#comparaison_des_genres"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#Antiquité_grecque"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_337"/>
+    <NamedIndividual IRI="#effets_de_la_musique"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-03_320"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-03/MG-1672-03_320</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <NamedIndividual IRI="#menuet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <NamedIndividual IRI="#violon"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-03_320"/>
+    <NamedIndividual IRI="#évolution_du_goût"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-02_247"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-02/MG-1672-02_247</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#NERLI,_Francesco_[1636-1708]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#MARIE-THÉRÈSE_[1638-1683],_reine_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#diplomatie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#Te_Deum_laudamus"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-02_247"/>
+    <NamedIndividual IRI="#entrée_solennelle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_310"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_310</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#DESMARETS_DE_SAINT-SORLIN,_Jean_[1595-1676]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#VOITURE,_Vincent_[1597-1648]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#VAUGELAS,_Claude_Favre_[1585-1650]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#CHARPENTIER,_François_[1620-1702]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#LE_MOYNE,_Pierre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#ABLANCOURT,_Jean_Jacobé_de_Frémont_d'_[1621-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#BENSERADE,_Isaac_de_[1612-1679]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MÉZERAY,_François-Eudes_de_[1610-1683]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MAIRET,_Jean_[1651-1703]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#PELLISON_FONTANIER,_Paul_[1624-1693]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#ARNAULD_D'ANDILLY,_Robert_[1589-1674]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#GUEZ_DE_BALZAC,_Jean-Louis_[1597-1654]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#OGIER_DE_GOMBAULD,_Jean_[1570-1666]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#TALLEMANT,_François_[1620-1693]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#BOUHOURS,_Dominique_[1628-1702]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#BRÉBEUF,_Georges_de_[1618-1661]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#CHIFFLET,_Laurent_[1598-1658]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#COLLETET,_Guillaume_[1598-1659]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#BRIANVILLE,_Claude-Oronce_Finé_de_[1608-1674]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#GOMBERVILLE,_Marin_Le_Roy_de_[1600-1674]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#PATRU,_Olivier_[1604-1681]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MONTFAUCON_DE_VILLARS,_Nicolas-Pierre-Henry_[1635-1673],_abbé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MAYNARD,_François_[1582-1646]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#RAPIN,_René_[1621-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#SAINT-AMANT,_Antoine_Girard_[1594-1661],_sieur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MÉNAGE,_Gilles_[1613-1692]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#GODEAU,_Antoine_[1605-1672]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#RACAN,_Honorat_de_Bueil_[1589-1670],_marquis_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#LA_FONTAINE,_Jean_de_[1621-1695]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MALHERBE,_François_[1555-1628]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#MAROLLES,_Michel_de_[1600-1681]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#SARASIN,_Jean-François_[1614-1654]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#SEGRAIS,_Jean_Regnault_de_[1624-1701]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#SOREL,_Charles_[1602-1674]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#BARY,_René_[1640-1680]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#LEMAÎTRE_DE_SACY,_Louis-Isaac_[1613-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#CHASTELAIN,_Claude_[1639-1712],_abbé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#SCUDÉRY,_Madeleine_de_[1608-1701]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#LA_MOTHE_LE_VAYER,_François_[1585-1672]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#CHAPELAIN,_Jean_[1595-1674]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#livre_nouveau"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_310"/>
+    <NamedIndividual IRI="#langue_française"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_306"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_306</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#MÉNAGE,_Gilles_[1613-1692]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#VAUGELAS,_Claude_Favre_[1585-1650]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#LE_PAYS,_René_[1634-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#DESJARDINS_DE_VILLEDIEU,_Marie-Catherine-Hortense_[1640_ca-1683]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#BARBIN,_Claude_[1628_ca-1698]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#galanterie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#langue_française"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_306"/>
+    <NamedIndividual IRI="#livre_nouveau"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_218"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_218</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#CORNEILLE,_Pierre_[1606-1684]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#DESMARETS_DE_SAINT-SORLIN,_Jean_[1595-1676]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#QUINAULT,_Philippe_[1635-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#TALLEMANT,_Paul_[1642-1712]_dit_le_jeune"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#HARLAY_DE_CHAMPVALLON,_François_de_[1625-1695]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#SAINT-AIGNAN,_François_de_Beauvillier_[1610-1687],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#TALLEMANT,_François_[1620-1693]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#TESTU_DE_BELVAL,_Jacques_[1626-1706]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#PLUTARQUE_[45-125]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#SÉGUIER,_Pierre_[1588-1672]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_218"/>
+    <NamedIndividual IRI="#académie"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_207"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_207</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#SOCRATE"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#COTIN,_Charles_[1604-1681],_abbé"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#ARISTOPHANE_[450_av._J.-C._ca-385_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#comédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#commentaire_de_l'intrigue"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#commentaire_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_207"/>
+    <NamedIndividual IRI="#querelle"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_177"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_177"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_177"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_177</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_177"/>
+    <NamedIndividual IRI="#VENDÔME,_Louis-Joseph_de_Bourbon_[1654-1712],_duc_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_177"/>
+    <NamedIndividual IRI="#VENDÔME,_Philippe_de_Bourbon-Vendôme_[1655-1727],_dit_le_Grand_Prieur_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_177"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_187"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_187</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#BELLONDE,_Françoise_Guyot_[1656-1716],_dite_Mlle"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#création_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#commentaire_dramatique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_187"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_166"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_166</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <NamedIndividual IRI="#LENCLOS,_Ninon_de_[1616-1705]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <NamedIndividual IRI="#GAULTIER,_Denys_[1603-1672]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <NamedIndividual IRI="#décès"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <NamedIndividual IRI="#relation_maître/élève"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_166"/>
+    <NamedIndividual IRI="#luth"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_109"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_109</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#MOLLIER,_Louis_de_[1615_ca-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#DONNEAU_DE_VISÉ,_Jean_[1638-1710]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#tragédie_à_machines"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#comédie_héroïque"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#éloge_d'un_auteur"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_109"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1672-01_065"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_065</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#LOIR,_Mr_du"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#RACINE,_Jean_[1639-1699]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#tragédie"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#exotisme"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#commentaire_de_l'intrigue"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#actualité_théâtrale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1672-01_065"/>
+    <NamedIndividual IRI="#création_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#LE_BRUN,_Charles_[1619-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MICHEL-ANGE_[1475-1564]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#TÉRENCE_[190_av._J.-C.-149_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#TÉRENCE_[190_av._J.-C.-149_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#PLAUTE_[254_av._J.-C.-184_av._J.-C.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#comédie-ballet"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1673-04/MG-1673-04_267</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#MOLIÈRE_[1622-1673]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#éloge_funèbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1673-04_267"/>
+    <NamedIndividual IRI="#théâtre"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-04_081"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-04/MG-1677-04_081</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+    <NamedIndividual IRI="#BERNINI,_Gian_Lorenzo_[1598-1680]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+    <NamedIndividual IRI="#célébration_d'une_victoire_militaire"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+    <NamedIndividual IRI="#carnaval"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-04_081"/>
+    <NamedIndividual IRI="#actualité_étrangère"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_061"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_061"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_061"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_061</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_061"/>
+    <NamedIndividual IRI="#LE_CAMUS,_Sébastien_[1610_ca-1677]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_061"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_064"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_064"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_064"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_064</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_064"/>
+    <NamedIndividual IRI="#MOLLIER,_Louis_de_[1615_ca-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-12_064"/>
+    <NamedIndividual IRI="#air_à_boire"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_013"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_013</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <NamedIndividual IRI="#ORLÉANS,_Philippe_I_[1640-1701],_duc_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <NamedIndividual IRI="#ORLÉANS,_Élisabeth-Charlotte_de_Bavière_[1652-1722],_duchesse_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <NamedIndividual IRI="#BOESSET,_Jean-Baptiste_[1614-1685]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_013"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_015"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_015</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+    <NamedIndividual IRI="#LORGES,_Geneviève_Frémont_d'Auteuil_[1658-1727],_maréchale_de"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+    <NamedIndividual IRI="#AMBRUIS,_Honoré_d'"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+    <NamedIndividual IRI="#air"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_015"/>
+    <NamedIndividual IRI="#chanson"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-12_314"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-12_314"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_314"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_314</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_314"/>
+    <NamedIndividual IRI="#PRADON,_Nicolas_[1632-1698]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_314"/>
+    <NamedIndividual IRI="#CORNEILLE,_Thomas_[1625-1709]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-12_314"/>
+    <NamedIndividual IRI="#LA_CALPRENÈDE,_Gautier_de_Costes_[1609-1663],_seigneur_de"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_283"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_283</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+    <NamedIndividual IRI="#GALAND,_Jacques_[?-1706_ap.]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+    <NamedIndividual IRI="#lettre_en_chansons"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+    <NamedIndividual IRI="#timbre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_283"/>
+    <NamedIndividual IRI="#parodie"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_095"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_095"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_095"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_095</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_095"/>
+    <NamedIndividual IRI="#FRONTINIÈRE,_Mr_de_[fl._1668-1690]"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-07_101"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-07/MG-1677-07_101</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#LAMBERT,_Michel_[1610-1696]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#LOUIS_XIV_[1638-1715],_roi_de_France"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#MOLLIER,_Louis_de_[1615_ca-1688]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#FRONTINIÈRE,_Mr_de_[fl._1668-1690]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#ballet"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#clavecin"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#opéra"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#éloge_d'un_auteur"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-07_101"/>
+    <NamedIndividual IRI="#union_de_la_musique_française_et_italienne"/>
+  </ObjectPropertyAssertion>
+  <Declaration>
+    <NamedIndividual IRI="#1677-08_071"/>
+  </Declaration>
+  <ClassAssertion>
+    <Class IRI="#Article"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+  </ClassAssertion>
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-08/MG-1677-08_071</Literal>
+  </DataPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_person"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <NamedIndividual IRI="#LULLY,_Jean-Baptiste_[1632-1687]"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <NamedIndividual IRI="#tragédie_en_musique"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <NamedIndividual IRI="#réception_d'oeuvre"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <NamedIndividual IRI="#actualité_musicale"/>
+  </ObjectPropertyAssertion>
+  <ObjectPropertyAssertion>
+    <ObjectProperty IRI="#contains_topic"/>
+    <NamedIndividual IRI="#1677-08_071"/>
+    <NamedIndividual IRI="#sociabilité_musicale"/>
+  </ObjectPropertyAssertion>
+</Ontology>

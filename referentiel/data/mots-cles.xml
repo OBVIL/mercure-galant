@@ -1,0 +1,4783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terms xmlns="http://www.semanticweb.org/mercure-galant/ontologie/thesaurus">
+  <term>
+    <entree>accord des instruments</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>acoustique</entree>
+  </term>
+  <term>
+    <entree>acteur</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>action de grâce</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>actualité</entree>
+    <enfant>actualité dramatique</enfant>
+    <enfant>actualité musicale</enfant>
+    <enfant>actualité théâtrale</enfant>
+    <enfant>actualité éditoriale</enfant>
+    <enfant>actualité étrangère</enfant>
+  </term>
+  <term>
+    <entree>actualité dramatique</entree>
+    <parent>actualité</parent>
+  </term>
+  <term>
+    <entree>actualité éditoriale</entree>
+    <enfant>livre nouveau</enfant>
+    <parent>actualité</parent>
+    <formeRejetee>actualité littéraire</formeRejetee>
+  </term>
+  <term>
+    <entree>actualité étrangère</entree>
+    <parent>actualité</parent>
+  </term>
+  <term>
+    <entree>actualité littéraire</entree>
+    <formeAutorite>actualité éditoriale</formeAutorite>
+  </term>
+  <term>
+    <entree>actualité musicale</entree>
+    <parent>actualité</parent>
+  </term>
+  <term>
+    <entree>actualité théâtrale</entree>
+    <parent>actualité</parent>
+  </term>
+  <term>
+    <entree>adéquation des paroles et de la musique</entree>
+    <parent>commentaire des paroles</parent>
+  </term>
+  <term>
+    <entree>administration</entree>
+    <enfant>franchise portuaire</enfant>
+  </term>
+  <term>
+    <entree>adoration du Saint-Sacrement</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>affaires militaires</entree>
+    <enfant>guerre</enfant>
+    <enfant>siège</enfant>
+  </term>
+  <term>
+    <entree>air</entree>
+    <enfant>air champêtre</enfant>
+    <enfant>air d'opéra</enfant>
+    <enfant>air de ballet</enfant>
+    <enfant>air de cour</enfant>
+    <enfant>air en dialogue</enfant>
+    <enfant>air espagnol</enfant>
+    <enfant>air français</enfant>
+    <enfant>air galant</enfant>
+    <enfant>air italien</enfant>
+    <enfant>air nouveau</enfant>
+    <enfant>air spirituel</enfant>
+    <enfant>air sérieux</enfant>
+    <enfant>air tendre</enfant>
+    <enfant>air à boire</enfant>
+    <enfant>air à danser</enfant>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>air à boire</entree>
+    <parent>air</parent>
+    <formeRejetee>air bachique</formeRejetee>
+  </term>
+  <term>
+    <entree>air à danser</entree>
+    <parent>air</parent>
+    <formeRejetee>air de danse</formeRejetee>
+  </term>
+  <term>
+    <entree>air bachique</entree>
+    <formeAutorite>air à boire</formeAutorite>
+  </term>
+  <term>
+    <entree>air champêtre</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air d'opéra</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air de ballet</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air de cour</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air de danse</entree>
+    <formeAutorite>air à danser</formeAutorite>
+  </term>
+  <term>
+    <entree>air en dialogue</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air espagnol</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air français</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air galant</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air instrumental</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>air italien</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air nouveau</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air sérieux</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air spirituel</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>air tendre</entree>
+    <parent>air</parent>
+  </term>
+  <term>
+    <entree>ajout d'une contrepartie</entree>
+    <parent>procédés de composition musicale</parent>
+    <formeRejetee>contrepartie</formeRejetee>
+  </term>
+  <term>
+    <entree>allemande</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>ambassade</entree>
+    <parent>diplomatie</parent>
+  </term>
+  <term>
+    <entree>ambigu</entree>
+    <parent>repas</parent>
+  </term>
+  <term>
+    <entree>anche</entree>
+    <parent>vents</parent>
+  </term>
+  <term>
+    <entree>Anciens</entree>
+    <formeAutorite>Antiquité</formeAutorite>
+  </term>
+  <term>
+    <entree>angélique</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>anniversaire</entree>
+    <enfant>anniversaire du roi</enfant>
+    <parent>vie privée</parent>
+  </term>
+  <term>
+    <entree>anniversaire du roi</entree>
+    <parent>anniversaire</parent>
+  </term>
+  <term>
+    <entree>annonce éditoriale</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>Annonciation</entree>
+    <parent>fête religieuse</parent>
+    <note>25 mars</note>
+  </term>
+  <term>
+    <entree>antienne</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Antiquité</entree>
+    <enfant>Antiquité gauloise</enfant>
+    <enfant>Antiquité grecque</enfant>
+    <enfant>Antiquité hébraïque</enfant>
+    <enfant>Antiquité romaine</enfant>
+    <formeRejetee>Anciens</formeRejetee>
+  </term>
+  <term>
+    <entree>Antiquité gauloise</entree>
+    <parent>Antiquité</parent>
+  </term>
+  <term>
+    <entree>Antiquité grecque</entree>
+    <parent>Antiquité</parent>
+  </term>
+  <term>
+    <entree>Antiquité hébraïque</entree>
+    <parent>Antiquité</parent>
+  </term>
+  <term>
+    <entree>Antiquité romaine</entree>
+    <parent>Antiquité</parent>
+  </term>
+  <term>
+    <entree>apollon [instrument à cordes]</entree>
+    <parent>instrument à cordes</parent>
+    <note>instrument nouveau ressemblant au théorbe (1678.01)</note>
+  </term>
+  <term>
+    <entree>appartements</entree>
+    <formeAutorite>soirées d'appartement</formeAutorite>
+  </term>
+  <term>
+    <entree>apprentissage instrumental</entree>
+    <parent>enseignement et apprentissage</parent>
+  </term>
+  <term>
+    <entree>approbation religieuse</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>archiluth</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>architecture</entree>
+    <enfant>architecture de théâtre</enfant>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>architecture de théâtre</entree>
+    <parent>architecture</parent>
+  </term>
+  <term>
+    <entree>argument d'une oeuvre</entree>
+    <parent>critique d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>art du chant</entree>
+    <parent>interprétation vocale</parent>
+  </term>
+  <term>
+    <entree>art oratoire</entree>
+    <parent>rhétorique</parent>
+  </term>
+  <term>
+    <entree>arts</entree>
+    <enfant>architecture</enfant>
+    <enfant>musique</enfant>
+    <enfant>mécanique</enfant>
+    <enfant>optique</enfant>
+    <enfant>peinture</enfant>
+    <enfant>poésie</enfant>
+    <enfant>sculpture</enfant>
+  </term>
+  <term>
+    <entree>assemblée synodale</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>Attollite portas principes</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>audience publique</entree>
+    <parent>diplomatie</parent>
+  </term>
+  <term>
+    <entree>Avent</entree>
+    <parent>temps liturgique</parent>
+  </term>
+  <term>
+    <entree>bacchanale</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>bal</entree>
+    <enfant>bal à l'Impériale</enfant>
+    <enfant>bal à la française</enfant>
+    <enfant>bal à la torche</enfant>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>bal à l'Impériale</entree>
+    <parent>bal</parent>
+  </term>
+  <term>
+    <entree>bal à la française</entree>
+    <parent>bal</parent>
+  </term>
+  <term>
+    <entree>bal à la torche</entree>
+    <parent>bal</parent>
+  </term>
+  <term>
+    <entree>ballade</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>ballet</entree>
+    <enfant>ballet allégorique</enfant>
+    <enfant>ballet champêtre</enfant>
+    <enfant>ballet de cour</enfant>
+    <enfant>ballet du roi</enfant>
+    <enfant>ballet à machines</enfant>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>ballet à machines</entree>
+    <parent>ballet</parent>
+  </term>
+  <term>
+    <entree>ballet allégorique</entree>
+    <parent>ballet</parent>
+  </term>
+  <term>
+    <entree>ballet champêtre</entree>
+    <parent>ballet</parent>
+  </term>
+  <term>
+    <entree>ballet de cour</entree>
+    <parent>ballet</parent>
+  </term>
+  <term>
+    <entree>ballet de tragédie en musique</entree>
+    <formeAutorite>entrée dansée</formeAutorite>
+  </term>
+  <term>
+    <entree>ballet du roi</entree>
+    <parent>ballet</parent>
+  </term>
+  <term>
+    <entree>bamboche</entree>
+    <parent>marionnette</parent>
+  </term>
+  <term>
+    <entree>bande de violons</entree>
+    <parent>ensemble instrumental</parent>
+  </term>
+  <term>
+    <entree>banquet</entree>
+    <parent>repas</parent>
+    <formeRejetee>festin</formeRejetee>
+  </term>
+  <term>
+    <entree>baptême</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>baptême d'une cloche</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>basse</entree>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>basse continue</entree>
+    <parent>ensemble instrumental</parent>
+  </term>
+  <term>
+    <entree>basse de viole</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>basse de violon</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>basse vocale</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>basson</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>bénédiction</entree>
+    <enfant>bénédiction d'une abbesse</enfant>
+    <enfant>bénédiction d'une citadelle</enfant>
+    <enfant>bénédiction d'une cloche</enfant>
+    <enfant>bénédiction d'une église</enfant>
+    <enfant>bénédiction de la première pierre d'un édifice</enfant>
+    <enfant>bénédiction des drapeaux</enfant>
+    <enfant>bénédiction du Saint-Sacrement</enfant>
+    <enfant>bénédiction du pain</enfant>
+    <enfant>bénédiction nuptiale</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>bénédiction d'une abbesse</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction d'une citadelle</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction d'une cloche</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction d'une église</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction de la première pierre d'un édifice</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction des drapeaux</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction du pain</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction du Saint-Sacrement</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>bénédiction nuptiale</entree>
+    <parent>bénédiction</parent>
+  </term>
+  <term>
+    <entree>Benedictus</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Benedictus Dominus Deus Israel</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Bible</entree>
+  </term>
+  <term>
+    <entree>biographie</entree>
+    <enfant>biographie de musicien</enfant>
+  </term>
+  <term>
+    <entree>biographie de musicien</entree>
+    <parent>biographie</parent>
+  </term>
+  <term>
+    <entree>boina</entree>
+    <parent>instrument à vent</parent>
+    <note>instrument de musique turc (1687.08)</note>
+  </term>
+  <term>
+    <entree>bourrée</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>bout de l'an</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>bouts rimés</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>branle</entree>
+    <enfant>branle à mener</enfant>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>branle à mener</entree>
+    <parent>branle</parent>
+  </term>
+  <term>
+    <entree>buffet d'orgue</entree>
+    <parent>orgue</parent>
+  </term>
+  <term>
+    <entree>cabinet d'orgues</entree>
+    <parent>orgue</parent>
+  </term>
+  <term>
+    <entree>camp de Coudun</entree>
+  </term>
+  <term>
+    <entree>canaries</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>canonisation</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>Cantate Domino canticum novum</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>cantique</entree>
+    <enfant>cantique biblique</enfant>
+    <enfant>cantique funèbre</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>cantique biblique</entree>
+    <parent>cantique</parent>
+  </term>
+  <term>
+    <entree>cantique funèbre</entree>
+    <parent>cantique</parent>
+  </term>
+  <term>
+    <entree>caractère des nations</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>caractères de la danse</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>carême</entree>
+    <parent>temps liturgique</parent>
+  </term>
+  <term>
+    <entree>carillon</entree>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>carnaval</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>carrière</entree>
+    <enfant>carrière artistique</enfant>
+    <enfant>carrière civile</enfant>
+    <enfant>carrière dramatique</enfant>
+    <enfant>carrière ecclésiastique</enfant>
+    <enfant>carrière musicale</enfant>
+    <enfant>carrière médicale</enfant>
+  </term>
+  <term>
+    <entree>carrière artistique</entree>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrière civile</entree>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrière d'une oeuvre</entree>
+    <enfant>carrière d'une oeuvre dramatique</enfant>
+    <enfant>carrière d'une oeuvre musicale</enfant>
+  </term>
+  <term>
+    <entree>carrière d'une oeuvre dramatique</entree>
+    <parent>carrière d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>carrière d'une oeuvre musicale</entree>
+    <parent>carrière d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>carrière dramatique</entree>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrière ecclésiastique</entree>
+    <enfant>nomination d'un archevêque</enfant>
+    <enfant>nomination d'un cardinal</enfant>
+    <enfant>nomination d'un chanoine</enfant>
+    <enfant>nomination d'un évêque</enfant>
+    <enfant>nomination d'une abbesse</enfant>
+    <enfant>nomination du grand maître de l'ordre de Malte</enfant>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrière médicale</entree>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrière musicale</entree>
+    <enfant>concours</enfant>
+    <enfant>nomination d'un maître de musique</enfant>
+    <parent>carrière</parent>
+  </term>
+  <term>
+    <entree>carrousel</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>castagnettes</entree>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>catalogue éditorial</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>catholicisme</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>cavalcade</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>célébration</entree>
+    <enfant>célébration d'une naissance princière</enfant>
+    <enfant>célébration d'une victoire militaire</enfant>
+    <enfant>célébration de la paix</enfant>
+    <enfant>célébration du retour de la santé</enfant>
+    <enfant>célébration du retour de la santé d'un notable</enfant>
+    <enfant>célébration du retour de la santé de la reine</enfant>
+    <enfant>célébration du retour de la santé du roi</enfant>
+  </term>
+  <term>
+    <entree>célébration d'une naissance princière</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration d'une victoire militaire</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration de la paix</entree>
+    <enfant>paix de Savoie</enfant>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration du retour de la santé</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration du retour de la santé d'un notable</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration du retour de la santé de la reine</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>célébration du retour de la santé du roi</entree>
+    <parent>célébration</parent>
+  </term>
+  <term>
+    <entree>centon</entree>
+    <enfant>centon théâtral</enfant>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>centon théâtral</entree>
+    <parent>centon</parent>
+  </term>
+  <term>
+    <entree>cérémonie</entree>
+    <enfant>cérémonie académique</enfant>
+    <enfant>cérémonie chinoise</enfant>
+    <enfant>cérémonie militaire</enfant>
+    <enfant>cérémonies publiques et religieuses</enfant>
+  </term>
+  <term>
+    <entree>cérémonie académique</entree>
+    <enfant>distribution de prix</enfant>
+    <parent>cérémonie</parent>
+  </term>
+  <term>
+    <entree>cérémonie chinoise</entree>
+    <parent>cérémonie</parent>
+  </term>
+  <term>
+    <entree>cérémonie de pose de la première pierre</entree>
+  </term>
+  <term>
+    <entree>cérémonie juive</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>cérémonie militaire</entree>
+    <parent>cérémonie</parent>
+  </term>
+  <term>
+    <entree>cérémonies publiques et religieuses</entree>
+    <enfant>baptême</enfant>
+    <enfant>baptême d'une cloche</enfant>
+    <enfant>bout de l'an</enfant>
+    <enfant>bénédiction</enfant>
+    <enfant>canonisation</enfant>
+    <enfant>commémoration d'un décès</enfant>
+    <enfant>consécration d'une église</enfant>
+    <enfant>couronnement</enfant>
+    <enfant>cérémonie juive</enfant>
+    <enfant>dédicace d'une église</enfant>
+    <enfant>enterrement</enfant>
+    <enfant>entrée</enfant>
+    <enfant>exposition du Saint-Sacrement</enfant>
+    <enfant>fiançailles</enfant>
+    <enfant>fondation perpétuelle</enfant>
+    <enfant>installation de chanoine</enfant>
+    <enfant>jubilé</enfant>
+    <enfant>mariage</enfant>
+    <enfant>obsèques</enfant>
+    <enfant>ouverture des Jeux Floraux de Toulouse</enfant>
+    <enfant>ouverture du Parlement</enfant>
+    <enfant>pompe funèbre</enfant>
+    <enfant>prestation de serment</enfant>
+    <enfant>prise d'habit</enfant>
+    <enfant>prise de possession d'un siège épiscopal</enfant>
+    <enfant>prise de possession d'une abbaye</enfant>
+    <enfant>prise de possession du Grand Prieuré de France</enfant>
+    <enfant>procession</enfant>
+    <enfant>prononciation de voeux</enfant>
+    <enfant>réception d'un cardinal</enfant>
+    <enfant>réception d'un chevalier</enfant>
+    <enfant>réception d'un gouverneur</enfant>
+    <enfant>réception d'un évêque</enfant>
+    <enfant>réception d'une princesse</enfant>
+    <enfant>réception d'une statue du roi</enfant>
+    <enfant>réception du grand-maître d'un ordre</enfant>
+    <enfant>réception du recteur des pénitents blancs</enfant>
+    <enfant>réduction de Paris</enfant>
+    <enfant>réduction de Perpignan</enfant>
+    <enfant>réduction de Philippsburg</enfant>
+    <enfant>sacre</enfant>
+    <enfant>souper du roi</enfant>
+    <enfant>translation de coeur</enfant>
+    <enfant>translation de reliques</enfant>
+    <enfant>translation du Saint-Sacrement</enfant>
+    <enfant>veillée funèbre</enfant>
+    <enfant>érection d'une statue du roi</enfant>
+    <parent>cérémonie</parent>
+  </term>
+  <term>
+    <entree>chaconne</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>chalumeau</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>chamade</entree>
+    <parent>musique militaire</parent>
+  </term>
+  <term>
+    <entree>Chandeleur</entree>
+    <parent>fête religieuse</parent>
+    <note>2 février</note>
+  </term>
+  <term>
+    <entree>chanson</entree>
+    <enfant>chanson espagnole</enfant>
+    <enfant>chanson provençale</enfant>
+    <enfant>chanson à boire</enfant>
+    <enfant>chansonnette</enfant>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>chanson à boire</entree>
+    <parent>chanson</parent>
+  </term>
+  <term>
+    <entree>chanson espagnole</entree>
+    <parent>chanson</parent>
+  </term>
+  <term>
+    <entree>chanson provençale</entree>
+    <parent>chanson</parent>
+  </term>
+  <term>
+    <entree>chansonnette</entree>
+    <parent>chanson</parent>
+  </term>
+  <term>
+    <entree>chant</entree>
+    <enfant>chant ecclésiastique</enfant>
+  </term>
+  <term>
+    <entree>chant ecclésiastique</entree>
+    <parent>chant</parent>
+  </term>
+  <term>
+    <entree>chant royal</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>chanteur</entree>
+    <enfant>chanteur italien</enfant>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>chanteur italien</entree>
+    <parent>chanteur</parent>
+  </term>
+  <term>
+    <entree>chapelle ardente</entree>
+    <parent>décoration d'église</parent>
+  </term>
+  <term>
+    <entree>charivari</entree>
+    <parent>tradition</parent>
+  </term>
+  <term>
+    <entree>chasse</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>chinghis</entree>
+    <note>danseuses turques (1687.08)</note>
+  </term>
+  <term>
+    <entree>circonstances de composition</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>circonstances de création</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>circulation d'oeuvre</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>cistre</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>clairon</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>classification des danses</entree>
+    <parent>théorie de la danse</parent>
+  </term>
+  <term>
+    <entree>clavecin</entree>
+    <parent>instrument à clavier</parent>
+  </term>
+  <term>
+    <entree>claviers</entree>
+    <enfant>sautereau de clavecin</enfant>
+    <enfant>touche de clavier</enfant>
+    <parent>organologie</parent>
+  </term>
+  <term>
+    <entree>cloche</entree>
+    <enfant>cloche du Siam</enfant>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>cloche du Siam</entree>
+    <parent>cloche</parent>
+  </term>
+  <term>
+    <entree>clochette</entree>
+    <enfant>clochette d'armes</enfant>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>clochette d'armes</entree>
+    <parent>clochette</parent>
+  </term>
+  <term>
+    <entree>collaboration librettiste-compositeur</entree>
+    <parent>composition d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>collation</entree>
+    <parent>repas</parent>
+  </term>
+  <term>
+    <entree>comédie</entree>
+    <enfant>comédie anglaise</enfant>
+    <enfant>comédie antique</enfant>
+    <enfant>comédie chinoise</enfant>
+    <enfant>comédie espagnole</enfant>
+    <enfant>comédie française</enfant>
+    <enfant>comédie héroïque</enfant>
+    <enfant>comédie italienne</enfant>
+    <enfant>comédie mêlée de musique</enfant>
+    <enfant>comédie à intermèdes</enfant>
+    <enfant>comédie à machines</enfant>
+    <enfant>comédie-ballet</enfant>
+    <enfant>comédie-vaudeville</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>comédie à intermèdes</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie à machines</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie anglaise</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie antique</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie chinoise</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie en musique</entree>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>comédie espagnole</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie française</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie héroïque</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie italienne</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie mêlée de musique</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie-ballet</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédie-vaudeville</entree>
+    <parent>comédie</parent>
+  </term>
+  <term>
+    <entree>comédien</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>comique</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>commémoration d'un décès</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>commentaire de l'intrigue</entree>
+    <parent>critique d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>commentaire des paroles</entree>
+    <enfant>adéquation des paroles et de la musique</enfant>
+    <parent>critique d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>commentaire dramatique</entree>
+    <parent>critique d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>communion</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>comparaison d'oeuvres dramatiques</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>comparaison des genres</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>complies</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>compliment</entree>
+    <parent>rhétorique</parent>
+  </term>
+  <term>
+    <entree>composition d'oeuvre</entree>
+    <enfant>collaboration librettiste-compositeur</enfant>
+    <enfant>composition d'oeuvre dramatique</enfant>
+    <enfant>composition d'oeuvre musicale</enfant>
+    <enfant>gestation d'oeuvre</enfant>
+  </term>
+  <term>
+    <entree>composition d'oeuvre dramatique</entree>
+    <parent>composition d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>composition d'oeuvre musicale</entree>
+    <enfant>remaniement d'oeuvre musicale</enfant>
+    <parent>composition d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>concert</entree>
+    <enfant>concert privé</enfant>
+    <enfant>concert public</enfant>
+  </term>
+  <term>
+    <entree>concert privé</entree>
+    <parent>concert</parent>
+  </term>
+  <term>
+    <entree>concert public</entree>
+    <parent>concert</parent>
+  </term>
+  <term>
+    <entree>concours</entree>
+    <parent>carrière musicale</parent>
+  </term>
+  <term>
+    <entree>concurrence</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>conférence ecclésiastique</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>consécration d'une église</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>consonance</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>construction navale</entree>
+  </term>
+  <term>
+    <entree>conte</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>contrefaçon</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>contrepartie</entree>
+    <formeAutorite>ajout d'une contrepartie</formeAutorite>
+  </term>
+  <term>
+    <entree>contrepoint</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>conversation</entree>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>conversion</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>cor</entree>
+    <enfant>cor de chasse</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>cor de chasse</entree>
+    <parent>cor</parent>
+  </term>
+  <term>
+    <entree>cordes</entree>
+    <parent>organologie</parent>
+  </term>
+  <term>
+    <entree>cornemuse</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>cornet</entree>
+    <enfant>cornet du Siam</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>cornet du Siam</entree>
+    <parent>cornet</parent>
+  </term>
+  <term>
+    <entree>costume</entree>
+    <enfant>costume de bal</enfant>
+    <enfant>costume de carnaval</enfant>
+    <enfant>costume de cérémonie</enfant>
+    <enfant>costume de deuil</enfant>
+    <enfant>costume de mascarade</enfant>
+    <enfant>costume de théâtre</enfant>
+    <enfant>costume ecclésiastique</enfant>
+  </term>
+  <term>
+    <entree>costume de bal</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume de carnaval</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume de cérémonie</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume de deuil</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume de mascarade</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume de théâtre</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>costume ecclésiastique</entree>
+    <parent>costume</parent>
+  </term>
+  <term>
+    <entree>courante</entree>
+    <enfant>courante française</enfant>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>courante française</entree>
+    <parent>courante</parent>
+  </term>
+  <term>
+    <entree>couronnement</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>course de têtes</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>coût d'une fête</entree>
+    <parent>économie des spectacles</parent>
+  </term>
+  <term>
+    <entree>coût d'une représentation</entree>
+    <parent>économie des spectacles</parent>
+  </term>
+  <term>
+    <entree>coutume étrangère</entree>
+    <enfant>sapate</enfant>
+    <parent>tradition</parent>
+  </term>
+  <term>
+    <entree>coutume locale</entree>
+    <parent>tradition</parent>
+  </term>
+  <term>
+    <entree>coutume musicale</entree>
+    <parent>tradition</parent>
+  </term>
+  <term>
+    <entree>création d'académie</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>création d'oeuvre</entree>
+    <enfant>circonstances de composition</enfant>
+    <enfant>circonstances de création</enfant>
+    <enfant>circulation d'oeuvre</enfant>
+    <enfant>reprise d'oeuvre</enfant>
+    <enfant>représentation d'oeuvre</enfant>
+    <enfant>réception d'oeuvre</enfant>
+    <enfant>répétition d'oeuvre</enfant>
+    <enfant>révision d'oeuvre</enfant>
+  </term>
+  <term>
+    <entree>critique d'une oeuvre</entree>
+    <enfant>argument d'une oeuvre</enfant>
+    <enfant>commentaire de l'intrigue</enfant>
+    <enfant>commentaire des paroles</enfant>
+    <enfant>commentaire dramatique</enfant>
+  </term>
+  <term>
+    <entree>cromorne</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>curiosité</entree>
+  </term>
+  <term>
+    <entree>cymbale</entree>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>cymbalum</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>danse</entree>
+    <enfant>allemande</enfant>
+    <enfant>bacchanale</enfant>
+    <enfant>bourrée</enfant>
+    <enfant>branle</enfant>
+    <enfant>canaries</enfant>
+    <enfant>chaconne</enfant>
+    <enfant>courante</enfant>
+    <enfant>danse allemande</enfant>
+    <enfant>danse antique</enfant>
+    <enfant>danse basque</enfant>
+    <enfant>danse champêtre</enfant>
+    <enfant>danse de Bohème</enfant>
+    <enfant>danse de Lianse</enfant>
+    <enfant>danse de la ceinture</enfant>
+    <enfant>danse des cinq pas</enfant>
+    <enfant>danse du change</enfant>
+    <enfant>danse figurée</enfant>
+    <enfant>danse française</enfant>
+    <enfant>danse italienne</enfant>
+    <enfant>danse traditionnelle</enfant>
+    <enfant>danse à cheval</enfant>
+    <enfant>forlane</enfant>
+    <enfant>gavotte</enfant>
+    <enfant>gigue</enfant>
+    <enfant>menuet</enfant>
+    <enfant>moresque</enfant>
+    <enfant>pantomime</enfant>
+    <enfant>passepied</enfant>
+    <enfant>pyrrhique</enfant>
+    <enfant>quadrille</enfant>
+    <enfant>sarabande</enfant>
+  </term>
+  <term>
+    <entree>danse à cheval</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse allemande</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse antique</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse basque</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse champêtre</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse de Bohème</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse de la ceinture</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse de Lianse</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse des cinq pas</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse du change</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse figurée</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse française</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse italienne</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danse populaire</entree>
+    <enfant>danse populaire allemande</enfant>
+  </term>
+  <term>
+    <entree>danse populaire allemande</entree>
+    <parent>danse populaire</parent>
+  </term>
+  <term>
+    <entree>danse traditionnelle</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>danseur</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>De profundis clamavi</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>décès</entree>
+    <parent>vie privée</parent>
+  </term>
+  <term>
+    <entree>décor éphémère</entree>
+    <enfant>reposoir</enfant>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>décoration</entree>
+    <enfant>décor éphémère</enfant>
+    <enfant>décoration d'appartement</enfant>
+    <enfant>décoration d'église</enfant>
+    <enfant>décoration de palais</enfant>
+    <enfant>décoration de salle de bal</enfant>
+    <enfant>décoration de théâtre</enfant>
+  </term>
+  <term>
+    <entree>décoration d'appartement</entree>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>décoration d'église</entree>
+    <enfant>chapelle ardente</enfant>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>décoration de palais</entree>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>décoration de salle de bal</entree>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>décoration de théâtre</entree>
+    <enfant>machine</enfant>
+    <parent>décoration</parent>
+  </term>
+  <term>
+    <entree>dédicace d'une église</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>défaite militaire</entree>
+    <parent>vie militaire</parent>
+  </term>
+  <term>
+    <entree>défense d'un auteur</entree>
+  </term>
+  <term>
+    <entree>dessus de viole</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>deuil</entree>
+    <parent>vie privée</parent>
+  </term>
+  <term>
+    <entree>Deus noster refugium et virtus</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>dialogue</entree>
+    <enfant>dialogue en musique</enfant>
+    <enfant>dialogue italien</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>dialogue chanté</entree>
+    <parent>musique dialoguée</parent>
+  </term>
+  <term>
+    <entree>dialogue en musique</entree>
+    <parent>dialogue</parent>
+  </term>
+  <term>
+    <entree>dialogue italien</entree>
+    <parent>dialogue</parent>
+  </term>
+  <term>
+    <entree>diction</entree>
+    <parent>interprétation vocale</parent>
+  </term>
+  <term>
+    <entree>Dimanche de Quasimodo</entree>
+    <formeAutorite>Quasimodo</formeAutorite>
+  </term>
+  <term>
+    <entree>diminution</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>dîner</entree>
+    <parent>repas</parent>
+  </term>
+  <term>
+    <entree>diplomatie</entree>
+    <enfant>ambassade</enfant>
+    <enfant>audience publique</enfant>
+  </term>
+  <term>
+    <entree>discours</entree>
+  </term>
+  <term>
+    <entree>discours sur l'opéra</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>disposition</entree>
+    <enfant>disposition intellectuelle</enfant>
+    <enfant>disposition pour la danse</enfant>
+    <enfant>disposition pour la musique</enfant>
+    <enfant>disposition pour la poésie</enfant>
+    <enfant>disposition pour le dessin</enfant>
+  </term>
+  <term>
+    <entree>disposition intellectuelle</entree>
+    <parent>disposition</parent>
+  </term>
+  <term>
+    <entree>disposition pour la danse</entree>
+    <parent>disposition</parent>
+  </term>
+  <term>
+    <entree>disposition pour la musique</entree>
+    <enfant>qualité vocale</enfant>
+    <parent>disposition</parent>
+  </term>
+  <term>
+    <entree>disposition pour la poésie</entree>
+    <parent>disposition</parent>
+  </term>
+  <term>
+    <entree>disposition pour le dessin</entree>
+    <parent>disposition</parent>
+  </term>
+  <term>
+    <entree>distribution de prix</entree>
+    <parent>cérémonie académique</parent>
+  </term>
+  <term>
+    <entree>divertissement</entree>
+    <enfant>bal</enfant>
+    <enfant>carrousel</enfant>
+    <enfant>cavalcade</enfant>
+    <enfant>chasse</enfant>
+    <enfant>course de têtes</enfant>
+    <enfant>divertissement princier</enfant>
+    <enfant>divertissement royal</enfant>
+    <enfant>feu d'artifice</enfant>
+    <enfant>illuminations</enfant>
+    <enfant>jeu</enfant>
+    <enfant>masque</enfant>
+    <enfant>redoute</enfant>
+    <enfant>régate</enfant>
+    <enfant>soirées d'appartement</enfant>
+    <enfant>tournoi</enfant>
+  </term>
+  <term>
+    <entree>divertissement princier</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>divertissement royal</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>dogme protestant</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>Domine in virtute tua</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Domine salvum fac regem</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Ecce crucem Domini</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>écho</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>économie des spectacles</entree>
+    <enfant>coût d'une fête</enfant>
+    <enfant>coût d'une représentation</enfant>
+    <enfant>économie des théâtres</enfant>
+  </term>
+  <term>
+    <entree>économie des théâtres</entree>
+    <parent>économie des spectacles</parent>
+  </term>
+  <term>
+    <entree>édition</entree>
+    <enfant>annonce éditoriale</enfant>
+    <enfant>catalogue éditorial</enfant>
+    <enfant>concurrence</enfant>
+    <enfant>contrefaçon</enfant>
+    <enfant>gravure</enfant>
+    <enfant>politique éditoriale</enfant>
+    <enfant>privilège du roi</enfant>
+    <enfant>privilège ecclésiastique</enfant>
+    <enfant>protocole de rédaction</enfant>
+    <enfant>publication de poésie</enfant>
+    <enfant>publication intégrale du livret</enfant>
+    <enfant>publication nouvelle</enfant>
+    <enfant>publication partielle du livret</enfant>
+    <enfant>édition en parties séparées</enfant>
+    <enfant>édition en partition</enfant>
+    <enfant>édition à compte d'auteur</enfant>
+  </term>
+  <term>
+    <entree>édition à compte d'auteur</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>édition en parties séparées</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>édition en partition</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>éducation</entree>
+    <enfant>éducation féminine</enfant>
+  </term>
+  <term>
+    <entree>éducation féminine</entree>
+    <parent>éducation</parent>
+  </term>
+  <term>
+    <entree>effets de la danse</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>effets de la musique</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>églogue</entree>
+    <parent>pastorale</parent>
+  </term>
+  <term>
+    <entree>églogue en musique</entree>
+    <parent>pastorale en musique</parent>
+  </term>
+  <term>
+    <entree>élection d'échevins</entree>
+  </term>
+  <term>
+    <entree>élection d'un académicien</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>élection d'un doyen</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>élection d'un prince-évêque</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>élégie</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>élévation</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>éloge</entree>
+    <enfant>éloge d'un auteur</enfant>
+    <enfant>éloge d'un prince</enfant>
+    <enfant>éloge d'un saint</enfant>
+    <enfant>éloge d'une princesse</enfant>
+    <enfant>éloge du roi</enfant>
+    <enfant>éloge en vers</enfant>
+    <enfant>éloge funèbre</enfant>
+    <enfant>éloge posthume</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>éloge d'un auteur</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge d'un prince</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge d'un saint</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge d'une princesse</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge du roi</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge en vers</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloge funèbre</entree>
+    <parent>éloge</parent>
+    <formeRejetee>oraison funèbre</formeRejetee>
+  </term>
+  <term>
+    <entree>éloge posthume</entree>
+    <parent>éloge</parent>
+  </term>
+  <term>
+    <entree>éloquence</entree>
+    <parent>rhétorique</parent>
+  </term>
+  <term>
+    <entree>emblème</entree>
+    <parent>héraldique</parent>
+  </term>
+  <term>
+    <entree>encensement</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>énigme</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>enseignement</entree>
+    <enfant>enseignement de la danse</enfant>
+    <enfant>enseignement de la musique</enfant>
+    <parent>enseignement et apprentissage</parent>
+  </term>
+  <term>
+    <entree>enseignement de la danse</entree>
+    <parent>enseignement</parent>
+  </term>
+  <term>
+    <entree>enseignement de la musique</entree>
+    <parent>enseignement</parent>
+  </term>
+  <term>
+    <entree>enseignement du théâtre</entree>
+    <parent>enseignement et apprentissage</parent>
+  </term>
+  <term>
+    <entree>enseignement et apprentissage</entree>
+    <enfant>apprentissage instrumental</enfant>
+    <enfant>enseignement</enfant>
+    <enfant>enseignement du théâtre</enfant>
+    <enfant>relation maître/élève</enfant>
+    <enfant>étude de la musique</enfant>
+  </term>
+  <term>
+    <entree>ensemble de flûtes douces</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>ensemble de guitares</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>ensemble de luths</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>ensemble de violons</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>ensemble instrumental</entree>
+    <enfant>bande de violons</enfant>
+    <enfant>basse continue</enfant>
+  </term>
+  <term>
+    <entree>enterrement</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>entracte</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>entrée</entree>
+    <enfant>entrée princière</enfant>
+    <enfant>entrée solennelle</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>entrée burlesque</entree>
+    <parent>entrée de ballet</parent>
+  </term>
+  <term>
+    <entree>entrée dansée</entree>
+    <parent>musique de scène</parent>
+    <formeRejetee>ballet de tragédie en musique</formeRejetee>
+    <note>exécutée par un ou plusieurs personnages lors d'une scène de divertissement d'un ouvrage lyrique</note>
+  </term>
+  <term>
+    <entree>entrée de ballet</entree>
+    <enfant>entrée burlesque</enfant>
+  </term>
+  <term>
+    <entree>entrée princière</entree>
+    <parent>entrée</parent>
+  </term>
+  <term>
+    <entree>entrée solennelle</entree>
+    <parent>entrée</parent>
+  </term>
+  <term>
+    <entree>épigramme</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>épinette</entree>
+    <parent>instrument à clavier</parent>
+  </term>
+  <term>
+    <entree>Épiphanie</entree>
+    <parent>fête religieuse</parent>
+    <formeRejetee>jour des rois</formeRejetee>
+    <note>premier dimanche de janvier</note>
+  </term>
+  <term>
+    <entree>épitaphe</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>épithalame</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>épithalame en musique</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>érection d'un duché</entree>
+  </term>
+  <term>
+    <entree>érection d'une statue du roi</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>esclavage</entree>
+  </term>
+  <term>
+    <entree>estampe</entree>
+    <parent>gravure</parent>
+  </term>
+  <term>
+    <entree>esthétique</entree>
+    <enfant>caractère des nations</enfant>
+    <enfant>caractères de la danse</enfant>
+    <enfant>comique</enfant>
+    <enfant>comparaison d'oeuvres dramatiques</enfant>
+    <enfant>comparaison des genres</enfant>
+    <enfant>discours sur l'opéra</enfant>
+    <enfant>effets de la danse</enfant>
+    <enfant>effets de la musique</enfant>
+    <enfant>exotisme</enfant>
+    <enfant>goût</enfant>
+    <enfant>querelle</enfant>
+    <enfant>rivalité des théâtres</enfant>
+    <enfant>rivalité musicale France-Italie</enfant>
+    <enfant>théorie des passions</enfant>
+    <enfant>union de la musique française et italienne</enfant>
+  </term>
+  <term>
+    <entree>établissement d'un hôpital</entree>
+    <parent>vie administrative</parent>
+  </term>
+  <term>
+    <entree>établissement d'un théâtre</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>établissement d'une académie royale de musique</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>établissement d'une communauté religieuse</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>établissement d'une congrégation</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>établissement d'une école de mathématiques</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>établissement d'une institution</entree>
+    <parent>vie administrative</parent>
+  </term>
+  <term>
+    <entree>établissement d'une paroisse</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>établissement de chancellerie</entree>
+    <parent>vie administrative</parent>
+  </term>
+  <term>
+    <entree>étude de la musique</entree>
+    <parent>enseignement et apprentissage</parent>
+  </term>
+  <term>
+    <entree>évolution du goût</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>Exaudiat te Dominus</entree>
+    <enfant>Exaudiat te Dominus en musique</enfant>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Exaudiat te Dominus en musique</entree>
+    <parent>Exaudiat te Dominus</parent>
+  </term>
+  <term>
+    <entree>exotisme</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>exposition du Saint-Sacrement</entree>
+    <enfant>exposition perpétuelle du Saint-Sacrement</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>exposition perpétuelle du Saint-Sacrement</entree>
+    <parent>exposition du Saint-Sacrement</parent>
+  </term>
+  <term>
+    <entree>fable</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>fanfare</entree>
+    <parent>musique militaire</parent>
+  </term>
+  <term>
+    <entree>fantaisie</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>faux-bourdon</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>festin</entree>
+    <formeAutorite>banquet</formeAutorite>
+  </term>
+  <term>
+    <entree>fête</entree>
+    <enfant>carnaval</enfant>
+    <enfant>fête de Notre-Dame-des-victoires</enfant>
+    <enfant>fête de Saint-Lazare-de-Jérusalem</enfant>
+    <enfant>fête de Sainte-Cécile</enfant>
+    <enfant>fête de confrérie</enfant>
+    <enfant>fête galante</enfant>
+    <enfant>fête religieuse</enfant>
+    <enfant>fête royale</enfant>
+    <enfant>réjouissance publique</enfant>
+  </term>
+  <term>
+    <entree>fête de confrérie</entree>
+    <enfant>fête des arquebusiers de Reims</enfant>
+    <enfant>fête des chevaliers, archers et pistoliers de Péronne</enfant>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête de la Portioncule</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Notre-Dame-des-victoires</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête de Notre-Dame-du-Mont-Carmel</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Barthélemy</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Georges</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Hubert</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Lazare-de-Jérusalem</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Louis</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Martin</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Maur</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Pierre et Saint-Paul</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Quentin</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Saint-Rémi</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Sainte-Anne</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête de Sainte-Cécile</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête des arquebusiers de Reims</entree>
+    <parent>fête de confrérie</parent>
+  </term>
+  <term>
+    <entree>fête des chevaliers, archers et pistoliers de Péronne</entree>
+    <parent>fête de confrérie</parent>
+  </term>
+  <term>
+    <entree>fête des Tabernacles</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête du Rosaire</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête du Saint-Sépulcre</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>fête galante</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête publique</entree>
+    <formeAutorite>réjouissance publique</formeAutorite>
+  </term>
+  <term>
+    <entree>fête religieuse</entree>
+    <enfant>Annonciation</enfant>
+    <enfant>Chandeleur</enfant>
+    <enfant>Fête-Dieu</enfant>
+    <enfant>Mardi gras</enfant>
+    <enfant>Nativité</enfant>
+    <enfant>Nativité de la Vierge</enfant>
+    <enfant>Pentecôte</enfant>
+    <enfant>Pâques</enfant>
+    <enfant>Quarante heures</enfant>
+    <enfant>Quasimodo</enfant>
+    <enfant>Rameaux</enfant>
+    <enfant>Toussaint</enfant>
+    <enfant>Trinité</enfant>
+    <enfant>fête de Notre-Dame-du-Mont-Carmel</enfant>
+    <enfant>fête de Saint-Barthélemy</enfant>
+    <enfant>fête de Saint-Georges</enfant>
+    <enfant>fête de Saint-Hubert</enfant>
+    <enfant>fête de Saint-Louis</enfant>
+    <enfant>fête de Saint-Martin</enfant>
+    <enfant>fête de Saint-Maur</enfant>
+    <enfant>fête de Saint-Pierre et Saint-Paul</enfant>
+    <enfant>fête de Saint-Quentin</enfant>
+    <enfant>fête de Saint-Rémi</enfant>
+    <enfant>fête de Sainte-Anne</enfant>
+    <enfant>fête de la Portioncule</enfant>
+    <enfant>fête des Tabernacles</enfant>
+    <enfant>fête du Rosaire</enfant>
+    <enfant>fête du Saint-Sépulcre</enfant>
+    <enfant>lundi gras</enfant>
+    <enfant>octave de la Fête-Dieu</enfant>
+    <enfant>octave du Saint-Sacrement</enfant>
+    <enfant>octave religieuse</enfant>
+    <enfant>sabbat</enfant>
+    <enfant>Épiphanie</enfant>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>fête royale</entree>
+    <parent>fête</parent>
+  </term>
+  <term>
+    <entree>Fête-Dieu</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>feu d'artifice</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>fiançailles</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>fiction</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>fifre</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>flageolet</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>flûte</entree>
+    <enfant>flûte allemande</enfant>
+    <enfant>flûte douce</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>flûte à bec</entree>
+    <formeAutorite>flûte douce</formeAutorite>
+  </term>
+  <term>
+    <entree>flûte allemande</entree>
+    <parent>flûte</parent>
+    <formeRejetee>flûte d'Allemagne</formeRejetee>
+    <formeRejetee>flûte traversière</formeRejetee>
+  </term>
+  <term>
+    <entree>flûte d'Allemagne</entree>
+    <formeAutorite>flûte allemande</formeAutorite>
+  </term>
+  <term>
+    <entree>flûte douce</entree>
+    <parent>flûte</parent>
+    <formeRejetee>flûte à bec</formeRejetee>
+  </term>
+  <term>
+    <entree>flûte traversière</entree>
+    <formeAutorite>flûte allemande</formeAutorite>
+  </term>
+  <term>
+    <entree>foire</entree>
+    <enfant>foire de Bezons</enfant>
+    <enfant>foire de Saint-Germain</enfant>
+    <enfant>foire de Vaugirard</enfant>
+  </term>
+  <term>
+    <entree>foire de Bezons</entree>
+    <parent>foire</parent>
+  </term>
+  <term>
+    <entree>foire de Saint-Germain</entree>
+    <parent>foire</parent>
+  </term>
+  <term>
+    <entree>foire de Vaugirard</entree>
+    <parent>foire</parent>
+  </term>
+  <term>
+    <entree>fondation d'un couvent</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>fondation d'un office</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>fondation perpétuelle</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>forlane</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>franchise portuaire</entree>
+    <parent>administration</parent>
+  </term>
+  <term>
+    <entree>fugue</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>galanterie</entree>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>gamme musicale</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>gavotte</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>gazette</entree>
+    <enfant>gazette burlesque</enfant>
+  </term>
+  <term>
+    <entree>gazette burlesque</entree>
+    <parent>gazette</parent>
+  </term>
+  <term>
+    <entree>genre d'étude</entree>
+    <enfant>ouvrage théorique</enfant>
+  </term>
+  <term>
+    <entree>genres littéraires</entree>
+    <enfant>ballade</enfant>
+    <enfant>cantique</enfant>
+    <enfant>chant royal</enfant>
+    <enfant>comédie</enfant>
+    <enfant>conte</enfant>
+    <enfant>dialogue</enfant>
+    <enfant>fable</enfant>
+    <enfant>histoire</enfant>
+    <enfant>impromptu</enfant>
+    <enfant>livret d'opéra</enfant>
+    <enfant>madrigal</enfant>
+    <enfant>ode</enfant>
+    <enfant>panégyrique</enfant>
+    <enfant>pastorale</enfant>
+    <enfant>pièce à machines</enfant>
+    <enfant>plainte</enfant>
+    <enfant>prologue</enfant>
+    <enfant>quatrain</enfant>
+    <enfant>réponse</enfant>
+    <enfant>sonnet</enfant>
+    <enfant>sérénade</enfant>
+    <enfant>théâtre de collège</enfant>
+    <enfant>théâtre spirituel</enfant>
+    <enfant>tragédie</enfant>
+    <enfant>éloge</enfant>
+    <enfant>élégie</enfant>
+    <enfant>énigme</enfant>
+    <enfant>épigramme</enfant>
+    <enfant>épitaphe</enfant>
+    <enfant>épithalame</enfant>
+  </term>
+  <term>
+    <entree>genres musicaux</entree>
+    <enfant>musique de scène</enfant>
+    <enfant>musique instrumentale</enfant>
+    <enfant>musique vocale</enfant>
+    <enfant>oraison en musique</enfant>
+  </term>
+  <term>
+    <entree>gestation d'oeuvre</entree>
+    <parent>composition d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>gigue</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>goût</entree>
+    <enfant>goût du public d'opéra</enfant>
+    <enfant>goût français</enfant>
+    <enfant>goût italien</enfant>
+    <enfant>goût musical</enfant>
+    <enfant>goût national</enfant>
+    <enfant>goût pour la danse</enfant>
+    <enfant>goût royal</enfant>
+    <enfant>évolution du goût</enfant>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>goût du public d'opéra</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût français</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût italien</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût musical</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût national</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût pour la danse</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>goût royal</entree>
+    <parent>goût</parent>
+  </term>
+  <term>
+    <entree>gravure</entree>
+    <enfant>estampe</enfant>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>grelot</entree>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>guerre</entree>
+    <parent>affaires militaires</parent>
+  </term>
+  <term>
+    <entree>guitare</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>harmonie</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>harpe</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>harpiste</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>hautbois</entree>
+    <enfant>hautbois du Siam</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>hautbois du Siam</entree>
+    <parent>hautbois</parent>
+  </term>
+  <term>
+    <entree>haute-contre de violon</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>héraldique</entree>
+    <enfant>emblème</enfant>
+  </term>
+  <term>
+    <entree>histoire</entree>
+    <enfant>histoire galante</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>histoire de la danse</entree>
+    <enfant>origine de la danse</enfant>
+  </term>
+  <term>
+    <entree>histoire de la musique</entree>
+    <enfant>origine de la musique</enfant>
+    <enfant>origine du plain-chant</enfant>
+  </term>
+  <term>
+    <entree>histoire du théâtre</entree>
+    <enfant>réforme de la comédie</enfant>
+  </term>
+  <term>
+    <entree>histoire galante</entree>
+    <parent>histoire</parent>
+  </term>
+  <term>
+    <entree>hymne</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>iconographie</entree>
+    <enfant>iconographie des spectacles</enfant>
+    <enfant>iconographie musicale</enfant>
+  </term>
+  <term>
+    <entree>iconographie des spectacles</entree>
+    <parent>iconographie</parent>
+  </term>
+  <term>
+    <entree>iconographie musicale</entree>
+    <parent>iconographie</parent>
+  </term>
+  <term>
+    <entree>idylle</entree>
+    <parent>pastorale</parent>
+  </term>
+  <term>
+    <entree>idylle en musique</entree>
+    <parent>pastorale en musique</parent>
+  </term>
+  <term>
+    <entree>illuminations</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>impromptu</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>In exitu Israel</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>influence culturelle</entree>
+  </term>
+  <term>
+    <entree>inquisition</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>installation de chanoine</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>instrument à clavier</entree>
+    <enfant>clavecin</enfant>
+    <enfant>orgue</enfant>
+    <enfant>pandolyre</enfant>
+    <enfant>épinette</enfant>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>instrument à cordes</entree>
+    <enfant>angélique</enfant>
+    <enfant>apollon [instrument à cordes]</enfant>
+    <enfant>archiluth</enfant>
+    <enfant>basse de viole</enfant>
+    <enfant>basse de violon</enfant>
+    <enfant>cistre</enfant>
+    <enfant>cymbalum</enfant>
+    <enfant>dessus de viole</enfant>
+    <enfant>guitare</enfant>
+    <enfant>harpe</enfant>
+    <enfant>haute-contre de violon</enfant>
+    <enfant>instrument en forme de violon</enfant>
+    <enfant>luth</enfant>
+    <enfant>lyre</enfant>
+    <enfant>pochette</enfant>
+    <enfant>psaltérion</enfant>
+    <enfant>taille de violon</enfant>
+    <enfant>théorbe</enfant>
+    <enfant>trompette marine</enfant>
+    <enfant>viole de gambe</enfant>
+    <enfant>violon</enfant>
+    <enfant>vièle</enfant>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>instrument à percussion</entree>
+    <enfant>carillon</enfant>
+    <enfant>castagnettes</enfant>
+    <enfant>cloche</enfant>
+    <enfant>clochette</enfant>
+    <enfant>cymbale</enfant>
+    <enfant>grelot</enfant>
+    <enfant>sonnettes</enfant>
+    <enfant>tambour</enfant>
+    <enfant>timbale</enfant>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>instrument à vent</entree>
+    <enfant>basson</enfant>
+    <enfant>boina</enfant>
+    <enfant>chalumeau</enfant>
+    <enfant>clairon</enfant>
+    <enfant>cor</enfant>
+    <enfant>cornemuse</enfant>
+    <enfant>cornet</enfant>
+    <enfant>cromorne</enfant>
+    <enfant>fifre</enfant>
+    <enfant>flageolet</enfant>
+    <enfant>flûte</enfant>
+    <enfant>hautbois</enfant>
+    <enfant>musette</enfant>
+    <enfant>pipeau</enfant>
+    <enfant>trompe</enfant>
+    <enfant>trompette</enfant>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>instrument de musique</entree>
+    <enfant>basse</enfant>
+    <enfant>instrument hydraulique</enfant>
+    <enfant>instrument à clavier</enfant>
+    <enfant>instrument à cordes</enfant>
+    <enfant>instrument à percussion</enfant>
+    <enfant>instrument à vent</enfant>
+  </term>
+  <term>
+    <entree>instrument en forme de violon</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>instrument hydraulique</entree>
+    <parent>instrument de musique</parent>
+  </term>
+  <term>
+    <entree>instrument nouveau</entree>
+    <parent>organologie</parent>
+    <formeRejetee>invention d'instrument</formeRejetee>
+  </term>
+  <term>
+    <entree>instrumentiste</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>intermède</entree>
+    <enfant>intermède allégorique</enfant>
+    <enfant>intermède dansé</enfant>
+  </term>
+  <term>
+    <entree>intermède allégorique</entree>
+    <parent>intermède</parent>
+  </term>
+  <term>
+    <entree>intermède dansé</entree>
+    <parent>intermède</parent>
+  </term>
+  <term>
+    <entree>interprétation</entree>
+    <enfant>interprétation dramatique</enfant>
+    <enfant>interprétation musicale</enfant>
+  </term>
+  <term>
+    <entree>interprétation dramatique</entree>
+    <parent>interprétation</parent>
+  </term>
+  <term>
+    <entree>interprétation instrumentale</entree>
+    <parent>interprétation musicale</parent>
+  </term>
+  <term>
+    <entree>interprétation musicale</entree>
+    <enfant>interprétation instrumentale</enfant>
+    <enfant>interprétation vocale</enfant>
+    <enfant>ornementation</enfant>
+    <parent>interprétation</parent>
+  </term>
+  <term>
+    <entree>interprétation vocale</entree>
+    <enfant>art du chant</enfant>
+    <enfant>diction</enfant>
+    <parent>interprétation musicale</parent>
+  </term>
+  <term>
+    <entree>interprète</entree>
+    <enfant>acteur</enfant>
+    <enfant>basse vocale</enfant>
+    <enfant>chanteur</enfant>
+    <enfant>comédien</enfant>
+    <enfant>danseur</enfant>
+    <enfant>harpiste</enfant>
+    <enfant>instrumentiste</enfant>
+    <enfant>interprète princier</enfant>
+    <enfant>interprètes amateurs</enfant>
+    <enfant>musiciens italiens</enfant>
+    <enfant>ménétrier</enfant>
+    <enfant>organiste</enfant>
+    <enfant>timbalier</enfant>
+  </term>
+  <term>
+    <entree>interprète princier</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>interprètes amateurs</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>intervalle</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>introït</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>invention d'instrument</entree>
+    <formeAutorite>instrument nouveau</formeAutorite>
+  </term>
+  <term>
+    <entree>islam</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>Iste confessor</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>jeu</entree>
+    <enfant>jeu de carte</enfant>
+    <enfant>jeu de l'arc</enfant>
+    <enfant>jeu de l'arquebuse</enfant>
+    <enfant>jeu de l'hombre</enfant>
+    <enfant>jeu de l'oiseau</enfant>
+    <enfant>jeu de la bassette</enfant>
+    <enfant>jeu de paume</enfant>
+    <enfant>jeu de portique</enfant>
+    <enfant>jeu des pots cassés</enfant>
+    <enfant>jeu du pistolet</enfant>
+    <enfant>loterie</enfant>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>jeu d'orgue</entree>
+    <parent>orgue</parent>
+  </term>
+  <term>
+    <entree>jeu de carte</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de l'arc</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de l'arquebuse</entree>
+    <enfant>prix de l'arquebuse</enfant>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de l'hombre</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de l'oiseau</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de la bassette</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de paume</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu de portique</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu des pots cassés</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeu du pistolet</entree>
+    <enfant>prix du pistolet</enfant>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>jeudi gras</entree>
+  </term>
+  <term>
+    <entree>jour de l'an</entree>
+    <formeRejetee>nouvel an</formeRejetee>
+  </term>
+  <term>
+    <entree>jour des rois</entree>
+    <formeAutorite>Épiphanie</formeAutorite>
+  </term>
+  <term>
+    <entree>jubilé</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>judaïsme</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>langue</entree>
+    <enfant>langue française</enfant>
+    <enfant>langue italienne</enfant>
+    <enfant>langue naturelle</enfant>
+    <enfant>langue régionale</enfant>
+    <enfant>langue universelle</enfant>
+  </term>
+  <term>
+    <entree>langue française</entree>
+    <parent>langue</parent>
+  </term>
+  <term>
+    <entree>langue italienne</entree>
+    <parent>langue</parent>
+  </term>
+  <term>
+    <entree>langue naturelle</entree>
+    <parent>langue</parent>
+  </term>
+  <term>
+    <entree>langue régionale</entree>
+    <parent>langue</parent>
+  </term>
+  <term>
+    <entree>langue universelle</entree>
+    <parent>langue</parent>
+  </term>
+  <term>
+    <entree>Laudate</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>laudes</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>leçon de ténèbres</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>lecture d'oeuvre dramatique</entree>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>lettre</entree>
+    <enfant>lettre en chansons</enfant>
+    <enfant>lettre en prose</enfant>
+    <enfant>lettre en vers</enfant>
+    <enfant>lettre en vers et prose</enfant>
+    <enfant>letttre spirituelle</enfant>
+  </term>
+  <term>
+    <entree>lettre en chansons</entree>
+    <parent>lettre</parent>
+  </term>
+  <term>
+    <entree>lettre en prose</entree>
+    <parent>lettre</parent>
+  </term>
+  <term>
+    <entree>lettre en vers</entree>
+    <parent>lettre</parent>
+  </term>
+  <term>
+    <entree>lettre en vers et prose</entree>
+    <parent>lettre</parent>
+  </term>
+  <term>
+    <entree>letttre spirituelle</entree>
+    <parent>lettre</parent>
+  </term>
+  <term>
+    <entree>Libera me</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Libera me en musique</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>litanies</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>livre nouveau</entree>
+    <parent>actualité éditoriale</parent>
+  </term>
+  <term>
+    <entree>livret d'opéra</entree>
+    <enfant>livret mythologique</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>livret mythologique</entree>
+    <parent>livret d'opéra</parent>
+  </term>
+  <term>
+    <entree>loterie</entree>
+    <parent>jeu</parent>
+  </term>
+  <term>
+    <entree>lundi gras</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>luth</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>lyre</entree>
+    <enfant>lyre italienne</enfant>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>lyre italienne</entree>
+    <parent>lyre</parent>
+  </term>
+  <term>
+    <entree>machine</entree>
+    <parent>décoration de théâtre</parent>
+  </term>
+  <term>
+    <entree>madrigal</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>maladie</entree>
+    <parent>médecine</parent>
+  </term>
+  <term>
+    <entree>mandement</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>marche</entree>
+    <enfant>marche de tambours</enfant>
+  </term>
+  <term>
+    <entree>marche de tambours</entree>
+    <parent>marche</parent>
+  </term>
+  <term>
+    <entree>Mardi gras</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>mariage</entree>
+    <enfant>mariage princier</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>mariage princier</entree>
+    <parent>mariage</parent>
+  </term>
+  <term>
+    <entree>marionnette</entree>
+    <enfant>bamboche</enfant>
+  </term>
+  <term>
+    <entree>mascarade</entree>
+    <enfant>mascarade allemande</enfant>
+  </term>
+  <term>
+    <entree>mascarade allemande</entree>
+    <parent>mascarade</parent>
+    <formeRejetee>Wirtschafft</formeRejetee>
+  </term>
+  <term>
+    <entree>masque</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>matines</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>matraque</entree>
+    <note>sorte de bal turc (1687.08)</note>
+  </term>
+  <term>
+    <entree>maxime</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>mécanique</entree>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>médecine</entree>
+    <enfant>maladie</enfant>
+  </term>
+  <term>
+    <entree>médianoche</entree>
+    <parent>repas</parent>
+  </term>
+  <term>
+    <entree>ménétrier</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>menuet</entree>
+    <enfant>menuet du Poitou</enfant>
+    <enfant>menuet figuré</enfant>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>menuet du Poitou</entree>
+    <parent>menuet</parent>
+  </term>
+  <term>
+    <entree>menuet figuré</entree>
+    <parent>menuet</parent>
+  </term>
+  <term>
+    <entree>merveilleux</entree>
+    <parent>poétique</parent>
+  </term>
+  <term>
+    <entree>messe</entree>
+    <enfant>communion</enfant>
+    <enfant>encensement</enfant>
+    <enfant>messe basse</enfant>
+    <enfant>messe du Saint-Esprit</enfant>
+    <enfant>messe funèbre</enfant>
+    <enfant>messe solennelle</enfant>
+    <enfant>offertoire</enfant>
+    <enfant>élévation</enfant>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>messe basse</entree>
+    <enfant>messe basse en musique</enfant>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>messe basse en musique</entree>
+    <parent>messe basse</parent>
+  </term>
+  <term>
+    <entree>messe chantée en langue étrangère</entree>
+    <parent>messe en musique</parent>
+  </term>
+  <term>
+    <entree>messe des morts</entree>
+    <enfant>messe des morts en musique</enfant>
+    <parent>office des morts</parent>
+  </term>
+  <term>
+    <entree>messe des morts en musique</entree>
+    <parent>messe des morts</parent>
+  </term>
+  <term>
+    <entree>messe du Saint-Esprit</entree>
+    <enfant>messe du Saint-Esprit en musique</enfant>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>messe du Saint-Esprit en musique</entree>
+    <parent>messe du Saint-Esprit</parent>
+  </term>
+  <term>
+    <entree>messe en musique</entree>
+    <enfant>messe chantée en langue étrangère</enfant>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>messe funèbre</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>messe solennelle</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>méthode</entree>
+    <parent>ouvrage théorique</parent>
+  </term>
+  <term>
+    <entree>miracle</entree>
+  </term>
+  <term>
+    <entree>Miserere mei Deus</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>mission</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>modalité</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>monopole de l'opéra</entree>
+    <parent>vie académique</parent>
+  </term>
+  <term>
+    <entree>moresque</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>motet</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>musette</entree>
+    <enfant>musette du Poitou</enfant>
+    <enfant>musette du Siam</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>musette du Poitou</entree>
+    <parent>musette</parent>
+  </term>
+  <term>
+    <entree>musette du Siam</entree>
+    <parent>musette</parent>
+  </term>
+  <term>
+    <entree>musiciens italiens</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>musique</entree>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>musique à deux choeurs</entree>
+    <parent>musique polychorale</parent>
+  </term>
+  <term>
+    <entree>musique à huit choeurs</entree>
+    <parent>musique polychorale</parent>
+  </term>
+  <term>
+    <entree>musique à quatre choeurs</entree>
+    <parent>musique polychorale</parent>
+  </term>
+  <term>
+    <entree>musique à trois choeurs</entree>
+    <parent>musique polychorale</parent>
+  </term>
+  <term>
+    <entree>musique champêtre</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique chinoise</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de cérémonie civile</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de cérémonie funèbre</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de cérémonie militaire</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de cérémonie religieuse</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de plein air</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de réjouissance publique</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique de scène</entree>
+    <enfant>ballet</enfant>
+    <enfant>comédie en musique</enfant>
+    <enfant>entrée dansée</enfant>
+    <enfant>opéra</enfant>
+    <enfant>pastorale en musique</enfant>
+    <enfant>petit opéra</enfant>
+    <enfant>tragédie-ballet</enfant>
+    <parent>genres musicaux</parent>
+  </term>
+  <term>
+    <entree>musique de table</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique dialoguée</entree>
+    <enfant>dialogue chanté</enfant>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique du Siam</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique espagnole</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique française</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique funèbre</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique guerrière</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique instrumentale</entree>
+    <enfant>air instrumental</enfant>
+    <enfant>ensemble de flûtes douces</enfant>
+    <enfant>ensemble de guitares</enfant>
+    <enfant>ensemble de luths</enfant>
+    <enfant>ensemble de violons</enfant>
+    <enfant>entracte</enfant>
+    <enfant>ouverture</enfant>
+    <enfant>plainte instrumentale</enfant>
+    <enfant>prélude</enfant>
+    <enfant>ritournelle</enfant>
+    <enfant>suite instrumentale</enfant>
+    <enfant>symphonie</enfant>
+    <parent>genres musicaux</parent>
+  </term>
+  <term>
+    <entree>musique italienne</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique militaire</entree>
+    <enfant>chamade</enfant>
+    <enfant>fanfare</enfant>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique moscovite</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique polychorale</entree>
+    <enfant>musique à deux choeurs</enfant>
+    <enfant>musique à huit choeurs</enfant>
+    <enfant>musique à quatre choeurs</enfant>
+    <enfant>musique à trois choeurs</enfant>
+    <parent>type de musique</parent>
+    <formeRejetee>polychoralité</formeRejetee>
+  </term>
+  <term>
+    <entree>musique religieuse</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique syrienne</entree>
+    <parent>type de musique</parent>
+  </term>
+  <term>
+    <entree>musique vocale</entree>
+    <enfant>air</enfant>
+    <enfant>chanson</enfant>
+    <enfant>leçon de ténèbres</enfant>
+    <enfant>messe en musique</enfant>
+    <enfant>motet</enfant>
+    <enfant>oratorio</enfant>
+    <enfant>plain-chant</enfant>
+    <enfant>plainte vocale</enfant>
+    <enfant>romance</enfant>
+    <enfant>récit</enfant>
+    <enfant>récitatif</enfant>
+    <enfant>salut en musique</enfant>
+    <enfant>salut en plain-chant</enfant>
+    <enfant>vaudeville</enfant>
+    <enfant>épithalame en musique</enfant>
+    <parent>genres musicaux</parent>
+  </term>
+  <term>
+    <entree>mythologie</entree>
+    <enfant>mythologie originelle</enfant>
+  </term>
+  <term>
+    <entree>mythologie originelle</entree>
+    <parent>mythologie</parent>
+  </term>
+  <term>
+    <entree>naissance</entree>
+    <enfant>naissance d'un prince</enfant>
+  </term>
+  <term>
+    <entree>naissance d'un prince</entree>
+    <parent>naissance</parent>
+  </term>
+  <term>
+    <entree>Nativité</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>Nativité de la Vierge</entree>
+    <parent>fête religieuse</parent>
+    <note>8 septembre</note>
+  </term>
+  <term>
+    <entree>niacard</entree>
+    <note>instrument de musique turc (1687.08)</note>
+  </term>
+  <term>
+    <entree>nomination d'un ambassadeur</entree>
+    <parent>vie administrative</parent>
+  </term>
+  <term>
+    <entree>nomination d'un archevêque</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>nomination d'un cardinal</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>nomination d'un chanoine</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>nomination d'un évêque</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>nomination d'un maître de musique</entree>
+    <parent>carrière musicale</parent>
+  </term>
+  <term>
+    <entree>nomination d'une abbesse</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>nomination de membres du conseil de ville</entree>
+    <parent>vie administrative</parent>
+  </term>
+  <term>
+    <entree>nomination du grand maître de l'ordre de Malte</entree>
+    <parent>carrière ecclésiastique</parent>
+  </term>
+  <term>
+    <entree>none</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>notation en chiffres</entree>
+    <parent>notation musicale</parent>
+  </term>
+  <term>
+    <entree>notation musicale</entree>
+    <enfant>notation en chiffres</enfant>
+    <enfant>tablature</enfant>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>nouveaux convertis</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>nouvel an</entree>
+    <formeAutorite>jour de l'an</formeAutorite>
+  </term>
+  <term>
+    <entree>noviciat</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>numismatique</entree>
+  </term>
+  <term>
+    <entree>Nunc dimittis servum tuum</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>obsèques</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>octave de la Fête-Dieu</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>octave du Saint-Sacrement</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>octave religieuse</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>ode</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>offertoire</entree>
+    <parent>messe</parent>
+  </term>
+  <term>
+    <entree>office de Ténèbres</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>office des morts</entree>
+    <enfant>messe des morts</enfant>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>offices liturgiques</entree>
+    <enfant>complies</enfant>
+    <enfant>laudes</enfant>
+    <enfant>matines</enfant>
+    <enfant>messe</enfant>
+    <enfant>none</enfant>
+    <enfant>office de Ténèbres</enfant>
+    <enfant>office des morts</enfant>
+    <enfant>prime</enfant>
+    <enfant>salut</enfant>
+    <enfant>service en musique</enfant>
+    <enfant>service funèbre</enfant>
+    <enfant>service solennel</enfant>
+    <enfant>sexte</enfant>
+    <enfant>tierce</enfant>
+    <enfant>vigiles</enfant>
+    <enfant>vêpres</enfant>
+  </term>
+  <term>
+    <entree>opéra</entree>
+    <enfant>opéra italien</enfant>
+    <enfant>opéra spirituel</enfant>
+    <enfant>tragédie en musique</enfant>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>opéra français</entree>
+    <formeAutorite>tragédie en musique</formeAutorite>
+  </term>
+  <term>
+    <entree>opéra génois</entree>
+    <parent>opéra italien</parent>
+  </term>
+  <term>
+    <entree>opéra italien</entree>
+    <enfant>opéra génois</enfant>
+    <enfant>opéra romain</enfant>
+    <enfant>opéra vénitien</enfant>
+    <parent>opéra</parent>
+  </term>
+  <term>
+    <entree>opéra romain</entree>
+    <parent>opéra italien</parent>
+  </term>
+  <term>
+    <entree>opéra spirituel</entree>
+    <parent>opéra</parent>
+  </term>
+  <term>
+    <entree>opéra vénitien</entree>
+    <parent>opéra italien</parent>
+  </term>
+  <term>
+    <entree>optique</entree>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>oraison</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>oraison en musique</entree>
+    <parent>genres musicaux</parent>
+  </term>
+  <term>
+    <entree>oraison funèbre</entree>
+    <formeAutorite>éloge funèbre</formeAutorite>
+  </term>
+  <term>
+    <entree>oraison pour le roi</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>oratorio</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>orchestre</entree>
+    <enfant>orchestre d'opéra italien</enfant>
+  </term>
+  <term>
+    <entree>orchestre d'opéra italien</entree>
+    <parent>orchestre</parent>
+  </term>
+  <term>
+    <entree>organiste</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>organologie</entree>
+    <enfant>claviers</enfant>
+    <enfant>cordes</enfant>
+    <enfant>instrument nouveau</enfant>
+    <enfant>origine des instruments de musique</enfant>
+    <enfant>vents</enfant>
+  </term>
+  <term>
+    <entree>orgue</entree>
+    <enfant>buffet d'orgue</enfant>
+    <enfant>cabinet d'orgues</enfant>
+    <enfant>jeu d'orgue</enfant>
+    <enfant>soufflet d'orgue</enfant>
+    <enfant>tuyaux d'orgue</enfant>
+    <parent>instrument à clavier</parent>
+  </term>
+  <term>
+    <entree>origine de la danse</entree>
+    <parent>histoire de la danse</parent>
+  </term>
+  <term>
+    <entree>origine de la musique</entree>
+    <parent>histoire de la musique</parent>
+  </term>
+  <term>
+    <entree>origine des cloches</entree>
+    <parent>origine des instruments de musique</parent>
+  </term>
+  <term>
+    <entree>origine des instruments de musique</entree>
+    <enfant>origine des cloches</enfant>
+    <parent>organologie</parent>
+  </term>
+  <term>
+    <entree>origine du plain-chant</entree>
+    <parent>histoire de la musique</parent>
+  </term>
+  <term>
+    <entree>ornementation</entree>
+    <enfant>tremblement</enfant>
+    <parent>interprétation musicale</parent>
+  </term>
+  <term>
+    <entree>ouverture</entree>
+    <enfant>ouverture d'opéra</enfant>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>ouverture d'opéra</entree>
+    <parent>ouverture</parent>
+  </term>
+  <term>
+    <entree>ouverture des Jeux Floraux de Toulouse</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>ouverture du Parlement</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>ouvrage théorique</entree>
+    <enfant>méthode</enfant>
+    <enfant>traité</enfant>
+    <parent>genre d'étude</parent>
+  </term>
+  <term>
+    <entree>paix de Savoie</entree>
+    <parent>célébration de la paix</parent>
+  </term>
+  <term>
+    <entree>pandolyre</entree>
+    <parent>instrument à clavier</parent>
+  </term>
+  <term>
+    <entree>panégyrique</entree>
+    <enfant>panégyrique d'un pape</enfant>
+    <enfant>panégyrique d'un saint</enfant>
+    <enfant>panégyrique du roi</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>panégyrique d'un pape</entree>
+    <parent>panégyrique</parent>
+  </term>
+  <term>
+    <entree>panégyrique d'un saint</entree>
+    <parent>panégyrique</parent>
+  </term>
+  <term>
+    <entree>panégyrique du roi</entree>
+    <parent>panégyrique</parent>
+  </term>
+  <term>
+    <entree>Pange lingua gloriosi corporis</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>pantomime</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>Pâques</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>paraphrase</entree>
+    <enfant>paraphrase de psaume</enfant>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>paraphrase de psaume</entree>
+    <parent>paraphrase</parent>
+  </term>
+  <term>
+    <entree>parodie</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>paroles à mettre en air</entree>
+    <parent>procédés de composition littéraire</parent>
+    <formeRejetee>poésie à mettre en air</formeRejetee>
+  </term>
+  <term>
+    <entree>paroles adaptées à un air</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>passepied</entree>
+    <enfant>passepied de Bretagne</enfant>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>passepied de Bretagne</entree>
+    <parent>passepied</parent>
+  </term>
+  <term>
+    <entree>passion en musique</entree>
+    <parent>théorie des passions</parent>
+  </term>
+  <term>
+    <entree>pastorale</entree>
+    <enfant>idylle</enfant>
+    <enfant>pastorale dramatique</enfant>
+    <enfant>pastorale héroïque</enfant>
+    <enfant>églogue</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>pastorale dramatique</entree>
+    <parent>pastorale</parent>
+  </term>
+  <term>
+    <entree>pastorale en musique</entree>
+    <enfant>idylle en musique</enfant>
+    <enfant>églogue en musique</enfant>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>pastorale héroïque</entree>
+    <parent>pastorale</parent>
+  </term>
+  <term>
+    <entree>peinture</entree>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>Pentecôte</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>petit opéra</entree>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>philosophie</entree>
+  </term>
+  <term>
+    <entree>pièce à machines</entree>
+    <enfant>pièce à machines mêlée de musique</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>pièce à machines mêlée de musique</entree>
+    <parent>pièce à machines</parent>
+  </term>
+  <term>
+    <entree>piété</entree>
+  </term>
+  <term>
+    <entree>pipeau</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>plain-chant</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>plainte</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>plainte instrumentale</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>plainte vocale</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>plan d'un ouvrage</entree>
+  </term>
+  <term>
+    <entree>poche</entree>
+    <formeAutorite>pochette</formeAutorite>
+  </term>
+  <term>
+    <entree>pochette</entree>
+    <parent>instrument à cordes</parent>
+    <formeRejetee>poche</formeRejetee>
+  </term>
+  <term>
+    <entree>poésie</entree>
+    <enfant>poésie allégorique</enfant>
+    <enfant>poésie de circonstance</enfant>
+    <enfant>poésie encomiastique</enfant>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>poésie à mettre en air</entree>
+    <formeAutorite>paroles à mettre en air</formeAutorite>
+  </term>
+  <term>
+    <entree>poésie allégorique</entree>
+    <parent>poésie</parent>
+  </term>
+  <term>
+    <entree>poésie de circonstance</entree>
+    <parent>poésie</parent>
+  </term>
+  <term>
+    <entree>poésie encomiastique</entree>
+    <parent>poésie</parent>
+  </term>
+  <term>
+    <entree>poétique</entree>
+    <enfant>merveilleux</enfant>
+    <enfant>poétique de l'opéra</enfant>
+    <enfant>vraisemblance</enfant>
+  </term>
+  <term>
+    <entree>poétique de l'opéra</entree>
+    <parent>poétique</parent>
+  </term>
+  <term>
+    <entree>politique éditoriale</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>polychoralité</entree>
+    <formeAutorite>musique polychorale</formeAutorite>
+  </term>
+  <term>
+    <entree>pompe funèbre</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>prédication</entree>
+    <parent>vie religieuse</parent>
+  </term>
+  <term>
+    <entree>prélude</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>présentation d'un tableau</entree>
+  </term>
+  <term>
+    <entree>prestation de serment</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>prière</entree>
+    <enfant>action de grâce</enfant>
+    <enfant>adoration du Saint-Sacrement</enfant>
+    <enfant>oraison pour le roi</enfant>
+    <enfant>prière chantée</enfant>
+    <enfant>prière pour la paix</enfant>
+    <enfant>prière pour le roi</enfant>
+    <enfant>prière pour les morts</enfant>
+    <enfant>prière publique</enfant>
+  </term>
+  <term>
+    <entree>prière chantée</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>prière pour la paix</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>prière pour le roi</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>prière pour les morts</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>prière publique</entree>
+    <parent>prière</parent>
+  </term>
+  <term>
+    <entree>prime</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>prise d'habit</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>prise de Barcelone</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Heidelberg</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Mons</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Montmélian</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Namur</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Nice</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de Palamos</entree>
+    <parent>victoire militaire</parent>
+  </term>
+  <term>
+    <entree>prise de possession d'un siège épiscopal</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>prise de possession d'une abbaye</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>prise de possession du Grand Prieuré de France</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>privilège du roi</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>privilège ecclésiastique</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>prix de l'arquebuse</entree>
+    <parent>jeu de l'arquebuse</parent>
+  </term>
+  <term>
+    <entree>prix du pistolet</entree>
+    <parent>jeu du pistolet</parent>
+  </term>
+  <term>
+    <entree>procédés de composition littéraire</entree>
+    <enfant>bouts rimés</enfant>
+    <enfant>centon</enfant>
+    <enfant>fiction</enfant>
+    <enfant>maxime</enfant>
+    <enfant>paraphrase</enfant>
+    <enfant>parodie</enfant>
+    <enfant>paroles adaptées à un air</enfant>
+    <enfant>paroles à mettre en air</enfant>
+    <enfant>traduction</enfant>
+  </term>
+  <term>
+    <entree>procédés de composition musicale</entree>
+    <enfant>ajout d'une contrepartie</enfant>
+    <enfant>contrepoint</enfant>
+    <enfant>diminution</enfant>
+    <enfant>fantaisie</enfant>
+    <enfant>faux-bourdon</enfant>
+    <enfant>fugue</enfant>
+    <enfant>rondeau</enfant>
+    <enfant>timbre</enfant>
+    <enfant>toccata</enfant>
+    <enfant>transcription</enfant>
+    <enfant>trio</enfant>
+    <enfant>écho</enfant>
+  </term>
+  <term>
+    <entree>procession</entree>
+    <enfant>procession du Saint-Sacrement</enfant>
+    <enfant>procession pour obtenir de la pluie</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>procession du Saint-Sacrement</entree>
+    <parent>procession</parent>
+  </term>
+  <term>
+    <entree>procession pour obtenir de la pluie</entree>
+    <parent>procession</parent>
+  </term>
+  <term>
+    <entree>prologue</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>prologue d'opéra</entree>
+    <parent>tragédie en musique</parent>
+  </term>
+  <term>
+    <entree>prononciation de voeux</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>protestantisme</entree>
+    <parent>questions religieuses</parent>
+  </term>
+  <term>
+    <entree>protocole de rédaction</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>psaltérion</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>psaume</entree>
+    <enfant>psaume de pénitence</enfant>
+    <enfant>psaume en musique</enfant>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>psaume de pénitence</entree>
+    <parent>psaume</parent>
+  </term>
+  <term>
+    <entree>psaume en musique</entree>
+    <parent>psaume</parent>
+  </term>
+  <term>
+    <entree>psaume réformé</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>public de l'opéra</entree>
+    <parent>public des spectacles</parent>
+  </term>
+  <term>
+    <entree>public de la comédie</entree>
+    <parent>public des spectacles</parent>
+  </term>
+  <term>
+    <entree>public des spectacles</entree>
+    <enfant>public de l'opéra</enfant>
+    <enfant>public de la comédie</enfant>
+  </term>
+  <term>
+    <entree>publication de poésie</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>publication intégrale du livret</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>publication nouvelle</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>publication partielle du livret</entree>
+    <parent>édition</parent>
+  </term>
+  <term>
+    <entree>pyrrhique</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>quadrille</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>qualité vocale</entree>
+    <parent>disposition pour la musique</parent>
+  </term>
+  <term>
+    <entree>Quarante heures</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>Quasimodo</entree>
+    <parent>fête religieuse</parent>
+    <formeRejetee>Dimanche de Quasimodo</formeRejetee>
+  </term>
+  <term>
+    <entree>quatrain</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>querelle</entree>
+    <enfant>querelle des Anciens et des Modernes</enfant>
+    <enfant>querelle dramatique</enfant>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>querelle des Anciens et des Modernes</entree>
+    <parent>querelle</parent>
+  </term>
+  <term>
+    <entree>querelle dramatique</entree>
+    <parent>querelle</parent>
+  </term>
+  <term>
+    <entree>questions religieuses</entree>
+    <enfant>approbation religieuse</enfant>
+    <enfant>catholicisme</enfant>
+    <enfant>conversion</enfant>
+    <enfant>dogme protestant</enfant>
+    <enfant>inquisition</enfant>
+    <enfant>islam</enfant>
+    <enfant>judaïsme</enfant>
+    <enfant>mission</enfant>
+    <enfant>nouveaux convertis</enfant>
+    <enfant>protestantisme</enfant>
+  </term>
+  <term>
+    <entree>Rameaux</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>réception</entree>
+    <enfant>réception officielle</enfant>
+    <enfant>réception privée</enfant>
+    <enfant>réception publique</enfant>
+  </term>
+  <term>
+    <entree>réception d'oeuvre</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>réception d'un cardinal</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception d'un chevalier</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception d'un évêque</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception d'un gouverneur</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception d'une oeuvre</entree>
+    <enfant>réception d'une oeuvre dramatique</enfant>
+    <enfant>réception d'une oeuvre musicale</enfant>
+  </term>
+  <term>
+    <entree>réception d'une oeuvre dramatique</entree>
+    <parent>réception d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>réception d'une oeuvre musicale</entree>
+    <parent>réception d'une oeuvre</parent>
+  </term>
+  <term>
+    <entree>réception d'une princesse</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception d'une statue du roi</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception du grand-maître d'un ordre</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception du recteur des pénitents blancs</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réception officielle</entree>
+    <parent>réception</parent>
+  </term>
+  <term>
+    <entree>réception privée</entree>
+    <parent>réception</parent>
+  </term>
+  <term>
+    <entree>réception publique</entree>
+    <parent>réception</parent>
+  </term>
+  <term>
+    <entree>récit</entree>
+    <enfant>récit de basse</enfant>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>récit de basse</entree>
+    <parent>récit</parent>
+  </term>
+  <term>
+    <entree>récitatif</entree>
+    <enfant>récitatif italien</enfant>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>récitatif italien</entree>
+    <parent>récitatif</parent>
+  </term>
+  <term>
+    <entree>récitation de poésie</entree>
+    <parent>sociabilité littéraire</parent>
+  </term>
+  <term>
+    <entree>redoute</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>réduction de Paris</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réduction de Perpignan</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réduction de Philippsburg</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>réforme de la comédie</entree>
+    <parent>histoire du théâtre</parent>
+  </term>
+  <term>
+    <entree>régate</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>réjouissance publique</entree>
+    <parent>fête</parent>
+    <formeRejetee>fête publique</formeRejetee>
+  </term>
+  <term>
+    <entree>relation maître/élève</entree>
+    <parent>enseignement et apprentissage</parent>
+  </term>
+  <term>
+    <entree>reliques</entree>
+  </term>
+  <term>
+    <entree>remaniement d'oeuvre musicale</entree>
+    <parent>composition d'oeuvre musicale</parent>
+  </term>
+  <term>
+    <entree>repas</entree>
+    <enfant>ambigu</enfant>
+    <enfant>banquet</enfant>
+    <enfant>collation</enfant>
+    <enfant>dîner</enfant>
+    <enfant>médianoche</enfant>
+    <enfant>souper</enfant>
+  </term>
+  <term>
+    <entree>répétition d'oeuvre</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>répons</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>réponse</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>reposoir</entree>
+    <parent>décor éphémère</parent>
+  </term>
+  <term>
+    <entree>représentation d'oeuvre</entree>
+    <enfant>représentation privée</enfant>
+    <enfant>représentation théâtrale</enfant>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>représentation privée</entree>
+    <parent>représentation d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>représentation théâtrale</entree>
+    <parent>représentation d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>reprise d'oeuvre</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>retour de campagne</entree>
+    <parent>vie militaire</parent>
+  </term>
+  <term>
+    <entree>révision d'oeuvre</entree>
+    <parent>création d'oeuvre</parent>
+  </term>
+  <term>
+    <entree>revue militaire</entree>
+    <parent>vie militaire</parent>
+  </term>
+  <term>
+    <entree>rhétorique</entree>
+    <enfant>art oratoire</enfant>
+    <enfant>compliment</enfant>
+    <enfant>éloquence</enfant>
+  </term>
+  <term>
+    <entree>ritournelle</entree>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>rivalité des théâtres</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>rivalité musicale France-Italie</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>romance</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>rondeau</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>sabbat</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>sacre</entree>
+    <enfant>sacre d'un archevêque</enfant>
+    <enfant>sacre d'un évêque</enfant>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>sacre d'un archevêque</entree>
+    <parent>sacre</parent>
+  </term>
+  <term>
+    <entree>sacre d'un évêque</entree>
+    <parent>sacre</parent>
+  </term>
+  <term>
+    <entree>salon</entree>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>salut</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>salut en musique</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>salut en plain-chant</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>sapate</entree>
+    <parent>coutume étrangère</parent>
+    <note>D'après le Littré (1872-1877) : 1. Présent considérable, donné sous la forme d'un autre qui l'est beaucoup moins. 2. Fête en usage parmi les Espagnols (5 décembre) ; consiste à faire à ses amis des présents, sans qu'ils sachent d'où ils leur viennent.</note>
+  </term>
+  <term>
+    <entree>sarabande</entree>
+    <parent>danse</parent>
+  </term>
+  <term>
+    <entree>sautereau de clavecin</entree>
+    <parent>claviers</parent>
+  </term>
+  <term>
+    <entree>sculpture</entree>
+    <parent>arts</parent>
+  </term>
+  <term>
+    <entree>Semaine Sainte</entree>
+    <parent>temps liturgique</parent>
+  </term>
+  <term>
+    <entree>sérénade</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>service en musique</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>service funèbre</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>service solennel</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>sexte</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>siège</entree>
+    <enfant>siège de Charleroi</enfant>
+    <enfant>siège de Mons</enfant>
+    <enfant>siège de Namur</enfant>
+    <enfant>siège de Vienne</enfant>
+    <parent>affaires militaires</parent>
+  </term>
+  <term>
+    <entree>siège de Charleroi</entree>
+    <parent>siège</parent>
+  </term>
+  <term>
+    <entree>siège de Mons</entree>
+    <parent>siège</parent>
+  </term>
+  <term>
+    <entree>siège de Namur</entree>
+    <parent>siège</parent>
+  </term>
+  <term>
+    <entree>siège de Vienne</entree>
+    <parent>siège</parent>
+  </term>
+  <term>
+    <entree>sociabilité</entree>
+    <enfant>conversation</enfant>
+    <enfant>galanterie</enfant>
+    <enfant>lecture d'oeuvre dramatique</enfant>
+    <enfant>salon</enfant>
+    <enfant>sociabilité littéraire</enfant>
+    <enfant>sociabilité musicale</enfant>
+  </term>
+  <term>
+    <entree>sociabilité littéraire</entree>
+    <enfant>récitation de poésie</enfant>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>sociabilité musicale</entree>
+    <parent>sociabilité</parent>
+  </term>
+  <term>
+    <entree>soirées d'appartement</entree>
+    <parent>divertissement</parent>
+    <formeRejetee>appartements</formeRejetee>
+  </term>
+  <term>
+    <entree>sonnet</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>sonnettes</entree>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>soufflet d'orgue</entree>
+    <parent>orgue</parent>
+  </term>
+  <term>
+    <entree>souper</entree>
+    <parent>repas</parent>
+  </term>
+  <term>
+    <entree>souper du roi</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>Subvenite</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>suite de danses</entree>
+    <parent>suite instrumentale</parent>
+  </term>
+  <term>
+    <entree>suite instrumentale</entree>
+    <enfant>suite de danses</enfant>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>Super flumina Babylonis</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>symphonie</entree>
+    <enfant>symphonie champêtre</enfant>
+    <parent>musique instrumentale</parent>
+  </term>
+  <term>
+    <entree>symphonie champêtre</entree>
+    <parent>symphonie</parent>
+  </term>
+  <term>
+    <entree>tablature</entree>
+    <parent>notation musicale</parent>
+  </term>
+  <term>
+    <entree>taille de violon</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>tambour</entree>
+    <enfant>tambour de basque</enfant>
+    <enfant>tambour de guerre</enfant>
+    <enfant>tambour du Siam</enfant>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>tambour de basque</entree>
+    <parent>tambour</parent>
+  </term>
+  <term>
+    <entree>tambour de guerre</entree>
+    <parent>tambour</parent>
+  </term>
+  <term>
+    <entree>tambour du Siam</entree>
+    <parent>tambour</parent>
+  </term>
+  <term>
+    <entree>tapisserie</entree>
+  </term>
+  <term>
+    <entree>Te Deum laudamus</entree>
+    <enfant>Te Deum laudamus en musique</enfant>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Te Deum laudamus en musique</entree>
+    <parent>Te Deum laudamus</parent>
+  </term>
+  <term>
+    <entree>temps liturgique</entree>
+    <enfant>Avent</enfant>
+    <enfant>Semaine Sainte</enfant>
+    <enfant>carême</enfant>
+  </term>
+  <term>
+    <entree>testament</entree>
+    <parent>vie privée</parent>
+  </term>
+  <term>
+    <entree>textes liturgiques</entree>
+    <enfant>Attollite portas principes</enfant>
+    <enfant>Benedictus</enfant>
+    <enfant>Benedictus Dominus Deus Israel</enfant>
+    <enfant>Cantate Domino canticum novum</enfant>
+    <enfant>De profundis clamavi</enfant>
+    <enfant>Deus noster refugium et virtus</enfant>
+    <enfant>Domine in virtute tua</enfant>
+    <enfant>Domine salvum fac regem</enfant>
+    <enfant>Ecce crucem Domini</enfant>
+    <enfant>Exaudiat te Dominus</enfant>
+    <enfant>In exitu Israel</enfant>
+    <enfant>Iste confessor</enfant>
+    <enfant>Laudate</enfant>
+    <enfant>Libera me</enfant>
+    <enfant>Libera me en musique</enfant>
+    <enfant>Miserere mei Deus</enfant>
+    <enfant>Nunc dimittis servum tuum</enfant>
+    <enfant>Pange lingua gloriosi corporis</enfant>
+    <enfant>Subvenite</enfant>
+    <enfant>Super flumina Babylonis</enfant>
+    <enfant>Te Deum laudamus</enfant>
+    <enfant>Usquequo Domine obliviceris</enfant>
+    <enfant>Veni creator spiritus mentes</enfant>
+    <enfant>antienne</enfant>
+    <enfant>hymne</enfant>
+    <enfant>introït</enfant>
+    <enfant>litanies</enfant>
+    <enfant>oraison</enfant>
+    <enfant>psaume</enfant>
+    <enfant>psaume réformé</enfant>
+    <enfant>répons</enfant>
+    <enfant>verset</enfant>
+  </term>
+  <term>
+    <entree>théâtre</entree>
+    <enfant>théâtre d'opéra</enfant>
+    <enfant>théâtre éphémère</enfant>
+  </term>
+  <term>
+    <entree>théâtre d'opéra</entree>
+    <parent>théâtre</parent>
+  </term>
+  <term>
+    <entree>théâtre de collège</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>théâtre éphémère</entree>
+    <parent>théâtre</parent>
+  </term>
+  <term>
+    <entree>théâtre spirituel</entree>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>théorbe</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>théorie de la danse</entree>
+    <enfant>classification des danses</enfant>
+  </term>
+  <term>
+    <entree>théorie de la musique</entree>
+    <enfant>accord des instruments</enfant>
+    <enfant>consonance</enfant>
+    <enfant>gamme musicale</enfant>
+    <enfant>harmonie</enfant>
+    <enfant>intervalle</enfant>
+    <enfant>modalité</enfant>
+    <enfant>notation musicale</enfant>
+    <enfant>tons de la musique</enfant>
+  </term>
+  <term>
+    <entree>théorie des passions</entree>
+    <enfant>passion en musique</enfant>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>tierce</entree>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>timbale</entree>
+    <enfant>timbale du Siam</enfant>
+    <parent>instrument à percussion</parent>
+  </term>
+  <term>
+    <entree>timbale du Siam</entree>
+    <parent>timbale</parent>
+  </term>
+  <term>
+    <entree>timbalier</entree>
+    <parent>interprète</parent>
+  </term>
+  <term>
+    <entree>timbre</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>toccade</entree>
+    <formeAutorite>toccata</formeAutorite>
+  </term>
+  <term>
+    <entree>toccata</entree>
+    <parent>procédés de composition musicale</parent>
+    <formeRejetee>toccade</formeRejetee>
+  </term>
+  <term>
+    <entree>tons de la musique</entree>
+    <parent>théorie de la musique</parent>
+  </term>
+  <term>
+    <entree>touche de clavier</entree>
+    <parent>claviers</parent>
+  </term>
+  <term>
+    <entree>tournoi</entree>
+    <parent>divertissement</parent>
+  </term>
+  <term>
+    <entree>Toussaint</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>tradition</entree>
+    <enfant>charivari</enfant>
+    <enfant>coutume locale</enfant>
+    <enfant>coutume musicale</enfant>
+    <enfant>coutume étrangère</enfant>
+  </term>
+  <term>
+    <entree>traduction</entree>
+    <parent>procédés de composition littéraire</parent>
+  </term>
+  <term>
+    <entree>tragédie</entree>
+    <enfant>tragédie antique</enfant>
+    <enfant>tragédie biblique</enfant>
+    <enfant>tragédie de collège</enfant>
+    <enfant>tragédie funèbre</enfant>
+    <enfant>tragédie à machines</enfant>
+    <parent>genres littéraires</parent>
+  </term>
+  <term>
+    <entree>tragédie à machines</entree>
+    <parent>tragédie</parent>
+  </term>
+  <term>
+    <entree>tragédie antique</entree>
+    <enfant>tragédie grecque</enfant>
+    <parent>tragédie</parent>
+  </term>
+  <term>
+    <entree>tragédie biblique</entree>
+    <parent>tragédie</parent>
+  </term>
+  <term>
+    <entree>tragédie de collège</entree>
+    <parent>tragédie</parent>
+  </term>
+  <term>
+    <entree>tragédie en musique</entree>
+    <enfant>prologue d'opéra</enfant>
+    <parent>opéra</parent>
+    <formeRejetee>opéra français</formeRejetee>
+    <formeRejetee>tragédie lyrique</formeRejetee>
+  </term>
+  <term>
+    <entree>tragédie funèbre</entree>
+    <parent>tragédie</parent>
+  </term>
+  <term>
+    <entree>tragédie grecque</entree>
+    <parent>tragédie antique</parent>
+  </term>
+  <term>
+    <entree>tragédie lyrique</entree>
+    <formeAutorite>tragédie en musique</formeAutorite>
+  </term>
+  <term>
+    <entree>tragédie-ballet</entree>
+    <parent>musique de scène</parent>
+  </term>
+  <term>
+    <entree>traité</entree>
+    <enfant>traité d'organologie</enfant>
+    <enfant>traité de musique</enfant>
+    <parent>ouvrage théorique</parent>
+  </term>
+  <term>
+    <entree>traité d'organologie</entree>
+    <parent>traité</parent>
+  </term>
+  <term>
+    <entree>traité de musique</entree>
+    <parent>traité</parent>
+  </term>
+  <term>
+    <entree>transcription</entree>
+    <enfant>transcription instrumentale de musique vocale</enfant>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>transcription instrumentale de musique vocale</entree>
+    <parent>transcription</parent>
+  </term>
+  <term>
+    <entree>translation de coeur</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>translation de reliques</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>translation du Saint-Sacrement</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>travestissement</entree>
+  </term>
+  <term>
+    <entree>tremblement</entree>
+    <parent>ornementation</parent>
+  </term>
+  <term>
+    <entree>trève</entree>
+    <enfant>trève de Ratisbonne</enfant>
+    <enfant>trève de Vasvar</enfant>
+    <parent>vie militaire</parent>
+  </term>
+  <term>
+    <entree>trève de Ratisbonne</entree>
+    <parent>trève</parent>
+  </term>
+  <term>
+    <entree>trève de Vasvar</entree>
+    <parent>trève</parent>
+  </term>
+  <term>
+    <entree>Trinité</entree>
+    <parent>fête religieuse</parent>
+  </term>
+  <term>
+    <entree>trio</entree>
+    <parent>procédés de composition musicale</parent>
+  </term>
+  <term>
+    <entree>trompe</entree>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>trompette</entree>
+    <enfant>trompette du Siam</enfant>
+    <parent>instrument à vent</parent>
+  </term>
+  <term>
+    <entree>trompette du Siam</entree>
+    <parent>trompette</parent>
+  </term>
+  <term>
+    <entree>trompette marine</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>tuyaux d'orgue</entree>
+    <parent>orgue</parent>
+  </term>
+  <term>
+    <entree>type de musique</entree>
+    <enfant>musique champêtre</enfant>
+    <enfant>musique chinoise</enfant>
+    <enfant>musique de cérémonie civile</enfant>
+    <enfant>musique de cérémonie funèbre</enfant>
+    <enfant>musique de cérémonie militaire</enfant>
+    <enfant>musique de cérémonie religieuse</enfant>
+    <enfant>musique de plein air</enfant>
+    <enfant>musique de réjouissance publique</enfant>
+    <enfant>musique de table</enfant>
+    <enfant>musique dialoguée</enfant>
+    <enfant>musique du Siam</enfant>
+    <enfant>musique espagnole</enfant>
+    <enfant>musique française</enfant>
+    <enfant>musique funèbre</enfant>
+    <enfant>musique guerrière</enfant>
+    <enfant>musique italienne</enfant>
+    <enfant>musique militaire</enfant>
+    <enfant>musique moscovite</enfant>
+    <enfant>musique polychorale</enfant>
+    <enfant>musique religieuse</enfant>
+    <enfant>musique syrienne</enfant>
+  </term>
+  <term>
+    <entree>union de la musique française et italienne</entree>
+    <parent>esthétique</parent>
+  </term>
+  <term>
+    <entree>Usquequo Domine obliviceris</entree>
+    <enfant>Usquequo Domine obliviceris en musique</enfant>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Usquequo Domine obliviceris en musique</entree>
+    <parent>Usquequo Domine obliviceris</parent>
+  </term>
+  <term>
+    <entree>vaudeville</entree>
+    <parent>musique vocale</parent>
+  </term>
+  <term>
+    <entree>veillée funèbre</entree>
+    <parent>cérémonies publiques et religieuses</parent>
+  </term>
+  <term>
+    <entree>Veni creator spiritus mentes</entree>
+    <enfant>Veni creator spiritus mentes en musique</enfant>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>Veni creator spiritus mentes en musique</entree>
+    <parent>Veni creator spiritus mentes</parent>
+  </term>
+  <term>
+    <entree>vente de bibliothèque</entree>
+    <parent>vie privée</parent>
+  </term>
+  <term>
+    <entree>vents</entree>
+    <enfant>anche</enfant>
+    <parent>organologie</parent>
+  </term>
+  <term>
+    <entree>vêpres</entree>
+    <enfant>vêpres des morts</enfant>
+    <enfant>vêpres en musique</enfant>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>vêpres des morts</entree>
+    <parent>vêpres</parent>
+  </term>
+  <term>
+    <entree>vêpres en musique</entree>
+    <parent>vêpres</parent>
+  </term>
+  <term>
+    <entree>vers mis en musique</entree>
+  </term>
+  <term>
+    <entree>verset</entree>
+    <parent>textes liturgiques</parent>
+  </term>
+  <term>
+    <entree>versification</entree>
+    <enfant>versification libre</enfant>
+  </term>
+  <term>
+    <entree>versification libre</entree>
+    <parent>versification</parent>
+  </term>
+  <term>
+    <entree>victoire militaire</entree>
+    <enfant>prise de Barcelone</enfant>
+    <enfant>prise de Heidelberg</enfant>
+    <enfant>prise de Mons</enfant>
+    <enfant>prise de Montmélian</enfant>
+    <enfant>prise de Namur</enfant>
+    <enfant>prise de Nice</enfant>
+    <enfant>prise de Palamos</enfant>
+    <parent>vie militaire</parent>
+  </term>
+  <term>
+    <entree>vie académique</entree>
+    <enfant>création d'académie</enfant>
+    <enfant>monopole de l'opéra</enfant>
+    <enfant>élection d'un académicien</enfant>
+    <enfant>établissement d'un théâtre</enfant>
+    <enfant>établissement d'une académie royale de musique</enfant>
+    <enfant>établissement d'une école de mathématiques</enfant>
+  </term>
+  <term>
+    <entree>vie administrative</entree>
+    <enfant>nomination d'un ambassadeur</enfant>
+    <enfant>nomination de membres du conseil de ville</enfant>
+    <enfant>établissement d'un hôpital</enfant>
+    <enfant>établissement d'une institution</enfant>
+    <enfant>établissement de chancellerie</enfant>
+  </term>
+  <term>
+    <entree>vie militaire</entree>
+    <enfant>défaite militaire</enfant>
+    <enfant>retour de campagne</enfant>
+    <enfant>revue militaire</enfant>
+    <enfant>trève</enfant>
+    <enfant>victoire militaire</enfant>
+  </term>
+  <term>
+    <entree>vie privée</entree>
+    <enfant>anniversaire</enfant>
+    <enfant>deuil</enfant>
+    <enfant>décès</enfant>
+    <enfant>testament</enfant>
+    <enfant>vente de bibliothèque</enfant>
+    <parent>vie sociale</parent>
+  </term>
+  <term>
+    <entree>vie quotidienne</entree>
+    <parent>vie sociale</parent>
+  </term>
+  <term>
+    <entree>vie religieuse</entree>
+    <enfant>assemblée synodale</enfant>
+    <enfant>conférence ecclésiastique</enfant>
+    <enfant>fondation d'un couvent</enfant>
+    <enfant>fondation d'un office</enfant>
+    <enfant>mandement</enfant>
+    <enfant>noviciat</enfant>
+    <enfant>prédication</enfant>
+    <enfant>élection d'un doyen</enfant>
+    <enfant>élection d'un prince-évêque</enfant>
+    <enfant>établissement d'une communauté religieuse</enfant>
+    <enfant>établissement d'une congrégation</enfant>
+    <enfant>établissement d'une paroisse</enfant>
+  </term>
+  <term>
+    <entree>vie sociale</entree>
+    <enfant>vie privée</enfant>
+    <enfant>vie quotidienne</enfant>
+  </term>
+  <term>
+    <entree>vièle</entree>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>vigiles</entree>
+    <enfant>vigiles en musique</enfant>
+    <parent>offices liturgiques</parent>
+  </term>
+  <term>
+    <entree>vigiles en musique</entree>
+    <parent>vigiles</parent>
+  </term>
+  <term>
+    <entree>viole</entree>
+    <formeAutorite>viole de gambe</formeAutorite>
+  </term>
+  <term>
+    <entree>viole de gambe</entree>
+    <parent>instrument à cordes</parent>
+    <formeRejetee>viole</formeRejetee>
+  </term>
+  <term>
+    <entree>violon</entree>
+    <enfant>violon français</enfant>
+    <parent>instrument à cordes</parent>
+  </term>
+  <term>
+    <entree>violon français</entree>
+    <parent>violon</parent>
+  </term>
+  <term>
+    <entree>voix humaine</entree>
+  </term>
+  <term>
+    <entree>voyage</entree>
+    <enfant>voyage officiel</enfant>
+    <enfant>voyage princier</enfant>
+  </term>
+  <term>
+    <entree>voyage officiel</entree>
+    <parent>voyage</parent>
+  </term>
+  <term>
+    <entree>voyage princier</entree>
+    <parent>voyage</parent>
+  </term>
+  <term>
+    <entree>vraisemblance</entree>
+    <parent>poétique</parent>
+  </term>
+  <term>
+    <entree>Wirtschafft</entree>
+    <formeAutorite>mascarade allemande</formeAutorite>
+  </term>
+</terms>
