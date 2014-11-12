@@ -1,4 +1,6 @@
 <?php
+ini_set("display_errors",0);
+error_reporting(0);
 include_once(dirname(__FILE__).'/../teipub/Teipub.php');
 
 // cli usage
@@ -6,50 +8,96 @@ set_time_limit(-1);
 if (php_sapi_name() == "cli") Mercure::doCli();
 
 class Mercure {
-  /** file path of OWL file */
-  private $owlFile;
-  /** analyseur XML (XMLReader) */
-  private $reader;
-  
+  private static $pdo;
+  private $owlFile; //file path of OWL file
+  private $reader; //analyseur XML (XMLReader)
+  const OBUL = 67; // ontology base URL length (http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#)
   
   function __construct($owlFile) {
     $this->owlFile = $owlFile;
     $this->reader = new XMLReader();
   }
   
+  private function connect($sqlFile) {
+  if (!file_exists($sqlFile)) exit($sqlFile." doesn’t exist!\n");
+  else {
+    self::$pdo=new PDO("sqlite:".$sqlFile);
+    self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
+    }
+  } 
 
-  public function liste() {
-    //print $this->owlFile . "\n";
+  public function owl2sqlite() {
+    self::connect('./mercure-galant.sqlite');// en dur!
+    // input: fichier RDF/XML (.owl) produit à l’export par WebProtege
     if (!$this->reader->open($this->owlFile)) die("Impossible d’ouvrir le fichier OWL");
     while($this->reader->read()) {
-      /*
-      if ($this->reader->nodeType == XMLReader::ELEMENT && $this->reader->name == 'NamedIndividual') {
-        print substr($this->reader->getAttribute('IRI'),1) . "\n";
-      }
-      */
-      if ($this->reader->name == 'ClassAssertion') {
-        //$item = array();
+      if ($this->reader->name == 'owl:NamedIndividual') {
         $node = new SimpleXMLElement($this->reader->readOuterXml());
-        switch($node->Class['IRI']) {
-          //sortir la liste des formes d’autorité
-          case '#AuthorityForm':
-          print "AUTORITÉ: " . substr($node->NamedIndividual['IRI'][0],1) . "\n";
-          break;
+        // TODO: impossible de se débarasser de ce warning de merde
+        $classeURL = strval($node->children('rdf',TRUE)->type->attributes('rdf',TRUE)->resource);
+        $classe = substr($classeURL,Mercure::OBUL);
+        switch($classe) {
+          // table contains (artid, termid, termtype)
+          case 'Article':
+            $article = substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL); // id de l’article
+            foreach($node->children()->contains_person as $person) {
+              $personid = substr($person->attributes('rdf',TRUE)->resource,Mercure::OBUL);
+              print $article . " contains_person " . $personid ." [type:person]\n";
+              //insertion en base
+              $insert = self::$pdo->prepare("INSERT into ontology_contains (article_id, indexentry_id, indexentry_type) VALUES (?, ?, ?)");
+              $insert->execute(array($article, $personid, 'person'));
+            }
+            foreach($node->children()->contains_topic as $topic) {
+              $topicid = substr($topic->attributes('rdf',TRUE)->resource,Mercure::OBUL);
+              print $article . " contains_topic " . $topicid ." [type:topic]\n";
+              //insertion en base
+              $insert = self::$pdo->prepare("INSERT into ontology_contains (article_id, indexentry_id, indexentry_type) VALUES (?, ?, ?)");
+              $insert->execute(array($article, $topicid, 'topic'));
+            }            
+            break;
+          // table AuthorityPersonForm (apfid, label, comment)
+          case 'AuthorityPersonForm':
+            $apfid = substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL);
+            $apflabel = $node->children('rdfs',TRUE)->label;
+            $apfcomment = $node->children('rdfs',TRUE)->comment;
+            print $apfid . " | " . $apflabel . " | " . $apfcomment . "\n";
+            //insertion en base
+            $insert = self::$pdo->prepare("INSERT into ontology_authority_person_form (id, label, comment) VALUES (?, ?, ?)");
+            $insert->execute(array($apfid, $apflabel, $apfcomment));
+            break;
+          // table RejectedPersonForm (rpfid, label, apfid)
+          case 'RejectedPersonForm':
+            $rpfid = substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL);
+            $rpflabel = $node->children('rdfs',TRUE)->label;
+            $apfid = substr($node->children()->is_rejected_person_form_of->attributes('rdf',TRUE)->resource,Mercure::OBUL);
+            print $rpfid . " | " . $rpflabel . " | POUR: " . $apfid . "\n";
+            // insertion en base
+            $insert = self::$pdo->prepare("INSERT into ontology_rejected_person_form (id, label, apf_id) VALUES (?, ?, ?)");
+            $insert->execute(array($apfid, $apflabel, $apfid));
+            break;
         }
       }
-      if ($this->reader->name == 'ObjectPropertyAssertion') {
+      // table Topic (topicid, topiclabel, parent)
+      elseif ($this->reader->name == 'owl:Class') {
         $node = new SimpleXMLElement($this->reader->readOuterXml());
-        switch($node->ObjectProperty['IRI']) {
-          case '#isAuthorityFormOf':
-            print "RELATION: " . $node->NamedIndividual[0]['IRI'][0] . " isAuthorityFormOf " . $node->NamedIndividual[1]['IRI'][0] . "\n";
-            break;
-          case '#contains':
-            print "CONTAINS: " . $node->NamedIndividual[0]['IRI'][0] . " contains " . $node->NamedIndividual[1]['IRI'][0] . "\n";
-            break;
+        $parent = substr($node->children(rdfs,TRUE)->subClassOf->attributes('rdf',TRUE)->resource,Mercure::OBUL);
+        $skip = array("Article","AuthorityPersonForm","PersonForm","RejectedPersonForm");// super chip (utile a priori que pour PersonForm)...
+        if($parent && !in_array($parent,$skip)) {
+          $topicid = substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL);
+          $topiclabel = $node->children('rdfs',TRUE)->label;
+          echo "TOPIC: " . $topicid . " (" . $topiclabel . "): enfant de " . $parent . "\n";
+          // insertion en base
+          $insert = self::$pdo->prepare("INSERT into ontology_topic (id, label, parent) VALUES (?, ?, ?)");
+          $insert->execute(array($topicid, $topiclabel, $parent));
         }
       }
     }
     $this->reader->close();
+  }
+  
+  private function owlTables() {
+    self::connect('./mercure-galant.sqlite');// en dur!
+    self::$pdo->exec(file_get_contents(dirname(__FILE__).'/ontology.sql'));
   }
 
 
@@ -57,29 +105,111 @@ class Mercure {
   public static function doCli() {
     $timeStart = microtime(true);
     array_shift($_SERVER['argv']); // shift arg 1, the script filepath
-    if (!count($_SERVER['argv'])) exit("usage : php -f Mercure.php (liste|todo) (src.owx)\n");
+    if (!count($_SERVER['argv'])) exit("usage : php -f Mercure.php (owl2sqlite|owlTables) (src.owx)\n");
     $method=null;//method to call
     $owlFile=null;//XML src
     $dest=null;
     $args=array();
     while ($arg=array_shift($_SERVER['argv'])) {
       // method
-      if ($arg=="liste" || $arg=="todo") $method=$arg;
+      if ($arg=="owl2sqlite" || $arg=="owlTables") $method=$arg;
       // first non method argument is supposed to be the source document
       else if(!$owlFile) $owlFile=$arg;
-      // record other args for some commands
       else $args[]=$arg;
     }
     switch ($method) {
-      case "liste":
+      case "owl2sqlite":
         $mercure = new Mercure($owlFile);
-        $mercure->liste();
+        $mercure->owl2sqlite();
         break;
-      case "todo":
-        echo "method todo\n";
+      case "owlTables":
+        $mercure = new Mercure();
+        $mercure->owlTables();
         break;
     }
   }
 }
+
+
+
+/********************* Memo et doc */
+
+/*
+ * doc RDF/XML pour création de la table contains
+ *
+ *
+ *
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#1672-01_065">
+    <rdf:type rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#Article"/>
+    <url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1672-01/MG-1672-01_065</url>
+    <contains_person rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#LOIR,_Mr_du"/>
+    <contains_person rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#RACINE,_Jean_[1639-1699]"/>
+    <contains_topic rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#actualité_théâtrale"/>
+    <contains_topic rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#commentaire_de_l&apos;intrigue"/>
+    <contains_topic rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#création_d&apos;oeuvre"/>
+    <contains_topic rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#exotisme"/>
+    <contains_topic rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#tragédie"/>
+  </owl:NamedIndividual>      
+*/
+
+/*
+ * doc RDF/XML pour création de la table AuthorityPersonForm
+ *
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#FONTMORT,_Mr_de">
+    <rdf:type rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#AuthorityPersonForm"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FONTMORT, Mr de</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">président et lieutenant général à Niort (1685.11 et 1692.08).</rdfs:comment>
+  </owl:NamedIndividual>
+*/
+
+/*
+ * doc RDF/XML pour création de la table RejectedPersonForm
+ *
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#LOUIS_DE_FRANCE_[1682-1712]">
+    <rdf:type rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#RejectedPersonForm"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LOUIS DE FRANCE [1682-1712]</rdfs:label>
+    <is_rejected_person_form_of rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#BOURGOGNE,_Louis_de_France_[1682-1712],_duc_de"/>
+  </owl:NamedIndividual>
+*/
+
+/*
+ * doc RDF/XML pour création de la table Topic
+ *
+  <owl:Class rdf:about="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#versification">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">versification</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#Topic"/>
+  </owl:Class>
+*/
+ 
+
+/*
+ * sérialisation OWL/XML (que des triplets) : mercure-galant.owx
+ * 
+  if ($this->reader->name == 'ClassAssertion') {
+    $node = new SimpleXMLElement($this->reader->readOuterXml());
+    switch($node->Class['IRI']) {
+    //sortir la liste des formes d’autorité
+    case '#AuthorityPersonForm':
+      print "AUTORITÉ: " . substr($node->NamedIndividual['IRI'][0],1) . "\n";
+      break;
+    }
+  }
+  if ($this->reader->name == 'ObjectPropertyAssertion') {
+    $node = new SimpleXMLElement($this->reader->readOuterXml());
+    switch($node->ObjectProperty['IRI']) {
+      case '#is_authority_person_form_of':
+        print "RELATION: " . $node->NamedIndividual[0]['IRI'][0] . " is_authority_person_form_of " . $node->NamedIndividual[1]['IRI'][0] . "\n";
+        break;
+      case '#contains_person':
+        print "CONTAINS: " . $node->NamedIndividual[0]['IRI'][0] . " contains_person " . $node->NamedIndividual[1]['IRI'][0] . "\n";
+        break;
+    }
+  }
+*/
+
+
+
+
+
 
 ?>
