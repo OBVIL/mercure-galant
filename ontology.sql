@@ -15,7 +15,7 @@ CREATE TABLE ontology_topic (
   parent    TEXT NOT NULL
 );
 CREATE TABLE ontology_contains (
-  article_id      TEXT NOT NULL,
+  article_id      TEXT NOT NULL REFERENCES article(name),
   indexentry_id   TEXT NOT NULL,
   indexentry_type TEXT NOT NULL   -- topic or person
 )

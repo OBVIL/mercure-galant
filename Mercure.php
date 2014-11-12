@@ -39,7 +39,7 @@ class Mercure {
         switch($classe) {
           // table contains (artid, termid, termtype)
           case 'Article':
-            $article = substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL); // id de l’article
+            $article = "MG-".substr($node->attributes('rdf',TRUE)->about,Mercure::OBUL); // id de l’article
             foreach($node->children()->contains_person as $person) {
               $personid = substr($person->attributes('rdf',TRUE)->resource,Mercure::OBUL);
               print $article . " contains_person " . $personid ." [type:person]\n";
@@ -73,7 +73,7 @@ class Mercure {
             print $rpfid . " | " . $rpflabel . " | POUR: " . $apfid . "\n";
             // insertion en base
             $insert = self::$pdo->prepare("INSERT into ontology_rejected_person_form (id, label, apf_id) VALUES (?, ?, ?)");
-            $insert->execute(array($apfid, $apflabel, $apfid));
+            $insert->execute(array($rpfid, $rpflabel, $rpfid));
             break;
         }
       }
@@ -206,10 +206,4 @@ class Mercure {
     }
   }
 */
-
-
-
-
-
-
 ?>
