@@ -5,6 +5,9 @@ error_reporting(-1);
 include (dirname(__FILE__).'/../teipot/Teipot.php');
 // mettre le sachet SQLite dans le pot
 $pot=new Teipot(dirname(__FILE__).'/mercure-galant.sqlite', 'fr');
+// classe mercure pour gestion de l’indexation
+include (dirname(__FILE__).'/Mercure.php');
+$mercure=new Mercure;
 // est-ce qu’un fichier statique (ex: epub) est attendu pour ce chemin ? 
 // Si oui, l’envoyer maintenant depuis la base avant d’avoir écrit la moindre ligne
 $pot->file($pot->path);
@@ -107,6 +110,14 @@ if (isset($doc['body'])) {
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
+// indexation persons
+elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
+  $mercure->printPersonIndex();
+}
+elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='topics') {
+  $mercure->printTopicIndex();
+}
+
 // pas de livre demandé, montrer un rapport général
 else {
   // présentation du corpus
