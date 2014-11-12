@@ -73,7 +73,7 @@ class Mercure {
             print $rpfid . " | " . $rpflabel . " | POUR: " . $apfid . "\n";
             // insertion en base
             $insert = self::$pdo->prepare("INSERT into ontology_rejected_person_form (id, label, apf_id) VALUES (?, ?, ?)");
-            $insert->execute(array($rpfid, $rpflabel, $rpfid));
+            $insert->execute(array($rpfid, $rpflabel, $apfid));
             break;
         }
       }
