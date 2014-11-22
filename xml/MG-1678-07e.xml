@@ -10,27 +10,29 @@
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IREMUS</edition>
-<respStmt>
+        <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable d'édition</resp>
-        </respStmt>         
-<respStmt>
+        </respStmt>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Benjamin Frouin</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
           <name>Alexandre De Craim</name>
           <resp>Édition numérique</resp>
         </respStmt>
-<respStmt>
-          <name>Frédéric Glorieux</name>
+        <respStmt>
+          <name>Vincent Jolivet</name>
           <resp>Édition numérique</resp>
         </respStmt>
-<respStmt><name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-</respStmt>
-<respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Transcription</resp></respStmt>
-<respStmt>
-          <name>Benjamin Frouin</name>
-          <resp>Transcription</resp>
+        <respStmt>
+          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
