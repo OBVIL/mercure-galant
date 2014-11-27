@@ -34,6 +34,7 @@ else echo '
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo $pot->basehref; ?>mercure-galant.css"/>
     <style type="text/css">
       div.snip a.bookmark { display: none; }
       figure img {width: 650px;}
@@ -106,6 +107,7 @@ if (isset($doc['prevnext'])) echo $doc['prevnext'];
           <div id="article">
             <?php
 if (isset($doc['body'])) {
+  $mercure->printTags();
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
