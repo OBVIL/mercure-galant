@@ -1,6 +1,7 @@
 <?php
-ini_set("display_errors",0);
-error_reporting(0);
+//ini_set("display_errors",0);
+error_reporting(E_ALL);
+//error_reporting(0);
 include_once(dirname(__FILE__).'/../teipub/Teipub.php');
 
 // cli usage
@@ -48,14 +49,14 @@ class Mercure {
               $personid = substr($person->attributes('rdf',TRUE)->resource,Mercure::OBUL);
               print $article . " contains_person " . $personid ." [type:person]\n";
               //insertion en base
-              $insert = self::$pdo->prepare("INSERT into ontology_contains (article_id, indexentry_id, indexentry_type) VALUES (?, ?, ?)");
+              $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
               $insert->execute(array($article, $personid, 'person'));
             }
             foreach($node->children()->contains_topic as $topic) {
               $topicid = substr($topic->attributes('rdf',TRUE)->resource,Mercure::OBUL);
               print $article . " contains_topic " . $topicid ." [type:topic]\n";
               //insertion en base
-              $insert = self::$pdo->prepare("INSERT into ontology_contains (article_id, indexentry_id, indexentry_type) VALUES (?, ?, ?)");
+              $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
               $insert->execute(array($article, $topicid, 'topic'));
             }            
             break;
@@ -65,9 +66,12 @@ class Mercure {
             $apflabel = $node->children('rdfs',TRUE)->label;
             $apfcomment = $node->children('rdfs',TRUE)->comment;
             print $apfid . " | " . $apflabel . " | " . $apfcomment . "\n";
-            //insertion en base
-            $insert = self::$pdo->prepare("INSERT into ontology_authority_person_form (id, label, comment) VALUES (?, ?, ?)");
+            //insertion table des formes d’autorité
+            $insert = self::$pdo->prepare("INSERT into owl_person_authorityForm (id, label, comment) VALUES (?, ?, ?)");
             $insert->execute(array($apfid, $apflabel, $apfcomment));
+            //insertion table de tous les tags
+            $insert = self::$pdo->prepare("INSERT into owl_allTags (id, label, type) VALUES (?, ?, ?)");
+            $insert->execute(array($apfid, $apflabel, 'person'));
             break;
           // table RejectedPersonForm (rpfid, label, apfid)
           case 'RejectedPersonForm':
@@ -76,7 +80,7 @@ class Mercure {
             $apfid = substr($node->children()->is_rejected_person_form_of->attributes('rdf',TRUE)->resource,Mercure::OBUL);
             print $rpfid . " | " . $rpflabel . " | POUR: " . $apfid . "\n";
             // insertion en base
-            $insert = self::$pdo->prepare("INSERT into ontology_rejected_person_form (id, label, apf_id) VALUES (?, ?, ?)");
+            $insert = self::$pdo->prepare("INSERT into owl_person_rejectedForm (id, label, apf_id) VALUES (?, ?, ?)");
             $insert->execute(array($rpfid, $rpflabel, $apfid));
             break;
         }
@@ -91,12 +95,27 @@ class Mercure {
           $topiclabel = $node->children('rdfs',TRUE)->label;
           echo "TOPIC: " . $topicid . " (" . $topiclabel . "): enfant de " . $parent . "\n";
           // insertion en base
-          $insert = self::$pdo->prepare("INSERT into ontology_topic (id, label, parent) VALUES (?, ?, ?)");
+          $insert = self::$pdo->prepare("INSERT INTO owl_topic (id, label, parent) VALUES (?, ?, ?)");
           $insert->execute(array($topicid, $topiclabel, $parent));
+          //insertion table de tous les tags
+          $insert = self::$pdo->prepare("INSERT INTO owl_allTags (id, label, type) VALUES (?, ?, ?)");
+          $insert->execute(array($topicid, $topiclabel, 'topic'));
         }
       }
     }
     $this->reader->close();
+    // fin de la lecture on peut générer quelques tables utiles pour les traitements à venir
+    // une table avec tous les tags id, label, type
+    // TODO: implémenter trigger pour éviter le SELECT?
+    /*
+    $allTags='SELECT id, label FROM owl_person_authorityForm UNION SELECT id, label FROM owl_topic';
+    foreach(self::$pdo->query($allTags) as $tag) {
+      $insert = self::$pdo->prepare("INSERT into owl_allTags (id, label) VALUES (?, ?)");
+      $insert->execute(array($tag['id'], $tag['label']));
+    }
+    */
+    
+    
   }
   
   private function owlTables() {
@@ -105,7 +124,7 @@ class Mercure {
   }
   private function dropOwlTables() {
     self::connect('./mercure-galant.sqlite');// en dur!
-    $drop = self::$pdo->prepare("DROP TABLE ontology_authority_person_form; DROP TABLE ontology_contains; DROP TABLE ontology_rejected_person_form ; DROP TABLE ontology_topic");
+    $drop = self::$pdo->prepare("DROP TABLE owl_person_authorityForm; DROP TABLE owl_contains; DROP TABLE owl_person_rejectedForm ; DROP TABLE owl_topic");
     $drop->execute();
   }
   
@@ -114,23 +133,25 @@ class Mercure {
     // Chercher toutes les entrées d’index de type person présentes dans les documents publiés
     //NB: tous les articles indexés ne sont pas publiés (cf 3e cond. WHERE)
     //attention aux problèmes d’indexation cf Louis XIV en MG-1673-04_267 au lieu de MG-1673-04_266 -> lien crevé
-    $sql="SELECT DISTINCT indexentry_id, label
-      FROM ontology_contains, ontology_authority_person_form
-      WHERE ontology_contains.indexentry_id = ontology_authority_person_form.id
-        AND indexentry_type='person'
-        AND ontology_contains.article_id IN (SELECT name FROM article)
-      ORDER BY indexentry_id";
+    $sql="SELECT DISTINCT tag_id, label
+      FROM owl_contains, owl_person_authorityForm
+      WHERE owl_contains.tag_id = owl_person_authorityForm.id
+        AND tag_type='person'
+        AND owl_contains.article_id IN (SELECT name FROM article)
+      ORDER BY tag_id";
     print "<h1>Index des personnes</h1>";
     $i=1;
     foreach(self::$pdo->query($sql) as $person) {
       // dans la boucle, ramasser les id
       //print $i . ". ";
-      print $person['label']."<br/><ul>";
+      //@id pour lier les tags à la pages persons
+      // TODO : faire de même avec les topics
+      print '<span id="'.$person['tag_id'].'">'.$person['label'].'</span><br/><ul>';
       //chercher les docs où apparaissent les persons
       $sql='SELECT article_id, title, created
-        FROM ontology_contains, article
-        WHERE indexentry_id="'.$person['indexentry_id'].'"
-        AND ontology_contains.article_id = article.name';
+        FROM owl_contains, article
+        WHERE tag_id="'.$person['tag_id'].'"
+        AND owl_contains.article_id = article.name';
       foreach(self::$pdo->query($sql) as $article) {
         $article_url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
         print '<li>['.$article['created'].'] <a href="'.$article_url.'">'.$article['title'].'</a></li>';
@@ -142,26 +163,26 @@ class Mercure {
 
   public function printTopicIndex() {
     self::connect('./mercure-galant.sqlite');
-    $sql="SELECT DISTINCT indexentry_id, label
-      FROM ontology_contains, ontology_topic
-      WHERE ontology_contains.indexentry_id = ontology_topic.id
-        AND indexentry_type='topic'
-        AND ontology_contains.article_id IN (SELECT name FROM article)
-      ORDER BY indexentry_id";
+    $sql="SELECT DISTINCT tag_id, label
+      FROM owl_contains, owl_topic
+      WHERE owl_contains.tag_id = owl_topic.id
+        AND tag_type='topic'
+        AND owl_contains.article_id IN (SELECT name FROM article)
+      ORDER BY tag_id";
     print "<h1>Index des mots-clés</h1>";
     print '<ul class="tree">';
     foreach(self::$pdo->query($sql) as $topic) {
       //count pour la FLAMBE
       $occs='SELECT COUNT(article_id)
-        FROM ontology_contains
-        WHERE indexentry_id="'.$topic['indexentry_id'].'"';
+        FROM owl_contains
+        WHERE tag_id="'.$topic['tag_id'].'"';
       foreach(self::$pdo->query($occs) as $occs) $occs=$occs[0];
-      print '<li class="more">'.$topic['label']. ' ('.$occs.' occ)<ul>';
+      print '<li class="more" id="'.$topic['tag_id'].'">'.$topic['label']. ' ('.$occs.' occ)<ul>';
       //chercher les docs où apparaissent les persons
       $sql='SELECT article_id, title, created
-        FROM ontology_contains, article
-        WHERE indexentry_id="'.$topic['indexentry_id'].'"
-        AND ontology_contains.article_id = article.name';
+        FROM owl_contains, article
+        WHERE tag_id="'.$topic['tag_id'].'"
+        AND owl_contains.article_id = article.name';
       foreach(self::$pdo->query($sql) as $article) {
         $article_url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
         $article_year = '<a href="http://localhost/~bolsif/corpus/mercure-galant/?q=&start='.$article['created'].'">'.$article['created'].'</a>';
@@ -171,6 +192,25 @@ class Mercure {
     }
     echo "</ul>";
   }
+  
+  
+  public function printTags() {
+    $article_id = basename($_SERVER['REQUEST_URI']);
+    //echo $article_id;
+    self::connect('./mercure-galant.sqlite');
+    print '<div id="tags"><ul class="tree"><li class="more">Mots-clés<ul>';
+    $sql='SELECT id, label, type
+      FROM owl_allTags, owl_contains
+      WHERE owl_contains.article_id = "'.$article_id.'"
+      AND owl_contains.tag_id = owl_allTags.id';
+    foreach(self::$pdo->query($sql) as $tag) {
+      if ($tag['type']=="person") $page="persons";
+      elseif ($tag['type']=="topic") $page="topics";
+      print '<li><a href="../'.$page.'#'.$tag['id'].'">'.$tag['label'].'</a></li><br/>';
+    }
+    print '</ul></li></ul></div>';
+  }
+  
 
 
   public static function doCli() {
