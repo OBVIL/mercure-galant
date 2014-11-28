@@ -107,6 +107,7 @@ if (isset($doc['prevnext'])) echo $doc['prevnext'];
           <div id="article">
             <?php
 if (isset($doc['body'])) {
+  //TODO -- faire test sur la présence de tag ici or in méthode ?
   $mercure->printTags();
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
