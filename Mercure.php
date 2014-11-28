@@ -1,4 +1,5 @@
 <?php
+//TODO : écrire feature pour un doc similiaire (par ex. ayant au moins 2 tags en commun avec le doc courant)
 //ini_set("display_errors",0);
 error_reporting(E_ALL);
 //error_reporting(0);
@@ -133,7 +134,7 @@ class Mercure {
     // Chercher toutes les entrées d’index de type person présentes dans les documents publiés
     //NB: tous les articles indexés ne sont pas publiés (cf 3e cond. WHERE)
     //attention aux problèmes d’indexation cf Louis XIV en MG-1673-04_267 au lieu de MG-1673-04_266 -> lien crevé
-    $sql="SELECT DISTINCT tag_id, label
+    $sql="SELECT DISTINCT tag_id, label, comment
       FROM owl_contains, owl_person_authorityForm
       WHERE owl_contains.tag_id = owl_person_authorityForm.id
         AND tag_type='person'
@@ -146,7 +147,8 @@ class Mercure {
       //print $i . ". ";
       //@id pour lier les tags à la pages persons
       // TODO : faire de même avec les topics
-      print '<span id="'.$person['tag_id'].'">'.$person['label'].'</span><br/><ul>';
+      ($person['comment']!='') ? $comment=' –'.$person['comment'] : $comment=null;
+      print '<span id="'.$person['tag_id'].'">'.$person['label'].'</span> '.$comment.'<br/><ul>';
       //chercher les docs où apparaissent les persons
       $sql='SELECT article_id, title, created
         FROM owl_contains, article
@@ -170,7 +172,7 @@ class Mercure {
         AND owl_contains.article_id IN (SELECT name FROM article)
       ORDER BY tag_id";
     print "<h1>Index des mots-clés</h1>";
-    print '<ul class="tree">';
+    print '<div id="topics"><ul class="tree">';
     foreach(self::$pdo->query($sql) as $topic) {
       //count pour la FLAMBE
       $occs='SELECT COUNT(article_id)
@@ -190,7 +192,7 @@ class Mercure {
       }
       echo "</ul></li>";
     }
-    echo "</ul>";
+    echo "</ul></div>";
   }
   
   
@@ -198,20 +200,53 @@ class Mercure {
     $article_id = basename($_SERVER['REQUEST_URI']);
     //echo $article_id;
     self::connect('./mercure-galant.sqlite');
-    print '<div id="tags"><ul class="tree"><li class="more">Mots-clés<ul>';
     $sql='SELECT id, label, type
       FROM owl_allTags, owl_contains
       WHERE owl_contains.article_id = "'.$article_id.'"
       AND owl_contains.tag_id = owl_allTags.id';
+      //TODO: test si la requête renvoie des résultats
+    print '<div id="tags"><ul class="tree"><li>Mots-clés<ul>';
     foreach(self::$pdo->query($sql) as $tag) {
       if ($tag['type']=="person") $page="persons";
       elseif ($tag['type']=="topic") $page="topics";
       print '<li><a href="../'.$page.'#'.$tag['id'].'">'.$tag['label'].'</a></li><br/>';
     }
-    print '</ul></li></ul></div>';
+    print '</ul></li>
+    </ul></div>';
+    //TODO
+    //essayer de ramasser les articles qui partagent les mêmes tags
+    $tagSet=self::$pdo->query($sql)->fetchAll(PDO::FETCH_COLUMN, 'id');
+    $this->similarArt($tagSet, $article_id);
   }
   
-
+  //$art id de l’article contexte (ne pas sortir l’id de l’article courant)
+  //$tag = liste de tags en tableau
+  public function similarArt($tagSet, $art, $threshold=3) {
+    //print_r($tagSet);
+    //le tableau des articles par tag
+    $artByTag=array();
+    $select = self::$pdo->prepare("SELECT article_id FROM owl_contains WHERE tag_id = ? AND article_id != ?");
+    foreach($tagSet as $tag) {
+      $select->execute(array($tag,$art));
+      while ($row=$select->fetchAll(PDO::FETCH_COLUMN, 0)) {
+        //print_r($row);
+        $artByTag[$tag]=$row;
+      }
+      
+    }
+    //print_r($artByTag);//tous les articles indexés pour chaque tag
+    // voir le nombre
+    // toutes les occurrences d’un article dans un tableau
+    $allOcc=array(); // tous les articles (avec les doublons présents dans $artByTag)
+    foreach($artByTag as $tag) $allOcc=array_merge($allOcc,$tag);
+    //print_r($allOcc);
+    $vals = array_count_values($allOcc);//le nombre de tags en commun pour chaque article
+    //print_r($vals);
+    foreach($vals as $art => $occ) {
+      if ($occ>=$threshold) print "$occ tags communs avec $art<br/>";
+    }
+  }
+  
 
   public static function doCli() {
     $timeStart = microtime(true);
