@@ -219,32 +219,58 @@ class Mercure {
     $this->similarArt($tagSet, $article_id);
   }
   
-  //$art id de l’article contexte (ne pas sortir l’id de l’article courant)
+  //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
-  public function similarArt($tagSet, $art, $threshold=3) {
+  public function similarArt($tagSet, $currentArt, $threshold=3) {
     //print_r($tagSet);
     //le tableau des articles par tag
     $artByTag=array();
     $select = self::$pdo->prepare("SELECT article_id FROM owl_contains WHERE tag_id = ? AND article_id != ?");
     foreach($tagSet as $tag) {
-      $select->execute(array($tag,$art));
+      $select->execute(array($tag,$currentArt));
       while ($row=$select->fetchAll(PDO::FETCH_COLUMN, 0)) {
         //print_r($row);
         $artByTag[$tag]=$row;
       }
-      
     }
-    //print_r($artByTag);//tous les articles indexés pour chaque tag
+    //print_r($artByTag);//tous les articles indexés pour chaque tag de l’article courant
     // voir le nombre
     // toutes les occurrences d’un article dans un tableau
     $allOcc=array(); // tous les articles (avec les doublons présents dans $artByTag)
     foreach($artByTag as $tag) $allOcc=array_merge($allOcc,$tag);
     //print_r($allOcc);
     $vals = array_count_values($allOcc);//le nombre de tags en commun pour chaque article
+    arsort($vals);//trier les articles par nombre de tags paratagés
     //print_r($vals);
+    print '<div id="related"><ul class="tree"><li>Voir aussi<ul>';
     foreach($vals as $art => $occ) {
-      if ($occ>=$threshold) print "$occ tags communs avec $art<br/>";
+      if ($occ>=$threshold){
+        $stmt=self::$pdo->prepare('SELECT title FROM article WHERE name="'.$art.'"');
+        $stmt->execute();
+        $art_name=$stmt->fetch();
+        //id de l’article associé
+        ($art_name['title']!='') ? $title=$art_name['title'] : $title='<span style="color:red;">erreur indexation ('.$art.' n’existe pas)</span>';
+        //href de l’article associé -- TODO: méthode pour produire hred à partir de id
+        $url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($art, 0, strpos($art, '_'))."/".$art;
+        //récupérer la liste des tags partagés pour chaque article
+        $sql='SELECT tag_id, label
+          FROM owl_contains, owl_allTags
+          WHERE article_id="'.$art.'"
+            AND owl_contains.tag_id=owl_allTags.id
+            AND tag_id IN (SELECT tag_id FROM owl_contains WHERE article_id="'.$currentArt.'")';
+        print '<li><b><a href="'.$url.'">'.$title.'<br/></b></a>';
+        print "$occ mots-clés communs : ";
+        $i=1;
+        foreach(self::$pdo->query($sql) as $sharedTag) {
+          print $sharedTag['label'];
+          if($i < $occ) print ", ";
+          $i++;
+        }
+        print "</li>";
+      }
     }
+    //fermeture de la div id related
+    print '</ul></li></ul></div>';
   }
   
 
