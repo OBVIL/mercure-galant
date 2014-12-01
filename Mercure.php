@@ -95,7 +95,7 @@ class Mercure {
   }
   
   
-  public function printTags() {
+  public function printTags($related=true) {
     $article_id = basename($_SERVER['REQUEST_URI']);
     //echo $article_id;
     self::connect('./mercure-galant.sqlite');
@@ -103,24 +103,28 @@ class Mercure {
       FROM owl_allTags, owl_contains
       WHERE owl_contains.article_id = "'.$article_id.'"
       AND owl_contains.tag_id = owl_allTags.id';
-      //TODO: test si la requête renvoie des résultats
-    print '<div id="tags"><ul class="tree"><li>Mots-clés<ul>';
-    foreach(self::$pdo->query($sql) as $tag) {
-      if ($tag['type']=="person") $page="persons";
-      elseif ($tag['type']=="topic") $page="topics";
-      print '<li><a href="../'.$page.'#'.$tag['id'].'">'.$tag['label'].'</a></li><br/>';
+    // voir si on a des résultats
+    $results = self::$pdo->query($sql)->fetch(PDO::FETCH_ASSOC);
+    if(!empty($results)) {
+      print '<div id="tags"><ul class="tree"><li>Mots-clés<ul>';
+      foreach(self::$pdo->query($sql) as $tag) {
+        if ($tag['type']=="person") $page="persons";
+        elseif ($tag['type']=="topic") $page="topics";
+        print '<li><a href="../'.$page.'#'.$tag['id'].'">'.$tag['label'].'</a></li><br/>';
+      }
+      print '</ul></li></ul></div>';
+      //ramasser les articles qui partagent les mêmes tags
+      if($related===true) {
+        $tagSet=self::$pdo->query($sql)->fetchAll(PDO::FETCH_COLUMN, 'id');
+        $this->relatedDoc($tagSet, $article_id);
+      }
     }
-    print '</ul></li>
-    </ul></div>';
-    //ramasser les articles qui partagent les mêmes tags
-    $tagSet=self::$pdo->query($sql)->fetchAll(PDO::FETCH_COLUMN, 'id');
-    $this->similarArt($tagSet, $article_id);
   }
   
   //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
-  public function similarArt($tagSet, $currentArt, $threshold=3) {
-    //print_r($tagSet);
+  public function relatedDoc($tagSet, $currentArt, $threshold=3) {
+    //if(count($tagSet<$threshold)) break;
     //le tableau des articles par tag
     $artByTag=array();
     $select = self::$pdo->prepare("SELECT article_id FROM owl_contains WHERE tag_id = ? AND article_id != ?");
@@ -140,35 +144,37 @@ class Mercure {
     $vals = array_count_values($allOcc);//le nombre de tags en commun pour chaque article
     arsort($vals);//trier les articles par nombre de tags paratagés
     //print_r($vals);
-    print '<div id="related"><ul class="tree"><li>Voir aussi<ul>';
-    foreach($vals as $art => $occ) {
-      if ($occ>=$threshold){
-        $stmt=self::$pdo->prepare('SELECT title FROM article WHERE name="'.$art.'"');
-        $stmt->execute();
-        $art_name=$stmt->fetch();
-        //id de l’article associé
-        ($art_name['title']!='') ? $title=$art_name['title'] : $title='<span style="color:red;">erreur indexation ('.$art.' n’existe pas)</span>';
-        //TODO: méthode pour produire hred à partir de id
-        $url = $this->basehref.substr($art, 0, strpos($art, '_'))."/".$art;
-        //récupérer la liste des tags partagés pour chaque article
-        $sql='SELECT tag_id, label
-          FROM owl_contains, owl_allTags
-          WHERE article_id="'.$art.'"
-            AND owl_contains.tag_id=owl_allTags.id
-            AND tag_id IN (SELECT tag_id FROM owl_contains WHERE article_id="'.$currentArt.'")';
-        print '<li><b><a href="'.$url.'">'.$title.'<br/></b></a>';
-        print "$occ mots-clés communs : ";
-        $i=1;
-        foreach(self::$pdo->query($sql) as $sharedTag) {
-          print $sharedTag['label'];
-          if($i < $occ) print ", ";
-          $i++;
+    if(max($vals)>=$threshold) {
+      print '<div id="related"><ul class="tree"><li>Voir aussi<ul>';
+      foreach($vals as $art => $occ) {
+        if ($occ>=$threshold){
+          $stmt=self::$pdo->prepare('SELECT title FROM article WHERE name="'.$art.'"');
+          $stmt->execute();
+          $art_name=$stmt->fetch();
+          //id de l’article associé
+          ($art_name['title']!='') ? $title=$art_name['title'] : $title='<span style="color:red;">erreur indexation ('.$art.' n’existe pas)</span>';
+          //TODO: méthode pour produire hred à partir de id
+          $url = $this->basehref.substr($art, 0, strpos($art, '_'))."/".$art;
+          //récupérer la liste des tags partagés pour chaque article
+          $sql='SELECT tag_id, label
+            FROM owl_contains, owl_allTags
+            WHERE article_id="'.$art.'"
+              AND owl_contains.tag_id=owl_allTags.id
+              AND tag_id IN (SELECT tag_id FROM owl_contains WHERE article_id="'.$currentArt.'")';
+          print '<li><b><a href="'.$url.'">'.$title.'<br/></b></a>';
+          print "$occ mots-clés communs : ";
+          $i=1;
+          foreach(self::$pdo->query($sql) as $sharedTag) {
+            print $sharedTag['label'];
+            if($i < $occ) print ", ";
+            $i++;
+          }
+          print "</li>";
         }
-        print "</li>";
       }
+      //fermeture de la div id related
+      print '</ul></li></ul></div>';      
     }
-    //fermeture de la div id related
-    print '</ul></li></ul></div>';
   }
   
 }
