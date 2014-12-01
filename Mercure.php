@@ -2,20 +2,24 @@
 //ini_set("display_errors",0);
 error_reporting(E_ALL);
 //error_reporting(0);
-// TODO : appel homehref
-include_once(dirname(__FILE__).'/../teipot/Teipot.php');
 
 class Mercure {
+  public $basehref;// racine Web du corpus
   private static $pdo;
   private $reader; //analyseur XML (XMLReader)
   const OBUL = 67; // ontology base URL length (http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#)
   
-  function __construct() {
+  function __construct($path="") {
+    // TODO: voir avec Fréd ce mécanisme..
+    // inutile de faire include de Web.php ???
+    if(!$path) $path = Web::pathinfo();
+    $this->basehref = Web::basehref($path);
+    
     $this->reader = new XMLReader();
   }
   
   
-  private function connect($sqlFile) {
+  private function connect($sqlFile) {      
     if (!file_exists($sqlFile)) exit($sqlFile." doesn’t exist!\n");
     else {
       self::$pdo=new PDO("sqlite:".$sqlFile);
@@ -50,7 +54,7 @@ class Mercure {
         WHERE tag_id="'.$person['tag_id'].'"
         AND owl_contains.article_id = article.name';
       foreach(self::$pdo->query($sql) as $article) {
-        $article_url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
+        $article_url = $this->basehref.substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
         print '<li>['.$article['created'].'] <a href="'.$article_url.'">'.$article['title'].'</a></li>';
       }
       echo "</ul>";
@@ -81,8 +85,8 @@ class Mercure {
         WHERE tag_id="'.$topic['tag_id'].'"
         AND owl_contains.article_id = article.name';
       foreach(self::$pdo->query($sql) as $article) {
-        $article_url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
-        $article_year = '<a href="http://localhost/~bolsif/corpus/mercure-galant/?q=&start='.$article['created'].'">'.$article['created'].'</a>';
+        $article_url = $this->basehref.substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
+        $article_year = '<a href="'.$this->basehref.'?q=&start='.$article['created'].'">'.$article['created'].'</a>';
         print '<li>'.$article_year.': <a href="'.$article_url.'">'.$article['title'].'</a></li>';
       }
       echo "</ul></li>";
@@ -108,8 +112,7 @@ class Mercure {
     }
     print '</ul></li>
     </ul></div>';
-    //TODO
-    //essayer de ramasser les articles qui partagent les mêmes tags
+    //ramasser les articles qui partagent les mêmes tags
     $tagSet=self::$pdo->query($sql)->fetchAll(PDO::FETCH_COLUMN, 'id');
     $this->similarArt($tagSet, $article_id);
   }
@@ -145,8 +148,8 @@ class Mercure {
         $art_name=$stmt->fetch();
         //id de l’article associé
         ($art_name['title']!='') ? $title=$art_name['title'] : $title='<span style="color:red;">erreur indexation ('.$art.' n’existe pas)</span>';
-        //href de l’article associé -- TODO: méthode pour produire hred à partir de id
-        $url = "http://localhost/~bolsif/corpus/mercure-galant/".substr($art, 0, strpos($art, '_'))."/".$art;
+        //TODO: méthode pour produire hred à partir de id
+        $url = $this->basehref.substr($art, 0, strpos($art, '_'))."/".$art;
         //récupérer la liste des tags partagés pour chaque article
         $sql='SELECT tag_id, label
           FROM owl_contains, owl_allTags
