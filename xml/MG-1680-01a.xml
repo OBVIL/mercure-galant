@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure galant, janvier [tome 1], 1680.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable d'édition</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1680-01a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], <date>1680</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1680-01a_098">
+        <head>[Les Estrennes, Histoire]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 98-152.</bibl>
+        <p>On m’a conté une Avanture du premier jour de l’Année, dont les circonstances méritent bien que je vous en fasse le détail. Une jeune veuve de qualité, aussi enjoüée que spirituelle, menoit une vie commode, qui ne luy laissoit passer que de beaux jours dans une agreable societé. […] elle vit entrer quatre petits Esclaves Maures, dont les habits n’estoient pas moins riches que propres. Ils tenoient de gros Cordons d’or &amp; de soye couleur de feu, tortillez, au bout desquels estoient de grosses Houpes de mesme. Ces Cordons estoient attachez aux quatre coins d’une Mane que ces petits Esclaves portoient. Après qu’ils l’eurent posées sur la Table de la Chambre, un d’entr’eux chanta une Chanson Espagnole à la gloire de la belle Veuve, puis ils dancerent tous les quatre, &amp; s’en retournerent. Il fut inutile de leur demander qui les envoyoit. Un Carrosse les attendoit dans la Ruë. Ils y montèrent et disparurent sans avoir rien dit. […] </p>
+      </div>
+      <div xml:id="MG-1680-01a_152">
+        <head>[Entrée de M. l’Evesque de Munster à Munster]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 152-165.</bibl>
+        <p> Vous vous souvenez sans doute que le Prince Ferdinand de Furstemberg, Evesque de Paderborn, l’est devenu de Munster. Je vous ay parlé de ses grandes qualitez &amp; de sa Maison, en vous apprenant la mort du defunt Evesque. Il faut aujourd’huy vous apprendre les solemnitez de son Entrée dans la Ville de Munster. Elle a esté faite depuis deux mois avec tout l’éclat qui pouvoit rendre digne du Prince pour qui elle estoit ordonnée. En effet on ne se souvient point d’en avoir veu de pareilles. Ce qui en a augmenté le lustre, outre le nombre de Spéctateurs qui y sont accourus de tous costez, ç’a esté la veritable &amp; sincere joye, que non seulement les Habitans de la Ville, mais tous les Peuples voisins, ont fait paroistre dans cette rencontre. Le 13. de Novembre 1679. ce Prince partit de Wolbeck, suivy de sa Cour, &amp; de plusieurs Cavaliers du Païs de Paderborn. A une heure de Munster, il fut rencontré par la Noblesse de ce Païs-là, en suite par les Capitulaires, par les Prélats du Chapitre, &amp; par les Ambassadeurs des Princes Ecclesiastiques. Après les complimens faits de part &amp; d’autre, on prit le chemin vers la porte Saint Leger ; par où l’on entra dans l’ordre suivant.</p>
+        <p>Le Maître de Postes de Paderborn, avec ses Postillons devant luy.</p>
+        <p>Deux Fourriers de la Cour.</p>
+        <p>Les Mulets, avec leurs Couvertures en broderie.</p>
+        <p>Deux Compagnies de Dragons.</p>
+        <p>Le Regiment des Gardes à pied, de dix Compagnies, commandé par le Colonel Baron Guillaume de Plettemberg, Commandeur de l’Ordre Teutonique, qui marchoit à pied à la teste du Regiment de mille Hommes.</p>
+        <p>Le Regiment des Gardes à cheval, commandé par le Lieutenant Colonel Gosæus, de cinq cens Hommes.</p>
+        <p>Les Chevaux de main, de la Noblesse de Munster, des Cavaliers de la Cour, &amp; des Capitulaires.</p>
+        <p>Leurs Valets, en trois Escadrons.</p>
+        <p>L’Ecuyer de Son Altesse, suivy de douze Chevaux de main, avec des Harnois &amp; des Couvertures fort propres.</p>
+        <p>La Noblesse de Munster, en tres-bel équipage, ayant à sa teste le General Major Baron de Naguel, Seigneur de Vorenholtz-Drossard de Stromberg, &amp; Conseiller de S. A.</p>
+        <p>Le Tymballier et dix Trompetes de S. A.</p>
+        <p>La Noblesse de la Cour, ayant le Baron de Westerholt, Seigneur de Lembeck, Maréchal de Munster, &amp; Conseiller d’Etat de S. A. à sa teste.</p>
+        <p>Le Baron Ferdinand de Furstemberg, Grand Ecuyer, &amp; Neveu de S. A.</p>
+        <p>Le Comte Jean-Adolphe de Bentheim-Tecklenbourg.</p>
+        <p>Douze Valets de pied devant S. A.</p>
+        <p>Monsieur l’Evesque de Munster, monté sur un Cheval Turc, environné de douze Hallebardiers &amp; de quatorze Heiducs.</p>
+        <p>Les Capitulaires de Munster à cheval apres le Prince.</p>
+        <p>La Compagnie des Gardes ordinaires, avec la Casaque de la Livrée de S. A. montant à cent Chevaux.</p>
+        <p>Un Carrosse vuide du Prince, de Velours verd dedans &amp; dehors, travaillé en Borderie d’or relevée, traîné par six Chevaux gris-de-perle, avec des Harnois proportionnez.</p>
+        <p>Le Carrosse où estoient les Ambassadeurs des Princes Ecclesiastiques, c’est à dire de l’Electeur de Treves, de l’Archevesque de Saltzbourg, du Grand-Maistre de l’Ordre Teutonique, &amp; de l’Abbé de Fulde.</p>
+        <p>Deux autres Carrosses, où estoient dans l’un les Prélats du Chapitre de Munster, excepté le Baron de Velen, Vice-Dominus, qui suivoit le Prince à cheval, &amp; les Conseillers d’Etat dans l’autre.</p>
+        <p>D’autres Officiers de la Cour &amp; du Païs, dans divers Carrosses, qui alloient au dela de quarante, tous à six Chevaux.</p>
+        <p>Huit Chariots de bagage, avec les Armes du Prince en broderie sur les Couvertures.</p>
+        <p>Deux Regimens de Cavalerie, de cinq cens Hommes chacun, l’un commandé par le Colonel de Bonninghausen, l’autre par le Colonel de Wendz, venoient à la fin de la Cavalcade.</p>
+        <p>La Bourgeoisie en armes, &amp; rangée en double haye, bordoit les deux costez de Ruës par où la Cavalcade passoit. Elle marcha jusques à la Court, vis-à-vis du Dôme. Les Regimens &amp; la Compagnie des Gardes s’y estoient mis en bataille.</p>
+        <p>Mr l’Evesque de Munster mit pied à terre dans la Court, &amp; s’estant retiré dans la Chapelle de S. Michel, il y prit l’Habit Episcopal, &amp; fut servy &amp; mené en Procession par les Religions, le Clergé, &amp; le Chapitre, à la Cathédrale, où apres qu’il eust fait les prieres &amp; les cerémonies ordinaires, &amp; réçeu le serment &amp; l’hommage du Chapitre, on chanta le <hi rend="i">Te deum</hi> , avec double Chœur de Musique, &amp; les Trompetes, triple décharge du Canon de la Ville, &amp; trois salves de la Cavalerie &amp; de l’Infanterie. Cela estant fait, ce Prince s’en retournera à la Court en Procession, comme il en estoit party, &amp; l’on traita fort magnifiquement toute cette grande Assemblée, pendant trois jours que dura la Cerémonie. L’arrivée de trois Ambassadeurs de Hollande, de Brandebourg, &amp; d’Osnabruch, fut pour elle une augmentation d’éclat. Le second jour, la Noblesse du Païs de Munster presta serment de fidelité à S. A. laquelle assista en suite en Habit Pontifical à la Messe chantée par le Trésorier du Chapitre de Schmising. Apres la Messe, elle reçeut l’hommage des Magistrats, &amp; de la Ville de Munster, avec de grands applaudissemens du Peuple, &amp; s’en revint à la Court en Carrosse, précedée de plus de deux cens Gentilshommes qui marchoient à pied.</p>
+        <p>Le troisiéme jour on monta à la Citadelle, pour voir le Feu d’artifice préparé sous la direction du Colonel de l’Artillerie Correy, avec plusieurs Machines &amp; Figures tres-bien disposées, sur la terre &amp; sur l’eau du Fossé. Ce Spéctacle eut tout le succés qu’on en pouvoit esperer. Les Collations servies sous des Tentes pour régaler les Dames qui s’y trouverent en fort grand nombre, acheverent les divertissemens de la Feste.</p>
+      </div>
+      <div xml:id="MG-1680-01a_165">
+        <head>[Reception faite à M l’Abbé de Gesvres à Bernay]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 165-172.</bibl>
+        <p>Les Habitans de Bernay se disposaient fort à y recevoir M<hi rend="sup">r</hi> l’Abbé de Gesvres, d’une maniere qui luy fist connoistre la parfaite estime qu’ils ont pour une Personne de sa qualité &amp; de son mérite ; mais sa modestie s’oposant à la dépense qu’ils vouloient faire, luy fit cacher le jour de son arrivée. Le seul avis qu’ils en eurent, leur vint d’un Homme qui avoit rencontré ce jeune Abbé, avec tout son équipage, à demy lieuë de la Ville, le Mardy 9. de ce mois, sur les huit heures du soir. Cette nouvelle porta aussitost la joye par tout. Le bruit des Tambours qu’on entendit presque en mesme temps, fit prendre les armes à plus de quatre cens Bourgeois, qui se rangerent en haye depuis la Porte de la Ville jusqu’à celle de l’Abbaye, où le son des Cloches fit accourir tous les Habitans. Les Peres Benédictins qui estoient déjà couchez, se leverent pour recevoir en Corps à la Porte de leur Eglise. Il y entra, &amp; pendant qu’il faisoit sa priere, on chanta le <hi rend="i">Te Deum.</hi> Le Canon fut tiré en suite, &amp; tous les Mousquetaires firent leur décharge. Si-tost qu’il eut esté conduit dans l’Apartement qu’on luy avoit préparé, il donna ordre que l’on défonçast plusieurs Muids de Vin dans le lieu de la Court. Jugez de la réjoüissance du Peuple. Deux Mousquetaires gardoient les Portes de son Escalier &amp; de sa Chambre, pour empescher la confusion. Les principaux de la Ville vinrent le salüer dés ce soir mesme, &amp; on ne le quita qu’à deux heures apres minuit.</p>
+        <p>Le lendemain, les Mousquetaires s’estant mis dans le mesme ordre qu’on les avoit veus le jour précedent, le Pere Visiteur des Benédictins de la Province, qui estoit à Bernay, passa au milieu pour venir salüer M<hi rend="sup">r</hi> l’Abbé dans sa Chambre. Le Clergé des Paroisses de Sainte Croix &amp; de Nostre-Dame de la Cousture, entra apres luy. Les deux Curez le haranguérent en termes choisis, ce qui fut fait de la mesme sorte par les Gardiens des Peres Cordeliers, &amp; Penitens, à la teste de leurs Communautez. Les Juges d’Orbec &amp; de Montreüil, accompagnez d’un grand nombre d’Avocats &amp; de Procureurs, luy rendirent ensuite les mesmes devoirs. M<hi rend="sup">r</hi> de la Boisarderie Bailly de Montreüil, luy fit un discours qui luy attira beaucoup d’éloges. Ce jeune &amp; illustre Abbé répondit à tout avec tant d’agrément, &amp; de presence d’esprit, qu’il fut admiré de tous ceux qui l’entendirent. Cette premiere cerémonie qui dura jusqu’à midy, fut suivie d’une autre qui fut la reception de ce mesme Abbé à l’entrée de la Porte de l’Eglise de l’Abbaye. Le P. Visiteur revétu d’une Chape, ainsi que tous les autres Religieux, vint l’y recevoir sous un Dais qui fut porté par quatre Officiers. Il luy présenta de l’Eau-beniste, &amp; le harangua avec beaucoup d’éloquence. Il fut conduit dans le Chœur sous le mesme Dais, &amp; on commença la Messe qui fut solemnellement chantée. Au retour, il fit faire une distribution tres-considérable à plus de sept cens Pauvres qui estoient venus de toutes parts. Le Jeudy 11. il traita magnifiquement les Officiers qui avoient commandé la Milice, &amp; il a reçeu depuis les visites de toute la Noblesse.</p>
+      </div>
+      <div xml:id="MG-1680-01a_174">
+        <head>Air nouveau chanté à la reyne</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 174-177.</bibl>
+        <p>Je vous envoye un Air de l’illustre Autheur, dont vous en avez trouvé dans toutes mes Lettres depuis quelques Mois. Il a fait le Chant &amp; les Paroles, &amp; l’on peut dire qu’il l’a voulu proportionner à la petitesse de celle qui a eu l’honneur de le chanter à la Reyne, comme un remercîment du Présent que Sa Majesté luy a fait apres l’avoir entendüe joüer du Clavessin. C’est une Enfant de cinq ans, que M<hi rend="sup">r</hi> Jaquet a rendüe comparable aux plus habiles en six ou sept mois. Il luy est bien glorieux de faire des miracles au dehors comme il en a fait dans son domestique. Cette Enfant connüe sous le nom de la petite Michon, a joüé trois fois sur l’Orgue de la Chapelle du Roy, les Pieces qu’elle joüe sur le Clavessin. Il n’y a rien de plus surprenant que de luy voir à son âge des mains assez fortes pour toucher un Instrument de ce poids. Aussi sa réputation est-elle déjà si grande, que tout le monde s’empresse à venir l’entendre chez l’Autheur de l’Air que vous trouverez icy gravé. C’est luy qui a soin de son éducation.</p>
+        <p>%[Air gravé à 2 voix et BC, inséré entre les pages 176 et 177.]</p>
+        <label>Air nouveau </label>
+        <label>chanté à la Reyne.</label>
+        <l>Reyne aussi belle que bonne,</l>
+        <l>Ce n’est pas vostre Couronne</l>
+        <l>Qui vous fait briller le plus,</l>
+        <l>Reyne, ce sont vos vertus.</l>
+      </div>
+      <div xml:id="MG-1680-01a_189">
+        <head>[Mort de M. le Duc de Hanover]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 189-213.</bibl>
+        <p>Rien n’est certain dans le monde, &amp; c’est se tromper, que de s’y promettre une joye durable. Madame la Duchesse de Hanover en avoit beaucoup de venir en France. Madame la Princesse Palatine sa Mere, &amp; M<hi rend="sup">e</hi> la Duchesse sa Sœur, estoient de grands charmes pour l’y attirer. Cependant elle y a versé des larmes ; &amp; si la douleur que luy a causé la nouvelle de la mort de M<hi rend="sup">r</hi> le Duc de Hanover son Mary a pû trouver du soulagement, ce n’a esté que par la part qu’elle y a veu prendre aux deux Personnes qu’elle considere &amp; qu’elle aime davantage. Ce Prince ayant résolu d’aller passer le Carnaval à Venise pendant l’absence de Madame la Duchesse sa Femme, partit accompagné de M<hi rend="sup">r</hi> l’Evesque d’Osnabruk son Frere, si-tost qu’il eut veu les affaires d’Allemagne &amp; de Danemark accommodées. Il tomba malade à Ausbourg, &amp; mourut cinq jours apres, la nuit du 27. au 28. du dernier mois. Les Chirurgiens qui ont esté employez à ouvrir son Corps, ont trouvé que la cause de sa mort est venuë de deux excrescences formées autour du poulmon, &amp; qui ayant creû insensiblement, se sont jointes apres une longue succession de temps, &amp; l’on privé tout-à-coup de la faculté de respirer. Aussi est-il mort en un instant, sans témoigner qu’il sentist aucune douleur. Il est universellement regreté pour ses belles qualitez. il avoit l’ame grande &amp; genéreuse ; &amp; comme il prenoit plaisir à faire du bien à des Particuliers de mérite, il le faisoit quelquefois d’une maniere si noble, qu’on payoit toutes leurs debtes, quelques considérables qu’elles fussent, sans qu’il laissast découvir que ce fust luy qui les eust payées. C’estoit un des Princes du Monde qui faisoit le mieux les choses extérieures &amp; avec plus d’ordre, quand il vouloit se donner la peine de les regler ; ce qui luy arrivoit fort souvent. Il estoit secret, tres-délicat sur la gloire, &amp; particulierement sur la sienne propre, &amp; sur celle de sa Maison, dont il a tâché d’augmenter l’éclat par toutes sortes de voyes. On l’a toûjours veu fort absolu sans que personne l’ait gouverné, son autorité estant la chose dont il se montroit le plus jaloux. Il prenoit connoissance de tout ce qui regardoit son Etat, ses Finances, &amp; sa Milice, &amp; mesme de tous les Actes de Justice, afin d’en juger luy-mesme, ordonnant de tout jusqu’aux moindres choses, dont il n’oublioit jamais que ce qu’il vouloit. Ainsi son esprit estoit dans une activité continuelle. Pour se délasser, il aimoit les petites railleries, &amp; les Personnes qui le divertissoient agreablement. Il a toûjours entretenu une Troupe de Comédiens François avec M<hi rend="sup">r</hi> le Duc de Zell son aîné, &amp; sur ses dernieres années, il a fait faire des Opéra en Italien, qu’on a trouvez admirables, sur tout pour les Voix &amp; les Décorations. Il en régala la jeune Noblesse de l’Armée de France, qui alla le voir lors qu’elle estoit vers Minden. […]</p>
+      </div>
+      <div xml:id="MG-1680-01a_245">
+        <head>[Ce qui s’est passé à Turin le jour du Sapate]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 245-266.</bibl>
+        <p>J’ay accoustumé de vous parler tous les ans de la galante Feste du <hi rend="i">Sapate</hi> établie à Turin le cinquiéme Decembre. Il faut vous rendre compte de ce qui s’y est passé la derniere fois. Ce jour-là il y eut Comédie Italienne le soir, &amp; pendant que Madame Royale y estoit avec toute la Cour, S. A. R. fit porter trois Piedestaux carrez feints en argent, sur lesquels estoient peints des Vases &amp; des Festons de fleurs, imitées au naturel. Les trois Piedestaux dont vous trouverez la Figure gravée dans cette Planche, s’ouvroient en maniere d’Armoire, &amp; renfermoient chacun deux Sieges-plians d’argent massif, cizelez, &amp; tres-délicatement travaillez. Le Siege en estoit couvert d’un velours violet, brodé d’une crespine d’or, le tout assortissant au Lit de Madame Royale. Au dessus il y avoit une espece de Marche-pied, qui diminuoit en largeur à mesure qu’il s’élevoit. Il estoit composé de trois Tiroirs sur chaque Piedestal, fort adroitement cachez, &amp; remplis d’une tres-grande quantité de Paquets de Gans, &amp; de Peaux d’Espagne &amp; de Rome, de Coussinets de senteur en broderie, de Pieces de Rubans, &amp; de riches Tissus, de Manchons de toutes façons, de Vazes &amp; de Fioles d’Essence, &amp; de toutes sortes de galanteries les plus rares, qui peuvent estre à l’usage des Dames, à qui elles furent distribuées. Sur les trois Marchepieds, on voyoit trois Amours, tenant chacun une Corbeille d’argent, remplie de Bouquets de toutes les fleurs que le Printemps peut produire. C’estoit une assez grande nouveauté dans la saison du Sapate. Ces Bouquets liez avec de gros nœuds de riches Rubans de diverses couleurs, furent pareillement donnez aux Dames par Madame Royale, qui apres avoir bien cherché ce qui pouvoit estre pour elle, outre les six Plians, dont je vous viens de parler, trouva à la fin une Bague d’un Diamant taillé en cœur, d’une grosseur extraordinaire, &amp; dont le prix marquoit quelque chose de la magnificence du grand Prince qui la présentoit, &amp; de la grandeur de l’auguste Souveraine, à qui elle estoit presentée. Chacun de ces Amours avoit en sa main par écrit le Compliment qu’il ne pouvoit prononcer. La lecture en fut faite, &amp; Madame Royale l’écouta avec beaucoup de bonté. Voicy les Vers que le Papier de chaque Amour contenoit. Ils sont de M<hi rend="sup">r</hi> G… Conseiller &amp; Secretaire d’Etat de S. A. R. dont je vous ay envoyé une Epistre en Vers dans ma derniere Lettre. Je ne doute paoint, Madame, que vous ne soyez fort contente de ceux-cy, puis que toute la Cour de Savoye l’a esté.</p>
+        <quote rend="border">
+          <label>Pour l’amour</label>
+          <label>de la Gloire.</label>
+          <label>Sonnet.</label>
+          <l>Le Prince dont icy je vous offre l’hommage,</l>
+          <l>S’attache à mes Leçons dans ses jeunes ardeurs ;</l>
+          <l>Déjà son cœur, plus grand que toutes les grandeurs,</l>
+          <l>Aux plus hautes Vertus accoûtume son âge.</l>
+          <l/>
+          <l>La noble impression de cet apprentissage,</l>
+          <l>Le rendra tout brillant de ses propres splendeurs ;</l>
+          <l>Vaillant, &amp; Souverain du fond de tous les Cœurs,</l>
+          <l>Tout chérira ses Loix, en craindra son courage.</l>
+          <l/>
+          <l>Ennemy des Flateurs, libéral, juste, &amp; doux,</l>
+          <l>Exterminant le vice &amp; l’erreur sous ses coups,</l>
+          <l>Il ne dispensera ses bienfaits qu’au mérite.</l>
+          <l/>
+          <l>Que pour luy ce grand Art est facile à marquer !</l>
+          <l>Et qu’il est attentif, quand je le sollicite,</l>
+          <l>Sur ce que vostre exemple enseigne à pratiquer !</l>
+          <label>Pour l’amour</label>
+          <label>Filial.</label>
+          <label>Stances.</label>
+          <l><seg type="tab">    </seg>Plein d’une douce constance,</l>
+          <l>Qui marque mon respect, plutost que mon orgueil,</l>
+          <l>Je viens chercher icy vostre auguste présence,</l>
+          <l>Et recevoir de vous un favorable accueil ;</l>
+          <l>J’y suis trop bien fondé, pour y former du doute.</l>
+          <l>Vous sçavez que c’est moy qui vous ouvre la route</l>
+          <l>D’un Cœur, qui de vos vœux est l’objet le plus doux ;</l>
+          <l>Vous sçavez qu’à mes soins vous devez sa tendresse,</l>
+          <l>Et c’est par mes conseils qu’il vous jure dans cesse,</l>
+          <l><seg type="tab">    </seg>Qu’il sera toûjours tout à vous.</l>
+          <l/>
+          <l><seg type="tab">    </seg>Dans cet illustre ministere,</l>
+          <l>Puis-je de mon espoir jamais me défier ?</l>
+          <l>Et quelque grand que soit le bonheur que j’espere,</l>
+          <l>J’apporte icy dequoy le bien justifier ;</l>
+          <l>C’est un charmant hommage, un tribut agreable ;</l>
+          <l>Que vous offre par moy vostre Fils adorable ;</l>
+          <l>Des plus tendres ardeurs de son empressement,</l>
+          <l>Ce sont de vifs transports d’une amitié fidelle,</l>
+          <l>Des respects que son chœur chaque jour renouvelle,</l>
+          <l><seg type="tab">    </seg>Pour durer éternellement.</l>
+          <l/>
+          <l><seg type="tab">    </seg>Mais c’est en vain que je m’excite,</l>
+          <l>Ce grand attachement ne se peut exprimer ;</l>
+          <l>Mesurez-le, Princesse, avec vostre mérite,</l>
+          <l>Vous sçavez à quel point ce Fils vous sçait aimer.</l>
+          <l>Arbitre cependant de vostre doux commerce,</l>
+          <l>Je veux que desormais tout mon pouvoir s’exerce</l>
+          <l>A mesler à vos feux des plaisirs infinis ;</l>
+          <l>Et je feray douter dans cet amour sincere,</l>
+          <l>Quel est le plus ardent, ou du Fils pour la Mere,</l>
+          <l><seg type="tab">    </seg>Ou de la Mere pour le Fils.</l>
+          <label>Pour l’amour</label>
+          <label>de</label>
+          <label>la Reconnoissance.</label>
+          <label>Vers libres.</label>
+          <l><seg type="tab">    </seg>Un jeune &amp; charmant Souverain,</l>
+          <l>A paroistre à vos yeux aujourd’huy m’intéresse,</l>
+          <l>Et je vous viens pour luy, grande &amp; sage Princesse,</l>
+          <l><seg type="tab">    </seg>Communiquer un grand dessein.</l>
+          <l/>
+          <l><seg type="tab">    </seg>Il veut que ma main immortelle</l>
+          <l><seg type="tab">    </seg>Travaille à luy faire un Tableau,</l>
+          <l>Où je surpasseray tout ce qu’on voit de beau,</l>
+          <l><seg type="tab">    </seg>Si j’en puis suivre le Modelle.</l>
+          <l/>
+          <l><seg type="tab">    </seg>D’abord ce Modelle offre aux yeux</l>
+          <l>Une Princesse, en qui le moindre trait étale</l>
+          <l><seg type="tab">    </seg>Tout ce qu’ont de plus glorieux</l>
+          <l><seg type="tab">    </seg>La majesté de la Grandeur Royale,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et les vives beautez des Cieux.</l>
+          <l/>
+          <l>On la voit appliquée à conduire à la Gloire</l>
+          <l><seg type="tab">    </seg>Un Fils qui brille à son costé,</l>
+          <l>Qui prenant ses Leçons avec avidité,</l>
+          <l><seg type="tab">    </seg>Les renferme dans sa mémoire</l>
+          <l><seg type="tab">    </seg>Comme une celeste clarté,</l>
+          <l>Dont les divins rayons le disposent à croire</l>
+          <l>Qu’ils montrent le chemin de l’Immortalité.</l>
+          <l/>
+          <l><seg type="tab">    </seg>Par le secret d’un Art inimitable,</l>
+          <l>On a peint son amour soigneux &amp; délicat ;</l>
+          <l>C’est là qu’on voit cette Mere adorable</l>
+          <l>Dans l’assiduité d’un travail qui l’accable ;</l>
+          <l>Mais c’est en vain que le travail l’abbat ;</l>
+          <l>On voit de plus en plus sa conduite admirable,</l>
+          <l>Pour faire &amp; soûtenir le bonheur d’un Etat,</l>
+          <l>De ses plus jeunes ans sacrifier l’éclat,</l>
+          <l><seg type="tab">    </seg>D’une constance infatigable.</l>
+          <l/>
+          <l>Icy par sa prudence on voit régner la Paix</l>
+          <l>Dans le déchaînement des fureurs de la Guerre ;</l>
+          <l>Là ses Royales mains s’ouvrent pour ses Sujets,</l>
+          <l><seg type="tab">    </seg>Et reparent par ses bienfaits</l>
+          <l><seg type="tab">    </seg>La sterilité de la Terre.</l>
+          <l/>
+          <l>Icy l’on rétablist le bon ordre &amp; les Loix,</l>
+          <l><seg type="tab">    </seg>Là l’Héresie est aux abois ;</l>
+          <l>Là l’on voit refleurir les Arts &amp; les Sciences.</l>
+          <l><seg type="tab">    </seg>Icy les Vices sont punis,</l>
+          <l>Et là des Monts affreux promptement applanis,</l>
+          <l><seg type="tab">    </seg>Ouvrent de cent correspondances</l>
+          <l><seg type="tab">    </seg>Les avantages infinis.</l>
+          <l/>
+          <l>Des miracles si grands à cette illustre Mere,</l>
+          <l>Paroistroient cependant un succés ordinaire ;</l>
+          <l><seg type="tab">    </seg>Et l’on remarque en ce Tableau</l>
+          <l><seg type="tab">    </seg>Que ses vertus &amp; sa sagesse,</l>
+          <l>Joignant par un effet aussi rare que beau,</l>
+          <l>Aux Etats conservez un Empire nouveau,</l>
+          <l>Couronnent ce cher Fils des fruits de sa tendresse.</l>
+          <l/>
+          <l>Voilà surquoy le Prince ordonne sans tarder</l>
+          <l><seg type="tab">    </seg>Que je fasse éclater mon zele ;</l>
+          <l>Mais, Princesse, oserois-je icy cous demander</l>
+          <l><seg type="tab">    </seg>Si vous connoissez ce Modelle ?</l>
+          <l/>
+          <l>Vous ne répondrez point sans-doute à mon discours ;</l>
+          <l>Mais si vous me cachez des vertus si publiques,</l>
+          <l><seg type="tab">    </seg>L’Univers entier tous les jours</l>
+          <l>Me répondra pour vous, par cent Panégiriques.</l>
+          <l/>
+          <l>J’en vais donc copier les traits &amp; la couleur,</l>
+          <l><seg type="tab">    </seg>Et pour placer dignement cet Ouvrage,</l>
+          <l>Princesse, j’ay choisy le fond mesme du cœur,</l>
+          <l>Du Prince, à qui ce soin m’engage.</l>
+          <l/>
+          <l>Là traçant les effets de vos tendres bontez,</l>
+          <l><seg type="tab">    </seg>Pour sa grandeur &amp; pour sa gloire,</l>
+          <l><seg type="tab">    </seg>Je graveray de vives seûretez</l>
+          <l><seg type="tab">    </seg>D’une inviolable mémoire.</l>
+          <l/>
+          <l><seg type="tab">    </seg>Ainsi tous vos soins importans</l>
+          <l><seg type="tab">    </seg>Luy seront présens en tout temps,</l>
+          <l>Et voyant vostre Regne &amp; si doux &amp; si juste,</l>
+          <l>De sa reconnoissance il suivra les ardeurs,</l>
+          <l>Et vous dira, <hi rend="i">Regnez, Régente auguste</hi>,</l>
+          <l><hi rend="i">Sur mes Etats, comme sur tous les Cœurs</hi>,</l>
+          <l><hi rend="i">Qu’en tout vostre sagesse ordonne</hi> ;</l>
+          <l><hi rend="i">Que toûjours vos conseils soient mes plus cheres Loix</hi> ;</l>
+          <l><hi rend="i">Et puis que vostre main me donne une Couronne</hi>,</l>
+          <l rend="i">Daignez toûjours m’aider à soutenir son poids. </l>
+        </quote>
+        <p>Le mesme soir, Madame Royale entrant dans sa Chambre, y trouva devant son feu un Ecran d’une beauté singuliere. Il faut vous en faire la description. Le pied est d’argent doré, travaillé admirablement ; &amp; dans le haut, il y a une Couronne de Savoye, couverte de fort beaux Diamans. Le corps de l’Ecran est une Miniature d’un excellent Maistre. Le dessein représente Son Altesse Royale Monsieur le Duc de Savoye sur le bord de la Mer, &amp; à pied. Il est revestu du Manteau Ducal. Vis-à-vis de luy, Madame Royale paroist sortir d’un Palais, suivie des Vertus. Elle montre à ce jeune Prince qu’i faut quiter les plaisirs enfantins, (on les voit représentez derriere luy par une Troupe d’Enfans qui joüent à toute sorte de petits jeux,) &amp; se préparer à passer à Lisbonne, qu’on découvre en perspéctive à l’orizon d’une grande Mer. Un petit Amour volant luy montre aussi avec le doigt, que c’est là qu’il doit aller chercher ses plaisirs. On voit un Port &amp; des Vaisseaux prests pour l’Embarquement. La Gloire descend, tenant une Couronne de Lauriers ; &amp; la Renommée fend les airs, pour publier à toute la Terre la glorieuse Alliance qui se fait entre la Savoye &amp; le Portugal. On lit ces mots écrits à un coin, <hi rend="i">Matre Dea monstrante viam</hi>. Dans l’autre costé de la Table de l’Ecran, il y a une Broderie d’or, d’argent, &amp; de soye couleur de feu, fort relevée, sur une peau de Frangipane, dont le dessein représente des flâmes de feu, sur lesquelles est une Couronne tres-riche. Les deux costez sont rejoints par un galon d’or, attaché avec un tres-grand nombre de clous à teste de Diamans. Madame Royale, &amp; toute la Cour, furent fort longtemps sans pouvoir s’imaginer d’où venoit ce galant &amp; magnifique Sapate ; mais enfin on découvrit que M<hi rend="sup">r</hi> le Cardinal d’Estrées, dont la vivacité du génie brille dans les petites choses, comme celle de son esprit se fait admirer dans les grandes, avoit envoyé ce Présent de Paris par un Courrier dépesché exprés.</p>
+      </div>
+      <div xml:id="MG-1680-01a_299">
+        <head>[Mort du Sieur Guichard à Madrid]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 299.</bibl>
+        <p>Le Sieur Guichard, dont la passion dominante estoit de mettre tout en usage pour faire des Opéra, &amp; en établir en quelque lieu du monde que ce fust, est mort à Madrid, apres avoir crû estre venu a bout de son dessein. </p>
+      </div>
+      <div xml:id="MG-1680-01a_300">
+        <head>[ Divertissements publics]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 300-305.</bibl>
+        <p>Il est temps de vous parler des divertissemens de cette saison. Vous sçavez qu’elle est destinée par tout aux plaisirs. Je commence par ceux de la Cour. On n’y en a point pris d’autre pendant tout ce Mois, que celuy de l’Opéra de Bellérophon. Il a fort plû à Sa Majesté, qui en a trouvé des endroits si beaux, qu’Elle les a fait repéter deux fois dans chaque Représentation. Aussi tout Paris estoit-il demeuré d’accord, qu’on y rencontroit ce qui est rare, &amp; tres difficile dans un Opera, je veux dire un Sujet conduit, qui attache par luy-mesme, qui a toutes les parties de la Tragedie, &amp; dans lequel tous les divertissemens naissent du corps de l’Ouvrage, sans qu’on les y amene par des incidens forcez, à l’exception de la Scene des Napées &amp; des Faunes, qui a esté faite contre le sentiment de l’Autheur, &amp; seulement pour fournir des Vers à la Musique. On cessa les Représentations de cet Opéra Vendredy dernier, pour les reprendre alternativement avec celles de l’Opéra de <hi rend="i">Proserpine</hi>, qui paroistra pour la premiere fois le 5. Fevrier. Il est de M<hi rend="sup">r</hi> Quinault, qui s’est surpassé luy-mesme ; &amp; comme ses Vers ont toute la délicatesse qui est necessaire pour le chant, on a une impatience inconcevable de les entendre. Si les oreilles doivent estre fort satisfaites dans cet Opéra, les yeux ne le seront pas moins, puis que soit pour la beauté des Décorations, soit pour la richesse des Habits il ne s’est jamais rien veu de si somptueux en France.</p>
+        <p>La Troupe Royale de l’Hostel de Bourgogne, a représenté une Tragedie intitulée, <hi rend="i">Genseric Roy des Vandales</hi>, mise au Theatre par l’illustre Madame des Houlieres. C’est tout dire. Vous sçavez combien les Ouvrages que je vous ay envoyez de sa façon, ont esté trouvez justes &amp; pleins de délicatesse, &amp; avec quel empressement on souhaite de tous costez d’en voir dans mes Lettres. La mesme Troupe promet une autre Piece nouvelle sous le nom <hi rend="i">d’Adraste.</hi> Elle est de M<hi rend="sup">r</hi> Ferrier.</p>
+        <p>Je croyois vous appprendre le succés d’<hi rend="i">Agamemnon</hi>, affiché depuis longtemps par la Troupe du Roy, qu’on appelle de Guénegaud, mais la foule augmente de jour en jour aux Représentations de <hi rend="i">la Devineresse</hi>, &amp; non seulement elles ont continué jusqu’à aujourd’huy depuis la Saint Martin qu’elle a commencé de paroistre sur le Théatre, mais il y a grande apparence qu’elles continuëront tout le reste du Carnaval. Cet extraordinaire succés ne peut venir que de ce que tout le monde trouve à s’y divertir plus d’une fois, &amp; vous tomberez d’accord que les choses qui nous font souhaiter de les revoir, ne peuvent estre que fort agreables. </p>
+      </div>
+      <div xml:id="MG-1680-01a_311">
+        <head>[Le libraire au lecteur]</head>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 311-312.</bibl>
+        <label>Le libraire </label>
+        <label>au lecteur.</label>
+        <p>Je debiteray sans aucun retardement la Comédie de <hi rend="i">la Devineresse</hi>, dans les premiers jours de Fevrier, comme je fais le Mercure. Quelques-uns disent qu’on l’a déja veue imprimée. Si cela estoit, on n’auroit pû faire cette Impression que sur une Copie dérobée pendant les Représentations qu’on en a faites depuis deux mois, &amp; par conséquent tres-imparfaite, puis que si on a pû retenir l’ordre des Scenes, il est impossible qu’on les ait retenües toutes telles qu’elles sont joüées. Afin que personne ne soit surpris, ny à cette fausse Copie (s’il est vray qu’il y ait une Devineresse déja imprimée) ny aux Impressions contrefaites qui s’en pourront faire, &amp; qui sont toûjours pleines de fautes ; je vous avertis que la veritable Impression de cette Comedie que l’Autheur fait faire présentement, &amp; que je vous promets tres-correcte, aura le Titre de la premiere Page, composé des Caracteres suivans.</p>
+        <p/>
+        <label>La</label>
+        <label>devineresse,</label>
+        <label>ou les faux</label>
+        <label>enchantemens.</label>
+        <label>Comedie.</label>
+        <p>Ces Caracteres ne peuvent estre contrefaits, &amp; on doit tenir pour faux tous les Exemplaires où le Titre de la premiere Page ne sera point imprimé de la maniere que je vous le marque.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
