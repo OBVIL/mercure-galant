@@ -106,7 +106,7 @@ class Mercure {
     // voir si on a des résultats
     $results = self::$pdo->query($sql)->fetch(PDO::FETCH_ASSOC);
     if(!empty($results)) {
-      print '<div id="tags"><ul class="tree"><li>Mots-clés<ul>';
+      print '<div id="tags"><ul class="tree"><li>Termes indexés<ul>';
       foreach(self::$pdo->query($sql) as $tag) {
         if ($tag['type']=="person") $page="persons";
         elseif ($tag['type']=="topic") $page="topics";
