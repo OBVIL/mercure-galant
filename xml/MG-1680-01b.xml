@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure galant, janvier, deuxième partie [tome 2], 1680.</title>
+        <title type="desc">Contenant les Céremonies du Mariage de Monsieur le Prince de Conty avec Mademoiselle de Blois ; &amp; une Relation de la Lorraine Espagnolete.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable d'édition</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1680-01b/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure galant</title>, janvier, deuxième partie [tome 2], <date>1680</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1680-01b_050">
+        <head>[Le divertissement de l’Opéra de Bellérophon] * et [Cérémonies du mariage et du baptème du duc de Bourbon] *</head>
+        <bibl><title>Mercure galant</title>, janvier, deuxième partie [tome 2], 1680, p. 50-60.</bibl>
+        <p>Les Fiançailles estant achevées, toute cette auguste Compagnie alla prendre le divertissement de l’Opéra de Bellérophon. Le lendemain, qui estoit le jour du Mariage, Monsieur le Prince de Conty rencontra la Reyne quelques heures avant celle qu’on avoit marquée pour en faire la Cerémonie. Cette Princesse dont la pieté n’a point d’exemple, luy dit, <hi rend="i">qu’elle alloit faire ses Devotions pour demander à Dieu qu’il voulust benir son Mariage</hi>. L’heure de cette Cerémonie estant venüe, les mesmes Personnes qui s’estoient trouvées le jour précedent aux Fiançailles, &amp; que je vous ay déjà nommées, sortirent de la Chambre de la Reyne, où elles s’estoient rendües, pour aller de là dans la Chapelle. […]</p>
+        <p>La Cerémonie du Mariage fut faite par M<hi rend="sup">r</hi> le Cardinal de Bouillon. Comme elle est la mesme par tout, il me seroit inutile de décrire icy des choses qui ne se font pas autrement parmy les Grands, que parmy les Personnes les moins élevées. Tout ce que je vous en puis dire de particulier, c’est qu’en cette occasion Monsieur le Prince de Conty voulut avoir des déférences pour Mademoiselle de Blois, ausquelles Sa Majesté s’opposa. Il est des rencontres où pour paroistre veritablement amoureux, un Amant doit tout déferer à une Maîstresse ; mais il est aussi des temps où la solemnité des Cerémonies, demande nécessairement qu’on y paroisse dans le rang qu’on doit tenir. Celle du Mariage estant achevée, Monsieur le Prince &amp; Madame la Princesse de Conty se mirent à genoux aupres de l’Autel. Le Roy &amp; la Reyne estoient seuls sur une ligne, Monseigneur le Dauphin derrière Leurs Majestez. Apres luy estoient Monsieur, Madame, &amp; Mademoiselle ; en suite Mademoiselle d’Orléans, Madame la Grand’ Duchesse, &amp; Madame de Guise, &amp; ainsi de tout le reste. On dit la Messe, apres laquelle Monsieur le Cardinal de Boüillon fit la Cerémonie du Baptème de Monsieur le Duc de Bourbon, Fils de S. A. S Monsieur le Duc. Le Roy fut son Parrain, &amp; le nomma Loüis. Madame estoit la Marraine. Ce jeune Prince avoit ce jour là un Habit de lames d’argent, brodé de Cordonnet d’argent, &amp; enrichy d’une Garniture d’un Ruban aussi d’argent. Ses Gands estoient blancs, garnis de frange d’argent, &amp; il avoit des Bas de soye &amp; des SOuliers de mesme couleur. Il fait ses études au Collège de Clermont, &amp; l’esprit de sa Maison paroist tellement dans tout ce qu’il dit, qu’il donne de jour en jour de nouveaux sujets de l’admirer. Au sortir de la Chapelle, le Roy alla dîner chez la Reyne, avec Monseigneur, Monsieur le Duc de Chartres, Fils de Son Altesse Royale, Mademoiselle, Mademoiselle d’Orléans, Madame la Grande Duchesse, Madame de Guise, &amp; Madame la Princesse de Conty. Apres le Dîné, chacun s’alla préparer pour les Divertissemens du soir ; &amp; sur les approches de la nuit, les Princes &amp; les Princesses s’assemblerent chez la Reyne. On y attendit l’heure de la Comédie, &amp; quand on fust prest de la commencer, cette grande &amp; auguste Compagnie se rendit dans la Salle des Balets. Toute la Maison Royale se plaça sur une ligne, &amp; tous les Princes du Sang vis-à-vis sur une autre ligne. La Troupe Royale représenta l’Iphigénie de M<hi rend="sup">r</hi> Racine, qu’on entremesla de Musique dans les Entr’actes. La Comédie estant faite, M<hi rend="sup">r</hi> le Cardinal de Boüillon alla faire la Benédiction du Lit des Mariez. Il bénit aussi la Table. C’est ce qui se pratique ordinairement quand il y a Festin Royal. […]</p>
+      </div>
+      <div xml:id="MG-1680-01b_089">
+        <head>Relation de la Lorraine espagnolette</head>
+        <bibl><title>Mercure galant</title>, janvier, deuxième partie [tome 2], 1680, p. 89-211.</bibl>
+        <p>Il me reste à vous tenir parole sur ce que je vous ay promis touchant la Lorraine Espagnolette. La matiere de la Relation que j’en ay reçeuë, ne sera pas tout-à-fait nouvelle pour vous, puis que dans ma Lettre de Decembre, je vous ay déjà marqué assez exactement tous les lieux où avoit passé la Reyne d’Espagne, depuis qu’elle estoit entrée dans les Etats du Roy Catholique. Aussi en vous faisant part de cette Relation, je ne prétens pas vous apprendre ce qui vous est inconnu, mais ce que vous ne sçavez pas dans toutes ses circonstances. Vous en trouverez beaucoup de fort curieuses dans ce que cette spirituelle Personne m’a fait la grace de m’adresser. Quand il n’y auroit que la maniere d’écrire, tout ce qui part de sa plume est si galamment tourné, que vous ne regreterez point le temps que vous aurez donné à cette lecture. Je suprime le commencement de sa Lettre, qui ne parle que de la Maison bâtie dans l’Isle des Conférences pour la cerémonie <hi rend="i">de las Entregas</hi>, &amp; de l’affluence extraordinaire de monde qui y estoit accouru de toutes parts. Voicy comme elle poursuit.</p>
+        <quote>
+          <label>Relation</label>
+          <label>de la Lorraine</label>
+          <label>espagnolete,</label>
+          <stage>Touchant le Voyage de la Reyne d’Espagne, depuis son entrée dans les Etats du Roy Catholique, jusqu’à son arrivée à Madrid.</stage>
+          <p>[…] M<hi rend="sup">r</hi> le Marquis d’Astorga fit aussi compliment à M<hi rend="sup">r</hi> le Prince d’Harcourt &amp; aux principaux de la Noblesse Françoise qui l’accompagnoit ; &amp; apres les premieres civilitez renduës de part &amp; d’autre, le Secretaire d’Etat lût les pleins Pouvoirs des Ambassadeurs Extraordinaires des deux Roys, en vertu desquels M<hi rend="sup">r</hi> le Prince d’Harcourt executa les ordres qu’il avoit de remettre à M<hi rend="sup">r</hi> le Marquis d’Astorga la Royale Personne de la Sa Majesté, qui apres avoir reçeu les soûmissions &amp; les respects accoûtumez de tous les Seigneurs &amp; Dames de la Cour qui estoient présens, entra un moment apres dans sa Gondole, suivie de son Grand-Maistre d’Hostel, de Madame la Duchesse de Terranova, de M<hi rend="sup">r</hi> le Prince &amp; Madame la Princesse d’Harcourt, &amp; de M<hi rend="sup">r</hi> le Marquis &amp; de Madame la Marquise de los Balbasés. Toutes les autres Dames Espagnoles &amp; Françoises entrérent dans leurs Barques. Les Cavaliers en firent de mesme ; &amp; parmy les acclamations d’un Peuple infiny, dont toute la Rivière &amp; ses deux bords estoient couverts, au bruit des Trompetes, des Timbales, des Hautbois, des Tambours, &amp; de plusieurs Concerts d’Instrumens, qui se faisoient entendre de toutes parts, cette belle Troupe descendit vers Yron, à la faveur de la Marée, &amp; du courant de la rivière. […]</p>
+          <p>Sa Majesté se fit porter droit à la grande Eglise d’Yron, pour y rendre graces à Dieu du succés de son Voyage &amp; de son heureuse arrivée en Espagne. Elle fut reçeüe à la porte par M<hi rend="sup">r</hi> l’Evesque de Pampelune, à la teste de son Clergé. Ce Prélat luy donna de l’Eau Béniste, &amp; Sa Majesté s’estant avancée prés du Grand Autel, où l’on luy avoit préparé un Prie-Dieu fort magnifique, sous un Dais de Velours cramoisy en Broderie d’or, l’on entonna le <hi rend="i">Te Deum</hi> en Musique, meslée de Voix, &amp; d’Instrumens, &amp; quoy que la métode Espagnole soit fort diférente de la Françoise, comme elle a aussi ses agrémens, tout le monde trouva celle-là fort belle, &amp; la Reyne en fut très-satisfaite. […]</p>
+          <p>Le lendemain 4. Novembre, la Reyne voulut encor demeurer au mesme lieu pour donner le temps à son Grand-Maistre d’Hostel de faire préparer les choses nécessaires pour le Voyage. Ce retardement le mit en pouvoir de régaler les François. Le Repas fut magnifique. L’on y but au bruit des Trompetes &amp; des Timbales, les Royales Santez de Leurs Majestez des deux Maisons d’Autriche, de celle de France, &amp; de celle d’Angleterre, qui sont les quatre Tiges Augustes d’où le Roy &amp; la Reyne sont sortis. […]</p>
+          <p>Tout ce jour se passa donc en Festins &amp; en Réjoüissances ; mais le lendemain 5. Novembre, la Reyne partit d’Yron, pour continuer son Voyage, &amp; elle fit cette journée en Litiere jusques à Hernany, qui n’est qu’un petit Bourg de 250. Maisons, où Sa Majesté coucha.</p>
+          <p>Le 6. elle partit d’Hernany pour Tolosa. […]</p>
+          <p>La Cour coucha à Tolosa, &amp; le Marquis d’Astorga envoya de là un Gentilhomme au Roy, pour informer en détail Sa Majesté de ce qui s’estoit passé jusques alors, depuis l’arrivée de la Reyne à la Frontière. Là, &amp; dans toutes les autres Villes &amp; Villages de Biscaye, par où la Reyne passa, Sa Majesté eut le divertissement de voir les Dances rustiques des petites Basques, qui témoignérent à leur façon par cent sortes de Jeux champétres, l’extréme joye que leur causoit l’honneur de voir une si grande &amp; si belle Princesse en leur Païs. Ce sont des Filles extrémement gayes, la plûpart fort jolies, quoy qu’un peu brunes, parées à leur mode &amp; couronnées de Guirlandes de Mirtes, &amp; de Fleurs, qui parlent un jargon que personne n’entend, &amp; qui au son des Castagnetes &amp; des Tambours de Basques, qu’elles touchent avec une extréme vîtesse, &amp; une cadence fort juste, font mille tours &amp; détours, meslant leur voix au bruit de leurs Instrumens, &amp; faisant des cris de joye &amp; d’acclamations, qui divertissent extrémement les Etrangers. Ce furent les premières Festes que les Espagnols donnèrent à leur Reyne, qui les reçeut avec d’autant plus de satisfaction, que ne tenant rien de la magnificence, délicatesse &amp; galanterie affectée de la Cour, le cœur des Peuples exprimoit plus naturellement à leur Souveraine la joye que son auguste présence leur causoit.</p>
+          <p>[…].</p>
+          <p>[…] Le lendemain de son arrivée [à Victoria], la Reyne eut dessein de faire son Entrée solemnelle, mais le mauvais temps, qui continua avec la mesme violence que le jour précedent, ne le luy permis pas, &amp; elle fut obligée de se contenter d’aller à la grande Eglise, à la Porte de laquelle on la vint recevoir sous un Dais magnifique. On chanta le <hi rend="i">Te Deum</hi>, en action de graces de son heureuse arrivée au-deça des Pirenées. […]</p>
+          <p>L’apresdinée de ce jour-là il se fit un Combat de Taureaux, où la Reyne ne fut pas présente pour la raison que j’ay déjà rapportée, quoy qu’elle voulust bien avoir la complaisance de voir une Comédie Espagnole, qu’on luy représenta cette nuit-là. On luy donna encor le divertissement d’un nouveau Feu d’artifice, aussi bien que le lendemain, qui fut la veille de son départ.</p>
+          <p>[…]</p>
+          <p>Le 14. Sa Majesté partit de Victoria pour aller coucher à iranda de Ebro […].</p>
+          <p>Le 15. cette Princesse passa de Miranda à Pancorvo […].</p>
+          <p>Le 16. l’on vint coucher à Birviesca […].</p>
+          <p>DE là elle se rendit le 17. à un petit Village, dont le nom est échapé à la émoire ; &amp; enfin le 18. elle arriva de bonne heure à Quintana-Palla […]. Sa Majesté fit tout à coup appeler le Patriarche des Indes, &amp; luy ordonna de se rendre encor le mesme soir dix-huitiéme Novembre à Quintana-Palla, avec ceux du Clergé qui devoient l’assister en cette occasion, d’y transporter les Ornemens de la Chapelle, pour y faire la cerémonie du mariage, &amp; enfin de donner part à la Reyne de cette résolution, que le Roy devoit aller le lendemain au matin exécuter en personne. […]</p>
+          <p>Le lendemain Lundy 20. Novembre, fut le jour destiné à l’Entrée solemnelle de la Reyne à Burgos, à une heure apres midy. […]</p>
+          <p>La Reyne alla droit à l’Eglise Métropolitaine, où elle fut reçeüe par le Doyen &amp; par les Chanoines, qui la conduisirent avec la Croix, jusques au magnifique Prie-Dieu qui luy estoit préparé sous un Dais. L’Archevesque, qui par malheur mourut le mesme jour de cette Entrée, fut légitimement dispensé de se trouver à la teste de son Chapitre, pour y faire les fonctions de sa Dignité. L’on chanta le <hi rend="i">Te Deum</hi>, &amp; jamais l’on avoit oüy à Burgos une Musique si belle, ny des Concerts si achevez de Voix &amp; d’Instrumens.</p>
+          <p>[…]</p>
+          <p>Sa Majesté alla recevoir la Reyne à la Porte du Palais, d’où montant à leur Appartement avec toute la Cour, Leurs Majestez y reçûrent de nouveau les Complimens respectueux de tous les Grands ; &amp; comme il estoit déjà tard, l’on fit commencer les Feux d’artifice, que Leurs Majestez virent avec plaisir de leur Balcon, d’où elles passerent dans la Salle des Comédies, pour y voir représenter la première Journée (c’est le premier Acte) de la Comédie en machines de Narcisse &amp; d’Echo, composée par le fameux Calderon. L’on y avoit adjoûté un Prélude en Musique, qu’ils appellent icy <hi rend="i">la Loa</hi>, dont la solemnité du Jour faisoit le sujet.</p>
+          <p>Le Mardy 21. fut encor celebre par deux Actions d’éclat qui se firent à Burgos, l’une le matin, &amp; l’autre le soir. La premiere fut l’Entrée de M<hi rend="sup">r</hi> le Prince d’Harcourt en qualité d’Ambassadeur Extraordinaire de France, envoyé de la part de Sa Majesté Tres-Chrestienne à l’occasion du Mariage du Roy Catholique. […]</p>
+          <p>L’autre Action dut le Cerémonie avec laquelle se couvrit la premiere fois devant le Roy en qualité de nouveau Grand d’Espagne, le Duc de S. Pierre, Beaufils du Marquis de los Balbasés. […] Les réjoüissances de cette Journée s’acheverent par un beau Feu d’artifice, &amp; par une Comédie, comme le soir précedent.s</p>
+          <p>Le 22. la Ville de Burgos régala Leurs Majestez d’un Combat de Taureaux […] Le soir du mesme jour, il y eut encor Comédie au Palais, &amp; des Feux d’artifice à la Place. […]</p>
+          <p>L’on ne sçait pas encore précisément quand le Reyne fera son Entrée solemnelle en cette Cour. […] Si je suis encor en cette Cour quand elle se fera, je ne manqueray pas de vous donner part de tout ce qui s’y passera, sans oublier de vous envoyer mesme, s’il se peut, le Plan des Arts de Triomphe que l’on prépare au nombre de cinq, ausquels on travaille depuis six mois. Mais comme il y a l’apparence que l’Etoille des Personnes dont la mienne dépend, me rapellera bientost en France, je crains fort que ce changement de Païs, ne mette fin à nostre commerce, puis que renonçant aux Habits, à la Coëfure, à la Langue, &amp; aux façons Espagnoles, je n’auray plus lieu de vous écrire sous le nom de</p>
+          <p rend="sc">La Lorraine Espagnolette. </p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

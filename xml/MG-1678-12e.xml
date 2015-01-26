@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure galant, quartier d’octobre, tome 4, 1678.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable d'édition</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1678-12e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre, tome 4, 1678.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1678-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1678-12e_041">
+        <head>[Relation d’une fête galante]</head>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre, tome 4, 1678, p. 41-56.</bibl>
+        <quote>
+          <label>FESTE</label>
+          <label>GALANTE.</label>
+          <label>à Rheims.</label>
+          <p>Je n’eus pas plûtost reçeu vostre dernier Extraordinaire, que j’allay rendre une visite à Madame de …. Apres les premiers complimens je luy presentay vostre Livre. Elle l’ouvrit, &amp; tomba sur la Feste galante que vous proposez. Le dessein luy en plût. Elle témoigna mesme qu’elle vouloit y travailler; si-bien que le lendemain retournant chez elle, elle me lût ce qu’elle avoit écrit sur cette matiere. J'obtins d’elle la permission d’emporter son Papier, &amp; d’en transcrire ce qui suit.</p>
+          <p><seg type="tab">    </seg>Tandis que tout le monde estoit attentif à ce que la Renommée publioit touchant les derniers Exploits de nostre Invincible Monarque, l’Amour s’affligeoit de ce qu’on n’en devoit pas esperer si-tost la Paix. Il la vit pourtant quelque temps apres, lors qu’une lumiere fut assez forte pour penetrer son bandeau. Il voulut sçavoir d’où partoit cette lumiere. Il leva ce voile qui luy cache les yeux, &amp; reconnut la Paix. Aussi-tost transporté de joye il vola vers elle. Il l’aborda au milieu des acclamations publiques, &amp; en suite il la conduisit dans un Palais enchanté. N'en doutez point, luy dit-il, je n’ay pas moins de joye de vostre arrivée, que les mortels en peuvent avoir. Si vous l’agréez, je signaleray le plaisir que j’en ressens par une Feste où j’inviteray toutes les Divinitez. La Paix ayant témoigné y consentir, l’Amour ordonna à des Zéphirs d’aller prier les Dieux de se trouver aux divertissemens qu’il préparoit, &amp; employa le reste de sa suite tant à ajoûter de nouveaux ornemens à son Palais, &amp; à le rendre pompeux &amp; brillant, qu’à accomoder un Festin propre &amp; magnifique. Les Zéphirs s’estant acquitez des ordres qu’ils avoient reçeus, assurerent l’Amour que pas une des Divinitez ne manqueroit à se rendre à la Feste, à l’exception de Mars &amp; de la Gloire. Ils disoient que la Gloire s’en defendoit sur ce qu’elle n’abandonne point LOÜIS LE GRAND, &amp; que Mars s’estant retiré avec la Discorde dans le Palais de l’Envie, estoit résolu à n’en point sortir. Ce Dieu de la Guerre, ajoûterent les Zéphirs, est tellement chagrin de ce que son regne se passe, qu’il n’est plus capable que d’estre un Trouble feste. L'Amour content de n’avoir rien à desirer davantage, se disposa à recevoir les Dieux autant bien qu’il luy seroit possible. Dés qu’ils furent arrivez il commanda qu’on servit sur Table de l’Ambrosie déguisée de plusieur manieres. Tout y estoit régulier. Il n’y avoit qu’une chose où l’Amour ne démentit point son caractere, &amp; montra que comme un Enfant il luy échape toûjours de badiner. Il s’estoit plû à donner à Jupiter &amp; à Junon des Fauteüils de couleur de Prince ; à Cybelle, un de feüille-morte ; à Saturne, un de couleur de Ciel ; à la Paix, un de couleur d’Olive. Plutus estoit le seul qui en avoit un de drap d’or. Cerés en avoit un de couleur de paille ; Neptune un de couleur perse ; la Fortune un de couleur de gorge de Pigeon. Le blanc estoit pour la Vertu ; le bigarré pour Mercure ; Bacchus avoit le rouge ; Pluton &amp; Proserpine le noir ; Vulcain le jaune ; Apollon une couleur tirant sur l’or pâle ; Pan &amp; Diane la couleur de bois ; Vénus le gris de perle ; Momus un Broccard de la couleur de son Bonnet, c’est à dire de couleur verte, &amp; l’Amour s’estoit reservé la couleur de chair. Quant au Dieu Termes il estoit debout à l’extremité de la Table, &amp; Silene avoit sa place au Buffet. Aussi-tost qu’on fut assis, Momus remarqua que Mars estoit absent. Il nous manque aujourd’huy, disoit-il, un Rodomont qui n’a rien que de fier, &amp; qui est ennemy de la joye. Jupiter voyant que Vulcain vouloit encherir sur ce que Momus avançoit, &amp; que cela iroit trop loin, prit le party de Mars, &amp; soûtint qu’on ne pouvoit trop estimer un Dieu qui avoit rendu Loüis LE GRAND si glorieux, puis que la Fortune elle-mesme avouëroit qu’elle n’a eu aucune part aux Actions de ce Héros, &amp; que tout estoit dû à ses belles qualitez. Jupiter ajoûtoit à cela, que comme il ne se faisoit pas toujours connoistre aux Hommes par son Tonnerre, ainsi ce Conquérant qui est né pour la Paix aussi bien que pour la Guerre, se signaleroit autant à l’avenir par sa clemence, que jusqu’à-present il s’estoit signalé par sa valeur ; &amp; puis montrant que l’Aigle Impériale, dans l’impossibilité de nuire elle seule aux Lys, seroit bien-tost contrainte de recevoir la Paix, il adressoit ces Vers au Roy.</p>
+          <l>Illustre Conquérant, dont la brillante gloire</l>
+          <l>A des plus grands Héros effacé la mémoire,</l>
+          <l>Cette charmante Paix qu’on reçoit de ta main,</l>
+          <l>Desormais te rendra l’amour du Genre humain,</l>
+          <l>Malgré les vains efforts d’un impuissant Empire.</l>
+          <l>C'est peu qu’il soit encor l’ennemy de tes Lys ;</l>
+          <l>Que peut-il, si son Aigle, &amp; sa foudre, &amp; son rire,</l>
+          <l>Manquent d’un Jupiter, ou plutost d’un LOUIS ?</l>
+          <p>Toute l’Assemblée s’étendit ensuite sur l’Eloge du Roy, jusqu’à ce qu’on deservit l’Ambroisie, &amp; que la Paix vuida les fruits de sa Corne d’abondance. Chaque Dieu en prit sa part, &amp; Jupiter se récria qu’il y avoit lieu de dire qu’ils estoient obligez à ce grand Monarque, de ce qu’eux-mesmes goûtoient les fruits de la Paix, &amp; que desormais le Ciel &amp; la Terre tiendroient de luy leur felicité. Quelque temps apres les Dieux se leverent de table, &amp; passerent dans un Salon où les Muses qui y avoient esté conduites par Apollon, donnerent un Concert d’Instrumens qui fut trouvé admirable. L'Echo s’estant multiplié en mille endroits du Palais, contribuoit à rendre le Concert plus beau &amp; plus divin. Apollon se distinguoit par la douce harmonie de son Luth. Enfin les Dieux tomberent d’accord qu’ils n’avoient jamais rien entendu de si mélodieux. Apollon peu satisfait de ce premier divertissement, voulut encor donner celuy de la danse à l’Assemblée. Il se mit à la teste des Muses, &amp; selon sa coûtume il dansa avec elle en rond, c’est à dire qu’il commença les Branles au son du Flageolet, du Hautbois, de la Flute douce, &amp; de la Musete, dont jouoient Pan, les Sylvains, &amp; les Faunes. Lors que les Branles furent finis, les Zéphirs originaires d’Espagne, danserent la Sarabande avec une grace sans égale. Au divertissement de la Dance succeda un Opéra, qui avoit pour sujet, l’Union des Titans contre le Ciel, mais l’Amour avoit changé la fin de cette Fable, car les Titans assûrés de leur perte, y demandoient grace à Jupiter, &amp; l’obtenoient. C'estoit afin que l’application en fust plus juste aux Puissances de l’Europe liguées contre la France, lesquelles reconnoissant que si la Guerre continuoit, leur ruine seroit certaine, se trouvant heureuses de recevoir la Paix des mains de LOUÏS LE GRAND. La Simphonie de cet Opéra ne pouvoit estre que surprenante, puis que les Sireines que Vénus avoit envoyées à son fils, y chantoient, &amp; que l’Amour estant de tout Païs, avoit à son service des Zéphirs de chaque endroit où l’on excele à joüer de quelque Instrument ; Car c’estoit un Zéphir Italien qui y jouoït de la Guitarre ; un Espagnol, des Castagnetes ; un Turc, de la Flute douce ; un Allemand, de la Trompete ; un Anglois, de la Viole ; un Ecossois, de la Cornemuse ; un Irlandois, de la Harpe ; un Basque, du Tambour ; un Suisse, Du Fiffre , &amp; un François, du Luth. Sur la fin de l’Opéra les Acteurs s’adresserent à la Paix, afin qu’elle rétablist le repos sur la Terre, &amp; que ce repos devinst éternel. Cette Piece qui durant sa représentation avoit eu des loüanges muetes par l’admiration qui parut sur le visage des Dieux, s’en attira une infinité de leur bouche, puis qu’ils avoüerent tout d’une voix qu’on ne pouvoit mieux terminer une Feste aussi agreable. L'Opéra finy, ils retournerent chacun dans le lieu de leur Empire , à la reserve de Saturne que l’Amour &amp; la Paix retinrent, afin qu’ayant le temps à eux, ils regnassent plusieurs années icy bas.</p>
+          <p>Lors qu’à la troisiéme visite j’eus remis entre les mains de la Dame le Papier qu’elle m’avoit presté, je luy dis que je ne doutois point qu’elle n’eust trouvé aisément l’origine de l’Horloge de Sable. Saturne, me répondit-elle, qui selon ma fiction, reste dans le Palais de l’Amour, m’a fait songer que c’estoit apparemment luy qui avoit inventé cette Horloge. Vous sçavez, ajoûta-t-elle, que sa Femme Cybelle a aimé Atis, &amp; qu’Atis se montrant insensible aux attraits de cette Déesse, a esté métamorphosé en Pin. Comme le Temps reduit toutes choses en poudre, il est à croire que cet Arbre n’aura pas eu un autre sort que celuy qu’eut Sangaride. L'Amour qu’Atis a senty pour cette Belle, aura esté de ces Amours qui ne s’éteignent jamais. Le feu de cet Amour aura causé un perpetuel mouvement à la poudre de cet Arbre, &amp; n’aura pas moins agité le Sable avec laquelle elle aura esté meslée &amp; confonduë. Saturne voyant ce Sable propre à remonter au lieu dont il seroit descendu, &amp; luy estant de la derniere consequence que les momens soient reglez ; aura composé cette Horloge. Peut estre qu’il la pose sur sa teste afin qu’on remarque qu’il n’y a rien d’élevé que cette Horloge, &amp; qu’on ne croit pas que Cybelle luy ait joüé quelque mauvais tour : car j’ay de la peine à me persuader que c’est pour avoir incessamment l’Horloge en veuë, puis que ses yeux sont au dessous de sont front. Il échapa encor d’autres plaisanteries que je ne vous raporteray point, parce que je m’imagine que le mieux est de quiter la Fiction, &amp; d’en venir à la verité qui est que je suis vostre, &amp;c.</p>
+          <p rend="right"><hi rend="sc">De La Salle</hi>,</p>
+          <p rend="right i">S<hi rend="sup">r</hi> de Lestang </p>
+        </quote>
+        <p>%[Cet article répond à 1678-09a_387.]</p>
+      </div>
+    </body>
+  </text>
+</TEI>
