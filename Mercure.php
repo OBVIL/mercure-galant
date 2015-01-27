@@ -61,6 +61,33 @@ class Mercure {
       $i++;
     }
   }
+  
+  /*
+   * array() topicChilds($topics, $parent)
+   * ramasser tous les topics qui ont le même papa
+   */
+  private function topicChilds($topics, $parent) {
+    return array_filter($topics, function($topic) use($parent) {if($topic['parent']==$parent) return $topic;});
+  }
+  /*
+   * string topicsTree($allTopics, $parent)
+   * méthode récursive pour produire l’arbre des topics
+   * array $topics : tableau de tous les topics
+   * string $parent : id du topic parent pour filtrer
+   */
+  private function topicsTree($allTopics, $parent) {
+    $topics = self::topicChilds($allTopics, $parent);
+    foreach($topics as $topic) {
+      print "<li>".$topic['label'];
+      $childTopics=self::topicChilds($allTopics, $topic['id']);
+      if(!empty($childTopics)) {
+        print "<ul>";
+        self::topicsTree($allTopics, $topic['id']);
+        print "</ul>";
+      }
+    print "</li>";
+    }
+  }
 
   public function printTopicIndex() {
     self::connect('./mercure-galant.sqlite');
@@ -71,6 +98,14 @@ class Mercure {
         AND owl_contains.article_id IN (SELECT name FROM article)
       ORDER BY tag_id";
     print "<h1>Index des mots-clés</h1>";
+    
+    /* reconstruire l’arbre des topics */
+    $sth = self::$pdo->prepare("SELECT id, label, parent FROM owl_topic");
+    $sth->execute();
+    $allTopics = $sth->fetchAll();//TOUS les topics
+    $parent='Topic';//initialisation à la racine
+    self::topicsTree($allTopics, $parent);
+    
     print '<div id="topics"><ul class="tree">';
     foreach(self::$pdo->query($sql) as $topic) {
       //count pour la FLAMBE
