@@ -79,8 +79,8 @@ class Mercure {
     $topics = self::topicChilds($allTopics, $parent);
     foreach($topics as $topic) {
       print "<li>".$topic['label'];
-      $childTopics=self::topicChilds($allTopics, $topic['id']);
-      if(!empty($childTopics)) {
+      $topicChilds=self::topicChilds($allTopics, $topic['id']);
+      if(!empty($topicChilds)) {
         print "<ul>";
         self::topicsTree($allTopics, $topic['id']);
         print "</ul>";
