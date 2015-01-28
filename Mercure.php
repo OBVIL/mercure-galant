@@ -78,7 +78,6 @@ class Mercure {
   private function topicsTree($allTopics, $parent) {
     $topics = self::topicChilds($allTopics, $parent);
     foreach($topics as $topic) {
-      //print '<li class="more" id="'.$topic['id'].'">'.$topic['label'].self::taggedDocsList($topic['id']);
       print '<li>'.$topic['label'].self::taggedDocsList($topic['id']);
       $topicChilds=self::topicChilds($allTopics, $topic['id']);
       if(!empty($topicChilds)) {
@@ -97,8 +96,12 @@ class Mercure {
       FROM owl_contains, article
       WHERE tag_id="'.$tagId.'"
       AND owl_contains.article_id = article.name';
-    $docs=self::$pdo->query($sql);
-    //print $docs->fetchColumn();
+    //$docs=self::$pdo->query($sql);
+    $docs=self::$pdo->query($sql)->fetchAll();
+    $freq=count($docs);
+    if ($freq==0) return false;//on sort si aucun doc
+    //TODO revoir la logique de cet affichage -> faire du JS ?
+    $htmlList .= " ($freq)";
     $htmlList .= '<ul class="more">';
     foreach($docs as $doc) {
       $doc_url = $this->basehref.substr($doc['article_id'], 0, strpos($doc['article_id'], '_'))."/".$doc['article_id'];
@@ -111,18 +114,18 @@ class Mercure {
 
   public function printTopicIndex() {
     self::connect('./mercure-galant.sqlite');
-        
     /* reconstruire l’arbre des topics */
     $sth = self::$pdo->prepare("SELECT id, label, parent FROM owl_topic");
     $sth->execute();
     $allTopics = $sth->fetchAll();//TOUS les topics
     $parent='Topic';//initialisation à la racine à "genres_musicaux"
-    print "<h1>NEW Index des mots-clés</h1>";
+    print "<h1>Index des mots-clés</h1>";
     print '<div id="topics"><ul class="tree">';
     self::topicsTree($allTopics, $parent);
     print '</ul>';
     
-    /*TODO : fusionner ci-dessous avec arbre généré ci-dessus*/
+    /*TODO : REPRENDRE CERTAINES FONCTIONNALITÉS PUIS SUPPRIMER*/
+    
     $sql="SELECT DISTINCT tag_id, label
       FROM owl_contains, owl_topic
       WHERE owl_contains.tag_id = owl_topic.id
