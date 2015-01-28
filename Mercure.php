@@ -78,7 +78,8 @@ class Mercure {
   private function topicsTree($allTopics, $parent) {
     $topics = self::topicChilds($allTopics, $parent);
     foreach($topics as $topic) {
-      print "<li>".$topic['label'];
+      //print '<li class="more" id="'.$topic['id'].'">'.$topic['label'].self::taggedDocsList($topic['id']);
+      print '<li>'.$topic['label'].self::taggedDocsList($topic['id']);
       $topicChilds=self::topicChilds($allTopics, $topic['id']);
       if(!empty($topicChilds)) {
         print "<ul>";
@@ -88,24 +89,47 @@ class Mercure {
     print "</li>";
     }
   }
+  
+  /* Afficher la liste formatée des articles pour un tag */
+  private function taggedDocsList($tagId) {
+    $htmlList='';
+    $sql='SELECT article_id, title, created
+      FROM owl_contains, article
+      WHERE tag_id="'.$tagId.'"
+      AND owl_contains.article_id = article.name';
+    $docs=self::$pdo->query($sql);
+    //print $docs->fetchColumn();
+    $htmlList .= '<ul class="more">';
+    foreach($docs as $doc) {
+      $doc_url = $this->basehref.substr($doc['article_id'], 0, strpos($doc['article_id'], '_'))."/".$doc['article_id'];
+      $doc_created = '<a href="'.$this->basehref.'?q=&start='.$doc['created'].'">'.$doc['created'].'</a>';
+      $htmlList .= '<li>'.$doc_created.': <a href="'.$doc_url.'">'.$doc['title'].'</a></li>';
+    }
+    $htmlList .= "</ul>";
+    return $htmlList;
+  }
 
   public function printTopicIndex() {
     self::connect('./mercure-galant.sqlite');
+        
+    /* reconstruire l’arbre des topics */
+    $sth = self::$pdo->prepare("SELECT id, label, parent FROM owl_topic");
+    $sth->execute();
+    $allTopics = $sth->fetchAll();//TOUS les topics
+    $parent='Topic';//initialisation à la racine à "genres_musicaux"
+    print "<h1>NEW Index des mots-clés</h1>";
+    print '<div id="topics"><ul class="tree">';
+    self::topicsTree($allTopics, $parent);
+    print '</ul>';
+    
+    /*TODO : fusionner ci-dessous avec arbre généré ci-dessus*/
     $sql="SELECT DISTINCT tag_id, label
       FROM owl_contains, owl_topic
       WHERE owl_contains.tag_id = owl_topic.id
         AND tag_type='topic'
         AND owl_contains.article_id IN (SELECT name FROM article)
       ORDER BY tag_id";
-    print "<h1>Index des mots-clés</h1>";
-    
-    /* reconstruire l’arbre des topics */
-    $sth = self::$pdo->prepare("SELECT id, label, parent FROM owl_topic");
-    $sth->execute();
-    $allTopics = $sth->fetchAll();//TOUS les topics
-    $parent='Topic';//initialisation à la racine
-    self::topicsTree($allTopics, $parent);
-    
+    print "<h1>OLD Index des mots-clés</h1>";
     print '<div id="topics"><ul class="tree">';
     foreach(self::$pdo->query($sql) as $topic) {
       //count pour la FLAMBE
@@ -114,7 +138,7 @@ class Mercure {
         WHERE tag_id="'.$topic['tag_id'].'"';
       foreach(self::$pdo->query($occs) as $occs) $occs=$occs[0];
       print '<li class="more" id="'.$topic['tag_id'].'">'.$topic['label']. ' ('.$occs.' occ)<ul>';
-      //chercher les docs où apparaissent les persons
+      //chercher les docs
       $sql='SELECT article_id, title, created
         FROM owl_contains, article
         WHERE tag_id="'.$topic['tag_id'].'"
