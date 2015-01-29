@@ -112,7 +112,7 @@ class Mercure {
     return $htmlList;
   }
 
-  public function printTopicIndex($full=false) {
+  public function printTopicIndex($full=true) {
     self::connect('./mercure-galant.sqlite');
     // ramasse TOUS les topics
     $selectAll = "SELECT id, label, parent FROM owl_topic";
