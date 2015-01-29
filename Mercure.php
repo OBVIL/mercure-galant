@@ -112,10 +112,21 @@ class Mercure {
     return $htmlList;
   }
 
-  public function printTopicIndex() {
+  public function printTopicIndex($full=false) {
     self::connect('./mercure-galant.sqlite');
-    /* reconstruire l’arbre des topics */
-    $sth = self::$pdo->prepare("SELECT id, label, parent FROM owl_topic");
+    // ramasse TOUS les topics
+    $selectAll = "SELECT id, label, parent FROM owl_topic";
+    //ramasse les seuls topics utilisés; NB il faut aussi ramasser tous les topics racine pour générer l’arbre (UNION)
+    $selectUsed = "SELECT DISTINCT id, label, parent
+        FROM owl_topic, owl_contains
+        WHERE owl_topic.id = owl_contains.tag_id
+          AND owl_contains.article_id IN (SELECT name FROM article)
+      UNION
+      SELECT id, label, parent
+        FROM owl_topic
+        WHERE parent='Topic'";
+    $sql = ($full===true) ? $selectAll : $selectUsed;
+    $sth = self::$pdo->prepare($sql);
     $sth->execute();
     $allTopics = $sth->fetchAll();//TOUS les topics
     $parent='Topic';//initialisation à la racine à "genres_musicaux"
@@ -123,37 +134,6 @@ class Mercure {
     print '<div id="topics"><ul class="tree">';
     self::topicsTree($allTopics, $parent);
     print '</ul>';
-    
-    /*TODO : REPRENDRE CERTAINES FONCTIONNALITÉS PUIS SUPPRIMER*/
-    
-    $sql="SELECT DISTINCT tag_id, label
-      FROM owl_contains, owl_topic
-      WHERE owl_contains.tag_id = owl_topic.id
-        AND tag_type='topic'
-        AND owl_contains.article_id IN (SELECT name FROM article)
-      ORDER BY tag_id";
-    print "<h1>OLD Index des mots-clés</h1>";
-    print '<div id="topics"><ul class="tree">';
-    foreach(self::$pdo->query($sql) as $topic) {
-      //count pour la FLAMBE
-      $occs='SELECT COUNT(article_id)
-        FROM owl_contains
-        WHERE tag_id="'.$topic['tag_id'].'"';
-      foreach(self::$pdo->query($occs) as $occs) $occs=$occs[0];
-      print '<li class="more" id="'.$topic['tag_id'].'">'.$topic['label']. ' ('.$occs.' occ)<ul>';
-      //chercher les docs
-      $sql='SELECT article_id, title, created
-        FROM owl_contains, article
-        WHERE tag_id="'.$topic['tag_id'].'"
-        AND owl_contains.article_id = article.name';
-      foreach(self::$pdo->query($sql) as $article) {
-        $article_url = $this->basehref.substr($article['article_id'], 0, strpos($article['article_id'], '_'))."/".$article['article_id'];
-        $article_year = '<a href="'.$this->basehref.'?q=&start='.$article['created'].'">'.$article['created'].'</a>';
-        print '<li>'.$article_year.': <a href="'.$article_url.'">'.$article['title'].'</a></li>';
-      }
-      echo "</ul></li>";
-    }
-    echo "</ul></div>";
   }
   
   
