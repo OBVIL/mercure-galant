@@ -1,7 +1,6 @@
 <?php
   // ajouter les id Obvil à load_allLight.xml
   $newFile = fopen("load_allLightNEW.xml", "w") or die("Unable to open file!");
-  $point = "?";
   fwrite($newFile, '<?xml version="1.0" encoding="UTF-8"?>'."\n<notices>");
   $months = array(  
     "janvier" => "01",
