@@ -1,6 +1,9 @@
 <?php
   // ajouter les id Obvil à load_allLight.xml
-  $months = array(
+  $newFile = fopen("load_allLightNEW.xml", "w") or die("Unable to open file!");
+  $point = "?";
+  fwrite($newFile, '<?xml version="1.0" encoding="UTF-8"?>'."\n<notices>");
+  $months = array(  
     "janvier" => "01",
     "février" => "02",
     "mars" => "03",
@@ -66,7 +69,7 @@
       print "month2 (sre/e): $month2\n";
       //if($month1!=null && $month2!=null && $month1!=$month2) print "WARNING: month error, notice $i\n";
       if(isset($month1)) $month=$month1;
-      if(!isset($month)) $month=$month2;
+      if(!isset($month) || !preg_match('/[0-9]{2}/',$month)) $month=$month2;
       if(!isset($month) || !preg_match('/[0-9]{2}/',$month)) $month="MM";
       print "MM: $month\n";
       
@@ -81,8 +84,21 @@
       // candidat OBVIL
       $obvil = "MG-".$year."-".$month."_".$page;
       print "cat_obvil: $obvil";
+      
+      //enrichir le fichier
+      $notice->addChild('cat_Obvil', $obvil);
+      /*
+       * HACK DE MERDE POUR AVOIR DE L'UTF-8 AVEC SIMPLEXML
+       * fwrite($newFile, str_replace('<?xml version="1.0"?>','',$notice->asXML()));
+       */
+      $dom = dom_import_simplexml($notice)->ownerDocument;
+      $dom->encoding = 'UTF-8';
+      fwrite($newFile, str_replace('<?xml version="1.0" encoding="UTF-8"?>','',$dom->saveXML()));
+      
       unset($year,$month,$page);
       $i++;
     }
   }
+  fwrite($newFile,'</notices>');
+  fclose($newFile);
 ?>
