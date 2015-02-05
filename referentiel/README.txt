@@ -49,6 +49,9 @@ application.host=obvil-dev.paris-sorbonne.fr/webprotege
 Quelques liens utiles
 =====================
 
+*** Redémarrer TOMCAT
+sudo service tomcat start
+
 ***Exprimer un thesaurus : classe ou individus ?
 https://mailman.stanford.edu/pipermail/protege-owl/2011-March/016403.html
 

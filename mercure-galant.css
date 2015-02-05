@@ -1,0 +1,4 @@
+#tags, #related {background-color: #EAE6DC;border-radius: 5px;}
+#tags li, #related li {font-size: 11px;line-height: 100%;}
+#tags .tree li:before, #related .tree li:before {content: '';}
+#topics .tree li:before {content: '';}
