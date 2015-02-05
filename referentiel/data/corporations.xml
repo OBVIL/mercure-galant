@@ -1,0 +1,5354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terms xmlns="http://www.semanticweb.org/mercure-galant/ontologie/thesaurus">
+  <term>
+    <entree>Académie d'Angers</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie d'art équestre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie d'art équestre d'Angers</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie de Bernardi</entree>
+    <parent>INSTITUTIONS</parent>
+    <formeRejetee>Académie de Mesmont</formeRejetee>
+  </term>
+  <term>
+    <entree>Académie de Clermont-Ferrand</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie de Mesmont</entree>
+    <formeAutorite>Académie de Bernardi</formeAutorite>
+  </term>
+  <term>
+    <entree>Académie de Peinture et de Sculpture</entree>
+    <enfant>Académie de Peinture et de Sculpture de Bordeaux</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie de Peinture et de Sculpture de Bordeaux</entree>
+    <parent>Académie de Peinture et de Sculpture</parent>
+  </term>
+  <term>
+    <entree>Académie de Soissons</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie de Villefranche-sur-Saône</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie des Beaux Esprits de Vernon</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie des Jeux Floraux de Toulouse</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie des Ricovrati</entree>
+    <formeRejetee>Accademia dei Ricovrati</formeRejetee>
+  </term>
+  <term>
+    <entree>Académie française</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie galante d'Avignon</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie littéraire</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale d'Arles</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale de danse</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale de musique</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale de musique de Lyon</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale de musique de Marseille</entree>
+    <enfant>Violons de l'Académie royale de musique de Marseille</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Académie royale de Nîmes</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Accademia dei Ricovrati</entree>
+    <formeAutorite>Académie des Ricovrati</formeAutorite>
+  </term>
+  <term>
+    <entree>Ambassadeurs</entree>
+    <enfant>Ambassadeurs de Hollande</enfant>
+    <enfant>Ambassadeurs de Moscovie</enfant>
+    <enfant>Ambassadeurs de Siam</enfant>
+    <enfant>Ambassadeurs de Tripoli en France</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Ambassadeurs de Hollande</entree>
+    <parent>Ambassadeurs</parent>
+  </term>
+  <term>
+    <entree>Ambassadeurs de Moscovie</entree>
+    <parent>Ambassadeurs</parent>
+  </term>
+  <term>
+    <entree>Ambassadeurs de Siam</entree>
+    <parent>Ambassadeurs</parent>
+  </term>
+  <term>
+    <entree>Ambassadeurs de Tripoli en France</entree>
+    <parent>Ambassadeurs</parent>
+  </term>
+  <term>
+    <entree>Amirauté</entree>
+    <enfant>Amirauté de Bordeaux</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Amirauté de Bordeaux</entree>
+    <parent>Amirauté</parent>
+  </term>
+  <term>
+    <entree>Annonciades</entree>
+    <enfant>Annonciades de Bourges</enfant>
+    <parent>Franciscaines</parent>
+  </term>
+  <term>
+    <entree>Annonciades de Bourges</entree>
+    <parent>Annonciades</parent>
+  </term>
+  <term>
+    <entree>Archers</entree>
+    <enfant>Archers de la ville de La Rochelle</enfant>
+    <enfant>Archers de la ville de Paris</enfant>
+  </term>
+  <term>
+    <entree>Archers de la ville de La Rochelle</entree>
+    <parent>Archers</parent>
+  </term>
+  <term>
+    <entree>Archers de la ville de Paris</entree>
+    <parent>Archers</parent>
+  </term>
+  <term>
+    <entree>Archers du guet de Paris</entree>
+    <parent>Guet de Paris</parent>
+  </term>
+  <term>
+    <entree>Arquebusiers</entree>
+    <enfant>Arquebusiers de Mantes-la-Jolie</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Arquebusiers de Mantes-la-Jolie</entree>
+    <parent>Arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Assemblée générale des chantres et symphonistes de Paris</entree>
+    <parent>Chantres et symphonistes de Paris</parent>
+  </term>
+  <term>
+    <entree>Assesseurs</entree>
+    <enfant>Assesseurs de La Rochelle</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Assesseurs de La Rochelle</entree>
+    <parent>Assesseurs</parent>
+  </term>
+  <term>
+    <entree>Augustines</entree>
+    <enfant>Augustines de l'abbaye de Bélian de Mons</enfant>
+    <enfant>Hospitalières augustines</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Augustines de l'abbaye de Bélian de Mons</entree>
+    <parent>Augustines</parent>
+  </term>
+  <term>
+    <entree>Augustins</entree>
+    <enfant>Augustins de Bordeaux</enfant>
+    <enfant>Augustins de Nancy</enfant>
+    <enfant>Augustins de Poitiers</enfant>
+    <enfant>Augustins déchaussés</enfant>
+    <enfant>Augustins réformés</enfant>
+    <enfant>Grands Augustins de Marseille</enfant>
+    <enfant>Grands Augustins de Paris</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Augustins de Bordeaux</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Augustins de Nancy</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Augustins de Poitiers</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Augustins déchaussés</entree>
+    <enfant>Augustins déchaussés de Marseille</enfant>
+    <enfant>Augustins déchaussés de Notre-Dame-des-Victoires de Paris</enfant>
+    <enfant>Augustins déchaussés des Loges</enfant>
+    <parent>Augustins</parent>
+    <formeRejetee>Augustins déchaux</formeRejetee>
+    <formeRejetee>Petits Pères</formeRejetee>
+  </term>
+  <term>
+    <entree>Augustins déchaussés de Marseille</entree>
+    <parent>Augustins déchaussés</parent>
+  </term>
+  <term>
+    <entree>Augustins déchaussés de Notre-Dame-des-Victoires de Paris</entree>
+    <parent>Augustins déchaussés</parent>
+  </term>
+  <term>
+    <entree>Augustins déchaussés des Loges</entree>
+    <parent>Augustins déchaussés</parent>
+  </term>
+  <term>
+    <entree>Augustins déchaux</entree>
+    <formeAutorite>Augustins déchaussés</formeAutorite>
+  </term>
+  <term>
+    <entree>Augustins réformés</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Aumôniers de la Maison royale</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Aumôniers du roi d'Angleterre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Avocats aux conseils du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Avocats de Perpignan</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Avocats du Mans</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Bacha de Napoli de Romanie</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Baillage</entree>
+    <enfant>Baillage d'Orbec</enfant>
+    <enfant>Baillage d'Évreux</enfant>
+    <enfant>Baillage de Châtillon-sur-Seine</enfant>
+    <enfant>Baillage de Clermont-en-Beauvaisis</enfant>
+    <enfant>Baillage de Dijon</enfant>
+    <enfant>Baillage de Dôle</enfant>
+    <enfant>Baillage de Grésivaudan</enfant>
+    <enfant>Baillage de La Ferté-Milon</enfant>
+    <enfant>Baillage de Niort</enfant>
+    <enfant>Baillage de Rethel</enfant>
+    <enfant>Baillage de Soissons</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Baillage d'Évreux</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage d'Orbec</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Châtillon-sur-Seine</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Clermont-en-Beauvaisis</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Dijon</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Dôle</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Grésivaudan</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de La Ferté-Milon</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Niort</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Rethel</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Baillage de Soissons</entree>
+    <parent>Baillage</parent>
+  </term>
+  <term>
+    <entree>Barnabites</entree>
+    <enfant>Barnabites de Montargis</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+    <formeRejetee>Pères Barnabites</formeRejetee>
+  </term>
+  <term>
+    <entree>Barnabites de Montargis</entree>
+    <parent>Barnabites</parent>
+  </term>
+  <term>
+    <entree>Bénédictines</entree>
+    <enfant>Bénédictines de l'abbaye Notre-Dame de Chelles</enfant>
+    <enfant>Bénédictines de l'abbaye Saint-Pierre de Lyon</enfant>
+    <enfant>Bénédictines de l'abbaye Sainte-Croix de Poitiers</enfant>
+    <enfant>Bénédictines de l'abbaye royale du Val-de-Grâce</enfant>
+    <enfant>Bénédictines du monastère de Montdenis-de-la-Crèche</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Bénédictines de l'abbaye Notre-Dame de Chelles</entree>
+    <parent>Bénédictines</parent>
+  </term>
+  <term>
+    <entree>Bénédictines de l'abbaye royale du Val-de-Grâce</entree>
+    <parent>Bénédictines</parent>
+  </term>
+  <term>
+    <entree>Bénédictines de l'abbaye Saint-Pierre de Lyon</entree>
+    <parent>Bénédictines</parent>
+  </term>
+  <term>
+    <entree>Bénédictines de l'abbaye Sainte-Croix de Poitiers</entree>
+    <parent>Bénédictines</parent>
+  </term>
+  <term>
+    <entree>Bénédictines du monastère de Montdenis-de-la-Crèche</entree>
+    <parent>Bénédictines</parent>
+  </term>
+  <term>
+    <entree>Bénédictins</entree>
+    <enfant>Bénédictins de Bernay</enfant>
+    <enfant>Bénédictins de Fécamp</enfant>
+    <enfant>Bénédictins de La Réole</enfant>
+    <enfant>Bénédictins de Nancy</enfant>
+    <enfant>Bénédictins de Vendôme</enfant>
+    <enfant>Bénédictins de l'abbaye Saint-Lomer de Blois</enfant>
+    <enfant>Bénédictins de l'abbaye d'Hautmont</enfant>
+    <enfant>Bénédictins de l'abbaye de Saint-Denis</enfant>
+    <enfant>Bénédictins de l'abbaye de Saint-Germain-des-Prés</enfant>
+    <enfant>Bénédictins du monastère des Blancs-Manteaux</enfant>
+    <enfant>Mauristes</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de Bernay</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de Fécamp</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de l'abbaye d'Hautmont</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de l'abbaye de Saint-Denis</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de l'abbaye de Saint-Germain-des-Prés</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de l'abbaye Saint-Lomer de Blois</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de la Congrégation de Saint-Maur</entree>
+    <formeAutorite>Mauristes</formeAutorite>
+  </term>
+  <term>
+    <entree>Bénédictins de La Réole</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de Nancy</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins de Vendôme</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bénédictins du monastère des Blancs-Manteaux</entree>
+    <parent>Bénédictins</parent>
+  </term>
+  <term>
+    <entree>Bernardins</entree>
+    <enfant>Bernardins de l'abbaye Notre-Dame de Vauluisant</enfant>
+    <enfant>Bernardins de l'abbaye Saint-Mesmin de Saint-Pryvé-Saint-Mesmin</enfant>
+    <formeAutorite>Cisterciens</formeAutorite>
+  </term>
+  <term>
+    <entree>Bernardins de l'abbaye Notre-Dame de Vauluisant</entree>
+    <parent>Bernardins</parent>
+  </term>
+  <term>
+    <entree>Bernardins de l'abbaye Saint-Mesmin de Saint-Pryvé-Saint-Mesmin</entree>
+    <parent>Bernardins</parent>
+  </term>
+  <term>
+    <entree>Bourgmestre de Vienne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Bureau des finances</entree>
+    <enfant>Bureau des finances de Grenoble</enfant>
+    <enfant>Bureau des finances de La Rochelle</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Bureau des finances de Grenoble</entree>
+    <parent>Bureau des finances</parent>
+  </term>
+  <term>
+    <entree>Bureau des finances de La Rochelle</entree>
+    <parent>Bureau des finances</parent>
+  </term>
+  <term>
+    <entree>Cadets du régiment d'Angoumois</entree>
+    <parent>Régiment d'Angoumois</parent>
+  </term>
+  <term>
+    <entree>Capitouls</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Capucines</entree>
+    <enfant>Capucines du couvent de la rue Saint-Honoré à Paris</enfant>
+    <parent>Franciscaines</parent>
+  </term>
+  <term>
+    <entree>Capucines du couvent de la rue Saint-Honoré à Paris</entree>
+    <parent>Capucines</parent>
+  </term>
+  <term>
+    <entree>Capucins</entree>
+    <enfant>Capucins d'Alençon</enfant>
+    <enfant>Capucins d'Amiens</enfant>
+    <enfant>Capucins d'Angers</enfant>
+    <enfant>Capucins d'Eu</enfant>
+    <enfant>Capucins d'Étain</enfant>
+    <enfant>Capucins d'Évreux</enfant>
+    <enfant>Capucins de Compiègne</enfant>
+    <enfant>Capucins de Constantinople</enfant>
+    <enfant>Capucins de Fécamp</enfant>
+    <enfant>Capucins de Grasse</enfant>
+    <enfant>Capucins de Loches</enfant>
+    <enfant>Capucins de Mayenne</enfant>
+    <enfant>Capucins de Melun</enfant>
+    <enfant>Capucins de Montélimar</enfant>
+    <enfant>Capucins de Nancy</enfant>
+    <enfant>Capucins de Niort</enfant>
+    <enfant>Capucins de Nogent-sur-Seine</enfant>
+    <enfant>Capucins de Paris</enfant>
+    <enfant>Capucins de Saint-Maximin-la-Sainte-Baume</enfant>
+    <enfant>Capucins de Vernon</enfant>
+    <enfant>Capucins du Havre</enfant>
+    <parent>Franciscains</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Alençon</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Amiens</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Angers</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Étain</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Eu</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins d'Évreux</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Compiègne</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Constantinople</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Fécamp</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Grasse</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Loches</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Mayenne</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Melun</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Montélimar</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Nancy</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Niort</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Nogent-sur-Seine</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Paris</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Saint-Maximin-la-Sainte-Baume</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins de Vernon</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Capucins du Havre</entree>
+    <parent>Capucins</parent>
+  </term>
+  <term>
+    <entree>Carabiniers du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Carmélites</entree>
+    <enfant>Carmélites de Lyon</enfant>
+    <enfant>Carmélites du couvent de la rue du Bouloir à Paris</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Carmélites de Lyon</entree>
+    <parent>Carmélites</parent>
+  </term>
+  <term>
+    <entree>Carmélites du couvent de la rue du Bouloir à Paris</entree>
+    <parent>Carmélites</parent>
+  </term>
+  <term>
+    <entree>Carmes</entree>
+    <enfant>Carmes de Besançon</enfant>
+    <enfant>Carmes de La Flèche</enfant>
+    <enfant>Carmes de Lille</enfant>
+    <enfant>Carmes de Madrid</enfant>
+    <enfant>Carmes de Poitiers</enfant>
+    <enfant>Carmes de Pont-Audemer</enfant>
+    <enfant>Carmes de Rennes</enfant>
+    <enfant>Carmes de Rome</enfant>
+    <enfant>Carmes de Toulouse</enfant>
+    <enfant>Carmes de Valenciennes</enfant>
+    <enfant>Carmes de la Grande Observance</enfant>
+    <enfant>Carmes des Basses-Loges</enfant>
+    <enfant>Carmes du couvent de Saint-Martin de Rome</enfant>
+    <enfant>Carmes du couvent des Billettes à Paris</enfant>
+    <enfant>Carmes du grand couvent de Paris</enfant>
+    <enfant>Carmes déchaussés</enfant>
+    <enfant>Grands carmes</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Carmes de Besançon</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de La Flèche</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de la Grande Observance</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Lille</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Madrid</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Poitiers</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Pont-Audemer</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Rennes</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Rome</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Toulouse</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes de Valenciennes</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes déchaussés</entree>
+    <enfant>Carmes déchaussés de Madrid</enfant>
+    <enfant>Carmes déchaussés de Riom</enfant>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes déchaussés de Madrid</entree>
+    <parent>Carmes déchaussés</parent>
+  </term>
+  <term>
+    <entree>Carmes déchaussés de Riom</entree>
+    <parent>Carmes déchaussés</parent>
+  </term>
+  <term>
+    <entree>Carmes des Basses-Loges</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes du couvent de Saint-Martin de Rome</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes du couvent des Billettes à Paris</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Carmes du grand couvent de Paris</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Célestins</entree>
+    <enfant>Célestins d'Avignon</enfant>
+    <enfant>Célestins de Lyon</enfant>
+  </term>
+  <term>
+    <entree>Célestins d'Avignon</entree>
+    <parent>Célestins</parent>
+  </term>
+  <term>
+    <entree>Célestins de Lyon</entree>
+    <parent>Célestins</parent>
+  </term>
+  <term>
+    <entree>Chambre apostolique</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes</entree>
+    <enfant>Chambre des comptes de Bretagne</enfant>
+    <enfant>Chambre des comptes de Dijon</enfant>
+    <enfant>Chambre des comptes de Dôle</enfant>
+    <enfant>Chambre des comptes de Grenoble</enfant>
+    <enfant>Chambre des comptes de Nancy</enfant>
+    <enfant>Chambre des comptes de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Bretagne</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Dijon</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Dôle</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Grenoble</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Nancy</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre des comptes de Paris</entree>
+    <parent>Chambre des comptes</parent>
+  </term>
+  <term>
+    <entree>Chambre du roi</entree>
+    <enfant>Fifres de la Chambre du roi</enfant>
+    <enfant>Hautbois de la Chambre du roi</enfant>
+    <enfant>Petits violons du roi</enfant>
+    <enfant>Tambours de la Chambre du roi</enfant>
+    <enfant>Timbales de la Chambre du roi</enfant>
+    <enfant>Trompettes de la Chambre du roi</enfant>
+    <enfant>Vingt-quatre violons</enfant>
+    <enfant>Violons du roi</enfant>
+  </term>
+  <term>
+    <entree>Chambre du roi d'Angleterre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chancellerie</entree>
+    <enfant>Chancellerie de Londres</enfant>
+    <enfant>Chancellerie de Tournay</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chancellerie de Londres</entree>
+    <parent>Chancellerie</parent>
+  </term>
+  <term>
+    <entree>Chancellerie de Tournay</entree>
+    <parent>Chancellerie</parent>
+  </term>
+  <term>
+    <entree>Chanoines</entree>
+    <enfant>Chanoines de l'abbaye bénédictine de Saint-Denis</enfant>
+    <enfant>Chanoines de l'église de Paris</enfant>
+    <enfant>Chanoines de l'église royale de Saint-Thomas-du-Louvre</enfant>
+    <enfant>Chanoines de la cathédrale Notre-Dame de Strasbourg</enfant>
+    <enfant>Chanoines de la cathédrale Saint-André de Bordeaux</enfant>
+    <enfant>Chanoines de la cathédrale Saint-Lazare d'Autun</enfant>
+    <enfant>Chanoines de la cathédrale Saint-Pierre de Beauvais</enfant>
+    <enfant>Chanoines de la cathédrale Saint-Pierre de Poitiers</enfant>
+    <enfant>Chanoines de la collégiale Notre-Dame-du-Mathuret de Riom</enfant>
+    <enfant>Chanoines de la collégiale Notre-Dame-du-Val de Provins</enfant>
+    <enfant>Chanoines de la collégiale Saint-Georges de Nancy</enfant>
+    <enfant>Chanoines de la collégiale Saint-Hilaire-le-Grand de Poitiers</enfant>
+    <enfant>Chanoines de la collégiale Saint-Nizier de Charolles</enfant>
+    <enfant>Chanoines de la collégiale de tous les Saints de Mende</enfant>
+    <enfant>Chanoines de la primatiale Notre-Dame-de-l'Annonciation de Nancy</enfant>
+    <enfant>Chanoines de la primatiale Saint-Jean de Lyon</enfant>
+    <enfant>Chanoines réguliers de La Côte-Saint-André</enfant>
+    <enfant>Chanoines réguliers de Nancy</enfant>
+    <enfant>Chanoines réguliers de Provins</enfant>
+    <enfant>Chanoines réguliers de Prémontré</enfant>
+    <enfant>Chanoines réguliers de l'abbaye royale de Saint-Victor de Paris</enfant>
+    <enfant>Chanoines réguliers de l'ordre de Saint-Augustin</enfant>
+    <enfant>Chanoines réguliers de l'ordre de Saint-Augustin, congrégation de Notre-Sauveur</enfant>
+    <enfant>Chanoines réguliers de la maison royale de Sainte-Croix-de-la-Bretonnerie</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Chanoines de l'abbaye bénédictine de Saint-Denis</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de l'église de Paris</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de l'église royale de Saint-Thomas-du-Louvre</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la cathédrale Notre-Dame de Strasbourg</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la cathédrale Saint-André de Bordeaux</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la cathédrale Saint-Lazare d'Autun</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la cathédrale Saint-Pierre de Beauvais</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la cathédrale Saint-Pierre de Poitiers</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale de tous les Saints de Mende</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale Notre-Dame-du-Mathuret de Riom</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale Notre-Dame-du-Val de Provins</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale Saint-Georges de Nancy</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale Saint-Hilaire-le-Grand de Poitiers</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la collégiale Saint-Nizier de Charolles</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la primatiale Notre-Dame-de-l'Annonciation de Nancy</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines de la primatiale Saint-Jean de Lyon</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de l'Abbaye de Prémontré</entree>
+    <parent>Chanoines réguliers de Prémontré</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de l'abbaye prémontrée Saint-Joseph de Nancy</entree>
+    <parent>Chanoines réguliers de Prémontré</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de l'abbaye royale de Saint-Victor de Paris</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de l'ordre de Saint-Augustin</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de l'ordre de Saint-Augustin, congrégation de Notre-Sauveur</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de La Côte-Saint-André</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de la maison royale de Sainte-Croix-de-la-Bretonnerie</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de Nancy</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de Prémontré</entree>
+    <enfant>Chanoines réguliers de l'Abbaye de Prémontré</enfant>
+    <enfant>Chanoines réguliers de l'abbaye prémontrée Saint-Joseph de Nancy</enfant>
+    <parent>Chanoines</parent>
+    <formeRejetee>Norbertins</formeRejetee>
+    <formeRejetee>Prémontrés</formeRejetee>
+  </term>
+  <term>
+    <entree>Chanoines réguliers de Provins</entree>
+    <parent>Chanoines</parent>
+  </term>
+  <term>
+    <entree>Chanoinesses</entree>
+    <enfant>Chanoinesses augustines de l'abbaye Saint-Pantaléon de Toulouse</enfant>
+    <enfant>Chanoinesses nobles de l'abbaye bénédictine de Maubeuge</enfant>
+    <enfant>Chanoinesses régulières anglaises de Paris</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Chanoinesses augustines de l'abbaye Saint-Pantaléon de Toulouse</entree>
+    <parent>Chanoinesses</parent>
+  </term>
+  <term>
+    <entree>Chanoinesses nobles de l'abbaye bénédictine de Maubeuge</entree>
+    <parent>Chanoinesses</parent>
+  </term>
+  <term>
+    <entree>Chanoinesses régulières anglaises de Paris</entree>
+    <parent>Chanoinesses</parent>
+  </term>
+  <term>
+    <entree>Chantres</entree>
+    <enfant>Chantres de l'abbaye bénédictine du Mont-Saint-Michel</enfant>
+    <enfant>Chantres de l'abbaye mauriste Saint-Pierre de Corbie</enfant>
+    <enfant>Chantres de la basilique Saint-Martin de Tours</enfant>
+    <enfant>Chantres de la basilique Sainte-Marie-Madeleine de Saint-Maximim-la-Sainte-Baume</enfant>
+    <enfant>Chantres de la cathédrale Notre-Dame de Paris</enfant>
+    <enfant>Chantres de la cathédrale Saint-Gatien de Tours</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Chantres de l'abbaye bénédictine du Mont-Saint-Michel</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres de l'abbaye mauriste Saint-Pierre de Corbie</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres de la basilique Saint-Martin de Tours</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres de la basilique Sainte-Marie-Madeleine de Saint-Maximim-la-Sainte-Baume</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres de la cathédrale Notre-Dame de Paris</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres de la cathédrale Saint-Gatien de Tours</entree>
+    <parent>Chantres</parent>
+  </term>
+  <term>
+    <entree>Chantres et symphonistes de Paris</entree>
+    <enfant>Assemblée générale des chantres et symphonistes de Paris</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Chapelle du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chapelle du roi d'Angleterre</entree>
+    <parent>Musique du roi d'Angleterre</parent>
+  </term>
+  <term>
+    <entree>Chapelle du roi de Pologne</entree>
+    <parent>Musique du roi de Pologne</parent>
+  </term>
+  <term>
+    <entree>Chapite de la cathédrale Saint-Antonin de Pamiers</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre</entree>
+    <enfant>Chapite de la cathédrale Saint-Antonin de Pamiers</enfant>
+    <enfant>Chapitre de l'abbaye Saint-Martin de Tours</enfant>
+    <enfant>Chapitre de l'église métropolitaine d'Avignon</enfant>
+    <enfant>Chapitre de l'église métropolitaine de Tours</enfant>
+    <enfant>Chapitre de l'église paroissiale Saint-Malo de Valogne</enfant>
+    <enfant>Chapitre de l'église paroissiale Saint-Marcel de Paris</enfant>
+    <enfant>Chapitre de l'église paroissiale Saint-Saturnin de Toulouse</enfant>
+    <enfant>Chapitre de l'église paroissiale Saint-Sernin de Toulouse</enfant>
+    <enfant>Chapitre de la Sainte-Chapelle du château de Vivier</enfant>
+    <enfant>Chapitre de la basilique Saint-Urbain de Troyes</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Burgos</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Grenoble</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Paris</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Rouen</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Strasbourg</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame de Tournai</enfant>
+    <enfant>Chapitre de la cathédrale Notre-Dame-et-Saint-Lambert de Liège</enfant>
+    <enfant>Chapitre de la cathédrale Saint-André de Bordeaux</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Louis de La Rochelle</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Paul de Münster</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Pierre de Beauvais</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Pierre et Saint-Paul de Troyes</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Sauveur d'Aix-en-Provence</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Théodorit d'Uzès</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Trophime d'Arles</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Étienne de Châlons-en-Champagne</enfant>
+    <enfant>Chapitre de la cathédrale Saint-Étienne de Toulouse</enfant>
+    <enfant>Chapitre de la cathédrale Sainte-Cécile d'Albi</enfant>
+    <enfant>Chapitre de la cathédrale de Westminster</enfant>
+    <enfant>Chapitre de la collégiale Notre-Dame-du-Mur de Morlaix</enfant>
+    <enfant>Chapitre de la collégiale Notre-Dame-et-Saint-Martin de Châteauroux</enfant>
+    <enfant>Chapitre de la collégiale Saint-Agricol d'Avignon</enfant>
+    <enfant>Chapitre de la collégiale Saint-Hilaire-le-Grand de Potiers</enfant>
+    <enfant>Chapitre de la collégiale Saint-Martin de Clamecy</enfant>
+    <enfant>Chapitre de la collégiale Saint-Quentin</enfant>
+    <enfant>Chapitre de la collégiale Saint-Étienne de Troyes</enfant>
+    <enfant>Chapitre de la collégiale Sainte-Croix de Montélimar</enfant>
+    <enfant>Chapitre de la collégiale Toussaint de Mortagne-au-Perche</enfant>
+    <enfant>Chapitre de la maison professe des Jésuites de Toulouse</enfant>
+    <enfant>Chapitre des chanoines réguliers de l'abbaye royale Saint-Victor de Paris</enfant>
+    <enfant>Chapitre des récollets de Guyenne</enfant>
+    <enfant>Chapitre noble des chanoinesses de Sainte-Aldegonde de Maubeuge</enfant>
+    <enfant>Chapitre royal</enfant>
+    <enfant>Chapitre royal de la collégiale Saint-Fursy de Péronne</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'abbaye Saint-Martin de Tours</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église métropolitaine d'Avignon</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église métropolitaine de Tours</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église paroissiale Saint-Malo de Valogne</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église paroissiale Saint-Marcel de Paris</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église paroissiale Saint-Saturnin de Toulouse</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de l'église paroissiale Saint-Sernin de Toulouse</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la basilique Saint-Urbain de Troyes</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale de Westminster</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Burgos</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Grenoble</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Paris</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Rouen</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Strasbourg</entree>
+    <enfant>Grand Doyen de la cathédrale Notre-Dame de Strasbourg</enfant>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame de Tournai</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Notre-Dame-et-Saint-Lambert de Liège</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-André de Bordeaux</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Étienne de Châlons-en-Champagne</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Étienne de Toulouse</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Louis de La Rochelle</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Paul de Münster</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Pierre de Beauvais</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Pierre et Saint-Paul de Troyes</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Sauveur d'Aix-en-Provence</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Théodorit d'Uzès</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Saint-Trophime d'Arles</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la cathédrale Sainte-Cécile d'Albi</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Notre-Dame-du-Mur de Morlaix</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Notre-Dame-et-Saint-Martin de Châteauroux</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Saint-Agricol d'Avignon</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Saint-Étienne de Troyes</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Saint-Hilaire-le-Grand de Potiers</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Saint-Martin de Clamecy</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Saint-Quentin</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Sainte-Croix de Montélimar</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la collégiale Toussaint de Mortagne-au-Perche</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la maison professe des Jésuites de Toulouse</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre de la Sainte-Chapelle du château de Vivier</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre des chanoines réguliers de l'abbaye royale Saint-Victor de Paris</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre des récollets de Guyenne</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre noble des chanoinesses de Sainte-Aldegonde de Maubeuge</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre royal</entree>
+    <enfant>Chapitre royal de la collégiale de Saint-Quentin-en-Vermandois</enfant>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chapitre royal de la collégiale de Saint-Quentin-en-Vermandois</entree>
+    <parent>Chapitre royal</parent>
+  </term>
+  <term>
+    <entree>Chapitre royal de la collégiale Saint-Fursy de Péronne</entree>
+    <parent>Chapitre</parent>
+  </term>
+  <term>
+    <entree>Chartreuses</entree>
+    <enfant>Chartreuses du couvent des Salettes</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Chartreuses du couvent des Salettes</entree>
+    <parent>Chartreuses</parent>
+  </term>
+  <term>
+    <entree>Châtelet de Paris</entree>
+    <enfant>Compagnie des sergents à verge du Châtelet</enfant>
+    <enfant>Messieurs du Châtelet</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Chevaliers</entree>
+    <enfant>Chevaliers de Soissons</enfant>
+    <enfant>Chevaliers de l'ordre de Saint-Georges</enfant>
+    <enfant>Chevaliers de l'ordre de l'Éléphant</enfant>
+    <enfant>Chevaliers, archers et pistoliers de Péronne</enfant>
+  </term>
+  <term>
+    <entree>Chevaliers de l'ordre de l'Éléphant</entree>
+    <parent>Chevaliers</parent>
+  </term>
+  <term>
+    <entree>Chevaliers de l'ordre de Saint-Georges</entree>
+    <parent>Chevaliers</parent>
+  </term>
+  <term>
+    <entree>Chevaliers de la butte de Troyes</entree>
+    <formeAutorite>Compagnie des arquebusiers de Troyes</formeAutorite>
+  </term>
+  <term>
+    <entree>Chevaliers de Soissons</entree>
+    <parent>Chevaliers</parent>
+  </term>
+  <term>
+    <entree>Chevaliers, archers et pistoliers de Péronne</entree>
+    <parent>Chevaliers</parent>
+  </term>
+  <term>
+    <entree>Chevau-légers du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cisterciennes</entree>
+    <enfant>Cisterciennes de l'Abbaye de La Virginité des Roches-l'Évêque</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Cisterciennes de l'Abbaye de La Virginité des Roches-l'Évêque</entree>
+    <parent>Cisterciennes</parent>
+  </term>
+  <term>
+    <entree>Cisterciens</entree>
+    <enfant>Cisterciens de l'abbaye Notre-Dame-de-Vauluisant</enfant>
+    <enfant>Cisterciens de l'abbaye Saint-Mesmin de Saint-Pryvé-Saint-Mesmin</enfant>
+    <enfant>Cisterciens de l'abbaye de Clairvaux</enfant>
+    <enfant>Feuillantins</enfant>
+    <enfant>Observantins</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+    <formeRejetee>Bernardins</formeRejetee>
+  </term>
+  <term>
+    <entree>Cisterciens de l'abbaye de Clairvaux</entree>
+    <parent>Cisterciens</parent>
+  </term>
+  <term>
+    <entree>Cisterciens de l'abbaye Notre-Dame-de-Vauluisant</entree>
+    <parent>Cisterciens</parent>
+  </term>
+  <term>
+    <entree>Cisterciens de l'abbaye Saint-Mesmin de Saint-Pryvé-Saint-Mesmin</entree>
+    <parent>Cisterciens</parent>
+  </term>
+  <term>
+    <entree>Clavecin de Monsieur</entree>
+    <parent>Musique de Monsieur</parent>
+  </term>
+  <term>
+    <entree>Clergé</entree>
+    <enfant>Clergé de Belley</enfant>
+    <enfant>Clergé de Luxembourg</enfant>
+    <enfant>Clergé de Niort</enfant>
+    <enfant>Clergé de l'église Saint-Louis des barnabites de Montargis</enfant>
+    <enfant>Clergé de l'église conventuelle de Malte</enfant>
+    <enfant>Clergé de l'église paroissiale Notre-Dame de Niort</enfant>
+    <enfant>Clergé de l'église paroissiale Saint-Hippolyte à Paris</enfant>
+    <enfant>Clergé de la cathédrale Notre-Dame-du-Puy de Grasse</enfant>
+    <enfant>Clergé de la cathédrale Saint-Jean de Lyon</enfant>
+    <enfant>Clergé de la cathédrale Saint-Louis de La Rochelle</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Clergé de Belley</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de l'église conventuelle de Malte</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de l'église paroissiale Notre-Dame de Niort</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de l'église paroissiale Saint-Hippolyte à Paris</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de l'église Saint-Louis des barnabites de Montargis</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de la cathédrale Notre-Dame-du-Puy de Grasse</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de la cathédrale Saint-Jean de Lyon</entree>
+    <enfant>Doyen de la cathédrale Saint-Jean de Lyon</enfant>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de la cathédrale Saint-Louis de La Rochelle</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de Luxembourg</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé de Niort</entree>
+    <parent>Clergé</parent>
+  </term>
+  <term>
+    <entree>Clergé du séminaire de Soissons</entree>
+    <parent>Séminaire de Soissons</parent>
+  </term>
+  <term>
+    <entree>Clochettes d'armes du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Collège</entree>
+    <enfant>Collège de Guyenne</enfant>
+    <enfant>Collège de Notre-Dame de Lyon</enfant>
+  </term>
+  <term>
+    <entree>Collège cardinalice</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+    <formeRejetee>Collège des cardinaux</formeRejetee>
+    <formeRejetee>Sacré collège</formeRejetee>
+  </term>
+  <term>
+    <entree>Collège de Guyenne</entree>
+    <enfant>Écoliers du collège de Guyenne</enfant>
+    <parent>Collège</parent>
+  </term>
+  <term>
+    <entree>Collège de Notre-Dame de Lyon</entree>
+    <enfant>Écoliers du petit collège de Notre-Dame de Lyon</enfant>
+    <parent>Collège</parent>
+  </term>
+  <term>
+    <entree>Collège des cardinaux</entree>
+    <formeAutorite>Collège cardinalice</formeAutorite>
+  </term>
+  <term>
+    <entree>Comédiens du Marais</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Comédiens français</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Comédiens italiens</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Comités des Galères de Marseille</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Commissaires contrôleurs mouleurs de bois de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Commissaires du roi</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Communauté des barbiers et perruquiers</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Communauté des bourgeois marchands des Chartrons</entree>
+    <parent>Communauté des marchands</parent>
+  </term>
+  <term>
+    <entree>Communauté des marchands</entree>
+    <enfant>Communauté des bourgeois marchands des Chartrons</enfant>
+    <enfant>Communauté des marchands de Poitiers</enfant>
+    <enfant>Communauté des marchands de Toulouse</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Communauté des marchands de Poitiers</entree>
+    <parent>Communauté des marchands</parent>
+  </term>
+  <term>
+    <entree>Communauté des marchands de Toulouse</entree>
+    <parent>Communauté des marchands</parent>
+  </term>
+  <term>
+    <entree>Communauté des musiciens et des symphonistes de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Communautés religieuses</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie de la Rote</entree>
+    <formeAutorite>Tribunal de la Rote</formeAutorite>
+  </term>
+  <term>
+    <entree>Compagnie des apothicaires des Maisons royales</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers</entree>
+    <enfant>Compagnie des arquebusiers de Caudebec-en-Caux</enfant>
+    <enfant>Compagnie des arquebusiers de Château-Thierry</enfant>
+    <enfant>Compagnie des arquebusiers de La Ferté-Milon</enfant>
+    <enfant>Compagnie des arquebusiers de Mantes-la-Jolie</enfant>
+    <enfant>Compagnie des arquebusiers de Meaux</enfant>
+    <enfant>Compagnie des arquebusiers de Poitiers</enfant>
+    <enfant>Compagnie des arquebusiers de Reims</enfant>
+    <enfant>Compagnie des arquebusiers de Saint-Denis</enfant>
+    <enfant>Compagnie des arquebusiers de Soissons</enfant>
+    <enfant>Compagnie des arquebusiers de Troyes</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Caudebec-en-Caux</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Château-Thierry</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de La Ferté-Milon</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Mantes-la-Jolie</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Meaux</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Poitiers</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Reims</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Saint-Denis</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Soissons</entree>
+    <parent>Compagnie des arquebusiers</parent>
+  </term>
+  <term>
+    <entree>Compagnie des arquebusiers de Troyes</entree>
+    <parent>Compagnie des arquebusiers</parent>
+    <formeRejetee>Chevaliers de la butte de Troyes</formeRejetee>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers de l'arquebuse d'Épernay</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers de la butte de Provins</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers du jeu de l'arquebuse de Caen</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers du jeu de l'arquebuse de Grenoble</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers du jeu de l'arquebuse de Laon</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chevaliers du jeu de l'arquebuse de Provins</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des chirurgiens jurés de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie des sergents à verge du Châtelet</entree>
+    <parent>Châtelet de Paris</parent>
+  </term>
+  <term>
+    <entree>Compagnie du prévôt de l'île</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Compagnie royale des arquebusiers</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Confrérie</entree>
+    <enfant>Confrérie de Saint-Nicolas</enfant>
+    <enfant>Confrérie de Saint-Roch</enfant>
+    <enfant>Confrérie des Pèlerins de Jérusalem</enfant>
+    <enfant>Confrérie des Pèlerins de Saint-Jacques</enfant>
+    <enfant>Confrérie du Saint-Sacrement de l'église paroissiale Notre-Dame de Versailles</enfant>
+    <enfant>Confrérie du scapulaire de Notre-Dame-des-Carmes</enfant>
+    <enfant>Grande confrérie Notre-Dame</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Confrérie de Saint-Nicolas</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Confrérie de Saint-Roch</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Confrérie des Pèlerins de Jérusalem</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Confrérie des Pèlerins de Saint-Jacques</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Confrérie du Saint-Sacrement de l'église paroissiale Notre-Dame de Versailles</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Confrérie du scapulaire de Notre-Dame-des-Carmes</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>CONGRÉGATIONS RELIGIEUSES</entree>
+    <enfant>Augustines</enfant>
+    <enfant>Augustins</enfant>
+    <enfant>Barnabites</enfant>
+    <enfant>Bénédictines</enfant>
+    <enfant>Bénédictins</enfant>
+    <enfant>Carmes</enfant>
+    <enfant>Carmélites</enfant>
+    <enfant>Chanoines</enfant>
+    <enfant>Chanoinesses</enfant>
+    <enfant>Chapitre</enfant>
+    <enfant>Chartreuses</enfant>
+    <enfant>Cisterciennes</enfant>
+    <enfant>Cisterciens</enfant>
+    <enfant>Clergé</enfant>
+    <enfant>Collège cardinalice</enfant>
+    <enfant>Dames de la Propagation de la foi</enfant>
+    <enfant>Inquisition d'Espagne</enfant>
+    <enfant>Ordre de Fontevraud</enfant>
+    <enfant>Ordre de Malte</enfant>
+    <enfant>Ordre de Saint-Benoît de la Congrégation du Calvaire</enfant>
+    <enfant>Ordre de Saint-François</enfant>
+    <enfant>Ordre de la Sainte Trinité et de la Rédemption des Captifs</enfant>
+    <enfant>Ordre royal de Notre-Dame du Mont-Carmel et de Saint-Lazare-de-Jérusalem</enfant>
+    <enfant>Ordres mendiants</enfant>
+    <enfant>Ordres religieux</enfant>
+    <enfant>Pères de Terre-Sainte d'Alep</enfant>
+    <enfant>Pères de la Doctrine Chrétienne</enfant>
+    <enfant>Servites de Sainte-Marie</enfant>
+    <enfant>Séminaire</enfant>
+    <enfant>Séminaristes</enfant>
+    <enfant>Tiers-Ordre</enfant>
+    <enfant>Vicaires généraux</enfant>
+  </term>
+  <term>
+    <entree>Conseil du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Conseil souverain d'Artois</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Conseillers</entree>
+    <enfant>Conseillers de Reims</enfant>
+    <enfant>Conseillers de Troyes</enfant>
+    <enfant>Conseillers du roi notaires au Châtelet</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Conseillers de Reims</entree>
+    <parent>Conseillers</parent>
+  </term>
+  <term>
+    <entree>Conseillers de Troyes</entree>
+    <parent>Conseillers</parent>
+  </term>
+  <term>
+    <entree>Conseillers du roi notaires au Châtelet</entree>
+    <parent>Conseillers</parent>
+  </term>
+  <term>
+    <entree>Consistoire de Toulouse</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Consuls</entree>
+    <enfant>Consuls d'Agde</enfant>
+    <enfant>Consuls d'Arles</enfant>
+    <enfant>Consuls d'Avignon</enfant>
+    <enfant>Consuls de Bordeaux</enfant>
+    <enfant>Consuls de Béziers</enfant>
+    <enfant>Consuls de Castres</enfant>
+    <enfant>Consuls de Grasse</enfant>
+    <enfant>Consuls de Grenoble</enfant>
+    <enfant>Consuls de Montauban</enfant>
+    <enfant>Consuls de Montpellier</enfant>
+    <enfant>Consuls de Montélimar</enfant>
+    <enfant>Consuls de Morlaix</enfant>
+    <enfant>Consuls de Narbonne</enfant>
+    <enfant>Consuls de Pézenas</enfant>
+    <enfant>Consuls de Rieux</enfant>
+    <enfant>Consuls de Saint-Maximin-la-Sainte-Baume</enfant>
+    <enfant>Consuls de Vienne</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Consuls d'Agde</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls d'Arles</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls d'Avignon</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Béziers</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Bordeaux</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Castres</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Grasse</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Grenoble</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Montauban</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Montélimar</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Montpellier</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Morlaix</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Narbonne</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Pézenas</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Rieux</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Saint-Maximin-la-Sainte-Baume</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Consuls de Vienne</entree>
+    <parent>Consuls</parent>
+  </term>
+  <term>
+    <entree>Cordeliers</entree>
+    <enfant>Cordeliers d'Évreux</enfant>
+    <enfant>Cordeliers de Châteauroux</enfant>
+    <enfant>Cordeliers de Libourne</enfant>
+    <enfant>Cordeliers de Loches</enfant>
+    <enfant>Cordeliers de Montélimar</enfant>
+    <enfant>Cordeliers de Nancy</enfant>
+    <enfant>Cordeliers de Niort</enfant>
+    <enfant>Cordeliers de Paris</enfant>
+    <enfant>Cordeliers de Poitiers</enfant>
+    <enfant>Cordeliers de Pontoise</enfant>
+    <enfant>Cordeliers de Reims</enfant>
+    <enfant>Cordeliers de Toulouse</enfant>
+    <formeAutorite>Franciscains</formeAutorite>
+  </term>
+  <term>
+    <entree>Cordeliers d'Évreux</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Châteauroux</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Libourne</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Loches</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Montélimar</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Nancy</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Niort</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Paris</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Poitiers</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Pontoise</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Reims</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>Cordeliers de Toulouse</entree>
+    <parent>Cordeliers</parent>
+  </term>
+  <term>
+    <entree>CORPORATIONS ET SOCIÉTÉS</entree>
+    <enfant>Arquebusiers</enfant>
+    <enfant>Avocats de Perpignan</enfant>
+    <enfant>Avocats du Mans</enfant>
+    <enfant>Chantres</enfant>
+    <enfant>Chantres et symphonistes de Paris</enfant>
+    <enfant>Commissaires contrôleurs mouleurs de bois de Paris</enfant>
+    <enfant>Commissaires du roi</enfant>
+    <enfant>Communauté des barbiers et perruquiers</enfant>
+    <enfant>Communauté des marchands</enfant>
+    <enfant>Communauté des musiciens et des symphonistes de Paris</enfant>
+    <enfant>Communautés religieuses</enfant>
+    <enfant>Compagnie des apothicaires des Maisons royales</enfant>
+    <enfant>Compagnie des arquebusiers</enfant>
+    <enfant>Compagnie des chevaliers de l'arquebuse d'Épernay</enfant>
+    <enfant>Compagnie des chevaliers de la butte de Provins</enfant>
+    <enfant>Compagnie des chevaliers du jeu de l'arquebuse de Caen</enfant>
+    <enfant>Compagnie des chevaliers du jeu de l'arquebuse de Grenoble</enfant>
+    <enfant>Compagnie des chevaliers du jeu de l'arquebuse de Laon</enfant>
+    <enfant>Compagnie des chevaliers du jeu de l'arquebuse de Provins</enfant>
+    <enfant>Compagnie des chirurgiens jurés de Paris</enfant>
+    <enfant>Compagnie du prévôt de l'île</enfant>
+    <enfant>Compagnie royale des arquebusiers</enfant>
+    <enfant>Confrérie</enfant>
+    <enfant>Corps de justice</enfant>
+    <enfant>Corps de l'hôtel-de-ville de Nancy</enfant>
+    <enfant>Corps de ville</enfant>
+    <enfant>Corps des avocats</enfant>
+    <enfant>Corps des marchands</enfant>
+    <enfant>Corps des procureurs</enfant>
+    <enfant>Corps et communauté des patrons pêcheurs de Marseille</enfant>
+    <enfant>Derviches tourneurs</enfant>
+    <enfant>Enfants de choeur de la cathédrale Notre-Dame de Paris</enfant>
+    <enfant>Hérauts d'armes</enfant>
+    <enfant>Jurés-crieurs</enfant>
+    <enfant>Le Cordon vert ou les Céladons</enfant>
+    <enfant>Marchands français de la ville d'Alep</enfant>
+    <enfant>Marchands maîtres ouvriers en draps d'or, d'argent et de soie de Paris</enfant>
+    <enfant>Marguilliers</enfant>
+    <enfant>Maîtres batteurs d'or</enfant>
+    <enfant>Maîtrise de Saint-Pierre de Rome</enfant>
+    <enfant>Musiciens italiens de la cour de Hanovre</enfant>
+    <enfant>Musique allemande des Jésuites de Luxembourg</enfant>
+    <enfant>Musique de l'abbaye bénédictine de la Trinité de Fécamp</enfant>
+    <enfant>Musique de l'église Notre-Dame de Saint-Dizier</enfant>
+    <enfant>Musique de l'église Saint-Seurin de Bordeaux</enfant>
+    <enfant>Musique de l'église des Saints-Innocents de Paris</enfant>
+    <enfant>Musique de l'église paroissiale Saint-Germain-l'Auxerois</enfant>
+    <enfant>Musique de la Chapelle de Christine de Suède</enfant>
+    <enfant>Musique de la Chapelle du Pape</enfant>
+    <enfant>Musique de la Sainte-Chapelle de Bourges</enfant>
+    <enfant>Musique de la Sainte-Chapelle de Chamberry</enfant>
+    <enfant>Musique de la Sainte-Chapelle de Dijon</enfant>
+    <enfant>Musique de la Sainte-Chapelle de Paris</enfant>
+    <enfant>Musique de la cathédrale La Major de Marseille</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame d'Amiens</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame d'Évreux</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame de Paris</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame de Strasbourg</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame de Tournai</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame de Verdun</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame-des-Grâces de Cambrai</enfant>
+    <enfant>Musique de la cathédrale Notre-Dame-du-Puy de Grasse</enfant>
+    <enfant>Musique de la cathédrale Saint-André de Bordeaux</enfant>
+    <enfant>Musique de la cathédrale Saint-Front de Périgueux</enfant>
+    <enfant>Musique de la cathédrale Saint-Gatien de Tours</enfant>
+    <enfant>Musique de la cathédrale Saint-Jean de Besançon</enfant>
+    <enfant>Musique de la cathédrale Saint-Jean-Baptiste de Belley</enfant>
+    <enfant>Musique de la cathédrale Saint-Lazare d'Autun</enfant>
+    <enfant>Musique de la cathédrale Saint-Louis de Blois</enfant>
+    <enfant>Musique de la cathédrale Saint-Maurice d'Angers</enfant>
+    <enfant>Musique de la cathédrale Saint-Paul de Mdina</enfant>
+    <enfant>Musique de la cathédrale Saint-Pierre de Beauvais</enfant>
+    <enfant>Musique de la cathédrale Saint-Pierre de Poitiers</enfant>
+    <enfant>Musique de la cathédrale Saint-Sauveur d'Aix-en-Provence</enfant>
+    <enfant>Musique de la cathédrale Saint-Trophine d'Arles</enfant>
+    <enfant>Musique de la cathédrale Saint-Vaast d'Arras</enfant>
+    <enfant>Musique de la cathédrale Saint-Étienne de Bourges</enfant>
+    <enfant>Musique de la cathédrale Saint-Étienne de Châlons-en-Champagne</enfant>
+    <enfant>Musique de la cathédrale de Westminter</enfant>
+    <enfant>Musique de la collégiale Notre-Dame de Mantes-la-Jolie</enfant>
+    <enfant>Musique de la collégiale Saint-Étienne de Troyes</enfant>
+    <enfant>Musique de la primatiale Notre-Dame-de-l'Annonciation de Nancy</enfant>
+    <enfant>Musique des galères</enfant>
+    <enfant>Noblesse de Belley</enfant>
+    <enfant>Ordre Teutonique</enfant>
+    <enfant>Ordre de Saint-Michel</enfant>
+    <enfant>Ordre de la Chevalerie</enfant>
+    <enfant>Ordre des chevaliers de Saint-Étienne</enfant>
+    <enfant>Ordre des chevaliers du Bon temps</enfant>
+    <enfant>Ordre du Saint-Esprit</enfant>
+    <enfant>Porteurs de la châsse de Sainte-Geneviève</enfant>
+    <enfant>Pénitents</enfant>
+    <enfant>Talapoins</enfant>
+    <enfant>Tiers-État de Belley</enfant>
+  </term>
+  <term>
+    <entree>Corps de justice</entree>
+    <enfant>Corps de justice de Bourges</enfant>
+    <enfant>Corps de justice de Châteauroux</enfant>
+    <enfant>Corps de justice de La Ferté-Bernard</enfant>
+    <enfant>Corps de justice de Luzy</enfant>
+    <enfant>Corps de justice de Vendôme</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps de justice de Bourges</entree>
+    <parent>Corps de justice</parent>
+  </term>
+  <term>
+    <entree>Corps de justice de Châteauroux</entree>
+    <parent>Corps de justice</parent>
+  </term>
+  <term>
+    <entree>Corps de justice de La Ferté-Bernard</entree>
+    <parent>Corps de justice</parent>
+  </term>
+  <term>
+    <entree>Corps de justice de Luzy</entree>
+    <parent>Corps de justice</parent>
+  </term>
+  <term>
+    <entree>Corps de justice de Vendôme</entree>
+    <parent>Corps de justice</parent>
+  </term>
+  <term>
+    <entree>Corps de l'hôtel-de-ville de Nancy</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps de ville</entree>
+    <enfant>Corps de ville d'Agen</enfant>
+    <enfant>Corps de ville d'Arras</enfant>
+    <enfant>Corps de ville de Beauvais</enfant>
+    <enfant>Corps de ville de Belley</enfant>
+    <enfant>Corps de ville de Castelnaudary</enfant>
+    <enfant>Corps de ville de Caudebec</enfant>
+    <enfant>Corps de ville de Château-Thierry</enfant>
+    <enfant>Corps de ville de Châteauroux</enfant>
+    <enfant>Corps de ville de Crusy-le-Châtel</enfant>
+    <enfant>Corps de ville de Dôle</enfant>
+    <enfant>Corps de ville de Grenoble</enfant>
+    <enfant>Corps de ville de La Flèche</enfant>
+    <enfant>Corps de ville de La Rochelle</enfant>
+    <enfant>Corps de ville de La Réole</enfant>
+    <enfant>Corps de ville de Limoges</enfant>
+    <enfant>Corps de ville de Liège</enfant>
+    <enfant>Corps de ville de Londres</enfant>
+    <enfant>Corps de ville de Mantes-la-Jolie</enfant>
+    <enfant>Corps de ville de Niort</enfant>
+    <enfant>Corps de ville de Paris</enfant>
+    <enfant>Corps de ville de Poitiers</enfant>
+    <enfant>Corps de ville de Provins</enfant>
+    <enfant>Corps de ville de Péronne</enfant>
+    <enfant>Corps de ville de Rennes</enfant>
+    <enfant>Corps de ville de Saumur</enfant>
+    <enfant>Corps de ville de Soissons</enfant>
+    <enfant>Corps de ville de Tours</enfant>
+    <enfant>Corps de ville de Vannes</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps de ville d'Agen</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville d'Arras</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Beauvais</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Belley</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Castelnaudary</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Caudebec</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Château-Thierry</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Châteauroux</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Crusy-le-Châtel</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Dôle</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Grenoble</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de La Flèche</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de La Réole</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de La Rochelle</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Liège</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Limoges</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Londres</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Mantes-la-Jolie</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Niort</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Paris</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Péronne</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Poitiers</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Provins</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Rennes</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Saumur</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Soissons</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Tours</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps de ville de Vannes</entree>
+    <parent>Corps de ville</parent>
+  </term>
+  <term>
+    <entree>Corps des avocats</entree>
+    <enfant>Corps des avocats de Montpellier</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps des avocats de Montpellier</entree>
+    <parent>Corps des avocats</parent>
+  </term>
+  <term>
+    <entree>Corps des marchands</entree>
+    <enfant>Corps des marchands de la ville d'Angers</enfant>
+    <enfant>Corps des marchands de la ville de Chartres</enfant>
+    <enfant>Corps des marchands de la ville de Poitiers</enfant>
+    <enfant>Corps des marchands de la ville de Rennes</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps des marchands de la ville d'Angers</entree>
+    <parent>Corps des marchands</parent>
+  </term>
+  <term>
+    <entree>Corps des marchands de la ville de Chartres</entree>
+    <parent>Corps des marchands</parent>
+  </term>
+  <term>
+    <entree>Corps des marchands de la ville de Poitiers</entree>
+    <parent>Corps des marchands</parent>
+  </term>
+  <term>
+    <entree>Corps des marchands de la ville de Rennes</entree>
+    <parent>Corps des marchands</parent>
+  </term>
+  <term>
+    <entree>Corps des procureurs</entree>
+    <enfant>Corps des procureurs de Montpellier</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Corps des procureurs de Montpellier</entree>
+    <parent>Corps des procureurs</parent>
+  </term>
+  <term>
+    <entree>Corps et communauté des patrons pêcheurs de Marseille</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Cour d'Angleterre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Bavière</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Danemark</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de France</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Hanovre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de l'électeur de Brandebourg</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Lorraine</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Pékin</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Savoie</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Siam</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Württemberg</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour de Zell</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour des aides</entree>
+    <enfant>Cour des aides d'Auvergne</enfant>
+    <enfant>Cour des aides de Bordeaux</enfant>
+    <enfant>Cour des aides de Libourne</enfant>
+    <enfant>Cour des aides de Montauban</enfant>
+    <enfant>Cour des aides de Montpellier</enfant>
+    <enfant>Cour des aides de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour des aides d'Auvergne</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des aides de Bordeaux</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des aides de Libourne</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des aides de Montauban</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des aides de Montpellier</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des aides de Paris</entree>
+    <parent>Cour des aides</parent>
+  </term>
+  <term>
+    <entree>Cour des comptes</entree>
+    <enfant>Cour des comptes d'Aix-en-Provence</enfant>
+    <enfant>Cour des comptes, aides et finances de Montpellier</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour des comptes d'Aix-en-Provence</entree>
+    <parent>Cour des comptes</parent>
+  </term>
+  <term>
+    <entree>Cour des comptes, aides et finances de Montpellier</entree>
+    <parent>Cour des comptes</parent>
+  </term>
+  <term>
+    <entree>Cour des monnaies</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour du Landgrave de Hesse-Cassel</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour du vice-roi de Naples</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cour souveraine de Lorraine et Barrois</entree>
+    <parent>Cours souveraines</parent>
+  </term>
+  <term>
+    <entree>Cours d'Allemagne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cours souveraines</entree>
+    <enfant>Cour souveraine de Lorraine et Barrois</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Cuirassiers de Pise</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Dames de la Propagation de la foi</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Dames maltaises</entree>
+    <formeAutorite>Hospitalières de Saint-Jean-de-Jérusalem</formeAutorite>
+  </term>
+  <term>
+    <entree>Danseurs de l'Opéra de Paris</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Danseurs de l'Opéra de Rouen</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Derviches tourneurs</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Diète de Ratisbonne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Directeurs de l'hôpital général de Montpellier</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Doctrinaires</entree>
+    <formeAutorite>Pères de la Doctrine Chrétienne</formeAutorite>
+  </term>
+  <term>
+    <entree>Dominicains</entree>
+    <enfant>Dominicains de Nancy</enfant>
+    <enfant>Dominicains de Toulouse</enfant>
+  </term>
+  <term>
+    <entree>Dominicains de Nancy</entree>
+    <parent>Dominicains</parent>
+  </term>
+  <term>
+    <entree>Dominicains de Toulouse</entree>
+    <parent>Dominicains</parent>
+  </term>
+  <term>
+    <entree>Doyen de la cathédrale Saint-Jean de Lyon</entree>
+    <parent>Clergé de la cathédrale Saint-Jean de Lyon</parent>
+  </term>
+  <term>
+    <entree>Échevins</entree>
+    <enfant>Échevins d'Alençon</enfant>
+    <enfant>Échevins d'Amiens</enfant>
+    <enfant>Échevins d'Honfleur</enfant>
+    <enfant>Échevins de Bourges</enfant>
+    <enfant>Échevins de Caudebec-en-Caux</enfant>
+    <enfant>Échevins de Chartres</enfant>
+    <enfant>Échevins de Châlons-en-Champagne</enfant>
+    <enfant>Échevins de Château-Thierry</enfant>
+    <enfant>Échevins de Fontenay-en-Brie</enfant>
+    <enfant>Échevins de Hombourg</enfant>
+    <enfant>Échevins de La Ferté-Bernard</enfant>
+    <enfant>Échevins de La Rochelle</enfant>
+    <enfant>Échevins de Londres</enfant>
+    <enfant>Échevins de Luzy</enfant>
+    <enfant>Échevins de Lyon</enfant>
+    <enfant>Échevins de Mantes-la-Jolie</enfant>
+    <enfant>Échevins de Marseille</enfant>
+    <enfant>Échevins de Montargis</enfant>
+    <enfant>Échevins de Nantes</enfant>
+    <enfant>Échevins de Nevers</enfant>
+    <enfant>Échevins de Niort</enfant>
+    <enfant>Échevins de Nogent-le-Rotrou</enfant>
+    <enfant>Échevins de Paris</enfant>
+    <enfant>Échevins de Poitiers</enfant>
+    <enfant>Échevins de Provins</enfant>
+    <enfant>Échevins de Péronne</enfant>
+    <enfant>Échevins de Reims</enfant>
+    <enfant>Échevins de Rennes</enfant>
+    <enfant>Échevins de Rethel</enfant>
+    <enfant>Échevins de Senlis</enfant>
+    <enfant>Échevins de Sens</enfant>
+    <enfant>Échevins de Soissons</enfant>
+    <enfant>Échevins de Troyes</enfant>
+    <enfant>Échevins de Vendôme</enfant>
+    <enfant>Échevins du Havre</enfant>
+    <enfant>Échevins du Mans</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Échevins d'Alençon</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins d'Amiens</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins d'Honfleur</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Bourges</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Caudebec-en-Caux</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Châlons-en-Champagne</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Chartres</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Château-Thierry</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Fontenay-en-Brie</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Hombourg</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de La Ferté-Bernard</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de La Rochelle</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Londres</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Luzy</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Lyon</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Mantes-la-Jolie</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Marseille</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Montargis</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Nantes</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Nevers</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Niort</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Nogent-le-Rotrou</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Paris</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Péronne</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Poitiers</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Provins</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Reims</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Rennes</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Rethel</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Senlis</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Sens</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Soissons</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Troyes</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins de Vendôme</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins du Havre</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Échevins du Mans</entree>
+    <parent>Échevins</parent>
+  </term>
+  <term>
+    <entree>Écoliers du collège de Guyenne</entree>
+    <parent>Collège de Guyenne</parent>
+  </term>
+  <term>
+    <entree>Écoliers du petit collège de Notre-Dame de Lyon</entree>
+    <parent>Collège de Notre-Dame de Lyon</parent>
+  </term>
+  <term>
+    <entree>Écurie du roi</entree>
+    <enfant>Grande écurie du roi</enfant>
+    <enfant>Petite écurie du roi</enfant>
+    <parent>Musique du roi</parent>
+  </term>
+  <term>
+    <entree>Élection</entree>
+    <enfant>Élection d'Évreux</enfant>
+    <enfant>Élection de Bernay</enfant>
+    <enfant>Élection de Bordeaux</enfant>
+    <enfant>Élection de Chartres</enfant>
+    <enfant>Élection de Clermont-en-Beauvaisis</enfant>
+    <enfant>Élection de La Rochelle</enfant>
+    <enfant>Élection de Mantes-la-Jolie</enfant>
+    <enfant>Élection de Montargis</enfant>
+    <enfant>Élection de Paris</enfant>
+    <enfant>Élection de Rethel</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Élection d'Évreux</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Bernay</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Bordeaux</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Chartres</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Clermont-en-Beauvaisis</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de La Rochelle</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Mantes-la-Jolie</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Montargis</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Paris</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élection de Rethel</entree>
+    <parent>Élection</parent>
+  </term>
+  <term>
+    <entree>Élèves des collèges jésuites</entree>
+    <enfant>Élèves du collège des Jésuites de Poitiers</enfant>
+    <enfant>Élèves du collège des Jésuites de Périgueux</enfant>
+    <enfant>Élèves du grand collège de la Trinité de Lyon</enfant>
+  </term>
+  <term>
+    <entree>Élèves du collège des Jésuites de Périgueux</entree>
+    <parent>Élèves des collèges jésuites</parent>
+  </term>
+  <term>
+    <entree>Élèves du collège des Jésuites de Poitiers</entree>
+    <parent>Élèves des collèges jésuites</parent>
+  </term>
+  <term>
+    <entree>Élèves du grand collège de la Trinité de Lyon</entree>
+    <parent>Élèves des collèges jésuites</parent>
+  </term>
+  <term>
+    <entree>Enfants de choeur de la cathédrale Notre-Dame de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>États généraux</entree>
+    <enfant>États généraux d'Artois</enfant>
+    <enfant>États généraux de Bourgogne</enfant>
+    <enfant>États généraux de Bretagne</enfant>
+    <enfant>États généraux de la Province de Foix</enfant>
+    <enfant>États généraux du Languedoc</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>États généraux d'Artois</entree>
+    <parent>États généraux</parent>
+  </term>
+  <term>
+    <entree>États généraux de Bourgogne</entree>
+    <parent>États généraux</parent>
+  </term>
+  <term>
+    <entree>États généraux de Bretagne</entree>
+    <parent>États généraux</parent>
+  </term>
+  <term>
+    <entree>États généraux de la Province de Foix</entree>
+    <parent>États généraux</parent>
+  </term>
+  <term>
+    <entree>États généraux du Languedoc</entree>
+    <parent>États généraux</parent>
+  </term>
+  <term>
+    <entree>Faculté de droit</entree>
+    <enfant>Faculté de droit de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Faculté de droit de Paris</entree>
+    <parent>Faculté de droit</parent>
+  </term>
+  <term>
+    <entree>Faculté de médecine</entree>
+    <enfant>Faculté de médecine de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Faculté de médecine de Paris</entree>
+    <parent>Faculté de médecine</parent>
+  </term>
+  <term>
+    <entree>Faculté de théologie</entree>
+    <enfant>Faculté de théologie de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Faculté de théologie de Paris</entree>
+    <parent>Faculté de théologie</parent>
+  </term>
+  <term>
+    <entree>Faculté des arts</entree>
+    <enfant>Faculté des arts de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Faculté des arts de Paris</entree>
+    <parent>Faculté des arts</parent>
+  </term>
+  <term>
+    <entree>Fermiers généraux</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Feuillantins</entree>
+    <enfant>Feuillantins de l'abbaye de Micy à Saint-Pryvé-Saint-Mesmin</enfant>
+    <enfant>Feuillantins du couvent de Châtillon-sur-Seine</enfant>
+    <enfant>Feuillantins du couvent de Paris</enfant>
+    <enfant>Feuillantins du couvent de Versailles</enfant>
+    <parent>Cisterciens</parent>
+    <formeRejetee>Feuillants</formeRejetee>
+  </term>
+  <term>
+    <entree>Feuillantins de l'abbaye de Micy à Saint-Pryvé-Saint-Mesmin</entree>
+    <parent>Feuillantins</parent>
+  </term>
+  <term>
+    <entree>Feuillantins du couvent de Châtillon-sur-Seine</entree>
+    <parent>Feuillantins</parent>
+  </term>
+  <term>
+    <entree>Feuillantins du couvent de Paris</entree>
+    <parent>Feuillantins</parent>
+  </term>
+  <term>
+    <entree>Feuillantins du couvent de Versailles</entree>
+    <parent>Feuillantins</parent>
+  </term>
+  <term>
+    <entree>Feuillants</entree>
+    <formeAutorite>Feuillantins</formeAutorite>
+  </term>
+  <term>
+    <entree>Fifres de la Chambre du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Fifres de Paris</entree>
+    <parent>Musique de Paris</parent>
+  </term>
+  <term>
+    <entree>Fifres des Cent Suisses</entree>
+    <parent>Garde suisse</parent>
+  </term>
+  <term>
+    <entree>Filles de la Visitation Sainte Marie</entree>
+    <formeAutorite>Visitandines</formeAutorite>
+  </term>
+  <term>
+    <entree>Fontevristes</entree>
+    <enfant>Fontevristes du prieuré de Notre-Dame-du-Relay</enfant>
+  </term>
+  <term>
+    <entree>Fontevristes du prieuré de Notre-Dame-du-Relay</entree>
+    <parent>Fontevristes</parent>
+  </term>
+  <term>
+    <entree>Franciscaines</entree>
+    <enfant>Annonciades</enfant>
+    <enfant>Capucines</enfant>
+    <enfant>Franciscaines de la Conception de Paris</enfant>
+  </term>
+  <term>
+    <entree>Franciscaines de la Conception de Paris</entree>
+    <parent>Franciscaines</parent>
+  </term>
+  <term>
+    <entree>Franciscains</entree>
+    <enfant>Capucins</enfant>
+    <enfant>Récollets</enfant>
+    <formeRejetee>Cordeliers</formeRejetee>
+  </term>
+  <term>
+    <entree>Frères de la Charité</entree>
+    <enfant>Frères de la Charité d'Évreux</enfant>
+    <enfant>Frères de la Charité de Grenoble</enfant>
+    <enfant>Frères de la Charité de Niort</enfant>
+    <formeAutorite>Ordre hospitalier des frères de Saint Jean de Dieu</formeAutorite>
+  </term>
+  <term>
+    <entree>Frères de la Charité d'Évreux</entree>
+    <parent>Frères de la Charité</parent>
+  </term>
+  <term>
+    <entree>Frères de la Charité de Grenoble</entree>
+    <parent>Frères de la Charité</parent>
+  </term>
+  <term>
+    <entree>Frères de la Charité de Niort</entree>
+    <parent>Frères de la Charité</parent>
+  </term>
+  <term>
+    <entree>Garde française</entree>
+    <enfant>Gendarmes de la garde</enfant>
+    <enfant>Hautbois du régiment des gardes françaises</enfant>
+    <enfant>Tambours du régiment des gardes françaises</enfant>
+    <enfant>Timbales du régiment des gardes françaises</enfant>
+    <enfant>Trompettes du régiment des gardes françaises</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Garde suisse</entree>
+    <enfant>Fifres des Cent Suisses</enfant>
+    <enfant>Tambours des Cent Suisses</enfant>
+    <enfant>Timbales des Cent Suisses</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Gardes du corps</entree>
+    <enfant>Gardes du corps de Monsieur</enfant>
+    <enfant>Gardes du corps de Sainte-Madeleine</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Gardes du corps de Monsieur</entree>
+    <parent>Gardes du corps</parent>
+  </term>
+  <term>
+    <entree>Gardes du corps de Sainte-Madeleine</entree>
+    <parent>Gardes du corps</parent>
+  </term>
+  <term>
+    <entree>Gardes suisses de Pise</entree>
+    <enfant>Timbales des gardes suisses de Pise</enfant>
+    <enfant>Trompettes des gardes suisses de Pise</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Gardes-marines du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Gendarmes de la garde</entree>
+    <parent>Garde française</parent>
+  </term>
+  <term>
+    <entree>Génovéfains</entree>
+    <enfant>Génovéfains de l'abbaye royale de Sainte-Geneviève de Paris</enfant>
+  </term>
+  <term>
+    <entree>Génovéfains de l'abbaye royale de Sainte-Geneviève de Paris</entree>
+    <parent>Génovéfains</parent>
+  </term>
+  <term>
+    <entree>Gouverneurs</entree>
+    <enfant>Gouverneurs d'Arles</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Gouverneurs d'Arles</entree>
+    <parent>Gouverneurs</parent>
+  </term>
+  <term>
+    <entree>Grand conseil</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Grand Doyen de la cathédrale Notre-Dame de Strasbourg</entree>
+    <parent>Chapitre de la cathédrale Notre-Dame de Strasbourg</parent>
+  </term>
+  <term>
+    <entree>Grand Prieuré de France</entree>
+    <formeAutorite>Ordre royal de Notre-Dame du Mont-Carmel et de Saint-Lazare-de-Jérusalem</formeAutorite>
+  </term>
+  <term>
+    <entree>Grande confrérie Notre-Dame</entree>
+    <parent>Confrérie</parent>
+  </term>
+  <term>
+    <entree>Grande écurie du roi</entree>
+    <enfant>Tambours de la grande écurie du roi</enfant>
+    <enfant>Trompettes de la grande écurie du roi</enfant>
+    <parent>Écurie du roi</parent>
+  </term>
+  <term>
+    <entree>Grands Augustins de Marseille</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Grands Augustins de Paris</entree>
+    <parent>Augustins</parent>
+  </term>
+  <term>
+    <entree>Grands carmes</entree>
+    <parent>Carmes</parent>
+  </term>
+  <term>
+    <entree>Grenier à sel</entree>
+    <enfant>Grenier à sel de Bernay</enfant>
+    <enfant>Grenier à sel de La Ferté-Bernard</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Grenier à sel de Bernay</entree>
+    <parent>Grenier à sel</parent>
+  </term>
+  <term>
+    <entree>Grenier à sel de La Ferté-Bernard</entree>
+    <parent>Grenier à sel</parent>
+  </term>
+  <term>
+    <entree>Guet</entree>
+    <enfant>Guet de Paris</enfant>
+    <enfant>Guet de Toulouse</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Guet de Paris</entree>
+    <enfant>Archers du guet de Paris</enfant>
+    <parent>Guet</parent>
+  </term>
+  <term>
+    <entree>Guet de Toulouse</entree>
+    <parent>Guet</parent>
+  </term>
+  <term>
+    <entree>Hallebardiers</entree>
+    <enfant>Hallebardiers de la ville de La Rochelle</enfant>
+  </term>
+  <term>
+    <entree>Hallebardiers de la ville de La Rochelle</entree>
+    <parent>Hallebardiers</parent>
+  </term>
+  <term>
+    <entree>Haudriettes</entree>
+    <enfant>Haudriettes du couvent de Notre-Dame de l'Assomption de Paris</enfant>
+  </term>
+  <term>
+    <entree>Haudriettes du couvent de Notre-Dame de l'Assomption de Paris</entree>
+    <parent>Haudriettes</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Bordeaux</entree>
+    <parent>Musique de Bordeaux</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Chartres</entree>
+    <parent>Musique de Chartres</parent>
+  </term>
+  <term>
+    <entree>Hautbois de l'armée</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Hautbois de la Chambre du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Hautbois de la première compagnie des mousquetaires</entree>
+    <parent>Mousquetaires de la première compagnie</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Montpellier</entree>
+    <parent>Musique de Montpellier</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Mr de Rosmadec</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Paris</entree>
+    <parent>Musique de Paris</parent>
+  </term>
+  <term>
+    <entree>Hautbois de Toulouse</entree>
+    <parent>Musique de Toulouse</parent>
+  </term>
+  <term>
+    <entree>Hautbois des mousquetaires</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Hautbois du régiment des gardes françaises</entree>
+    <parent>Garde française</parent>
+  </term>
+  <term>
+    <entree>Hérauts d'armes</entree>
+    <enfant>Hérauts d'armes de Paris</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Hérauts d'armes de Paris</entree>
+    <parent>Hérauts d'armes</parent>
+  </term>
+  <term>
+    <entree>Hospitalières augustines</entree>
+    <enfant>Hospitalières augustines de Beaulieu-lès-Loches</enfant>
+    <enfant>Hospitalières augustines de la Place royale de Paris</enfant>
+    <enfant>Hospitalières augustines de la Roquette de Paris</enfant>
+    <parent>Augustines</parent>
+  </term>
+  <term>
+    <entree>Hospitalières augustines de Beaulieu-lès-Loches</entree>
+    <parent>Hospitalières augustines</parent>
+  </term>
+  <term>
+    <entree>Hospitalières augustines de la Place royale de Paris</entree>
+    <parent>Hospitalières augustines</parent>
+  </term>
+  <term>
+    <entree>Hospitalières augustines de la Roquette de Paris</entree>
+    <parent>Hospitalières augustines</parent>
+  </term>
+  <term>
+    <entree>Hospitalières de Saint-Jean-de-Jérusalem</entree>
+    <enfant>Hospitalières de Saint-Jean-de-Jérusalem de Toulouse</enfant>
+    <formeRejetee>Dames maltaises</formeRejetee>
+  </term>
+  <term>
+    <entree>Hospitalières de Saint-Jean-de-Jérusalem de Toulouse</entree>
+    <parent>Hospitalières de Saint-Jean-de-Jérusalem</parent>
+  </term>
+  <term>
+    <entree>Huissiers de Bourgogne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Inquisition d'Espagne</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>INSTITUTIONS</entree>
+    <enfant>Académie d'Angers</enfant>
+    <enfant>Académie d'art équestre</enfant>
+    <enfant>Académie d'art équestre d'Angers</enfant>
+    <enfant>Académie de Bernardi</enfant>
+    <enfant>Académie de Clermont-Ferrand</enfant>
+    <enfant>Académie de Peinture et de Sculpture</enfant>
+    <enfant>Académie de Soissons</enfant>
+    <enfant>Académie de Villefranche-sur-Saône</enfant>
+    <enfant>Académie des Beaux Esprits de Vernon</enfant>
+    <enfant>Académie des Jeux Floraux de Toulouse</enfant>
+    <enfant>Académie française</enfant>
+    <enfant>Académie galante d'Avignon</enfant>
+    <enfant>Académie littéraire</enfant>
+    <enfant>Académie royale</enfant>
+    <enfant>Académie royale d'Arles</enfant>
+    <enfant>Académie royale de Nîmes</enfant>
+    <enfant>Académie royale de danse</enfant>
+    <enfant>Académie royale de musique</enfant>
+    <enfant>Académie royale de musique de Lyon</enfant>
+    <enfant>Académie royale de musique de Marseille</enfant>
+    <enfant>Ambassadeurs</enfant>
+    <enfant>Amirauté</enfant>
+    <enfant>Assesseurs</enfant>
+    <enfant>Aumôniers de la Maison royale</enfant>
+    <enfant>Aumôniers du roi d'Angleterre</enfant>
+    <enfant>Avocats aux conseils du roi</enfant>
+    <enfant>Bacha de Napoli de Romanie</enfant>
+    <enfant>Baillage</enfant>
+    <enfant>Bourgmestre de Vienne</enfant>
+    <enfant>Bureau des finances</enfant>
+    <enfant>Capitouls</enfant>
+    <enfant>Carabiniers du roi</enfant>
+    <enfant>Chambre apostolique</enfant>
+    <enfant>Chambre des comptes</enfant>
+    <enfant>Chambre du roi d'Angleterre</enfant>
+    <enfant>Chancellerie</enfant>
+    <enfant>Chapelle du roi</enfant>
+    <enfant>Chevau-légers du roi</enfant>
+    <enfant>Châtelet de Paris</enfant>
+    <enfant>Clochettes d'armes du roi</enfant>
+    <enfant>Comités des Galères de Marseille</enfant>
+    <enfant>Comédiens du Marais</enfant>
+    <enfant>Comédiens français</enfant>
+    <enfant>Comédiens italiens</enfant>
+    <enfant>Conseil du roi</enfant>
+    <enfant>Conseil souverain d'Artois</enfant>
+    <enfant>Conseillers</enfant>
+    <enfant>Consistoire de Toulouse</enfant>
+    <enfant>Consuls</enfant>
+    <enfant>Cour d'Angleterre</enfant>
+    <enfant>Cour de Bavière</enfant>
+    <enfant>Cour de Danemark</enfant>
+    <enfant>Cour de France</enfant>
+    <enfant>Cour de Hanovre</enfant>
+    <enfant>Cour de Lorraine</enfant>
+    <enfant>Cour de Pékin</enfant>
+    <enfant>Cour de Savoie</enfant>
+    <enfant>Cour de Siam</enfant>
+    <enfant>Cour de Württemberg</enfant>
+    <enfant>Cour de Zell</enfant>
+    <enfant>Cour de l'électeur de Brandebourg</enfant>
+    <enfant>Cour des aides</enfant>
+    <enfant>Cour des comptes</enfant>
+    <enfant>Cour des monnaies</enfant>
+    <enfant>Cour du Landgrave de Hesse-Cassel</enfant>
+    <enfant>Cour du vice-roi de Naples</enfant>
+    <enfant>Cours d'Allemagne</enfant>
+    <enfant>Cours souveraines</enfant>
+    <enfant>Cuirassiers de Pise</enfant>
+    <enfant>Danseurs de l'Opéra de Paris</enfant>
+    <enfant>Danseurs de l'Opéra de Rouen</enfant>
+    <enfant>Directeurs de l'hôpital général de Montpellier</enfant>
+    <enfant>Diète de Ratisbonne</enfant>
+    <enfant>Faculté de droit</enfant>
+    <enfant>Faculté de médecine</enfant>
+    <enfant>Faculté de théologie</enfant>
+    <enfant>Faculté des arts</enfant>
+    <enfant>Fermiers généraux</enfant>
+    <enfant>Garde française</enfant>
+    <enfant>Garde suisse</enfant>
+    <enfant>Gardes du corps</enfant>
+    <enfant>Gardes suisses de Pise</enfant>
+    <enfant>Gardes-marines du roi</enfant>
+    <enfant>Gouverneurs</enfant>
+    <enfant>Grand conseil</enfant>
+    <enfant>Grenier à sel</enfant>
+    <enfant>Guet</enfant>
+    <enfant>Hautbois de Mr de Rosmadec</enfant>
+    <enfant>Hautbois de l'armée</enfant>
+    <enfant>Hautbois des mousquetaires</enfant>
+    <enfant>Huissiers de Bourgogne</enfant>
+    <enfant>Juges</enfant>
+    <enfant>Jurats</enfant>
+    <enfant>Magistrats</enfant>
+    <enfant>Mainteneurs</enfant>
+    <enfant>Maire</enfant>
+    <enfant>Maison de France</enfant>
+    <enfant>Maison de Savoie</enfant>
+    <enfant>Maison de Soissons</enfant>
+    <enfant>Maison de la dauphine</enfant>
+    <enfant>Maison du roi</enfant>
+    <enfant>Manufacture royale des Gobelins</enfant>
+    <enfant>Maréchaussée</enfant>
+    <enfant>Messieurs de la ville d'Autun</enfant>
+    <enfant>Messieurs de la ville de Luxembourg</enfant>
+    <enfant>Messieurs de la ville de Paris</enfant>
+    <enfant>Milice</enfant>
+    <enfant>Mousquetaires</enfant>
+    <enfant>Mousquetaires du roi</enfant>
+    <enfant>Musiciens de l'Opéra</enfant>
+    <enfant>Musiciens de l'Opéra de Lyon</enfant>
+    <enfant>Musique d'Avignon</enfant>
+    <enfant>Musique de Bordeaux</enfant>
+    <enfant>Musique de Chartres</enfant>
+    <enfant>Musique de Château-Thierry</enfant>
+    <enfant>Musique de Lyon</enfant>
+    <enfant>Musique de Léopold Ier de Habsbourg</enfant>
+    <enfant>Musique de Mlle de Guise</enfant>
+    <enfant>Musique de Monsieur</enfant>
+    <enfant>Musique de Monsieur le Duc</enfant>
+    <enfant>Musique de Montpellier</enfant>
+    <enfant>Musique de Paris</enfant>
+    <enfant>Musique de Toulouse</enfant>
+    <enfant>Musique de l'Opéra de Marseille</enfant>
+    <enfant>Musique de l'empereur</enfant>
+    <enfant>Musique de l'Électeur de Bavière</enfant>
+    <enfant>Musique de l'église abbatiale Saint Martin de Tours</enfant>
+    <enfant>Musique de la Chapelle du roi de Pologne</enfant>
+    <enfant>Musique de la reine</enfant>
+    <enfant>Musique de la ville d'Autun</enfant>
+    <enfant>Musique du dauphin</enfant>
+    <enfant>Musique du duc de Hanovre</enfant>
+    <enfant>Musique du duc de Lorraine</enfant>
+    <enfant>Musique du duc de Mantoue</enfant>
+    <enfant>Musique du duc de Modène</enfant>
+    <enfant>Musique du duc de Noailles</enfant>
+    <enfant>Musique du grand-duc de Toscane</enfant>
+    <enfant>Musique du marquis de Pomereu</enfant>
+    <enfant>Musique du prince de Brandebourg</enfant>
+    <enfant>Musique du prince royal de Danemark</enfant>
+    <enfant>Musique du roi</enfant>
+    <enfant>Musique du roi d'Angleterre</enfant>
+    <enfant>Musique du roi de Danemark</enfant>
+    <enfant>Musique du roi de Pologne</enfant>
+    <enfant>Musique du roi de Suède</enfant>
+    <enfant>Notaires garde-notes du roi à Rennes</enfant>
+    <enfant>Officiers de Bourges</enfant>
+    <enfant>Officiers de Lyon</enfant>
+    <enfant>Officiers de Paris</enfant>
+    <enfant>Officiers de la Légation</enfant>
+    <enfant>Officiers des traites foraines</enfant>
+    <enfant>Officiers du guet à cheval</enfant>
+    <enfant>Orchestre de la Comédie Française</enfant>
+    <enfant>Pages du roi</enfant>
+    <enfant>Parlement</enfant>
+    <enfant>Présidial</enfant>
+    <enfant>Prévôté</enfant>
+    <enfant>Quartiniers de Paris</enfant>
+    <enfant>Régiment d'Angoumois</enfant>
+    <enfant>Régiment des Gardes</enfant>
+    <enfant>Régiment du roi</enfant>
+    <enfant>Régiment royal de Niort</enfant>
+    <enfant>Secrétaires du roi</enfant>
+    <enfant>Syndic</enfant>
+    <enfant>Sénat</enfant>
+    <enfant>Sénateurs de Pologne</enfant>
+    <enfant>Sénateurs de Suède</enfant>
+    <enfant>Sénéchaussée</enfant>
+    <enfant>Table de marbre</enfant>
+    <enfant>Tribunal de la Rote</enfant>
+    <enfant>Troupe de Monseigneur le Dauphin</enfant>
+    <enfant>Troupe de Monsieur le Prince</enfant>
+    <enfant>Troupe de comédiens allemands</enfant>
+    <enfant>Troupe de comédiens de Breisach-sur-le-Rhein [prob.]</enfant>
+    <enfant>Troupe de comédiens de campagne</enfant>
+    <enfant>Troupe de comédiens français du duc de Hanovre</enfant>
+    <enfant>Troupe de l'électeur de Bavière</enfant>
+    <enfant>Troupe des comédiens français de la cour de Savoie</enfant>
+    <enfant>Troupe des comédiens italiens</enfant>
+    <enfant>Troupe des danseurs du roi</enfant>
+    <enfant>Troupe du duc de Bourgogne</enfant>
+    <enfant>Troupe du faubourg Saint-Germain</enfant>
+    <enfant>Troupe du roi</enfant>
+    <enfant>Troupe du théâtre de l'hôtel Guénégaud</enfant>
+    <enfant>Troupe du théâtre de l'hôtel de Bourgogne</enfant>
+    <enfant>Troupe du théâtre du Marais</enfant>
+    <enfant>Troupe du théâtre français</enfant>
+    <enfant>Trésoriers de France</enfant>
+    <enfant>Université</enfant>
+    <enfant>Vierg d'Autun</enfant>
+    <enfant>Échevins</enfant>
+    <enfant>Élection</enfant>
+    <enfant>États généraux</enfant>
+  </term>
+  <term>
+    <entree>Jacobins</entree>
+    <enfant>Jacobins d'Évreux</enfant>
+    <enfant>Jacobins de Bordeaux</enfant>
+    <enfant>Jacobins de Caen</enfant>
+    <enfant>Jacobins de Compiègne</enfant>
+    <enfant>Jacobins de Madrid</enfant>
+    <enfant>Jacobins de Paris</enfant>
+    <enfant>Jacobins de Poitiers</enfant>
+    <enfant>Jacobins du grand couvent de Paris</enfant>
+    <enfant>Jacobins réformés</enfant>
+  </term>
+  <term>
+    <entree>Jacobins d'Évreux</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Bordeaux</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Caen</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Compiègne</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Madrid</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Paris</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins de Poitiers</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins du grand couvent de Paris</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jacobins réformés</entree>
+    <parent>Jacobins</parent>
+  </term>
+  <term>
+    <entree>Jésuites</entree>
+    <enfant>Jésuites d'Alep</enfant>
+    <enfant>Jésuites d'Avignon</enfant>
+    <enfant>Jésuites d'Eu</enfant>
+    <enfant>Jésuites de Brest</enfant>
+    <enfant>Jésuites de Châlons-en-Champagne</enfant>
+    <enfant>Jésuites de Douai</enfant>
+    <enfant>Jésuites de Grenoble</enfant>
+    <enfant>Jésuites de La Flèche</enfant>
+    <enfant>Jésuites de Luxembourg</enfant>
+    <enfant>Jésuites de Lyon</enfant>
+    <enfant>Jésuites de Paris</enfant>
+    <enfant>Jésuites de Poitiers</enfant>
+    <enfant>Jésuites de Périgueux</enfant>
+    <enfant>Jésuites de Quimper</enfant>
+    <enfant>Jésuites de Rennes</enfant>
+    <enfant>Jésuites de Rome</enfant>
+    <enfant>Jésuites de Rouen</enfant>
+    <enfant>Jésuites de Saint-Omer</enfant>
+    <enfant>Jésuites de Toulouse</enfant>
+    <enfant>Jésuites de Vienne</enfant>
+  </term>
+  <term>
+    <entree>Jésuites d'Alep</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites d'Avignon</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites d'Eu</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Brest</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Châlons-en-Champagne</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Douai</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Grenoble</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de La Flèche</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Luxembourg</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Lyon</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Paris</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Périgueux</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Poitiers</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Quimper</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Rennes</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Rome</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Rouen</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Saint-Omer</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Toulouse</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Jésuites de Vienne</entree>
+    <parent>Jésuites</parent>
+  </term>
+  <term>
+    <entree>Juge et consuls de la Bourse de Bordeaux</entree>
+    <parent>Juges</parent>
+  </term>
+  <term>
+    <entree>Juges</entree>
+    <enfant>Juge et consuls de la Bourse de Bordeaux</enfant>
+    <enfant>Juges consuls de Chartres</enfant>
+    <enfant>Juges de Bordeaux</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Juges consuls de Chartres</entree>
+    <parent>Juges</parent>
+  </term>
+  <term>
+    <entree>Juges de Bordeaux</entree>
+    <parent>Juges</parent>
+  </term>
+  <term>
+    <entree>Jurats</entree>
+    <enfant>Jurats de Bordeaux</enfant>
+    <enfant>Jurats de Libourne</enfant>
+    <enfant>Jurats de Montauban</enfant>
+    <enfant>Jurats de Morlaix</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Jurats de Bordeaux</entree>
+    <parent>Jurats</parent>
+  </term>
+  <term>
+    <entree>Jurats de Libourne</entree>
+    <parent>Jurats</parent>
+  </term>
+  <term>
+    <entree>Jurats de Montauban</entree>
+    <parent>Jurats</parent>
+  </term>
+  <term>
+    <entree>Jurats de Morlaix</entree>
+    <parent>Jurats</parent>
+  </term>
+  <term>
+    <entree>Jurés-crieurs</entree>
+    <enfant>Jurés-crieurs de Paris</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Jurés-crieurs de Paris</entree>
+    <parent>Jurés-crieurs</parent>
+  </term>
+  <term>
+    <entree>Lazaristes</entree>
+    <formeAutorite>Missionnaires</formeAutorite>
+  </term>
+  <term>
+    <entree>Le Cordon vert ou les Céladons</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Luth de Monsieur</entree>
+    <parent>Musique de Monsieur</parent>
+  </term>
+  <term>
+    <entree>Magistrats</entree>
+    <enfant>Magistrats d'Arras</enfant>
+    <enfant>Magistrats de Châtillon-sur-Seine</enfant>
+    <enfant>Magistrats de Grasse</enfant>
+    <enfant>Magistrats de Marseille</enfant>
+    <enfant>Magistrats de Provins</enfant>
+    <enfant>Magistrats de Saint-Maximin-la-Sainte-Baume</enfant>
+    <enfant>Magistrats de Senlis</enfant>
+    <enfant>Magistrats du Bourges</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Magistrats d'Arras</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Châtillon-sur-Seine</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Grasse</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Marseille</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Provins</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Saint-Maximin-la-Sainte-Baume</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats de Senlis</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Magistrats du Bourges</entree>
+    <parent>Magistrats</parent>
+  </term>
+  <term>
+    <entree>Mainteneurs</entree>
+    <enfant>Mainteneurs des Jeux Floraux de Toulouse</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Mainteneurs des Jeux Floraux de Toulouse</entree>
+    <parent>Mainteneurs</parent>
+  </term>
+  <term>
+    <entree>Maire</entree>
+    <enfant>Maire d'Alençon</enfant>
+    <enfant>Maire d'Oulchy-le-Château</enfant>
+    <enfant>Maire de Bordeaux</enfant>
+    <enfant>Maire de Bourges</enfant>
+    <enfant>Maire de Caudebec-en-Caux</enfant>
+    <enfant>Maire de Château-Thierry</enfant>
+    <enfant>Maire de Clamecy</enfant>
+    <enfant>Maire de Grasse</enfant>
+    <enfant>Maire de Hombourg</enfant>
+    <enfant>Maire de La Ferté-Bernard</enfant>
+    <enfant>Maire de La Ferté-Milon</enfant>
+    <enfant>Maire de La Rochelle</enfant>
+    <enfant>Maire de La Réole</enfant>
+    <enfant>Maire de Libourne</enfant>
+    <enfant>Maire de Luzy</enfant>
+    <enfant>Maire de Mantes-la-Jolie</enfant>
+    <enfant>Maire de Marseille</enfant>
+    <enfant>Maire de Montargis</enfant>
+    <enfant>Maire de Montauban</enfant>
+    <enfant>Maire de Nantes</enfant>
+    <enfant>Maire de Niort</enfant>
+    <enfant>Maire de Nogent-le-Rotrou</enfant>
+    <enfant>Maire de Poitiers</enfant>
+    <enfant>Maire de Provins</enfant>
+    <enfant>Maire de Rieux</enfant>
+    <enfant>Maire de Sens</enfant>
+    <enfant>Maire de Soissons</enfant>
+    <enfant>Maire de Toulouse</enfant>
+    <enfant>Maire de Troyes</enfant>
+    <enfant>Maire du Mans</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maire d'Alençon</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire d'Auchy-le-Château</entree>
+    <formeAutorite>Maire d'Oulchy-le-Château</formeAutorite>
+  </term>
+  <term>
+    <entree>Maire d'Oulchy-le-Château</entree>
+    <parent>Maire</parent>
+    <formeRejetee>Maire d'Auchy-le-Château</formeRejetee>
+  </term>
+  <term>
+    <entree>Maire de Bordeaux</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Bourges</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Caudebec-en-Caux</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Château-Thierry</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Clamecy</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Grasse</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Hombourg</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de La Ferté-Bernard</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de La Ferté-Milon</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de La Réole</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de La Rochelle</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Libourne</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Luzy</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Mantes-la-Jolie</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Marseille</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Montargis</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Montauban</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Nantes</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Niort</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Nogent-le-Rotrou</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Poitiers</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Provins</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Rieux</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Sens</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Soissons</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Toulouse</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire de Troyes</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maire du Mans</entree>
+    <parent>Maire</parent>
+  </term>
+  <term>
+    <entree>Maison de France</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maison de la dauphine</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maison de Savoie</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maison de Soissons</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maison du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maîtres batteurs d'or</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Maîtrise de Saint-Pierre de Rome</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Manufacture royale des Gobelins</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Marchands français de la ville d'Alep</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Marchands maîtres ouvriers en draps d'or, d'argent et de soie de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée</entree>
+    <enfant>Maréchaussée de Blois</enfant>
+    <enfant>Maréchaussée de La Ferté-Bernard</enfant>
+    <enfant>Maréchaussée de Meaux</enfant>
+    <enfant>Maréchaussée de Nantes</enfant>
+    <enfant>Maréchaussée de Troyes</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée de Blois</entree>
+    <parent>Maréchaussée</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée de La Ferté-Bernard</entree>
+    <parent>Maréchaussée</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée de Meaux</entree>
+    <parent>Maréchaussée</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée de Nantes</entree>
+    <parent>Maréchaussée</parent>
+  </term>
+  <term>
+    <entree>Maréchaussée de Troyes</entree>
+    <parent>Maréchaussée</parent>
+  </term>
+  <term>
+    <entree>Marguilliers</entree>
+    <enfant>Marguilliers de Notre-Dame-des-grands-cierges de Saint-Maximin-la-Sainte-Baume</enfant>
+    <enfant>Marguilliers de l'Église Saint-Jacques de Compiègne</enfant>
+    <enfant>Marguilliers de l'église paroissiale Saint-Roch à Paris</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Marguilliers de l'église paroissiale Saint-Roch à Paris</entree>
+    <parent>Marguilliers</parent>
+  </term>
+  <term>
+    <entree>Marguilliers de l'Église Saint-Jacques de Compiègne</entree>
+    <parent>Marguilliers</parent>
+  </term>
+  <term>
+    <entree>Marguilliers de Notre-Dame-des-grands-cierges de Saint-Maximin-la-Sainte-Baume</entree>
+    <parent>Marguilliers</parent>
+  </term>
+  <term>
+    <entree>Mauristes</entree>
+    <enfant>Mauristes de l'abbaye Saint-Corneille de Compiègne</enfant>
+    <parent>Bénédictins</parent>
+    <formeRejetee>Bénédictins de la Congrégation de Saint-Maur</formeRejetee>
+  </term>
+  <term>
+    <entree>Mauristes de l'abbaye Saint-Corneille de Compiègne</entree>
+    <parent>Mauristes</parent>
+  </term>
+  <term>
+    <entree>Mercédaires</entree>
+    <formeAutorite>Pères de la Merci</formeAutorite>
+  </term>
+  <term>
+    <entree>Messieurs de la ville d'Autun</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Messieurs de la ville de Luxembourg</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Messieurs de la ville de Paris</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Messieurs du Châtelet</entree>
+    <parent>Châtelet de Paris</parent>
+  </term>
+  <term>
+    <entree>Messieurs du Port-Royal</entree>
+    <formeAutorite>Solitaires</formeAutorite>
+  </term>
+  <term>
+    <entree>Milice</entree>
+    <enfant>Milice de Grenoble</enfant>
+    <enfant>Milice de Vienne</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Milice de Grenoble</entree>
+    <parent>Milice</parent>
+  </term>
+  <term>
+    <entree>Milice de Vienne</entree>
+    <parent>Milice</parent>
+  </term>
+  <term>
+    <entree>Minimes</entree>
+    <enfant>Minimes de Bordeaux</enfant>
+    <enfant>Minimes de Nancy</enfant>
+    <enfant>Minimes de Péronne</enfant>
+  </term>
+  <term>
+    <entree>Minimes de Bordeaux</entree>
+    <parent>Minimes</parent>
+  </term>
+  <term>
+    <entree>Minimes de Nancy</entree>
+    <parent>Minimes</parent>
+  </term>
+  <term>
+    <entree>Minimes de Péronne</entree>
+    <parent>Minimes</parent>
+  </term>
+  <term>
+    <entree>Missionnaires</entree>
+    <enfant>Missionnaires d'Alençon</enfant>
+    <enfant>Missionnaires de Marseille</enfant>
+    <enfant>Missionnaires de Troyes</enfant>
+    <enfant>Missionnaires de Versailles</enfant>
+    <formeRejetee>Lazaristes</formeRejetee>
+    <formeRejetee>Pères de Saint-Lazare</formeRejetee>
+    <formeRejetee>Pères de la Mission</formeRejetee>
+  </term>
+  <term>
+    <entree>Missionnaires d'Alençon</entree>
+    <parent>Missionnaires</parent>
+  </term>
+  <term>
+    <entree>Missionnaires de Marseille</entree>
+    <parent>Missionnaires</parent>
+  </term>
+  <term>
+    <entree>Missionnaires de Troyes</entree>
+    <parent>Missionnaires</parent>
+  </term>
+  <term>
+    <entree>Missionnaires de Versailles</entree>
+    <parent>Missionnaires</parent>
+  </term>
+  <term>
+    <entree>Mousquetaires</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Mousquetaires de la première compagnie</entree>
+    <enfant>Hautbois de la première compagnie des mousquetaires</enfant>
+    <enfant>Tambours de la première compagnie des mousquetaires</enfant>
+    <parent>Mousquetaires du roi</parent>
+  </term>
+  <term>
+    <entree>Mousquetaires du roi</entree>
+    <enfant>Mousquetaires de la première compagnie</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musiciens de l'Opéra</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musiciens de l'Opéra de Lyon</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musiciens italiens de la cour de Hanovre</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique allemande des Jésuites de Luxembourg</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique d'Avignon</entree>
+    <enfant>Violons d'Avignon</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Bordeaux</entree>
+    <enfant>Hautbois de Bordeaux</enfant>
+    <enfant>Violons de Bordeaux</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Chartres</entree>
+    <enfant>Hautbois de Chartres</enfant>
+    <enfant>Tambours de Chartres</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Château-Thierry</entree>
+    <enfant>Tambours de Château-Thierry</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'abbaye bénédictine de la Trinité de Fécamp</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'église abbatiale Saint Martin de Tours</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'église des Saints-Innocents de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'église Notre-Dame de Saint-Dizier</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'église paroissiale Saint-Germain-l'Auxerois</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'église Saint-Seurin de Bordeaux</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'Électeur de Bavière</entree>
+    <enfant>Musique italienne de l'Électeur de Bavière</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'empereur</entree>
+    <enfant>Timbaliers de l'empereur</enfant>
+    <enfant>Trompettes de l'empereur</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de l'Opéra de Marseille</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale de Westminter</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale La Major de Marseille</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame d'Amiens</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame d'Évreux</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame de Strasbourg</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame de Tournai</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame de Verdun</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame-des-Grâces de Cambrai</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Notre-Dame-du-Puy de Grasse</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-André de Bordeaux</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Étienne de Bourges</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Étienne de Châlons-en-Champagne</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Front de Périgueux</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Gatien de Tours</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Jean de Besançon</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Jean-Baptiste de Belley</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Lazare d'Autun</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Louis de Blois</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Maurice d'Angers</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Paul de Mdina</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Pierre de Beauvais</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Pierre de Poitiers</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Sauveur d'Aix-en-Provence</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Trophine d'Arles</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la cathédrale Saint-Vaast d'Arras</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Chambre du roi</entree>
+    <enfant>Pages de la Musique de la Chambre du roi</enfant>
+    <parent>Musique du roi</parent>
+  </term>
+  <term>
+    <entree>Musique de la Chapelle de Christine de Suède</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Chapelle du Pape</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Chapelle du roi</entree>
+    <enfant>Sous-maître de la Chapelle du roi</enfant>
+    <parent>Musique du roi</parent>
+  </term>
+  <term>
+    <entree>Musique de la Chapelle du roi de Pologne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de la collégiale Notre-Dame de Mantes-la-Jolie</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la collégiale Saint-Étienne de Troyes</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la primatiale Notre-Dame-de-l'Annonciation de Nancy</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la reine</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Sainte-Chapelle de Bourges</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Sainte-Chapelle de Chamberry</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Sainte-Chapelle de Dijon</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la Sainte-Chapelle de Paris</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique de la ville d'Autun</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Léopold Ier de Habsbourg</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Lyon</entree>
+    <enfant>Tambours de Lyon</enfant>
+    <enfant>Trompettes de Lyon</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Mlle de Guise</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Monsieur</entree>
+    <enfant>Clavecin de Monsieur</enfant>
+    <enfant>Luth de Monsieur</enfant>
+    <enfant>Trompettes de Monsieur</enfant>
+    <enfant>Violons de Monsieur</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Monsieur le Duc</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Montpellier</entree>
+    <enfant>Hautbois de Montpellier</enfant>
+    <enfant>Tambours de Montepellier</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Paris</entree>
+    <enfant>Fifres de Paris</enfant>
+    <enfant>Hautbois de Paris</enfant>
+    <enfant>Tambours de Paris</enfant>
+    <enfant>Trompettes de Paris</enfant>
+    <enfant>Violons de Paris</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique de Toulouse</entree>
+    <enfant>Hautbois de Toulouse</enfant>
+    <enfant>Trompettes de Toulouse</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique des galères</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Musique du dauphin</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du duc de Hanovre</entree>
+    <enfant>Musique italienne du duc de Hanovre</enfant>
+    <enfant>Timbales de la cour de Hanovre</enfant>
+    <enfant>Trompettes de la cour de Hanovre</enfant>
+    <enfant>Violons français de la cour de Hanovre</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du duc de Lorraine</entree>
+    <enfant>Tambours du duc de Lorraine</enfant>
+    <enfant>Timbales du duc de Lorraine</enfant>
+    <enfant>Trompettes du duc de Lorraine</enfant>
+    <enfant>Violons du duc de Lorraine</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du duc de Mantoue</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du duc de Modène</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du duc de Noailles</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du grand-duc de Toscane</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du marquis de Pomereu</entree>
+    <enfant>Violons du marquis de Pommereu</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du prince de Brandebourg</entree>
+    <enfant>Timbaliers de la Chambre de Brandebourg</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du prince de Piombino</entree>
+    <enfant>Tambours du prince de Piombino</enfant>
+    <enfant>Trompettes du prince de Piombino</enfant>
+  </term>
+  <term>
+    <entree>Musique du prince royal de Danemark</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du roi</entree>
+    <enfant>Musique de la Chambre du roi</enfant>
+    <enfant>Musique de la Chapelle du roi</enfant>
+    <enfant>Trompettes du roi</enfant>
+    <enfant>Écurie du roi</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du roi d'Angleterre</entree>
+    <enfant>Chapelle du roi d'Angleterre</enfant>
+    <enfant>Tambours du roi d'Angleterre</enfant>
+    <enfant>Trompettes du roi d'Angleterre</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du roi de Danemark</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du roi de Pologne</entree>
+    <enfant>Chapelle du roi de Pologne</enfant>
+    <enfant>Musique française du roi de Pologne</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique du roi de Suède</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Musique française du roi de Pologne</entree>
+    <parent>Musique du roi de Pologne</parent>
+  </term>
+  <term>
+    <entree>Musique italienne de l'Électeur de Bavière</entree>
+    <parent>Musique de l'Électeur de Bavière</parent>
+  </term>
+  <term>
+    <entree>Musique italienne du duc de Hanovre</entree>
+    <parent>Musique du duc de Hanovre</parent>
+  </term>
+  <term>
+    <entree>Noblesse de Belley</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Norbertins</entree>
+    <formeAutorite>Chanoines réguliers de Prémontré</formeAutorite>
+  </term>
+  <term>
+    <entree>Notaires garde-notes du roi à Rennes</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Observantins</entree>
+    <enfant>Observantins de Livourne</enfant>
+    <parent>Cisterciens</parent>
+    <formeRejetee>Pères de l'Observance</formeRejetee>
+  </term>
+  <term>
+    <entree>Observantins de Livourne</entree>
+    <parent>Observantins</parent>
+  </term>
+  <term>
+    <entree>Officiers de Bourges</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Officiers de la Légation</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Officiers de Lyon</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Officiers de Paris</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Officiers des traites foraines</entree>
+    <enfant>Officiers des traites foraines de Coutances</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Officiers des traites foraines de Coutances</entree>
+    <parent>Officiers des traites foraines</parent>
+  </term>
+  <term>
+    <entree>Officiers du guet à cheval</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Oratoriens</entree>
+    <enfant>Oratoriens d'Angers</enfant>
+    <enfant>Oratoriens de Paris</enfant>
+    <enfant>Oratoriens de Pézenas</enfant>
+    <enfant>Oratoriens de Toulouse</enfant>
+    <enfant>Oratoriens de Vendôme</enfant>
+  </term>
+  <term>
+    <entree>Oratoriens d'Angers</entree>
+    <parent>Oratoriens</parent>
+  </term>
+  <term>
+    <entree>Oratoriens de Paris</entree>
+    <parent>Oratoriens</parent>
+  </term>
+  <term>
+    <entree>Oratoriens de Pézenas</entree>
+    <parent>Oratoriens</parent>
+  </term>
+  <term>
+    <entree>Oratoriens de Toulouse</entree>
+    <parent>Oratoriens</parent>
+  </term>
+  <term>
+    <entree>Oratoriens de Vendôme</entree>
+    <parent>Oratoriens</parent>
+  </term>
+  <term>
+    <entree>Orchestre de la Comédie Française</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Ordre de Fontevraud</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordre de la Chevalerie</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Ordre de la Maison de Sainte-Marie-des-Teutoniques</entree>
+    <formeAutorite>Ordre Teutonique</formeAutorite>
+  </term>
+  <term>
+    <entree>Ordre de la Sainte Trinité et de la Rédemption des Captifs</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordre de Malte</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordre de Notre-Dame-du-Mont-Carmel</entree>
+    <formeAutorite>Ordre royal de Notre-Dame du Mont-Carmel et de Saint-Lazare-de-Jérusalem</formeAutorite>
+  </term>
+  <term>
+    <entree>Ordre de Saint-Benoît de la Congrégation du Calvaire</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordre de Saint-François</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordre de Saint-Lazare</entree>
+    <formeAutorite>Ordre royal de Notre-Dame du Mont-Carmel et de Saint-Lazare-de-Jérusalem</formeAutorite>
+  </term>
+  <term>
+    <entree>Ordre de Saint-Michel</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Ordre des chevaliers de Saint-Étienne</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Ordre des chevaliers du Bon temps</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Ordre du Saint-Esprit</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Ordre hospitalier des frères de Saint Jean de Dieu</entree>
+    <formeRejetee>Frères de la Charité</formeRejetee>
+  </term>
+  <term>
+    <entree>Ordre royal de Notre-Dame du Mont-Carmel et de Saint-Lazare-de-Jérusalem</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+    <formeRejetee>Grand Prieuré de France</formeRejetee>
+    <formeRejetee>Ordre de Notre-Dame-du-Mont-Carmel</formeRejetee>
+    <formeRejetee>Ordre de Saint-Lazare</formeRejetee>
+  </term>
+  <term>
+    <entree>Ordre Teutonique</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+    <formeRejetee>Ordre de la Maison de Sainte-Marie-des-Teutoniques</formeRejetee>
+  </term>
+  <term>
+    <entree>Ordres mendiants</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Ordres religieux</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Pages de la Musique de la Chambre du roi</entree>
+    <parent>Musique de la Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Pages du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Parlement</entree>
+    <enfant>Parlement d'Aix-en-Provence</enfant>
+    <enfant>Parlement d'Écosse</enfant>
+    <enfant>Parlement de Bordeaux</enfant>
+    <enfant>Parlement de Bretagne</enfant>
+    <enfant>Parlement de Dijon</enfant>
+    <enfant>Parlement de Dombes</enfant>
+    <enfant>Parlement de Franche-Comté</enfant>
+    <enfant>Parlement de Grenoble</enfant>
+    <enfant>Parlement de Metz</enfant>
+    <enfant>Parlement de Normandie</enfant>
+    <enfant>Parlement de Paris</enfant>
+    <enfant>Parlement de Rouen</enfant>
+    <enfant>Parlement de Toulouse</enfant>
+    <enfant>Petite bande</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Parlement d'Aix-en-Provence</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement d'Écosse</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Bordeaux</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Bretagne</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Dijon</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Dombes</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Franche-Comté</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Grenoble</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Metz</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Normandie</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Paris</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Rouen</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Parlement de Toulouse</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Pénitents</entree>
+    <enfant>Pénitents blancs d'Avignon</enfant>
+    <enfant>Pénitents blancs de Grasse</enfant>
+    <enfant>Pénitents blancs de Saint-Maximin-la-Sainte-Baume</enfant>
+    <enfant>Pénitents bleus d'Arles</enfant>
+    <enfant>Pénitents bleus de Sarlat-la-Canéda</enfant>
+    <enfant>Pénitents bleus de Toulouse</enfant>
+    <enfant>Pénitents de Montpellier</enfant>
+    <enfant>Pénitents du Havre</enfant>
+    <enfant>Pénitents du Saint-Sacrement de Montélimar</enfant>
+    <enfant>Pénitents gris d'Arles</enfant>
+    <enfant>Pénitents gris d'Avignon</enfant>
+    <enfant>Pénitents gris de Marseille</enfant>
+    <enfant>Pénitents noirs de Béziers</enfant>
+    <enfant>Pénitents noirs de Grasse</enfant>
+    <enfant>Pénitents noirs de Toulouse</enfant>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Pénitents blancs d'Avignon</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents blancs de Grasse</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents blancs de Saint-Maximin-la-Sainte-Baume</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents bleus d'Arles</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents bleus de Sarlat-la-Canéda</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents bleus de Toulouse</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents de Montpellier</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents du Havre</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents du Saint-Sacrement de Montélimar</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents gris d'Arles</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents gris d'Avignon</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents gris de Marseille</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents noirs de Béziers</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents noirs de Grasse</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pénitents noirs de Toulouse</entree>
+    <parent>Pénitents</parent>
+  </term>
+  <term>
+    <entree>Pères Barnabites</entree>
+    <formeAutorite>Barnabites</formeAutorite>
+  </term>
+  <term>
+    <entree>Pères de l'Observance</entree>
+    <formeAutorite>Observantins</formeAutorite>
+  </term>
+  <term>
+    <entree>Pères de la Doctrine Chrétienne</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+    <formeRejetee>Doctrinaires</formeRejetee>
+  </term>
+  <term>
+    <entree>Pères de la Merci</entree>
+    <formeRejetee>Mercédaires</formeRejetee>
+  </term>
+  <term>
+    <entree>Pères de la Mission</entree>
+    <formeAutorite>Missionnaires</formeAutorite>
+  </term>
+  <term>
+    <entree>Pères de Saint-Lazare</entree>
+    <enfant>Pères de Saint-Lazare de Troyes</enfant>
+    <formeAutorite>Missionnaires</formeAutorite>
+  </term>
+  <term>
+    <entree>Pères de Saint-Lazare de Troyes</entree>
+    <parent>Pères de Saint-Lazare</parent>
+  </term>
+  <term>
+    <entree>Pères de Terre-Sainte d'Alep</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Petite bande</entree>
+    <parent>Parlement</parent>
+  </term>
+  <term>
+    <entree>Petite écurie du roi</entree>
+    <parent>Écurie du roi</parent>
+  </term>
+  <term>
+    <entree>Petits Pères</entree>
+    <formeAutorite>Augustins déchaussés</formeAutorite>
+  </term>
+  <term>
+    <entree>Petits violons du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Porteurs de la châsse de Sainte-Geneviève</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Prémontrés</entree>
+    <formeAutorite>Chanoines réguliers de Prémontré</formeAutorite>
+  </term>
+  <term>
+    <entree>Présidial</entree>
+    <enfant>Présidial d'Agen</enfant>
+    <enfant>Présidial d'Aix-en-Provence</enfant>
+    <enfant>Présidial d'Alençon</enfant>
+    <enfant>Présidial d'Amiens</enfant>
+    <enfant>Présidial d'Angers</enfant>
+    <enfant>Présidial d'Évreux</enfant>
+    <enfant>Présidial de Beauvais</enfant>
+    <enfant>Présidial de Bordeaux</enfant>
+    <enfant>Présidial de Bourges</enfant>
+    <enfant>Présidial de Castelnaudary</enfant>
+    <enfant>Présidial de Caudebec</enfant>
+    <enfant>Présidial de Caudebec-en-Caux</enfant>
+    <enfant>Présidial de Chartres</enfant>
+    <enfant>Présidial de Coutances</enfant>
+    <enfant>Présidial de La Ferté-Milon</enfant>
+    <enfant>Présidial de La Flèche</enfant>
+    <enfant>Présidial de La Rochelle</enfant>
+    <enfant>Présidial de Lyon</enfant>
+    <enfant>Présidial de Mantes-la-Jolie</enfant>
+    <enfant>Présidial de Montargis</enfant>
+    <enfant>Présidial de Montauban</enfant>
+    <enfant>Présidial de Montpellier</enfant>
+    <enfant>Présidial de Nîmes</enfant>
+    <enfant>Présidial de Paris</enfant>
+    <enfant>Présidial de Perpignan</enfant>
+    <enfant>Présidial de Poitiers</enfant>
+    <enfant>Présidial de Provins</enfant>
+    <enfant>Présidial de Rennes</enfant>
+    <enfant>Présidial de Riom</enfant>
+    <enfant>Présidial de Sarrelouis</enfant>
+    <enfant>Présidial de Senlis</enfant>
+    <enfant>Présidial de Soissons</enfant>
+    <enfant>Présidial de Tartas</enfant>
+    <enfant>Présidial de Tours</enfant>
+    <enfant>Présidial de Troyes</enfant>
+    <enfant>Présidial de Valence</enfant>
+    <enfant>Présidial de Valogne</enfant>
+    <enfant>Présidial de Vienne</enfant>
+    <enfant>Présidial du Mans</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Agen</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Aix-en-Provence</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Alençon</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Amiens</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Angers</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial d'Évreux</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Beauvais</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Bordeaux</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Bourges</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Castelnaudary</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Caudebec</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Caudebec-en-Caux</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Chartres</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Coutances</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de La Ferté-Milon</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de La Flèche</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de La Rochelle</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Lyon</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Mantes-la-Jolie</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Montargis</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Montauban</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Montpellier</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Nîmes</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Paris</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Perpignan</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Poitiers</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Provins</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Rennes</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Riom</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Sarrelouis</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Senlis</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Soissons</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Tartas</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Tours</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Troyes</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Valence</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Valogne</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial de Vienne</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Présidial du Mans</entree>
+    <parent>Présidial</parent>
+  </term>
+  <term>
+    <entree>Prêtres</entree>
+    <enfant>Prêtres de Pise</enfant>
+  </term>
+  <term>
+    <entree>Prêtres de Pise</entree>
+    <parent>Prêtres</parent>
+  </term>
+  <term>
+    <entree>Prévôté</entree>
+    <enfant>Prévôts des marchands de Lyon</enfant>
+    <enfant>Prévôts des marchands de Paris</enfant>
+    <enfant>Prévôté de Montargis</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Prévôté de Montargis</entree>
+    <parent>Prévôté</parent>
+  </term>
+  <term>
+    <entree>Prévôts des marchands de Lyon</entree>
+    <parent>Prévôté</parent>
+  </term>
+  <term>
+    <entree>Prévôts des marchands de Paris</entree>
+    <parent>Prévôté</parent>
+  </term>
+  <term>
+    <entree>Quartiniers de Paris</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Récollets</entree>
+    <enfant>Récollets de Chaumont-en-Vexin</enfant>
+    <enfant>Récollets de Clamecy</enfant>
+    <enfant>Récollets de Jarnac</enfant>
+    <enfant>Récollets de La Côte-Saint-André</enfant>
+    <enfant>Récollets de Luxembourg</enfant>
+    <enfant>Récollets de Montélimar</enfant>
+    <enfant>Récollets de Paris</enfant>
+    <enfant>Récollets de Saint-Denis</enfant>
+    <enfant>Récollets de Saint-Germain-en-Laye</enfant>
+    <enfant>Récollets de Versailles</enfant>
+    <parent>Franciscains</parent>
+  </term>
+  <term>
+    <entree>Récollets de Chaumont-en-Vexin</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Clamecy</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Jarnac</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de La Côte-Saint-André</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Luxembourg</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Montélimar</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Paris</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Saint-Denis</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Saint-Germain-en-Laye</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Récollets de Versailles</entree>
+    <parent>Récollets</parent>
+  </term>
+  <term>
+    <entree>Régiment d'Angoumois</entree>
+    <enfant>Cadets du régiment d'Angoumois</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Régiment des Gardes</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Régiment du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Régiment royal de Niort</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Sacré collège</entree>
+    <formeAutorite>Collège cardinalice</formeAutorite>
+  </term>
+  <term>
+    <entree>Secrétaires du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Séminaire</entree>
+    <enfant>Séminaire de Soissons</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Séminaire de Soissons</entree>
+    <enfant>Clergé du séminaire de Soissons</enfant>
+    <parent>Séminaire</parent>
+  </term>
+  <term>
+    <entree>Séminaristes</entree>
+    <enfant>Séminaristes de Troyes</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Séminaristes de Troyes</entree>
+    <parent>Séminaristes</parent>
+  </term>
+  <term>
+    <entree>Sénat</entree>
+    <enfant>Sénat de Nice</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Sénat de Nice</entree>
+    <parent>Sénat</parent>
+  </term>
+  <term>
+    <entree>Sénateurs de Pologne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Sénateurs de Suède</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Sénéchaussée</entree>
+    <enfant>Sénéchaussée d'Arles</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Sénéchaussée d'Arles</entree>
+    <parent>Sénéchaussée</parent>
+  </term>
+  <term>
+    <entree>Servites de Sainte-Marie</entree>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Solitaires</entree>
+    <formeRejetee>Messieurs du Port-Royal</formeRejetee>
+  </term>
+  <term>
+    <entree>Sous-maître de la Chapelle du roi</entree>
+    <parent>Musique de la Chapelle du roi</parent>
+  </term>
+  <term>
+    <entree>Syndic</entree>
+    <enfant>Syndic de Morlaix</enfant>
+    <enfant>Syndic de Vitré</enfant>
+    <enfant>Syndic du Havre</enfant>
+    <enfant>Syndics généraux des marchands privilégiés de la Maison du roi</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Syndic de Morlaix</entree>
+    <parent>Syndic</parent>
+  </term>
+  <term>
+    <entree>Syndic de Vitré</entree>
+    <parent>Syndic</parent>
+  </term>
+  <term>
+    <entree>Syndic du Havre</entree>
+    <parent>Syndic</parent>
+  </term>
+  <term>
+    <entree>Syndics généraux des marchands privilégiés de la Maison du roi</entree>
+    <parent>Syndic</parent>
+  </term>
+  <term>
+    <entree>Table de marbre</entree>
+    <enfant>Table de marbre de Rouen</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Table de marbre de Rouen</entree>
+    <parent>Table de marbre</parent>
+  </term>
+  <term>
+    <entree>Talapoins</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Tambours de Chartres</entree>
+    <parent>Musique de Chartres</parent>
+  </term>
+  <term>
+    <entree>Tambours de Château-Thierry</entree>
+    <parent>Musique de Château-Thierry</parent>
+  </term>
+  <term>
+    <entree>Tambours de la Chambre du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Tambours de la grande écurie du roi</entree>
+    <parent>Grande écurie du roi</parent>
+  </term>
+  <term>
+    <entree>Tambours de la première compagnie des mousquetaires</entree>
+    <parent>Mousquetaires de la première compagnie</parent>
+  </term>
+  <term>
+    <entree>Tambours de Lyon</entree>
+    <parent>Musique de Lyon</parent>
+  </term>
+  <term>
+    <entree>Tambours de Montepellier</entree>
+    <parent>Musique de Montpellier</parent>
+  </term>
+  <term>
+    <entree>Tambours de Paris</entree>
+    <parent>Musique de Paris</parent>
+  </term>
+  <term>
+    <entree>Tambours des Cent Suisses</entree>
+    <parent>Garde suisse</parent>
+  </term>
+  <term>
+    <entree>Tambours du duc de Lorraine</entree>
+    <parent>Musique du duc de Lorraine</parent>
+  </term>
+  <term>
+    <entree>Tambours du prince de Piombino</entree>
+    <parent>Musique du prince de Piombino</parent>
+  </term>
+  <term>
+    <entree>Tambours du régiment des gardes françaises</entree>
+    <parent>Garde française</parent>
+  </term>
+  <term>
+    <entree>Tambours du roi d'Angleterre</entree>
+    <parent>Musique du roi d'Angleterre</parent>
+  </term>
+  <term>
+    <entree>Tertiaires</entree>
+    <formeAutorite>Tiercelins</formeAutorite>
+  </term>
+  <term>
+    <entree>Théatins</entree>
+    <enfant>Théatins de Munich</enfant>
+    <enfant>Théatins de Paris</enfant>
+  </term>
+  <term>
+    <entree>Théatins de Munich</entree>
+    <parent>Théatins</parent>
+  </term>
+  <term>
+    <entree>Théatins de Paris</entree>
+    <parent>Théatins</parent>
+  </term>
+  <term>
+    <entree>Tiercelins</entree>
+    <enfant>Tiercelins de Nancy</enfant>
+    <parent>Tiers-Ordre</parent>
+    <formeRejetee>Tertiaires</formeRejetee>
+  </term>
+  <term>
+    <entree>Tiercelins de Nancy</entree>
+    <parent>Tiercelins</parent>
+  </term>
+  <term>
+    <entree>Tiers-État de Belley</entree>
+    <parent>CORPORATIONS ET SOCIÉTÉS</parent>
+  </term>
+  <term>
+    <entree>Tiers-Ordre</entree>
+    <enfant>Tiercelins</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Timbales de la Chambre du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Timbales de la cour de Hanovre</entree>
+    <parent>Musique du duc de Hanovre</parent>
+  </term>
+  <term>
+    <entree>Timbales des Cent Suisses</entree>
+    <parent>Garde suisse</parent>
+  </term>
+  <term>
+    <entree>Timbales des gardes suisses de Pise</entree>
+    <parent>Gardes suisses de Pise</parent>
+  </term>
+  <term>
+    <entree>Timbales du duc de Lorraine</entree>
+    <parent>Musique du duc de Lorraine</parent>
+  </term>
+  <term>
+    <entree>Timbales du régiment des gardes françaises</entree>
+    <parent>Garde française</parent>
+  </term>
+  <term>
+    <entree>Timbaliers de l'empereur</entree>
+    <parent>Musique de l'empereur</parent>
+  </term>
+  <term>
+    <entree>Timbaliers de la Chambre de Brandebourg</entree>
+    <parent>Musique du prince de Brandebourg</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France</entree>
+    <enfant>Trésoriers de France à Bordeaux</enfant>
+    <enfant>Trésoriers de France à Dijon</enfant>
+    <enfant>Trésoriers de France à La Rochelle</enfant>
+    <enfant>Trésoriers de France à Lyon</enfant>
+    <enfant>Trésoriers de France à Metz</enfant>
+    <enfant>Trésoriers de France à Toulouse</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à Bordeaux</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à Dijon</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à La Rochelle</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à Lyon</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à Metz</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Trésoriers de France à Toulouse</entree>
+    <parent>Trésoriers de France</parent>
+  </term>
+  <term>
+    <entree>Tribunal de la Rote</entree>
+    <parent>INSTITUTIONS</parent>
+    <formeRejetee>Compagnie de la Rote</formeRejetee>
+  </term>
+  <term>
+    <entree>Trinitaires</entree>
+    <enfant>Trinitaires de Limoux</enfant>
+  </term>
+  <term>
+    <entree>Trinitaires de Limoux</entree>
+    <parent>Trinitaires</parent>
+  </term>
+  <term>
+    <entree>Trompettes de l'empereur</entree>
+    <parent>Musique de l'empereur</parent>
+  </term>
+  <term>
+    <entree>Trompettes de la Chambre du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Trompettes de la cour de Hanovre</entree>
+    <parent>Musique du duc de Hanovre</parent>
+  </term>
+  <term>
+    <entree>Trompettes de la grande écurie du roi</entree>
+    <parent>Grande écurie du roi</parent>
+  </term>
+  <term>
+    <entree>Trompettes de Lyon</entree>
+    <parent>Musique de Lyon</parent>
+  </term>
+  <term>
+    <entree>Trompettes de Monsieur</entree>
+    <parent>Musique de Monsieur</parent>
+  </term>
+  <term>
+    <entree>Trompettes de Paris</entree>
+    <parent>Musique de Paris</parent>
+  </term>
+  <term>
+    <entree>Trompettes de Toulouse</entree>
+    <parent>Musique de Toulouse</parent>
+  </term>
+  <term>
+    <entree>Trompettes des gardes suisses de Pise</entree>
+    <parent>Gardes suisses de Pise</parent>
+  </term>
+  <term>
+    <entree>Trompettes du duc de Lorraine</entree>
+    <parent>Musique du duc de Lorraine</parent>
+  </term>
+  <term>
+    <entree>Trompettes du prince de Piombino</entree>
+    <parent>Musique du prince de Piombino</parent>
+  </term>
+  <term>
+    <entree>Trompettes du régiment des gardes françaises</entree>
+    <parent>Garde française</parent>
+  </term>
+  <term>
+    <entree>Trompettes du roi</entree>
+    <parent>Musique du roi</parent>
+  </term>
+  <term>
+    <entree>Trompettes du roi d'Angleterre</entree>
+    <parent>Musique du roi d'Angleterre</parent>
+  </term>
+  <term>
+    <entree>Troupe de comédiens allemands</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de comédiens de Breisach-sur-le-Rhein [prob.]</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de comédiens de campagne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de comédiens français du duc de Hanovre</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de l'électeur de Bavière</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de Monseigneur le Dauphin</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe de Monsieur le Prince</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe des comédiens français de la cour de Savoie</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe des comédiens italiens</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe des danseurs du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du duc de Bourgogne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du faubourg Saint-Germain</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du roi</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du théâtre de l'hôtel de Bourgogne</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du théâtre de l'hôtel Guénégaud</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du théâtre du Marais</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Troupe du théâtre français</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Université</entree>
+    <enfant>Université d'Angers</enfant>
+    <enfant>Université de Bourges</enfant>
+    <enfant>Université de Douai</enfant>
+    <enfant>Université de Paris</enfant>
+    <enfant>Université de Perpignan</enfant>
+    <enfant>Université de Poitiers</enfant>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Université d'Angers</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Université de Bourges</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Université de Douai</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Université de Paris</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Université de Perpignan</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Université de Poitiers</entree>
+    <parent>Université</parent>
+  </term>
+  <term>
+    <entree>Ursulines</entree>
+    <enfant>Ursulines de Châtillon-sur-Seine</enfant>
+    <enfant>Ursulines de Rennes</enfant>
+    <enfant>Ursulines du Havre</enfant>
+  </term>
+  <term>
+    <entree>Ursulines de Châtillon-sur-Seine</entree>
+    <parent>Ursulines</parent>
+  </term>
+  <term>
+    <entree>Ursulines de Rennes</entree>
+    <parent>Ursulines</parent>
+  </term>
+  <term>
+    <entree>Ursulines du Havre</entree>
+    <parent>Ursulines</parent>
+  </term>
+  <term>
+    <entree>Vicaires généraux</entree>
+    <enfant>Vicaires généraux de l'évêché de Soissons</enfant>
+    <parent>CONGRÉGATIONS RELIGIEUSES</parent>
+  </term>
+  <term>
+    <entree>Vicaires généraux de l'évêché de Soissons</entree>
+    <parent>Vicaires généraux</parent>
+  </term>
+  <term>
+    <entree>Vierg d'Autun</entree>
+    <parent>INSTITUTIONS</parent>
+  </term>
+  <term>
+    <entree>Vingt-quatre violons</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Violons d'Avignon</entree>
+    <parent>Musique d'Avignon</parent>
+  </term>
+  <term>
+    <entree>Violons de Bordeaux</entree>
+    <parent>Musique de Bordeaux</parent>
+  </term>
+  <term>
+    <entree>Violons de l'Académie royale de musique de Marseille</entree>
+    <parent>Académie royale de musique de Marseille</parent>
+  </term>
+  <term>
+    <entree>Violons de Monsieur</entree>
+    <parent>Musique de Monsieur</parent>
+  </term>
+  <term>
+    <entree>Violons de Paris</entree>
+    <parent>Musique de Paris</parent>
+  </term>
+  <term>
+    <entree>Violons du duc de Lorraine</entree>
+    <parent>Musique du duc de Lorraine</parent>
+  </term>
+  <term>
+    <entree>Violons du marquis de Pommereu</entree>
+    <parent>Musique du marquis de Pomereu</parent>
+  </term>
+  <term>
+    <entree>Violons du roi</entree>
+    <parent>Chambre du roi</parent>
+  </term>
+  <term>
+    <entree>Violons français de la cour de Hanovre</entree>
+    <parent>Musique du duc de Hanovre</parent>
+  </term>
+  <term>
+    <entree>Visitandines</entree>
+    <enfant>Visitandines du monastère de la Visitation d'Aix-en-Provence</enfant>
+    <enfant>Visitandines du monastère de la Visitation d'Albi</enfant>
+    <enfant>Visitandines du monastère de la Visitation de Compiègne</enfant>
+    <enfant>Visitandines du monastère de la Visitation de la rue du Bac à Paris</enfant>
+    <formeRejetee>Filles de la Visitation Sainte Marie</formeRejetee>
+  </term>
+  <term>
+    <entree>Visitandines du monastère de la Visitation d'Aix-en-Provence</entree>
+    <parent>Visitandines</parent>
+  </term>
+  <term>
+    <entree>Visitandines du monastère de la Visitation d'Albi</entree>
+    <parent>Visitandines</parent>
+  </term>
+  <term>
+    <entree>Visitandines du monastère de la Visitation de Compiègne</entree>
+    <parent>Visitandines</parent>
+  </term>
+  <term>
+    <entree>Visitandines du monastère de la Visitation de la rue du Bac à Paris</entree>
+    <parent>Visitandines</parent>
+  </term>
+</terms>
