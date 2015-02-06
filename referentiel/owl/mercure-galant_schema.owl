@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+  xml:base="http://www.semanticweb.org/mercure-galant"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xml="http://www.w3.org/XML/1998/namespace"
+  ontologyIRI="http://www.semanticweb.org/mercure-galant">
+  <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+  <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+  <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+  <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+  
+  <!-- PersonForm -->
+  <!-- CLASSES -->
+  <Declaration>
+    <Class IRI="#PersonForm"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#AuthorityPersonForm"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#RejectedPersonForm"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#AuthorityPersonForm"/>
+    <Class IRI="#PersonForm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RejectedPersonForm"/>
+    <Class IRI="#PersonForm"/>
+  </SubClassOf>
+  <!-- OBJECTS PROPS -->
+  <Declaration>
+    <ObjectProperty IRI="#is_authority_person_form_of"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#is_rejected_person_form_of"/>
+  </Declaration>
+  <FunctionalObjectProperty>
+    <ObjectProperty IRI="#is_rejected_person_form_of"/>
+  </FunctionalObjectProperty>
+  <InverseFunctionalObjectProperty>
+    <ObjectProperty IRI="#is_authority_person_form_of"/>
+  </InverseFunctionalObjectProperty>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_authority_person_form_of"/>
+    <Class IRI="#AuthorityPersonForm"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_rejected_person_form_of"/>
+    <Class IRI="#RejectedPersonForm"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_authority_person_form_of"/>
+    <Class IRI="#RejectedPersonForm"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_rejected_person_form_of"/>
+    <Class IRI="#AuthorityPersonForm"/>
+  </ObjectPropertyRange>      
+  
+  <!-- Topic -->
+  <!-- CLASSES. NB: toutes les formes d’autorité des mots clés font l’objet d’une déclaration de classe -->
+  <Declaration>
+    <Class IRI="#Topic"/>
+  </Declaration>
+  <!-- OBJECTS PROPS -->
+  <Declaration>
+    <ObjectProperty IRI="#is_authority_topic_form_of"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#is_rejected_topic_form_of"/>
+  </Declaration>
+  <FunctionalObjectProperty>
+    <ObjectProperty IRI="#is_rejected_topic_form_of"/>
+  </FunctionalObjectProperty>
+  <InverseFunctionalObjectProperty>
+    <ObjectProperty IRI="#is_authority_topic_form_of"/>
+  </InverseFunctionalObjectProperty>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_authority_topic_form_of"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_rejected_topic_form_of"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_authority_topic_form_of"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_rejected_topic_form_of"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyRange>
+  <!-- ANNOTATION
+    rdfs:label = label
+    rdfs:comment = note
+  <AnnotationAssertion>
+    <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+    <IRI>#Antiquité_gauloise</IRI>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Antiquité gauloise</Literal>
+  </AnnotationAssertion>
+  <AnnotationAssertion>
+    <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+    <IRI>#apollon_[instrument_à_cordes]</IRI>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">instrument nouveau ressemblant au théorbe (1678.01)</Literal>
+  </AnnotationAssertion>
+  -->
+
+  <!-- Corporation -->
+  <!-- CLASSES. NB: toutes les formes d’autorité des mots clés font l’objet d’une déclaration de classe -->
+  <Declaration>
+    <Class IRI="#Corporation"/>
+  </Declaration>
+  <!-- OBJECTS PROPS -->
+  <Declaration>
+    <ObjectProperty IRI="#is_authority_corporation_form_of"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
+  </Declaration>
+  <FunctionalObjectProperty>
+    <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
+  </FunctionalObjectProperty>
+  <InverseFunctionalObjectProperty>
+    <ObjectProperty IRI="#is_authority_corporation_form_of"/>
+  </InverseFunctionalObjectProperty>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_authority_corporation_form_of"/>
+    <Class IRI="#Corporation"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
+    <Class IRI="#Corporation"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_authority_corporation_form_of"/>
+    <Class IRI="#Corporation"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
+    <Class IRI="#corporation"/>
+  </ObjectPropertyRange>
+  <!-- ANNOTATION
+    rdfs:label = label
+  <AnnotationAssertion>
+    <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+    <IRI>#Troupe_du_théâtre_du_Marais</IRI>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Troupe du théâtre du Marais</Literal>
+  </AnnotationAssertion>
+  -->
+  
+  <!-- Article -->
+  <!-- CLASSE: chaque article est un individu de la classe Article -->
+  <Declaration>
+    <Class IRI="#Article"/>
+  </Declaration>
+  <!-- TODO: valider avec Zied le schéma pour Article -->
+  <Declaration>
+    <DataProperty IRI="#url"/>
+  </Declaration>
+  <DataPropertyDomain>
+    <DataProperty IRI="#url"/>
+    <Class IRI="#Article"/>
+  </DataPropertyDomain>
+  <DataPropertyRange>
+    <DataProperty IRI="#url"/>
+    <Datatype abbreviatedIRI="xsd:anyURI"/>
+  </DataPropertyRange>
+  <!--
+  <DataPropertyAssertion>
+    <DataProperty IRI="#url"/>
+    <NamedIndividual IRI="#1677-12_264"/>
+    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_264</Literal>
+  </DataPropertyAssertion>
+  -->
+  
+  <!-- Indexation (object properties pour lier les articles aux individus PersonForm, Topic, Corporation -->
+  <!-- Caractériser les object properties (functional, etc.) -->
+  <Declaration>
+    <ObjectProperty IRI="#contains_person"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#contains_topic"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#contains_corporation"/>
+  </Declaration>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_person"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_topic"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_corporation"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_person"/>
+    <Class IRI="#AuthorityPersonForm"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_topic"/>
+    <Class IRI="#Topic"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_corporation"/>
+    <Class IRI="#Corporation"/>
+  </ObjectPropertyRange>
+  
+  
+
+</Ontology>
