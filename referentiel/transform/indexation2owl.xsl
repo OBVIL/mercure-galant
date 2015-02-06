@@ -17,6 +17,8 @@
     ** Indexation mot-clé des individus de la classe Article
     input : loadUTF8.xml
     output : complète les ontologies noms.owl et mots-cles.owl en indexant les articles.
+    
+    TODO: GARDER AUSSI L'ID HISTORIQUE DES ARTICLES POUR L'INDEXATION
   -->
   
   <xsl:template match="/">

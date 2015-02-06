@@ -171,6 +171,12 @@
     <DataProperty IRI="#url"/>
     <Class IRI="#Article"/>
   </DataPropertyDomain>
+  <!-- stocker l’ancien identifiant de l’article -->
+  <AnnotationAssertion>
+    <AnnotationProperty abbreviatedIRI="owl:priorVersion"/>
+    <AbbreviatedIRI>owl:topDataProperty</AbbreviatedIRI>
+    <Literal datatypeIRI="&rdf;PlainLiteral"></Literal>
+  </AnnotationAssertion>
   <DataPropertyRange>
     <DataProperty IRI="#url"/>
     <Datatype abbreviatedIRI="xsd:anyURI"/>
@@ -181,6 +187,11 @@
     <NamedIndividual IRI="#1677-12_264"/>
     <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1677-12/MG-1677-12_264</Literal>
   </DataPropertyAssertion>
+  <AnnotationAssertion>
+    <AnnotationProperty abbreviatedIRI="owl:priorVersion"/>
+    <IRI>#MG-1686-12_126</IRI>
+    <Literal datatypeIRI="&rdf;PlainLiteral">16861214</Literal>
+  </AnnotationAssertion>
   -->
   
   <!-- Indexation (object properties pour lier les articles aux individus PersonForm, Topic, Corporation -->
@@ -220,5 +231,6 @@
   </ObjectPropertyRange>
   
   
-
+  
+  
 </Ontology>
