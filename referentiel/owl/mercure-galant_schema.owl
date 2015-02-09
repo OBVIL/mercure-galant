@@ -117,6 +117,7 @@
 
   <!-- Corporation -->
   <!-- CLASSES. NB: toutes les formes d’autorité des mots clés font l’objet d’une déclaration de classe -->
+  <!-- NB. Pas de note dans le thésaurus des corporations -->
   <Declaration>
     <Class IRI="#Corporation"/>
   </Declaration>
