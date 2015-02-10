@@ -115,13 +115,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Académie_de_Bernardi"/>
     <NamedIndividual IRI="#Académie_de_Mesmont"/>
+    <NamedIndividual IRI="#Académie_de_Bernardi"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Académie_de_Mesmont"/>
     <NamedIndividual IRI="#Académie_de_Bernardi"/>
+    <NamedIndividual IRI="#Académie_de_Mesmont"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Académie_de_Clermont-Ferrand"/>
@@ -265,13 +265,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Académie_des_Ricovrati"/>
     <NamedIndividual IRI="#Accademia_dei_Ricovrati"/>
+    <NamedIndividual IRI="#Académie_des_Ricovrati"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Accademia_dei_Ricovrati"/>
     <NamedIndividual IRI="#Académie_des_Ricovrati"/>
+    <NamedIndividual IRI="#Accademia_dei_Ricovrati"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Académie_française"/>
@@ -908,13 +908,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Augustins_déchaussés"/>
     <NamedIndividual IRI="#Augustins_déchaux"/>
+    <NamedIndividual IRI="#Augustins_déchaussés"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Augustins_déchaux"/>
     <NamedIndividual IRI="#Augustins_déchaussés"/>
+    <NamedIndividual IRI="#Augustins_déchaux"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Petits_Pères"/>
@@ -930,13 +930,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Augustins_déchaussés"/>
     <NamedIndividual IRI="#Petits_Pères"/>
+    <NamedIndividual IRI="#Augustins_déchaussés"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Petits_Pères"/>
     <NamedIndividual IRI="#Augustins_déchaussés"/>
+    <NamedIndividual IRI="#Petits_Pères"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Augustins_déchaussés_de_Marseille"/>
@@ -1345,13 +1345,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Barnabites"/>
     <NamedIndividual IRI="#Pères_Barnabites"/>
+    <NamedIndividual IRI="#Barnabites"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_Barnabites"/>
     <NamedIndividual IRI="#Barnabites"/>
+    <NamedIndividual IRI="#Pères_Barnabites"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Barnabites_de_Montargis"/>
@@ -3520,13 +3520,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
     <NamedIndividual IRI="#Norbertins"/>
+    <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Norbertins"/>
     <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
+    <NamedIndividual IRI="#Norbertins"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Prémontrés"/>
@@ -3542,13 +3542,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
     <NamedIndividual IRI="#Prémontrés"/>
+    <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Prémontrés"/>
     <NamedIndividual IRI="#Chanoines_réguliers_de_Prémontré"/>
+    <NamedIndividual IRI="#Prémontrés"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Chanoines_réguliers_de_Provins"/>
@@ -4973,13 +4973,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Cisterciens"/>
     <NamedIndividual IRI="#Bernardins"/>
+    <NamedIndividual IRI="#Cisterciens"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Bernardins"/>
     <NamedIndividual IRI="#Cisterciens"/>
+    <NamedIndividual IRI="#Bernardins"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Cisterciens_de_l'abbaye_de_Clairvaux"/>
@@ -5336,13 +5336,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Collège_cardinalice"/>
     <NamedIndividual IRI="#Collège_des_cardinaux"/>
+    <NamedIndividual IRI="#Collège_cardinalice"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Collège_des_cardinaux"/>
     <NamedIndividual IRI="#Collège_cardinalice"/>
+    <NamedIndividual IRI="#Collège_des_cardinaux"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Sacré_collège"/>
@@ -5358,13 +5358,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Collège_cardinalice"/>
     <NamedIndividual IRI="#Sacré_collège"/>
+    <NamedIndividual IRI="#Collège_cardinalice"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Sacré_collège"/>
     <NamedIndividual IRI="#Collège_cardinalice"/>
+    <NamedIndividual IRI="#Sacré_collège"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Collège_de_Guyenne"/>
@@ -5845,13 +5845,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Compagnie_des_arquebusiers_de_Troyes"/>
     <NamedIndividual IRI="#Chevaliers_de_la_butte_de_Troyes"/>
+    <NamedIndividual IRI="#Compagnie_des_arquebusiers_de_Troyes"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Chevaliers_de_la_butte_de_Troyes"/>
     <NamedIndividual IRI="#Compagnie_des_arquebusiers_de_Troyes"/>
+    <NamedIndividual IRI="#Chevaliers_de_la_butte_de_Troyes"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Compagnie_des_chevaliers_de_l'arquebuse_d'Épernay"/>
@@ -10146,13 +10146,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Feuillantins"/>
     <NamedIndividual IRI="#Feuillants"/>
+    <NamedIndividual IRI="#Feuillantins"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Feuillants"/>
     <NamedIndividual IRI="#Feuillantins"/>
+    <NamedIndividual IRI="#Feuillants"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Feuillantins_de_l'abbaye_de_Micy_à_Saint-Pryvé-Saint-Mesmin"/>
@@ -10384,13 +10384,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Franciscains"/>
     <NamedIndividual IRI="#Cordeliers"/>
+    <NamedIndividual IRI="#Franciscains"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Cordeliers"/>
     <NamedIndividual IRI="#Franciscains"/>
+    <NamedIndividual IRI="#Cordeliers"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Frères_de_la_Charité_d'Évreux"/>
@@ -11284,13 +11284,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Hospitalières_de_Saint-Jean-de-Jérusalem"/>
     <NamedIndividual IRI="#Dames_maltaises"/>
+    <NamedIndividual IRI="#Hospitalières_de_Saint-Jean-de-Jérusalem"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Dames_maltaises"/>
     <NamedIndividual IRI="#Hospitalières_de_Saint-Jean-de-Jérusalem"/>
+    <NamedIndividual IRI="#Dames_maltaises"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Hospitalières_de_Saint-Jean-de-Jérusalem_de_Toulouse"/>
@@ -13324,13 +13324,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Maire_d'Oulchy-le-Château"/>
     <NamedIndividual IRI="#Maire_d'Auchy-le-Château"/>
+    <NamedIndividual IRI="#Maire_d'Oulchy-le-Château"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Maire_d'Auchy-le-Château"/>
     <NamedIndividual IRI="#Maire_d'Oulchy-le-Château"/>
+    <NamedIndividual IRI="#Maire_d'Auchy-le-Château"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Maire_de_Bordeaux"/>
@@ -14117,13 +14117,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Mauristes"/>
     <NamedIndividual IRI="#Bénédictins_de_la_Congrégation_de_Saint-Maur"/>
+    <NamedIndividual IRI="#Mauristes"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Bénédictins_de_la_Congrégation_de_Saint-Maur"/>
     <NamedIndividual IRI="#Mauristes"/>
+    <NamedIndividual IRI="#Bénédictins_de_la_Congrégation_de_Saint-Maur"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Mauristes_de_l'abbaye_Saint-Corneille_de_Compiègne"/>
@@ -14378,13 +14378,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Missionnaires"/>
     <NamedIndividual IRI="#Lazaristes"/>
+    <NamedIndividual IRI="#Missionnaires"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Lazaristes"/>
     <NamedIndividual IRI="#Missionnaires"/>
+    <NamedIndividual IRI="#Lazaristes"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Pères_de_Saint-Lazare"/>
@@ -14400,13 +14400,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Missionnaires"/>
     <NamedIndividual IRI="#Pères_de_Saint-Lazare"/>
+    <NamedIndividual IRI="#Missionnaires"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_de_Saint-Lazare"/>
     <NamedIndividual IRI="#Missionnaires"/>
+    <NamedIndividual IRI="#Pères_de_Saint-Lazare"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Pères_de_la_Mission"/>
@@ -14422,13 +14422,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Missionnaires"/>
     <NamedIndividual IRI="#Pères_de_la_Mission"/>
+    <NamedIndividual IRI="#Missionnaires"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_de_la_Mission"/>
     <NamedIndividual IRI="#Missionnaires"/>
+    <NamedIndividual IRI="#Pères_de_la_Mission"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Missionnaires_d'Alençon"/>
@@ -16077,13 +16077,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Observantins"/>
     <NamedIndividual IRI="#Pères_de_l'Observance"/>
+    <NamedIndividual IRI="#Observantins"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_de_l'Observance"/>
     <NamedIndividual IRI="#Observantins"/>
+    <NamedIndividual IRI="#Pères_de_l'Observance"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Observantins_de_Livourne"/>
@@ -16521,13 +16521,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_hospitalier_des_frères_de_Saint_Jean_de_Dieu"/>
     <NamedIndividual IRI="#Frères_de_la_Charité"/>
+    <NamedIndividual IRI="#Ordre_hospitalier_des_frères_de_Saint_Jean_de_Dieu"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Frères_de_la_Charité"/>
     <NamedIndividual IRI="#Ordre_hospitalier_des_frères_de_Saint_Jean_de_Dieu"/>
+    <NamedIndividual IRI="#Frères_de_la_Charité"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
@@ -16558,13 +16558,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
     <NamedIndividual IRI="#Grand_Prieuré_de_France"/>
+    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Grand_Prieuré_de_France"/>
     <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
+    <NamedIndividual IRI="#Grand_Prieuré_de_France"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Ordre_de_Notre-Dame-du-Mont-Carmel"/>
@@ -16580,13 +16580,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
     <NamedIndividual IRI="#Ordre_de_Notre-Dame-du-Mont-Carmel"/>
+    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_de_Notre-Dame-du-Mont-Carmel"/>
     <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
+    <NamedIndividual IRI="#Ordre_de_Notre-Dame-du-Mont-Carmel"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <NamedIndividual IRI="#Ordre_de_Saint-Lazare"/>
@@ -16602,13 +16602,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
     <NamedIndividual IRI="#Ordre_de_Saint-Lazare"/>
+    <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_de_Saint-Lazare"/>
     <NamedIndividual IRI="#Ordre_royal_de_Notre-Dame_du_Mont-Carmel_et_de_Saint-Lazare-de-Jérusalem"/>
+    <NamedIndividual IRI="#Ordre_de_Saint-Lazare"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Ordre_Teutonique"/>
@@ -16639,13 +16639,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_Teutonique"/>
     <NamedIndividual IRI="#Ordre_de_la_Maison_de_Sainte-Marie-des-Teutoniques"/>
+    <NamedIndividual IRI="#Ordre_Teutonique"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Ordre_de_la_Maison_de_Sainte-Marie-des-Teutoniques"/>
     <NamedIndividual IRI="#Ordre_Teutonique"/>
+    <NamedIndividual IRI="#Ordre_de_la_Maison_de_Sainte-Marie-des-Teutoniques"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Ordres_mendiants"/>
@@ -17302,13 +17302,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_de_la_Doctrine_Chrétienne"/>
     <NamedIndividual IRI="#Doctrinaires"/>
+    <NamedIndividual IRI="#Pères_de_la_Doctrine_Chrétienne"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Doctrinaires"/>
     <NamedIndividual IRI="#Pères_de_la_Doctrine_Chrétienne"/>
+    <NamedIndividual IRI="#Doctrinaires"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Pères_de_la_Merci"/>
@@ -17343,13 +17343,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Pères_de_la_Merci"/>
     <NamedIndividual IRI="#Mercédaires"/>
+    <NamedIndividual IRI="#Pères_de_la_Merci"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Mercédaires"/>
     <NamedIndividual IRI="#Pères_de_la_Merci"/>
+    <NamedIndividual IRI="#Mercédaires"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Pères_de_Saint-Lazare_de_Troyes"/>
@@ -18824,13 +18824,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Solitaires"/>
     <NamedIndividual IRI="#Messieurs_du_Port-Royal"/>
+    <NamedIndividual IRI="#Solitaires"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Messieurs_du_Port-Royal"/>
     <NamedIndividual IRI="#Solitaires"/>
+    <NamedIndividual IRI="#Messieurs_du_Port-Royal"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Sous-maître_de_la_Chapelle_du_roi"/>
@@ -19272,13 +19272,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Tiercelins"/>
     <NamedIndividual IRI="#Tertiaires"/>
+    <NamedIndividual IRI="#Tiercelins"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Tertiaires"/>
     <NamedIndividual IRI="#Tiercelins"/>
+    <NamedIndividual IRI="#Tertiaires"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Tiercelins_de_Nancy"/>
@@ -19607,13 +19607,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Tribunal_de_la_Rote"/>
     <NamedIndividual IRI="#Compagnie_de_la_Rote"/>
+    <NamedIndividual IRI="#Tribunal_de_la_Rote"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Compagnie_de_la_Rote"/>
     <NamedIndividual IRI="#Tribunal_de_la_Rote"/>
+    <NamedIndividual IRI="#Compagnie_de_la_Rote"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Trinitaires"/>
@@ -20571,13 +20571,13 @@
   </ClassAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <NamedIndividual IRI="#Visitandines"/>
     <NamedIndividual IRI="#Filles_de_la_Visitation_Sainte_Marie"/>
+    <NamedIndividual IRI="#Visitandines"/>
   </ObjectPropertyAssertion>
   <ObjectPropertyAssertion>
     <ObjectProperty IRI="#is_authority_corporation_form_of"/>
-    <NamedIndividual IRI="#Filles_de_la_Visitation_Sainte_Marie"/>
     <NamedIndividual IRI="#Visitandines"/>
+    <NamedIndividual IRI="#Filles_de_la_Visitation_Sainte_Marie"/>
   </ObjectPropertyAssertion>
   <Declaration>
     <Class IRI="#Visitandines_du_monastère_de_la_Visitation_d'Aix-en-Provence"/>
