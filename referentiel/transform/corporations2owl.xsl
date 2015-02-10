@@ -185,13 +185,13 @@
       <NamedIndividual>
         <xsl:attribute name="IRI">
           <xsl:text>#</xsl:text>
-          <xsl:value-of select="translate(preceding-sibling::th:entree,' ','_')"/>
+          <xsl:value-of select="translate(.,' ','_')"/>
         </xsl:attribute>
       </NamedIndividual>
       <NamedIndividual>
         <xsl:attribute name="IRI">
           <xsl:text>#</xsl:text>
-          <xsl:value-of select="translate(.,' ','_')"/>
+          <xsl:value-of select="translate(preceding-sibling::th:entree,' ','_')"/>
         </xsl:attribute>
       </NamedIndividual>
     </ObjectPropertyAssertion>
@@ -203,13 +203,13 @@
       <NamedIndividual>
         <xsl:attribute name="IRI">
           <xsl:text>#</xsl:text>
-          <xsl:value-of select="translate(.,' ','_')"/>          
+          <xsl:value-of select="translate(preceding-sibling::th:entree,' ','_')"/>          
         </xsl:attribute>
       </NamedIndividual>
       <NamedIndividual>
         <xsl:attribute name="IRI">
           <xsl:text>#</xsl:text>
-          <xsl:value-of select="translate(preceding-sibling::th:entree,' ','_')"/>          
+          <xsl:value-of select="translate(.,' ','_')"/>          
         </xsl:attribute>
       </NamedIndividual>
     </ObjectPropertyAssertion>
