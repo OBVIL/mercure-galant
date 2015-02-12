@@ -58,7 +58,9 @@ class Owl {
                   "owl_contains",
                   "owl_person_authorityForm",
                   "owl_person_rejectedForm",
-                  "owl_topic");
+                  "owl_topic",
+                  "owl_corporation",
+                  "owl_place");
     foreach($tables as $table) {
       $drop = self::$pdo->prepare("DROP TABLE IF EXISTS $table");
       $drop->execute();
@@ -75,7 +77,7 @@ class Owl {
     // input: fichier RDF/XML (.owl) produit à l’export par WebProtege
     if (!$this->reader->open($this->owlFile)) die("Impossible d’ouvrir le fichier OWL");
     while($this->reader->read()) {
-      if ($this->reader->name == 'owl:NamedIndividual') {
+      if ($this->reader->name == 'owl:NamedIndividual' && $this->reader->nodeType == XMLReader::ELEMENT) {
         $node = new SimpleXMLElement($this->reader->readOuterXml());
         // TODO: impossible de se débarasser de ce warning de merde
         $classeURL = strval($node->children('rdf',TRUE)->type->attributes('rdf',TRUE)->resource);
@@ -91,13 +93,30 @@ class Owl {
               $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
               $insert->execute(array($article, $personid, 'person'));
             }
+            //TOPICS
             foreach($node->children()->contains_topic as $topic) {
               $topicid = substr($topic->attributes('rdf',TRUE)->resource,Owl::OBUL);
               print $article . " contains_topic " . $topicid ." [type:topic]\n";
               //insertion en base
               $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
               $insert->execute(array($article, $topicid, 'topic'));
-            }            
+            }
+            //PLACES
+            foreach($node->children()->contains_place as $place) {
+              $topicid = substr($place->attributes('rdf',TRUE)->resource,Owl::OBUL);
+              print $article . " contains_place " . $topicid ." [type:place]\n";
+              //insertion en base
+              $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
+              $insert->execute(array($article, $topicid, 'place'));
+            }     
+            //CORPORATIONS
+            foreach($node->children()->contains_corporation as $corporation) {
+              $topicid = substr($corporation->attributes('rdf',TRUE)->resource,Owl::OBUL);
+              print $article . " contains_corporation " . $topicid ." [type:corporation]\n";
+              //insertion en base
+              $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
+              $insert->execute(array($article, $topicid, 'corporation'));
+            }
             break;
           // table AuthorityPersonForm (apfid, label, comment)
           case 'AuthorityPersonForm':

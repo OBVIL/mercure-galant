@@ -112,7 +112,7 @@ class Mercure {
     return $htmlList;
   }
 
-  public function printTopicIndex($full=true) {
+  public function printTopicIndex($classe, $full=true) {
     self::connect('./mercure-galant.sqlite');
     // ramasse TOUS les topics
     $selectAll = "SELECT id, label, parent FROM owl_topic";
@@ -129,8 +129,19 @@ class Mercure {
     $sth = self::$pdo->prepare($sql);
     $sth->execute();
     $allTopics = $sth->fetchAll();//TOUS les topics
-    $parent='Topic';//initialisation à la racine à "genres_musicaux"
-    print "<h1>Index des mots-clés</h1>";
+    $parent=$classe;//ON CHOISIT ICI LA CLASSE (Topic, Corporation, Place)
+    switch ($classe) {
+      case "Topic":
+        $title="Index des Mots-clés";
+        break;
+      case "Place":
+        $title="Index des Lieux";
+        break;
+      case "Corporation":
+        $title="Index des corporations, institutions et sociétés savantes";
+        break;
+    }
+    print "<h1>$title</h1>";
     print '<div id="topics"><ul class="tree">';
     self::topicsTree($allTopics, $parent);
     print '</ul>';
@@ -165,7 +176,7 @@ class Mercure {
   
   //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
-  public function relatedDoc($tagSet, $currentArt, $threshold=3) {
+  public function relatedDoc($tagSet, $currentArt, $threshold=6) {
     //if(count($tagSet<$threshold)) break;
     //le tableau des articles par tag
     $artByTag=array();
