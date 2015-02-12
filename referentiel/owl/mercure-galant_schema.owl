@@ -116,7 +116,7 @@
   -->
 
   <!-- Corporation -->
-  <!-- CLASSES. NB: toutes les formes d’autorité des mots clés font l’objet d’une déclaration de classe -->
+  <!-- CLASSES. NB: toutes les formes d’autorité des corporations font l’objet d’une déclaration de classe -->
   <!-- NB. Pas de note dans le thésaurus des corporations -->
   <Declaration>
     <Class IRI="#Corporation"/>
@@ -148,7 +148,7 @@
   </ObjectPropertyRange>
   <ObjectPropertyRange>
     <ObjectProperty IRI="#is_rejected_corporation_form_of"/>
-    <Class IRI="#corporation"/>
+    <Class IRI="#Corporation"/>
   </ObjectPropertyRange>
   <!-- ANNOTATION
     rdfs:label = label
@@ -158,6 +158,42 @@
     <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Troupe du théâtre du Marais</Literal>
   </AnnotationAssertion>
   -->
+  
+  <!-- Place -->
+  <!-- CLASSES. NB: toutes les formes d’autorité des lieux font l’objet d’une déclaration de classe -->
+  <!-- NB. Pas de note dans le thésaurus des lieux -->
+  <Declaration>
+    <Class IRI="#Place"/>
+  </Declaration>
+  <!-- OBJECTS PROPS -->
+  <Declaration>
+    <ObjectProperty IRI="#is_authority_place_form_of"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#is_rejected_place_form_of"/>
+  </Declaration>
+  <FunctionalObjectProperty>
+    <ObjectProperty IRI="#is_rejected_place_form_of"/>
+  </FunctionalObjectProperty>
+  <InverseFunctionalObjectProperty>
+    <ObjectProperty IRI="#is_authority_place_form_of"/>
+  </InverseFunctionalObjectProperty>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_authority_place_form_of"/>
+    <Class IRI="#Place"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#is_rejected_place_form_of"/>
+    <Class IRI="#Place"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_authority_place_form_of"/>
+    <Class IRI="#Place"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#is_rejected_place_form_of"/>
+    <Class IRI="#Place"/>
+  </ObjectPropertyRange>
   
   <!-- Article -->
   <!-- CLASSE: chaque article est un individu de la classe Article -->
@@ -206,6 +242,9 @@
   <Declaration>
     <ObjectProperty IRI="#contains_corporation"/>
   </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#contains_place"/>
+  </Declaration>
   <ObjectPropertyDomain>
     <ObjectProperty IRI="#contains_person"/>
     <Class IRI="#Article"/>
@@ -216,6 +255,10 @@
   </ObjectPropertyDomain>
   <ObjectPropertyDomain>
     <ObjectProperty IRI="#contains_corporation"/>
+    <Class IRI="#Article"/>
+  </ObjectPropertyDomain>
+  <ObjectPropertyDomain>
+    <ObjectProperty IRI="#contains_place"/>
     <Class IRI="#Article"/>
   </ObjectPropertyDomain>
   <ObjectPropertyRange>
@@ -228,6 +271,10 @@
   </ObjectPropertyRange>
   <ObjectPropertyRange>
     <ObjectProperty IRI="#contains_corporation"/>
+    <Class IRI="#Corporation"/>
+  </ObjectPropertyRange>
+  <ObjectPropertyRange>
+    <ObjectProperty IRI="#contains_place"/>
     <Class IRI="#Corporation"/>
   </ObjectPropertyRange>
   

@@ -43,6 +43,9 @@
         <ObjectProperty IRI="#contains_topic"/>
       </Declaration>
       <Declaration>
+        <ObjectProperty IRI="#contains_corporation"/>
+      </Declaration>      
+      <Declaration>
         <ObjectProperty IRI="#contains_place"/>
       </Declaration>
       <ObjectPropertyDomain>
@@ -51,6 +54,10 @@
       </ObjectPropertyDomain>
       <ObjectPropertyDomain>
         <ObjectProperty IRI="#contains_topic"/>
+        <Class IRI="#Article"/>
+      </ObjectPropertyDomain>
+      <ObjectPropertyDomain>
+        <ObjectProperty IRI="#contains_corporation"/>
         <Class IRI="#Article"/>
       </ObjectPropertyDomain>
       <ObjectPropertyDomain>
@@ -66,8 +73,12 @@
         <Class IRI="#Topic"/>
       </ObjectPropertyRange>
       <ObjectPropertyRange>
+        <ObjectProperty IRI="#contains_corporation"/>
+        <Class IRI="#Corporation"/>
+      </ObjectPropertyRange>
+      <ObjectPropertyRange>
         <ObjectProperty IRI="#contains_place"/>
-        <Class IRI="#Topic"/>
+        <Class IRI="#Place"/>
       </ObjectPropertyRange>
       
       <xsl:apply-templates select="//th:notice"/>
@@ -110,9 +121,9 @@
         </xsl:attribute>
       </NamedIndividual>
       <Literal datatypeIRI="&xsd;anyURI">
-        <xsl:text>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-</xsl:text>
+        <xsl:text>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/</xsl:text>
         <xsl:value-of select="substring-before(.,'_')"/>
-        <xsl:text>/MG-</xsl:text>
+        <xsl:text>/</xsl:text>
         <xsl:value-of select="."/>
       </Literal>
     </DataPropertyAssertion>
@@ -142,6 +153,26 @@
       <xsl:for-each select="../../th:mc/th:e">
         <ObjectPropertyAssertion>
           <ObjectProperty IRI="#contains_topic"/>
+          <NamedIndividual>
+            <xsl:attribute name="IRI">
+              <xsl:value-of select="$entID"/>
+            </xsl:attribute>
+          </NamedIndividual>
+          <NamedIndividual>
+            <xsl:attribute name="IRI">
+              <xsl:text>#</xsl:text>
+              <xsl:value-of select="normalize-space(translate(.,' ','_'))"/>
+            </xsl:attribute>
+          </NamedIndividual>
+        </ObjectPropertyAssertion>
+      </xsl:for-each>
+    </xsl:if>
+    
+    <!-- indexation corporations -->
+    <xsl:if test="../../th:lcinst/th:e">
+      <xsl:for-each select="../../th:lcinst/th:e">
+        <ObjectPropertyAssertion>
+          <ObjectProperty IRI="#contains_corporation"/>
           <NamedIndividual>
             <xsl:attribute name="IRI">
               <xsl:value-of select="$entID"/>
