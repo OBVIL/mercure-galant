@@ -83,7 +83,7 @@ class Owl {
         switch($classe) {
           // table contains (artid, termid, termtype)
           case 'Article':
-            $article = "MG-".substr($node->attributes('rdf',TRUE)->about,Owl::OBUL); // id de l’article
+            $article = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL); // id de l’article
             foreach($node->children()->contains_person as $person) {
               $personid = substr($person->attributes('rdf',TRUE)->resource,Owl::OBUL);
               print $article . " contains_person " . $personid ." [type:person]\n";
