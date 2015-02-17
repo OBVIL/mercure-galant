@@ -115,7 +115,9 @@ class Mercure {
   public function printTopicIndex($classe, $full=true) {
     self::connect('./mercure-galant.sqlite');
     // ramasse TOUS les topics
-    $selectAll = "SELECT id, label, parent FROM owl_topic";
+    //sortir tout l’arbre: $selectAll = "SELECT id, label, type, parent FROM owl_allTags";
+    // ICI. TODO -> VOIR COMMENT ON PASSE LA CLASSE IN WHERE POUR AMÉLIORER LA PERF
+    $selectAll = "SELECT id, label, type, parent FROM owl_allTags WHERE type = '".lcfirst($classe)."'";
     //ramasse les seuls topics utilisés; NB il faut aussi ramasser tous les topics racine pour générer l’arbre (UNION)
     $selectUsed = "SELECT DISTINCT id, label, parent
         FROM owl_topic, owl_contains
