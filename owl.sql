@@ -23,5 +23,6 @@ CREATE TABLE owl_contains (
 CREATE TABLE owl_allTags (
   id        TEXT NOT NULL,
   label     TEXT NOT NULL,
-  type      TEXT
+  parent    TEXT NOT NULL,
+  type      TEXT NOT NULL
 )
