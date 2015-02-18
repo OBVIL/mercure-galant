@@ -45,7 +45,7 @@ class Owl {
    * Création des tables utiles à l’indexation dans mercure-galant.sqlite
    */
   private function owlTables() {
-    self::connect('./mercure-galant.sqlite');// en dur!
+    self::connect('./mercure-galant.sqlite');
     self::$pdo->exec(file_get_contents(dirname(__FILE__).'/owl.sql'));
   }
   
@@ -53,12 +53,11 @@ class Owl {
    * Suppression des tables d’indexation
    */
   private function dropOwlTables() {
-    self::connect('./mercure-galant.sqlite');// en dur!
+    self::connect('./mercure-galant.sqlite');//
     $tables=array("owl_allTags",
                   "owl_contains",
                   "owl_person_authorityForm",
-                  "owl_person_rejectedForm",
-                  "owl_topic");
+                  "owl_person_rejectedForm");
     foreach($tables as $table) {
       $drop = self::$pdo->prepare("DROP TABLE IF EXISTS $table");
       $drop->execute();
@@ -71,8 +70,7 @@ class Owl {
    * NB input: fichier RDF/XML (.owl) produit à l’export par WebProtege (et non Protege Standalone)
    */
   private function owl2sqlite() {
-    self::connect('./mercure-galant.sqlite');// en dur!
-    // input: fichier RDF/XML (.owl) produit à l’export par WebProtege
+    self::connect('./mercure-galant.sqlite');
     if (!$this->reader->open($this->owlFile)) die("Impossible d’ouvrir le fichier OWL");
     while($this->reader->read()) {
       if ($this->reader->name == 'owl:NamedIndividual' && $this->reader->nodeType == XMLReader::ELEMENT) {
@@ -81,11 +79,10 @@ class Owl {
         $classeURL = strval($node->children('rdf',TRUE)->type->attributes('rdf',TRUE)->resource);
         $classe = substr($classeURL,Owl::OBUL);
         switch($classe) {
-          // table contains (artid, termid, termtype)
-          // tous les articles sont des individus la classe Article, on les repère donc grâce à la valeur rdf:type
+          // insertion en base (table owl_contains) de l’indexation (relation article/tag)
           case 'Article':
             $article = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL); // id de l’article
-            //PERSONS by article indexation
+            //PERSONS
             foreach($node->children()->contains_person as $person) {
               $personid = substr($person->attributes('rdf',TRUE)->resource,Owl::OBUL);
               print $article . " contains_person " . $personid ." [type:person]\n";
@@ -94,32 +91,29 @@ class Owl {
               $insert->execute(array($article, $personid, 'person'));
             }
             //TOPICS
-            foreach($node->children()->contains_topic as $topic) {
-              $topicid = substr($topic->attributes('rdf',TRUE)->resource,Owl::OBUL);
-              print $article . " contains_topic " . $topicid ." [type:topic]\n";
-              //insertion en base
+            foreach($node->children()->contains_topic as $tag) {
+              $tagid = substr($tag->attributes('rdf',TRUE)->resource,Owl::OBUL);
+              print $article . " contains_topic " . $tagid ." [type:topic]\n";
               $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
-              $insert->execute(array($article, $topicid, 'topic'));
+              $insert->execute(array($article, $tagid, 'topic'));
             }
             //PLACES
-            foreach($node->children()->contains_place as $place) {
-              $topicid = substr($place->attributes('rdf',TRUE)->resource,Owl::OBUL);
-              print $article . " contains_place " . $topicid ." [type:place]\n";
-              //insertion en base
+            foreach($node->children()->contains_place as $tag) {
+              $tagid = substr($tag->attributes('rdf',TRUE)->resource,Owl::OBUL);
+              print $article . " contains_place " . $tagid ." [type:place]\n";
               $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
-              $insert->execute(array($article, $topicid, 'place'));
+              $insert->execute(array($article, $tagid, 'place'));
             }     
             //CORPORATIONS
-            foreach($node->children()->contains_corporation as $corporation) {
-              $topicid = substr($corporation->attributes('rdf',TRUE)->resource,Owl::OBUL);
-              print $article . " contains_corporation " . $topicid ." [type:corporation]\n";
-              //insertion en base
+            foreach($node->children()->contains_corporation as $tag) {
+              $tagid = substr($tag->attributes('rdf',TRUE)->resource,Owl::OBUL);
+              print $article . " contains_corporation " . $tagid ." [type:corporation]\n";
               $insert = self::$pdo->prepare("INSERT into owl_contains (article_id, tag_id, tag_type) VALUES (?, ?, ?)");
-              $insert->execute(array($article, $topicid, 'corporation'));
+              $insert->execute(array($article, $tagid, 'corporation'));
             }
             break;
-          // tous les persName sont des individus la classe Article, on les repère donc grâce à la valeur rdf:type
-          // table AuthorityPersonForm (apfid, label, comment)
+          // insertion en base (tables owl_person_authorityForm et owl_person_rejectedForm) des tags person + indexation (article/person)
+          // NB: tous les tags person sont des individus la classe AuthorityPersonForm, on peut donc les identifier grâce à la valeur rdf:type
           case 'AuthorityPersonForm':
             $apfid = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL);
             $apflabel = $node->children('rdfs',TRUE)->label;
@@ -132,73 +126,66 @@ class Owl {
             $insert = self::$pdo->prepare("INSERT into owl_allTags (id, label, parent, type) VALUES (?, ?, ?, ?)");
             $insert->execute(array($apfid, $apflabel, 'Person', 'person'));
             break;
-          // table RejectedPersonForm (rpfid, label, apfid)
           case 'RejectedPersonForm':
             $rpfid = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL);
             $rpflabel = $node->children('rdfs',TRUE)->label;
             $apfid = substr($node->children()->is_rejected_person_form_of->attributes('rdf',TRUE)->resource,Owl::OBUL);
             print $rpfid . " | " . $rpflabel . " | POUR: " . $apfid . "\n";
-            // insertion en base
             $insert = self::$pdo->prepare("INSERT into owl_person_rejectedForm (id, label, apf_id) VALUES (?, ?, ?)");
             $insert->execute(array($rpfid, $rpflabel, $apfid));
             break;
         }
       }
-      // table Topic (topicid, topiclabel, parent)
-      // Là c’est un peu le bordel : on est pas en mesure ici de déterminer la classe racine (Topic, Place ou Corporation ?)
-      // Le typage du tag se fait en passe 2 avec self::typeTag()
+      // insertion en base (owl_allTags) de tous les tags (sauf person)
+      // NB: impossible de déterminer ici le type du tag (corporation, place ou topic) établi en passe 2 avec self::typeTag()
       elseif ($this->reader->name == 'owl:Class') {
         $node = new SimpleXMLElement($this->reader->readOuterXml());
         $parent = substr($node->children(rdfs,TRUE)->subClassOf->attributes('rdf',TRUE)->resource,Owl::OBUL);
-        $skip = array("Article","AuthorityPersonForm","PersonForm","RejectedPersonForm");// super chip (s’assurer qu’on ne génère pas de doublon)...
+        $skip = array("Article","AuthorityPersonForm","PersonForm","RejectedPersonForm");// super chip (éviter les doublon)...
         if($parent && !in_array($parent,$skip)) {
-          $topicid = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL);
-          $topiclabel = $node->children('rdfs',TRUE)->label;
-          echo "TOPIC: " . $topicid . " (" . $topiclabel . "): enfant de " . $parent . "\n";
-          // insertion en base
-          $insert = self::$pdo->prepare("INSERT INTO owl_topic (id, label, parent) VALUES (?, ?, ?)");
-          $insert->execute(array($topicid, $topiclabel, $parent));
+          $tagid = substr($node->attributes('rdf',TRUE)->about,Owl::OBUL);
+          $taglabel = $node->children('rdfs',TRUE)->label;
+          echo "TAG: " . $tagid . " (" . $taglabel . "): enfant de " . $parent . "\n";
           //insertion table de tous les tags
           $insert = self::$pdo->prepare("INSERT INTO owl_allTags (id, label, parent, type) VALUES (?, ?, ?, ?)");
-          $insert->execute(array($topicid, $topiclabel, $parent, 'tag'));
+          $insert->execute(array($tagid, $taglabel, $parent, 'tag'));
         }
       }
     }
     $this->reader->close();
-    
+    //passe 2, typer les tags (corporation, place ou topic)
+    self::typeTag();
   }
   
-  //passe 2: typer les tags
+  // Typer les tags insérés dans owl_allTags
   private function typeTag() {
     self::connect('./mercure-galant.sqlite');
     $sql="SELECT id FROM owl_allTags WHERE type='tag'";// inutile de rammaser les Persons déjà typés
     $tags=self::$pdo->query($sql)->fetchAll();
     foreach($tags as $tag) {
-      $type=self::getType($tag['id']);
-      print $type . " -> " . $tag['id']."\n";
+      print self::getType($tag['id']) . " -> " . $tag['id']."\n";
       $sql="UPDATE owl_allTags SET type = ? WHERE id = ?";
       $up = self::$pdo->prepare($sql);
       $up->execute(array(self::getType($tag['id']),$tag['id']));
     }
   }
-  
   // Déterminer le type (corporation, person, place, topic) d’un tag
   private function getType($tagId) {
-    $sql='SELECT parent FROM owl_allTags WHERE id="'.$tagId.'"';//trouver le père du tag courant
+    $sql='SELECT parent FROM owl_allTags WHERE id="'.$tagId.'"';//le père du tag courant
     $dad = self::$pdo->prepare($sql);
     $dad->execute();
     $parentId = $dad->fetchColumn();
     if($parentId==true) return self::getType($parentId);
-    else return lcfirst($tagId);
+    else return lcfirst($tagId);//lcfirst() plomble la perf
   }
   
-  
+  // Pilote ligne de commande
   public static function doCli() {
     $timeStart = microtime(true);
     array_shift($_SERVER['argv']); // shift arg 1, the script filepath
     if (!count($_SERVER['argv'])) exit("usage : php -f Owl.php (owl2sqlite|owlTables|dropOwlTables|typeTag) src.owl?\n");
-    $method=null;//method to call
-    $owlFile=null;//XML src
+    $method=null;
+    $owlFile=null;
     $dest=null;
     $args=array();
     while ($arg=array_shift($_SERVER['argv'])) {
