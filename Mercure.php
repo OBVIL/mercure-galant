@@ -120,12 +120,12 @@ class Mercure {
     $selectAll = "SELECT id, label, type, parent FROM owl_allTags WHERE type = '".lcfirst($classe)."'";
     //ramasse les seuls topics utilisés; NB il faut aussi ramasser tous les topics racine pour générer l’arbre (UNION)
     $selectUsed = "SELECT DISTINCT id, label, parent
-        FROM owl_topic, owl_contains
-        WHERE owl_topic.id = owl_contains.tag_id
+        FROM owl_allTags, owl_contains
+        WHERE owl_allTags.id = owl_contains.tag_id
           AND owl_contains.article_id IN (SELECT name FROM article)
       UNION
       SELECT id, label, parent
-        FROM owl_topic
+        FROM allTags
         WHERE parent='Topic'";
     $sql = ($full===true) ? $selectAll : $selectUsed;
     $sth = self::$pdo->prepare($sql);

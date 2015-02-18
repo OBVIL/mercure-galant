@@ -9,17 +9,12 @@ CREATE TABLE owl_person_rejectedForm (
   label     TEXT NOT NULL,
   apf_id    TEXT NOT NULL REFERENCES ontology_authority_person_form(id)
 );
-CREATE TABLE owl_topic (
-  id        TEXT NOT NULL,
-  label     TEXT NOT NULL,
-  parent    TEXT NOT NULL
-);
 CREATE TABLE owl_contains (
   article_id  TEXT NOT NULL REFERENCES article(name),
   tag_id      TEXT NOT NULL,
-  tag_type    TEXT NOT NULL   -- topic or person
+  tag_type    TEXT NOT NULL
 );
--- disposer de tous les tags (person, topic)
+-- disposer de tous les tags (corporation, person, place, topic)
 CREATE TABLE owl_allTags (
   id        TEXT NOT NULL,
   label     TEXT NOT NULL,
