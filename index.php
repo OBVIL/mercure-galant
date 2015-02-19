@@ -118,13 +118,13 @@ elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
   $mercure->printPersonIndex();
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='topics') {
-  $mercure->printTopicIndex("Topic");
+  $mercure->printTagsIndex("Topic");
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='places') {
-  $mercure->printTopicIndex("Place");
+  $mercure->printTagsIndex("Place");
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='corporations') {
-  $mercure->printTopicIndex("Corporation");
+  $mercure->printTagsIndex("Corporation");
 }
 
 // pas de livre demandé, montrer un rapport général
