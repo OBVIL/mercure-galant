@@ -27,12 +27,11 @@ class Mercure {
     }
   }
   
-  
+  // Imprimer l’index des personnes
   public function printPersonIndex() {
     self::connect('./mercure-galant.sqlite');
-    // Chercher toutes les entrées d’index de type person présentes dans les documents publiés
-    //NB: tous les articles indexés ne sont pas publiés (cf 3e cond. WHERE)
-    //attention aux problèmes d’indexation cf Louis XIV en MG-1673-04_267 au lieu de MG-1673-04_266 -> lien crevé
+    //chercher tous les tags person attachés aux documents publiés
+    //NB: tous les articles indexés ne sont pas publiés (cf 3e cond. WHERE) + des erreurs d’indexation en base
     $sql="SELECT DISTINCT tag_id, label, comment
       FROM owl_contains, owl_person_authorityForm
       WHERE owl_contains.tag_id = owl_person_authorityForm.id
@@ -40,15 +39,10 @@ class Mercure {
         AND owl_contains.article_id IN (SELECT name FROM article)
       ORDER BY tag_id";
     print "<h1>Index des personnes</h1>";
-    $i=1;
     foreach(self::$pdo->query($sql) as $person) {
-      // dans la boucle, ramasser les id
-      //print $i . ". ";
-      //@id pour lier les tags à la pages persons
-      // TODO : faire de même avec les topics
-      ($person['comment']!='') ? $comment=' –'.$person['comment'] : $comment=null;
+      ($person['comment']!='') ? $comment=' – '.$person['comment'] : $comment=null;
       print '<span id="'.$person['tag_id'].'">'.$person['label'].'</span> '.$comment.'<br/><ul>';
-      //chercher les docs où apparaissent les persons
+      //les articles où apparaissent les persons
       $sql='SELECT article_id, title, created
         FROM owl_contains, article
         WHERE tag_id="'.$person['tag_id'].'"
@@ -58,67 +52,20 @@ class Mercure {
         print '<li>['.$article['created'].'] <a href="'.$article_url.'">'.$article['title'].'</a></li>';
       }
       echo "</ul>";
-      $i++;
     }
   }
   
-  /*
-   * array() topicChilds($topics, $parent)
-   * ramasser tous les topics qui ont le même papa
-   */
-  private function topicChilds($topics, $parent) {
-    return array_filter($topics, function($topic) use($parent) {if($topic['parent']==$parent) return $topic;});
-  }
-  /*
-   * string topicsTree($allTopics, $parent)
-   * méthode récursive pour produire l’arbre des topics
-   * array $topics : tableau de tous les topics
-   * string $parent : id du topic parent pour filtrer
-   */
-  private function topicsTree($allTopics, $parent) {
-    $topics = self::topicChilds($allTopics, $parent);
-    foreach($topics as $topic) {
-      print '<li>'.$topic['label'].self::taggedDocsList($topic['id']);
-      $topicChilds=self::topicChilds($allTopics, $topic['id']);
-      if(!empty($topicChilds)) {
-        print "<ul>";
-        self::topicsTree($allTopics, $topic['id']);
-        print "</ul>";
-      }
-    print "</li>";
-    }
-  }
   
-  /* Afficher la liste formatée des articles pour un tag */
-  private function taggedDocsList($tagId) {
-    $htmlList='';
-    $sql='SELECT article_id, title, created
-      FROM owl_contains, article
-      WHERE tag_id="'.$tagId.'"
-      AND owl_contains.article_id = article.name';
-    //$docs=self::$pdo->query($sql);
-    $docs=self::$pdo->query($sql)->fetchAll();
-    $freq=count($docs);
-    if ($freq==0) return false;//on sort si aucun doc
-    //TODO revoir la logique de cet affichage -> faire du JS ?
-    $htmlList .= " ($freq)";
-    $htmlList .= '<ul class="more">';
-    foreach($docs as $doc) {
-      $doc_url = $this->basehref.substr($doc['article_id'], 0, strpos($doc['article_id'], '_'))."/".$doc['article_id'];
-      $doc_created = '<a href="'.$this->basehref.'?q=&start='.$doc['created'].'">'.$doc['created'].'</a>';
-      $htmlList .= '<li>'.$doc_created.': <a href="'.$doc_url.'">'.$doc['title'].'</a></li>';
-    }
-    $htmlList .= "</ul>";
-    return $htmlList;
-  }
-
-  public function printTopicIndex($classe, $full=true) {
+  /*
+   * string printTagsIndex($classe, $full)
+   * imprimer les thesaurus (corporation, place, topic)
+   * string $classe : la classe du thésaurus (corporation, place ou topic)
+   */
+  public function printTagsIndex($classe, $full=true) {
     self::connect('./mercure-galant.sqlite');
-    // ramasse TOUS les topics
-    //sortir tout l’arbre: $selectAll = "SELECT id, label, type, parent FROM owl_allTags";
-    // ICI. TODO -> VOIR COMMENT ON PASSE LA CLASSE IN WHERE POUR AMÉLIORER LA PERF
+    $parent=$classe;//$parent permet de définir la racine de l’arbre à imprimer (Topic, Corporation, Place par défaut. Mais on peut aussi partir de plus bas...)
     $selectAll = "SELECT id, label, type, parent FROM owl_allTags WHERE type = '".lcfirst($classe)."'";
-    //ramasse les seuls topics utilisés; NB il faut aussi ramasser tous les topics racine pour générer l’arbre (UNION)
+    //ramasse les seuls tags utilisés; NB il faut aussi ramasser tous les tags racine pour générer l’arbre (UNION)
     $selectUsed = "SELECT DISTINCT id, label, parent
         FROM owl_allTags, owl_contains
         WHERE owl_allTags.id = owl_contains.tag_id
@@ -130,8 +77,7 @@ class Mercure {
     $sql = ($full===true) ? $selectAll : $selectUsed;
     $sth = self::$pdo->prepare($sql);
     $sth->execute();
-    $allTopics = $sth->fetchAll();//TOUS les topics
-    $parent=$classe;//ON CHOISIT ICI LA CLASSE (Topic, Corporation, Place)
+    $tags = $sth->fetchAll();
     switch ($classe) {
       case "Topic":
         $title="Index des Mots-clés";
@@ -144,12 +90,40 @@ class Mercure {
         break;
     }
     print "<h1>$title</h1>";
-    print '<div id="topics"><ul class="tree">';
-    self::topicsTree($allTopics, $parent);
+    print '<div id="thesaurus"><ul class="tree">';
+    self::tagsTree($tags, $parent);
     print '</ul>';
   }
   
+  /*
+   * string tagsTree($allTags, $parent)
+   * méthode récursive pour produire l’arbre des tags
+   * array $allTags : tableau de tous les tags
+   * string $parent : id du tag parent pour filtrer
+   */
+  private function tagsTree($allTags, $parent) {
+    $tags = self::tagChilds($allTags, $parent);
+    foreach($tags as $tag) {
+      print '<li>'.$tag['label'].self::taggedDocsList($tag['id']);
+      $tagChilds=self::tagChilds($allTags, $tag['id']);
+      if(!empty($tagChilds)) {
+        print "<ul>";
+        self::tagsTree($allTags, $tag['id']);
+        print "</ul>";
+      }
+    print "</li>";
+    }
+  }
   
+  /*
+   * array() tagChilds($tags, $parent)
+   * ramasser tous les tags qui ont le même papa
+   */
+  private function tagChilds($tags, $parent) {
+    return array_filter($tags, function($tag) use($parent) {if($tag['parent']==$parent) return $tag;});
+  }
+  
+  /* Afficher en tête d’article les tags attachés */
   public function printTags($related=true) {
     $article_id = basename($_SERVER['REQUEST_URI']);
     //echo $article_id;
@@ -163,7 +137,10 @@ class Mercure {
     if(!empty($results)) {
       print '<div id="tags"><ul class="tree"><li>Termes indexés<ul>';
       foreach(self::$pdo->query($sql) as $tag) {
+        //pas classe: TODO voir comment ouvrir l’arbre sur l’ancre
         if ($tag['type']=="person") $page="persons";
+        elseif ($tag['type']=="corporation") $page="corporations";
+        elseif ($tag['type']=="place") $page="places";
         elseif ($tag['type']=="topic") $page="topics";
         print '<li><a href="../'.$page.'#'.$tag['id'].'">'.$tag['label'].'</a></li><br/>';
       }
@@ -176,6 +153,31 @@ class Mercure {
     }
   }
   
+  /*
+   * afficher la liste formatée des articles pour un tag
+   */
+  private function taggedDocsList($tagId) {
+    $htmlList='';
+    $sql='SELECT article_id, title, created
+      FROM owl_contains, article
+      WHERE tag_id="'.$tagId.'"
+      AND owl_contains.article_id = article.name';
+    //$docs=self::$pdo->query($sql);
+    $docs=self::$pdo->query($sql)->fetchAll();
+    $freq=count($docs);
+    if ($freq==0) return false;//on sort si pas d’article
+    //TODO revoir la logique de cet affichage du compteur -> faire du JS ?
+    $htmlList .= " ($freq)";
+    $htmlList .= '<ul class="more">';
+    foreach($docs as $doc) {
+      $doc_url = $this->basehref.substr($doc['article_id'], 0, strpos($doc['article_id'], '_'))."/".$doc['article_id'];
+      $doc_created = '<a href="'.$this->basehref.'?q=&start='.$doc['created'].'">'.$doc['created'].'</a>';
+      $htmlList .= '<li>'.$doc_created.': <a href="'.$doc_url.'">'.$doc['title'].'</a></li>';
+    }
+    $htmlList .= "</ul>";
+    return $htmlList;
+  }
+
   //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
   public function relatedDoc($tagSet, $currentArt, $threshold=6) {
