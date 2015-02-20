@@ -2,6 +2,10 @@
 //ini_set("display_errors",0);
 error_reporting(E_ALL);
 //error_reporting(0);
+include_once (dirname(__FILE__).'/../teipot/Web.php');// déjà appelé dans teipot... ici seulement pour le client ligne de commande
+// cli usage
+set_time_limit(-1);
+if (php_sapi_name() == "cli") Mercure::doCli();
 
 class Mercure {
   public $basehref;// racine Web du corpus
@@ -95,6 +99,28 @@ class Mercure {
     print '</ul>';
   }
   
+  //quick and dirty: méthode ligne de commande pour sortir les thesaurus dans des fichiers HTML (./doc/)
+  //http://stackoverflow.com/questions/937627/how-to-redirect-stdout-to-a-file-in-php
+  private function thesaurusFile($classe) {
+    fclose(STDOUT);
+    $path="doc/".lcfirst($classe)."s.html";
+    $STDOUT = fopen($path, 'wb');
+    $header='<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Mercure Galant, thesaurus</title>
+    <link rel="stylesheet" type="text/css" href="../../teipot/html.css" />
+  </head>
+  <body class="article">';
+    $footer='</body>
+</html>';
+    fwrite($STDOUT, $header);
+    fwrite($STDOUT, self::printTagsIndex($classe));
+    fwrite($STDOUT, $footer);
+    fclose($STDOUT);
+  }
+  
   /*
    * string tagsTree($allTags, $parent)
    * méthode récursive pour produire l’arbre des tags
@@ -177,7 +203,7 @@ class Mercure {
     $htmlList .= "</ul>";
     return $htmlList;
   }
-
+  
   //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
   public function relatedDoc($tagSet, $currentArt, $threshold=6) {
@@ -230,9 +256,34 @@ class Mercure {
         }
       }
       //fermeture de la div id related
-      print '</ul></li></ul></div>';      
+      print '</ul></li></ul></div>';
     }
   }
+
+
+  // Pilote ligne de commande pour quelques méthodes seulement (génération de fichiers HTML)
+  public static function doCli() {
+    $timeStart = microtime(true);
+    array_shift($_SERVER['argv']); // shift arg 1, the script filepath
+    if (!count($_SERVER['argv'])) exit("usage : php -f Mercure.php thesaurusFile (Corporation|Place|Topic)\n");
+    $method=null;
+    $classe=null;
+    $args=array();
+    while ($arg=array_shift($_SERVER['argv'])) {
+      // method
+      if ($arg=="thesaurusFile") $method=$arg;
+      else if(!$classe) $classe=$arg;
+      else $args[]=$arg;
+    }
+    switch ($method) {
+      case "thesaurusFile":
+        $mercure = new Mercure();
+        $mercure->thesaurusFile($classe);
+    }
+  }
+
+
+
   
 }
 ?>

@@ -118,13 +118,19 @@ elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
   $mercure->printPersonIndex();
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='topics') {
-  $mercure->printTagsIndex("Topic");
+  //$mercure->printTagsIndex("Topic");
+  $thesaurus = new Chtimel('doc/topics.html');
+  echo $thesaurus->body('');
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='places') {
-  $mercure->printTagsIndex("Place");
+  //$mercure->printTagsIndex("Place");
+  $thesaurus = new Chtimel('doc/places.html');
+  echo $thesaurus->body('');
 }
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='corporations') {
-  $mercure->printTagsIndex("Corporation");
+  //$mercure->printTagsIndex("Corporation");
+  $thesaurus = new Chtimel('doc/corporations.html');
+  echo $thesaurus->body('');
 }
 
 // pas de livre demandé, montrer un rapport général
