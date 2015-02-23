@@ -70,6 +70,7 @@ class Mercure {
     $parent=$classe;//$parent permet de définir la racine de l’arbre à imprimer (Topic, Corporation, Place par défaut. Mais on peut aussi partir de plus bas...)
     $selectAll = "SELECT id, label, type, parent FROM owl_allTags WHERE type = '".lcfirst($classe)."'";
     //ramasse les seuls tags utilisés; NB il faut aussi ramasser tous les tags racine pour générer l’arbre (UNION)
+    //TODO: revoir algo: il faut rammasser les tags utilisés et TOUS LEURS PARENTS
     $selectUsed = "SELECT DISTINCT id, label, parent
         FROM owl_allTags, owl_contains
         WHERE owl_allTags.id = owl_contains.tag_id
