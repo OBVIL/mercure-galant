@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cat [
+<!ELEMENT cat ( head, ( file+ | cat+ ) )>
+<!ATTLIST cat
+xml:id ID #REQUIRED 
+formats CDATA #IMPLIED
+>
+<!ELEMENT file ( subject* )>
+<!ATTLIST file
+href CDATA #REQUIRED 
+formats CDATA #IMPLIED
+>
+<!ELEMENT subject EMPTY>
+<!ATTLIST subject
+field CDATA #REQUIRED 
+>
+<!ELEMENT head ( #PCDATA | i | sc | sup )*>
+<!ELEMENT i ( #PCDATA | sup )*>
+<!ELEMENT sup ( #PCDATA )*>
+<!ELEMENT sc ( #PCDATA | sup )*>
+]>
+<cat xml:id="mercure-galant">
+  <head>Corpus Mercure Galant</head>
+  <file href="xml/MG-1672-01.xml"/>
+  <file href="xml/MG-1673-02.xml"/>
+  <file href="xml/MG-1673-03.xml"/>
+  <file href="xml/MG-1673-04.xml"/>
+  <file href="xml/MG-1673-05.xml"/>
+  <file href="xml/MG-1673-06.xml"/>
+  <file href="xml/MG-1677-03.xml"/>
+  <file href="xml/MG-1677-04.xml"/>
+  <file href="xml/MG-1677-05.xml"/>
+  <file href="xml/MG-1677-06.xml"/>
+  <file href="xml/MG-1677-07.xml"/>
+  <file href="xml/MG-1677-08.xml"/>
+  <file href="xml/MG-1677-09.xml"/>
+  <file href="xml/MG-1677-10.xml"/>
+  <file href="xml/MG-1677-11.xml"/>
+  <file href="xml/MG-1677-12.xml"/>
+  <file href="xml/MG-1678-01.xml"/>
+  <file href="xml/MG-1678-02.xml"/>
+  <file href="xml/MG-1678-03.xml"/>
+  <file href="xml/MG-1678-04.xml"/>
+  <file href="xml/MG-1678-05.xml"/>
+  <file href="xml/MG-1678-06.xml"/>
+  <file href="xml/MG-1678-07.xml"/>
+  <file href="xml/MG-1678-07e.xml"/>
+  <file href="xml/MG-1678-08.xml"/>
+  <file href="xml/MG-1678-09.xml"/>
+  <file href="xml/MG-1678-10.xml"/>
+  <file href="xml/MG-1678-10e.xml"/>
+  <file href="xml/MG-1678-11.xml"/>
+  <file href="xml/MG-1678-12.xml"/>
+  <file href="xml/MG-1678-12e.xml"/>
+  <file href="xml/MG-1678_01e.xml"/>
+  <file href="xml/MG-1678_04e.xml"/>
+  <file href="xml/MG-1679-01.xml"/>
+  <file href="xml/MG-1679-02.xml"/>
+  <file href="xml/MG-1679-03.xml"/>
+  <file href="xml/MG-1679-04.xml"/>
+  <file href="xml/MG-1679-05.xml"/>
+  <file href="xml/MG-1679-06.xml"/>
+  <file href="xml/MG-1679-07.xml"/>
+  <file href="xml/MG-1679-08.xml"/>
+  <file href="xml/MG-1679-09.xml"/>
+  <file href="xml/MG-1679-10a.xml"/>
+  <file href="xml/MG-1679-11.xml"/>
+  <file href="xml/MG-1679-12.xml"/>
+  <file href="xml/MG-1679-12e.xml"/>
+  <file href="xml/MG-1680-01a.xml"/>
+  <file href="xml/MG-1680-01b.xml"/>
+  <file href="xml/MG-1680-02.xml"/>
+  <file href="xml/MG-1680-03b.xml"/>
+</cat>
