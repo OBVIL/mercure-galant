@@ -1,6 +1,6 @@
 <?php
   $reader=new XMLReader();
-  if (!$reader->open("./musiqueSort.xml")) die("Impossible d’ouvrir le fichier XML");
+  if (!$reader->open("./musique.xml")) die("Impossible d’ouvrir le fichier XML");
   $tomes=array();
   $months = array(  
     "01" => "janvier",
@@ -48,13 +48,13 @@
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
         <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d’édition</resp>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
         </respStmt>
         <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d’édition</resp>
-        </respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
