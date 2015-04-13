@@ -89,6 +89,8 @@
   </teiHeader>
   <text>
     <body>';
+      //sauter les articles déjà publiés
+      
       if(!isset($tomes[$idVol])) file_put_contents('xml/'.$idVol.'.xml', $header);
       file_put_contents("xml/$idVol.xml", $article, FILE_APPEND);
       $tomes[$idVol][]=$idArt;
