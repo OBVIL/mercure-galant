@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure galant, septembre, deuxième partie [tome 12], 1680</title>
+        <title type="sub">Contenant le Voyage que le Roy a fait en Flandre en l’année 1680</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1680-09b/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure galant</title>, septembre, deuxième partie contenant le Voyage que le Roy a fait en Flandre en l’année 1680, [tome 12], <date>1680</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1680-09b_129">
+        <head>MG-1680-09b_129</head>
+        <bibl><title>Mercure galant</title>, septembre, deuxième partie [tome 12], 1680, p. 129-142.</bibl>
+        <p><space rend="tab">    </space>Le 30. les Envoyez Extraordinaires d’Angleterre, apres avoir esté régalez par Sa Majesté, &amp; par plusieurs Personnes de marque, eurent leur Audience de congé, &amp; reçeurent chacun le Portrait du Roy dans une Boëte enrichie de Diamans.</p>
+        <p><space rend="tab">    </space>Ce mesme jour, le Roy partit pour Dunkerque, apres avoir donné quarante mille livres aux Magistrats, à cause qu’ils ont beaucoup contribué aux Armemens de Mer. On avança le long du Canal, &amp; en suite on trouva un beau chemin qui conduit à Ipres, &amp; qui est fermé de deux grands Fossez, sans aucune route de traverse. La Reyne alla tout droit à Responde, où il estoit arresté qu’on dîneroit. […]</p>
+        <p>Leurs Majestez arriverent à Ipres sur les cinq heures du soir. […] Le Soupé du Roy fut magnifique. Il y eut en suite Musique &amp; Comédie. Les Dames d’Ipres s’empresserent pour entrer, &amp; virent souper Leurs Majestez, qui allerent le lendemain 31. à Nostre-Dame. C’est une des plus belles Eglises de Flandre. Le <hi rend="i">Te Deum</hi> y fut solemnellement chanté. […]</p>
+      </div>
+      <div xml:id="MG-1680-09b_151">
+        <head>MG-1680-09b_151</head>
+        <bibl><title>Mercure galant</title>, septembre, deuxième partie [tome 12], 1680, p. 151-152.</bibl>
+        <p>Le 2. du mois, si tost que Sa Majesté eut dîné, Elle visita les Fortifications de la Ville. La Reyne, Madame la Dauphine, &amp; Madame, accompagnées d’un grand nombre de Dames des plus qualifiées de la Cour, allerent faire Collation dans le Jardin de la Contrescarpe. Elles y furent magnifiquement régalées par Madame la Maréchale de Humieres, qui leur donna le divertissement de deux Concerts, &amp; apres la Collation, celuy d’un Combat que des Bateliers firent sur l’eau. […]</p>
+      </div>
+      <div xml:id="MG-1680-09b_238">
+        <head>MG-1680-09b_238</head>
+        <bibl><title>Mercure galant</title>, septembre, deuxième partie [tome 12], 1680, p. 238-239.</bibl>
+        <p>Le 12. le Roy dîna à Beaufort, &amp; fut reçeu le soir à Maubeuge par M<hi rend="sup">r</hi> le Comte du Montal, Lieutenant General de ses Armées, &amp; cy-devant Gouverneur de Charleroy. Ce Prince, à son ordinaire, en visita les Fortifications<anchor xml:id="_GoBack"/> sitost qu’il fut arrivé, &amp; fit la reveuë de la Garnison, qui consiste en sept Bataillons François. Apres son Soupé, il eut le divertissement de la Comédie. […]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

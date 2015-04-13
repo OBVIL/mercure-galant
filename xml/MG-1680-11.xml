@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure galant, novembre [tome 14], 1680</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1680-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], <date>1680</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1680-11_026">
+        <head>[Lettre en Prose &amp; en Vers, touchant une Chasse aussi singuliere que galante, faite à Auxerre le jour de la S. Hubert]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 26-39.</bibl>
+        <p>Comme la Chasse est le divertissement des Particuliers ainsi que des Princes, il s’en est faite une à Auxerre, pour solemniser la Feste de S. Hubert, qui mérite que vous en sçachiez les circonstances. Je ne puis mieux vous les expliquer qu’en vous faisant part de la Lettre mesme qui m’en a esté écrite. Voicy ce qu’elle contient.</p>
+        <quote>
+          <p rend="right"><space rend="tab">    </space><hi rend="i">A Auxerre ce 10. Nov. 1680.</hi> </p>
+          <p>La Saint Hubert est une Feste celebrée par tout, mais je doute que ce soit un jour aussi solemnel ailleurs, qu’il l’est pour les Auxerrois, qui le destinent tous les ans à la réjoüissance publique. Il n’y a personne qui n’y prenne part, &amp; depuis les plus simples Habitans jusqu’aux plus considérables, chacun selon son génie ou son pouvoir, se prepare à faire les choses agreablement longtemps avant que ce jour arrive. Une Chasse fait le sujet de ce divertissement general. Elle l’emporte d’autant plus sur beaucoup d’autres, que la maniere dont elle se fait la rend toute singuliere. Les Chasseurs n’y portent, pour toutes armes, qu’un gros Baston ou Massuë, &amp; ils sçavent le jetter si à propos, qu’on connoist par la grande quantité de Gibier qu’ils rapportent, qu’il y en a peu qui leur échape. Ces Chasseurs sont toûjours en tres-grand nombre, &amp; en on a compté cette année plus de dix-huit cens. Ils se separent en diverses Compagnies qui se font d’elles-mesmes, sans qu’il y ait aucune regle pour les ordonner. […] Pendant ce temps, les Compagnies estant assemblées, chacune convient du rang qu’elle doit avoir. Les unes marchent au bruit des Tambours &amp; des Trompetes, &amp; les autres au son des Fifres, des Musetes, &amp; des Hautbois, de sorte que tous ces Instrumens qui sont là en tres-grand nombre, font entendre de tous costez une mêlodie extraordinaire par la confusion de leurs sons. Dans le temps que l’on faisoit alte cette année comme l’on a de coûtume, douze Demoiselles des plus belles, &amp; des plus aimables de la Ville, monterent à cheval en habit de Chasseresses, &amp; ayant joint une Compagnie de douze jeunes Chasseurs, avec un Dard à la main, elles se mirent dans leur mesme rang. Vous jugez bien que quelques considerables que fussent les préparatifs qu’ils avoient faits, ce fut pour leur Troupe un brillant surcroist de magnificence. Voicy de quelle maniere cette Compagnie se distingua parmy plus de trois cens autres toutes fort lestes. Apres qu’on en eut veu passer environ deux cens, on apperçeut six Trompetes à cheval, vestus d’un Tafetas gris de lin (c’estoit la couleur de la Compagnie) avec six Tambours, six Fifres &amp; six Hautbois, dont le concert succedoit agreablement aux fanfares des Trompetes. […]</p>
+          <p>Vingt-quatre Violons fermoient cette marche. On alla dans cet ordre jusqu’à une Maison où les Dames descendirent. Les jeunes Chasseurs qui avoient esté avertis de leur dessein, y avoient fait préparer tout ce qui estoit necessaire pour les recevoir. Ils leur offrirent le Bal qui leur fut donné dans une Salle, tenduë d’une tres-belle Tapisserie. Huit Lustres, &amp; un tres-grand nombre de Bras dorez l’éclairoient. La Dance dura fort longtemps, &amp; ce divertissement fut terminé par une tres-belle Collation que servirent douze jeunes Garçons, en Habits blancs, bordez par tout d’un galon gris de lin. […].</p>
+          <p>Voilà, Monsieur, ce qu’avoit à vous apprendre vostre tres, &amp;c.</p>
+          <p rend="right">LE MUET.</p>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-11_045">
+        <head>Chanson</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 45-47.</bibl>
+        <p>Les agreables Parties ne se peuvent faire sans le beau Sexe. Ainsi on ne doit pas s’étonner si l’éloignement des Belles bannit le plaisir des Lieux qu’elles ont quitez. Voyez les plaintes qu’en fait la Chanson qui suit. C’est la seconde que je vous envoye, notée par Mademoiselle d’O. La premiere que vous vistes d’elle il y a deux ou trois mois, vous a déjà fait connoistre le rare génie qu’elle a pour la Musique.</p>
+        <p>%[chanson gravée à une voix et BC, insérée entre les pages 46 et 47]</p>
+        <quote>
+          <label>Chanson.</label>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Nos Bergers, nos Troupeaux, ces lieux,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Tout seche éloigné de vox yeux,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Nos Plaines ne sont plus fleuries.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>L’on entend plus parler d’amour ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Et quand vous serez de retour,</l>
+          <l>Vous ne verrez ny Fleurs, ny Boutons, ny Prairies.</l>
+          <l/>
+          <l><space rend="tab">    </space><space rend="tab">    </space>L’air enflâmé de nos soúpirs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>A fait négliger aux Zéphirs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Le foin de nos tristes Campagnes.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Venez par des charmes nouveaux</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Donner le calme à nos Hameaux,</l>
+          <l>Si vous voulez encor y trouver des Compagnes.</l>
+        </quote>
+        <p>Ces Vers ont un tour aisé, qui me feroit dire que c’est la Nature mesme qui les a dictez, si M<hi rend="sup">r</hi> de Linieres ne soûtenoit qu’on en peut faire sans Art.</p>
+      </div>
+      <div xml:id="MG-1680-11_065">
+        <head>[Ce qui s’est passé par les Académistes de l’Académie de Bernardi, touchant le Fort qu’ils attaquent tous les ans.]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 65-79 [extrait p. 65-66].</bibl>
+        <p>Il ne faut pas s’étonner si la Noblesse de France paroist si habile dans le métier de la Guerre dés ses premieres Campagnes. On n’y peut estre mieux instruit qu’elle l’est dans les Académies, &amp; sur tout dans celle de M<hi rend="sup">r</hi> Bernardi, où l’on fait tous les Exercices Militaires que peut souhaiter un Gentilhomme, qui, au sortir de l’Académie veut se signaler dans les Armées de son Prince. Je vous ay déja parlé d’un Fort que M<hi rend="sup">r</hi> Bernardi fait attaquer tous les ans. Voicy ce qui s’est passé la derniere fois dans cette Attaque. Le Lundy seiziéme jour de Septembre, quatre-vingts Académistes, tres-bien armez, sortirent au son des Fifres, Tambours, Trompetes &amp; Hautbois, &amp; se rendirent aupres des Chartreux. (C’est le lieu où estoit construit le Fort.) […]</p>
+      </div>
+      <div xml:id="MG-1680-11_079">
+        <head>[Lettre d’une Dame qui écrit les Avantures de son Amie]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 79-122 [extraits p. 79-86].</bibl>
+        <p>[…] Elle<note resp="editor"><p>La lettre qui suit (note de l’éditeur).</p></note> est d’une Dame qui écrit si juste, que vous perdriez beaucoup, si vous appreniez d’un autre que d’elle, ce qui est arrivé à une de ses Amies, morte depuis peu. […]</p>
+        <label>Lettre</label>
+        <label>de Madame G***</label>
+        <label>à Monsieur V***</label>
+        <p>J’ay bien d’autres Enigmes à développer que la vostre, Monsieur. […] Comme vous estes Phisionomiste, vous pourrez d’abbord exerver vostre Art sur son Portrait. […] C’estoit une claire Brune qui avoit le teint blanc &amp; uny […] Elle avoit la gorge belle, les bras ronds, les mains admirables &amp; une si grande liberté en toute sa personne, qu’il suffisoit de la voir pour juger de son adresse à la Dance. […] Elle vouloit estre aimée de l’un &amp; de l’autre Sexe, chantoit bien, touchoit de mesme le Luth, &amp; quand elle avoit quelque chagrin, son Luth &amp; sa voix luy servoient si parfaitement à l’exprimer, qu’elle ne manquoit jamais de faire des conquestes en cet état. […]</p>
+      </div>
+      <div xml:id="MG-1680-11_191">
+        <head>[Opéra de Proserpine]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 191-195.</bibl>
+        <p>Nous sommes au temps où les Divertissemens de l’Hyver commencent. Ainsi l’Opéra de <hi rend="i">Proserpine</hi>, qui fut celuy de Leurs Majestez il y a un an, &amp; dont je vous parlay lors qu’il parut à la Cour, a esté donné icy au Public depuis quinze jours. Je ne vous répete point qu’il est digne de M<hi rend="sup">r</hi> Quinault Auditeur des Comptes, qui en est l’Autheur ; que la Musique y a fait admirer le rare talent de M<hi rend="sup">r</hi> Lully, &amp; que l’un &amp; l’autre ont acquis beaucoup de gloire par cet Ouvrage. Je vous diray seulement que les Décorations &amp; les Habits n’estant point les mesmes qui ont servy chez le Roy, tout ce qu’on a veu dans ces nouvelles représentations est neuf, &amp; d’une fort grande magnificence. La Societé qui s’estoit faite dans l’établissement des Opéra entre M<hi rend="sup">r</hi> Lully &amp; M<hi rend="sup">r</hi> Vigarany estant finie, M<hi rend="sup">r</hi> Berrin, Désignateur ordinaire du Cabinet de Sa Majesté, est celuy qui s’est meslé des Machines, &amp; qui a donné les desseins de toutes les Décorations qui font l’ornement de celuy-cy. Je vous ay souvent parlé de luy. C’est un Homme d’un génie universel. Vous ne vous étonnerez plus apres cela, si l’on fait tant de bruit du somptueux Palais de Plutus, &amp; de la charmante Décoration des Champs Elisées, &amp; si l’on dit hautement qu’on ne peut rien voir de plus galant, de mieux entendu, ny de plus superbe. Ces Décorations ont esté peintes par M<hi rend="sup">r</hi> Rousseau, l’un des plus habiles Hommes que nous ayons pour toutes les choses de cette nature. On ne se récrie pas moins sur la surprenante richesse des Habits, &amp; sur la maniere dont ils sont faits. Tout le monde en est charmé. Je vous dirois inutilement qu’ils sont du mesme M<hi rend="sup">r</hi> Berrin. Vous sçavez qu’il ne se fait rien de beau en France touchant les Habits, qui ne soit sur ses Desseins, &amp; que sa Charge estant d’y travailler pour le Roy, à quoy il est entierement occupé, il oblige beaucoup ses Amis, lors qu’il veut bien leur donner les momens dont il dispose.</p>
+      </div>
+      <div xml:id="MG-1680-11_195">
+        <head>[Les fous divertissans]</head>
+        <p>[] <hi rend="i">Mercure galant</hi>, novembre [tome 14], 1680, p. 195.</p>
+        <p>Les Comédiens François ont représenté dans le mesme temps <hi rend="i">les Fous divertissans</hi>, de M<hi rend="sup">r</hi> Poisson. C’est une Piece en trois Actes, avec des Chansons, &amp; des Entrées.</p>
+      </div>
+      <div xml:id="MG-1680-11_234">
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 234-235.</bibl>
+        <p>Voicy une nouvelle Chanson de M<hi rend="sup">r</hi> de Bassilly, dont je vous en envoye tous les mois depuis un an. Son nom est un grand éloge pour tous ses Ouvrages.</p>
+        <p>%[air gravé à une voix et BC, inséré entre les pages 234 et 235]</p>
+        <quote>
+          <label> Air nouveau.</label>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Chacun dit dans le Village,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Que la Bergere qui m’engage,</l>
+          <l>De toute autre Beauté surpasse les appas ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Mais en vain ce discours me flate,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>C’est bien la plus aimable, helas !</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais c’est la plus ingrate.</l>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-11_235">
+        <head>[Réjoüissances faites à Hanover, à l’occasion du Serment de fidélité que les Etats du Païs ont presté au Duc de ce nom]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 235-247.</bibl>
+        <p><space rend="tab">    </space>Il y a eu de grandes réjoüissances à Hanover, à l’occasion du Serment de fidelité que les Etats du Païs ont presté à M<hi rend="sup">r</hi> le Duc de Hanover, Evesque d’Osnabruc, leur nouveau Maistre. Le Mardy 22. de l’autre mois, la Noblesse s’estant rendüe au Palais, en si grand nombre qu’à peine les Salles, Chambres, Antichambres &amp; Galleries, pouvoient suffire à la contenir, préceda ce Prince, qui marcha jusqu’à une Salle tres-spatieuse, tous les Gentilshommes de sa Cour bordant le passage de la grande Gallerie par où il devoit passer. Aussitost qu’il fut entré, avec les Princes ses deux Fils aînez, il alla s’asseoir sous un grand Dais préparé pour cette Cerémonie. Alors les Principaux du Païs s’estant avancez, luy presterent le Serment dans les formes ordinaires ; apres quoy, toute la Noblesse en genéral levant la main, fit la mesme chose, en prononçant tous ensembles les paroles qu’on leur lisoit, pour les répeter. La Cerémonie se termina par un excellent Discours du Chancelier à l’avantage du Prince, &amp; de toute son auguste Maison. Ce Discours finy, on alla se mettre à table. […]</p>
+        <p><space rend="tab">    </space>Le lendemain Mercredy, dés le matin, toute la Ville ayant pris les armes au son des Tambours, Fifres, &amp; Hautbois, passa par Bataillons devant la grande Porte du Palais, Enseignes déployées, &amp; en tres-bon ordre. Chacun de ces Corps alla se poster, l’un devant l’Eglise, l’autre à la grande Place d’armes, quelques autres à celle du Marché, &amp; devant l’Hostel de Ville, &amp; le reste borda les Ruës du passage. Sur les dix heures, S. A. S. alla de son Palais à la grande Eglise, dans un magnifique Carrosse à six chevaux. Toute la Noblesse de la Campagne marchoit devant en longue file, &amp; celle de la Cour immédiatement devant le Carrosse. Toute sa Maison estoit en grande cerémonie, &amp; la teste nuë. Les Pages environnoient le Carrosse, &amp; les Gardes du Corps suivoient. Ce Prince fut placé sur une Tribune au bout de l’Eglise, sous un magnifique Dais, les Gentilshommes de la Cour à sa droite, &amp; les Nobles du Païs à sa gauche. La Musique, les Orgues, &amp; les Violons, entonnerent aussitôt des Pseaumes, &amp; le Ministre prescha fort éloquemment sur le devoir des Sujets envers leur Prince. Cela fait, on marcha dans le mesme ordre jusques à l’Hôtel de Ville, à la Porte duquel les Bourguemestres &amp; tout le Sénat, reçeurent S. A. S. […] Ensuite on conduisit Madame la Duchesse à l’Hôtel de Ville dans un Carrosse à six Chevaux, […] Dés qu’elle<note resp="editor"><p>La duchesse de Hanovre.</p></note> fut arrivée, on servit une magnifique Table à trente-deux Couverts, où Leurs Altesses Serénissimes furent placées avec les principaux de l’Etat, &amp; plusieurs Dames. […] Autant de fois qu’on buvoit à la Table du Prince, les Trompetes &amp; les Timbales donnoient le signal, &amp; le Canon faisoit tout autant de salves. Les Violons François conduits par le Sieur Farinel, ne contribuerent pas peu à inspirer la joye pendant ce Régal. Il dura depuis deux heures jusqu’à huit ; &amp; quand on se fut levé de Table, toute cette belle &amp; illustre Compagnie retourna au Palais dans le mesme ordre qu’elle estoit venuë, apres qu’on eut allumé une quantité prodigieuse de Flambeaux pour en éclairer la marche. […]</p>
+      </div>
+      <div xml:id="MG-1680-11_247">
+        <head>[Lettre d’un Gentilhomme Allemand, contenant la Reception du Prince d’Orange à la Cour de Hanover]</head>
+        <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 247-261.</bibl>
+        <p>Le Mardy suivant<note resp="editor"><p>La prestation du serment de fidélité des « Etats du Païs » au duc de Hanovre. Les cérémonies relatées dans le présent article débutent le 29 octobre (cf. article précédent ; note de l’éditeur).</p></note>, M<hi rend="sup">r</hi> le Prince d’Orange arriva à la Cour de Hanover, &amp; y reçeut de fort grands honneurs. Un Gentilhomme Allemand en a fait une assez exacte description, dans une Lettre écrite à un de ses Amis. On l’a traduite en ces termes.</p>
+        <quote>
+          <label>Lettre</label>
+          <label>d’un gentilhomme</label>
+          <label>allemand,</label>
+          <label>Contenant la Reception de M<hi rend="sup">r</hi> </label>
+          <label>le Prince d’Orange à la Cour </label>
+          <label>de Hanover.</label>
+          <p><space rend="tab">    </space>Son A. S. M<hi rend="sup">r</hi> le Duc de Hanover, qui soûtient si dignement la haute réputation que son auguste Maison s’est acquise, ayant appris le matin du 29. Octobre, que S. A. R. Monsieur le Prince d’Orange estoit party de Zell pour venir à Hanover, se disposa à luy faire une Reception digne de l’un &amp; de l’autre. […] S. A. sortit sur les deux heures apres midy, pour aller recevoir Monsieur le Prince d’Orange, à une demy-heure de la Ville. Voicy l’ordre de la Marche. Elle commençoit par une Compagnie de Chevaux Legers d’ordonnance avec ses Timbales &amp; ses Trompetes, &amp; son Commandant à la teste, &amp; estoit continuée par soixante &amp; dix Chevaux de main de S. A. S. avec des Housses rouges, toutes couvertes de diférentes Broderies. […] Quelques Carrosses dorez marchoient à leur suite ; apres quoy paroissoit celuy de M<hi rend="sup">r</hi> le Duc de Hanover, à fond de Velours rouge, tout couvert de Broderie or &amp; argent. […]. Il estoit suivy de la Compagnie des Gardes du Corps à cheval, avec leurs Casaques rouges, chamarrées d’argent, ayant leur Colonel à leur teste, précedé de leurs Timbales, &amp; de douze Trompetes. […] Le 31. on alla à la Chasse du Liévre, &amp; les deux autres jours suivans à une grande Chasse de Sangliers. […] Le soir M<hi rend="sup">r</hi> le Baron de Platen Grand-Maréchal, &amp; Premier Ministre de cette Cour, traita chez luy Leurs Altesses. La Table estoit longue, &amp; de vingt-quatre Couverts. […] Les Violons François firent admirer pendant ce Repas les Airs doctes &amp; touchans des Opéra du fameux Lully, ce qui ne fut pas un des moindres divertissemens de cette illustre Assemblée. Monsieur le Prince d’Orange partit le matin du troisiéme jour de Novembre, avec le mesme Cortege &amp; les mesmes Cerémonies qui avoient esté faites à son Entrée. Il a paru tres-content des honneurs qu’il a reçeus, S. A. S. nostre Maistre n’ayant rien oublié de ce qui pouvoit marquer la joye qu’il avoit de voir ce Prince.</p>
+        </quote>
+      </div>
+    </body>
+  </text>
+</TEI>

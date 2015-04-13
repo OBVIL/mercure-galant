@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure galant, juillet [tome 8], 1680</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IREMUS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Édition numérique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1680-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], <date>1680</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="MG-1680-07_155">
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 155-156.</bibl>
+        <p>Le fameux Autheur dont je vous ay déjà envoyé tant d’Airs nouveaux, a fait encor celuy-cy.</p>
+        <p>%[Air gravé à une voix et BC, inséré entre les pages 156 et 157]</p>
+        <quote>
+          <label>Air nouveau.</label>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Sur ces Rives fleuries,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Le charmant murmure des eaux,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Le doux chant des Oiseaux,</l>
+          <l>Ne font qu’entretenir mes tristes resveries.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Mon cœur au milieu des plaisirs,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Toûjours amoureux, toûjours tendre,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Pousse des languissans soûpirs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Qu’il n’ose faire entendre.</l>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-07_156">
+        <head>Paroles à mettre en air</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 155-157.</bibl>
+        <p>Ces autres Paroles semblent assez propres à estre notées.</p>
+        <quote>
+          <label>Paroles à mettre en air.</label>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Un cœur Bien né</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Est toûjours tendre ;</l>
+          <l>En matiere d’amour il a beau se défendre ;</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Apres en avoir bien donné,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Il est enfin contraint d’en prendre.</l>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-07_157">
+        <head>[Concert fait à Dijon chez M. de Malateste Conseiller au Parlement]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 157-163.</bibl>
+        <p> Quoy que les deux Quatrains que vous allez voir ne soient pas faits pour estre chantez, comme la Musique en a fourny le sujet, il est assez juste qu’ils trouvent icy leur place. Je me souviens de vous avoir déjà parlé d’un Concert qui se fait à Dijon, chez M<hi rend="sup">r</hi> de Malateste, Conseiller au Parlement, &amp; que Son Altesse Serénissime voulut bien honorer de sa présence, la derniere fois qu’il y alla tenir les Etats. On continuë toûjours ce Concert, &amp; il se fait reglement un jour de chaque Semaine. Il est composé de tout ce qu’il y a dans la Ville d’Officiers, de Dames de qualité, de Gens habiles &amp; connoisseurs qui s’y assemblent, soit pour écouter, soit pour y tenir quelque Partie, &amp; on n’y chante que des Pieces Italiennes, &amp; les Opéra de Venise, que M<hi rend="sup">r</hi> de Malateste fait venir à ses dépens. Je n’entreprens point de vous parler de tous ceux qui y font paroistre le talent qu’ils ont, parmy lesquels M<hi rend="sup">r</hi> de Villiers se fait particulierement admirer. C’est un Gentilhomme tres-sçavant dans la Musique, qui chante bien, &amp; qui charme par la délicatesse &amp; la facilité qu’il s’est acquise à toucher le Theorbe. Je viens au sujet des deux Quatrains, qu’un fort galant Cavalier a faits pour un Officier de considération, qui ayant beaucoup d’estime pour une Dame, qu’on peut appeller le plus bel ornement de ce Concert, a quelquefois le plaisir d’accorder sa voix avec la sienne. La Dame, qui est Femme d’un Secretaire du Roy, a infiniment du mérite &amp; de l’esprit. Elle brille dans la conversation, &amp; possede si parfaitement la Musique, qu’il n’y a point de Piece Françoise ou Italienne, quelque difficile qu’elle soit, dont elle ne vienne à bout sur le champ avec un agrément merveilleux. C’est par là que l’on a fait dire à cet Officier.</p>
+        <quote>
+          <l>Philis, vostre voix charme, &amp; vostre esprit engage.</l>
+          <l>On ne voit point d’Objets qui vous valent icy,</l>
+          <l>Et souvent le hazard me donne l’avantage</l>
+          <l>De parler avec vous, &amp; de chanter aussy.</l>
+          <l/>
+          <l>Nos voix sont de concert quand nous chantons ensemble,</l>
+          <l>Du plaisir que je sens tout le monde est jaloux.</l>
+          <l>Cependant pour vouloir trop m’entendre avec vous,</l>
+          <l>Nous ne sommes, Philis, jamais d’accord ensemble.</l>
+        </quote>
+        <p>Ce malheur qui est commun à bien des Amans, est le sujet de beaucoup de plaintes. Un Cavalier priant une belle Heritiere de la Ville d’Alais, d’avoir un peu de retour pour luy, (vous voyez, Madame, que ce mot <hi rend="i">retour</hi> doit signifier correspondance de sentimens) voicy ce que la Belle luy repondit.</p>
+        <quote>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Puis que vous dites nuit &amp; jour</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Que je n’ay pour vous nul retour,</l>
+          <l>Et que vous criez tant que je suis insensible,</l>
+          <l>Je veux bien vous donner un moyen infaillible</l>
+          <l>Pour trouver du retour, si vous le désirez,</l>
+          <l>Haissez-moy, Tircis, &amp; vous en trouverez.</l>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-07_185">
+        <head>[Relation d’Alep]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 185-209 [extrait p. 185-193].</bibl>
+        <p>Je vous ay déjà fait part de plusieurs Relations d’Alep, dont vous m’avez toûjours témoigné estre satisfaite. En voicy une nouvelle sur un Fait particulier. Elle est, ainsi que les autres, de M<hi rend="sup">r</hi> de Langes de Montmiral, Gentilhomme d’Orange ; ancien Avocat au Parlement de Paris. C’est un Homme qui n’a pas moins d’érudition que de mérite, &amp; que M<hi rend="sup">r</hi> le Commandeur d’Arvieux a fait Cady à Alep, pour tous les François &amp; les autres Nations qui sont sous la protection &amp; sous l’Etendart de France.</p>
+        <quote>
+          <label>A M<hi rend="sup">r</hi> l’Abbé de ***</label>
+          <p rend="right"><space rend="tab">    </space>A Alep, Capitale de Syrie,</p>
+          <p rend="right">le 20. May 1680.</p>
+          <p>Comme vous estes curieux de nouveautez, je me persuade, mon cher Abbé, que vous serez bien aise d’apprendre, de quelle maniere on enterra icy dernierement un Grand du Païs, dont je croy vous avoir déjà parlé dans quelqu’une de mes Lettres, &amp; qui s’estoit fait des Amis particuliers de M<hi rend="sup">r</hi> le Commandeur d’Arvieux.</p>
+          <p>Il s’appelloit Mustafa Efendi, &amp; avoit la Charge de Nakip, ou des Chef des Emirs ou des Cherifs, c’est à dire, de ceux qui sont descendans de la Race de Muhhammed en ligne directe ou collaterale, masculine ou feminine, &amp; qui porte le Turban ou la Sesse de Conton vert, pour se distinguer des autres Musumans.</p>
+          <p>Il mourut subitement d’apoplexie, &amp; son deceds ne tarda guére à estre annoncé. A peine avoit-il rendu l’esprit, qu’on pria publiquement pour luy dans toutes les Mosquées de cette Ville. […]</p>
+          <p>Tant qu’on le laissa dans son Hôtel, il y eut aupres du Corps quatre Sopthas ou Prestres de leur Loy, qui lûrent incessamment l’Alcoran.</p>
+          <p>Quoy qu’il n’eust expiré que le matin, on le porta en terre dés le mesme jour, dans l’ordre qui suit.</p>
+          <p>Neuf vieilles Bannieres précedoient la Marche. Immédiatement apres suivoit un Chœur de Musiciens Afriquains, j’entens d’Alger, de Tunis, &amp; de Tripoly, qu’on nomme en Arabe Mograbis, dont je vous assure que la Musique n’avoit pas plus de degrez de bonté qu’il luy en falloit.</p>
+          <p>Ce Chœur estoit suivy d’un autre de Chaiks ou de Prestres des Mosquées de cette Ville, chantans des Cantiques funebres avec le mesme agrément que les premiers.</p>
+          <p>Les Musiciens de l’un &amp; de l’autre de ces Chœurs, se tenoient tous par la main, formant de temps en temps une espece de branle, &amp; crioient tous comme des enragez jusqu’à s’égosiller.</p>
+          <p>Cette Musique fut suivie de celle des Pleureuses Bedoüines, qu’on loüe en pareil rencontre, lesquelles gagnerent bien leur argent pendant tout le chemin, à force de lamenter, de crier, &amp; de pleurer aussi amerement que si elles eussent eu une veritable douleur.</p>
+          <p>[…] </p>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-07_224">
+        <head>[Envoyé de Sa Majesté]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 224-240.</bibl>
+        <p>Le Roy ayant envoyé M<hi rend="sup">r</hi> du Pré pour estre son Résident à Geneve, il y a esté reçeu avec toutes sortes d’honneurs, &amp; de marques de respect. Depuis qu’il est arrivé, cette République pleine de reconnoissance pour les bontez de Sa Majesté, a pris tous les soins possibles d’en faire éclater sa joye par les divertissemens publics qui luy ont esté donnez. Le dessein en ayant esté fourny par M<hi rend="sup">r</hi> Lect, autrefois Envoyé Extraordinaire vers le Roy, ce fut luy qui eut ordre de le faire executer. Voicy le détail de cette Feste.</p>
+        <p><space rend="tab">    </space>Le Jeudy 4. de ce Mois, douze Conseillers allerent sur les six heures du matin prendre M<hi rend="sup">r</hi> le Résident dans son Hôtel avec six Carrosses, dans l’un desquels il fut conduit au Port du Moulard, ou M<hi rend="sup">r</hi> de Normandie Conseiller &amp; l’un des Majors de la Ville, se trouva a la teste d’une Compagnie de cinquante jeunes Hommes des mieux faits &amp; des meilleures Familles de Geneve. Ils estoient sous les armes, tous tres-propres, &amp; dans un mesme équipage. Comme ils devoient luy servir de Gardes, ils bordoient le Port pour faciliter son embarquement, &amp; le garantir de l’embarras que luy pouvoit causer la foule du Peuple. Il monta au bruit des Trompetes &amp; des Tambours, dans la Frégate qu’on luy avoit préparée avec des ornemens extraordinaires. La Compagnie de ses Gardes monta dans une autre. Si-tost qu’il fut à la rame la Ville le salüa, ainsi que toute l’Artillerie du Port. Les Frégates rendirent le salut, &amp; suivirent leur route sur le Lac.</p>
+        <p>[…] On vint de là débarquer à une avenuë d’Arbres fort hauts, qui continuë du bord du Lac jusqu’au Chasteau Rozet, qui est à un quart de lieue de la Ville, &amp; à la portée du Canon du Lac. C’est une des plus belles Maisons du Païs. Il y a un Parterre magnifique, avec des Jets d’eau, &amp; de longues Allées couvertes. On y trouva le Dîné servy dans une Chambre fort propre, toute semée de fleurs, &amp; ombragée dans tous ses jours. Il y avoit deux Tables, la premiere de dix Couverts, &amp; la seconde, de douze. La place de M<hi rend="sup">r</hi> le Résident estoit distinguée. M<hi rend="sup">r</hi> Sarrazin, Seigneur de la Pierre, Conseiller au Parlement de Grenoble, fut de la Partie, ainsi que deux Officiers François que M<hi rend="sup">r</hi> le Résident avoit amenez, sur la priere que luy avoient faite les Magistrats, de prendre avec luy telles Personnes qu’il souhaiteroit. […] Si-tost que tout ce bruit<note resp="editor"><p>Occasionné par le tir de « six Mortiers qu’on avoit posez dans le Jardin » (p. 234) ; note de l’éditeur.</p></note> fut finy, une Bande de Violons &amp; d’autres Instrumens, qui estoient cachez dans une Chambre voisine, commencerent à joüer. L’Harmonie dura jusqu’à la Santé de la Reyne, où le mesme bruit fut entendu, &amp; les Violons, dans les intervales. La mesme chose pour les Santez de Monseigneur &amp; de Madame la Dauphine.</p>
+        <p>Apres le Dîné, M<hi rend="sup">r</hi> de Normandie, suivy des cinquante jeunes Gens qui servoient de Gardes, vint prendre M<hi rend="sup">r</hi> le Résident, &amp; l’accompagna au bord du Lac. […] Cela<note resp="editor"><p>Un combat naval (note de l’éditeur).</p></note> fait, on servit une tres-superbe Collation, pendant laquelle les fanfares des Trompetes, le bruit des Tambours, &amp; le son des Violons, se faisoient entendre comme à l’envy. […]</p>
+      </div>
+      <div xml:id="MG-1680-07_250">
+        <head>[Feste de l’Inquisition faite à Madrid]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 250-272.</bibl>
+        <p>Il s’est fait depuis un mois une Feste si extraordinaire à Madrid, qu’avant que de vous en parler, j’ay crû devoir vous représenter le Lieu où la cerémonie s’en est passée. Vous le pouvez voir gravé dans cette Planche<note resp="editor"><p>Insérée entre les p. 250 et 251 (note de l’éditeur).</p></note>. C’est la grande Place où seront les fameuses Festes de Taureaux, &amp; de Cañas. […] C’est une Feste que Messieurs de l’Inquisition ont accoûtumé d’y celebrer une fois sous le Regne de leurs Reynes. Les dépenses que l’on fait monter à deux &amp; trois cens mille Piastres, pour cette sorte de Cerémonie, sont cause qu’on envoye tous les ans les Juifs à Valladolid ou ailleurs, pour les y punir sans appareil, car on ne met guére à l’Inquisition que ceux qui sont soupçonnez de Morisme, ou de Judaïsme. Il y en a que l’on mene par les Ruës avec une <hi rend="i">Coroça</hi>, qui est une maniere de Bonnet pointu &amp; fort haut, de papier jaune &amp; rouge. […] Le Peuple estant accouru en foule pour estre témoin de cette Cerémonie, on la commença le Samedy 29. de Juin, jour de S. Pierrre, par une Procession qui sortit de l’Inquisition sur les cinq heures du soir. […] Pendant que la Procession passa, toutes les Cloches sonnerent comme au jour des Morts, sans qu’un si lugubre son empeschast les fanfares des Trompetes qui se faisoient entendre en divers endroits. On prit sa route devant le Palais du Roy, pour arriver à la Place, où l’on mit la Croix verte sur l’Autel que l’on avoit préparé. Elle marquoit l’espérance pour la conversion des Condamnez. […] La Messe qui commença &amp; acheva la Cerémonie, dura jusqu’à neuf heures &amp; demie du soir. Dés qu’elle fut dite, on remit les Juifs entre les mains de la Justice ordinaire, pour exécuter la Sentence, avec ordre, pour ceux qui renonceroient à la Loy Juive, de les étrangler avant que de les jetter au feu. […] </p>
+      </div>
+      <div xml:id="MG-1680-07_298">
+        <head>Air nouveau</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 298-299.</bibl>
+        <p>Je vous envoye une seconde Chanson. Elle est de M<hi rend="sup">r</hi> Daniel, Neveu de M<hi rend="sup">r</hi> de Bacilly.</p>
+        <p>%[Air gravé à une voix et Basse chiffrée, inséré entre les pages 298 et 299]</p>
+        <quote>
+          <label>Air nouveau.</label>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah, Printemps, vos douceurs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ne font plaisirs qu’aux Fleurs.</l>
+          <l>Depuis vostre retour ma douleur est extréme.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Tircis a quitté ce sejour,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Je ne vois plus l’Objet que j’aime ;</l>
+          <l>Et cependant je sens augmenter mon amour.</l>
+          <l/>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah, Printemps, vos douceurs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ne font plaisir qu’aux Fleurs.</l>
+          <l>Je voyois chaque jour d’une ardeur mutuelle</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Ce Berger sensible à son tour,</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space>Répondre à mon amour fidelle,</l>
+          <l>Mais je ne le vois plus depuis vostre retour.</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah, Printemps, vos douceurs</l>
+          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ne font plaisir qu’aux Fleurs.</l>
+        </quote>
+      </div>
+      <div xml:id="MG-1680-07_313">
+        <head>[Depart du Roy de Fontainebleau, avec la suite de son Voyage]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 313-342.</bibl>
+        <p>La Cour, dans les derniers jours qu’elle a passez à Fontainebleau, a continué de prendre les mesmes divertissemens qu’elle y avoit pris pendant tout le mois de Juin. On a fait diverses Chasses. Les unes ont esté des Parties galantes avec les Dames, &amp; les autres des Parties de vigueur, où l’on se faisoit un plaisir de la fatigue. […]</p>
+        <p><space rend="tab">    </space>Les Divertissemens les plus ordinaires, outre la Chasse, ont esté les Promenades, tantôst sur le Canal, tantost en Carrosse autour du mesme Canal, &amp; souvent plus loin, quand le temps le permettoit. Ces Promenades estoient presque toûjours accompagnées de Collations. Je vous dirois, magnifiques, si vous ignoriez ce qu’est la Cour de <hi rend="sc">Loüis le Grand</hi>. Chaque Comédie qu’on y a représentée, a eu des Entr’actes de Musique, où Mademoiselle Rebel s’est fait admirer dans les beaux Airs qu’elle y a chantez. […] </p>
+        <p>Le Samedy 13. Leurs Majestez, accompagnées de Monseigneur &amp; de Madame la Dauphine, partirent de S. Germain, &amp; allerent coucher à Beauvais. […] Monsieur &amp; Madame partirent le mesme jour de Paris, pour joindre Leurs Majestez, &amp; passerent à Pierrefite, ou M<hi rend="sup">r</hi> Forcadel Secretaire du Roy, les régala d’une superbe Collation, &amp; d’un Concert des mieux entendus. […]</p>
+      </div>
+      <div xml:id="MG-1680-07_342">
+        <head>[Madame l’Abbesse de S. Dizier fait faire un Service pour feu M. L’Evesque de Châlons]</head>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 342-343.</bibl>
+        <p>Madame l’Abbesse de S. Dizier, voulant signaler son respect &amp; la venération pour la mémoire de feu M<hi rend="sup">r</hi> l’Evesque &amp; Comte de Chalons, aussibien que sa reconnoissance des biens faits, qu’elle &amp; la Communauté en ont reçeus, a fait faire depuis quelques jours dans son Eglise un Service tres-solemnel, pour cet illustre Prélat, à trois Messes hautes, chantées par la Musique de la grande Eglise de la Ville. M<hi rend="sup">r</hi> l’Abbé Jacob prononça en suite l’Oraison Funebre, &amp; fit un fort beau Discours sur les vertus &amp; les rares qualitez de ce grand Homme. L’Assemblée fut tres nombreuse ; tout ce qu’il y a d’Ecclesiastiques, &amp; de Personnes considérables de l’un &amp; de l’autre sexe aux environs s’y estant trouvé. <anchor xml:id="_GoBack"/></p>
+      </div>
+    </body>
+  </text>
+</TEI>
