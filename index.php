@@ -102,8 +102,6 @@ if (isset($doc['body'])) {
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
-// indexation persons
-elseif (!isset($mercure));
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
   $mercure->printPersonIndex();
 }
