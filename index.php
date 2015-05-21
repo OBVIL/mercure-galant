@@ -6,8 +6,10 @@ include (dirname(__FILE__).'/../teipot/Teipot.php');
 // mettre le sachet SQLite dans le pot
 $pot=new Teipot(dirname(__FILE__).'/mercure-galant.sqlite', 'fr');
 // classe mercure pour gestion de l’indexation
-include (dirname(__FILE__).'/Mercure.php');
-$mercure=new Mercure;
+if (file_exists(dirname(__FILE__).'/Mercure.php')) {
+  include (dirname(__FILE__).'/Mercure.php');
+  $mercure = new Mercure();
+}
 // est-ce qu’un fichier statique (ex: epub) est attendu pour ce chemin ? 
 // Si oui, l’envoyer maintenant depuis la base avant d’avoir écrit la moindre ligne
 $pot->file($pot->path);
@@ -42,12 +44,11 @@ else echo '
   </head>
   <body>
     <div id="center">
-      <div id="bordertop"> </div>
       <header id="header">
         <h1>
           <a href="<?php echo $pot->basehref() . $pot->qsa(null, null, '?'); ?>">OBVIL, Mercure Galant</a>
         </h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://obvil.paris-sorbonne.fr/corpus/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu"><div id="contenu2">
         <aside id="aside">
@@ -55,6 +56,7 @@ else echo '
 // les concordances peuvent être très lourdes, placer la nav sans attendre
 // livre
 if (isset($doc['bookrowid'])) {
+  if (isset($doc['download'])) echo $doc['download'];
   // auteur, titre, date
   echo "\n".'<header>';
   if ($doc['end']) echo "\n".'<div class="date">'.$doc['end'] .'</div>';
@@ -69,20 +71,7 @@ if (isset($doc['bookrowid'])) {
   </form>
   ';
   // table des matières
-  echo '
-          <div id="toolpan" class="toc">
-            <ul class="tabs">
-              <li id="toc" onclick="this.parentNode.parentNode.className=this.id"><!--<span>Table des<br/> matières</span>--></li>
-              <li id="download" onclick="this.parentNode.parentNode.className=this.id"><!--<span>Télécharger</span>--></li>
-            </ul>
-            <div class="toc">
-              '.$doc['toc'].'
-            </div>
-            <div class="download">
-               '.((isset($doc['download']))?$doc['download']:'').'
-            </div>
-          </div>
-  ';
+  echo $doc['toc'];
 }
 // accueil ? formulaire de recherche général
 else {
@@ -108,12 +97,13 @@ if (isset($doc['prevnext'])) echo $doc['prevnext'];
             <?php
 if (isset($doc['body'])) {
   //sortir les tags (false pour ne pas sortir les articles connexes)
-  $mercure->printTags(true);
+  if (isset($mercure)) $mercure->printTags(true);
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
 // indexation persons
+elseif (!isset($mercure));
 elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
   $mercure->printPersonIndex();
 }
