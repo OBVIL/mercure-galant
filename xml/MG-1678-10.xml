@@ -31,6 +31,10 @@
           <resp>Édition numérique</resp>
         </respStmt>
         <respStmt>
+          <name>Guillaume Hyvernat</name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
           <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
@@ -68,11 +72,11 @@
       <div xml:id="MG-1678-10_000a">
         <head>A Monseigneur le Dauphin</head>
         <bibl><title>Mercure galant</title>, octobre [tome 10], 1678, non paginé.</bibl>
-        <quote rend="border">
-          <quote><lg><l>Puis que Loüis finit la Guerre,</l>
+        <quote>
+          <lg><l>Puis que Loüis finit la Guerre,</l>
           <l>Et qu’il veut qu’aujourd’huy la Paix regne en tous lieux,</l>
           <l>Les Peuples doivent sur la Terre</l>
-          <l>S’applaudit à l’envy d’un don si prétieux</l>
+          <l>S’applaudir à l’envy d’un don si prétieux</l>
           <l>Qui les sauve de son Tonnerre :</l>
           <l>Il est vray que pour eux c’est un present bien doux ;</l>
           <l>Mais, <hi rend="sc">Prince</hi>, cette Paix semble faite pour vous.</l>
@@ -80,7 +84,7 @@
           <l>Loüis tient à soy la Victoire,</l>
           <l>Cette Divinité qui luy faisoit la cour,</l>
           <l>Vouloit que seule il la pust croire ;</l>
-          <l>Mais pour vous marquer mieux l’excés de son amour,</l>
+          <l>Mais pour vous marquer mieux l’excès de son amour,</l>
           <l>Retranchant sur sa propre gloire,</l>
           <l>Pouvant tout surmonter, il accorde la Paix,</l>
           <l>Et borne pour vous seul ses augustes projets.</l>
@@ -108,9 +112,9 @@
           <l>Que de donner un Prince sage,</l>
           <l>Qui sçache comme luy faire un jour à propos</l>
           <l>Trembler tout l’Univers, &amp; causer son repos.</l></lg>
-          <p rend="sc">Le Blanc. </p></quote>
+          <p rend="sc">Le Blanc. </p>
         </quote>
-        <p>Les sentimens de toute la France, MONSEIGNEUR, vous sont marquez par ces Vers dont j’ay crû pouvoir me servir en faisant connoistre par le nom de leur Autheur, que je n’y ay aucune part que celle de vous les presenter. Il est certain que si les Peuples se réjoüissent de la Paix, c’est moins pour les avantages qu’ils en retirent, que pour l’interest qu’ils prennent à vostre gloire. Ils s’applaudissent déja par avance, MONSEIGNEUR, des Triomphes que la modération du Roy vous reserve ; &amp; en mesme temps qu’ils reconnoissent devoir leur repos à sa bonté, ils envisagent avec un plaisir extrême les grandes Victoires qui vous doivent mettre au nombre des plus renommez Héros. Cet incomparable Monarque en laisse une ample matiere à vostre Valeur par les bornes qu’il a bien voulu donner à la sienne, &amp; vous ne pouvez estre que Grand &amp; Augustre, estant Fils du plus Grand &amp; du plus Auguste de tous les Rois. Je suis avec un profond respect,</p>
+        <p>Les sentimens de toute la France, MONSEIGNEUR, vous sont marquez par ces Vers dont j’ay crû pouvoir me servir en faisasnt connoistre par le nom de leur Autheur, que je n’y ay aucune part que celle de vous les presenter. Il est certain que si les Peuples se réjoüissent de la Paix, c’est moins pour les avantages qu’ils en retirent, que pour l’interest qu’ils prennent à vostre gloire. Ils s’applaudissent déja par avance, MONSEIGNEUR, des Triomphes que la modération du Roy vous reserve ; &amp; en mesme temps qu’ils reconnoissent devoir leur repos à sa bonté, ils envisagent avec un plaisir extrême les grandes Victoires qui vous doivent mettre au nombre des plus renommez Héros. Cet incomparable Monarque en laisse une ample matiere à vostre Valeur par les bornes qu’il a bien voulu donner à la sienne, &amp; vous ne pouvez estre que Grand &amp; Augustre, estant Fils du plus Grand &amp; du plus Auguste de tous les Rois. Je suis avec un profond respect,</p>
         <p>MONSEIGNEUR,</p>
         <p>Vostre tres-humble &amp; tres-obeïssant Serviteur, D.</p>
       </div>
