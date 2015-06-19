@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Nathalie Berton-Blivet</name>
-          <resp>Transcription</resp>
+          <resp>Responsable d'édition</resp>
         </respStmt>
         <respStmt>
           <name>Adrien Vialet</name>
@@ -55,7 +55,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1678"/>
+        <date when="1678-01"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -75,10 +75,10 @@
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 19-25.</bibl>
         <p>Le mesme qui a donné la parole aux Fleurs pour répondre à Madame des Houlières, a pris soin de la faire parler de la maniere que vous allez entendre. Il s’appelle M<hi rend="sup">r</hi> Roux, &amp; je vous ay déja marqué qu’il est Provençal.</p>
         <quote rend="border">
-          <label rend="center">L’Année</label>
-          <label rend="center">M. DC. LXXVII.</label>
-          <label rend="center">À l’Année</label>
-          <label rend="center">M. DC. LXXVIII</label>
+          <label type="title" rend="center">L’Année<lb/>
+            M. DC. LXXVII.<lb/>
+            À l’Année<lb/>
+            M. DC. LXXVIII</label>
           <l><space/>Le grand <hi rend="sc">Loüis</hi>, Maistre de la Victoire,</l>
           <l>Ayant comblé mes jours de bonheur &amp; de gloire</l>
           <l>Je me trouve à regret à la fin de mon cours.</l>
