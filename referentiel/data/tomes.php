@@ -89,7 +89,7 @@
   </teiHeader>
   <text>
     <body>';
-      //sauter les articles déjà publiés
+      //TODO sauter les articles déjà publiés, cf artPublished.txt
       
       if(!isset($tomes[$idVol])) file_put_contents('xml/'.$idVol.'.xml', $header);
       file_put_contents("xml/$idVol.xml", $article, FILE_APPEND);
