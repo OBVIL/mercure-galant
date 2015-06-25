@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Carmen Brando - Chaire HumaNum - Labex OBVIL">
+    <link rel="icon" href="images/favicon.ico">
+    <title>CartoHumanities - Labex OBVIL - Chaire thématique HumaNum</title>
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="carto-style.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  	<link rel="stylesheet" href="css/leaflet.label.css" />
+  	<style type="text/css">
+	.info {
+		padding: 6px 8px;
+		font: 14px/16px Arial, Helvetica, sans-serif;
+		background: white;
+		background: rgba(255, 255, 255, 0.8);
+		box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+		border-radius: 5px;
+	}
+	
+	.info h4 {
+		margin: 0 0 5px;
+		color: #777;
+	}
+	
+	.legend-i {
+		clear: both;
+		width: 18px;
+		height: 18px;
+		float: left;
+		margin-right: 8px;
+		opacity: 0.7;
+	}
+	
+	.legend-label {
+		line-height: 18px;
+	}
+	
+	.temporal-legend {
+   		padding: 6px 10px;
+    	font: 14px/16px Arial, Helvetica, sans-serif;
+  		background: white;
+  		background: rgba(255,255,255,0.8);
+		box-shadow: 0 0 15px rgba(0,0,0,0.2);
+		border-radius: 5px;
+	}
+	
+	</style>
+	<link rel="stylesheet" href="L.Control.Zoomslider.css" />
+	<style>
+	/* Adjustments according to mapbox */
+	.leaflet-control-zoomslider-knob { width:14px; height:6px; }
+	.leaflet-container .leaflet-control-zoomslider-body {
+	  -webkit-box-sizing:content-box;
+	     -moz-box-sizing:content-box;
+	          box-sizing:content-box;
+	  }
+	</style>
+  </head>
+  <body>
+    
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">CartoHumanities</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">The Map</a></li>
+             <li ><a href="#">Documentation</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+    <div class="container">
+      <br>
+      <h4>Map</h4>
+      <div id="map" class="myMap"></div>
+      <div id="legend"></div>
+      
+      <hr>
+      <footer class="footer">
+      <p>
+        Contact the author in case of any issue related to this application: <a href="http://obvil.paris-sorbonne.fr/obvil/annuaire/carmen-brando">Carmen Brando</a> (Labex <a href="http://obvil.paris-sorbonne.fr/">Obvil</a>).
+      </p>      
+      </footer>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/bootstrap.file-input.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="js/leaflet.label.js"></script>
+    <script type="text/javascript" src="/carto/web/data/cities-mg.js"></script>
+    <script type="text/javascript" src="/carto/web/params.js"></script>
+    <script type="text/javascript" src="L.Control.Zoomslider.js"></script>
+    <script type="text/javascript">
+    
+    //Map creation and configuration
+    $('input[type=file]').bootstrapFileInput();
+    var center = new L.LatLng(45.706179, 17.402344);
+    var Esri_WorldPhysical = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
+    	attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
+    	maxZoom: 20
+    });
+    var baseLayers = {
+    		"ESRI style" : Esri_WorldPhysical
+    	};
+    var overlays = {};
+    var geojsonLayer;
+  	var map = new L.Map('map', {zoomsliderControl: true,
+        zoomControl: false, center: center, zoom: 4, maxZoom: 6, layers : [ Esri_WorldPhysical ] });
+    L.control.layers(baseLayers, overlays, {position : 'bottomright'} ).addTo(map);
+ 	
+  	//legend control
+  	var info = L.control();      
+      info.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+        this.update(null, minDate, maxDate); 
+        return this._div;
+      };
+    // method that we will use to update the control based on feature properties passed
+    info.update = function (props, minD, maxD) { 
+    	 if (!maxD) {
+    		 maxD = maxDate;
+    	 }
+        var arts = "<ul>";
+        var countSelectedArt = 0;
+        if (props) {
+	        for (var i = 0; i < props.articles.length; i++) {
+	        	if (props.articles[i][2] >= minD && props.articles[i][2] <= maxD) {
+	        		arts += "<li><a href='"+props.articles[i][1]+"'>"+ props.articles[i][0] +"</a> ("+props.articles[i][2]+")</li>";
+	        		countSelectedArt++;
+	        	}
+	        }
+    	}
+        arts += "</ul>";
+        this._div.innerHTML = '<h4>Place mentions in texts</h4>' + (props ?
+          '<b><a href="'+props.geoNamesUri+'" target="_blank"> '+ props.name + '<a href="'+props.dbpediaUri +'"> (w) </a></a></b><br />' + countSelectedArt + ' texts: <br />' + arts +'<br /> Click on any symbol to return'
+          : 'Double click on symbol<br /><br />');
+        if (!props) {
+          for (var i = 0; i < mapQuantClasses.length; i++) {
+            this._div.innerHTML +=
+              '<i class="legend-i" style="background:' + getColor(mapQuantClasses[i] + 1) + '"></i> <span class="legend-label">' +
+              mapQuantClasses[i] + (mapQuantClasses[i + 1] ? '&ndash;' + mapQuantClasses[i + 1] + '</span><br>' : '+');
+          }
+        }
+      };
+     info.addTo(map);
+      
+     function style(feature, minD, maxD) {
+    	 if (!maxD) {
+    		 maxD = maxDate;
+    	 }
+    	 var countSelectedArt = 0;
+    	 for (var i = 0; i < feature.properties.articles.length; i++) {
+	        	if (feature.properties.articles[i][2] >= minD && feature.properties.articles[i][2] <= maxD) {
+	        		countSelectedArt++;
+	        	}
+	     }
+         return {
+        	radius: (countSelectedArt/2)*3 + 5,
+    	    fillColor: getColor(countSelectedArt),
+    	    weight: 1,
+            opacity: 1,
+            color: 'white',
+            dashArray: '3',
+            fillOpacity: 0.7
+        };
+     }
+     function getColor(d) {
+        return d > mapQuantClasses[5]  ? '#800026' :
+               d > mapQuantClasses[4]  ? '#BD0026' :
+               d > mapQuantClasses[3]   ? '#E31A1C' :
+               d > mapQuantClasses[2]   ? '#FC4E2A' :
+               d > mapQuantClasses[1]   ? '#FD8D3C' :
+                          '#FEB24C';
+     }
+     
+     //adding data and adding interactions     
+     geojsonLayer = L.geoJson(geoData, {
+         pointToLayer: function (feature, latlng) {
+        	 var countSelectedArt = 0;
+	        	 for (var i = 0; i < feature.properties.articles.length; i++) {
+	    	        	if (feature.properties.articles[i][2] >= minDate && feature.properties.articles[i][2] <= maxDate) {
+	    	        		countSelectedArt++;
+	    	        	}
+	    	     }
+	             var marker = L.circleMarker(latlng, style(feature));
+	             marker.bindLabel(feature.properties.name);
+	             marker.setRadius((countSelectedArt/2)*3 + 5);
+	             marker.on('mouseover', function (e) {
+	            	 marker.setStyle({
+	                     fillColor: '#78A700',
+	                     dashArray: '',
+	                     fillOpacity: 0.7
+	                   });
+	             });
+	             marker.on('mouseout', function (e) {
+	            	 marker.setStyle(style(feature, minDate, maxDate));
+	             });
+	             marker.on('dblclick', function (e) {
+	            	 marker.setStyle({
+	                     fillColor: '#78A700',
+	                     dashArray: '',
+	                     fillOpacity: 0.7
+	                   });
+	            	 info.update(feature.properties, minDate, maxDate);
+	             });            
+	             marker.on('click', function (e) {
+	            	 marker.setStyle(style(feature, minDate, maxDate));
+	            	 info.update();
+	             });
+	             return marker;
+         }, //TODO so far we assume time period in parameters are coherent to article dates
+         filter: function(feature, layer) {
+        	 var zoomLev = map.getZoom();        	 
+   	         return (feature.properties.level == zoomLev);
+   	   	 }
+     }).addTo(map);
+     
+     // adding temporal slider 
+    var sliderControl = L.control({ position: 'bottomleft'} );
+    sliderControl.onAdd = function(map) {
+    	var slider = L.DomUtil.create("input", "range-slider");
+	   	L.DomEvent.addListener(slider, 'mousedown', function(e) { 
+    		L.DomEvent.stopPropagation(e); 
+    	});
+    	$(slider).attr({'type':'range', 
+    					'max': maxDate, 
+    					'min': minDate, 
+    					'step': 1,
+    					'value': String(maxDate)})
+    		  	.on('input change', function() {
+    		  		updatePropSymbols($(this).val().toString()); 
+    		  		$(".temporal-legend").text("Publication date: "+minDate+" - "+this.value);
+    		  	});
+    	return slider;
+    }
+    sliderControl.addTo(map);
+    createTemporalLegend(maxDate);
+    
+    function createTemporalLegend(endTimestamp) {
+    	var temporalLegend = L.control({ position: 'bottomleft' }); 
+    	temporalLegend.onAdd = function(map) { 
+    		var output = L.DomUtil.create("output", "temporal-legend");
+    		$(output).text("Publication date: "+minDate+" - "+endTimestamp)
+    		return output; 
+    	}
+    	temporalLegend.addTo(map); 
+    }
+    function updatePropSymbols(timestamp) { 
+    	geojsonLayer.eachLayer(function(marker) {
+    		var props = marker.feature.properties;
+    		var feature = marker.feature;
+    		info.update(props, minDate, timestamp);
+    		info.update();
+    		var countSelectedArt = 0;
+       	 	for (var i = 0; i < props.articles.length; i++) {
+   	        	if (props.articles[i][2] >= minDate && props.articles[i][2] <= timestamp) {
+   	        		countSelectedArt++;
+   	        	}
+   	     	}
+    		//update marker size
+    		var radius = (countSelectedArt/2)*3 + 5;
+    		marker.setRadius(radius);
+    		  marker.on('mouseover', function (e) {
+             	 marker.setStyle({
+                      fillColor: '#78A700',
+                      dashArray: '',
+                      fillOpacity: 0.7
+                    });
+              });
+              marker.on('mouseout', function (e) {
+             	 marker.setStyle(style(feature, minDate, timestamp));
+              });
+              marker.on('dblclick', function (e) {
+             	 marker.setStyle({
+                      fillColor: '#78A700',
+                      dashArray: '',
+                      fillOpacity: 0.7
+                    });
+             	 info.update(feature.properties, minDate, timestamp);
+              });            
+              marker.on('click', function (e) {
+             	 marker.setStyle(style(feature, minDate, timestamp));
+             	 info.update();
+              });
+              
+    	});
+    }
+    </script>    
+  </body>
+</html>

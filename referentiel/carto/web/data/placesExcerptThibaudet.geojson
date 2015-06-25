@@ -1,0 +1,34 @@
+[
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [-95.7128910, 37.0902400]},
+    	                   "properties": {"name": "États-Unis", "text": "... d’enquête, aux États-Unis, pris à la ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [-96.000000, 19.000000]},
+    	                   "properties": {"name": "Amérique", "text": "... loué ! — en	Amérique. L’image lui ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [4.660000, 46.435299]},
+    	                   "properties": {"name": "Cluny", "text": "... dans les rues de Cluny avec le meilleur melon ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [2.187500, 48.699299]},
+    	                   "properties": {"name": "Orsay", "text": "... à la gare d’Orsay, cette ligne des ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [0.651111, 51.505501]},
+    	                   "properties": {"name": "Tamise", "text": "... ne connaissent ni la Tamise, ni le Tibre ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [12.233400, 41.740501]},
+    	                   "properties": {"name": "Tibre", "text": "... Tamise, ni le Tibre. Le chasseur des vieux ...", "source": "value0", "date":"1936"}
+    	                 }/*,
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
+    	                   "properties": {"name": "Dongo", "text": "... septembre 1838 Fabrice	Del	Dongo. Vous essayez cette ...", "source": "value0", "date":"1936"}
+    	                 },
+    	                 { "type": "Feature",
+    	                   "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
+    	                   "properties": {"name": "Rouge", "text": "... de	Stendhal, le Rouge et le noir, ...", "source": "value0", "date":"1936"}
+    	                 }*/
+    	            	]
