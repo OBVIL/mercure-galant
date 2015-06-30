@@ -18,6 +18,10 @@
           <resp>Responsable d'édition</resp>
         </respStmt>
         <respStmt>
+          <name>Anaïs Masson</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Édition numérique</resp>
         </respStmt>
@@ -484,8 +488,8 @@
           <label type="head">Lettre <lb/>de <lb/>Madame Royale, <lb/>à M. le Duc de Saint-Aignan.</label>
           <p>MOnsieur le Duc mon Cousin. Vous exprimez si bien les favorables sentimens que vostre honnesteté vous inspire à mon avantage, que quelque joye que je ressente du souvenir obligeant que vous conservez de moy, je ne puis que me plaindre de la retenuë qui vous a empesché jusqu’à présent de m’en donner de si agreables assurances, &amp; qui vous a dêrobé en mesme temps les protestations sinceres de ma reconnoissance. Mais nous reparerons tous deux cette perte, si vous voulez bien, comme je vous en conjure, me continuer les genéreux témoignages de vostre amitié, &amp; renouveller ma joye par de fréquentes occasions de vous donner des preuves de l’estime singuliere que j’ay pour vous, &amp; de la partialité sans égale avec laquelle je suis,</p>
           <p rend="center">Monsieur le Duc mon cousin,</p>
-          <p rend="right i">Vostre bien affectionnée </p>
-          <p rend="right"><hi rend="i">Cousine à vous servir</hi>,</p>
+          <p rend="right"><hi rend="i">Vostre bien affectionnée</hi></p>
+          <p rend="right"><hi rend="i">Cousine à vous servir,</hi></p>
           <p rend="i">I. BAPTISTE.</p>
           <p>De Turin le 3. Juin 1679.</p>
         </quote>
