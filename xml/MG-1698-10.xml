@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-10_107">
+        <head>MG-1698-10_107</head>
+        <bibl>Mercure galant, octobre 1698, p.107-110</bibl>
+        <p>Premiere pierre posée au Maître-Autel des Jacobins de Compiegne.</p>
+        <p/>
+        <p>Pendant que le Roy estoit à Compiegne, les Peres Jacobins qui ont un Convent en ce lieu là, prierent Sa Majesté de poser la premiere pierre à leur grand Autel qu'ils faisoient rebâtir. Ce Prince, qui selon sa pieuse coûtume, ne refuse jamais rien de ce qui peut contribuer à la gloire de Dieu leur accorda ce qu'ils demandoient, &amp; nomma Monseigneur le Duc d'Anjou pour poser cette pierre en son nom. Messeigneurs les Ducs de Bourgogne, d'Anjou &amp; de Berry s'estant rendus au Convent des Jacobins le jour marqué pour cette Ceremonie, ils furent receus à la porte par le Superieur avec ses assistants, &amp; toute la Communauté. Mr l'Evêque de Soissons estoit à la  teste de tout ce Corps, &amp; presente l'Eau Benite à Messeigneurs les Princes. Ce Prelat dit ensuite la Messe, &amp; dés qu'elle fût finie il donna la pierre à deux Religieux, qui l'ayant portée jusqu'au lieu destiné pour la placer, la presenterent à Monseigneur le Duc d'Anjou. Voicy l'inscription qui estoit dessus.</p>
+        <p>Cette premiere pierre au Nom de Louis le Grand, a esté posée par Monseigneur Philippe Duc d'Anjou, petit fils de  ce grand Monarque. Ce 18 Septembre 1698. Les Armes du Roy estoient aussi sur cette pierre. Elle fut posée, selon la manière accoûtumée, en de pareilles ceremonies. On chanta ensuite le Te Deum ; &amp; après la prière pour le Roy, Mr l'Evêque de Soissons donna la Benediction du saint Sacrement, &amp; les Princes furent reconduits jusqu'à la porte de l'Eglise de la manière qu'ils avoient esté receus. [...]</p>
+      </div>
+
+<div xml:id="MG-1698-10_250">
+        <head>MG-1698-10_250</head>
+        <bibl>Mercure galant, octobre 1698, p. 250</bibl>
+        <p>Monseigneur le Dauphin est regalé à Petit Bourg par Mr le Marquis d'Antin.</p>
+        <p/>
+        <p>[...] Ils arriverent à Petit Bourg entre trois &amp; quatre heures aprés midy, &amp; ensuite d'une longue promenade dans les jardins, la Compagnie monta au Chasteau, où aprés avoir pris le divertissement de la Musique elle se mit au jeu. [...]</p>
+      </div>
+
+<div xml:id="MG-1698-10_252">
+        <head>MG-1698-10_252</head>
+        <bibl>Mercure galant, octobre 1698, p. 252-264</bibl>
+        <p>Tout ce qui s'est passé à Fontainebleau depuis le départ du Roy, avec la ceremonie de Mariage de Madame la Duchesse de Lorraine.</p>
+        <p/>
+        <p>Le Roy partit de Versailles pour Fontainebleau le premier jour de ce mois, &amp; le 8. le Roy &amp; la Reine de la grand'Bretagne s'y rendirent. [...] Les jours d'Appartement, le Roy &amp; la Reine d'Angleterre se rendant dans l'appartement de Sa Majesté à sept heures &amp; demie du soir, &amp; le Roy les vient recevoir à la même porte de son Antichambre, où la Musique commence aussi-tôt qu'ils sont placez. Elle n'est que de trois quarts d'heure, aprés quoy le Roy mene leurs Majestez dans son Cabinet où la Reine se met au jeu jusqu'au souper qu'on sert à dix heures. [...] Outre le divertissement de la Musique &amp; du Jeu que l'on prend souvent dans les appartemens, il y a des jours destinez pour la Comedie à laquelle les deux Rois n'ont point esté, mais ils ont souvent pris le divertissement de la Chasse, auquel la Reine d'Angleterre &amp; Madame la Duchesse de Bourgogne se sont souvent trouvées dans une Caleche ouverte. [...]</p>
+        <p>[Le 12 de ce mois eut lieu la cérémonie des fiançailles de Mademoiselle et de Léopold de Lorraine.] [La Cour] se trouva le soir à la Musique dans les appartemens, &amp; le soupé fut servi le soir chez le Roy. [...]</p>
+      </div>
+
+<div xml:id="MG-1698-10_275">
+        <head>MG-1698-10_275</head>
+        <bibl>Mercure galant, octobre 1698, p. 275-280</bibl>
+        <p>Journal du Voyage de cette Princesse.</p>
+        <p/>
+        <p>Sur les deux heures [le 16 octobre] Madame la Duchesse de Lorraine partit dans les Carrosses du Roy. [...] Elle alla coucher à Claye où les sieurs Pivain &amp; du Breüil chanterent à son souper un Air dont voicy les paroles. Il est de la composition du Sr Pivain. Je vous l'envoyeray noté le mois prochain.</p>
+        <p/>
+        <p>Allez, allez, belle Princesse,</p>
+        <p>Allez répondre à la tendresse,</p>
+        <p>D'un Prince fortuné qui devient vostre Epoux.</p>
+        <p>Cens Princes soupiroient pour vous,</p>
+        <p>Mais ils se sont flattez d'une esperance vaine.</p>
+        <p>Ah, quel bonheur pour la Lorraine !</p>
+        <p>Ah, qu'elle fera de jaloux.</p>
+        <p/>
+        <p>Ces mesmes Musiciens chanterent le lendemain plusieurs Motets pendant la Messe de cette Princesse, à l'issuë de laquelle elle partit pour Meaux. La Maréchaussée &amp; les Chevaliers de l'Arquebuse à cheval vinrent au devant d'elle environ deux lieuës en deça avec des Trompettes, des Hautbois &amp; des Violons. [...] Pendant qu'elle avançait vers la Lorraine, le Prince son Epoux venoit au-devant d'elle. Il arriva le 18. au matin à Bar, [...] où l'on chanta aussi-tost le Te Deum.</p>
+      </div>
+</body>
+  </text>
+</TEI>

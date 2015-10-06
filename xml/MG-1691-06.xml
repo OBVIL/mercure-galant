@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-06_159">
+        <head>MG-1691-06_159</head>
+        <bibl>Mercure galant, juin 1691, p. 159-172</bibl>
+        <p>Réjouissances.</p>
+        <p/>
+        <p>Quoy que je ne me sois pas étendu sur les réjoüissances qui ont esté faites dans toutes les Villes de France, pour les dernieres conquestes du Roy, je puis neanmoins vous assurez qu'il s'est fait des choses extraordinaires, &amp; qui font connoistre avec combien d'ardeur ce grand Prince est aimé de ses Sujets. La Ville de Dieppe s'est fort distunguée [sic]. Tout y fut en armes, &amp; rien n'y manqua de ce qu'on peut faire de plus éclatant, soit pour la cerémonie du Te Deum, soit pour la beauté des Feux de joye. L'Eloge du Roy fut prononcé dans la grande Eglise par le Pere Michel-Ange de Roüen, Gardien des Capucins, &amp; ce Discours luy attira de grands applaudissemens.</p>
+        <p>La Ville d'Agen a marqué son zele par tout ce qui peut accompagner ces sortes de Festes. Tous les Bourgeois se mirent sous les armes, &amp; l'on ne vit par tout que Devises, Inscriptions, Tableaux, Illuminations [...]</p>
+        <p>La Ville de Chastillon sur Seine, qui s'est toujours signalée en de pareilles occasions, a fait des choses si particulieres, qu'il a fallu un volume pour les rendre publiques. Mr Pyon, Bachelier en Theologie, &amp; Principal du College de la mesme Ville, s'est donné la peine de le faire. Ainsi le trop de matière m'empeschant de vous donner une description de cette Feste &amp; de vous envoyer un Livre dans une Lettre, je me contenteray de vous dire en peu de mots que Mr le Chapt, Prevost Royal &amp; Maire du mesme lieu, poussé par un zele dont l'ardeur le rend toujours ingenieux, a fait connoistre qu'on ne peut pousser plus loin la passion qu'il a pour la gloire de son Prince. Dès qu'il eut appris que le Roy estoit party pour aller assieger Mons, il fit celebrer à ses dépens une Messe solemnelle pour la conservation de Sa Majesté. Le jour qui fut choisi pour le Te Deum, on trouva une allée d'arbres qu'il avoit fait élever, &amp; qui alloit depuis l'Hostel de Ville jusques à l'Eglise. Ces arbres estoient d'une verdure naissante, &amp; tout couverts de fleurs &amp; de fruits, qui furent distribuez au Peuple. Les deux bouts de cette allée estoient terminez par deux grands Tableaux remplis d'éloges du Roy en Proses &amp; en Vers. Il y eut des Concerts, &amp; des Jeux faits à la gloire de Monarque, dont Mr le Chapt son Fils prononça le Panegyrique dans la Tribune [...]. [...] les Auditeurs qui en furent penetrez, remplirent l'air de cris de Vive le Roy. [...] Deux Fils de Mr le Chapt portoient des Guidons tout semez d'Emblêmes, sur la Ligue &amp; sur la prise de Mons. Ils estoient précedez de trois Déesses, qui représentoient la Force, la Justice, &amp; la Prudence. Elles arresterent le Corps du Bailliage &amp; de la Magistrature, au bruit de plusieurs Instrumens, &amp; firent trois Discours à la gloire du Roy, qui furent écoutez teste nuë. Les Discours finis, cette Jeunesse continua sa marche vers la principale Eglise, où aussitost l'on vit arriver, au bruit des fanfares, une Compagnie de Dames, vestuës en Amazones, &amp; dont la magnificence égaloit le zele. Quand tous les Corps &amp; toutes ces brillantes Troupes furent entrées dans l'Eglise, on entonna le Te Deum, qui fut chanté avec des violons &amp; des flûtes douces. On chanta ensuite un Motet tiré de l'Ecriture Sainte, &amp; qui sembloit avoir esté fait exprés pour la prise de Mons. Il avoit esté mis en musique par Mr Morot. Les Jeux &amp; les Concerts à la gloire du Roy qui devoient se faire après le Te Deum, furent remis à dix heures du soir, à cause de la trop grande affluence du peuple, qui n'auroit pû y trouver place. Le tout estoit de l'invention de Mr le Chapt, &amp; si les Dames s'acquiterent bien de leur employ d'Amazones, la Fille de ce zelé Magistrat y parut avec distinction. Cette Feste se termina par un magnifique regale qu'il donna aux Dames. Tous les autres Magistrats donnerent aussi des marques particulieres de leur joye, ainsi que tous les Bourgeois, &amp; generalement tout le Peuple. Les Feüillans qui sont particulierement attachez à la Maison Royale, finirent la Feste par un beau feu d'Artifice.</p>
+        <p>Caën est une Ville trop considérable pour n'avoir pas cherché à se distinguer. Après le Te Deum chanté, &amp; des feux de joye allumez par tout dés le Dimanche 6. du mois passé, on renouvella les réjoüissances le Jeudy suivant. [...] Toute la Ville étant sous les armes, on chanta le Te Deum dans l'Eglise de S. Pierre, au bruit du Canon du Château, en présence de Mrs de Beuvron &amp; de Matignon, Lieutenans de Roy de Normandie, accompagnez de toute la Noblesse &amp; de Mr Foucault, Intendant, à la teste de toute la Justice. [...] La Fête finit par plusieurs feux d'artifice, dont les effets furent surprenans.</p>
+        <p>Les Particuliers n'ont pas oublié de marquer leur zele, &amp; ce qui se fit dés le 16. d'Avril dans la Paroisse d'Herenguerville, Diocese de Coutance, en est une preuve[.] Mr de Berenger qui en est Seigneur &amp; Patron, avoit invité tous les Ecclesiastiques &amp; toutes les personnes qualifiées de son voisinage de l'un &amp; de l'autre sexe, d'assister à cette Feste, qui commença par une grande distribution de pains qui fut faite aux Pauvres, &amp; par plusieurs Messes, à la fin desquelles on chanta toûjours le Te Deum. Il fut encore chanté solemnellement l'apresdinée, &amp; ensuite on alla voir les buchers que l'on avoit préparez pour cette réjoüissance. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

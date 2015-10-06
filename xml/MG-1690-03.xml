@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-03_178">
+        <head>MG-1690-03_178</head>
+        <bibl>Mercure galant, mars 1690, p. 178-181</bibl>
+        <p>Réjouissances &amp; Complimens pour la promotion de M. de Beauvais au Cardinalat.</p>
+        <p/>
+        <p>Je vous fis sçavoir par ma derniere Lettre la promotion de Mr de Fourbin de Janson, Evesque &amp; Comte de Beauvais, au Cardinalat. Le Chapitre de sa Cathedrale n'en eut pas plûtost receu la nouvelle, qu'il donna des marques d'une joye qu'il souhaitoit depuis long-temps de faire paroistre. Elle fut annoncée la veille à la Ville &amp; aux environs, par le son &amp; le carillon reiteré de toutes les Cloches ; &amp; le lendemain, jour de la Chaire de S. Pierre, le Chapitre augmenta la solemnité de la feste du Patron de cette Cathedrale par un Te Deum chanté en Musique, où tous les Corps de la Ville s'empresserent d'assister, pour prendre part à une Feste qui devenoit commune à tout le Peuple. Le Portail de l'Eglise estoit decoré des Armes du Pape, du Roy, du nouveau Cardinal, &amp; du Chapitre. Cette Ceremonie finit par un feu de joye qui fut allumé au son des Cloches, aux fanfares des Trompetes, &amp; au bruit de la Mousqueterie du grand nombre de Gardes &amp; Habitans des Terres du Chapitre, par Mr l'Abbé d'Omesson, Doyen, &amp; par le Chantre ; &amp; le Sous-Chantre, suivis de tous les Chanoines &amp; Officiers de la Cathedrale.</p>
+      </div>
+</body>
+  </text>
+</TEI>

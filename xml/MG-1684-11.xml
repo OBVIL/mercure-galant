@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-11_034">
+        <head>MG-1684-11_034</head>
+        <bibl>Mercure galant, novembre 1684, p. 34-46</bibl>
+        <p>Balet de la Cour de Wurtemberg</p>
+        <p/>
+        <p>Monsieur le Duc de Wirtemberg, apres avoir régalé sa Cour de tous les plaisirs que peuvent donner la Chasse, le Jeu, &amp; la Bonne-chere, voulut prendre le 15. du dernier mois un divertissement à la Françoise. Ce fut une maniere de Ballet &amp; d'Opéra, qui fut représenté à Stutgart le jour que je viens de vous marquer. Les Vers que l'on y chanta estoient François ; &amp; le Ballet, qui avoit pour titre, Le Rendez-vous des Plaisirs, estoit divisé en trois Parties.</p>
+        <p>Dans la premiere, le Théatre représentoit des Montagnes &amp; des Rochers. Dans l'enfoncement estoit une Mer, où l'on voyoit Neptune dans un Char tiré par des Tritons. Une Néreïde représentée par Mademoiselle Courtel, Femme du Maistre à dancer de Monsieur le Duc de Wirtemberg, fit l'ouverture de ce Divertissement, en chantant ces Vers, pour convier les Divinitez des Eaux &amp; de la Terre de se trouver au Rendez-vous des Plaisirs, où les Ciclopes devoient forger les Armes du Fils de Thétis.</p>
+        <p/>
+        <p>La gloire suit par tout le Héros qu'en ces lieux</p>
+        <p>Le destin fait paroître.</p>
+        <p>O vous, Divinitez &amp; Dieux,</p>
+        <p>Employez aux plaisirs de nostre auguste Maître</p>
+        <p>Vos momens les plus précieux.</p>
+        <p/>
+        <p>Apres que la Néreïde eut chanté ces Vers, six Dieux des Fleuves parurent représentez par Mrs Moser, Fils aîné du Lieutenant Colonel de ce nom ; Garb, Fils aîné de feu Mr Garb, Commissaire General dans les Troupes de Mr l'Electeur de Baviere ; de Monicart, Secretaire de Mr de Bourgeauville, Envoyé Extraordinaire du Roy en Allemagne ; Rose, Valet de Chambre de Mr le Prince Jean-Frideric de Wirtemberg ; Reinsal, Musicien de Monsieur le Duc de Wirtemberg ; &amp; Magg, Fils du Maistre de la Chapelle de la Cour. L'Entrée de ces six Divinitez qui dancerent quelque temps, fut suivie de trois autres ; l'une, de Prothée seul, représenté par Mr de Forstner, Fils aîné de Mr de Forstner, Ministre d'Etat, &amp; Grand-Maréchal de la Cour ; l'autre, de deux Tritons, représentez par Mr de Zorn, Page de Madame la Duchesse Administratrice, &amp; par Mr de Lau, Servant pres de la personne de Mr le jeune Duc ; &amp; les derniere, de Palémon seul, représenté par Mr Courtel, Maistre à dancer de Monsieur de Wirtemberg. Ces Entrées estant finies, la mesme Néreïde parut de nouveau, &amp; chanta ces autres Vers.</p>
+        <p>Thétis, qui voit son Fils par le Ciel destiné</p>
+        <p>A tenter de grandes Conquêtes,</p>
+        <p>A de mille soucis pour luy l'esprit gêné.</p>
+        <p>En luy tenant des Armes prêtes</p>
+        <p>Vulcain remplit l'ordre donné.</p>
+        <p>Dans ces lieux où tout est tranquille,</p>
+        <p>Imitons nostre grand Achille.</p>
+        <p>Le jeune viendra dans son temps ;</p>
+        <p>Pouvons-nous estoit plus contens ?</p>
+        <p/>
+        <p>Cette premiere Partie se termina par deux autres Entrées ; l'une, de deux Néreïdes, représentées par Mademoiselle de Stockhorn, Fille d'honneur des jeunes Princesses, &amp; par Mademoiselle Bilau la cadete, Fille du Premier Ministre d'Etat ; &amp; l'autre, de six Ciclopes représentez par Mrs de Monicart, Reinsal, Moser, Bakmeister, Fils aîné du Procureur de la Chambre, Rose, &amp; Magg.</p>
+        <p>Dans la seconde Partie, la Mer ayant disparue, le Théatre ne laissa plus voir qu'un Bois. Melisse, Divinité des Forests, vint d'abord chantez ces Vers.</p>
+        <p>Venez au Rendez-vous, venez Troupe Champestre,</p>
+        <p>Mille plaisirs nouveaux sont icy prests de naistre ;</p>
+        <p>Diane pour s'y rendre abandonne les Bois,</p>
+        <p>Et viens se réjoüir au son de vos Hautbois.</p>
+        <p/>
+        <p>Il y eut en suite sept Entrées ; la premiere, de Diane seule, représentée par Madame la Princesse Eberhardine-Loüise Wirtemberg ; la seconde, de six Nymphes, par Mrs Garb, Moser, de Momourt, Backmeister, Rose, &amp; Magg ; la troisiéme, d'Endimion seul, par Mr Courtel ; la quatriéme, de quatre Faunes, par Mrs de Minsinger, Fils aîné du Ministre d'Etat de ce nom, Gelnits Page des Chasses, de Zorn, &amp; de Lau ; la cinquiéme, de six Bergers &amp; Bergeres héroïques, les Bergers par Monsieur le Duc Eberhard-Loüis de Wirtemberg, Mr de Forstner, &amp; Mr de Reischach, Fils de Mr l'Intendant des Finances de la Cour ; &amp; les Bergeres, par Madame la Princesse Eberhardine-Loüise de Wirtemberg, Madame la Princesse Guillaumine-Magdelaine de Wirtemberg, &amp; Mademoiselle de Forstner, Fille aînée du Grand Maréchal de la Cour ; la sixiéme, de deux Bucherons, par Mr de Lau &amp; Reinsal ; &amp; la septiéme, de deux Bohémiennes &amp; de deux Biscaïns, les Bohémiennes par Mrs Backmeister &amp; de Monicart, &amp; les Biscaïns par Mrs Garb &amp; Rose.</p>
+        <p>Le Théatre se changea en un Jardin magnifique dans la troisiéme Partie, qui commença par ces Vers que chanta Pomone.</p>
+        <p/>
+        <p>Il faut nous réjoüir, Bergers, dans ce Bocage.</p>
+        <p>Flore sur ces Gazons amene les Zéphirs.</p>
+        <p>Tous y paroist charmant, les amoureux soûpirs</p>
+        <p>Y feront nostre scul langage.</p>
+        <p>Il faut nous réjoüir, Bergers, dans ce Bocage.</p>
+        <p/>
+        <p>Cette Chanson fut suivie de six Entrées ; la premiere, de Flore seule, par Madame la Princesse Guillaumine-Magdelaine de Wirtemberg ; la seconde, de deux Zéphirs, par Mrs de Forstner &amp; Reiscah ; la troisiéme, de quatre Suivantes de Flore ; la quatriéme, d'un Berger rustique crotesque ; la cinquiéme, de huit Bergers portant des Festons ; &amp; la sixiéme, de l'Amour seul, représenté par Monsieur le Duc de Wirtemberg. Les fanfares des Trompetes jointes au bruit des Timbales, terminérent cette Feste.</p>
+      </div>
+
+<div xml:id="MG-1684-11_064">
+        <head>MG-1684-11_064</head>
+        <bibl>Mercure galant, novembre 1684, p. 64, 67, 74-77</bibl>
+        <p>Prodige d'esprit</p>
+        <p/>
+        
+        <p/>
+        <p>L'esprit a ses prodiges ainsi que toute autre chose ; &amp; comme ce nom convient à tout ce qui semble au dessus de la Nature, on le peut donner avec justice à ce qu'a fait depuis peu le petit Mr d'Ermain. [...]</p>
+        <p/>
+        <p>Il a si bien profité de quelques Leçons de Physique, qu'il en donna des preuves publiquement il y a un mois ou deux, en soûtenant une Thése [...]</p>
+        <p/>
+        <p>Les Violons &amp; les Hautbois qui joüérent avant que ce petit Soûtenant ouvrist la Dispute par un Compliment Latin à Mr le Marquis d'Herleville, se firent encore entendre apres chaque Solution qu'il donna aux Objections qui luy furent faites. Cela servoit à luy faire prendre haleine. [...] On vit apporter dans la Salle une magnifique Collation [...] Le Bal succéda à cette Collation, &amp; ainsi le reste du jour fut employé à dancer.</p>
+      </div>
+
+<div xml:id="MG-1684-11_131">
+        <head>MG-1684-11_131</head>
+        <bibl>Mercure galant, novembre 1684, p. 131, 143-145, 156-157</bibl>
+        <p>Relation de la cour de Pékin</p>
+        <p/>
+        <p>On a eu nouvelles par les Peres Jésuîtes qui sont à la Cour de Pekin, du Voyage que l'Empereur de la Chine fit l'année derniere dans la Tartarie Occidentale, avec la Reyne son Ayeule, qu'on appelle la Reyne Mere. [...]</p>
+        <p/>
+        <p>Comme il a étably une Paix solide dans tous les Etats, il a rappellé de chaque Province ses meilleures Troupes, &amp; résolu dans son Conseil, de faire tous les ans trois Voyages pour aller chasser en diférentes saisons. Ces sortes de Chasses ont plûtost l'air d'Expéditions militaires, que de Parties de divertissement, puis qu'il s'y fait accompagner d'un tres-grand nombre de Chevaux, &amp; de Soldats, armez tous de Fléches &amp; de Cimeterres, divisez par Compagnies, &amp; marchant en ordre de Bataille, apres leurs Enseignes, au bruit des Tambours &amp; des Trompetes. Pendant leurs Chasses, ils investirent les Montagnes &amp; les Forests entieres, comme si c'estoient des Villes qu'ils voulussent assiéger. [...]</p>
+        <p/>
+        <p>Outre tout cet attirail, il voulut encore estre accompagné de toutes les marques de grandeur qui l'environnent à la Cour de Pekin, de cette multitude de Tambours, de Trompetes, de Timbales, &amp; autres Instrumens de Musique, qui forment des Concerts dans le temps qu'il est à table, &amp; au bruit desquels il entre dans son Palais, &amp; en sort. Il fit marcher tout cela avec luy, pour étonner ces Peuples barbares par cette pompe extérieure, &amp; leur imprimer avec la crainte le respect deû à la Majesté Impériale. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-11_214">
+        <head>MG-1684-11_214</head>
+        <bibl>Mercure galant, novembre 1684, p. 214-216</bibl>
+        <p>Bénédiction du Couvent des Récolets de Versailles</p>
+        <p/>
+        <p>L'Eglise, &amp; le Convent pour l'établissement de vingt-cinq Récolets que Sa Majesté avoit résolu de mettre à Versailles, ayant esté bastis en six mois avec une magnificence Royale, Mr l'Abbé de la Motte, Archidiacre de l'Eglise de Paris, eut ordre de Mr l'Archevesque d'en aller faire la Benédiction, [...] Il s'y rendit le 4. de ce mois, &amp; le lendemain la Cerémonie commença à sept heures du matin, par une Procession que cinquante Récolets, ayant avec eux leur Provincial, firent de leur petite Maison à la nouvelle, où il apportérent les Reliques. Cette Procession estant arrivée, on dit les Oraisons, &amp; on fit les Aspersions ordinaires suivant le Rituel ; apres quoy Mr l'Abbé de la Motte chanta la Messe, à la fin de laquelle les quarante jours d'Indulgence accordez par Mr l'Archevesque, furent publiez.</p>
+      </div>
+
+<div xml:id="MG-1684-11_221">
+        <head>MG-1684-11_221</head>
+        <bibl>Mercure galant, novembre 1684, p. 221-228</bibl>
+        <p>Festes de Hanover</p>
+        <p/>
+        <p>Voicy quelques particularitez de ce qui s'est fait dans le temps du Mariage de Mr le Prince Electoral de Brandebourg avec Madame la Princesse de Hanover. Ce Prince estant arrivé à Hervenhaus, Maison de plaisance de Monsieur le Duc de Hanover, qui est à un quart de lieüe de la Ville, y demeura depuis le Mercredy du dernier mois jusques au Mardy suivant. Le Dimache 8. il épousa la Princesse sans aucune pompe, &amp; le Mardy 10. il fit son Entrée solemnelle dans Hanover, précedé de toute la Cour, qui consistoit en plus de deux cens Gentilshommes à cheval, &amp; en un Cortége de quatrevingt Carrosses. Les Gardes à cheval, &amp; trois Régimens de Cavalerie, marchoient les premiers. Le Prince entra dans la Ville au bruit du Canon, qui tira pendant une heure. Il arriva au Château entre deux Hayes que formoient trois Régimens d'Infanterie. Les Gardes à pied estoient dans la Court par où il passa au son des Timbales, des Trompetes &amp; des Hautbois. Les Gentilshommes mirent pied à terre dans cette Court, &amp; ceux qui remplissoient les Carrosses, en descendirent pour attendre ces illustres Mariez, qui furent ensuite conduits dans leurs Apartemens. La Milice s'estant mise en Bataille dans une Place qui est derriere le Chasteau, y fit trois Décharges avant que de se retirer. Il y eut en suite un magnifique Soupé, pendant lequel on entendit une Musique composée de Timbales &amp; de Trompetes, au lieu de Hautbois &amp; de Violons. Elle sembloit exciter à boire les Santez, qui furent toutes accompagnées de trois volées de Canon à mesure que chacun beuvoit. Un Bal assez extraordinaire suivit ce Soupé, &amp; on y dança d'abord au bruit de ces mêmes Instrumens. Douze des principaux des deux Cours dançoient d'abord se tenant deux à deux par la main, &amp; ayant dans l'outre chacun un gros Flambeau de la hauteur de six pieds. Les Princes &amp; les Princesses suivoient, &amp; six autres fermoient la file. Cette Dance, qui est une ancienne Cerémonie du Païs, dura environ deux heures, apres quoy les Violons &amp; Hautbois commencérent à joüer, &amp; l'on dança les Dances Françoises. Le lendemain on représenta la Comédie de l'Inconnu, embellie de Dances, &amp; de divers agrémens, mais particuliérement d'un Prologue qui fut fait exprés, avec plusieurs Machines &amp; Entrées de Balet. Le Vendredy 13. il y eut un Balet &amp; une excellente Musique de Voix &amp; d'Instrumens, avec des Machines. Il fut dancé par Mrs les deux jeunes Princes de Hanover, par le jeune Baron de Platen, &amp; plusieurs autres Enfans de qualité de l'un &amp; de l'autre Sexe. Quelques jours apres on représenta Psiché, avec des Machines &amp; des Dances ; &amp; tant que Mr le Prince Electoral a esté à Hanover, il y a eu tous les jours Comédie ou Bal, &amp; bien souvent l'un &amp; l'autre. On tira aussi un tres-beau Feu d'artifice dans la Place derriere le Chasteau. Ce Feu eut tout le succés qu'on en pouvoit souhaiter. La magnificence fut toûjours jointe à la propreté, &amp; le délicat égala le somptueux.</p>
+      </div>
+
+<div xml:id="MG-1684-11_228">
+        <head>MG-1684-11_228</head>
+        <bibl>Mercure Galant, Novembre 1684, p. 228-241</bibl>
+        <p>Divertissemens de Fontainebleau</p>
+        <p/>
+        <p>La Cour s'est fort divertie à Fontainebleau. Le Roy a esté tirer de temps en temps, &amp; quelquefois à la Chasse : Monseigneur y a esté tous les jours, &amp; souvent deux foix en un seul jour. Il y a eu alternativement Apartement, Comédie Françoise, &amp; Comédie Italienne. Les jours qu'il y avoit Apartement, il y avoit aussi Bal. Les Dames ont quelquefois dancé dans les Entr'Actes de la Comédie, ou pour y servir de Prélude. Madame la Princesse de Conty, &amp; Mesdames les Duchesses de Choiseüil &amp; de Roquelaure, avec Mr le Comte de Brionne, dancerent la Chacone d'Amadis, qui servit d'une espéce de Prologue à la Tragédie de Mithridate. Peu de jours avant le départ, il y eut un Inpromptu fort agreable de Comédie &amp; de Dance. Les Italiens furent employez pour ce divertissement. Voicy le Sujet de la Comédie, qui fut faite exprés pour y méler les Entrées que je vay marquer.</p>
+        <p>Cintio, Fils du Roy Brandimarte, ayant esté pris jeune par des Corsaires, estoit devenu amoureux de Lucinde, Fille du Roy Glaucias, dans la Cour duquel il avoit esté élevé, sans qu'on le connust, ny qu'il sçeust luy-mesme sa naissance. L'ayant enfin découverte, il s'estoit rendu à la Cour du Roy son Pere, à qui l'on avoit aussi appris l'avanture de son Fils. Ainsi ce Roy l'attendoit ; &amp; pour terminer une longue guerre qu'il avoit euë avec Adamante Roy voisin, il avoit promis que Cintio épouseroit une Fille d'Adamante. Le Theatre ouvrit par Cintio, qui ayant appris ce que Brandimatte avoit résolu, voulut qu'Arlequin passast pour luy, afin que si le Roy s'obstinoit à ce mariage, il fust en pouvoir de se retirer, &amp; d'estre toûjours fidelle à Lucinde, dont il s'estoit fait aimer. Il fit instruire Arlequin de la conduite qu'il devoit tenir pour tromper son Pere, &amp; consulta cependant des Bohémiennes sur ce qui luy devoit arriver. Les Bohémiennes dancérent, &amp; furent représentées par</p>
+        <p>Madame la Princesse de Conty,</p>
+        <p>Madame la Duchesse de Choiseüil,</p>
+        <p>Madame la Duchesse de Roquelaure,</p>
+        <p>Madame la Marquise de Seignelay,</p>
+        <p>Mademoiselle de Pienne,</p>
+        <p>Mademoiselle de Broüilly, sa Soeur.</p>
+        <p>Le peu de satisfaction que Cintio reçût des Bohémiennes, l'obligea d'aller chercher une fameuse Magicienne. Pendant ce temps, le Roy Brandimatte son Pere fit entrer Arlequin, qu'on luy dit estre son Fils. Sa figure le surprit, &amp; plus encore le compliment ridicule qu'il luy fit. Le Roy s'estant retiré apres qu'Arlequin se fut enfuy, Cintio revint avec la Magicienne, qui ayant pris de l'amour pour luy, luy conseilla de demeurer toûjours inconnu, &amp; luy promit de luy faire voir Lucinde par enchantement. Comme elle cherchoit à détourner de la passion qu'il luy faisoit voir pour cette Princesse, elle fit un charme qui fit paroistre Lucinde dançant avec un Rival, &amp; donnant des marques d'une grande joye. Ce fut une seconde Entrée, où il y eut une Chacone, que dancérent</p>
+        <p>Madame la Princesse de Conty,</p>
+        <p>Madame la Duchesse de Choiseüil,</p>
+        <p>Madame la Duchesse de Roquelaure.</p>
+        <p>Mr le Comte de Brionne</p>
+        <p>Les premieres Scenes du second Acte consistérent en des plaisanteries d'Arlequin crû Cintio, que l'Ambassadeur d'Adamante vint complimenter sur son Mariage avec la Princesse Fille de ce Roy ; apres quoy Cintio parut, &amp; se plaignit de l'infidélité de Lucinde, avec laquelle il témoigna à la Magicienne qu'il avoit dessein de rompre. Pour l'exécuter, il la pria de luy donner des moyens de luy écrire, afin qu'il pust luy faire connoître la résolution où il estoit de ne plus songer à elle. La Magicienne fit aussi-tost venir des Folets pour porter sa Lettre ; &amp; le voulant occuper agréablement, elle ordonna aux mesmes Folets de le divertir par quelque Dance. Ces Folets furent représentez par</p>
+        <p>Mademoiselle de Nantes,</p>
+        <p>Mr le Comte de Brionne,</p>
+        <p>Mademoiselle d'Estrées, Mademoiselle Hamilton,</p>
+        <p>Mrs Favier, Pecour.</p>
+        <p>Dans le troisiéme Acte, Arlequin s'ennuyant de joüer un Personnage de Prince, qu'il ne pouvoit soûtenir, avertit le Roy de la tromperie qu'on luy avoit faite. Lucinde que les Folets avoient aussi avertie du bruit qui couroit du Mariage de Cintio, transportées par l'art d'une autre Magicienne, vint sçavoir s'il estoit vray que son Amant la trahist. Le Roy la voyant si belle, montra la joye qu'il avoit de trouver son Fils dans Cintio ; &amp; consentant à leur Mariage, il dit à l'un &amp; à l'autre, qu'il se résoudroit plûtost à recommencer la Guerre avec Adamante, qu'à rompre leur union. La Magicienne à qui Cintio s'estoit adressé, touchée de la beauté de Lucinde, se repentit d'avoir traversé ces deux Amans ; &amp; pour réparer ce qu'elle avoit fait contre eux, elle appella un Génie pour assister à la Nôce, &amp; contribuer à la rendre heureuse. Tous les Courtisans entrérent, &amp; témoignérent leur joye par des Chants &amp; par des Dances. L'Entrée fut de dix, qui étoient</p>
+        <p>Mademoiselle de Nantes,</p>
+        <p>Mademoiselle de Levestein,</p>
+        <p>Mademoiselle de Crussol,</p>
+        <p>Mademoiselle d'Estrées,</p>
+        <p>Mademoiselle Hamilton,</p>
+        <p>Mr le Comte de Brionne,</p>
+        <p>Mr le Prince de Tingry,</p>
+        <p>Mr le Marquis d'Alincour,</p>
+        <p>Mr le Chevalier de Soyecourt,</p>
+        <p>Mr le Comte de Cossé.</p>
+        <p>Mrs Favier &amp; Pecour firent aussi une Entrée, déguisez en Magiciens, &amp; il y eut ensuite un Balet genéral, composé de tous ceux qui avoient déja dancé. Ceux qui chantérent dans les Entr'Actes de ce Divertissement, furent</p>
+        <p>Mrs Gaye,</p>
+        <p>Jonquet,</p>
+        <p>Pluvigny,</p>
+        <p>Mademoiselle de la Lande,</p>
+        <p>Mademoiselle Rebel.</p>
+        <p>Les Entrées avoient été faites par Mrs Favier &amp; Pecour, tous deux Danceurs du Roy. Rien ne sçauroit estre plus agreable que le fut cet Impromptu. Madame la Princesse de Conty, &amp; Mademoiselle de Nantes, s'attirérent l'admiration de tout le monde, estant impossible de mieux dancer qu'elles firent.</p>
+        <p>Mr Voille de la Garde, Intendant &amp; Controlleur Genéral de l'Argenterie &amp; des Menus-Plaisirs &amp; Affaires de la Chambre du Roy, avoit pris soin de ce Divertissement, sous les ordres de Mr le Duc de Créquy, Premier Gentilhomme de la Chambre en année.</p>
+      </div>
+
+<div xml:id="MG-1684-11_285">
+        <head>MG-1684-11_285</head>
+        <bibl>Mercure galant, novembre 1684, p. 285-286</bibl>
+        <p>Ouverture du Parlement &amp; de la cour des Aydes</p>
+        <p/>
+        <p>L'Ouverture du Parlement, qui se fait toûjours le lendemain de la Feste de Saint Martin, a esté faite le Lundy 13. de ce mois, avec les Cerémonies accoûtumées. Vous sçavez, Madame, que cette Ouverture consiste en une Messe du S. Esprit, que l'on chante solemnellement en Musique, à la Chapelle de la Grande Salle du Palais, &amp; à laquelle le Parlement m'assiste en Corps, &amp; en Robes rouges. Cette Messe est toûjours celébrée par un Evesque, &amp; elle l'a esté cette année par Mr l'Evesque de Troyes, [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

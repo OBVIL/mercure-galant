@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, août 1695</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1695-08/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>août 1695</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1695-08_262">
+        <head>MG-1695-08_262</head>
+        <bibl>Mercure galant, août 1695, p. 262-277</bibl>
+        <p>Mort de Mr l'Archevêque de Paris, avec le détail de tout ce qui s'est passé, lors qu'il a esté exposé au Public, à si Convoy, &amp; à son Service.</p>
+        <p/>
+        <p>Vous avez appris la perte que le Diocese de Paris a faite de Messire François de Harlay de Chanvalon, son Archevêque, Duc &amp; Pair de France, Commandeur des Ordres du Roy, nommé par Sa Majesté au Cardinalat, Proviseur de la Maison de Sorbonne, &amp; Superieur de celle de Navarre, Abbé de S. Pierre de Jumiege, &amp; l'un des quarante de l'Academie Françoise. Il mourut subitement le Samedy 6. de ce mois, âgé de soixante &amp; dix ans moins huit jours, en sa maison de Conflans, à deux lieuës de Paris, ayant esté six heures à l'agonie. Le soir on apporta son corps à Paris, &amp; le lendemain Dimanche 7. il fut exposé toute la journée sur un Lit de parade dans une des chambres de son Palais Archiepiscopal, où tout Paris l'alla voir en foule. (...)</p>
+        <p>Le Jeudy 11. de ce mois, le Chapître de nôtre-Dame célébra un service pour le Repos de son ame. (...) La Messe fut réponduë par la Musique du Chapitre, &amp; aprés que tout fut finy, les Parens &amp; Amis allerent jetter de l'eau benite sur la Sepulture, où Mr l'Archevêque a esté inhumé.</p>
+      </div>
+</body>
+  </text>
+</TEI>

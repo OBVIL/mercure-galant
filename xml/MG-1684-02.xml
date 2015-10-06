@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-02_071">
+        <head>MG-1684-02_071</head>
+        <bibl>Mercure galant, février 1684, p. 71-74</bibl>
+        <p>Réjoüissances faites en plusieurs Villes de France pour cette naissance</p>
+        <p/>
+        <p>Les Réjoüissances que l'on a faites pour la Naissance de ce jeune Prince, ont fort éclaté dans tout le Royaume. Le Dimanche 9. de Janvier ayant esté choisy à Grenoble pour le jour de cette Feste, une partie de la Milice s'assembla dans la Place S. André, &amp; ensuite forma deux Hayes depuis le Palais jusques à l'Eglise Cathédrale, [...] Mr le Camus, Evesque de Grenoble, si recommandable par sa pieté, &amp; par les soins vrayment paternels qu'il a de son Peuple, entonna le Te Deum qui fut chanté en Musique, &amp; suivy de l'Exaudiat, &amp; des autres Prieres pour Sa Majesté ; apres quoy Mr de S. André marcha vers la Place où estoit dressé le Feu, precedé de son Gentilhomme, &amp; suivy de toute sa Maison. Les Officiers de Milice, tous fort proprement vestus, alloient les premiers deux à deux suivant leurs rangs ; &amp; immédiatement entre eux, à la Gentilhomme de Mr le Premier Président, estoit placé un Concert de Hautbois, dans lequel un Enfant encore à la Robe, tenoit sa partie d'une maniere qui le faisoit admirer de tout le monde.</p>
+      </div>
+
+<div xml:id="MG-1684-02_090">
+        <head>MG-1684-02_090</head>
+        <bibl>Mercure galant, février 1684, p. 90-91</bibl>
+        <p>[Réjouissances pour la naissance du duc d'Anjou à Chaulny]</p>
+        <p/>
+        <p>Mr de Vaillant, Maire de la Ville de Chaulny, y fit mettre toute la Bourgeoisie sous les Armes. Elle fut conduite en tres-bon ordre à l'Eglise de Nostre-Dame, où l'on chanta le Te Deum en Musique.</p>
+      </div>
+
+<div xml:id="MG-1684-02_092">
+        <head>MG-1684-02_092</head>
+        <bibl>Mercure galant, février 1684, p. 92-94</bibl>
+        <p>[Réjouissances pour la naissance du duc d'Anjou à Joigny]</p>
+        <p/>
+        <p>La Ville de Joigny, qui a fait paroître sa fidélité &amp; son zéle pour le Roy en toutes rencontres, en a donné d'éclatantes marques en celle-cy. Sur les Ordres qu'on y reçût de Mr de Prâlin, Gouverneur de Champagne, tous les Bourgeois se mirent en armes. Chaque Compagnie avoit son Drapeau &amp; ses Tambours, qui joints avec le son des Musettes, des Hautbois, des Flûtes à des Fiffres, composoient une harmonie des plus agréables. Ces Compagnies en formant leurs Défilez, se trouvérent sur les deux heures devant le Château, du costé qui regarde la Riviere, vis-à-vis duquel on avoit dressé le Feu. Elles s'y mirent en haye, &amp; se retirérent ensuite les unes apres les autres, lors qu'elles eurent fait une Salve, pour revenir s'y rejoindre chacune selon son rang, pendant que l'on chanteroit le Te Deum à Nostre-Dame. Il y fut chanté solemnellement, &amp; suivy d'une Procession de tout le Clergé, assisté des Officiers de la Ville &amp; de la Justice, au bruit du Canon &amp; de plusieurs Décharges redoublées.</p>
+      </div>
+
+<div xml:id="MG-1684-02_097">
+        <head>MG-1684-02_097</head>
+        <bibl>Mercure galant, février 1684, p. 97-101</bibl>
+        <p>[Réjouissances pour la naissance du duc d'Anjou à Nogent-le-Roi]</p>
+        <p/>
+        <p>Les mesmes Réjoüissances ont esté faites à Nogent-le-Roy, où le jour des Roys on chanta le Te Deum à l'issuë de Vespres, par l'ordre de Mr le Marquis de Coeuvres. On tira du Château quantité de coups de Canon, qui furent secondez d'un Jeu d'Orgues. C'est une Machine de Guerre, composée de plusieurs Tuyaux ou Canons, qui tirant tout à la fois, font autant de bruit &amp; d'effet que six Arquebuses à croc. Les Feux furent allumez le soir de toutes parts, &amp; ce fut à la clarté de ces Feux qu'on vit paroistre un Bataillon d'Infanterie fort leste, qui apres avoir fait les Evolutions, l'Exercice du Drapeau, &amp; plusieurs Décharges de Mousqueterie, voulut pour marque de reconnoissance &amp; de soûmission, offrir à Dieu un magnifique Etendart, écartelé aux Armes de France. Cela fut cause qu'on rentra dans l'Eglise, où pour la seconde fois on chanta le Te Deum au bruit des Tambours, aux Fanfares des Trompetes, &amp; au son des Fiffres, des Flûtes, &amp; des Basses de Viole.</p>
+        <p>Les Carmes du Convent de la Fléche, qui ont pour leur Eglise la Chapelle Royale nommée Nostre-Dame du Chef-du-Pont, l'un des plus venérables Lieux de toute la Ville, marquérent leur joye pour cette mesme Naissance, le 16. du dernier mois. Ils commencérent par un Te Deum, que la beauté de la Musique, jointe à l'agrément des Voix, fit admirer de tous ceux qui l'entendirent. Ils continuérent par un Feu qu'ils avoient fait élever au milieu de la Riviere du Loir.</p>
+      </div>
+
+<div xml:id="MG-1684-02_234">
+        <head>MG-1684-02_234</head>
+        <bibl>Mercure galant, février 1684, p. 234-240</bibl>
+        <p>Ce n'est pas tout ce que je vous diray de ce Duc. Je ne puis m'empescher d'ajoûter icy un Divertissement, qu'il a donné à Madame la Dauphine dans les derniers jours du Carnaval. Ç'a esté par un Concert de Voix &amp; d'Instrumens, pour lequel il fit quelques Paroles, &amp; mesme un des Airs, de naturel seulement, sans qu'il sçache la Musique. Ce petit Concert eut tout le succés qu'il en pouvoit esperer. En voicy les Vers.</p>
+        <p/>
+        <p>RECIT DE LA VICTOIRE.</p>
+        <p>Moy qui dans ses fameux Exploits</p>
+        <p>Ay suivy le plus grand des Roys,</p>
+        <p>Et l'ay fait triompher sur la Terre &amp; sur l'Onde,</p>
+        <p>En le rendant l'amour ou la terreur du monde ;</p>
+        <p>Apres avoir chargé le front de ses Guerriers</p>
+        <p>D'un nombre infiny de Lauriers,</p>
+        <p>Je mets enfin toute ma gloire</p>
+        <p>En mon attachement pour une autre VICTOIRE.</p>
+        <p/>
+        <p>UN DES SUIVANS de la Victoire.</p>
+        <p>Elle joint la sagesse à de si doux appas,</p>
+        <p>Qu'il n'est rien de tel icy-bas ;</p>
+        <p>Elle impose des Loix à tout ce qui respire,</p>
+        <p>Et m'engage à luy dire</p>
+        <p/>
+        <p>GAVOTE.</p>
+        <p>Incomparable Dauphine,</p>
+        <p>Qui charmez toute la Cour,</p>
+        <p>Donc, par la bonté Divine,</p>
+        <p>Un second Fils vois le jour.</p>
+        <p>Que de bonheur, que de gloire</p>
+        <p>La France reçoît de vous,</p>
+        <p>Et que l'aimable VICTOIRE</p>
+        <p>Plaist à son Auguste Epoux !</p>
+        <p>Que vostre grace charmante</p>
+        <p>A vostre abord nous surprit,</p>
+        <p>Et qu'une clarté brillante</p>
+        <p>Eclate dans vostre Esprit !</p>
+        <p>Que d'un bonheur sans limite</p>
+        <p>Le Ciel comble vos souhaits ;</p>
+        <p>S'il est égal au mérite,</p>
+        <p>Il ne finira jamais.</p>
+        <p>Que vos deux aimables Princes</p>
+        <p>Fassent un jour leur devoir,</p>
+        <p>Et que toutes les Provinces</p>
+        <p>Reconnoissent leur pouvoir.</p>
+        <p/>
+        <p>UN AUTRE DES SUIVANS de la Victoire.</p>
+        <p>Fasse le Ciel que suivant nos désirs</p>
+        <p>La gloire, &amp; les plaisirs,</p>
+        <p>D'une prospérité qui surpasse l'envie,</p>
+        <p>Couronnent vostre belle vie.</p>
+        <p/>
+        <p>MENUET.</p>
+        <p>Que de biens cette VICTOIRE donne !</p>
+        <p>Que le Ciel favorise nos voeux !</p>
+        <p>Voyez, Mortels, l'éclat qui l'environne,</p>
+        <p>en la servant vous serez trop heureux.</p>
+        <p>Si le feu de ses yeux vous enchante,</p>
+        <p>A les voir bornez tous vos désirs ;</p>
+        <p>Ce seroit trop qu'une flame innocente,</p>
+        <p>Et sa Vertu défend jusq'aux soûpirs.</p>
+        <p/>
+        <p>TOUS ENSEMBLE.</p>
+        <p>Qu'un grand Prince digne de vous,</p>
+        <p>Et d'un aimable Epoux,</p>
+        <p>Confirme de nouveau bientost par sa naissance</p>
+        <p>Le bonheur de la France.</p>
+        <p/>
+        <p>Quoy que tous les Airs ayent esté fort applaudis, estant de la Composition du Sr Daches, de la Musique du Roy, ceux de la Gavote &amp; du Menüet ont paru si agreables, &amp; si propres aux Paroles qu'on voudra faire dessus, que je vous les envoye notez, afin que vos illustres Amies ayent dequoy vous divertir par une chose qui a esté trouvée si galante.</p>
+      </div>
+
+<div xml:id="MG-1684-02_254">
+        <head>MG-1684-02_254</head>
+        <bibl>Mercure galant, février 1684, p. 254-257</bibl>
+        <p>Mariage</p>
+        <p/>
+        <p>Le 15. de ce mois, Messire François-René le Tellier, Conseiller en la Cour des Aydes, épousa Mademoiselle Mariane Chevalier, Fille de Messire Jacques Chevalier, Seigneur du Bauchet, Vicomte de Courtavant &amp; de la Montagne, &amp; de Dame Anne Olier de Bourzeis, Niêce de feu Mr l'Abbé de Bourzeis de l'Académie Françoise, l'un des plus sçavans Hommes de ce siecle. Cette nouvelle Mariée n'a que treize ans &amp; demy, &amp; est encore fort petite, mais il seroit mal-aisé d'avoir plus de belles qualitez qu'elle en a. Il n'y a presque point d'Art qu'elle ne sçache ; &amp; une Personne de grand mérite qui la connoist à fond, a dit fort agreablement d'elle, qu'il ne falloit pas demander ce qu'elle sçavoit, mais ce qu'elle ne sçavoit pas. Comme elle a l'esprit extrémement vif, &amp; l'imagination tres-prompte, on a eu fort peu de peine à luy apprendre presque en mesme temps ; l'Histoire, la Langue Italienne, le Blason, la Geographie, l'Arithmétique &amp; la Musique. Elle dance finement, joüe du Clavessin comme les plus habiles Maistres, peint assez bien, &amp; ne s'entend pas mal à dessigner. Il seroit mesme assez dangereux de parler Latin devant elle, si on ne vouloit pas en estre entendu. Cependant elle seroit fâchée qu'on crût dans le monde qu'elle eust appris cette Langue, qu'elle abandonne aux Sçavans.</p>
+      </div>
+
+<div xml:id="MG-1684-02_257">
+        <head>MG-1684-02_257</head>
+        <bibl>Mercure galant, février 1684, p. 257-266</bibl>
+        <p>Festes Galantes</p>
+        <p/>
+        <p>Il s'est fait ce Carnaval une Societé entre un certain nombre d'honneste Gens, dont les plaisirs, quoy que sans éclat, ont esté fort agreables. Ils se traitoient tour à tour, &amp; la Compagnie se rendoit dés le matin chez celuy qui devoit estre le Héros de la Feste. Le Déjeûné par où l'on commençoit, &amp; qui ordinairement servoit de Dîné, duroit depuis neuf heures jusqu'à onze. On quittoit la table pour entrer dans une Chambre, où plusieurs Bureaux estoient disposez pour le Jeu ; &amp; comme en établissant la Societé, ceux qui la composoient s'estoient fait des regles pour leurs divertissemens, il avoit esté résolu que l'on ne joüeroit que jusqu'à trois heures, &amp; que les Plaisirs de l'apresdînée seroient toûjours diférens. Ainsi, l'Opéra, la Comédie, le Bal, &amp; les Concerts, succédoient les uns aux autres, &amp; par cette charmante diversité, chaque journée se passoit d'une maniere agreable. Quoy que tous ceux qui avoient à régaler, s'en acquittassent tres-bien, Mr de... l'emporta sur tous les autres. Il s'estoit commencé chez un des premiers qui avoient traité, une Plaisanterie qui luy fournit le sujet d'un nouveau plaisir. Il le voulut donner à la Compagnie, &amp; en fit part à quelques-unes des Dames, qui s'engagerent à y tenir leur partie. Ces Dames ayant trouvé à un des Repas qui s'éstoient faits, un Gentilhomme qui n'étoit point de leurs plaisirs, &amp; qu'elles sçavoient n'être pas d'humeur à faire aucune dépense, elles le tournérent en tant de façons, qu'elles l'obligérent à prendre jour pour leur donner un divertissement semblable à celuy dont il estoit le témoin. Elles poussérent la plaisanterie jusqu'à luy demander une Caution, &amp; il falut que le Maistre du Logis luy en servist ; mais au jour nommé pour le Régale, le Gentilhomme fit dire qu'il ne pouvoit pas se dispenser de partir en diligence pour aller en Province, où l'appelloient des affaires qui ne souffroient point de retardement. Les Dames se plaignirent à la Caution, qui blâma comme elles la honteuse excuse du Gentilhomme, sans songer pourtant à satisfaire pour luy. Ce fut sur cela que le divertissement qui suit fut résolu. Le jour qu'il se donna, avoit esté marqué pour un Concert. Ainsi l'heure estant venuë de quitter le Jeu, toute la Compagnie se rendit dans une Salle, où elle trouva une nuit tres-agréable. Les Rideaux estoient tirez devant les Fenestres, &amp; un fort grand nombre de Bougies éclairoit la Salle. Chacun fut surpris de n'y point voir de Musiciens, ny mesme de préparation pour un Concert. Cet étonnement duroit encore, quand une espéce de Cloison que couvroit une tapisserie, se séparant en deux, laissa voir une Décoration telle que celle de l'Acte d'Arlequin Protée, dans lequel on plaide la Cause du Chien du Docteur. On voyoit une Tapisserie &amp; des Sieges Fleurdelysez, &amp; tout ce qui pouvoit faire connoistre que cet endroit estoit disposé pour y rendre la Justice. Au-dessus du Siége du principal Juge estoit une Carte, sur laquelle estoit écrit en Lettres d'or, Tribunal de la Bonne Foy. La même Cerémonie qui s'observe dans l'endroit où Arlequin fait le Personnage d'Avocat, fut observée sur cette maniere de Théatre. On entendit un Paix-là, &amp; l'on vit en mesme temps paroistre nombre de Personnes toutes en Robes, qui prirent leurs places. La Cause du Clerc fut appellée, &amp; deux jeunes Garçons la plaidérent avec applaudissement. Cela estant fait, les Dames qui avoient part à la plaisanterie, allérent aux pieds du Juge, &amp; luy présentérent une Requeste qu'une d'elles tenoît en sa main. Il la répondit, &amp; un Sergent l'ayant prise, alla sur le champ la signifier à la Caution du Gentilhomme dont il a esté parlé, qui ne sçavoit pas à quoy devoient aboutir toutes ces Cerémonies. On luy en donna bien-tost l'éclaircissement, par la lecture de la Requeste, de l'Ordonnance du Juge, &amp; de l'Assignation. On trouva cette plaisanterie admirable, &amp; chacun, aussi-bien que le Juge, condamna la Caution à satisfaire les Dames. Le Cavalier estoit trop galant pour ne pas recevoir de bonne grace tout ce qu'on luy dit sur ce sujet. Il pria qu'on ne fist plus de poursuites, &amp; promit qu'il se tireroit d'affaires ; ce qu'il fit quelques jours apres, par une nouvelle Feste. Aussi-tost que le Sergent eut remply sa fonction, la Cloison se referma, &amp; tous ces Juges, qui estoient autant de Musiciens, ne tardérent pas à se mettre en état de divertir la Compagnie par un Concert dans ce mesme endroit, qui pour seconde Décoration fit voir une Alcove d'une grande propreté. Jugez des loüanges qu'on donna au Maistre de La Maison, sur la maniere galante dont il avoit assaisonné le Régale.</p>
+      </div>
+
+<div xml:id="MG-1684-02_380">
+        <head>MG-1684-02_380</head>
+        <bibl>Mercure galant, février 1684, p. 380-381</bibl>
+        <p>Comédies Françoises</p>
+        <p/>
+        <p>Les Comédiens François nous ont donné ce mois cy deux Pieces nouvelles. L'une est Arminius, de l'Autheur de Virginie. Les Vers en sont beaux, &amp; fort aisez ; &amp; outre les Scenes d'amour qui sont touchantes, elle est remplie de sentimens de fierté contre la grandeur Romaine, qui la rendent digne du succés qu'elle a. L'autre est la Dame invisible, de Mr de Hauteroche. C'est une Piece purement d'Intrigues, dont l'Original est Espagnol, &amp; qu'on estime une des plus belles du fameux Don Pedro Calderon, qui l'a intitulée la Dama Duende. Feu Mr Douville traita ce mesme Sujet il y a environ quarante ans sous le titre de l'Esprit Follet ; &amp; cette Comédie, quoy que sans aucune vray-semblance, &amp; plutost en Prose rimée qu'en Vers, parut si divertissante par ses incidens, qu'elle eut un tres-grand succés. Mr de Hauteroche les a rectifiez d'une maniere, qui satisfera tous ceux qui entendent le Théatre.</p>
+      </div>
+</body>
+  </text>
+</TEI>

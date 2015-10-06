@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1695</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1695-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1695</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1695-04_229">
+        <head>MG-1695-04_229</head>
+        <bibl>Mercure galant, avril 1695, p. 229-245</bibl>
+        <p>Mariage.</p>
+        <p/>
+        <p>Il est rare de trouver des mariages aussi considerables &amp; aussi bien assortis que celuy de Mr le Duc de Saint-Simon avec Mademoiselle de Lorges, qui se fit au commencement de ce mois. Il semble que l'on ait voulu former une societé parfaite, puis que les proportions d'âge, de vertus, de qualitez, &amp; de biens s'y trouvent. La Mariée est Fille aînée de Mr le Maréchal Duc de Lorges, Chevalier des Ordres du Roy, Gouverneur de Lorraine &amp; de Barrois, Capitaine des Gardes du Corps de Sa Majesté, &amp; General de ses Armées, aussi recommandable pour sa grande probité, que par tous ces titres, &amp; par sa naissance. (...)</p>
+        <p>Mr le Duc de Saint Simon n'a que vingt ans, il est Duc &amp; Pair de France, Gouverneur de Blaye, Gouverneur &amp; Grand Bailly de Senlis, &amp; possede plusieurs grandes Terres. Il a servi pendant plusieurs années, &amp; commande un Regiment de Cavalerie. (...) Le Jeudy 7. Mr le Mareschal de Lorge donna un grand soupé, où de part &amp; d'autre il ne se trouva que jusques aux Cousins germains des Mariez. On fut diverty devant &amp; aprés par un concert de flutes &amp; de hautbois, où les sieurs Philbert &amp; Descoteaux charmérent a leur ordinaire. A minuit, Mr le Curé de Saint Roch commença la ceremonie du mariage, à la Chapelle de l'Hôtel de Lorge, &amp; y dit la Messe, aprés quoy on mena les Mariez dans le grand Appartement de Madame la Marêchale de Lorge, où Madame la Duchesse de Saint Simon donna la chemise à sa Belle fille, &amp; Mr le Maréchal de Lorge à son Gendre, qui coucherent dans cet Appartement. Le lendemain matin, ils receurent les complimens des deux familles, &amp; de toutes les personnes distinguées de la Cour &amp; de Paris, dans l'Appartement de Mr le Marêchal, l'un des plus beaux qu'il y ait en France, tant par sa construction que par sa magnificence. (...) Le Lundy 11. elle [la duchesse de Saint Simon, la mariée] rendit ses visites, &amp; retourna le Mardy à Paris chez Mr le Duc de Saint Simon son Epoux, qui donna le Mercredy à tous les conviez de la Noce un soupé des plus somptueux, &amp; où la délicatesse le disputoit avec l'abondance. Il y eut une simphonie &amp; une Musique choisie, le tout accompagné de toutes les marques possibles d'honnesteté &amp; de joye de la part de Mr le Duc de Saint Simon &amp; de Madame la Duchesse sa mere.</p>
+      </div>
+</body>
+  </text>
+</TEI>

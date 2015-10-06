@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1700</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1700-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1700</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1700-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1700-05_019">
+        <head>MG-1700-05_019</head>
+        <bibl>Mercure galant, février 1700, p.19-40</bibl>
+        <p>RELATION EXACTE de ce qui s'est passé à la mort &amp; aux Funerailles du R. P. Marc d'Aviano, Capucin Prédicateur.</p>
+        <p>Traduite du Latin, &amp; envoyée de Vienne.</p>
+        <p/>
+        <p>Le R. P. Marc d'Aviano revint en cette Ville de Vienne au mois de May dernier 1699 avec le P. Laurent d'Utino, qu'il avoit esté obligé de prendre à la place du P. Cosme de Castro Franco, son Compagnon ordinaire, demeuré malade en Italie. La maigreur qui paroissoit plus qu'à l'ordinaire sur son visage, faisoit voir si peu de santé, qu'il estoit souvent obligé d'avoüer luy-mesme qu'il ne se portoit pas bien. [...] Sa maladie cependant augmentoit si fort de jour en jour par les continuelles coliques , qu'il se vit obligé de ne pas refuser plus longtemps le secours qu'il pouvoit esperer des hommes. [...]</p>
+        <p>Toutes choses estant donc disposées pour faire les Funerailles au jour que l'Empereur avoit marqué, il partit de son Palais la Favorite, avec l'Imperatrice, le Roy des Romains, l'Archiduc &amp; l'Archiduchesse, pour se rendre à l'Eglise des Capucins. Le corps du défunt estoit exposé devant le grand Autel, non seulement renfermé dans une balustrade qu'on avoit faite exprés, mais encore par des Soldats de la Garde de l'Empereur &amp; de la Ville, postez de telle maniere, qu'on pouvoit en defendre l'entrée à tout le peuple, &amp; la permettre seulement aux Dames &amp; aux Personnes de qualite, &amp; a tous les Officiers de la Cour.</p>
+        <p>Il n'y eut pour lors que le Roy des Romains qui alla luy baiser les mains, aussitost qu'il fut entré dans l'Eglise. Ils monterent ensuite dans la Tribune pour entendre la Messe solemnelle des Morts, qui fut chantée par Mr l'Evesque de Vienne, Prince du Saint Empire, &amp; par un choeur des principaux Musiciens de l'Empereur. Après que l'on eut fini en noir toutes les lugubres ceremonies du Sacrifice, par les prieres, les aspersions &amp; les encensemens que l'Eglise veut qu'on fasse aux funerailles des défunts, Mr l'Evesque de Nitrie en celebra une seconde avec la mesme solemnité, mais avec cette difference neanmoins, qu'il la dit revestu de blanc, à l'honneur de la sainte &amp; immaculée Vierge Mere de Dieu. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

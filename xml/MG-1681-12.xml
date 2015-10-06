@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-12_027">
+        <head>MG-1681-12_027</head>
+        <bibl>Mercure Galant, décembre 1681, p. 27-30, 33-37</bibl>
+        <p>Cerémonies faites à l'établissement de la Chambre de Tournay.</p>
+        <p/>
+        <p>Je vous ay promis de vous faire part des Cerémonies qui ont esté observées en établissant la Chancellerie de Tournay ; il faut m'acquitter de ma parole. Tournay a eu de tout temps des avantages tres-particuliers, jusqu'à posseder celuy d'avoir esté la demeure de nos Roys, au commencement de la Monarchie. [...] Le Mercredy 15. d'Octobre ayant esté choisi pour la premiere ouverture de celle dont je vous apprens l'établissement, Messieurs du Chapitre de l'Eglise Cathédrale firent sonner le soir précédent la grosse Blanche, qui est une Cloche que l'on ne sonne jamais qu'à la mort de l'Evesque, &amp; des Chanoines, &amp; dans les occasions extraordinaires. On l'appelle ainsi, à cause de sa grosseur, &amp; du don que la Reine Blanche, Mére de S. Loüis, en fit autrefois à cette Eglise. La mesme Cloche fut encore sonnée le matin du Mercredy, &amp; sur les neuf heures, Mr Maqueron Secrétaire du Roy, porta les Sceaux &amp; la Subdélégation de Mr le Chancelier à Mr le Premier Président de Tournay. [...]</p>
+        <p>Ils allérent dans cet ordre à l'Eglise Cathédrale, où ils descendirent à la principale Porte. [...] Quantité de Dames de qualité avoient pris leurs places vers l'Autel, &amp; une foule incroyable d'autres Personnes de toutes conditions, occupoit le reste de l'espace. La Messe fut solemnellement celébrée par Mr le Doyen, qui officioit en l'absence de Mr l'Evesque de Tournay, ayant deux Chanoines pour Diacre &amp; Sousdiacre, &amp; cinq autres Assistans, tous revestus des plus beaux ornemens de la Cathédrale, qui sont tres-superbes, tant par leur matiere, que par la riche broderie dont ils sont couverts. La Musique qui est meilleure à Tournay que dans tout le reste de la Flandre, se fit particulierement admirer dans cette Cérémonie. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-12_051">
+        <head>MG-1681-12_051</head>
+        <bibl>Mercure Galant, décembre 1681, p. 51-61</bibl>
+        <p>Cerémonies faites à la Benédiction de la Citadelle de Mont-Loüis.</p>
+        <p/>
+        <p>Vous avez déjà sans doute entendu parler de Mont-Loüis. C'est une Place que Sa Majesté fait bâtir depuis trois ans en Cerdagne, à deux lieuës de Puycerda, au plus haut des Pyrenées, pour mettre le Languedoc &amp; le Roussillon à couvert des insultes des Ennemis, ausquelles ces deux Provinces avoient esté exposées pendant les derniéres guerres. [...] La Citadelle, malgré la rigueur de ce climat, qui ne permet d'y travailler que cinq mois au plus dans toute l'année, se trouvant en état de recevoir la Garnison que le Roy y destinoit cét Hyver, Mr le Comte de Chazeron, Lieutenant Général des Armées de Sa Majesté &amp; de la Province de Roussillon, &amp; Mr Trobat Président au Conseil Souverain, s'y rendirent le vingt-troisiéme d'Octobre dernier, accompagnez de Mr de Zurtauben, Inspecteur Général des Troupes, Colonel Commandant du Régiment de Furstemberg ; de Mr de la Caussade Lieutenant pour le Roy de la Citadelle de Perpignan, &amp; de plusieurs autres Officiers, pour la Bénédiction qui se devoit faire de cette Place, le Dimanche vingt-sixiéme du mesme mois ; [...]. Toutes les Troupes, au nombre de plus de quatre mille hommes d'Infanterie, qui campoient aux environs, se rendirent le matin dans la Citadelle, dont elles bordérent les ramparts, avec des munitions pour les Salves qui leur seroient ordonnées pendant la Cérémonie, en mesme temps que se feroient celles de trente Piéces de Canon, qu'on y avoit amenées depuis un mois. [...] estant entrez dans la Chapelle de la Citadelle, avec tout le reste des Officiers, une grande Messe y fut célébrée avec toute la pompe possible. Si-tost qu'on la commença, les Ingénieurs employez à la construction de la Place, partirent de la Maison de Mr Durban, précédez de quatre Trompetes, de douze Hautbois, &amp; de vingt-quatre Tambours, que suivoient quatre Sergens. Mr la Lande principal Ingenieur, portoit un Bassin, dans lequel estoient trois Clefs dorées, attachées ensemble par un Ruban bleu. [...] Cette Bénédiction finie, Mr Trobat présenta le Bassin à Mr de Chazeron, qui prenant les Clefs, les délivra à Mr Durban. Ce dernier les remit entre les mains de Mr de Longpré Lieutenant du Roy, d'où elles passérent entre celles de Mr de S. Martin Major, de Mr Creté Aide-Major, &amp; enfin de Mr de S. Laurens Capitaine des Portes, qui les garda jusqu'à la fin de la Messe. Tout cela se fit au bruit des Trompetes, Hautbois &amp; Tambours, avec les acclamations publiques de Vive le Roy. La premiére Salve de toute la Mousqueterie s'estant faite en ce moment, fut suivie de celle du Canon, &amp; l'une &amp; l'autre réïtérée pendant l'Elevation. La Messe estant achevée, on chanta les Priéres pour le Roy, apres lesquelles on alla benir la Citadelle, à porter les Clefs au Logis du Gouverneur. Quand on y fut arrivé, le Capitaine des Portes luy remit ces Clefs qu'il avoit toûjours gardées, &amp; là on fit la Bénédiction de la Citadelle, après quoy on s'en retourna à la Chapelle en chantant le Te Deum, au bruit du Canon &amp; de la Mousqueterie. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-12_154">
+        <head>MG-1681-12_154</head>
+        <bibl>Mercure Galant, décembre 1681, p. 154, 164-166</bibl>
+        <p>Ce qui s'est passé avant la mort de M. Bernardy, à l'Attaque du Fort qu'il faisoit construire tous les ans.</p>
+        <p/>
+        <p>Je vous ay appris la mort de Mr Bernardy. Quelques mois avant qu'elle arrivast, il avoit fait à son ordinaire construire un Fort, que les jeunes Gentilhommes de son Académie attaquérent il y a environ deux mois dans toutes les formes d'un vray Siége. [...]</p>
+        <p>Les Assiégez sortirent Tambour batant, Méche allumée, &amp; Balle en bouche. Après la Prise du Fort, Mr le Comte de Verüe, &amp; Mrs les Marquis de Breauté, de Biron, &amp; de la Saumés, furent choisis pour faire l'exercice du Drapeau, dont ils s'acquitérent admirablement, au son des Hautbois, des Tambours, &amp; des Trompetes. [...]</p>
+        <p>Ce seroit oster un grand ornement à cette Relation, que de n'y pas joindre une Lettre écrite sur la Prise de ce Fort, par un des plus beaux Esprits de nostre temps. Tous les Ouvrages qu'il a donnez au Public ont esté si approuvez, que ce que je pourrois dire icy à son avantage, n'ajoûteroit rien à sa reputation. Ainsi je vous laisse lire.</p>
+      </div>
+
+<div xml:id="MG-1681-12_167">
+        <head>MG-1681-12_167</head>
+        <bibl>Mercure Galant, décembre 1681, p. 167-168</bibl>
+        <p>Lettre de M. de Varmorieres sur le mesme sujet, à M. le Marquis de Martel.</p>
+        <p/>
+        <p>A Mr LE MARQUIS DE MARTEL.</p>
+        <p>Est-il possible, Monsieur, que vous me querelliez sans sujet, &amp; qu'un Homme que la Turquie n'a pû gaster dans un Voyage de Constantinople, soit venu prendre un coeur Turc au milieu de la Chrétienté ? Cependant il est bon de ne me plus faire de ces pieces. Je suis devenu impatient &amp; colere depuis vostre depart. Je pense que c'est le chagrin qui m'a changé de la sorte. Si je vous avois répondu sur le champ, je l'aurois fait d'une terrible maniere, mais heureusement pour vous, on m'a entraîné à l'Opéra, &amp; la Symphonie a moderé mon ressentiment. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-12_179">
+        <head>MG-1681-12_179</head>
+        <bibl>Mercure Galant, décembre 1681, p. 179-182, 184-187, 190-191</bibl>
+        <p>Histoire.</p>
+        <p/>
+        <p>Ce que vous m'avez mandé des fausses Bergeres de vôtre Canton, me fait connoître qu'on s'y divertit agréablement. Je doute pourtant que le divertissement que se sont donné ces belles Personnes, égale celuy dont j'ay à vous faire part. Il a esté pris par deux Cousines, qui ont toutes deux de la qualité, &amp; beaucoup de bien. [...] Le séjour de la Campagne estant ennuyeux, si on n'est d'humeur à se divertir de tout, elles apprirent il y a deux mois qu'il se devoit faire aux environs une Nopce de Village, &amp; en mesme temps elles resolurent d'y aller dancer en habit de Païsannes. Le jour de la Feste estant arrivé, on leur vint dire qu'il y avoit eu de la dispute entre les Parens des futurs Epoux, &amp; que si le mariage n'estoit pas rompu, il ne se feroit du moins de longtemps. Elles s'estoient preparées à un plaisir, dont il leur fâchoit de se voir privées. Pour en joüir malgré la rupture, il leur prit envie de suppléer à la Nopce, &amp; d'en joüer elles-mesmes les principaux personnages. [...]</p>
+        <p>S'estant ainsi déguisés, ils s'en allérent tous quatre sur les cinq heures du soir à un Village voisin, où ils prirent trois Menestriers. Ensuite les Violons joüant devant eux, ils vinrent chez une Dame de la connoissance des deux Cousines, à laquelle on fut contraint de le découvrir. Apres qu'elle eut promis le secret, la pretenduë Mariée envoya dire à dix ou douze jeunes Demoiselles des lieux voisins, qu'il y avoit une Nopce de Village dans celuy où elle estoit, &amp; qu'elle croyoit qu'elles voudroient bien l'y venir trouver pour y passer la soirée ensemble. La plûpart y vinrent, &amp; sçeurent de son Laquais que l'on fit mettre à la porte, qu'elle arriveroit incontinent avec une Amie chez qui elle avoit passé. Ces jeunes Personnes estant entrées dans la Salle où joüoient les Violons, on leur fit baiser la Mariée, qui s'avança en baissant les yeux &amp; faisant fort la honteuse. [...] On dança force Courantes entremeslées de Menuets ; [...]</p>
+        <p>En mesme temps on se mit en marche, les trois Violons, joüant devant cette belle Troupe. [...] On arriva chez la Dame, qui crût la Nopce effective, &amp; fut ravie qu'on luy amenast des Violons. Plusieurs Gentilhommes estoient avec elle, &amp; commencerent un Bal fort divertissant, dont la jeune Mariée eut tous les honneurs. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-12_224">
+        <head>MG-1681-12_224</head>
+        <bibl>Mercure Galant, décembre 1681, p. 224, 226-228</bibl>
+        <p>Cerémonie faite à Marseille par l'ordre exprés du Roy.</p>
+        <p/>
+        <p>Personne ne doute de la pieté de ce grand Prince. Elle paroist dans toutes ses Actions, &amp; l'on en a veu encor depuis peu une glorieuse marque dans la solemnité de la Feste que l'on a faite à Marseille par l'ordre exprés qu'il en a donné. [...]</p>
+        <p>Un Bedeau précedé de quatre Trompetes portoit un Guidon, où d'un costé estoit peint un Soleil d'Eglise que deux Anges soûtenoient. [...] Huit Marguilliers suivoient ce Bedeau marchant deux à deux, &amp; tenant chacun un Flambeau de cire blanche. Les Comites des Galeres paroissoient en suite avec plusieurs Hautbois à leur teste. Derriere eux estoient deux Tambours de Guerre, précedant les Ecrivains. Ces derniers marchoient devant les Ordres Religieux qui sont au nombre de vingt, &amp; ceux-cy, devant les quatre Paroisses. Celle de la Major estoit en Chapes fort riches, ayant à la teste un Choeur de Musique, &amp; à la queuë, quantité de Violons. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-12_302">
+        <head>MG-1681-12_302</head>
+        <bibl>Mercure Galant, décembre 1681, p. 302-303, 307-311</bibl>
+        <p>Cerémonie faite à Lille en Flandre par les Chevaliers de S. Lazare.</p>
+        <p/>
+        <p>Le Mercredy 17. de ce mois Mr de la Rabliere, Grand Prieur pour la Flandre, de l'Ordre de Nostre-Dame de Mont-Carmel, &amp; de Saint Lazare de Jerusalem, fit faire une tres-pompeuse Solemnité de la Feste de ce Saint, dans l'Eglise des Peres Carmes de Lile. [...] La Solemnité commença le jour précedent aux premieres Vespres que l'on chanta en Musique. Tous les Commandeurs &amp; Chevaliers des Villes voisines y assisterent, &amp; furent placez sur deux Estrades par Mr le Conseiller Turpin, qui faisoit la Charge de Maistre des Ceremonies. [...]</p>
+        <p>Le Lendemain à neuf heures du matin, tous ces Commandeurs &amp; Chevaliers partirent de chez Mr le Grand Prieur où ils s'estoient assemblez, &amp; se rendirent au Convent des Peres Carmes au bruit des Timbales, des Tambours &amp; des Trompetes.</p>
+        <p>Le Supérieur accompagné de tous ses Religieux, les vint recevoir à la Porte de l'Eglise, &amp; fit compliment à Mr le Grand Prieur, sur la joye qu'avoit le plus ancien des Ordres Reguliers, de se voir uny de Societe au plus ancien des Militaires. Il entonna en suite le Te Deum, &amp; tous ces Messieurs allerent prendre les places qui leur estoient préparées. On commença la Messe aussi-tost, &amp; elle fut chantée en Musique. [...] La Messe estant achevée, tous les Commandeurs &amp; Chevaliers allerent chez Mr le Grand Prieur qui les régala magnifiquement. Ils retournerent de là aux secondes Vespres ; &amp; apres que la Benediction eut esté donnée, on entendit un fort grand bruit de Petards, Boëtes, &amp; autres feux d'artifice, accompagnez de Trompetes, de Tambours &amp; de Timbales. Le lendemain on fit un Service solemnel dans la mesme Eglise pour tous les Morts de cet Ordre.</p>
+      </div>
+
+<div xml:id="MG-1681-12_318">
+        <head>MG-1681-12_318</head>
+        <bibl>Mercure Galant, décembre 1681, p. 318-320</bibl>
+        <p>Divertissemens nouveaux.</p>
+        <p/>
+        <p>Les Divertissemens de Paris n'ont pas esté en grand nombre depuis ma derniere Lettre. Vous sçavez qu'ils n'y commencent que lors qu'on entre dans le Carnaval, &amp; que le plaisir de la Comédie est le seul qu'on prenne en toutes saisons. Deux Pieces nouvelles ont paru ce mois-cy presque en mesme temps. Les Comédiens François nous ont donné l'une sous le nom de Cléopatre, &amp; l'autre a esté joüée sur le Théatre des Italiens, avec le titre d'Arlequin Vendangeur. Toutes les deux ont esté parfaitement bien représentées, &amp; l'on a couru en foule voir Mr le Baron dans le Sérieux, &amp; Arlequin dans le Comique. Mr de la Chapelle, Autheur de la Cléopatre, s'est acquis beaucoup de gloire en réüssissant dans un Sujet traité autrefois avec beaucoup de succés par Mr de Benserade, &amp; par feu Mr Mairet. Je vous envoyeray sa Piece si-tost qu'elle sera imprimée, afin que vous ayez le plaisir de voir ce qui a tiré des larmes de quantité de beaux yeux.</p>
+      </div>
+
+<div xml:id="MG-1681-12_323">
+        <head>MG-1681-12_323</head>
+        <bibl>Mercure Galant, décembre 1681, p. 323-329</bibl>
+        <p>Divertissemens de la Cour.</p>
+        <p/>
+        <p>Je vous ay déjà marqué qu'au retour du Voyage du Roy on a joüé à la Cour le Bourgeois Gentilhomme alternativement avec le Pourceaugnac. Apres quelques Représentations, Monseigneur le Dauphin voulut se donner le plaisir de dancer dans l'une des Entrées qui font l'ornement de chacune de ces Pieces. Il choisit dans le Bourgeois Gentilhomme l'Entrée des Espagnols &amp; Espagnoletes, &amp; nomma pour dancer avec luy Monsieur le Prince de la Roche-sur-Yon, Mr le Comte de Brionne, Madame la Princesse de Conty, Madame de Seignelay, &amp; Mademoiselle de Laval. Mr de Beauchamp dançoit seul par intervales dans le milieu de cette Entrée. Madame la Princesse de Conty fit voir avec la grace qui luy est si naturelle, tout ce que la Dance a d'agrémens. Les mesmes Personnes dancerent avec Monseigneur le Dauphin une Entrée de Biscayens &amp; de Biscayennes, dans le Pourceaugnac. La maniere aisée avec laquelle Mademoiselle de Nantes fait tout ce qu'elle entreprend, jointe à la disposition &amp; à la grande justesse qu'elle a pour la Dance, la fit souhaiter dans cette Entrée. Elle en apprit aussitost les Pas, &amp; Mr le Comte de Guiche fut choisy pour dancer avec cette Princesse. Ils furent accompagnez de quatre jeunes Personnes, deux Garçons, &amp; deux Filles. L'enjouement de cette Entrée fut d'autant plus agreable, qu'on y batoit du Tambour de Basque, &amp; que les Pas estoient un peu élevez, &amp; par conséquent extraordinaires. Tout cela demande de la bonne grace, du sçavoir, &amp; de l'adresse ; &amp; comme toutes ces choses sont naturelles à Mademoiselle de Nantes, elle se distingua d'une maniere qui luy attira les voix &amp; les coeurs de tout le monde. Sa Majesté s'est tellement divertie à voir ces Entrées, que toutes les deux ont esté dancées dans chaque Piece. Mr de Lully a représenté le Personnage du Mufty dans le Bourgeois Gentilhomme. C'estoit luy qui le joüoit dans les premieres Représentations de cette Piece qui fut faite pour le Roy dans un Voyage qu'il fit à Chambord, &amp; il a crû le devoir continuer pour donner plus de plaisir à Sa Majesté, parce qu'ayant composé toute la Musique récitative de ce Personnage, aucun n'en peut avoir une plus parfaite intelligence, ny le joüer d'une maniere plus juste. A peine a-t-on conçeu le dessein de ces Entrées, qu'elles ont paru. On les a apprises, &amp; les Habits ont esté faits d'un jour de Ballet à l'autre, l'ordre &amp; l'exécution n'estans aujourd'huy qu'une mesme chose à la Cour. Je ne dois pas oublier de vous dire, en vous parlant de Mr de Lully, qu'il a esté reçeu icy depuis quelques jours Secrétaire du Roy. Quand on possede un bel Art dans le supréme degré, qu'on adjoûte à la Nature, &amp; qu'on la perfectionne, il n'est point de Dignitez où l'on ne puisse se voir élevé, sur tout quand on fait comme Mr de Lully l'admiration de presque toutes les Nations polies.</p>
+      </div>
+</body>
+  </text>
+</TEI>

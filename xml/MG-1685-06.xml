@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-06_089">
+        <head>MG-1685-06_089</head>
+        <bibl>Mercure Galant, juin 1685, p. 89-94, 96-97</bibl>
+        <p>Ceremonies magnifiques faites dans la Ville de Luxembourg [en l'honneur de la Vierge]</p>
+        <p/>
+        <p>Ce qui s'est fait le 10. du dernier mois à Luxembourg vous surprendra d'autant plus, qu'il vous paroistra que cette Ville, quoy qu'elle ait esté foudroyée dans le dernier Siege qu'elle a souffert, est en aussi bon état, &amp; aussi tranquille &amp; florissante que si elle n'avoit point eu de Guerre depuis un Siecle. Mais quels desordres ne reparent pas en peu de temps les liberalitez de nostre auguste Monarque ? Il s'agissoit d'une solemnelle Procession, dans laquelle l'Image miraculeuse de Nostre-Dame de Consolation, Patronne du Duché de Luxembourg &amp; Comté de Chiny, devoit estre reportée de la Capitale de la Province en sa Chapelle. [...] La Procession étant résoluë, &amp; les Jésuites qui avoient disposé leurs Ecoliers à y paroistre avec tout l'éclat possible, ayant choisi pour la faire le jour que je viens de vous marquer. Elle commença à sortir de leur Eglise sur les deux heures aprés midy. L'ouverture s'en fit par les Genies de l'Eglise, de la France, &amp; du Luxembourg ; accompagnez de celuy du Christianisme, chacun avec son inscription. Il y eut une marche des Roys de France les plus affectionnez à la Vierge, tels que Clovis, Dagobert, Charlemagne, Robert, Philippe Auguste, S. Loüis, Philippe de Valois, Charle VI. Loüis XI. François I. Charles IX. Henry III. Cette marché fut suivie de deux magnifiques Chars, l'un de Loüis XIII. offrant sa Personne &amp; son Royaume à la Vierge, &amp; l'autre de Loüis le Grand confirmant ce mesme hommage. [...] La Joye, la Force, l'Abondance, &amp; la Santé, qui sont des biens qu'obtiennent ordinairement ceux qui honorent la Vierge, marchoient à la teste des Villes du Luxembourg, pour faire connoistre que ces agréables Nymphes leur avoient persuadé de reclamer sa protection. [...]</p>
+        <p/>
+        <p>La Province de Luxembourg suivoit sur son Char, qui estoit conduit par deux Genies. Elle montroit d'un côté la Paix, l'Abondance &amp; les beaux Arts, &amp; de l'autre Mars et Bellone dans les Chaînes. La Congregation des jeunes Hommes, &amp; celle des Bourgeois mariez, chacune sous son Etendard, &amp; les Corps des Métiers marchoient immediatement aprés ce troisiéme Char. On vit ensuite les Ordres Religieux &amp; le Clergé, au milieu duquel les Jésuites portoient la Statuë de Nostre-Dame de Consolation. Ils estoient suivis des Magistrats, &amp; de Messieurs du Conseil du Roy. Mr le Marquis de Lambert Gouverneur de la Place, ayant avec luy les principaux Officiers, accompagna la Procession. Elle rencontra pendant la marche divers Theatres dressez dans la Ville. De pieux Spectacles l'arresterent chacun. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_098">
+        <head>MG-1685-06_098</head>
+        <bibl>Mercure Galant, juin 1685, p. 98-105</bibl>
+        <p>Autres faites à Soisson</p>
+        <p/>
+        <p>Dans le mesme temps, c'est à dire le 3. du mesme mois, on fist à Soisson une autre Procession solemnelle pour la Translation des Reliques de Saint Gervais &amp; de Saint Prothais, Patrons de l'Eglise Cathédrale, apportées de la Ville de Brissac, où leurs Corps sont conservez depuis plusieurs Siecles. [...] Tous les Chapitres, Communautez, Ordres, &amp; Paroisses de la Ville assisterent à cette Procession, ainsi que les Corps du Présidial, de l'Election, de la Maréchaussée, &amp; autres. A la teste, marchoit la Compagnie des Arquebusiers, l'une des plus lestes &amp; des plus nombreuses du Royaume. La Chasse dans laquelle sont ces précieuses Reliques, fut portée depuis l'Eglise de Saint Grespin le Grand jusqu'à la Cathédrale, qui en est éloigné d'un grand quart de lieuë par deux Chanoines, accompagnez de douze Diacres ayant des Palmes en leurs mains ; pour marque de la victoire que ces SS. ont remportée sur les Ennemis de la Foy. Mr l'Evesque de Soissons marchoit ensuite revêtu de ses Habits Pontificaux. Depuis l'Eglise de Saint Crespin, jusques à la Cathedrale, il y avoit cinq Reposoirs ornez de différentes manieres. Celuy de l'Eglise de l'Abbaye Nostre-Dame ; fait par l'ordre de Madame de la Rochefoucault qui en est Abbesse, estoit le plus riche. Cette Dame accompagnée de Madame l'Abbesse de Saint Sauveur sa Soeur &amp; Madame de Musillac, Coadjutrice de cette derniere, paru à la teste de sa Communauté, qui chanta les Répons &amp; les Hymnes ordinaires en de pareilles occasions, avec une mélodie merveilleuse, si-tost qu'on y eut posé la Chasse. Elle fut portée ensuite dans la Nef de la Cathédrale, &amp; mise sur un Reposoir paré d'un nombre infiny de Bijoux &amp; de Fleurs. Mr l'Evesque de Soisson monta en Chaire dans le mesme temps, &amp; dans le Panégyrique qu'il fit de ces Saints, avec l'éloquence qui luyest si naturelle, il n'oublia rien de ce qui pouvoit relever le mérite du Martyre qu'ils ont souffert par la fureur des Idolatres du Siecle où ils ont vécu. Il prit l'occasion de rendre graces au Ciel, d'avoir fait naistre un Monarque dont le courage invincible, &amp; la pureté de la Religion avoient si glorieusement dissipé l'erreur des Calvinistes. Il ajoûta que ce Prince qui est l'admiration de toute la Terre, &amp; l'amour de ses Sujets, avoit esté heureusement, servy dans cette entreprise par les grands talens &amp; les forts raisonnemens de Mr l'Evesque de Meaux, dont le bel ouvrage a presque achevé la conviction de ces Obstinez. Mr Bossuet, Frere de M de Meaux, qui est depuis quelques jours Intendant de la Province avec une approbation genérale, estoit present à cette Céremonie. Elle finit par le Te Deum que Mr l'Evesque de Soissons entonna, &amp; qui fut chanté par la Musique ordinaire, au bruit des Cloches, des Fifres &amp; des tambours [...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_107">
+        <head>MG-1685-06_107</head>
+        <bibl>Mercure Galant, juin 1685, p. 107-110</bibl>
+        <p>Autres faites à Paris par les Augustins Reformez établis au Fauxbourg Saint Germain [Procession de l'octave chez les Augustins réformés du faubourg Saint-Germain]</p>
+        <p/>
+        <p>Les Augustins Réformés établis au Fauxbourg Saint Germain, ont aussi commencé par une Procession la Solemnité de l'Octave qu'ils ont faite cette année de Saint Felicissime. Ils firent cette Procession à l'issuë de Vespres le Dimanche 29. Avril avec une pompe digne de la venération qu'on doit avoir pour ce Saint dont ils ont le Corps entier dans une Chasse de trois pieds de long &amp; de deux de large. Quatre Religieux Prestres revétus d'Aubes &amp; de Dalmatiques la portoient. Ils avoient à leurs costez la Compagnie des Gardes de Mr le Duc de Crequi Gouverneur de Paris avec leurs Officiers, &amp; estoient environnez d'une Troupe de petits Anges portant des Flambeaux &amp; des banderoles. La Procession estant arrivée à l'Abbaye de Saint Germain des Prez, le Prieur en Chappe qui l'attendoit avec ses Religieux à la Porte de l'Eglise, harangua le Pere Talon, Prieur des Augustins, qui l'avoit premierement harangué sur le sujet de cette Sainte Relique, aprés quoy il fit chanter le Te Deum. On alla dans l'Eglise des Peres de la Charité, qui se trouverent tous à la Porte pour y recevoir la Procession, ce qui estant fait, elle retourna à l'Eglise des Peres Augustins, où la Chasse fut posée sur une Table qui estoit sur une Estrade, autour de laquelle il y avoit une Balustrade avec un riche Dais au dessus. On chanta le Te Deum, &amp; pendant ce temps les Religieux qui estoient en deux Colomnes au nombre de cent quatorze, vinrent deux à deux baiser la Chasse. Le Te Deum achevé, Mr le Curé de Saint Sulpice monta en Chaire, &amp; fit l'Eloge du Saint avec un zele qui répondoit à sa pieté. La Chasse demeura exposée toute l'Octave, &amp; beaucoup de Personnes qui sont venuës reclamer ce Saint, en ont receu des soulagemens extraordinaires. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_266">
+        <head>MG-1685-06_266</head>
+        <bibl>Mercure Galant, juin 1685, p. 266-267, 269-272</bibl>
+        <p>Mort de Madame l'Abbesse de Farmontier</p>
+        <p/>
+        <p>Le 30. du dernier mois, Madame l'Abesse de Farmonstier en Brie, mourut fort regretée de toute sa Communauté. [...] Madame l'Abbesse de Farmontier dont je vous parle, avoit l'esprit élevé &amp; fort pénetrant, &amp; faisoit paroistre une extréme vivacité dans toutes les affaires qu'elle traitoit. [...]</p>
+        <p/>
+        <p>Les actions &amp; les paroles édifiantes qui ont précedé sa mort, ont accompagné ses derniers momens. Elle a prévu en quelque façon le changement qui devoit se faire en elle, &amp; elle s'y est préparée pendant quelque mois, par tous les exercices de penitence qu'elle pouvoit pratiquer. La mort d'un sage Directeur, en qui elle avoit mis son entiere confiance depuis un fort grand nombre d'années, fut un présage qui luy fit connoître que le temps de la sienne s'approchoit. Elle n'avoit pas encore essuyé ses larmes pour une perte qui luy estoit si sensible, lors qu'elle fut attaquée de la maladie dont elle est morte. Sa patience n'y a pas moins éclaté que sa resignation &amp; son amour pour son Createur. Elle prenoit elle-mesme soin de consoler toutes les personnes qui l'assistoient, &amp; qui s'affligeoient de l'extrémité où son mal l'avoit réduite. Elle demandoit des Cantiques de joye pour son heureuse délivrance de la prison de ce monde, &amp; prioit les Religieuses de moderer leur douleur, par l'esperance qu'elle a toujours témoigné avoir, que celuy qui l'avoit fait naistre dans l'Eglise, luy donneroit l'entrée dans la Gloire. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_277">
+        <head>MG-1685-06_277</head>
+        <bibl>Mercure Galant, juin 1685, p. 277, 279-280, 286-287, 291-293, 308-309, 311-314, 316-317</bibl>
+        <p>Relation contenant tout ce qui s'est passé depuis que les Ambassadeurs de Moscovie sont arrivés en France, jusques à leur départ</p>
+        <p/>
+        <p>L'abondance des matieres qui remplissoient ma Lettre le dernier mois, fut cause que je ne vous parlay point des Ambassadeurs de Moscovie. [...]</p>
+        <p/>
+        <p>Comme il s'agissoit de les envoyer à un Monarque, qu'admirent ceux mesme qui sont jaloux de sa gloire, les Czàrs ont voulu qu'ils vinssent tout droit en France, sans faire la fonction d'Ambassadeur dans une autre Cour, &amp; qu'ils retournassent à Moscou de la mesme maniere, pour faire connoistre qu'ils en estoient partis exprés pour venir en France, &amp; qu'ils n'avoient rien à voir après avoir veu le Roy. On les a mesme pressez de partir avec des ordres de ne se point arrester dans leur voyage. [...]</p>
+        <p/>
+        <p>Le Roy sçachant qu'ils estoient arrivez à Hambourg, &amp; qu'ils devoient venir débarquer à Calais, choisist Mr Tors, l'un des Gentilhommes de sa maison, pour les y recevoir, parce qu'il s'est toûjours tres-bien acquitté des Commissions de cette nature, &amp; qu'ils s'est mesme distingué en beaucoup d'autres occasions [...]</p>
+        <p/>
+        <p>Ils arriverent le 12 de May à Saint Denys. Le Mr de Bonneüil Introducteur des Ambassadeurs, alla les visiter de la part du Roy, &amp; le 17. Mr le Maréchal de Humieres, &amp; le mesme Mr de Bonneüil, allerent les prendre dans les Carosses de Sa Majesté, &amp; de Madame la Dauphine, &amp; les amenerent à Paris. Ces Carosses estoient suivis de trois Carosses de Mr le Maréchal de Humieres, de celuy de Mr de Bonneüil, &amp; de plusieurs autres pour la suite de ces Ambassadeurs, qui montoit environ à quatre vingt personnes. Il y en avoit plusieurs à cheval, parmy lesquels six Trompettes &amp; un Timbalier se firent entendre. [...]</p>
+        <p>[Le 22 mai, ils furent reçus en audience par Louis XIV. Selon la coutume, les ambassadeurs prononcèrent un discours dans lequel ils témoignaient de l'amitié unissant les deux royaumes, ils présentèrent leur lettre de créance au roi et offrirent de nombreux présents.]</p>
+        <p/>
+        <p>L'audience estant finie, ces Ambassadeurs furent traitez magnifiquement avec toute leur suite par les Officiers de Sa Majesté, &amp; reconduits à Paris avec les mêmes ceremonies.</p>
+        <p>Le premier de Juin, ils se rendirent à Versailles, à l'appartement de Mr Colbert de Croissy. [...]</p>
+        <p/>
+        <p>[Le jour de cette audience,] on leur fit voir les Eaux, les Jardins, &amp; les Appartemens du Château de Versailles. Rien ne se peut ajoûter aux termes dont ils se servirent pour témoigner leur étonnement ; il y en eut mesme de si forts, qu'on ne les peut rapporter icy. Ils dirent entre autres choses, que ceux qui avoient l'avantage d'y entrer, estoient bien heureux. Mr Tors les voyant embarassez à retenir tant de choses, dont ils vouloient faire le recit lorqu'ils seroient retournez en Moscovie, leur fit present des Estampes de toutes les Maisons Royales. Ils ont vû icy la plus grande partie de tout ce qu'il y a de curieux. [...] L'Opera leur a aussi causé beaucoup de surprise ; &amp; à peine a-t-on pû leur persuader qu'il n'y avoit point d'enchantement. Le 3 de ce mois, ils eurent leur Audience de Congé du Roy, avec les mesmes ceremonies qui avoient esté observées à leur premiere Audience. [...]</p>
+        <p/>
+        <p>Ils partirent le lendemain, toûjours défrayez aux dépens du Roy, &amp; accompagnez de Mr Tors, pour aller à Dunkerque, &amp; passer en Hollande, le Commerce qui est entre les Hollandois, &amp; les Sujets de leurs Maistres leur donnant lieu de trouver facilement des Vaisseaux pour les conduire chez eux. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_321">
+        <head>MG-1685-06_321</head>
+        <bibl>Mercure Galant, juin 1685, p. 321-323</bibl>
+        <p>Present fait par le Roy à Mr le Duc de Saint-Aignan, qui est receu en mesme temps Academissien dans l'Academie de Padouë, nommé Ricourati</p>
+        <p/>
+        <p>[Un sabre] qui estoit parmy les Presens que les Ambassadeurs Moscovites ont faits au Roy, a esté donné par Sa Majesté à M. le Duc de Saint Aignan. Il est garny de Diamans, d'Emeraudes, de Rubis, &amp; de Saphirs. Sa Majesté dit à ce Duc en le luy donnant, qu'Elle ne pouvoit le remettre en de meilleures mains. [...] Ce Duc avoit donné quelque temps auparavant, une Epée d'or à M. Morel de la Musique du Roy, &amp; Valet de Chambre de Madame la Dauphine. M. Morel fit sur ce sujet le Distique Latin que je vous envoye.</p>
+        <p/>
+        <p>O me felicem ! O carum mihi pignus honoris !</p>
+        <p>Majus enim gladio quid dare</p>
+        <p>Mars potirat ?</p>
+        <p/>
+        <p>Le mesme fit l'Impromptu que vous allez voir, dans le temps que M. le Duc de Saint-Aignan parut le jour du Carrousel, à la teste de tous les Chevaliers.</p>
+        <p/>
+        <p>Illustre Saint Aignan qui menés ces Guerriers</p>
+        <p>Dans le Champ des Plaisirs moissonner des lauriers,</p>
+        <p>Que ton abord pour nous a d'attraits &amp; de charmes !</p>
+        <p>Mais que tes Enemis le trouveroient affreux</p>
+        <p>Si tu les conduisois à la gloire des Armes</p>
+        <p>Comme tu les conduis à la Gloire des jeux !</p>
+        <p/>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1685-06_331">
+        <head>MG-1685-06_331</head>
+        <bibl>Mercure Galant, juin 1685, p. 331-334</bibl>
+        <p>[A propos du portrait de Lully par Mignard]</p>
+        <p/>
+        <p>Un Peintre fameux a fait le Portrait d'un homme tres-celebre par ses Ouvrages, &amp; ce Portrait a esté gravé par un tres-habile Graveur. Le Peintre est Mr Mignard, fils de feu Mr Mignard d'Avignon, &amp; Neveu de Mr Mignard, qui n'a besoin que d'estre nommé pour estre connu. Jugez si celuy dont je vous parle estant digne fils &amp; neveu de deux hommes si illustres, ne merite pas luy-même ce titre. Feu Mr Mignard son pere, qui a peint de si belles choses dans le Palais des Thuileries, pouvoit disputer dans l'Art dont il se mêloit avec les plus fameux de son temps. Il ne faut pas s'étonner s'il a laissé un fils qui luy succede dans sa reputation, &amp; qui ne se fait pas moins estimer par la force que par la delicatesse de son pinceau. Quand les Portraits qu'il fait ne seroient pas aussi ressemblans qu'ils sont, ils pourroient passer pour de bons Tableaux, &amp; se vendre sur ce pied là, ce qui est assez rare, les Peintres qui travaillent aux Portraits s'attachant ordinairement beaucoup moins à la bonne Peinture qu'à la ressemblance, qui est ce que l'on cherche le plus dans un Portrait. Quoy que j'en aye veu plusieurs de Mr Mignard, &amp; tous également beaux, je ne m'en fie ny à mes yeux ny à mes lumieres, &amp; je parle sur la foy des plus habiles connoisseurs, &amp; des personnes du meilleur goust. Le Portrait que cet Illustre a fait au naturel, est de Mr de Lully. Il a esté gravé par Mr Roulet, Eleve de Mr Poilly ; qui aprés avoir apris son métier sous un si grand Maistre, s'est perfectionné pendant douze ans en Italie. Les Devises qui servent d'ornement à ce Portrait, sont de Mr l'Abbé Tallemant le jeune, dont les Ouvrages n'ont point besoin d'éloges pour estre estimez. Comme la Poësie convient bien aux Peintres, parce que les Peintres &amp; les Poëtes doivent souvent travailler d'imagination, Mr Mignard ne s'est pas contenté de faire connoistre Mr de Lully par son pinceau, il a aussi voulut le peindre dans les vers qui sont au bas de l'Estampe de son Portrait. Cette Estampe se vend chez celuy qui l'a gravée, ruë S. Honoré, proche les bastons Royaux.</p>
+      </div>
+</body>
+  </text>
+</TEI>

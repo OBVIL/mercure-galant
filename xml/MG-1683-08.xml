@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, août 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-08/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>août 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-08_054">
+        <head>MG-1683-08_054</head>
+        <bibl>Mercure Galant, août 1683, p. 54-59</bibl>
+        <p>[Nouvelle de la mort de la reine Marie-Thérèse]</p>
+        <p/>
+        <p>[...] [Alors que la reine venait de mourir, le 30 juillet,] beaucoup de Personnes de la Cour qui estoient sur le chemin, &amp; alloient à Versailles, sur le bruit qu'avoit fait sa maladie, aprirent sa mort avant que d'y arriver. Chacun ne sçavoit plus, ny ce qu'il disoit, ny ce qu'il faisoit, ny le Lieu où il devoit aller. On avoit ordonné un peu auparavant, les Prieres de quarante heures à Paris. Elles furent commencées en quelques Eglises, &amp; quoy que les nouvelles de cette mort eussent esté apportées, le Peuple qui avoit de la peine à croire ce qu'il craignoit, ne cessoit point de prier pour obtenir le recouvrement d'une santé qu'on vouloit encore s'imaginer estre en état de revenir telle qu'on la souhaitoit. Cette nouvelle estait assez répanduë pour avoir déjà couru par tout, on ne pouvoit la croire à Paris. Plusieurs allerent sur la route de Versailles pour en avoir le triste éclaircissement, [...]. Ce bruit s'estant rendu general, passa jusques au Théatre de l'Opéra. On estoit prest de commencer Phaëton, &amp; l'on joüoit déja l'Ouverture ; on ne continua pas, &amp; Mr de Lully ayant fait rendre l'argent qu'il avoit reçeu, renvoya l'Assemblée fort triste. Les Comédiens qui représentoient ce jour-là La Toison d'or, avoient déjà joüé le Prologue, lors qu'ils apprirent la mesme nouvelle. Il fut question de congédier l'Assemblée en luy rendant son argent. Celuy qui a de coûtume d'annoncer, ne voulut point faire sçavoir sur un théatre la mort de la Reyne à une grande Assemblée, &amp; dit seulement que le malheur qui venoit d'arriver, estoit cause que l'on ne poursuivroit pas la Représentation de la Piece. Chacun se demanda l'un à l'autre de quel malheur il vouloit parler ; &amp; une Dame qui estoit dans une Loge, l'ayant appris de ce mesme Acteur, fit un si grand cry, que tous ceux qui l'entendirent en ayant esté émeus, apprirent bientost cette fâcheuse nouvelle, &amp; meslerent leur douleur à celle de cette Dame.</p>
+      </div>
+
+<div xml:id="MG-1683-08_093">
+        <head>MG-1683-08_093</head>
+        <bibl>Mercure Galant, août 1683, p. 93-97</bibl>
+        <p>[Embaumement du corps de la Reine]</p>
+        <p/>
+        <p>[...] L'apresdînée du Samedy 31. on ouvrit le Corps de cette Princesse pour l'embaumer. On trouva qu'elle estoit morte d'un abcés, qui en se crevant avoit saisy le coeur, &amp; teint le poulmon. Toutes les parties du Corps estoient tres-saines, &amp; marquoient qu'elle auroit pû vivre longtemps. Sa fiévre n'avoit esté causée que par l'ardeur de son mal, &amp; c'est qu'on s'écrie, que les Sciences sont vaines, &amp; leurs lumieres douteuses. [...] [Son corps fut déposé] dans un Cercueil de plomb, sur lequel cette Inscription fut mise. C'est le Corps de Tres-Haute, Tres-Excellente, &amp; Tres-Puissante Princesse Marie Thérese, Infante d'Espagne, Epouse du Roy LOÜIS LE GRAND XIV. du nom, laquelle est décedée au Chasteau de Versailles le Vendredy 30 Juillet 1683 âgée de 45 ans. On le porta dans son grand Cabinet, qui estoit tendu de deüil depuis le haut jusqu'au bas, avec plusieurs Bandes de Velours chargées d'Escussons aux Armes de cette Princesse. [...] Pendant qu'on porta le Corps dans ce Cabinet, les Missionnaires, les Feüillans, &amp; les Récolets, chanterent le De profundis, &amp; d'autres Prieres. On le posa sur une Estrade élevée de deux pieds, sous un Daiz de Velours noir à grandes Crêpines d'argent, &amp; tout remply d'Escussons aux Armes de France &amp; d'Espagne. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-08_119">
+        <head>MG-1683-08_119</head>
+        <bibl>Mercure Galant, août 1683, p. 119-123</bibl>
+        <p>[Transport du corps de la reine à Saint-Denis]</p>
+        <p/>
+        <p>[...] [Plusieurs] Compagnies du Régimens des Gardes Françoises &amp; Suisses avoient esté rangées en double haye dans l'Avant Court du Chasteau avec leurs Armes traînantes, la bouche du Mousquet, &amp; le Fer des Piques en bas, les Drapeaux renversez &amp; pliez couverts de Crêpe, ainsi que les Tambours qui ne furent frapez que d'un seul coup pendant que la Pompe funebre passa entre leurs rangs. [...] [Le Corps fut posé sur un chariot] couvert d'un grand Poesle de Velours noir, croisé de Moire d'argent, &amp; bordé d'Hermine, avec plusieurs Ecussons fort larges en Broderies d'or &amp; d'argent. [...] Pendant que l'on y plaça le Corps, la Musique de la Reyne chanta un De profundis. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-08_148">
+        <head>MG-1683-08_148</head>
+        <bibl>Mercure Galant, août 1683, [p. 148-151]</bibl>
+        <p>[Théâtre dressé au Collège Louis-le-Grand]</p>
+        <p/>
+        <p>Mr le Recteur de l'Université ayant fait afficher dés les premiers jours de cette mort, des Défenses de représenter dans les Colleges aucuns Jeux de théatre, &amp; d'y rien faire paroistre qui n'eust des marques de deüil, elles ont esté observées avec une entiere exactitude. Ainsi au lieu des Tragédies que l'on a coûtume d'y représenter, on n'y a fait pour distribuer les Prix, que des déclamations qui faisoient connoistre la douleur que la perte de la Reyne causoit à la France. Le Lundy 16. de ce mois, les Jesuites du College de LOÜIS LE GRAND, s'imposant d'eux-mesmes une semblable défense, changerent leur spéctacle accoûtumé en une Pompe funebre. Au lieu du Théatre magnifique qu'on éleve tous les ans sur les quatre faces de la Court, on choisit l'Eglise, comme un Lieu propre à des Funérailles. Elle estoit toute tendüe de noir ; &amp; dés l'entrée, un grand Tableau qui faisoit voir le Sceptre de France, &amp; la Main de Justice, croisez avec des Ossemens, le Manteau Royal étendu avec un Suaire, &amp; des Testes de Mort couronnées, préparoit les spéctateurs à cette lugubre Cérémonie par une Inscription latine, renduë en ces mots. Entrez, &amp; voyez avec des larmes quelle Tragédie la mort nous représente cette année. Un Théatre élevé au mesme lieu où se dresse tous les ans celuy des Enigmes, faisoit voir un grand nombre de Tombeau de marbre, aupres duquel la Poësie, la Musique, la Tragédie, &amp; l'Eloquence pleuroient, &amp; abandonnoient leurs Instrumens. Au dessus de la couverture du Tombeau, estoit une Teste de Mort couronnée, traversée de deux Ossemens, le tout avec des Inscriptions convenables au sujet. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

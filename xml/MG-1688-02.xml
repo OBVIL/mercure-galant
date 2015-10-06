@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-02_062">
+        <head>MG-1688-02_062</head>
+        <bibl>Mercure galant, février 1688, p. 62-63</bibl>
+        <p>CELIMENE.</p>
+        <p>EGLOGUE.</p>
+        <p/>
+        <p>Assise à l'ombre d'un Chesne,</p>
+        <p>Sur le bord d'un clair ruisseau,</p>
+        <p>La Bergere Celimene,</p>
+        <p>Révoit au doux bruit de l'eau.</p>
+        <p>Son Troupeau dans la prairie,</p>
+        <p>Sur l'herbe tendre &amp; fleurie,</p>
+        <p>Erre au gré de ses desirs,</p>
+        <p>Dans le temps que la Bergere</p>
+        <p>Qu'un noir chagrin desespere</p>
+        <p>S'abandonne à ses soûpirs.</p>
+        <p/>
+        <p>En vain d'un tendre ramage</p>
+        <p>Les Oyseaux de ce Bocage</p>
+        <p>Veulent charmer sa douleur,</p>
+        <p>Tout déplait à sa langueur,</p>
+        <p>Le trouble qui l'inquiete</p>
+        <p>Rend ses ennuis si pressans,</p>
+        <p>Que mesme de sa Musette</p>
+        <p>Elle hait les doux accents.</p>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1688-02_099">
+        <head>MG-1688-02_099</head>
+        <bibl>Mercure galant, février 1688, p. 99-110</bibl>
+        <p>Vers en maniere de petit Opera, propres à mettre en chant.</p>
+        <p/>
+        <p>Voicy d'autres Vers fort agreables &amp; fort propres à estre mis en Musique ; aussi celuy qui les a faits n'a travaillé que dans la pensée qu'il se trouveroit quelque habile homme qui voudroit bien les mettre en estat d'estre chantez. Il y a plusieurs endroits où l'on peut faire des Choeurs. C'est une maniere de prologue d'Opera, &amp; comme il est à la loüange du Roy, la matiere invite à luy donner l'agrément du chant. On suppose que la Scene est dans une solitude agreable. L'ouverture est d'un Berger &amp; d'une Bergere.</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>Solitude charmante,</p>
+        <p>Agreables Forests,</p>
+        <p>Vostre tranquilité m'enchante.</p>
+        <p>Qu'auprés de vous le repos a d'attraits !</p>
+        <p/>
+        <p>LA BERGERE.</p>
+        <p>Belle Retraitte</p>
+        <p>Qui favorisez nos desirs,</p>
+        <p>Le Ciel ne vous a faite</p>
+        <p>Que pour estre témoin de nos plus doux plaisirs.</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>Bien-heureuse vie,</p>
+        <p>Que vous avez d'appas !</p>
+        <p>Vous nous enchantez icy-bas,</p>
+        <p>Nostre sort est digne d'envie.</p>
+        <p>Bien-heureuse vie.</p>
+        <p>Que vous avez d'appas !</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>Suivons l'Amour qui nous appelle,</p>
+        <p>Aimons, aimons-nous toûjours.</p>
+        <p/>
+        <p>LA BERGERE.</p>
+        <p>Lorsqu'on cede aux tendres amours,</p>
+        <p>La Chaisne en doit estre eternelle.</p>
+        <p/>
+        <p>Tous deux.</p>
+        <p>Suivons l'amour qui nous appelle,</p>
+        <p>Aimons, aimons-nous toûjours.</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>C'est un bonheur charmant</p>
+        <p>D'estre fidelle,</p>
+        <p>C'est un bonheur charmant</p>
+        <p>D'aimer constamment.</p>
+        <p>La peine cruelle</p>
+        <p>D'un parfait Amant</p>
+        <p>Redouble son empressement,</p>
+        <p>Une fiere Beauté n'est pas toûjours rebelle.</p>
+        <p>C'est un bonheur charmant</p>
+        <p>D'estre fidelle.</p>
+        <p>C'est un bonheur charmant</p>
+        <p>D'aimer constamment.</p>
+        <p/>
+        <p>LA BERGERE.</p>
+        <p>Fuyez de nous, Bergers volages,</p>
+        <p>Ne vous meslez point à nos Jeux.</p>
+        <p>Dans ces charmans Bocages</p>
+        <p>Il n'est point d'Amant malheureux.</p>
+        <p>Fuyez de nous, Bergers volages,</p>
+        <p>Ne vous meslez point à nos Jeux.</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>Que ce beau sejour est tranquille !</p>
+        <p>Rien n'en peut troubler les douceurs.</p>
+        <p>L'amour se plaist dans cette azyle,</p>
+        <p>Il en bannit les soûpirs &amp; les pleurs.</p>
+        <p/>
+        <p>Tous deux.</p>
+        <p>Nous devons annoncer le favorable empire</p>
+        <p>Du paisible repos qui regne parmy nous.</p>
+        <p>Aux Echos d'alentour faisons toûjours redire</p>
+        <p>Qu'il n'est point de Bergers dont le sort soit si doux.</p>
+        <p/>
+        <p>Mercure vient, precedé d'une Toupe [sic] de Divinitez, &amp; avant qu'il paroisse on entend une agreable Musique.</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>D'où peut venir cette harmonie ?</p>
+        <p/>
+        <p>LA BERGERE.</p>
+        <p>La douceur en est infinie.</p>
+        <p/>
+        <p>LE BERGER.</p>
+        <p>Que ces chants sont melodieux !</p>
+        <p/>
+        <p>LA BERGERE.</p>
+        <p>Rien n'est si charmant dans les Cieux.</p>
+        <p/>
+        <p>Une des DIVINITEZ qui viennent avant Mercure.</p>
+        <p>Venez, Bergers, que tout s'appreste</p>
+        <p>A celebrer une pompeuse Feste</p>
+        <p>Qui se fait par l'ordre des Dieux.</p>
+        <p>Mercure au nom de tous va paroistre en ce lieux.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Habitans fortunez qui goustez le repos,</p>
+        <p>Vous devez ce bonheur au plus grand des Heros</p>
+        <p>Il a banny la Guerre,</p>
+        <p>Il fait regner l'abondance &amp; la Paix.</p>
+        <p>Le calme qu'il rend à la Terre</p>
+        <p>Pour ses Peuples heureux ne finira jamais.</p>
+        <p/>
+        <p>Une des DIVINITEZ.</p>
+        <p>C'est le parfait bonheur des Peuples de la France</p>
+        <p>De respirer sous son obeïssance ;</p>
+        <p>C'est le parfait bonheur des Peuples de la France.</p>
+        <p>De respecter toûjours ses Loix.</p>
+        <p>Pour bien chanter son auguste puissance</p>
+        <p>Nous devons tous unir nos voix.</p>
+        <p>C'est le parfait bonheur des Peuples de la France</p>
+        <p>De respirer sous son obeïssance,</p>
+        <p>C'est le parfait bonheur des Peuples de la France</p>
+        <p>De respect toujours ses Loix.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Admirez sa magnificence,</p>
+        <p>Bergers, meslez vos chants à nos Divins Concerts,</p>
+        <p>Faites par tout éclater dans les airs</p>
+        <p>La suprême grandeur, la parfaite clemence</p>
+        <p>Du plus puissant Vainqueur qui soit dans l'Univers.</p>
+        <p/>
+        <p>Une des DIVINITEZ.</p>
+        <p>De quel éclat brille sa gloire !</p>
+        <p>Chacun luy dresse des Autels.</p>
+        <p>Son grand nom retentit au Temple de Memoire,</p>
+        <p>Où l'on voit par luy la Victoire</p>
+        <p>S'élever au dessus de tous les Immortels.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Sa valeur est incomparable.</p>
+        <p/>
+        <p>Une des DIVINITEZ.</p>
+        <p>Tous ses projets sont glorieux.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Il est favorisé des Cieux.</p>
+        <p/>
+        <p>Une des DIVINITEZ.</p>
+        <p>Tout l'Univers le trouve aimable.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Sa valeur est incomparable</p>
+        <p>Tous ses projets sont glorieux.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Je vois la Renommée, elle se fait entendre,</p>
+        <p>Les chants guerriers ne l'abandonnent pas.</p>
+        <p>Que pourroit-elle vous apprendre ?</p>
+        <p>Vers nous elle porte ses pas.</p>
+        <p/>
+        <p>LA RENOMMEE.</p>
+        <p>Je cours sur la Terre &amp; sur l'Onde</p>
+        <p>Pour parler des vertus du plus puissant des Rois,</p>
+        <p>Et ne puis dire assez de fois</p>
+        <p>Qu'on ne peut trop vanter sa sagesse profonde.</p>
+        <p>Dans un employ si beau</p>
+        <p>Chaque jour il m'engage.</p>
+        <p>Il fait naistre en tout temps quelque sujet nouveau</p>
+        <p>Digne de sa grandeur, digne de son courage.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Vous qui faites par tout retentir vos cent voix,</p>
+        <p>Divine Renommée,</p>
+        <p>Que vous devez estre charmée</p>
+        <p>Quand vous parlez de ses exploits !</p>
+        <p/>
+        <p>LA RENOMMEE.</p>
+        <p>Depuis que les Dieux l'ont fait naistre</p>
+        <p>Mon bonheur ne peut s'égaler ;</p>
+        <p>De luy j'ay toujours à parler,</p>
+        <p>C'est luy seul qui me fait connoistre.</p>
+        <p/>
+        <p>MERCURE.</p>
+        <p>Il vous occupera toûjours</p>
+        <p>Son plus grand soin est de vous plaire.</p>
+        <p/>
+        <p>LA RENOMMEE.</p>
+        <p>Mon bonheur tout entier dépend de son secours.</p>
+        <p>Sans ce Heros je n'aurois rien à faire.</p>
+        <p/>
+        <p>MERCURE &amp; LA RENOMMEE.</p>
+        <p>Qu'il regne dans le coeurs,</p>
+        <p>Qu'il regne sur la Terre ;</p>
+        <p>Grand dans la Paix, grand dans la Guerre,</p>
+        <p>Qu'il soit par tout comblé d'honneurs.</p>
+        <p>Qu'il regne dans les coeurs,</p>
+        <p>Qu'il regne sur la Terre.</p>
+      </div>
+
+<div xml:id="MG-1688-02_146">
+        <head>MG-1688-02_146</head>
+        <bibl>Mercure galant, février 1688, p. 146-147</bibl>
+        <p>Ayant fait graver depuis plusieurs années les Jettons qui se frappent tous les ans, j'ay cru devoir prendre encore le mesme soin celle-cy, &amp; je vous les envoye à mon ordinaire. La Planche que je joins à cette Lettre vous les fera voir. Comme on connoist presque tous ces Jettons par les explications qui sont au bas, il n'est pas besoin que je vous donne beaucoup d'éclaircissement là-dessus. Je vous diray seulement que le premier est pour la Maison de Madame la Dauphine, &amp; le dernier pour la Troupe Italienne.</p>
+      </div>
+
+<div xml:id="MG-1688-02_170">
+        <head>MG-1688-02_170</head>
+        <bibl>Mercure galant, février 1688, p. 170-184</bibl>
+        <p>Lettre écrite de Ratisbonne.</p>
+        <p/>
+        <p>Voicy une Lettre écrite de Ratisbonne, à la personne dont je la tiens, j'ay cru vous la devoir envoyer en original, pour ne pas laisser échapper l'occasion de donner des loüanges à Mr le Comte de Crecy, dont la modestie a souvent caché mille choses par lesquelles il en meritoit &amp; pour vous faire voir en mesme temps que je ne suis pas le seul qui le crois digne de ces loüanges, puis que la Lettre que je vous envoye, vient d'une autre Plume que de la mienne.</p>
+        <p/>
+        <p>De Ratisbonne ce dernier Decembre 1687</p>
+        <p/>
+        <p>Vous me demandez, Monsieur, la Relation d'une Feste qui se fit icy le mois passé. Je ne puis rien refuser à vôtre amitié, quoy que j'apprehende en vous obeissant de choquer la modestie de celuy qui l'a faite, &amp; qui dans le temps même qu'il avoit terminé heureusement l'affaire la plus glorieuse &amp; la plus agreable au Roy, je veux dire la Treve, qu'il conclut pour Sa Majesté, tant avec l'Empire qu'avec l'Espagne, dans l'espace de dix jours, ne permit jamais à ses Amis de prendre le moindre soin de la gloire qui luy en estoit deuë. La Feste dont vous voulez que je vous apprenne le détail, se fit le 24. de Novembre dernier, à l'occasion du Baptesme du Fils unique de Messire Loüis Verjus, Chevalier, Comte de Crecy, &amp; Plenipotentiaire du Roy à la Diete Generale de l'Empire, &amp; de Dame Marie-Marguerite de Ratabon son Epouse, Fille de Mr de Ratabon, Surintendant des Bastimens avant Mr Colbert. [...]</p>
+        <p>Le temps ayant esté concerté par toutes ces personnes illustres pour accomplir les ordres de Sa Majesté, Mr le Comte de Crecy fit richement parer un Appartement, &amp; l'on y dressa un Autel qui fut richement orné, afin que toutes choses y répondissent à la sainteté du Sacrement, &amp; à la grandeur du nom qu'on devoit donner à son Fils. [...] La Ceremonie se fit par M. le Comte de Vvartemberg, Doyen des Chanoines de la Cathedrale de Ratisbonne, &amp; qui y fait maintenant la fonction de Suffragant, homme distingué par sa naissance, estant issu de la Serenissime Maison de Baviere, &amp; venerable par la sainteté de ses moeurs. [...]</p>
+        <p>La Ceremonie estant finie, la Compagnie fut invitée à une Collation. C'estoit un Ambigu qui avoit esté preparé dans une autre Salle éclairée à la Françoise. Il y avoit une Table de trente couverts. [...] Mr le Comte de Crecy eut soin d'égayer Mrs les Ambassadeurs ; &amp; Madame la Comtesse entretint les Ambassadrices &amp; les Dames ; car dans ces sortes de repas les Dames, quoy qu'assises à la mesme Table, ne s'y mêlent pas ordinairement parmy les hommes. Par ce moyen les uns sont moins contraints à goûter le vin ; &amp; les Dames de leur costé profitent mieux de la conversation. Elles pouvoient en cette rencontre prester l'oreille à la simphonie d'une bande de Violons François, qui sont icy assez rares. Le repas fut suivy d'un Ballet dansé par la Famille d'une personne, qui outre son zele pour tout ce qui peut avoir quelque rapport à la gloire ou au service du Roy, fait depuis longtemps une profession particuliere d'estre attachée d'inclination &amp; d'obligation à celle de M. le Comte de Crecy. Ce Ballet estoit composé de Bergers &amp; de Bergeres, dont les jeux &amp; les danses, qui representoient les plaisirs de l'estat d'innocence, estoient en mesme temps des marques de la profonde paix que LOUIS LE GRAND a donnée à l'Europe, &amp; par laquelle il la comble de plaisirs &amp; de richesses. Après ce Ballet, dont la Compagnie qui ne s'y attendoit pas, se vit agreablement surprise, le Bal commença dans les formes, &amp; dura jusques au jour. Le filleul du Roy fit tous les honneurs &amp; en eut presque toute la fatigue. Il montra qu'il estoit aussi galant qu'il est sçavant ; &amp; qu'un jour il seroit aussi agreable aux Dames, qu'utile au service du Roy son Maistre. Toute cette Feste finit par les liberalitez que fit Mr le Comte de Crecy, à ceux qui avoient esté occupez à la Ceremonie du Baptesme. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

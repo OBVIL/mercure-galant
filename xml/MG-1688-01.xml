@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-01_000">
+        <head>MG-1688-01_000</head>
+        <bibl>Mercure galant, janvier 1688, n.p.</bibl>
+        <p>CATALOGUE DES LIVRES</p>
+        <p>nouveaux qui se débitent chez le Sieur Guerout, Court-neuve du Palais.</p>
+        <p/>
+        <p>Le Chevalier à la Mode, Comedie. 1. l. 10. s.</p>
+        <p>La Désolation des Joüeuses, Comedie. 15. s.</p>
+        <p>[...]</p>
+        <p>Divers Ouvrages en Musique de M. de Bacilly.</p>
+      </div>
+
+<div xml:id="MG-1688-01_038">
+        <head>MG-1688-01_038</head>
+        <bibl>Mercure galant, janvier 1688, p. 38-40</bibl>
+        <p>Feste de Sainte Cecile celebrée pour la premiere fois à Versailles par les Musiciens du Roy.</p>
+        <p/>
+        <p>Comme tout ce qui regarde la pieté en est bien receu, &amp; qu'on n'en sçauroit donner de marques qui ne plaisent à ce Prince, les Musiciens de Sa Majesté, qui n'avoient jamais solemnisé la Feste de Sainte Cecile, ont commencé cette année à la celebrer. La solemnité s'est faite dans l'Eglise Paroissiale de Versailles. Elle estoit magnifiquement parée, &amp; toute brillante de lumieres. Tout ce qu'on y chanta depuis les premieres jusques aux secondes Vespres, estoit de la composition de Mr de la Lande, l'un des quatre Maistres de Musique de la Chapelle du Roy, &amp; receut de grands applaudissemens. Mr l'Abbé de Maurpas y fit le Panegyrique de Sainte Cecile avec beaucoup de succés, &amp; tous ceux qui l'entendirent, rendirent justice à son éloquence. Le Roy ayant sceu la resolution que Mr de la Lande, &amp; la pluspart des Musiciens de sa Chapelle, avoient prise de celebrer cette Feste, ordonna qu'aucun d'entre eux ne manquast de s'y trouver. Cette Ceremonie se doit faire tous les ans à pareil jour.</p>
+      </div>
+
+<div xml:id="MG-1688-01_107">
+        <head>MG-1688-01_107</head>
+        <bibl>Mercure galant, janvier 1688, p. 107-126</bibl>
+        <p>Description exacte du Couronnement de l'Archiduc Joseph, aujourd'huy Roy de Hongrie.</p>
+        <p/>
+        <p>Je vous ay promis une Description fort exacte de tout ce qui s'est passé au Couronnement de l'Archiduc Joseph, aujourd'huy Roy de Hongrie. Je vous tiens parole, &amp; vous en envoye une plus ample &amp; plus remplie de particularitez, qu'aucune de celles que vous pouvez avoir veuës. Je pourrois vous dire tout ce qui a précedé le Couronnement de ce jeune Roy, &amp; vous parler des demandes qui ont esté faites par les Etats de Hongrie ; mais comme ce détail m'engageroit à vous dire trop de choses, &amp; que d'ailleurs je sçay qu'on travaillle à un sixiéme volume de l'Histoire de Hongrie, je laisse à cette Histoire à vous en entretenir. Le jour de la Ceremonie du Couronnement ayant esté arresté, &amp; l'Empereur &amp; l'Imperatrice s'estant rendus à Presbourg, où elle devoit se faire, leurs Majestez Imperiales entendirent la Messe le 9. du mois passé, dans la Chapelle du Chasteau, &amp; entrerent sur les dix heures dans un magnifique Carosse, attelé de huit chevaux, pour aller à l'Eglise Cathedrale de S. Martin. Les Seigneurs Hongrois &amp; Allemands, tous fort richement vestus, &amp; montrant de tres-superbes chevaux, se trouverent à la Place du Palais ; &amp; commencerent la marche. L'Archiduc Joseph estoit aussi dans un Carosse des plus magnifiques, attelé de même de huit chevaux, &amp; precedoit leurs Majestez Imperiales, qui estoient environnées de la Garde des Archers du Corps. Elles arriverent en cet ordre à la porte de l'Eglise, au bruit des trompettes, des tambours &amp; des timbales, &amp; aux acclamations de tout le Peuple. [Suit une description de l'église, puis du cortège de la cour impériale.]</p>
+        <p>Si tost que ce jeune Prince se fut placé sur le Trône, l'Archevesque de Strigonie, Primat du Royaume, commença la Messe, &amp; lors qu'on fut à l'Epistre, le Palatin, &amp; le Maréchal de Hongrie, firent une profonde reverence devant le Trône de leurs Majestez Imperiales, &amp; devant celuy de l'Archiduc, au pied duquel ils l'allerent recevoir pour le conduire à l'Autel. [Suit le couronnement du prince par l'archevêque.] Le Maréchal du Royaume luy donna l'Epée, &amp; après qu'on luy eut mis le Sceptre à la main, le Palatin donna la Couronne à l'Archevesque, qui la mit sur la teste du jeune Prince. Incontinent tous les Assistans le proclamerent Roy de Hongrie avec un applaudissement general, au bruit des trompettes &amp; des timbales, qui fut suivy d'une décharge de tout le Canon de la Ville &amp; du Chasteau. Lors qu'il se fut remis dans son Trône ayant tous les ornemens Royaux, on chanta solemnellement le Te Deum en action de graces à Dieu de ce que la Hongrie alloit recevoir les loix d'un si digne Prince. [...]</p>
+        <p>Après que le Te Deum eut esté chanté, l'Archevesque continua la Messe, &amp; lors que l'on fut à l'Evangile, l'Empereur se leva, tenant le Sceptre de la main droite, &amp; le Globe de la gauche, &amp; il demeura ainsi debout jusques à la fin de l'Evangile. Le nouveau Roy communia lors que l'Archevesque Celebrant eut communié. Quoy que ce Prelat soit âgé de quatre-vingt-six ans, sa joye fut si grande d'avoir pû servir à la ceremonie du Couronnement du nouveau Roy, que la Messe estant finie, il voulut marquer ses sentmens [sic] par un Discours Latin qu'il luy fit, avec des expressions tres-tendres &amp; des souhaits pleins d'un zele paternel pour la felicité de son Regne. Il finit par le Cantique de S. Simeon, en disant, Nunc dimittis servum tuum Domine, ce qui arracha des larmes de tous ceux qui l'entendirent. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-01_140">
+        <head>MG-1688-01_140</head>
+        <bibl>Mercure galant, janvier 1688, p. 140</bibl>
+        <p>Histoire.</p>
+        <p/>
+        <p>Vous vous souvenez, Madame, de cette maxime d'un des plus beaux Opera de Mr Quinaut [Thésée],</p>
+        <p>Un tendre engagement va plus loin qu'on ne pense.</p>
+        <p>Elle ne s'est jamais trouvée si veritable que dans l'avanture dont je vais vous faire part. [Suit le récit d'une histoire galante entre un cavalier et une dame.]</p>
+      </div>
+
+<div xml:id="MG-1688-01_197">
+        <head>MG-1688-01_197</head>
+        <bibl>Mercure galant, janvier 1688, p. 197-216</bibl>
+        <p>Etablissement de trois Paroisses à Strasbourg, avec les Ceremonies de l'ouverture de celle de S. Etienne, &amp; le Discours qui a esté prononcé en cette occasion.</p>
+        <p/>
+        <p>Le Roy qui veille sans cesse au bien de ses Peuples, voulant contribuer tout ensemble à la pieté des Catholiques, &amp; à la Conversion des Lutheriens de Strasbourg, vient d'y établir trois Paroisses. La premiere est sous l'Invocation de Saint Estienne, &amp; il l'a donnée aux Chanoines Reguliers de Saint Augustin, [...]. La seconde a esté donnée aux Chanoines Reguliers de Saint Augustin, de la Congregation de Nostre Sauveur, dite de Matincourt, &amp; l'ouverture s'en devoit faire vers le milieu de ce mois. On travaille à mettre la troisiéme en estat, &amp; elle doit estre sous le titre de S. Marc. La Ceremonie de l'ouverture de la Paroisse de S. Estienne se fit le Dimanche 21. du mois passé. Le jour precedent on avoit beny deux Cloches, l'une sous le nom de Saint Loüis, l'autre sous le nom de Saint Estienne, &amp; toutes deux données par Sa Majesté, ainsi que le font connoistre leurs Inscriptions. [...] Le lendemain on exposa le Saint Sacrement, &amp; la Messe Paroissiale fut celebrée après Tierce sur les neuf heures &amp; demie, par M l'Abbé de Cartigny, Grand Vicaire, &amp; Official du Diocese de Strasbourg, assisté de Diacre, Sousdiacre, &amp; Maistre des Ceremonies, avec quatre Seminaristes. Il y eut au Choeur, outre ceux de la Maison, &amp; quelques autres du Voisinage, trois Religieux d'augmentation pour lesquels Sa Majesté donne trois cens écus de Pension &amp; l'excellente Musique de la Cathedrale s'y fit entendre. M. de Chamilly, Gouverneur de la Ville, s'y trouva accompagné de plusieurs Officiers. [...] Après la grand'Messe, l'on commença un Sermon François sur le sujet de la Ceremonie. [...] L'apresdînée, lors que l'on eut chanté Vespres, le Pere Antoine Gritz, Chanoine Regulier de S. Augustin de la Congregation S. Antoine, précha en Allemand avec succés devant un tres-nombreux Auditoire. Il loüa d'une maniere delicate &amp; fervente les prodiges de la pieté &amp; de la magnificence du Roy envers l'Eglise. Mr &amp; Madame de Chamilly, M. le Préteur Royal, &amp; la plûpart des personnes considerables qui avoient entendu le premier Sermon, se trouverent encore à celuy-ci, &amp; la mesme Musique chanta dans le temps de la benediction qui fut donnée par Mr l'Abbé de Cartigny. On chanta aussi le Domine salvum fac Regem, ainsi qu'on avoit fait à la fin de la Messe Paroissiale, &amp; qu'on fera à toutes les autres, les jours de Dimanche &amp; Festes. Le public témoigna beaucoup de joye de l'erection que Sa Majesté a faite de cette Paroisse, &amp; il y a lieu d'esperer qu'elle ne contribuera pas peu à la conversion de plusieurs Lutheriens.</p>
+      </div>
+
+<div xml:id="MG-1688-01_230">
+        <head>MG-1688-01_230</head>
+        <bibl>Mercure galant, janvier 1688, p. 230-240</bibl>
+        <p>Tout ce qui s'est passé à la reduction d'Agria.</p>
+        <p/>
+        <p>Voilà, Madame, ce que l'Histoire nous apprend des deux Sieges de cette Place. On avoit resolu il y a environ trois ans, de s'en rendre maistre en la tenant seulement bloquée. Quoy que le projet de prendre ainsi des Places ne soit pas nouveau, les succés de ces sortes d'entreprises ne laissent pas d'estre rarement heureux, puisque de cent à peine en voit-on réussir une. Il estoit non seulement besoin pour venir à bout de celle-cy, qu'on gagnast une Bataille ; mais il falloit encore que cette Bataille entraînast la perte de plusieurs Villes, &amp; que cette perte fut cause d'une desolation generale dans l'Empire Turc. Tout cela est heureusement arrivé, &amp; Agria s'est rendu trois mois après que toutes les Troupes Othomanes étant devenuës rebelles à leur Souverain, ont abandonné les pays qu'elles devoient défendre, pour l'aller déposseder. Il y avoit prés de sept mois que la Place manquoit de pain, &amp; qu'il n'y en avoit pas mesme pour le Gouverneur. [...] Pendant que cette grande disette a duré, il est entré dans la Ville en plusieurs occasions quelques sacs de bled que des païsans sujets de l'Empereur, attirez par le grand gain, ne laissoient pas d'y porter, malgré les perils [...]. Il est difficile d'exprimer la disette qui avoit esté dans la place. On asseure que les trois derniers jours avant la capitulation, il n'y avoit plus de vivres, pas mesme pour le Gouverneur. Voicy de quelle maniere on dit que les Turcs en sont sortis. Le bagage estoit à la teste de tout. La femme du Gouverneur paroissoit ensuite, les Janissaires venoient après sans Tambour, &amp; avec leurs Enseignes pliées. Hussein Bacha Commandant de la Place, les suivoit avec trois chevaux. On battoit devant luy une petite quaisse ou tambour, les Spahis fermoient la marche des Troupes qui estoit environ de sept cens hommes ; [...].</p>
+      </div>
+
+<div xml:id="MG-1688-01_334">
+        <head>MG-1688-01_334</head>
+        <bibl>Mercure galant, janvier 1688, p. 334-336</bibl>
+        <p>Mariage de Mr le Marquis de Florensac avec Mademoiselle de Senecterre.</p>
+        <p/>
+        <p>M. le Comte de Florensac, l'un des jeunes Seigneurs que le Roy entretient auprés de Monseigneur le Dauphin, épousa le 20 de ce mois Mademoiselle de Senecterre, Fille de Madame la Marquise de Senecterre, dont la vertu &amp; le merite vous sont si connus. La maniere obligeante, &amp; les termes dans lesquels le Roy a donné son approbation à ce mariage, en le loüant, aussi bien que ceux qui pouvoient l'avoir imaginé, ne me laissent presque rien à vous en dire. M. le Marquis de Florensac est Frere de M. le Duc d'Usez. [...] On ne sçauroit exprimer avec combien de grandeur d'ame &amp; de noblesse dans le procedé, M. le Duc &amp; Madame la Duchesse d'Usez ont agy en ce [sic] rencontre. Ils ont voulu faire la nopce dans l'Hostel de Montausier, &amp; l'on eust dit qu'ils marioient un de leurs Enfans. Vous jugez bien que M. le Duc de Montausier y tenoit aussi lieu d'un veritable pere. Chacun connoist les manieres de cette Maison, qu'on auroit peine à trouver ailleurs. Il y eut illumination, simphonie &amp; Bal. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-01_341">
+        <head>MG-1688-01_341</head>
+        <bibl>Mercure galant, janvier 1688, p. 341-342</bibl>
+        <p>Regulus, Tragédie.</p>
+        <p/>
+        <p>On represente depuis un mois avec beaucoup de succés une Tragedie intitulée Regulus. Les plus grands hommes avoient tasté ce sujet, &amp; quoy que l'action de ce Romain, qui retourna à Cartage, asseuré de la mort qui luy estoit preparée, leur eust paru fort touchante, ils avoient trouvé des obstacles qui leur sembloient invincibles à la réduire au Theatre. M. Pradon a eu moins de scrupules, ou peut-estre plus de lumieres, &amp; pour faire mieux briller une si belle action, il a presté à l'Histoire des choses qu'elle ne luy fournissoit pas, &amp; il l'a mesme changée dans les circonstances de l'action principale. Ce que fit Regulus est si éclatant &amp; part d'une si grande ame, qu'on ne peut l'entendre sans l'admirer. Vous pouvez juger par là qu'il doit y avoir de grandes beautez dans cette piece.</p>
+        <p>L'Autheur du Chevalier à la Mode en prepare une Comique en cinq Actes pour la fin du Carnaval. Si elle reussit autant que cette agreable Comedie, les representations n'en finiront de six mois, puis que celles du Chevalier à la mode continuent encore. Cette Piece n'a pas esté moins heureuse sur le papier, &amp; il semble que l'impression y fasse connoistre tous les jours des beautez nouvelles, tant on a d'empressement à la rechercher. Voilà l'avantage qui se trouve à écrire purement, &amp; à dire les choses d'une maniere naturelle, sans grossir les Scenes par ce qui sort du sujet.</p>
+      </div>
+</body>
+  </text>
+</TEI>

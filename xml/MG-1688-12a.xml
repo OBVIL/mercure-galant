@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre, première partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-12a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, décembre, première partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-12a_038">
+        <head>MG-1688-12a_038</head>
+        <bibl>Mercure galant, décembre 1688, p. 38-94</bibl>
+        <p>Réjoüissances faites à Grenoble pour la prise de Philisbourg.</p>
+        <p/>
+        <p>Le 17. du mesme mois, la Ville de Grenoble, Capitale du Dauphiné, s'interessant particulierement à la gloire de Monseigneur le Dauphin, dont cette Province a l'honneur de porter le nom, se mit sous les armes pour marquer la joye que luy donnoit la reduction de Philisbourg. Mr le Marquis de Saint André-Virien, premier President, &amp; Commandant  dans le Dauphiné en l'absence de Mrs les Gouverneur &amp; Lieutenant General, toujours zelé pour tout ce qui regarde le Roy, fit le jour précedent la harangue ordinaire à l'ouverture du Parlement. Il representa d'abord les qualitez necessaires aux Magistrats pour bien administrer la Justice, &amp; s'étendit ensuite sur les loüanges de Sa Majesté &amp; de Monseigneur, en faisant voir que la justice, la moderation, la sagesse &amp; la prudence de nostre Auguste Monarque devoient estre leur modelle. Il finit par tous les sujets d'admiration que Monseigneur le Dauphin a donnez pendant le Siege, &amp; n'oublia aucune de ces manieres pleines de grandeur &amp; toutes charmantes, qui luy ont acquis l'estime &amp; l'amour de toutes les Troupes. Mr le Marquis de Saint André traita ce jour-là le Parlement avec sa magnificence ordinaire, &amp; donna ses ordres à l'Hostel de Ville &amp; à la Milice pour les réjoüissances que l'on remettoit au lendemain. Les Tambours s'estant assemblez dés sept heures du matin, battirent la Generale dans tous les quartiers. Les Boutiques furent fermées, &amp; à midy les onze Compagnies ayant Mr Reynaud qui faisoit la fonction de Colonel à leur teste, avec les autres Capitaines, se rendirent à la Place du Breüil, où elles furent rangées par Mr de la Frey, Major. De là elles allerent occuper les rues qui sont depuis le Palais jusques à l'Eglise Cathedrale, où elles firent deux hayes, au milieu desquelles passerent les Corps qui assisterent au Te Deum. Mrs de l'Hostel de Ville en Robes Consulaires furent les premiers à s'y trouver, avec leurs Valets de Ville &amp; Pertuisaniers, &amp; des Violons, &amp; des Hautbois. Un peu après le Parlement arriva en robes rouges, ainsi que Mrs de la Chambre des Comptes avec leurs robes de velours noir. Chaque Corps estoit devancé de ses Huissiers &amp; Secretaires. La Compagnie des Archers de la Mareschaussée se trouva aussi à cette ceremonie. Mr le premier President de S. André estoit à la teste du Parlement, &amp; Mr Bouchu, Intendant de la Province, aussi en robe rouge, marchoit à son rang. M. le Comte de Ferrieres, President aux Comptes, estoit à la teste de ce Corps qui suivoit immediatement le Parlement. Si tost qu'ils furent placez, M. le Cardinal le Camus, Evesque de Grenoble, avec sa Crosse, son Massier, &amp; plusieurs Chanoines qui estoient allez le prendre, vint occuper sa place ordinaire sous son Dais, d'où il entonna le Te Deum. Lors qu'il fut fini, &amp; qu'on eut fait les prieres accoustumées pour le Roy, les Compagnies de la Milice se camperent à la Place de S. André où estoit un bucher, construit des plus hauts Pins que l'on avoit pû trouver dans les Montagnes voisines. [...] Sur les quatre heures, Mr le Marquis de S. André, en robe rouge &amp; avec le mortier de President, mit le feu à ce Bucher. Il y vint suivi de la Maison Consulaire, avec les Valets de Ville, Pertuisaniers, Violons &amp; Hautbois, &amp; devancé des Officiers de la Milice en cet ordre. Les Capitaines marchoient immediatement avant luy, precedez des onze Drapeaux &amp; des Tambours, devant lesquels on voyoit les Lieutenants. Vingt deux Sergens alloient deux à deux avec leurs Hallebardes devant ces derniers, &amp; ceux cy estoient devancez de la Compagnie des Archers, ayant Mr Reymond leur Officier à leur teste. Tout cela formoit un cercle qui tournant trois fois d'un pas grave &amp; majestueux autour du bucher, attiroit les regards d'un nombre infini de peuple qui s'estoit placé jusque sur les toits. La Mousqueterie fit plusieurs salves, &amp; les Violons &amp; les Hautbois se firent long-temps entendre. Le feu fini, Mr le Comte de Marcieux, Gouverneur de Grenoble, &amp; de la Vallée voisine, alla à l'Arsenal, où il fit tirer les Canons, les Boëtes &amp; la Mousqueterie de la Garnison. Le soir on vit des Illuminations à toutes les fenestres de la Ville, &amp; l'on remarqua entre autres celles de Mr le Cardinal le Camus, de Mr le premier President de Saint André, de l'Hostel de Ville, de Mr le Comte de Vireville, de Madame la Marquise de la Baume, de Madame de Mistral, de Mr de Bagnol, son Fils, Officier aux Gardes, de Mr de Serviens, Fils du défunt Ambassadeur à Thurin, &amp; du Clocher de Saint André. Celles de Mr de Serviens estoient de bougies en grand nombre, &amp; avec une figure faite en simmetrie sur son portail. Sur les dix heures il y eut bal à l'Hostel de Ville, avec un concert d'Instrumens, &amp; l'on tira quantité de fusées volantes. La pluspart de Mrs du Chapitre de S. André, fondez par un des anciens Princes Dauphins, se croyant particulierement obligez de prendre part à la joye publique, se trouverent à ce concert dans un appartement particulier.</p>
+        <p>Le 14. les Consuls d'Avignon, qui avoient donné leurs ordres pour une pareille rejoüissance, firent chanter le Te Deum, en Musique dans l'Eglise de Nostre-Dame au bruit des boëtes &amp; de la Mousqueterie. [...] On alluma le soir un Feu devant le Palais, &amp; toute la Ville fut illuminée. [...] Le lendemain Mr Crozet-Buisson, Primicier de l'Université de la mesme Ville, fit rendre de pareilles actions de graces à Dieu dans l'Eglise de S. Didier qui en est la paroisse. Il s'y rendit sur les cinq heures du soir, accompagné des Docteurs &amp; Regens des trois Facultez de Theologie, Droit Civil &amp; Canon, &amp; Medecine, &amp; precedé d'un grand nombre de Hautbois. Cette Eglise estoit éclairée d'une infinité de flambeaux, &amp; ornée de riches Tapisseries, &amp; de ce que Mrs du Chapitre avoient de plus precieux en argenterie. Le Te Deum fut chanté par une Musique composée de voix choisies, &amp; aprés les Oraisons accoustumées pour la prosperité de Sa Majesté, on donna la Benediction du saint Sacrement au bruit de l'Artillerie. De là Mr le Primicier alla dans le mesme ordre à la Place de l'Université, où il mit le feu à un grand bucher qui avoit esté dressé vis-à-vis les Ecoles publiques. Les cris de Vive le Roy poussez de tous costez par le Peuple, furent meslez avec le son des Hautbois, des Tambours &amp; des Trompettes. Quantité de fusées volantes parurent en l'air, &amp; il y eut le soir une grande illumination par toute la Ville.</p>
+        <p>Le 11. de ce mois le Te Deum fut chanté pour la reduction de Philisbourg dans l'Eglise Cathedrale de Vannes en Bretagne. Le Parlement y assista avec le President, le Corps de Ville, &amp; toutes les Communautez. [...]</p>
+        <p>La mesme Ceremonie se fit le 14. à Nogent-le-Roy. La plus grande partie des Bourgeois se mit sous les armes, &amp; après qu'on eut chanté le Te Deum, dans l'Eglise, le Prestres revestus de chapes &amp; precedez par la Croix allerent mettre le feu à une haute Pyramide qui avoit esté élevée dans le Carrefour. Toute la Ville fut illuminée presque en un moment, &amp; pendant que le feu de joye bruloit, on chanta l'Exaudiat pour la conservation du Roy &amp; de toute la Maison Royale, au bruit des canons du Chasteau &amp; de la décharge de la mousqueterie, qui ne cessa point tant que l'action dura.</p>
+        <p>Le Jeudy 18. Mr Thouret, Procureur du Roy à Clermont en Beauvoisis, &amp; Subdelegué de Mr l'Intendant de Soissons, fit faire des réjoüissances publiques. Tous les bourgeois se mirent sous les armes, &amp; firent une décharge generale de la Mousqueterie pendant le Te Deum, qui fut chanté dans la principale Eglise, où le Bailliage, l'Election, &amp; les autres Corps assisterent. On fit ensuite un Feu de joye dans la grande Place de Clermont, sans parler des Illuminations, &amp; des autres feux que firent les particuliers. La Feste se termina par des Festins publics &amp; par des Bals, où Madame Thouret, Femme de Mr le Procureur du Roy, parut beaucoup par son agrément &amp; par ses manieres honnestes.</p>
+        <p>Le 28. il y eut des rejouissances extraordinaires à Dijon pour cette mesme conqueste. Au milieu d'un grand Theatre percé de huit Arcades, &amp; enrichy de tous les ornemens de l'Architecture, s'élevoit sur une grande base un piedestal octogone, sur lequel estoit posée la figure Equestre de Monseigneur le Dauphin, couronné de Lauriers, &amp; conduit par la Victoire. [...] Le Feu qui avoit esté dressé sur ce Theatre, fut tiré apres qu'on eut chanté le Te Deum dans l'Eglise de la Sainte Chapelle avec beaucoup de ceremonie, à laquelle la Simphonie &amp; la Musique donnerent un grand éclat. Les Bourgeois se mirent sous les armes par ordre de Mr Joly, ancien Maistre des Comptes, &amp; Vicomte Majeur de la Ville. Dans les quatre Magistratures que son merite luy a procurées, il a eu l'honeur de presider souvent à de pareilles réjoüissances, &amp; d'y marquer son zele, qui n'est pas moins grand pour le service du Roy que pour le bien du Peuple. Il mit le feu au Theatre, estant à la teste des Magistrats, qui tous en general &amp; en particulier, ont sceu parfaitement soutenir en cette occasion, comme ils ont fait en toutes les autres, ce caractere d'amour, de tendresse &amp; de veneration pour la personne sacrée de Sa Majesté, par lequel, ainsi que par une fidelité inviolable la Ville de Dijon a toujours cherché à se distinguer. La ceremonie du Feu fut accompagnée du bruit des Tambours, &amp; du son des Trompettes, et suivie d'Illuminations, &amp; de décharges frequentes de la Milice, &amp; d'une infinité d'autres marques d'allegresse. J'ay oublié de vous dire que le dessein de ce Feu, les Emblêmes &amp; les Vers estoient de Mr Moreau. Avocat General de la Chambre des Comptes de Dijon.</p>
+      </div>
+
+<div xml:id="MG-1688-12a_094">
+        <head>MG-1688-12a_094</head>
+        <bibl>Mercure galant, décembre 1688, p. 94-105</bibl>
+        <p>Ode sur le mesme sujet.</p>
+        <p/>
+        <p>Le détail de cette Feste ne peut estre mieux suivy que de l'Ode que je vous envoye. Elle est de Mr de Hautmont de l'Academie de Villefranche.</p>
+        <p/>
+        <p>ODE</p>
+        <p>A MONSEIGNEUR</p>
+        <p>LE DAUPHIN</p>
+        <p>Sur la Prise de Philisbourg.</p>
+        <p/>
+        <p>Deja les Filles de Memoire,</p>
+        <p>Se lassant d'un trop long repos,</p>
+        <p>Se plaignoient à tous les Heros</p>
+        <p>Qu'ils ne couroient plus à la Gloire.</p>
+        <p>LOUIS de ses vaillantes mains</p>
+        <p>Avoit desarmé les Humains,</p>
+        <p>Et donné la paix à la Terre ;</p>
+        <p>On ne cueilloit plus de Lauriers,</p>
+        <p>Et les Peuples loin de la Guerre</p>
+        <p>Reposoient sous les Oliviers.</p>
+        <p/>
+        <p>[...]</p>
+        <p/>
+        <p>Du son des Tambours, des Trompettes,</p>
+        <p>On entend retentir les Airs,</p>
+        <p>Icy resonnent les Concerts</p>
+        <p>Et des Flûtes &amp; des Musettes.</p>
+        <p>La timide Echo dans les bois</p>
+        <p>Commence à reprendre sa voix</p>
+        <p>Pour y publier ses merveilles ;</p>
+        <p>Et par tout l'éclat de ses faits</p>
+        <p>Charme les coeurs &amp; les oreilles</p>
+        <p>Dans la ville &amp; dans les Forests.</p>
+        <p/>
+        <p>Calliope étonnée,</p>
+        <p>Grand Prince, du bruit de ton Nom,</p>
+        <p>Court &amp; vole au sacré Vallon</p>
+        <p>Pour y chanter ta destinée.</p>
+        <p>Elle me trouva sur ses pas</p>
+        <p>Tout ravy des brillans appas</p>
+        <p>De ta jeune &amp; divine audace.</p>
+        <p>J'avois encor la Lyre en main ;</p>
+        <p>Viens, suis-moy, dit-elle, au Parnasse,</p>
+        <p>Je veux t'en montrer le chemin.</p>
+        <p/>
+        <p>La sçavante Troupe animée</p>
+        <p>Déjà sur des tons differens</p>
+        <p>Qu'on chantera dans tous les temps</p>
+        <p>Travailloit à ta renommée.</p>
+        <p>Déjà l'heroïque Clio</p>
+        <p>Traçoit aux Heros pour tableau</p>
+        <p>L'histoire de ta belle vie,</p>
+        <p>Therpsicore, Euterpe, Eraton,</p>
+        <p>Composoient avecque Thalie</p>
+        <p>De pompeux Balets en ton Nom.</p>
+        <p/>
+        <p>[...]</p>
+        <p/>
+        <p>Ton Destin que les Muses chantent</p>
+        <p>Sur des tons si forts &amp; si grands,</p>
+        <p>Effacera les Conquerans</p>
+        <p>Que Rome est qu'Athenes nous vantent.</p>
+        <p>Tu sçauras mesler aux Lauriers</p>
+        <p>Les Myrtes &amp; les Oliviers,</p>
+        <p>D'un bras vainqueur calmer la Terre ;</p>
+        <p>Et tu feras par tes hauts faits</p>
+        <p>Plus qu'Alexandre dans la Guerre,</p>
+        <p>Et plus qu'Auguste dans la Paix.</p>
+        <p/>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1688-12a_232">
+        <head>MG-1688-12a_232</head>
+        <bibl>Mercure galant, décembre 1688, p. 232-237</bibl>
+        <p>Troisiéme Article des Réjoüissances faites pour la prise de Philisbourg.</p>
+        <p/>
+        <p>Le 21. du mois passé le Chapitre &amp; la Communauté de Morlaix, firent chanter le Te Deum dans l'Eglise Collegiale de Nostre-Dame du Mur. Mr Dizeul, Doyen du Chapitre, fit paroistre son zele, comme il l'a déjà fait en diverses occasions, par des desseins qui se rapportoient au temps, &amp; qui furent representez dans de grands Cartouches environnez de Trophées. [...]</p>
+        <p>Le 22. Madame de Berthemet, Soeur de Madame de Saint Poüange, &amp; Abbesse de Saint Loüis de Vernon, fit rendre les mesmes actions de graces dans son Eglise, qui estoit extremement parée &amp; illuminée. Le Te Deum qu'on y chanta avec grande Musique &amp; Simphonie, fut suivy de Motets &amp; de Prieres pour la conservation de Sa Majesté. Le Corps de Justice s'y trouva en Robes de ceremonie, &amp; toute la Ville s'y rendit en foule. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-12a_256">
+        <head>MG-1688-12a_256</head>
+        <bibl>Mercure galant, décembre 1688, p. 256-277</bibl>
+        <p>Histoire.</p>
+        <p/>
+        <p>On a beau s'imaginer sur differentes épreuves qu'on est à couvert des surprises de l'Amour, ou du moins qu'on n'aimera qu'autant qu'on pourra s'en faire un plaisir. [...] Un Cavalier fort bien-fait, ayant du bien &amp; de la naissance, se sentit d'abord touché de la passion qui est naturelle aux jeunes gens ; il ne songea qu'à acquerir de la gloire. Ainsi la Guerre s'estant allumée en France, il y prit employ, &amp; les actions d'éclat qu'il fit, le mirent bien-tost au nombre de ceux dont on parla avec le plus de distinction. [...] Il revint en France dans le dessein de songer à un établissement. En passant par une Ville celebre, il se souvint qu'un Officier de ses intimes Amis y avoit un employ considerable. Il alla le voir, &amp; cet Amy le retint chez luy, en l'asseurant qu'il trouveroit dequoy s'occuper agreablement en ce lieu là, puis qu'il y verroit quantité de jolies Femmes. Deux jours après, comme c'estoit la saison du Carnaval, il le mena à un Bal qu'on donnoit à une Dame des premieres de la Ville. Ils n'y furent pas sitost entrez, que le Cavalier parcourut des yeux toute l'Assemblée, &amp; ayant esté frappé de la beauté d'une aimable Brune, il s'approcha d'elle, &amp; s'attacha à l'entretenir pendant tout le Bal. Il luy trouva de l'esprit, des manieres fort honnestes, mais fieres en mesme temps, &amp; quoy que ce fust un caractere tout nouveau pour luy, si sa vanité en fut choquée, il ne laissa pas de redoubler son estime pour cette belle Personne. Leur entretien fut souvent interrompu, parce qu'on la faisoit danser à toute heure. La Belle s'en acquitoit admirablement, &amp; après avoir dansé avec plusieurs autres, elle prit le Cavalier, en luy disant qu'elle vouloit le recompenser par là du temps qu'il venoit de perdre à luy conter des douceurs. Le Bal finit, &amp; le Cavalier qui s'en retourna avec son Amy, luy demanda qui estoit cette agreable Personne. Il apprit de luy qu'elle demeuroit avec son Pere, qui l'avoit promise à un Marquis qu'elle devoit épouser à son retour d'un voyage où ses affaires l'avoient appellé. Son Amy luy dit encore, que quoy qu'elle eust mille belles qualitez, quand elle seroit sans aucun engagement, il ne luy conseilleroit pas de s'y attacher, parce que son Pere ne luy permettoit de recevoir aucune visite, &amp; que d'ailleurs elle estoit d'une si grande fierté, que le Marquis qu'elle pouvoit regarder déjà comme son Mary, tout plein de merite qu'il estoit, n'avoit encore pu obtenir d'elle de luy faire avoüer qu'elle estoit sensible à son amour. Toutes ces difficultez furent une amorce pour le Cavalier. Il entreprit de les vaincre, &amp; ayant sceu que la belle Brune voyoit souvent une Dame chez qui son Amy alloit quelquefois, il le pria de luy en donner la connoissance. Il fut introduit chez cette Dame, &amp; estant d'une humeur tres-agreable &amp; insinuante, il s'y rendit si familier en fort peu de temps, qu'il y pouvoit aller à toute heure. Ainsi la Belle n'y venoit jamais qu'il ne s'y trouvast. [...] Ils se dirent mille choses fines &amp; spirituelles, &amp; commencerent à s'aimer veritablement, lors qu'ils croyoient estre toujours libres, &amp; ne faire que chercher à triompher l'un de l'autre. [...]</p>
+        <p>Quelques jours après il se servit du même déguisement pour se procurer la mesme joye, mais l'évenement n'en fut pas heureux. A peine estoit-il avec la Belle, que des Dames qui arriverent lors qu'elles estoient le moins attenduës, les mirent tous deux dans un fort grand embarras. Il fut obligé pour n'estre point vû de se cacher promptement derriere une tapisserie qui laissoit du vuide entre la muraille. Comme la Belle avoit de la voix, &amp; quelle aimoit la Musique, ces Dames la venoient prendre pour la mener avec elles à un Concert qui se faisoit dans le voisinage. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-12a_304">
+        <head>MG-1688-12a_304</head>
+        <bibl>Mercure galant, décembre 1688, p. 304-305</bibl>
+        <p>Morts.</p>
+        <p/>
+        <p>[...]	Il n'y a plus de Surintendant de la Musique du nom de Lully. Le Fils qui estoit revestu de cette Charge par la mort du fameux Mr de Lully, a déjà suivy son Pere, quoy qu'il fust encore tout jeune.</p>
+      </div>
+</body>
+  </text>
+</TEI>

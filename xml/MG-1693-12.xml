@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1693</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1693-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1693</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1693-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1693-12_072">
+        <head>MG-1693-12_072</head>
+        <bibl>Mercure galant, décembre 1693, p. 72-80</bibl>
+        <p>Ceremonies observées à Madrid à la reception du General des Capucins.</p>
+        <p/>
+        <p>Vous ne serez pas fachée d'apprendre avec quelles ceremonies le General de l'Ordre des Carmes a esté receu en la Ville de Madrid, &amp; en sa premiere Audience de Leurs Majestez Catholiques. [...] Le Roy Charles II. ayant bien voulu, aprés avoir pris l'avis de son Conseil Royal, continuer en la personne du Pere Jean Feyxoo de Villalobos, General de l'Ordre des Carmes, l'honneur de se couvrir en presence de leurs Majestez comme Grand d'Espagne, pour luy &amp; ses Successeurs dans la mesme Charge, en la maniere que les Rois Philippes II. &amp; Philippes III. L'avoient accordée ; [...] Son Excellence le Marquis de Castenaga, s'offrit d'estre le Parrain de ce Pere General, tant pour les ceremonies de son Entrée dans Madrid, que pour celles de sa premiere audience de leurs Majestez Catholiques, où il devoit se couvrir en leur presence, comme Grand d'Espagne. Le premier d'Octobre dernier fut le jour marqué pour son Entrée à Madrid, qui fut des plus belles &amp; des plus magnifiques qu'on eust veuës depuis long-temps en cette Ville-là. Ce Pere s'estant transporté ce mesme jour de son Convent de Baldemore à la Maison de plaisance du Marquis de los Balbanés, éloignée d'environ un mille de Madrid, il en partit sur les quatre heures du soir, escorté de cent trente Carrosses à six, remplis de grand nombre des Grands &amp; des plus qualifiez Seigneurs de la Cour, des Envoyez des Princes &amp; premiers Ministres du Royaume. [...] En cet équipage, qu'on trouva des plus superbes &amp; des plus nombreux qu'on eust vûs en pareille occasion, ce General entra dans Madrid par la porte d'Essochia, où aboutit la belle ruë qui conduit en droiture au grand Convent des Carmes. Toute cette escorte s'arresta à la porte de l'Eglise, qui estoit superbement parée, &amp; tous ces Seigneurs estant descendus de leurs carrosses, se presenterent en bel ordre devant celuy du Pere General, qui descendit aussi-tost du sien, &amp; passa au milieu de tous ces Grands, qui luy formoient une haye jusques à la porte de l'Eglise, où il fut receu par la Communauté de ses Religieux au nombre de cent quarante, &amp; par celles des Jacobins, &amp; des Carmes Deschaussez ; &amp; aprés les ceremonies prescrites dans l'Ordre pour la reception de leurs Generaux, on entonna le Te Deum, qui fut chanté par differens Choeurs de Musique, accompagnez de toutes sortes d'Instrumens, tandis que le Pere General, sous un Dais magnifique, &amp; entouré de tous ces Grands d'Espagne, &amp; autres personnes qualifiées, s'avança vers le maistre Autel, qu'on ne pouvoit approcher à cause de la grande foule accouruë à cette ceremonie.</p>
+        <p>Estant arrivé au lieu où on luy avoit préparé un Prie-Dieu, couvert d'un riche Tapis avec un carreau de même, il se mit à l'extremité du Tapis, &amp; y resta jusqu'à la fin du Te Deum, qui fut suivi des prieres ordonnées dans l'Ordre pour ces sortes de ceremonies ; aprés quoy le Pere Commissaire general, &amp; autres Religieux luy ayant donné la main pour le relever, il s'alla asseoir dans un fauteüil de velours cramoisi, où il entendit un Discours éloquent prononcé à sa gloire par le Pere Bernard de Serrada, Religieux du même Ordre, Professeur de Theologie en l'Université d'Alcala. Ce discours qui receut l'approbation de toute cette illustre Assemblée estant fini, les Religieux de l'Ordre vinrent deux à deux baiser la main &amp; le Scapulaire de leur Pere General. Les Communautez des Peres Jacobins &amp; Carmes Deschaussez qui avoient assisté à toute cette ceremonie voulurent, non sans étonnement du Pere General, luy rendre les mêmes respects &amp; actes d'obeïssance, ce qu'il ne put se deffendre d'accorder à leur pressantes instances. [...]</p>
+      </div>
+
+<div xml:id="MG-1693-12_167">
+        <head>MG-1693-12_167</head>
+        <bibl>Mercure galant, décembre 1693, p. 167-173</bibl>
+        <p>Essay de Pseaumes &amp; de Cant[iques]</p>
+        <p/>
+        <p>Vous me demandez mon sentiment sur le Livre nouveau qui paroist sous le titre de, Essay de Pseaumes &amp; de Cantiques, mis en Vers par une personne de vostre Sexe, &amp; vous croyez qu'il ne me doit pas estre inconnu, puis que c'est le Sr Brunet, Libraire au Palais, qui le debite. Je vous répondray là-dessus, Madame, que je l'ay lû en effet, &amp; lû avec beaucoup de plaisir ; mais quand il ne seroit pas tombé entre mes mains, j'aurois toujours sujet de vous dire, que l'applaudissement qu'il a eu dans les lectures particulieres, est une marque assurée de son merite. Il n'y a personne qui ne convienne que rien n'est plus beau, ny plus remply d'onction. C'est un avantage pour nostre Nation, qu'elle voye de temps en temps des Femmes capables de réussir avec tant de gloire dans les Ouvrages d'esprit. Les Vers de celuy-cy sont aisez, forts &amp; pleins, non seulement de sens, mais de pieté &amp; de religion. David dans les differens Pseaumes traduits y paroist en divers estats ; mais soit qu'il admire la grandeur de Dieu, soit qu'il luy demande pardon de l'adultere commis avec Bensabée, &amp; du meurtre d'Urie, soit aussi qu'il se plaigne de son Fils Absalon, ou d'Achitophel, son Amy, il exprime ses sentimens avec tant de force, &amp; avec des paroles si pressantes, qu'on ne peut s'empêcher d'estre surpris qu'une femme soit entrée si juste dans le coeur de ce Roy penitent. On voit dans le mesme Livre plusieurs autres Pseaumes, composez par differens Prophetes pendant la captivité en Babylone. On y a ajoûté les Pseaumes de la penitence, &amp; le Lecteur trouve en tout cela une éloquence vive, &amp; une pieté qui le persuade, qui le touche, &amp; qui le remplit de sentimens de vertu. Les Cantiques ne sont pas moins admirables. On en sera mieux persuadé par soy-mesme en les lisant, que par tout ce que j'en pourrois dire. J'ajoûteray seulement qu'on ne peut lire rien de plus énergique, &amp; de plus touchant que le Cantique où Moyse predit aux Juifs leur cheute dans l'Idolatrie, lors qu'ils seront Possesseurs de la Terre promise, &amp; les maux qu'il s'attireront par leur infidelité. Il est à souhaiter que la mesme personne nous donne tous les autres Pseaumes de la mesme Version. Elle nous cache son nom, mais si le bruit commun est veritable, c'est une Demoiselle qui a plusieurs talens, &amp; qui excelle dans d'autres aussi-bien qu'en ceux de Poësie. J'oubliois de vous dire que le sujet des Pseaumes est parfaitement exprimé dans de belles Estampes, qui par avance font connoistre au Lecteur ce qu'il va lire. Le Public luy doit sçavoir bon gré d'un Ouvrage qui fait honneur à nostre Langue &amp; à nostre Nation, &amp; qui luy donnera tout ensemble de l'utilité &amp; du plaisir.</p>
+      </div>
+
+<div xml:id="MG-1693-12_331">
+        <head>MG-1693-12_331</head>
+        <bibl>Mercure galant, décembre 1693, p. 331-335</bibl>
+        <p>Opera nouveau.</p>
+        <p/>
+        <p>On jouë un Opera nouveau intitulé Médée. C'est un sujet consacré par l'antiquité, &amp; qui a reçu l'approbation de tous les siecles. Ainsi on ne peut rien trouver à redire au fond de son sujet, ny aux caracteres que les Anciens nous en ont donnez. Quoy qu'il soit fort difficile de traiter dans un Opera une matiere aussi ample que dans une Tragedie ordinaire, parce qu'un Opera contient moins de Vers qu'il n'en faudroit pour deux Actes d'une Tragedie qui ne seroit pas en musique, on peut dire que l'opera de Medée &amp; celuy de Bellerophon du mesme Auteur, sont aussi remplis de sujet qu'aucune autre piece de Theatre que nous ayons. Les passions y sont si vives, &amp; sur tout dans Medée, que quand ce rôle ne seroit que recité, il ne laisseroit pas de faire beaucoup d'impression sur l'esprit des auditeurs. Jugez si ayant donné lieu à faire de belle Musique, Mademoiselle Rochois, l'une des meilleures Actrices du monde, &amp; qui jouë avec chaleur, finesse &amp; intelligence, brille dans ce personnage &amp; en fait bien valoir les beautez. Tout Paris est charmé, de la maniere dont cette excellente Actrice le jouë, &amp; on ne peut se lasser de l'admirer. Cet Opera a esté mis en Musique par Mr. Charpentier, dont depuis vingt ans on a vû mille endroits de sa Musique qui ont ravy dans diverses pieces de Theatre. Le Mariage forcé, le Malade Imaginaire, Circé, &amp; l'Inconnu en font foy. Il y a dans ces premieres deux Airs Italiens qui charment, de mesme que celuy de l'Opera de Medée. On ne doit pas en estre surpris, Mr Charpentier ayant appris la Musique en Italie, sous le Charissimi, dont Mr de Lulli a esté aussi disciple. Ainsi l'on ne peut nier qu'ils ayent puisé l'un &amp; l'autre dans la mesme source. Les veritables Connoisseurs trouvent quantité d'endroits admirables dans l'Opera de Medée. Mr Charpentier qui l'a fait graver, eut l'honneur de le presenter au Roy il y a quelques jours, &amp; Sa Majesté luy dit qu'Elle estoit persuadée qu'il estoit un habile homme, &amp; qu'Elle sçavoit qu'il y avoit de tres-belles choses dans son Opera. Quoy que l'on n'en ait encore donné que neuf ou dix representations, Monseigneur le Dauphin y est déjà venu deux fois ; &amp; Son Altesse Royale Monsieur l'a vû quatre fois. Il a eu la destinée des beaux Ouvrages, contre lesquels l'envie se declare d'abord ; mais ils en brillent aprés davantage. C'est ce qui est arrivé à plusieurs Opera de Mr de Lulli, qui ont esté ensuite l'admiration de tout Paris. On ne voit jamais l'envie s'attacher aux Ouvrages mediocres, &amp; ils ont leurs cours sans que l'on pense à en dire ny bien, ny mal. Les décorations &amp; les habits de l'Opera de Medée sont de Mr Berin. Sa reputation &amp; son sçavoir sont si confirmez sur ces deux articles, que je ne pourrois vous en dire davantage sans luy faire tort.</p>
+      </div>
+</body>
+  </text>
+</TEI>

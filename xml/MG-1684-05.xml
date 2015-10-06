@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-05_009">
+        <head>MG-1684-05_009</head>
+        <bibl>Mercure galant, mai 1684, p. 9-12</bibl>
+        <p>Arrivée de M. le Marquis de Torcy en Portugal &amp; sa Reception</p>
+        <p/>
+        <p>Je vous ay appris par ma Lettre de Janvier, que Mr le Marquis de Torcy, Fils aîné de Mr Colbert de Croissy, Ministre &amp; Secretaire d'Etat, avoit esté nommé Envoyé Extraordinaire de Sa Majesté, pour aller en Portugal complimenter le Roy Dom Pédro sur son avenement à la Couronne. [...] Le 17. [...] le Vaisseau [nommé le Faucon] entra dans la Riviere [de Lisbonne]. [...] Le Navire, qui estoit garny par tout de Flâmes, de Banderoles &amp; de Gaillardelettes de diférentes couleurs, salüa le Fort de S. Julien, &amp; ensuite la Tour de Bellin, qui rendirent le Salut. On moüilla entre cette Tour &amp; la Ville &amp; Mr des Granges, Consul François, &amp; Commissaire de la Marine, vint aussi-tost de la part de Mr l'Ambassadeur, conférer avec Mr le Marquis de Torcy &amp; Mr de Villette. Le lendemain 18. le Commandant fit mettre dans sa Chaloupe une Bande de Violons qu'il a sur son Bord. Le Canot où il entra avec Mr de Torcy, suivoit la Chaloupe de fort prés, &amp; ils allérent descendre à Bellin, devant ce fameux Convent, dont la magnificence &amp; la beauté sont si estimées. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-05_069">
+        <head>MG-1684-05_069</head>
+        <bibl>Mercure galant, mai 1684, p. 69-82</bibl>
+        <p>« ll y a longtemps que je ne vous ay parlé de Hanover. Cette Cour, qui suit toutes les manieres de celle de France, l'imite aussi dans ses divertissemens. Le Ballet qu'on y a dancé depuis peu, en est une marque. Une Troupe de jeunes Gens des plus qualifiez, voulant régaler d'une petite Mascarade, Madame Sophie-Charlote de Brunsvvic &amp; de Lunebourg, Fille de Monsieur le Duc de Hanover, se déguisa en Princes Indiens ; &amp; l'Amour qui les conduisoit, les présenta à cette Princesse. Un grand Concert d'Instrumens qui fit l'ouverture du Ballet, préceda ce Dialogue, que chanterent deux Zéphirs.</p>
+        <p/>
+        <p>I. ZEPHIR.</p>
+        <p>Pour chanter les vertus de l'auguste Sophie,</p>
+        <p>Préparons nos Concerts charmans ;</p>
+        <p>Du Dieu favorable aux Amans,</p>
+        <p>L'ordre nous y convie.</p>
+        <p/>
+        <p>II. ZEPHIR.</p>
+        <p>Peut-on former une plus noble envie ?</p>
+        <p>Obeissons à ses commandemens.</p>
+        <p>Publions en tous lieux sa beauté sans égale,</p>
+        <p>De ses yeux pleins de feux vantons les traits si doux.</p>
+        <p>Les puissans charmes qu'elle étale,</p>
+        <p>Blessent les coeurs d'inévitables coups.</p>
+        <p/>
+        <p>I ZEPHIR.</p>
+        <p/>
+        <p>Publions en tous lieux sa beauté sans égale,</p>
+        <p>De ses yeux pleins de feux vantons les traits si doux.</p>
+        <p>Les puissans charmes qu'étale,</p>
+        <p>Blessent les coeurs d'inévitables coups.</p>
+        <p/>
+        <p>II. ZEPHIR.</p>
+        <p>Son teint de Lys &amp; de Roses,</p>
+        <p>Si vif &amp; si délicat,</p>
+        <p>Ternit les plus belles choses</p>
+        <p>Par son brillant éclat ;</p>
+        <p>Et la Nature qui l'a faite,</p>
+        <p>A pris plaisir à la rendre parfaite.</p>
+        <p>Non, non, jamais le Soleil</p>
+        <p>Ne forma rien de pareil.</p>
+        <p/>
+        <p>I. ZEPHIR.</p>
+        <p>Heureux, dont l'ardeur fidelle</p>
+        <p>Luy coûteroit quelques tendres soûpirs.</p>
+        <p/>
+        <p>II. ZEPHIR.</p>
+        <p>Une conqueste si belle,</p>
+        <p>D'un grand Héros mérite les désirs.</p>
+        <p/>
+        <p>I. ZEPHIR.</p>
+        <p>Qui seroit assez teméraire</p>
+        <p>De prétendre luy plaire,</p>
+        <p>Sans avoir un sort glorieux ?</p>
+        <p>C'est aux Fronts couronnez d'espérer cette grace,</p>
+        <p>Et l'Amour puniroit l'audace</p>
+        <p>De tout autre Ambitieux.</p>
+        <p/>
+        <p>II. ZEPHIR.</p>
+        <p>Mais déja luy-mesme, en ces lieux</p>
+        <p>Vient pour commencer la Feste</p>
+        <p>Qu'en sa faveur il appreste.</p>
+        <p/>
+        <p>LES DEUX ZEPHIRS</p>
+        <p>ensemble</p>
+        <p/>
+        <p>Animons nos voix,</p>
+        <p>Et disons cent fois,</p>
+        <p>Il n'est rien dans la vie</p>
+        <p>De plus beau que Sophie.</p>
+        <p/>
+        <p>I. ENTREE.</p>
+        <p>Pour l'Amour, représenté par Mr Grotte le cadet.</p>
+        <p/>
+        <p>Aux plus lointains climats on connoît mon Empire ;</p>
+        <p>Je range sans égard les Mortels sous mes Loix ;</p>
+        <p>Et Bergers, &amp; Princes, &amp; Roys,</p>
+        <p>Tout le monde à son cour soûpire.</p>
+        <p>Belle Princesse, enfin il est temps que vos yeux</p>
+        <p>Apprennent que je suis le plus puissant des Dieux.</p>
+        <p>Le brillant de vostre jeunesse</p>
+        <p>N'a point encore esté capable de tendresse ;</p>
+        <p>Mais j'ay forgé pour vous de redoutables traits,</p>
+        <p>Dont vous n'échaperez jamais.</p>
+        <p>Cependant, charmante Sophie,</p>
+        <p>Dans l'attente du fier Vainqueur,</p>
+        <p>Que je rendray bientost maistre de vostre coeur,</p>
+        <p>Goustez les douceurs d'une vie,</p>
+        <p>Qui sans cesse de joye &amp; de plaisirs suivie,</p>
+        <p>Fasse admirer vostre bonheur.</p>
+        <p>Ces Princes Indiens que vous voyez paroistre,</p>
+        <p>Par leurs Dances vont rendre hommage à vos Beautez ;</p>
+        <p>Et mes soins seront souvent maistre</p>
+        <p>Et de semblables jeux, &amp; de ces nouveautez.</p>
+        <p/>
+        <p>II. ENTREE.</p>
+        <p>Pour un Prince Indien, représenté par Mr Grotte l'aîné.</p>
+        <p/>
+        <p>L'Amour qui s'attache à vous plaire,</p>
+        <p>Princesse, a résolu de toucher vostre coeur ;</p>
+        <p>Heureux, si pour me satisfaire,</p>
+        <p>Il le rendoit, helas, sensible en ma faveur.</p>
+        <p/>
+        <p>Pour un autre Prince Indien, représenté par Mr Ogden.</p>
+        <p/>
+        <p>Pour nostre Nation barbare,</p>
+        <p>Cette conqueste a trop d'appas,</p>
+        <p>Et nous rougirions tous qu'une Beauté si rare</p>
+        <p>Régnast dans nos foibles Etas.</p>
+        <p/>
+        <p>III. ENTREE.</p>
+        <p>Pour une Princesse Indienne, représentée par Mademoiselle la Baronne de</p>
+        <p>Platten.</p>
+        <p/>
+        <p>Le Ciel luy doit une Couronne,</p>
+        <p>Et l'Amour l'unira par d'illustres liens ;</p>
+        <p>Mais quoy que Princes Indiens,</p>
+        <p>Ce n'est pas pour vos coeurs qu'un si grand prix se donne.</p>
+        <p/>
+        <p>Pour une autre Princesse Indienne, représentée par Mademoiselle de Vitrac.</p>
+        <p/>
+        <p>Oüy, c'est porter trop haut le vol de vos desirs ;</p>
+        <p>En faveur de vos feux, c'est en vouloir trop croire.</p>
+        <p>Contentez-vous de la gloire</p>
+        <p>De luy fournir des plaisirs.</p>
+        <p/>
+        <p>IV. ENTREE.</p>
+        <p>Pour un troisiéme Prince Indien représenté par Mr le Baron de Platten.</p>
+        <p/>
+        <p>Un teméraire orgueil n'enfle point mon courage,</p>
+        <p>Je sçay, graces au Ciel, régler mes passions,</p>
+        <p>Et je borne mon avantage</p>
+        <p>A de moindres affections.</p>
+        <p>Il faut à l'auguste Sophie</p>
+        <p>Un sort qui soit digne d'envie,</p>
+        <p>Et l'Univers n'a point de Roys</p>
+        <p>Qui puissent faire un plus beau choix.</p>
+        <p>Pour mériter sa bienveillance,</p>
+        <p>Mêlons nos pas ensemble, &amp; formons mille jeux ;</p>
+        <p>Elle se plaist fort à la Dance,</p>
+        <p>Et recevra par là nos respects &amp; nos voeux.</p>
+        <p/>
+        <p>La cinquiéme Entrée fut mêlée par reprise de cette Chanson.</p>
+        <p/>
+        <p>Beautez, qui d'un Amant</p>
+        <p>Evitez l'engagement ;</p>
+        <p>Par des ardeurs eternelles</p>
+        <p>Laissez, laissez-vous charmer ;</p>
+        <p>Le grand plaisir est d'aimer,</p>
+        <p>Quand on trouve des coeurs fidelles.</p>
+        <p>Que servent les appas</p>
+        <p>D'un Objet qui n'aime pas ?</p>
+        <p>En vain les Ames cruelles</p>
+        <p>Refusent de s'enflâmer ;</p>
+        <p>Le grand plaisir est d'aimer,</p>
+        <p>Quand on trouve des coeurs fidelles.</p>
+        <p/>
+        <p>La sixiéme Entrée fut mêlée de cette autre Chanson.</p>
+        <p/>
+        <p>Profitez de la jeunesse,</p>
+        <p>Joüissez de vos beaux jours ;</p>
+        <p>N'attendez pas l'importune vieillesse,</p>
+        <p>Elle bannit les feux &amp; les Amours.</p>
+        <p>Un jeune coeur sans tendresse</p>
+        <p>Passe des momens affreux ;</p>
+        <p>Suivez l'Amour, trop de fierté le blesse,</p>
+        <p>Sans ses douceurs on n'est jamais heureux.</p>
+        <p/>
+        <p>Apres ces six Entrées, les deux Zéphirs animant toute cette belle Jeunesse, chanterent ces Vers.</p>
+        <p/>
+        <p>Chantons, dancons, tout est tranquille</p>
+        <p>Dans cet agreable sejour,</p>
+        <p>Ah, le charmant azile !</p>
+        <p>N'y parlons que de jeux, de plaisirs, &amp; d'amour.</p>
+        <p/>
+        <p>Un grand nombre d'Instrumens de plusieurs sortes, qui se joignit aux chants des Zéphirs, forma un Choeur agreable, apres quoy on fit la septiéme Entrée, qui fut variée de plusieurs Figures, où chacun prenoit un Tambour de Basque, pour mieux marquer sa joye d'avoir eu l'honneur de divertir une si grande Princesse.</p>
+        <p>La huitiéme Entrée fut d'une Gigue dancée par Mademoiselle la Baronne de Platten. Mr le Baron de Platten fit la neufviéme, &amp; tous deux ensemble firent la derniere. Le Choeur recommença,</p>
+        <p>Chantons, dançons, tout est tranquille, &amp;c.</p>
+        <p>&amp; l'on finit par la reprise de l'Entrée des Tambours de Basque.</p>
+        <p/>
+        <p>Je croy vous avoir déja parlé plusieurs fois de Madame la Princesse Sophie, qu'on a voulu divertir par ce Ballet. L'esprit, l'agrément, &amp; la beauté, brillent en elle avec de grands avantages. Elle estoit en France avec Madame la Duchesse de Hanover sa Mere, dans le temps du Mariage de la Reyne d'Espagne ; &amp; quoy qu'elle fust dans ses premieres années, des Personnes du meilleur goust &amp; du premier rang, prirent un si grand plaisir à son entretien, qu'ils jugerent déslors de tout ce qui fait aujourd'huy admirer cette Princesse. »</p>
+      </div>
+
+<div xml:id="MG-1684-05_160">
+        <head>MG-1684-05_160</head>
+        <bibl>Mercure galant, mai 1684, p. 160, 164-167, 169</bibl>
+        <p>Tout ce qui s'est passé à la Reception de Madame Royale à Lyon</p>
+        <p/>
+        <p>Vous attendez la suite du Voyage de Madame Royale ; cependant je ne vous parleray aujourd'huy que du Séjour que cette Princesse a fait à Lyon. Elle y arriva le Mardy, second de ce mois, [...].</p>
+        <p/>
+        <p>Le Mercredy 3. [...] [elle] [...] alla entendre la Messe chez [les Celestins] qui la reçûrent avec la Croix à la Porte de l'Eglise [...] On chanta le Te Deum avec l'Orgue. Il fut suivy de vingt-quatre Violons, &amp; de la décharge des Boëtes pendant la Messe.</p>
+        <p>[...] L'apresdînée elle eut le plaisir de la Joûte &amp; de l'Oye, qu'elle vit de son Balcon. Le soir, elle donna le Bal aux Dames. [...]</p>
+        <p/>
+        <p>Elle continua son Voyage le Vendredy 5. de ce mois, &amp; partit sur les onze heures, apres avoir entendu la Messe dans l'Eglise des Jacobins.</p>
+      </div>
+</body>
+  </text>
+</TEI>

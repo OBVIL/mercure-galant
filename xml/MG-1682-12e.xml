@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure Galant, Quartier de décembre 1682</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1682-12e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>décembre 1682</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1682-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1682-12e_168">
+        <head>MG-1682-12e_168</head>
+        <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 168-170</bibl>
+        <p>Si le sentiment de Phinée dans l'Opéra de Persée, est d'un véritable Amant, lors qu'il dit qu'il aime mieux voir Andromede devorée par un Monstre, qu'entre les bras d'un Rival.</p>
+        <p/>
+        <p>Comme le secret du Probléme</p>
+        <p>Consiste bien souvent dans la distinction,</p>
+        <p>On peut sans une peine extréme</p>
+        <p>Résoudre cette Question.</p>
+        <p>Si l'Amant est aimé, si pendant sa tendresse</p>
+        <p>Il n'a rien soupçonné de l'Objet de ses feux,</p>
+        <p>Enfin si pour le rendre heureux,</p>
+        <p>Il ne tient pas à sa Maîtresse,</p>
+        <p>Il faudroit qu'il fut bien brutal,</p>
+        <p>Et qu'il eût l'ame bien cruelle,</p>
+        <p>De vouloir la mort de la Belle,</p>
+        <p>Plutost que de la voir dans les bras d'un Rival.</p>
+        <p>Dequoy peut-elle estre coupable ?</p>
+        <p>Ses Parens, son devoir, ont causé ce malheur ;</p>
+        <p>Il n'est pas tout seul misérable,</p>
+        <p>Elle partage sa douleur.</p>
+        <p>Mais s'il n'est point aimé, si cette impitoyable,</p>
+        <p>Pour augmenter son tourment,</p>
+        <p>Luy préfere un autre Amant,</p>
+        <p>Et rit du fort qui l'accable,</p>
+        <p>Il vaudroit mieux pour luy la voir au monument,</p>
+        <p>Puis qu'un pareil traitement</p>
+        <p>Est toûjours insuportable.</p>
+        <p>Venons à l'application.</p>
+        <p>Phinée est aimé dans la Fable,</p>
+        <p>Ou du moins Andromede en son affliction</p>
+        <p>N'a point pour luy d'aversion,</p>
+        <p>C'est le Destin qui les sépare.</p>
+        <p>Phinée est donc cruel, inhumain, &amp; barbare ;</p>
+        <p>Mais en dernier ressort, ma Muse en jugera,</p>
+        <p>Lors que j'auray veu l'Opéra.</p>
+      </div>
+
+<div xml:id="MG-1682-12e_320">
+        <head>MG-1682-12e_320</head>
+        <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 320-321</bibl>
+        <p>L'Enigme en Prose du spirituel Berger Fleuriste, a esté ainsi expliquée par le Nouvel Habitant de la Coste des Singes Verts.</p>
+        <p/>
+        <p>Il ne se peut rien de plus agreablement imaginé, que l'Enigme en Prose du XIX. Extraordinaire. C'est le Monosillabe Si, qui dans les premiers temps, n'estoit aparement employé qu'à un seul usage, c'est à dire, dans le discours ordinaire, &amp; qui l'a esté depuis diféremment par les diférentes significations, que les Nations luy ont donnée. On l'a fait mesme servir à un autre employ, en l'ajoûtant aux six tons de la Musique, cette Science agreable &amp; pénible, mais plus facile présentement par l'addition du Si.</p>
+      </div>
+
+<div xml:id="MG-1682-12e_353">
+        <head>MG-1682-12e_353</head>
+        <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 353-354</bibl>
+        <p>QUESTIONS A DECIDER.</p>
+        <p/>
+        <p>[...]</p>
+        <p>Quelle est l'origine des Cloches, &amp; leur antiquité.</p>
+      </div>
+</body>
+  </text>
+</TEI>

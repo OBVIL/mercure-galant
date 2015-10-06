@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1696</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1696-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1696</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1696-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1696-02_216">
+        <head>MG-1696-02_216</head>
+        <bibl>Mercure galant, février 1696, p. 216-258</bibl>
+        <p>Ceremonies observées à la reception de Mr le Marquis de Dangeau, grand Maistre de l'Ordre de S. Lazare, &amp; de Nostre Dame de Mont Carmel.</p>
+        <p/>
+        <p>Il y a si longtemps qu'on n'a fait une ceremonie pareille à celle dont je vais vous entretenir, qu'on peut dire avec raison que ce sera un morceau d'histoire qui satisfera les Curieux. J'ay pris soin d'en ramasser toutes les particularitez, pour en faire un corps, &amp; je croy qu'il vous paroistra exact. Mr le Marquis de Dangeau, Grand Maistre de l'Ordre de Nostre-Dame de Montcarmel &amp; de Saint-Lazare, après avoir presté serment entre les mains du Roy, dans la Chapelle à Versailles, resolut que la ceremonie de sa reception dans l'Ordre se feroit le Dimanche 29. du mois passé, dans l'Eglise des Peres Carmes, appellez communement des Billettes, &amp; ordonna à Mr de Sauleux, Prevost &amp; Maistre des Ceremonies de l'Ordre, d'en prendre le soin. L'Eglise &amp; les Tribunes furent tenduës de riches Tapisseries, &amp; remplies de tapis de pied, de fauteüils, de chaises &amp; de carreaux, &amp; Mr le Grand-Maistre &amp; les Chevaliers assisterent aux premieres Vespres qui furent chantées la veille. Il y avoit des estrades dans les Chapelles à droit [sic] &amp; à gauche, où l'on arrangea des chaises par étages, en sorte que l'on voyoit la ceremonie de tous costez. [...]</p>
+        <p>Il y eut un fort grand ordre pour la distribution des places, &amp; pour arriver à l'Eglise avec facilité. Il y avoit à chacun des deux bouts de la rüe un des Cent Suisses du Roy, &amp; six autres Suisses, qui n'y laissoient entrer que les Carrosses qui avoient des Billets. Ces Carrosses estant à la porte du Cloistre, on les faisoit passer dans les deux ruës voisines. Il y avoit des gens de Mr le Grand-Maistre qui marquoient où il falloit aller, &amp; prenoient les juppes des Dames pour les porter jusques à l'entrée de l'Eglise, dont la porte estoit aussi gardée par des Suisses du Roy. Il y avoit aussi des personnes préposées pour recevoir les Billets cachetez &amp; numerotez, &amp; pour mener ceux qui les avoient à leurs chaises numerotées de même ; en sorte que l'on estoit placé dans le moment.</p>
+        <p>M. le Grand-Maistre arriva aux Billettes sur les neuf heures du matin. Les anciens Chevaliers allerent le recevoir à la porte du Cloistre, &amp; le conduisirent dans une chambre où il s'habilla. Pendant ce temps les anciens Chevaliers furent presens [...].</p>
+        <p>Ces Chevaliers ayant pris leur place dans le Chapitre, Mr de Genoüillac, Procureur General de l'Ordre, y fit la lecture des Lettres Patentes accordées par sa Majesté à Mr le Marquis de Dangeau, pour l'Etat, Charge &amp; Dignité de Grand Maistre des Ordres Royaux de Nostre-Dame de Mont-Carmel &amp; de Saint Lazare de Jerusalem ; de la Profession de foy faite par Mr le Marquis de Dangeau, entre les mains de Mr le Nonce, des Bulles du Pape accordées en consequence, &amp; de la prestation de serment faite entre les mains du Roy dans la Chapelle à Versailles, aprés laquelle lecture, d'un consentement unanime, les deux anciens Chevaliers precedez du Maistre de Ceremonies, furent chargez de l'aller supplier de prendre sa place.</p>
+        <p>Mr le Grand-Maistre sortit de sa chambre vestu du grand manteau de l'Ordre, de velours amarante, doublé de satin vert, ces deux couleurs estant celles des Ordres de Montcarmel &amp; de Saint Lazare. [...]</p>
+        <p>Mr le Marquis de Dangeau se rendit en cet estat dans la salle du Chapitre, precedé des deux anciens Chevaliers, &amp; du Maistre de Ceremonies. A l'entrée du Chapitre Mr Seguier de Liancourt, Doyen des Chevaliers anciens, luy fit une harangue à laquelle il répondit avec son éloquence &amp; son honnesteté ordinaire.</p>
+        <p>Il prit sa place dans un fauteuïl qui luy estoit preparé, &amp; aprés un petit discours sur sa reception, il declara le choix qu'il avoit fait de quelques personnes pour estre reçus Chevaliers de l'Ordre. Il en donna sur le champ la liste au Maistre de Ceremonies, qui en fit la lecture tout haut, &amp; passa ensuite dans une autre Salle pour la lire aux Chevaliers Novices, afin qu'ils marchassent dans le rang qui y estoit marqué. [...]</p>
+        <p>L'on marcha pour aller à l'Eglise. Les Novices estoient precedez de quatre Huissiers &amp; du Herault. Ils marchoient lentement &amp; avec dignité, deux à deux, &amp; ceux qui devoient estre reçûs les derniers, marchoient les premiers. [...]</p>
+        <p>A l'entrée de l'Eglise, les PP. Carmes se trouverent rangez en haye, &amp; le P. Prieur qui est Aumônier de l'Ordre, porta la parole, &amp; fit une harangue à Mr le grand Maistre, pendant laquelle les Novices se mirent dans les places qui leurs furent montrées par le Herault.</p>
+        <p>Aprés ce compliment les Chevaliers anciens se placerent le long de leurs bancs, se tenant debout. Mr le Grand-Maistre se mit à genoux à son Priédieu, &amp; les Chevaliers firent la mesme chose le long de leurs bancs.</p>
+        <p>Le Chapelain revestu d'une Chappe, &amp; les Officians, commencerent le Veni creator, aprés lequel le Maistre des Ceremonies se leva, alla au milieu de l'espace qui est entre le Priédieu &amp; l'Autel, &amp; qu'on appelle le Parterre en matiere de ceremonie. [...]</p>
+        <p>L'on commença la Messe &amp; à l'Evangile Mr le Grand Maistre &amp; les Chevaliers mirent l'épée à la main, &amp; aprés la remirent dans le fourreau. Le Maistre des Ceremonies fit les reverences ordinaires, &amp; avertit les deux plus anciens Chevaliers &amp; le Procureur General, qui se vinrent placer aux deux costez du Priédieu du G. Maistre, le Procureur General à la gauche de l'ancien. Le Maistre des Ceremonies fit signe à l'Officiant d'apporter le Missel sur le Priédieu du Grand-Maistre. L'Officiant l'apporta, &amp; le Grand Maistre ayant les mains sur l'Evangile, prononça son serment à haute voix, [...].</p>
+        <p>Le Maistre des Ceremonies, en l'absence du Greffier de l'Ordre, donna une plume au Grand-Maistre, qui ayant signé de serment, se leva ensuite &amp; se mit dans son fauteüil, aprés quoy le Maistre des Ceremonies fit signe aux deux Chevaliers anciens de s'avancer au milieu du parterre, &amp; de se ranger des deux costez. Mr le Grand-Maistre s'estant levé, &amp; ayant fait ses reverences à l'antique, alla se placer dans un fauteüil préparé prés de l'Autel du costé de l'Evangile, ayant les deux anciens Chevaliers à ses costez, &amp; le Maistre des Ceremonies deux pas devant.</p>
+        <p>Les deux anciens Chevaliers se mirent à genoux sur deux carreaux de velours aux pieds du G.M. &amp; presterent leur obedience en luy baisant la main. Ensuite les autres Chevaliers, sur un signe que leur fit le Maistre des Ceremonies, s'avancerent deux à deux, firent leurs reverences, &amp; vinrent prester à genoux la même obedience, &amp; s'en retournerent dans le même ordre.</p>
+        <p>L'obedience finie, Mr le Grand Maistre retourna à son fauteüil de la même sorte qu'il estoit venu. L'on continua la Messe [à l'issue de laquelle les nouveaux chevaliers furent reçus et prêtèrent serment sur l'Evangile.] [...]</p>
+        <p>Les Huissiers de l'Ordre apportérent une table devant le grand Autel, couverte d'un tapis de velours amarante, où le Maistre des Ceremonies, en l'absence du Greffier, reçût les signatures de la Profession &amp; des Voeux des nouveaux Chevaliers, par nom &amp; surnom, aprés quoy ils retournérent à leurs places [...].</p>
+        <p>Quand ces nouveaux Chevaliers eurent repris leurs places, le Grand-Maistre retourna à son Priédieu, precedé des deux anciens Chevaliers &amp; du Maistre des Ceremonies. L'Officiant commença le Te Deum, lequel estant fini il se tourna du costé des assistans, &amp; aprés avoir fait une reverence au Grand Maistre pour marquer que c'estoit avec sa permission, il donna la benediction solemnelle. [...]</p>
+        <p>[...] Une demi-heure aprés, Mr  le Grand Maistre donna un disné magnifique à tous les Chevaliers. Il entra avec eux dans une grande Salle, où il y avoit cinquante-quatre couverts en long. L'on y estoit placé des deux costez. Mr le Grand Maistre se mit au milieu d'un rang. Elle fut servie avec une fort grande magnificence. Mr le Marquis de Courcillon, son Fils, tint dans une chambre voisine une autre table de dix couverts.</p>
+        <p>Le repas fini Mr le Grand Maistre &amp; les Chevaliers retournérent à l'Eglise, où l'on chanta Vespres, &amp; le Salut, aprés lequel les Chevaliers reconduisirent Mr le Grand Maistre à son carrosse. [...]</p>
+      </div>
+
+<div xml:id="MG-1696-02_271">
+        <head>MG-1696-02_271</head>
+        <bibl>Mercure galant, février 1696, p. 271-276</bibl>
+        <p>Etablissement d'un nouveau Theatre à Rome.</p>
+        <p/>
+        <p>L'application extraordinaire que le Pape donne à la conduite du gouvernement de ses Etats, par l'information exacte qu'il prend de ce qui se passe dans les Congregations, &amp; par les Audiences qu'il donne journellement au Peuple, ne l'empesche pas de songer à ce qui regarde le soulagement des pauvres, la decoration de sa ville Capitale, &amp; le divertissement de ses Peuples. C'est ce qui fait qu'il a fondé divers Hôpitaux pour retirer les Pauvres, &amp; pour faire travailler le vagabons ; qu'il fait élever un grand Palais au milieu de Rome pour loger commodement les Tribunaux de Justice, qui estoient dispersez en differens endroits, &amp; qu'il a donné la permission de bâtir un Theatre en un lieu commode de la Ville pour representer des Opera &amp; des Comedies. Ce dernier édifice vient d'estre achevé par les soins de Mr Dalibert, Secretaire des Commandemens de la deffunte Reine de Suede, Christine Alexandre. Ce Theatre est un des plus grands &amp; des plus magnifiques qu'il y ait en toute l'Italie. On monte dans la Salle du Parterre par un large escalier de pierre. Il y a six rangs de Loges les unes sur les autres, &amp; trente-six Loges à chaque rang, avec huit differens escaliers pour y pouvoir monter &amp; descendre sans embarras ny confusion. Ces Loges sont un peu plus étroites que les nostres, n'y pouvant tenir que trois personnes commodement. Le premier rang n'est pas le plus estimé, parce qu'il est fort peu élevé au dessus du Parterre, &amp; est à l'égard de la Comedie, ce qu'une entre-sole est dans un bastiment. Ainsi on estime principalement le second &amp; le troisième rang, &amp; ce qui est de particulier, c'est que l'usage étant de retenir les Loges pour plusieurs representations, chacun les fait tapisser &amp; orner à sa fantaisie, &amp; en mesme temps chacun se pique de les rendre plus propres les unes que les autres, les uns les doublant de damas &amp; de velours, avec des tissus &amp; galons d'or, &amp; de riches tapis au devant, &amp; les autres avec des étoffes de la Chine, &amp; Satins de differentes couleurs. On devoit faire l'Ouverture de ce Theatre le quinziéme du mois passé, par un nouvel Opera.</p>
+      </div>
+
+<div xml:id="MG-1696-02_276">
+        <head>MG-1696-02_276</head>
+        <bibl>Mercure galant, février 1696, p. 276-280</bibl>
+        <p>Monseigneur fait l'honneur aux Comediens François de venir voir la Comedie dans leur Sale [suivi du] Compliment preparé pour Monseigneur.</p>
+        <p/>
+        <p>Ce nouvel établissement me donne occasion de vous parler de celuy de la Troupe de Comediens François. Le premier de Mars 1688. on donna un Arrest dans le Conseil d'Estat, Sa Majesté y estant, par lequel il leur fut permis de faire leur établissement dans le Jeu de Paume de l'Estoile, rüe des Fossez Saint Germain des Prez. En consequence de cette permission, il y ont fait une dépense de plus de deux cens mille livres. Monseigneur avoit souvent marqué qu'il leur feroit l'honneur d'aller voir leur Salle ; mais la facilité d'avoir la Comedie à Versailles, ayant fait couler le temps insensiblement, ce Prince n'estoit point encore venu à la Comédie à Paris. Enfin voulant satisfaire à sa parole &amp; à sa curiosité, il vint voir en même temps deux Pieces qui faisoient du bruit ; sçavoir une piece serieuse intitulée, Polixene, &amp; une Comique, qu'on joüoit alors sous le titre de la Foire S.Germain. Les beautez de la premiere attacherent beaucoup ce Prince, &amp; la seconde le divertit. Mr Dancour, qui en est l'Auteur, avoit préparé le Compliment que vous allez lire ; mais Monseigneur, dont la modestie est connuë, n'en voulut point parce qu'il ne vouloit écouter aucunes loüanges. Voicy les termes de ce Compliment.</p>
+        <p>C'est avec un tres-profond respect que j'ose prendre la liberté de remercier Monseigneur de l'honneur qu'il a bien voulu nous faire aujourd'huy. Ce témoignage public de l'estime qu'il a pour le Theatre, &amp; de la protection dont il nous honore, servira d'exemple sans doute, &amp; il attirera sur la Comédie toute la consideration dont elle a besoin. Nous sommes redevables à cette protection glorieuse de la tranquillité, qui par les ordres du Roy va desormais estre rétablie dans les Spectacles. Vos bontez, Monseigneur, se font sentir generalement à tout le monde, &amp; elles vous acquierent sur tous les coeurs, les mêmes droits que vostre naissance auguste vous donne sur les volontez. Nous en sommes tres-vivement penetrez, &amp; si nostre Profession ne nous met pas en estat de sacrifier nostre vie pour vos interests, elle nous donne au moins l'avantage de la consacrer toute entiere à vos plaisirs, avec un zele &amp; un attachement qu'il est impossible de ne pas avoir, &amp; qu'il n'est pas possible de bien exprimer.</p>
+      </div>
+
+<div xml:id="MG-1696-02_286">
+        <head>MG-1696-02_286</head>
+        <bibl>Mercure galant, février 1696, p. 286-291</bibl>
+        <p>Sonnet qui a remporté le prix des bouts-rimez remplis à la gloire de Madame la Princesse de Conty doüairiere.</p>
+        <p/>
+        <p>Enfin, Madame, je vous envoye le Sonnet qui a remporté le Prix, sur les Bouts-rimez proposez à remplir à la gloire de Madame la Princesse de Conty Doüairiere ; il est de Mr Robinet de S. Jean, &amp; vous serez surprise de trouver encore un feu de jeunesse dans ses Vers, quand je vous auray appris qu'il est dans sa quatre-vingt-huitiéme année. Il a beaucoup travaillé, soit en Prose, soit en Vers, &amp; fit un Eloge de Loüis XIII. à la mort de ce Monarque, qui arriva le 14 May 1643. Cet Eloge receut de grands applaudissemens. Mr Robinet a donné longtemps ses soins au fameux Theophraste Renaudot, Inventeur de la Gazette. Aprés la mort de Mr Loret, dont les Gazettes Burlesques ont esté fort estimées, il s'attacha à cette sorte d'Ouvrage, qu'il continua plusieurs années. Il joüit encore d'une santé parfaite &amp; vigoureuse, &amp; sans que l'âge ait affoibli ny son esprit, ny son corps. Il travaille encore aux mêmes Ouvrages, qui font vivre avec tant de gloire le nom du sçavant &amp; ingenieux Theophraste Renaudot, dont je viens de vous parler. L'abondance de la matiere, qui m'oblige à reserver divers articles pour le mois prochain, m'empêche de vous envoyer d'autres Sonnets que celuy que l'on a jugé digne du Prix.</p>
+        <p/>
+        <p>A LA GLOIRE DE MADAME LA PRINCESSE DE CONTI</p>
+        <p>SONNET</p>
+        <p>L'Héroïque vertu vers la gloire la guide,</p>
+        <p>L'amour par ses beaux yeux vainqueur de toutes parts,</p>
+        <p>Abat des libertez le plus fermes remparts,</p>
+        <p>Et du destin des coeurs comme il luy plaist décide.</p>
+        <p/>
+        <p>Son renom se répand comme un torrent rapide,</p>
+        <p>Elle est Fille d'un Roy qui passe les Cesars</p>
+        <p>Son air est d'Amazone, &amp; les plus grands hazars</p>
+        <p>Ne pourroient étonner son courage intrepide.</p>
+        <p/>
+        <p>Elle sçait des Heros tous les nobles Emplois,</p>
+        <p>Elle est digne d'un Trône &amp; de donner des Loix,</p>
+        <p>Son aspect calmeroit les plus fieres tempestes.</p>
+        <p/>
+        <p>On ne peut résister à ses charmes divers,</p>
+        <p>Des esprits &amp; des coeurs elle fait des conquestes,</p>
+        <p>Qui feroient dédaigner celle de l'Univers.</p>
+        <p/>
+        <p>ENVOY.</p>
+        <p/>
+        <p>Princesse auguste, hélas ! chacun tâche de vous plaire.</p>
+        <p>Ayez la bonté d'avoüer</p>
+        <p>L'effort que vient de faire,</p>
+        <p>Pour vous peindre &amp; pour vous loüer,</p>
+        <p>Un homme plus qu'octogenaire.</p>
+      </div>
+
+<div xml:id="MG-1696-02_319">
+        <head>MG-1696-02_319</head>
+        <bibl>Mercure galant, février 1696, p. 319-322</bibl>
+        <p>Vie de Dom Antoine, Roy de Portugal.</p>
+        <p/>
+        <p>Madame de Sainctonge, dont l'heureux genie vous est connu par les Opera de sa façon, qui ont été representez sur le Theatre Royal de Musique, &amp; par l'excellent Recueil de Poësies Galantes qu'elle a donné au public depuis peu de temps, vient de faire voir qu'elle n'a pas moins de talent pour la Prose que pour les Vers. Elle a fait paroistre au jour la Vie de Dom Antoine, Roy de Portugal, qui n'ayant pû se conserver la Couronne contre les forces de Philippes II. Roy d'Espagne qui y prétendoit, comme estant Fils d'une Fille d'Emanuel, vint demander du secours en France, &amp; mourut à Paris le 26. Aoust 1595. [...] Cette Histoire est écrite d'un stile aisé &amp; concis, &amp; renferme quantité de circonstances, qui meritent d'estre sçûës. On la trouve chez le Sieur Guignard, à l'entrée de la grand'Salle du Palais.</p>
+      </div>
+
+<div xml:id="MG-1696-02_322">
+        <head>MG-1696-02_322</head>
+        <bibl>Mercure galant, février 1696, p. 322-323</bibl>
+        <p>Divertissemens du Carnaval.</p>
+        <p/>
+        <p>Jamais les plaisirs n'ont esté plus en regne que pendant ce Carnaval. Les spectacles ont attiré un grand nombre d'Auditeurs ; les Bals ont esté nombreux &amp; frequens ; les Masques ont paru par toute la Ville en grande quantité, &amp; les Places publiques ont esté remplies de danses. Il est peu d'Estats aujourd'huy dont on puisse dire la mesme chose ; aussi n'en est-il point dont le Souverain travaille plus. Cette grande application du Roy paroist dans ce qui va servir d'entretien à tout l'Univers.</p>
+      </div>
+
+<div xml:id="MG-1696-02_327">
+        <head>MG-1696-02_327</head>
+        <bibl>Mercure galant, février 1696, p. 327-328</bibl>
+        <p>Divertissemens nouveaux.</p>
+        <p/>
+        <p>Dés que les plaisirs innocens seront de retour, on verra paroistre sur la Scene deux Pieces nouvelles, dont l'une est serieuse, ayant pour titre, Agrippa, ou la mort d'Auguste ; L'autre est une Comedie intitulée, le Viellard couru, ou les differens Caracteres des Femmes, de l'Auteur des dames vangées,  qui parurent l'année derniere, &amp; dont on n'a pû reprendre les representations, les principaux Acteurs de cette Piece ayant esté incommodez pendant une partie de l'hiver.</p>
+      </div>
+</body>
+  </text>
+</TEI>

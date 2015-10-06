@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1697</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1697-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1697</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1697-01_047">
+        <head>MG-1697-01_047</head>
+        <bibl>Mercure galant, janvier 1697, p. 47-54</bibl>
+        <p>Eglogue.</p>
+        <p/>
+        <p>Les vers qui suivent sont de saison, puisque nous ne sommes pas encore bien éloignez de la grande Feste, qui fut solemnisée sur la fin du mois passé. Ils sont de Mr Dader, de Toulouse.</p>
+        <p/>
+        <p>EGLOGUE</p>
+        <p>SUR LA NAISSANCE</p>
+        <p>DU FILS DE DIEU.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p/>
+        <p>Quel changement dans la nature !</p>
+        <p>L'Hiver est plus charmant que les Autres Saisons.</p>
+        <p>Eté, malgré l'éclat de tes riches Moissons,</p>
+        <p>Printemps, malgré tes fleurs, &amp; malgré ta verdure :</p>
+        <p>Malgré mesme tes fruits les plus delicieux,</p>
+        <p>Que tu produits, fertile Automne,</p>
+        <p>Nous n'aimons que les fruits des Cieux,</p>
+        <p>Qu'au milieu de l'hiver une Vierge nous donne.</p>
+        <p/>
+        <p>LICAS.</p>
+        <p>Les frimats ne sont plus affreux.</p>
+        <p>Nostre divin Sauveur, ce Soleil de la Grâce,</p>
+        <p>Pour rendre les Mondes heureux,</p>
+        <p>Vient jusque dans nos coeurs faire fondre la glace.</p>
+        <p/>
+        <p>TERSANDRE.</p>
+        <p>Du pouvoir du Sauveur miracles éclatants,</p>
+        <p>Nous goûtons dans l'hiver les douceurs du Printemps,</p>
+        <p>Déjà la campagne est fleurie ;</p>
+        <p>Nos moutons bondissans</p>
+        <p>Sous l'aspect du Fils de Marie</p>
+        <p>Y suivent à l'envi tous les loups ravissans.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Qu'à l'adorer, chacun s'empresse,</p>
+        <p>Dieu qui nous marque son amour,</p>
+        <p>N'attend de nous en ce beau jour</p>
+        <p>Que cris, que chants, que concerts d'allegresse.</p>
+        <p>Chantons, chantons sans cesse,</p>
+        <p>Chantons avec ardeur,</p>
+        <p>Chantons tous sa grandeur,</p>
+        <p>Chantons tous sa victoire,</p>
+        <p>Celebrons, respectons, adorons tous sa gloire.</p>
+        <p/>
+        <p>ALEXIS.</p>
+        <p>Ce Soleil glorieux,</p>
+        <p>Cet Enfant adorable.</p>
+        <p>Charme bien mieux</p>
+        <p>Nostre coeur &amp; nos yeux.</p>
+        <p>Dans le coin d'une etable</p>
+        <p>Que tout ce que le monde a de plus agreable,</p>
+        <p>Et de plus précieux.</p>
+        <p/>
+        <p>DAMON.</p>
+        <p>Cet Enfant quitte son Pere</p>
+        <p>Pour venir vivre avec nous</p>
+        <p>Après un bienfait si doux</p>
+        <p>Ne songeons plus qu'a luy plaire.</p>
+        <p>Qu'en tous lieux on le revere</p>
+        <p>Malgré le démon jaloux.</p>
+        <p/>
+        <p>ALCANDRE.</p>
+        <p>Les lis, les oeillets, &amp; les roses</p>
+        <p>Sur son teint écloses.</p>
+        <p>Plaisent mieux à nos coeurs contens</p>
+        <p>Que les fleurs du printemps.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Bergers, au milieu de la joye</p>
+        <p>Que le Ciel nous envoye,</p>
+        <p>Parmy tant de bonheur, parmy tant de plaisirs</p>
+        <p>Mon coeur pour cet Enfant pousse mille soupirs :</p>
+        <p/>
+        <p>DAMON.</p>
+        <p>Triste Daphnis, que pretens-tu nous dire ?</p>
+        <p>Lors qu'ils n'est point de coeur</p>
+        <p>Qui ne respire</p>
+        <p>La Paix du divin Redempteur,</p>
+        <p>Lors que partout il inspire</p>
+        <p>L'amour &amp; le plaisir, la joye &amp; la douceur.</p>
+        <p>Verra-t-on parmi nous un Berger qui soupire,</p>
+        <p>Accable sous le poids d'une vive douleur ?</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Ce Dieu naissant, cet objet de ma flame</p>
+        <p>M'attiste en mesme temps qu'il réjoüit mon ame.</p>
+        <p>J'ay mon coeur partagé de divers mouvemens.</p>
+        <p>Si ce divin Enfant me charme,</p>
+        <p>Je sens que tout mon coeur déjà pour luy s'alarme.</p>
+        <p>Ah, ne condamnez pas mes justes sentimens !</p>
+        <p>Bergers, parmy l'éclat de ces roses divines</p>
+        <p>Dont son teint est orné,</p>
+        <p>Helas ! je voy les cruelles épine</p>
+        <p>Dont un jour ce Sauveur doit estre couronné.</p>
+        <p/>
+        <p>DAMON.</p>
+        <p>Daphnis, mal à propos ta pitié s'interesse.</p>
+        <p>Nostre pitié pour luy</p>
+        <p>N'est pas ce qu'il veut aujourd'huy,</p>
+        <p>Il nous tous remplis d'une sainte allegresse ;</p>
+        <p>Mais lors que nous verrons ce puissant Roy des Rois</p>
+        <p>Expirer pour nous sur la Croix,</p>
+        <p>Heureux, heureux qui mourra de tristesse !</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Qu'à l'adorer, chacun s'empresse,</p>
+        <p>Dieu qui nous marque son amour,</p>
+        <p>N'attend de nous en ce beau jour</p>
+        <p>Que cris, que chants, que concerts d'allegresse.</p>
+        <p>Chantons, chantons sans cesse,</p>
+        <p>Chantons avec ardeur,</p>
+        <p>Chantons tous sa grandeur,</p>
+        <p>Chantons tous sa victoire,</p>
+        <p>Celebrons, respectons, adorons tous sa gloire.</p>
+      </div>
+
+<div xml:id="MG-1697-01_148">
+        <head>MG-1697-01_148</head>
+        <bibl>Mercure galant, janvier 1697, p. 148</bibl>
+        <p>Madrigal au Roy.</p>
+        <p/>
+        <p>J'ajoûte un Madrigal, fait sur la Paix de Savoye. Il est de Mr l'Abbé Jaquelot.</p>
+        <p/>
+        <p>AU ROY</p>
+        <p>Heros, qui ne vois rien d'illustre comme toy,</p>
+        <p>Qu'en la Paix que tu viens de faire</p>
+        <p>Brille un auguste caractere,</p>
+        <p>Et que j'y connois bien la grandeur de mon Roy !</p>
+        <p>De Dieu tu t'y fais voir le parfait exemplaire.</p>
+        <p>Souvent de la même maniere</p>
+        <p>Par les foibles Mortels quand il est irrité,</p>
+        <p>Sous les éclats de sa colere,</p>
+        <p>Sont les effets de sa bonté.</p>
+      </div>
+
+<div xml:id="MG-1697-01_239">
+        <head>MG-1697-01_239</head>
+        <bibl>Mercure galant, janvier 1697, p. 239-244</bibl>
+        <p>Quatrième Volume du Parallele des Anciens &amp; des Modernes.</p>
+        <p/>
+        <p>Mr Perrault, de l'Academie Françoise, a finy son excellent Ouvrage du Parallele des Anciens &amp; des Modernes, par un quatrième volume que Sr Coignard Imprimeur &amp; Libraire du Roy, a commencé à débiter depuis quelques jours, mais il n'y a point donné l'examen exact des plus beaux endroits des Poëtes Anciens &amp; des Modernes, qu'il avoit promis de comparer ensemble. Il déclare qu'il avoit à cet effet traduit en Poësie Françoise, ces mêmes endroits pour mieux juger du sens &amp; de la beauté des pensées qu'ils renferment, &amp; qu'il avoit déjà jetté des raisons qu'on peut apporter de part &amp; d'autre, mais que l'amour de la paix luy fait abandonner cette entreprises, &amp; qu'il a mieux aimé se priver du plaisir de prouver la bonté de sa cause d'une maniere qui luy sembloit invincible, que d'être plus long-temps broüillé avec des hommes d'un aussi grand merite que ceux qu'il avoit pour adversaires, &amp; dont l'amitié ne pouvoit estre achetée trop cher. Il dit là-dessus agreablement dans sa Préface, qu'il avait crü d'abord qu'en s'opposant un peu aux loüanges sans bornes, dont la prévention est si prodigue pour tous les Auteurs anciens, &amp; en reduisant l'estime qu'on en doit faire à sa juste valeur, ces Auteurs estoient éloignez de luy d'un si long espace de temps, que ny eux, ni ceux que les estiment le plus, ne s'aviseroient jamais de s'en tenir offensez, ce qui estoit cause qu'il se regardoit dans cette situation comme des gens qui voulant joüer à la longue paume, vont se mettre dans une pleine campagne, éloignée d tous les chemins &amp; de toutes habitations, pour estre bien assurez de ne blesser personne, mais qu'il avoit reconnu qu'il s'estoit trompé dans cette pensée, d'excellens hommes de nostre temps dont il avoit cité les Ouvrages avec éloge, comme des preuves incontestables de la superiorité de nostre siècle, aimant mieux se fâcher de l'injustice qu'ils prétendoient qu'il eust faite aux Anciens, que de luy sçavoir gré de la justice qu'il leur avoit rendüe. Ainsi Mr Perrault qui n'a point voulu leur donner de plus longs sujets de plainte, quoy que fort peu legitimes, s'est contenté de traiter dans ce dernier volume, de ce qui regarde l'Astronomie, la Geographie, la Navigation, la Guerre, la Philosophie, la Musique, la Medecine, &amp;c. &amp; non-seulement il prouve que les Modernes y sont plus habiles que les anciens, il fait voir combien les premiers ont esté plus loin dans la connoissance exacte de tous ces Arts &amp; de toutes es Sciences.</p>
+      </div>
+
+<div xml:id="MG-1697-01_277">
+        <head>MG-1697-01_277</head>
+        <bibl>Mercure galant, janvier 1697, p. 277-278</bibl>
+        <p>Enigmes.</p>
+        <p/>
+        <p>Le mot de l'enigme du dernier mois estait l'Hiver, &amp; a été trouvé par [...] Tamiriste de la rue de la Cerisaye. C'est luy qui a fait le divertissement sur la Paix de Savoye, en forme d'Opera ; [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

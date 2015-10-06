@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure Galant, Quartier de septembre 1679</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1679-09e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>septembre 1679</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1679-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1679-09e_325">
+        <head>MG-1679-09e_325</head>
+        <bibl>Extraordinaire du Mercure Galant, juillet 1679, p. 325-326, 339-340.</bibl>
+        <p>[Feu de joie fait à Reims]</p>
+        <p/>
+        <p>LE TRIOMPHE DU SOLEIL,</p>
+        <p>OU LE FEU DE JOYE,</p>
+        <p>Fait à Rheims devant l'Hôtel de Ville, pour la Paix genérale de l'Année 1679.</p>
+        <p/>
+        <p>La Ville de Rheims voulant marquer une reconnoissance particuliere, à l'Invincible Monarque qui a donné le calme à toute l'Europe, n'eut pas plûtost reçeu les ordres qu'elle attendoit impatiemment pour faire publier la Paix, qu'on y forma le dessein d'un Feu de joye, qui accompagnant cette Publication, pust faire connoitre le zele de ses Habitans. [...]</p>
+        <p>La Cerémonie de ce Feu ne s'estant pû faire avec celle de la Publication de la Paix le 28. Aoust, elle fut remise au Dimanche suivant, troisiéme du dernier Mois. La Compagnie des Arquebusiers s'estant rendüe ce jour-là dans Place en tres-bel ordre sur les huit heures du soir, Mr le Comte de Lhery, Capitaine pour le Roy dans la Ville, &amp; Mr Coquebert Seigneur d'Agny, Lieutenant des Habitans, accompagnez des Conseillers &amp; des Echevins, &amp; précedez des Archers du Guet, mirent le feu à l'Apareil. Au mesme instant la figure du Soleil parut enflâmée, sans qu'on eust pû voir de quelle maniere le feu y estoit parvenu. Il se communiqua en suite à tout le reste de la Machine, qui estant couverte d'Artifice depuis le haut jusqu'au bas, &amp; remplie au dedans d'un tres-grand nombre de belles Fusées, de la composition du Sr Chastelain de Rheims, forma un tres-agreable spectacle, &amp; éclata par diverses reprises en mille sortes de feux d'artifice, tandis que les Trompetes, les Fifres, &amp; les Tambours, se meslant aux décharges continuelles des Arquebusiers, &amp; au bruit du Canon &amp; des Boètes, faisoient dire à tout le monde que rien n'est plus beau qu'une Figure de Guerre dans une Céremonie de Paix.</p>
+      </div>
+</body>
+  </text>
+</TEI>

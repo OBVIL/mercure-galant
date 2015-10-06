@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-01_018">
+        <head>MG-1683-01_018</head>
+        <bibl>Mercure Galant, janvier 1683, p. 18-44</bibl>
+        <p>« Comme les ordres de faire des Réjoüissances publiques pour la Naissance de Monseigneur le Duc de Bourgogne, n'ont esté envoyez qu'aux plus considérables Villes de chaque Province il y en a plusieurs à qui l'exemple a servy de règle. Celles de Bourgogne ont prétendu qu'elles devoient avoir toutes un privilège particulier qui les distinguast des autres, &amp; c'est par là qu'une de ces Villes s'estant plainte de n'avoir point reçeu d'ordre, trois Divinitez qui président aux productions de la Terre, ont eu ensemble l'entretien qui suit.</p>
+        <p/>
+        <p>CONVERSATION DE POMONE,</p>
+        <p>ET DE FLORE,</p>
+        <p>AVEC CERES LEUR VOISINE,</p>
+        <p>Sur Monseigneur le Duc</p>
+        <p>De Bourgogne.</p>
+        <p/>
+        <p>POMONE À CERE'S.</p>
+        <p>Estes-vous encore à sçavoir, grande Déesse, qu'il est né en France, au mois d'Auguste sous signe du Lyon, le jour de Jupiter, d'une Mère appelée Victoire, un Enfant Royal le plus beau du monde ?</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Et n'auriez-vous pas appris qu'un Feu extraordinaire brilla dans l'air la veille de sa Naissance, &amp; qu'il s'en est allumé depuis par tout ce Royaume, &amp; dans tous les Etats voisins, pour en célébrer la joye en terre, à l'imitation du Ciel ?</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Cette Naissance m'est connuë, aussi bien qu'à vous, mes chères Voisines, &amp; je n'ignore aucune des merveilles qui l'ont précédée, accompagnée &amp; suivie. Je sçay que cet Enfant Royal est le Fils d'un Prince accomply, &amp; d'une Princesse adorable ; le Petit-Fils du plus grand Roy &amp; de la plus Vertueuse Reyne, qui furent jamais ; le protecteur de cette province ; en un mot, Monsieur le Duc de Bourgogne. Je sçay encore, &amp; de bonne part, que le tremblement de Terre qui arriva le sixième mois de sa formation, est le présage certain qu'il fera tout trembler, lors qu'il sera dans son sixième lustre. Les infidelles n'ont qu'à se bien tenir ; il y aura bien du malheur s'il ne les renverse ; &amp; je sçay de plus, que le Ciel a voulu confirmer le présage de la Terre, par la Comète qu'il a fait paroître après le redoutable tremblement.</p>
+        <p/>
+        <p>POMOME.</p>
+        <p>Eh, puis que vous sçaviez toutes ces choses, dites-nous, de grâce, pourquoy vous ne vous en estes non plus remuée, que si elles n'avoient pas esté de votre connoissance ; &amp; pourquoy la Ville que nous voyons, &amp; qui vous appelle son ancienne Déesse, n'a pas signalé, comme les autres, la joye qu'elle a d'un si bel accroissement de la Famille Royale ? Vostre immobilité vient-elle de vostre admiration, &amp; n'auriez-vous pas averty vostre Ville de son devoir ?</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Ne nous flatons point. Si cette Ville reconnoist la Déesse des Moissons pour sa Déesse du temps passé, elle ne la reconnoist pas pour celle du temps présent, quoy qu'elle ne subsiste encore aujourd'huy que de mes faveurs, &amp; que celles de mon Amy, le Dieu des Vandanges. A la vérité, le Temple que voilà dans sa Plaine, porte toûjours mon nom, puis qu'on l'appelle encore Cérée, mais c'est tout ce qui m'en reste. On ne m'y adresse plus de prières ny de voeux, d'offrandes ny de sacrifices ; on m'en a chassée pour y adorer la Croix ; &amp; comme je ne vois plus icy que des Ingrats, je ne me mesle non plus d'y donner des avis, que d'y rendre des Oracles.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Il est vray que le changement des Peuples est étrange ; mais vous n'estes pas la seule Divinité qui en souffre, c'est un mal commun à toutes. Il me semble néanmoins qu'il estoit de la générosité céleste, de ne pas laisser les Habitans d'une Ville qui vous a si longtemps adorée, dans l'ignorance de ce qu'ils avoient à faire. Ils cultivent vos Guérets, comme d'autres cultivent nos Vergers &amp; nos Parterres. C'est une espèce de culte qu'il nous rendent , &amp; qu'ils nous rendront toûjours. Il faut s'en contenter, puis qu'il n'y en a plus d'autres à attendre, &amp; dans le besoin, leur accorder nostre assistance.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>J'avois bien crû qu'ils renouveleroient les charmans Spectacles qu'ils employèrent il y a 21 ans pour célébrer la Naissance du Père du nouveau Prince, &amp; 23 ans auparavant celle de son Auguste Ayeul ; &amp; je me souvenois avec plaisir de ces temps heureux, de ces Pyramides de feu, de ces Obélisques de lumière, de ces Etoiles nouvelles, des ces Harmonies de Guerre &amp; de Paix, &amp; de toutes ces autres Réjoüissances qu'ils firent éclater dans l'une &amp; l'autre occasion ; mais ces doux souvenirs n'ont pas esté rafraîchis, comme je l'espérois. La joye est demeurée toute entière renfermée dans leurs coeurs ; ou s'il en a paru quelque chose au dehors, ce n'a esté que dans leurs yeux.</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Quelque sujet de plainte qu'ils m'ayent donné, je dois vous dire à leur décharge, qu'il n'a pas tenu à eux qu'ils n'ayent recommencé les Réjoüissances dont vous parlez ; mais vous sçavez que cet Etat est si bien policé, que rien ne s'y fait sans ordre, &amp; je vous apprens qu'ils n'en ont point reçeu qui leur permist de s'assembler, de se mettre sous les armes, d'allumer des Feux, &amp; de célébrer enfin la nouvelle Feste du Royaume.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Leur procedé cesse de me surpendre ; mais je m'étonne de l'ômission de ces ordres, sur un sujet pour lequel on auroit plutost deû en envoyer cent superflus, que d'en oublier un nécessaire. Il est vray que chacun a esté si fort occupé à donner chez soy des marques de son allégresse, que la mémoire a bien pû manquer dans ces transports, elle qui manque souvent au milieu de la tranquilité.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>La Renommée a porté par tout l'heureuse Nouvelle dont nous parlons, &amp; ça etsé un ordre général qu'elle a donné à toutes les Villes du Royaume, d'en témoigner hautement leur joye ; &amp; rien qu'un défaut de zèle n'a pû retenir les habitans de vostre Ville de l'oisiveté &amp; dans le silence, tandis que l'Espagne &amp; l'Allemagne faisoient mesme des Feux &amp; des acclamations à la gloire du nouveau Prince.</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Pouvez-vous avoir cette pensée d'une Ville Françoise, d'une Ville Royale, &amp; d'une Ville encore qui est de la Province dont l'auguste Enfant porte le nom ? Faites-luy plus de justice, j'en connois le coeur. Il en est peu de plus sensibles au bonheur de la Couronne ; &amp; la grande Princesse à qui ils appartiennent leur imprime trop bien cette sensibilité par son exemple, pour en manquer, quand bien toutes les autres raisons cesseroient. Mais quoy, c'est aux grands peuples à régler la conduite des petits. Leurs Voisins, qui habitent comme eux les bords de Seine, &amp; qui se surpassent en puissance, n'ont rien entrepris, sans en avoir reçeu auparavant des ordres particuliers. Il a donc fallu qu'ils en attendissent. Leur attenté a esté inutile, il n'en est point venu. C'est leur malheur, &amp; non leur faute.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Ils doivent s'en plaindre, on leur en auroit fait raison ; ou plutost ils devoient passer outre. Qui l'auroit pû trouver mauvais ? Mais la coûtume, direz-vous, les a trompez. Eh bien, excusons-les donc, &amp; suppléons mesme à leur défaut, puis que c'est un party plus honneste que celuy de les blâmer.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Nous ne pouvons rien faire de mieux. Voilà l'Arbre Fée à cent pas de nous. C'est le plus fameux du Païs ; mettons-y le feu de toutes parts ; &amp; tandis que ce Flambeau vivant changera en beau jour cette sombre nuit, chantons chacune une Chanson à la gloire des princes qui forment la Maison Royale. L'Echo de la Perrière nous répondra ; &amp; les Nymphes d'Arse, d'Ourse, &amp; de Leigne, qui ont joint celle de Seine dans vostre Contrée, nous écouterons avec elle ; puis témoins de nostre Feste, elles en iront ensemble porter la nouvelle à Paris &amp; à Versailles, où Mercure qui sçait tout ce qu'on y dit, l'annoncera bientôt à toute la Terre.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Nous sommes dans la saison des Ardans, &amp; nous pouvons encore inviter la Seine d'en faire paroître quelques uns pour dancer sur les Eaux, ou dans cette Prairie, tandis que nous chanterons, &amp; il ne siéra pas mal aux Napées de se mesler avec eux, s'ils viennent sur le rivage. Je serois mesme d'avis que nous priassons la Nuit de dissiper son obscurité, afin que l'air estant sans nuages, le Ciel nous donne par son bel azur, &amp; par le bel ordre &amp; le doux brillant de ses Etoiles, la plus belle des Illuminations.</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Je n'ay garde, mes chères Compagnes, de désaprouver des pensées si raisonnables ; il en faut venir aux effets ; &amp; pour commencer, voicy ce que je chanteray à la gloire de l'auguste Monarque.</p>
+        <p/>
+        <p>LOÜIS LE GRAND ressemble au puissant Jupiter,</p>
+        <p>Il en a le regard, la majesté tout l'air.</p>
+        <p>Titans, Géans, craignez sa foudre,</p>
+        <p>Il vous a pardonné, mais ne l'offencez plus.</p>
+        <p>Cris, regrets, seroient superflus,</p>
+        <p>Il vous réduiroit tous en poudre.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Voilà s'attacher de bonne grâce à la Tige. Pour moy, je me prendray à la Branche ; &amp; voicy ce que je diray du Fils de ce Grand Roy.</p>
+        <p/>
+        <p>Le généreux DAUPHIN tient de nostre Dieu Mars</p>
+        <p>Il en a l'action, le bras, &amp; le courage.</p>
+        <p>Aigles, Lions, &amp; Léopards,</p>
+        <p>Trève d'humeur vaine &amp; sauvage ;</p>
+        <p>Apprenez aujourd'huy,</p>
+        <p>Que quelque bruit que vostre union fasse,</p>
+        <p>La Guerre contre vous ne seroit rien pour luy</p>
+        <p>Qu'un Divertissement de Chasse.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Il me reste donc à parler de la Fleur, &amp; du jeune Lys qui sort des deux autres ; &amp; cette Chanson expliquera ce que j'en pense.</p>
+        <p/>
+        <p>Ce cher Enfant est beau comme l'Amour,</p>
+        <p>Il en a les traits &amp; les grâces.</p>
+        <p>Combien nous luy verrons un jour</p>
+        <p>Donner l'Assauts, prendre de Places !</p>
+        <p>Sçachez, fières Beautez, &amp; vous, fiers Ennemis,</p>
+        <p>Que par la douceur de ses charmes,</p>
+        <p>Ou par la force de ses armes,</p>
+        <p>Tout luy sera soûmis.</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>C'est loüanges ne sont pas indignes de ces Princes, &amp; nous ne pouvions mieux les comparer qu'à nos Dieux. Mais ajoûtons en faveur du Nouveau né quelques-uns de ces souhaits efficaces qui ne manquent jamais d'arriver quand ils partent du fonds de nos coeurs.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Nous vous obéirons avec joye ; &amp; pour ne point différer, je souhaite &amp; resouhaite que tout ce que je viens de dire du jeune Prince, se trouve véritable dans le temps ; que les Jeux, les Ris, &amp; tous les honnestes Exercices, fleurissent avec luy ; que la Galanterie, la Fortune, &amp; la Victoire, l'accompagnent par tout; &amp; qu'il soit comme son Ayeul, un sujet continuel d'admiration &amp; d'amour.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Je souhaite de mesme, qu'il ait un fonds inépuisable de bonté ; qu'il ne passe point de jour sans faire beaucoup de bien ; qu'il mette dans cette profusion son plus grand plaisir &amp; sa principale gloire ; &amp; que le fruit d'une inclination si loüable soit l'engagement volontaire de toutes les Nations aux Loix de son Empire.</p>
+        <p/>
+        <p>CERE'S.</p>
+        <p>Et moy je souhaite que son Règne ait plus de félicité &amp; de durée que celuy d'Auguste ; que l'Abondance &amp; la Paix en soient inséparables ; que les Arts, les Sciences, &amp; toutes les Vertus, s'y poussent dans la plus grande perfection ; &amp; que ce Prince surpasse autant en mérites ses sujets, qu'ils surpasseront alors en bonheur tous les autres Peuples de la Terre.</p>
+        <p/>
+        <p>POMONE.</p>
+        <p>Son illustre Naissance ayant servy de fondement à nos souhaits, il est impossible qu'il ne soit un jour infiniment brave, galant, bienfaisant, sage, &amp; heureux ; mais pour achever sa félicité, il me semble qu'il y a encore un souhait à former, dont l'importance demande nostre jonction. C'est qu'il se voye un jour, comme son Ayeul se voit aujourd'huy, un Fils qui soit véritablement dignement de luy, &amp; un Petit Fils qui luy donne de belles espérances de parvenir à la mesme gloire.</p>
+        <p/>
+        <p>Les deux autres Déesses approuvèrent &amp; confirmèrent ce favorable souhait, après quoy, l'exécution suivit leurs projets. Il n'en couta pourtant que les branches à l'Arbre Fée, la Tige est demeurée en son entier.</p>
+        <p>Le Berger de Flore qui oüit cet agréable entretien, &amp; qui en vit l'effet, comme il retournoit de la Ville de dans son Hameau, est celuy qui m'en a donné la connaissance ; mis quelque fécondité qu'il y ait dans les souhaits de ces Déesses champestres, il a trouvé qu'il manquoit encore quelque chose ; &amp; c'est que le jeune Prince, plus heureux que François II, que Charles le Sage, que Philippe le Bel, &amp; que S. Loüis, qui eurent le bonheur de voir les fameux Roys leurs Ayeux, mais seulement durant de petits espaces de temps, voye le sien pendant un grand nombre d'années, afin qu'il puisse apprendre à régler ses moeurs &amp; ses actions sur le veuë de celles du plus sage des Monarques, &amp; recevoir des Leçons de bien régner, du plus grand Maistre en cet Art qui fut jamais.</p>
+        <p>Je croy en effet qu'on ne luy peut rien souhaiter de plus avantageux, quelques souhaits qu'on fasse à son avantage. »</p>
+      </div>
+
+<div xml:id="MG-1683-01_044">
+        <head>MG-1683-01_044</head>
+        <bibl>Mercure Galant, janvier 1683, p. 44-49</bibl>
+        <p>MALTE</p>
+        <p/>
+        <p>Comme il faut du temps pour recevoir les Nouvelles des Lieux éloignez, je n'ay appris que depuis fort peu de jours ce qui s'est passé à Malte à l'occasion de cette mesme Naissance. On n'en fut pas plutost informé dans l'Isle, que Monsieur le Grand Maistre, de l'illustre Maison de Carasses, &amp; le sacré Conseil, ordonnèrent un Feu d'artifice, dont le dessein fut formé avec beaucoup d'art &amp; de soin, &amp; exécuté avec une entière magnificence, sous la conduite &amp; les ordres de Mr le Chevalier de Beaujeu d'Arles, Commandeur de l'Artillerie de la Religion, qui donna cette Feste publique le Dimanche 18 d'Octobre, avec la décharge de toute l'Artillerie. Le Clergé de la grande Eglise Conventuelle chanta le Te Deum en Pontificat, &amp; fit le mesme jour une Procession solemnelle, où toute la Religion assista. [...] Le lendemain 19 Monsieur le Grand Maistre fit son Feu particulier au Palais [...] On y permit tout le Dimanche, Lundy &amp; Mardy, la liberté de se déguiser en masque, &amp; les autres divertissemens du Carnaval. L'Auberge de Provence, comme la première, fit sa Feste particulière le Lundy donna une fontaine de Vin au Peuple. [...] Le Te Deum fut chanté à la Chapelle de Sainte Barbe, au son de toute l'Artillerie du premier Bastion de Provence. L'Auberge d'Auvergne, qui est la seconde en prééminence, fit la mesme chose le mardy, [...] Le Dimanche suivant, 25 du mesme mois, l'Auberge de France s'acquitta du mesme devoir avec grand éclat. [...] Les Galères de l'Ordre donnèrent aussi un Spectacle d'une Feste aux frais de l'Ordre. Il n'y avoit rien de plus beau à voir que le Feu qu'elle firent lors que la nuit commença. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-01_111">
+        <head>MG-1683-01_111</head>
+        <bibl>Mercure Galant, janvier 1683, p. 111-126</bibl>
+        <p>Histoire</p>
+        <p/>
+        <p>Il y a des momens inévitables pour aimer, &amp; en vain chercheroit on la raison pourquoy ces momens ont plus de forces que d'autres. Un Homme qui avoit déjà passé trente années de sa vie dans le Monde, sans y prendre aucune passion bien vive, se lève un matin sort de sa Chambre, &amp; ne s'attend pas qu'il n'y rentrera qu'avec de l'amour. En passant par une Gallerie, il voit dans une chambre d'une Maison voisine, dont la Fenestre estoit ouverte, une jeune Personne qui joüoit du Clavessin. [...] Ses mains voloient sur le Clavessin avec beaucoup de vitesse &amp; de grâce. Elle accompagnoit de quelques petits mouvemens de teste tout ce qu'elle joüoit ; &amp; à voir ces mouvemens, on pouvoit juger que l'air estoit languissant &amp; tendre. Aussi c'est ce que crût le Cavalier, car il estoit trop éloigné pour entendre l'Air. L'agrément qu'avait la Demoiselle à joüer du Clavessin, la propreté de l'équipage où elle estoit, sa taille qui luy paroissoit jolie, ses bras qu'il croyoit beaux quoy que de loin, l'idée qu'il conçeut qu'elle s'estoit levée matin pour jouer quelque chose de doux, &amp; de conforme à ses pensées, &amp; pour rêver avec son Clavessin ; enfin la fatalité du moment, tout cela fit son effet sur le Cavalier. Il ne la voyoit que de costé, &amp; de sorte qu'il ne découvroit rien de son visage. Cependant il se figura qu'elle estoit belle, &amp; souhaita mille fois qu'elle se détournast vers luy ; mais elle estoit trop appliquée à ce qu'elle faisoit. Cet air d'application le confirma dans sa pensée qu'elle rêvoit tendrement, &amp; sur cela il se l'imaginoit encore plus aimable. Il eust déjà souhaité estre celuy à qui elle pensoit ; cet air de Clavessin joüé pour luy, luy auroit paru d'un grand prix. Il s'arrestoit à la regarder sans pouvoir lever les yeux de dessus elle, toûjours dans l'espérance qu'elle se détourneroit. Il se sentoit déjà une certaine émotion qui annonce l'amour, ou qui est l'amour elle-mesme, &amp; la veüe des plus aimables Personnes ne luy avoit rien inspiré de si tendre, que le Clavessin, &amp; les mains, &amp; l'air d'une Personne qu'il ne voyoit point. Eust-elle crû que dans le moment qu'elle estoit seule dans sa Chambre, à ne s'occuper que de ce qu'elle joüoit, elle faisoit une conqueste ? Enfin elle sortit sans que le Cavalier eust vû son visage. Il demeura quelque temps dans la Gallerie, tout remply d'elle. [...] Il ne sçavoit point du tout qui elle estoit. Il y avoit peu de temps qu'il logeoit dans la Maison qu'il occupoit alors, &amp;, ainsi qu'il arrive souvent à Paris, il ne connoissoit point son voisinage. Il s'en informa, &amp; apprit que la Maison où il avoit vü l'aimable Joüeuse de Clavessin, estoit tenue par un Gentilhomme qui avoit trois Filles, &amp; qui vivoit à Paris après s'estre retiré du service. Le Cavalier alla voir à droit de Voisin. Il en fut fort bien reçeu, &amp; vit les Trois Demoiselles, qui sans estre des beautez régulières, estoient toutes fort agréables. Il y avoit entre elles peu de diférence d'agrément. [...] Cette égalité de mérite embarrassa le Cavalier. Il s'estoit tenu bien sûr que celle qu'il amoit estoit la plus aimable, &amp; qu'à cette marque il ne manqueroit pas de la reconnoistre ; mais par malheur les trois Soeurs s'entrevaloient bien. Il est vray qu'il n'avoit qu'à laisser parler son coeur ; mais il avoit peur que son coeur ne se méprist, &amp; ne choisit pas juste celle qui avoit joüé du Clavessin, car c'estoit absolument à celle-là qu'il en vouloit. [...] Il crût qu'il avoit un moyen infaillible de le sçavoir, en s'informant si elle joüoit du Clavessin , mais il ne put s'en éclaircir à la première visite, &amp; il partit bien sûr qu'il aimoit l'une des trois, sans sçavoir pourtant laquelle, mais souhaitant que ce fust la Cadette. Peu de jour après, il retourna chez ses aimables Voisines, &amp; il rencontra heureusement cette cadette dans la Chambre où estoit le Clavessin. Il ne manqua de luy dire qu'il n'y avoit pas d'apparence qu'elle laissast cet Instrument inutile. Elle en convint, &amp; aussi-tost, comme il crut que c'estoit elle qu'il avoit veuë, il se détermina à l'aimer. Les deux autres Soeurs entrèrent, &amp; il les trouva beaucoup moins belles. Il estoit trop plein de la Cadette, &amp; de son Clavessin, pour ne la prier pas d'en joüer. Elle s'en défendit fort modestement, &amp; là-dessus l'Aînée dit que sa Soeur, par les façons qu'elle faisoit, donneroit lieu de croire qu'elle estoit bonne Joueüse de Clavessin, &amp; que cependant la vérité estoit qu'elles n'en joüoit pas assez bien toutes trois pour se faire prier. Cette déclaration embarrasse de nouveau le Cavalier. C'estoit trop que trois Soeurs qui joüaussent du Clavessin. Il ne pouvoit distinguer celle qu'il aimoit qu'à une seule marque, je veux dire, à la Robe de Chambre qu'il luy avoit veuë. Il se souvenoit qu'elle estoit bleuë, car l'idée de toute son avanture luy estoit demeurée bien vive, &amp; il n'espéra plus qu'en cette robe de chambre. Il conta à ces Demoiselles que de sa Gallerie il en avoit vû une joüer du Clavessin, &amp; qu'il avoit bien envie de sçavoir laquelle c'estoit. Il leur nomma le jour, mais elles ne s'en souvinrent point. Enfin, il leur demanda laquelle avoit une Robe de Chambre bleuë. Il se trouva qu'elle estoit à la Cadette, mais que les deux autres ne laissoit pas [de] la prendre quelques fois. Ainsi, il ne sortoit point d'embarras. Clavessin, Robe de Chambre, tout estoit commun aux trois Soeurs. Ce n'est pas qu'il ne se sentist plus de panchant pour la Cadette, &amp; qu'il ne fust déjà en état de l'aimer , quand mesme ce n'eust pas esté elle qu'il eust vû joüer ; mais enfin il auroit bien voulu que ç'eust esté elle, &amp; peut-estre c'estoit parce plus qu'il ne pensoit, qu'il avoit envie de luy pouvoir appliquer l'agréable idée qu'il avoit conçeuë de la petite joüeuse de Clavessin. Cependant il n'y avoit plus de moyen de la démêler. [...] Il fut réduit à aimer la Cadette, sans avoir bien éclaircy la chose. Enfin, il en vint au point de ne douter plus que ce n'eust esté elle pour qui son coeur avoit si fortement parlé, &amp; les sentimens qu'il conçeut l'assurèrent que ceux qu'il avoit conçeus auparavant ne pouvoient regarder qu'elle. Il la demanda à son Père, &amp; l'obtint sans peine ; &amp; cette aimable Personne, depuis qu'elle fut mariée, ne négligea pas le Clavessin, qui avoit fait pour elle les commencemens d'une Conquête assez agréable.</p>
+      </div>
+
+<div xml:id="MG-1683-01_133">
+        <head>MG-1683-01_133</head>
+        <bibl>Mercure Galant, janvier 1683, p. 133-147</bibl>
+        <p>« Quoy que beaucoup de Parties soient nécessaires à un Parfait Orateur, il y en a deux qui contribuent ordinairement plus que les autres à luy attirer ces nombreuses Assemblées, qui mettent en réputation ceux qui parlent en Public. Il en est traité dans le Discours dont je vous envoye une Copie. L'Autheur nous cache son nom, mais il ne peut cacher son esprit. Lisez, Madame, &amp; vous serez de son sentiment. »</p>
+        <p/>
+        <p>DE L'ART ORATOIRE</p>
+        <p>Ce n'est pas assez qu'un Orateur ait de l'esprit pour raisonner judicieusement, &amp; pour raisonner avec politesse ; qu'il ait de la mémoire, pour prononcer un Discours ; il faut plus qu'il ait un extérieur agréable, afin de persuader, &amp; de plaire à mesme temps. Nos sens sont les premiers Juges qui connoissent d'une Oraison. On ne peut gagner ces Juges que par l'action &amp; par la parole. C'est pourquoy l'on veut bien traiter icy de l'une &amp; de l'autre, mais d'une manière nouvelle, qui ne sera peut-estre pas au dessous de l'Eloquence moderne.</p>
+        <p>La Parole n'a jamais plus de charme, que quand elle plaist aux oreilles, ce qui dépend principalement de la voix ; &amp; comme rien n'apprend mieux à conduire la voix, que la Musique, on ne fait pas difficulté d'avancer que la Musique seroit nécessaire à un Orateur. La proposition n'est pas si hardie, qu'on ne puisse bien la soûtenir.</p>
+        <p>Pour que l'Action, comme sa beauté dépend du geste, &amp; que le geste ne se règle que par les diverses situations du Corps, on peut dire que pour avoir des gestes bien composez, il faut avoir appris à danser.</p>
+        <p>Il paroist d'abord surprenant, pour ne pas dire absurde, qu'on veüille faire servir la Musique &amp; la dance à l'Art Oratoire ; &amp; une telle proposition mérite bien un peu d'éclaircissement.</p>
+        <p>La Musique est utile à un Orateur pour la conduite de sa voix, dont les inflexions doivent s'accommoder à la diversité des Sujets qu'il traite. Ceux qui ont donné des préceptes sur l'Art Oratoire, conviennent qu'on doit élever plus ou moins la voix aux diférentes parties que l'on doit continuer, &amp; finir autrement que l'on ne commence ; qu'on n'agite pas toutes les passions d'une égale manière ; &amp; qu'ainsi on ne garde pas toûjours le mesme ton de voix dans le Discours. Il y a des tons propres à certains sentimens ; d'où vient qu'on parle autrement en colère, que de sang froid ; d'où vient que la joye &amp; la tristesse s'expriment diversement, &amp; que l'on ne répond pas toujours sur le mesme ton que l'on est interrogé. On peut remarquer que les divers tons de voix viennent souvent des difèrentes passions qui nous agitent ; &amp; que les passions dépendent quelque fois des humeurs qui dominent dans nos corps, tant il y a de rapport entre le corps &amp; l'esprit. Ce rapport est d'autant plus fort, que c'est la Nature elle-mesme qui l'a formé. Aussi on ne sçauroit séparer les passions des humeurs. C'est pour cela que les Paroles sont les images de nos pensées, &amp; qu'elles nous expriment au dehors ce nous sentons au dedans. La Parole est éloquente, selon qu'elle s'accommode aux oreilles de ceux qui l'écoutent. Je diray plus. Les sons mesme peuvent exciter en nous quelque passion ; de sorte qu'à la Guerre on n'est jamais plus animé que par le bruit des Canons, &amp; par celuy des tambours &amp; des trompetes. L'histoire rapporte qu'un Capitaine Grec se servoit à l'Armée d'Instruments pour donner tantost la Charge, tantost la Retraite, suivant qu'il joüait d'une manière élevée, ou tendre. L'expérience nous montre, que les plus beaux sentimens possèdent toute leur force quand ils ne sont pas soûtenus par une voix qui leur soit propre. Les Comédiens &amp; les Tragédiens en Musique ne sont plus agréables que les autres, que parce que le Chant y rend les passions plus naturelles. C'est là où l'on sent bien mieux qu'on ne peut le dire, le raport qu'il y a entre la douceur de la voix, &amp; la tendresse de l'amour, &amp; où l'on éprouve qu'on se laisse aisément persuader par des sons, qui semblent faits pour nos humeurs, &amp; pour nos tempéramens. Mais puis que l'Eloquence n'est pas moins utile au Barreau qu'à la Chaire, on peut remarquer des exemples moins profanes. La Religion ne nous en présente-t-elle pas de très beaux dans l'Ancien Testament, où Dieu sembloit se plaire aux Cantiques &amp; aux Instrumens ? La Musique n'est pas moins agréable dans l'Eglise, puis que quand elle y est bien chantée, elle élève l'âme à Dieu, &amp; luy donne, s'il fait ainsi dire, un avant-goust des plaisirs du Ciel.</p>
+        <p>La Dance est utile à une Personne qui doit parler en public, non seulement pour luy fortifier les organes de la voix (comme nous apprend Démostène qui commençoit souvent un Discours à haute voix en montant avec violence sur une haute Montagne) mais encore pour luy former une action qui n'ait rien de géné ny de contraint, d'où vient qu'anciennement les Orateurs parloient sur des Galeries, &amp; à leur exemple en Italie les Prédicateurs preschent encore dans de grandes Chaires, où ils peuvent facilement se promener, &amp; avoir une action libre. On ne voudroit pourtant pas donner un Orateur Italien pour modelle à un François. Un Italien seroit plus propre à former un Bouffon de Théâtre, qu'à faire l'ornement d'une Chaire. Il faut de la modération &amp; de la retenuë dans l'action. C'est pourquoy l'action Françoise est si agréable. Elle n'est point contrainte ; elle est libre, hardie ; elle s'accommode au Discours, &amp; n'a que des mouvemens naturels. On ne doute pas que les gestes ne soient quelquefois aussi éloquens que les paroles. Pour marque de cela, l'inquisition d'Espagne a esté obligée de défendre la Sarabande, à cause qu'elle excitoit trop les passions. On peut dire que le geste est proprement l'ame de l'action. En effet, Cicéron ne fit pas de difficulté (pour perfectionner son geste) de consulter longtemps les Comédiens, comme des Gens qui font profession de plaire par là. Il n'y a que la Dance qui puisse faire acquérir cette perfection de geste, qui est si propre à persuader, qu'on tient que Socrate n'apprit à dancer sur la fin de ses jours, qu'afin de pouvoir professer la Philosophie avec une action plus libre &amp; plus insinuante.</p>
+        <p>Cependant pour tirer quelque fruit de ce Discours, il faut remarquer qu'on n'entend pas imposer icy aux Orateurs une nécessité absolue de chanter, &amp; de dancer. On prétend seulement leur faire connoistre combien le Chant &amp; la Dance pourraient leur estre utiles pour gagner un Auditoire, s'ils en sçavaient faire un bon usage ; la Musique servant à parler d'un ton propre à persuader, soit en fléchissant la voix dans les différentes passions, soit en l'accommodant aux parties du discours, aux Auditeurs, &amp; au Lieu où l'on parle ; &amp; la Dance servant à fortifier le geste, à donner une situation naturelle au Corps, à enhardir l'Orateur, à le faire parler de bonne grâce, &amp; d'une manière agréable ; de sorte qu'il est à présumer qu'avec une voix &amp; une action réglées par la Musique &amp; par la Dance, on auroit acquis deux belles dispositions à persuader &amp; à plaire dans l'Art Oratoire. »</p>
+      </div>
+
+<div xml:id="MG-1683-01_200">
+        <head>MG-1683-01_200</head>
+        <bibl>Mercure Galant, janvier 1683, p. 200, 208-211, 214</bibl>
+        <p>Eloge, Mort &amp; Convoy de M. le Comte de Véxin</p>
+        <p/>
+        <p>Loüis-César de Bourbon, Comte de Véxin, Légitimé de France, est mort le Dimanche 10 de ce mois, fort regretté de tous ceux qui l'ont connu. Il n'avait que dix ans, &amp; quoy qu'il eust passé les premiers jours de sa vie dans des incommoditez continuelles, il avoit avec un esprit extraordinaire &amp; une capacité fort au dessus de son âge. [...]</p>
+        <p/>
+        <p>Si tost que Sa Majesté eut appris la mort de ce jeune Prince, Elle destina de son propre choix, l'Eglise de Saint Germain l'Auxerrois pour lieu de Sépulture. [...] On travailla dès ce moment à tous les préparatifs nécessaires. [...]</p>
+        <p>On sonna durant presque toute la journée les Cloches de grosse Tour, qui sont des plus belles, &amp; des plus harmonieuses de ce Royaume ; &amp; sur les cinq heures du soir, les religieux de cette Maison se disposèrent à recevoir ce Corps, avec toute le respect &amp; la pompe qu'on doit aux Princes de cette naissance. [...]</p>
+        <p/>
+        <p>Mr le Curé de Saint Germain l'Auxerrois présenta le Corps du Prince, &amp; fit une Harangue en Latin avec beaucoup d'éloquence. Le Père Général, qui le reçeut, luy répondit en la mesme Langue. Les quatre Chantres commencèrent l'Antienne accoûtumée Subvenite, &amp; l'on porta le Corps sur la Représentation. Les Religieux précédoient en ordre. Six d'entre eux portoient le Corps, &amp; quatre Aumôniers soûtenoient les quatre coins du Drap mortuaire. On chantant ensuite les Vespres des Morts &amp; à la fin on fit l'Inhumation avec les Cérémonies &amp; les Prières accoûtumées. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-01_219">
+        <head>MG-1683-01_219</head>
+        <bibl>Mercure Galant, janvier 1683, p. 219-231</bibl>
+        <p>« Comme jamais la Gloire d'un Souverain n'a esté dans une si haute élévation que l'est aujourd'huy celle du Roy, jamais les événemens heureux des autres Monarques n'ont causé une si sensible joye, que ce qui arrive à Sa Majesté. C'est par là que toute la France a fait des Réjoüissances si extraordinaires pour la Naissance de Monseigneur le Duc de Bourgogne. Les Particuliers qui se sont distinguez dans le monde par leur esprit, après avoir contribué à l'allégresse publique par leurs Feux, &amp; par les autres démonstrations de joye, ont travaillé sur cet auguste Sujet. Mr Perrault, si connu dans l'Empire des Beaux-arts &amp; des Belles Lettres, est un de ceux qui a témoigné le plus de zèle de toutes manières dans cette importante occasion. Il a fait paroître partout un Ouvrage d'une invention très particulière, combien il s'intéressoit dans le bonheur de la France. Je ne puis vous le donner entier, parce qu'il occuperoit trop de place dans ma Lettre. Je vous diray seulement qu'il l'a intitulé, Le Banquet des Dieux pour la Naissance de Monseigneur le Duc de Bourgogne. Il fit que sur la fin de ce Céleste Repas, une Symphonie de toutes sortes d'Instrumens, la plus grave &amp; la plus majestueuse qui fut jamais, surprit agréablement l'assemblée, &amp; après qu'elle eut duré quelque temps, elle cessa pour faire place à une autre Symphonie moins forte, mais qui n'estoit pas moins agréable, &amp; sur laquelle Jupiter chanta ces Vers.</p>
+        <p/>
+        <p>Vous avez sçeu, Troupe immortelle,</p>
+        <p>L'agréable nouvelle</p>
+        <p>Qui rend de toutes parts les Peuples réjoüis,</p>
+        <p>Et qui vient de combler le bonheur de LOUIS.</p>
+        <p>Célébrons l'heureuse Naissance</p>
+        <p>Du Héros qu'en ce jour le Ciel donne à la France.</p>
+        <p/>
+        <p>Voicy ce qu'ajoûte l'Autheur de ce mesme Ouvrage. Tous les Dieux ayant répété ensemble ces deux derniers Vers, Jupiter poursuivit de cette sorte.</p>
+        <p/>
+        <p>C'est le sang de LOUIS, ce roy victorieux,</p>
+        <p>Sous qui toute l'Europe tremble,</p>
+        <p>Et qui ne voit rien sous les Cieux</p>
+        <p>Qui l'égale, ou qui luy ressemble.</p>
+        <p>C'est pour luy que je vous assemble</p>
+        <p>Dans ce Palais délicieux.</p>
+        <p/>
+        <p>Prenons par tous ensemble</p>
+        <p>Au bonheur d'Héros si grand, si glorieux,</p>
+        <p>Le Modelle des Roys, &amp; l'image des Dieux.</p>
+        <p/>
+        <p>Le Choeur des Dieux ayant répété les trois derniers Vers de ce Couplet, &amp; la grande Symphonie ayant joüé encore quelque temps, Apollon prit sa Lyre, &amp; chanta les Paroles suivantes.</p>
+        <p/>
+        <p>Je voy dans l'Avenir, malgré ses replis sombres</p>
+        <p>Dont mes regards percent les ombres,</p>
+        <p>De ce jeune Héros mille exploits éclatans.</p>
+        <p>Jamais la Fable, ny l'Histoire,</p>
+        <p>N'ont rien dit de plus beau dans la suite des temps,</p>
+        <p>Et rien n'égalera son bonheur &amp; sa gloire.</p>
+        <p/>
+        <p>Les Muses, qui s'estoient rangées auprès d'Apollon, &amp; qui avoient fait avec leurs Instrumens une Symphonie admirable pendant qu'il chantoit, reprirent les trois derniers Vers ; après quoy, ce Dieu se tournant vers elles, &amp; les regardant, chanta ce qui suit.</p>
+        <p/>
+        <p>Combien de fois les Exploits de LOUIS</p>
+        <p>Que vos beaux Vers à jamais feront vivre,</p>
+        <p>Vous ont-ils les yeux ébloüis,</p>
+        <p>Et causé la douleur de ne les pouvoir suivre !</p>
+        <p>Filles de Jupiter, avoüez entre nous, qu'après tant de chants de Victoire,</p>
+        <p>Et tant de Monumens d'éternelle mémoire,</p>
+        <p>Le repos vous sembleroit doux.</p>
+        <p>Non, non, son immortelle Race</p>
+        <p>Suivra sa glorieuse trace,</p>
+        <p>Il n'est point de repos pour vous.</p>
+        <p/>
+        <p>Les muses ayant encore repris les trois derniers Vers de ce Couplet, Apollon continua en cette manière.</p>
+        <p/>
+        <p>Chantez cette aimable princesse</p>
+        <p>Dont le Ciel a fait choix pour l'Empire des Lys ;</p>
+        <p>Qui par la Naissance d'un Fils</p>
+        <p>Le remplit de bonheur, de gloire, &amp; d'allégresse,</p>
+        <p>Et rend tous ses voeux accomplis.</p>
+        <p>Chantez cette Princesse heureusement féconde,</p>
+        <p>Qui donne pour jamais des Roys à tout le Monde.</p>
+        <p/>
+        <p>Le Choeur des Muses ayant répété ces deux derniers Vers, Vénus &amp; Mars chantèrent ceux-cy en Dialogue.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Que nous verrons un jour de Festes &amp; de Jeux !</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Que nous verrons un jour de Combats dangereux !</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Héros ne fut jamais plus beau, ny plus aimable,</p>
+        <p>On ne pourra luy refuser son coeur.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Héros ne fut jamais plus grand, plus redoutable,</p>
+        <p>Tout fléchira sous sa valeur.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Jeunes Beautez, craignez ses charmes.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Braves Guerrières, craignez ses armes.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Redoutez sa douceur.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Redoutez son couroux.</p>
+        <p/>
+        <p>VENUS &amp; MARS.</p>
+        <p>Son sort fera mille jaloux,</p>
+        <p>Il sera couronné de gloire</p>
+        <p>Par l'Amour, &amp; par la Victoire.</p>
+        <p/>
+        <p>Ce dialogue finy, les Grâces se mirent à dancer une espèce de Ménüet ; &amp; en suite Bacchus ayant le Verre en main, se tourna avec un air riant vers le Buffet, &amp; chanta ces Paroles, en regardant Silène, &amp; les Satyres.</p>
+        <p/>
+        <p>Allons, mes chers Enfans, vous, Père Silène,</p>
+        <p>Qui ne m'avez jamais abandonné</p>
+        <p>Buvons, buvons à Tasse pleine</p>
+        <p>Au Prince qui nous est donné.</p>
+        <p>Que chacun de ce pas enlumine sa trogne ;</p>
+        <p>Et fasse honneur au Prince fortuné</p>
+        <p>Du fameux terroir de Bourgogne.</p>
+        <p/>
+        <p>Silène &amp; les Satyres ayant répété les trois derniers Vers, Bacchus poursuivit.</p>
+        <p/>
+        <p>Il vaincra comme nous les Climats de l'Aurore,</p>
+        <p>Et le long du rivage More</p>
+        <p>Son bras établira nostre Empire divin,</p>
+        <p>Et son foudroyant Cimeterre</p>
+        <p>Délivrera toute la Terre</p>
+        <p>De ce Peuple maudit qui ne boit point de Vin.</p>
+        <p/>
+        <p>La Feste se termina pas ces Vers que Jupiter chanta sur une Symphonie grave &amp; très sèrieuse.</p>
+        <p/>
+        <p>Que de bonheur ! que d'abondance !</p>
+        <p>Que de gloire &amp; que de repos</p>
+        <p>Aux Peuples qui vivront sous l'auguste puissance</p>
+        <p>De LOUIS, de son Fils, &amp; du jeune Héros</p>
+        <p>Dont nous célébrons la Naissance !</p>
+        <p>Jamais le Ciel ne vit un si long cours</p>
+        <p>D'heureux succès, &amp; de beaux jours.</p>
+        <p/>
+        <p>Tous les Dieux reprirent les deux derniers Vers, &amp; Jupiter continua.</p>
+        <p/>
+        <p>Nous pouvons désormais dans une Paix Profonde</p>
+        <p>Joüir de nos heureux destins,</p>
+        <p>Et parmy les Plaisirs, les Jeux &amp; les Festins,</p>
+        <p>Nous reposer sur eux de l'Empire du Monde.</p>
+        <p/>
+        <p>Tous ces Vers ont esté mis en Musique par Mr Oudot, &amp; chantez à la Cour, où ils ont reçeu beaucoup d'aplaudissemens. »</p>
+      </div>
+
+<div xml:id="MG-1683-01_237">
+        <head>MG-1683-01_237</head>
+        <bibl>Mercure Galant, janvier 1683, p. 237-239</bibl>
+        <p>[Réjouissances faites à Nîmes pour célébrer la naissance du Duc de Bourgogne]</p>
+        <p/>
+        <p>Parmy les diverses Festes que l'on a faites à Nismes [pour célébrer la naissance du Duc de Bourgogne], Mrs du Présidial se sont extrêmement distinguez. Après avoir donné à souper aux Prisonniers, &amp; fait chanter le Te Deum dans la Chapelle de leur Palais, ils en sortirent en Corps, &amp; en habit de cérémonie, précedez par la Basoche, qui faisoit une Compagnie de trois cens Clercs, ou Praticiens, tous fort lestes, &amp; qui avoient des Tambours, des Trompetes, des Hautbois, &amp; des Violons à la teste de leur Drapeau. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-01_248">
+        <head>MG-1683-01_248</head>
+        <bibl>Mercure Galant, janvier 1683, p. 248-249</bibl>
+        <p>Cet habile Maistre [Mr Gallot] est revenu d´un long Voyage qu´il estoit allé faire &amp; qui a privé Paris des concerts qu´il donnoit tous les Samedis au Public. Il les doit recommencer dans peu de temps, &amp; l´on aura le plaisir d´entendre cet excellent Homme qui réüssit si bien, tant pour la finesse du Jeu, que pour la position des doigts &amp; la propreté.</p>
+      </div>
+
+<div xml:id="MG-1683-01_272">
+        <head>MG-1683-01_272</head>
+        <bibl>Mercure Galant, janvier 1683, p. 272-278</bibl>
+        <p>Bénédiction des Drapeaux</p>
+        <p/>
+        <p>Le Mardy 19 de ce mois, on fit la Cérémonie de la Bénédiction des trente Drapeaux du Régiment des Gardes. On avoit fait un détachement de dix Mousquetaires par Compagnie, qui font trois cens Hommes, dont trente furent postez avec trois Sergens, aux trois Portes du Choeur de Notre Dame, pour empescher la confusion ; &amp; les deux cens soixante &amp; dix autres Mousquetaires firent une haye dans la Ruë, des deux costez, à commencer depuis la Porte de l'Eglise autant que l'on put s'entendre. La marche des trente Drapeaux se fit de cette manière.</p>
+        <p>Le Tambour Major [...] sortit des Tuileries pour aller à Notre Dame, suivy de soixante Tambours battans [...] On voyait les Armes du Roy sur leurs Caisses. En suite paroissoit Mr d'Artagnan Major, à cheval, suivy de Mrs de Montgeorge, &amp; de Vitry, Aydes Major, &amp; de Mrs de Luzancy, Vauroüy, Candot, &amp; Clisson, Sous-Aydes Major, tous à cheval. Soixante Sergens à pied, six de front, marchoient après eux, armez de leurs Hallebardes. [...] Les trente Enseignes suivoient à cheval, portant chacun leur Drapeau. Ils alloient quatre de front, &amp; précédoient quatre Sergens [...], &amp; suivis de soixante autres Tambours. Quand ils arrivèrent prés de Notre Dame, Mr le Major, ses Aydes, &amp; les Enseignes, mirent pied à terre, &amp; entrèrent dans la Nef, ou les Sergens &amp; les Tambours se mirent en haye à droite &amp; à gauche. Les Enseignes &amp; les Drapeaux occupèrent le milieu. Un peu après, Mr le Major &amp; ses Aydes, avec trente Enseignes &amp; leurs Drapeaux, furent reçeus dans le Choeur, où se trouva Monsieur l'Archevesque assis dans un Fauteüil au pied des Marches du Maistre Autel. Ce fut là qu'il fit la Cérémonie. Le Drapeau blanc qui est pour la Colonelle, estoit le premier. Il y avoit cinq Couronnes peintes en or dans ce Drapeau. Les vingt-neuf autres estoient de Taffetas bleu Fleurdelisé aussi en or, avec une croix blanche où estoient les cinq Couronnes. L'Enseigne qui portoit ce premier Drapeau, se mit à genoux aux pieds de Mr l'Archevesque, &amp; se releva après avoir reçeu l'Eau-bénite. La mesme chose se fit pour les autres Drapeaux. En suite Mr l'Archevesque se leva, &amp; s'alla mettre dans la Chasse Archiépiscopale, où il dit des Oraisons, avec la Musique. On y chanta le Veni Creator, &amp; cela fait, on sortit dans le mesme ordre qu'on estoit entré. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-01_319">
+        <head>MG-1683-01_319</head>
+        <bibl>Mercure Galant, janvier 1683, p. 319-322</bibl>
+        <p>Divertissemens de la Cour</p>
+        <p/>
+        <p>La Cour de France, qui est non seulement la plus grande &amp; la plus galante de l'Europe, mais encore la plus florissante &amp; la plus tranquille, continuë à prendre part aux plaisirs que le Roy a la bonté de luy procurer. Il y en a de marquez pour chaque jour de la semaine. Le Lundy, le Mercredy, &amp; le Vendredy, sont destinez pour le Jeu ; &amp; ces trois jours là sont toûjours nommez Jours d'Apartement. Je vous en fis, il y a un mois une assez longue description pour ne vous en point parler davantage. Le Dimanche, le Mardy &amp; le Jeudy, sont marquez. Il y a Bal &amp; Comédie Françoise ou Italienne. L'Opéra est le divertissement du Samedy. Celuy qu'on y représente, est intitulé Phaëton. Les Vers sont de Mr Quinaut, Auditeur des Comptes ; &amp; la Musique, de Mr de Lully. On assure qu'il n'y a rien de plus beau que celle de cette Pièce, &amp; que la Symphonie en est admirable. Comme il n'y a point encore d'assez grande Salle à Versailles pour y faire des Machines, il n'y en a point dans cet Opéra ; de sorte que la grandeur du Spectacle dépend des Habits. Mr Berrin, Dessinateur ordinaire du Cabinet du Roy, n'en a pas seulement fait les Desseins, mais il a aussi pris soin de les faire exécuter. On les a trouvez très-bien entendus, &amp; d'une façon toute singulière.</p>
+      </div>
+
+<div xml:id="MG-1683-01_326">
+        <head>MG-1683-01_326</head>
+        <bibl>Mercure Galant, janvier 1683, p. 326-327</bibl>
+        <p>Recueïl des Sonnets sur les Bouts-rimez de Pan &amp; Guenuche</p>
+        <p/>
+        <p>Vous souvenez vous, Madame, que Mr Mignon, Maistre de Musique de l'Eglise de Paris, proposa il y a quelques mois, des Bouts-rimez remplis à la loüange du Roy, sur les Rimes de Pan &amp; Guenuche, &amp; promit la Médaille de Sa Majesté à celuy qui feroit le plus beau sonnet. Celuy qui a remporté le Prix commence par,</p>
+        <p>Joins un courage d'Aigle à la fierté d'un Pan.</p>
+        <p>On le trouvera à la teste d'un Recueïl, que le Sr Quinet Libraire, dans la Gal[erie] des Prisonniers, a fait imprimer. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

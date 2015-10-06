@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin, première partie, 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-06a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, juin, première partie, <date>1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-06a_002">
+        <head>MG-1684-06a_002</head>
+        <bibl>Mercure galant, juin 1684, 1e partie, p. 2-4, 6-12, 19-20</bibl>
+        <p>Particularitez de l'entreveüe de Mr le Duc de Savoye, &amp; de Madame Royale ; ce qui s'est passé sur leur Route jusques à Thurin, &amp; les Réjoüissances qui s'y sont faites.</p>
+        <p/>
+        <p>[Madame la Duchesse Royale] [...] estoit partie de Lyon le Vendredy 5. de May. Elle continua sa route vers Pont Beauvoisin, [...] Tandis que Madame la Duchesse Royale s'avançoit de ce costé-là, Monsieur le Duc de Savoye qui venoit la recevoir, arriva à Chambéry. [...]</p>
+        <p/>
+        <p>Pendant tout le temps de son sejour, qui fut jusqu'au Samedy, il y eut chaque soir Tables de Bassete, Collation, &amp; Violons, afin que chacune eust dequoy se satisfaire. [...] Le Vendredy il passa l'apresdînée avec les Prélats qui s'estoient rendus à Chambéry, &amp; dança le soir au Vernay, que l'on avoit illuminé par ses ordres, &amp; où il avoit fait venir des Violons, des Hautbois, &amp; des Trompetes. Apres qu'on eut dancé quelque temps, il pria les Dames de passer dans un Jeu de Paume, qui est dans la mesme Place du Vernay. Elles y trouvérent une Collation des plus magnifiques. [...] Le Dimanche 7. ce jeune Duc [...] estant arrivé dans la Maison qui luy estoit préparée sur ses Etats, il ne fit que changer de Juste-au-corps, sans descendre de cheval, &amp; poussa jusque chez Madame la Duchesse Royale. Cette Princesse entendant les Trompetes &amp; les Timbales qui l'assuroient de son arrivée, s'échapa à quelque impatience de la voir, &amp; se mit d'abord à la Fenestre. [...]</p>
+        <p/>
+        <p>[Le] 8. du mois, Madame la Duchesse Royale alla à la Sainte Chapelle, [...] On chanta le Te Deum dans cette Chapelle, &amp; Leurs Altesses Royales qui dînérent en public, n'eurent personne à leur Table. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-06a_106">
+        <head>MG-1684-06a_106</head>
+        <bibl>Mercure galant, juin 1684, 1e partie, p. 106, 111-113</bibl>
+        <p>Lettre du Roy de Siam au Pape, &amp; au Roy de France, avec plusieurs particularitez touchant les Ambassadeurs embarquez pour la France, sur le Vaisseau le Soleil d'Orient.</p>
+        <p/>
+        <p>Mr Deslandes, en parlant des Eléphans que le Roy de Siam envoyoit en France avec ses Ambassadeurs, a expliqué la maniere dont les Eléphans sauvages peuvent estre pris, &amp; voicy ce qu'il en dit. [...]</p>
+        <p/>
+        <p>On appelle ceux qu'il monte, Eléphans de l'Etat. On les loge dans de beaux Lieux, qui sont comme des Maisons de Princes, toutes peintes de feüillages ; &amp; comme ces Animaux aiment fort la propreté, on ne se sert que de Vaisselle d'argent pour leur donner à manger. Jamais ils ne sortent pour aller à la Riviere ou à la Campagne, qu'on ne porte des Parasols devant chacun d'eux. Ils sont précedez de Tambours &amp; de Musetes ; &amp; ont un Harnois d'argent, &amp; garny de cuivre. Deux Hommes montent dessus, l'un sur le col, l'autre sur la croupe ; &amp; dans le milieu, il y a une Selle d'écarlate, où personne n'ose s'asseoir, à cause que c'est la place du Roy. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-06a_146">
+        <head>MG-1684-06a_146</head>
+        <bibl>Mercure galant, juin 1684, 1re partie, p. 146-151, 154</bibl>
+        <p>Suite du Journal de la Cour, qui comprend plusieurs Articles, &amp; la Reception faite au Roy à Chantilly</p>
+        <p/>
+        <p>[...] Les Carmes de Valenciennes, chez qui ce Monarque alloit tous les jours entendre la Messe, vinrent suplier Sa Majesté de soufrir qu'ils chantassent le Te Deum à la fin de celle qu'Elle devoit entendre ce jour-là. Ce qu'ils demandoient leur fut accordé, &amp; ils chantérent ce Te Deum sans cerémonie, &amp; seulement pour satisfaire leur zele. Le lendemain, le Roy en fit chanter un dans l'Eglise de S. Jean, avec beaucoup de solemnité, quoy qu'il n'eust eu aucunes nouvelles de Luxembourg depuis l'arrivée de Mr Desbordes. [...] Mr le Nonce, &amp; Mr l'Ambassadeur de Venise, assistérent à ce Te Deum, aussi-bien que les Ministres de plusieurs autres Souverains. Tout y fut solemnel ; [...] La Cerémonie fut faite par Mr l'Archevesque de Cambray, assisté de son Clergé ; &amp; la Musique de Valenciennes s'y fit entendre. [...] De Cambray, la Cour vint à Péronne à Royan, à Mouchy, &amp; à Chantilly ; où Monsieur &amp; Madame se trouverent. [...] Toute la Cour estant entrée dans le Chasteau, chacun prit son party pour en admirer les beautez. [...]</p>
+        <p/>
+        <p>Le Roy soupa avec Monseigneur le Dauphin, Madame la Dauphine, Monsieur, Madame, Madame la Duchesse, Madame la Princesse de Conty, Mademoiselle de Bourbon, &amp; Mademoiselle de Nantes. La Symphonie fut charmante, &amp; fit le plaisir de la soirée. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-06a_262">
+        <head>MG-1684-06a_262</head>
+        <bibl>Mercure galant, juin 1684, 1e partie, p. 262-265</bibl>
+        <p>Je ne vous dis point ce que vous sçavez il y a longtemps, que dans toutes sortes d'Airs Mr de Bacilly réüssit également. C'est ce qui a obligé deux grands Hommes à faire un mot tout exprés pour exprimer ce qu'ils pensent d'un Génie si universel. Ils disent que de toute la Musique, luy seul n'est point manieré, au lieu que l'on reconnoist la maniere de composer des autres Autheurs, dans chacun des Airs qu'ils mettent au jour. Le grand nombre qu'il en a donnez de sa façon, remplit dix Volumes, qu'on vend au Palais chez les Srs de Luyne, &amp; Blageart. Il a le don d'ajuster les Airs, mesme ceux d'autruy, &amp; d'y donner un tour agreable conformement au sens des paroles, qu'il posséde souverainement, comme on peut le voir pas son Livre de l'Art de chanter, si vanté de tout le monde. Cette vérité se connoist mieux que jamais, depuis la mort de Mr de Niere, si renommé pour l'execution &amp; les ornemens du Chant. On sçavoit le commerce qu'ils avoient ensemble depuis trente années, &amp; l'on attribuoit à Mr de Niert tout ce qui estoit de Mr de Bacilly. Cependant on voit bien par ce qu'il fait à présent, qu'il n'emprunte de personne, &amp; quelques petits Airs d'Amadis, &amp; autres du temps, qu'il a ornez, en sont une preuve. Quoy qu'un talent si peu ordinaire pour tout ce qui regarde l'Art de chanter, soit connu de la plûpart des Gens éclairez, ses Envieux qui luy veulent nuire, n'ont pas laissé de faire courir le bruit qu'il n'enseigne plus, &amp; ils l'ont si bien persuadé, qu'on ne s'en détrompe qu'avec peine. Il est pourtant vray qu'il est plus capable d'enseigner, qu'il ne l'a encore esté, &amp; qu'un long usage luy a donné de si grandes &amp; de si vives lumieres, qu'en fort peu de temps il rend une voix capable de tout ce qui se pratique dans le Chant. Il n'est point borné à ses Ouvrages, comme beaucoup d'autres, &amp; enseigne indiféremment tout ce qu'il y a de nouveau.</p>
+      </div>
+</body>
+  </text>
+</TEI>

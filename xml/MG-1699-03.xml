@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1699</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1699-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1699</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1699-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1699-03_068">
+        <head>MG-1699-03_068</head>
+        <bibl>Mercure galant, mars 1699, p. 68-84</bibl>
+        <p>Lettre touchant l'Hôpital General nouvellement establi dans la Ville de Grasse.</p>
+        <p/>
+        <p>A Grasse le 20. d'Aoust 1698.</p>
+        <p/>
+        <p>MADAME,</p>
+        <p>Je n'ay aujourd'huy que de bonnes nouvelles à vous mander. On vient d'établir un Hôpital General dans nostre Ville, avec un succés qui fait plaisir à tout le monde. [...] On vit [...] plus de mille personnes, Mr de Villeneuve, Maire de la Ville, en teste, tenant une Enseigne, où estoit écrit ce mot, Charité, accompagné des Tambours, des Fifres &amp; des Violons, porter de grosses pierres sur la teste, ou sur l'épaule, ou les traîner sur des machines. [...]</p>
+        <p>On détermina de benir &amp; de poser cette pierre fondamentale le jour de S. Ignace, 31. de Juillet, ce qui fut executé comme on l'avoit projetté. On porta en procession une grande Croix, qu'on plaça dans l'endroit où devoit estre le Maistre Autel de l'Eglise de l'Hôpital, &amp; le jour de Saint Ignace, sur les quatre heures du soir, tous les Corps de Ville Seculiers &amp; Reguliers, invitez à la Procession, s'assemblerent dans l'Eglise Cathedrale. Mrs les Consuls firent publier un ordre à tous les Habitans de fermer leurs Boutiques, pour assister à cette ceremonie. Une troupe d'Enfans portant chacun une Enseigne, où estoit écrit ce mot, La Charité, précedoit la Procession. Les deux compagnies des Penitens blancs &amp; noirs marchoient aprés. Ils estoient suivis par les Capucins ; aprés quoy venoient les Directeurs de l'Hôpital, tenant en main un grand flambeau allumé, la Musique, le Clergé &amp; Monseigneur l'Evêque, revestu de ses habits pontificaux. Cet ordre estoit suivi d'une foule extraordinaire de peuple. Sitost qu'on fut arrivé à l'emplacement, tous se rangerent autour de l'Autel qu'on avoit dressé. Un des Missionnaires fit un Discours fort touchant &amp; fort propre à enflâmer le zele des Habitans. La Musique chanta le Te Deum. Monseigneur descendit dans le fondement, profond de vingt-deux pans, large de six, &amp; long de trente-six cannes, benit la pierre fondamentale, sur laquelle plusieurs jetterent de l'argent, à l'exemple de Monseigneur. Les Boëtes tirerent ensuite en signe de réjoüissance, au bruit des Trompettes, des Tambours &amp; des acclamations de tout le peuple. [...]</p>
+      </div>
+
+<div xml:id="MG-1699-03_126">
+        <head>MG-1699-03_126</head>
+        <bibl>Mercure galant, mars 1699, p. 126-130</bibl>
+        <p>Suite des divertissemens du Carnaval.</p>
+        <p/>
+        <p>Ma Lettre vous ayant esté envoyée le mois passé, trois jours avant le Carnaval, je n'ay pû vous parler du bal qui se donna le Lundy dans la Sale de la Musique du grand Appartement du Roy. [...] Toute la Maison Royale y assista, le nombre des Danseurs &amp; des Danseuses y fut tres-grand, &amp; les uns &amp; les autres estoient magnifiquement parez, &amp; sur tout les Dames, à cause de la quantité de pierreries dont leurs habits estoient enrichis, le deüil ayant esté quitté ce jour-là par ceux qui formoient le bal. Toute la jeunesse de la Cour de Monseigneur le Duc &amp; de Madame la Duchesse de Bourgogne fut de ce Bal, où le jeune Prince d'Ansbach se distingua. Le Bal commença à dix heures &amp; demie, &amp; finit à une heure.</p>
+        <p>Le dernier jour du Carnaval, Madame la Duchesse de Bourgogne donna à souper à Messeigneurs les Princes, &amp; ses Dames, &amp; ne descendit qu'à minuit chez Monseigneur où estoit le Bal. On y dansa dans deux chambres ; il y avoit des violons dans l'une &amp; dans l'autre. On n'y entra que masqué, &amp; la foule y fut tres-grande. Les Masques y furent magnifiques, &amp; le Bal ne finit qu'à prés de trois heures.</p>
+      </div>
+
+<div xml:id="MG-1699-03_151">
+        <head>MG-1699-03_151</head>
+        <bibl>Mercure galant, mars 1699, p. 151-177</bibl>
+        <p>Divertissemens du Carnaval de Lorraine.</p>
+        <p/>
+        <p>Depuis l'heureux Mariage de leurs Altesses Royales Monsieur le Duc &amp; Madame la Duchesse de Loraine, les divertissemens &amp; les jeux ont succedé presque tous les jours les uns aux autres à Nancy, par une suite continuelle de nouveaux plaisirs, que cette belle union a procurez à toute la Cour ; mais de toutes les festes que l'on y a vûës, rien n'a esté comparable à la Mascarade qui s'y fit pour fermer le Carnaval. Elle étoit composée de quatre Quadrilles qui representoient quatre Nations differentes, sçavoir celle des Turcs, celle des Espagnols, celle des Mores &amp; celle des Allemans. Dans chaque Quadrille il y avoit plusieurs Dames conduites sur un char de triomphe, &amp; suivies d'une troupe de Gentilshommes à cheval, tous superbement vétus, suivant la mode de chacune de ces quatre Nations. Toutes ces Dames &amp; ces Gentilshommes s'assemblerent sur les cinq heures du soir à la Cour, d'où l'on commença la marche à la clarté des flambeaux. Elle fut ouverte par quantité de Trompettes &amp; de Timbaliers, conduits sur un Char orné d'une maniere fort grotesque. Ces Trompettes habillez à l'Allemande, &amp; qui faisoient retentir par tout le bruit de leurs fanfares, précedoient une troupe charmante de Dames habillées à l'Allemande, d'une extréme propreté. Elles estoient placées sur un Char couvert de divers ajustemens fort agreables, &amp; conduit par M. le Comte de Couvonges, Grand Chambellan de S. A. R. qui avoit pour postillon M. le Comte de Vierme, premier Ecuyer de Madame la Duchesse Royale, &amp; Capitaine aux Gardes. Voicy les noms de ces Dames.</p>
+        <p>Mademoiselle de Remauville Bassompierre.</p>
+        <p>Mademoiselle de Baudricourt Bassompiere.</p>
+        <p>Mademoiselle de Custine.</p>
+        <p>Mademoiselle de Guermange.</p>
+        <p>Madame la Comtesse de Saint Ignon.</p>
+        <p>Madame la Baronne Canon.</p>
+        <p>Mademoiselle de Gerbeville.</p>
+        <p>Mademoiselle d'Aunois.</p>
+        <p>Neuf Cavaliers sur des chevaux de prix superbement enharnachez, suivoient le Char de ces Dames. Ils étoient comme elles habillez à l'Allemande, &amp; marquoient en toutes choses leur adresse &amp; leur bonne mine. [...] En voicy les noms.</p>
+        <p>M. le Comte de Haussonville, Grand Maistre de l'Artillerie.</p>
+        <p>M. le Comte de Raichecourt, Grand Voyer de Lorraine.</p>
+        <p>M. le Marquis du Chastelet, Capitaine aux Gardes.</p>
+        <p>M. le Marquis de Bassompierre.</p>
+        <p>M. le Comte de Gournay, Chambellan de S. A. R.</p>
+        <p>M. le Comte de Sales.</p>
+        <p>M. le Comte de Fontaine, Cornette des Chevaux-Legers.</p>
+        <p>M. le Marquis de Manzer, Capitaine de Cavalerie pour S. M. T. C.</p>
+        <p>La seconde Quadrille suivoit, précedée par un grand nombre de violons, conduits sur une machine fort plaisante à voir. Aprés eux paroissoit un Char beaucoup plus orné par les Dames qui le remplissoient, que par les divers embellissemens qu'on y voyoit. Toutes ces Dames estoient richement habillées à l'Espagnolle. M. le Marquis de Mouy les conduisoit, ayant M. le Marquis de Saint Germain-Beaupré pour postillon. Ces Dames estoient</p>
+        <p>Mademoiselle de Lenoncourt, Blainville.</p>
+        <p>Madame de Lenoncourt Dudicourt, Dame d'Epinal.</p>
+        <p>Madame de Meresberg Dudicourt, Dame d'Epinal.</p>
+        <p>Madame de Lamberty Dame de Sainte Marie à Metz.</p>
+        <p>Madame de Gallo, Dame de Remiremont.</p>
+        <p>Mademoiselle de Lobeditz.</p>
+        <p>Mademoiselle de Choiseul.</p>
+        <p>Mademoiselle de Puisdebar.</p>
+        <p>Mademoiselle de Permellac.</p>
+        <p>Tout ce qu'on rapporte de la noble fierté des Espagnols, paroissoit avec avantage dans les Gentilshommes de cette Quadrille. [...] Ces faux Espagnols estoient</p>
+        <p>M. le Comte de Brionne, Grand Maistre de la Garderobe.</p>
+        <p>M. le Comte de Crayon, Enseigne des Gardes du Corps, Chambellan de S. A. R.</p>
+        <p>M. le Chevalier de Custine, Capitaine aux Gardes,  Chambellan de S. A. R.</p>
+        <p>M. le Comte de Male, Chambellan de M. le Prince Charles.</p>
+        <p>M. le Comte de Hornstein.</p>
+        <p>M. le Baron du Hautoy, Chambellan de M. le Prince François.</p>
+        <p>M. de Vitrimon le cadet.</p>
+        <p>M. de Brialle, Capitaine de Cavalerie au service de S. M. T. C.</p>
+        <p>M. de Caraman, Capitaine de Cavalerie au service de Sa Majesté Tres-Chrétienne.</p>
+        <p>Aprés cette Quadrille marchoit un char remply de Joüeurs de flûtes, de tambours de Basques, de musettes &amp; de cymbales, tous vétus en Mores, qui par leurs airs bizarres, répondoient aux trompettes de la premiere Quadrille. M. le Marquis de Beauveau, Capitaine des Gardes du Corps, avec M. le Comte de Curel, Lieutenant de la Venerie, &amp; Chambellan de S. A. R. qui estoit à la place du postillon, menoit une troupe de Dames Africaines, dont les habits donnoient un fort grand éclat à leur beauté. Ces Dames estoient</p>
+        <p>Mademoiselle de Bassompierre, Fille d'Honneur de Madame Royale.</p>
+        <p>Mademoiselle de Netancour, Fille d'Honneur.</p>
+        <p>Mademoiselle de Ravenelle, Fille d'Honneur.</p>
+        <p>Mademoiselle de Meuse.</p>
+        <p>Madame la Marquise de Fucey.</p>
+        <p>Mademoiselle de Custine.</p>
+        <p>Madame la Comtesse des Sales.</p>
+        <p>Madame la Comtesse de la Porte.</p>
+        <p>Mademoiselle de Lory.</p>
+        <p>Les divers ajustemens de tous les Cavaliers de cette Quadrille, deguisez en Mores, faisoient un spectacle tout charmant. Ils tenoient chacun un dard à la main, &amp; marchoient ensemble à mode de ces peuples. Voicy leurs noms.</p>
+        <p>M. le Marquis de Beauveau le fils, Chambellan.</p>
+        <p>M. le Comte des Armoises, Cornette des Chevaux-Legers.</p>
+        <p>M. le Comte d'Apremont, Capitaine aux Gardes, &amp; Chambellan.</p>
+        <p>M. le Comte de Taxis.</p>
+        <p>M. le Baron d'Elz, Chambellan de M. le Prince Charles.</p>
+        <p>M. le Marquis de Fucey, Exempt des Gardes.</p>
+        <p>M. le Comte de Freyberg.</p>
+        <p>M. du Ham, Major du Regiment aux Gardes.</p>
+        <p>M. de Vitrimon, Lieutenant des Gardes du Corps.</p>
+        <p>M. de Trocmorton, Capitaine aux Gardes.</p>
+        <p>Ces Africains estoient suivis de Joüeurs de Hautbois, de Tambours à la Janissaire, &amp; de plusieurs autres Instrumens Turcs, qui par leurs sons differens &amp; pleins d?harmonie, avoient quelque chose de guerrier mais tres-agreable. Ces Joüeurs étoient vétus à la Turque, &amp; trainez sur un Char, dont les ornemens estoient extraordinaires. Ce Char en précedoit un autre d'une magnificence qui ne se peut exprimer. [...] Monsieur le Duc de Lorraine [le] conduisoit, &amp; [...] avoit pour postillon M. le Comte de Spada, l'un de ses Ecuyers. Au fond du Char estoit élevé un Trone enrichy de mille choses pretieuses. Au dessus estoit un superbe parasol, soûtenu par un petit Amour, &amp; relevé d'une aigrette blanche. C'estoit sur ce Trone qu'estoit assise Madame la Duchesse Royale, habillée en Grande Sultane, &amp; toute brillante de pierreries. A ses pieds estoit assis M. le Prince François, qui paroissoit estre le Dieu d'Amour, travesti en petit Musulman. Les Dames qui avoient l'honneur d'estre assises sur ce Char avec Madame la Duchesse Royale, étoient</p>
+        <p>Madame la Marquise de Lenoncourt, nouvelle Dame d'Artour.</p>
+        <p>Madame la Comtesse de Couvonges.</p>
+        <p>Madame la Maréchale de Bassompierre.</p>
+        <p>Madame la Comtesse de Furstemberg.</p>
+        <p>Mademoiselle de Ratzeuhauzen, Fille d'honneur de Madame Royale.</p>
+        <p>Madame d'Anglute, Dame d'Espinal, &amp; Fille d'honneur.</p>
+        <p>Mademoiselle de Bastiment, Fille d'honneur.</p>
+        <p>Madame de Puisdebar, Dame du Lit.</p>
+        <p>Dix Gentilshommes qui suivoient ce Char en fort bel ordre, fermoient cette marche. Il n'y avoit rien de plus beau à voir que la diversité de leurs habits &amp; de leurs Turbans, qui les faisoient tous paroître comme des Visirs, des Caïmacans, des Bachas, &amp; des premiers Officiers de la Porte. Ces Gentilshommes estoient,</p>
+        <p>Mr le Comte de Saint Hilaire, Grand Ecuyer de Mr le Prince Charles.</p>
+        <p>Mr le Comte de Stainville, Colonel d'un Regiment de Cuirassiers pour le service Sa Majesté Imperiale, &amp; Capitaine des Gardes du Corps de S. A. R.</p>
+        <p>Mr le Comte de Roretet, commandant une Compagnie de Chevaux-legers.</p>
+        <p>Mr le Comte de Custine, premier Chambellan, &amp; Lieutenant Colonel du Regiment des Gardes.</p>
+        <p>Mr le Comte des Armoises, Chevalier d'honneur de Madame la Duchesse Royale.</p>
+        <p>Mr le Comte de Stainville, le Cadet, Colonel d'un Regiment d'Infanterie pour le service de S. M. T. C.</p>
+        <p>Mr le Comte de Bronne, General dans les Troupes du Roy de Pologne.</p>
+        <p>Mr le Comte d'Ourche, Colonel d'un Regiment de Cavalerie pour S. M. T. C.</p>
+        <p>Mr le Baron Fournier, Sous-Lieutenant des Chevaux legers.</p>
+        <p>Mr d'Arnolet, Lieutenant des Gardes du Corps.</p>
+        <p>Mr Giovanelli marchoit à la teste de la Quadrille.</p>
+        <p>Ce fut dans cette belle disposition que la Cavalcade sortit de la Cour. [...] La Mascarade ayant fait le tour de la Ville-neuve, revint à la Cour, où il y avoit dans la Galerie des Cerfs quatre tables préparées, &amp; magnifiquement servies. Les Dames &amp; les Gentilshommes de chaque Quadrille se mirent aux tables qui leur estoient destinées, &amp; qui estoient disposées de maniere, qu'ils pouvoient tous se voir les uns les autres. Les Valets de pied, ou Estafiers, servoient chacun la Nation dont ils portoient les Livrées, &amp; les quatre bandes de Joüeurs d'Instrumens, habillez aussi chacun selon sa Nation, estoient placées separément, &amp; joüoient successivement, en sorte que si-tost qu'une bande cessoit de joüer, l'autre commençoit à se faire entendre. Cette diversité de Musique continua pendant tout le repas, qui dura assez longtemps. Les Dames &amp; les Cavaliers estant sortis de table, on commença à danser, chacun suivant la maniere de sa Nation. Ensuite les quatre Nations se meslerent, &amp; le Bal ne finit que fort avant dans la nuit.</p>
+      </div>
+
+<div xml:id="MG-1699-03_183">
+        <head>MG-1699-03_183</head>
+        <bibl>Mercure galant, mars 1699, p. 183-245</bibl>
+        <p>Journal des Ceremonies du mariage de la Reine des Romains.</p>
+        <p/>
+        <p>Je vous envoye une Relation tres fidelle &amp; tres-exacte, de tout ce qui s'est passé au Mariage du Roy des Romains avec Madame la Princesse de Hanover. [...]</p>
+        <p>Le 15. de Janvier à deux heures aprés midy, aprés que toutes les anti-chambres furent remplies de Gentilshommes &amp; de Dames avec des habits de ceremonie, l'on appelle dans la chambre de Madame la Princesse de Brunsvick-Hanover, les Envoyez de l'Empereur, d'Espagne &amp; d'Hanover, &amp; l'on commença à marcher vers la Chapelle. [...]</p>
+        <p>[L'on] arriva à la Chapelle, qui estoit toute tapissée d'un tres beau Damas rouge, &amp; environnée de Balcons pour les Musiciens. [...] Mr Mesdoni, Evêque de Modene, fit la ceremonie du Mariage. Lors qu'il demanda à la Princesse, si elle estoit contente de recevoir pour legitime Epoux Joseph I. Roy des Romains, elle ne répondit qu'aprés s'estre tournée vers Me la Duchesse sa mere, luy faisant une profonde reverence, comme pour luy demander son consentement. Les Envoyez &amp; le Marquis d'Este signerent, aprés que le Te Deum eut esté chanté par un double Choeur de Musiciens, accompagnez de Trompettes, &amp; de toutes sortes d'Instrumens. [...] L'heure du Soupé estant venuë, les Epoux se rendirent à la Salle où la table estoit préparée. Cette Salle magnifiquement tapissée, estoit éclairée par 57. flambeaux, &amp; par huit Lustres de trente bougies chacun. On y avoit préparé plusieurs échafaux fort élevez en forme de perron, pour placer les Dames &amp; les Musiciens. [...] [Le soupé fini, la] table ostée, l'on fit une grande place au milieu de la Salle, où la Reine revint s'asseoir sous le Dais de Mr le Duc, proche duquel estoient hors du Dais, Madame la Duchesse de Brunsvik, &amp; le Cardinal de Medicis, &amp; proche de la Reine, Madame la Duchesse de Modene. Toute le monde estant placé, l'on voit paroistre au bruit des Trompettes &amp; d'autres Instrumens, une grande machine representant Encelade chargé du mont Etna, d'une grandeur demesurée. Le haut de cette montagne s'entr'ouvrant, laissa voir une figure, laquelle representant le Siecle de fer, excita deux troupes d'Allemans &amp; de Turcs, qui parurent aussitost, à combattre l'une contre l'autre, ce qui donna un spectacle fort agreable à toute l'Assemblée, à cause du mouvement de leurs armes, dont ils faisoient l'exercice en se battant. Ces armes estoient des piques &amp; des Drapeaux. Les premiers eurent le dessus. Ils firent les Turcs prisonniers, &amp; les desarmerent ; aprés quoy leur ayant rendu la liberté, ils vinrent tous ensemble applaudir par leurs chants &amp; leurs danses au Mariage de S. M. Dans le temps qu'ils se retiroient, il parut une autre machine representant Saturne &amp; Astrée, ou le Siecle d'or, à la veuë duquel le Siecle de fer disparut tout-à-fait. Saturne &amp; Astrée chanterent ensemble la gloire des Imperiaux, &amp; dirent que la guerre passée ayant duré assez longtemps, la Paix devoit se rétablir sur la terre par le moyen de S. M. qui seule luy pouvoit donner un nouveau siecle d'or. Ensuite les mêmes Allemans danserent, &amp; se retirerent avec la machine, donnant lieu au Bal, que Mr le Duc &amp; la Reine commencerent par une courante, aprés laquelle ils s'assirent. On invita à danser Messieurs les Envoyez, qui remercierent. L'Ambassadeur de la Rep. de Luques dansa teste couverte, de quoy ayant esté averti, il se découvrit. Plusieurs Seigneurs &amp; Dames danserent aprés ; &amp; comme il se faisoit déjà tard, la Reine &amp; S. A. S. se retirerent, &amp; ainsi finit la feste. [...]</p>
+        <p>[Le Cardinal arrive à Lorere. Il est accueilli par le Duc.] Ils allerent d'abord à l'Eglise, où l'on chanta le Te Deum pour l'heureuse arrivée de S. E. [...]</p>
+        <p>La Reine partit de Modene le Dimanche matin, &amp; arriva à Rivery le Mardy sur les quatre heures du soir. Mr le Duc de Mantoue alla deux lieuës au devant de S. M. C'estoit un tres agreable spectacle de voir ce fleuve éclairé par une infinité de fanaux, &amp; d'entendre le rivage retentir des concerts que faisoient les Trompettes, les Timbales &amp; autres Instrumens. [...] Le Palais où logea Sa Majesté estoit petit, mais la richesse des meubles supleoit au deffaut de l'edifice. [...] Il y eut [...] un Bal, &amp; tout ce que l'on peut imaginer de splendeur se trouva là. [...]</p>
+        <p>On marcha six jours pour venir d'Inspruck à Salsbourg, où la Reine fût reçûë au bruit de toute l'artillerie des deux Châteaux. [...] La Reine alla au Palais qui est tres-beau, &amp; les meubles extremement riches. Elle y fut regalée, ainsi que toute sa suite, avec beaucoup de magnificence. On y sejourna le Dimanche huitiéme. La Reine alla à la Messe au Dosme, où l'on chanta le Te Deum, le disné suivit de prés cette Ceremonie. Sur les trois heures aprés midy, toute la Cour se rendit dans un Amphiteatre taillé dans le roc. [...] [Il] sortit des cavernes qui sont au dessous de la premiere gallerie, des Taureaux, des Ours, des Cerfs, des Biches, des Dains, des Loups, des Renards, des Blereaux, des Foines, &amp; plusieurs autres bestes de differentes especes, qui furent un instant aprés ataquées par trente ou quarante chiens qu'on lâcha. Ce combat bizarre &amp; tumultueux dura assez de temps, &amp; finit quand tous ces animaux furent abattus ; de sorte que le Champ de bataille en estoit presque tout couvert. Les Cors de chasse &amp; les Trompettes se mêlerent durant tout le combat, aux differens cris des bestes. [...] Le soir, il y eut encore un grand festin avec musique, &amp; un bal où toutes les Dames parurent magnifiquement parées. [...]</p>
+        <p>Le jour de l'Entrée de Sa Majesté à Vienne ayant esté fixé au 24. Février, on vit dés le matin en mouvement, tous ceux qui y devoient paroistre. La Reine se rendit le même matin, du Chasteau de Bertorff, où elle avoit couché, au Palais de la Favorite. [...] Les Troupes [...] commencerent à défiler devant Sa Majesté au bruit du Canon de la Ville, où elles entrerent dans cet ordre.</p>
+        <p>Le Seigneur Colman Gegger de Leuveneg, premier Mareschal des Logis de la Cour, précédoit avec ses quatre Assistans. Ensuite marchoient les Troupes de Hongrie, precedez de dix chevaux de main, de six Trompettes &amp; d'un Timballier. [...] Le Comte Simon Forgack, Sergent general de Bataille, &amp; Vicegeneral de Frontiere de Canisa, marchoit à la teste de la seconde Compagnie, qui estoit aussi de cent hommes armez de lances avec des banderoles blanches, &amp; deux Fifres à la maniere de Hongrie. Il estoit précedé de ses chevaux de main &amp; de deux Trompettes. [...] Aprés suivoient huit chevaux de main, deux Trompettes &amp; quarante Cavaliers le sabre à la main. Ensuite, on voyoit deux Fifres, six chevaux de main, quatre Trompettes &amp; un Timballier, qui précedoient le Prince Esterhasi, Palatin de Hongrie, avec plusieurs Officiers &amp; personnes de qualité. [...]</p>
+        <p>Aprés ces premieres troupes, une Compagnie de cent cinquante hommes suivoit. Elle estoit commandée par les Magistrats de la Ville, tous bien montez &amp; tres-richement vestus. Cette Compagnie étoit precedé de dix chevaux de main, de six trompettes &amp; d'un Timballier avec leurs Officiers à la teste. [...] Dix chevaux de main venoient ensuite avec six Trompettes &amp; un Timballier. Une Compagnie suivoit composée de quatre-vingt Marchands estrangers privilegiez de la Ville. [...] Aprés eux marchoit le Bourguemestre de la Ville, precedé de dix chevaux de main, de six Trompettes, &amp; d'un Timbalier, suivi d'une compagnie de cent-soixante Bourgeois. [...] Ensuite parurent huit Compagnies de Cuirassiers, levez par les Etats de la Basse-Autriche, commandées par le comte Othon-Henry d'Abensberg &amp; de Traun, Chevalier de la Toison, Conseiller d'Etat, Chambellan, Maréchal &amp; Colonel general de la Basse-Autriche, ayant devant luy huit chevaux de main, douze Trompettes &amp; un Timbalier, suivi du Baron Jean-Charles Geyman, Lieutenant Colonel, &amp; du Comte Joachim Althan, Sergent Major, chacune de ces Compagnies, composée d'environ soixante hommes, avec leur Capitaine, Lieutenant, &amp; Cornette, tous richement vêtus ; chaque Compagnie precedée de chevaux de main, de Timbales &amp; de Trompetes. [...]</p>
+        <p>Ensuite venoient deux Trompettes du Roy, vingt-huit Mulets avec des couvertures de velours rouges brodés d'or &amp; d'argent, &amp; de grosses perles conduits par des Muletier de l'Ecurie du Roy. [...] Deux Trompettes &amp; deux Timbaliers de l'Empereur &amp; du Roy, suivoient, &amp; les Pages montez sur de tres beaux chevaux richement enharnachez. [...] On avoit élevé sur la place Braban, le Mont Parnasse avec des figures dorées, qui en representoient les Muses ; &amp; il sortoit d'un grand Aigle doré, avec les Armes de la Ville deux Fontaines de vin, l'un blanc &amp; l'autre rouge, pour le peuple qui y estoit accouru en foule ; &amp; sur le même Mont il y avoit un tres-beau Concert de Musique. [...] Cependant toute la marche, les Trompettes &amp; Timballes de la Cavalerie, les Tambours &amp; Fifres de l'Infanterie, &amp; ceux qui estoient aux Arcs de Triomphe avec divers Instrumens concerterent toûjours. [...]</p>
+        <p>Quand ce grand Cortége fut passé devant l'Eglise des Peres Augustins Déchaussez, le Roy &amp; la Reine des Romains y descendirent, &amp; toute la Noblesse estant entrée dans l'Eglise par la porte du Convent, leurs Majestez Imperiales y arriverent avec le reste de la Cour. Elles avoient vû toute la marche des fenêtres du vieux Palais Imperial ; &amp; dans le temps qu'on chantoit en musique les Litanies dans la Chapelle de Lorette, le Roy &amp; l'Archiduc prirent d'autres habits dans une chambre du Convent. [...] Pendant qu'on chanta le Te Deum, on fit trois salves de toute l'Artillerie des remparts.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-06_003">
+        <head>MG-1681-06_003</head>
+        <bibl>Mercure Galant, Juin 1681, p. 3-11</bibl>
+        <p>Procession faites à Versailles le jour de la Feste-Dieu, avec la description du Reposoir.</p>
+        <p/>
+        <p>Vous vous souvenez, Madame, de plusieurs Articles, qui en diférentes occasions vous ont fait connoistre la pieté de ce Grand Monarque. Elle a paru de nouveau avec éclat, par les Malades qu'il toucha le jour de la Pentecoste, apres avoir fait ses devotions, &amp; par les marques de soûmission &amp; de respect qu'il donna à Dieu publiquement le Jeudy 5. de ce mois, jour de la Feste du plus auguste de tous nos Mysteres. Vous sçavez quelle est la solemnité des Processions qui se font par tout pour la celébrer. Celle de Versailles estant preste à sortir de la Paroisse qui est dans la Ville neuve, Sa Majesté s'y rendit pour l'accompagner, suivie de toute la Cour, qui estoit nombreuse &amp; magnifique. Tous les Pages de la Chambre, avec ceux de la Grande &amp; Petite Ecurie, les Cent Suisses, &amp; les Gardes du Corps, portoient chacun un Flambeau de cire blanche. On en compta pres de mille. Les Pages du Roy sont en si grand nombre, qu'on ne doit point s'étonner de celuy que je vous marque. Les Peres de la Mission, les Recolets, &amp; les Aumôniers de toute la Maison Royale, assisterent à cette Procession, qui passa devant la Pompe, &amp; s'y arresta. Mr Denys, Fontenier de Sa Majesté, avoit pris le soin d'y faire dresser un Reposoir d'une façon extraordinaire. C'estoit une Feüillée toute remplie de Cascades d'eau, &amp; de Rocailles. La Procession passa de là dans l'Avantcourt du Chasteau, &amp; en suite dans la Court, toutes deux tenduës des plus belles Tapisseries de la Couronne. [...] On avoit placé le Reposoir au bas du grand &amp; magnifique Escalier dont je vous ay parlé plusieurs fois. Il est d'une forme qui fournit dequoy faire quelque chose de tres-somptueux dans les rencontres de cette nature, sans qu'il y faille adjoûter beaucoup d'embellissemens. Aussi n'y employa-t-on que ce que demandoit l'ordre de cet Escalier. [...] L'Autel estoit sur la premiere hauteur du Degré, vis-à-vis de la Fontaine. [...] Il y avoit de grands Guéridons, avec de grandes Torcheres aux deux costez de l'Autel, ainsi que sur les extrémitez des marches de l'Escalier. La Musique de la Chapelle du Roy estoit placée sur le haut. Il seroit fort malaisé de trouver un lieu plus avantageux pour l'Harmonie. Aussi les Instrumens &amp; les Voix y furent-ils entendus avec grand plaisir. Il n'y eut aucun desordre, &amp; tout parut ce jour-là digne de la Cour d'un Roy Tres-Chretien. La Procession estant sortie du Chasteau, passa devant les superbes Ecuries de Sa Majesté, qui estoient tenduës jusques à la Ville neuve de riches Tapisseries. Ce Prince la remena jusques à l'Eglise, ayant eu la teste nuë pendant trois heures, sans s'estre mesme servy de Parasol contre l'ardeur du Soleil. Il entendit la Grand Messe à la Paroisse, où tous les soir de l'Octave il est venu au Salut.</p>
+      </div>
+
+<div xml:id="MG-1681-06_016">
+        <head>MG-1681-06_016</head>
+        <bibl>Mercure Galant, juin 1681, p. 16-20, 23-24.</bibl>
+        <p>Prieres &amp; Cerémonies faites à Vendosme pour obtenir de la pluye.</p>
+        <p/>
+        <p>[...] Les Cerémonies publiques dont je viens de vous parler, me font souvenir de celles qui ont esté faites à Vendosme pour obtenir de la pluye. Une secheresse extraordinaire de plus de deux mois, ayant donné lieu de craindre pour tous les Biens de la terre, on eut recours aux prieres ; &amp; le moyen le plus infaillible qu'on trouva pour mériter qu'elles fussent exaucées, ce fut de faire porter processionnellement la Sainte Larme que le Sauveur du monde répandit sur le Lazare. [...] La menace d'une fort grande disete ayant étonné tout le Païs, les Magistrats &amp; les Echevins s'assemblerent en la Maison de Ville le Mercredy 27. de l'autre mois, d'où s'estant rendus en Corps à l'Abbaye, ils exposerent au Supérieur les voeux empressez que faisoient les Peuples. Ce qu'ils demandoient leur fut accordé. On résolut de faire une Procession par toute la Ville, dans laquelle la Sainte Larme seroit portée avec les cerémonies &amp; précautions accoûtumées pour sa seûreté ; [...]. Le jour en estant venu, on fit batre le Tambour, au bruit duquel chacun se rendit sous son Drapeau. [...]</p>
+        <p>La Procession finissoit par les Magistrats de la Ville, les Officiers des Grands Jours, &amp; ceux de l'Election, avec leurs Habits de cerémonie. La Milice Bourgeoise qui les suivoit, faisoit des décharges à tous les Reposoirs qu'on avoit dressez en beaucoup d'endroits, afin d'y poser la Sainte Larme. C'estoit là que la Musique chantoit de fort beaux Motets, &amp; que les Harpes, les Luths, &amp; les Violons, faisoient un agreable concert avec les Hautbois &amp; les Musetes. Au retour on chanta le Te Deum dans l'Eglise de la Trinité, qui est une des plus belles Eglises de France. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-06_062">
+        <head>MG-1681-06_062</head>
+        <bibl>Mercure Galant, juin 1686, p. 62-64, 66-69</bibl>
+        <p>Régal fait par M. Stradion, Chanoine du Chapitre de Mayence, aux Dames de la Cour de Hanover.</p>
+        <p/>
+        <p>J'ay veu des Lettres qui portent que le 18. de l'autre mois, Mr Stradion Chanoine du Chapitre de Mayence, donna une magnifique Collation dans son Jardin, aux Dames de la Cour de Hanover, que l'envie de voir cette Capitale de l'Electeur de ce nom, avoit amenées des Bains de Wisbaden avec quelques Cavaliers. Madame la Duchesse de Hanover, &amp; la Princesse sa Fille, y estoient incognito. Deux jours apres, l'une &amp; l'autre accompagna Mr le Duc de Hanover, qui vint à Mayence avec douze Carrosses à six Chevaux. [...]</p>
+        <p>Ce Régal fut de quatre Services, chacun de quarante Plats. La Musique tant de Voix que d'Instrumens, ne cessa point pendant le Dîné, non plus que les Timbales &amp; les Trompetes, &amp; on tira trois coups de Canon à chaque santé qu'on but. [...] Le lendemain, ce Duc envoya plusieurs Présens aux Officiers de l'Electeur, sçavoir, un Cofret d'argent de treize marcs, au Grand Maréchal, un petit Cofret avec une grande Coupe d'argent, au Maréchal de la Cour ; [...] ; &amp; d'autres Présens en Richedalles, aux quatre Offices, aux Musiciens, aux Valets de pied, [...] &amp;c. Ainsi tout le monde eut part à ses libéralitez.</p>
+      </div>
+
+<div xml:id="MG-1681-06_069">
+        <head>MG-1681-06_069</head>
+        <bibl>Mercure Galant, juin 1686, p. 69-70</bibl>
+        <p>Feste des Arquebusiers de Rheims.</p>
+        <p/>
+        <p>Il est des Festes de toute nature. Les unes se font avec beaucoup de magnificence, &amp; les autres n'ont pour but que de réjoüir les Spéctateurs par les grotesques Figures qu'on y fait paroître. Celle que font tous les ans les Arquebusiers de Rheims, est de ce genre. Ils vont tirer un Oyseau, où tous à l'envy font voir leur adresse ; le lendemain ils se divertissent publiquement par quelque Marche plaisante, qu'ils appellent Farce. Voicy ce qui s'est passé dans la derniere. Elle fut faite le 3. de ce mois. Un Trompete de la Ville faisoit à cheval l'ouverture de cette Marche. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-06_089">
+        <head>MG-1681-06_089</head>
+        <bibl>Mercure Galant, juin 1681, p. 89-92, 94-95, 97-100</bibl>
+        <p>Entrée de M. l'Evesques de Châlons à Châlons.</p>
+        <p/>
+        <p>Ma derniere Lettre vous a appris que Mr de Noailles Evesque &amp; Comte de Châlons, avoit pris séance au Parlement comme Pair de France. Le Lundy 19. de May, ce digne Prélat partit de Paris, &amp; estant arrivé le 20. à Estoges, premier Bourg de son Diocese, il descendit au Chasteau, [...]. Mr de Châlons s'avança le 21. jusques à Athy, [...]. Le lendemain 22. il partit d'Athy, distant de Châlons de quatre lieuës. [...]</p>
+        <p>Tout le Clergé qui sortit en Chapes hors les Portes de Châlons, vint dans le mesme Fauxbourg jusques à l'Eglise de S. Sulpice, où ce Prélat s'alla revestir de ses Habits Pontificaux ; apres quoy il entra processionnellement dans la Ville au bruit des Cloches, du Canon, des Trompetes, des Tambours, &amp; des acclamations de tout un grand Peuple. [...] Il entra en suite dans l'Eglise, qui estoit tres-bien parée. La Musique y chanta le Te Deum, apres qu'il l'eut entonné. [...]</p>
+        <p>Le 25. jour de la Pentecoste, qui est la Feste de la Ville, ce Prélat officia. Vous pouvez juger du nombre infiny de Peuple de l'un &amp; de l'autre Sexe, qui se trouva dans la Cathédrale. Les Solemnitez qu'on fait ce jour-là sont assez particulieres. Apres que les Vespres ont esté chantées, on descend plusieurs Chasses où sont les Reliques des Evesques de Châlons que l'on a canonisez, &amp; on les expose au milieu du Choeur jusqu'au lendemain Lundy qu'elle sont portées par toute la Ville dans une Procession genérale. [...] La Procession ayant fait un fort grand tour, on les apporte dans la Cathédrale, où elles sont mises sur des Tréteaux élevez de sept ou huit pieds, en sorte qu'on puisse passer dessous. [...] Le soir du Lundy, on allume une fort grande quantité de Cierges, &amp; apres le Te Deum solemnellement chanté par la Musique, on laisse plusieurs Religieux à la garde des Reliques, qui attirent toute la nuit une affluence de monde incroyable. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-06_162">
+        <head>MG-1681-06_162</head>
+        <bibl>Mercure Galant, juin 1686, p. 162-263</bibl>
+        <p>Description du Canal qui joint les deux Mers, avec la premiere Navigation qui vient d'estre faite sur le mesme Canal.</p>
+        <p/>
+        <p>Si l'Eau charme tous les jours la veuë par ses Cascades, &amp; par les autres embellissemens qu'elle preste aux plus superbes Maisons, elle n'a jamais servy à une plus noble &amp; plus utile Entreprise qu'à celle du Canal de Languedoc, qui joint les deux Mers, &amp; sur lequel la premiere Navigation vient d'estre faite. [...]</p>
+        <p>[...]</p>
+        <p>Dans le mesme temps que Mr Daguesseau arriva par le Canal à Castelnaudary, Mr le Cardinal Bonzi, Président né des Etats de Languedoc à cause de son Archevesché de Narbonne, se rendit à S. Papoul avec Mrs les Evesques de Beziers &amp; d'Alet, [...]. Mr le Cardinal Bonzi ayant mis pied à terre hors les Portes de la Ville, du côté du Canal, y reçeut les Harangues du Présidial, des Consuls, &amp; des autres Corps de Ville &amp; Communautez Religieuses. Il alla en suite visiter le grand Bassin du Canal avec Mr Daguesseau, qui estoit sorty à sa rencontre ; apres quoy, il vint entendre la Messe à la Chapelle S. Roch, qui est au bord du mesme Canal. Le Pere de Mourgues l'y celebra pour le Roy. [S'ensuit une procession avec le clergé de la ville, évêque en tête]. Mr de Bonzi, &amp; ceux qui l'accompagnoient, ayant rencontré la Procession, se mirent à la teste du Présidial, &amp; la suivirent jusques au Lieu de l'Embarquement. Ce fut là que Mr de S. Papoul donna la Benédiction aux Eaux du Canal, à la Barque Royale, aux autres Barques qui devoient la suivre, &amp; à tout le Peuple tant de la Ville que des environs, accouru en foule pour jouïr de ce Spéctacle. La Procession s'en retourna dans le mesme ordre qu'elle estoit venuë, en chantant le Te Deum. [...]</p>
+        <p>J'ay oublié de vous dire que dans la Barque qui devoit remorquer celle où estoit ce Cardinal, on avoit placé des Violons, des Hautbois, &amp; des Trompetes. Ce fut au bruit de ces Instrumens, ainsi qu'aux décharges du Canon &amp; de la Mousqueterie, que cette petite Flote se mit à la voile. [...]</p>
+        <p>La Barque Royale arriva à la veuë de Beziers à dix heures du matin, au milieu d'un grand Peuple, qui remplissant les bords du Canal, faisoit retentir de toutes parts des cris de Vive le Roy. [ils poursuivent leur navigation jusqu'aux abords de Narbonne] Mr le Cardinal Bonzi, Mrs les Evesques d'Alet, de Beziers, &amp; de S. Papoul, Mr Daguesseau, &amp; tous les autres, descendirent en Bateau dans ces huit Ecluses [du côté de Narbonne], &amp; à chacune, ils se trouverent régalez, tantost par des Corbeilles de Fleurs qu'on leur apportoit des Jardins du voisinage, tantost par quelques Présens de Fruits, tantost par des Vers qu'on recitoit à la loüange de Sa Majesté, &amp; tantost par des Concerts de Musique.</p>
+        <p>Voicy un Dialogue qui leur fut chanté à l´Ecluse la plus basse par les Srs de Vezeau &amp; Bornes, deux des plus belle Voix de la Province, dont l´un représentoit le Dieu du Canal, &amp; l´autre la Nymphe d´Orb. Les Vers sont de Mr Lepul, premier Consul de la Ville. Je vous envoye les premiers notez.</p>
+        <p/>
+        <p>DIALOGUE DU DIEU DU CANAL, ET DE LA NYMPHE D´ORB.</p>
+        <p/>
+        <p>LE DIEU DU CANAL.</p>
+        <p>Depuis peu, dans le sein de ces vastes Campagnes,</p>
+        <p>Je trace une route à mes Eaux ;</p>
+        <p>Des plus bas lieux, je m´éleve aux plus hauts,</p>
+        <p>Je franchis les Valons, je perce les Montagnes ;</p>
+        <p>Et quoy que rien ne soit égal à moy,</p>
+        <p>Je fuis le moindre effet du pouvoir d´un grand Roy.</p>
+        <p/>
+        <p>LA NYMPHE D´ORB.</p>
+        <p>Dés l´enfance du Monde</p>
+        <p>J´arrose de mon onde,</p>
+        <p>Des bords aussi féconds, qu´ils sont délicieux.</p>
+        <p>C´est le plus doux climat que le Soleil éclaire ;</p>
+        <p>Et si les Dieux pouvoient se plaire</p>
+        <p>Ailleurs que dans les Cieux,</p>
+        <p>Il se plairoient dans ces Lieux.</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>De l´une &amp; l´autre Mer, je forme l´alliance.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Mes Eaux servent à vostre cours.</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>Du Roy qui nous unit celébrons la Puissance.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Je mets toute ma gloire à le chanter toûjours.</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>Qu´à l´Univers il donne de beaux jours !</p>
+        <p>L´ennemy ne craint plus sa marche triomphante,</p>
+        <p>Il en fut l´épouvante,</p>
+        <p>Il en est les amours.</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>Ah qu´il est élevé sur le reste des Princes !</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Qu´il pourvoit sagement au bien de ses Provinces !</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>Ce Peuple en est charmé.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Ces Lieux en sont témoins.</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>BONSI leur donne ses soins.</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>D´un éclat sans pareil sa pourpre est embellie.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>A ses grandes vertus il doit ses grands Emplois.</p>
+        <p/>
+        <p>LE DIEU.</p>
+        <p>C´est la gloire de l´Italie.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>C´est le bonheur de l´Empire François.</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>Il sert à la fois,</p>
+        <p>Les Dieux &amp; les Roys.</p>
+        <p>C´est la gloire de l´Italie,</p>
+        <p>C´est le bonheur de l´Empire François.</p>
+        <p/>
+        <p>Dans l'endroit de l'Air de Mr de Pulvigny, j'ay oublié de vous dire que les Vers qu'il a notez sont de Mr le Comte de Rocquebrune. J'adjoûte un Sonnet, dans lequel on fait parler la Riviere d'Orb. [...]</p>
+        <p>La belle &amp; illustre Compagnie qui remplissoit la Barque Royale, ayant passé la derniere Ecluse, trouva une espece de Galere armée de Canons &amp; de Forçats, que les Marchands Epiciers, qui ont un grand interest à la commodité du Commerce, avoient préparée pour la recevoir. Ils firent une fort belle décharge, accompagnée de celle du Corps des Marchands à cheval, des Fantassins, &amp; du Canon de la Ville, &amp; apres avoir fait leurs Présens à Mr le Cardinal Bonzi &amp; à Mr Daguesseau, qu'ils salüerent à leur passage de plusieurs coups de Canon, ils les suivirent dans le lit de la Riviere. Les Consuls de Beziers les y attendoient en Robes rouges, dans un Bateau, avec les Violons, &amp; une agreable Simphonie. [...]</p>
+        <p>On se débarqua en suite, &amp; tout ce qui estoit sous les armes fit la troisieme décharge, que le Canon de la Ville termina. Les Consuls accompagnerent tous ces Messieurs parmy les acclamations publiques, &amp; au son des Violons, à une Maison des Peres Minimes, bâtie sur le bord de la Riviere, où Mr l'Evesque de Beziers leur avoit fait préparer un magnifique Repas. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-06_311">
+        <head>MG-1681-06_311</head>
+        <bibl>Mercure Galant, juin 1681, p. 311, 319-320</bibl>
+        <p>La Belle Inconstante. Histoire.</p>
+        <p/>
+        <p>Il n'y a personne qui se puisse croire exempt de Procés, apres celuy qu'on a fait à un Cavalier d'une des plus belles, &amp; plus grandes Villes du Royaume. Une jeune Veuve, dont la beauté &amp; le bien égaloient l'esprit, ne put estre veuë de celuy dont je vous parle, sans qu'il en restast charmé. [...]</p>
+        <p>L'Apartement qu'il avoit estant voisin de la Maison de la Belle, elle fut témoin de cette Réjoüissance. Quelque injustice qu'elle eust faite au Cavalier, elle vouloit qu'il la regretast, &amp; ne luy pouvoit sur tout pardonner qu'il eust prié du Régal sa plus mortelle Ennemie. C'estoit une Dame qu'elle haïssoit par des intérests particuliers. Ce qui redoubla son ressentiment, ce fut l'assemblage de quantité d'Instrumens que l'on fit joüer toute la nuit. Quelqu'uns estoient champestres ; &amp; comme ils formoient une Musique d'un accord irrégulier, elle donna le nom de Charivary à ce Concert, &amp; prétendit qu'estant Veuve, on ne le faisoit que pour l'insulter. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-06_338">
+        <head>MG-1681-06_338</head>
+        <bibl>Mercure Galant, juin 1681, p. 338-341</bibl>
+        <p>Feste de S. Quentin.</p>
+        <p/>
+        <p>La Feste de S. Quentin, Patron de la Ville de ce nom, y fut celebrée le 2. de l'autre mois avec les cerémonies dont je vous fit part la derniere année. Ainsi je laisse tout ce qui regarde la Procession, pour vous dire qu'apres le Service de l'Eglise, les plus distinguez de la Jeunesse, tous tres-bien montez, &amp; dans un leste équipage, se rendirent au Lieu que Mrs de Ville avoient choisy pour la Course hors la Porte de Cambray. Il estoit environné de tout ce qu'il y avoit alors de beau monde de l'un &amp; de l'autre Sexe, &amp; à Saint Quentin, &amp; aux environs, chacun estant accouru pour joüir de ce Spéctacle. Si-tost que Mr de Chalvoix, qui fait cette année l'exercice de la Charge de Mayeur, &amp; deux Echevins, tous trois Juges de la Course, furent arrivez, les Chevaliers qui en devoient disputer les Prix, allerent se mettre sur une mesme ligne à un bout de la Carriere, qui estoit longue de 350 pas, &amp; large de 150. Les Trompetes &amp; les Timbales qu'on avoit placées d'un costé, &amp; ausquelles répondoient de l'autre, les Violons, les Tambours, &amp; les Hautbois, furent quelque temps un fort agreable divertissement pour la Compagnie. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

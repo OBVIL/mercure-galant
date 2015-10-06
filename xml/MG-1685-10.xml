@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-10_013">
+        <head>MG-1685-10_013</head>
+        <bibl>Mercure Galant, octobre 1685, p. 13-26</bibl>
+        <p>Statüe du Roy élévée à Caën, &amp; ses Inscriptions, avec le détail de toutes les Ceremonies qui se sont faites en cette occasion.</p>
+        <p/>
+        <p>La Ville de Caën n'a pas voulu estre des dernieres à marquer son zele, en faisant élever une Statüe à sa Majesté. Cela s'est fait avec tout l'éclat &amp; toutes les démonstrations de joye, qu'un Peuple qui aime son Prince, &amp; qui est ardent pour sa gloire, est capable de montrer. Cette Statüe fut élevée le 5 de Septembre dans la grande Place de la Ville. On avoit choisy ce jour, qui estoit celuy de la Naissance du Roy, pour rendre cette Cérémonie Auguste. Dés le poinct du jour les Trompettes, les Tambours, &amp; les Hautsbois, &amp; bien tost apres, le Carillon de toutes les Cloches, &amp; le Canon du Château, anoncerent [sic] cette Feste qu'on attendoit avec tant d'impatience. L'ordre avoit esté donné que les ruës fussent nettes, &amp; les Boutiques fermées, &amp; l'on se rendit en foule dans l'Eglise des Cordeliers.[...] Tout fut convoqué, &amp; la Messe du Saint Esprit, par laquelle on crût devoir commencer, fut précédée d'une Procession que le nombre &amp; la gravité de tant de personnes Doctes, la diversité des Habits &amp; des Ornemens, &amp; l'ordre exactement observé, rendirent solemnelle &amp; venerable. Mr l'Evesque de Bayeux, Chancelier de cette Illustre Compagnie, officia Pontificalement. Au milieu de la Messe Mr Maloüin Recteur, en son Habit de Ceremonie, prononça en Latin le Panegyrique du Roy, avec beaucoup de force &amp; d'éloquence. [...] [Mr de Morangis, Intendant de la Generalité de Caen] a conçu le premier le dessein d'élever cette Statüe. Il l'a fait agréer à Sa Majesté, &amp; voyant l'allegresse genérale, il déclara que tous les ans il vouloit solemniser ce jour. La Ville &amp; l'Université s'y engagerent avec la mesme ardeur. Un Concert de Voix &amp; d'Instrumens suivit [le repas que Mr de Morangis offrit aux gens de la Ville et à la noblesse.] On n'y chanta que des endroits choisis dans les Prologues des Opera à la gloire du Roy, &amp; cette diversité de Loüanges, fit un agréable effet dans une Assemblée remplie d'admiration pour Sa Majesté. On partit de chez Mr l'Intendant sur les quatre heures, pour se rendre à l'Eglise des Jacobins, où tous les Corps estoient convoquez par l'ordre de Messieurs de Ville qui avoient eu soin qu'elle fut parée mangnifiquement. Le Pere Fejacq, Prieur de ce Monastere, fit en François l'Eloge du Roy, avec beaucoup de délicatesse &amp; d'esprit. On avoit chanté auparavant un excellent Motet, composé de Passages de Pseaumes, &amp; des Cantiques de la sainte Ecriture, où l'on voit comme une Prophetie, &amp; une peinture des grandes Victoires que le Roy a remportées, &amp; des merveilles de son Regne ; de sorte que le peuple charmé par cette Musique, &amp; animé par l'éloquence de l'Orateur, se trouva comme transporté quand Mr l'Evesque entonna le Te Deum : &amp; dans le mesme ravissement, il courut à la Place Royale où le Feu de joye estoit préparé. [...] On marcha vers la Place. Les Trompettes, les Tambours, l'Huissier de la Ville paré de sa Cotte d'Armes de velours, &amp; ses Sergens ornez d'Echarpes de ses livrées, précedoient la marche. La Bourgeoisie estoit sous les Armes au tour de la Place, &amp; laissoit un grand espace libre aux environs de la Statüe. Cette Statüe qui est l'ouvrage d'un Sculpteur de Caën, est admirée des plus habiles. Elle est haute de huit pieds, élevée sur un Piedestal de douze. Quatre petites Figures y tiennent sur la Corniche les Armes, &amp; la Devise du Roy meslées de differens Trophées. Les Inscriptions Latines, &amp; Françoises, sont gravées en Lettres d'or sur quatre grandes tables de Marbre noir, &amp; sont dignes d'une Ville qui est en possession de donner à la France d'excellens Poëtes. On fit deux fois le tour de la Statüe avec des cris de Vive le Roy, dont toute la Ville retentissoit, &amp; avec les mesmes acclamations, on alluma le Feu en la maniere accoutumée. [...] Mrs de l'Hostel de Ville, avoient choisy la plus belle Maison de la Place, pour y recevoir les Dames. Madame l'Intendante s'y estoit déjà renduë avec toutes les Personnes de qualité. Une Salle ornée pour le Bal ; une magnifique Collation estoit servie dans l'autre, que plusieurs Tables à l'entour des murailles, &amp; les Buffets estoient dressez dans la troisième où l'on pouvoit choisir toutes sortes de liqueurs &amp; de rafraichissemens. [...] En quittant les tables, on fut appellé aux Fenestres par une quantité de Fusées volantes qui partirent du milieu de la Place. Ce n'estoit que le prélude d'un Feu d'artifice préparé par l'ordre de la Ville, qui jugea ne devoir rien épargner pour honorer par cette Feste un Roy à qui elle est redevable de son bonheur. Ce Feu occupa les Spectateurs pendant trois quarts d'heure, &amp; eut tout le succés que l'on en pouvoit attendre. Dés qu'il fut finy, le Bal commença, &amp; dura toute la nuit. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-10_055">
+        <head>MG-1685-10_055</head>
+        <bibl>Mercure Galant, octobre 1685, p. 55-62, 72-75</bibl>
+        <p>Prix de l'Arquebuze</p>
+        <p/>
+        <p>Vous sçavez, Madame, que le Roy donnant sa protection aux Exercices qui ont quelque chose de martial, accorde de temps en temps des permissions de tirer des Prix entre les Compagnies de l'Arquebuze du Royaume, &amp; aux Chevaliers des Villes, de s'assembler en celle qui a receu le Bouquet par le suffrage des Bandes. Comme il y a une Association ancienne entre les Provinces de Brie, Champagne, &amp; Soissonnois pour cet Exercice, la Ville de Sezanne, limitrophe des deux premieres, eut l'honneur du Bouquet en la Ville d'Epernay au mois de juin 1685. &amp; le rendit au commencement du mois passé, en vertu de Lettres Patentes, &amp; après que Sa Majesté se fut expliquée [...] Les Mandemens imprimez ayant esté envoyez à toutes les Villes associées, qui ont de semblables Compagnies d'Arquebuziers, la pluspart se rendirent à Sezanne, le Samedy premier de Septembre. Les Chevaliers de la Ville en deux bandes, l'une à cheval, &amp; l'autre de pied, leurs Officiers à leur teste avec les Guidon [sic] &amp; Enseigne [sic] ; Trompettes, Tambours, Fifres, Violons &amp; Hautbois, tous fort lestes &amp; en bon ordre, allerent au devant, à mesure que le Guet qu'on avait mis sur la Tour, donnoit le Signal, &amp; en huit heures de temps on receut jusqu'à vingt-huit Compagnies des Villes mandées, [...] Le lendemain au matin, les Compagnies s'assemblerent en l'Eglise des Cordeliers, qui est fort spacieuse ; &amp; après que l'on eut tiré la marche au sort, elles furent conduites en Procession par la Ville, &amp; dans les endroits principaux du dehors, ayant Mr le Marquis de Pleurs, Bailly, Capitaine &amp; Gouverneur à leur teste, suivy du Corps de Ville. Elles marcherent au bruit des mesmes Instrumens de toutes les Bandes, qui faisoient une symphonie agreable par intervalles, &amp; sans interruption du Chant, avec plusieurs décharges de Mousqueteries. La Procession estant faite, la Messe fut solemnellement celebrée par Mr Collot, Aumonier de la Compagnie de Sezanne, avec l'Orgue, &amp; quelques Motets chantez par de belles Voix accompagnées d'Instrumens. Mr le Marquis de Pleurs alla à l'Offrande, &amp; après luy les Cornetes &amp; les Enseignes avec leurs Guidons &amp; leurs Drapeaux. Après le disner, toutes les Compagnies passerent en reveuë, &amp; on exposa les Prix, qui estoient d'environ seize mille livres d'argenterie de toutes pieces [...]. Le soir Mr de Villiers, Capitaine de la Compagnie de la Ville, regala la pluspart des Officiers des Bandes avec Mr de Pleurs, les Magistrats &amp; Officiers de Ville ; ce qu'il continua tous les jours avec une propreté &amp; une profusion extraordinaire. Ce soupé fut suivy d'un grand Bal, où toutes les Dames, tant de la Ville que des environs, se trouverent fort parées. On servit ensuite une magnifique Collation dans vingt quatre grands Bassins, avec toutes sortes de liqueurs &amp; de rafraichissemens. [...]</p>
+        <p/>
+        <p>Tous les Prix estant tirez le Samedy au soir 8. du mois, on délibera sur le Bouquet, &amp; presque tous les Suffrages l'accorderent à la Compagnie de Reims qui l'avoit demandé avec instance, pour le reünir au particulier qui luy avoit esté adjugé à Vitry, selon l'intention de Sa Majesté dans sa Lettre de Cachet. Ainsi, la délivrance s'en fit le lendemain, dans la grande ruë devant l'Hostel de Reims au bruit de la Mousqueterie, &amp; au son d'un grand nombre de Hautbois, Trompettes, &amp; autres Instrumens de toutes sortes ; après quoy cette Compagnie donna une magnifique Collation, servie somptueusement, à une foule extraordinaire d'Officiers &amp; Chevaliers, &amp; à toutes les Dames. [...] On peut ajoûter à l'avantage des Chevaliers de la Compagnie de Reims, que dans cette occasion ils ont épuisé dont on se peut servir pour faire éclater la profusion en Festins, Bals, Collations, &amp; Feux d'artifices, qui les ont distinguez des autres Villes, avec un applaudissement general.</p>
+      </div>
+
+<div xml:id="MG-1685-10_075">
+        <head>MG-1685-10_075</head>
+        <bibl>Mercure Galant, octobre 1685, p. 75-78, 80-83</bibl>
+        <p>Fondation perpetuelle d'une Feste à Issoudun, pour la Naissance du Roy</p>
+        <p/>
+        <p>J'ay présentement à vous parler des Habitans d'Issoudun, Capitale du bas Berry. Ils ont toûjours esté fideles à leurs Princes, qu'ils en ont esté recompensez par de tres-beaux Privileges. Le Roy persuadé de cette verité, &amp; touché de compassion pour eux, lors que passant dans la Province en 1651. il vit leur Ville presque reduite en cendres, confirma ces Privileges, &amp; a eu la bonté depuis ce temps là de dire plusieurs fois qu'il se souviendroit de leurs services. En effet Sa Majesté a bien fait paroistre qu'Elle les distinguoit entre tous ses autres Sujets de la mesme province, puis qu'ils ont esté les seuls exempts de garnisons, &amp; qu'Elle a hautement déclaré qu'Elle ne vouloit pas qu'ils en eussent durant son Regne. Aussi voulant en marquer leur reconnaissance, &amp; l'ardent desir qu'ils ont d'attirer sur sa Personne Sacrée &amp; sur toute la Maison Royale, les Benedictions du Ciel, ils ont fait une fondation perpetuelle de Prieres Publiques tous les ans au cinquième de Septembre, jour de l'heureuse Naissance du Roy, &amp; l'ont commencée cette année par un Service solennel qui fut fait ce jour là dans leur eglise Collegiale. Ils l'avoient parée magnifiquement, &amp; ornée de plusieurs Devises &amp; d'Inscriptions à la loüange du Roy. La Messe fut chantée à trois choeurs de Musique aussi bien que vespres, &amp; l'on fit une Procession Generale, où Mr l'Evesque &amp; Comte d'Agde, les Magistrats &amp; autres Corps d'Officiers assisterent. [...]</p>
+        <p/>
+        <p>Après la Procession, toute la Bourgeoisie s'estant mise sous les armes, on alluma le Feu de joye au bruit du Canon &amp; de la Mousqueterie, au son des Tambours &amp; des Trompettes, &amp; aux acclamations de Vive le Roy. [...]</p>
+        <p>Cette Ceremonie qui dura jusques au soir, estant terminée, les Particuliers firent des Illuminations à toutes les fenestres de leurs maisons, &amp; des Feux devant leurs portes, &amp; passerent la plus grande partie de la nuit à donner dans les ruës toutes sortes de marques d'une allegresse parfaite. [...] Le lendemain 6. du mois, les Habitans Catholiques d'Issoudun recommencerent la rejoüissance par la Démolition qui se fit du Temple de ceux de la Religion Pretenduë Reformée, ainsi qu'il avoit esté jugé par Sentence du Baillage de la mesme Ville, sur les contraventions par eux faites aux Edits &amp; Déclarations de Sa Majesté.</p>
+      </div>
+
+<div xml:id="MG-1685-10_138">
+        <head>MG-1685-10_138</head>
+        <bibl>Mercure Galant, octobre 1685, p. 138, 177, 178, 185-187</bibl>
+        <p>Relation de tout ce qui s'est passé à la Reception de Madame la Duchesse de Richelieu, à Richelieu</p>
+        <p/>
+        <p>Les Habitans de la Ville de Richelieu, avoient trop d'impatience de voir leur nouvelle Duchesse, pour ne luy faire pas une Entrée qui répondit à leur zele [à l'occasion de la naissance de son fils]</p>
+        <p/>
+        <p>[p.142-167 : description du décor éphèmère construit pour l'entrée de la duchesse. Il n'est pas fait mention de musique. On relèvera seulement la présence, sur un obélisque, d'un élément décoratif constitué de « [p. 160] petits Faunes &amp; de petits Satyres joüans de la Fluste &amp; du Tambour de Basque, dançans &amp; gambadans à leur son ».]</p>
+        <p>[Suit par la description de la progression du cortège de la duchesse dans la Ville :]</p>
+        <p/>
+        <p>Enfin elle arriva à l'Eglise, où le Clergé l'attendoit sur les marches, devant le magnifique Portail de ce beau Temple. Il avoit à sa teste le Superieur de Messieurs de la Mission, qui la harangua en luy presentant l'Encens &amp; l'Eau Benite. Ensuite il la conduisit au Choeur, &amp; l'on y chanta le Te Deum &amp; le Benedictus au son des Cloches, ausquelles douze Fauconnaux, autant de Coulevrines, &amp; toute la Mousqueterie répondirent. [...]</p>
+        <p/>
+        <p>[Après cette cérémonie, la duchesse gagna le château,] où elle fut receuë splendidement par Mr &amp; Madame de Sacilly. La douce Harmonie des Violons &amp; des Hautbois succeda aux bruits Guerriers de l'Artillerie, des Tambours &amp; des Trompettes, dont les Echos qui y sont admirables, avoient long-temps retenty de tous costez. [...] [La journée s'acheva par un feu d'artifice et des illuminations dans toute la ville.]</p>
+        <p/>
+        <p>[...] [Le lendemain] Mr le Duc &amp; Madame la Duchesse de Richelieu, Madame la Comtesse d'Acigné, Mademoiselle sa Fille, Mrs les Abbez d'Acigné &amp; de Sacilly, &amp; plusieurs autres personnes considerables qui les suivirent, allerent visiter les Religieuses de la Compagnie de Nostre-Dame. Ces Dames les surprirent agreablement quand aprés qu'ils eurent visité toute la Maison, elles les firent entrer dans une Salle où il y avoit un Theatre tout dressé. Il n'y furent pas plûtost placez que l'on tira un Rideau qui le cachoit, &amp; les pensionnaires commencerent une des Tragedies de l'Illustre Mr de Corneille, que ces Dames leur avoient fait apprendre secretement. Si la surprise fut grande, les applaudissemens que l'on donna aux Acteurs furent encore plus grands. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-10_272">
+        <head>MG-1685-10_272</head>
+        <bibl>Mercure Galant, octobre 1685, p. 272-274</bibl>
+        <p>Continuation des Prieres, selon l'usage d'Italie, faites aux Theatins</p>
+        <p/>
+        <p>Les Theatins continuent tous les Mercredis leurs Prieres pour les Morts, selon leur usage en Italie. Elles commencent par un De profondis que ces Peres chantent ; ensuite on chante un Pseaume, ou un Motet qui convient à cette pieuse Institution. Un predicateur monte après en Chaire, &amp; fait une petite Exhortation d'un peu plus d'un quart-d'heure. Elle est suivie d'un autre Motet, après quoy l'on donne la Benediction du S. Sacrement. Il y a de grandes Indulgences accordées par le S. Siege, à ceux &amp; à celles qui y assistent. Les Predicateurs sont tous gens choisis, &amp; celuy qui fait la Musique, &amp; qui a pris ce qu'il y a de plus excellens Musiciens dans Paris, est ce fameaux Romain Mr Laurenzani, qui estoit Maistre de la Musique de la feuë Reine. Il avoit esté dans les premieres &amp; plus fameuses Chapelles d'Italie, &amp; seroit dans la principale de Rome, si son affection pour la France, &amp; plus encore un attachement particulier pour le Roy, dont cet excellent homme a connu d'abord les qualitez merveilleuses, ne luy avoient fait negliger tout ce qui pouvoit l'éloigner de ce grand Prince, quelque avantage qui pust luy en revenir. Le grand monde qui se trouve à ces Prieres, marque mieux que toutes sortes d'Eloges, combien on est satisfait de cette Musique.</p>
+      </div>
+
+<div xml:id="MG-1685-10_292">
+        <head>MG-1685-10_292</head>
+        <bibl>Mercure Galant, octobre 1685, p. 292-295</bibl>
+        <p>Tout ce qui s'est passé depuis deux mois touchant les affaires de la Religion Pretenduë Reformée</p>
+        <p/>
+        <p>[Dans ce long article, sont relatées les circonstances conduisant à l'abjuration des Protestants de Saint-Jean d'Angely. Après les tractations passées entre les membres de la communauté protestante et les autorités ecclésiastiques de l'évêché de Saintes [p. 274-292], est décrite la cérémonie de conversion [p. 292 et suiv.]</p>
+        <p/>
+        <p>[...] [Pour rendre cette action plus solemnelle, on fit une procession.] Mr Mathias Bar, Curé Vicaire perpetuel de la Paroisse, avec quelques autres Ecclesiastiques, estoit précédé de la Croix &amp; de la Baniere. Le Pere Prieur de l'abbaye &amp; toute sa communauté marchoient ensuite, ayant M. l'Evesque à leur teste en habits Pontificaux. Mrs les Magistrats les suivoient vêtus de leurs Robes de Palais, avec un tres-grand concours de peuple. Pendant la Procession, on continua de chanter le Veni Creator que quatre Chantres de l'Abbaye avoit entonné au pied du grand Autel, &amp; on le finit à la porte du Palais. Le Ministre &amp; les autres Religionnaires, y attendoient M. l'Evesque, qui leur témoigna sa joye de les voir dans de si heureuses dispositions, &amp; leur demanda si c'estoit de bon coeur qu'ils se resolvoient à abjurer l'Heresie dans laquelle ils avoient si long-temps perservéré. Alors le Ministre &amp; tous les autres répondirent qu'ils faisoient cette Action sans nulle contrainte, &amp; d'autant plus volontiers qu'on les avoit convaincus de l'erreur où ils vivoient. Cela estant fait, M. l'Evesque les fit tous mettre à genoux, &amp; après qu'ils eurent abjuré par la bouche du Ministre à haute &amp; intelligible voix, ils furent conduits avec le corps de la Procession au mesme ordre qu'on estoit venu les prendre, en chantant les Pseaumes, In exitu Israël ; Super flumina Babilonis, &amp; Miserere mei Deus. La Procession s'arresta à la grande porte de l'Eglise, &amp; M. l'Evêque de Saintes leur ayant fait une Exhortation tres-touchante, leur donna à tous l'Absolution de leur heresie, aprés quoy ils furent introduits dans l'Eglise par ce Prelat, qui entonna le Te Deum. On chanta les autres Prieres en action de graces [...].</p>
+      </div>
+
+<div xml:id="MG-1685-10_352">
+        <head>MG-1685-10_352</head>
+        <bibl>Mercure Galant, octobre 1685, p. 352-356</bibl>
+        <p>Divertissemens de Fontainebleau</p>
+        <p/>
+        <p>La cour est toûjours à Fontainebleau, où elle doit passer une partie du mois de Novembre. Les Chasses, les Promenades, le Jeu, les Bals, la Musique, &amp; les Comedies Françoises &amp; Italiennes, y servent de divertissement. Le Roy s'y trouve peu, &amp; fait son unique attachement des affaires de son Etat. On y a dancé un Balet intitulé, Le Temple de la Paix. Le Sujet &amp; les Vers sont de Mr Quinaut, &amp; la Musique de Mr de Lully. Ce Balet a esté trouvé admirable, tant pour l'invention &amp; les Vers, que pour l'execution. On en a déjà donné plusieurs Representations, &amp; elles continueront tant que la Cour sera à Fontainebleau.</p>
+        <p>Quant aux Amours de Venus &amp; d'Adonis, qu'on a representez à Paris, je vous avouë, puisque vous le sçavez, que j'ay fait cette Tragedie avant que d'avoir commencé à travailler aux Lettres que je vous écris tous les mois. C'estoit dans un temps où le langage du coeur doit estre naturel à tous les hommes. Ainsi, l'on ne doit pas s'étonner si cette piece a esté trouvée si tendre. Elle eut alors un fort grand succés, quoy que ses machines ne fussent accompagnées, ny de dances, ny de voix. Cependant comme on a accoustumé d'en voir à toutes les pieces où il y a du spectacle, &amp; qu'elles paroissent nuës sans cet agrément, on y a mis des intermedes, dont la Musique a esté faite par Mr Charpentier, qui depuis beaucoup d'années travaille avec succés à ces sortes de choses. On y a aussi meslé une Plainte, qui a charmé tous ceux qui l'ont entenduë, &amp; qui se connoissent en Musique. Les Comediens de leur costé s'estant parfaitement bien acquittez de leurs Roles, &amp; en ayant receu des applaudissemens, en ont fait donner à la Piece ; qui après six Representations dans une seule semaine, faisoit esperer un assez heureux succés, si elle n'eust point esté interrompuë par le depart des Acteurs, qui furent mandez à Fontainebleau pour le divertissement de la Cour. L'accueil favorable qu'on a fait à cette Piece, a engagé les Comediens a remettre sur le Theatre Le Mariage de Bacchus, que je fis deux ans apres les Amours de Venus &amp; d'Adonis. Il s'y trouve une chose qui ne s'est encore veuë que dans Amphitrion, c'est à dire, du Comique meslé parmy le Serieux. Je ne diray rien pour le défendre, il suffit de réüssir pour estre justifié. Le Heros de cette Piece n'est rien moins que ce que beaucoup de personnes pensent, Bachus estant marqué dans la Fable comme un grand Conquerant, qui devoit estre toûjours beau, toûjours jeune, &amp; toûjours vainqueur. Il y a quelques Machines qui servent d'embellissement à cet Ouvrage, où l'on voit le débarquement de Bacchus dans l'Isle de Naxe, avec toute sa suite ; mais son principal ornement consiste dans le grand nombre d'Agrémens, qui estant tous tirez du fond du sujet, ne sont pas seulement dans les Entractes, mais encore en beaucoup d'endroits du corps de la Piece. Lors qu'elle parut d'abord sur le Theatre du Marais, la Musique en avoit esté faite par le fameux Mr Moliere, qui travailloit autrefois pour les divertissemens de Sa Majesté. Mais comme il a falu se restraindre au nombre de voix perscrit, on a fait faire de nouveaux Airs par Mr Laloüette, Eleve de Mr de Lully ; &amp; qui ayant toutes ses manieres, doit avoir travaillé selon le goust du Public.</p>
+      </div>
+</body>
+  </text>
+</TEI>

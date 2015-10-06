@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-11_069">
+        <head>MG-1685-11_069</head>
+        <bibl>Mercure Galant, novembre 1685, p. 69-71</bibl>
+        <p>Benediction de l'Abbesse de Betancourt en Picardie</p>
+        <p/>
+        <p>Le Dimanche 7. du dernier mois, Dame Catherine Elisabeth de Longueval de Manicamp, Abbesse de l'Abbaye de Bestancour en Picardie, fut benite par les mains de Messire François Faure, Evesque d'Amiens. Ce Prelat estoit revestu de ses Habits Pontificaux, &amp; assisté de tous ses Officiers. La Ceremonie se fit au bruit de plusieurs décharges, &amp; en presence de quantité de Noblesse de la province, de l'un &amp; de l'autre sexe. La Messe fut chantée par la Musique. Cette Abbesse alla recevoir sa Benediction, précédée de Dame Elisabeth de Monchi de Senarpont, Religieuse de l'Abbaye de Bestancour, sa Chapelaine, qui portoit la Crosse. A costé d'elle marcherent Dame Gabrielle Faure, Niece de Mr l'Evesque d'Amiens, Prieure de cette Abbaye, &amp; Dame Marguerite Foucault Sous-prieure. Mademoiselle de Monchi, seconde Fille de Mr de Monchi, Marquis de Senarpont, &amp; Mademoiselle d'Augenlieu, Pensionnaires de la mesme Abbaye, portoient sa queue. Une simphonie fort agreable se fit entendre pendant la marche du Choeur des Religieuses jusques à l'Autel. Mr de Senarpont, dont je viens de vous parler, Mr de la Roche Marquis de Fonteville, Mr de Monchi Baron de Vismes, Mr de Monchi Seigneur de Courcelle, &amp; Mr de Vauchelle, portoient les Offrandes. La Ceremonie finit par le Te Deum chanté en Musique [...].</p>
+      </div>
+
+<div xml:id="MG-1685-11_099">
+        <head>MG-1685-11_099</head>
+        <bibl>Mercure Galant, novembre 1685, p. 99-106</bibl>
+        <p>Translations</p>
+        <p/>
+        <p>On a fait une grande Ceremonie chez les Peres Minimes de Peronne, pour la Translation des Ossemens du Corps de S. Juste Martyr, qui ont esté nouvellement envoyez de Rome. La Procession alla prendre la Chasse qui avoit esté portée à un Reposoir dressé au bout de la Ville. Les ruës estoient tenduës de Tapisseries, &amp; pendant la marche l'on fit des pauses de distance en distance, où la Musique chanta des Motets. Messieurs de Ville de l'ancienne &amp; nouvelle Loy se trouverent à cette Procession, où tous les Drapeaux des Corps de Mestiers, au nombre de trente deux, furent portez quatre à quatre, chacun par le Capitaine-Enseigne de leur Corps, l'Epée au costé, &amp; la pomme de la Lance sur l'estomach. On entra dans l'Eglise Royale &amp; Collegiale de S. Furcy, où la Chasse reposa pendant le Panegyrique du Saint, qui fut prononcé par Mr Desfresnes, Chantre &amp; Chanoine de la même Eglise. Ensuite elle fut portée chez les Peres Minimes, où elle demeura toute l'octave exposée à la Devotion du Peuple. L'Eglise estoit parée, &amp; il y avoit quantité d'Inscriptions dans de grands Cartouches.</p>
+        <p>Le concours a aussi esté extraordinaire pour une pareille Ceremonie que l'on a faite à Niort, à l'occasion du Corps presque entier de S. Victor, dont le Pere Isidore de Niort, Ex-Provincial &amp; Visiteur des Capucins de la Province de Touraine, a fait present à la Ville, pour y laisser un monument éternel de sa pieté &amp; de son amour pour la Patrie. [...] La Procession fut tres-solemnelle le jour que l'on en fit la Translation. Il s'y trouva plus de douze mille personnes ; &amp; comme l'Eglise des Capucins où elle devoit se rendre n'auroit pû les contenir, &amp; que les Halles de Niort sont tres-grandes &amp; tres-belles, on y avoit dressé un Autel fort elevé avec des gradins, &amp; orné de Tapisseries. Une closture que l'on avoit aussi faite, composoit un Choeur, au milieu duquel estoit une Estrade sur laquelle la Relique fut posée. [...] Mr le Curé de Nostre-Dame chanta solemnellement la grand'Messe sur cet autel, &amp; le Pere Isidore fit le Panegyrique du Saint. La Procession s'estant renduë en l'Eglise de Capucins, qui est au Fauxbourg du Port, on chanta le Te Deum, au carillon de toutes les Cloches de la ville, &amp; le soir il y eut des Illuminations &amp; des Feux d'artifice dans le Convent. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-11_198">
+        <head>MG-1685-11_198</head>
+        <bibl>Mercure Galant, novembre 1685, p. 198-199</bibl>
+        <p>[Conséquences de la mort du prince de Conty]</p>
+        <p/>
+        <p>[Le décès du prince Louis-Armand Ier de Bourbon Conti auquel un article est consacré p. 190-199] fit cesser tous les Divertissemens qu'on devoit continuer à Fontainebleau, &amp; celuy du Balet du Temple de la Paix fut du nombre.</p>
+      </div>
+
+<div xml:id="MG-1685-11_199">
+        <head>MG-1685-11_199</head>
+        <bibl>Mercure Galant, novembre 1685, p. 199-205</bibl>
+        <p>« Je n'eus pas le temps de vous dire le mois passé, que Mr le Marquis de la Vrilliere s'y estant fait admirer [dans le ballet du Temple de la Paix], les applaudissemens qu'il receut furent cause que Sa Majesté trouva bon qu'il dançast une Entrée seul. Il y réüissit d'une maniere si avantageuse, que l'on entendit en mesme temps toutes les voix s'élever pour luy donner des loüanges. Ce fut ce qui donna lieu à un des Spectateurs de faire les Vers suivans, sur le Personnage de Berger, qu'il representoit dans ce Balet.</p>
+        <p/>
+        <p>Berger, craignez la surprise,</p>
+        <p>Défiez-vous de ce nouveau venu,</p>
+        <p>C'est l'amour, qui n'osat se faire voir tout nu,</p>
+        <p>Sous cet habit champestre se déguise ;</p>
+        <p>Pour vous approcher de plus prés</p>
+        <p>Il paroist sans Arc &amp; sans Fléches ;</p>
+        <p>Mais il vient avec mille attraits,</p>
+        <p>Qui ne font pas aux coeurs de moins sensibles bréches.</p>
+        <p>Pour leur faire subir sa Loy,</p>
+        <p>La force n'est pas necessaire,</p>
+        <p>Il ne faut point tant d'attirail pour plaire</p>
+        <p>Quand on a les graces pour soy.</p>
+        <p>Encor qu'il ait quitté ses armes</p>
+        <p>Vous n'estes pas moins en danger,</p>
+        <p>Il est aisé, quand on a tant de charmes,</p>
+        <p>De trouver l'heure du Berger.</p>
+        <p/>
+        <p>Pour le mesme, sur le mesme sujet.</p>
+        <p/>
+        <p>Ce Berger si jeune &amp; si beau</p>
+        <p>Sçait déjà marier son petit chalumeau</p>
+        <p>Avec la plus douce musette ;</p>
+        <p>Il entonne une Chansonnette</p>
+        <p>D'un air surprenant &amp; nouveau.</p>
+        <p>Que si pour quelque feste il dance sous l'Ormeau,</p>
+        <p>Il le fait de si bonne grace</p>
+        <p>Qu'il est fort peu de Bergers qu'il n'efface ;</p>
+        <p>Il n'en est point dans le Hameau,</p>
+        <p>Qui pour conduire son Troupeau</p>
+        <p>Soit plus vigilant &amp; plus sage,</p>
+        <p>Bien qu'il ne soit qu'au Printemps de son âge ;</p>
+        <p>La nature chez luy n'a pas besoin de l'art.</p>
+        <p>Si quelque jour, bondissant sur l'herbette,</p>
+        <p>Une brebis se trouvait à l'écart,</p>
+        <p>Elle doit craindre sa Houlette.</p>
+        <p/>
+        <p>Pour le mesme, representant un Biscayen.</p>
+        <p/>
+        <p>Tandis que loin du bruit des armes</p>
+        <p>Au Temple de la Paix de tous les lieux on se rend,</p>
+        <p>Ce jeune Biscayen, dont l'éclat vous surprend,</p>
+        <p>Prépare aux coeurs de nouvelles alarmes ;</p>
+        <p>La Belle qui le charma</p>
+        <p>Perdra le temps à se défendre,</p>
+        <p>En vain elle l'évitera</p>
+        <p>Pour ne se pas laisser surprendre.</p>
+        <p>Il va viste, il l'attrapera ;</p>
+        <p>Un jour dans la tendre carriere</p>
+        <p>(De l'agilité dont il est)</p>
+        <p>Il laissera tous ses rivaux derriere ;</p>
+        <p>Qu'on fait de chemin quand on plaist !</p>
+        <p/>
+        <p>Pour le mesme, sur le mesme sujet.</p>
+        <p/>
+        <p>Le bon air, la legereté</p>
+        <p>Le font distinguer dans la dance ;</p>
+        <p>Mais il soumet l'agilité</p>
+        <p>Aux mesures de la cadence ;</p>
+        <p>Aucun pas n'est fait au hazard,</p>
+        <p>Tous sont formez par les regles de l'art ;</p>
+        <p>Ainsi de son esprit plein de vives lumieres</p>
+        <p>Les brillantes manieres</p>
+        <p>Partent d'un jugement meur [sic] avant la saison,</p>
+        <p>Et son feu cede à sa raison.</p>
+        <p/>
+        <p>Pour le mesme, sur le mesme sujet.</p>
+        <p/>
+        <p>Deja son nom fait à la cour</p>
+        <p>Bien plus de bruit que son Tambour ;</p>
+        <p>Plein d'un beau feu, que le bon sens seconde,</p>
+        <p>Il avance fort dans le monde ;</p>
+        <p>Mais s'il se presse ainsi, peut-on s'en étonner ?</p>
+        <p>A cette noble ardeur il doit s'abandonner,</p>
+        <p>Sa diligence est necessaire,</p>
+        <p>Il fait bien de doubler le pas ;</p>
+        <p>Pour arriver au merite d'un Pere</p>
+        <p>Que toute la France revere</p>
+        <p>Il est fort à propos qu'il ne s'endorme pas,</p>
+        <p>Il a bien du chemin à faire. »</p>
+      </div>
+</body>
+  </text>
+</TEI>

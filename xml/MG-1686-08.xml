@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, août 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-08/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>août 1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-08_043">
+        <head>MG-1686-08_043</head>
+        <bibl>Mercure Galant, août 1686, p. 43-48</bibl>
+        <p>Ballade</p>
+        <p/>
+        <p>Il est agréable de pouvoir chanter sur toutes sortes de tons. C'est ce que fait Mr du Perier. S'il réussit admirablement dans le sérieux, vous allez connoistre qu'il ne réüssit pas moins dans un autre stile. L'Illustre Madame des Houlières, dont vous aves admiré les excellentes Ballades, l'ayant prié d'en faire une, il luy envoya celle qui suit. Il pouvoit choisir un autre refrein, puis qu'on ne s'apperçoit pas qu'il ait contraint son génie dans un Ouvrage de cette nature.</p>
+        <p/>
+        <p>BALADE</p>
+        <p>A MADAME</p>
+        <p>DES HOULIERRES</p>
+        <p/>
+        <p>Quelle Musette, ou quel tendre pipeau</p>
+        <p>Peut égaler les accens de Climène ?</p>
+        <p>Bien elle fait &amp; Balade &amp; Rondeau,</p>
+        <p>Chants qui soudain me feroient perdre haleine,</p>
+        <p>Ce qui me met dans une étrange peine,</p>
+        <p>Car elle veut qu'aujourd'huy je l'étreine</p>
+        <p>D'une Balade, Air Plaisant, quoy que vieux,</p>
+        <p>Mais peu sçavant en pareille harmonie,</p>
+        <p>Je luy répons ; noble Dame aux doux yeux,</p>
+        <p>Point on me doit contraindre son Génie.</p>
+        <p/>
+        <p>Tel que pressé d'un pénible fardeau</p>
+        <p>Le grand Jupin fit pour la Gent Humaine</p>
+        <p>Par rudes coups sortir de son cerveau</p>
+        <p>Docte Déesse, &amp; des Arts Mère &amp; Reine ;</p>
+        <p>Pourray-je bien pour l'aimable Sireine</p>
+        <p>Qui m'a charmé, produire de ma Veine</p>
+        <p>Chants aussi doux que ses Chants gracieux ?</p>
+        <p>Non, de l'oser seroit pure manie,</p>
+        <p>Le jeune Icare ainsi tomba des Cieux ;</p>
+        <p>Point on ne doit contraindre son génie.</p>
+        <p/>
+        <p>Sur Hélicon, où maint sçavant Troupeau</p>
+        <p>Sous verts Lauriers à pas lens se promène,</p>
+        <p>Et vient puiser feu divin dans cette eau</p>
+        <p>Que d'un cheval fit ruade soudaine</p>
+        <p>Jaillir d'un roc, &amp; nommer Hippocrène,</p>
+        <p>Phébus départ de son docte Domaine</p>
+        <p>Trompettes, Luts, Pipeaux délicieux,</p>
+        <p>Il donne à l'un ce qu'à l'autre il dénie,</p>
+        <p>Et dit à tous ces Vers sententieux,</p>
+        <p>Point on ne doit contraindre son Génie.</p>
+        <p/>
+        <p>Bien qu'en faveur de mon doux Chalumeau,</p>
+        <p>De beaux esprits fameuse Quarantaine</p>
+        <p>Ait décidé d'un prix rare &amp; nouveau,</p>
+        <p>Quand de Louis, qu'Alger, Tunis &amp; Gène</p>
+        <p>Virent punir entreprise trop vaine,</p>
+        <p>J'eus publié puissance souveraine,</p>
+        <p>Maintien, témoin qu'il est du sang des Dieux,</p>
+        <p>Valeur, clémence, &amp; paresse infinie,</p>
+        <p>Lyre &amp; Clairon me duisent encor mieux</p>
+        <p>Point on ne doit contraindre son Génie.</p>
+        <p/>
+        <p>ENVOY</p>
+        <p/>
+        <p>Voilà pourtant Balade ronde &amp; pleine,</p>
+        <p>Reçoy la bien, Dame, qui sur la Seine</p>
+        <p>Fais oüir chant enjoué, sérieux,</p>
+        <p>Tendre, héroïque, &amp; digne d'Uranie ;</p>
+        <p>Quant est de moy, je publie en tous lieux,</p>
+        <p>Point on ne doit contraindre son Génie.</p>
+      </div>
+
+<div xml:id="MG-1686-08_051">
+        <head>MG-1686-08_051</head>
+        <bibl>Mercure Galant, août 1686, p. 51-53, 55-65, 67, 73</bibl>
+        <p>Lettre de Venise touchant les grands divertissements donnez par M le duc de Hanover</p>
+        <p/>
+        <p>[Cet article reproduit une lettre, datée du 5 juillet, adressée « à une Dame de Hanovre » par le témoin d'une « Regatte donnée par le duc de Hanover à Venise le 25 juin»]</p>
+        <p/>
+        <p>Puisque que je me suis engagé à vous faire une Relation de la magnifique Regatte de Venise, il est juste que je tienne parole, mais n'attendez rien de moy qui réponde à la grandeur d'un Spectacle, qui pendant six heures a charmé tous ceux qui s'y sont trouvez. [...] Il est bon d'abord de vous expliquer ce que veut dire Regatte. C'est une espèce de divertissement qui ne se peut donner qu'à Venise, qui toute singulière dans sa situation, dans sa politique, &amp; dans son Gouvernement, se fait des plaisirs de mesme nature. On peut nommer celuy-cy un Carousel sur les eaux, où l'on propose des Prix pour ceux ou celles (car les Femmes qui veulent vaincre partout, y sont recües) qui par une adresse légitime arrivent avant les autres au but proposé. [...] Il me suffit de vous dire que l'on fit onze Regattes, ou Courses différentes, &amp; que pour chacune il y avoit quatre Prix. [...]</p>
+        <p/>
+        <p>Vous remarquerez que le lieu où cette Course se fit, est un Canal d'une largeur considérable, &amp; dont la longueur est de plus de deux milles d'étendüe. Il traverse en serpentant cette grande Ville, dont tous les Palais sont entourés d'eau, &amp; paroissent comme autant de Forteresses. [...] mais ce qui me parut le plus surprenant, c'est que ce Canal, bordé d'une infinité de magnifiques Palais, avoit toutes ses Fenestres &amp; tous ses Balcons, qu'on dit qui se montent à soixante &amp; quatre mille, garnis de Tapis d'or &amp; de soye, &amp; remplis de Dames tant Vénitiennes qu'Etrangères, qui par leur Beauté &amp; leurs galans ornemens donnoient un grand éclat à Feste.[...]</p>
+        <p>L'heure de dix-huit avoit esté assignée pour commencer la Regatte, &amp; dans ce temps la grande Machine qui avoit vogué deux heures le long du Canal, &amp; sur le bord de laquelle estoient plantées les Banderoles que l'on devoit donner aux Vainqueurs, se rendit devant le Palais Foscari. [...] Cette immense &amp; somptueuse Machine que douze Syrènes précédoient, estoit tirée par un pareil nombre de Chevaux Marins, qui portoient sur leur dos de petits Garçons vestus de Toile d'argent, &amp; qui nageant sur les eaux sans que l'on pust découvrir ce qui les faisoit mouvoir, ne causoient pas moins d'admiration que de surprise. Elle faisoit voir une manière de Conque Marin, dans laquelle estoit un Dauphin portant sur son dos Neptune armé de son Trident. Ce Dauphin jetta une fontaine d'eau pendant la Course, aussi bien que vingt-quatre Syrènes qui ornoient le tour de la Machine. Sur sa prouë s'élevoit une Baleine d'une grandeur surprenante, qui jettoit aussi des eaux en si grande quantité, que les Barques que la curiosisté faisoit approcher de trop près, les Chevaux Marins qui la tiroient avec des Cordons de soye, &amp; les Syrènes qui l'escortoient par honneur, en estoient toutes couvertes. Dans ses concavitez étoient placez les Hautbois, les Flûtes douces, &amp; les Trompettes, qui tour à tour poussoient dans les airs leur différente harmonie, &amp; qui par cette diversité de Concerts, ne ravissoient pas moins les oreilles, que la beauté &amp; la nouvelle invention de cette Machine surprenoit les yeux. Elle estoit accompagnée de six Peotes que M. le Duc de Hanovre avoit fait faire, &amp; qui estoient autant de petits Triomphes. [...]</p>
+        <p>La première de ces six Peotes représentoit le Triomphe de Mars. [...] Les Rameurs, aussi bien que les Trompettes qui annonçoient sa venüe estoient vestus en Guerriers, d'étofes très-riches d'or &amp; d'argent &amp; de soye, &amp; avoient le casque sur la teste.</p>
+        <p>Sur la seconde paroissoit un Marais environné de roseaux dorez &amp; argentez, parmy lesquels estoit un très grand nombre d'Oiseaux maritimes, qui les ailes ouvertes sembloient estre prests d'aller annoncer à toute la Terre les prérogatives de la République. Les Rameurs &amp; les Trompettes avoient leurs habits couverts de plumes incarnates &amp; blanches, &amp; leur coëfure représentoit un bec d'Oiseau de proye.</p>
+        <p>La troisième Peote estoit le Triomphe de Diane. [...] Les Trompetes &amp; les Rameurs avoient les habits de Nimphes, tels que l'on donne à celles qui accompagnent Diane au fond des Forests. [...]</p>
+        <p>La sixième estoit un Grotesque, ayant un Triton sur la Poupe, &amp; sur la Prouë un Dragon marin. Ses Rameurs &amp; ses Trompettes estoient cuverts d'écailles, argent &amp; vert. [...]</p>
+        <p>La Feste, qui comme je vous l'ay déjà marqué, dura fort longtemps, se termina par les Banderoles que les Vainqueurs vinrent recevoir sur le bord de la Machine, &amp; par le distribution des Prix.</p>
+      </div>
+
+<div xml:id="MG-1686-08_103">
+        <head>MG-1686-08_103</head>
+        <bibl>Mercure Galant, août 1686, p. 103-105</bibl>
+        <p>Galanterie</p>
+        <p/>
+        <p>L'Opéra qui fait icy un de nos plus agréables divertissemens, ne plaist pas moins à Marseille, où vous sçavez qu'il est étably depuis peu d'années. Plusieurs Personnes estimées pour la Danse &amp; pour le Chant, partirent ces derniers jours dans le dessein de s'y rendre, &amp; on ne doit pas douter que cette augmentation n'y fasse goûter de nouveaux plaisirs. [...]</p>
+        <p/>
+        <p>[Ainsi débute l'histoire galante et la louange en vers intitulée « A Iris », d'un gentilhomme de Provence qui marquant « beaucoup de chagrin de ne pouvoir joüir [des plaisirs] de Marseille », se plaint « du malheur qu'il a d'estre éloigné d'une Dame d'une fort grand mérite chez qui il y a un concours continuels de gens choisis, tant de la Ville, que personnes Etrangères ».]</p>
+      </div>
+
+<div xml:id="MG-1686-08_113">
+        <head>MG-1686-08_113</head>
+        <bibl>Mercure Galant, août 1686, p. 113-124</bibl>
+        <p>Cérémonie faite à Rome</p>
+        <p/>
+        <p>Rome que l'on appelle la Sainte, soûtient ce glorieux titre dans toutes les occasions de piété. Il n'y a point de lieu au Monde, où l'on voye plus d'Assemblées &amp; de confrairies publiques. Chacune à son Habit particulier, ses Exercices de dévotion, &amp; les Festes solemnelles, &amp; quand il s'agit de célébrer quelques-unes, elles cherchent à l'envy à se distinguer par quelque action de magnificence. Telle a esté cette année l'émulation des Confrères du Scapulaire de l'Ordre de nostre Dame des Carmes. Cette Confrairie établie dans l'Eglise de saint Silvestre &amp; de S. Martin des Monts, est fort ancienne, &amp; l'une des plus célèbres de Rome, tant par le grand nombre, que par l'éminente qualité des Confrères. [...] [Ils] choisirent pour leur Solemnité le Dimanche 28 [du mois de juillet]. Elle fut annoncée dès le matin par le bruit des Boëtes, &amp; par le son des Trompetes &amp; des cloches. Il y eut à la Grand'Messe &amp; aux Vespres deux Choeurs de Musique &amp; d'instrumens, &amp; l'on distribua des Médailles bénites du S. Père à tous ceux qui firent leurs Dévotions. Toutes choses ayant ésté disposées pour la Procession, qu'on peut nommer générale [...] [Suit la description de ce cortège composé tant des cardinaux et de leurs estafiers ou prélats, que des grands seigneurs et du peuples.] Elle sortit sur les six heures du soir de l'Eglise de S. Martin des Monts des Religieux des Carmes de la Grande Observance [...] &amp; se rendit à une heure de nuit à l'Oratoire de la Confrairie, bâty dans le Quartier de l'Eglise des douze Apostres [...] D'abord parurent les Guidons de la Confrairie ; des Lanternes vitrées, éclairées par des flambeaux de cires ; trois Tambours &amp; six Trompettes, qui portaient les armes &amp; la livrée de M. le Cardinal Alfieri. Ensuite marchoient deux à deux, [...] les Estafiers des Prélats, &amp; ceux que les Cardinaux avoient envoyez. [...] Après venait la bannière portée par six serviteurs de la Confrairie, [...] qui estoit suivie de cent Confrères Bourgeois tenant chacun un Flambeau, &amp; vestus en Pénitens. Ils précédoient une autre grande Croix de bois doré, portée par cinq Gentilhommes, environnez de Tambours, de Fifres, &amp; de Trompetes, aux Armes de Mr le Cardinal Protecteur. Les Religieux Carmes du Couvent de S. Martin, &amp; des autres Couvens de la Ville sous leur Croix &amp; leurs Bannières, suivoient deux à deux un Cierge à la main, avec leurs habits bruns &amp; leurs Manteaux blancs. Le Crucifix de la Confrairie marchoit après eux au milieu d'un Choeur de Musique, précédé de vingt-quatre grands Phanaux dorez. [...] Trois Prélats portoient alternativement le Crucifix, &amp; ils estoient escortez de plus de deux cens Gentilshommes de la première Noblesse de la Ville, vestus en Confrère, &amp; tenant aussi chacun un Flambeau de cire blanche. Leur train qui les suivoit ou les précédoit, augmentoit l'éclat &amp; la majesté de cette marche. Cinquante nouveaux Confrères paroissoient ensuite, portant des Flambeaux dans des chandeliers dorez de la hauteur d'un premier étage. Après eux venoit un autre Choeur de Musique, qui précédoit la grande Machine sur laquelle estoit posée l'Image de la Vierge. [...] Mr le Cardinal Alfieri suivit en rang de Premier Confrère, n'ayant pour toute marque de sa Dignité que le seul Chapeau. [...] Tout ce que je vous dis de cette Cérémonie, est tiré d'une Lettre écrite de Rome par M. de Chassebras du Breau à M. le Duc de Saint Aignan.</p>
+      </div>
+
+<div xml:id="MG-1686-08_177">
+        <head>MG-1686-08_177</head>
+        <bibl>Mercure Galant, août 1686, p. 177-181</bibl>
+        <p>Cérémonie faite en la Ville de Luxembourg</p>
+        <p/>
+        <p>[Cet article rend compte de la cérémonie organisée par les Récollets de Luxembourg le 5 juillet, date anniversaire de la mort du bienheureux Pierre de Luxembourg] fils de Guy Comte de Saint Paul, &amp; de Mathilde de Chastillon. Il fut fait cardinal par Clément VII, Pape à Avignon en 1386 &amp; mourut l'année suivante en odeur de sainteté, âgé seulement de dix-huit ans. Quelques Autheurs ont écrits qu'il a fait jusqu'à trois mille miracles. [...] Le Père Olivier Juvernay, Gardien [du Couvent des Récolets], fameux pas ses Prédications, jugea à propos de commencer cette Feste par une Messe solemnelle &amp; ce fut Mr l'Abbé de Munster qui officia [...] La beauté de la Symphonie répondit à celle des Voix qui estoient fort en fort grand nombre. [...] A la fin de la Messe le Père Gardien fit le Panégyrique du Bien heureux &amp; prit pour son Texte ce Verset du quatrième Pseaume Scitote quoniam mirificavit Dominus Sanctam suum. [...] On [avait] fait faire un Buste [du Bien heureux] très bien travaillé, qui fut ensuite porté en Procession. [...] La Cérémonie du matin fut terminée par le Te Deum que l'on chanta solemnellement, &amp; après lequel on donna la Bénédiction. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-08_211">
+        <head>MG-1686-08_211</head>
+        <bibl>Mercure Galant, août 1686, p. 211-213</bibl>
+        <p>On peut en voir la Liste [des récits de basse de Bacilly] dans le second Recüeil de ses Airs Bachiques, qu'on vend chez le Sr de Luynes, &amp; autres Libraires du Palais, avec tous les Livres tant de sa composition que celle du fameux Mr Lambert, auquel il a adressé depuis une Lettre en Vers &amp; en Prose, pour remerciment de l'estime particulière qu'il témoigne faire de luy en toutes sortes de rencontres. En effet la manière dont Mr Lambert en parle, fait assez connoistre qu'il luy trouve tout ce qu'on peut désirer dans un parfait Maistre de Chant en toutes circonstances. Je ne vous répète point ce que je vous ay déjà dit de son Premier Livre de l'Art de Chanter, si vanté non seulement des Musiciens, mais encore de ceux qui faisant profession de parler en public, ont besoin de bien sçavoir la prononciation &amp; la quantité qu'il a establie sur les Sillabes des mots qui se rencontrent dans le chant François, &amp; dans la déclamation. Vous sçavez combien les deux Livres de ses Airs Spirituels sont estimez. Les Préfaces qu'il y a mises font voir la diffèrence qu'il y a entre un Air &amp; un Chant Spirituel, qui d'ordinaire n'étoit qu'un Cantique ou Motet François, au lieu que ses Airs outre la modulation, ont un agrément que d'autres que luy auroient peine à leur donner.</p>
+      </div>
+
+<div xml:id="MG-1686-08_285">
+        <head>MG-1686-08_285</head>
+        <bibl>Mercure Galant, août 1686, p. 285-286</bibl>
+        <p>Tragédie</p>
+        <p/>
+        <p>Ces jours passez on représenta dans la Court du Collège de la Marche, une Tragédie intitulée, Le Triomphe de la Religion, qui précéda la distribution des Prix. Le succez en fut fort grand. Comme cette Pièce estoit moitié Latine &amp; moitié Françoise, tout le monde eut de quoy se satisfaire. Il y eut pour Intermède un Ballet qui avoit rapport avec la Tragédie, &amp; où le Comique &amp; le sérieux estoient joints avec grand art. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-08_295">
+        <head>MG-1686-08_295</head>
+        <bibl>Mercure Galant, août 1686, p. 295-296</bibl>
+        <p>Feste de S. Louis célébrée au Louvre</p>
+        <p/>
+        <p>Dimanche dernier 25 de ce mois, Mrs de l'Académie Françoise célébrèrent à leur ordinaire la Feste de S. Louis au Louvre. Ils se trouvèrent en fort grand nombre à cette Cérémonie, à laquelle M. l'Archevesque de Paris, qui est aussi de leur Corps, assista avec les marques de sa Dignité [...] Le reste de l'Assemblée estoit composé de quantité de personnes considérables par leur mérite &amp; par leur naissance. M l'Abbé de la Vau, présentement Directeur de la Compagnie, célébra la Messe, pendant laquelle il y eut une excellente Musique, de la composition de Mr Oudot. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

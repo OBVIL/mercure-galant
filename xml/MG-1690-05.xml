@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-05_101">
+        <head>MG-1690-05_101</head>
+        <bibl>Mercure galant, mai 1690, p. 101-103</bibl>
+        <p>Code secret pour communiquer à distance.</p>
+        <p/>
+        <p>Avec une bonne trompette que le commun appelle parlante, avertissez premierement vostre Ami par quelque chanson, ou autre parole, de se préparer à vous écouter, &amp; quand vous aurez connu par le bruit de sa trompette, ou par quelque autre signal, qu'il est préparé, prononcez fortement &amp; bien distinctement la valeur des chifres de chaque classe, en parlant ainsi, Quatre mille cent dix, &amp; un moment aprés prononcez aussi ces mots bien articulez, Deux mille trente, puis prononcez Mille six cens quarante-six, puis cinq mille soixante &amp; neuf, &amp;c. Vostre Ami écrira en mesme temps en chifres les mêmes nombres à mesure que vous les prononcerez par paroles ; &amp; ainsi il trouvera avoir écrit tout de suite le nombre 4. 1. 10. 20. 30. 1. 6. &amp;c. que par le mot du guet, 28a die Februarii 1690. il interpretera &amp; trouvera signifier les trois mots Comier, Aveugle Roial.</p>
+      </div>
+
+<div xml:id="MG-1690-05_224">
+        <head>MG-1690-05_224</head>
+        <bibl>Mercure galant, mai 1690, p. 224-225</bibl>
+        <p>Pompe funèbre de la dauphine à Saint-Denis, le 1er mai 1690.</p>
+        <p/>
+        <p>[...] le Corps &amp; les Entrailles furent portez dans l'Eglise par les gardes du Corps, qui les poserent sur une estrade dressée au milieu du Choeur. Il estoit tendu de noir, ainsi que la Nef, avec des lez de velours chargez d'Ecussons. Lors que le corps fut posé, on fit les aspersions &amp; encensemens, &amp; la Compagnie ayant pris ses places, les Religieux commencerent les Prieres. Aprés qu'elles furent achevées, Mr l'Evesque de Meaux celebra la Messe, qui fut chantée par les Religieux, &amp; ensuite on fit de nouveau les encensemens &amp; les aspersions.</p>
+      </div>
+
+<div xml:id="MG-1690-05_225">
+        <head>MG-1690-05_225</head>
+        <bibl>Mercure galant, mai 1690, p. 225-227</bibl>
+        <p>Etablissement d'une congrégation faite à Bordeaux.</p>
+        <p/>
+        <p>Le 7. de ce mois, Mr l'Abbé Bardin, Principal du College de Guienne, par un effet de sa pieté ordinaire, fit faire l'ouverture de l'establissement d'une Congregation, à l'honneur des Grandeurs de la Vierge. La Messe fut celebrée dans la Chapelle du College, par Mr l'Abbé Darche Doyen de l'Eglise Metropolitaine St André. Il y avoit une excellente Musique meslée d'Instrumens, de la composition de Mr Blanche, Maistre de Musique de l'Eglise de Saint Severin. Le Pere de la Case prescha avec beaucoup d'éloquence, &amp; aprés les Vespres, chantées aussi en Musique, on fit la Procession du Saint Sacrement dans la court du College. Le Corps de Ville y assista avec les Jurats, accompagnez de leurs Hallebardiers, &amp; cette Feste finit par la Benediction, qui fut donnée dans une tres-belle Chapelle qu'on avoit preparée dans la mesme court, à cause du concours extraordinaire de monde.</p>
+      </div>
+
+<div xml:id="MG-1690-05_317">
+        <head>MG-1690-05_317</head>
+        <bibl>Mercure galant, mai 1690, p. 317-320</bibl>
+        <p>Divers couplets de Chanson sur le départ de Monseigneur.</p>
+        <p/>
+        <p>Je vous envoye des Vers qui ont esté faits un peu avant le départ de Monseigneur le Dauphin, &amp; dont les pensées sont fort agreables. Ils se chantent sur l'Air de Jean de Wert.</p>
+        <p/>
+        <p>Partez jeune &amp; vaillant Heros,</p>
+        <p>La gloire vous appelle.</p>
+        <p>Devant vous le Roy des Oiseaux</p>
+        <p>Ne battra que d'une aisle :</p>
+        <p>Vous ferez voir aux Allemans</p>
+        <p>Qu'on sçait les vaincre comme au temps</p>
+        <p>De Jean de Wert, &amp;c.</p>
+        <p/>
+        <p>A vostre aspect ils diront tous,</p>
+        <p>Evitons sa colere ;</p>
+        <p>Il va faire tomber sur nous</p>
+        <p>Le foudre de son Pere.</p>
+        <p>Nos efforts seront impuissants</p>
+        <p>De mesme qu'ils l'estoient au temps</p>
+        <p>De Jean de Wert, &amp;c.</p>
+        <p/>
+        <p>Ils sçavent par vos premiers coups</p>
+        <p>Que tout vous est facile ;</p>
+        <p>Ils vous fuiront comme les Loups,</p>
+        <p>Sans trouver un azile :</p>
+        <p>Et mettant tous les armes bas,</p>
+        <p>Ils feront comme les Soldats</p>
+        <p>De Jean de Wert ; &amp;c.</p>
+        <p/>
+        <p>Vos guerriers pour vous pleins d'amour,</p>
+        <p>Ne cherchent qu'à combattre !</p>
+        <p>Ils vont ainsi qu'à Philisbourg</p>
+        <p>Faire le Diable à quatre.</p>
+        <p>Ils porteront par tout la mort ;</p>
+        <p>Heureux qui n'aura que le sort</p>
+        <p>De Jean de Wert, &amp;c.</p>
+        <p/>
+        <p>La Ligue de tant d'Ennemis</p>
+        <p>Qui contre vous s'assemblent,</p>
+        <p>Tiendra mal ce qu'elle a promis,</p>
+        <p>Quand vous marchez ils tremblent ;</p>
+        <p>Vous n'irez point aux champs de Mars</p>
+        <p>Sans donner des Loix aux Cesars</p>
+        <p>de Jean de Wert, &amp;c.</p>
+        <p/>
+        <p>C'est ce qu'on attend de vos faits</p>
+        <p>Pendant cette Campagne,</p>
+        <p>Vous ferez demander la Paix</p>
+        <p>Aux Princes d'Allemagne,</p>
+        <p>Et par vous on verra LOUIS</p>
+        <p>Triompher de tout le Pays</p>
+        <p>De Jean de Wert, &amp;c.</p>
+      </div>
+</body>
+  </text>
+</TEI>

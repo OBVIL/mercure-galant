@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre, deuxième partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-09b/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, septembre, deuxième partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-09b_013">
+        <head>MG-1688-09b_013</head>
+        <bibl>Mercure galant, septembre 1688, deuxième partie, p. 13-315</bibl>
+        <p>Monseigneur partit de Versailles le Dimanche 22. d'Aoust, &amp; arriva dans la Forest de Chantilly par le chemin de Lusarche. Monsieur le Duc, &amp; Monsieur le Prince de Conty le receurent au bout de la Forest vers le milieu de la vieille route. Comme c'estoit le lieu où Monseigneur devoit chasser, Monsieur le Prince y estoit pour luy faire commencer sa chasse. Il prit ce divertissement jusqu'à cinq heures du soir, &amp; le plaisir qu'il y trouva fut d'autant plus grand, qu'il vit s'élever quantité de perdreaux &amp; de faisandeaux. Ainsi, comme la chasse avoit fait former le dessein du voyage de Chantilly, parce que c'est le plus beau lieu du monde pour chasser, ce fut le premier plaisir que Monseigneur prit en approchant de cette delicieuse Maison. Il alla jusques au lieu nommé la Table, qu'on dit estre justement au milieu de la Forest, toûjours accompagné de Monsieur le Prince. La figure de ce lieu est ronde. Il a vingt-trois toises de diametre, &amp; est partagé en douze routes, qui ont pour centre le point du milieu de cette Place. [...] On mit sur cette table le couvert de Monseigneur vis à vis le milieu de la route qui va à Chantilly. Tout le pourtour de cette Place de vingt-six toises de large, estoit de treillage de feüillée, &amp; orné de portiques aussi de feüillée, au travers desquels on découvroit toutes les routes. Monseigneur entendit en arrivant un concert de Timbales, &amp; de Trompettes qu'on avoit postez dans le Bois à une distance mesurée, afin que l'harmonie étant un peu éloignée eust plus de douceur. [...] Un moment après que l'on eut servy le fruit, le bruit de guerre formé par les Trompettes &amp; par les Timbales cessa tout à coup, &amp; dans le mesme instant on entendit dans la route qui estoit vis à vis de Monseigneur une harmonie de Hautbois, de Flûtes, de Musettes, &amp; de divers autres Instrumens champestres. On l'écouta quelque temps sans voir rien paroistre, &amp; tout estoit si bien concerté, &amp; exécuté avec tant d'ordre &amp; tant de justesse, qu'il n'y avoit pas une seule personne dans la route qui devoit estre remplie un moment après. L'harmonie ayant diverty les oreilles, &amp; inspiré de la joye pendant quelque temps, on apperceut de loin le Dieu Pan qui étoit suivy par quatre-vingt-dix Faunes, Sylvains, Satyres, &amp; autres Divinitez, qui ont accoûtumé d'accompagner ce Dieu dans les bois. Toute cette troupe parut d'abord à un demy quart de lieuë de la Table, &amp; ne se mit en marche qu'après que Monseigneur eut eu [sic] le temps de la remarquer. Le Dieu Pan que l'on voyoit à la teste, estoit representé par M. de Lully, Surintendant de la Musique du Roy, qui battoit la mesure avec son Thirse. Il estoit suivy de vingt-quatre Satyres, &amp; de toutes les Divinitez qui habitent les Forests. On entendoit des Hautbois, des Musettes, &amp; plusieurs autres Instrumens champestres, au son desquels se faisoit la marche. Leur diversité formoit une harmonie tres-agreable, &amp; le nombre de ces Joüeurs d'Instrumens estoit si grand qu'il remplissoit trois lignes. Les Musiciens avec le reste de la suite du Dieu Pan, marcherent sur ces trois lignes avec beaucoup d'ordre, &amp; sans aucune confusion. Les Danseurs au nombre de vingt &amp; un, qui avoient tous des massuës, estoient montez sur les épaules les uns des autres, &amp; formoient des Groupes surprenans. En effet, il y avoit de quoy s'étonner qu'en formant ces sortes de Groupes ils se pussent tenir aussi fermes que si chacun d'eux eust esté à terre. Ils estoient suivis de cinquante-un Musiciens, qui portoient chacun sur leur teste une corbeille remplie de fruits feints, representant des fruits de bois, comme pignons, pommes de pin, Gourdes, &amp; autres qui ne sont connus que parmy les Satyres. Ils tenoient chacun une branche de chesne. Cette nombreuse Troupe s'étant avancée vers le bout de l'allée le plus proche de Monseigneur, les Joüeurs de Hautbois se rangerent des deux côtés de l'escalier qui montoit à la Table de ce Prince, &amp; quand ils furent placez, les Danseurs executerent parfaitement bien ce qu'ils avoient concerté, qui estoit de descendre pour danser, &amp; de paroître neanmoins toûjours groupez. Pour cet effet ceux qui estoient les plus élevez sautoient en cadence de quatre mesures en quatre mesures, &amp; comme il n'en sautoit que trois à la fois, on en voyoit toûjours trois qui formoient la mesme figure que les trois premiers. Ainsi l'Allée fut toûjours remplie jusqu'à ce que les trois derniers eussent fait la mesme figure que les trois premiers. Les cinquante-un Musiciens qui suivoient, avancerent jusqu'aux environs du lieu où les Satyres groupez venoient de finir leur danse, &amp; ayant passé sous le portique de l'avenuë où ces Satyres estoient, ils se placerent sur un terrain, que l'on avoit gazonné depuis le portique de la route jusqu'à l'escalier. Quand chacun eut pris sa place, on joüa un Air d'un autre mouvement, sur lequel tous les Faunes, &amp; les Satyres firent une danse fort extraordinaire. Elle plut beaucoup à Monseigneur, &amp; receut de grands applaudissemens. Cette danse, qu'on pourroit nommer un petit Ballet, estant finie, les Musiciens avancerent vers l'escalier, qu'ils monterent sur deux lignes au son des Instrumens, &amp; lorsqu'ils furent arrivez sur l'estrade, ils se separerent les uns à droite, &amp; les autres à gauche, de maniere qu'ils entourerent la table. Ceux qui portoient les corbeilles suivirent, &amp; les placerent sur des gueridons de feüillée qui estoient sur les appuis des portiques. Les Hautbois parurent après, &amp; les Danseurs monterent ensuite. Ceux-cy s'estant pris par la main danserent autour de Monseigneur, sur un Air qui estoit tout different des deux derniers qu'on venoit d'entendre, &amp; qui sembloit marquer l'excès de la joye qu'on ressentoit en ces lieux de la presence de ce Prince. Pendant qu'on dansoit autour de la table, les Musiciens descendirent par un escalier qui estoit derriere Monseigneur, &amp; se rendirent dans une Allée que l'on voyoit à côté de celle par où tout ce divertissement estoit venu. Ils y trouverent les Piqueurs endormis avec leurs chiens. La Danse finit justement en ce temps-là, comme il avoit esté concerté, &amp; les Musiciens chanterent un morceau de Musique de feu M. de Lully, qui paroissoit avoir esté fait exprés pour la situation où se trouvoient les choses dans ce moment. On entendit alors toute la Forest retentir du bruit de ces paroles.</p>
+        <p>Debout, Lysiscas, hola debout,</p>
+        <p>Pour la chasse ordonnée</p>
+        <p>Il faut préparer tout.</p>
+        <p>Les Piqueurs se leverent après avoir fait toutes les actions qui pouvoient marquer qu'ils estoient profondement assoupis, &amp; qu'ils n'avoient esté réveillez que par ceux qui les appelloient, en leur disant qu'ils allassent preparer tout pour la Chasse que l'on avoit ordonnée. On entendit ensuite un grand bruit de Cors, &amp; dans cet instant un Cerf ayant traversé la route à la vûë de Monseigneur, ce Prince s'écria comme souhaitant d'avoir des chiens. [...]</p>
+        <p>Cette Chasse estant finie, Monseigneur prit le chemin du Chasteau, &amp; dit en parlant du Repas &amp; du Divertissement du milieu de la Forest, que tout y estoit plein d'invention, &amp; fort bien executé ; que cela pouvoit passer pour un divertissement complet, &amp; qu'il y avoit pris beaucoup de plaisir. Les Airs estoient de M. de Lully le Cadet, Surintendant de la Musique du Roy, &amp; toute la Danse de M. Pecourt, Danseur ordinaire des Balets de Sa Majesté. Toutes les Divinitez des Forests, ainsi que les Faunes, les Sylvains, &amp; les Satyres qui composoient leur suite, avoient des habits faits exprés qui les representoient naturellement, plûtost comme on a accoûtumé de les peindre, que comme on les voit habillez sur le Theatre. Ces habits estoient faits sur les desseins de M. Berrain, Dessinateur ordinaire du Cabinet du Roy, ainsi que toute la feüillée. Ce qu'il y eut de surprenant dans les plaisirs de cette premier journée, c'est que Monseigneur avant que d'arriver à Chantilly, où il sembloit que les Divertissemens deussent seulement commencer, avoit eu le plaisir de deux Chasses differentes, un grand repas dans un lieu construit exprés, &amp; une Feste complete accompagnée de Musique, de simphonie, &amp; de danses, &amp; le tout executé par tout ce qu'il y a de meilleures Voix, &amp; de plus habiles Danseurs en France. C'est ce qui ne s'estoit encore jamais vû dans aucune occasion semblable, &amp; ce que le zele de Monsieur le Prince luy fit inventer, Son Altesse Serenissime ne pouvant attendre que Monseigneur fust arrivé à Chantilly ; pour commencer à luy témoigner la joye qu'Elle avoit d'y voir venir ce Prince. [...]</p>
+        <p>A l'issuë de la promenade Monseigneur alla voir l'Opera, que Monsieur le Prince avoit fait faire exprés, Son Altesse Serenissime ne voulant point donner de divertissement qui eust esté déjà vû. Le lieu mesme fut construit pour ce seul Spectacle, &amp; Monsieur le Prince ayant choisi l'Orangerie de Chantilly qui regne tout le lond du parterre, avec une terrasse magnifique, dit à M. Berrain d'y construire non seulement un theatre, mais aussi une Salle magnifique. L'Orangerie a 70. toises de long, &amp; vingt-sept pieds de large. M. Berrain la divisa en trois parties separées par des Portiques d'architecture, sans y comprendre le Vestibule par où l'on y entre, &amp; duquel on voyoit cette longue étenduë eclairée de deux rangs de Lustres, que les grands Portiques qui servoient d'entrées à ces differentes Salles, laissoient voir distinctement. Il seroit difficile de trouver rien de plus magnifique, &amp; dont les ornemens fussent plus diversifiez. Plus on approchoit, plus on voyoit que la magnificence alloit toûjours en augmentant, la derniere Salle estant infiniment plus riche que la premiere, &amp; le theatre encore davantage. [Suit une description du vestibule puis d'un portique qui donne sur une galerie proche de la salle de l'opéra.]</p>
+        <p>Au bout de cette galerie on voyoit un Portique pareil à celuy par lequel on estoit entré. On montoit trois marches sous ce dernier Portiques pour entrer dans la troisiéme piece, qui estoit la Salle de l'Opera. Elle avoit cent quarante-deux pieds de long en y comprenant le Theatre &amp; l'Orchestre. L'ordre de son architecture, ainsi que celuy de la façade du Theatre, estoit Ionique-Composé. Cette Salle estoit partagée en quatorze pilastres de marbre ornez de leurs chapiteaux, &amp; de leurs bases, ainsi que de plusieurs mascarons, &amp; de quantité de festons, le tout de relief &amp; doré. Les pilastres estoient posez sur leurs piedestaux qui servoient de lambris à toute la Salle. Entre ces pilastres on voyoit des Tapisseries qui representoient des portiques d'architecture, tout relevez d'or sur un fond de velours rouge cramoisi. On avoit assujetty les espaces qui étoient entre chaque pilastre à la hauteur &amp; à la largeur des pieces de cette Tapisserie. La Corniche estoit toute de marbre &amp; de relief avec des ornemens d'or de mesme que le plafond, &amp; la façade du Theatre qui estoient du mesme ordre, mais d'un plan fort extraordinaire. Entre les pilastres des deux costez du Theatre estoient deux grandes Figures de ronde bosse, chacune de six pieds de haut. L'une representoit la Poësie, &amp; l'autre la Musique. L'Orchestre qu'on avoit fait pour la Symphonie estoit aussi d'Architecture de marbre. Cette Salle estoit si brillante &amp; si riche, qu'on ne la pouvoit d'abord regarder sans etonnement, &amp; ensuite sans admiration, quoy que l'embellissement des lieux par où l'on venoit de passer dust faire attendre quelque chose qui fust entierement magnifique. Ce fut sur ce Theatre que l'on representa l'Opera. Les Vers n'en pouvoient estre que beaux, puisqu'ils estoient de M. le Clerc de l'Academie Françoise. Ils avoient esté mis en Musique par M. Lorenzany, Maistre de Musique de la Chapelle de la feuë Reyne, dont les Ouvrages sont fort estimez, &amp; M. Pecour, avoit fait les Entrées qui composoient les divertissemens, hors deux qui estoient de M. de Lestang. Cet Opera intitulé Orontée, fut chanté par l'Academie de la Musique de Paris, &amp; il y avoit outre cela trois des meilleurs Musiciens de la Musique du Roy. L'ouverture du Theatre se fit par la representation d'une grande &amp; belle Forest que la diversité des arbres &amp; des routes faisoit paroistre fort spacieuse. Lors qu'on eut levé la toile, on vit le Dieu Pan dans le fond de cette Forest. Toute sa suite, Sylvains, Satyres, &amp; Faunes, estoient engroupez en divers endroits. Il commença le Prologue. Comme tous les Vers qu'on y chanta regardent le Roy &amp; Monseigneur le Dauphin, je ne veux pas vous priver de la satisfaction que vous aurez à les lire. Voicy ceux qui furent chantez d'abord par le Dieu Pan. C'estoit M. Moreau qui faisoit ce personnage.</p>
+        <p/>
+        <p>J'ay veu tous les regnes des Rois</p>
+        <p>Celebres par leurs exploits,</p>
+        <p>Et dans mon souvenir j'en conservois la gloire,</p>
+        <p>Mais depuis que LOUIS s'est fait voir à mes yeux,</p>
+        <p>Tous ces Mortels sortent de ma memoire,</p>
+        <p>Et je ne mets que luy dans le rang de nos Dieux.</p>
+        <p/>
+        <p>Digne Fils d'un tel Pere,</p>
+        <p>Qu'avec le Sceptre hereditaire</p>
+        <p>Il t'offre de Vertus que tu vas imiter !</p>
+        <p>Celuy dont l'Univers adoroit la puissance,</p>
+        <p>Et qui [mot illisible] flater</p>
+        <p>D'estre le Fils de Jupiter,</p>
+        <p>Seroit jaloux de ta naissance.</p>
+        <p/>
+        <p>Jeune Heros, quand je te vois</p>
+        <p>Dompter les Monstres de nos Bois,</p>
+        <p>J'augure qu'animé de l'Astre qui te guide,</p>
+        <p>Le moindre de tes exploits</p>
+        <p>Vaudra tous les travaux d'Alcide.</p>
+        <p>Ton coeur vole déjà sur des chemins ouverts</p>
+        <p>A mille triomphe divers,</p>
+        <p>Tu crois toute conqueste aisée,</p>
+        <p>Et nous voyons clairement</p>
+        <p>Que nostre Hippolite charmant,</p>
+        <p>A l'ombre de la Paix, cache un autre Thesée.</p>
+        <p/>
+        <p>Mais j'entens les concerts des Nymphes de nos bois.</p>
+        <p>Vous, Faunes, vous, Silvains,</p>
+        <p>répondez à leurs voix.</p>
+        <p/>
+        <p>Pan eut à peine achevé ces Vers, qu'une troupe de Driades &amp; d'Hamadriades se fit voir. Voicy ce que chanta une des Driades.</p>
+        <p/>
+        <p>O gloire incomparable DE LOUIS !</p>
+        <p>Les siecles seront ébloüis,</p>
+        <p>A l'éclat admirable,</p>
+        <p>De ses faits inoüis.</p>
+        <p/>
+        <p>Le Choeur ayant repeté ces Vers, un Faune chanta ceux-cy.</p>
+        <p/>
+        <p>Le souvenir charmant de ce nom si vanté,</p>
+        <p>Doit estre aussi durable</p>
+        <p>Que l'immortalité.</p>
+        <p/>
+        <p>Une Hamadriade chanta ensuite ces quatre Vers.</p>
+        <p/>
+        <p>Son Histoire incroyable</p>
+        <p>A la postérité,</p>
+        <p>Passera pour la Fable</p>
+        <p>D'une Divinité.</p>
+        <p/>
+        <p>Deux Silvains finirent par ceux-cy.</p>
+        <p/>
+        <p>Redoutable par ses armes,</p>
+        <p>Il nous charme dans la Paix.</p>
+        <p>Son Empire est sans alarmes,</p>
+        <p>Mille graces, mille charmes,</p>
+        <p>Accompagnent ses bien-faits.</p>
+        <p/>
+        <p>Le Choeur repeta.</p>
+        <p/>
+        <p>O gloire incomparable DE LOUIS !</p>
+        <p>Les siecles seront ébloüis,</p>
+        <p>A l'éclat admirable,</p>
+        <p>De ses faits inoüis.</p>
+        <p/>
+        <p>Et tout cela fut entremeslé de Danses de Driades, d'Hamadriades, &amp; de Faunes.</p>
+        <p>La Decoration du premier Acte representoit le Temple de Venus. L'Architecture estoit d'un ordre Ionique, &amp; le plan d'une forme ronde, avec quatre Portiques ou Porches, dont l'un paroissoit de face ; il y en avoit un autre en perspective avec un peristille tournant autour du Temple, dont les Corniches estoient portées par des colomnes d'Agathe, avec des chapiteaux &amp; bases d'or. Il y avoit des Statuës d'or entre les colomnes. L'Attique qui estoit sur la Corniche du Temple, portoit un Dôme orné de bandeaux, panneaux, &amp; bas-reliefs sur des fonds de marbre ; &amp; sur le haut de la rondeur du Dôme, c'estoit un couronnement de balustres &amp; de Piedestaux. La porte de ce Temple qui estoit entouré d'arbres, ne s'ouvroit qu'en certain temps, &amp; alors on voyoit le dedans tres-magnifique, &amp; un autel au milieu, Orontée Reine d'Egypte, fort resoluë de n'aimer jamais, vint chanter le triomphe de la liberté. Melisse, sa confidente, &amp; Creonte Chef de son Conseil, luy representerent inutilement qu'elle devoit choisir un Epoux digne d'elle parmy tant de Rois. Elle demeura ferme à protester qu'elle ne vouloit point entendre parler d'Hymenée, &amp; elle estoit dans ces sentimens, lors que Gelon, homme de Cour, luy vint dire qu'il avoit arraché un jeune Etranger d'entre les mains d'un assassin qui l'avoit blessé. Cet Etranger parut aussi-tost sous le nom d'Alidor, soûtenu d'Aristée sa Mere. Sa beauté, dont Gelon avoit déjà fait la peinture, toucha Orontée, qui apprit de luy que l'assassin luy avoit dit en le frapant, qu'il executoit les ordres de la Reine de Phenicie qui avoit juré sa perte. Orontée, après avoir commandé à Pharnace d'en prendre soin, sortit avec Melisse &amp; Creonte, &amp; Gelon demeura seul.</p>
+        <p>Son caractere qui a extremement pleu à Chantilly, estoit une espece d'honneste homme, se faisant un plaisir de joüir de la vie libre, &amp; de mépriser toutes les belles chimeres dont les autres hommes se font des occupations, qui les empêchent d'avoir un moment de joye &amp; de repos pendant toute leur vie. Voicy de quelle maniere il expliqua sa Philosophie agreable, après avoir vû sortir Alidor blessé.</p>
+        <p/>
+        <p>S'il estoit mort, qu'il seroit regreté !</p>
+        <p>Moy, pour rendre à jamais sa memoire celebre,</p>
+        <p>Au bruit des pots j'aurois chanté</p>
+        <p>D'un ton plaintif son Oraison funebre.</p>
+        <p/>
+        <p>Pour vivre longtemps,</p>
+        <p>Pour vivre contens,</p>
+        <p>Il n'est rien tel que de bien boire ;</p>
+        <p>Bacchus sur tous les Dieux emporte la victoire,</p>
+        <p>Son or potable enchante tous les sens,</p>
+        <p>Dissipe les chagrins &amp; chasse l'humeur noire.</p>
+        <p>Pour vivre longtemps,</p>
+        <p>Pour vivre contens,</p>
+        <p>Il n'est rien tel que de bien boire.</p>
+        <p/>
+        <p>Que le ciel me delivre</p>
+        <p>De ces Philosophes du temps,</p>
+        <p>Qui jour &amp; nuit pâlissent sur un Livre,</p>
+        <p>De ces Amoureux languissans,</p>
+        <p>De ces affamez Courtisans</p>
+        <p>Que repaist la fumée, &amp; que l'espoir enyvre.</p>
+        <p>Pour moy, je ne veux point estre esclave en amour,</p>
+        <p>Ny devenir Sçavant, ny vieillir à la Cour,</p>
+        <p>Ny mourir sotement, pour vivre dans l'Histoire.</p>
+        <p>Pour vivre longtemps,</p>
+        <p>Pour vivre contens,</p>
+        <p>Il n'est rien tel que de bien boire.</p>
+        <p/>
+        <p>Tous ceux qui ont entendu l'Opera ont donné tant de loüanges à cet endroit, en ont trouvé le tour des pensées si nouveau &amp; si brillant, les Vers si justes, &amp; d'un caractere si aisé &amp; si poly, que j'ay cru devoir vous les envoyer tels qu'ils ont esté chantez. Le Prince Lysandre estant survenu lors que Gelon exerçoit sa belle humeur, l'un parla du plaisir d'aimer, &amp; l'autre de celuy de boire. La Princesse Amasie parut ensuite, qui témoigna à Lysandre qu'elle se rendoit à son amour. Le Temple de Venus s'ouvrit, &amp; on vit une troupe d'Egyptiens, d'Ethiopiens, d'Indiens, &amp; autres Nations, qui porterent des offrandes sur l'Autel de cette Déesse. Le Choeur fit des voeux pour obtenir de l'Hymen qu'il preparast ses chaisnes pour Orontée. Voicy les Vers qui furent chantez pendant cette offrande.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Dans nos Concerts, dans nos chants d'alegresse,</p>
+        <p>Chantons Venus, nostre grande Déesse.</p>
+        <p/>
+        <p>DEUX DU CHOEUR.</p>
+        <p>Tendres Amours, pour remplir nos desirs</p>
+        <p>Bannissez les soûpirs,</p>
+        <p>Chassez la tristesse.</p>
+        <p/>
+        <p>Deux autres du Choeur.</p>
+        <p>Tendres Amours, pour remplir nos desirs</p>
+        <p>Bannissez les soûpirs,</p>
+        <p>Venez, doux plaisirs.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>O Toy, doux Hymen en ce jour,</p>
+        <p>Pour le coeur de la Reyne,</p>
+        <p>Prepare ta chaine.</p>
+        <p/>
+        <p>TRIO.</p>
+        <p>Unissons nos accords tour à tour.</p>
+        <p>Que par tout on chante,</p>
+        <p>Que par tout on vante</p>
+        <p>Venus &amp; l'Amour.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Chantons en ce jour</p>
+        <p>L'Hymen &amp; l'Amour.</p>
+        <p/>
+        <p>Il n'y eut point de nouvelle decoration au second acte, &amp; l'on y vit encore le mesme Temple. Orontée surprise du changement qui se faisoit dans son coeur, loüa les charmes du jeune Etranger, &amp; se resolvoit à mourir plûtost que de se rendre à l'amour, lors que Jacinte parut devant elle en habit d'homme, &amp; luy dit qu'ayant esté abandonnée par un Amant, elle l'avoit esté chercher à Sidon, où Irene avoit adoucy ses malheurs par ses bien faits. Elle ajoûta que les Devins ayant declaré qu'Alidor luy devoit un jour oster la Couronne, ce qui l'avoit obligé à prendre la suite, cette Reine avoit mis sa teste à prix, &amp; que voulant luy marquer son zele, après avoir esté si bien receuë dans sa Cour, elle avoit surpris Alidor, &amp; l'auroit tué d'un poignard qu'elle luy montra, si on ne l'en eust empeschée. Orontée charmée d'Alidor luy arracha le poignard, &amp; elle en alloit percer Jacinte, quand Creonte l'arresta, &amp; luy fit connoistre qu'il estoit indigne d'elle qu'elle voulust vanger Alidor. Elle chassa Jacinte de sa presence, &amp; honteuse d'avoir découvert sa passion, elle fit devant Creonte de nouvelles protestations de n'aimer jamais. Après qu'elle fut sortie, Alidor parut avec Aristée, &amp; se plaignit du malheur qui l'avoit contraint de quitter la Cour d'Irene, où il avoit vêcu avec tant de gloire depuis que la mort luy avoit ravy son Pere. Aristée luy dit que quoy qu'Hipparque eust esté autrefois Corsaire, il faisoit trembler les Rois par sa valeur, &amp; que depuis dix ans que ses Vaisseaux avoient fait naufrage, elle ne sçavoit s'il étoit vivant ou mort ; mais qu'elle ne pouvoit se défendre d'attendre beaucoup des promesses de son Astre. Amasie les interrompit pour dire à Alidor, que la Reine s'interessoit pour luy, &amp; qu'elle vouloit l'entretenir. Lors qu'elle fut seule, elle s'étonna de ce qu'elle sentoit son coeur disposé à trahir Lysandre pour se donner à Alidor, qu'elle trouvoit tout aimable, &amp; en même temps des Peuples d'Egypte mêlez d'autres Nations vinrent celebrer la Feste de Bacchus &amp; de l'Amour. Toutes leurs chansons marquerent l'envie qu'ils avoient qu'Orontée voulust leur donner un Roy. Le Choeur fit d'abord entendre ces Vers.</p>
+        <p/>
+        <p>Quand tout le Ciel à nos voeux est propice,</p>
+        <p>Charmant espoir, viens flater nos desirs.</p>
+        <p>Que nostre joye en tous lieux retentisse,</p>
+        <p>Redoublons tous nos Jeux &amp; nos plaisirs.</p>
+        <p/>
+        <p>RECIT.</p>
+        <p>Venus, enchaîne</p>
+        <p>Nostre aimable Reyne,</p>
+        <p>Tu peux finir nostre peine,</p>
+        <p>Seconde nos voeux.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Venus, enchaîne</p>
+        <p>Nostre aimable Reyne,</p>
+        <p>Seconde nos voeux.</p>
+        <p>Tes aimables noeuds</p>
+        <p>Sans cesse nous rendront heureux.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Quand tout le Ciel se fait voir si propice,</p>
+        <p>Charmant espoir, viens seconder nos voeux.</p>
+        <p/>
+        <p>DEUX DU CHOEUR.</p>
+        <p>Dans ce beau jour</p>
+        <p>Fais que tout s'accomplisse,</p>
+        <p>Venus, mene avec toy l'Amour.</p>
+        <p/>
+        <p>Deux autres du Choeur.</p>
+        <p>L'attente</p>
+        <p>D'un bien si charmant,</p>
+        <p>Enchante</p>
+        <p>Notre tourment.</p>
+        <p/>
+        <p>RECIT.</p>
+        <p>Par une douce chaîne,</p>
+        <p>En ce jour</p>
+        <p>Captive une Reyne,</p>
+        <p>Puissant Dieu d'Amour.</p>
+        <p/>
+        <p>AUTRE RECIT.</p>
+        <p>Remplis nostre attente,</p>
+        <p>Perçant de tes traits</p>
+        <p>Un coeur qui se vante</p>
+        <p>De n'aimer jamais.</p>
+        <p/>
+        <p>DEUX DU CHOEUR.</p>
+        <p>A suivre ta loy,</p>
+        <p>Engage sa foy,</p>
+        <p>Memphis veut un Roy.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Quand tout le Ciel, &amp;c</p>
+        <p/>
+        <p>Alidor seul commence le troisieme Acte, en s'applaudissant de son bonheur, de ce qu'une Reine luy donnoit asile dans sa Cour, tandis qu'une autre poursuivoit sa mort. Amasie estant survenuë luy demanda s'il venoit admirer la beauté des lieux où il estoit, &amp; il répondit que quelques charmes qu'ils eussent, il ne pouvoit avoir des yeux que pour elle. Il ajoûta qu'il vouloit l'aimer toute sa vie. Amasie receut son hommage avec plaisir, &amp; il estoit à ses genoux lors que la Reine parut. Elle reprocha à Alidor le peu de respect qu'il avoit pour elle, de venir seduire une jeune Princesse dans son Palais. Amasie sortit, &amp; Alidor ayant dit qu'il estoit bien éloigné d'aimer Amasie, après tous les maux que l'amour luy avoit causez dans la Cour d'Irene, Orontée l'assura qu'il trouveroit en elle ce qu'il avoit perdu dans cette cruelle Reyne. Alidor s'estant éloigné, elle fit connoistre qu'elle ne pouvoit plus combattre sa flamme. Dans ce moment Gelon luy vint annoncer qu'il avoit veu la Magicienne Ismenie descendre des Cieux dans un char de feu. Ismenie parut, &amp; declara à la Reyne qu'il falloit malgré son indifference qu'elle se resolust à prendre un Epoux, &amp; qu'elle alloit interroger les Manes des Rois d'Egypte, &amp; l'Ombre de Ptolomée, pour sçavoir sur qui tomberoit son choix. Alors elle frappa de sa verge un des coins du Theatre, &amp; la terre s'estant aussi-tost ouverte, les tombeaux en sortirent, &amp; s'éleverent à vingt-quatre pieds de haut. Celuy du grand Ptolomée qui s'éleva au milieu du Theatre, estoit d'un ordre Dorique &amp; d'une composition extraordinaire. Le plan étoit quarré long avec des piedestaux saillans sur chaque face &amp; dans les angles. Entre les piedestaux estoient des Statuës de marbre blanc, assises au pied d'une grande console, &amp; appuyées sur les piedestaux. Dans le milieu s'élevoit un morceau d'architecture quarré long, suivant le plan avec des pilastres &amp; des consoles sur les angles. Les Statuës montoient jusque sous la Corniche de mesme que les pilastres, entre lesquels il y avoit une grande arcade percée &amp; surbaissée, sous laquelle estoit la figure de Ptolomée de marbre blanc, assise au pied d'un Tombeau de Porphire, dont les ornemens étoient de bronze doré. La Corniche portoit un socle sur lequel estoient posez quatre Sphinx de bronze, qui portoient un grand Obelisque orné de caracteres, &amp; de figures hierogliphes. Le sommet estoit un chapiteau composé sur lequel estoit une Urne. Il y avoit encore quatre autres Tombeaux dans les costez du Theatre, &amp; dans les éloignemens de formes differentes, &amp; une Statuë de marbre à chaque Tombeau. Tous ces Tombeaux estoient entourez de Cyprés, d'Ifs, &amp; autres arbres, &amp; le tout ensemble formoit un spectacle lugubre, mais tres-magnifique. Après qu'Ismenie eut évoqué l'ombre de Ptolomée, il parut plusieurs Esprits qui tournerent autour des Tombeaux comme voulant animer les Statuës, &amp; on entendit un Choeur de Musique fort extraordinaire, dont les voix paroissoient sortir des Tombeaux. Ce qui surprit fort, c'est que les Statuës qui estoient drapées aussi proprement que si elles eussent esté travaillées de marbre, estoient des Figures vivantes, chacune dans une attitude differente. Tout le monde les crut de carton, jusques au temps qu'Ismenie parla à Ptolomée. Alors toutes les Statuës remuërent avec des mouvemens lents.</p>
+        <p>J'ay oublié de vous dire qu'avant que l'évocation se fist, l'aimable Gelon soûtenant toûjours son caractere, estoit sorty d'une maniere fort spirituelle. Voicy ce qu'il dit. Tout le monde y a remarqué un tour d'esprit singulier.</p>
+        <p/>
+        <p>Je crains trop la Troupe infernale,</p>
+        <p>Je ne veux point chez Pluton,</p>
+        <p>Mourir de soif comme Tantale,</p>
+        <p>Ny boire l'eau du Phlegeton.</p>
+        <p/>
+        <p>Tous les Vers de l'évocation avoient quelque chose de majestueux, qui ne contribua pas peu à faire naistre dans l'esprit des Spectateurs cette espece d'étonnement, qui fait, lors qu'il est bien excité, un des principaux plaisirs des Spectacles. La Magicienne parla ainsi aux Demons.</p>
+        <p/>
+        <p>Venez, Demons, plus vifte qu'un éclair,</p>
+        <p>Quittez vos demeures terribles,</p>
+        <p>Et des atomes de l'air</p>
+        <p>Faites-vous des corps visibles.</p>
+        <p>Venez, venez, obeissez,</p>
+        <p>Paroissez, paroissez.</p>
+        <p/>
+        <p>Après que les Demons l'eurent asseurée qu'ils estoient prests d'obeir, elle poursuivit de cette sorte.</p>
+        <p/>
+        <p>Des jours éteints de nos Monarques,</p>
+        <p>Dans leur froid tombeau,</p>
+        <p>Malgré l'ordre des Parques</p>
+        <p>Rallumez le flambeau.</p>
+        <p/>
+        <p>Les Demons ayant animé les Statuës des Rois, elle s'adressa à ces Statuës, &amp; fit entendre ces Vers.</p>
+        <p/>
+        <p>Marbres sourds, Figures muettes</p>
+        <p>De nos superbes Rois,</p>
+        <p>Prêtez l'oreille à ma voix,</p>
+        <p>Parlez, &amp; du Destin soyez les interpretes.</p>
+        <p/>
+        <p>Elle consulta ensuite la Statuë de Ptolomée, &amp; l'Ombre répondit ces quatre Vers.</p>
+        <p/>
+        <p>Ma Fille, de l'Hymen tu dois subir la loy,</p>
+        <p>Et tu l'accepteras sans peine ;</p>
+        <p>Mais tu n'épouseras qu'un Roy,</p>
+        <p>Que te doit offrir une Reyne.</p>
+        <p/>
+        <p>L'Ombre ayant parlé de cette sorte, toutes les Statuës reprirent leurs attitudes, &amp; après qu'Orontée eut marqué la peine que luy faisoit cet Oracle, tous les Tombeaux disparurent, &amp; l'Acte finit.</p>
+        <p>Un Jardin délicieux faisoit le Theatre du quatriéme Acte. Le devant estoit une maniere de Vestibule d'une architecture Ionique. Des Termes de bronze doré tenoient lieu de colomnes. Les chapiteaux estoient des corbeilles de fleurs &amp; de fruits, qui portoient une corniche de marbre &amp; un plafond magnifique. Entre les Termes il y avoit des arcades aussi de marbre, avec les ornemens de bronze pour entrer dans une galerie qui paroissoit tapissée d'étofes d'or à fond violet. Le Vestibule occupoit un tiers du Theatre sur le devant, &amp; le jardin paroissoit ensuite. Il estoit orné de Statuës representant des Amours sur des piedestaux, accompagnez de balustres de marbre &amp; de bronze, avec des arbres qui s'élevoient derriere ces Figures, qu'on voyoit ornées de fleurs &amp; de fruits. Les deux costez du Theatre étoient de cette maniere. Au milieu le jardin se separoit en trois allées, une dans le milieu, &amp; deux diagonales. Elles estoient si bien tracées, qu'on les découvroit de tous les endroits de la Salle. A la face de chacun des angles qui separoient les allées estoit une Statue de marbre blanc, sur un piedestal aussi de marbre orné de bas reliefs d'or. D'autres Statuës qui representoient encore des Amours, regnoient generalement dans toutes ces trois allées. Au bout de celle du milieu il y avoit des berceaux d'or percez à jour, revestus de toutes sortes de fleurs, &amp; soûtenus par des Termes en consoles de marbre blanc. Au travers de ces berceaux on voyoit une cascade naturelle avec plus de cinquante jets d'eau, sans y comprendre les Napes. Cette cascade étoit faite avec tant d'art, qu'elle suivoit la perspective du Theatre. Elle paroissoit d'une grandeur extraordinaire, &amp; ne diminuoit rien des objets qui estoient autour. Ces ornemens estoient de marbre &amp; de bronze, avec des vases d'où sortoient des plantes. Au dessus de cette cascade paroissoit une allée d'arbres qui traversoit, &amp; au delà on voyoit un Palais superbe dans l'éloignement. Les deux allées des costez paroissoient aussi fort longues, ornées d'une maniere differente de celle du milieu. On appercevoit au travers de plusieurs Portiques d'architecture rustique mêlée d'arbres, une cascade dans l'enfoncement. Ce qui estoit de remarquable, c'est que les fontaines &amp; les cascades avoient esté préparées avec tant d'art, que non seulement elles n'empêcherent point qu'on n'entendist la Musique &amp; les Recits, mais mesme elles sembloient s'accorder avec la Simphonie, dont les mouvemens tantost plus lens, tantost plus pressez, exprimoient aussi le murmure des eaux. Quelquefois la Simphonie s'arrêtoit pour laisser entendre ce murmure ; quelquefois aussi le bruit des eaux cessoit pour ne laisser entendre que la Simphonie qui l'imitoit.</p>
+        <p>Amasie vint resver dans ce beau lieu au merite d'Alidor, &amp; voyant venir Lysandre, elle luy avoüa qu'elle avoit changé. Lysandre l'ayant traitée de perfide, elle luy conseilla par cette chanson de changer comme elle.</p>
+        <p/>
+        <p>Que l'inconstance est agreable !</p>
+        <p>On s'engage avec un Amant,</p>
+        <p>Et l'on le quitte au moment</p>
+        <p>Qu'on en trouve un plus aimable.</p>
+        <p>Que l'inconstance est agreable !</p>
+        <p/>
+        <p>Lysandre estant sorty, resolu de se satisfaire par la mort de son Rival sitost qu'il l'aura connu, Gelon vint avertir Amasie qu'il avoit laissé Alidor avec la Reyne. Cela luy fit croire qu'il estoit aimé d'Orontée, &amp; lors qu'il parut, elle luy reprocha son ingratitude, en l'accusant de faire contre elle ce qu'elle avoit fait contre Lysandre. Elle sortit en voyant venir la Reyne, qui dit à Alidor qu'il sçavoit que l'amour qu'il avoit eu pour Irene avoit causé sa colere, &amp; Alidor ayant répondu qu'un malheureux comme luy se connoissoit trop pour aspirer à estre aimé d'une Reyne, elle ajoûta pour l'enhardir à se declarer, que sa vertu meritoit un Diadême, &amp; qu'il n'y avoit rien dont l'esperance luy pust estre deffenduë. Alidor l'ayant quittée, Creonte luy vint apprendre que le Frere d'Irene, Fils comme elle d'Agenor Roy de Phenicie, &amp; de Ladice, estoit vivant, &amp; qu'un Envoyé de sa Soeur venoit d'en apporter la nouvelle. Orontée en fut troublée, parce que ce Prince que l'on croyoit mort, luy avoit esté destiné par son Pere &amp; par le Roy de Phenicie, &amp; qu'elle ne pouvoit satisfaire à ce qui avoit esté predit par son Ombre, sans renoncer à l'amour qu'elle avoit pour Alidor. Creonte luy conseilla de l'éloigner, pour faire cesser des bruits desavantageux à sa gloire, &amp; elle répondit qu'on auroit sujet d'estre content d'elle. Cet Acte finit par le divertissement qui est expliqué dans ces Vers.</p>
+        <p/>
+        <p>GELON.</p>
+        <p>Chers Compagnons, delices de la table,</p>
+        <p>Rejoüissons-nous.</p>
+        <p>Chantons, dansons, faisons les fous.</p>
+        <p>Que la folie est raisonnable !</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Rejoüissons-nous,</p>
+        <p>Chantons, dansons, faisons les fous.</p>
+        <p>Que la folie est raisonnable !</p>
+        <p/>
+        <p>GELON.</p>
+        <p>D'où vient que le sommeil m'accable ?</p>
+        <p>Que ses pavots sont doux !</p>
+        <p>Camarades, couchons-nous</p>
+        <p>Sur le sein parfumé de Flore,</p>
+        <p>Et dormons tous</p>
+        <p>Jusqu'au retour de l'Aurore.</p>
+        <p/>
+        <p>Gelon s'estant endormy sur un lit de gazon, un de ses Compagnons dit,</p>
+        <p/>
+        <p>Dors, Gelon, dors.</p>
+        <p>Du jus divin ton ame est échauffée,</p>
+        <p>Tu dois pour delasser ton corps,</p>
+        <p>Te livrer tout entier dans les bras de Morphée,</p>
+        <p>Dors, Gelon, dors.</p>
+        <p/>
+        <p>Après cela deux autres Compagnons de Gelon dirent.</p>
+        <p/>
+        <p>Vole, vole jusques aux Cieux</p>
+        <p>Sur l'aisle d'un songe agreable.</p>
+        <p>Va boire à la table des Dieux</p>
+        <p>Le nectar delectable.</p>
+        <p>Sur l'aisle d'un songe agreable</p>
+        <p>Vole, vole jusques aux Cieux.</p>
+        <p/>
+        <p>LE CHOEUR ayant repeté.</p>
+        <p>Va boire à la table des Dieux</p>
+        <p>Le nectar delectable.</p>
+        <p/>
+        <p>Gelon s'éveilla au bruit que firent ses Compagnons, &amp; l'Acte finit par une Danse.</p>
+        <p>Le Theatre ne changea point de Decoration au cinquiéme Acte, qui commença par cette Chanson d'Orontée.</p>
+        <p/>
+        <p>Je vay, cruel devoir, éloigner de ces lieux</p>
+        <p>L'innocent objet de ma flâme.</p>
+        <p>Mais qui me répondrai grands Dieux,</p>
+        <p>Qu'estant loin de mes yeux</p>
+        <p>Il ne regne plus dans mon ame ?</p>
+        <p/>
+        <p>Malgré son amour elle ne laissa pas de déclarer à Alidor qu'ayant sceu combien Irene estoit irritée contre luy, elle ne pouvoit se dispenser de l'éloigner de sa Cour, &amp; qu'elle luy donnoit Thebes pour retraite. Il se retira comme ne cherchant plus qu'à mourir, &amp; presque aussi-tost on vit paroistre Jacinte qui dit à la Reyne que l'Envoyé de Sidon parloit d'arrester Alidor, qu'elle craignoit qu'on ne voulust attenter sur sa vie, &amp; qu'elle esperoit que l'avis qu'elle luy en donnoit appaiseroit la colere qu'elle avoit fait éclater contre elle. La Reyne n'eut pas si-tost envoyé Jacinte pour empescher le départ d'Alidor, que Creonte luy fit part d'une autre nouvelle. Il luy apprit que l'Ambassadeur d'Irene estoit le Corsaire Hipparque Pere d'Alidor, dont la mort avoit passé pour certaine ; qu'il avoit obtenu le pardon de son Fils, &amp; qu'Irene estoit partie elle-mesme de Sidon pour venir mettre sa Couronne sur la teste d'Alidor. Cela donna de la jalousie à Orontée, qui crut qu'Irene venoit couronner Alidor comme Amant, mais elle fut détrompée par Ismenie, qui l'assura que cet Alidor estoit Fils d'Agenor Roy de Phenicie, &amp; Frer d'Irene. Le Vaisseau qui portoit ce petit Prince dans le temps de sa naissance, ayant fait naufrage, Hipparque l'avoit trouvé flottant dans un Berceau, &amp; enveloppé de langes tissus de la main d'Ismenie. Il avoit appporté ces langes, &amp; Ismenie les avoit reconnus. Orontée que cette reconnaissance rendoit heureuse, puisque l'Ombre de Ptolomée luy avoit predit qu'elle épouseroit un Roy que luy offriroit une Reyne, ordonna à Amasie de recompenser l'amour de Lysandre. L'Opera finit par une Feste galante que fit une troupe d'Egyptiens &amp; d'Egyptiennes, pour se réjoüir d'une avanture qui leur donnoit un Roy si digne de l'estre.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Le destin remplit nos voeux.</p>
+        <p>Le Ciel nous donne un Roy ;</p>
+        <p>Que nous sommes heureux !</p>
+        <p/>
+        <p>DEUX DU CHOEUR.</p>
+        <p>Le Soleil qui nous éclaire</p>
+        <p>Pour briller de plus beaux feux,</p>
+        <p>Va se joindre avec Cythere.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Joüissez, heureux Amans,</p>
+        <p>Des plaisirs les plus charmans,</p>
+        <p>Des plus doux ravissemens.</p>
+        <p/>
+        <p>RECIT.</p>
+        <p>Quelle gloire</p>
+        <p>En ce beau jour !</p>
+        <p>Alidor, ( qui l'eust pu croire ?)</p>
+        <p>Va remporter la victoire</p>
+        <p>Par les mains du Dieu d'Amour.</p>
+        <p/>
+        <p>AUTRE RECIT.</p>
+        <p>Ismenie a sceu predire</p>
+        <p>Cet Hymen fait dans les Cieux</p>
+        <p/>
+        <p>Deux Dessus du Choeur.</p>
+        <p>Quel bonheur s'offre à nos yeux</p>
+        <p>Si charmant, si glorieux ?</p>
+        <p>Pour le bien de cet Empire,</p>
+        <p>Couronné des mains des Dieux,</p>
+        <p>Alidor vint en ces lieux.</p>
+        <p/>
+        <p>DEUX AUTRES DESSUS.</p>
+        <p>Doux moment !</p>
+        <p>Jour charmant !</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>L'Univers de nostre Roy</p>
+        <p>Recevra bien-tost la Loy.</p>
+        <p/>
+        <p>DEUX DU CHOEUR.</p>
+        <p>O doux moment !</p>
+        <p>O jour charmant !</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Le destin remplit nos voeux.</p>
+        <p>Le Ciel nous donne un Roy ;</p>
+        <p>Que nous sommes heureux.</p>
+        <p/>
+        <p>Monseigneur marqua avec l'honnesteté qui luy est ordinaire, qu'il s'estoit beaucoup diverty à cet Opera. Ce Prince tint Appartement le mesme jour, &amp; l'on y joüa à differentes sortes de Jeux.</p>
+        <p>Le Mardy, qui estoit la troisiéme journée, Monseigneur voulut se donner le plaisir d'aller tirer dans le Parc. [...] Il y eut le soir Opera &amp; Appartement.</p>
+        <p>[...] Le divertissement de la Joûte &amp; de l'Oye estoit preparé dans le grand canal, où je viens de vous marquer que Monseigneur estoit entré. Ces sortes de Jeux se firent vis à vis de la grande cascade. Les environs du canal où cette Feste se fit, sont admirables par la diversité des plans &amp; des vûës. D'un costé sont tous les jardins remplis de canaux, fontaines &amp; cascades ; &amp; de l'autre est un paysage élevé en amphitheatre par plusieurs grandes allées, dont je vous ay parlé en vous faisant la description du Parc. Ce paysage estoit tout remply de peuple, de mesme que les bords du grand canal. Quand ce divertissement fut finy, Monseigneur entra dans un bâtiment tout doré, construit à la maniere de ceux dont se sert le Roy de Siam, &amp; que l'on nomme Balons, dont Sa Majesté a fait present à Monsieur le Prince. Il y avoit des Luths, des Theorbes, des Basses de Violes, &amp; des Voix choisies, dans la Poupe de ce Balon. Il estoit accompagné d'un autre bâtiment remply d'un fort grand nombre de Joueurs d'Instrumens, &amp; d'un Choeur de plus de soixante personnes. Monseigneur arriva au son de tous ces Instrumens, &amp; au chant de toutes ces Voix, à la teste du canal où est la grande cascade de toute la Riviere. [...]</p>
+        <p>Le Jeudy qui estoit la cinquiéme journée, Monsieur le Prince ayant esté averty que Madame la Duchesse &amp; Madame la Princesse de Conty la Doüairiere devoient partir de Versailles après le couché du Roy pour venir à Chantilly, se prepara à les recevoir. Monseigneur voulut aller aussi au devant de ces Princesses. Il partit à trois heures du matin, &amp; les rencontra au bout de la route du Mail sur le chemin de Lusarche, où elles furent receuës au bruit des Trompettes &amp; des Timbales. Cependant Monsieur le Prince qui avoit disposé un Divertissement pour les surprendre, alla au devant d'elles jusqu'au milieu de la route, d'où il les accompagna à cheval de mesme que Monseigneur. Elles entendirent peu de temps après une harmonie champestre, &amp; virent paroistre environ quatre-vingt Faunes &amp; Satyres sur des chevaux caparaçonnez de feüillages qui se rangerent en deux files &amp; les accompagnerent jusqu'au Château au bruit d'un grand nombre d'Instrumens. Cette Cavalcade fut trouvée aussi extraordinaire que divertissante. [...]</p>
+        <p>Le sixieme jour, qui estoit le Vendredy, Monseigneur alla courre le Cerf avec les chiens de Monsieur le Duc du Mayne, &amp; Monsieur le Prince ayant fait preparer tout ce qui estoit necessaire pour une grande chasse, &amp; d'une maniere toute nouvelle, on se rendit l'apresdînée dans les belles routes de la Forest. Je ne sçaurois m'empescher de vous faire remarquer que ces routes, dont on auroit peine à dire le nombre, tant il est grand, &amp; qui coupent de tous costez une des plus belles &amp; des plus vastes Forests du monde, sont toutes à perte de veuë, d'une tres-grande largeur avec des palissades d'une hauteur extraordinaire. On n'en sçauroit voir de plus toufuës, elles ont un terrain fort uny, &amp; qui est couvert d'une herbe si fraîche &amp; si verte, qu'il n'y a point de tapis de gazon plus vert. Ce fut par ces routes que l'on alla jusqu'à un Etang qui est au milieu de cette Forest, &amp; qui est appellé l'Etang de Comelle. Cet Etang peut avoir environ un quart de lieuë de long, sur un demy quart de lieuë de large. Il est dans un fond dont le terrain s'éleve tout autour en amphitheatre, à la reserve de la chaussée, &amp; tout est garny de Bois, ce qui fait une veuë fort agreable. Les toiles de chasse enfermoient l'Etang, &amp; leur enceinte s'étendoit par un costé dans la forest. On avoit dressé une feüillée sur la chaussée, avec des Tentes au milieu, pour y mettre les Dames. Une collation magnifique y fut servie. Tous les Spectateurs estoient autour ou derriere les toiles. On trouva sur l'Etang des bateaux couverts de leurs Tentelets, &amp; plusieurs autres plus petits couverts de feüillages. Monseigneur, Madame la Duchesse, Madame la Princesse de Conty, Monsieur le Prince, &amp; les Dames d'honneur des Princesses, avec quelques-uns des Seigneurs de leur suite, entrerent dans le plus grand de ces bateaux. Monsieur le Duc, Monsieur le Prince de Conty, &amp; Monsieur de Vandosme se mirent dans le second. Tout le reste de leur suite se partagea dans les autres, &amp; Madame la Princesse se plaça sous la Feüillée avec plusieurs autres Dames. A peine avoit-on achevé de s'embarquer, qu'on entendit retentir de tous costez le son de plusieurs troupes de Hautbois &amp; de Trompettes qui estoient placez en divers endroits, &amp; peu de temps après un bruit de cors &amp; de chiens qui firent lancer dans l'Etang à plusieurs reprises un grand nombre de sangliers, de cerfs &amp; de biches. Tous ceux qui étoient dans les bateaux, prirent leur party pour les attaquer, les uns avec des pieux, les autres avec des dards, &amp; les autres avec des épées. [...] Cette Chasse dura environ deux heures, &amp; donna beaucoup de plaisir. [...] On revint en suite au Château où il y eut Appartement &amp; Opera.</p>
+        <p>Le lendemain Samedy Monseigneur alla à la Chasse du Loup dans la forest. Les Dames demeurerent ce jour-là au Chasteau, parce que le beau temps cessa. A son retour il eut avec elles le divertissement d'un concert dans l'appartement de Madame la Princesse de Conty. Les Vers estoient de M. du Boulay, Secretaire de M. le Grand Prieur, &amp; la Musique de la composition de M. de Lully, Sur-intendant de la Musique du Roy. Je dois vous dire pour l'intelligence de ces vers que le divertissement qu'on donna à Monseigneur au milieu de la forest le jour que ce Prince arriva à Chantilly, ayant esté trouvé fort beau, on avoit resolu de recevoir les Princesses en cet endroit, le jour qu'elles arriveroient, de la même maniere que Monseigneur le Dauphin ; &amp; comme le divertissement de la chasse ne leur convenoit pas, les Vers que vous allez lire devoient estre chantez, au lieu de ceux qui avoient servy de prelude au divertissement de la chasse, &amp; qui commençoient par Debout, Lysiscas, &amp;c. ce qui ne fut pas executé, parce que les Princesses devant venir la nuit, pour éviter la grande chaleur du jour, l'heure n'estoit pas propre pour un repas, &amp; pour un divertissement pareil à celuy qui le suivit ; de sorte que les Vers qui avoient esté faits pour cette reception, n'ayant point esté chantez, ils le furent dans l'appartement de Madame la Princesse de Conty, le jour que je viens de vous marquer. Les voicy.</p>
+        <p/>
+        <p>Princesses, vous voyez ces hostes de nos bois,</p>
+        <p>Pour la premiere fois,</p>
+        <p>Quitter leurs demeures paisibles :</p>
+        <p>Mais d'un jeune Heros tout suit icy les Loix ;</p>
+        <p>Et ce n'est que pour vous que soumis à sa voix</p>
+        <p>Ces demy-Dieux se sont rendus visibles.</p>
+        <p/>
+        <p>Faunes, vous estes trop heureux.</p>
+        <p>Que l'innocence de vos jeux</p>
+        <p>A cette belle Troupe ait marqué vos hommages ;</p>
+        <p>Dans ces lieux où tout cherche à flater leurs desirs</p>
+        <p>Vous faites leurs premiers plaisirs.</p>
+        <p>Après de si doux avantages</p>
+        <p>Retirez-vous contents sous vos sombres feüillages.</p>
+        <p/>
+        <p>Ces champestres Divinitez,</p>
+        <p>Princesses, voyant vos beautez,</p>
+        <p>Vous prennent pour des Immortelles.</p>
+        <p>Faunes, vous ne vous trompez pas,</p>
+        <p>Il en est dans les cieux &amp; même des plus belles,</p>
+        <p>Qui font éclater moins d'appas.</p>
+        <p/>
+        <p>Quel nouveau jour nous éclaire,</p>
+        <p>Et se répand dans ces lieux !</p>
+        <p>Nous reconnaissons les yeux</p>
+        <p>Sources de tant de lumiere :</p>
+        <p>De mille Amours empressez</p>
+        <p>La Troupe vous environne.</p>
+        <p>Ah, que vous embellissez</p>
+        <p>Les festes que l'on vous donne !</p>
+        <p/>
+        <p>Les jeux, les ris, la jeunesse,</p>
+        <p>Accompagnent tous vos pas ;</p>
+        <p>Aux lieux où vous n'estes pas</p>
+        <p>On voit regner la tristesse.</p>
+        <p>De mille Amours empressez</p>
+        <p>La Troupe vous environne.</p>
+        <p>Ah, que vous embellissez</p>
+        <p>Les festes que l'on vous donne !</p>
+        <p/>
+        <p>Ces Vers furent applaudis, &amp; l'on trouva qu'ils convenoient parfaitement au sujet. Il y eut encore ce jour-là Appartement &amp; Opera, &amp; ensuite Media-noche.</p>
+        <p>Jamais on n'a vû tant de divertissemens dans un seul jour, &amp; de tant de differentes manieres qu'il y en eut le Dimanche, qui estoit la huitiéme journée. Il semble qu'ils renaissoient dans le temps qu'on eust eu sujet de croire que leur nombre auroit deu diminuer, à cause des differens &amp; continuels plaisirs qui pendant sept jours avoient répandu la joye dans tout Chantilly. Mais si les divertissemens sembloient devoir estre épuisez, le zele de Mr le Prince ne l'estoit pas. Ce jour-là après la Messe, Monseigneur alla à la Chasse du cerf avec les chiens de M. le Grand Prieur. Au retour de la Chasse il se rendit avec les Dames dans la Maison de Silvie pour le repas que Monsieur le Prince luy donnoit. Il faut vous expliquer ce que c'est que cette maison de Silvie. C'est une espece de petit Château qui n'est composé que d'un Appartement bas de quatre pieces, seulement percé en enfilade, &amp; aboutissant d'un costé aux allées champestres d'un grand bois qui est à costé de la grande terrasse, vis à vis le vieux Château. On appelle aussi ce Bois Le Bois de Silvie. De l'autre costé cette maison aboutit à un demy rond qui est dans la grande Forest, &amp; dont je vous parleray bien-tost. Un petit parterre bordé de berceaux de chevrefeüil regne tout le long de cette maison. On dit que ce nom de Silvie luy a esté donné par le fameux Theophile qui estoit attaché au service de Mrs de Montmorency, &amp; qui lors qu'ils estoient à Chantilly passoit une partie de son temps à resver agreablement, &amp; à faire des Vers au bord d'une Fontaine, toute simple &amp; toute naturelle, pour une Maistresse qu'il avoit, appellée Sylvie. [...] Ce fut dans cette maison que Monsieur le Prince fit servir un retour de Chasse à Monseigneur. Après qu'on eut mangé les entremets, comme on croyoit qu'on alloit servir le fruit, Monsieur le Prince dit à Monseigneur, que s'il en vouloit il falloit qu'il se donnast la peine d'en aller chercher au milieu du Labirinthe où le Dessert estoit servy. Monseigneur accepta la proposition avec joye, &amp; l'on se leva de table pour aller dans le Labirinthe. Il est au milieu d'une partie de la Forest que Son Altesse Serenissime a fait enclore depuis peu de temps. [Suit une description de ce labyrinthe.] Monseigneur estant entré dans le Labyrinthe avec les Princes &amp; Princesses, &amp; tous les Seigneurs de sa suite, chacun prit des chemins differens pour arriver plutost au lieu où estoit la Colation, &amp; ceux qui se promirent d'en trouver bien-tost le centre, se lasserent en faisant plus de chemin que les autres, sans avoir plus d'avantage sur eux. On peut dire seulement qu'ils furent les premiers trompez, tant ce Labirinthe est difficile. Cependant Monsieur le Prince, pour faciliter le moyen d'en trouver le milieu, y avoit fait placer un Concert de Hautbois. On marchoit droit au lieu où ce Concert estoit entendu, &amp; lors qu'on en estoit tout proche, &amp; qu'on croyoit ne devoir plus avancer que pour y entrer, on s'en éloignoit insensiblement ; de sorte que dans le temps où l'on estoit le plus persuadé qu'on n'avoit plus de chemin à faire, on s'en trouvoit encore aussi loin que lors qu'on avoit commencé à faire le premier pas. [...]</p>
+        <p>L'aprésdînée, Monseigneur alla tirer, &amp; trouva un nouveau divertissement à son retour. Ce divertissement commença à huit heures du soir. Il estoit donné par le Dieu Pan, que le vilain temps avoit empesché le jour précedent de divertir Monseigneur dans le Bois, où il y avoit une grande Feste preparée, &amp; qui pour ne manquer aucune occasion de le divertir, s'estoit emparé du Theatre, &amp; avoit convié toutes les Divinitez des Bois, toutes les Nymphes de Chantilly, &amp; les Bergers &amp; Bergeres du mesme lieu, à donner un divertissement au Fils du plus grand Roy de la Terre. Pan estoit dans le fond du Theatre, dont la decoration representoit une Forest. Ce Dieu estoit élevé sur une espece de petit Trône de gazon, &amp; entouré de toutes les Divinitez des Bois, &amp; de cinquante-quatre Faunes, Satires, &amp; Silvains, qui estoient les mesmes qui l'avoient accompagné dans tous les divertissemens qu'il avoit donnez à Monseigneur par tout où il avoit pû rencontrer ce Prince, &amp; ils s'estoient attachez depuis son arrivée à Chantilly, à le chercher dans tous les lieux où il leur estoit permis d'aller, afin de continuer à le divertir.</p>
+        <p>Vingt-quatre Nymphes magnifiquement vêtuës estoient assises sur le devant du Theatre. On voyoit ensuite quantité de Bergers avec des habits tres-propres &amp; convenables à leur caractere, &amp; derriere ces Bergers paroissoient les Satires, les Faunes, les Silvains, les Divinitez des Bois, &amp; le Dieu Pan dans le fond élevé de la maniere que je viens de vous marquer. Ce grand nombre de personnes differemment habillées formoit une nuance tres-agreable. On avoit placé sur le devant celles qui estoient le plus magnifiquement vêtues, parce qu'on les voyoit plus facilement, &amp; cette gradation avoit je ne sçay quoy qui frapoit d'abord, &amp; qui plaisoit d?autant plus, qu'elle faisoit distinguer sans peine le rang des divers Personnages dont tout le Theatre estoit remply, ce qui ne se fait pas aisément lorsqu?ils paroissent d'abord mêlez. Ils le furent dans la suite, mais d'une maniere aussi agreable que nouvelle, car après qu'on eut joué l'ouverture, tout ce grand divertissement ayant commencé par un Passepied, une Nymphe se leva seule en dansant, une autre se leva derriere elle sans être apperceuë, &amp; la suivit, une troisiéme fit la mesme chose, &amp; les autres ayant imité ces trois premieres, en formant toutes une danse en rond, le milieu du Theatre qui estoit vuide avant que le divertissement commençast, se trouva agreablement remply, &amp; mesme sans qu'on se fust presque apperceu de quelle maniere ces Nymphes étoient sorties de leur place. Il y en eut quelques-unes qui chanterent en dansant, après quoy Pan &amp; tous ceux de sa suite se mêlerent avec les Nymphes, les Bergers &amp; les Bergeres, &amp; ce mélange d'habits differens produisit une variété qui fut un grand charme pour la veuë.</p>
+        <p>Ce divertissement estoit meslé d'Airs Italiens &amp; François, &amp; de Symphonie. Tous ces Airs avoient esté faits par M. Lorenzani, pour un Opera que M. le Duc de Nevers donna au Roy à Fontainebleau il y a quelques années, &amp; qui fut trouvé tres-agreable, &amp; tres-beau par Sa Majesté &amp; par toute la Cour. Le genie plein d'invention de ce Duc est connu de tout le monde, &amp; quand il s'échappe à faire des Vers, ce qui ne luy arrive pas ordinairement, on y remarque un certain tour d'esprit naturel, &amp; une vivacité qui en feroient souvent reconnoître l'Auteur, s'ils estoient meslez avec d'autres. Parmy ces Airs, il y en avoit quelques-uns que M. Lorenzani avoit faits exprés pour ce divertissement, parce que lors qu'on ramasse ainsi quelques pieces ensemble pour en faire une espece de corps, il faut une maniere de liaison qui ne se trouve pas toûjours, à moins qu'on ne fasse quelque chose de nouveau qui serve à les joindre, de sorte qu'il fallut &amp; des Vers, &amp; des Airs nouveaux, ce qui fut fait avec une diligence presque incroyable. Tout ce qui regardoit le Balet qui fut meslé dans ce spectacle estoit de M. Pecour, &amp; parut aussi bien imaginé qu'il fut promptement &amp; bien executé. On ne chercha pas à faire cet impromptu, parce qu'on manquoit de divertissemens à Chantilly, puis qu'au contraire il y en a eu quelques-uns qui n'ont pu estre donnez, le temps ne s'estant pas trouvé propre pour les faire paroître dans les lieux pour lesquels on les avoit destinez, mais Monsieur le Prince qui ne vouloit pas laisser passer un seul jour sans que Monseigneur eust le plaisir de plusieurs sortes de divertissemens, avoit si bien disposé toutes choses, &amp; si bien choisi &amp; preparé toutes les personnes qu'il employoit, qu'il estoit seur que lorsque le mauvais temps feroit manquer un divertissement, il pourroit facilement, &amp; en fort peu d'heures luy en faire substituer un autre, &amp; mesme qui seroit du goust de Monseigneur, suivant les choses qu'il remarqueroit qui plairoient à ce Prince. Celuy que le Dieu-Pan &amp; les Divinitez des Bois donnerent sur le theatre fut de ce nombre. Il dura au moins deux heures, &amp; il fut si bien executé, &amp; avec tant de justesse qu'on auroit pû aisément le faire passer pour un de ceux qui avoient été preparez avant l'arrivée de Monseigneur.</p>
+        <p>Il semble qu'après tous les divertissemens qu'on avoit déjà eus, le Dimanche dont je vous parle, qui estoit la huitiéme journée, on n'en devoit plus attendre d'autres, &amp; que cette journée en avoit esté assez remplie. Cependant il y en eut encore deux des plus grands &amp; des plus considerables dont on ait oüy parler depuis long-temps. Ce fut un Feu d'artifice &amp; une Illumination qui succederent à ce qui venoit d'être veu sur le Theatre. Je ne puis vous donner une juste idée de l'un &amp; de l'autre qu'en vous en faisant la description. Quelque exacte qu'elle puisse estre, elle fera toûjours beaucoup au dessous de l'éclat de ces deux brillans divertissemens. Monseigneur sortit de la Salle de l'Opera à neuf heures du soir par la Galerie des Cerfs qui est au bout de l'Orangerie. Il monta dans une grande Caleche avec toutes les Dames, &amp; entra dans le Jardin où il se promena quelque temps à la clarté d'un grand nombre de flambeaux dans une belle allée qui fait face à cette Galerie. Il estoit conduit par Monsieur le Prince. [...] Lorsque Monseigneur arriva dans cette endroit, d'où l'on peut découvrir le Château, il parut étonné ainsi que toute sa Cour. Il avoit sujet de l'estre ; car on n'a jamais rien veu de si surprenant que l'Illumination qui parut en face. C'estoit le grand Escalier, qui estant illuminé paroissoit comme s'il eust esté basty de pierres precieuses, éclairées par le Soleil. Pour vous faire mieux comprendre la beauté de cette Illumination, je croy vous devoir parler de l'architecture de cet Escalier &amp; de tout ce qui l'embellit ; il est estimé de tous les gens de bon goût, tant pour sa beauté que pour sa grandeur. Ce sont deux façades que les paliers &amp; les marches separent en deux parties égales, ornées de six colomnes qui sont accouplées deux à deux. Du costé des marches sont deux grands Arcs rampans, qui dans leur enfoncement forment chacun une grote. Ces colomnes soûtiennent une Corniche d'ordre Dorique, &amp; dans chacune des Niches, il y a une Figure Pedestre. L'une represente Acis &amp; Galatée. Acis est dans l'attitude d'un Amant qui regarde sa Maistresse, &amp; qui jouë de la Flûte. On sçait que ce fut par là que la Nymphe en fut charmée. Galatée est representée d'une maniere qui fait paroistre combien elle a de plaisir à entendre les sons que rend la Flûte d'Acis. [...]</p>
+        <p>Cette journée estant ainsi finie, chacun ayant l'idée remplie de tout ce qu'il avoit vû pendant le jour, retourna dans son appartement, sans pouvoir s'entretenr [sic] d'autre chose. Les plaisirs sur lesquels rouloit l'entretien estoient en si grand nombre, qu'on en compta six dans la mesme journée, qui sont la Chasse, le Disné à Silvie, la Collation dans le Labirinthe, le Divertissement de Pan sur le Theatre, l'Illumination, &amp; le Feu d'artifice. Tous ces Divertissemens estoient si grands &amp; si étendus, qu'une journée auroit esté bien remplie d'un seul de ces plaisirs. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

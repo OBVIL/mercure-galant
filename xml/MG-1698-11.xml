@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-11_170">
+        <head>MG-1698-11_170</head>
+        <bibl>Mercure galant, novembre 1698, p. 170-171</bibl>
+        <p>Hopital General d'une nouvelle methode estably à Dole en Franche-Comté.</p>
+        <p/>
+        <p>[Le 8 septembre on fit] une Procession solemnelle, où assisterent tous les Corps Seculiers &amp; Reguliers de la Ville. La Procession s'estant terminée à la Charité, on y chanta le TE DEUM, pour rendre graces à Dieu du succés de cette entreprise.</p>
+      </div>
+
+<div xml:id="MG-1698-11_209">
+        <head>MG-1698-11_209</head>
+        <bibl>Mercure galant, novembre 1698, p. 209-210</bibl>
+        <p>Relation du mariage de Madame la Duchesse de Lorraine, &amp; tout ce qui s'est passé en Lorraine depuis cette Cérémonie.</p>
+        <p/>
+        <p>Vous vous souvenez, Madame, que dans ma derniere Lettre, je laissay Madame la Duchesse de Lorraine à Vitry où elle estoit arrivée le 23 d'Octobre. [Suit le compliment prononcé par Mr Lirot, doyen du Chapitre Royal de Vitry.] Le 24 du mois passé, Madame la Duchesse de Lorraine partit de Vitry après avoir entendu la Messe dans l'Eglise Collégiale, où Mr l'Evesque de Chalons luy presenta l'Eau bénite, &amp; le soir elle arriva à Sermoise, où elle receut les complimens de Monsieur le Duc de Lorraine, par Milord Carlingford. [Le duc et la duchesse de Lorraine se rendent à Bar ; description de leur arrivée et de leurs appartements.] Après le dîné Madame la Duchesse de Lorraine remonta dans sa Chambre pour recevoir les Harangues &amp; les presens de tous les Corps de la Lorraine. L.A. allerent ensuite à la Comédie, d'où elles se mirent à table dans la Salle, avec toutes les Dames &amp; Filles d'honneur. [...] Aprés le soupé qui dura longtemps, L. A. vinrent dans la grande Salle où le Bal commença. Personne ne s'assit, &amp; on dansa, en se prenant par les mains, comme lors qu'on tourne au menuet. Madame la Duchesse de Lorraine dansa beaucoup, &amp; de la meilleure grace du monde. [...]</p>
+        <p>Je passe quelques jours de marche pour vous dire que Leurs Altesses de Lorraine estant arrivées à Pont-à-Mousson, en partirent le 8. de ce mois, &amp; vinrent coucher à Jauville, petit Village à une bonne demy lieuë de Nancy, dans le dessein d'y faire leur Entrée le lendemain Dimanche ; mais le mauvais temps fit remettre jusqu'au Lundy 10 cette pompeuse ceremonie. Elle commença vers les onze heures du matin à la Porte Saint Nicolas par une Compagnie de Bourgeois de Nancy appellée les Buttiers. [...] Les vingt quatre Pages avec leur Gouverneur &amp; Sous-Gouverneur suivoient, montez sur des tres-beaux Chevaux, marchant deux à deux, &amp; après eux un très grand nombre de Chevaux de main Turcs, Hongrois, Polonois, &amp; d'autres pays, marchoient au son des Trompettes &amp; des Timballes de deux Compagnies de Chevaux Legers, &amp; de deux autres de Gardes du Corps qui les suivoient.</p>
+        <p>[Description du reste du cortège constitué des officiers, représentants de la ville, clergé séculier et régulier] Mr l'Abbé le Begue, comme Doyen de la Primatiale, officiant dans cette ceremonie, fermoit toute la Marche du Clergé. Il estoit accompagné de quatre Chanoines de son Eglise. Les Trompettes &amp; les Timballes du Prince tres bien montez, &amp; ayant des Justaucorps verts, tous galonnez, &amp; les Banderolles de leurs Trompettes &amp; Timballes en broderie d'or &amp; d'argent avec les Armes de Lorraine, marchoient ensuite. [...] A l'entrée de la Porte Saint Nicolas, on avoit preparé un Autel magnifiquement orné pour y recevoir le serment de Monsieur le Duc de Lorraine. [...]</p>
+        <p>On alla descendre à l'Eglise de S. Georges, qui est éloignée de la Porte S. Nicolas de plus d'un quart de lieuë, &amp; le Te Deum y fut chanté. [...] Ce fut le Prevost de Saint Georges qui officia, il complimenta le Prince et la Princesse, qui après le Te Deum se retirerent dans leurs Appartemens, où ils receurent de nouveaux complimens, tant du Clergé que de la Justice. On alluma le soir des Feux par toute la Ville, il y eut des Illuminations dans toutes les fenestres, &amp; un beau Feu d'artifice termina les réjoüissances publiques de cette Journée.</p>
+      </div>
+
+<div xml:id="MG-1698-11_233">
+        <head>MG-1698-11_233</head>
+        <bibl>Mercure galant, novembre 1698, p. 233-234</bibl>
+        <p>Ce qui s'est passé à l'ouverture du Parlement &amp; de la Cour des Aides, le lendemain de la Saint Martin, avec les Harangues qui y ont esté prononcées.</p>
+        <p/>
+        <p>L'ouverture du Parlement se fit le Mercredy 2. de ce mois, &amp; commença par une Messe solemnelle que celebra Mr Berthier, premier Evêque de Blois, dans la Chapelle de la grande Salle du Palais. [...] La Musique qui estoit de la composition de Mr Charpentier, Maistre de Musique de la Sainte Chapelle, fut trouvée des plus excellentes.</p>
+      </div>
+</body>
+  </text>
+</TEI>

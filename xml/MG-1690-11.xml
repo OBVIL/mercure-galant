@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-11_093">
+        <head>MG-1690-11_093</head>
+        <bibl>Mercure galant, novembre 1690, p. 93-94</bibl>
+        <p>Ordre de S. Jean de Jerusalem.</p>
+        <p/>
+        <p>Mr le Commandeur de Barbantane, Vicaire General du Grand Prieuré de Toulouse, de l'Ordre de Saint Jean de Jerusalem, ayant appris que Mr le Commandeur de Vignacour avoir esté éleu Grand Maistre de Malthe, en fit paroistre sa joye par des illuminations qu'il fit faire devant sa Maison, &amp; par un grand Feu d'artifice qui fut tiré au bruit des Fifres, des tambours &amp; des hautbois.</p>
+      </div>
+
+<div xml:id="MG-1690-11_177">
+        <head>MG-1690-11_177</head>
+        <bibl>Mercure galant, novembre 1690, p. 177-180</bibl>
+        <p>Mission.</p>
+        <p/>
+        <p>Comme l'ouverture du Jubilé ne s'est faite dans le Diocese de Roüen que sur la fin du mois d'Octobre dernier, Madame d'Ableiges, qui fait toujours de grandes charitez, &amp; qui ne se plaist qu'aux exercices de pieté, a voulu répandre sur les Paroisses dont elle est Dame, des benedictions particulieres par une Mission qu'elle y a fait faire à ses dépens [...] Cette Mission commença le 23. d'Octobre, &amp; finit le 7. de ce mois. Six Ecclesiastiques des Missions Etrangeres y ont fait pendant ce temps tous les exercices d'une Mission reglée. L'un d'eux faisoit la Priere dés cinq heures du matin, avec une instruction qui duroit une heure ; ensuite on disoit la Messe, &amp; un autre faisoit le Catechisme pour les Enfans jusqu'à neuf heures. A dix heures on chantoit la grand'Messe.</p>
+      </div>
+
+<div xml:id="MG-1690-11_252">
+        <head>MG-1690-11_252</head>
+        <bibl>Mercure galant, novembre 1690, p. 252-255</bibl>
+        <p>Opera nouveau.</p>
+        <p/>
+        <p>Toute l'Europe liguée contre le Roy depuis deux ans, n'empesche point que tout ne marche en France d'un pas égal. Les seuls Etats de nos Ennemis se ressentent de la guerre, &amp; la magnificence qui est ordinaire aux Opera, semble avoir augmenté cette année, dans celuy d'Enée &amp; Lavinie, qui vient de paroistre. En effet on ne peut rien voir de plus somptueux que les habits &amp; les decorations, le tout du dessein de Mr Berrin. La Musique est de Mr Colasse, dont je vous ay parlé plusieurs fois. Il a déja fait trois Opera depuis la mort de Mr de Lully, &amp; la beauté de la Musique de ce dernier se fait tellement sentir, que l'on se récrie à haute voix dés le Prologue, ce qui n'arrive ordinairement qu'aux endroits de passion qui entrainent l'Auditeur. Les paroles sont de Mr de Fontenelle, &amp; le titre de cet Opera vous fait connoistre qu'il a tiré son sujet de ce que Virgile rapporte du differend d'Enée &amp; de Turnus, qui aspiroient l'un &amp; l'autre à épouser Lavinie. On ne peut douter qu'un Ouvrage de sa façon ne soit plein d'esprit, aprés l'applaudissement general qu'ont receu tous les Livres qu'il a donnez au Public. Il est cependant bien malaisé de contenter tous les gousts dans les choses de cette nature, qui estant composées de differentes parties, ne plaisent qu'autant que chaque goust particulier est satisfait.</p>
+      </div>
+
+<div xml:id="MG-1690-11_255">
+        <head>MG-1690-11_255</head>
+        <bibl>Mercure galant, novembre 1690, p. 255-258</bibl>
+        <p>Prologue.</p>
+        <p/>
+        <p>Cet Article de l'Opera m'engage à vous envoyer des paroles que Mr Tonti a faites pour un Concert, &amp; qui ont esté extremement applaudies. Vous sçavez qu'il a beaucoup de talent pour ces sortes d'Ouvrages. La maniere vous en plaira, puis qu'elle regarde le Roy. C'est une maniere de Prologue, où il fait parler Mars, la France &amp; la Renommée.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Lors que dans mon couroux je commande à la Parque</p>
+        <p>De ravager tout l'Univers,</p>
+        <p>A l'abry des Lauriers d'un Auguste Monarque,</p>
+        <p>Les Bergers de ces lieux font mille doux concerts.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>La gloire de Loüis remplit toute la Terre,</p>
+        <p>Le cours de son bonheur ne finira jamais,</p>
+        <p>Il fait goûter icy les douceurs de la Paix,</p>
+        <p>Lors que tout se ressent des fureurs de la guerre.</p>
+        <p/>
+        <p>LA RENOMMÉE.</p>
+        <p>D'un grand Prince trahy, privé de ses Etats,</p>
+        <p>Il va rétablir la Couronne ;</p>
+        <p>Il remplit le devoir de tous les Potentats</p>
+        <p>Par les puissans secours que sans cesse il luy donne.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>Déja de ce Heros les fameux Combattans</p>
+        <p>Sur ses fiers Ennemis remportent la victoire,</p>
+        <p>Et la Sambre &amp; le Pô font retentir la gloire</p>
+        <p>De ses faits éclatans.</p>
+        <p/>
+        <p>LA RENOMMÉE.</p>
+        <p>On voit à sa valeur obeir la fortune,</p>
+        <p>Contre ses grands projets les vents s'arment en vain :</p>
+        <p>Il soumet à ses loix l'Empire de Neptune,</p>
+        <p>Il en est aujourd'huy l'unique Souverain.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Mon illustre Dauphin par ses vastes conquestes</p>
+        <p>Va remplir les voeux des François.</p>
+        <p>Bergers, preparez-luy mille nouvelles Festes,</p>
+        <p>Meslez des sons guerriers au doux chant de vos voix.</p>
+        <p/>
+        <p>MARS, LA FRANCE ET LA RENOMMÉE.</p>
+        <p>Bergers, preparez-luy mille nouvelles Festes,</p>
+        <p>Meslez des sons guerriers au doux chant de vos voix.</p>
+      </div>
+</body>
+  </text>
+</TEI>

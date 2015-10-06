@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1696</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1696-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1696</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1696-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1696-12_084">
+        <head>MG-1696-12_084</head>
+        <bibl>Mercure galant, décembre 1696, p. 84-95</bibl>
+        <p>Eglogue.</p>
+        <p/>
+        <p>Voicy une Eglogue qui a esté chantée deux fois à Fontainebleau, au Soupé du Roy, où elle a receu de grands applaudissemens. Les Vers sont de Madame de Xaintonge, dont tout le monde connoist l'excellent genie. Les Airs ont esté faits par Mr Marchand, de la Musique du Roy.</p>
+        <p/>
+        <p>EGLOGUE.</p>
+        <p/>
+        <p>Un jeune Berger joüe de la Basse.</p>
+        <p>Deux Satyres &amp; deux Dryades s'avancent.</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>Qu'entens-je ? O Dieux ? quels agreables sons ?</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Quelle douce harmonie ?</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>Ecoutons !</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Ecoutons.</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>Ah, je ne puis me deffendre</p>
+        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
+        <p>Quand le Heros qui fait tous nos desirs</p>
+        <p>Revient dans nos climats, c'est à nous seuls à prendre</p>
+        <p>Le soin de ses Plaisirs.</p>
+        <p>Ah ! je ne puis me deffendre</p>
+        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
+        <p>Un jeune audacieux</p>
+        <p>Oseroit-il prétendre</p>
+        <p>De partager nostre sors glorieux ?</p>
+        <p>Ah ! je ne puis me deffendre</p>
+        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
+        <p/>
+        <p>I. Dryade.</p>
+        <p>Le respect doit calmer</p>
+        <p>Le violent dépit qui vient vous animer.</p>
+        <p>C'est le zele qui le fait naistre ;</p>
+        <p>Mais devant nostre auguste Maistre</p>
+        <p>Le respect doit le calmer.</p>
+        <p/>
+        <p>II. Dryade &amp; les deux Satyres.</p>
+        <p>Etouffez vostre}jalousie,</p>
+        <p>Etouffons nostre}</p>
+        <p>Pour plaire au plus puissant des Rois :</p>
+        <p>Qu'un même destin vous/nous lie ;</p>
+        <p>Accordez/Accordons vos voix</p>
+        <p>A cette douce harmonie.</p>
+        <p/>
+        <p>I. Dryade.</p>
+        <p>Trop heureux d'habiter ces aimables climats</p>
+        <p>Où son penchant le ramene,</p>
+        <p>Plus heureux mille fois qui suit toujours ses pas.</p>
+        <p>La plus cruelle peine</p>
+        <p>Est de ne le voir pas.</p>
+        <p/>
+        <p>Les deux Satyres.</p>
+        <p>Que l'Automne est pour nous une</p>
+        <p>Saison charmante !</p>
+        <p>Chantons ses douceurs ;</p>
+        <p>Elle est plus riante</p>
+        <p>Que la saison des fleurs.</p>
+        <p>Son jus est delectable,</p>
+        <p>Mais c'est moins par ce jus divin</p>
+        <p>Qu'elle bannit nostre chagrin,</p>
+        <p>Qu'en ramenant icy ce Heros redoutable.</p>
+        <p/>
+        <p>Les deux Satyres &amp; les deux Dryades.</p>
+        <p>Profitons d'un temps précieux ;</p>
+        <p>Que nos concerts volent jusques aux Cieux !</p>
+        <p>Repetons mille fois dans nostre ardeur fidelle,</p>
+        <p>De toutes les saisons l'Automne est la plus belle.</p>
+        <p/>
+        <p>I. Dryade.</p>
+        <p>Dans ces lieux charmans</p>
+        <p>L'Amour est sans allarmes.</p>
+        <p>On aime assez pour goûter tous ses charmes,</p>
+        <p>On n'aime pas assez pour souffrir ses tourmens.</p>
+        <p/>
+        <p>II. Dryade.</p>
+        <p>Quand l'Amour veut toujours toucher notre Ame,</p>
+        <p>Il faut s'abandonner à toutes ses langueurs.</p>
+        <p>Plus on est penetré de l'ardeur de sa flame</p>
+        <p>Et plus on ressent ses douceurs.</p>
+        <p/>
+        <p>D'aimables chaisnes</p>
+        <p>Doivent couster des soins &amp; des soupirs ;</p>
+        <p>L'Amant n'a point de vrais plaisirs</p>
+        <p>Pour les Amans qui s'exemptent des peines.</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Chacun dans cet heureux sejour,</p>
+        <p>Goûte à son gré les plaisirs de la vie,</p>
+        <p>Sans contraindre son envie</p>
+        <p>On suit Bacchus ou l'Amour :</p>
+        <p>Souvent on se fait une gloire</p>
+        <p>D'estre Buveur sans cesser d'estre Amant.</p>
+        <p>Pour moy qui ne sçait que boire</p>
+        <p>Je bois incessamment.</p>
+        <p/>
+        <p>Pour les plus beaux yeux du monde</p>
+        <p>Je ne quitterois pas ma bouteille un moment :</p>
+        <p>Je goûte une paix profonde,</p>
+        <p>Je suis sans soins, je ris, je dors tranquillement.</p>
+        <p>Je ne quitterois pas ma bouteille un moment</p>
+        <p>Pour les plus beaux yeux du monde.</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>Pour le doux jus de la treille</p>
+        <p>Je ne quitterois pas ma Bergere un moment :</p>
+        <p>Je briserois ma bouteille</p>
+        <p>Si Bacchus m'arrachoit à cet objet charmant ;</p>
+        <p>Je ne quitterois pas ma Bergere un moment</p>
+        <p>Pour le doux jus de la treille.</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Bacchus seul remplit tous mes voeux,</p>
+        <p>Pour goûter ses plaisirs, jamais on ne soupire ;</p>
+        <p>Ce n'est pas l'employ d'un satyre</p>
+        <p>De faire le langoureux.</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>Le vin fait toute ta gloire</p>
+        <p>Luy seul a droit de s'enflamer :</p>
+        <p>Tu n'as que le plaisir de boire,</p>
+        <p>Et moy, j'ay le plaisir &amp; de boire &amp; d'aimer.</p>
+        <p/>
+        <p>I. Dryade.</p>
+        <p>En vain tout plaist, tout enchante</p>
+        <p>Dans cet aimable sejour ;</p>
+        <p>Si l'on en bannissoit l'Amour</p>
+        <p>Y pourroit-on donner une feste galante ?</p>
+        <p>Bacchus mesme ne suffit pas</p>
+        <p>Pour les plaisirs de la table,</p>
+        <p>Lorsque l'Amour se mêle d'un repas</p>
+        <p>Il est cent fois plus agreable.</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Ah, que les Buveurs sont heureux</p>
+        <p>Sous les loix du Dieu de la treille !</p>
+        <p>Il endort, il reveille,</p>
+        <p>Il chasse les chagrins, il rassemble les Jeux.</p>
+        <p>Ah, que les Buveurs sont heureux</p>
+        <p>Sous les loix du Dieu de la treille !</p>
+        <p>Les plus tendres Amans pour animer leurs feux</p>
+        <p>Devroient courir à la bouteille.</p>
+        <p>Ah, que les Buveurs sont heureux</p>
+        <p>Sous les loix du Dieu de la treille !</p>
+        <p/>
+        <p>II. Dryade.</p>
+        <p>Sans le secours du vin l'Amour  a des douceurs</p>
+        <p>Qui sont toûjours nouvelles</p>
+        <p>Pour les tendres coeurs.</p>
+        <p>Amans fidelles,</p>
+        <p>Gardez-vous bien d'estre buveurs,</p>
+        <p>L'Amour veut du mistere,</p>
+        <p>Et lorsque de Bacchus on ressent les ardeurs,</p>
+        <p>Le plus discret ne peut se taire.</p>
+        <p/>
+        <p>II. Satyre.</p>
+        <p>Lors qu'un Amant touche le coeur</p>
+        <p>D'une inhumaine,</p>
+        <p>L'Amour veut le contraindre à cacher son bonheur,</p>
+        <p>Ah quelle gêne !</p>
+        <p>Bacchus nous fait un plus heureux destin,</p>
+        <p>La liberté regne dans son Empire,</p>
+        <p>Et lors qu"on a bû de bon vin</p>
+        <p>Il est permis de la dire.</p>
+        <p/>
+        <p>I. Dryade.</p>
+        <p>C'est trop parler d'aimer !</p>
+        <p/>
+        <p>I. Satyre.</p>
+        <p>C'est trop parler de boire !</p>
+        <p/>
+        <p>Ensemble.</p>
+        <p>Rien ne peut nous charmer</p>
+        <p>Que la brillante gloire</p>
+        <p>Du plus grand des Vainqueurs ;</p>
+        <p>Luy seul vient d'animer &amp; nos voix &amp; nos coeurs.</p>
+        <p/>
+        <p>Les deux Satyres &amp; les deux Dryades.</p>
+        <p>Que ce Heros calme toute la terre.</p>
+        <p>Qu'il fasse triompher la Paix.</p>
+        <p>Qu'il enchaisne pour jamais</p>
+        <p>Le démon de la guerre.</p>
+      </div>
+
+<div xml:id="MG-1696-12_132">
+        <head>MG-1696-12_132</head>
+        <bibl>Mercure galant, décembre 1696, p. 132-145</bibl>
+        <p>Maniere de petit Opera.</p>
+        <p/>
+        <p>Je croy ne pouvoir vous obliger davantage qu'en vous faisant part d'un Ouvrage qui s'est fait sur la Paix de Savoye, en maniere d'Opera. Il paroist d'abord un grand nombre de Combattans &amp; de Guerries, divisez en deux troupes, l'une de François, l'autre d'Alliez. La Scene est surs les confins du Piedmont.</p>
+        <p/>
+        <p>CHOEUR D'ALLIEZ.</p>
+        <p>Frapons, perçons, soyons impitoyables,</p>
+        <p>Accablons les François sous l'effort de nos coups.</p>
+        <p>Que nos plaisirs les plus doux</p>
+        <p>Soient de faire des miserables.</p>
+        <p/>
+        <p>CHOEUR DE FRANÇOIS.</p>
+        <p>Vos efforts unis contre nous</p>
+        <p>N'en sont pas plus redoutables.</p>
+        <p>Nos coups sont inévitables,</p>
+        <p>Vous allez périr tous.</p>
+        <p/>
+        <p>Mercure paroissant sur un nuage.</p>
+        <p/>
+        <p>Fiers Peuples que séduit la discorde insensée,</p>
+        <p>Qui remplissez ces lieux de carnage &amp; d'horreur,</p>
+        <p>Eprouvez de mon Caducée,</p>
+        <p>Les appas &amp; la douceur.</p>
+        <p/>
+        <p>Deux François.</p>
+        <p>Quel charme subit nous arreste,</p>
+        <p>Et rend nos esprits étonnez ?</p>
+        <p/>
+        <p>Deux Alliez.</p>
+        <p>Nos coeurs à la guerre obstinez</p>
+        <p>D'un tranquile repos deviennent la conqueste.</p>
+        <p/>
+        <p>Mercure.</p>
+        <p>Le Maistre Souverain qui regit l'Univers</p>
+        <p>Lassé de voir ces aimables Provinces</p>
+        <p>Succomber sous le poids de mille maux divers,</p>
+        <p>A touché le coeur de vos Princes.</p>
+        <p/>
+        <p>La France &amp; le Piémont par un voeu solemnel</p>
+        <p>Vont resserrer les noeuds de l'ancienne alliance ;</p>
+        <p>Un couple chéri du ciel</p>
+        <p>Est le gage sacré de leur intelligence.</p>
+        <p/>
+        <p>En même temps les Piémontois se détachent du reste des Alliez, &amp; disent avec les François :</p>
+        <p/>
+        <p>CHOEUR de François &amp; de Piémontois.</p>
+        <p>Des Peuples oppressez, c'est le plus doux souhait.</p>
+        <p/>
+        <p>Un François.</p>
+        <p>Dieux ! que la Princesse est charmante !</p>
+        <p/>
+        <p>Un Piémontois.</p>
+        <p>Que le Prince est bien fait !</p>
+        <p/>
+        <p>Le François.</p>
+        <p>Dans leurs traits, dans leurs airs ; il n'est rien qui n'enchante.</p>
+        <p/>
+        <p>Choeur de de François &amp; de Piémontois.</p>
+        <p>Qu'ils sont dignes tous deux de l'Empire François !</p>
+        <p>Heureux ceux qui suivront leurs loix.</p>
+        <p/>
+        <p>Mercure parlant au reste des Alliez.</p>
+        <p>Vous qui n'approuvez point ce retour de tendresse,</p>
+        <p>Partez, ne troublez pas la commune allegresse.</p>
+        <p>Allez exercer vos fureurs</p>
+        <p>Dans quelque climat barbare,</p>
+        <p>Et si vous aspirez au titre de Vainqueurs,</p>
+        <p>Deffendez vos pays du Scythe &amp; du Tartare.</p>
+        <p/>
+        <p>Les Alliez.</p>
+        <p>Quel arrest !quel ordre cruel !</p>
+        <p>Que plutost Jupiter lance sur nous sa foudre,</p>
+        <p>Que plutost son bras immortel</p>
+        <p>Nous réduise en poudre.</p>
+        <p/>
+        <p>Mercure.</p>
+        <p>Connoissez mieux vos interests</p>
+        <p>Ecoutez de Loüis les offres obligeantes,</p>
+        <p>Vous pourrez voir la Paix &amp; ses graces brillantes</p>
+        <p>Me suivre de près.</p>
+        <p/>
+        <p>Les Alliez sortent &amp; Mercure continuë.</p>
+        <p/>
+        <p>Et vous, braves Guerriers, de qui l'obeïssance</p>
+        <p>Egale l'extrême valeur,</p>
+        <p>Marquez par mille jeux vostre réjoüissance,</p>
+        <p>Et bénissez à jamais le bonheur</p>
+        <p>De la Savoye &amp; de la France.</p>
+        <p>Bellone va quitter ces lieux,</p>
+        <p>C'est l'ordre du plus grand des Dieux.</p>
+        <p/>
+        <p>Les François &amp; les Piémontois.</p>
+        <p>Marquons par cent plaisirs nostre réjoüissance,</p>
+        <p>Et benissons à jamais le bonheur</p>
+        <p>De la Savoye &amp; de la France.</p>
+        <p>Bellone va quitter ces lieux,</p>
+        <p>C'est l'ordre du plus grand des Dieux.</p>
+        <p/>
+        <p>Mercure part, &amp; des Bergers, des Bergeres, &amp; des Faunes, viennent se joindre aux Guerriers.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Des plus profondes retraites</p>
+        <p>Nous accourons à vos voix,</p>
+        <p>Pour joindre nos tendres Musettes</p>
+        <p>A vos Trompettes,</p>
+        <p>A vos Timbales, à vos Hautsbois.</p>
+        <p/>
+        <p>Choeur des Guerriers &amp; des Bergers .</p>
+        <p>Ce beau jour, malgré l'envie,</p>
+        <p>Est fait pour de doux concerts.</p>
+        <p>D'une agreable harmonie</p>
+        <p>Faisons retentir les airs.</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>Que de plaisirs nous allons voir paroistre !</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Les fleurs en liberté sous nos pas vous renaisre.</p>
+        <p/>
+        <p>La Bergere.</p>
+        <p>Nos innocens Troupeaux</p>
+        <p>Seront seurs dans nos Campagnes.</p>
+        <p/>
+        <p>Une autre Bergere.</p>
+        <p>Et nos aimables Compagnes</p>
+        <p>Iront sans crainte aux Hameaux.</p>
+        <p/>
+        <p>Tous les trois ensemble.</p>
+        <p>Sur ces fertiles rivages</p>
+        <p>A l'ombre de nos Forests,</p>
+        <p>Goûtons tous les avantages</p>
+        <p>D'une bien-heureuse Paix.</p>
+        <p/>
+        <p>Moutons, cessez de vous plaindre,</p>
+        <p>Quittez la vaine frayeur.</p>
+        <p>Nous n'avons plus rien à craindre,</p>
+        <p>Si ce n'est pour nostre coeur.</p>
+        <p/>
+        <p>Un Berger à l'une des Bergeres.</p>
+        <p>Bergere, lors que Mars fait place</p>
+        <p>A l'Amour qui regne aujourd'huy,</p>
+        <p>Peut-estre ton coeur de glace</p>
+        <p>Pourra-t-il estre attendry.</p>
+        <p/>
+        <p>La Bergere.</p>
+        <p>J'aime ma liberté, mon coeur est inflexible,</p>
+        <p>Il ne met son souverain bien</p>
+        <p>Qu'au plaisir de rendre sensible,</p>
+        <p>Et de ne sentir jamais rien.</p>
+        <p/>
+        <p>Le Berger à l'autre Bergere.</p>
+        <p>Cette Bergere inexorable</p>
+        <p>Méprise l'ardeur de mes feux,</p>
+        <p>Si ton coeur estoit plus traitable</p>
+        <p>Il me vangeroit à ses yeux.</p>
+        <p/>
+        <p>La Bergere.</p>
+        <p>J'approuve le dépit qu'un tel refus fait naistre,</p>
+        <p>Je voudrois t'y servir, loin de te condamner ;</p>
+        <p>Mais je n'avois qu'un seul coeur à donner,</p>
+        <p>Et ce Berger en est le Maistre.</p>
+        <p/>
+        <p>Le Berger.</p>
+        <p>Rebuté de l'Amour, accablé de refus,</p>
+        <p>A quel secours dois-je m'attendre ?</p>
+        <p/>
+        <p>Un Faune.</p>
+        <p>Il faut recourir à Bacchus,</p>
+        <p>Contre tes noirs chagrins il sçaura te deffendre.</p>
+        <p/>
+        <p>Le Berger.</p>
+        <p>Qu'une Belle a pour moy d'attraits !</p>
+        <p/>
+        <p>Le Faune.</p>
+        <p>Que le Vin a pour moy de charmes !</p>
+        <p/>
+        <p>Le Berger.</p>
+        <p>Un regard doux &amp; tendre appaise mille allarmes.</p>
+        <p/>
+        <p>Le Faune.</p>
+        <p>De l'Amour dans le vin je trempe tous les traits.</p>
+        <p/>
+        <p>Voulez-vous passer la vie</p>
+        <p>Sans chagrin &amp; sans bruit ?</p>
+        <p>Guerissez vostre esprit</p>
+        <p>De l'amoureuse fantaisie.</p>
+        <p>Un faux appas vous seduit,</p>
+        <p>Amans, &amp; vous reduit</p>
+        <p>A languir nuit &amp; jour dans la melancolie.</p>
+        <p>A rire, à trinquer, point de jalouise,</p>
+        <p>Ny ce qui la suit.</p>
+        <p>Quand on boit bien le jour, on en dort mieux la nuit.</p>
+        <p/>
+        <p>Le Berger.</p>
+        <p>Non, non, rien n'est comparable</p>
+        <p>Aux delices des Amans.</p>
+        <p>Bacchus ne plaist qu'à la table,</p>
+        <p>Amour plaist dans tous les temps.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Il est un moyen facile</p>
+        <p>Pour nous mettre tous d'accord.</p>
+        <p>Sur ce qui nous est utile</p>
+        <p>Que chacun regle son sort.</p>
+        <p>Aimez, buvez, liberté toute entiere,</p>
+        <p>Que chacun à son gré contente ses desirs.</p>
+        <p>Si l'Amour vous presente une Beauté trop fiére,</p>
+        <p>Bacchus pour vous vanger, vous offre ses plaisirs.</p>
+        <p/>
+        <p>Deux Bergers &amp; un Faune.</p>
+        <p>Aimons, buvons, liberté toute entiere,</p>
+        <p>Que chacun à son gré contente ses desirs,</p>
+        <p>Et si l'Amour nous offre une Beauté trop fiere,</p>
+        <p>Bacchus pour nous vanger, nous offre ses plaisirs.</p>
+        <p/>
+        <p>Un des Bergers.</p>
+        <p>Aux doux transports de nostre joye</p>
+        <p>Unissez-vous, braves Guerriers.</p>
+        <p>Que nostre Olive &amp; vos Lauriers</p>
+        <p>Annoncent le bonheur que le Ciel nous envoye.</p>
+        <p/>
+        <p>L'autre Berger.</p>
+        <p>Remettez au Printemps vos valeureux exploits,</p>
+        <p>Vos jaloux Ennemis ont sonné la retraite,</p>
+        <p>Dans ce repos chantons la victoire parfaite</p>
+        <p>Et du plus grand des Ducs, &amp; du plus grand des Rois.</p>
+        <p/>
+        <p>Un Berger, un Guerrier, &amp; un Faune.</p>
+        <p>Accordons-nous pour celebrer ensemble</p>
+        <p>Ces deux Heros sous qui l'Europe tremble,</p>
+        <p>Et dans nos Concerts mêlons tour à tour</p>
+        <p>Les chants de Bacchus, de Mars, &amp; de l'Amour.</p>
+        <p/>
+        <p>Tout le Choeur repete.</p>
+        <p>Accordons-nous pour celebrer ensemble, &amp;c.</p>
+      </div>
+
+<div xml:id="MG-1696-12_149">
+        <head>MG-1696-12_149</head>
+        <bibl>Mercure galant, décembre 1696, p. 149-152</bibl>
+        <p>Grande Messe celebrée par sept Freres.</p>
+        <p/>
+        <p>Il s'est passé une chose assez rare dans le Dioces de Châlons en Champagne, &amp; qui peut-estre ne se rencontrera pas dans aucune Famille de la France. Sept Freres nommez les Boucher, originaires de Châlons, bien unis ensemble, tous Prestres, tant Seculiers que Reguliers, se sont trouvez le jour de la Feste de Saint Martin, en la Paroisse de Saint Martin de Courrisolt, où l'un d'eux est Curé depuis vingt six à vingt sept ans, &amp;  là ils ont celebré solemnellement la Feste de ce glorieux Patron, à commencer par les premieres Vespres, &amp; Matines ensuite ; le lendemain les Laudes, l'Eau benite, la Procession &amp; la grande Messe, celebrée par l'aîné de ces sept Freres Religieux Benedictin, Prieur de l'Abbaye de S. Sauveur des Vertus, le Curé de cette Paroisse faisant l'office de Diacre, &amp; le plus jeune de tous, aussi Religieux Benedictin, &amp; Procureur du même Convent, celuy de Sous-Diacre, deux autres Freres, l'un Trinitiare du Convent de Châlons, l'autre Prémonstré du Convent de Sept-fontaines ; revestus d'Aubes, &amp; de Tuniques, faisant les ceremonies &amp; encensemens ; deux autres Freres, Chanoines de l'Eglise Collegiale de la Trinité de Châlons, faisant les Choristes. Le Panegyrique du Saint fut prononcé aprés Vespres par le même Prieur de Saint Sauveur des Vertus, ce qui fut suivi de la benediction du Saint Sacrement &amp; du Te Deum.</p>
+      </div>
+
+<div xml:id="MG-1696-12_193">
+        <head>MG-1696-12_193</head>
+        <bibl>Mercure galant, décembre 1696, p. 193-196</bibl>
+        <p>Mr de Percy, Neveu de Mr Dupré Envoyé de Sa Majesté à Florence, est reçû Chevalier de S. Etienne.</p>
+        <p/>
+        <p>Mr Percy a esté receu à Florence dans l'Ordre des Chevaliers de Saint Etienne, [...]</p>
+        <p>Cet Ordre fut estably par Cosme I. de Medicis, l'an 1560 en reconnoissance d'une fameuse Victoire qu'il emporta sur les Siennois le 2. Aoust, Feste de Saint Estienne Pape &amp; Martir, &amp; il fut approuvé le I. Février de l'année suivante par le Pape Pie V. On y observe la Regle de S. Benoist, chez les Religieux duquel tout Chevalier est obligé pendant six mois d'aller faire son Noviciat, qui consiste à entendre pendant ce temps la grande Messe &amp; les Vespres les Festes &amp; les Dimanches dans le Choeur de leur Eglise avec l'habit de Ceremonie. [...]</p>
+      </div>
+
+<div xml:id="MG-1696-12_225">
+        <head>MG-1696-12_225</head>
+        <bibl>Mercure galant, décembre 1696, p. 225-227</bibl>
+        <p>Discours prononcé à Agen</p>
+        <p>Je vous envoye un Discours qui a esté prononcé par Mr Labat, Avocat du Roy au Presidial d'Agen.</p>
+        <p/>
+        <p>SUR LA PAIX DE SAVOYE.</p>
+        <p/>
+        <p>Nous avons remply l'air de nos feux &amp; de nos cris d'allegresse, &amp; le ciel, de nos actions de graces ; &amp; l'écho de ce qui se dit par tout m'engage à l'ouverture de cette Seance, d'en entretenir la Cour que de l'heureux succés de la paix de Savoye. Mais quelle étenduë de connoisssance ne faudroit-il point pour débroüiller depuis ce dernier Te Deum, les interests de tant de Princes, ou plutost quelle solidité de jugement ne faudroit-il point avoir, pour composer une action digne de cette honorable Audience ? [...]</p>
+      </div>
+
+<div xml:id="MG-1696-12_277">
+        <head>MG-1696-12_277</head>
+        <bibl>Mercure galant, décembre 1696, p. 277-279</bibl>
+        <p>Morts.</p>
+        <p/>
+        <p>Mr Centeze, Prestre Chanoine de S. Aignan en l'Eglise de Paris, mort dans sa quatre-vingt-onzième année, estant né le 3. Avril 1606. Il avoit quatre-vingt-deux ans de service dans l'Eglise de Nostre-Dame, où il estoit entré Enfant de Choeur le 12. Decembre 1614. Aprés avoir passé par tous les degrez qui sont destinez aux Beneficiers, il fut éleu Chanoine le 3. Juin 1682 &amp; il deceda le 30. Octobre dernier. Comme cette Chanoinie-Semiprebende est une des deux que Mrs du Chapitre donnent pour récompense aux Beneficiers qui ont servy leur Eglise en qualité d'Enfans de Choeur ou de Chantres élevez &amp; nourris au chant &amp; aux ceremonies de cette Eglise, ils ont donné celle cy à Pierre Nicolle, Chanoine Prestre de S. Denis du Pas, âgé de soixante-treize ans, qui estoit le plus ancien de tous les Beneficiers Prestres, &amp; Officiers de Nostre-Dame, où il est entré en qualité de Chantre dés l'année 1646. &amp; a rendu ses services tant de jour que de nuit avec toute l'assiduité &amp; l'application possible. [...]</p>
+      </div>
+
+<div xml:id="MG-1696-12_294">
+        <head>MG-1696-12_294</head>
+        <bibl>Mercure galant, décembre 1696, p. 294-299</bibl>
+        <p>Livres.</p>
+        <p/>
+        <p>On vient de donner au Public un Ouvrage qui doit plaire également aux personnes de pieté &amp; aux Sçavans. Il a pour titre, l'Esprit de l'Eglise dans l'usage des Pseaumes en forme de Priere ou d'Exhortation. Un des Amis de l'Auteur, mort depuis quelques années, qui estoit sans contredit un des plus beaux esprits de nostre siecle, en ayant recouvré heureusement une copie, a crû devoir faire part à tout le monde de cette admirable Paraphrase, qui non seulement n'a rien de commun avec celles qui ont paru jusques à present, mais qui sans s'écarter du sens litteral &amp; moral, donne aux Pseaumes les plus difficiles à entendre à cause de l'obscurité des Propheties &amp; des faits Historiques, ou par leur expression abstraite &amp; enigmatique, une explication si juste, si aisée, &amp; si pleine d'onction, que chacun selon l'intention de l'Eglise, qui propose à chaque fidelle la lecture de ces Pseaumes, en peut faire le sujet de ses prieres &amp; de ses meditations. L'Auteur dit dans sa Preface qu'ayant remarqué que ceux qui en expliquant ces Pseaumes se sont attachez au seul sens litteral, ont fait lire une simple Histoire à un Chrestien, lors que David mesme pretend luy avoir dicté une instruction pour ses moeurs, que ceux qui n'ont expliqué que le sens mystique nous ont fait parler en Prophetes, pour exciter de nous faire parler en Historiens ; &amp; enfin que ceux-là mesme qui n'ont pas negligé le sens moral, l'ont mêlé d'une telle maniere avec l'Histoire &amp; la Prophetie que la plupart des Pseaumes semblent moins des Prieres que des enigmes ; l'Auteur, dis-je, avertit ses Lecteurs dans sa preface que pour ne pas tomber dans ces inconveniens, il s'est proposé de faire servir également à nostre instruction, les differentes interpretations qu'on donne à ces mysterieux Cantiques, en sorte que sans rien negliger de ce qu'ont dit les Saints Personnages qui en sont les Auteurs, il a taché d'employer tous leurs sentimens dans sa paraphrase pour témoigner à Dieu nostre respect, nostre reconnoissance &amp; nôtre amour ; &amp; qu'afin d'entrer mieux dans leur pensée, &amp; de justifier, pour ainsi dire, l'usage que l'Eglise fait de ces Pseaumes, il a crû qu'il falloit les traduire &amp; les interpreter de telle sorte, que tous les Chrétiens en peussent faire leurs prieres &amp; leurs meditations ordinaires, sans estre rebutez par l'obscurité des Propheties qu'ils contiennent, par le recit des faits qu'ils décrivent, par la difference des personnes qui y parlent, par la contrarieté apparente des sens qu'ils renferment, par la sublimité de leurs expressions, ou par la simplicité de leurs paroles. Ce Livre est divisé en deux volumes, &amp; se vend chez le Sr Jean Guignard à l'entrée de la grande Salle du Palais, &amp; chez le sieur Jacques Robustel, ruë S. Jacques au Palmier.</p>
+      </div>
+</body>
+  </text>
+</TEI>

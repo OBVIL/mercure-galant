@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1697</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1697-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1697</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1697-11_210">
+        <head>MG-1697-11_210</head>
+        <bibl>Mercure galant, novembre 1697, p. 210-222</bibl>
+        <p>Te Deum chanté à Paris, &amp; réjoüissances faites pour la conclusion de la Paix Generale.</p>
+        <p/>
+        <p>Le Samedy 16. de ce mois, le Te Deum fut chanté icy dans l'Eglise Metropolitaine, pour rendre graces à Dieu de la conclusion de la Paix, suivant ce que le Roy avoit écrit là dessus auparavant à Mr l'Archevêque de Paris pour luy expliquer sa volonté. La lettre de sa Majesté estoit conceüe en ces termes.</p>
+        <p>MON Cousin, Les heureux succés dont le Ciel a favorisé mes Armes dans le cours d'une si longue guerre, ne m'ont jamais éloigné du desir sincere que j'avois pour la Paix, qui a toujours été l'unique fin que je me suis proposée dans toutes mes entreprises. [...] Je suis assez récompensé de tout ce que me coûte cette modération, puisqu'elle finit les maux inséparables de la guerre. Le prompt soulagement que mes Peuples en reçoivent, &amp; le plaisir que je ressens de les rendre heureux, me dédommagent assez de tout ce que je leur sacrifie [...] Dieu favorable aux desseins qu'il m'a toûiours inspirez, a ouvert les yeux aux puissances Conféderées, qui desabusées de leurs fausses esperances,[...] ont accepté les conditions que je leur ay si souvent offertes. La Paix qui fut signée le 20 Septembre dernier avec l'Espagne, l'Angleterre &amp; la Hollande a été ratifiée depuis peu de jours. La Ratification de celle que je viens de conclure avec l'Empereur &amp; l'Empire, achevera bien tôt cet ouvrage si important &amp; si necessaire à l'Europe : mais je ne puis differer jusques-là de témoigner à Dieu ma juste reconnoissance, &amp; de lui rendre les actions de graces que je lui dois [...] Je désire donc que vus fassiez chanter le Te Deum dans l'Eglise Metropolitaine de ma bonne Ville de Paris, au jour &amp; à l'heure que le grand Maître ou le Maîtres des Cérémonies vous dira de ma part : &amp; je lui ordonne d'y inviter mes Cours &amp; ceux qui ont accoûtumé d'y assister. Sur ce je prit Dieu qu"il vous ait, mon Cousin, en sa sainteté &amp; digne garde. Ecrit à Versailles le douzième jour de Novembre mil six cens quatre-vingt dix sept. Signé, LOUIS ; &amp; plus bas, PHELYPEAUX .</p>
+        <p>Mr le Chancelier, les Cours Superieures &amp; le Corps de Ville, ayant esté invitez d'assister au Te Deum par Mr le Marquis de Blainville, Grand Maistre des Ceremonies, &amp; par Mr des Granges Maistre des Ceremonies, ils se trouverent à Nostre Dame à l'heure marquée, &amp; les Actions de graces ayant esté renduës à Dieu en la manière ordinaire, Mrs les Prevost des Marchands &amp; Eschevins, avec les Conseillers &amp; Quarteniers se rendirent à l'Hôtel de Ville pour y recevoir Monsieur, Madame de Chartres &amp; Mademoiselle. Mr le Nonce, &amp; plusieurs autres Personnes de qualité s'y trouverent aussi pour voir tirer le Feu d'artifice, dont le dessein fut trouvé fort beau. [...] Après que l'on eut tiré le Feu, on presenta à leurs Altesses Royales des Corbeilles de fruits &amp; de confitures, &amp; l'on en porta ensuite dans toutes les Chambres de l'Hôtel de Ville : ce qui fut suivi d'un Bal, qui dura fort avant dans la nuit. Tous les Bourgeois de Paris marquerent leur joye ce même jour, tant par des Illumniations, que par les Feux qu'ils firent le soir devant leurs Maisons. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

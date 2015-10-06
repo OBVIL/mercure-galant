@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-02_008">
+        <head>MG-1694-02_008</head>
+        <bibl>Mercure galant, février 1694, p. 8-11</bibl>
+        <p>Sonnet.</p>
+        <p>Ie ne puis mieux commencer ma Lettre que par le Sonnet que je vous envoye. Il convient assez à la situation des affaires d'aujourd'huy.</p>
+        <p/>
+        <p>SONNET.</p>
+        <p/>
+        <p>AU ROY.</p>
+        <p/>
+        <p>Grand Roy, plein de tendresse, &amp; dont la prévoyance</p>
+        <p>Est sans cesse occupée au bien de ses Sujets,</p>
+        <p>L'on estoit menacé d'une disette en France,</p>
+        <p>Et par tout la frayeur grossissoit les objets.</p>
+        <p/>
+        <p>L'Etranger attentif, flaté par l'apparence,</p>
+        <p>Sur ce malheur public formoit de grands projets,</p>
+        <p>Mais, grace à ton amour, tes soins &amp; ta prudence,</p>
+        <p>Les Bleds vont devenir moins rares que jamais.</p>
+        <p/>
+        <p>Nous voilà delivrez de cette inquietude,</p>
+        <p>Mais, grand Roy, de l'Hiver la saison estant rude,</p>
+        <p>Les Peuples ont souffert un nouvel embarras.</p>
+        <p/>
+        <p>Ils se sont veus du froid la victime &amp; la proye.</p>
+        <p>Leurs buchers pour ta gloire, &amp; tes heureux Combats,</p>
+        <p>Ont esté cette année usez en feux de joye.</p>
+        <p/>
+        <p>Ce Sonnet est de Mr des Lutinieres, Senechal de Bourgueil. Quoy que l'usage &amp; la Poésie autorisent l'espece d'exageration qui s'y trouve, il est neanmoins constant que les Victoires du Roy ayant esté continuelles pendant l'Esté dernier, ont fait chanter plusieurs Te Deum pour les avantages remportez en Allemagne, en Italie, en Catalogne, &amp; sur Mer. Ce sont de ces faits qui doivent confondre ses Ennemis, lors qu'ils s'efforcent de rabaisser la gloire de la France. Si la disette des bleds l'a fait souffrir, les Ennemis n'ont pas l'avantage d'avoir contribué à son mal par la force de leurs armes, estant certain qu'ils ne peuvent se vanter d'avoir remporté aucun avantage sur nous, ny de nous avoir pris un pouce de terre.</p>
+      </div>
+
+<div xml:id="MG-1694-02_264">
+        <head>MG-1694-02_264</head>
+        <bibl>Mercure galant, février 1694, p. 264-304</bibl>
+        <p>Détail de tout ce qui s'est passe aux Ceremonies de la Pompe funebre de la Reine de Suede.</p>
+        <p/>
+        <p>Il y a peu d'Etats dans l'Europe où les grandes Ceremonies, comme celles des Mariages, &amp; des Pompes Funebres, se fassent avec plus d'éclat qu'en Suede. C'est ce qui m'a obligé de m'informer avec soin de tout ce qui s'est passé à Stokolm à l'occasion de la mort de la Reine regnante de Suede, afin de satisfaire vostre curiosité sur cet article. Vous trouverez que cette Relation répond à l'attente que vous en avez ; cependant la marche, pour se rendre au lieu ou les Rois de Suede sont enterrez, ne s'est pas faite avec tout l'éclat qui a de coustume d'accompagner ces sortes de Ceremonies, le Roy qui occupe aujourd'huy le Trône ayant jugé à propos d'en retrancher une partie, &amp; voulant servir d'exemple à ses Successeurs &amp; aux Particuliers pour faire moderer les grandes dépenses qui se font dans ses Etats. Je passe à la marche qui a precedé les Ceremonies de l'Eglise. La veille du jour qu'elles se firent, qui estoit le 7. Decembre, plusieurs Herauts d'Armes publierent dans les Places publiques de la Ville &amp; des Fauxbourgs, que l'Enterrement se devoit faire le lendemain. (...)</p>
+        <p>A deux heures, les Cloches de toutes les Eglises de la Ville &amp; des Fauxbourgs commencerent à sonner, &amp; à trois heures la marche commença du Chasteau à l'Eglise [.] (...)</p>
+        <p>Si-tost que leurs Majestez, avec le Prince &amp; les Princesses, furent entrées dans l'Eglise, la Musique du Roy commença à se faire entendre d'une maniere lugubre, aprés quoy l'Archevesque d'Upsal prononça l'Oraison Funebre, prenant pour texte le 21. verset du premier chapitre de l'Epistre de S. Paul aux Philippiens.</p>
+        <p>L'Oraion Funebre finie, la Musique recommença, pendant laquelle le Grand Maistre, &amp; les trois Senateurs nommez pour porter la Couronne, le Sceptre &amp; la Pomme, s'avancerent vers le Mausolée avec les autres Senateurs qui devoient porter le Corps. Ils leverent le Cercueil de l'Estrade où il estoit posé, &amp; le porterent dans le Caveau. Devant le Corps marchoient les quatre Herauts, le Grand Maistre, &amp; les trois Senateurs qui portoient les attributs de la Souveraineté, mais le Grand Maistre descendit dans le Caveau. Quand le Corps y fut posé, on tira deux cens coups de Canon en divers endroits de la Ville. Aprés cela, les Drabans, le Regiment du Roy, la Cavalerie de la Ville, le Regiment des Gardes à pied, les Compagnies de la Bourgeoisie à pied, firent leur premiere decharge ; le Canon tira une seconde fois un même nombre de coups, ce qui fut suivi d'une seconde décharge des Troupes. A la fin de la Ceremonie, l'Evesque de Lincoping donna la benediction. Ensuite les Cloches recommencerent à sonner, &amp; on retourna au Chasteau dans le mesme ordre. Pendant que le Service se faisoit dans l'Eglise où estoit le corps, on faisoit de mesme des Services, &amp; on prononçoit des Oraisons funebres dans toutes les autres Eglises de la Ville &amp; des Faux-bourgs qui estoient éclairées &amp; tenduës de noir. La Ceremonie fut suivie d'un grand Souper. Les Senateurs du Roy, la Noblesse, les Dames, Epouses &amp; Veuves des Senateurs, les autres Dames de la Cour, le Clergé, les Bourgeois &amp; les Paysans, furent tous traitez en differens Appartemens du Chasteau, avec beaucoup de magnificence.</p>
+        <p>Au retour le soir, la Cavalerie &amp; l'Infanterie portoient les armes à la maniere ordinaire. Pendant les deux marches on touchoit les tambours &amp; les timbales, mais ils estoient couverts.</p>
+      </div>
+
+<div xml:id="MG-1694-02_311">
+        <head>MG-1694-02_311</head>
+        <bibl>Mercure galant, février 1694, p. 311-314</bibl>
+        <p>Aprés vous avoir fait esperer par ma Lettre du dernier mois le retour de la santé de Madame des Houlieres, comment vous apprendre qu'elle n'a pu resister à la violence de son mal, qui l'a emportée depuis peu de jours ? Elle estoit d'un merite si distingué &amp; si generalement reconnu, qu'il n'y a qu'à dire que Madame des Houlieres est morte, pour faire entendre à tout ceux qui aiment l'esprit, qu'on a fait une perte irreparable. (...)</p>
+        <p>Le Public a témoigné beaucoup de douleur de cette mort. Aussi peut-on dire que Madame des Houlieres estoit la gloire du Parnasse, &amp; de son Sexe, &amp; qu'elle a mis nostre Poësie Lyrique au plus haut point de sa perfection, Elle avoit l'esprit d'une élevation extraordinaire, un stile pur &amp; delicat, &amp; des expressions justes &amp; nobles. (...) Les graces de l'esprit estoient jointes à celles du corps, &amp; elle a esté belle jusques à sa fin, quoy qu'agée de cinquante six ans. Elle est morte le 17. de ce mois, aprés une longue maladie, avec une resignation humble &amp; chrestienne, &amp; une constance heroïque, demandant elle-mesme tous les secours spirituels, qu'elle receus dans les sentimens d'une parfaite contrition, d'une foy vive, &amp; d'une ferme esperance.</p>
+      </div>
+
+<div xml:id="MG-1694-02_329">
+        <head>MG-1694-02_329</head>
+        <bibl>Mercure galant, février 1694, p. 329-330</bibl>
+        <p>Divertissement du Carnaval.</p>
+        <p/>
+        <p>Le Carnaval s'est passé à l'ordinaire. Monsieur a donné le bal cinq ou six fois au Palais Royal avec la magnificence qui est naturelle à ce grand Prince. Monseigneur le Dauphin s'y est trouvé, &amp; l'affluence des masques y a esté grande. Le Mardy du Carnaval toute la Cour superbement parée se rendit dans le grand Appartement du Roy à Versailles, où il y eut un bal digne de l'éclat de la Cour de France, qui conserve toujours la mesme spendeur.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1697</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1697-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1697</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1697-09_007">
+        <head>MG-1697-09_007</head>
+        <bibl>Mercure galant, septembre 1697, p. 7-16</bibl>
+        <p>Ce qui c'est passé à l'Academie françoise le jour de S. Louis, tant à la Ceremonie du matin, qu'à la distribution des Prix de l'aprésdinée.</p>
+        <p/>
+        <p>Il y a long-temps qu'il ne se fait plus de Discours publics, où l'on ne fasse entre l'Eloge du Roy [...] Ainsi, l'on ne doit pas s'étonner si l'Abbé de Beaujeu, dont l'éloquence répond à l'érudition, s'est distingué sur cette matiere dans celuy qu'il fit de ce grand Saint le 25. du mois passé, à la priere de Mrs de l'Academie Françoise, qui en solemnisoient la Fête, à leur ordinaire dans, la Chapelle du Louvre. La Messe y fut d'abord celebrée par Mr le Mercier, ancien Curé de S.Germain l'Auxerrois, &amp; pendant ce temps, un fort grand Choeur de Musique chanta le Pseaume, Deus noster refugium &amp; virtus, qui fut écouté avec une entiere satisfaction de l'Assemblée. Ensuite, Mr l'Abbé de Beaujeu monta en Chaire [...]</p>
+      </div>
+
+<div xml:id="MG-1697-09_026">
+        <head>MG-1697-09_026</head>
+        <bibl>Mercure galant, septembre 1697, p. 26-40</bibl>
+        <p>Chapitre des Recolets de Guyenne, tenu à Perigueux.</p>
+        <p/>
+        <p>Le 4. du mois passé les Recolets avec toute la magnificence qui pouvoit s'accommoder avec leur estat. [...] Le lendemain des élections, on ouvrit la ceremonie par une procession solenelle que les Vocaux firent à l'Eglise Catherine de Saint Front. [...]</p>
+        <p>[Suit la description du cortège.]</p>
+        <p>La Messe finie, une excellente Musique invita tous ces Corps Ecclesiastiques &amp; Seculiers, à continuër la Procession. On leva au carillon toutes les Cloches, la Relique de la Sainte, qui fut conduite au travers d'une foule extraordinaire [...]</p>
+        <p>[Suit la description de la procession et du repas offert aux membres du clergé par Mr de Perigueux.]</p>
+      </div>
+
+<div xml:id="MG-1697-09_116">
+        <head>MG-1697-09_116</head>
+        <bibl>Mercure galant, septembre 1697, p. 116-129</bibl>
+        <p>Ce qui s'est passé au sujet de l'établissement de l'Hopital de la Ville de Clamecy.</p>
+        <p/>
+        <p>L'evêque de d'Auxerre fit réunir, le 31 août, les Maladeries des environs de Clamecy pour parvenir à l'établissement d'un Hôpital suivant les lettres patentes de Louis XIV d'avril 1697, et en vertu de l'Edit de mars 1693.</p>
+        <p>[...] Le lendemain [de son arrivée], qui estoit le Dimanche Ie. jour de ce mois, ce Prelat alla dire la Messe sur les 8 heures, &amp; fut complimenté à la porte de l'Eglise par Mr de l'Isle, Chantre &amp; Curé de Clamecy. Il donna le sacrement de Confirmation jusqu'à midy, &amp; à une heure il assista à la Prédication du méme Pere Durand, &amp; ensuite à Vêpres, à l'issuë desquelles il fit chanter le Te Deum en action de graces de la Prise de Barcelone. [...]</p>
+        <p>[Suit la description des cérémonies marquant la visite de l'évêque dans la ville de Clamecy et ses environs (feux de Joie, processions, célébrations religieuses).]</p>
+      </div>
+
+<div xml:id="MG-1697-09_211">
+        <head>MG-1697-09_211</head>
+        <bibl>Mercure galant, septembre 1697, p. 211-213</bibl>
+        <p>Promenade des Tuileries.</p>
+        <p/>
+        <p>Vous me demandez ce que c'est que La Promenade des Tuileries, qui fait bruit dans vôtre Province. Elle fait partie de l'agreable Livre dont je vous parlay le mois passé, sous le titre de Aventures &amp; Lettres Galantes. [...] Le Medecin de Chaudris, les Vandanges de Surénes, la Foire de Bezons, le bois de Boulogne, les Bains de la Porte S.Bernard, le Palais, le Bal, l'Opera, la Comedie, &amp; divers autres lieux, ont fait naistre les Avantures qui y sont rapportées. [...] Il se vend au Palais chez le Sr Guillaume de Luynes, &amp; la Veuve Gabriel Quinet, &amp; chez l'Auteur, ruë des Sept-Voyes, Mont S.Hilaire, vis-à-vis le College de la Mercy, dans la maison de Mr Thibault.</p>
+      </div>
+
+<div xml:id="MG-1697-09_228">
+        <head>MG-1697-09_228</head>
+        <bibl>Mercure galant, septembre 1697, p. 228-234</bibl>
+        <p>Divertissement donné à Son Altesse Monsieur le Duc de Chartres.</p>
+        <p/>
+        <p>Le divertissement dont vous allez lire les paroles, a fait partie d'une Fête que Mr le Duc de Sully donna il y a quelques temps à S.A.R. Monsieur le Duc de Chartres. Il a esté composé par l'Auteur de l'Europe Galante, qui est en Balet que l'on propose pour cet hiver, &amp; dont on dit beaucoup de bien dans le monde. Vous jugerez par cette pièce des esperances que l'on doit concevoir de l'Auteur.</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Sommeil, qui me suivez sans cesse,</p>
+        <p>Eloignez de ces lieux vos languissans pavots.</p>
+        <p>J'y veux voir regner l'allegresse ;</p>
+        <p>Il faut offrir aux voeux d'un auguste Heros</p>
+        <p>D'autres charmes que le repos.</p>
+        <p/>
+        <p>Que près de luy les Jeux viennent se rendre ;</p>
+        <p>Qu'Apollon avec eux s'empresse de descendre,</p>
+        <p>Que ses Accords les plus harmonieux</p>
+        <p>Répandent dans les airs un brame aimable &amp; tendre.</p>
+        <p>Pour servir un Heros, &amp; pour plaire à ses yeux,</p>
+        <p>Tout doit suivre l'ardeur du Maistre de ces lieux.</p>
+        <p/>
+        <p>APOLLON .</p>
+        <p>Près d'un Prince charmant le zele icy m'attire,</p>
+        <p>Il se plaist à me voir accompagner ses pas.</p>
+        <p>Tâchons encore que ma Lire</p>
+        <p>Ait pour luy de nouveaux appas,</p>
+        <p>Que pour quelques momens il perde la memoire</p>
+        <p>De ses heroïques desirs.</p>
+        <p>Le jour est le temps de la gloire,</p>
+        <p>La nuît est celuy des plaisirs.</p>
+        <p/>
+        <p>LA NUIT &amp; APOLLON.</p>
+        <p>Que pour quelques momens il perde la memoire</p>
+        <p>De ses heroïques desirs.</p>
+        <p>Le jour est le temps de la gloire,</p>
+        <p>La nuît est celuy des plaisirs.</p>
+        <p/>
+        <p>MARS.</p>
+        <p>C'est vainement qu'en ces lieux on s'empresse</p>
+        <p>De flatter les desirs d'un aimable vainqueur.</p>
+        <p>Est-ce par des chants de tendresse</p>
+        <p>Qu'on pretend charmer son grand coeur ?</p>
+        <p>Ses jeux sont les combats, les perils, les alarmes ;</p>
+        <p>il prodigue son Sang, tout auguste qu'il est.</p>
+        <p>Le bruit &amp; le fracas de armes</p>
+        <p>Sont le seul concert qui luy plaist.</p>
+        <p/>
+        <p>APOLLON.</p>
+        <p>Quittez l'erreur où vostre esprit s'engage.</p>
+        <p>Il est vray que souvent les Favoris de Mars</p>
+        <p>N'ont pour toute vertu qu'un superbe courage,</p>
+        <p>Et qu'un fier mépris des beaux Arts.</p>
+        <p>Mais ce heros regle mieux son audace ;</p>
+        <p>Il ne méprise point ma voix,</p>
+        <p>Et c'est sur le Parnasse</p>
+        <p>Qu'il vient se délasser de ses nobles exploits.</p>
+        <p>Que pour le couronner chacun de nous s'apreste.</p>
+        <p>Quels jours sont plus beaux que les siens ?</p>
+        <p>Unissons sur sa teste</p>
+        <p>Vos lauriers &amp; les miens.</p>
+        <p/>
+        <p>MARS &amp; APOLLON ensemble.</p>
+        <p>Que pour le couronner chacun de nous s'apreste.</p>
+        <p>Quels jours sont plus beaux que les siens ?</p>
+        <p>Unissons sur sa teste</p>
+        <p>Vos lauriers &amp; les miens.</p>
+        <p/>
+        <p>APOLLON.</p>
+        <p>Jeux, accourez dans ces retraites,</p>
+        <p>Chassez en les tristes langueurs,</p>
+        <p>Que les ris &amp; les chansonettes,</p>
+        <p>Portent le plaisir dans les coeurs.</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Les plaisirs sont icy, que chacun en profite,</p>
+        <p>Un Prince en ces beaux lieux les amene aujourd'huy.</p>
+        <p>Ils y sont entrez à la suite,</p>
+        <p>Ils en sortiront avec luy.</p>
+        <p/>
+        
+        <p/>
+        <p>MARS, APOLLON, ET LA NUIT.</p>
+        <p>Que pour quelques momens il perde de la memoire</p>
+        <p>De ses heroïques desirs.</p>
+        <p>Le jour est le temps de la gloire,</p>
+        <p>La nuît est celuy des plaisirs.</p>
+      </div>
+
+<div xml:id="MG-1697-09_234">
+        <head>MG-1697-09_234</head>
+        <bibl>Mercure galant, septembre 1697, p. 234-239</bibl>
+        <p>Divertissement donné à Thoulouse.</p>
+        <p/>
+        <p>Le 20. du mois passé les Peres de la Congregation de la Doctrine Chrêtrienne du premier College de Ville de Toulouse, dit Lesquille, firent representer une Tragedie precedée d'un Prologue, &amp; accompagnée de Chants &amp; de Ballets pour la distribution des Prix, que Messieurs les Maires &amp; Capitoules ont accoutûmé de donner tous les ans aux Ecoliers de Rhetorique, Ceremonie d'autant plus singuliere à Toulouse qu'elle se fait dans ce seul College. Il y eut un grand concours de dames &amp; de personnes qualifiées de la Ville. Mr Daspe, Conseiller au parlement &amp; Maire s'y rendit en Robe rouge, accompagné des huits Capitoules revêtus leurs Chaperons, Habits, &amp; Robes de Ceremonie, estant tous partis de l'Hôtel de Ville, au son des Haut-bois &amp; fanfares des Trompettes, escortez de cent hommes d'armes, garde ordinaire de la Maison de Ville, &amp; qui faisoient dans leur marche des salves &amp; des décharges de leur Mousqueterie, &amp; à leur tête estoient les Officiers qui les commandent. [...] La Tragedie fut representée avec tout l'ordre que l'on pouvoit souhaiter, &amp; receut de grands applaudissemens de l'Assemblée.</p>
+      </div>
+
+<div xml:id="MG-1697-09_257">
+        <head>MG-1697-09_257</head>
+        <bibl>Mercure galant, septembre 1697, p. 257-261</bibl>
+        <p>Réjoüissances faites à Laulnay.</p>
+        <p/>
+        <p>Mr Bernard, Receveur general de la Commanderie de Laulnay, appartenant à Mr le Grand-Prieur de France, n'eut pas plûtost sceu la défaite du Viceroy de Catalogne, par l'Armée du Roy que commandoit Mr le Duc de Vendôme, qu'il fit charger trois petites pieces de campagne, qui sont au Chasteau de cette Commanderie, &amp; en fit faire plusieurs décharges toute la nuit, avec de grandes Illuminations au Chasteau. Ce ne fut là que le prélude de ce qu'il fit pour la prise de Barcelone. Il fit avertir tous les Habitans des Villages dépendans de la Commanderie de Laulnay, de se mettre sous les armes, pour assister au Te Deum qu'il vouloit faire chanter ; &amp; le Dimanche 15. de ce mois, il envoya deux Tambours à chaque village, &amp; fit distribuer de la poudre à toute la Milice, conduite par les officiers du lieu, qui se rendirent en bon ordre à l'Eglise de S. Martin, Paroisse de Laulnay. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

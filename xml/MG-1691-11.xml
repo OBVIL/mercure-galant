@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-11_039">
+        <head>MG-1691-11_039</head>
+        <bibl>Mercure Galant, novembre 1691, p. 39-56</bibl>
+        <p>Description des réjoüissances faites à Alep pour la prise de Nice &amp; de Mons.</p>
+        <p/>
+        <p>Les Conquestes du Roy font effet par tout, &amp; quoy qu'il y ait déjà long-temps que la fameuse Ville de Mons &amp; celle de Nice ayent reconnu la puissance de ses Armes, vous ne serez pas fâchée d'apprendre les réjoüissances que leur prise a fait faire dans Alep. Mr Jullien, Consul de France, en ayant receu l'heureuse nouvelle, fit assembler chez luy tout ce qu'il y avoit alors de Marchands François en cette Ville-là, &amp; tous unanimement delibererent de faire paroistre par une Feste d'éclat quelle augmentation de gloire les Armes de Sa Majesté s'estoient acquise. [...] On commença par faire élever sur un Dome qui fait l'entrée de sa Maison, un grand Pavillon blanc, chargé de trois Fleurs de Lis d'or, pour annoncer au Peuple qu'on feroit dans quatre jours une Feste des plus éclatantes qu'on eust jamais faites dans Alep. Le 17. de Juin dernier, on exposa le S. Sacrement dans sa Chapelle, qui est desservie par les Peres Jesuites. Tous les Ordres Missionnaires &amp; Marchands François s'y rendirent. On y chanta la Grand'Messe, &amp; le Pere Deschamps, Superieur des Jesuites y fit un Discours tres-éloquent [...]. On employa le reste du jour &amp; toute la nuit Suivante à preparer tout ce qu'on jugea le plus necessaire pour rendre la réjoüissance des plus magnifiques, &amp; on profita si utilement de la disposition de la maison du Consul, qu'il n'y eut pas le moindre coin qui ne portât quelque marque de la Fête qui se devoit faire le lendemain. [L'auteur décrit la décoration]. Le lendemain au matin, les Députez &amp; Marchands François se rendirent chez le Consul, dans une fort grande propreté. [...] La marche commença sur les neuf heures, pour aller chanter le Te Deum à la Paroisse desservie par les Peres de Terre-Sainte. [...] Lorsque l'on fut arrivé [...] à la Paroisse, le Pere Gardien de Terre-Sainte y celebra la grand'Messe, &amp; fit un sçavant Discours sur le sujet de la Feste. On entonna le Te Deum. L'Exaudiat fut chanté, &amp; après la Benediction du Saint-Sacrement [...] on retourna au mesme ordre chez le Consul de France, où l'on avoit préparé une table de quarante couverts. [...] Sur les quatre heures après midy, l'on se prepara à la Cavalcade que l'on avoit resolu de faire pour aller rendre des actions de graces à Dieu dans les Eglises des Maronites Grecs, &amp; Armeniens. [...] L'heure du départ estant venuë les Tambours, les Timbales, &amp; autres Instrumens joints au bruit des Morterets, donnerent avis de la marche au Peuple. [...] On alla descendre à l'Eglise des Maronites, où tous leurs Prestres se trouverent à la porte, revestus de leurs Chapes, avec beaucoup de Flambeaux allumez pour conduire au Maistre Autel tous ceux qui estoient de la Cavalcade. Après beaucoup de Prieres en leur langue pour la prosperité de nostre Auguste Monarque, le Pere Gardien, qui s'y estoit rendu avec tous les Religieux Missionnaires entonna le Te Deum, qui fut suivi de l'Exaudiat. Le Patriarche des Grecs, revestus de ses habits Pontificaux, accompagné d'un Evesque &amp; de tous ses Prestres, vint recevoir le Consul de France, avec la Croix &amp; la Banniere, &amp; un grand nombre de Flambeaux allumez à la sortie de l'Eglise des Maronites, en chantant aussi des Prieres en leurs Langue pour la conservation de la Personne Sacrée de Sa Majesté [...]. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-11_192">
+        <head>MG-1691-11_192</head>
+        <bibl>Mercure Galant, novembre 1691, p. 192-193</bibl>
+        <p>Ouverture du Parlement, &amp; tout ce qui s'est passé en cete occasion.</p>
+        <p/>
+        <p>Le Parlement assiste tous les ans à une messe solemnelle le lendemain de la Saint Martin, comme je vous l'ay souvent marqué. Cette Messe se chante en Musique dans grande Salle du Palais, ornée pour cet effet, &amp; elle est toujours celebrée par un Evêque, que le Parlement prie de faire cette fonction. Elle l'a esté cette année par Mr Floriot, Tresorier de la Sainte Chapelle, qui officie avec les mesmes ceremonies que les Evesques. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-11_273">
+        <head>MG-1691-11_273</head>
+        <bibl>Mercure Galant, novembre 1691, p. 273-279</bibl>
+        <p>Mr Pavillon est nommé à l'Academie Françoise à la place de Mr de Benserade.</p>
+        <p/>
+        <p>Le Jeudy 22. de ce mois, l'Academie Françoise s'estant assemblée au nombre de vingt cinq, pour remplir la place qui estoit demeurée vacante par la mort de Mr de Benserade, après avoir écouté les propositions qui luy furent faites de plusieurs sujets considerables, se choisit elle mesme Mr Pavillon. Il y avoit long-temps que sa réputation &amp; ses ouvrages, avoient fait desirer à tous ceux qui la composent de le mettre de leur Corps, mais la modestie, &amp; l'empressement qu'il avoit de songer plutost à ses amis qu'à luy-mesme, les avoit empêchez jusque-là de se satisfaire. Le Roy à qui il fut proposé comme celuy qui avoit eu le plus de suffrages, luy a donné son agrément, &amp; toute la Cour, &amp; Paris y ont applaudi. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

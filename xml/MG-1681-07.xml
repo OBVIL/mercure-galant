@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-07_141">
+        <head>MG-1681-07_141</head>
+        <bibl>Mercure Galant, juillet 1681, p. 141-142, 146-148, 152, 154</bibl>
+        <p>Réception faite à la Reyne Mere de Dannemark à la Cour de Hanover.</p>
+        <p/>
+        <p>Le 25. du dernier mois, sur l'avis qu'on eut que la Reyne Mere de Dannemark estoit partie de Zell pour venir à la Cour de Hanover, l'ordre fut donné à la Milice de prendre les Postes qui luy avoient esté assignez sur le passage de Sa Majesté, &amp; en mesme temps on fit dresser une magnifique Tente dans une Prairie tres-spacieuse sur le grand Chemin à une lieuë de la Ville, où Monsieur le Duc de Hanover, Frere de cette Princesse, avoit dessein de la recevoir. Incontinent apres le Dîné, la Marche se fit de cette maniere.</p>
+        <p>Quatre Compagnies d'ordonnance, &amp; cinq de Cavalerie, sortirent du Palais en bon ordre, ayant leurs Trompetes &amp; leurs Officiers à leur teste. [...]</p>
+        <p>La Compagnie des Gardes du Corps en Livrées tres-riches, leurs Trompetes &amp; leurs Officiers à leur teste, tous en dorure &amp; superbement vestus, donnoit un tres-grand éclat à cette Marche.</p>
+        <p>Le Carrosse de Messieurs les deux Princes aînez, George-Loüis, &amp; Fréderic-Auguste, paroissoit un peu séparé de cette file. Quelques Gentilhommes, &amp; plusieurs Pages à cheval, l'environnoient, &amp; quantité de Valets-de-pied estoient à la teste des Chevaux. Celuy de Madame la Princesse suivoit immédiatement ce dernier. Il n'estoit pas moins pompeux, quoy qu'il ne fust point entouré de tant de monde. Enfin douze Trompetes &amp; les Timbales de Son Altesse Serénissime, dans un fort leste équipage, annoncerent par leurs fanfares la venuë de ce Prince, qui sortit de son Palais dans le plus magnifique Carrosse qu'on puisse voir. [...]</p>
+        <p>Il y eut un magnifique Soupé, pour lequel on avoit dressé sept grandes Tables, outre celle de la Reyne, qui fut seulement de douze Couverts. [...]</p>
+        <p>Les Violons François firent des merveilles à leur ordinaire, &amp; pendant tout le Soupé le Sr Farinel fit valoir les Airs du fameux Lully, qui fait admirer par tout les agrémens de sa Symphonie. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-07_256">
+        <head>MG-1681-07_256</head>
+        <bibl>Mercure Galant, juillet 1681, p. 256-257, 265, 270-271</bibl>
+        <p>Tout ce qui s'est passé au transport du Corps de feu M. le Duc de Lesdiguieres en Dauphiné, &amp; les Honneurs funebres qui luy ont esté rendus en cette Province.</p>
+        <p/>
+        <p>Ma Lettre du mois de May vous apprit la mort de M le Duc de Lesdiguieres. Son Corps ayant esté embaumé fut mis en dépost dans l'Eglise de S. Germain en Laye, &amp; y demeura le nombre des jours qu'on a de coûtume d'y laisser les Personnes de sa naissance. [...]</p>
+        <p>Les Tambours qu'on avoit aussi voilez de noir, faisoient paroistre l'Ecusson des Armes de Lesguidieres. Leur Baterie estoit celle des Convois funebres. Enfin tous les Officiers, Sergens, Caporaux, Tambours, &amp; Valets de la Suite des Officiers, avoient des Habits de deüil &amp; de longs Crêpes, aussi bien qu'une partie des Soldats. Jugez par toutes ces choses combien cette Marche estoit lugubre. [...] Ce triste Convoy arriva sur les neuf heures du soir à l'Eglise Cathédrale de Nostre-Dame, au son de toutes les Cloches de la Ville. [...] Le jour suivant, à cinq heures du matin, la Messe fut celébrée, &amp; le Corps remis un peu apres sur le mesme Chariot, qu'on accompagna dans le mesme ordre jusques au Convent des Récolets, hors la Porte de Bonne. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

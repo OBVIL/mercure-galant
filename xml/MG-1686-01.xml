@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-01_104">
+        <head>MG-1686-01_104</head>
+        <bibl>Mercure Galant, janvier 1686, p. 104-106</bibl>
+        <p>Divertissement fait à Doüay</p>
+        <p/>
+        <p>Une indisposition survenüe à Mr le Duc d'Elbeuf l'ayant arresté icy, Mr le Prince d'Elbeuf son Fils alla le mois passé prendre possession du Gouvernement de Picardie, &amp; tenir en mesme temps les Etats d'Artois. Les Gouvernements des Villes voisines de Flandres le vinrent voir pendant son séjour. Mr le marquis de Pommereu Gouverneur de Doüay, qui s'acquita du mesme devoir, amena avec luy ses Violons &amp; quelques Chanteurs, ce qui donna lieu à Mr du Meny, si connu par la réputation qu'il s'est acquise sur le Théâtre de l'Académie de Musique, de faire chanter le dernier Opéra de Fontainebleau. Il estoit venu avec Mr le Prince d'Elbeuf aux Etats d'Artois, à son retour de ceux de Bretagne, où je vous ay mandé qu'il estoit, &amp; ce qu'il y fit. Il fut surpris des bonnes Voix des Chanteurs, que l'on avoit fait venir de vingt lieües aux environs ; &amp; comme les Instrumens répondoient parfaitement à ces belles Voix, ce Spectacle attira tout ce qui y avoit de Personnes de qualité dans la Province. L'affluence y fut telle, que quoyque la Salle de Mr le Comte de Nancré, Gouverneur d'Arras, soit très vaste, &amp; qu'on prist soin de n'y laisser entrer que des gens de marque, elle ne pût contenir tous ceux qui se présentèrent.</p>
+      </div>
+
+<div xml:id="MG-1686-01_116">
+        <head>MG-1686-01_116</head>
+        <bibl>Mercure Galant, janvier 1686, p. 116-124</bibl>
+        <p>Lettre Historique</p>
+        <p/>
+        <p>On m'a donné une Lettre de Mr Vignier dont la lecture vous divertira. Quoy que les premières lignes par une matière galante, elle ne laisse pas de contenir fort historiques, &amp; dignes de la curiosité du Public.</p>
+        <p/>
+        <p>A MONSIEUR</p>
+        <p>L'ABBE DE RASILLY</p>
+        <p/>
+        <p>Vous avez désiré, Monsieur, que je vous fasse sçavoir ce qui se passerait dans notre Voyage. Depuis qui vous eûmes quitté Tours, nous eûmes toûjours de belles journées à l'exception d'une seule.</p>
+        <p/>
+        <p>Il s'éleva de grands Broüillards,</p>
+        <p>Mais estant dans de bons Carosses,</p>
+        <p>Nous étions tous aussi gaillards,</p>
+        <p>Que des Gens qui vont à des Noces.</p>
+        <p/>
+        <p>On y fit des Impromtus, on y fit des Chansons, &amp; vous n'aurez pas de peine à croire qu'ayant une aussi agréable matière que la grossesse de Madame la Duchesse de Richelieu, on ne s'épargna pas sur ce sujet. Mais, Monsieur, vous ne serez pas moins surpris que nous l'avons esté, de voir qu'en mesme temps que le Roy chasse l'Hérésie de son Royaume, &amp; que plusieurs de ses Sujets qui en sont infectez, se retirent dans les Pays Etrangers, la Providence Divine permet que des Turcs viennent se faire Chrestiens, &amp; remplir leurs places. C'est ce que nous avons veu à nostre dernière couchée qui fut à Châtres. Il arriva dans la mesme Hostellerie où nous estions deux Carosses, dans l'un desquels estoient deux Dames Turques, cinq petites Filles, &amp; M. de Raban ; Et dans l'autre cinq petits Garçons Turcs, deux Mores, &amp; un Turc qui s'est fait Chrestien, &amp; qui leur servoit de Truchement. Cette caravane estoit conduite par M. de Raban, dont le mérite est connu dans le monde, &amp; particulièrement dans la Maison de Soissons. Il suivit feu Mr le Comte de Soissons dans toutes ses Campagnes. A près la mort de ce Prince il s'attacha au Prince de Savoye son fils, &amp; fit avec luy le Voyage d'Angleterre. Il l'a suivy à son retour en France, de là à Venise, &amp; de Venise dans la Morée. Vous aves sceu, Monsieur, comme ce jeune Prince s'est extrêmement signalé dans toutes les prises de villes que l'Armée Venitiennes faites. Il ne voulut avoir aucun Commandement dans cette Armée, mais on peut dire pourtant qu'il en étoit l'Ame, &amp; que tous les Officiers &amp; les soldats le consideroient autant que le General. Vous aves oüy les Relations de la Prise de Coron, mais vous n'avez peut-être pas leu que la plus grande partie de la gloire de sa prise luy est deüe. Au second Assaut qu'on donna à cette Place, il fut un des premiers qui monterent au haut de la bréche, où l'on fit planter les Drapeaux blancs. [...] La Mine avoit ensevely sous ses ruines le Gouverneur de la ville, homme intrépide, ce qui fit le grand bonheur de Chrestiens, car sans cela ils ne s'en seroient peut-estre pas rendus Maistres. Ce fut dans cette furieuse attaque, où l'Armée Chrétienne passa au fil de l'Epée hommes, femmes &amp; enfans, que la belle Ismi (c'est le nom de la femme de ce brave Gouverneur) suivie d'une Niece, fut assez heureuse pour se pouvoir jetter aux pieds du Prince de Savoye, qui les receut avec cette générosité si naturelle à ceux de cette illustre Maison. C'est icy, Monsieur, où j'aurois besoin de toute l'Eloquence de Messieurs de l'Académie Françoise pour vous faire le Portrait d'une beauté achevée. Je vous ay dit que nous faisions des Impromtus &amp; des Chansons. La belle Ismi m'entretint dans cette humeur enjoüée, &amp; tira de ma veine ces deux couplets sur un Air de l'Opéra, qui commence,</p>
+        <p>C'est l'Amour qui nous menace, &amp;c.</p>
+        <p/>
+        <p>Ismi, pour estre admirable,</p>
+        <p>Il ne te manque plus rien</p>
+        <p>Que le Nom incomparable</p>
+        <p>De Chestienne au lieu du tien.</p>
+        <p>Ah, que tu seras aimable,</p>
+        <p>Et qu'il te conviendra bien !</p>
+        <p>Ismi, pour estre admirable,</p>
+        <p>Il ne te manque plus rien.</p>
+        <p/>
+        <p>Ton avanture est étrange,</p>
+        <p>Mais tu dois benir son sort,</p>
+        <p>Tu gagnes trop à ce change</p>
+        <p>Pour n'en estre pas d'accord.</p>
+        <p>Tu feras un petit Ange</p>
+        <p>Devant, comme après la mort.</p>
+        <p>Ton avanture est étrange,</p>
+        <p>Mais tu dois benir son sort.</p>
+        <p/>
+        <p>[Le prince de Savoie rendit sa liberté à la jeune veuve et lui proposa de le suivre en France, ce qu'elle fit. Dans la suite de la Lettre, on s'applique à décrire le voyage pour la France d'Ismi et de sa nièce Fatmée, et à vanter leurs charmes.]</p>
+      </div>
+
+<div xml:id="MG-1686-01_282">
+        <head>MG-1686-01_282</head>
+        <bibl>Mercure Galant, janvier 1686, p. 282-283</bibl>
+        <p>Alcibiade, Tragédie</p>
+        <p/>
+        <p>On a joüé la nouvelle Tragédie d'Alcibiade dont je vous parlay le mois passé &amp; elle a eu le succès que je vous ay marqué qu'on en esperoit. Alcibiade y conserve le Caractère qu'il a dans l'Histoire, &amp; l'Acteur qui le représente, soutient ce Personnage avec un tel agrément, &amp; d'une manière si naturelle, qu'on peut dire que c'est la première fois que la Comédie a esté joüée comme il la joüe. La Pièce est remplie de Vers aisez &amp; de fort bon goust, &amp; tout le monde voit la Représentation avec beaucoup de plaisir.</p>
+      </div>
+
+<div xml:id="MG-1686-01_284">
+        <head>MG-1686-01_284</head>
+        <bibl>Mercure Galant, janvier 1686, p. 284</bibl>
+        <p>[Informations relatives aux Opéras de Lully]</p>
+        <p/>
+        <p>Mr du Meny, dont je vous ay parlé au commencement de cette Lettre [cf. MG-1686.01.01], est rentré à l'Académie de Musique, &amp; a joüé dans l'Opéra de Roland. Celuy d'Armide s'avance fort, &amp; l'on travaille avec un grand empressement à tout ce qui en regarde le Spectacle. Ainsi, l'on espère qu'on en donnera quelques Représentations à Paris sur la fin du Carnaval.</p>
+      </div>
+
+<div xml:id="MG-1686-01_290">
+        <head>MG-1686-01_290</head>
+        <bibl>Mercure Galant, janvier 1686, p. 290-291</bibl>
+        <p>Le Ballet de la Jeunesse</p>
+        <p/>
+        <p>Le Ballet de la Jeunesse a esté dancé cette semaine à la Cour, pour la première fois ; mais n'en n'estant pas encore assez bien instruit pour vous en pouvoir parler à fond, je remets jusqu'au mois prochain à vous en apprendre les particularitez.</p>
+      </div>
+</body>
+  </text>
+</TEI>

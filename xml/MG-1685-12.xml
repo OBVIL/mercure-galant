@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-12_004">
+        <head>MG-1685-12_004</head>
+        <bibl>Mercure Galant, décembre 1685, p. 4-5, 6-7, 9</bibl>
+        <p>Lettre de Rome</p>
+        <p/>
+        <p>[...] [J']ay à vous faire part d'une Lettre écrite de Rome à Mr le Duc de Saint-Aignan par Mr de Chassebras de Cramailles. Elle contient ce qui s'est passé de considerable à quelques Festes qu'on a celebrées avec les Solemnitez particulieres à la Procession des Nouveaux Convertis, &amp; aux Réjoüissances qui ont esté faites à l'occasion des avantages remportez par les Chrestiens sur les Turcs.</p>
+        <p/>
+        <p>A Rome ce 15. Septembre 1685.</p>
+        <p>[...]</p>
+        <p/>
+        <p>[Le 4 août] on fit l'ouverture de l'Eglise de S. Ignace des Peres Jesuites du College Romain, qui est la Maison où ils enseignent, comme celle de la Ruë Saint-Jacques à Paris. C'est une des plus belles Eglises de Rome après Saint Pierre. La pluspart de Messieurs les Cardinaux, &amp; ce qu'il y a icy de personnes de Qualité la vinrent voir ce jour là ; &amp; le lendemain Dimanche. L'Autel estoit garny d'une quantité surprenante d'argenterie, &amp; le Service se fit à quatre Choeurs de Musique. Cette Eglise, celle de la Maison Professe &amp; celle du Noviciat, sont trois des plus belles de Rome.</p>
+        <p>Le mesme jour &amp; le Dimanche suivant, les Dominiquains celebrerent la Feste de Saint Dominique, Patron de cét Ordre. Leur Principale Eglise est celle de Sancta Maria super Minervam, qui estoit autrefois le Temple d'Isis. La Musique estoit à huit Choeurs. [...]</p>
+        <p/>
+        <p>Le 25 Aoust on celebra la Feste de Saint Loüis dans l'Eglise de ce Saint, qui est de la Nation Françoise. Il y eut une tres-belle Musique. M. l'Ambassadeur de France s'y rendit en grand cortege à douze à treize heures, qui sont sept &amp; huit heures du matin selon l'Horloge de France, pour recevoir Messieurs les Cardinaux qui y estoient invitez, il s'en trouva un fort grand nombre. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-12_082">
+        <head>MG-1685-12_082</head>
+        <bibl>Mercure Galant, décembre 1685, p. 82-83</bibl>
+        <p>Services faits pour feu Mr le Chancelier [Le Tellier] en plusieurs Communautez de Paris, &amp; en plusieurs Villes du Royaume, avec la Description de quelques Mausolées, &amp; la Lettre Circulaire des Capucins, sur le mesme sujet, où l'on voit l'Eloge de ce Ministre</p>
+        <p/>
+        <p>[...] On a [célébré] la mémoire de ce digne Chef de la Justice dans l'Abbaye de S. Arnoult de Mets. On y chanta la Messe en Musique, &amp; le service fut fait par les soins de Messieurs les Secretaires du Roy. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-12_186">
+        <head>MG-1685-12_186</head>
+        <bibl>Mercure Galant, décembre 1685, p.186-187, 190-193, 232-237</bibl>
+        <p>Ce qui s'est passé en plusieurs Villes du Royaume, touchant les affaires de la Religion, &amp; les Conversions qui se sont faites</p>
+        <p/>
+        <p>Mr le Marquis de Saint Germain, Gouverneur de la Marche, ayant receu de la part du Roy une copie de l'edit qui suprime l'Exercice de la Religion Pretenduë Reformée, avec ordre de faire démolir en execution de cét Edit, le Temple de la Ville d'Aubusson, qui estoit le seul lieu de la Province où si fist cét Exercice. [...]</p>
+        <p/>
+        <p>[...] Mr le Marquis de Saint Germain fit son Entrée dans la Ville, &amp; à peine fut-il descendu dans la Maison qui luy avoit esté preparée ; qu'une foule des Habitans Religionnaires vinrent le prier de vouloir estre témoin de l'Abjuration qu'ils estoient tout prests de faire entre les mains de leur Curé. Des dispositions si promptes &amp; si favorables le surprirent agreablement. Il y répondit avec des honnêtetez &amp; des caresses, qui engagerent ce qui restoit là de Calvinistes à se convertir les jours suivans. [...] Les conversions continuerent ce mesme jour 24. du mois, &amp; le nombre des Calvinistes qui estoit de plus de six cens, fut reduit à douze. Il parut d'abord que ces derniers cherchoient à se distinguer par l'opiniatreté qui est le caractere des Heretiques mais Mr le Gouverneur ; Mr de Cressat, &amp; Mr de Gedouin Vicomte du Monteil son gendre, leur parlerent avec tant de force &amp; de douceur, qu'ils les ramenerent comme les autres, &amp; ils assistèrent à la Messe chantée en Musique avec le Te Deum, &amp; les Prieres ordinaires pour le Roy. [...]</p>
+        <p/>
+        <p>Il ne reste plus aucun Pretendu Reformé dans la Ville de Niort en Poitou, &amp; toutes ces Conversions sont deuës à Mr de Fontmort, President &amp; Lieutenant General, &amp; à Mr de la Teraudiere, Maire de la Ville. [...] Les Calvinistes ont esté instruits ; il sont esté convaincus ; ils ont vû clair dans les Misteres de la Foy, &amp; ils se sont convertis, sans que de plus de cinq mille personnes, il en soit resté une seule qui fasse encore Profession de la Religion Pretenduë Reformée. Mr le President de Fontmort a esté si pénetré du plaisir que ce changement luy a causé, qu'il a fait un feu de joye, où quatre jeunes Demoiselles mirent le feu à la teste de deux cens Filles converties, &amp; aux bruits des Tambours &amp; des Trompettes. Je ne vous décris point cette Feste, ny la Statuë du Roy que l'on avoit élevée exprés, &amp; autour de laquelle trois cens Mousquetaires firent de continuelles décharges, &amp; burent à la santé de Sa Majesté avec le vin de plusieurs Fontaines qui couloient aux dépens de ce génereux President, qui avoit chez luy une Table de soixante couverts pour les personnes les plus qualifiées de la Ville, sans celles qui se trouverent encore en plusieurs endroits de son logis. Cette réjoüissance se communiqua dans toute la Ville, de sorte que l'on peut dire que tous les Habitans burent ensemble ce soir là. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-12_278">
+        <head>MG-1685-12_278</head>
+        <bibl>Mercure Galant, décembre 1685, p. 278-296</bibl>
+        <p>Chapitre general de Cluny</p>
+        <p/>
+        <p>[Dans ce long article, on revient sur le déroulement du chapitre qui s'était tenu, en l'abbaye de Cluny, en novembre et décembre. Il avait été présidé par le cardinal de Bouillon, abbé de Cluny et administrateur général de l'ordre des clunisiens.]</p>
+        <p/>
+        <p>p. 288, 289-290</p>
+        <p>« [...] on alla au Définitoire, où tout le monde mangea maigre [...] Mr le Cardinal de Boüillon, qui se trouva aussi bien qu'eux au Réfectoire, où il fit toutes les fonctions, ayant dit le Benedicite &amp; les Graces que l'on finit dans le Chapitre, où l'on alla au sortir du Refectoire, en chantant le Miserere. »</p>
+        <p/>
+        <p>[Parmi les personnes ayant assistées à ce chapitre, figure Jean de Santeuil, chanoine de de l'abbaye de Saint-Victor, célèbre pour les hymnes qu'il composa pour le nouveau Bréviaire de Cluny [p. 295].</p>
+      </div>
+
+<div xml:id="MG-1685-12_303">
+        <head>MG-1685-12_303</head>
+        <bibl>Mercure Galant, décembre 1685, p. 303-306</bibl>
+        <p>Comedies nouvelles</p>
+        <p/>
+        <p>La Troupe du Roy a donné plusieurs Representations d'une comedie intitulée, Les Façons du Temps. Comme on ne dit point le nom de l'Autheur, j'observeray là-dessus le silence que sa modestie veut qu'on garde. Elle est d'un Homme du monde, qui en sçait les manieres, &amp; de qui mesme des personnes de distinction &amp; de naissance, veulent bien recevoir des préceptes pour apprendre à vivre. Cette Piece a d'abord esté traitée comme le sont celles qu'on estime assez pour les critiquer ; car chacun sçait que l'on ne se donne pas la peine de censurer, ce que l'on trouve tout-à-fait méchant. Après avoir essuyé la critique de ceux que ne voyent les Ouvrages nouveaux que pour en chercher les endroits foibles, elle a esté joüée à la Cour, où elle a receu un accueil plus favorable, &amp; où parmy les suffrages illustres qu'elle a eus, elle en a merité de personnes reconnuës &amp; estimées, pour n'avoir jamais déguisé leurs sentimens. Le Public desinteressé l'a veuë ensuite. Il s'y est fort diverty, &amp; les Assemblées ont esté nombreuses. Comme elles font le plus grand succés des Pieces, on peut dire que celle-cy a eu beaucoup d'Approbateurs, puis qu'elle a toûjours eu des Auditeurs en tres-grand nombre.</p>
+        <p>Je ne puis vous parler d'Alcibiade, Tragedie nouvelle de l'Autheur d'Andronie. Elle sera representée avant que ma Lettre parte, mais ma Lettre sera finie avant qu'on la jouë. Cependant je puis vous dire d'avance, que cette Piece qui a esté leuë à beaucoup de Connoisseurs, est tellement estimée qu'elle doit avoir un tres-grand succés.</p>
+      </div>
+</body>
+  </text>
+</TEI>

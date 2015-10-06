@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1689</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1689-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1689</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1689-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1689-09_021">
+        <head>MG-1689-09_021</head>
+        <bibl>Mercure galant, septembre 1689, p. 21-28</bibl>
+        <p>Concert.</p>
+        <p/>
+        <p>[...] Il faut presentement vous faire connoistre de quelle maniere on a parlé [du roi] dans une Feste galante qui regarde des Bergers. C'est dans un Concert qui s'est fait une fois chaque semaine presque pendant tout l'Esté chez Mr de Mallebranche, Conseiller au Parlement de Paris. La Musique est la composition de Mr Martin, &amp; l'on peut juger par les frequentes repetitions de ce Concert, dont plusieurs personnes de la premiere qualité ont demandé la continuation lors qu'on estoit sur le point de les cesser, combien on en a receu de plaisir. Cette petite Pastorale qui a pour titre, Les Bergers heureux, est de Mr de Tonti, Gentilhomme Italien, dont je vous ay quelquefois envoyé des Vers que vous avez trouvez fort galans. Il y en a prés de cinq cens dans cet Ouvrage, où l'Amour, la Jalousie, l'Indifference, l'Innocence, &amp; l'Insensibilité, sont dépeintes avec des traits naturels, de sorte que le coeur, les oreilles &amp; l'esprit, se trouvent agreablement occupez, tant que ce divertissement dure. Themis, la Gloire, &amp; la Renommée en font le Prologue par les Vers qui suivent.</p>
+        <p/>
+        <p>LA RENOMMEE</p>
+        <p>Toute l'Europe est en alarme</p>
+        <p>De la puissance de LOUIS,</p>
+        <p>Et nous voyons qu'elle arme,</p>
+        <p>Pour arrester le cours de ses faits inouïs.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>L'Europe a beau s'armer, aussi-tost qu'il commande,</p>
+        <p>Tout est à ses ordres soumis,</p>
+        <p>Et plus il aura d'Ennemis,</p>
+        <p>Et plus sa gloire sera grande.</p>
+        <p/>
+        <p>THEMIS.</p>
+        <p>Le Roy, le Protecteur des Rois,</p>
+        <p>Que l'on a vû voler de victoire en victoire,</p>
+        <p>Va pour le comble de sa gloire</p>
+        <p>Forcer tout l'Univers à recevoir ses loix.</p>
+        <p/>
+        <p>LA RENOMMEE.</p>
+        <p>Soit dans la Paix, soit dans la Guerre,</p>
+        <p>On le voit au milieu de sa superbe Cour,</p>
+        <p>Toujours plus craint que le Tonnerre</p>
+        <p>Toujours plus aimé que l'Amour.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Le Ciel, qui pour luy s'interesse,</p>
+        <p>Seconde ses justes projets,</p>
+        <p>Et l'on voit qu'il répand sans cesse</p>
+        <p>Des biens sur ses heureux Sujets.</p>
+        <p/>
+        <p>THEMIS.</p>
+        <p>Il rend des Potentas les efforts inutiles,</p>
+        <p>Et nous voyons sous ce Heros</p>
+        <p>Les Bergers de ces lieux dans un profond repos,</p>
+        <p>Vivre toujours contens, vivre toujours tranquilles.</p>
+        <p>Rien n'interrompt le cours</p>
+        <p>De leurs tendres amours.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Rien n'interrompt le cours</p>
+        <p>De leurs tendres amours.</p>
+        <p/>
+        <p>THEMIS, LA GLOIRE, &amp; LA RENOMMEE ensemble.</p>
+        <p>J'entens le son de leurs Musettes,</p>
+        <p>Allons pour écouter leurs tendres chansonnettes.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>J'entens le son de leurs Musettes,</p>
+        <p>Allons pour écouter leurs tendres chansonnettes.</p>
+        <p/>
+        <p>La Chanson qui commence par, Non, je ne verray plus Silvie, &amp; que je vous envoyay dernierement notée, est du mesme Mr Tonti, qui a fait aussi depuis peu les Vers que vous allez lire, sur une belle Personne qui se baigne.</p>
+        <p/>
+        <p>Venus qu'on vit sortir si charmante de l'onde,</p>
+        <p>Eut besoin de l'Amour,</p>
+        <p>Pour troubler tous les coeurs du monde :</p>
+        <p>Mais dans cet aimables sejour,</p>
+        <p>Quand vous quittez la rive</p>
+        <p>De nos claires &amp; pures eaux,</p>
+        <p>Par des charmes toujours nouveaux</p>
+        <p>On vous y voit briller d'une beauté plus vive ;</p>
+        <p>Et le seul éclat de vos yeux</p>
+        <p>Trouble aisément les coeurs des hommes &amp; des Dieux.</p>
+        <p>Tout ce qui m'embarasse</p>
+        <p>Est de sçavoir par quel destin,</p>
+        <p>Quand nous sortons tous deux du Bain,</p>
+        <p>Vostre coeur est remply de glace</p>
+        <p>Et que le mien pour vous brule de mille feux.</p>
+        <p>Cette injustice m'épouvante,</p>
+        <p>Que je sois toujours amoureux,</p>
+        <p>Et vous toujours indifferente.</p>
+      </div>
+
+<div xml:id="MG-1689-09_180">
+        <head>MG-1689-09_180</head>
+        <bibl>Mercure galant, septembre 1689, p. 180-181</bibl>
+        <p>Ce qui s'est passé à l'Académie Françoise le jour de la Feste de Saint Loüis.</p>
+        <p/>
+        <p>le Jeudy 25. du mois passé, jour de la Feste de S. Loüis Roy de France, Mrs de l'Academie Françoise s'assemblerent, selon leur coutume, dans la Chapelle du Louvre, où Mr l'Abbé de Lavau, l'un des quarante Academiciens, celebra la Messe, pendant laquelle un Corps de Musique composé de plusieurs belles Voix &amp; de divers Instrumens, chanta d'excellens motets, de la composition de Mr Oudot. La Messe finie, Mr l'Abbé de Riqueti prononça le Panegyrique du Saint. [...]</p>
+      </div>
+
+<div xml:id="MG-1689-09_377">
+        <head>MG-1689-09_377</head>
+        <bibl>Mercure galant, septembre 1689, p.377</bibl>
+        <p>Affaires d'Allemagne et d'Angletere.</p>
+        <p/>
+        <p>Les Ennemis n'ont fait aucun progrés depuis qu'ils ont pris Mayence. Ils avoient assez souffert pour se reposer, &amp; leur perte a esté si grande que le Party qui a fait chanter le Te Deum, est celuy qui a eu le plus de sujet de verser des larmes. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

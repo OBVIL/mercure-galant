@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, août 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-08/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>août 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-08_019">
+        <head>MG-1681-08_019</head>
+        <bibl>Mercure Galant, août 1681, p. 19-21, 24-31, 36-39, 42-43</bibl>
+        <p>Feste des Chevaliers, Archers, &amp; Pistoliers de la Ville de Péronne, rétablie par Lettres Patentes de Sa Majesté ; &amp; tout ce qui s'est passé pendant plusieurs jours qu'a duré cette Feste.</p>
+        <p/>
+        <p>La Paix ayant donné lieu de renouveler les Exercices du corps qui sont le plus en estime ; les Chevaliers, Archers, &amp; Pistoliers de la Ville de Péronne, ont crû devoir rendre le Bouquet que ceux de S. Quentin leur avoient donné en 1671. &amp; dont ils n'avoient pu encor s'acquiter par l'embarras des Armées. Apres avoir obtenu des Lettres Patentes de Sa Majesté pour ce rétablissement, ils avertirent par des Lettres circulaires tous ceux qui s'exercent au Jeu de l'Arc dans les Villes de Picardie, Champagne, Soissonnois, Artois, Flandres, &amp; autres, de se trouver à la Feste dont ils fixerent le jour au 29. de Juin dernier. Ainsi le 28. du mesme Mois, les Hautbois &amp; les Tambours ayant donné de fort grand matin le signal de l'Assemblée, les Chevaliers de Péronne se rendirent tous à cheval sur les huit heures à la Porte de leur Jardin. [...]</p>
+        <p>Les Chevaliers, dont j'ay commencé de vous parler, estant arrivez devant ce Jardin, montez tous à l'avantage avec des Housses, &amp; des Chaperons de Pistolets, remplis de Broderie d'or, &amp; de Dentelles d'argent, marcherent en tres-bon ordre, au milieu de la grande Place d'Armes de la Ville. Mr Aubé qui en est Mayeur, estoit à leur teste, comme Capitaine-Lieutenant de la Compagnie. [...] Le reste des Officiers de la mesme Compagnie ; [...], faisoient admirer leur propreté. Quarante Chevaliers qui les suivoient, habillez tous de la mesme sorte, avoient chacun une Plume blanche, &amp; une tres-grande quantité de Rubans verds sur eux &amp; sur leurs Chevaux. C'estoit la Livrée de leur Jardin. Ils traverserent la Ville en cet équipage avec leurs Hautbois, &amp; leurs Tambours, &amp; allerent hors les Portes recevoir les Compagnies des Chevaliers Etrangers. Celle de Soissons parut la premiere. On détacha Mr Cahieu Maréchal des Logis, pour la reconnoistre ; ce qui ayant esté fait, la Compagnie de Péronne marcha jusqu'à un demy quart de lieuë de la Ville, où ayant trouvé les Chevaliers de Soissons, Mr Aubé mit l'Epée à la main ainsi que ceux de sa Suite, &amp; en salüa le Capitaine, luy témoignant l'obligation qu'on leur avoit d'estre venus honorer la Feste. En suite toute la Compagnie passa devant celle de Soissons qu'elle salüa de l'Epée nuë, revint avec elle dans la Ville au son des Hautbois &amp; des Tambours, &amp; la conduisit dans le Logis qui luy estoit préparé, apres qu'elle eut fait un tour dans la Place d'Armes. [Suit le récit de la réception des compagnies voisines, celles de Saint-Quentin, de Montdidier et autres] Apres qu'on les eut logez, ceux de Péronne se rendirent à leur Jardin, où un superbe Repas servit à les délasser. Le lendemain 29. toutes les Bandes averties par les Tambours, se trouverent à la Messe qui fut celebrée pour l'ouverture des Prix. Chaque Compagnie y alla Tambour batant, &amp; Enseigne déployée ; &amp; ceux de Péronne s'y firent voir dans de nouvelles parures. [...]</p>
+        <p>Les Bandes estant revenuës au lieu d'où elles avoient commencé leur marche, chacun retourna chez soy, à la réserve des Officiers, qui avec Mr de la Broüe &amp; ceux de sa Suite, entrerent dans le Jardin. Il tira le coup du Roy comme on l'en avoit prié, mangea en suite avec tous les Conviez. La Collation se trouva servie au milieu d'une des Allées de ce Jardin. Rien n'y manqua pour la rendre magnifique, &amp; les Hautbois d'un costé ; &amp; les Violons de l'autre, firent pendant ce Régal une harmonie des plus agreables. Le lendemain tous les Députez des Bandes s'assemblerent au mesme Lieu, où ils reglerent le tirage au sort, &amp; les Prix au nombre de trente-deux. (On y employe deux mille Ecus que les Chevaliers fournissent.) Cela estant fait, Mr Aubé plaça les Pantons en présence de ces mesmes Députez, au bruit des Hautbois, &amp; de plus de trente Tambours. Chacun ensuite tira à son rang, mais en divers jours. Celuy des Chevaliers de Péronne estant venu, ils parurent tous en Vestes de Brocard, ou de toile de Hollande tres-fine, chamarrées de Dentelles &amp; de Pierreries, avec des Toques de Satin couvertes d'une infinité de Rubans. Comme ils n'eurent point leur ordinaire succés au premier Panton, ils s'en firent un sujet de divertissement pour eux, &amp; pour tous les autres. Ainsi ils parurent le lendemain avec des Habits de Drap noir, couverts de Crespe, &amp; marcherent dans la Place, leur Drapeau plié, le bout en terre, leurs Tambours voilez de noir, &amp; batant d'une maniere tres-lente &amp; toute lugubre. [...]</p>
+        <p>J'ay oublié de vous dire que depuis le commencement de la Feste, il y eut Bal tous les soirs en trois ou quatre Maisons. Celuy que Mr Aubé donna le Mardy premier du Mois, estoit general pour toutes les Dames tant de la Ville que des environs. Mademoiselle Aubé sa Soeur, qui est une Personne bien faite &amp; d'un grand mérite, en fit les honneurs, &amp; s'en acquita avec l'entier applaudissement de l'Assemblée. Il fut suivy d'une tres-belle Collation. Le mesme Mr Aubé donna un magnifique Repas à Mr de la Brouë, aux Officiers de la Garnison, aux Echevins, &amp; aux Officiers des Compagnies Etrangeres. Il fut servy à cinq services, de tout ce qu'on peut trouver de rare &amp; d'exquis, &amp; accompagné d'une Symphonie admirable de Musique, de Violons, &amp; de Hautbois. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-08_053">
+        <head>MG-1681-08_053</head>
+        <bibl>Mercure Galant, août 1681, p. 53-56</bibl>
+        <p>Baptéme d'une jeune Juisve fait à Mets avec grande cerémonie.</p>
+        <p/>
+        <p>Le 20. de l'autre mois, il se fit une fort grande Cerémonie à Mets pour le Baptéme d'une jeune Juisve âgée de douze ans. Monseigneur le Dauphin &amp; Madame la Dauphine, qui voulurent bien luy servir de Parrain &amp; de Marraine, firent l'honneur à Mr Bazin Intendant de Justice des trois Eveschez de Mets, Thoul &amp; Verdun, &amp; Frontiere d'Allemagne, &amp; à Dame Marie le Page son Epouse, de les choisir pour la tenir en leur place. Toutes les Ruës par où l'on passa pour se rendre dans l'Eglise Cathédrale, estoient tenduës de Tapisseries. Plusieurs Hautbois &amp; Trompetes alloient les premiers, &amp; précedoient les Officiers &amp; Archers de la Ville en marche tres-bien reglée. Ils estoient suivis de quantité de petites Filles vestuës de Toile d'argent, habillées en Anges, avec des Cierges, &amp; couronnées de Fleurs. Derriere elles marchoit la jeune Juive qui alloit recevoir le Baptéme, vestuë de Moire d'argent, avec des Fleurs sur la teste, &amp; quantité de Perles &amp; de Diamans. Les Dames de la Propagation l'accompagnoient avec les Nouvelles Catholiques ; &amp; les Curez de toutes les Paroisses de la Ville, dont les Banieres alloient devant, fermoient cette Marche. Mr l'Archevesque d'Ambrun, Evesque de Mets, fit cette Cerémonie, pendant laquelle la grosse Cloche, qui ne sonne jamais que par l'ordre de la Ville, sonna plusieurs fois. Il faut soixante Hommes pour cela. Il y eut grande Musique, &amp; on tira le Canon. Cette Fille fut nommée Anne-Marie Chrêtienne, ainsi que Madame la Dauphine l'avoit ordonné. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-08_081">
+        <head>MG-1681-08_081</head>
+        <bibl>Mercure Galant, août 1681, p. 81-82, 92-96, 98-99</bibl>
+        <p>Ce qui s'est passé aux Eaux de Pyrmont entre les vingt-sept Altesses qui s'y sont trouvées.</p>
+        <p/>
+        <p>Je vous appris la derniere fois la Reception qui avoit esté faite à la Reyne Mere de Danemark à la Cour de Hanover, &amp; qu'elle en estoit partie pour aller à Pyrmont, dans le dessein d'y prendre des Eaux. Elle y arriva le Samedy 18. de Juin, selon le vieux stile, &amp; le 28. selon nous. Madame l'Electrice Palatine s'y rendit une heure apres, &amp; vint saluër la Reyne sa Mere. [...] [Suit le détail, jour après jour, des activités de cette reine]</p>
+        <p>Le 2. Mr le Duc de Zell donna un magnifique Repas à la Reyne &amp; à toutes les Altesses.</p>
+        <p>Le 3. Mr le Duc de Hanover traita à son tour cette illustre Compagnie. [...]</p>
+        <p>Les quatre jours suivans se passerent aussi agreablement que les premiers ; &amp; le 8. les Princes, les Cavaliers, &amp; les Dames, voulant divertir la Reyne par la nouveauté d'une Mascarade, prirent des Chariots de Poste, avec du Foin &amp; de la Paille, &amp; monterent dessus comme des Gens qui venoient aux Eaux. Les uns estoient déguisez en Chartiers. Les autres, parmy lesquels estoit Mr le Prince Royal, parurent en gros Marchands Hollandois venant des Indes. Mr Ilten représentoit un Opérateur, avec Mr le Prince de Holstein. Mr le Prince Fréderic-Auguste de Hanover avoit un Habit de Femme ; &amp; les Dames qui furent de cette Partie, se mirent ainsi que luy, en Bourgeoises de Campagne. Toute cette illustre Troupe passa devant les Fenestres de la Reyne, qui leur donna à souper, &amp; le Bal en suite.</p>
+        <p>Le 9. on fit venir des Sauteurs, des Marionetes, des Joüeurs de Flûtes, &amp; d'autres Instrumens, avec des Chanteurs.</p>
+        <p>Le 10. on fit une Loterie de deux mille Ecus, où il fut permis à tout le monde d'aller prendre des Billets. Mr le Duc de Hanover donna aux Comédiens deux cens Ecus qu'il avoit mis, &amp; ils aimerent mieux les prendre en espece, que de les risquer, sur l'espérance d'avoir les gros Lots.</p>
+        <p>Le 11. la Reyne de Danemark traita toutes les Altesses, &amp; partit ce mesme jour, apres avoir fait distribuer une grande somme d'argent aux Pauvres, qui estoient accourus en foule à Pyrmont. Elle alla coucher à Hamelin, &amp; le lendemain à Hanover. Pendant quelques jours qu'elle y a passez, voicy l'ordre qu'on a suivy pour la Table.[...]</p>
+        <p>On y a donné trois Représentations de l'Opéra Italien d'Alceste, &amp; dancé deux fois le grand Balet intitulé le Charme de l'Amour, que l'on avoit augmenté de quelques Entrées. Je vous en fis la description dans la Lettre du Mois d'Avril, &amp; l'accompagnay des Vers qui on esté faits sur cette matiere. La Reyne de Danemark s'est fort divertie à ce Balet. On en prépare un nouveau, tout champestre &amp; qui doit estre dancé dans la Campagne à la clarté des Flambeaux. Je vous feray part du détail qu'on m'en promet.</p>
+      </div>
+
+<div xml:id="MG-1681-08_144">
+        <head>MG-1681-08_144</head>
+        <bibl>Mercure Galant, août 1681, p. 144-187</bibl>
+        <p>« J'ay eu des nouvelles de la Cour de Hanover plutost qu'on ne m'en faisoit attendre. Le Balet champestre que je vous ay dit qu'on y préparoit, a déjà esté dancé, &amp; la Reyne Mere de Danemark s'y est extrémement divertie. Vous voyez par là que Mr le Duc de Hanover n'a rien voulu épargner pour recevoir agreablement cette Princesse. Cependant, quelque envie qu'on ait de réüssir, la grande dépense ne fait pas toûjours le succés des choses. Il faut qu'il y ait de l'invention, &amp; de l'esprit dans les Divertissemens, &amp; que l'exécution en soit aussi juste, que le dessein en est bien conçeu. Tout cela s'est rencontré dans la Chasse de Diane. C'est le nom qu'a eu ce Balet champestre. Mr la Barre-Matéi, qui l'a composé entierement, à l'exception de la Musique, l'a tenu prest en si peu de temps, qu'on ne peut trop estimer la facilité de son génie. On m'apprend qu'il est l'Autheur de l'autre Balet qui a pour titre, le Charme de l'Amour, &amp; qui a tant plû à la mesme Reyne de Danemark. Aussi a-t-elle dit plusieurs fois en le voyant, qu'aucun Opéra ne l'avoit jamais si bien divertie. Le jour qu'on avoit choisy pour cette nouvelle Feste, estant arrivé, Sa Majesté, accompagnée de toute la Cour de Hanover, se rendit au grand Jardin de Leiné, où le plaisir de prendre le frais du soir l'avoit engagée à la promenade. On y avoit fait dresser une fort belle Feüillée, &amp; apres un magnifique Soupé qui y fut servy, on n'eut pas plûtost veu la Reyne se lever de table, que le costé de cette Feüillée qui estoit en face, s'ouvrit tout à coup, &amp; laissa voir un Théatre dans le fond duquel parut une grande Plaine, bornée par un Bois, &amp; bordée d'Arbres depuis ce Bois jusques au Théatre. La Perspective, quoy que naturelle, estoit assez surprenante, tous ces vrays Arbres semblant se planter en un moment, à la maniere d'une Décoration qu'on eust fait paroistre. En mesme temps que cette ouverture eut esté faite, on découvrit dans le milieu de la Plaine quatre Lutins qui sortoient de terre. Un grand Fantôme volant s'estant arresté au milieu de ces Lutins, forma avec eux une Dance aussi inquiete que confuse, comme des Personnes poussées par quelque Puissance secrete, &amp; plus forte qu'elles. Ce n'estoient rien autre chose que les Ombres de la Nuit qui fuyoient devant l'Aurore. Mr le Prince de Holstein estoit l'une de ces Ombres, avec Mr le Comte de Montalban ; Mr Oefner, Fils du General Major de ce nom ; &amp; Mr de Vvobeser, Capitaine-Lieutenant. Le Sr Jemmes, Maistre du Balet, représentoit le grand Fantôme volant. Un nombre incroyable de lumieres, dont on vit la Plaine éclairée en un moment, dissipa d'abord ces Spectres, qui se perdirent à mesure que l'Aurore &amp; le Point-du-jour, brillans de leurs propres feux, s'éleverent peu à peu jusque sur le Theatre.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE DE HOLSTEIN, représentant une OMBRE.</p>
+        <p/>
+        <p>Que je paroisse en Ombre, &amp; dans l'obscurité,</p>
+        <p>Je ne sçaurois cacher la splendeur de mon estre,</p>
+        <p>Et l'éclat de ma qualité</p>
+        <p>Me découvre par tout, &amp; me fait reconnoistre.</p>
+        <p/>
+        <p>A peine ces deux Astres furent-ils montez sur le Théatre, qu'on découvrit dans le plus proche endroit de la Plaine, comme par un effet de leur présence, un Chifre tout lumineux, qui formoit le Nom &amp; la Couronne Royale de Sa Majesté. Ce nom est Sophie-Amélie. Pendant que les yeux estoient divertis par ce Spéctacle, la voix des deux Astres charma les oreilles. Voicy les Vers qu'ils chanterent pour le Prologue du Balet.</p>
+        <p/>
+        <p>L'AURORE.</p>
+        <p>Répandons dans ces Lieux la lumiere &amp; le bruit</p>
+        <p>De la splendeur du Nom de l'auguste AMELIE.</p>
+        <p>Cette Terre déjà remplie</p>
+        <p>Ne soufre plus de nuit.</p>
+        <p>Que le jour se rallume</p>
+        <p>Plutost que de coûtume,</p>
+        <p>Fuyez, Ombres, Sommeil.</p>
+        <p>Une grande Journée</p>
+        <p>Est depuis longtemps destinée</p>
+        <p>A nous donner cet Objet sans pareil.</p>
+        <p/>
+        <p>LE POINT-DU-JOUR.</p>
+        <p>Tandis que le Ciel nous employe</p>
+        <p>A redonner icy le jour,</p>
+        <p>Cette REYNE y répand la joye</p>
+        <p>Par son heureux retour.</p>
+        <p>Quitez, Bergers, vostre demeure,</p>
+        <p>Voicy vostre Heure.</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>Ah, que le Point-du-jour</p>
+        <p>Est propre pour l'Amour,</p>
+        <p>Et qu'un Berger qui veille</p>
+        <p>Est pres du doux moment,</p>
+        <p>Que celuy qui sommeille</p>
+        <p>Laisse perdre en dormant !</p>
+        <p/>
+        <p>LE POINT-DU-JOUR.</p>
+        <p>Diane est déjà dans ces Bois,</p>
+        <p>Qui de son Dard &amp; de sa Voix</p>
+        <p>Donne la chasse</p>
+        <p>A ce qui passe.</p>
+        <p>Peut-elle bien goûter le plaisir d'un beau jour,</p>
+        <p>Et n'avoir point d'amour ?</p>
+        <p/>
+        <p>Tous deux ensemble.</p>
+        <p>Ah, que le Point-du-jour, &amp;c.</p>
+        <p/>
+        <p>Apres qu'on eut chanté ce Prologue, Mr le Prince Fréderic-Auguste de Brunsvick, Mr le Prince de Saxe-Eysenach, &amp; Mr le Raugrave Palatin, représentant trois Bergers, commencerent à paroître avec Madame la Princesse de Meklebourg, Madame de la Chevalerie, &amp; Mademoiselle de Grote, vestuës en Bergeres.</p>
+        <p/>
+        <p>I. ENTREE.</p>
+        <p>Les trois Bergers &amp; les trois Bergeres que je viens de vous nommer, se réjoüissant de la prise d'un Loup, dont la teste estoit portée devant eux, dancerent au son des Musetes, &amp; se donnerent des marques de leurs mutuelles inclinations.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE FREDERIC-AUGUSTE DE BRUNSVICK, représentant un BERGER.</p>
+        <p/>
+        <p>Chacun luy rend respect, à la Cour, en Province,</p>
+        <p>Il se déguise en vain sous l'Habit de Berger ;</p>
+        <p>Et le Sujet, &amp; l'Etranger,</p>
+        <p>Le prennent toûjours pour un Prince.</p>
+        <p/>
+        <p>Pour MADAME LA PRINCESSE DE MEKLEBOURG, représentant une BERGERE.</p>
+        <p/>
+        <p>Si cette jeune &amp; charmante Bergere</p>
+        <p>Avoit dessein de s'engager,</p>
+        <p>Elle pourroit icy se choisir un Berger ;</p>
+        <p>Mais cette belle Fiere,</p>
+        <p>A ce qu'on voit, ne pense guére</p>
+        <p>Qu'elle est en âge d'y songer.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE DE SAXE-EYSENACH, représentant un BERGER.</p>
+        <p/>
+        <p>Il a bon air, de l'esprit, du courage.</p>
+        <p>Peut-on trouver dans tout le voisinage</p>
+        <p>Un Berger plus galant, plus aimable,</p>
+        <p>&amp; mieux fait ?</p>
+        <p>A sa parole il joint toûjours l'effet,</p>
+        <p>Et pour se faire aimer en faut-il davantage ?</p>
+        <p/>
+        <p>II. ENTREE.</p>
+        <p>Endimion éveillé de grand matin, par la passion qu'il a pour la Chasse, &amp; courant les Bois à son ordinaire, trouva cette Troupe, à laquelle il se mesla, dançant au milieu des Bergers &amp; des Bergeres.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE GEORGE-LOUIS DE BRUNSVICK, représentant ENDIMION.</p>
+        <p/>
+        <p>A faire l'amour &amp; la guerre,</p>
+        <p>Ce jeune Endimion n'est jamais endormy.</p>
+        <p>Sans-doute on le verroit remuer Ciel &amp; Terre,</p>
+        <p>Pour quelque belle Nymphe, ou contre un Ennemy.</p>
+        <p/>
+        <p>III. ENTREE.</p>
+        <p>Deux Passans, représentez par Mr Bousch Colonel des Gardes, &amp; par Mr Veyhe Lieutenant-Colonel des Gardes, apres s'estre un peu reposez au frais, se préparerent à reprendre leur chemin, &amp; à continuer leur voyage.</p>
+        <p/>
+        <p>IV. ENTREE.</p>
+        <p>Trois Voleurs, qui estoient Mr de Grote Gentilhomme de la Cour, Mr le Baron de Mellin Enseigne, &amp; Mr de Pluviane Capitaine d'Infanterie, arresterent ces deux Passans, les volerent, &amp; partagerent le Butin entr'eux.</p>
+        <p/>
+        <p>V. ENTREE.</p>
+        <p>Une Troupe de Sauvages &amp; de Satyres, faisant une Battée pour Diane, surprirent les trois Voleurs, qui ne songeant qu'à se conserver la vie par la fuite, laisserent par terre le Butin qu'ils venoient de partager. Mr Bulau Capitaine-Lieutenant des Gardes du Palais, Mr Ohr Enseigne des Gardes du Palais, &amp; Mr de Roden Capitaine d'Infanterie, représentoient les Sauvages ; &amp; Mr du Mont Capitaine d'Infanterie, Mr de Wizendorff Gentilhomme à la Cour, &amp; Mr Brugen Lieutenant, les Satyres.</p>
+        <p/>
+        <p>VI. ENTREE.</p>
+        <p>Un Singe, représenté par Mr de Folleville, entra dançant &amp; sautant, trouva la Bourse &amp; l'argent qu'avoient laissé les Voleurs, &amp; apres l'avoir ramassé, alla s'asseoir sur le tronc d'un Arbre, où il divertit fort toute l'Assemblée, par les grotesques postures qu'il fit en regardant cet argent.</p>
+        <p/>
+        <p>VII. ENTREE.</p>
+        <p>Deux Gueux &amp; deux Gueuses l'ayant apperçeu dans cet état, s'approcherent de cet Arbre. Le Singe, qui leur vit tendre la main, leur jetta de cet argent, &amp; témoigna prendre grand plaisir à l'empressement qu'ils eurent de le ramasser. Mrs Rekau &amp; d'Elts, estoient déguisez en Gueux ; &amp; Mrs de Grote &amp; de Chazeron, en Gueuses. Ce sont Gentil-hommes du Païs.</p>
+        <p/>
+        <p>VIII. ENTREE.</p>
+        <p>Deux Ours qui parurent, firent fuir les Gueux, &amp; commencerent leur Dance, pendant laquelle, le Singe qui tournoit toûjours la Bource en fit tomber tout l'argent par terre. Ce fut avec tant de bruit, que le Singe épouvanté en prit aussitost la fuite. Ce bruit ne fit qu'animer les Ours, qui allerent droit à un Bucheron que le hazard amena. Le Bucheron se mit à couvert de leur fureur, en se couchant devant eux, &amp; faisant le Mort. Les Ours luy mangerent des Rayons de Miel qu'il apportoit, &amp; vinrent tendre l'oreille aupres de sa bouche, pour écouter s'il ne respiroit point encore. Mrs Dragoni &amp; Rhemen, Gentilhommes, les représentoient.</p>
+        <p/>
+        <p>IX. ENTREE.</p>
+        <p>Tandis que les Ours observoient le Bucheron, quatre Maures qui survinrent, lancerent leurs Dards sur eux. Ces Bestes féroces se sentant blessées, se tournerent aussitost pour se vanger de leurs Ennemis, mais elles s'enfuyrent à la veuë des Chiens. Les Maures qui s'attacherent à les poursuivre, estoient Mr d'Osterling Lieutenant-Colonel d'Infanterie, Mr Gohr Capitaine d'Infanterie, Mr le Drossart de Bur, &amp; Mr Possadorffsky Ecuyer-Tranchant de la Cour.</p>
+        <p/>
+        <p>X. ENTREE.</p>
+        <p>Le Bucheron délivré des Ours, se leva tout</p>
+        <p>plein de joye, &amp; la fit paroistre par l'agilité avec laquelle il dança. Il estoit représenté par Mr de Bonnefond Capitaine d'Artillerie, &amp; d'une Compagnie de Grénadiers.</p>
+        <p/>
+        <p>XI. ENTREE.</p>
+        <p>Deux Charbonniers ayant rencontré le Bucheron, se réjoüirent avec luy, en buvant dans sa Bouteille. Ces deux Charbonniers estoient Mr Ilten Major d'Infanterie, &amp; Mr le Chevalier de Sinville Capitaine au Regiment des Gardes.</p>
+        <p/>
+        <p>XII. ENTREE.</p>
+        <p>Les Maures rentrerent, faisant apporter les Ours percez de leurs Javelots, &amp; étendus comme morts sur des Brancards. Tandis qu'en dançant ils marquoient la joye que leur donnoit leur capture, les Ours commencerent peu à peu à lever la teste, &amp; prirent la fuite. Les Maures surpris de ce reste de vigueur, se mirent tout de nouveau à les poursuivre. Le fond du Théatre se referma apres qu'ils furent sortis.</p>
+        <p/>
+        <p>XIII. ENTREE.</p>
+        <p>L'Amour, qui prend toute sortes de figures pour s'accomoder aux diférentes inclinations des Hommes, ayant résolu de s'assujetir Diane &amp; Endimion, qu'il avoit trouvez toûjours infléxibles, parut vestu en Chasseur, ne doutant point qu'il ne vinst à bout de toucher leurs coeurs dans quelque heureuse rencontre qu'il se promettoit de faire naître à la Chasse.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE CHRISTIAN DE BRUNSVICK, representant L'AMOUR déguisé en Chasseur.</p>
+        <p/>
+        <p>Est-il contre mes traits quelqu'un qui se défende ?</p>
+        <p>Bien que je sois un fort petit Chasseur,</p>
+        <p>Pourtant mon adresse est si grande,</p>
+        <p>Que je frape toûjours au coeur.</p>
+        <p/>
+        <p>XIV. ENTREE.</p>
+        <p>Deux jeunes Chasseurs, ayant veu fuir quelques Nymphes de Diane, dont ils estoient amoureux, vinrent marquer le chagrin que leur donnoit la précaution de ces Inhumaines à éviter leur rencontre.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE MAXIMILIEN DE BRUNSVICK, représentant un CHASSEUR.</p>
+        <p/>
+        <p>Ny tant d'ardeur, ny tant de promptitude,</p>
+        <p>Ne rendent parfait un Chasseur.</p>
+        <p>Je fais beaucoup par mon étude,</p>
+        <p>Mais je fais plus encor, quand j'y joins ma douceur.</p>
+        <p/>
+        <p>Pour Mr LE PRINCE CHARLES DE BRUNSVICK, représentant un autre CHASSEUR.</p>
+        <p/>
+        <p>A la Chasse en amour, quoy qu'on ait du talent,</p>
+        <p>On en fait pas toûjours tout ce qu'on se propose ;</p>
+        <p>Mais un jeune Chasseur comme moy vigilant,</p>
+        <p>Attrape toûjours quelque chose.</p>
+        <p/>
+        <p>XV. ENTREE.</p>
+        <p>Six Dryades ou Nymphes des Bois, chargées de Bouquets de toute sorte de Fleurs, entrerent dançant au son des Hautbois. Elles se réjoüissoient d'avoir appris que Diane venoit visiter leurs Demeures solitaires. Ces six Dryades estoient, Mademoiselle Gehle l'aînée, premiere Fille d'honneur de Madame la Duchesse de Hanover ; Mademoiselle de Zersen, Fille d'honneur de cette mesme Princesse ; Mademoiselle Gehle la jeune, Fille d'honneur de Madame la Princesse de Hanover ; Mademoiselle d'Asseburg, Mademoiselle d'Alvensleven, &amp; Mademoiselle de Flemming, Fille de Mr le General Major Flemming. Plusieurs Cors, &amp; autres divers Instrumens de Vénerie, ayant marqué l'endroit de la Chasse, les Trompetes &amp; Timbales firent entendre leurs bruits de réjoüissance qui annonçoient la prise du Cerf. Les Dryades averties par là de l'arrivée de Diane, coururent au devant d'elle pour la recevoir.</p>
+        <p/>
+        <p>XVI. ENTREE.</p>
+        <p>Un Satyre, qui avoit accoûtumé de faire dancer les Nymphes de la Déesse, au son d'un Violon, dont il joüoit d'une maniere fort agreable, entra en dançant luy-mesme, &amp; chanta ces Vers en suite, pour les inviter à venir rendre leurs hommages à la Reyne.</p>
+        <p/>
+        <p>Sortez de ce Bocage,</p>
+        <p>Et venez rendre hommage</p>
+        <p>A la Divinité</p>
+        <p>Qui le remplit de majesté.</p>
+        <p/>
+        <p>Le Sr Jemmes, Maistre du Balet, représentoit ce Satyre.</p>
+        <p/>
+        <p>XVII. ENTREE.</p>
+        <p>Quatre Nymphes de la Suite de Diane, deux Bergers, &amp; deux Chasseurs, ayant entendu leur Maistre de Dance, accoururent à sa voix, &amp; chanterent ces Paroles.</p>
+        <p/>
+        <p>NYMPHES de Diane, BERGERS, &amp; CHASSEURS, ensemble.</p>
+        <p>Que nos Prez &amp; nos Champs, nos Vallons, nos Côteaux,</p>
+        <p>Nos Forests, nos Bocages,</p>
+        <p>De leurs Fleurs &amp; de leurs feüillages,</p>
+        <p>Luy fassent des Lambris nouveaux.</p>
+        <p>Que mille &amp; mille Oyseaux,</p>
+        <p>Par leurs tendres ramages,</p>
+        <p>Luy rendent leurs hommages</p>
+        <p>Du haut de ces Ormeaux.</p>
+        <p>Si LA REYNE se plaist à nos douceurs sauvages,</p>
+        <p>Ah, que nos Chants &amp; ces Lieux seront beaux !</p>
+        <p/>
+        <p>I. NYMPHE.</p>
+        <p>Nous nous repentirons un jour</p>
+        <p>De nostre beau temps qui se passe.</p>
+        <p>Donnerons-nous tout à la Chasse,</p>
+        <p>Et jamais rien à nostre Amour ?</p>
+        <p/>
+        <p>II. NYMPHE.</p>
+        <p>Si Diane a le coeur de glace,</p>
+        <p>Le devons-nous avoir aussy ?</p>
+        <p>Non, j'aime mieux céder ma place</p>
+        <p>A la plus severe d'icy.</p>
+        <p/>
+        <p>III. NYMPHE.</p>
+        <p>Helas ! si Diane à son tour</p>
+        <p>Aux voeux d'un Dieu pouvoit se rendre,</p>
+        <p>Et que son coeur devinst plus tendre,</p>
+        <p>Quel bonheur pour toute sa Cour !</p>
+        <p/>
+        <p>IV. NYMPHE.</p>
+        <p>Toute tendresse</p>
+        <p>N'est que foiblesse.</p>
+        <p>La fermeté</p>
+        <p>Fait nostre liberté.</p>
+        <p>Ne rien aimer comme nostre Déesse,</p>
+        <p>C'est du chagrin estre toûjours Maîtresse.</p>
+        <p>Sans la rigueur,</p>
+        <p>On garde mal son coeur.</p>
+        <p/>
+        <p>I. NYMPHE.</p>
+        <p>Bergers, Nymphes, Chasseurs, qui courez au hazard</p>
+        <p>Où l'excés d'ardeur vous appelle,</p>
+        <p>Croyez-vous que l'Amour ne prendra point de part</p>
+        <p>A l'innocent plaisir d'une Chasse si belle ?</p>
+        <p>On doit à ce Chasseur faire un meilleur party,</p>
+        <p>Quand le Coeur qu'il poursuit vient si-tost nous apprendre,</p>
+        <p>Qu'en fuyant il s'est repenty</p>
+        <p>De ne s'estre pas laissé prendre.</p>
+        <p/>
+        <p>Un Concert de Theorbes, de Clavessins, de Basses de Viole, &amp; de Violons, accompagna le chant de ces Nymphes par plusieurs reprises.</p>
+        <p/>
+        <p>XVIII. ENTREE.</p>
+        <p>Apres que ces Chants furent finis, les Nymphes se retirerent avec le Satyre au fond du Theatre, qui s'ouvrit au son des Trompetes &amp; des Timbales, &amp; fit voir toute la Chasse de Diane dans la Plaine, éclairée par un grand Palais lumineux qui brilloit dans l'éloignement. Cette belle Troupe environnée de plusieurs Gens à cheval, s'avança, &amp; monta sur le Théatre dans l'ordre qui suit.</p>
+        <p>Dix Trompetes, &amp; deux Timbaliers, tous richement vestus à la Grecque, &amp; montez sur des Chevaux blancs en Housses d'or, marchoient pompeusement en sonnant une marche de triomphe, entremeslée de mille fanfares, &amp; d'une agreable symphonie, &amp; allerent se perdre dans les aîles du Théatre. Une Meute de Chiens conduite par des Chasseurs, arriva au son des Cors, &amp; fit la mesme marche que cette Cavalerie. En suite, quatre Nymphes joüant de la Flûte douce parurent de front. Le Satyre se mit au milieu, &amp; accompagna leur mélodie de son Violon. Les quatre Nymphes qui estoient déjà sur le Théatre, suivirent ces premieres dans le mesme ordre, &amp; s'estant avancées toutes jusques au bord du Théatre, elles se partagerent des deux costez, laissant voir le superbe Char de Diane, traîné par deux Cerfs, &amp; entouré des Dryades, des Chasseurs, &amp; des Bergers. Ils prirent place ainsi que les Nymphes sur les aîles du Théatre. Les Satyres &amp; les Sauvages demeurerent derriere le Char, ayant devant eux quatre Hautbois qui répondoient à la Symphonie des Flûtes. On découvroit dans la Plaine des Trompetes, &amp; des Timbales à cheval, qui s'avançoient avec les Arbres de la Perspective, joüant le mesme Air que joüoient les autres. Diane brilloit sur ce magnifique Char au milieu de toute cette Troupe, ayant l'Amour à ses pieds, &amp; à ses costez deux de ses Nymphes. Si-tost qu'elle en fut sortie, le Char disparut, &amp; cette Déesse se trouvant au milieu de ses deux Nymphes, dança avec elles, pour marquer la joye qu'elle recevoit de la présence d'une grande Reyne, à qui elle donnoit le plaisir de voir tout l'appareil de sa Chasse. Les Dryades jettoient des Fleurs devant elle, &amp; tout le Théatre en resta fermé. Apres que Diane eut finy sa dance, elle se retira dans le fond avec ses Nymphes ; &amp; les Flûtes, accompagnées du Violon recommencerent leur Symphonie, à laquelle il fut répondu par les Hautbois.</p>
+        <p/>
+        <p>Pour MADAME LA PRINCESSE DE HANOVER, représentant DIANE.</p>
+        <p/>
+        <p>Est-ce Diane, ou bien la Reyne des Amours,</p>
+        <p>Que l'on voit triompher au milieu des plus belles ?</p>
+        <p>C'est quelque chose encor de plus ravissant qu'elles,</p>
+        <p>Puis que c'est vous, Merveille de nos jours.</p>
+        <p>A Diane, à Vénus, c'est honneur, ma Princesse,</p>
+        <p>Lors que vous les représentez,</p>
+        <p>Et que vous surpassez l'une &amp; l'autre Déesse,</p>
+        <p>En sagesse, en mérite, en vertus, en beautez.</p>
+        <p/>
+        <p>XIX. ENTREE.</p>
+        <p>L'Amour, représenté par Mr le Prince Christian de Brunsvick, dança un Menüet au son des Violons, &amp; se retira aupres de Diane.</p>
+        <p/>
+        <p>XX. ENTREE.</p>
+        <p>Endimion entra par le costé droit du fond du Théatre, &amp; voyant Diane si belle aupres de l'Amour, fit connoistre par sa dance qu'il estoit charmé de son mérite, apres quoy il s'avança vers cette Déesse.</p>
+        <p/>
+        <p>XXI. ENTREE.</p>
+        <p>Diane partit à l'abord d'Endimion, &amp; commença une Dance avec ses deux Nymphes &amp; les six Dryades, témoignant toutes ensemble leur indifférence pour l'Amour, &amp; leur extréme joye de la présence de la Reyne.</p>
+        <p/>
+        <p>XXII. ENTREE.</p>
+        <p>Un Prince d'Ibérie que Mr le Prince Fridéric-Auguste de Brunsvick représentoit, entra dans ce mesme temps, pour prendre part à la Chasse de Diane, &amp; se réjoüit, comme tous les autres, de cette illustre Assemblée.</p>
+        <p/>
+        <p>XXIII. ENTREE.</p>
+        <p>Un Païsan, qui estoit le Sr Jemmes, admirant cet Etranger, &amp; le voyant dancer avec tant de grace, tâcha de le contrefaire, &amp; réjoüit fort tous les Spectateurs par ses postures grotesques. Apres cette Entrée, les Violons, les Flûtes douces, les Hautbois, les Musetes, les Trompetes &amp; Tymbales, dans des distances proportionnées à la force de leur harmonie, quelquefois ensemble, &amp; quelquefois par reprises, firent un rare concert, tandis qu'un Feu d'artifice fut allumé tout à coup dans le milieu de la Plaine, &amp; par cent merveilleuses figures en l'air, finit cette Feste d'une maniere aussi surprenante qu'agreable.</p>
+        <p>Toutes les Lettres que j'ay veües d'Hanover marquent, qu'encor que ce Balet promette beaucoup sur le papier, l'exécution y mesle des agrémens, qu'un simple récit ne sçauroit faire comprendre. Si Messieurs les Princes y ont paru avec beaucoup de magnificence, &amp; de bonne grace, Madame la Princesse de Hanover y a esté admirée. Quoy que sa beauté n'eust pas besoin d'estre relevée par l'éclat des Pierreries, elle en avoit pour un million qui tiroient un nouveau lustre de sa bonne mine. Toute l'illustre Assemblée qui estoit alors à Hanover, en devoit partir quelques jours apres pour se rendre à Zell, où l'on préparoit aussi de grands Divertissemens. J'espere qu'on voudra bien me faire la grace de m'en envoyer le détail. On n'en peut attendre qu'un fort grand plaisir, la Cour de Zell estant tres-galante. »</p>
+      </div>
+
+<div xml:id="MG-1681-08_237">
+        <head>MG-1681-08_237</head>
+        <bibl>Mercure Galant, août 1681, p. 237-239, 241-243</bibl>
+        <p>Esclaves rachetez par les Peres de la Mercy, avec l'origine de cet Ordre.</p>
+        <p/>
+        <p>Jamais les grands biens ne sont mieux goustez, que quand nostre mauvaise fortune nous en a privez longtemps. Pour bien connoistre quelle est la douceur de la liberté, il faut avoir éprouver les rigueurs de l'Esclavage. Les Captifs que les Peres de la Mercy ont rachetez depuis peu, pourroient nous en dire des nouvelles. Les Processions publiques où ils ont paru sur la fin du dernier mois, nous les ont fait voir si contens de leur retour, qu'il estoit facile de juger que le plaisir d'estre libres leur tenoit lieu de la plus haute fortune. Les Peres que la Congrégation de Paris, &amp; les Provinces de Guyenne &amp; de Languedoc, avoient nommez pour aller aux Royaumes de Fez &amp; de Maroc, s'estoient embarquez à Marseille au mois d'Octobre dernier, avec le Passeport que Sa Majesté leur avoit donné. [...]</p>
+        <p>Apres avoir cedé à la force, ils mirent à la voile le 12. de May, &amp; arriverent bientost à la Coste d'Espagne, au Royaume de Grenade, d'où s'estant rendus à la Rade de Marseille le 26. du mesme mois, apres la quarantaine moderée à quinze jours, ils eurent permission d'entrer dans la Ville, &amp; dans celles de Toulon, &amp; d'Aix Capitale de Provence. Ils firent des Processions dans cette derniere avec beaucoup de solemnité. Mr le Cardinal de Grimaldi qui en est Archevesque, &amp; Mr le Premier Président du Parlement de cette Province, furent fort édifiez de voir cette Troupe de zélez Chrétiens rendre mille graces aux Religieux qui leur avoient procuré la liberté. Apres que ce Cardinal leur eut donné sa Benédiction, ils allerent tous à Avignon, où ceux qui estoient de Languedoc, de Guyenne, &amp; de Xaintonge, prirent la route de leur Province. Les autres furent amenez à Paris, &amp; s'estant rendus aux Jacobins de la Ruë S. Jacques, tous les Religieux de l'Ordre de la Mercy allerent les y recevoir, &amp; les conduisirent en l'Eglise de Nostre-Dame. Les trois jours suivans, ils ont esté en Procession, accompagnez des Trompetes de la Ville, dans les Eglises de S. Sulpice, de S. Roch, &amp; de S. Paul. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-08_261">
+        <head>MG-1681-08_261</head>
+        <bibl>Mercure Galant, août 1681, p. 261-262</bibl>
+        <p>Les Basses-Loges pres Fontainebleau.</p>
+        <p/>
+        <p>La pieté de ce Prince [Monsieur] n'est pas moins considérable que ses autres qualitez. Il la fit encor paroistre le Vendredy 15. de ce mois, Feste de l'Assomption, dans l'Eglise des Carmes des Basses-Loges, pres de Fontainebleau. Apres y avoir fait ses devotions, il entendit la Grand' Messe chantée par les Religieux. Le lendemain, Feste de S. Roch, la Reyne assista au Salut dans le mesme Lieu. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-08_299">
+        <head>MG-1681-08_299</head>
+        <bibl>Mercure Galant, août 1681, p. 299, 301-302</bibl>
+        <p>Mariage de M. le Comte du Plessis.</p>
+        <p/>
+        <p>Je finis ma Lettre du dernier mois, en vous apprenant que Mr le Comte du Plessis avoit épousé Mademoiselle de la Valliere. Mr le Curé de S. André des Arcs, fit la Cerémonie de ce Mariage le Jeudy 30. Juillet, à deux heures apres minuit, dans la Chapelle de l'Hôtel de Conty, du consentement de Mr le Curé de S. Germain de l'Auxerrois, Paroisse de la Mariée. Vous jugez bien que l'Assemblée fut illustre. [...]</p>
+        <p>Avant qu'on allast à la Chapelle pour cette Cerémonie, il y avoit eu Comédie, Musique entre les Actes par des Voix de l'Opéra, &amp; un grand Soupé, Monsieur le Prince de Conty ayant voulu que l'on fist la Nôce dans son Hôtel. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-08_305">
+        <head>MG-1681-08_305</head>
+        <bibl>Mercure Galant, août 1681, p. 305-306, 308-310</bibl>
+        <p>Baptéme de cinquante Négres.</p>
+        <p/>
+        <p>Il s'est fait un grand Baptéme à Marseille. Je l'appelle grand, à cause de la qualité des Parrains &amp; des Marraines, &amp; du nombre de ceux qui ont esté baptisez. Ce sont cinquante Négres. [...]</p>
+        <p>La Cerémonie fut solemnelle, &amp; se passa presque entiere dans la grande Place de l'Eglise Cathédrale, où l'on avoit dressé une Tente, sous laquelle on fit abjurer le Culte du Démon aux cinquante Négres. Apres qu'on eut fait ce grand nombre de Baptémes, les Dames allerent au Cours de Marseille, qui est tres-beau, &amp; y firent quelques tours de promenade. Elles se mirent en suite sur l'eau, où les Violons les divertirent jusques à minuit. De là, elles se rendirent chez Mr l'Intendant, qui n'estoit point préparé à recevoir cet honneur. Il ne laissa pas de les régaler, &amp; de leur donner le Bal, qu'on ne termina que quand le jour fut prest de paroistre.</p>
+      </div>
+
+<div xml:id="MG-1681-08_323">
+        <head>MG-1681-08_323</head>
+        <bibl>Mercure Galant, août 1681, p. 323-324, 326-330</bibl>
+        <p>Ce qui s'est passé aux Etats de Nantes.</p>
+        <p/>
+        <p>La Ville de Nantes dont je vous ay dit qu'il [le marquis de Molac] est Gouverneur, est présentement un Lieu de plaisirs, par l'Assemblée des Etats, composée de neuf Evesques de la Province, d'un fort grand nombre d'Abbez, Prieurs, Benéficiers, &amp; autres Ecclésiastiques, tous distinguez par quelque Dignité particuliere ; d'une Noblesse, dont la plûpart de ceux qui en sont le Corps, se piquent d'estre des plus anciennes &amp; des plus illustres Maisons de Bretagne, &amp; de Gens du Tiers-Etat, qu'un mérite remarquable a fait nommer Députez. Les Principaux y prennent séance dans l'ordre, &amp; selon les qualitez que je vous vay dire. [...]</p>
+        <p>L'ouverture de leurs Séances se fit le Mardy 19. de ce mois dans une grande Salle des Cordeliers de la Ville, [...]. Le jour suivant on fit la seconde, qui fut commencée par une Messe solemnelle que Mr l'Evesque de Tréguier celébra. [...] Les Assemblées ont continué depuis ce jour-là, &amp; l'on traite diférentes affaires, qui regardent le bien de la Province. Quant aux plaisirs, chacun semble y vouloir contribuer de son costé, tant par la magnificence des Equipages &amp; des Habits, que par les Festins &amp; la bonne chere. Il y a tous les jours vingt Tables ouvertes, où l'on voit regner la délicatesse avec la profusion. Joignez à cela les parties de Promenade &amp; de Chasse, la Comédie &amp; les Bals, qui font une agreable varieté dans les divertissemens.</p>
+      </div>
+</body>
+  </text>
+</TEI>

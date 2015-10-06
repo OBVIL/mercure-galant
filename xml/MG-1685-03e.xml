@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure Galant, Quartier de mars 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-03e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>mars 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-03e_176">
+        <head>MG-1685-03e_176</head>
+        <bibl>Mercure Galant, Extraordinaire du quartier de janvier 1685, p. 176-181</bibl>
+        <p>Billet de Madame de P***</p>
+        <p/>
+        <p>BILLET</p>
+        <p>DE MADAME DE P***</p>
+        <p>A Mr P***</p>
+        <p/>
+        <p>Je vous demande en grace, Mr, de me dire ce que c'est que Mademoiselle de C***. [...]</p>
+        <p/>
+        <p>REPONSE DE Mr P***</p>
+        <p>A Madame de F***</p>
+        <p/>
+        <p>[...] Mademoiselle de C*** passoit pour une Personne fort bien faite ; on ne pouvoit luy contester cela. Bien des Gens trouvoient qu'elle avoit beaucoup d'exprit. Elle estoit libre, agréable &amp; fort enjouée. Elle avoit la voix fort belle ; elle écrivoit galamment, faisoit des Vers avec un tres-grand naturel. Avec cela les Connoisseurs ne luy trouvoient rien de reglé, si bien qu'ils ne pouvoient qu'à peine donner leur approbation à des qualitez qui éblouissoient les Personnes qui n'avoient point de goust, &amp; qu'ils trouvoient fort imparfaites. Elle avoit une Amie assez éclairée, &amp; de qui j'estois un peu inconnu, qui luy apprit les sentimens que les honnestes Gens avoient d'elle. Cette Amie luy fit comprendre qu'elle ne seroit jamais qu'une Personne fort médiocre, si elle ne s'attachoit à se perfectionner. Dans ce temps-là un Homme de son voisinage me mena chez elle. [...] Elle me témoigna qu'elle connoissoit assez le besoin qu'elle avoit, que quelqu'un luy donnast de bonnes leçons, &amp; qu'elle s'estimeroit heureuse de trouver un honneste Homme, qui fust assez charitable pour se charger de luy regler l'esprit &amp; la voix. [...] Vous pouvez juger, Madame, que je ne manquay point de luy offrir mon service autant que j'en estois capable. [...] Sa voix est devenue fort touchante, &amp; pour une Personne qui ne fait pas profession d'estre chanteuse, l'on ne sçaurait guere chanter plus proprement. Elle sçait autant de Musique qu'il luy en faut, pour sçavoir trouver la meilleure execution de toute sorte d'Airs ; &amp; son plus grand art dans le chant, c'est de le sçavoir cacher. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-03e_240">
+        <head>MG-1685-03e_240</head>
+        <bibl>Mercure Galant, Extraordinaire du quartier de janvier 1685, p. 240-241</bibl>
+        <p>Epitaphe d'un Perroquet, par M. Diéreville</p>
+        <p/>
+        <p>EPITHAPHE D'UN PERROQUET</p>
+        <p/>
+        <p>Cy git un fort beau Perroquet,</p>
+        <p>D'une gravité sans secondes</p>
+        <p>Il n'avoit point ce sot caquet</p>
+        <p>Qui ne fait qu'étourdir le monde.</p>
+        <p>Il parloit agréablement,</p>
+        <p>On prenoit plaisir à l'entendre :</p>
+        <p>Et ce qu'on ne sçauroit comprendre,</p>
+        <p>C'est qu'il retenoit aisément</p>
+        <p>Tous ce qu'on lui vouloit apprendre ;</p>
+        <p>Il ne luy faloit qu'un momens</p>
+        <p>Il n'estoit point de tours d'adresse</p>
+        <p>Qu'on ne luy vist faire sans cesses ;</p>
+        <p>Souvent ce beau petit Mignon</p>
+        <p>Entroit en conversation,</p>
+        <p>Et Parloit de tout à merveille ;</p>
+        <p>Mais dés qu'il voyoit la Bouteille,</p>
+        <p>Il ne vouloit plus tant jaser.</p>
+        <p>Tost, tost, disoit-il, que j'en gouste.</p>
+        <p>On ne pouvoit le refuser,</p>
+        <p>Et le Drôle à tremper la crouste</p>
+        <p>Prenoit plaisir à s'amuser.</p>
+        <p>Quand il en avoit dans le casque,</p>
+        <p>Il reprenoit son ton plus haut ;</p>
+        <p>Il jouoit de Tambour de Basque,</p>
+        <p>Et s'en acquitoit comme il faut.</p>
+        <p>Aux Belles il contoit fleurette,</p>
+        <p>Et leur disoit la Chansonnette</p>
+        <p>Sans prendre jamais un ton faux.</p>
+        <p>S'il entendoit une Symphonie,</p>
+        <p>Il soûtenoit bien sa Partie</p>
+        <p>Avec les Instrumens d'accord.</p>
+        <p>Mais ce n'est point là, quoy qu'on en die,</p>
+        <p>Les plus beaux endroits de son sort.</p>
+        <p>Philis le chérissoit si fort,</p>
+        <p>Que je n'aurois point d'autre envie</p>
+        <p>Que de me voir apres sa mort</p>
+        <p>Ce qu'il estoit pendant sa vie.</p>
+        <p>DIEREVILLE</p>
+      </div>
+</body>
+  </text>
+</TEI>

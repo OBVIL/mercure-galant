@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-10_123">
+        <head>MG-1687-10_123</head>
+        <bibl>Mercure galant, octobre 1687, p. 123-143</bibl>
+        <p>Grande Ceremonie faite à Avignon au Baptesme d'un Juif.</p>
+        <p/>
+        <p>Il s'est fait à Avignon une Conversion remarquable d'un Juif nommé Angelo Pace, ou Mardacai Schalom, natif de Sienne, &amp; élevé à Pise depuis l'âge de dix ans. Ses Parens qui sont gens riches n'ayant rien voulu épargner pour son éducation, avoient employé tout ce qu'il y a de sçavans Rabins dans les Ecoles des Juifs d'Italie, pour le rendre un des plus doctes &amp; des plus éclairez de cette Religion. [...]</p>
+        <p>Le Dimanche 17. Aoust estant arrivé, Mr l'Archevesque d'Avignon qui fait toutes les fonctions de son caractere avec éclat, partit de son Palais Archiespicopal sur les quatre heures, accompagné de Mr l'Abbé de Cabanes, Prevost de sa Metropolitaine, &amp; de tout ce qu'il y a de personnes distinguées dans son Clergé qui est fort nombreux, &amp; alla aux Cordeliers. On l'y revestit de ses habits Pontificaux, &amp; aprés qu'on eut chanté en Musique les Pseaumes marquez dans le Rituel pour servir de preparation à cette Ceremonie, il descendit de son Trône pour aller à la porte de l'Eglise, où elle devoit être commencée. Il y arriva en mesme temps que s'y rendit Mr le Vice-Legat, accompagné de ses Officiers tant d'épée que de Robe, &amp; de toute la Noblesse, precedé par sa Garde Suisse, &amp; suivy par celle de ses Gardes à cheval, de Chevaux Legers, outre une vingtaine de Carrosses, &amp; douze Estafiers. Dans le mesme temps parut Madame la Princesse d'Harcourt en Chaise, precedée de douze Valets de Pieds. Elle estoit suivie de dix ou douze Carrosses où estoient les Dames les plus qualifiées de la Ville. Mr le Marquis de Brancas qui a l'honneur d'appartenir à Madame la Princesse d'Harcourt sa Belle-fille, luy donna toûjours la main, &amp; Mesdames les Marquises de Cereste, de Rochefort &amp; de Brancas, aussi-bien que Mademoiselle de Brancas l'accompagnerent. Toutes choses estant ainsi disposées, Mr l'Archevesque commença la ceremonie par les Exorcismes hors la porte de l'Eglise, où Mr le Vice-Legat &amp; Madame la Princesse d'Harcout luy presenterent le Neophite. [...]</p>
+        <p>Tant que dura la Ceremonie, douze Valets de Pied tinrent chacun un grand flambeau de cire blanche allumé, &amp; plus de cent Musiciens avec des Violons, des Hautbois, &amp; plusieurs autres Instrumens, chanterent divers Motets de la Composition de Mr Petit, Maistre de Chapelle de l'Eglise Metropolitaine d'Avignon. Aprés le Boptesme [sic] on chanta un Te Denm [sic], &amp; les Violons de la Ville meslez avec ceux de Mr Gautier, Maistre de l'Academie Royale de Musique établie à Marseille, joüerent differentes Pieces qui charmerent plus de douze mille personnes qui estoient presentes. La Festes fut terminée par une salve de la Mousqueterie, &amp; par la décharge de vingt-quatre Boëtes rangées dans la Place au devant de l'Eglise, le long du Canal de la Riviere de Sorgue.</p>
+      </div>
+
+<div xml:id="MG-1687-10_190">
+        <head>MG-1687-10_190</head>
+        <bibl>Mercure galant, octobre 1687, p. 190-193</bibl>
+        <p>Autre Service fait par les soins de la mesme Academie.</p>
+        <p/>
+        <p>Le jour en avoit esté arrêté au Mercredy 20e du mois d'Aoust, &amp; dés le soir precedent, elle fut annoncée par le son des Cloches de l'Eglise Cathedrale, qui sonnerent à volée pendant une partie de la nuit, &amp; tout le lendemain matin, jusqu'aprés le Service achevé. Cependant ce mesme jour Mrs les Penitens bleus, qui vouloient signaler en leur particulier leur zele par leurs prieres autant que par leurs soins, allerent dés le grand matin chanter l'Office des Morts dans cette Chapelle, pour le repos de l'ame de Mr le Duc de Saint Aignan, &amp; sur les huit heures Mrs de l'Academie Royale, tous en habit de deüil, s'y rendirent ensemble, avec des témoingnages sensibles de la douleur dont ils estoient penetrez. Ils firent inviter à cette Ceremonie lugubre Mrs les Consuls, qui s'y rendirent aussi en habit noir, &amp; en chaperon, accompagnez d'une foule de Noblesse, &amp; aprés qu'on les eut postez dans la place d'honneur à costé du Mausolée, Mrs de l'Academie se rangerent de l'autre à leur opposite, les uns &amp; les autres dans des bancs fait en Prié-Dieu [sic], garnis d'un drap noir trainant, &amp; couverts par dessus d'un grand velours noir, avec des carreaux de mesme, On avoit rangé la Musique au fond de l'Eglise, dans une Tribune vis-àvis de l'Autel, d'où elle estoit entenduë sans trouble &amp; sans embarras, en une occasion où l'affluence du monde sembloit devoir faire craindre un fort grand desordre.</p>
+      </div>
+
+<div xml:id="MG-1687-10_237">
+        <head>MG-1687-10_237</head>
+        <bibl>Mercure galant, octobre 1687, p. 237-239</bibl>
+        <p>Service fait à Aix pour Madame la Duchesse de Modene.</p>
+        <p/>
+        <p>On écrit d'Aix en Provence que la Mere Superieure du Monastere de la Visitation de Sainte Marie ayant receu avis de la mort de Madame la Duchesse de Modene, par Madame de Vertel, Sous-Gouvernante des Enfans de France, elle &amp; ses Religieuses ont fait faire dans leur Eglise un Service solemnel, pour le repos de son Ame, avec tout l'éclat que l'on peut donner à une pompe funebre. Elles ont voulu s'acquiter par là de ce qu'elles doivent à la memoire d'une Princesse qui leur a marqué son affection par ses bien-faits, tant en divers dons, qu'en un Present de plus de dix mille écus qu'elle fit employer à l'Autel de marbre, &amp; à d'autres ornemens de leur Eglise. Elle avoit fait plusieurs fois retraite avec Madame sa Mere dans leur Monastere d'où elle tira sept Religieuses pour la fondation qu'elle a faite dans sa Ville de Modene, qui est un établissement digne de sa pieté &amp; de sa magnificence. Le Parlement se trouva en Corps à ce Service, aussi-bien que Mrs du Chapitre de la Cathedrale, &amp; la Messe à laquelle une excellente Musique répondit, fut celebrée par Mr l'Abbé de Barreme, Conseiller au Parlement, &amp; Grand Vicaire de Mr l'Archevesque d'Aix en son absence.</p>
+      </div>
+
+<div xml:id="MG-1687-10_295">
+        <head>MG-1687-10_295</head>
+        <bibl>Mercure galant, octobre 1687, p. 295-296</bibl>
+        <p>Journal de tout ce qui s'est passé pendant le sejour que les Envoyez de Tripoli ont fait en France.</p>
+        <p/>
+        <p>Ils [les ambassadeurs] ont vû la Comedie, &amp; l'Opera avec un fort grand plaisir, &amp; ont dit que ces Spectacles paroissoient plûtost un enchantement qu'un effet de l'imagination des Hommes. J'estois à l'Opera avec eux, &amp; en les entretenant, j'eus le plaisir de remarquer leur surprise. Ils me dirent que s'ils estoient dans une Place extremement fortifiée, &amp; dont les Remparts fussent garnis de tout le Canon necessaire pour sa deffense, ils seroient seurs de faire toute la resistance qu'on pourroit attendre d'eux ; mais que s'ils estoient attaquez par tous ceux qui composoient l'Opera, avec le mesme équipage, &amp; les mesmes charmes, ils ne se deffendroient point, &amp; auroient au contraire beaucoup de plaisir à se rendre.</p>
+      </div>
+
+<div xml:id="MG-1687-10_367">
+        <head>MG-1687-10_367</head>
+        <bibl>Mercure galant, octobre 1687, p. 367-368</bibl>
+        <p>Livres nouveaux.</p>
+        <p/>
+        <p>M. le Begue, Organiste du Roy, a composé un Livre des plus belles Pieces de Clavessin qui ayent encore paru, tant Allemandes, Gavotes, Menuets, Bourées, que Chaconnes, Sarabandes &amp; autres. Celles de vos Amies qui aiment le Clavessin, trouveront ce Livre chez M. Noël, ruë Simon le Franc, entre le Cygne &amp; le Lion d'or. Le mesme Sieur Noël debite un Livre de Motets de sa façon, à une voix seule avec la Basse continuë, &amp; de petites symphonies pour l'Orgue ou pour la Viole.</p>
+      </div>
+</body>
+  </text>
+</TEI>

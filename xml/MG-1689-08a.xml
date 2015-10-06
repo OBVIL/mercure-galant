@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, août, première partie, 1689</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1689-08a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, août, première partie, <date>1689</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1689-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1689-08a_202">
+        <head>MG-1689-08a_202</head>
+        <bibl>Mercure galant, août 1689, p. 202-213</bibl>
+        <p>Ce qui s'est passé à Saint-Victor lors que la Reyne d'Angleterre a esté en cette Abbaye.</p>
+        <p/>
+        <p>La Reine d'Angleterre qui ne fait aucun voyage à Paris que par des motifs de pieté, s'y rendit le 29. du mois passé, pour assister au Salut dans le Monastere des Dames Chanoinesses regulieres Angloises, qui s'y faisoit pour la conclusion des Prieres de quarante heures, que ces Dames avoient faites, pour demander à Dieu la conservation de la personne sacrée du Roy, &amp; de leurs Majestez Britanniques, &amp; pour l'heureux succés de leurs armes. Cette Princesse qui sçavoit que Loüis VII. avoit eu autrefois la generosité de donner un asile en France à Saint Thomas, Archevesque de Cantorbery, Chancelier &amp; Primat d'Angleterre, lors qu'il se refugia en ce Royaume, ayant appris que ce saint Prelat, pendant le sejour qu'il y avoit fait, avoit choisi sa demeure parmy les Chanoines reguliers de l'Abbaye de Saint Victor, &amp; que dans une Chapelle dédiée à son honneur on conservoit le Cilice dont il estoit revestu lors qu'il fut assassiné, eut la devotion d'y venir faire sa priere. Sa Majesté fut receuë à la porte de l'Eglise par le Chapitre des Chanoines reguliers de cette Abbaye, ayant à leur teste Mr de Bourges qui en est Prieur. [...]</p>
+        <p>La Reine [...] fut conduite au bruit de cloches &amp; au son de l'orgue à un Prie-Dieu qui luy avoit esté preparé au milieu du Choeur, tendu ainsi que la Nef de riches Tapisseries. Sa Majesté, aprés avoir fait sa Priere pendant le Te Deum que les Chanoines chanterent, vit le Cilice de Saint Thomas de Cantorbery, &amp; plusieurs autres Reliques ; après quoy elle passa dans la Chapelle dédiée à ce Saint &amp; en celle de la Vierge. De là elle fut conduite dans la fameuse Bibliotheque de cette Abbaye, si celebre par le nombre &amp; par l'antiquité de ses Manuscrits ; puis elle passa par les Jardins sur une terrasse, où sous une arcade fort richement tapissée, on luy servit une collation tres-propre. [...]</p>
+      </div>
+
+<div xml:id="MG-1689-08a_227">
+        <head>MG-1689-08a_227</head>
+        <bibl>Mercure galant, août 1689, p. 227-237</bibl>
+        <p>Tragedie representée au College de Louis le Grand avec le Balet du Secret.</p>
+        <p/>
+        <p>Comme les Jesuites se distinguent dans tout ce qu'ils font, il y a toujours plaisir à entendre parler de ce qui les regarde, &amp; je ne doute point que vous n'en trouviez à apprendre le sujet du Balet, qui a servi d'entre-Actes à la Tragedie qu'on a representée cette année dans leur College de Loüis le Grand. Le soin qu'ils se donnent tous les ans pour ce divertissement, ne sçauroit qu'estre utile au Public, puis qu'il sert à former la Jeunesse pour la Chaire, &amp; pour le Barreau, &amp; à luy faire prendre des manieres aisées, sans lesquelles rien n'est fait de bonne grace. La Tragedie qu'ils ont fait representer par leurs Ecoliers le 17. de ce mois, estoit intitulée Polimestor, &amp; comme on en faisoit rouler le noeud sur un secret qui empêchoit ce Roy de distinguer son Fils d'avec son Ennemy, le Balet qui servoit d'entre-Actes à cette Piece, avoit esté fait sur le secret. Il ne faut pas s'étonner si ce choix parut heureux &amp; judicieux. Quand des Sujets qui doivent estre unis ensemble ont tant de rapport, le divertissement ne sçauroit manquer de plaire. Je ne vous parleray point de la Tragedie, &amp; vous diray seulement que le Balet estoit divisé en quatre parties. D'abord la Nuit accompagnée des Ombres donnoit la naissance à Sigalion, Dieu du Silence, qui represente le secret, &amp; il estoit mis entre les mains des Sybilles, pour estre nourri par des Fées, avec ordre de ne le faire voir à personne. Des Curieux, des Chymistes souffleurs &amp; des Sorciers venoient les uns après les autres pour tâcher de luy parler ; mais les premiers n'obtenoient que des feüilles que leur jettoient les Sybilles, &amp; dans lesquelles ils cherchoient inutilement ce qu'ils avoient envie de sçavoir. Les seconds vouloient corrompre ses Gardes en leur promettant de l'or, &amp; ne remportoient que de la fumée, &amp; les derniers qui croyoient le découvrir en employant leurs Ceremonies Magiques, estoient effrayez par des Lutins qui les obligeoient à prendre la fuite. Ensuite la Renommée ennemie du Secret, venoit declarer la guerre à Sigalion au son des Tambours &amp; des Trompettes ; &amp; aussi-tost on voyoit paroistre les Ecrivains, Gazetiers, &amp; Colporteurs, qui s'enroloient sous ses étendards. Bacchus qui hait mortellement le Secret, amenoit une bande d'Ivrognes pour combatre Sigalion. Les Enfans, à qui l'indiscretion est naturelle, se mettoient de la partie, &amp; Momus &amp; les Foux qui vouloient aussi en estre, paroissoient accompagnez d'une recruë de Bohemiens, qui se vantoient de venir à bout de penetrer les avantures les plus secretes. Sigalion se voyant ainsi attaqué de toutes parts, se prepara à la défense, aprés avoir assemblé son Conseil, composé d'Areopagites &amp; de Pythagoriciens. En même temps les plus grands Capitaines vinrent luy jurer fidelité, &amp; le firent reverer à leurs Soldats sous la figure du Minautore, ancien symbole du Secret parmy les Romains. On donna le soin de l'Hospital de l'Armée aux Empiriques feudataires du Secret, qui vinrent luy offrir leur service, &amp; qui en firent l'experience en faisant marcher droit des Estropiez. Les Vieillards Confidens du Secret, s'estant aussi presentez pour défendre Sigalion, on les destina à garder le bagage, &amp; les Plaideurs &amp; les Orateurs qui amenerent des Troupes de Mensonges, furent mis au Corps de reserve pour le besoin. Alors Sigalion se vangea differemment de ses Ennemis. Il fit déchirer Penthée par les Bacchantes pour avoir voulu découvrir les secrets misteres de Bacchus. Tantale fut plongé dans un étang par les Furies pour punition d'avoir revelé les secrets des Dieux. Mercure changea le Berger Battus en statuë de pierre en presence de quelques Bergers, afin de les instruire par ce châtiment à estre plus reservez à garder le secret,&amp; la Boete de Pandore ayant esté ouverte, on en vit sortir le Demon de la geurre, la Discorde, la Furie, &amp; le Desespoir. Vous pouvez juger par tout ce que je vous dis de la beauté des Entrées. Il s'en fit une generale dans laquelle Sigalion parut sur un Trône au milieu de ses Officiers. Tous ses Ennemis chargez de chaînes relevoient l'éclat de son triomphe. Ce Balet, dont l'ouverture se fit par les plus illustres Nations de l'Univers, qui établissant leur politique sur le secret, se preparerent à rendre hommage à Sigalion, ne pouvoit manquer de plaire en toutes ses parties, puis que le sujet en estoit agreable &amp; attachant, &amp; que Mr Colasse, l'un des Maistres de Musique de la Chapelle du Roy, en avoit fait tous les Airs. C'est luy qui depuis la mort de Mr de Lully a fait la Musique des Opera avec le succés dont je vous ay déjà parlé. Les Entrées estoient de Mr Pecour, qui depuis deux ou trois ans travaille aux Enttées [sic] de l'Opera, &amp; qui fit le Balet de Chantilly, lors que Monseigneur le Dauphin y fut regalé avec la magnificence digne du Prince qui le reçût. On ne peut dancer de meilleure grace que firent à ce Balet du Secret le fils de Mr le Duc de Villeroy, &amp; celuy de Mr de Saint Vallier. Les grands applaudissemens qu'on leur donna en furent des marques.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-10_093">
+        <head>MG-1691-10_093</head>
+        <bibl>Mercure galant, octobre 1691, p. 93-117</bibl>
+        <p>Ouvrage sur la solitude.</p>
+        <p/>
+        <p>Je vous ay toujours trouvé un si grand goust pour la Solitude, qui vous donne lieu dans vostre Province, de vous entretenir à vostre gré avec nos Illustres Morts, que vous devez avoir beaucoup de plaisir à lire les Vers que je vous envoye, &amp; que l'Auteur adresse à un Solitaire.</p>
+        <p/>
+        <p>A MONSIEUR,</p>
+        <p/>
+        <p>Heureux, qui comme vous aime la Solitude,</p>
+        <p>[...]</p>
+        <p>A lors vous admirez les differens ouvrages</p>
+        <p>De ces Maîtres hardis, ces rares personnages</p>
+        <p>Qu'avoit produit la Grece, &amp; le Pays Latin.</p>
+        <p>C'est là que vous plaignez le funeste destin</p>
+        <p>Des ouvrages perdus d'un nombre de Poëtes,</p>
+        <p>De Bion, de Blochus, ces Sçavans Interpretes,</p>
+        <p>Qui comme Theocrite, avec leurs Chalumeaux</p>
+        <p>Ont chanté les Amours, les Bergers, les Hameaux,</p>
+        <p>D'Anacreon, Sapho, Callimaque, Meandre,</p>
+        <p>Dont la Muse Comique, ou dont le stile tendre</p>
+        <p>Loüoit dignement Cupidon &amp; Bacchus,</p>
+        <p>[...]</p>
+        <p>Plaute moins éloquent, &amp; beaucoup plus diffus,</p>
+        <p>Des Romains a son tour reprima les abus,</p>
+        <p>Et par les traits piquans de ses vingt Comedies,</p>
+        <p>Voulut de leurs esprits guerir les maladies.</p>
+        <p>Disciple sans égal de ces Maistres fameux,</p>
+        <p>Moliere nous a fait de vifs portraits comme eux.</p>
+        <p>Misantropes, Cocus, Precieuses, Avares,</p>
+        <p>Tartufes, sots Marquis, tous ces termes barbares</p>
+        <p>Qu'employe un chicaneur, ou bien un Medecin,</p>
+        <p>D'un malade en idée ignorant assassin,</p>
+        <p>Gentilhomme Bourgeois, &amp; des Femmes Sçavantes,</p>
+        <p>Des Agnés paroissant faussement innocentes,</p>
+        <p>Maris, Fourbes, Plaideurs, Poëtes ennuyeux,</p>
+        <p>Chasseurs, Pedans, Joueurs, Etourdis, &amp; Facheux,</p>
+        <p>Sont les Originaux qu'il a mis sur la Scene.</p>
+        <p>Chacun dans ces Tableaux se reconnoist sans peine.</p>
+        <p>C'est par luy que le vice en pûblic combatu,</p>
+        <p>En inspire la haine, &amp; porte à la vertu</p>
+        <p>Que l'Acteur en joignant le geste à la parole,</p>
+        <p>Du Theatre François nous a fait une école,</p>
+        <p>Bannissant à jamais ces termes indecens</p>
+        <p>Qui blessent la pudeur, l'oreille &amp; le bon sens.</p>
+        <p>Pieuse en sa naissance, ensuite trop hardie,</p>
+        <p>A present épurée, on voit la Comédie,</p>
+        <p>Les faux Zelez en vain ont voulu l'attaquer,</p>
+        <p>L'amour y paroist nud, sans qu'il puisse choquer.</p>
+        <p>[...]</p>
+        <p>Racine, en ce Palais [Le Louvre] tu vis rendre justice</p>
+        <p>Aux larmes de Titus, aux pleurs de Berenice.</p>
+        <p>On plaignit Andromaque, on admira Pirrhus,</p>
+        <p>Agrippine, Neron, les conseils de Burrhus.</p>
+        <p>Là tu representas sur un noble Theatre</p>
+        <p>Hippolite fuyant l'ardeur de sa Marâtre,</p>
+        <p>Mitridate jaloux, Xiphares amoureux,</p>
+        <p>Agamemnon pleurant, Achille furieux,</p>
+        <p>Ce juste composé luy seul a l'avantage</p>
+        <p>D'adoucir le François, de polir son langage,</p>
+        <p>D'ajoûter, retrancher, corriger ses defauts,</p>
+        <p>Arbitre souverain des termes &amp; des mots</p>
+        <p>[...]</p>
+        <p>N'attendez pas, Daphnis, qu'une veine sterile</p>
+        <p>Vous decrive une terre en moissons si fertile.</p>
+        <p>Je sçay trop de mon Lut quel est le foible son,</p>
+        <p>Et j'en laisse le soin au docte Pelisson.</p>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1691-10_162">
+        <head>MG-1691-10_162</head>
+        <bibl>Mercure Galant, octobre 1691, p. 162-200</bibl>
+        <p>Ceremonies Juisves faites dans la synagogue d'Amsterdam, à l'occasion de l'Envoyé de Maroc.</p>
+        <p/>
+        <p>Il est arrivé à Amsterdam un Envoyé du Roy de Maroc. Comme il est Juif de Religion, il assista le 8, de ce mois aux Ceremonies que firent les Juifs dans la Synagogue, où ils celebrerent ce jour-là la memoire de la pomme mangée par Adam à la suscitation d'Eve dans le Paradis terrestre. La Synagogue d'Amsterdam est une des plus belles qu'ils ayent dans toute l'Europe. Quoy qu'elle soit extrêmement spatieuse, le bas ne laissoit pas d'estre remply d'hommes presque entierement. Toutes les Femmes estoient dans les Galeries grillées d'enhaut. Les hommes, suivant leur coutume, avoient un voile blanc sur leur teste par-dessus leur chapeau, &amp; les plus animez de l'esperance de la venuë di Messie, tenoient en leur mains une pomme d'Orange, avec une palme ornée de quelques rubans. L'Envoyé de Maroc qui estoit du nombre, avoit sa place sur le premier banc proche le Sanctuaire, &amp; parut avoir grand attachement aux ceremonies. Tous ceux qui y prenoient part crerent d'abord de toutes leurs forces, apres quoy, quelques-uns des plus anciens porterent &amp; rapporterent en Procession un des livres de Moyse depuis le Tabernacle jusques au Pupitre, où sont les Chantres qui entonnent ce qu'on doit chanter, &amp; lors qu'ils eurent chanté environ une heure, ils finirent par un Cantique de joye sur un air assez gay, mais le reste n'êtoit proprement qu'un espece de bourdonnement de Ruche à miel. Voilà l'idée qu'en a eu un homme que la curiosité obligea d'aller ce jour-là à la Synagogue. Il dit que de temps en temps, il entendit des cris extraordinaires, mais qui ne pouvoient passer pour aucun ton de Musique.</p>
+        <p>[...] Lors qu'il y a des Juifs assemblez dans quelque Synagogue au nombre de dix, qui doivent avoir au moins treize ans &amp; un jour, le Chantre va au Pupitre, &amp; commence à entonner les Prieres, que les Assistans reprennent. Les Allemands chantent plus haut que les autres, les Levantins &amp; les Espagnols presque à la maniere des Turcs, &amp; les Italiens ont leur chant particulier. La plus grande de leurs Festes est le jour du Sabat, pendant lequel il leur est enjoint de se reposer. Outre les trente-neuf Chefs à quoy les Rabins ont reduit ce qui leur est défendu de faire ce jour là, ils ne peuvent allumer, ny eteindre le feu, ny l'attiser, ny le detiser, non pas même allumer, ny éteindre une Lampe. [... L'auteur énumère une suite de restrictions] Il leur est aussi defendu de parler d'affaires [...] de jouër des Instrumens [...]. Ils mangent ordinairement trois fois pendant les vingt-quatre heures du Sabat, la premiere, le Vendredy après la Priere du soir, &amp; les deux autres le lendemain, la nappe demeurant sur la Table pendant tout ce temps. Ils le font durer le plus qu'ils peuvent par leurs chants &amp; leurs prieres [...].</p>
+        <p>[...] Le 15. du mesme mois de Tifri, ils celebrent la Feste des Tabernacles, en memoire de ce qu'à la sortie de l'Egypte, ils campoient dans le Desert. Chacun choisit chez soy un lieu découvert pour y faire une Cabane, couverte de feüillage, que l'on tapisse à l'entour, &amp; que l'on rone autant qu'on le peut. Ils y boivent &amp; mangent, &amp; mesme quelques uns y couchent pendant les neufs jours de cette Feste. Les deux premiers &amp; les deux derniers sont solemnels comme la Pasque, mais les autres le sont moins. Il n'y a rien d'extraordinaire aux prieres que l'on fait dans le Synagogue pendant ces neuf jours, que ce qu'on ajoüte au sujet de la Feste. Après qu'on a recite le Sacrifice qui se faisoit autrefois, ils font une fois le tour du petit Autel, en portant des branches de Myrthe, des Saule, de Palmier &amp; de Citronnier avec leur fruit, &amp; chantant quelques Cantiques. Le septième jour ils font ce tour-là sept fois avec des branches de Saule, chantant seulement le Pseaume 24. [...].</p>
+      </div>
+
+<div xml:id="MG-1691-10_250">
+        <head>MG-1691-10_250</head>
+        <bibl>Mercure Galant, octobre 1691, p. 250-258</bibl>
+        <p>Mort de Mr de Beserade [sic].</p>
+        <p/>
+        <p>L'Academie Françoise a fait une grande perte en la personne de Mr de Benserade. [...] Il a fait long-temps les delices de la Cour, &amp; il a toûjours eu pour le Roy un respect &amp; un amour d'autant plus grand, qu'il le connoissoit davantage. Il avoit une passion pour la gloire de ce Prince , que rien n'auroit jamais esté capable d'alterer, &amp; il n'a point fait d'Ouvrage où il n'ait voulu la faire paroistre. [...] Quoy que ce que j'ay dit pût suffire pour vous marquer que la réputation que son esprit luy avoit donnée, j'y ajoûteray qu'il l'avoit, non seulement beau, mais singulier. La Cour, toute la France, &amp; ceux qui l'ont voulu imiter, luy ont rendu justice là-dessus. C'estoit un de ces hommes que produisent quelquefois les siecles, &amp; qui ne se retrouvent plus. Il faisoit déjà du bruit dans le temps du ministere du Cardinal de Richelieu, dont il avoit pension, &amp; a esté attaché toute sa vie à la maison de Villeroy, &amp; fort consideré de Monsieur qui le logeoit au Palais Royal. Pendant toute la Regence, &amp; jusques au temps que les Balets que l'on pensoit à la Cour ont place aux Opera, il en a fait presque tous les Vers, ainsi que tous ceux qui s'y sont chantez. Comme les Seigneurs &amp; les Dames du plus haut rang dansoient alors dans ces Ballets, &amp; que le Roy mesme, on demandoit des Vers pour chacun qui paroissant n'estre faits que pour les seuls Personnages, avoient neanmoins rapport par allusion à ceux par qui ils estoient representez. Il n'y avoit rien de plus agreable que ces Vers misterieux, &amp; que l'on ne peut mieux y reussir que faisoit Mr de Benserade. Aussi avoit-il si bien étudié la Cour, qu'il en sçavoit parfaitement toutes les Intrigues. Il est mort le 20. de ce mois, âge de soixante &amp; dix-huit ans, &amp; a fait un Testament qui marque à quel point il aimoit la justice.</p>
+      </div>
+
+<div xml:id="MG-1691-10_293">
+        <head>MG-1691-10_293</head>
+        <bibl>Mercure Galant, octobre 1691, p. 293-300</bibl>
+        <p>Divertissemens nouveaux.</p>
+        <p/>
+        <p>On prépare plusieurs divertissemens pour les plaisirs de l'Hiver. L'Academie de Musique doit commencer par un Opera nouveau, sous le nom d'Astrée. Il est de Mr de la Fontaine, de l'Academie Françoise, dont les Fables luy ont acquis une si grande réputation pour ce genre d'écrire. Mr Colasse, Eleve de feu Mr de Lully, l'un des quatre Maistres de Musique de la Chapelle du Roy &amp; qui a déjà donné trois Opera au Public, a fait la Musique de ce dernier.</p>
+        <p>Les Comediens François commenceront leurs Pieces nouvelles, par une Comedie en cinq Actes, intitulée L'Aventurier. Il la promirent dés l'Hiver dernier ; mais comme il ne se trouva pas assez de temps pour la joüer, elle fut remise au commencement de celuy cy. Tout ce que je vous diray de cette Piece, qui ne m'est pas inconnuë, c'est que son succés dépend de l'attention que les Auditeurs luy préteront, parce que le sujet estant fort plein, &amp; tout remply d'incidens, dont il n'y en a aucun qui n'ait liaison avec un autre, il est malaisé que l'on n'en perde la suite &amp; qu'on s'apperçoive de ces liaisons, pour peu que l'on soit distrait. Ainsi tout ce qui compose un corps agreable, pourra ne paroistre qu'un amas de parties détachées, aux ennemis du silence, &amp; qui vont plus à la Comedie pour y troubler l'attention de ceux auprés de qui ils se trouvent, que pour l'écouter. Cette Piece, quoy que comique, n'a rien de bas, ny rien d'équivoque dont l'imagination puisse estre salie, &amp; comme ce qu'on y a meslé de plaisant n'est pas de nature que demandent les gens de méchant goust, il y a sujet de croire que les personnes d'esprit s'y divertiront. Peut-estre me croirez-vous partial dans ce que j'avance, comme si j'avois dessein de prévenir le Public, dont les jugemens doivent estre libres, &amp; de l'engager à décider sur mes sentimens, mais vous ferez, s'il vous plaist, reflexion que je dis seulement de quelle nature est cette Piece, sans aller plus loin. Ainsi je laisse le champ libre pour juger de toutes ses parties. Je suis mesme persuadé qu'on ne peut faire d'Ouvrages qui soient applaudis generalement. Chacun de ceux qui paroissent, estant fait selon le genie particulier de son Auteur, ne peut estre que d'un goust, &amp; rien n'est plus different que les gousts d'une nombreuse Assemblée. Ainsi ceux dont les Ouvrages ont un grand succés, ne doivent pas croire pour cela qu'ils ayent une approbation generale. Cependant ils ont gain de cause, parce que la pluralité de voix l'emporte dans les Tribunaux du Public, comme dans ceux de la Justice, où lors que cette pluralité de voix se rencontre, les Juges sont obligez de signer un Arrest, quoy qu'ils ayent esté d'un sentiment opposé ; ou si vous voulez, il en est des Ouvrages de Theatre comme de l'or qu'on est obligé de peser. S'il fait trébucher d'un grain, il doit avoir cours comme estant de poids. On peut dire la même chose lors que la pluralité de voix se trouve pour un Ouvrage. Il est receu du Public, &amp; passe dans l'Empire des Lettres comme un Ouvrage qui a cours.</p>
+        <p>Les Italiens préparent aussi une Piece nouvelle avec un grand nombre d'agrémens à leur maniere. Elle est intitulée le Phenix, ou la Femme fidelle. Le dessein de l'Auteur est de faire voir que comme il n'y a rien de plus rare que le Phenix, il n'y a rien aussi qui le soit plus qu'une Femme qui veüille garder fidelité.</p>
+      </div>
+</body>
+  </text>
+</TEI>

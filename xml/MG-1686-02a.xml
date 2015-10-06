@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février, première partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-02a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, février, première partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-02a_162">
+        <head>MG-1686-02a_162</head>
+        <bibl>Mercure Galant, février 1686, p. 162-167</bibl>
+        <p>Cloche fonduë à Roüen, pour accompagner la Cloche nommée Georges d'Amboise.</p>
+        <p/>
+        <p>En vous parlant de Roüen, je me souviens d'un voyage que vous y fistes il y a quelques temps, &amp; que vous eustes la curiosité d'aller voir la fameuse Cloche appellée Georges d'Amboise, qui fait une raretez de la Ville. Mrs du Chapitre de l'Eglise Cathédrale &amp; Primatiale, la voulant accompagner d'une autre qui eust une grosseur remarquable, firent fondre cette nouvelle Cloche la Mardy 15 du dernier mois dans le Terrain du Collège de l'Albane. Ce fut entre neuf &amp; dix heures du soir que cette fonte se fit. Elle de douze à treize mille. Aussi-tost qu'elle fut fixe, arrestée &amp; seure, les principales Cloches de la mesme Cathédrale sonnèrent deux fois en carillon ; ce qui répandit pendant la nuit une grande joye par toute la Ville. Cet Ouvrage a très heureusement réüssi. Aussi a t'on fait liberalitez au Sieur Jean Aubert de Lysieux qui l'a entrepris, &amp; qui est un des plus expérimentez Fondeurs de la Province. La nouvelle Cloche dont je vous parle est formée du métal de quatre autres moindres, outre celuy qui a esté ajoûté de la part du mesme Chapitre. Elle a dix-huit pieds &amp; demy de tour, &amp; son ton est sur Ré. Celles que l'on a brisées pour la faire, sont Guillaume d'Estouteville, Romaine, la Petite Marie, &amp; Complies, qui étoient dans la Tour de Saint Romain, ou des onze Cloches, où celle-cy doit estre placée. Ces mots sont autour, près des Anses : Jean Aubert, Fondeur de la ville de Lysieux, &amp; audessous on lit cette Inscription.</p>
+        <p>Audite populi, &amp; attendite de longe. Isaiæ. 49.</p>
+        <p>I.Guillemus Cardinalis dEstouteville. 2. Romanus. 3. Maria minor. 4. Completoria : ex quatuor una, diviso quondam, nunc conjuncto metallo.</p>
+        <p>SEU</p>
+        <p>Sum fusa è quatuor non rite sonantibus una.</p>
+        <p/>
+        <p>Le mesme Chapitre animé par l'heureux succès de cet Ouvrage, a dessein de faire jetter une autre Cloche au moule par le mesme Fondeur, pour accomplir une Octave par tous les tons de Musique. Celle de Georges d'Amboise commence par Ut, celle-cy par Ré, &amp; les autres auront leurs tons particuliers &amp; différens ; &amp; par là ce sera le plus armonieux, le plus gros &amp; le plus plein Carillon qui soit en Europe. Cette nouvelle Cloche sera bien tost en état de contribuer au son eclatant qui se fait entendre dans les Solemnitez extraordinaires, telles que celle de rendre grâces à Dieu de la Destruction de l'Hérésie, &amp; pour lors on pourra compter au moins cent mille de métal en bransle ; de sorte que cette cathédrale, malgré le dommage qu'elle a souffert par le dernier Orage, peut encore se vanter d'avoir plusieurs choses considérables en son enceinte, comme son grand Vaisseau, ses hautes Tours, la richesse de ses Chapes, &amp; la hauteur de la Pyramide, qui est de 395 pieds.</p>
+      </div>
+
+<div xml:id="MG-1686-02a_167">
+        <head>MG-1686-02a_167</head>
+        <bibl>Mercure Galant, février 1686, p. 167-169</bibl>
+        <p>Voicy des Stances de Mr Rault sur cette nouvelle Cloche.</p>
+        <p/>
+        <p>D'un ton armonieux, mais chamant à l'oreille,</p>
+        <p>Je vay former de doux accords,</p>
+        <p>Pour faire entendre la merveille,</p>
+        <p>De quatre Soeurs, dont l'Art n'a fait en moy qu'un Corps.</p>
+        <p/>
+        <p>Leurs Timbres &amp; le mien estant ensemble,</p>
+        <p>Quoy que divers n'en feront qu'un ;</p>
+        <p>Car le métal qui nous assemble</p>
+        <p>Par la fonte entre nous va le rendre commun.</p>
+        <p/>
+        <p>Puisque je tiens mon sort d'un illustre Chapitre,</p>
+        <p>Il faut m'attacher à ses Loix ;</p>
+        <p>Et comme il est mon seul Arbitre,</p>
+        <p>N'y dois-je pas régler mon organe &amp; ma voix ?</p>
+        <p/>
+        <p>C'est donc &amp; par son zèle, &amp; sa main liberale,</p>
+        <p>Qu'on voit triompher ce bel Art,</p>
+        <p>Et qu'à la gloire sans égale,</p>
+        <p>Sa Métropole doit prendre beaucoup de part.</p>
+        <p/>
+        <p>Mais encore une Soeur, qu'en peu de temps j'espère,</p>
+        <p>Par sa voix &amp; nos tons divers,</p>
+        <p>En son Octave icy doit faire,</p>
+        <p>Le plus beau Carillon qui soit en l'Univers.</p>
+        <p/>
+        <p>Ce sera quand l'Hymen, la Paix ou l'Alliance,</p>
+        <p>Rendrons les Peuples réjoüis,</p>
+        <p>Ou quand au bon-heur de la France,</p>
+        <p>La Victoire suivra par tout le Grand LOUIS.</p>
+      </div>
+
+<div xml:id="MG-1686-02a_200">
+        <head>MG-1686-02a_200</head>
+        <bibl>Mercure Galant, février 1686, p. 200-203</bibl>
+        <p>[Mission faite à Alençon sur ordre du roi pour les nouveaux catholiques]</p>
+        <p/>
+        <p>[...] Les Jésuites ont fait [à Alençon] une Mission par l'ordre du Roy pour les nouveaux catholiques. Elle fut ouverte le second [jour] du mois passé par une Procession Générale, à laquelle assistèrent le Corps de Ville, Mrs du Presidial, dix de ses Pères en Surplis, les Capucins, &amp; tout le Clergé. Au retour Mr Chesnard Curé d'Alençon, fit un excellent Discours sur les motifs de la pénitence, à laquelle cette Mission invita toute la Ville. Il chanta ensuite la Messe du S. Esprit, où les Pères de la Mission se trouvèrent. Depuis ce temps-là, il y a eu chaque jour quatre discours [...] Le jour des Roys, premier Dimanche de l'année, le Maire &amp; les Echevins voulant honorer la Mission, présentèrent les pains bénits au nom de Sa Majesté &amp; de la Ville. On les alla prendre à l'Hostel de Ville au son des Tambours &amp; ils furent apportez par seizes Sergens d'armes avec leurs bandolières fleurdelysées. Les Trompetes les receurent à la porte de l'Eglise, &amp; se mêlant au son des Cloches &amp; des Orgues, attirèrent une infinité de monde à voir cette ancienne Cérémonie qu'on renouvelloit en faveur des nouveaux Catholiques, pour les accoûtumer à nos usages. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-02a_203">
+        <head>MG-1686-02a_203</head>
+        <bibl>Mercure Galant, février 1686, p. 203-206</bibl>
+        <p>[Cérémonies organisées pour l'abjuration de deux Dames d'Arras]</p>
+        <p/>
+        <p>Le Dimanche 10 de ce mois, Dame Susanne de Vez [et Mademoiselle Saquier, fille du ministre Isaac Saquier firent] abjuration de l'Hérésie, dans une des plus considérables Paroisses d'Arras. [...] Mr de Préfontaine Président en Chef du Conseil d'Artois, &amp; Mr Bataille, Procureur Général au mesme Conseil, allèrent les prendre en Carosse, les conduisirent à l'Eglise. Toutes les personnes considérables de la Province s'y trouvèrent, &amp; il y en eut beaucoup qui se firent un honneur de signer leur Profession de Foy [...] On chanta le Veni Creator, qui fut suivy d'un très éloquent Discours que le Père Capucin fit à ces deux Dames avant que de recevoir leur abjuration. Cela estant fait, elles prononcèrent leur Profession de foy avec une ferveur toute édifiante, &amp; cette cérémonie finit par le Te Deum. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-02a_240">
+        <head>MG-1686-02a_240</head>
+        <bibl>Mercure Galant, février 1686, p. 240-243</bibl>
+        <p>Actions de grâces rendues à Dieu, à Corbie</p>
+        <p/>
+        <p>La destruction de l'Hérésie est un si grand sujet de joye pour l'Eglise, qu'on a commencé dans plusieurs Villes du Royaume à rendre des grâces solemnelles à Dieu pour l'entière Conversion des Protestans de ces mesmes Villes. [...] Le Dimanche 17 de ce mois, on fit pour cela une Cérémonie éclatante dans l'Abbaye Royale de Saint Pierre de Corbie. Le jour precedent l'on descendit avec beaucoup de solmnité [sic] la Chasse de l'Abbé Paschase, qui a tant écrit contre les Hérétiques, [...] pour être portée à la Procession Générale, qui fut annoncée pour le lendemain par toutes les Cloches du gros clocher quoy qu'elle l'eust déjà ésté deux jours auparavant au son des Tambours par ordre des Mrs de Ville, afin que les ruës se trouvassent nettes &amp; tendues de Tapisseries. Ce jour là, [...] après les Vespres la Procession sortit de l'Eglise. [...] Les Tambours la précédaient, &amp; les Violons marchèrent avec les Chantres. [...] Le Te Deum fut chanté solemnellment [sic] au retour de la Procession, pendant laquelle toutes les Cloches sonnèrent.</p>
+      </div>
+
+<div xml:id="MG-1686-02a_258">
+        <head>MG-1686-02a_258</head>
+        <bibl>Mercure Galant, février 1686, p. 258-259</bibl>
+        <p>[Te Deum chanté à Amiens pour rendre grâce à dieu de la conversion des Religionnaires du diocèse d'Amiens]</p>
+        <p/>
+        <p>Je reçois avis tout présentement, que le Dimanche troisième jour de ce mois, Mr l'Evesque d'Amiens fit chanter le Te Deum dans sa Cathédrale, pour rendre grâce à Dieu de l'entière Conversion des Religionnaires de son Dioscèse. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-02a_292">
+        <head>MG-1686-02a_292</head>
+        <bibl>Mercure Galant, février 1686, p. 292-296</bibl>
+        <p>Ballet de la Jeunesse, par Mr de la Lande</p>
+        <p/>
+        <p>Plusieurs divertissemens ayant esté ordonnez pour occuper la Cour, pendant le séjour que Sa Majesté devoit faire à Fontainebleau sur la fin de l'Esté dernier, on y dança le Balet intitulé le Temple de la paix. C'estoit le premier que l'on avoit destiné pour y paroistre. Quoy qu'il n'eust pas esté préparé sur le pied des Opéra dont le Roy régale la Cour tous les Hyvers, comme on ne sçaurait rien faire en France qui n'ait du grand, quand mesme on a résolu de ne donner de simples Mascarades, ce Balet parut si beau, &amp; l'on trouva que Mr de Lully avoit si bien réüssi en tout ce qui estoit de luy dans cet Ouvrage, que non seulement il n'y eut point d'autre Divertissement à Fontainebleau, mais que ce mesme Balet fut encore dancé plusieurs fois à Versailles au commencement de l'Hyver ; de sorte qu'on n'y a commencé les Représentations du Balet de la Jeunesse que le 28 de janvier ; quoy qu'on y eust travaillé dans le dessein de le dancer à Fontainebleau. Tous les Airs de ce Balet sont de Mr de la Lande, l'un des quatre Maîtres de Musique de la Chapelle du Roy, où l'on a souvent chanté des Ouvrages de sa composition qui ont recû de grands applaudissemens ; il en a fait aussi beaucoup qui ont diverty dans le particulier ; n'estant point faits pour des spectacles. Le Balet de la Jeunesse est le premier qu'ait fait Mr de la Lande, &amp; peut estre que c'est le premier début des Ouvrages de cette nature qui ait esté d'un aussi bon goust. Ce Balet ayant esté exécuté par la Musique du Roy, &amp; Mr de Beauchamp en ayant fait les Entrées ne pouvoit manquer de plaire ; &amp; ce qui faisoit encore une agréable variété dans ce spectacle, c'est qu'il estoit fait de manière que l'on y pouvoit toûjours mesler une Comédie en trois Actes. Ainsi, on y en a meslé deux nouvelles pendant le cours de ce divertissement. Elles estoient de l'Autheur des Vers du Balet, auquels Mr Quinaut n'a point travaillé. Il étoit alors occupé par ordre du Roy à achever l'Opéra d'Armide qui avoit esté commandé d'abord pour Versailles. Comme il n'a pu y estre représenté, à cause de l'autre Divertissement qu'on a commencé plus tard que l'on croyoit, il a paru à Paris dans les derniers jours du Carnaval sur le Théâtre Royal de Musique, avec le succès qui suit tous ces grands Spectacles. Monseigneur le Dauphin honora de sa présence la première Représentation qui en fut faite. Les paroles en sont trouvées très dignes de leur Autheur, ce qui est tout dire puis qu'il excelle dans les Ouvrages de cette nature. Chacun est charmé de la Simphonie &amp; de la Musique. Ce qu'il y a de Spectacle a paru grand &amp; nouveau, &amp; surtout le Théâtre qui se brise. Il est de l'Invention de Mr Berrin Dessinateur du Cabinet du Roy. On s'est fort récrié sur la beauté de toutes les parties qui composent le cinquième Acte de cet Opéra.</p>
+      </div>
+
+<div xml:id="MG-1686-02a_312">
+        <head>MG-1686-02a_312</head>
+        <bibl>Mercure Galant, février 1686, p. 312-314</bibl>
+        <p>Divertissements du Carnaval</p>
+        <p/>
+        <p>J'ay peu de choses à vous dire des divertissemens du Carnaval. Je vous ay déjà parlé de ceux de la Cour, où le Temple de la Paix a esté représenté tous les Lundis jusqu'au 28 de janvier, qu'on y a dancé le balet de la Jeunesse tous les autres Lundis jusques au Caresme. Les autres Divertissemens de chaque semaine ont esté de trois manières. Il y a eu Comédie Françoise &amp; Italienne, entre lesquelles on a tenu les Appartemens. Monseigneur le Dauphin, &amp; Monsieur, on esté en plusieurs Bals, si bien déguisez, que fort souvent on ne les a pas reconnus. Enfin on peut dire que cette longue suite de plaisirs en a formé un continuel. Il sembloit que l'indisposition du Roy y dust mettre obstacle ; mais comme elle a esté sans aucun danger, ce Prince s'est fait une joye de voir sa Cour toute occupée à se divertir dans le temps qu'il travailloit. [...]</p>
+        <p>Les Divertissemens de Paris, outre l'Opéra d'Armide, on esté Alcibiade, dont les Représentations continuent encore, &amp; l'Homme à bonne Fortune, qui est un portrait fort naturel, &amp; très bien touché des Personnes de ce caractère. Il y a eu quantité de Bals, &amp; l'on s'est très-agréablement diverty en plusieurs Maisons particulières.</p>
+      </div>
+</body>
+  </text>
+</TEI>

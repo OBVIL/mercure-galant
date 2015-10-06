@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-12_149">
+        <head>MG-1691-12_149</head>
+        <bibl>Mercure Galant, décembre 1691, p. 149-151</bibl>
+        <p>Suivant les ordres du Roy, envoyez à tous les Evesques &amp; Ordinaires des lieux, de faire dire un des jours de la premiere Semaine de l'Avent par les Prestres de leur Diocese, une Messe pour le repos des Ames des Officiers, Soldats, &amp; Matelots qui auront esté tuez, ou qui sont decedez pendant la Campagne, Mrs de l'Eglise Royale de S. Hilaire le Grand de Poitiers, dont le Roy est Abbé, ne se sont pas contentez de donner la mesme marque de leur respect, &amp; de leur zele, que donnent toutes les autres. Le Vendredy 7. de ce mois, ils firent un Service avec toute la solemnité possible. Leur Eglise estoit tendüe de noir, &amp; fort éclairée. Mr de la Bourdonnaye Intendant, ainsi que le Presidial, assista à ce Service, où une grande Musique se fit entendre. Mr l'Abbé de la Messeliere, Doyen de ce celebre Chapitre, y celebra la Messe revestu des habits Pontificaux &amp; la Mitre en teste, comme il a accoustumé de faire aux plus grandes solemnitez.</p>
+      </div>
+
+<div xml:id="MG-1691-12_200">
+        <head>MG-1691-12_200</head>
+        <bibl>Mercure Galant, décembre 1691, p. 200-202</bibl>
+        <p>Il y a grande apparence que le mois prochain il se fera à l'Académie françoise une ceremonie [de nomination], pour remplir la place de Mr le Clerc, mort icy le 8, de ce mois. Il estoit natif d'Alby en Languedoc, d'où estant venu fort jeune à Paris, il s'y fit d'abord connoistre par une Tragedie, intitulée Virginie, qui eut un fort grand succès. Sa reputation s'augmenta par la traduction qu'il fit en Vers des cinq premiers livres de la Jerusalem delivrée du Tasse. [...] Il estoit un des anciens de l'Academie Francoise, &amp; il s 'y est distingué souvent par la lecture de plusieurs Ouvrages de Poësie [...].</p>
+      </div>
+
+<div xml:id="MG-1691-12_231">
+        <head>MG-1691-12_231</head>
+        <bibl>Mercure Galant, décembre 1691, p. 231-242</bibl>
+        <p>Epitre galante.</p>
+        <p/>
+        <p>Je vous envoye une galanterie qui a esté faite pour Mademoiselle de la Guerre, dans laquelle on suppose que Mr de Lully luy écrit des Champs Elisées. L'opera dont il est parlé dans cet Ouvrage, n'a pas encore esté representé, mais il est trouvé digne de l'attention du Public, &amp; ceux qui aiment la Musique, &amp; qui s'y connoissent le mieux, demeurent d'acord que cette admirable personne travaille avec autant d'agrément que de science pour tout ce qui regarde le Chant.</p>
+        <p/>
+        <p>EPISTRE</p>
+        <p>DE MONSIEUR</p>
+        <p>DE LULLY</p>
+        <p>A MADEMOISELLE</p>
+        <p>DE LA GUERRE</p>
+        <p>Envoyée le jour de sainte Cecile par une Ombre, avec une Couronne de Laurier, accompagnée de jolis présens, enfermez dans une boëte, sur laquelle estoit cette inscription.</p>
+        <p/>
+        <p>A LA PREMIERE</p>
+        <p>MUSICIENNE</p>
+        <p>DU MONDE.</p>
+        <p/>
+        <p>MUSE, je vous écris, des Isles fortunées,</p>
+        <p>Ou le Ciel revestu de son plus bel azur,</p>
+        <p>D'un Printems éternel enchaisne les Années,</p>
+        <p>Et conserve toûjours un air serein &amp; pur.</p>
+        <p>*</p>
+        <p>Là la Terre riante étale dans ses Plaines</p>
+        <p>Un Tapis émaillé de toutes les couleurs,</p>
+        <p>Que par mille détours arrosent des Fontaines</p>
+        <p>Dont les bords sont parez des plus aimables fleurs.</p>
+        <p>*</p>
+        <p>Là ; les bois toûjours verds cachent sous leur feuillage</p>
+        <p>Un amas infini de voltigeans Oiseaux,</p>
+        <p>Dont sans cesse on entend l'harmonïeux ramage</p>
+        <p>Se mesler au doux bruis des gazouillans Ruisseaux.</p>
+        <p>*</p>
+        <p>Là, les jeunes Garçons, &amp; les tendres Fillettes.</p>
+        <p>Dansent souvent ensemble aux folâtres Chansons,</p>
+        <p>Et formant un Concert d'agreables Musettes,</p>
+        <p>Vont bondissant sur l'herbe animez par leurs sons.</p>
+        <p>*</p>
+        <p>Là ; l'appareil pompeux des plus superbes Tables</p>
+        <p>Offre tout à souhait pour les gouts les plus fins.</p>
+        <p>On y sert quelque fois des Mets si délectables,</p>
+        <p>Qu'il n'en est point de tels, même aux Banquets divins.</p>
+        <p>*</p>
+        <p>Au reste, on n'y connoist ny la triste Vieillesse,</p>
+        <p>Ny les Maux déplaisans, ny les facheux Soucis.</p>
+        <p>Au contraire, on y voit la badine Jeunesse</p>
+        <p>Toûjours accompagnée &amp; des Jeux &amp; des Ris.</p>
+        <p>*</p>
+        <p>Ces beaux lieux, en un mot, sont les Champ Elizées,</p>
+        <p>Le Sejour enchanté des biens les plus parfaits,</p>
+        <p>Où les Ames des Morts à vivre apprivoisées</p>
+        <p>Sont si bien, que de là nul ne revint jamais.</p>
+        <p>*</p>
+        <p>Je vous dépeins ces lieux pour vous en faire envie,</p>
+        <p>Seur que vous y viendrez, comme moy quelque jour ;</p>
+        <p>Car tel est, tost ou tard, le destin de la vie</p>
+        <p>Que dans l'Urne fatale on a chacun son tour.</p>
+        <p>*</p>
+        <p>De quelques biens pourtant que ce pays abonde,</p>
+        <p>Croyez-moy, n'allez point vous hâtez d'y venir.</p>
+        <p>Vivez, &amp; conservez vos jours pour l'autre monde.</p>
+        <p>Puissent des jours si chers de longtemps ne finir.</p>
+        <p>*</p>
+        <p>Qu'ainsi soit. Permettez que je vous felicite</p>
+        <p>Sur un bruit qui commence à se respandre icy.</p>
+        <p>Quelques Musiciens, gens du premier merite,</p>
+        <p>Vous offrent de leur part des Complimens aussi.</p>
+        <p>*</p>
+        <p>Du Train de l'Opera demandant des nouvelles</p>
+        <p>Aux Mortels depuis peu descendu icy bas,</p>
+        <p>Ils m'en ont à l'envy debité des plus belles,</p>
+        <p>Et m'ont dit que là haut vous faisiez grand fracas.</p>
+        <p>*</p>
+        <p>Qu'on vantoit à la Cour, de mesme qu'à la Ville,</p>
+        <p>Un Opera nouveau, que vous avez donné,</p>
+        <p>Et quoy qu'on vous connust pour femme tres-habile,</p>
+        <p>Que d'un si grand travail on étoit étonné.</p>
+        <p>*</p>
+        <p>L'entreprise, il est vray, n'eut jamais de pareille.</p>
+        <p>C'est ce qu'en vostre sexe aucun Siecle n'a veu,</p>
+        <p>Et puis qu'il devoit naistre une telle Merveille,</p>
+        <p>du Regne de LOUIS ce prodige étoit deu.</p>
+        <p>*</p>
+        <p>A ce fameux Heros j'eus le bonheur de plaire.</p>
+        <p>Il daigna de tout temps écouter mes Concerts.</p>
+        <p>Ce que j'ay fait pour luy, c'est à vous de le faire.</p>
+        <p>Vous devez succeder à l'honneur que je perds.</p>
+        <p>*</p>
+        <p>Déja ce Roy puissant connoist vostre genie.</p>
+        <p>Déja plus d'une fois vous l'avez sçu charmer</p>
+        <p>Par les plus doux accords qu'enfants l'harmonie.</p>
+        <p>Et que faut-il de plus pour se faire estimer ?</p>
+        <p>*</p>
+        <p>C'est ce genie heureux, que hautement j'admire,</p>
+        <p>Qui seul peut dignement divertir un Grand Roy.</p>
+        <p>L'effet justifira ce que je viens de dire.</p>
+        <p>Sans doute le Public parlera comme moy.</p>
+        <p>*</p>
+        <p>Muse, à la verité je rends ce témoignage ;</p>
+        <p>Et pour vous confirmer un si sincere aveu,</p>
+        <p>J'ay voulu sur le champ vous envoyer un gage,</p>
+        <p>Qui de soy vaut beaucoup, encor qu'il couste peu.</p>
+        <p>*</p>
+        <p>C'est un petit Laurier, qui forme une Couronne.</p>
+        <p>D'un merite parfait quel plus digne Ornement !</p>
+        <p>Cette marque d'honneur que je vous abandonne,</p>
+        <p>Temoigne assez pour vous mon applaudissement.</p>
+        <p>*</p>
+        <p>Je vois l'illustre Chef des Filles de Memoire</p>
+        <p>Prest à vous couronner sur le sacré Vallon ;</p>
+        <p>Mais enfin, si j'en crois ce qu'on dit à ma gloire,</p>
+        <p>L'estime de Lully vaut celle d'Apollon.</p>
+        <p>*</p>
+        <p>Ce soir, pour celebrer nostre commune Feste,</p>
+        <p>Nous devons largement boire à vostre santé,</p>
+        <p>Orphée, Amphion, Moy, Trio d'Ombres honneste.</p>
+        <p>Nous esperons aussi que de vostre costé.</p>
+        <p>Vous nous ferez raison vostre couronne en teste.</p>
+        <p>*</p>
+        <p>Escrit aux Champs Eliziens</p>
+        <p>Le grand jour des Musiciens.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-03_087">
+        <head>MG-1691-03_087</head>
+        <bibl>Mercure galant, mars 1691, p. 87-88</bibl>
+        <p>Vous vous plaignez que dans ma dernière Lettre je ne vous ay point parlé des plaisirs du Carnaval. Vous devez estre bien persuadée que dans l'estat glorieux où se trouve la France, la joye a regné dans tous les coeurs. Il y a eu quantité de Bals à Paris, &amp; de divertissemens chez les Particuliers, mais il n'y en a point eu à la Cour, parce que l'année du deüil de Madame la Dauphine n'est pas finie. La devotion y a occupé le Roy. Sa Majesté a assisté à toutes les Prieres qui se font plus frequemment en ce temps-là, que dans tout le reste de l'année. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-03_114">
+        <head>MG-1691-03_114</head>
+        <bibl>Mercure galant, mars 1691, p. 114-120</bibl>
+        <p>Réjouïssances faites à Constantinople par l'Ambassadeur de France.</p>
+        <p/>
+        <p>On nous mande de Pera du 16. Novembre dernier, que Mr de Chasteauneuf, Ambassadeur du Roy à la Porte, après avoir fait des Festes pour les Victoires de l'Armée de Flandre &amp; de l'Armée Navale, n'eut pas sitost sceu que Sa Majesté en avoit remporté une troisième, qu'il fit de nouveau éclater sa joye avec beaucoup de magnificence. L'ouverture de cette Feste, se fit le matin du mesme mois de Novembre [...]. Toute la Nation s'assembla dans la Chapelle, où l'Archevesque de Spiga chanta le Te Deum, aprés avoir fait un discours tres éloquent sur la puissance du Roy. L'Evesque des Armeniens voulant faire voir qu'il prenoit part à la Joye que ressentoient les François, assista à cette ceremonie, avec son Clergé &amp; sa Musique, &amp; fit demander à M. l'Ambassadeur la permission de faire succeder ses actions de graces particulieres à celles que rendoit la Nation. Comme il n'est ny Sujet du Roy, ny sous la protection de la France, &amp; que son Eglise suit un rit [sic] qui est different de celuy de Rome, Mr de Chasteauneuf jugea que la demande de cet Evesque n'estoit qu'un des effet de l'estime &amp; de la veneration que la gloire de Sa Majesté s'attire de tous les peuples du monde, ce qui le fit content à sa demande. [...] Les décharges des boëtes &amp; du canon recommencerent lors que l'on but la santé du Roy ; elles s'estoient fait aussi entendre pendant tout le Te Deum. Le repas finit à l'entrée de la nuit, &amp; le Palais se trouva alors orné d'une illumination dont l'effet fut fort brillant. Il y avoit dans la Cour une Piramide de feu, du bas de laquelle sortoient deux fontaines de vin, qui coulerent pour le peuple. [...] On alla dans les appartemens toute la nuit, &amp; les Turcs qui ne sortirent du Palais qu'au jour, prirent tant de goût à cette feste, que pour y contribuer eux-mesmes, ils firent reveiller plusieurs Dervis [sic]. C'est une espece de Moines qui joüent admirablement bien de la flûte, &amp; qui vinrent concerter avec d'autres Instrumens. Tout Constantinople prit part à la joye de Mr l'Ambassadeur, qui n'a rien de plus pressant que de marquer en toutes sortes d'occasions le zele qu'il a pour la gloire de nostre auguste Monarque.</p>
+      </div>
+
+<div xml:id="MG-1691-03_144">
+        <head>MG-1691-03_144</head>
+        <bibl>Mercure galant, mars 1691, p. 144-149</bibl>
+        <p>Mariage de Monsieur le Prince de Turenne.</p>
+        <p/>
+        <p>Je vais satisfaire à ce que je vous promis la derniere fois, de vous mander toutes les particularitez que j'apprendois du mariage de Mr le Prince de Turenne avec Mademoiselle de Vantadour qui se fit la nuit du Dimanche gras au Lundy. [...] Sa Majesté à faire paroistre publiquement la satisfaction qu'Elle avoit de ce mariage, dont Elle a bien voulu signer le Contrat. Ce fut chez Madame la Duchesse de la Ferté, Tante de Madame la Princesse de Turenne, que se fit l'Assemblée, &amp; où Monsieur, avec Messieurs les Princes &amp; Mesdames les Princesses du San, voulurent bien se trouver pour assister à la Ceremonie. Elle fut precedée d'une grande Feste, &amp; il suffit de dire que Madame la Duchesse de la Ferté en prit soin, pour faire connoistre qu'elle fut des mieux entenduës. Tout y marqua son esprit &amp; sa generosité. On joüa d'abord un fort gros jeu. Il y eut une agreable Symphonie, une petite Comedie Italienne, &amp; le Soupé qui suivit fut aussi magnifique que bien ordonné. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-03_284">
+        <head>MG-1691-03_284</head>
+        <bibl>Mercure galant, mars 1691, p. 284-293</bibl>
+        <p>Article des Enigmes.</p>
+        <p/>
+        <p>L'Enigme du mois passé a esté expliquée sur le Violon qui en estoit le vray sens, par [liste des gagnants].</p>
+      </div>
+
+<div xml:id="MG-1691-03_350">
+        <head>MG-1691-03_350</head>
+        <bibl>Mercure galant, mars 1691, p. 350</bibl>
+        <p>Journal du Siege de Mons.</p>
+        <p/>
+        <p>[...]. Sur les onze heures du matin, les Hautbois du Regiment du Roy donnerent dans la Tranchée une Serenade aux Dames de la Ville [de Mons], dont quelques unes vinrent sur le rempart pour les entendre. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

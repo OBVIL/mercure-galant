@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin, deuxième partie, 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-06b/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, juin, deuxième partie, <date>1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-06b_126">
+        <head>MG-1687-06b_126</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 126</bibl>
+        <p>[...] Les principaux Officiers de la Ville de Troyes se rendirent à Châlons, &amp; firent vingt lieuës pour avoir l'honneur de salüer ce Monarque. Les Dames de la Province eurent beaucoup de chagrin de l'ordre qui fut donné, de n'en laisser entrer aucune au souper, qui n'eust esté nommée par Sa Majesté. Celles qui crurent n'estre pas assez connuës pour pouvoir estre du nombre, ne se presenterent point, dans la crainte d'estre refusées, ce qu'on ne trouva pas ordinaire, &amp; qui fut fort remarqué. Le Roy eut la bonté de permettre qu'on les laissast toutes entrer le lendemain dans le Choeur de l'Eglise, où elles eurent le temps de considerer Sa Majesté &amp; toute la Cour pendant que l'on dit la Messe. La Musique de cette Cathedrale chanta un Motet, dont il parut que l'on fut assez content. Mr l'Evesque Comte de Châlons, &amp; Mr le Duc de Noailles accompagnerent toûjours le Roy tant qu'il demeura dans cette Ville. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_136">
+        <head>MG-1687-06b_136</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 136</bibl>
+        <p>Le jour de la Pentecoste, presque toute la Cour fit ses devotions, à l'exemple du Roy. C'est une chose assez extraordinaire pendant le cours d'une marche ; mais que ne voit-on point de nouveau sous le Regne de Loüis XIV. sur tout pour les choses qui regardent la Religion &amp; la piété ! Monseigneur le Dauphin se rendit dans l'Eglise Cathedrale dés sept heures du matin ; &amp; après avoir entendu la Messe de M. l'Abbé Fleury, Aumônier du Roy, ce Prince communia par les mains de cet Abbé.</p>
+        <p>Sur les dix heures, le Roy passa à travers ses Mousquetaires rangez en haye des deux costez de la court de l'Evesché, &amp; au milieu des cent Suisses de sa Garde, postez dans la mesme Eglise. Sa Majesté estoit environnée de ses Gardes du Corps &amp; de toute sa Cour. Elle se rendit dans le Choeur, où Elle fut suivie de Mr l'Evesque de Verdun, &amp; de tous les Chanoines de cette Cathedrale. [...] La seconde Messe que Sa Majesté entendit, fut dite par l'un de ses Chapelains. Au sortir de l'Eglise, Sa Majesté toucha prés de cent Malades, dont Mr le Duc de Noailles avoit fait amener une partie de Chalons. Ils etoient rangez sous les arbres de la premiere court de l'Evesché. Ce Prince quitta ensuite son Habit de ceremonie, &amp; revint avec Monseigneur le Dauphin, &amp; toute la Cour, entendre la grand'Messe, qui fut pontificalement celebrée par Mr l'Evesque de Verdun, &amp; chantée par la Musique de la Cathedrale. Cette Musique plut assez à toute la Cour &amp; on trouva la voix d'un des Enfans de Choeur tres-agreable. Plusieurs mesme la jugerent digne de la Chapelle du Roy. Il y a quatre de ces Enfans de Choeur qui joüent du Violon, qui sont, une Taille, une Haute-contre, &amp; deux Basses. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_173">
+        <head>MG-1687-06b_173</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 173</bibl>
+        <p>M. le Marquis de Bouflers, qui a le Gouvernement de Luxembourg, vint au devant de Sa Majesté à Longwy. Il estoit accompagné de quelques-uns de ses Gardes qui ne parurent point avec leurs Carabines. Le Regiment d'Angoumois commandé par Mr de Thouy, estoit dans la Place. Le Roy en fit la Reveuë, &amp; il le trouva tres-bon, tous les hommes estant bien faits, &amp; au dessus de trente ans. Ce Regiment eut l'honneur de garder le Roy. [...] Il y a dans Longwy quatre cens cinquante Cadets. Sa Majesté leur vit faire l'exercice, &amp; dit hautement, qu'il n'y avoit point de Troupes qui s'en acquitassent mieux. [...] L'exercice que firent les Cadets, fut à la voix &amp; au commandement de leur Capitaine, ensuite au coup de Tambour, &amp; aprés dans le silence, par une habitude qui est en tous également naturelle ; [...].</p>
+      </div>
+
+<div xml:id="MG-1687-06b_203">
+        <head>MG-1687-06b_203</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 203</bibl>
+        <p>Les Jésuites y ont une tres-grande Eglise, fort propre &amp; fort riche. Elle est plus grande que celle des Carmes de la Place-Maubert, &amp; a deux aisles, &amp; trois beaux Autels. Ils tiennent le College, &amp; ces Peres sont ordinairement au nombre de vingt-cinq dans cette Maison. Encore qu'ils soient tous François, il y en a quelques-uns qui sçavent fort bien l'Allemand, &amp; qui ont esté élevez en Allemagne. Leur Jardin est beau &amp; spacieux &amp; leur maison toute neuve &amp; bien ordonnée. Ils ont une Musique Allemande, que la Cour alla entendre le jour de la Trinité. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_299">
+        <head>MG-1687-06b_299</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 299</bibl>
+        <p>La Cour alla dîner le 27. à Pierre-Pont. Sa Majesté monta à cheval l'apresdînée, &amp; arriva le soir à Etain en prenant le divertissement de la Chasse. Sa Majesté y fut receuë par Mr de Verdun. Elle entendit la Messe le 28. à la Paroisse, &amp; fit de grandes liberalitez au Curé, &amp; aux Capucins qui sont établis en ce lieu-là, quoy qu'Elle leur en eust déjà fait en y passant la premiere fois. Elle dîna le mesme jour à Verdun chez M. l'Evesque, à qui Elle avoit donné ordre le jour précedent pour le Salut qui fut chanté en Musique sur les six heures du soir. Toute la Cour y assista avec une devotion qui répondoit à la piété du Roy. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_300">
+        <head>MG-1687-06b_300</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 300</bibl>
+        <p>Le lendemain 29. jour du S. Sacrement, la pluspart des Dames qui avoient accompagné ce Prince, firent leurs devotions, ce qui parut fort édifiant. Le temps estant extremement pluvieux, on ordonna que la Procession se feroit seulement jusques à l'Eglise des Jesuites, &amp; qu'elle reviendroit aussi-tost dans la Cathedrale. [Suit l'ordre de la procession.] On s'arresta à deux Reposoirs, &amp; la grande Messe fut celebrée par Mr l'Evesque de Verdun. Le Roy, &amp; toute la Cour occupoient la droite des hautes Chaises. Les Chanoines estoient à la gauche, &amp; la Musique au milieu du Choeur ; elle s'acquita assez bien de tout ce qu'elle chanta. Sa Majesté alla à l'Offrande, &amp; après la Messe Elle eut à peine le temps de dîner, pour retourner au mesme lieu, où la Cour entendit Vespres. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_304">
+        <head>MG-1687-06b_304</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 304</bibl>
+        <p>Le 30. le Roy entendit encore la Messe dans la Cathedrale, &amp; Mr de Verdun luy presenta de l'Eau-benite. Ce Prince eut la bonté de faire une remontrance au Chapitre, pour l'exhorter de bien vivre avec son Evesque, &amp; comme il sçavoit que les Chanoines estoient en possession depuis un fort grand nombre d'années, d'estre debout pendant l'Elevation, il leur demanda qu'en sa consideration ils fissent une Ordonnance pour abolir cet usage, à quoy ils ne s'opposerent pas. La Musique chanta un Motet sur le rétablissement de la santé de ce Prince, &amp; receut en mesme temps des marques de sa liberalité.</p>
+      </div>
+
+<div xml:id="MG-1687-06b_305">
+        <head>MG-1687-06b_305</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 305</bibl>
+        <p>Toute la Cour alla ce mesme jour dîner à Brabant, &amp; arriva un peu tard à Sainte-Menehout. M. l'Evesque de Châlons s'y trouva avec quelques Ecclesiastiques qu'il y avoit amenez. Mr le Duc de Noailles ayant de son costé amené de Luxembourg Mr de Ville, &amp; pris à Verdun des Musiciens qui se joignirent à d'autres qu'il avoit fait venir de Châlons, le Salut fut chanté en Musique aux Capucins sur les sept heures du soir.</p>
+      </div>
+
+<div xml:id="MG-1687-06b_307">
+        <head>MG-1687-06b_307</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 307</bibl>
+        <p>Le 31. la Cour dîna à Cense de Bellay, &amp; alla à Châlons, où elle trouva un nombre infiny de peuple qui s'y estoit assemblé ; croyant qu'elle y passeroit la Feste de Dieu, ce qui seroit arrivé, si la maladie de Monsieur le Comte de Toulouse n'eust point rompu les mesures que l'on ayoit prises. Le Salut fut chanté par la Musique avec beaucoup de solemnité, Mr de Châlons estant à la teste de son Chapitre. L'Eglise, &amp; les ruës estoient si remplies, qu'on croyoit estre au milieu du Peuple de Paris. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_309">
+        <head>MG-1687-06b_309</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 309</bibl>
+        <p>Le premier Juin, le Roy dîna à Bierge, &amp; coucha à Vertus. Il y entendit le Salut à la Paroisse, où il y eut une Musique tres-agreable, soutenuë des Hautbois des Mousquetaires. Mr de Châlons y officia, assisté de Mrs de Luzansy &amp; de Lerry, qui ont des Abbayes en ce lieu.</p>
+        <p>Le 2. on partit de Vertus à dix heures du matin, après avoir entendu la Messe, pendant laquelle la Musique continua de chanter des Motets de Mr du Mont. On ne sçauroit trop admirer le zele &amp; l'activité de Mr de Noailles, pour le service de Dieu &amp; du Roy. Mr de Châlons a officié pendant l'Octave du S. Sacrement, par tout où Sa Majesté a esté dans son Diocese &amp; il s'est par tout trouvé de la Musique, par les soins de Mr le Duc de Noailles son frere. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06b_320">
+        <head>MG-1687-06b_320</head>
+        <bibl>Mercure Galant, juin 1687, deuxième partie, p. 320</bibl>
+        <p>[Le roi séjourne à Soissons.] Le jour de l'Octave du S. Sacrement, le Roy ayant sçeu à quatre heures &amp; demie du matin l'estat de la maladie de Madame la Princesse de Conty, ordonna à Mr de Louvois de faire partir les Officiers, &amp; cependant ce Prince, qui ne songea pas moins à remplir les devoirs de Chrestien, que ceux de Roy, demanda au Pere de la Chaise, s'il estoit Feste dans le Diocese de Soissons, &amp; s'il y avoit obligation pour ses Officiers d'entendre la Messe, &amp; pour luy d'assister à la Procession. Le Pere de la Chaise luy répondit, qu'il estoit obligé d'entendre la Messe, &amp; non d'aller à la Procession ; mais que cependant il seroit mieux que Sa Majesté rendist ce devoir aux ordres de l'Eglise, qui a étably la Procession de l'Octave. Il n'en falut pas davantage pour faire ordonner qu'on dit continuellement des Messes, &amp; quoy que les Cloches qui sont fort grosses, fussent prés de la Chambre du Roy, parce que l'Eglise est dans le Chasteau, ce Prince voulut qu'on les sonnast toutes. Il entendit à huit heures &amp; demie une Messe, dite par un Chapelain de quartier. Cependant le Prieur accompagné d'un Diacre, d'un Sous-Diacre, de trois Enfans de Choeur, de huit Choristes &amp; de huit Chapiers tirez de la Chapelle du Roy, se preparoit dans la Sacristie. La Procession commença sur les neuf heures ; on dit ensuite la grand'Messe, et le Roy partit pour aller dîner à Vieu-Maison, qui appartient à Mr Jacquier. Monsieur le Prince quitta la Cour, pour se rendre à Paris. On coucha ce jour-là à la Ferté sur Joüare dans le Diocese de Meaux. Mr l'Evesque de Meaux s'y trouva avec quelques Abbez, &amp; ses Aumôniers. On chanta le Salut en plein Chant à la Paroisse, &amp; la benediction y fut donnée par ce Prelat. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

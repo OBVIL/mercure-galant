@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1699</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1699-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1699</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1699-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1699-04_004">
+        <head>MG-1699-04_004</head>
+        <bibl>Mercure galant, avril 1699, p. 4-22</bibl>
+        <p>Visites faites par Mr l'Evesque de Poitiers.</p>
+        <p/>
+        <p>Vous ne serez pas fâchée d'apprendre, ce qui s'est passé à la premiere visite que M. l'Evêque de Poitiers a faite en la Ville de Niort, &amp; pendant les quinze jours qu'il y a sejourné. Ce Prelat arriva le 11. Février dernier. [...]</p>
+        <p>Le Dimanche de la Sexagesime fut destiné pour faire toutes les fonctions Episcopales dans l'Eglise de Nôtre Dame, l'une des plus belles du Royaume, &amp; on prepara toutes choses pour cela. [...]</p>
+        <p>[M. l'Evêque] commença la grand'Messe qu'il celebra in Pontificalibus, &amp; qui fut chantée au Choeur avec l'Orgue.</p>
+      </div>
+
+<div xml:id="MG-1699-04_058">
+        <head>MG-1699-04_058</head>
+        <bibl>Mercure galant, avril 1699, p. 58-94</bibl>
+        <p>Suite du Journal concernant l'Ambassadeur de Maroc.</p>
+        <p/>
+        <p>Ayant esté voir Madame de S. Olon, il y trouva beaucoup de Dames qu'elle avoit fait assembler pour grossir, &amp; orner la compagnie. [...] On dansa au son des Hautbois, &amp; la compagnie fut nombreuse, quoique choisie. [...]</p>
+        <p>Il dit aprés avoir vû la Comedie de la Devineresse, qu'il avoit vû dans cette Piece tout ce que peut une méchante femme ; que la femme surpasse l'homme en malice comme elle le surpasse en vertu, &amp; que la femme est Ange ou diable, n'y ayant point de milieu.</p>
+        <p>Aprés avoir vû l'Opera du Carnaval de Venise, il dit, que ce spectacle estoit Royal, &amp; que le Roy estoit dans les jeux &amp; dans les plaisirs, le même que dans les affaires serieuses. [...]</p>
+        <p>S'étant trouvé à un bal chez Monsieur, où estoit Madame la Princesse de Conty Doüairiere, il parut charmé de la beauté de cette Princesse &amp; de son air doux &amp; majestueux, &amp; dit qu'il ne faloit que la voir pour sçavoir de qui elle estoit fille. Comme les masques avoient eu permission d'entrer à ce bal, &amp; que rien n'estoit plus surprenant que la richesse &amp; la diversité des habits qui representoient toutes les Nations du monde, sans compter ceux qui avoient esté inventez pour faire briller davantage les personnes qui les porteoient, l'Ambassadeur dit en sortant à M. de saint Olon, qu'il avoit vû trois choses en France qui ne pouvoient estre surpassées ny même égalées sçavoir le Roy, l'Opera, &amp; le Bal de Monsieur. [...]</p>
+        <p>Ayant esté voir Madame le Camus Melson, l'entretien fut tres-vif, &amp; tres spirituel de part &amp; d'autre. Cette Dame le regala d'un tres-beau Porte-lettres, &amp; d'une Tabatiere d'or, garnie de Diamans &amp; de Turquoises. Il alla ensuite à l'Opera de Thesée, où il se récria encore plus qu'il n'avoit fait la premiere, fois, toutes les parties de ce spectacle l'ayant enchanté. [...]</p>
+        <p>Il fit de grandes exclamations à Saint Denis sur la beauté des Tombeaux &amp; sur la richesse du Tresor. Il admira le vitrage de cette Eglise, qu'il examina avec attention, &amp; dont il ne pouvoit retirer sa vûë. Le Pere Prieur le reçut à la porte de l'Eglise, avec plusieurs de ses Religieux, &amp; fit joüer les Orgue lorsqu'il sortit.</p>
+      </div>
+
+<div xml:id="MG-1699-04_123">
+        <head>MG-1699-04_123</head>
+        <bibl>Mercure galant, avril 1699, p. 123-166</bibl>
+        <p>Relation exacte de l'Entrée de Mr le Comte de Chantilly, Ambassadeur Extraordinaire de France à Copenhague.</p>
+        <p/>
+        <p>Je vous envoye une Relation qui vient de Copenhague, Capitale du Royaume de Danemarc. Vous la trouverez fort curieuse. Il s'y pourra trouver quelques noms propres qui ne seront pas corrects, par le peu de soin qu'on prend à les bien écrire dans les Memoires qui sont envoyez.</p>
+        <p>Mr le Comte de Chamilly, Ambassadeur Extraordinaire du Roy Tres Chestien à la Cour de Danemarc, fit son Entrée publique dans Copenhague, Samedy 28. Février dernier. Cette ceremonie avoit esté differée d?abord par l'absence de la Cour, qui a passe l'Esté &amp; l'Automne à la campagne ; &amp; depuis son retour en cette Ville, par l'indisposition du Roy de Danemarc, qui ne luy permet pas de se tenir debout pour l'Audience publique. [...] Quoy que le defaut de formalité eust empêché jusques à présent Mr l'Ambassadeur de paroistre avec tout l'éclat de sa magnificence &amp; de son caractere, il n'avoit pas laissé de se communiquer, &amp; d'établir dans son Hostel des plaisirs reglez, qui y attirent les premiers Seigneurs de la Cour. Tous les Mercredis il tient Appartement. On y trouve plusieurs tables de Jeux, on y fait des concerts, &amp; on y sert toutes sortes de rafraichissemens. La Reine même, accompagnée de la Princesse Royale de Danemarc, de la Princesse de Hombourg, de Madame la Vice-reine de Nortwege, &amp; d'autres Dames de la Cour, fit l'honneur à Madame l'Ambassadrice de la venir voir le Mercredy 18 Février. [...]</p>
+        <p>[Description des préparatifs pour l'entrée de l'ambassadeur, des personnes qui prennent part à la marche, ainsi que des carrosses et livrées]</p>
+        <p>S. E. entra dans la Ville par la Porte de l'Oüest, &amp; fut salüée de vingt-sept coups de canon des ramparts. [...] Dans la premiere Place de la route, S. E. rencontra un Bataillon d'environ six cens hommes formé regulierement, à cause de la petitesse de la Place, tambours battant, Enseignes déployées, presentant les armes. [...] [Il dîne avec M. de Scorbiat, Maréchal.] Ce repas fut accompagné de Trompettes, Timbales, Violons, Flutes &amp; Hautbois, &amp; de quelques airs Italiens, par la Musique du Roy de Dannemarck, &amp; par celle du Prince Royal. On y but en ceremonie debout, &amp; au son des Trompettes &amp; Timbales, la santé des deux Rois &amp; des Maisons Royales, en cette sorte. Le Grand Maistre des Ceremonies se leva, &amp; prit un Villocum, ou grand verre plein, &amp; qu'il vuida à la santé du Roy Tres-Chrestien, &amp; il l'apporta à S. E. qui cependant estoit debout, &amp; tenoit le couvercle du Villocum qui luy avoit esté presenté par le Grand Maistre des Ceremonies. On apporta ensuite deux Villocum pleins, dont les deux premiers Seigneurs qui estoient à la droite, prirent chacun un couvercle. S. E. but à la santé du Roy de Dannemack, &amp; la porta au premier &amp; ensuite celle du Roy, qu'il porta au second. Les autres firent ainsi la ronde, pendant laquelle on se tint debout, &amp; par les signaux qu'un Officier fit par les fenestres avec une bougie aux Trompettes &amp; aux Timbales, les Instrumens sonnerent la charge à chaque coup, autant qu'il dura, &amp; jusqu'à ce que la bougie fut retirée. [...]</p>
+        <p>Le 3. Mars, dernier jour du Carnaval, Son Excell. traita à dîner &amp; à souper les Seigneurs qui l'avoient esté recevoir &amp; complimenter, le Grand Maistre &amp; le Maistre des Ceremonies, les trois Gentilshommes de la Cour, leurs Hautes Excellences Mrs de Guldenlew, General &amp; Amiral ; sa haute Grace Madame la Generale, &amp; les principaux Seigneurs &amp; Dames de la Cour. Il y eut Bal toute la nuit, &amp; des Appartemens extraordinairement éclairez pour le Jeu.</p>
+      </div>
+</body>
+  </text>
+</TEI>

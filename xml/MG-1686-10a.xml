@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre, première partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-10a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, octobre, première partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-10a_011">
+        <head>MG-1686-10a_011</head>
+        <bibl>Mercure Galant, octobre 1686, p. 11, 17-20, 25-27, 30-32, 34-45, 46-49</bibl>
+        <p>Réjoüissances faites à Bourges pour la Naissance de Monseigneur le Duc de Berry</p>
+        <p/>
+        <p>Il faut vous parler des Réjoüissances faites à Bourges pour la Naissance de Monseigneur le Duc de Berry. Toute la Province, qui se souvenoit des avantages qu'elle avoit eux autrefois sous la protection de ses anciens Ducs, n'en eut pas plûtost reçeu la nouvelle, qu'elle en marqua une joye quei ne se peut exprimer. [...]</p>
+        <p/>
+        <p>Messieurs de Bourges ayant esté averis par une Lettre de Cachet, qu'il avoit plû au Roy de faire un Duc de Berry, [...] se rendirent à l'Hostel de Ville, pour délibérer des marques publiques qu'ils donneroient de leur joye, &amp; afin d'avoir te temps de rendre la chose plus éclatante, ils remirent au 17 du mois passé la Feste qu'ils résolurent de faire. Ainsi, ils ordonnèrent que ce jour-là il seroit dressé un Feu de joye &amp; d'artifice au milieu de la Place du Marché, [...] que les Artisans fermeroient leurs Boutiques que [ils] les orneroient de feüillage au dehors ; qu'à tous les Carrefours &amp; bouts des ruës, il y auroit des Arcs de Triomphe de Laurier, &amp; d'autre verdure, où seroient les Armes du jeune Duc de Berry, avec des Fontaines de Vin qui couleroient tout le jour ; qu'à toutes les portes cochères on dresseroit des tables garnies de pastez, jambons, &amp; autres viandes, avec plusieurs bouteilles de Vin, pour y arrester les Passans ; qu'il y auroit des Illuminations à toutes les fenestres au dehors des Maisons, &amp; un Concert de Musique &amp; autres Instrumens en la grande Place publique de S. Pierre le Puellier à l'issüe du Feu de joye, avec des tables remplies de toutes sortes de rafraichissemens ; qu'en mémoire des sept Ducs de Berry on délivreroit sept Prisonniers détenus pour dettes, &amp; qu'on traiteroit tous les Pauvres de l'Hospital général. Cette ordonnance ayant etsé publiée, les Habitans se disposèrent avce tout le zèle imaginable à solemiser cette grande Feste. [...]</p>
+        <p/>
+        <p>Les choses estant disposées de cette sorte, &amp; les Magistrats en Robe Consulaire, les premiers Magistrats, &amp; tout le Présidial en très bel ordre, s'estant rendus dans l'Eglise [Patriarchale de Saint-Etienne] avec Mr l'Intendant à leur teste on commença à chanter le Te Deum au bruit des Tambours, des Trompetes, &amp; des Cloches. Il fut suivy d'un fort beau Motet, &amp; la Simphonie &amp; la Musique se firent également admirer dans l'un &amp; dans l'autre. Lorsqu'on eut finy le Te Deum, auquel Mr l'Archevesque de Bourges assista, la décharge du Canon &amp; de toute la Mousqueterie se fit entendre. Sur les huit heures du soir, Mr l'Intendant, accompagné du Maire &amp; des Echevins, alla allumer le Feu que l'on avoit préparé dans la place Ducale, &amp; alors tout retentit de cris de Vive le Roy, &amp; Monseigneur le Duc de Berry, &amp; d'une nouvelle décharge du Canon &amp; de la Mousqueterie. Il y eut après cela un très beau Feu d'artifice, d'où il sortit un très grand nombre de Fusées volantes &amp; de Serpenteaux, accompagnez de Pétards. Mr l'Archevesque, qui fait tout avec grandeur, finit cette Feste par une Illumination surprenante. [...]</p>
+        <p/>
+        <p>Il y joignit tous les agrémens que peut donner la Musique à une Feste, &amp; ce qui se fit au dedans &amp; au dehors de la Maison de Mr l'Indendant, ne fut pas moins remarquable. [...]</p>
+        <p>Le mesme jour 17 de Septembre, Mr l'Abbé de la Bourdilière, Aumônier de la feuë Reyne, &amp; trésorier de la sainte Chapelle de Bourges, fit chanter dans son Eglise le Te Deum en Musique, pour la Naissance de Monseigneur le duc de Berry. Il fut suivy d'Illuminations autour de l'Eglise, &amp; dans la Place de la Sainte Chapelle, au milieu de laquelle on avoit disposé un très grand Feu, avec quatre Tables aux quatre coins, &amp; deux Fontaines de Vin, outre d'autres Tables qui furent servies sous des Feüillées. De temps en temps on entendoit des Concerts de violons &amp; de plusieurs autres Instrumens &amp; l'on fit partir beaucoup de Fusées volantes, à la lueur desquelles on voyoit un Etendard, que l'on avoit attaché au haut du Clocher. [...]</p>
+        <p/>
+        <p>Les réjoüissances continuèrent à Bourges les jours suivans, &amp; il s'en fit encore de très remarquables le Dimanche vingt-deuxième de Septembre dans la Place du poids du Roy. On y avoit élevé un grand Théâtre, qui estoit soûtenu par quatre colomnes, chargées &amp; embellies d'un agréable mélange de fleurs &amp; de verdure. Quatre Bergères paroissoient au haut de ces colomnes sur autant de piedestaux. Elles tenoient leur Houlete d'une main, &amp; de l'autre cette Inscription :</p>
+        <p>Pasce greges, Biturix, interbotbonia tutos</p>
+        <p>Lilia ; Dux vigilans est tibi pasce greges,</p>
+        <p>Le Théâtre representoit le magnifique palais de Versailles, lieu de la Naissance de Monseigneur le Duc de Berry. On y voyoit les Vertus &amp; les Sciences venir à l'envy les unes après les autres luy présenter des Devises sur ce qu'il doit estre un jour. Au milieu de ce superbe Edifice estoit comme une Citadelle munie de forts Bastions, sur laquelle s'élevoit un Donjon environné d'un grand nombre de Balustrades. C'estoit la demeure de la Renommée &amp; de la Victoire. La première, employée à publier la naissance de ce Prince, avoit cette Inscription, Considerate quomodo Lilia crescunt. A l'Aile droite estoit l'apartement de la paix, qui venoit apprendre au nouveau Duc qu'il estoit né dans un temps où la France gouste un repos tranquille par les bontez de nostre Auguste Monarque. Elle portoit pour devise, Pacis opus. L'aparetemnt [sic] qui luy faisoit face, estoit celuy de Thémis. Cette Déesse faisoit voir au jeune Prince le Portrait de son Bisayeul Loüis XIII &amp; luy présentoit ces mots, Filius erit Proavo Fimilis. Deux grands Corps de Logis avec quatre Pavillons, faisoient l'ornement de l'aile gauche. La Force qui habitoit le premier, venoit proposer au nouveau Duc les incomparables Actions de Loüis Le Grand, &amp; luy marquoit par ces mots l'attachement qu'elle auroit pour toute son auguste Postérité, Borbonios Duces sequor quocunque. La Religion qui occupoit l'autre venoit rendre hommage au jeune Prince par reconnoissance des services que la Maison de Bourbon luy a rendus de tout temps contre l'hérésie. Elle faisoit voir ces mots gravez, Jam firma, per te intacta manebo. Les Muses, les beaux-Arts, &amp; les Sciences avoient leur séjour dans les pavillons, &amp; faisoient connoistre par ce smots les grandes choses qu'il devoit attendre de leurs soins pour son éducation. Ducem ad ardus fingimus. Au dessus de ce superbe Palais estoit le Soleil, qui illuminoit tout ce spectacle, enflâmoit des coeurs attachez à trois Portails par où l'on pouvoit y avoir entrée. Ces coeurs avoient cette inscription, Luce tuâ vivimus. Au premier Portail, qui estoit chargé, comme les deux autres, de Festons ornez de Fleurs de Lys &amp; d'Emblêmes, estoient représentez d'un costé deux Signes de la Vierge &amp; la Balance, qui sont les Astres sous lesquels est né le jeune Duc ; &amp; de l'autre, le Chasteau de Versailles avec un Astre au dessus, &amp; le Dieu Mars pour Planète. Au second, du costé de la Porte de Paris, on avoit peint quatre Siamois, que la Renommée appelloit pour estre témoins de cette naissance. On y avoit peint encore des Alcions sur une Mer calme, &amp; la Déesse Astrée sur la Terre. On remarquoit le Dieu Mars dans le troisième Portail. Il y avoit aussi des Bergers, dont les uns tenoient des Chalumeaux, les autres estoient prosternez devant le berceau du jeune Duc, au dessus duquel la Victoire tenoit une Couronne. Plusieurs Fontaines de Vin coulèrent dans la Place où fut donné ce Spectacle, &amp; il y avoit des Tables ouvertes devant les portes des Officiers, non seulement à toute la Milice, mais encore à tous ceux des Habitans qui voulurent prendre part à cette réjoüissance. Elle commença par un Te Deum, qui fut chanté en l'Eglise de S. Pierre le Marché, &amp; se termina par un grand Feu d'artifice.</p>
+        <p>Le Lundy 7 de ce mois, la Jeunesse de la mesme Ville, voulant marquer à son Prince combien elle s'interesse dans le bonheur du Berry, s'assembla sous un Drapeau blanc semé de Moutons meslez à des Fleurs de Lys, pour faire connoistre que cette Province joüit présentement d'un honneur dont elle s'estoit veuë privé pendant plus de deux siècles. Au milieu estoient les Armes du jeune Duc avec ces mots en dessous :</p>
+        <p>Hoc Juvenes JUVENI signa dedêre DUCI</p>
+        <p>Cette belle &amp; jeune Troupe se rendit dans un équipage fort leste &amp; fort propre dans la place qui est devant l'Eglise Cathédrale, &amp; où par ses soins on avoit préparé un Feu d'artifice. Le dessein en estoit tel. Sur un Théâtre haut &amp; large de douze pieds, s'élevoit une Tour qui en avoit treize de hauteur. Elle avoit quatre Portiques, soûtenus de leurs Pilastres, &amp; ornez de Corniches, Frises, &amp; Architraves. L'ordre estoit Dorique, &amp; les carneaux de la Tour, qui avoit quatre Fenestres, &amp; autant de portes, donnant entrée chacune sur son Balcon bien ouvragé estoient percez de Fleurs de Lys, &amp; portez sur des Consoles de feüilles de refente, au lieu de Machicoli. Tout l'Ouvrage estoit défendu d'un Parapet, percé aussi de Fleurs de Lys, &amp; accompagné de quatre Guerites. Outre ces ornemens d'Architecture, tout estoit embelly d'Ecussons de France &amp; de Berry, ausquels on avoit attaché ces mots, Dedit hos Victoria Flores. [...]</p>
+        <p/>
+        <p>L'artifice &amp; les Illuminations répondirent à la beauté du dessein ; &amp; afin que dans de si justes réjoüissances les oreilles eussent leur part du plaisir, la Musique d'accord avec plusieurs Instrumens, fit oüir les Vers qui suivent.</p>
+        <p/>
+        <p>Pour nostre jeune Duc chantent nos plus beaux Airs</p>
+        <p>Poussons mille cris d'allégresse,</p>
+        <p>Tout ce que nous faisons s'adresse</p>
+        <p>Au plus grand Roy de l'Univers</p>
+        <p/>
+        <p>Joignez-vous à nos voix, vigoureuse Jeunesse,</p>
+        <p>Pour cet Enfant du Ciel chery,</p>
+        <p>Puis que le bonheur du Berry</p>
+        <p>Egalement nous intéresse</p>
+        <p/>
+        <p>Pour porter dignement jusqu'aux plus haut des Airs</p>
+        <p>Un nom pour nous si plein de charmes,</p>
+        <p>Réglez le grand bruit de vos armes</p>
+        <p>A la douceur de nos Concerts.</p>
+        <p/>
+        <p>Après que l'on eut joüy de tout ce Spectacle, on se rendit en un lieu, où cette galante troupe, avoit fait venir les Violons pour donner les Bal aux jeunes Demoiselles de la Ville. La Collation leur fut servie, &amp; rien ne fut oublié de tout ce qui pouvoit contribuer aux plaisirs de cette Feste.</p>
+      </div>
+
+<div xml:id="MG-1686-10a_073">
+        <head>MG-1686-10a_073</head>
+        <bibl>Mercure Galant, octobre 1686, p. 73-78, 80-81</bibl>
+        <p>Jeu de l'arquebuse</p>
+        <p/>
+        <p>Je croy vous avoir marqué dans quelqu'une de mes Lettres, que les Chevaliers du jeu de l'Arquebuse, de Provins, gagnèrent la Bouquet à Nogent au mois d'Aoust 1684. L'obligation où ils estoient de rendre le Prix leur en ayant fait choisir le jour, ils firent sçavoir par des Lettres circulaires qu'ils le rendroient le 25 Aoust dernier, jouer de la Feste de S. Loüis. On vint à Provins de toutes parts, &amp; ils employèrent tout le Samedy 24 Aoust à recevoir les Bandes avec les cérémonies ordinaires. Les uns à cheval, ayant à leur teste Mr Bessel, leur Capitaine perpétuel, allèrent les recevoir hors de la Ville au son des Hautbois &amp; des trompetes, &amp; les autres commandez par Mr Guerin, leur Lieutenant prirent soin de les conduire au son des Tambours &amp; des Violons dans les Logis qui leur estoient préparez. On les régala ensuite des Présens accoûtumez de Conserves &amp; de Vin. Le Lendemain toutes les Bandes se rendirent en bel ordre dans l'Eglise Collegiale de Saint Quevace, où la Messe fut célébrée par Mr le Doyen de Jolycoeur, ancien Aumônier de Monsieur. Le Concert de l'Orgue &amp; des Violons fut admirable pendant que les Drapeaux furent portez à l'Offrande. L'aprésdisnée les Compagnies se rassemblèrent, &amp; vinrent prendre le Bouquet &amp; le prix chez Mr Beffel, Capitaine. On les apporta dans l'Hostel de Ville, où le Maire &amp; les Echevins présentèrent aux Chevaliers une magnifique Collation. [...] De l'Hostel de Ville les Chevaliers allèrent à l'Abbaye de S. Jacques, pour y prendre une Médaille d'or, de la valeur de vingt Loüis, que [l'] Abbé de S. Jacques [fils de feu le chancelier d'Aligre] avoit proposée pour une cinquième Chasse. Ils passèrent le reste du jour à se divertir, &amp; le soir au Bal en divers lieux. [...] [Les Chasses commencèrent le lendemain.]</p>
+        <p/>
+        <p>Les Chevaliers de Provins se distinguèrent, &amp; l'on n'en sçauroit douter, puis que de quatre-vingt Prix, il en remportèrent vingt et un.</p>
+      </div>
+
+<div xml:id="MG-1686-10a_216">
+        <head>MG-1686-10a_216</head>
+        <bibl>Mercure Galant, octobre 1686, p. 216-220</bibl>
+        <p>Buste du Roy placé sur le Portail de l'Hostel de Ville de Grenoble, avec les Cérémonies observées en cette occasion</p>
+        <p/>
+        <p>Les Consuls de la Ville de Grenoble, impatiens de marquer leur zèle au Roy, ont fait travailler un Buste de Marbre blanc de Sa Majesté, pour le poser au dessus du grand Portail de l'Hostel de Ville, en attendant une Statuë en Equestre en Bronze, qu'on doit élever en la principale Place. Ce Buste estant fait, ils n'ont point voulu différer à la placer ; &amp; comme tout ce qui regarde le Roy doit estre toûjours accompagné de beaucoup d'éclat, ils firent assembler la Milice le 25 du dernier mois. Les onze Compagnies s'estoient renduës dans le milieu de la Place du Breüil sur les deux heures après midy, elle y furent rangées en Bataillon par les ordres de Mr le Comte de Marcieux, Gouverneur de la Ville. [...] A quatre heures les Consuls &amp; les Officiers de Ville partirent de leur Hostel qui est à la teste de la Place. Ils avoient leurs habits de Cérémonie, &amp; estoient précédez des Valets de Ville, &amp; de plusieurs Joüeurs d'Instrumens. Ils allèrent dans la Court des Dominicains, où ils trouvèrent ce Buste relevé sur un Char de triomphe attelé de six Chevaux blancs. Le Char qui fit le tour de la Place, le commença par l'aisle droite du Bataillon, &amp; l'ayant continué par la queuë, il le finit par l'aisle gauche jusques à l'Hostel de Ville. Les Consuls le suivirent au son des mesmes Instrumens, &amp; après que le Buste eut esté posé sur le Portail, toute la Milice fit une décharge, après quoy elle défila avec beaucoup d' ordre. [...] L'Hostel de Ville fut Illuminé le soir par plusieurs Fanaux &amp; autres lumières. Les Hautbois &amp; les Violons joüerent jusqu'à minuit, &amp; la Place se trouva remplie de tant de monde, qu'encore qu'elle soit fort spacieuse, il n'y parut aucun endroit vuide, ny qui ne fust propre à se promener.[...]</p>
+      </div>
+
+<div xml:id="MG-1686-10a_221">
+        <head>MG-1686-10a_221</head>
+        <bibl>Mercure Galant, octobre 1686, p. 221-225</bibl>
+        <p>Autres Réjoüissances</p>
+        <p/>
+        <p>On a célébré dans la mesme Ville l'heureuse Naissance de Monseigneur le Duc de Berry. Le jour qu'on avoit choisy pour cette Cérémonie estant arrivé, on fit fermer les Boutiques dès le matin. Sur les quatre heures du soir, la Milice ayant esté rangée sous les armes, se mit en haye devant la Place Saint-André jusqu'à celle de Nostre Dame. Le Parlement en robes rouges, &amp; la Chambre des Comptes avec ses habits de cérémonie, se rendirent dans l'Eglise Cathédrale à travers la Milice. Là Mr le Cardinal le Camus, Evesque de Grenoble, commença le Te Deum, qui fut chanté par le Chapitre de cette Eglise. Tout ce qu'il y avoit de Gens de qualité &amp; de mérite dans la Ville, y assistèrent avec une très grande affluence de Peuple. Lors qu'on eut eut finy le Te Deum, Mr le premier Président se rendit en son Hostel, où les Consuls &amp; les autres Officiers de l'Hostel de Ville, qui avoient aussi paru dans l'Eglise avec leurs robes, allèrent le prendre, précédez de plusieurs Joüeurs d'Instrumens. [La fin de la journée fut marquée par des réjouissances publiques, des fontaines de vin et des illuminations qui] ajoûtèrent de nouveaux charmes à ceux qu'on avoit déjà goûtez, &amp; les réjoüissances ne finirent que fort avant dans la nuit.</p>
+        <p>J'ay oublié de vous dire que le jour que l'on fit à Bourges les mesmes réjoüissances, les Religieuses fondées par la Bienheureuse Jeanne, Duchesse de Berry, sous le Titre de l'Annonciation, signalèrent leur zèle par un Te Deum chanté en Musique, &amp; accompagné d'une Simphonie très agréable. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-10a_281">
+        <head>MG-1686-10a_281</head>
+        <bibl>Mercure Galant, octobre 1686, p. 281-284, 286, 290-293</bibl>
+        <p>Réjoüissances faites par le Comte de Lobcovits</p>
+        <p/>
+        <p>Un Courrier exprez qui passa incessamment en Espagne, ayant apporté la nouvelle de la Prise de Bude à Mr le Comte Venceslas Ferdinand Poppel de Lobkovits, Seigneur de Billin &amp; de Liebschausen, Conseiller &amp; Chambellan de Sa Majesté Impériale, &amp; son Envoyé Extraordinaire à la Cour de France, avec ordre d'en faire part au Roy, et de luy donner une Lettre écrite de la main de l'Empereur, il se rendit aussi-tost à Versailles avec un fort gros Cortège de Gens de qualités de la Nation Allemande. &amp; après s'estre acquité de cette agréable Commission, il revint icy marquer la joye qu'il avoit d'une Conqueste qui estoit si importante pour les Interests de son Maistre. Comme il ne pouvoit la contenir dans on coeur, il voulut que le Public la partageast avec luy, &amp; dans ce dessein il employa les Sieurs Jean Baptiste Gervais &amp; Claude Morel, Ingénieurs de Sa Majesté, qui se chargèrent de faire dresser un Feu d'Artifice d'une intention particulière. Le Dimanche 22 Septembre fut choisi pour cette grande réjoüissance, dont le signal fut donné au point du jour par une décharge de vingt quatre Boëtes. Sur les neuf heures du soir Mr de Lobkowits se rendit au Pré aux Clercs avec tous ses Carrosses, accompagné de tous les Gentilshommes Allemands qui etsoient icy. Il s'y trouva plusieurs Princes &amp; Princesses, avec tous les Ambassadeurs &amp; Ministres des Puissances Etrangères &amp; quantité d'autres personnes considérables par leur qualité, qui se placèrent sur grand Balcon bien basty &amp; fort richement orné. [...] Les Feux d'artifices avoient esté préparez sur un Théatre de vingt-quatre pied de haut, &amp; de vingt-six de large. [...]</p>
+        <p/>
+        <p>Les Feux de Joye commencèrent par la décharge de quarante-huit Boëtes dont le bruit estoit agréablement meslé du son de vingt-quatre Trompetes &amp; Timbales. [...]</p>
+        <p/>
+        <p>Le Spectacle entier dura plus d'une heure, &amp; fut terminé par une décharge de cinquante Boëtes. Ces plaisirs estant finis avec un applaudissement général, on alla en prendre de nouveaux dans l'Hostel de Mr l'Envoyé Extraordinaire. [...] Les Appartemens estoient aussi richemens meubléz que bien éclairez. On y trouva un Concert charmant de Violons, de Basses, &amp; de Hautbois, qui fut écouté avec grand plaisir. [...] [Après quoi suivit un somptueux souper durant lequel les dames] furent servies par les Seigneurs &amp; les Gentilshommes qui estoient en si grand nombre que les gens de livrée ne purent entrer. [...] Une partie [de l'assemblée] se retira dans un Appartement où il avoit un Concert de Luts, &amp; les autres se rendirent dans une Salle qui avoit esté préparée pour le Bal. On y dança fort avant dans la nuit, &amp; toute la Feste se passa avec un ordre admirable.</p>
+      </div>
+
+<div xml:id="MG-1686-10a_299">
+        <head>MG-1686-10a_299</head>
+        <bibl>Mercure Galant, octobre 1686, p. 299-302</bibl>
+        <p>Réjoüissances faites [...] à Cavaillon, pour la Promotion de Mrs les Evesques de Grenoble &amp; de Come</p>
+        <p/>
+        <p>La Promotion de Mr de Ciceri Evesque de Come au Cardinalat, a [...] donné lieu à de grandes réjoüissances qui se sont faites à Cavaillon, Ville du Comté Venaisin [...] [La nouvelle de cette nomination fut rendue publique] en faisant élever dans une Place qui regarde le Palais Episcopal, trois grands feux entourez de Boëtes. [...] [Le nouveau cardinal illumna sa maison et offrit] deux fontaines de vin qu'il abandonna au Peuple. Les Consuls &amp; le Corps de Ville [...] voulurent honorer cette Feste de leur présence. Ainsi, ils partirent de l'Hostel de Ville à l'entrée de la nuit, précédez d'une partie de la Milice, au nombre de deux cens Mousquetaires, avec leurs Tambours, leurs Fifres &amp; leurs Drapeaux. On tira trois fois les Boëtes, ausquelles les Mousquetaires répondirent autant de fois. Les Fusées &amp; autres Feux d'artifice ne furent pas épargnez, &amp; on termina la Réjoüissance par une superbe Collation. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-10a_306">
+        <head>MG-1686-10a_306</head>
+        <bibl>Mercure Galant, octobre 1686, p. 306-307</bibl>
+        <p>Conversions faites à Mets</p>
+        <p/>
+        <p>Toutes les Conversions ont esté enfin achevées à Mets [...] On en a rendu grâces à Dieu par un Te Deum au retour d'une Procession Générale. Mr l'Evesque de Mets l'entonna, &amp; il fut chanté par la Musique. Le Parlement &amp; les autres Corps y assistèrent avec tout l'Estat Major [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

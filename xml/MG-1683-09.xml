@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-09_033">
+        <head>MG-1683-09_033</head>
+        <bibl>Mercure Galant, septembre 1683, p. 33-34</bibl>
+        <p>[Fête de Saint-Louis à l'Académie Française]</p>
+        <p/>
+        <p>Vous attendez le détail de ce qui se passa le jour de la Feste de S. Loüis à l'Académie Françoise, &amp; je vay vous satisfaire. Cette illustre &amp; sçavante Compagnie, regardant ce Saint comme le Patron de LOÜIS LE GRAND, en fait faire tous les ans le panégyrique. Il est précedé d'une Messe, celebrée dans la Chapelle du Louvre par Mr l'Abbé du Pont, qui en est le Chapelain. La Musique y est chantée par un grand nombre des plus belles Voix de France, &amp; jusques icy elle a toûjours esté de la composition de Mr Oudot. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-09_055">
+        <head>MG-1683-09_055</head>
+        <bibl>Mercure Galant, septembre 1683, p. 55-57, 79-80</bibl>
+        <p>[Relation de la fête célébrée à Asnières pour l'anniversaire de la naissance du duc de Bourgogne]</p>
+        <p/>
+        <p>[...] [Il faut] que je vous entretienne de ce qui se fit au commencement du dernier mois, dans une Solemnité, fondée par Mademoiselle Martineau à Asnières sur Oise, pour y estre celebrée tous les ans le 6. Aoust, jour de la Naissance de Monseigneur le Duc de Bourgogne. La mort de la Reyne a esté cause qu'on a retranché cette année toutes les marques de joye qui devoient l'accompagner ; mais si la Musique, les Concerts de Voix &amp; d'Instrumens, les Feux d'artifice, &amp; d'autres choses semblables y ont manqué, le zele de la Fondatrice y a paru d'autant plus exact, qu'elle a voulu qu'on ait commencé la Feste par des Prieres publiques pour le repos de l'Ame de cette Princesse. C'est ce que va vous apprendre la Relation qui suit. Elle est de Mr Comiers d'Ambrun, Professeur des Mathématiques à Paris, dont le mérite vous est si connu par ses Ouvrages.</p>
+        <p/>
+        <p>RELATION</p>
+        <p>DE LA FESTE</p>
+        <p>CELEBREE A ASNIERE</p>
+        <p>Le 6. Aoust 1683.</p>
+        <p/>
+        <p>[...] La Messe estant achevé, on chanta le Te Deum ; &amp; apres que la Benédiction eut esté donnée, on fit les Prieres solemnelles pour le Roy, &amp; pour toute la Maison Royale. Au sortir de l'Eglise, on se rendit chez Mademoiselle Martineau. Il y avoit dans toutes les Chambres plusieurs Tables si bien servies, que toute la Compagnie, quoy que tres-nombreuse, y trouva par tout un Dîné splendide. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-09_153">
+        <head>MG-1683-09_153</head>
+        <bibl>Mercure Galant, septembre 1683, 153-156, 158-161</bibl>
+        <p>[Etats de Bretagne]</p>
+        <p/>
+        <p>Le Roy ayant convoqué les Etats de Bretagne à vitré, Mr le Duc de Chaunes [Gouverneur de la Province] en fit l'ouverture le Lundy 2. du mois d'Aoust. On avoit dressé dans le Palais un grand Théatre, tendu tout autour de tapisserie. Au fond du Théatre estoient les Sieges des Présidens des Trois Etats. [...] Les Trois Etats estant assemblez, députerent selon la coûtume, vers Mr le Duc de Chaunes, qui estoit logé au Chasteau, pour le prier de venir faire l'ouverture. Il se rendit au Palais, accompagné de Mrs de Lavardin [Evêque de Rennes] &amp; de Caumartin, Commissaires du Roy, &amp; de beaucoup de Personnes de la premiere qualité, précédé des Maréchaussées [...]. Ils entrerent au son des Trompetes, &amp; ayant salüé les Dames qui estoient dans un lieu élevé, ils prirent chacun leurs places. [...]</p>
+        <p/>
+        <p>[Outre les séances des Etats, le] reste du jour fut employé à se divertir. Les Trompetes, les Hautbois, &amp; les Violons, se faisoient entendre par tout. Les Dames estoient dans leur plus magnifique ajustement, &amp; parmy elles on voyoit briller Madame de Lavardin, &amp; Madame la Marquise du bois de la Roche. Le Lendemain, les Etats s'assemblerent, &amp; les Tables estant ouvertes, il se trouva grande Compagnie au Dîné de Mr de Chaunes, qui fut servy au son des trompetes, &amp; des autres Instrumens. Chacun ne pensoit qu'à faire grand'chere, lors qu'une Lettre qu'on luy apporta le fit changer de visage. Tout le monde remarqua que cette Lettre luy apprenoit quelque chose de fâcheux. Ce Duc soûpira, &amp; dit tout haut ; Trompetes, hautbois, &amp; Violons, taisez-vous ; Messieurs, pleurez avec moy la perte que la France vient de faire par la mort de la plus grande, de la plus sage, &amp; de la plus pieuse Princesse, qu'elle ait jamais euë pour Reyne. On sortit de table, &amp; ce fut bientost dans toute la Ville une désolation genérale. Chacun prit le deüil, &amp; on congédia les Comédiens qui devoient faire ce jour-là l'ouverture de leur Théatre. Les Etats ont duré un mois, &amp; pendant ce temps on a travaillé aux Affaires de la Province. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-09_270">
+        <head>MG-1683-09_270</head>
+        <bibl>Mercure Galant, septembre 1683, p. 270-271</bibl>
+        <p>[Cérémonie funèbre à Saint-Denis]</p>
+        <p/>
+        <p>[...] Toutes les choses estant ainsi disposées, &amp; les séances ayant esté prises, Mr l'Evesque de Langres, qui avoit officié pontificalement aux Vespres &amp; aux Vigiles, que les Religieux de l'Abbaye avoient chantées le jour précedent, commença la Messe, revestu de ses Habits Pontificaux. Mrs les Evesques de Troyes &amp; de S. Omer, en Chape &amp; en Mitre, luy servirent d'Assistans ; &amp; ceux de Châlons &amp; de Boulogne, firent les fonctions de Diacre &amp; de Sous Diacre, l'un &amp; l'autre en Dalmatique. Ses Aumôniers, les Officiers de la Chapelle de la Reyne, &amp; plusieurs Religieux de l'Abbaye, faisant Choeur avec la Musique de la Chapelle &amp; de la Chambre du Roy, estoient aussi Assistans. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

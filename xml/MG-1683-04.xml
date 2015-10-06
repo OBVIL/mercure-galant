@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-04_045">
+        <head>MG-1683-04_045</head>
+        <bibl>Mercure Galant, avril 1683, p. 45-49, 52-58, 78-82, 84-86</bibl>
+        <p>Description de tous les Divertissemens de Venise pendant le dernier Carnaval</p>
+        <p/>
+        <p>Tous les Masques se viennent promener [Place Saint-Marc], &amp; la confusion en est si grande, principalement dans les quinze derniers jours, que l'on est quelque fois une demie-heure à traverser d'un bout à l'autre. Ceux qui ne demandent qu'à causer, à passer le temps, &amp; à n'être point connus, se masquent [...] ; &amp; les autres qui ne cherchent qu'à rire, &amp; à se divertir, prennent toutes sortes d'Habits qui leur plaisent le plus.</p>
+        <p>Outre ceux qui sont tres-richement parez, l'on y voit des Bandes vingt-six Arlequins avec Trompetes, Tambours, Guidons, &amp; Guitares, qui font toutes sortes de contes &amp; de postures. On en voit d'autres de Polichinelles, avec des Grils, Tambours de Basques, Plats &amp; Assietes, qui chantent des Musiques plaisantes ; d'autres de Païsans, tous vétus diféremment, avec des Chapeaux de fleurs, Houletes, Hautbois, Flageolets, &amp; accompagnez de Femmes &amp; de Filles qui portent des Paniers de Fruits, de Confitures, &amp; de Dragées ; des Compagnies de Turcs, avec des Pipes de Tabac longues de 4. à 5. pieds ; des troupes de Diables, qui chantent des tons tristes &amp; lugubres, &amp; représentent toutes les sortes de Vices, par leurs Habits &amp; par des Vers qu'ils ont sur la teste. D'autres imitent les Juifs &amp; Hébreux, en ce qu'ils ont de ridicule dans leur Religion ; d'autres sont vétus en Egiptiens, &amp; diferent cent plaisanteries ; d'autres se mettent en Ours, en Chiens, en Eléphans &amp; en Singes, &amp; cherchent toutes les figures les plus bizares que l'imagination puisse fournir ; &amp; plusieurs Nobles ne font point de difficulté de se mettre en ces sortes d'Habits grotesques comme les autres Personnes. Ce que l'on trouve de plus plaisant, c'est qu'on peut aller masqué dans tous les endroits de la Ville, excepté dans les Eglises. [...]</p>
+        <p/>
+        <p>Depuis l'ouverture du Carnaval, il y a eu plusieurs Bals que l'on appelle icy festins, à cause que ceux qui les donnent se traitent ordinairement auparavant. La plus grande partie se font chez les Courtisanes, quoy qu'il y en ait eu chez beaucoup d'autres Particuliers, &amp; on y est toûjours mieux reçeu quand on mene une Femme avec soy. Dans la plûpart on oblige tous les Hommes à oster le Masque, afin qu'ils ne passent point les bornes de l'honnesteté, dans l'entretien qu'ils peuvent avoir avec les Femmes.</p>
+        <p>Il y a dans deux ou trois Chambres de pleinpied, des Chaises rangées contre les murs, avec une Epinette, un Violon, &amp; une Basse. Dans chacune, les Hommes prennent par la main les Femmes qu'ils veulent, &amp; se promenent [...]. Il y en d'autres, où apres s'estre promené durant quatre heures, tout le monde s'assied, &amp; laisse le milieu de la Chambre vuide, pour ceux qui veulent dancer.</p>
+        <p>La plus jolie de leurs Dances est la Forlane. Elle se fait à deux ou quatre Personnes, autant d'Hommes que de Femmes, qui tournent en cercle, en sautant &amp; frisant les pieds avec une vitesse &amp; une legereté merveilleuse, &amp; qui s'aprochent ensuite l'un devant l'autre en tournant toûjours de la même maniere, &amp; se prenant quelques fois les bras qu'ils s'entrelassent, &amp; passent par dessus la teste.</p>
+        <p>La Dance des Cinq pas se fait à dix ou douze, autant qu'il en peut tenir. Chaque Homme prend une Femme par la main, &amp; luy fait faire quelques pas de Courante, puis ils se quittent tous, dancent séparément, &amp; se croisent l'un l'autre avec beaucoup de promptitude sans se heurter, ny s'embarrasser, ce qui fait une assez plaisante confusion.</p>
+        <p>La Dance de la Ceinture ne se fait qu'à deux, ou quatre Personnes. La Femme qui dance, prend une Ceinture de Soye qu'elle tient des deux mains, &amp; de temps en temps frape sur celuy qui dance avec elle, &amp; s'il la peut prendre, il luy en donne sur la Jupe à son tour, jusqu'à ce qu'elle l'ait reprise. L'adresse consiste à baisser ou lever les mains fort à propos en passant l'un devant l'autre ; car on ne doit pas cacher la Ceinture, &amp; il ne faut que la toucher pour l'avoir gagnée.</p>
+        <p>Ce que l'on appelle le Change, est encor à rire. Dans le temps qui est destiné pour cela, lors que chacun se promene par les Salles, un de la Compagnie crie tout haut ; &amp; commande le Change. Tout aussi tost il faut que chacun quite la Femme qu'il tenoit par la main, &amp; aille prendre celle qu'un autre menoit au devant de luy, ce qui fait desesperer bien des Gens qui estoient au milieu d'un agreable entretien. Il y en a d'autres qui ne perdent rien au change, &amp; ceux qui sont les plus adroits, prennent le temps qu'il y ait une jolie Voisine pour entrer dans la file. En récompense celuy qui a fait ce commandement, se met au milieu de la Chambre, &amp; il est permis à toutes les Femmes qui ne sont pas contentes, de luy aller donner un soufflet.</p>
+        <p>Vous voyez que la plûpart de ces Dances sont plûtost des Jeux de recreation ; aussi l'usage n'en est que dans les petits Bals, qui n'en sont pas moins divertissans ; car dans les grands on ne fait que se promener, comme je vous ay dit, ou bien l'on dance quelque Fourlane sur la fin. [...]</p>
+        <p/>
+        <p>Il me reste encor à vous parler de la Feste qu'il y eut le Mardy-gras au Théatre de S. Luc, où l'on joüoit l'Opéra de Justin. Ce sont plusieurs Gentilshommes Venitiens, qui ont donné cette année les Opéra de ce Théatre, &amp; ils voulurent finir le Carnaval par un Bal ou Festin, qui fut fort magnifique. Aussistot qu'on eut finy l'Opéra, &amp; que la plûpart des Gentil-Donnes &amp; Gentils-Hommes Venitiens eurent soupé dans leurs Pales, comme il se pratique assez souvent en cette Ville, l'on mit deux rangs de Fauteüils &amp; de Sieges dans le Parterre ou la Salle, qui est fort grande ; &amp; la Simphonie se plaça sur le Théatre devant deux grandes Tables. Cette Salle estoit éclairée par trente gros Flambeaux de cire blanche, de huit à neuf pieds de long, rangez entre les Pales du premier rang, &amp; le long du Théatre. Le Bal ne fut que pour les Gentils-Donnes. Elles estoient toutes démasquées, ainsi que ceux qui se promenoient &amp; dançoient avec elles. Il commença à six heures du soir, c'est à dire à onze heures &amp; demie de France, &amp; dura toute la nuit jusqu'au lendemain matin à une ou deux heures du jour. Durant tout ce temps, on présentoit aux Dames des Tasses de toutes sortes de Liqueurs glacées en neige ; &amp; il y avoit une Table contre l'Orchestre, où l'on en donnoit à boire aux Hommes tant qu'ils vouloient. Il s'en distribua une si grande quantité, que les Barcarols mesme avoient la liberté d'en venir boire. On se promena durant quatre heures, comme je vous ay dit que c'est l'usage ; &amp; apres on dança à la Françoise, &amp; les Fourlanes. Vous observerez qu'encor que les Femmes ayent leurs Gans, il est de la civilté aux Hommes de leur présenter la main nuë pour se promener ou dancer, &amp; l'on donne indiféremment la gauche ou la droite, suivant qu'on se rencontre. [...]</p>
+        <p/>
+        <p>Au commencent de ma premiere Lettre des Opéra, ou je parle de la grandeur du Théatre de S. Jean Chrysostome, que j'ay mesuré moy-mesme avec un Pied que j'ay apporté de Paris, je me suis servy du mot Portique, pour signifier une Arcade ; &amp; comme ce premier Mot se peut encor entendre pour un Vestibule, ou premiere Salle d'entrée, j'ay peur, Madame, de ne m'estre pas rendu assez intelligible. Voicy comme je l'ay voulu expliquer. Le théatre des Acteurs a treize toises, &amp; trois pieds de longueur, &amp;c. Il est ouvert par une grande Arcade, aussi haute que la Salle dans l'épaisseur de laquelle il ya encor quatre Pales de chaque côté les uns sur les autres (je veux dire qu'il y en a qu'un à chaque rang) qui sont de la mesme symétrie que ceux de la Salle, mais beaucoup plus ornez &amp; enrichis ; &amp; dans la voûte de cette Arcade, deux Renommées, avec leurs Trompetes, sont aussi en relief, &amp; paroissent suspendües en l'air ; &amp; au milieu, à l'endroit de la clef, est un Tableau d'une Vénus qu'un petit Amour caresse. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-04_134">
+        <head>MG-1683-04_134</head>
+        <bibl>Mercure Galant, avril 1683, p. 134-138</bibl>
+        <p>Opéra représenté à Rome</p>
+        <p/>
+        <p>Nous avons à Rome Mr l'Abbé Servient, Camérier Secret participant du Pape, dont la Charge luy donne un logement dans le Palais de sa Sainteté. Ce logement ayant esté cause qu'il n'a pû faire faire devant sa Porte des Feux de joye, sur la Naissance de Monseigneur le Duc de Bourgogne, comme les autres Fançois qui sont dans la mesme Ville, son zele parut bien plus magnifiquement lors qu'il eut appris cette Naissance. Il fit représenter un Opéra de Musique chez le Sieur Mario Cianti, Cavalier Romain, où toutes les Personnes les plus qualifiées de Rome se trouverent. Elles y furent régalées de toutes sortes de rafraîchissemens servis en profusion, &amp; avec une propreté extraordinaire. Cet Opéra eut de si grandes beautez, que la Reyne de Suede ne put s'empescher de prier Mr l'Abbé Servient de le faire représenter encor une fois chez elle. In ne faut pas s'étonner si la musique en fut trouvée admirable, puis qu'elle estoit de la Composition de cet habile Autheur Don Pietro Pignalta, Maistre de l'Apollinaire. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-04_137">
+        <head>MG-1683-04_137</head>
+        <bibl>Mercure Galant, avril 1683, p. 138-139</bibl>
+        <p>Opéra représenté à Gennes</p>
+        <p/>
+        <p>On a représenté un Opéra à Gennes dans le Palais du Prince Doria, où la grande partie du Sénat s'est trouvée. On y voyoit Sainte Françoise Romaine, qui consentoit que le Roy de Naples fist son Fils prisonnier &amp; ce mesme Fils délivré par miracle. Comme chaque Païs a ses manieres, un Pere Jesuite fit une éloquente Prédiction à ceux qui estoit assemblez, pour entendre cet Opéra.</p>
+      </div>
+
+<div xml:id="MG-1683-04_138">
+        <head>MG-1683-04_138</head>
+        <bibl>Mercure Galant, avril 1683, p. 138-155</bibl>
+        <p>Quoy que dans le Carnaval, on ne donne point extraordinairement des divertissemens publics à Paris, comme c'est l'usage en beaucoup d'autres Villes de l'Europe, on ne laisse pas d'y faire des Festes aussi galantes &amp; en aussi grand nombre chez les Personnes qualifiées, que l'on en fasse en aucun Lieu de la Terre. Les Spectateurs s'y trouvent toûjours en confusion, sans qu'il soit besoin de les amasser, en publiant le Spéctacle longtemps avant qu'il se donne. Aussi peut-on dire que chaque Hostel de Paris passeroit dans les Païs Etrangers pour le Palais d'un Souverain, &amp; chaque Quartier pour une tres grande Ville. Les nombreuses Assemblées qu'on a veuës ce Carnaval à l'Hostel de Duras, sont une preuve de ce que je dis. On y a donné plusieurs Représentations d'un Opéra nouveau, intitulé L'Amour Berger. C'estoit une Pastorale qui a attiré une telle foule, que les Personnes du premier rang n'ont pû quelque-fois y trouver place. Voicy le Prologue de cet Opéra. Le mois prochain je vous parleray de la Piece, &amp; vous en envoyeray les plus beaux endroits ; avec quelques Airs notez. Vous ne serez pas fâchée de les voir, puis qu'ils sont de Mr de la Lande, dont vous sçavez que le nom n'est pas inconnu à la Cour.</p>
+        <p>Aprés une ouverture où les Hautbois reprenoient sur les Violons, les Flustes douces sur les Hautbois, &amp; les Musetes sur les Flustes douces, l'Amour paroissoit en Habit de Berger sous le nom de Tircis, &amp; un des Petits Amours de sa suite commençoit le Prologue en chantant ces Vers.</p>
+        <p/>
+        <p>Jeunes Beautez qui voulez plaire,</p>
+        <p>Venez dans ces aimables Lieux,</p>
+        <p>Prenez-bien l'air d'une Bergere,</p>
+        <p>Et les coeurs prendront dans vos yeux</p>
+        <p>Une flâme sincere.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Suivez le Dieu d'Amour</p>
+        <p>Dans ce charmant Bocage,</p>
+        <p>C'est icy qu'on s'engage,</p>
+        <p>Et qui sçait bien aimer, y sçait plaire à son tour ;</p>
+        <p>On n'est pas volage</p>
+        <p>Dans ce beau Sejour.</p>
+        <p/>
+        <p>On n'entre point dans le mystere</p>
+        <p>De mon déguisement,</p>
+        <p>On prend l'Amour pour un Amant ;</p>
+        <p>Je passe aupres d'une Bergere</p>
+        <p>Pour un Berger seulement.</p>
+        <p>Je ne montre guére,</p>
+        <p>Et qui veut toûjours plaire,</p>
+        <p>Doit se montrer rarement.</p>
+        <p>Mais j'apperçois Iris, cette Beauté touchante,</p>
+        <p>Qui ne croyois jamais changer ;</p>
+        <p>Je vay la rendre inconstante,</p>
+        <p>Pour mieux la rengager.</p>
+        <p>Le dépit qui la tourmente,</p>
+        <p>La rend déjà plus charmante</p>
+        <p>Aux yeux de son Berger.</p>
+        <p/>
+        <p>La Bergere Iris entroit, &amp; chantoit d'abord ces Vers, sans appercevoir l'Amour.</p>
+        <p/>
+        <p>Un si juste dépit seroit-il inutile ?</p>
+        <p>Ne gagneroit-il rien sur moy,</p>
+        <p>Céladon me soupçonne, il doute de ma foy,</p>
+        <p>Un si juste dépit seroit-il inutile ?</p>
+        <p>Ah, qu'il est difficile</p>
+        <p>D'oublier un Amant</p>
+        <p>Qu'on trouve encor charmant !</p>
+        <p>Ah, qu'il est difficile</p>
+        <p>De rendre au coeur tranquile,</p>
+        <p>Apres un grand attachement !</p>
+        <p/>
+        <p>Iris poursuivoit, apres avoir apperçeu l'Amour, qu'elle prenoit pour Tircis.</p>
+        <p/>
+        <p>Mais quel aimable Objet me porte à l'inconstance !</p>
+        <p>C'est le charmant Tircis, l'honneur de ce Hameau.</p>
+        <p>Attaquons son diférence ;</p>
+        <p>Un Berger si jeune &amp; si beau,</p>
+        <p>Donne un panchant tout nouveau</p>
+        <p>Vers une belle vangeance ;</p>
+        <p>Mon coeur charmé de sa préference ;</p>
+        <p>Abandonne à mon Chien le soin de mon Troupeau.</p>
+        <p/>
+        <p>DIALOGUE D'IRIS,</p>
+        <p>ET DE L'AMOUR,</p>
+        <p>crû TIRCIS.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Toujours rêveur &amp; solitaire,</p>
+        <p>Tircis nous quitte, il fuit nos Jeux ?</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Un berger amoureux,</p>
+        <p>Qui ne sçauroit plaire,</p>
+        <p>Doit fuir les Amans heureux.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Tout celebre une Naissance</p>
+        <p>Qui fait la gloire de la France,</p>
+        <p>Et le bonheur de nos Troupeaux.</p>
+        <p>Nos Moutons en sont mesme &amp; plus gays &amp; plus beaux,</p>
+        <p>Et la réjouissance</p>
+        <p>Qui dans ce beau Sejour</p>
+        <p>Fait d'une nuit un si beau jour,</p>
+        <p>Ne cede pas à la magnificence</p>
+        <p>De la Ville &amp; de la Cour.</p>
+        <p>Ouy, le bonheur de tout le monde</p>
+        <p>Fais un commun empressement.</p>
+        <p>Tous celebre le don d'une Nymphe féconde,</p>
+        <p>Tout brille dans les airs jusques au Firmament,</p>
+        <p>Tout est en feu sur la terre, &amp; sur l'onde ;</p>
+        <p>La nuit dans l'Empirée allume des Flambeaux tous nouveaux,</p>
+        <p>Et le Ciel à son tour veut enfin que l'on voye</p>
+        <p>Qu'à nostre exemple il fait son Feu de joye.</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Le Ciel fait toûjours à propos</p>
+        <p>Des prodiges &amp; des miracles ;</p>
+        <p>Mais le bonheur d'un vray Héros</p>
+        <p>Est plus sur que les Oracles</p>
+        <p>Pour assurer un vray repos.</p>
+        <p>On n'entend retentir sans nos pieds, sur nos testes,</p>
+        <p>Que le nom du Conquérant ;</p>
+        <p>LOUIS paroist aussi grand dans nos Festes,</p>
+        <p>Que dans ses Conquestes.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>N'aurez-vous point de part aux honneurs qu'on luy rend ?</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>J'ay déjà signalé mon zele,</p>
+        <p>Ma joye a pour un temps fait taire ma douleur ;</p>
+        <p>Je reviens aux soûpirs, j'en dois à mon malheur.</p>
+        <p>Laissez-moy, je vous crains, je veux estre fidelle.</p>
+        <p>Par quel charme secret enchantez-vous mon coeur ?</p>
+        <p>Quoy, vostre seul abord cause-t-il une ardeur ?</p>
+        <p>A peine je vous vois, Iris, &amp; je vous aime.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Non, Tircis, je ne le croy pas,</p>
+        <p>Je sçay que vostre amour extréme</p>
+        <p>A pour objet d'autres appas.</p>
+        <p>Je connois une Bergere</p>
+        <p>Qui sent pour vous de l'amour ;</p>
+        <p>Et comme elle a de quoy plaire,</p>
+        <p>Vous l'aimez à vostre tour.</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Iris, on soufre tant aupres d'une Inhumaine,</p>
+        <p>Et mon sort est si rigoureux,</p>
+        <p>Que ce n'est qu'en changeant que je puis estre heureux</p>
+        <p>Oüy, je vous l'avoûray sans peine,</p>
+        <p>Le plaisir d'estre aimé me rendroit amoureux.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Une Bergere moins cruelle,</p>
+        <p>Que pousseroit pour vous des soûpirs enflâmez,</p>
+        <p>Auroit donc le secret de vous changer pour elle ?</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Mes sens en seroient si charmez,</p>
+        <p>Qu'alors je pourrois bien devenir infidelle.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Vous l'estes donc, &amp; vous m'aimez.</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Si les premiers regards d'une ame prévenuë</p>
+        <p>Rendent un coeur sensible à vos appas,</p>
+        <p>Si vous estes aimée aussistost que connüe,</p>
+        <p>Quand vous aimerez bien, que ne ferez vous pas ?</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Si sans me voir, sans me connoistre,</p>
+        <p>Vous avez sçeu gagner mon coeur,</p>
+        <p>A quel point en seriez-vous maître,</p>
+        <p>Si vous aviez pris soin d'en rester le vainqueur ?</p>
+        <p/>
+        <p>Un Berger, &amp; une Bergere, paroissoient icy, &amp; chantoient ces Vers.</p>
+        <p/>
+        <p>Les coeurs qu'Amour assemble</p>
+        <p>Sans le consentement</p>
+        <p>De la Maîtresse &amp; de l'Amant,</p>
+        <p>Sont les mieux unis ensemble.</p>
+        <p/>
+        <p>Le bonheur suit constamment</p>
+        <p>Les coeurs qu'Amour assemble</p>
+        <p>Sans le consentement</p>
+        <p>De la Maîtresse &amp; de l'Amant.</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Courons à la réjoüissance,</p>
+        <p>Retournons à nos Jeux ;</p>
+        <p>Je sens que mon bonheur commence,</p>
+        <p>Et les plus doux plaisirs suivent les coeurs heureux.</p>
+        <p>Celébrons encor la Naissance</p>
+        <p>Du Prince dont le Ciel vient d'honorer la France.</p>
+        <p/>
+        <p>Que son destin est doux &amp; beau !</p>
+        <p>Que sa gloire sera nouvelle !</p>
+        <p>Des plus parfaits Héros, le plus parfait Modelle,</p>
+        <p>Le reconnoist dés le Berceau</p>
+        <p>Pour son Image fidelle.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Que son destin est ravissant !</p>
+        <p>Que sa gloire sera nouvelle,</p>
+        <p>Si la Félicité qui le suit, qui l'appelle,</p>
+        <p>Qui l'accueillit en naissant,</p>
+        <p>Est en tout temps pour luy si riante, &amp; si belle !</p>
+        <p/>
+        <p>L'AMOUR crû TIRCIS.</p>
+        <p>Que son destin est ravissant !</p>
+        <p>Que sa gloire sera nouvelle,</p>
+        <p>S'il est aussi parfait, s'il est aussi puissant</p>
+        <p>Que l'est LOUIS dans sa gloire immortelle !</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Que son destin est ravissant !</p>
+        <p>Que sa gloire sera nouvelle,</p>
+        <p>S'il est aussi parfait, s'il est aussi puissant</p>
+        <p>Que je seray toújours fidelle !</p>
+        <p/>
+        <p>L'Amour repétoit ces quatre derniers Vers ; &amp; un Choeur de Bergers paroissant ensuite, un Petit Amour chantoit ce Couplet.</p>
+        <p/>
+        <p>Rivaux tristes &amp; desolez,</p>
+        <p>Apres les biens que le ciel vous envoye,</p>
+        <p>Si vous voulez,</p>
+        <p>Plus d'un sujet de joye</p>
+        <p>Viendra quérir vos coeurs troubles,</p>
+        <p>Quittez pour un temps vos houletes,</p>
+        <p>Confiez à vos Chiens le soin de vos Troupeaux,</p>
+        <p>Dancez au son de vos Musetes,</p>
+        <p>Meslez-y mille tons nouveaux.</p>
+        <p>De petites chansonnetes</p>
+        <p>Soulagent souvent de grands maux.</p>
+        <p/>
+        <p>Apres que le Choeur avoit repété, l'Entrée des Bergers se faisoit. Les Bergers estoient, Mr le Comte de Duras, Mr le Marquis de Grignan, Mr le Comte de Téride, Mr de Martelliére, &amp; Mr Huet. Quatre Bergeres seules ouvroient l'Entrée, qui finissoit par un Passepied figuré, apres quoy, deux Bergeres, &amp; un Berger, chantoient ces Vers sur l'Air de l'Entrée.</p>
+        <p/>
+        <p>C'est icy qu'une belle flâme</p>
+        <p>Rend bientost les desirs contens ;</p>
+        <p>Dés qu'on aime, on ouvre son ame,</p>
+        <p>Et qui plaist, n'y perd jamais son temps.</p>
+        <p/>
+        <p>On dançoit sur cet Air, &amp; on reprenoit le double.</p>
+        <p/>
+        <p>A quoy sert un Amour severe,</p>
+        <p>Pour des coeurs ravis de charmer ?</p>
+        <p>Du moment que l'on cherche à plaire,</p>
+        <p>On veut bien entreprendre d'aimer.</p>
+        <p/>
+        <p>La Symphonie recommençoit l'ouverture.</p>
+      </div>
+
+<div xml:id="MG-1683-04_159">
+        <head>MG-1683-04_159</head>
+        <bibl>Mercure Galant, avril 1683, p. 159-160</bibl>
+        <p>[J'ai] souvenir qu'en vous parlant il y a un mois, de toutes les Mascarades qui se sont faites à la cour pendant le Carnaval, je promis de vous faire graver celle de la Nôce de Village, faite par Monseigneur le Dauphin. Je vous ay tenu parole, &amp; voicy la Planche que j'en ay fait faire. Vous la pouvez confronter avec la description de ma précedente, afin d'en examiner les Habits avec plus d'exactitude &amp; plus de plaisir. Ils estoient riches, quoy que convenables au sujet ; &amp; les Personnes qui représentoient les Gens de la Nôce, n'ayant pû prendre l'air Villageois, en prenant l'habillement de Village, on y remarquoit quelque chose, qui imprimoit le respect avec la joye.</p>
+      </div>
+
+<div xml:id="MG-1683-04_160">
+        <head>MG-1683-04_160</head>
+        <bibl>Mercure Galant, avril 1683, p. 160-164</bibl>
+        <p>« Il est peu de Ville, où le Carnaval n'ait donné occasion à de pareilles Réjoüissances. On a veu icy de fort jolis Vers, d'une Mascarade qui s'est faite à Montauban. C'estoit un More qui les présentoit à une Belle. Les plaintes qu'il fait sont tournées si galammant, qu'il mérite bien que vous les écoutiez.</p>
+        <p/>
+        <p>LE MORE,</p>
+        <p>A LA BELLE AMINTE</p>
+        <p/>
+        <p>Depuis le jour fatal que mon coeur vous adore,</p>
+        <p>Je n'ay pû rien gagner par ma fidelité ;</p>
+        <p>C'est avec trop de cruauté</p>
+        <p>Traiter les Gens de Turcs à More.</p>
+        <p/>
+        <p>Sans doute qu'à vos yeux je ne suis point aimable,</p>
+        <p>Estant d'une figure un peu terrible à voir ;</p>
+        <p>Mais si je suis noir comme un Diable,</p>
+        <p>Je ne suis pas, Aminte, aussi Diable que noir.</p>
+        <p/>
+        <p>Je connois la tendresse, je sçay que l'on aime</p>
+        <p>A Montauban tout comme ailleurs ;</p>
+        <p>Car l'Amour est par tout le mesme,</p>
+        <p>Il est de tout Païs, &amp; de toutes couleurs.</p>
+        <p/>
+        <p>Je ne dispute pas à vos Lys la victoire,</p>
+        <p>L'ombre le doit toûjours céder à la clarté ;</p>
+        <p>Mais n'en déplaise au blanc, le noir a sa beauté,</p>
+        <p>Et l'Ebene a son prix, aussi bien que l'Yvoire.</p>
+        <p/>
+        <p>Si vostre ame préoccupée</p>
+        <p>Ne peut s'accoûtumer à ma noire couleur,</p>
+        <p>Qu'il vienne des Rivaux éprouver ma valeur,</p>
+        <p>Je me feray contr'eux tout blanc de mon Epée.</p>
+        <p/>
+        <p>Mais helas ! je prévois qu'Amour, dont le pouvoir</p>
+        <p>M'a mis à vos rigueurs en bute,</p>
+        <p>Ne finira jamais nostre longue dispute,</p>
+        <p>Et que nous en serons toûjours du blanc au noir.</p>
+        <p/>
+        <p>J'adorois le Soleil avant que vous connoistre ;</p>
+        <p>Mais vos beautez, Aminte, ont un charme si doux,</p>
+        <p>Que dés que je vous vis paroistre,</p>
+        <p>Tout mon Encens fuma pour vous.</p>
+        <p/>
+        <p>Les autres Amans dissimulent ;</p>
+        <p>Moy, je viens sans façon vous dire mon soucy.</p>
+        <p>C'est le Soleil qui m'a noircy,</p>
+        <p>Et ce sont vos yeux qui me brûlent. »</p>
+      </div>
+
+<div xml:id="MG-1683-04_164">
+        <head>MG-1683-04_164</head>
+        <bibl>Mercure Galant, avril 1683, p. 164-165</bibl>
+        <p>Depart de la Signora Donna Anna Carouso</p>
+        <p/>
+        <p>Enfin, Madame, nous avons perdu la Signora Donna Anna Carouso, cette merveilleuse Romaine, dont je vous ay souvent entretenüe. Elle retourne à Rome, &amp; laisse icy une grande réputation. Son sçavoir, sa maniere de chanter, &amp; d'accompagner sa voix avec le Clavessin &amp; la Lire, &amp; plus que tout cela, son esprit, sa sagesse, &amp; sa modestie, luy ont fait acquerir une estime extraordinaire dans ce Royaume, où les choses médiocres ne sont jamais admirées, &amp; où depuis le Regne de LOÜIS LE GRAND, on n'est pas accoûtumé d'en voir des autres Païs qui surprennent. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-04_220">
+        <head>MG-1683-04_220</head>
+        <bibl>Mercure Galant, avril 1683, p. 220-225.</bibl>
+        <p>Mariage de M. le Comte de Gondrin</p>
+        <p/>
+        <p>On a eu avis que Mr le Comte de Gondrin épousa Mademoiselle de Pochonne sur la fin du Carnaval. Le Mariage s'est fait dans la Ville d'Aqs, dont Mr le Marquis de Pochonne, Frere de la Mariée, est Gouverneur, aussi-bien que du Chasteau. [...] La Cerémonie des Fiançailles fut faite dans l'Eglise Cathédrale le Dimanche-gras à dix heures du soir, par Mr de Gergoing, Vicaire General de Mr l'Evesque d'Aqs. Les Discours qu'il fit aux Fiancez sur l'état qu'ils alloient prendre, charma toute l'Assemblée, qui se rendit en suite au Chasteau, où il y eut Bal jusqu'au jour. Mr le Comte de Gondrin, &amp; Mademoiselle de Pochonne, ne s'y firent pas moins admirer par leur bon air à la Dance, que par la magnificence de leurs Habits. Ils allerent recevoir le lendemain la Bénediction Nuptiale [...]. Lors qu'on fut rentré dans le Chasteau, on trouva un magnifique Dîné, où tout ce que l'on pouvoit donner dans la Saison fut servy en abondance. [...] [Le soir, il y ] eut un second Bal dans le mesme Sallon où l'on avoit déjà dancé. [...] Ces réjoüissances durerent plusieurs jours avec le mesme ordre, &amp; une tres-bonne Symphonie.</p>
+      </div>
+
+<div xml:id="MG-1683-04_310">
+        <head>MG-1683-04_310</head>
+        <bibl>Mercure Galant, avril 1683, p. 310-318</bibl>
+        <p>Motets chantez devant le Roy, de la composition de ceux qui aspirent à la Maistrise de Musique de la Chapelle de Sa Majesté, avec tous les noms de ceux qui les ont fait chanter.</p>
+        <p/>
+        <p>Le Roy estant de retour [à Versailles], donna ses ordres pour faire travailler les Musiciens, chacun séparement, à un Motet. Pour vous apprendre dequoy il s'agit, il faut vous dire, Madame, que les Places de Maistres de Musique de la Chapelle du Roy, estant à remplir, Sa Majesté a résolu d'en mettre quatre au lieu de deux. Elle l'a fait dire à tous les Evesques de son Royaume, afin qu'ils avertissent les Maistres de Musique de leurs Cathédrales, de se rendre à Versailles, pour y faire chanter chacun un Motet, en cas qu'ils se sentissent assez habiles pour pouvoir disputer ces Places par la Beauté, &amp; par la bonté de leur Musique ; Sa Majesté voulant en ce cas payer leur voyage, quand mesme ils ne seroient pas reçeus. Le Roy fait connoistre par là sa justice, &amp; sa libéralité. Voicy les noms de tous les Musiciens qui se sont presentez, selon l'ordre qu'ils ont fait chanter. Messieurs</p>
+        <p/>
+        <p>Mignon,</p>
+        <p>Oudot,</p>
+        <p>Dache,</p>
+        <p>Lalande,</p>
+        <p>Minoret,</p>
+        <p>Daniëlis,</p>
+        <p>Colasse,</p>
+        <p>Grabus,</p>
+        <p>Le Sueur,</p>
+        <p>Charpentier,</p>
+        <p>Laloüette,</p>
+        <p>Menaut,</p>
+        <p>Malet,</p>
+        <p>Rebel,</p>
+        <p>Salomon,</p>
+        <p>Gouppillier,</p>
+        <p>Sevry,</p>
+        <p>Jouvain,</p>
+        <p>Girard,</p>
+        <p>Poirier,</p>
+        <p>Gervais,</p>
+        <p>Fernon,</p>
+        <p>Fossart,</p>
+        <p>Bouttelier,</p>
+        <p>Tabaret,</p>
+        <p>La Garde,</p>
+        <p>Burat,</p>
+        <p>Loisele,</p>
+        <p>Renault,</p>
+        <p>Champenois,</p>
+        <p>Lorenzani,</p>
+        <p>Prevost,</p>
+        <p>La Grilliere,</p>
+        <p>Nivers,</p>
+        <p/>
+        <p>Tous ces Musiciens ayant fait chanter en diférens jouer chacun un Motet à la Messe du Roy, on a choisy un nombre de ceux qu'on a jugé les meilleurs pour les faire travailler, &amp; on les a enfermer afin de connoistre par un second Motet qu'on leur a fait faire, si le premier qu'ils ont fait chanter est de leur composition. Ce n'est pas que les autres n'ayent pas beaucoup mérité ; on ne leur auroit pas permis de faire chanter devant le Roy, si on ne les avoit pas crû ; &amp; c'est pour cela que je vous envoye leurs noms, afin que vous connoissiez les Maistres de France, si excellents dans la Musique de l'Eglise. Ceux qu'on a fait enfermer ont remis leur composition au Roy, dans un Paquet cacheté. On tire au sort ces Paquets, pour faire chanter ce qu'il contiennent, &amp; quand tout aura esté chanté, on choisira pour Maistres de la Chapelle, les quatre qui auront le mieux reüssy dans cette derniere composition. Voicy les noms de ceux qui ont esté enfermez.</p>
+        <p/>
+        <p>Mrs Mignon,</p>
+        <p>Lalande</p>
+        <p>Colasse,</p>
+        <p>Le Sueur,</p>
+        <p>Ralet [sic, i.e. Malet],</p>
+        <p>Mebel [sic, i. e. Rebel],</p>
+        <p>Salomon,</p>
+        <p>Gouppillier,</p>
+        <p>Desmares,</p>
+        <p>Fossart,</p>
+        <p>La Garde,</p>
+        <p>Lorenzani,</p>
+        <p>Prevost,</p>
+        <p>Nivers,</p>
+        <p/>
+        <p>Le Sieur Charpentier estoit fort malade dans le temps qu'on a enfermé ces quinze Musiciens. Il n'y a eu jusqu'icy que deux Maistres de Musique de la Chapelle du Roy. Mr du Mont, &amp; Mr Robert, tous deux tres-habiles, &amp; tres-estimez, remplissoient ces places ; &amp; comme leur âge les oblige de quitter, Sa majesté en veut choisir quatre pour le mesme employ. Depuis que les quinze sur qui doit tomber ce choix, sont sortis du lieu où ils avoient esté enfermez, ils ont tiré au Billet à qui feroit chanter le premier. Le Maistre de Musique de Meaux, dont le nom paru d'abord, commença Lundi 26. de ce mois ; &amp; Mr Mignon, Maistre de Musique de Nostre-Dame, fit chanter le lendemain. Je n'ay point sçeu dans quel ordre tous les autres noms ont esté tirez. Je sçay seulement que Mr Lorenzani fera chanter le septiéme, &amp; que Mr Colasse est le dernier. C'est celuy qui bat la mesure aux Opéra de Mr Lully.</p>
+      </div>
+
+<div xml:id="MG-1683-04_356">
+        <head>MG-1683-04_356</head>
+        <bibl>Mercure Galant, avril 1683, p. 356-357</bibl>
+        <p>Réjoüissances faites à Constantinople pour la Naissance de Monseigneur le Duc de Bourgogne</p>
+        <p/>
+        <p>On a eu nouvelles de Constantinople, que Mr de Guilleragues nostre Ambassadeur n'y eut pas plûstot reçeu avis de la Naissance de Monseigneur le Duc de Bourgogne, qu'il en fit rendre des actions de grace dans la chapelle du Palais de France. La Messe y fut celebrée Pontificalement par Mr l'Evesque de Cysique, Vicaire Patriarchal de Constantinople, qui prononça un fort beau Discours Italien à la louange de Sa Majesté. On chanta ensuite le Te Deum. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-04_357">
+        <head>MG-1683-04_357</head>
+        <bibl>Mercure Galant, avril 1683, p. 357-358</bibl>
+        <p>Festes de Toulouse</p>
+        <p/>
+        <p>Vous vous souvenez de toutes les Festes qui ont esté faites à Toulouse pour cette mesme Naissance [celle du duc de Bourgogne]. On a bien connu qu'elles se faisoient par le zele, encor plus que par devoir, puis qu'elles ont esté renouvellées dans la mesme Ville à la fin de Fevrier. On y représenta chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit La naissance de Mercure, par rapport aux avantages que tire la France de la Naissance de Monseigneur le Duc de Bourgogne. La Comédie avoit pour titre Le philosophe à la Mode, &amp; l'on y joüoit les cartésiens. [...]</p>
+      </div>
+
+<div xml:id="MG-1683-04_363">
+        <head>MG-1683-04_363</head>
+        <bibl>Mercure Galant, avril 1683, p. 363</bibl>
+        <p>Phaéton, Opéra</p>
+        <p/>
+        <p>L'Opéra de Phaéton, qui a servy de divertissement à la Cour ce Carnaval, fut donné pour la premiere fois au Public Mardy dernier 17. de ce mois. Je vous en entretiendray dans ma premiere Lettre.</p>
+      </div>
+</body>
+  </text>
+</TEI>

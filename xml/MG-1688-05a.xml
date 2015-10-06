@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai, première partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-05a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, mai, première partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-05a_007">
+        <head>MG-1688-05a_007</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 7-14</bibl>
+        <p>Récit d'un fait fort singulier, &amp; dont il n'y a point encore eu d'exemple.</p>
+        <p/>
+        <p>Je ne vous diray rien de particulier du Roy au commencement de cette Lettre, mais ce qu'il a fait depuis un mois pour autoriser une Fondation qui n'auroit pû subsister, s'il ne l'avoit confirmée, vous marquera la bonté de ce Grand Prince, &amp; la consideration qu'il a pour les personnes d'une veritable pieté. [...] Messire Loüis de Menou, Seigneur de Boussay, Genilly, &amp; autres lieux, après avoir servy dans les vieux Corps dés sa plus grande jeunesse, &amp; donné des marques de son courage en plusieurs Sieges, se retira du service, &amp; se maria. [...] Il eut sept Enfans, trois garçons, &amp; quatre filles, &amp; estant demeuré veuf, il sentit que Dieu l'appelloit  aux Ordres sacrez. Il ne put resister à cette voix. Il se fit Diacre, &amp; outre les sept Enfans qu'il avoit, se voyant l'Aisné de plusieurs Freres &amp; Soeurs au nombre de trente-trois, le zele qui l'animoit luy fit prendre le dessein de fonder un Monastere. Il en parla à Mr de Bouthillier, pour lors Archevesque de Tours, qui luy en donna la permission sous le bon plaisir de Sa Majesté. Aussi-tost il acheta une maison appellée la Bourdilliere, dans la Paroisse de Genilly, &amp; il y mit sept de ses Soeurs, dix de ses Nieces, &amp; ses quatre Filles. Je croy, Madame, qu'il n'y a aucun Convent en France, où l'on trouve un si grand nombre de Religieuses, toutes Parentes si proches, Soeurs, Nieces, &amp; Cousines Germaines. Comme par les Lettres d'établissement M. de Menou s'estoit reservé la nomination de la Prieure, il presenta pour la premiere fois sa Soeur aisnée, qu'il tira du Monastere de la Virginité, où estoit alors Abbesse Madame du Port Royal, Soeur de Mr l'Archevesque de Paris. Cette illustre Abbesse, après l'Obedience de Mr de Citeaux donnée en forme, permit que la Religieuse nommée allast commencer l'établissement, que Mr de Menou a fait avec de grands frais, dans le seul dessein, qu'une aussi grande Famille que la sienne, ne degenerast en rien des vertus de ses Ancestres, &amp; que ses Filles, ses Soeurs, &amp; ses Nieces, chantassent toutes ensemble les loüanges de Dieu. Il a d'ailleurs son Fils aisné marié, qui ayant sept Filles, en a déjà mis plusieurs Pensionnaires dans ce mesme Convent, qui est desservy par un des Freres des sept Soeurs Religieuses. Il est Abbé de S. Mahé en Bretagne, &amp; ce qui est remarquable, M de Menou a encore deux Freres &amp; un Fils Prestres, de sorte qu'on a vû trois Freres servir à l'Autel à la Profession d'une de leurs Nieces, &amp; un Fils officier pendant le Service chanté par sept Soeurs, quatre Filles, &amp; dix Nieces. Leur Maison est originaire du Perche, &amp; fut transplantée en Touraine il y a prés de quatre siecles, par une alliance prise dans la Maison de Boussay, [...]</p>
+      </div>
+
+<div xml:id="MG-1688-05a_029">
+        <head>MG-1688-05a_029</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 29-30</bibl>
+        <p>Conférences établies par Mrs les Vicaires Generaux de Soissons, avec un Discours prononcé sur le sujet de ces mesmes Assemblées.</p>
+        <p/>
+        <p>Messieurs les Grands Vicaires de l'Evesché de Soissons n'oubliant rien pour seconder les pieuses intentions de Sa Majesté, dont le zele est venu à bout de réunir tous ses Sujets dans une mesme Religion, ont ordonné des Assemblées, &amp; étably des Conferences dans tous les Doyennez de ce Diocese, pour remedier aux abus de ceux qui suppriment les Reglemens &amp; les Ordonnances Ecclesiastiques. Ils president eux-mesmes à ces Assemblées, &amp; l'ouverture s'en fit le Jeudy 22. du mois passé, dans l'Eglise Collegiale de Saint Vast de Soissons. On commença par la Messe du Saint Esprit, que M. Perrein chanta solemnellement, en qualité de Grand-Doyen de la Chrestienté. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-05a_038">
+        <head>MG-1688-05a_038</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 38-39</bibl>
+        <p>Ceremonies faites dans l'Eglise de S. Roch, en execution d'une fondation faite pour le Roy.</p>
+        <p/>
+        <p>Vous vous souvenez des Prieres &amp; des Festes publiques que l'on fit l'année derniere pour le restablissement de sa santé. Je vous en ay entretenuë fort au long dans une Lettre Extraordinaire. Plusieurs n'en sont pas demeurez à ces Prieres, &amp; il y en a beaucoup qui ont fait des Fondations pour rendre les mesmes graces à Dieu tous les ans. Mr le Curé, &amp; Mrs les Marguilliers de S. Roch sont de ce nombre, &amp; le Samedy, premier jour de ce mois, ils firent chanter un Salut avec une magnificence où rien ne fut oublié. Il y eut une excellente Musique, &amp; on eut le plaisir d'y entendre les plus belles voix de France. L'amour qu'on a pour le Roy y attira une si grande foule de Peuple, que toute l'Eglise se trouva remplie. On pria pour luy avec le zele &amp; la ferveur ordinaire.</p>
+      </div>
+
+<div xml:id="MG-1688-05a_075">
+        <head>MG-1688-05a_075</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 75-78</bibl>
+        <p>Le trop curieux Mary, Histoire.</p>
+        <p/>
+        <p>On a quelquefois des tentations de curiosité qu'il est dangereux de satisfaire ; l'Historiette en Vers que je vous envoye en est une preuve. Elle est de Mr Nadal de Poitiers, Auteur des deux Fables que vous avez leuës avec plaisir dans mes autres Lettres ; l'une du Rossignol &amp; de la Linote, &amp; l'autre de l'Asne, &amp; de l'Avare.</p>
+        <p/>
+        <p>LE TROP CURIEUX MARY.</p>
+        <p>D'une Femme jeune &amp; jolie</p>
+        <p/>
+        <p>L'Epoux avoit cette folie</p>
+        <p>D'avoir le coeur delicat &amp; jaloux,</p>
+        <p>Chose propre à gaster les plaisirs les plus doux.</p>
+        <p>Il voulut penetrer ce qu'elle avoit dans l'ame,</p>
+        <p>Si par hazard elle seroit bien femme,</p>
+        <p>Comme souvent elle en juroit,</p>
+        <p>A rebuter des soins qu'un Amant luy rendroit.</p>
+        <p>[...]</p>
+        <p>C'estoit pendant le Carnaval.</p>
+        <p>La jeune Epouse aimoit le Bal</p>
+        <p>Le Mary crut, dans la delicatesse</p>
+        <p>Que sur la moindre chose il se faisoit sans cesse,</p>
+        <p>Que ces endroits ne luy plaisoient</p>
+        <p>Que parce qu'ils autorisoient</p>
+        <p>L'enjoûment &amp; le badinage ;</p>
+        <p>Et pensa que pour démesler</p>
+        <p>Le panchant d'un coeur jeune &amp; peut-estre volage,</p>
+        <p>Au bal luy-mesme il feroit bien d'aller.</p>
+      </div>
+
+<div xml:id="MG-1688-05a_188">
+        <head>MG-1688-05a_188</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 188-193</bibl>
+        <p>Reproches à une jeune mariée.</p>
+        <p/>
+        <p>Vous me paroissez trop satisfaite de l'Epithalame que je vous envoyay la derniere fois, pour ne me pas obliger à vous faire part de ces autres Vers du mesme Auteur, c'est à dire, de Mr Diereville, dont je n'avois pas alors appris le nom. Ils ont esté faits pour la mesme personne, &amp; sont comme une suite de l'Epithalame.</p>
+        <p/>
+        <p>REPROCHES A UNE jeune Mariée.</p>
+        <p>Aimable Iris, quels changemens,</p>
+        <p>On trouve dans ces lieux après vostre Hymenée !</p>
+        <p>On n'entend plus ces Instrumens</p>
+        <p>Qui vous faisoient passer sans ennuy la journée,</p>
+        <p>Dont les tons variez &amp; toûjours ravissans,</p>
+        <p>Autrefois enlevoient nos sens.</p>
+        <p>Vostre voix ne fait plus l'agreable mélange</p>
+        <p>Qui rendoit ces concerts si doux.</p>
+        <p>Ah, qu'un tel silence est étrange !</p>
+        <p>On ne vous connoist plus chez vous.</p>
+        <p>On voit que vostre heureux Epoux</p>
+        <p>Occupe vostre esprit sans cesse,</p>
+        <p>Vous ne songez qu'à sa tendresse.</p>
+        <p>Et vous n'avez plus rien pour nous.</p>
+        <p/>
+        <p>Rien n'est durable dans la vie,</p>
+        <p>Ces chants harmonieux qui bornoient vos desirs,</p>
+        <p>Cessent de faire vos plaisirs</p>
+        <p>Depuis qu'à d'autres jeux vostre amour vous convie.</p>
+        <p>Ainsi les Rossignols sous des feüillages verds</p>
+        <p>Font retentir dans un boccage</p>
+        <p>Le bruit de leurs charmans concerts</p>
+        <p>Avant que l'Hymen les engage ;</p>
+        <p>Mais dés qu'ils en portent les fers,</p>
+        <p>Ils ne font plus entendre leur ramage.</p>
+        <p>Comme nous ces petits Oiseaux</p>
+        <p>Veulent multiplier leur estre ;</p>
+        <p>Et lors qu'en leurs Petits l'amour les fait renaistre,</p>
+        <p>Ils prennent tout le jour pour eux des soins nouveaux,</p>
+        <p>Et tous ces soins ne vont qu'à les repaistre.</p>
+        <p>Ces petits Chantres de nos bois,</p>
+        <p>Qui tenoient à leurs chants nostre oreille appliquée,</p>
+        <p>Occupent à chercher &amp; porter la bequée</p>
+        <p>Les momens qu'ils mettoient à chanter autrefois.</p>
+        <p>[...]</p>
+        <p/>
+        <p>Du temps passé le flateur souvenir</p>
+        <p>Nous fait plaindre nostre disgrace ;</p>
+        <p>Nous regretons celuy qui passe.</p>
+        <p>Et nous craignons encor plus l'avenir.</p>
+        <p>Pour dissiper ces cruelles alarmes ?</p>
+        <p>Reprenez tous vos Instrumens ;</p>
+        <p>Et ces petits delassemens</p>
+        <p>Vous feront retrouver en amour plus de charmes.</p>
+        <p>Il y va de vostre interest,</p>
+        <p>C'est pour vostre plaisir autant que pour le nostre ;</p>
+        <p>Enfin ce plaisir ne nous plaist</p>
+        <p>Qu'autant qu'il peut faire le vostre.</p>
+        <p>Touchez donc vostre Clavessin,</p>
+        <p>Et faites-nous encor admirer une main</p>
+        <p>Qui fit, en se donnant, tout le bonheur d'un autre.</p>
+      </div>
+
+<div xml:id="MG-1688-05a_204">
+        <head>MG-1688-05a_204</head>
+        <bibl>Mercure galant, mai 1688, première partie, p. 204-208</bibl>
+        <p>Rien n'est si à la mode que la Musique, &amp; c'est aujourd'huy la passion de la pluspart des honnestes gens, &amp; des personnes de qualité ; mais peu y réussissent comme Madame la Dauphine. Cette Princesse apprend à chanter depuis cinq ou six mois, avec un succés surprenant. Elle a la voix d'une grande douceur, tres-legere, fort étenduë, &amp; le gozier du monde le plus flexible. Elle sçait parfaitement ce qu'elle chante, &amp; c'est toûjours avec le mesme esprit &amp; la mesme grace qui accompagnent tout ce qu'elle fait. Voilà ce qui manque à la pluspart de ceux qui se mêlent de chanter, il faut de l'ame, &amp; une expression juste ; c'est ce qui ne s'acquiert point, &amp; que la naissance donne. Madame la Dauphine à l'oreille admirable, &amp; naturellement sure, en sorte qu'elle chante parfaitement en partie, à deux, à trois, &amp; avec l'accompagnement ; tout luy est égal, Airs &amp; Scenes d'Opera, Airs de Lambert, du Camus, du vieux Boisset &amp; autres avec les doubles. Elle a choisi Mr Matho qui est de la Musique du Roy, pour avoir l'honneur de luy montrer. Il avoit déjà une grande reputation pour sa voix, pour sa maniere de chanter, &amp; pour la science dans la Musique ; &amp; ce que je viens de vous apprendre, acheve de persuader de son merite. Il donna l'année derniere un divertissement en Pastorale, qui fut chanté à Marly devant le Roy, &amp; à Versailles dans les Appartemens, avec un applaudissement general. C'est ce qui a fait souhaiter de l'entendre encore cette année. Il a réussi de mesme. Sa Musique est extremement gracieuse, &amp; de bon goust ; tout en est fort travaillé &amp; bien suivy ; son chant touche, sa simphonie est bien entenduë, &amp; ses Choeurs sont agreables &amp; bien remplis. Mr Morel qui est de la Musique du Roy, &amp; Valet de Chambre de Madame la Dauphine, avoit fait les paroles, qui ont beaucoup plu par le naturel avec lequel il travaille.</p>
+      </div>
+</body>
+  </text>
+</TEI>

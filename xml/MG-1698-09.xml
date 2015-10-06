@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-09_007">
+        <head>MG-1698-09_007</head>
+        <bibl>Mercure galant, septembre 1698, p. 7-11</bibl>
+        <p>L'EXCELLENT Portrait que je vous ferois du Roy, si je pouvois rapporter icy tout ce qui fut dit de ses grandes qualitez par ceux qui firent le Panegyrique de Saint Loüis, le jour qu'on en celebra la Feste. [...] Ce Panegyrique fut précedé d'une Messe que celebra Mr l'Abbé Boileau, Directeur presentement de l'Academie, &amp; pendant laquelle un tres grand Choeur de Musique chanta le Pseaume Super flumina Babylonis, de la composition de Mr de Bousset. Il y eut plusieurs endroits fort touchans, dont tout le monde témoigna estre charmé.</p>
+      </div>
+
+<div xml:id="MG-1698-09_184">
+        <head>MG-1698-09_184</head>
+        <bibl>Mercure galant, septembre 1698, p. 184-221</bibl>
+        <p>Journal contenant tout ce qui s'est passé au Camp de Coudun.</p>
+        <p/>
+        <p>Il n'y a rien de plus beau à voir que l'ordre avec lequel toutes les Troupes entrent dans le Camp, au bruit des Tambours &amp; des Trompettes. [...]</p>
+        <p>Le Samedy 6. [...] Sa Majesté, qui estoit accompagnée [de] tous les Princes, des Generaux &amp; des Courtisans, visita plusieurs Quartiers. [...] Lors que le Roy passe [...] [il] n'y a que la Garde du Camp qui se met en bataille, &amp; dont les Tambours battent aux champs ; &amp; devant la Cavalerie toutes les Trompettes se mettent auprés des Officiers quand le Roy passe, &amp; elles sonnent la marche. Chaque Escadron de Cavalerie legere a quatre Trompettes. [...]</p>
+        <p>[Le mardi 9 les rois d'Angleterre et de France] montérent à cheval &amp; commencérent au pas la visite de l'Armée par la gauche de la seconde ligne, au bout de laquelle ils se trouvérent vis-à-vis de la teste de la premiere qu'ils achevérent de visiter. [...] Les Trompettes &amp; Timbaliers des Regimens Royaux ont la livrée du Roy, &amp; les autres celles des Colonels dont les Regimens portent les noms, les uns &amp; les autres enrichis d'or ou d'argent ; les Etendars en broderie d'or &amp; d'argent avec des Devises, &amp; les banderoles des Trompettes &amp; Tabliers des Timbales, sont pareillement brodez d'or &amp; d'argent. [...] Les Tambours des Regimens qui portent des noms de Provinces, ont la livrée du Roy, &amp; les autres celles des Colonels dont les Regimens portent les noms. [...]</p>
+        <p>Le Jeudy 11. le Roy voulant faire voir à Monseigneur le Duc de Bourgogne, l'ordre d'un décampement d'Armée, les trois Princes partirent de Compiegne à six heures trois quarts du matin, &amp; se trouvérent à le teste du Camp. [...] Le bruit des Trompettes, des Timbales, des Hautbois, des Tambours, des Fifres, la beauté des Troupes, leur fierté, &amp; leur bel ordre, inspiroient un air de guerre à tous les spectateurs.</p>
+      </div>
+
+<div xml:id="MG-1698-09_268">
+        <head>MG-1698-09_268</head>
+        <bibl>Mercure galant, septembre 1698, p. 268-270</bibl>
+        <p>Enregistrement au Parlement de Bordeaux, des Lettres patentes de Monsieur le Duc de Chevreuse, sur la survivance du Gouvernement de Guyenne.</p>
+        <p/>
+        <p>Le 28. du mois dernier Mr de l'Isle du Vigier, Mestre de Camp de Cavalerie, presenta au Parlement de Bordeaux les Lettres Patentes que Mr le Duc de Chevreuse a obtenuës, pour la survivance du Gouvernement de Guyenne, aprés la mort de Mr le duc de Chaulnes, lesquelles avoient esté remises à Mr du Vigier son Frere, Procureur General au Parlement pour y estre enregistrées. [...] Il y eut ensuite un repas magnifique chez Mr le Procureur General, où rien ne manquoit, tant pour la délicatesse que pour la propreté. Il fut accompagné d'une tres-belle Symphonie.</p>
+      </div>
+</body>
+  </text>
+</TEI>
