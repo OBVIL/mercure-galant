@@ -2,7 +2,7 @@
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-01e" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-03e" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
   <text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, tome I, quartier de janvier 1678.</head>
-      <div xml:id="MG-1678-01e_000a">
+      <div xml:id="MG-1678-03e_000a">
         <head>Aux Dames</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, non-paginé.</bibl>
         <label rend="center">Aux Dames.</label>
@@ -99,7 +99,7 @@
         <l><space/><space/>        Cela fait tous les biens du monde.</l></lg>
         <p>Voila, Mesdames, les sentimens passionnez que <hi rend="i">le Mercure Galant</hi> a pour vous. Il vous répond de sa constance, &amp; vous assure que si chaque Amant en a autant pour chacune de vous, qu’il en aura pour tout le beau Sexe, vous ne vous plaindrez jamais d’aucune infidelité ; mais aussi il veut estre récompensé de l’attachement qu’il a pour vous, &amp; il vous demande à toutes en general, ce que chaque Belle en particulier fait quelquefois acheter si cher à un Amant, je veux dire un peu d’estime pour luy, &amp; s’il se peut, un peu d’empressement de le voir.</p>
       </div>
-      <div xml:id="MG-1678-01e_000b">
+      <div xml:id="MG-1678-03e_000b">
         <head>Préface</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, non-paginé.</bibl>
         <label rend="center">Préface.</label>
@@ -107,7 +107,7 @@
         <p>On donnera un Volume du Mercure Galant, le premier jour de chaque Mois sans aucun retardement. Tous les Volumes de l’année 1678. à commencer par celuy de Janvier, ne se donneront plus à l’avenir chez le Sieur Blageart, Imprimeur-Libraire, Rue S. Jacques, à l’entrée de la Ruë du Plastre, qu’au prix de Vingt sols en feüilles, &amp; au Palais à Trente sols relié en Veau, &amp; à Vingt-cinq sols en Parchemin. Les dix Volumes de l’Année 1677. se donneront toûjours au prix ordinaire, c’est à dire vingt sols en Veau, &amp; quinze en Parchemin au Palais, &amp; dix sols en feüilles chez ledit Sieur Blageart.</p>
         <p>Et pour l’Extraordinaire, il se distribuera au mesme lieu au prix de cinquante sols en feüilles, de cinquante-cinq sols relié en parchemin, &amp; de soixante sols relié en veau.</p>
       </div>
-      <div xml:id="MG-1678-01e_001">
+      <div xml:id="MG-1678-03e_001">
         <head>Lettre sur les Enigmes de ce temps, À Monsieur le D.D.S.A.</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 1-45.</bibl>
         <p>VOUS le voulez, Madame, &amp; il n’y a pas moyen de m’en dispenser. Le commerce que les Lettres que je vous écris, me donnent avec le Public, attire vostre curiosité. Il est juste de vous en rendre compte, &amp; de vous faire voir une partie de ce qu’on m’écrit sur les Ouvrages des Particuliers, que je prens soin de recüeillir pour vous tous les Mois. Les Enigmes ont êté la matiere sur laquelle on s’est le plus generalement expliqué. On ne s’est pas contenté d’en chercher le sens. La plûpart de ceux qui l’ont trouvé, me l’ont envoyé en Vers, &amp; je puis dire que de longtemps rien n’a esté si fort à la mode. Ce que je vous ay dit des Devises dans ma Lettre de Fevrier, a esté cause qu’on m’a demandé quelques Remarques sur les Enigmes, &amp; pour satisfaire ceux qui s’en sont faits une occupation d’eux-mesme, &amp; leur faire connoistre que bien loin d’étre une bagatelle, elle a fait autrefois le plaisir des plus grands Hommes de l’Antiquité, j’avois commencé des Recherches sur ce sujet, lors qu’il m’est tombé entre les mains plusieurs Lettres qui m’ont épargné une plus grande suite de soins. Elles sont si belles &amp; si pleines d’érudition, que je suis obligé de vous avoüer qu’il me seroit impossible de rien trouver qui les égalât. Lisez-les, je vous prie. Elles viennent d’Aix en Provence. L’Autheur ne m’en est pas connu, mais elles sont si finement &amp; si sçavamment écrites, que vous partagez sans doute avec moy l’estime particuliere qu’elles me donnent pour luy. Je n’ay pû sçavoir à qui elles sont adressées. Il y a lieu de croire que c’est à l’Illustre Duc dont je vous ay entretenuë si souvent.</p>
@@ -140,7 +140,7 @@
         </quote>
         <p>Tout ce que vous venez de lire est si juste, le stile en est si aisé, &amp; il y a tant à profiter des sçavantes Remarques qu’on y trouve, que je ne doute point qu’elles ne vous fissent aimer les Enigmes, quand vous ne vous en seriez pas fait jusqu’icy un amusement d’esprit agreable.</p>
       </div>
-      <div xml:id="MG-1678-01e_045">
+      <div xml:id="MG-1678-03e_045">
         <head>Pour l’Autheur du Mercure Galant</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 45-53.</bibl>
         <p>Tout ce que vous venez de lire est si juste, le stile en est si aisé, &amp; il y a tant à profiter des sçavantes Remarques qu’on y trouve, que je ne doute point qu’elles ne vous fissent aimer les Enigmes, quand vous ne vous en seriez pas fait jusqu’icy un amusement d’esprit agreable. Elles sont de quelque utilité pour le rendre plus vif &amp; plus prompt, &amp; la Lettre qui suit vous fera voir qu’on s’en est quelquefois servy pour le disposer à des Connoissances plus relevées. Comme elle m’a esté adressée sans Nom, je ne puis que vous donner le plaisir de sa lecture.</p>
@@ -153,7 +153,7 @@
         </quote>
         <p>Il me semble, Madame, que la Beauté ne devroit point estre le partage d’une Fille qui a autant d’esprit que vous en voyez dans cette Lettre. Ce sont de trop grands avantages dans une mesme Personne.</p>
       </div>
-      <div xml:id="MG-1678-01e_054">
+      <div xml:id="MG-1678-03e_054">
         <head>À Monsieur le President de Boissieu</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 53-59.</bibl>
         <p>Lisez cependant ce que vous allez trouver écrit sous le nom de l’Hermite de S. Giraud. La Lettre m’a esté envoyée avec un Billet particulier qui m’apprend que ce spirituel Solitaire s’appelle M<hi rend="sup">r</hi> Allard ; qu’il est President en l’Election de Grenoble, &amp; Autheur de quelques Ouvrages Genealogiques. C‘est à M<hi rend="sup">r</hi> le President de Boissieu qu’il adresse l’Explication de l’Enigme que je vous ay envoyée avec les Nouvelles du Mois de Decembre. Il tourne d’une maniere si ingénieuse les veritez qu’il publie de ce grand Homme que j’affoiblirois l’Eloge qu’il en fait, si j’entreprenois d’y rien adjoûter.</p>
@@ -168,7 +168,7 @@
           <p rend="sc">L’Hermite de S. Giraud. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_059">
+      <div xml:id="MG-1678-03e_059">
         <head>[Air] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 59-61.</bibl>
         <p>Un peu d’interruption, Madame. Vous continuerez à lire plus volontiers quand vus vous serez divertie à chanter un Air qui a esté fait sur le Printemps. Il est de saison, &amp; vous n’en trouverez point qui ne le soient dans les Lettres extraordinaires que vous recevrez de moy. Vous ne sçavez peut-estre pas que tous les Maistres de Musique commencent toûjours chaque Saison de l’Année par des Chansons qui y conviennent, &amp; qu’ils ne donnent que dans ce temps-là. Ainsi vous en aurez un sur l’Esté dans l’Extraordinaire de Juillet, comme vous en avez aujourd’huy sur le Printemps. Ce premier Air de la composition de M. Fleury, non pas de celuy qui jouë si bien du Theorbe, mais de celuy qui se fait admirer par la maniere dont il touche le Clavessin. C‘est l’unique Ecolier qui montre de tous ceux qu’a eus feu Monsieur Hardel, qui est mort depuis quelques jours. La perte d’un si grand Maistre ne pouvoit estre mieux reparée que par un si habile Ecolier. Voicy les Paroles sur lesquelles il a fait ce que vous verrez noté en suite.</p>
@@ -184,7 +184,7 @@
           <l><space/>    Pour les Bergers contents !</l>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_061">
+      <div xml:id="MG-1678-03e_061">
         <head>Lettre I</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 61-70.</bibl>
         <p>Je reviens aux Lettres. Il y en a beaucoup dont je retranche des choses fort spirituellement tournées, mais elles me flatent trop pour me laisser en pouvoir de vous les envoyer entieres. Je rougis mesme de ce que j’y laisse de trop avantageux pour moy, &amp; je l’aurois suprimé comme le reste, s’il ne faisoit connoistre qu’on peut tirer quelque utilité du soin que je prens de recüeillir tout ce qui est digne d’estre sçeu. J’ay reçeu ces Lettres de toutes les Provinces du Royaume, sans que je sçache par qui la pluspart m’ont esté écrites. Il y en a mesme une Italienne. Vous ne serez pas fâchée d’apprendre qu’on sçait jusqu’à Rome le commerce que vous m’avez permis avec vous. Si la mesme matiere est traitée dans quelques-unes, au moins le tour en est diférent. J’y ai meslé quelques Explications en Vers des Enigmes que je vous ay proposées. Ceux qui ont crû voir trois Femmes dans la Figure qui représente l’Ecran, doivent avoir pris Mars pour Minerve. Vous vous en souviendrez, s’il vous plaist, afin de n’y estre point embarrassée.</p>
@@ -193,7 +193,7 @@
           <p>IL me semble, Monsieur, que pour peu qu’on en sçache plus que les autres, c’est assez la mode de vous écrire, &amp; je croy qu’on se trouve bien de vous donner à connoistre ce qu’on sçait faire en Vers &amp; en Prose. De trois Personnes que nous sommes qui voulons vous faire quelquefois penser à nous, j’ay laissé passer devant moy les plus éloquentes, &amp; peu de Gens parmy nos Voisins pourroient disputer de Bel-Esprit avec celle dont vous reçeutes la premiere Lettre, &amp; peut-estre encor moins avec l’autre qui vous a écrit depuis, &amp; qui ne se mesle pas moins de déveloper les choses les plus obscures, que de gagner &amp; d’enchanter tous ceux qui l’approchent. Nous luy avions pourtant bien prédit qu’elle n’avoit pas réüssy dans l’Enigme de Decembre comme dans les autres. Elle s’en défioit elle-mesme, &amp; commençoit à croire que le mot de cette Enigme estoit <hi rend="i">la Mode</hi> ; mais elle n’eut pas le moindre soupçon que ce fust <hi rend="i">le premier Jour de l’Année</hi>. Si elle estoit présomptueuse de ses Connoissances, nous l’eussions fort assurée que puis qu’elle se trompoit en une chose qui n’estoit pas si difficile, nous devions estre moins crédules pour les Prédictions qu’elle fait quelquefois, &amp; que si elle expliquoit mal les Enigmes, elle pouroit bien plutost faire de fausses Centuries. Cela veut dire que parmy nous à qui elle se communique tout-à-fait, nous ne faisons pas moins de cas de ses Propheties, que vous faites à Paris de l’Almanach de Milan. Si-tost qu’elle eut veu le Mot de l’Enigme, elle dit de son air ordinaire ; <hi rend="i">Voila un grand affront &amp; j’en devrois mourir comme celuy qui se noya pour n’avoir pû comprendre un Secret de la Nature</hi> ; &amp; en mesme temps pour se conbler, elle chercha l’Enigme du Mois dernier. Elle la leut deux ou trois fois, &amp; nous assura que c’estoit <hi rend="i">L’Académie Françoise</hi>. Je la voulus aussi lire, &amp; je fus convaincuë qu’elle en avoit trouvé le vray sens. C‘est avoir bien viste réparé son malheur à l’égard de l’autre Enigme. Cette petite disgrace n’empescha pas que le talent qu’elle a d’éclaircir les choses les plus embarassées, ne reçeust force loüanges d’un excellent Homme qui prend quelque soin d’elle, &amp; qui vous sera d’usage à quelque heure pour orner le Mercure Galant de mille choses curieuses qu’il a remarquées dans ses Voyages depuis quarante ans, &amp; que les autres Voyageurs ont negligées. Jugez, Monsieur, si une Histoire naïve des plus belles Femmes du monde, &amp; si des Entretiens de leur Esprit, de leurs Divertissemens, &amp; du tour qu’elles donnent aux choses qui viennent d’elles, avec une peinture fidelle &amp; charmante du procedé des plus galans Hommes de l’Europe &amp; de l’Asie, &amp; mesme de quelques-uns de l’Affrique, &amp; des bonnes &amp; mauvaises Coustumes de ces Païs-là, ne tiendroient pas agreablement leur place parmy ce que vous pouvez donner de plus curieux au monde. <hi rend="i">La Musique de la Chine</hi>, dit-il quelquefois, <hi rend="i">est plus excellente que la nostre. Ils ont de meilleurs Comediens que nous. Nos Medecins n’y seroient pas soufferts, &amp; il y a bien d’autres choses où ils excellent sur nos plus grands Maistres ; mais pour ce qui est de la vie, de la bienseance, &amp; de ce qu’il y a de plus élevé dans la Nature, quoy que j’aye veu là, &amp; parmy les autres Nations, des Personnes d’ailleurs assez fines &amp; d’autres fort sages, &amp; qu’on en trouve presque par tout qui font plusieurs choses de fort bonne grace, ce ne sont pourtant d’ordinaire que des Gens de Païs &amp; d’habitude qui ne connoissent pas bien eux-mesmes ce qu’ils ont de meilleur ; &amp; à a Chine ny ailleurs je n’ay veu personne à qui cette jeune Fille ne pust faire des Leçons.</hi> Il montre en mesme temps une de celles qui vous ont écrit. Elle vus envoyera dans quelques mois des Remarques qu’elle fait sur les plus belles Poësies du Mercure. Leurs Autheurs en devront estre les plus contens, car elle découvre quelquefois dans leurs Ouvrages des beautez qu’Ils n’y ont pas toûjours observées eux-mesmes, &amp; si elle fait quelque Censure, ils en recevront de l’honneur. Ils verront qu’on ne s’y prend guere d’une façon si galante, &amp; qu’elle laisse toûjours quelque nouvelle grace sur tout ce qu’elle touche. J’ay remarqué qu’elle disoit peu de choses d’ordinaire des Livres &amp; des Personnes si elle n’en avoit beaucoup d’endroits à loüer. Tout ce qui vient d’elle est également bien reçeu, le blâme &amp; les loüanges, tant elle sçait bien préparer tout ; &amp; si l’on se plaint quelquefois d’elle, c’est pour son silence, parce qu’on craint que ce ne soit une marque que les choses n’aillent pas si bien qu’elle eust souhaité. Nous vous envoyons nos Lettres sans les signer, &amp; sans qu’elles soient datées du lieu d’où nous vous écrivons. Nous continuërons d’en user de la mesme sorte, si vous ne le desirez autrement. Il n’importe guere de sçavoir si nous sommes des environs de Xaintes, de Nantes, ou de Blois, &amp; si la Riviere qui embellit nos Prairies, nos Bois &amp; nos Cabanes, &amp; qui en rend le séjour si doux &amp; si agreable, s’appelle la Charante ou la Loire. Quant à moy je n’en sçay pas encor assez pour meriter de voir mon Nom dans un Livre comme le Mercure.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_071">
+      <div xml:id="MG-1678-03e_071">
         <head>Lettre II</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 71-75.</bibl>
         <quote rend="border">
@@ -202,7 +202,7 @@
           <p>JE n’ay encor leu que quatre Tomes de vostre Mercure Galant. Ce sont les quatre derniers, mais c’est assez, Monsieur, pour pouvoir juger favorablement des autres. On ne pouroit pas trouver un plus seur moyen pour avoir, comme vous avez, des correspondances dans toutes les Provinces, s’il falloit estre aussi ingénieux que vous l’estes, pour instruire les Provinciaux sans sortir de leurs Cabanes, &amp; leur rendre Paris commun sans les obliger d’y aller faire de la dépense. Apres cela vous ne vous attendez pas, Monsieur, que les Dames de cette Ville ont dessein de vous quereller par ma plume. Cependant il n’y a rien de plus vray, &amp; il m’a esté impossible de n’en pas accepter la commission. Ces Dames se plaignent de ce que vous avez parlé presque de tous les environs de cette Ville, sans avoir pensé à elles. Vous ne sçavez peut-estre pas, Monsieur, que Thoüars est une ancienne Ville, arrosée par une Riviere qui s’appelle <hi rend="i">Thoüe</hi>, dont elle tire son nom, &amp; qu’elle est embellie par un magnifique Chasteau que le Seigneur de la Trimoüille y ont fait bastir. Mais pour vous faire concevoir une plus forte idée de cette Ville vous sçaurez qu’on y a envoyé sept Compagnies du Regiment d’Anjou en Quartier d’Hyver. Voyez s’il ne faut pas que la Ville soit bonne. Vous comprenez bien, Monsieur, que nos Dames ont quelque raison de se plaindre de vous, &amp; qu’à l’imitation de celles de Saumur leurs Voisines, elles ont fort bien fait de m’établir leur Secretaire, pour vous dire que quoy que le nom de Thoüars veüille dire Forteresse de Thoüe, cependant ce n’est pas une Ville si forte que l’Amour n’y puisse entrer. En efet, Monsieur, je vous assure qu’on n’y avoit jamais tant parlé de Guerre que depuis qu’on y a mis en Garnison les Troupes dont je vous viens de parler. L’Amour é les Jeux avoient jusques-là fait toute l’occupation des Compagnies, &amp; donné lieu à de petites Intrigues dont on vous feroit part, s’il se trouvoit icy quelqu’un qui écrivist assez bien pour cela. Il ne me reste plus qu’à vous dire, Monsieur, que nous avons icy des Dames qui ont extrémement de l’esprit, &amp; le goust tres-bon. La meilleure marque que je puisse vous en donner, c’est qu’elles en prennent à la lecture de vostre Mercure Galant, jusque-là qu’il y en a eu qui ont condamné la trop grande vertu de la Comtesse du Mois de Janvier, &amp; qui luy auroient conseillé la vangeance. Elles se sont mises en peine pour deviner vos Enigmes ; mais en verité, Monsieur, elles ne veulent point passer pour Sorcieres. Il n’y en a qu’une d’elles qui s’est mis dans l’esprit de trouver celle des quatre Vers, qui commence par <hi rend="i">Jamais par moy lieux bas ne furent habitez</hi>, &amp; elle veut que ce soit une Etoille. Voila, Monsieur, un peu plus que m’acquiter de ma Commission. Je souhaite que nos Dames donnent bientost lieu à quelque Histoire veritable, afin de vous en faire part, &amp; vous assurer encor une fois que quoy qu’Inconnu, je suis, &amp;c.        B.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_076">
+      <div xml:id="MG-1678-03e_076">
         <head>Lettre III</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 76-77.</bibl>
         <quote rend="border">
@@ -213,7 +213,7 @@
           <p rend="i">du Roy, de Ham. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_078">
+      <div xml:id="MG-1678-03e_078">
         <head>Lettre IV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 78-81.</bibl>
         <quote rend="border">
@@ -228,7 +228,7 @@
           <p rend="sc">De Beauregard. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_081">
+      <div xml:id="MG-1678-03e_081">
         <head>Lettre V. Sur les deux Enigmes du Tome de Janvier</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 81-83.</bibl>
         <quote rend="border">
@@ -250,7 +250,7 @@
           <p rend="i">de Périgueux. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_083">
+      <div xml:id="MG-1678-03e_083">
         <head>Lettre VI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 83-85.</bibl>
         <quote rend="border">
@@ -259,7 +259,7 @@
           <p>VOstre Mercure vivra toûjours, Monsieur ; Vous vous estes tres-bien acquité de ce qu’on attendoit de vous &amp; de luy au commencement de cette Année. Vous avez donné au Public des Estrennes fort agreables. Il n’est point d’Amant qui ne se soit fait un plaisir de le recevoir pour en faire un autre à sa Maistresse en le luy présentant. C’est le plus joly travail qu’il pouvoit luy offrir. Une chose pourtant m’y déplaist, aussi-bien que dans tous les autres. C’est que vous nommez tous ceux qui ont eu des avantures guerrieres, &amp; vous estre fort reservé sur les amoureuses. Tout ce que vous dites de galant est par Enigmes. Tout de bon, Monsieur, cela n’est pas bien, &amp; il seroit juste que la Balance fust égale entre Mars &amp; l’Amour. Si vous osez dire, <hi rend="i">Monsieur un tel a vaincu tel Ennemy</hi>, pourquoy ne dites-vous pas avec la mesme liberté, <hi rend="i">Monsieur un tel a eu une galanterie avec Mademoiselle une telle</hi> ? Je trouverois cela fort raisonnable. Je crains que vous ne le trouviez pas de mesme, &amp; je doute si ma remontrance aura effet. Je vous imiteray donc Monsieur ; &amp; puis que vous ne voulez pas qu’on sçache les Noms de ceux dont vous publiez les galanteries, vous ne sçaurez pas non plus le mien. Celuy que je prens à la fin de cette Lettre m’estant commun avec tous les honnestes Gens qui lisent le Mercure, vous ne m’y reconnoistrez pas sans doute, &amp; vous aurez de la peine à me distinguer dans le nombre de ceux qui se disent vos tres, &amp;c. Il n’y a pourtant personne qui soit plus vostre Serviteur que moy.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_086">
+      <div xml:id="MG-1678-03e_086">
         <head>Lettre VII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 86-89.</bibl>
         <quote rend="border">
@@ -287,7 +287,7 @@
           <l>Qu’une Trève, ou la Paix, apres estre vaincus ?</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_089">
+      <div xml:id="MG-1678-03e_089">
         <head>Lettre VIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 89-91.</bibl>
         <quote rend="border">
@@ -297,7 +297,7 @@
           <p rend="sc">L’Inconnu Indien. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_092">
+      <div xml:id="MG-1678-03e_092">
         <head>Lettre IX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 92-94.</bibl>
         <quote rend="border">
@@ -311,7 +311,7 @@
           <p rend="sc">L’Inconnu. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_094">
+      <div xml:id="MG-1678-03e_094">
         <head>Lettre X</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 94-99.</bibl>
         <quote rend="border">
@@ -364,7 +364,7 @@
           <l>Ny jamais, belle Iris, vous n’en verrez la mort.</l>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_102">
+      <div xml:id="MG-1678-03e_102">
         <head>Lettre XI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 102-106.</bibl>
         <quote rend="border">
@@ -376,7 +376,7 @@
           <p rend="i">en Bresse. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_107">
+      <div xml:id="MG-1678-03e_107">
         <head>Lettre XII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 107-109.</bibl>
         <quote rend="border">
@@ -384,7 +384,7 @@
           <p>VOstre Mercure, Monsieur, fait le divertissement de tous les honnestes Gens. La maniere dont il est écrit, &amp; cette certaine Urbanité, s’il est permis de se servir de ce terme, si rare dans les autres Ouvrages, &amp; qui regne par tout dans le vostre, y font trouver tous les jours de nouveaux agrémens. Je ne suis point surpris qu’on ait de l’ambition pour y occuper quelque place, je la trouve au contraire tres-raisonnable, &amp; j’estime davantage mes Amis depuis qu’ils se sont laissez toucher d’une envie si noble. Les Enigmes non moins poliment écrites, qu’ingénieusement imaginées, que vous y proposez, font naistre une émulation dans les Compagnies, qui contribuë beaucoup au plaisir. Dans une de celles où je me suis trouvé on expliqua l’Enigme de la Demoiselle de Vernon, sur un <hi rend="i">Jaquemart</hi>, sur un <hi rend="i">Coq</hi> au haut d’un Clocher, &amp; sur <hi rend="i">le Soleil</hi>, &amp; je reçeus hier de Blois les Explications que je vous envoye. J’aurois deû, Monsieur, commencer cette Lettre par des excuses de ne vous les pas porter moy-mesme ; mais j’espere que celle que j’ay déja pris la liberté de vous écrire me fera obtenir le pardon d’une faute qui porte sa punition avec soy ; car je vous proteste que je me fais une extréme violence, dans la crainte de vous importuner, si je vous faisois perdre quelque moment d’un temps qui vous est si précieux.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_109">
+      <div xml:id="MG-1678-03e_109">
         <head>Lettre XIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 109-116.</bibl>
         <quote rend="border">
@@ -392,7 +392,7 @@
           <p>PArmy ceux qui se divertissent le plus de tant d’agreables nouvelles que vous nous apprenez dans le Mercure Galant, je suis d’un des Quartiers de France où l’on a le plus de curiosité de voir ce Livre. Nous y lisons quelquefois le Nom de nos Amis, apres qu’ils ont fait quelque chose de remarquable, &amp; nous les toruvons bien plus braves &amp; plus honnestes Gens quand vous leur avez rendu justice, que nous ne faisions auparavant. Un d’eux m’écrivoit il y a quelque temps qu’il avoit bien moins de joye d’avoir fait son devoir dans une occasion assez dangereuse, que de ce qu’il sçavoit que je l’estimerois plus qu’à l’ordinaire, des loüanges que vous luy aviez données. Jamais dessein ne fut plus approuvé que celuy que vous avez de faire connoistre le mérite par tout  où il se trouve, autant parmy les Autheurs que parmy les Guerriers ; &amp; bien qu’il y en ait quelquefois de secret &amp; de caché, personne n’aura plus sujet de se plaindre en cela de son malheur, puis qu’on n’a qu’à recourir à vous pour estre connu. En effet, peut-on exceller en quoy que ce soit, &amp; n’estre pas assuré qu’en s’adressant à une Personne si bienfaisante &amp; si juste, on verra bientost tout le royaume, &amp; les Païs Etrangers mesme, instruits de ce qu’on sçait faire ? Avec le temps, Monsieur, &amp; par vostre moyen, nous connoistrons les plus rares Ouvriers, &amp; il n’y aura plus guére de talent extraordinaire qui soit obscur &amp; inconnu, car peu à peu vous verrez que ceux qui n’ont pas d’empressement à se produire d’eux-mesmes aront des Amis qui vous parleront en faveur de ces Personnes trop modestes. Quoy que je sois d’un Sexe où la Science &amp; les belles Connoissances sont assez rares, je les aime assez neantmoins pour me réjoüir autant que les plus sçavans, qu’il se soit trouvé un Ecrivain assez officieux pour instruire tout le monde de tout ce qui se fait de plus curieux &amp; de plus achevé. Combien y a-t-il peu de Gens qui connoissent les excellens Maistres en toutes sortes d’Ouvrages ? Pour moy je croirois volontiers qu’on ne sçauroit guére faire une perquisition plus necessaire, ny qui fust plus agreablement reçeuë. Cependant un peu d’exactitude &amp; de severité ne siéroit pas mal dans les rangs que vous leur donnez. Mais à porpos de choses bien faites &amp; de ceux qui en sçavent faire, nous avons trouvé la Nouvelle des Vendangeurs &amp; des Vendangeuses fort bien écrite, &amp; nous sommes trois ou quatre qui voudrions bien avoir quelque Livre d’un style si naïf &amp; qui nus a tant plû Il n’y a aucune de nous qui ne soit tres-fort persuadée que ce n’est pas là un coup d’essay, &amp; que celuy qui s’est si bien acquité d’une Relation si galante, pourroit faire des nouvelles plus agreables que toutes celles qu’on a veuës, quand on y mettroit celles de Bocace dont nous avons lû quelques-unes des plus belles &amp; des plus honnestes : Celle-cy qu’on nous a donné est bien d’un meilleur air. On n’en pouvoit pas mieux représenter tous les Personnages ; ce seroit avoir bien peu de goust &amp; de discernement à mon avis, que de passer legerement par dessus sans s’appercevoir qu’elle de main de Maistre. Bous nous obligeriez beaucoup, Monsieur, si vous nous en pouviez donner d’autres de la façon de celuy qui l’a faite, &amp; si vous nous vouliez apprendre qui il est. Une autre fois nous nous ferons connoistre aussi à vous, car je ne vous parle pas plus pour moy que pour trois ou quatre Personnes qui ne sont pas moins éloquentes que belles. Nous sommes toutes extrémement reconnoissntes de certaines choses que vous avez touchée encor plus en galant Homme qu’en fidelle Historien, d’une Famille dont nous sommes venuës, &amp; beaucoup plus reconnoissantes encor du soin que vous avez eu de faire valoir deux de nos plus proches Parens qui sont aussi bons ailleurs qu’à la Guerre, &amp; peut-estre qu’à quelque heure vous vous en appercevrez. Pour ce qui est des Enigmes, une Fille qui n’a pas quinze ans, mais qui a l’esprit admirable, nous oste toûjours la peine de les deviner ; elle les cherche fort curieusement dés que nous avons reçeu le Livre : Elle n’a pas si-tost lû deux ou trois fois celle qu’elle trouve, qu’elle nous dit ce que c’est. La derniere est sur la lettre <hi rend="i">V</hi> ; cela fut bientost démeslé, &amp; Monsieur de Chandoré n’y sçauroit aller plus viste.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_116">
+      <div xml:id="MG-1678-03e_116">
         <head>Lettre XIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 116-119.</bibl>
         <quote rend="border">
@@ -408,7 +408,7 @@
           <p>S’il se passe quelque chose de nouveau à Bourbon, où je dois me rendre dés que la belle Saison y amenera les Malades, je vous en feray part ; car pour ne vous estre pas connu, je n’en suis pas moins vostre, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_120">
+      <div xml:id="MG-1678-03e_120">
         <head>Lettre XV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 120-126.</bibl>
         <quote rend="border">
@@ -416,7 +416,7 @@
           <p>IL y a longtemps, Monsieur, que je resiste à la tentation de vous faire un remercîment du plaisir de la lecture de vostre Livre ; ais ayant veu dans le dernier de l’Année que vous en receviez de toutes parts, je n’ay pû m’empescher de vous apprendre que vostre agreable Ouvrage fait beaucoup plus de bien que vous ne pensez, &amp; qu’il est d’une utilité plus importante que celle de divertir &amp; de plaire, en debitant des Pieces galantes, ou en faisant l’éloge de ceux qui se signalent à la guerre. Vous sçaurez donc, Monsieur, que sans faire le reformateur, &amp; sans parler de morale, vostre Mercure galant a fait plus de reforme que les meilleurs Sermons de l’Avent, puis qu’il a bany de beaucoup de Compagnies la médisance &amp; la cruelle raillerie, &amp; qu’il a fait voir qu’on pouvoit estre fort agreable, en disant toûjours du bien de tout le monde. Vous avez corrigé des Femmes qui ne pardonnoient à Personne, qui piquoient leurs meilleurs Amis, qui trouvoient des defauts en toutes choses, qui ne voyoient dans les plus parfaites que le costé qui n’estoit pas achevé, &amp; enfin qui ne croyoient pas qu’On pust rire sans tourner quelqu’un en ridicule. Une Veuve tres-bien faite estoit de ce caractere. Sa Famille est nombreuse. Elle a de la qualité &amp; du rang. Elle n’est ny du jeu ny de la promenade ; mais bornant tout son plaisir à visiter &amp; à estre visitée, elle ne faisoit autre chose que debiter de Quartier en Quartier les Nouvelles de la Ville dont elle est toûjours informée la premiere. Elle y ajoûtoit régulierement une glose malicieuse, comme si elle avoit un interest particulier à décrier chaque Famille. Elle sçait par cœur le foible des Genealogies. Elle tient registre de tous les fâcheux accidens qui ont rendu des Personnes malheureuses. Elle n’oublie jamais ce qui peut ternir le mérite, obscurcir la naissance, ou rabaisser la dignité. Enfin elle ne dit du bien de personne, à moins qu’il ne luy serve à offencer un autre plus vivement. Cette Dame que tant de malignité environne, ne s’est pourtant pû défendre de loüer vostre Livre. D’bord elle a trouvé qu’il donnoit trop de loüanges, qu’il y avoit mille agreables malices à débiter dans les Nouveles, &amp; qu’on pouvoit inocemment ne pas toûjours dire du bien de ceux de qui on parle ; mais ayant veu que son sentiment n’estoit pas approuvé, que les Gens d’esprit &amp; de bon sens prenoient vostre party contre elle, que l’on blâmoit la raillerie, que chacun avoit interest à la bannir, elle a commencé à se dégoûter de ce plaisir ; &amp; entendant partout qu’on loüoit l’Autheur du Mercure de son honnesteté &amp; de la maniere civile &amp; obligeante avec laquelle il traite tout le monde, elle s’est insensiblement accoûtumée à ne plus médire. Ainsi, Monsieur, ce que le Confesseur n’avoit pû faire avec penitences en plusieurs années, vostre Livre l’a fait en badinant, si j’ose le dire ainsy. Il a bien fait encor plus de merveilleuses conversions. Il a pacifié des Familles, réüny des Ménages qui grondoient, adoucy des Peres de qui la mauvaise humeur empeschoit les Enfans d’entrer en commerce avec eux, parce que ces Gens sauvages auroient tary toutes les sources de la joye par un pénible travail des affaires de longue haleine, ou par des refléxions chagrines. Le Mercure Galant est venu au secours de ce Malheureux. Il leur a fourny agreablement à tous des sujets de conversation de plaisir et de joye. Mesme ces petits Ménages grondeurs, où la dépense &amp; le détail des frais qui se font est la matiere la plus ordinaire de l’entretien, qui par là retombent incessament dans l’ennuy &amp; la mélancolie, ont enfin appris à parler de choses plus agreables. Ils se contentoient autrefois de ******* qui ne servoit pas à leur polir l’Esprit, ny à leur rendre l’humeur moins sauvage, comme fait vostre aimable Mercure, où chacun apprend mille agreables &amp; galantes Nouvelles, sans qu’on y puisse rien critiquer. Les plus severes n’y sçauroient trouver à redire, eux qui se revoltent au seul titre de Roman ou de Comédie. Vostre Ouvrage, Monsieur, est donc plus utile que vus ne l’avez peut-estre crû. Je ne vous dis qu’une partie de ses bons effets, une autrefois je vous en diray quelques autres. J’adjoûte que l’Enigme de vostre dernier Livre estoit facile à deviner à ceux qui le leûrent le premier jour de l’Année.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_127">
+      <div xml:id="MG-1678-03e_127">
         <head>Lettre XVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 127-135.</bibl>
         <quote rend="border">
@@ -426,7 +426,7 @@
           <p rend="sc">L’Abbé Droüyn. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_135">
+      <div xml:id="MG-1678-03e_135">
         <head>Lettre XVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 135-136.</bibl>
         <quote rend="border">
@@ -455,7 +455,7 @@
           <p rend="sc">Gauthier. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_137">
+      <div xml:id="MG-1678-03e_137">
         <head>Lettre XVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 137-139.</bibl>
         <quote rend="border">
@@ -464,7 +464,7 @@
           <p>JE ne doute pas, Monsieur que bien des Gens ne se soient meslez d’expliquer vostre Enigme. Je ne sçay s’ils auront heureusement rencontré, mais la conjoncture du Mois où elle paroist, m’en facilite le dénoüement, car je pense que son premier jour en est la clef, aussi-bien que de l’Année. Parmy tant de nuages, on ne laisse pas de voir luire un tres beau <hi rend="i">Jour de l’An</hi>, &amp; il ne perd rien de son éclat dans les agreables obscuritez dont vous l’envelopez. Vos expressions sont si heureuses &amp; si justes, qu’on ne peut rien dire qui y vienne mieux. Les Enigmes ne sont pas les seuls ornemens de vos Ouvrages. Pour moy, je compte pour rien tous les momens que je dérobe à vostre Mercure. De bonne-foy, il est si insinuant, qu’on ne peut luy refuser toute l’approbation qu’on luy donne. Je m’avise un peu tard d’en dire ma pensée, aussi-bien que de vostre Enigme, dont je n’ay pû vous envoyer plutost l’Explication. Je desespere que vous luy puissiez faire l’honneur de la citer. Celuy que vous me ferez de croire que je suis entierement dévoüé à vostre service, me sera une assez douce consolation, &amp; me tiendra lieu de tout, parce que dans la verité je n’ay pas de plus forte passion que de rendre justice à vos Ouvrages, &amp; d’estre vostre, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_139">
+      <div xml:id="MG-1678-03e_139">
         <head>Lettre XIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 139-144.</bibl>
         <quote rend="border">
@@ -482,7 +482,7 @@
           <p>D.L.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_145">
+      <div xml:id="MG-1678-03e_145">
         <head>Lettre XX. Illustrissimo signore</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 145-147.</bibl>
         <quote rend="border">
@@ -515,7 +515,7 @@
           <l>De chanter que LOUIS est le plus grand des Roys.</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_149">
+      <div xml:id="MG-1678-03e_149">
         <head>Lettre XXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 149-151.</bibl>
         <quote rend="border"><label rend="center">Lettre XXI.</label>
@@ -535,7 +535,7 @@
         <p>L’Enigme en figure m’a embarassé. Je l’ay laissé à de plus habiles Gens que moy. J’en ay toutefois tiré une Explication que je me suis contenté de communiquer à quelques-uns de mes Amis, en attendant que vous nous en disiez le secret. Je suis, &amp;c.</p>
         <p rend="sc">Desnes. </p></quote>
       </div>
-      <div xml:id="MG-1678-01e_152">
+      <div xml:id="MG-1678-03e_152">
         <head>Lettre XXII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 152-154.</bibl>
         <quote rend="border">
@@ -565,7 +565,7 @@
           <p rend="sc">L’Abbé Droüyn. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_154">
+      <div xml:id="MG-1678-03e_154">
         <head>Lettre XXIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 154-162.</bibl>
         <quote rend="border">
@@ -588,7 +588,7 @@
           <p>Mon dessein estoit de faire noter ces Vers ; mais comme j’aurois peut-estre esté trop longtemps sans les donner au Public, j’ay crû les devoir mettre icy, de crainte que si un galant Homme mouroit, on n’imputast sa mort au chagrin de n’avoir pas esté imprimé.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_163">
+      <div xml:id="MG-1678-03e_163">
         <head>Lettre XXIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 163-166.</bibl>
         <quote rend="border">
@@ -623,7 +623,7 @@
           <l>Quoy que j’en sois encor à l’Art de bien parler.</l>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_167">
+      <div xml:id="MG-1678-03e_167">
         <head>Lettre XXV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 167-172.</bibl>
         <quote rend="border">
@@ -666,7 +666,7 @@
           <p>Nous verrons dans le Tome de ce Mois, si <hi rend="i">le Depart du Roy</hi> est le vray sens de l’Enigme du Tableau. Je l’attens avec impatience, &amp; suis vostre, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_170">
+      <div xml:id="MG-1678-03e_170">
         <head>Lettre XXVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 170-176.</bibl>
         <quote rend="border">
@@ -726,7 +726,7 @@
           <p rend="i">Mercure le Tome II. 1678. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_176">
+      <div xml:id="MG-1678-03e_176">
         <head>Lettre XXVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 176-181.</bibl>
         <quote rend="border">
@@ -745,7 +745,7 @@
           <p>Si quelques-unes en souffrent, il est d’un grand secours aux autres, à qui il fait passer tous les Mois une couple d’heures le plus agreablement du monde. Nous nous engagerions volontiers à en faire l’éloge, si son débit extraordinaire n’y réüssissoit beaucoup mieux que ne pourroient faire les Ecolieres d’Apollonius, qui sont toutes vos tres-humbles Servantes.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_181">
+      <div xml:id="MG-1678-03e_181">
         <head>Lettre XXVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 181-183.</bibl>
         <quote rend="border">
@@ -754,7 +754,7 @@
           <p>JE suis peut-estre, Monsieur, la premiere Fille de Village qui vous aye écrit, de mesme que je crois estre la premiere qui ait entrepris d’expliquer les Enigmes que vous mettez dans vos Mercures. Je vous assure que j’y ay toûjours réüssy, à l’exception de celle du <hi rend="i">Trictrac</hi> dont je ne pûs penétrer le sens. J’ay toruvé l’Illustre Corps de <hi rend="i">Messieurs de l’Académie Royale des Beaux Esprits</hi> dans la premiere de vostre dernier Mercure. Tout y vient si juste, qu’il ne se peut rien de mieux. Pour la seconde Enigme, elle est trop élevée pour moy, &amp; j’avoüe de bonne-foy que je ne suis pas si hardie que la Belle à qui le Public la doit. Celle qui est en figure doit estre reservée aux Sçavans, &amp; j’attens le Mois de Fevrier pour sçavoir sans peine ce que toutes mes resveries me pourroient faire découvrir. J’avois résolu de vous faire part d’une petite Histoire arrivée dans nostre Village depuis quinze jours ; mais apres l’avoir écrite, j’ay eu des raisons pour la suprimer. Ce n’a pas esté sans chagrin, puis que je me vois privée par là du plaisir de vous rien envoyer, à moins que je ne sçeusse que des Fruits de nostre incomparable Païs seroient bien reçeus de l’Autheur du Mercure Galant, à qui je suis tres-humble Servante.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_184">
+      <div xml:id="MG-1678-03e_184">
         <head>Lettre XXIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 184-185.</bibl>
         <quote rend="border">
@@ -762,7 +762,7 @@
           <p>PUis que vous estes le grand Océan où se viennent rendre les Fleuves &amp; les Ruisseaux, pour estre derechef rendus à toute la Terre, &amp; que vous recevez des Matereaux de toutes parts, pour en dresser tous les Mois un Edifice agreable aux yeux des Curieux, vous ne rebuterez pas, Monsieur, ce qui peut vous venir de la Marne, &amp; ce que quelque petit coin de la Champagne pourroit vous fournir de propre à vos Ouvrages. L’Avanture arrivée nouvellement en ces Quartiers, &amp; dont je vous envoye les Memoires, a semblé digne à plusieurs d’y avoir place, &amp; c’est ce qui m’a fait vous l’envoyer. Si vous jugez qu’elle mérite de tenir quelque rang dans le Mercure, je vous l’abandonne absolument, &amp; suis, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_185">
+      <div xml:id="MG-1678-03e_185">
         <head>Lettre XXX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 185-191.</bibl>
         <quote rend="border">
@@ -793,7 +793,7 @@
           <l><space/>C’est le Coq d’un Clocher.</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_191">
+      <div xml:id="MG-1678-03e_191">
         <head>Lettre XXXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 191-194.</bibl>
         <quote rend="border">
@@ -806,7 +806,7 @@
           <p rend="i">par les mains du Collecteur. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_195">
+      <div xml:id="MG-1678-03e_195">
         <head>Lettre XXXII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 195-198.</bibl>
         <quote rend="border">
@@ -816,7 +816,7 @@
           <p>Je ne veux point d’autre preuve que les Pieces diferentes que l’on vous envoye, &amp; que vous recevez si honnestement, ayant assez d’indulgence pour n’en rebuter aucune ; &amp; c’est ce facile accés que vous leur donnez, qui vous pourra un jour faire connoistre le profit que vostre Livre fait dans le Monde, &amp; qui a déja fait dire de vous, à l’occasion de ce qu’on disoit de Monsieur Baptiste, que comme il avoit rendu le Monde Musicien, vous le rendiez tout galant &amp; tout spirituel.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_198">
+      <div xml:id="MG-1678-03e_198">
         <head>Lettre XXXIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 198-201.</bibl>
         <quote rend="border">
@@ -852,7 +852,7 @@
           <l>Peu de Guerriers ont l’amour dans la teste</l>
           <l><space/>Pendant le regne de Pallas.</l></lg></quote>
       </div>
-      <div xml:id="MG-1678-01e_201">
+      <div xml:id="MG-1678-03e_201">
         <head>Lettre XXXIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 201-204.</bibl>
         <quote rend="border">
@@ -877,7 +877,7 @@
           <l rend="i">S. Maixent en Poitou. </l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_204">
+      <div xml:id="MG-1678-03e_204">
         <head>Lettre XXXV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 204-207.</bibl>
         <quote rend="border">
@@ -904,7 +904,7 @@
           <l>Je ne le diray plus, si vous m’aimez aussi.</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_207">
+      <div xml:id="MG-1678-03e_207">
         <head>Lettre XXXVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 207-211.</bibl>
         <quote rend="border">
@@ -932,7 +932,7 @@
           <l><space/>    De regarder les choses d’icy bas.</l>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_212">
+      <div xml:id="MG-1678-03e_212">
         <head>Lettre XXXVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 212-214.</bibl>
         <quote rend="border">
@@ -941,7 +941,7 @@
           <p>JE vous envoyay, Monsieur, l’Explication sur l’Enigme des Armes des Conféderez assez tard. Je la fis sur <hi rend="i">le Melon</hi>, &amp; je voy qu’elle ne vous a pas déplû, puis que vous avez bien voulu en parler dans vostre derniere Lettre. Cela m’engage par la part que j’ay dans la liberté commune, à tâcher d’expliquer vostre Tabeau du Volume de Janvier. Voyez si j’ay rencontré le Mot, quand je prétens que cette belle Femme nuë nous represente <hi rend="i">l’Enclume</hi>, sur laquelle il ne se trouve aucune matiere. Elle tend les bras pour se défendre de l’outrage que luy veut faire ce brusque Forgeron qui est prest de la fraper en cet état. Cet Amour qui semble vouloir empescher le coup, est le Feu qui prend part à la défense de l’Enclume de tout son pouvoir. Il s’aigrit, il s’anime, il sort impétueusement par l’effort qu’on luy fait, &amp; tâche par son éclat d’arrester la violence dont on la menace. Le Carquois que cet Amour foule aux pieds, figure les cendres qui sont ordinairement sous le Feu. Cette Fille qui paroît à costé toute épouvantée, est l’Eau inséparable de la Forge où se passe l’action. Elle n’a pas moins de pitié de l’Enclume que le Feu en a, mais elle resiste avec moins d’éclat. Ce Soldat est un autre Forgeron qui tire la corde des Soufflets representée par la Hallebarde qu’il tient d’une main. Le Bouclier qu’il tient de l’autre, nous fait connoistre le Fer, qui est la matiere dont on se sert dans les Forges.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_214">
+      <div xml:id="MG-1678-03e_214">
         <head>Lettre XXXVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 214-219.</bibl>
         <quote rend="border">
@@ -952,7 +952,7 @@
           <p>Il est bon aussi, Monsieur, que vous sçachiez que vostre Enigme du Trictrac a esté déchiffré icy à l’ouverture du Livre par une Femme de qualité ; mais pour celuy de vostre Corps sans teste, nous avoüons franchement, elle &amp; moy, qu’il a pensé nous faire tourner la nostre : neantmoins, nous faisons une partie de ce Corps monstrueux, &amp; voila, Monsieur, ce qui prouve fort bien que l’on ne se connoist point soy-mesme. L’on parle de mettre une teste de Leopard sur ce Corps si diforme, &amp; l’on dit que cela augmentera de beaucoup ses forces &amp; sa fierté.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_220">
+      <div xml:id="MG-1678-03e_220">
         <head>Lettre XXXIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 220-224.</bibl>
         <quote rend="border">
@@ -963,7 +963,7 @@
           <p>L’on vous connoist, Monsieur, &amp; l’On vous obéit comme vous voyez sur le Chapitre des loüanges que vous méritez ; car autrement j’en remplirois tout ce vuide, &amp; encor ne dirois-je point tout ce que je pense de vous.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_225">
+      <div xml:id="MG-1678-03e_225">
         <head>Lettre XL</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 225-226.</bibl>
         <quote rend="border">
@@ -973,7 +973,7 @@
           <p><hi rend="sc">Baisé</hi><hi rend="i">le jeune</hi>.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_227">
+      <div xml:id="MG-1678-03e_227">
         <head>Lettre XLI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 227-229.</bibl>
         <quote rend="border">
@@ -985,7 +985,7 @@
           <p rend="i">Brie-Comte-Robert. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_229">
+      <div xml:id="MG-1678-03e_229">
         <head>Lettre XLII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 229-232.</bibl>
         <quote rend="border">
@@ -999,7 +999,7 @@
           <p rend="sc">De Roux. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_232">
+      <div xml:id="MG-1678-03e_232">
         <head>Lettre XLIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 232-234.</bibl>
         <quote rend="border">
@@ -1027,7 +1027,7 @@
           <l>Mercure sous Pandore aux François donne un Gand.</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_276">
+      <div xml:id="MG-1678-03e_276">
         <head>Lettre XLIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 276-289.</bibl>
         <p>Je reviens aux Lettres, dont je n’ay interrompu la suite que pour vous donner à déchifrer. Il y en a qui contiennent d’agreables incidens. La premiere que vous allez voir est du nombre. Les autres sont sur diférentes matieres.</p>
@@ -1037,7 +1037,7 @@
           <p>Cette belle journée estoit pour nous une journée d’avantures. Nous trouvâmes en entrant dans nostre Chasteau un Carosse à six Chevaux, dont nous ne pûmes connoistre d’abord les Livrées ; &amp; quand nous fûmes dans la Salle, nous vismes trois Bergeres masquées conduites par trois Bergers qui ne cedoient point aux plus galants de ceux qui menoient paistre leurs Troupeaux aux bords de Lignon, dans les heureux temps d’Astrée. Les Bergers estoient habillez avec tant de magnificence &amp; de propreté, que vous n’auriez point douté en les voyant, qu’ils ne passassent tous les autres de leur Province. Je ne sçay mesme si dans vos quartiers vous en trouveriez aisément qui eussent quelque avantage sur eux. Les Bergeres avoient de petits Habits à la poitevine, dont les Corps estoient de toille d’argent de couleur de feu, enrichis de dentelles d’or fraisées, &amp; cet ajustement donnoit à ces aimables Villageoises un air qui ne déplairoit pas sans-doute aux plus délicats de vos Courtisans. Les Couvrechefs jaunes qui faisoient leur coôeffure, ne diminuoient rien des charmes qui paroissoient dans leurs visages, malgré le soin qu’elles prenoient de les cacher sous de petits Masques de Venise. Vous pouvez juger de l’agreable surprise où nous fûmes ma Cousine &amp; moy. Nous n’en pouvions attendre qu’une suite heureuse. Aussi ne manqua-t-il rien à cette Avanture de tout ce qui la pouvoit rendre plus divertissante. Ces Masques, suivant la coûtume du Païs, proposerent de joüer un Momon. Ils le mirent mesme sur la Table dans une Boëte aussi galante que magnifique. Je fus la plus hardie de la Compagnie. Je jettay ma Bourse sur la Table pour joüer, &amp; joüay heureusement, soit que la Fortune l’eust ainsi voulu, ou que celuy qui avoit fait le défy eust cherché à perdre. La Boëte fut ouverte, &amp; on trouva dedans une Taupe. C‘est, selon moy, un des plus vilains Animaux qu’on puisse voir. Il ne se cacheroit pas toûjours sous terre, s’il n’estoit convaincu luy-mesme de sa laideur. Mon gain me cousta un Souper. Je le donnay de mon mieux, &amp; ne fust point fâchée de régaler des Gens qui avoient pris tant de soin de nous divertir. En attendant le Souper, on dança des Menüets. Cette belle Troupe avoit amené avec elle six Haubois, qui ne gasteroient assurément aucune des Simphonies où on les voudroit employer. Les Sabots de nos Bergers &amp; de nos Bergeres, qu’un autre apelleroit des Souliers de bois, &amp; qui n’estoient pas moins galans &amp; moins magnifiques que les Souliers de vos Dames les mieux mises, ne les empescherent pas de dançer avec toute la propreté de celles que vous admirez tous les jours dans vostre grande Ville. Il fallut lever le Masque quand on servit le Souper. C’est là que nous vismes des Beautez qu’On ne peut assez loüer. Il sembloit que la Nature eust pris plaisir à faire exprés des Visages pour parer les plus belles Personnes qu’on vit jamais. Je ne vous dis rien de la bonne mine des Bergers. Ils estoient dignes de servir d’escorte à de si aimables Bergeres, &amp; on peut dire avec verité qu’il auroit esté difficile de faire une plus charmante Assemblée. Nostre Repas dura deux heures. Nous dançâmes en suite toute la nuit, &amp; je n’eus d’impatience dans toute cette Feste que de voir arriver le temps de vous l’écrire. Vous voyez, Monsieur, qu’au moins nous vous faisons part de nos plaisirs de la maniere que nous le pouvons, en reconnoissance de ceux que vous nous procurez par vos Ouvrages, &amp; de la bonté particuliere que vous avez bien voulu avoir pour deux Cousines qui sont vos tres, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_289">
+      <div xml:id="MG-1678-03e_289">
         <head>Lettre XLV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 289-296.</bibl>
         <quote rend="border">
@@ -1050,7 +1050,7 @@
           <p rend="sc">Lagrené de Vrilly. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_297">
+      <div xml:id="MG-1678-03e_297">
         <head>Lettre XLVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 297-303.</bibl>
         <quote rend="border">
@@ -1078,7 +1078,7 @@
           <p rend="sc">De Grammont. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_303">
+      <div xml:id="MG-1678-03e_303">
         <head>Lettre XLVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 303-306.</bibl>
         <quote rend="border">
@@ -1089,7 +1089,7 @@
           <p><hi rend="sc">Estoublon</hi>, Sec. Perp.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_306">
+      <div xml:id="MG-1678-03e_306">
         <head>Reponse</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 306-310.</bibl>
         <quote rend="border">
@@ -1097,7 +1097,7 @@
           <p>MEssieurs, Si le Mercure estoit du prix que vous luy donnez, il seroit bien récompensé par l’obligeante Lettre que vous m’avez fait la grace de m’écrire. Je n’ay point pretendu de remerciëment quand j’ay entretenu le Public de l’Illustre Compagnie dont tous ensemble vous formez le Corps. J’ay cherché seulement à me faire honneur en luy apprenant qu’elle ne m’estoit pas inconnuë. Je diray plus encor, quelque succés que mon Livre eut paru avoir, je suis persuadé qu’on auroit crû que beaucoup des choses y auroient manqué, si on n’y avoit point lû vos Illustres Noms. Les plus éclairez m’auroient sans doute accusé de l’estre peu sur ce qui est le plus digne d’estre estimé, s’ils avoient apris par d’autres, ce que j’aurois negligé de leur apprendre de vous dont le Nom seul peut donner du poids à mon Ouvrages. Cette matiere mesme n’estoit pas difficile à trouver, &amp; quoy que rien ne soit si rare qu’une Assemblée où il y ait autant de merite qu’il s’en rencontre dans la vostre, ce merite est si connu &amp; fait un bruit si éclatant dans le monde, qu’il faudroit n’en estre point du tout pour ignorer que vostre Académie est remplie d’excellens Hommes qui ne cedent en rien en délicatesse &amp; en érudition aux Siecles les plus heureux de l’Antiquité. Ces Illustres Romains de qui vous tirez vostre origine, nous ont laissé avec leurs Esprits fins &amp; polis, un amour pour les belles choses qui vus donne aujourd’huy la preference sur la plûpart des Nations, aussi-bien que la valeur &amp; le courage qui vous ont distinguez dans tous les temps. Il y a bien des Siecles qu’on a reconnu en vous ce que nous admirons aujourd’huy, &amp; les Histoires sont remplies des marques de consideration que vous avez reçeuës de Rome ans son état le plus florissant ; c’est par elles que nous sçavons que dans le temps où elle faisoit paroistre son estime avec un plus entier des-interessement à ceux qu’elle croyoit qui la meritoient, elle a donné à vostre magnifique Ville le Nom de la petite Rome Gauloise. Je ne vous apprendrois rien, quand je vous dirois tout ce que les Autheurs en rapportent ; vous ne l’ignorez pas, &amp; je vous en parle seulement pour vous faire voir que c’est par le témoignage de plusieurs Siecles que je vous connois. Ceux d’Arles se sont rendus fameux dans l’un &amp; dans l’autre Empire, &amp; il vous en reste de glorieux Monumens. Apres cela, Messieurs, vous jugerez bien que je me serois fait grand tort, si je m’estois tû sur les choses que j’ay crû devoir publier de vous ; je vous ay seulement rendu justice, &amp; vous me la rendez en me faisant l’honneur de me croire, Messieurs, Vostre tres, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_311">
+      <div xml:id="MG-1678-03e_311">
         <head>Lettre XLVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 311-312.</bibl>
         <quote rend="border">
@@ -1106,7 +1106,7 @@
           <p><anchor xml:id="_GoBack"/>JE croirois dérober quelque chose à vostre gloire, Monsieur, &amp; à celle d’une Demoiselle des environs de cette Ville qui n’a pas moins d’esprit que de naissance &amp; de beauté, si je souffrois plus longtemps qu’elle vous demeurât inconnuë. Elle lit tous les Mois le Galant Ouvrage que toute la France doit à vos soins ; &amp; au hazard de faire souffrir la modestie qui l’oblige à cacher les talens qui l’élevent au-dessus de la plûpart de celles de son Sexe, je vous envoye un Rondeau qu’elle a fait pour servir d’Explication à vostre premiere Enigme du Mois de Fevrier. Elle a si heureusement deviné toutes les premieres depuis le Trictrac, jusqu’à celle de l’Academie, que je ne doute point qu’elle n’ait également réüssy à l’égard de cette derniere. Elle me sçaura mauvais gré, sans doute, du vol que je luy ay fait de ses Vers ; mais vous luy en avez fourny la matiere par vostre Enigme, &amp; il est juste de vous faire voir une Production où vous avez part.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_316">
+      <div xml:id="MG-1678-03e_316">
         <head>Lettre XLIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 316-318.</bibl>
         <quote rend="border">
@@ -1116,7 +1116,7 @@
           <p rend="sc">La Solitaire de Fleury. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_318">
+      <div xml:id="MG-1678-03e_318">
         <head>Lettre L</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 318.</bibl>
         <quote rend="border">
@@ -1125,7 +1125,7 @@
           <p>JE vous envoye, Monsieur, ce que j’ay pensé sur les trois Enigmes que vous proposez dans vostre dernier Mercure. Pandore peut estre la figure du Vin ; Epimethée, celle d’un Homme yvre, comme Noé ou Silene : Et que peut-on entendre autre chose par les maux qui sortent de la Boëte, que les fumées &amp; les chimeres qui montent à la teste d’un Homme qui est enyvré ? La premiere Enigme en Vers me paroist estre <hi rend="i">un Baston de Mareschal de France</hi> ; &amp; la seconde, <hi rend="i">l’Argent monnoyé</hi>, ou <hi rend="i">les Medailles</hi>.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_319">
+      <div xml:id="MG-1678-03e_319">
         <head>Lettre LI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 319-321.</bibl>
         <quote rend="border">
@@ -1138,7 +1138,7 @@
           <p rend="i">ronne. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_321">
+      <div xml:id="MG-1678-03e_321">
         <head>Lettre LII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 321-324.</bibl>
         <quote rend="border">
@@ -1148,7 +1148,7 @@
           <p>PArmy le peu de relâche que m’accorde tres-peu souvent la cruauté d’une goute universelle qui me tient à la torture, je viens, Monsieur, de lire avec beaucoup de plaisir vostre Mois de Fevrier de cette Année, &amp; j’ay tellement esté ravy de l’ingénieuse Description de vostre combat <hi rend="i">de la Loüange &amp; de la Satire</hi>, que j’ay mille fois autant estimé digne de la premiere, cette agreable Production de vostre génie, que son ennemie est odieuse à la Vertu &amp; aux grands Esprits. Le mien, Monsieur, est trop borné pour en rien attendre qui contribuë à vostre éloge. Aussi je ne me hazarderay pas à l’entreprendre. Je vous diray seulement ce que j’ay pensé sur l’Enigme de <hi rend="i">Pandore</hi>. La Boëte qu’elle apporte, signifie <hi rend="i">la Guerre</hi>. Jupiter nous marque un Dieu qui vange la Rebellion de la Nature humaine figurée par la triste Epimethée, qui reçoit cette Boëte de la main de la fausse Divinité. Elle est d’or à l’extérieur ; &amp; pendant qu’elle est fermée par l’Amour &amp; l’union des Peuples, ils ne s’en promettent que des trésors, des avantages, &amp; de la gloire. Mais depuis que la revolte des premiers Hommes eut fait une guerre ouverte aux Volontez du Createur, sa main irrité ne leur a fait naistre que des calamitez, des disgraces, des infortunes, &amp; des malheurs, avec la mort, qui sont les maux qu’on voit sortir de la Boête de Pandore, ou plutst les funestes suites de la Guerre, laquelle en ses préludes se montre d’or, par l’esperance des Palmes, des Lauriers, des Conquestes, des Victoires, des Triomphes, &amp; des Trophées qui animent les Guerriers mais lors qu’elle est ouverte &amp; allumée par les diférentes passions, qui comme le Rideau suspendu &amp; volant au gré des vents en vostre Figure Enigmatique, aveugle leur raison, elle enfante mille maux qui nous sont representez par ceux qui sortent de la Boëte de Pandore.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_324">
+      <div xml:id="MG-1678-03e_324">
         <head>Lettre LIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 324-326.</bibl>
         <quote rend="border">
@@ -1157,7 +1157,7 @@
           <p>JE me promenois tantost dans la grande Salle du Palais, &amp; je me promenois fort doucement, car, Monsieur, vous allez voir qu’ïl y a bien de mon adresse. J’ay veu à mes pieds un petit morceau de papier. Comme dans nostre Art il faut faire profit de tout, &amp; chercher toûjours, j’ay fait voltiger en l’air ce morceau de papier avec un petit Souflet que je porte toûjours sous le Manteau. Aussi tost j’ay apperceu qu’il y avoit quelque chose gravé d’un costé, je l’ay ramassé. Or j’avois entendu dire que Monsieur Jean Flamel mourut autre fois, &amp; que quand il fut mort, on luy fit resser une Epitaphe avec des Figures sous lesquelles estoit cachée la Pierre Philosophale ; tellement que qui auroit pû les deviner, l’auroit trouvée. J’ay donc dit, que peut-estre elle seroit cachée sous ces Figures-cy aussi bien que sous les autres. Je les ay regardées, considerées, &amp; examinées. D’abord j’ay reconnu Pandore à sa beauté : c’est nostre Art, <hi rend="i">la belle Chymie</hi>. Je me suis veu dans Epimethée, car, Monsieur, que d’obligations j’ay à la Fortune, &amp; qu’on est heureux, quand on doit l’estre : Il me ressembloit comme deux gouttes d’eau. Courage, mon Esprit, courage, luy ay-je dit, voilà la Chymie ; me voilà, il ne nous manque plus que la Pierre philosophale. Elle sera sans doute dans cette Boëte, dans cette Boëte bien-heureuse. Qu’ay-je fait ? J’ay pris mon Souflet des deux mains, j’ay souflé dans la Boëte de toute ma force, &amp; aussitost la Boëte s’est renversée. À la verité j’ay ressenty dans ce mesme moment-là de grands mots par tout le corps ; mais n’importe, j’ay relevé la Boëte, &amp; en mesme temps (car, Monsieur, on n’a point les beaux Secrets sans peine) il en est sorty une fumée épouvantable. J’ay regardé dedans, j’y ay veu l’espérance, &amp; voilà <hi rend="i">la Pierre Philosophale</hi> que le Chymiste a trouvée.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_327">
+      <div xml:id="MG-1678-03e_327">
         <head>Lettre LIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 327-333.</bibl>
         <quote rend="border">
@@ -1166,7 +1166,7 @@
           <p>JE voudrois, Monsieur, que vous puissiez estre témoin de ce qui se passe tous les Mois dans une belle Compagnie de cette Ville, lors qu’on y apporte vostre Mercure. Vous verriez dans le même temps tout ce que l’empressement, la joye, &amp; le chagrin peuvent produire. Chacun veut le premier regarder l’endroit qui le touche. L’un veut apprendre s’il a deviné l’Enigme du Mois precedent, &amp; si son nom est dans le Mercure. L’autre cherche celles que vous donnez de nouveau à expliquer, pour avoir l’avantage d’estre le premier à le faire. D’autres veulent chanter les Chansons, d’autre lire les Histoires, &amp; d’autres examiner les Tailles-douces. Les Curieux de Nouvelles se jettent avec le dernier empressement sur les Articles de Guerre. Chacun demande à la fois ce que le Volume contient, avant qu’aucun en soit éclaircy ; &amp; ceux qui n’y trouvent point ou les Ouvrages qu’ils vous ont envoyez, ou leurs noms pour avoir deviné les Enigmes, divertissent toute la Compagnie par leur chagrin. Enfin, Monsieur, tout ce qui se passe en un quart d’heure, est si réjoüissant pour ceux qui s’attachent à le considerer, qu’il m’est impossible de vous en faire une peinture qui en puisse approcher. Il faut avoûer que l’occupation que donne le Mercure est utile de plus d’une maniere. Le temps qu’on employe à le lire, à faire des reflexions sur les Articles qu’il contient, à deviner les Enigmes, &amp; à travailler à quelques petits Ouvrages dignes d’y estre placez, occupe si agreablement celuy qu’on employeroit au jeu, à la médisance, &amp; peut-estre mesme à la débauche, qu’on ne sçauroit assez exagerer l’obligation que toute la France a au Mercure, puis qu’il ne nous fait pas suelement passer les heures avec plaisir, mais encor qu’il nous donne lieu d’acquerir de l’Esprit. Il nous apprend toûjours quelque chose que nous ignorions, &amp; est cause que nous sommes instruits en peu de temps de ce que les autres n’ont souvent appris qu’en beaucoup d’années. Sçavez-vous bien comment cela se fait, Monsieur ? C‘est que chacun disant son sentiment sur les Enigmes en figures, ne les cite que pleines d’érudition, &amp; des morceaux d’Histoires ; &amp; que les Avis de plusieurs habiles Gens dits en mesme temps, apprennent tout d’un coup ce qui leur a cousté beaucoup de veilles. Ne vous imaginez pas que toutes ces loüanges soient sans interest ; on ne les done au Mercure que vous exciter à continuer un Ouvrage qui produit tant de bons effets, &amp; à nous donner <hi rend="i">l’Extraordinaire</hi>, où nous esperons voir bien des Gens de nostre Ville. Nous croyons qu’il nous fera connoistre tous les beaux Esprits de France ; nous entendons les beaux Esprits Cavaliers qui ne se meslent pas ordinairement d’écrire, &amp; qui ne se font point imprimer, car ceux de profession sont assez connus. Vous devez sçavoir le fort &amp; le foible de l’Esprit des premiers mieux que personne du monde ; c’est à vous qu’ils se confient, vous en sçavez la foiblesse &amp; l’étenduë, comme un Directeur sçait le fort &amp; le foible d’une conscience. Si pour vous animer à travailler, il ne reste plus qu’à vous féliciter sur le grand debit de vostre Livre, je vous puis dire que vous avez contentement sur cet Article, &amp; que monsieur Malbert Directeur des Postes de Champagne nous disoit dernierement que le Mercure grossissoit tous les ordinaires la Masle du Courrier qui vient en cette Province. Plaignez vous aprés cela, Monsieur ; mais je ne croy pas que vous soyez si injuste que d’accuser le Siecle de mauvais goust. Je suis persuadé du contraire, &amp; que vous ne refuserez pas de me faire la grace de croire vostre tres, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_333">
+      <div xml:id="MG-1678-03e_333">
         <head>Lettre LV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 333-336.</bibl>
         <quote rend="border">
@@ -1177,7 +1177,7 @@
           <p>Les deux Mots que je croy estre ceux de vos Enigmes, sont le <hi rend="i">Baston de Mareschal de France</hi>, &amp; <hi rend="i">la Lettre</hi>.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_337">
+      <div xml:id="MG-1678-03e_337">
         <head>Lettre LVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 337-339.</bibl>
         <quote rend="border">
@@ -1187,7 +1187,7 @@
           <p rend="sc">De Roux. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_340">
+      <div xml:id="MG-1678-03e_340">
         <head>Lettre LVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 340-350.</bibl>
         <quote rend="border">
@@ -1224,7 +1224,7 @@
           <p rend="sc">Couture. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_350">
+      <div xml:id="MG-1678-03e_350">
         <head>Lettre LVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 350-354.</bibl>
         <quote rend="border">
@@ -1235,7 +1235,7 @@
           <p>Monsieur le Président de Pierreville aura sans-doute de la joye de voir ce que je viens de lire dans vostre dernier Volume, de Monsieur Miromesnil, qui est Frere de Madame la Présidente sa Femme.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_354">
+      <div xml:id="MG-1678-03e_354">
         <head>Fragment d’une lettre du Païs de Maine</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 354-358.</bibl>
         <quote rend="border">
@@ -1245,7 +1245,7 @@
           <p rend="sc">Sans vous Je n’aime rien. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_360">
+      <div xml:id="MG-1678-03e_360">
         <head>Lettre LX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 360-368.</bibl>
         <quote rend="border">
@@ -1264,7 +1264,7 @@
           <l><space/>Apprenez qu’il vaut mieux mourir.</l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_368">
+      <div xml:id="MG-1678-03e_368">
         <head>Lettre LXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 368-379.</bibl>
         <quote rend="border">
@@ -1274,7 +1274,7 @@
           <p>Dés que je me vis engagé à vous écrire, je m’avisay de chercher quelqu’un qui expliquast vos Enigmes du Mois de Fevrier, &amp; je crûs qu’il pourroit bien y avoir assez d’Esprit à Sedan pour cela, puis que je voy par vostre Mercure que des Villes qui ne sont pas plus celebres vous fournissent quantité d’Explications. Je n’ay trouvé personne qui ait pû mordre à la Figure énigmatique, mais j’en ay trouvé qui croyent que la premiere Enigme en Vers est <hi rend="i">un Baston de Mareschal de France</hi>, ils m’ont assez satisfait dans la maniere dont ils y appliquent tous les Vers. Ils ont voulu en faire autant de la seconde sur une Lettre, mais ils ne trouvoient pas leur conte, mesme selon leur goust ; ainsi je ne voudrois pas garantir leurs sens. Je vous demande mille pardons, Monsieur, de ce que j’ose vous adresser une si longue Lettre, pendant que de toutes parts on vous en envoye de si jolies, &amp; que vous n’avez pas trop de vostre temps pour lire toute cette affluence de bonnes Pieces, &amp; pour mettre en œuvre les diférens matéreaux de vostre Livre. Faites-moy la justice de croire que je suis un de ceux qui le lisent avec autant de plaisir pour un Ouvrage si utile au Public, &amp; si glorieux à la France, que d’estime pour vostre Personne ; &amp; que sans connoistre mon nom, vous avez en moy un tres, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_384">
+      <div xml:id="MG-1678-03e_384">
         <head>Lettre LXIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 384-389.</bibl>
         <quote rend="border">
@@ -1286,7 +1286,7 @@
           <p rend="sc">Sans vous je n’aime rien. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_390">
+      <div xml:id="MG-1678-03e_390">
         <head>Lettre LXIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 390-392.</bibl>
         <quote rend="border">
@@ -1303,7 +1303,7 @@
           <p>Ces Paroles meriteroient par elles mesmes d’avoir place dans vostre Mercure, &amp; je ne doute point que vous ne les y fassiez paroistre notées avec plaisir, apres ce que je viens de vous dire de l’Admirable Mademoiselle Sicard. Adieu, Monsieur, vous voulez bien que je continuë à me conserver la qualité que j’ay prise d’abord avec vous de vostre tres-invisible Servante.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_392">
+      <div xml:id="MG-1678-03e_392">
         <head>Lettre LXV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 392-400.</bibl>
         <quote rend="border">
@@ -1319,7 +1319,7 @@
           <p>Voila, Monsieur, une Lettre qui justifie ce que je vous dis. Mettez toûjours dans vostre Mercure des Pieces de cette force, quoy que vous n’en connoissez pas les Autheurs, &amp; vous le ferez toûjours souhaiter. C’est l’avis que vous donne vostre tres, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_401">
+      <div xml:id="MG-1678-03e_401">
         <head>Lettre LXVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 401-403.</bibl>
         <quote rend="border">
@@ -1350,7 +1350,7 @@
           <p rend="i">Province en l’Isle de Ré. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_404">
+      <div xml:id="MG-1678-03e_404">
         <head>Lettre LXVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 404-407.</bibl>
         <quote rend="border">
@@ -1360,7 +1360,7 @@
           <p>Il faut encor que vous sçachiez que nous avons icy un Résident d’un grand Roy du Nort, qui a deviné aussi vos dernieres Enigmes à Livre ouvert, &amp; cela vous soit dit, pour vous faire connoistre que vos Mercures donnent du plaisir à toutes sortes de Nations étudient vos Mercures.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_407">
+      <div xml:id="MG-1678-03e_407">
         <head>Lettre LXVIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 407-410.</bibl>
         <quote rend="border">
@@ -1369,7 +1369,7 @@
           <p>TRois jeunes Personnes de diferentes Provinces s’estant réünies icy par un heureux sort, ont pris un extréme plaisir à lire le Mercure. Elles se sentent si obligées à l’Autheur du divertissement qu’il leur donne, qu’elles ne sçauroient s’empescher de l’en remercier. Elles le prient de ne se point lasser d’y mettre plusieurs Avantures galantes, &amp; de continuer les Enigmes qui sont si spirituelles &amp; qui exercent si bien l’esprit des jeunes Gens. Si nous n’avions pas esté si paresseuses, nous luy aurions envoyé l’Explication de celle de Janvier que nous avions treuvée fort juste. Je ne sçay si nous aurons aussi bien réüssi dans celle qu’il nous vient de donner, mais il nous paroist que la premiere qui commence par <hi rend="i">Dans les Forests j’ay pris naissance</hi>, doit estre <hi rend="i">un Mousquet</hi>. À nostre sens tout s’y rapporte, mais nostre Lettre seroit trop longue, si nous l’expliquions mot à mot. Pour la seconde, nous ne croyons point nous tromper, en disant que ce sont les Lettres que l’on envoye par la Poste, qui sont écrites de tous costez, &amp; qui contiennent ce que l’on y veut mettre de bien &amp; de mal, &amp;c. &amp; qui reçoivent toutes les impressions de Cachets que l’on y imprime. Voila, galant Mercure, la pensée des trois jolies Provinciales qui pourront quelque jour vous faire voir une production de leur Societé. Nous nous soûmettons à vostre censure, &amp; nous sommes de tres-bonne foy vos tres-obligées Servantes.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_410">
+      <div xml:id="MG-1678-03e_410">
         <head>Lettre LXIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 410-412.</bibl>
         <quote rend="border">
@@ -1380,7 +1380,7 @@
           <p>Depuis ma Lettre écrite nous avons fait un autre pary sur la seconde Enigme du Mercure de Fevrier, qui commence par <hi rend="i">Je porte ce qu’on veut</hi>. C’est du Métal, de l’Or, ou de l’Argent monnoyé. Enfin on soûtient que c’est de la Monnoye. J’en suis pour mes cent Loüis, si ce n’est ny l’un ny l’autre de ce que j’ay dit sur les deux Enigmes.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_412">
+      <div xml:id="MG-1678-03e_412">
         <head>Lettre LXX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 412-420.</bibl>
         <quote rend="border">
@@ -1391,7 +1391,7 @@
           <p>Vous voyez, Monsieur, par cette Lettre, ce que vostre Mercure fait dans nos Provinces. Tout le monde y trouve un agreable délassement d’esprit, &amp; moy plus que personne, qui suis vostre tres-humble Servante.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_421">
+      <div xml:id="MG-1678-03e_421">
         <head>Lettre LXXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 421-434.</bibl>
         <quote rend="border">
@@ -1555,7 +1555,7 @@
           <p>Je croy, Monsieur, que la lecture de cette Eglogue suffira pour vous persuader que M<hi rend="sup">r</hi> Desmay ne fait rien qui ne soit digne d’estre veu par tout. Je vous l’abandonne pour la placer où vous le jugerez à propos, &amp; suis vostre, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_434">
+      <div xml:id="MG-1678-03e_434">
         <head>Lettre LXXII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 434-438.</bibl>
         <quote rend="border">
@@ -1564,7 +1564,7 @@
           <p>L. S. D. D. D. S.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_438">
+      <div xml:id="MG-1678-03e_438">
         <head>Lettre LXXIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 438-442.</bibl>
         <quote rend="border">
@@ -1573,7 +1573,7 @@
           <p rend="sc">Hebert de Rocmont. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_442">
+      <div xml:id="MG-1678-03e_442">
         <head>Lettre LXXIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 442-449.</bibl>
         <quote rend="border">
@@ -1587,7 +1587,7 @@
           <p rend="i">Avocat au Parlement. </p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_450">
+      <div xml:id="MG-1678-03e_450">
         <head>Lettre LXXV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 450-462.</bibl>
         <quote rend="border">
@@ -1595,7 +1595,7 @@
           <p>DEux ou trois Personnes qui ne parlent guére sans persuader ce qu’elles veulent, me conseillent de vous envoyer, en imitant d’honnestes Gens, quelques Vers de ma façon, ou du moins de vous écrire quelque Lettre. Cependant j’aurois encor laissé tout cet honneur à de meilleurs Ecrivains que moy, si ces mesmes Personnes ne m’avoient enfin commandé de leur servir aujourd’huy de Secretaire. Ce sont les trois Demoiselles, Monsieur, qui vous ont écrit ces derniers Mois, &amp; qui pour se deguiser &amp; donner le change aux Lecteurs, ne vous feroient plus entendre qu’elles sont des environs ou de Blois, ou de Nantes, ou d’Angoulesme, si elles estoient assurées qu’en se faisant connoître à vous, leurs Voisins ne sçauroient pas qu’elles se mettent du rang des beaux Esprits, en vous donnant de leurs nouvelles comme elles font quelquefois. Bien que j’ay plus de raisons qu’elles n’en ont de ne vouloir pas courre ce mesme hazard, &amp; de prendre des voyes plus couvertes pour n’estre pas reconnu, je m’apperçois bien qu’elles ne seroient pas beaucoup fâchées qu’on sçeust que je suis, si cela ne tiroit pas à conséquence pour elles &amp; pour cette reputation de bel Esprit qu’elles veulent attendre sans la chercher. Mais comme je suis tous les jours chez elles, il leur est aisé de voir que si on sçavoit que c’est de moy que vient cette Lettre, on sçauroit en mesme temps d’où vous sont venuës celles qu’elles vous ont écrites, &amp; ainsi tout leur mistere seroit découvert. Je voudrois bien, Monsieur, qu’il me fust permis de vous décrire les beautez de la Maison où elles cachent presque à tous ceux qui les voyent, ce qu’elles sçavent de plus élevé, &amp; tant d’agreables Vers qui leur sont inspirez d’une Muse galante qui ne songe qu’à divertir &amp; effacer les ennuis. Je ne sçaurois vous representer combien tous ceux qui voyent ces Personnes si bien inspirées, sont touchés de leur merite. Elles ne disent rien qui ne fasse sentir la délicatesse de leur goust, &amp; regreter le temps qu’on passe ailleurs qu’aupres d’elles. Ceux qui ne sont que de leurs Amis, n’ont jamais pû discerner celle qu’on devroit plutost choisir des trois pour estre heureux dans la plus douce &amp; la plus aimable conversation du monde. Pour peu de jours qu’on s’éloigne d’elles, on est fâché d’avoir perdu beaucoup de jolies choses qu’elles auront dites. Ce qu’on voit de la perfection de la vie, &amp; des entretiens dans les Livres les plus épurez, &amp; qui laissent les plus belles idées, semble avoir esté fait sur ce qui se passe par tout où l’on se trouve avec elles. La Galatée &amp; le Parfait Courtisan, que les italiens &amp; les autres Nations ont tant estimez, n’ont presque rien touché qui ne fasse penser à ces agrémens qu’elles employent pour enchanter ceux qui les approchent, sans qu’on sçache d’ordinaire d’où cet enchantement vient. Leurs Lettres vous ont assez fait voir qu’elles aimoient les beaux Ecrits, &amp; qu’elles se rejoüissient du soin que vous avez de nous apprendre tant de choses curieuses que nous n’aurions jamais sçeuës sans vous. En des occasions de cette sorte je ne leur ay point veu de joye plus grande que celle qu’elles ont euë en lisant l’endroit où vous promettez de nous instruire de ces Dessein que Monsieur le Brun a faits des diférens airs des Passions. Vosu ne sçauriez estre torp étendu, disent-elles, sur un sujet si agreable, &amp; je croy comme elles que pour peu que vous voulussiez retrancher de ce que vous avez à dire là-dessus, ce seroit une perte dont ceux qui connoissent le prix &amp; l’usage d’une chose si desirée de toutes parts, ne pourroient se consoler, à moins que ce Peintre inimitable ne donnast bientost luy-mesme l’Ouvrage entier. La plûpart des excellens Autheurs, &amp; particulierement les Inventeurs de quelque chose qui puisse servir au monde, feroient bien à l’avenir de vous envoyer le Plan ou quelque abregé de ce qu’ils ont à mettre en lumiere, ou de ce qu’ils ont découvert. Le Mercure est veu par tout, &amp; souvent les plus curieux ne voyent les meilleurs Livres, &amp; sur tout dans les Provinces, que plusieurs années aprés qu’ils sont imprimez ; &amp; ceux qui ont moins de curiosité, ne les voyent quelquefois jamais. Vous pourrez encor sauver comme d’un naufrage quelques restes comme perdus de l4Esprit de certains Autheurs, &amp; il seroit à souhaiter que vous voulussiez convier ceux qui les ont de vous envoyer des choses si precieuses pour empescher qu’elles ne viennent à périr par quelque hazard. Il me semble aussi que les gens de qualité qui ont presque toûjours quelque chose de plus exquis &amp; de meilleur air que les autres, devroient estre bien aises de devenir par les Écrits qu’ils vous donneroient, la regle des Ecrivains qui n’ont pas esté si bien nourris, &amp; qui n’otn pas eu tant d’excellens Modelles pour se former &amp; se rendre accomplis. Les belles connoissances sont bien répanduës de tous costez en ce Royaume ; mais s’il y a encor en France quelques recoins un peu barbares, le Mercure en chassera bientost la barbarie ; du moins je remarque que toutes sortes de Gens s’empressent à profiter d’une invention si utile, &amp; dont ceux qui ne se plaisent que trop à ne rien faire, ne vous sont guere moins obligez que ceux qui font du bruit dans le monde par leurs Actions &amp; par leurs Ecrits. De belles Personnes de ma connoissance font venir des Maistres pour apprendre à chanter les Chansons notées. D’autres se préparent à deviner les Enigmes en figures ; &amp; je ne voy guére de Dame jolie &amp; spirituelle, qui ne s’attache à expliquer celles que vous nous donnez en Vers, &amp; qui n’y devienne de mois en mois plus habile. Nous croyons icy qu’un <hi rend="i">Navire</hi> &amp; <hi rend="i">la Monnoye</hi> sont les Mots des deux dernieres. Cela devient si commun &amp; mesme si facile à quelques uns, que la jeune Demoiselle qu’on vous a si bien peinte, &amp; qui s’en mesloit le plus, y renonce presentement, parce qu’elle ne se divertit qu’à ce qui est rare &amp; difficile : mais cette bizarrerie n’oste rien des loüanges de ceux qui démeslent des choses si embarrassées, &amp; on ne la luy peut pardonner qu’en faveur de ce qu’elle a d’extraordinaire. Je croirois, Monsieur, que quelques Personnes qui ne sont pas encor connuës, &amp; qui se sentent de l’esprit &amp; du talent, pourroient se servir du Mercure pour exposer leurs Essays à la censure des plus éclairez, &amp; les inviter mesme à vouloir s’expliquer franchement sur leurs defauts, pour découvrir par ce moyen s’ils en sçavent assez pour se faire connoistre. C’est aussi là le sentiment d’un galant Homme qui contribuë quelquefois de ses inventions aux embellissemens du Mercure. Vous estes conjuré, Monsieur, de la part de cet excellent connoisseur, &amp; de celle de ceux qui ont le plus de discernement, d’employer toute vostre adresse pour avoir de temps en temps quelque belle Allégorie, comme celles de monsieur de Fontenelle, &amp; de quelques autres. Le Mercure qui plaist par tout, charme dans les endroits où l’on trouve des Vers de Madame des Houlieres, qui sont si tendres &amp; si bien tournez ; &amp; il n’y a rien de plus délicat ny de plus achevé que les Plaintes des trois Prairies ; mais on ne recevra jamais rien si agreablement, ny mesme avec tant de respect, que des Lettres comme celle qui vous a donné la pensée de discourir du <hi rend="i">Sapate</hi>, pour en instruire ceux qui n’avoient pas oüy parler de cette Galanterie d’Espagne &amp; de Savoye. Le Discours que vous avez fait là dessus, aussi-bien que celuy des devises, en feront toûjours souhaiter de pareils. Comme le Mercure est le Livre de <hi rend="sc">Monseigneur le Dauphin</hi>, tous les beaux Esprits doivent se servir d’un moyen si favorable pour luy offrir leurs plus agreables chef-d’œuvres, &amp; tout ce qu’ils auront de plus noble &amp; de plus propre pour un Prince qui avec son beau naturel si bien cultivé de son sage Gouverneur, &amp; des Leçons du plus grand des Roys, court de si bon air sur les voyes de ces Princes, d’un cœur &amp; d’un esprit si haut, qu’on les regarde toûjours entre les plus honnestes Gens &amp; les plus grands Hommes de tous les Siecles, comme les plus brillans &amp; les premiers.</p>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_462">
+      <div xml:id="MG-1678-03e_462">
         <head>Lettre LXXVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 462-481.</bibl>
         <quote rend="border">
@@ -1849,7 +1849,7 @@
           <p>L. C.</p>
         </quote>
       </div>
-<div xml:id="MG-1678-01e_495">
+<div xml:id="MG-1678-03e_495">
         <head>[Sur la première énigme de février 1677] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 485-488.</bibl>
         <p>Ce qui suit est d’un Homme de Qualité de Bordeaux, qui ayant expliquë les deux Enigmes du mois de Fevrier sur le <hi rend="i">Tambour</hi> &amp; sur <hi rend="i">l’Enseigne</hi>, adresse ces Explications aux deux Personnes dont j’ay marqué que je les tenois.</p>
@@ -1877,13 +1877,13 @@
           <l>Plus il fait de bruit sur la <hi rend="i">Terre.</hi></l></lg>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_494">
+      <div xml:id="MG-1678-03e_494">
         <head>[Histoire de la fausse morte] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 494-508.</bibl>
         <p rend="i">Ainsi je passe à ce qui est arrivé depuis quelque temps dans la Cour d’Espagne. Quoy que l’Avanture soit aussi extraordinaire que surprenante, elle ne laisse pas d’estre vraye dans toutes ses particularitez, &amp; s’il estoit besoin d’en donner des preuves, tout Madrid en serviroit de témoin. Les choses s’y sont passées de cette sorte. </p>
         <p>Un Cavalier d’une naissance fort considerable, avoit joint aux avantages qu’il avoit reçeus d’une éducation tres-heureuse, ce que plusieurs années de voyages font acquerir de connoissances utiles aux honnestes Gens. L’étude du monde qu’il avoit faite dans les principales Cours de l’Europe, faisoit d’abord remarquer en luy des qualitez qui se trouvent rarement dans ceux qui n’ont jamais pris de ces sortes de leçons ; &amp; on peut dire que s’il estoit party avec des inclinations tres-dignes de luy, il estoit revenu si parfait, qu’on ne le pouvoit voir sans l’estimer.  Trois ou quatre jours apres son retour, n’estant presque encor connu de personne, le hazard voulut que dans une Feste publique où tout le monde courut en foule, il fut placé aupres d’une jeune Demoiselle dont la beauté le surprit. Il la regarda, il en fut charmé, &amp; il le fut bien davantage, quand ayant commencé à l’entretenir, il connut que les charmes de son visage n’égaloient point ceux de son esprit. Il luy dit mille choses obligeantes, &amp; les dit d’une maniere si fine, que si la Belle luy plût, il ne plût pas moins à la Belle. Ainsi la Feste finit trop tost pour l’un &amp; pour l’autre, &amp; ce ne fut pas sans quelque chagrin qu’ils se virent contraints de se séparer. Le Cavalier pressa la Belle de luy apprendre qui elle estoit, &amp; sa réponse fut qu’elle alloit souvent se promener dans un Lieu qu’elle luy marqua, qu’il ne tiendroit qu’à luy de l’y voir, &amp; que le temps luy feroit sçavoir s’il mériteroit qu’elle satisfist sa curiosité. Vous pouvez croire que le Cavalier ne manqua pas aux Rendez-vous. Il y vit sa Belle, qui se ménagea si bien, que sans blesser ce qu’elle se devoit à elle-mesme elle luy donna toûjours lieu de parler. S’il luy faisoit les protestations les plus empressées, tant de modestie estoit jointe à ce qu’elle luy disoit de favorable, qu’il ne la quitoit jamais qu’avec plus d’amour qu’Il n’en avoit eu en l’abordant. Enfin aprés l’avoir entretenuë sept ou huit fois, &amp; luy avoir fait paroistre ce que la plus violente passion peut inspirer pour une Personne toute aimable, il la conjura avec tant d’isntance de ne luy laisser pas ignorer plus long-temps qui il aimoit, qu’elle se resolut à ne luy en faire plus de mystere. Elle luy apprit son nom, &amp; il demeura si interdit en l’apprenant, que la Belle ne sçavoit que s’imaginer de son trouble. Il ne pût mieux luy en découvrir la cause, qu’en se nommant. Son étonnement fut égal à celuy du Cavalier. Elle soûpira, &amp; ils furent quelque temps à se regarder sans se rien dire. Leurs regards ne disoient que trop qu’ils s’aimoient ; &amp; dans la connoissance qu’ils se donnoient l’un à l’autre de leurs plus secrets sentimens, ils avoient le malheur d’apprendre que si l’égalité de leur naissance autorisoit leur amour, ils estoient de deux Familles si irreconciliables ennemies, que l’autorité du Prince n’avoit pû empescher beaucoup de malheurs dont cette inimitié avoit déja esté la cause. Ils ne se cacherent point que l’impossibilité apparente de devenir jamais heureux leur devoit faire une necessité de renoncer à se voir, mais ils n’eurent pas la force de s’y résoudre, &amp; il sembla que les obstacles presque invincibles qu’ils trouverent à leur passion, ne servirent qu’à les enflâmer davantage. Ils se firent cent sermens de n’estre jamais à personne, s’ils ne pouvoient estre l’un à l’autre, &amp; ils continuerent à se voir avec d’autant plus de facilité, que le Cavalier cacha exprés son retour pour demeurer inconnu à ceux qui auroient pû donner quelque connoissance de son Secret. Cependant comme il estoit maistre de luy-même, &amp; que la hainte lap lus enracinée n’a jamais tenu contre l’Amour, il employa des Personnes tres-puissantes pour travailler à la réconciliation des deux Familles. On parla au Pere de la Belle. On luy fit voir de quelle consequence il estoit de prévenir les cruelles suites que pourroit avoir une haine hereditaire, qu’il seroit peut-estre aisé d’assoupir par un Mariage. C’estoit un de ces Vieillards obstinez qui ne pardonnent jamais. Il s’emporta. Il n’écouta rien, &amp; ayant malheureusement appris que sa Fille avoit souffert l’entretien du Cavalier, il eut des severitez pour elle qui luy firent payer bien cher ce qu’elle y avoit goûté de plaisir. Elle eut beau luy dire qu’elle luy avoit parlé sans le connître, il la mit dans un Couvent avec de si étroites défenses de luy laisser voir personne, qu’il falloit avoir la plus forte passion pour songer à combatre ce nouveau malheur. Elle redoubla dans le cœur du Cavalier ; &amp; comme l’Amour est inventif, il luy fit trouver les moyens d’affermir la belle Personne qui souffroit pour luy, dans la résolution de l’aimer toûjours. Les Espions s’attacherent inutilement à observer ce qui se passoit. Les deux Amans eurent des intelligences secretes que le Pere ne pût découvrir ; &amp; aprés plus d’une année d’inquiétudes &amp; d’irresolutions, la Belle consentit à suivre la fortune du Cavalier, mais elle voulut pour cela le voir à couvert des poursuites de son Pere &amp; de ses Freres, qu’elle ne doutoit point qui ne se portassent contre luy aux derniere extremitez, s’ils découvroient qu’elle fust en son pouvoir. Que n’ose-t-on point quand on aime ! Une Religieuse du Couvent mourut, &amp; deux jours aprés la Belle se fit apporter un Habit sans que personne en sçeust rien, &amp; disposa si bien toutes choses, que sur l’avis qu’elle donna à son Amant, elle fut asseurée qu’il se trouveroit la nuit suivante au pied de la muraille du Jardin avec une échelle de corde qui luy serviroit à s’échaper. La nuit s’avançant, &amp; un profond silence luy ayant fait connoître que tout le monde dormoit, elle eut le courage de descendre dans la Cave où l’on avoit mis la Religieuse morte. Elle la tira de sa Biere, l’apporta dans son Lit, employa quelque temps à luy brûler le visage pour l’empescher d’estre reconnuë, mit le feu au Lit, &amp; laissant sur la Table les Habits qu’elle avoit accoûtumé de porter, elle se sauva avec celuy qu’elle avoit reçeu du Cavalier. Le feu fit un prompt ravage. La Chambre fut toute embrasée. On s’en apperçeut, on y courut, &amp; si on y donna remede, ce ne pût estre qu’aprés que le lit eut esté presque entierement consumé. On trouva le Corps. Le feu avoit gagné les Sieges, &amp; s’attachoit déja à la Table, où les Habits estoient à demy brûlez. Ils estoient connus, ils ne laissèrent point douter du malheur de la belle Fugitive. On la pleura. On luy rendit les derniers honneurs, &amp; l’accident ayant esté divulgué dans la Ville, on le regarda comme une punition de cette irreconciliable haine que le Pere avoit voulu garder pour son Ennemy. Cependant le Cavalier mena la Belle dans un Chasteau qui estoit à luy, &amp; l’y épousa secretement. Comme elle faisoit toute sa felicité de la tendresse qu’il avoit pour elle, le plaisir d’en recevoir des marques luy tint lieu de tous les autres plaisirs. Elle n’estoit veuë que de ses Domestiques, dont aucun ne la connoissoit ; &amp; tandis que tous ses Parens la coyoient morte, elle menoit une vie heureuse qui n’estoit troublée de temps en temps que par quelques jours d’absence de celuy qu’elle aimoit uniquement. Trois ou quatre ans se passerent, pendant lesquels son Pere mourut. Deux Fils qu’il laissa, eurent quelques affaires fâcheuses. Le Cavalier qui estoit fort consideré à la Cour, les servit malgré eux si utilement, que cette generosité les toucha. Les mêmes Personnes qui avoient tâché de faire la reconciliation du Pere, entreprirent celle des Fils. Comme ils n’avoient pas entierement épousé sa haine, ils donnerent les mains à la proposition qu’on leur en fit. L’accommodement fut fait, &amp; il trouverent le Cavalier si digne de leur amitié, qu’ils entrerent avec luy dans la plus parfaite union. Vous jugez bien, Madame, qu’ils ne se virent pas long-temps sans qu’ils luy témoignassent le déplaisir qu’ils avoient de ce que la mort de leur Sœur leur avoit osté l’avantage qu’ils auroient trouvé dans son alliance. Le Cavalier ne leur déguisa point qu’il avoit aimée, &amp; leur demanda par grace de venir passer quelques jours dans son Château. Sitost qu’ils y furent arrivez, il leur dit qu’ils estoient trop de ses Amis pour leur cacher qu’il s4estoit marié depuis quelque temps, &amp; qu’il se sentoit d’autantp lus oubligé d’aimer la belle Personne qu’il avoit épousée, que ne s’estant point mise en peine de se faire connoître dans le monde, elle luy avoit témoigné par là qu’elle ne vouloit vivre que pour luy. Alors il l’envoya prier de venir. La Belle entra avec cette émotion qui est assez inévitable dans des pareilles rencontres. Ses Freres la coyoient morte. Ils se regarderent l’un l’autre. Ils regarderent le Cavalier, &amp; aprés un haut cry que leur premiere surprise leur arracha, ils reconnurent leur Sœur aux tendres embrassemens qu’elle leur fit. Ils pleurerent tous de joye. L’Histoire de la fausse Morte fut éclaircie, &amp; on admira les surprenantes réoslutions que l’amour fait prendre à ceux qui en son veritablement atteints.</p>
       </div>
-      <div xml:id="MG-1678-01e_510">
+      <div xml:id="MG-1678-03e_510">
         <head>Question proposée</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 510-511.</bibl>
         <p rend="i">Comme c’est chez elles que s’agitent toutes les Questions d’esprit, une Dame qui en a infiniment, en proposa une il y a quelques jours à plusieurs Personnes tres-éclairées de l’un &amp; l’autre Sexe. La voicy. </p>
@@ -1893,7 +1893,7 @@
         </quote>
         <p rend="i">La Dame qui proposa la Question, pria qu’on ne répondit point sur le champ, afin qu’on eust le temps de se consulter &amp; que les Réponses pussent estre mieux raisonnées. Vous pouvez prendre party là-dessus vous &amp; vos Amies. Vous ne penserez rien qui ne soit juste, &amp; je ne doute point que la pluralité d’Avis ne se trouve de vostre costé. </p>
       </div>
-      <div xml:id="MG-1678-01e_511">
+      <div xml:id="MG-1678-03e_511">
         <head>[Air du printemps] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 511-512.</bibl>
         <p rend="i">Je n’ay plus qu’un Air de Printemps à vous faire voir, avant que de venir à l’Histoire Enigmatique que je vous ay promis de vous envoyer. Cet Air est de la Composition d’un Maistre du Havre. J’espere qu’il vous fera demeurer d’accord que les Provinces ont d’aussi habiles Gens en Musique qu’en toute autre chose. Les Paroles sont du stile ordinaire des Amans qui croyent avoir toûjours sujet de se plaindre. </p>
@@ -1909,7 +1909,7 @@
           <l>Où Climene ne paroist pas ?</l>
         </quote>
       </div>
-      <div xml:id="MG-1678-01e_513">
+      <div xml:id="MG-1678-03e_513">
         <head>Histoire énigmatique</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678, tome I, p. 513-520.</bibl>
         <p rend="i">Un peu d’application, Madame, ce que j’ay presentement à vous conter tient du Prodige. Voicy dequoy il s’agit. </p>
