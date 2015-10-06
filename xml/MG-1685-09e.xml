@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de septembre 1685</title>
+        <title>Extraordinaire du Mercure Galant, Quartier de juillet 1685</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>septembre 1685</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>juillet 1685</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-09e_119">
+      <div xml:id="MG-1685-09e_119">
         <head>MG-1685-09e_119</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de juillet 1685, p. 119-122, 124-125</bibl>
         <p>Entiere exposition d'une premiere Langue universelle</p>
@@ -60,8 +60,8 @@
         <p/>
         <p>M. Bellenden qui ne disoit plus la Messe, ne manquoit point d'y assister ; &amp; se mettant au Lutrin, chantoit avec les Chantres les Airs de l'Eglise, &amp; ne prononçoit pourtant aucune des paroles ordinaires ; mais toujours ses paroles inconnües. Son Neveu averty de cette singularité dont quelques-uns avoient ry &amp; raillé, obligea le bon homme à prendre depuis ce temps là une autre place dans d'Eglise, &amp; l'invita à prier Dieu tout bas. Il fit l'un &amp; l'autre sans resistance. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09e_188">
+      
+      <div xml:id="MG-1685-09e_188">
         <head>MG-1685-09e_188</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de juillet 1685, p. 188-198</bibl>
         <p>Sentimens sur les Questions du 30. Extraordinaire, par Mr Bouchet, ancien Curé de Nogent le Roy [De l'origine des orgues]</p>
@@ -308,8 +308,8 @@
         <p>L. Bouchet,</p>
         <p>Ancien Curé de Nogent le Roy</p>
       </div>
-
-<div xml:id="MG-1685-09e_205">
+      
+      <div xml:id="MG-1685-09e_205">
         <head>MG-1685-09e_205</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de juillet 1685, p. 205-207, 211-214</bibl>
         <p>Onzième Partie du Traité des Lunettes, par Mr Comiers</p>
@@ -329,8 +329,8 @@
         <p/>
         <p>[...] M. le Marquis de Seignelay Secretaire d'Etat, dit au R. P. Cherubin, ce que luy mesme a publié en l'année 1679. [...] Il faut avoüer que le Binocle est une belle invention ; mais frachement elle n'est pas nouvelle ; neanmoins nostre Autheur Adioptricien ajoute, qu'il repliqua, qu'il y avoit plus de vingt ans qu'il avoit inventé &amp; construit le Binocle. Et n'ayant point de preuve par témoin ny par écrit, d'avoir inventé ou construit quelque Binocle, il gagneroit sa cause s'il trouvoit un Juge que le voulut croire, [...]. Mais par malheur, il a luy mesme démenty en l'année 1681. [...] Quelqu'un luy ayant dit que M. Dalencé Secretaire du Roy, estant à Visbourg en l'année 1668 eut pendant trois semaines, l'excellent Binocle de quatorze pieds de M. L'Electeur de Mayence, [...]. Il protesta que c'estoit luy qui avoit donné ces Binocles à des Princes d'Allemagne, &amp; qu'il estoit vray qu'on luy avoit fourny des Flustes d'Allemagne pour luy faire servir de tuyaux pour chacune Lunette du Binocle. Quelque Rieur ajouta, qu'asseurément ces Grands Binocles à Flustes d'Allemagne, avoient enfanté le petit Binocle de deux pieds de longueur, du P. Dechales Savoyard, &amp; comme aussi celuy de decem circiter palmorum de longueur, dont il parle dans la 673 page du second Tome de son Mudus Mathematicus, imprimé à Lyon en l'année 1674. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09e_285">
+      
+      <div xml:id="MG-1685-09e_285">
         <head>MG-1685-09e_285</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de juillet 1685, p. 285-296</bibl>
         <p>L'amour Amant, Ballet.</p>
@@ -482,6 +482,6 @@
         <p>Avec des tons non moins melodieux,</p>
         <p>Que ceux dont en tout temps elles charment les Cieux.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

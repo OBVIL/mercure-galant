@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de mars 1682</title>
+        <title>Extraordinaire du Mercure Galant, Quartier de janvier 1682</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>mars 1682</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>janvier 1682</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-03e_007">
+      <div xml:id="MG-1682-03e_007">
         <head>MG-1682-03e_007</head>
         <bibl>Mercure Galant, Extraordinaire de janvier 1682, p. 7-8</bibl>
         <p>Sur la difficulté proposée touchant la Musique.</p>
@@ -65,6 +65,6 @@
         <p>Dont je doute fort du succés,</p>
         <p>Je remets l'affaire à Baptiste.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

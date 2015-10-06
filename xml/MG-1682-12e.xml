@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de décembre 1682</title>
+        <title>Extraordinaire du Mercure Galant, Quartier d’octobre 1682</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>décembre 1682</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier d’<date>octobre 1682</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-12e_168">
+      <div xml:id="MG-1682-12e_168">
         <head>MG-1682-12e_168</head>
         <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 168-170</bibl>
         <p>Si le sentiment de Phinée dans l'Opéra de Persée, est d'un véritable Amant, lors qu'il dit qu'il aime mieux voir Andromede devorée par un Monstre, qu'entre les bras d'un Rival.</p>
@@ -88,16 +88,16 @@
         <p>Mais en dernier ressort, ma Muse en jugera,</p>
         <p>Lors que j'auray veu l'Opéra.</p>
       </div>
-
-<div xml:id="MG-1682-12e_320">
+      
+      <div xml:id="MG-1682-12e_320">
         <head>MG-1682-12e_320</head>
         <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 320-321</bibl>
         <p>L'Enigme en Prose du spirituel Berger Fleuriste, a esté ainsi expliquée par le Nouvel Habitant de la Coste des Singes Verts.</p>
         <p/>
         <p>Il ne se peut rien de plus agreablement imaginé, que l'Enigme en Prose du XIX. Extraordinaire. C'est le Monosillabe Si, qui dans les premiers temps, n'estoit aparement employé qu'à un seul usage, c'est à dire, dans le discours ordinaire, &amp; qui l'a esté depuis diféremment par les diférentes significations, que les Nations luy ont donnée. On l'a fait mesme servir à un autre employ, en l'ajoûtant aux six tons de la Musique, cette Science agreable &amp; pénible, mais plus facile présentement par l'addition du Si.</p>
       </div>
-
-<div xml:id="MG-1682-12e_353">
+      
+      <div xml:id="MG-1682-12e_353">
         <head>MG-1682-12e_353</head>
         <bibl>Mercure Galant, Extraordinaire d'octobre 1682, p. 353-354</bibl>
         <p>QUESTIONS A DECIDER.</p>
@@ -105,6 +105,6 @@
         <p>[...]</p>
         <p>Quelle est l'origine des Cloches, &amp; leur antiquité.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

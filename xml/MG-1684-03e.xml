@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de mars 1684</title>
+        <title>Extraordinaire du Mercure Galant, Quartier de janvier 1684</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>mars 1684</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>janvier 1684</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,15 +51,15 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-03e_005">
+      <div xml:id="MG-1684-03e_005">
         <head>MG-1684-03e_005</head>
         <bibl>Extraordinaire du Mercure galant, janvier 1684, p. 5-7</bibl>
         <p>[Sur le plaisir de la lecture et celui de la musique]</p>
         <p/>
         <p>L'amour des Livres est donc un partage propre aux belles ames [...] Alphonse Roy d'Arragon, préferoit ses Livres à tous les plaisirs de la Cour. On luy donnoit un jour le divertissement d'un Concert, lors qu'il trouva par hazard un volume des Oeuvres de Ciceron ; ce fut assez pour dégoûter ce Prince des beautez de la Musique. Il prit le Livre, &amp; congédia tout son monde avec ces belles paroles, Je vais m'entretenir plus agréablement avec le Maistre de l'Eloquence Latine.</p>
       </div>
-
-<div xml:id="MG-1684-03e_084">
+      
+      <div xml:id="MG-1684-03e_084">
         <head>MG-1684-03e_084</head>
         <bibl>Extraordinaire du Mercure galant, janvier 1684, p. 84-92</bibl>
         <p>[Réponse aux énigmes sur la note Mi]</p>
@@ -206,16 +206,16 @@
         <p>Je suis toûjours la Belle à l'Anagramme.</p>
         <p>Libre d'amour, de la Ruë du Bac.</p>
       </div>
-
-<div xml:id="MG-1684-03e_092">
+      
+      <div xml:id="MG-1684-03e_092">
         <head>MG-1684-03e_092</head>
         <bibl>Extraordinaire du Mercure galant, janvier 1684, p. 92-94</bibl>
         <p>Portrait à Madame***</p>
         <p/>
         <p>Voicy la premiere fois, Madame, que je vois une grande réputation se soûtenir. [...] En verité, Madame, on a raison de dire, que vous n'estes pas moins propre à donner des conseils, toute jeune que vous estes, qu'à vous faire admirer par vostre Chant &amp; par vostre Lut. Pourquoy ne croiray-je pas ce qu'on m'a dit de vostre coeur, puis que je trouve tant de fidelité dans l'éloge qu'on m'a fait de vostre esprit ?</p>
       </div>
-
-<div xml:id="MG-1684-03e_138">
+      
+      <div xml:id="MG-1684-03e_138">
         <head>MG-1684-03e_138</head>
         <bibl>Extraordinaire du Mercure galant, janvier 1684, p. 138-139</bibl>
         <p>Commentaire en vers sur l'amour dans Amadis</p>
@@ -238,6 +238,6 @@
         <p>Que n'estoit l'embarras de défendre mon coeur</p>
         <p>Des traits de ce charmant Vainqueur.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

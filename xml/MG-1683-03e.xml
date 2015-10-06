@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de mars 1683</title>
+        <title>Extraordinaire du Mercure Galant, Quartier de janvier 1683</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>mars 1683</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>janvier 1683</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-03e_207">
+      <div xml:id="MG-1683-03e_207">
         <head>MG-1683-03e_207</head>
         <bibl>Mercure Galant, quartier de janvier 1683, p.207-242</bibl>
         <p>DE L'ORIGINE DES CLOCHES ET DE LEUR ANTIQUITE</p>
@@ -137,6 +137,6 @@
         <p/>
         <p>RAULT, de Roüen.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

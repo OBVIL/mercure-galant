@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de décembre 1685</title>
+        <title>Extraordinaire du Mercure Galant, Quartier d’octobre 1685</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>décembre 1685</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier d’<date>octobre 1685</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-12e_003">
+      <div xml:id="MG-1685-12e_003">
         <head>MG-1685-12e_003</head>
         <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 3-11</bibl>
         <p>Paraphrase d'un Cantique pour le Roy</p>
@@ -222,8 +222,8 @@
         <p>Dans la gloire des Bienheureux</p>
         <p>Aille confondre sa durée.</p>
       </div>
-
-<div xml:id="MG-1685-12e_149">
+      
+      <div xml:id="MG-1685-12e_149">
         <head>MG-1685-12e_149</head>
         <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 149-160</bibl>
         <p>Sur le Psalme 136.</p>
@@ -427,8 +427,8 @@
         <p/>
         <p>RAULT, de Roüen</p>
       </div>
-
-<div xml:id="MG-1685-12e_252">
+      
+      <div xml:id="MG-1685-12e_252">
         <head>MG-1685-12e_252</head>
         <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 252-253, 260-261, 268-271</bibl>
         <p>[Histoire galante, « Defense de l'inconstance »]</p>
@@ -486,6 +486,6 @@
         <p>Mais il est un sot s'il le fait.</p>
         <p>[...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
