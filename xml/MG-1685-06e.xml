@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de juin 1685</title>
+        <title>Extraordinaire du Mercure Galant, Quartier d’avril 1685</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>juin 1685</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier d’<date>avril 1685</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-06e_102">
+      <div xml:id="MG-1685-06e_102">
         <head>MG-1685-06e_102</head>
         <bibl>Mercure Galant, Extraordinaire du quartier d'avril 1685, p. 102-104</bibl>
         <p>Suite du Traité de la Sépulture &amp; des Tombeaux, par Mr Rault de Roüen</p>
@@ -63,8 +63,8 @@
         <p>[...] Les Romains eurent leur temps limité pour regretter les morts ; car Numa ajoûta aux Sacrifices qu'il avoit établis, ceux que l'on devoit faire aux Dieux Manes. Il défendit de regretter aucun enfant au dessous de trois mois, &amp; ne jugea pas à propos qu'un plus âgé fust regretté plus de mois qu'il avoit vécu d'années. Pour les Personnes mariées, le terme estoit fixé à dix mois au plus. Mais si quelque Femme se remarioit avant ce temps, elle en estoit reprise, &amp; c'estoit une honte pour elle, selon le Code &amp; l'Ordonnance de ce Roy.</p>
         <p>Il n'en alla pas de mesme de cette Veuve de la Ville de Lyon, qui sans garder les temps prescrits par l'Ordonnance, épousa vingt trois Maris, &amp; dont le dernier l'ayant mise au Tombeau, fust couronné de Fleurs, ayant une brânche de Laurier en sa main, en marque de victoire &amp; de triomphe, &amp; accompagna le cercueil en cette maniere, avec la Jeunesse de la Ville, qui pour honorer les Funerailles y fit venir les Violons, &amp; les Hautbois, qui joüerent par concerts &amp; avec mélodie, comme si c'eust esté une nopce au lieu d'un convoy de mort. [...]</p>
       </div>
-
-<div xml:id="MG-1685-06e_268">
+      
+      <div xml:id="MG-1685-06e_268">
         <head>MG-1685-06e_268</head>
         <bibl>Mercure Galant, Extraordinaire du quartier d'avril 1685, p. 268-269</bibl>
         <p>Dialogue entre les Muses de l'Académie de Villefranche en Beaujolois &amp; Cupidon, sur le mariage d'un Académicien</p>
@@ -96,6 +96,6 @@
         <p/>
         <p>[...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

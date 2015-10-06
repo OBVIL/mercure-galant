@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de juin 1682</title>
+        <title>Extraordinaire du Mercure Galant, Quartier d’avril 1682</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>juin 1682</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier d’<date>avril 1682</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-06e_399">
+      <div xml:id="MG-1682-06e_399">
         <head>MG-1682-06e_399</head>
         <bibl>Mercure Galant, Extraordinaire d'avril 1682, p. 399</bibl>
         <p>QUESTIONS A DECIDER.</p>
         <p/>
         <p>On demande si le sentiment de Phinée dans l'Opéra de Persée, est d'un veritable Amant, lors qu'il dit qu'il aime mieux voir Andromede devorée par un Monstre, qu'entre les bras d'un Rival.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

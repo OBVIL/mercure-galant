@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier de septembre 1681</title>
+        <title>Extraordinaire du Mercure Galant, Quartier de juillet 1681</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>septembre 1681</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>juillet 1681</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1681-09e_008">
+      <div xml:id="MG-1681-09e_008">
         <head>MG-1681-09e_008</head>
         <bibl>Mercure Galant, Extraordinaire de juillet 1681, p. 8-9</bibl>
         <p>Comment l'Ame estant purement spirituelle, est touchée par la Musique, qui est une chose sensible.</p>
         <p/>
         <p>Cette Question seroit facile à décider, suivant les sentimens de ces Anciens, qui vouloient que l'Ame ne fust autre chose qu'une harmonie, &amp; que la vie ne durast qu'autant que les accords en estoient justes ; mais pour moy qui ne suis point Philosophe, &amp; qui ne possede que ce peu de lumiere que la Nature donne en naissant, je tiens que la Musique estant une chose spirituelle, quoy qu'elle nous paroisse purement sensible, puis que Dieu mesme s'y plaist, comme on peut voir par les Saintes Ecritures, qui nous ordonnent de le loüer par des Chants &amp; par des Instrumens harmonieux, à l'exemple des Anges, qui sont continuellement occupez à faire retentir ses loüanges dans le Ciel, nostre ame s'y laisse facilement transporter, &amp; s'accoûtume par avance icy-bas à ces doux ravissemens que luy cause la Musique, &amp; dont elle doit joüir un jour avec ces Esprits bienheureux.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
