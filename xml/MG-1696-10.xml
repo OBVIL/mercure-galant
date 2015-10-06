@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1696</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1696-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1696</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1696-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1696-10_091">
+        <head>MG-1696-10_091</head>
+        <bibl>Mercure galant, octobre 1696, p. 91-107</bibl>
+        <p>L'art de prononcer parfaitement la Langue Françoise.</p>
+        <p/>
+        <p>Il paroist depuis peu un Livre intitulé, L'art de prononcez parfaitement la Langue Françoise. Il se vend chez le Sieur d'Houry, ruë Saint Jacques, devant la Fontaine Saint Severin, au Saint Esprit. J'aurois beaucoup de choses à vous dire de ce Livre, mais un fort habile homme ayant écrit sur cet Ouvrage, je vous envoye sa Lettre, qui vous fera connoistre l'utilité que le Public en retirera.</p>
+        <p>Si l'impolitesse de ces importuns, dont vous me faites un si plaisant portrait, &amp; le long sejour qu'il faut que vous fassiez chez eux, Monsieur, vous fait regreter celuy de nostre Ville, &amp; si ce que vous dites est vray, que le souvenir de nos conversations passées fait presentement tout vôtre plaisir , je ne doute pas que le nouveau Livre que je vous envoye avec ceux que vous me demandez, ne vous donne beaucoup de satisfaction, &amp; que sa lecture ne vous dédommage de tout ce que vous souffrez dans le commerce de ces Précieux, qui parlent &amp; qui prononcent si mal une Langue que vous parlez si bien, &amp; que vous aimez préferablement à toutes celles que vous possedez ? Comme elle estoit le sujet le plus ordinaire de nos entretiens, &amp; que vous avez dû remarquer que je l'aimois autant que vous, &amp; que je ne souhaitois pas moins de la voir en degré de perfection, où nos derniers Auteurs l'auroient portée, sans doute, si le manque d'application de tous les Ecivains à l'une des choses la plus essentielle, pour en fixer l'usage, n'en eust retardé le progrés. Vous n'aurez pas de peine à deviner que c'est de la prononciation que j'entens parlez ; mais peut estre ne voudrez vous pas croire que mon nouvel Auteur n'ait rien laissé à dire sur ce sujet, &amp; qu'il ait entierement épuisé une matiere si épineuse, si delicate, &amp; si necessaire pour bien parler nostre Langue. Peut estre, dis je, que vous ne le croirez pas que vous n'ayez lû son Livre, qui est intitulé, L'art de prononcer parfaitement la Langue Françoise, lequel j'apprehende que vous ne receviez pas si-tost, parce que le paquet des Livres dans lequel j'ay mis celuy cy, n'ira pas à beaucoup prés si vite que ma Lettre. Ainsi pour satisfaire à l'impatiente curiosité que cette nouvelle vous donnera, &amp; pour m'épargner les reproches que vous ne manqueriez pas de me faire, si je ne vous expliquois pas autant au long que peut souffrir cette Lettre, le contenu de ce nouveau Traité, je vous diray en peu de mots que ce Livre, quoy que simple dans la maniere de l'intituler, ne laisse pas d'estre également utile &amp; aux François, &amp; aux Etrangers ; qu'il peut même estre d'un grand secours aux Avocats, aux Prédicateurs, &amp; à tous ceux qui parlent en Public, &amp; qui, quelques delicats qu'ils soient dans l'énonciation, ne le sont pas toujours autant dans la prononciation de nostre Langue. Pour estre qu'un Titre si resserré que celuy que luy donne son Auteur, le fera rebuter de quelques esprits superficiels, qui croyent que l'on apprend aussi facilement à bien prononcer une Langue qu'à boire &amp; à manger. Mais ils se trompent. C'est une erreur où l'on estoit au commencement de ce siecle, où quantité de gens croyoient avoir acquis l'art de bien parler, pourvû qu'ils fissent bien entendre ce qu'ils pensoient. C'est de quoy les esprits superieurs à ces derniers ne sont pas convenus, quand ils ont fait reflexion sur les Remarques que Mr de Vaugelas, Mr Ménage, le Pere Bouhours, &amp; quantité d'autres personnes polies &amp; sçavantes ont données au Public.  Ces Maistres de l'Art de parler ont fait assez connoitre la difference qu'il y a entre s'exprimer nettement, &amp; s'exprimer simplement pour se faire entendre. Cette difference est encore parfaitement bien prouvée par nostre Auteur, qui s'applique aussi à démontrer sensiblement la difference qu'il y a d'une prononciation reguliere &amp; polie, à celle qui est trop negligée &amp; trop affectée. Tout son Ouvrage est divisé en quatre parties. La premiere nous donne une définition précise de l'articulation, nous apprend ce que signifient les mots d'articuler &amp; d'articulation dans le sens propre &amp; dans le figuré ; nous fait connoistre que les anciens Grammairiens n'ayant point de mots propres pour signifier les mouvemens des organes de la voix, se sont servis des termes d'articuler &amp; d'articulation, qui sont des termes d'anatomie, pour signifier la jonction qui se fait d'un son avec un autre, par rapport à l'articulation qui se fait des membres du corps humain ; considerant ces sons &amp; ces mouvemens d'organes, commes autant d'articles &amp; de petits membres separez, qui font le corps d'une parole, quand on les joint ensemble pour la former ; il nous fait connoistre tous les mouvemens qui servent à l'articulation des sons simples &amp; composez, &amp; nous prouve enfin en quoy consiste la bonne articulation, ce qui regarde particulierement les Enfans François, les Etrangers, &amp; les personnes qui ont quelque indisposition dans les organes, qui les empêche de bien articuler. La seconde partie traite de la maniere de prononcer les trois sons differens de nos E, &amp; la maniere de les orthographier ; en sorte qu'à l'inspection des caractères qui les figurent sur le papier on en puisse connoistre parfaitement les sons. La troisiéme s'étend sur la prononciation des consones finales devant des mots commencez par des voyelles, soit qu'on parle en public, qu'on lise ou déclame des Vers, ou soit qu'on parle dans le discours familier, dont il fait une distinction toute particuliere, &amp; c'est une des essentielles parties de la premiere action, &amp; dans laquelle une quantité de gens de toute sorte d'ordre manquent, &amp; même des plus sçavans, &amp; qui se mêlent de parler en public.</p>
+        <p>Si nous nous restraignons au simple titre du Livre, il paroistra n'estre utile qu'aux Etrangers, mais dés que nous considererons toutes les remarques qu'il renferme, nous demeurerons d'accord qu'il nous est encore plus necessaire qu'aux autres, puis qu'il est plus pardonnable à un Etranger de ne pas prononcer nostre Langue dans la derniere regularité, qu'à un François, qui est de naissance &amp; de condition à devoir bien parler sa Langue. Voilà, Monsieur, quel est à peu près l'essentiel de ce Livre, qui d'ailleurs comprend tout ce que l'on peut dire sur la prononciation. L'on ne doit pas s'imaginer que l'Auteur, pour arriver à la fin qu'il s'est proposée, se soit fait un modele de préceptes imaginaires &amp; inusitez, ny qu'il se soit fait des monstres pour les combattre, comme disent quantité de gens remplis d'eux-mêmes, parce que l'Auteur cite des prononciations, qu'ils n'ont, disent-ils, jamais oüies que dans la bouche de la populace, quoy qu'il y en ait quantité parmy eux, qui sont sujets à faire les mêmes fautes. Ce n'est pas aux gens de la lie du peuple qu'il s'adresse ; c'est aux gens les plus sçavans &amp; les plus polis, &amp; qui se mêlent d'écrire &amp; de parler en public, à qui plusieurs fautes échapent, pour n'y pas faire de reflexion, &amp; quelque-fois manque de sçavoir le bon usage. Il l'établit sur celuy de la Cour, &amp; de la plus saine partie des gens polis &amp; sçavans, qui sont nez &amp; élevez à Paris. C'est de cet usage qu'il a recueilli toutes les voix, &amp; dont il a tiré toutes ses remarques. C'est par le commerce qu'il a sceu entretenir avec des gens sçavans &amp; polis, qu'il a acquis toutes ces manieres fines &amp; deliées de prononcer sa Langue ; &amp; c'est encore plus par la connoissance des Langues étrangeres, tant mortes que vivantes, &amp; particulierement par la difference de la leur avec celle de la Françoise, qu'il est parvenu à nous en prescrire la juste &amp; parfaite prononciation. Enfin ce Livre me paroist si complet dans son genre, que je ne crois pas qu'on puisse aisément s'en passer, si l'on veut bien parler nostre Langue ; &amp; ce qui me le fait croire, est que l'on ne peut ordinairement parvenir à ces manieres de prononcer avec justesse, que par deux moyens, qui sont aussi peu certains, qu'il nous font faire bien du chemin. L'un est qu'en refléchissant de soy même sur nostre prononciation, on pourroit rencontrer par hazard, &amp; par une succession de plusieurs années ce que ce Traité nous démontre si certainement, &amp; en bien peu de temps ; &amp; l'autre ne se peut acquerir que par la reflexion, que des Amis prévenus, &amp; qui croiroient parfaitement bien parler, nous feroient faire sur nostre Langue : en quoy nous nous trompons aussi bien qu'eux ; ce que l'on ne fait point en s'instruisant dans ce Livre, puis qu'il est entierement conforme au meilleur usage, qui est celuy du Prince, &amp; de la plus saine partie des gens qui l'environnent, &amp; qui est suivie de tous ceux du Royaume qui parlent le plus regulierement &amp; le plus poliment. Je suis.</p>
+      </div>
+
+<div xml:id="MG-1696-10_148">
+        <head>MG-1696-10_148</head>
+        <bibl>Mercure galant, octobre 1696, p. 148-152</bibl>
+        <p>Réjouissances faites pour la Paix de Savoye.</p>
+        <p/>
+        <p>Je ne vous parle point des réjoüissances qui se sont faites dans toutes les Villes de France ; ma Lettre seroit trop remplie de repetitions. Je me contenteray de vous dire ce qui s'est fait à cette occasion dans la Ville de Mante, afin que par ce qui s'est passé dans une Ville, qui n'est pas du premier rang, vous jugiez de la joye qui a éclaté dans toutes les autres, &amp; de la dépense ingenieuse qui s'y est faite.</p>
+        <p>On y avoit representé sur un Theatre de seize pieds en quarré, Mercure avec des ailes aux pieds, &amp; un caducée dans sa main droite, autour duquel on avoit écrit ce Vers,</p>
+        <p>On vient à bout de tout lors que l'Amour s'en mesle.</p>
+        <p>De sa main gauche pendoient les Armes de France &amp; de Savoye accolées ensemble, &amp; au dessus, Sic juncta foedere pacis. A la face du Theatre estoit un grand Tableau, contenant cet Emblême, avec ces paroles pour inscription, La vangeance desarmée par l'Amour. Cet Emblême representoit un grosse nuë en forme d'orage, &amp; Jupiter dessus, le visage en colere, son tonnerre sous ses pieds, &amp; ses foudres à la main, prest à lancer sur une grande &amp; vaste plaine, ornée de Chasteaux, Villes maisons, arbres, fruits, fleurs &amp; verdure. Au dessus de cette Ville paroissoit l'Amour s'élançant &amp; fendant les airs, pour aller à la rencontre de Jupiter, avec le Portrait de la jeune Princesse de Savoye, soutenu d'un ruban couleur de feu. Ces Vers estoient écrits au dessus.</p>
+        <p/>
+        <p>A voir Jupiter en colere,</p>
+        <p>Le bras levé, le foudre en main,</p>
+        <p>Qui n'auroit pas cru que demain</p>
+        <p>Ces lieux ne seroient plus que cendre, que poussiere ?</p>
+        <p>Mais pour fléchir un Dieu justement irrité,</p>
+        <p>Admirez le pouvoir d'une jeune Beauté,</p>
+        <p>Et quel est l'effet de ses charmes.</p>
+        <p>Jupiter s'adoucit en voyant tant d'attraits,</p>
+        <p>Et l'Amour l'obligeant de mettre bas les armes,</p>
+        <p>En faveur de l'Himen luy fait donner la Paix.</p>
+        <p/>
+        <p>Le Feu d'artifice fut executé avec l'admiration de toute la Ville, par les soins du Sieur Quillet, Ingenieur. Aprés que le Te Deum eut esté chanté dans l'Eglise Collegiale, par la Musique, en presence de Mrs les Maire &amp; Echevins, &amp; de tous les Corps de la Ville, Mr le Duc de Sully &amp; Me la Duchesse, son Epouse, prirent part à cette réjoüissance publique.</p>
+      </div>
+
+<div xml:id="MG-1696-10_176">
+        <head>MG-1696-10_176</head>
+        <bibl>Mercure galant, octobre 1696, p. 176-179</bibl>
+        <p>Histoire.</p>
+        <p>[...] Un jour [qu'un cavalier] rendit visite à une Dame qu'il voyoit de temps en temps, il trouva chez elle une fort jolie personne, que l'on pria de chanter, &amp; qui s'en acquitta avec une grace qui charma tout ceux qui l'entendirent. Il s'approcha d'elle pour luy applaudir sur un si heureux talent, &amp; estant entré en une conversation particuliere, avec cette aimable Fille, il luy trouva autant d'esprit que de politesse, &amp; un agrément dans ses manieres, qui luy fit connoistre que l'on avoit pris grand soin de son education. Elle estoit née Demoiselle, mais sous une Etoile aussi malheureuse que celle du Cavalier, beaucoup de merite &amp; fort peu de bien. Sa Mere luy avoit toujours donné d'utiles leçons pour sa conduite, &amp; elles vivoient ensemble dans une union qui faisoit plaisir. Le Cavalier fut informé de toutes ces choses, &amp; comme il aimoit passionment [sic] la Musique, chantant luy-mesme assez agreablement, il ne se put empescher quelques jours aprés d'aller chez la Belle, où il fut reçû avec l'accuëil obligeant qu'il trouvoit par tout. La Mere &amp; la Fille luy parurent deux personnes admirables, &amp; s'il fut charmé de leurs manieres aussi nobles que polies, il leur donna lieu de dire que le Portrait qu'on faisoit de luy, ne le flattoit point, &amp; qu'il estoit parfaitement digne de la reputation qu'il s'estoit acquise. Il chanta quelques Airs avec la Belle qui accompagnoit du Clavessin ; elle en joüoit avec beaucoup de delicatesse, &amp; elle n'ignoroit rien de ce qu'une Fille de naissance doit sçavoir, quand elle veut s'attirer quelque distinction dans le monde. [...]</p>
+      </div>
+
+<div xml:id="MG-1696-10_203">
+        <head>MG-1696-10_203</head>
+        <bibl>Mercure galant, octobre 1696, p. 203-210</bibl>
+        <p>Lettre en Prose &amp; en Vers sur une Feste donnée par les Chevaliers de l'Arquebuse d'Epernay.</p>
+        <p/>
+        <p>Je vous envoye une Lettre mêlée de Prose &amp; de Vers, que vous vous trouverez tres-agreable.</p>
+        <p/>
+        <p>J'ay receu, Monsieur, avec plaisir le détail que vous m'avez fait de tous les feux de joye qu'on a allumez à Paris, en réjoüissance de la Paix de Savoye, &amp; je suis persuadé que vous recevrez de même la Relation que je vous envoye, d'une feste que Mrs les Chevaliers de l'arquebuse ont faite à Epernay, sur le même sujet. Vous sçavez que cette illustre Compagnie, où j'ay l'honneur d'avoir une place, est composée de la meilleure Noblesse, &amp; des premiers Officiers de la Ville : Ainsi vous ne doutez pas que nous ne nous soyons animez à l'envy à marquer nostre zéle pour la gloire de nostre invincible Monarque.</p>
+        <p/>
+        <p>Au seul récit de son grand nom</p>
+        <p>Je me sens excité des transports d'Appollon,</p>
+        <p>Pour mieux raconter cette Histoire,</p>
+        <p>Où l'on verra l'effet des travaux de Louis,</p>
+        <p>Venez à mon secours, vous Filles de Memoire,</p>
+        <p>Qui rendez éternels ses exploits inoüis.</p>
+        <p/>
+        <p>Mais où m'emporte mon ardeur ? je prens un ton trop haut, &amp; j'ay peur de n'avoir pas assez d'haleine pour le soûtenir ; il faut ménager ma voix. Je vous diray donc plus simplement, Monsieur, que nostre Feste commença le 30. Septembre, par six Prix qui furent tirez en presence des plus honnestes gens de la Ville, invitez à cette ceremonie.</p>
+        <p/>
+        <p>Chacun tira là de son mieux,</p>
+        <p>Moins pour les prix que pour la gloire</p>
+        <p>De remporter une victoire,</p>
+        <p>Et je fus des victorieux.</p>
+        <p/>
+        <p>Il faut que la Gloire ait bien des charmes, puisque je ne puis m'empescher de vous faire un tel aveu. Pardonnez le moy ; il vient moins en pareille occasion d'un exces de vanité, que d'un transport de joye. Aprés cet exercice, nous allâmes tous en bon ordre au bruit des Tambours &amp; des Hautbois, devant nôstre Hostel allumer un Feu d'Artifice qui y estoit preparé, &amp; qui fit un effet admirable.</p>
+        <p/>
+        <p>Lors que le feu prenoit au bois</p>
+        <p>Le Peuple assemblé dans les ruës</p>
+        <p>Faisoit retentir jusqu'aux nuës</p>
+        <p>Le nom du plus puissant des Rois :</p>
+        <p>A peine au bruit de tant de voix,</p>
+        <p>Nos armes estoient entenduës.</p>
+        <p/>
+        <p>La Feste n'auroit pas esté complette si les Dames n'y avoient pas esté invitées. Dans nostre Hostel qui estoit illuminé de toutes parts, nous leur donnâmes un Bal, qui fut suiviy d'une magnifique collation.</p>
+        <p/>
+        <p>Brillantes à l'envy de mille attraits divers,</p>
+        <p>Elles disoient dans leurs transport de joye,</p>
+        <p>Louis fait la Paix de Savoye,</p>
+        <p>Il conclura bientost celle de l'Univers,</p>
+        <p>Que n'avons nous part à sa gloire !</p>
+        <p>Que nous sommes à plaindre, helas !</p>
+        <p>De ne pouvoir le suivre où la Victoire</p>
+        <p>Accompagne toûjours ses pas.</p>
+        <p>C'est luy qui nous assemble en ce fameux repas,</p>
+        <p>A sa santé nous devons boire,</p>
+        <p>Il ne s'en offensera pas ;</p>
+        <p>Buveurs, si vous voulez nous croire,</p>
+        <p>Vous mettrez tous vos vins au bas.</p>
+        <p/>
+        <p>Rien n'estoit plus capable de nous animer à la bonne chere. Je vous assure aussi que chacun s'acquitta parfaitement bien de son devoir, &amp; que pour une Paix particuliere, il y eut bien des cartaux de bus.</p>
+        <p/>
+        <p>Malgré la vendange frugale,</p>
+        <p>Quand nôtre invincible Louis</p>
+        <p>Conclura la Paix generale,</p>
+        <p>Combien nous vuiderons de muids !</p>
+        <p/>
+        <p>La Collation finie, chacun se retira au bruit de nos boëtes &amp; de nos arquebuses, qui n'avoient point cessé de tirer pendant toute le temps que nous restâmes dans nôtre Hostel. Voilà comment se passa nôtre Feste. Voyez si nôtre Compagnie ne s'est pas bien distinguée par ces differentes réjoüissances, &amp; si vous ne serez pas bien aise de l'apprendre. Je suis, Monsieur,</p>
+        <p/>
+        <p>Vostre tres-humble &amp;  tres-obeissant Serviteur,</p>
+        <p>DU ROCHERET</p>
+      </div>
+
+<div xml:id="MG-1696-10_320">
+        <head>MG-1696-10_320</head>
+        <bibl>Mercure galant, octobre 1696, p. 320-324</bibl>
+        <p>Arrivée de Madame la Princesse de Savoye au Pont Beauvoisin, avec un détail de tout ce qui s'est passé à sa reception &amp; son entrée à Lyon.</p>
+        <p/>
+        <p>[...] Les ruës de la Ville [de Lyon], par où [la princesse] passa, estoient bordées par dix-huit cens jeunes hommes, tous d'une mesme taille, &amp; magnifiquement vétus. On avoit choisi dans tous les quartiers de la Ville, la jeunesse la mieux faite, &amp; qui estoit le plus en estat de faire de la dépense. Mrs les Prevost des Marchands &amp; Echevins firent leur compliment à la Princesse, entre les deux Portes. Mr le Marquis de Canaple qui commande dans la Ville, la reçut à la porte de la maison de Mr de Mascarany, qui luy avoit esté preparée comme la plus belle de la Ville. Ce Logis a toûjours été gardé par la Compagnie franche de Souternon, les Arquebusiers, &amp; les Gardes du Corps du Roy. Le lendemain 19. la Princesse alla à la Messe à l'Eglise de S. Jean : Elle fut reçuë à la Porte par Mrs les Comtes de Lyon, &amp; complimentée par Mr le Doyen : Elle estoit accompagnée de Mr le Comte de Brionne, de Mr  le Marquis de Dangeau, &amp; de toutes les Dames. La Messe fut chantée en Musique, quoy que ces Chanoines ne chantent jamais que le Plein-Chant. Cette Princesse alla l'aprés-dînée aux Jesuites. Elle entra dans leur maison &amp; vit leur Bibliotheque. Elle permit aux Peres Celestins, de faire tirer le soir, dans leur jardin, un tres-beau feu d'artifice, qui fut accompagné de quantité de boëtes. Tout leur Convent estoit illuminé, aussi bien leur clocher, qui estoit remply de Trompettes.</p>
+        <p>Cette Princesse alla le 20. à la Messe dans leur Eglise, où elle fut receuë avec beaucoup de zele, &amp; l'on peut dire avec magnificence, ce Convent ayant esté fondé par un Duc de Savoye. Le mesme jour Elle alla aux Dames de Saint Pierre, &amp; aux Carmelites, où le Peuple la suivit, ainsi qu'il avoit fait les jours précedens. Elle se fit voir de temps en temps pour contenter sa curiosité. Pendant tout le temps qu'elle a demeuré à Lyon, toute la Place de Belle-cour, &amp; toutes les avenuës ont esté éclairées toutes les nuits par un nombre infini de lanternes. Cette Princesse a toujours mangé seule, &amp; tous les Instrumens de l'Opera, qui est établi à Lyon, se sont fait entendre pendant tous ses repas. Elle partit le Dimanche 21. &amp; la joye cessa dans la Ville de Lyon. La Bourgeoisie se mit encore sous les armes, &amp; luy donna mille benedictions à son départ, en l'appellant Princesse de la Paix.</p>
+      </div>
+</body>
+  </text>
+</TEI>

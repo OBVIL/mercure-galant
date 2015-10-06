@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-02_001">
+        <head>MG-1691-02_001</head>
+        <bibl>Mercure galant, février 1691, p. 1-14</bibl>
+        <p>CATALOGUE DES LIVRES nouveaux qui se débitent chez le sieur Guerout, Galerie-neuve du Palais.</p>
+        <p>[...]</p>
+        <p/>
+        <p>Airs Serieux &amp; Bachiques à deux &amp; à trois Parties, meslez de Simphonies &amp; en Trio pour les Violons &amp; les Flûtes avec des accompagnemens dans tous les recits, le tout fait exprés, pour concerter tout un Livre de suite en quatre Parties. 	3 l.</p>
+        <p>Divers Ouvrages en Musique de M. de Bacilly.</p>
+      </div>
+
+<div xml:id="MG-1691-02_007">
+        <head>MG-1691-02_007</head>
+        <bibl>Mercure galant, février 1691, p. 7-32</bibl>
+        <p>Article curieux concernant un ancien Temple de Nismes.</p>
+        <p/>
+        <p>Vous avez connu, Madame, par plusieurs Articles de mes Lettres, que depuis le Regne de LOUIS LE GRAND, il ne s'est presque point bâti ou rétabli d'Eglise neuve, que ce Monarque ne se soit fait une gloire d'y contribuer ? Vous allez voir encore un effet de cette pieuse magnificence dans ce que je vais vous dire d'une Eglise de Nismes, que l'on a benite le mois passé. Celuy qui en a dressé l'Article, a raison de dire qu'il est pour les personnes devotes, &amp; pour ceux qui aiment l'antiquité, puiqu'il y a de quoy, contenter la pieté des uns, &amp; la curiosité des autres. C'est Mr Paulian, [...]. Voicy en quels termes il en parle.</p>
+        <p>On benit à Nismes le 26. Janvier une Eglise, qui ayant esté autrefois un Temple des Payens, a esté converty en une Maison sainte, consacrée à Jesus-Christ sous le nom de Roy des Rois. L'ancien Temple fut appellé par les Anciens eux-mesmes la Basilique de Plotine. [...] &amp; aujourd'hui cet édifice n'est connu parmy le vulgaire que par sa forme, &amp; s'appelle la Maison quarrée. [...] La consecration en fut faite par Mr l'Evesque de Nismes. [...] M. de Baville assista à cette Ceremonie avec tout ce qu'il y a dans Nismes de personnes distinguées. Il est certain, que lors que la Musique, qui estoit fort bonne, entonna ce Divin Cantique, Cantate Domino canticum novum : Chantez au Seigneur un Cantique nouveau, elle fit retentir la voûte de cette maison sanctifiée avec une si aimable surprise, que le coeur ne pût refuser ses tendresses, en une occasion où l'on voyoit consacrer à Jesus-Christ le Palais de sa demeure par des chants sacrez, ausquels les Anges toujours prests à loüer leur Createur joignent leur voix dans le sejour de la gloire ; &amp; de cette maniere on vit reparer l'impieté de tant d'Himnes profanes, qu'on chanta, selon le temoignage de l'Antiquité, dans cette Basilique, lors qu'elle fut consacrée à la memoire de Plotine. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-02_241">
+        <head>MG-1691-02_241</head>
+        <bibl>Mercure galant, février 1691, p. 241-244</bibl>
+        <p>Tiridate, Tragedie nouvelle.</p>
+        <p/>
+        <p>Quoy qu'un grand nombre d'excellentes Pieces de Theatre que nous ont laissées d'illustres Auteurs, soient d'avantageux modelles pour ceux qui veulent travailler avec succés à ces sortes d'ouvrages, tous les sujets sont tellement épuisez, qu'il est difficile d'en faire aujourd'huy qui ayent quelque chose d'assez nouveau pour attacher l'auditeur. Malgré ces difficultez, Mr de Capistron vient de noues donner une Tragedie dont tout Paris est charmé. Elle est intitulée Tiridate, &amp; faire avec tant d'esprit &amp; un si grand art, qu'il a trouvé les moyens de faire naistre de la compassion pour un Prince, dont l'amour doit faire horreur. Tous ses sentimens qui sont pathetiques &amp; d'honneste homme, font qu'on se trouve forcé de le plaindre, lors qu'il parle d'une passion qu'il ressent avec une extrême violence, &amp; qu'il se plaist à nourrir dans le mesme temps qu'il la condamne. Les situations où ce malheureux Amant se trouve, ont je ne sçay quoy de si touchant, qu'il est impossible de de ne pas entrer dans ses interests. Les nombreuses assemblées qui se trouvent aux représentations de cette Piece sont une marque du plaisir que l'on y prend. Le jeu des Acteurs en donne un nouveau. Sur tout, Mr le Baron y soutient son rôle d'une maniere si aisée &amp; si naturelle, &amp; avec un art qui sent si peu l'art, qu'il est admiré des plus difficiles.</p>
+      </div>
+
+<div xml:id="MG-1691-02_293">
+        <head>MG-1691-02_293</head>
+        <bibl>Mercure galant, février 1691, p. 293-294</bibl>
+        <p>ENIGME.</p>
+        <p/>
+        <p>Si j'ay quelque agrément, ce n'est point par ma graisse,</p>
+        <p>Je suis fort maigre, &amp; prens peu d'aliment,</p>
+        <p>Celuy qui me le donne en reçoit largement,</p>
+        <p>Mais sans m'oüir gronder, jamais il ne m'en laisse.</p>
+        <p>Aussi mon foible corps de moment en moment</p>
+        <p>Est agité par quelque tremblement,</p>
+        <p>Et si je me trouvois par malheur a la presse,</p>
+        <p>Mon ame quitteroit bien-tost son logement.</p>
+        <p>Cependant je me donne aux plaisirs de la vie,</p>
+        <p>Ceux de l'Amour sont souvent mon employ,</p>
+        <p>Et quand je fais quelque partie</p>
+        <p>Pour d'autres passetemps, je me fais une loy</p>
+        <p>De triompher de la melancolie,</p>
+        <p>Et de bien divertir ceux qui sont avec moy.</p>
+        <p>Estant ainsi dabs la réjouissance,</p>
+        <p>Je rens le sommeil sans puissace</p>
+        <p>Et pase gayement la nuit.</p>
+        <p>Le jour tout habillé je repose à merveille,</p>
+        <p>Et dans ce temps, si quelqu'un me réveille,</p>
+        <p>J'en faits assurement du bruit.</p>
+      </div>
+</body>
+  </text>
+</TEI>

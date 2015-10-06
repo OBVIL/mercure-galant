@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin, première partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-06a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, juin, première partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-06a_119">
+        <head>MG-1688-06a_119</head>
+        <bibl>Mercure galant, juin 1688, p. 119-124</bibl>
+        <p>Etats de Bourgogne tenus à Dijon.</p>
+        <p/>
+        <p>Les Etats de Bourgogne se sont tenus à Dijon le mois passé. Monsieur le Prince, Gouverneur de la Province, y estant arrivé le 13. fut receu dans cette Ville au bruit de tout le Canon. Le mesme jour il fut harangué par les Eleus des Etats Generaux. Mr l'Abbé de Langeron, qui est celuy de l'Eglise, luy fit un Discours fort court, mais aussi poly qu'il estoit serré. [...] Le lendemain les Deputez des Compagnies Superieures vinrent faire compliment à son Altesse Serenissime. [...] Le 15. l'ouverture des Etats se fit. Monsieur le Prince partit du Logis du Roy à dix heures précises pour se rendre chez les Peres Cordeliers où ils se tiennent, en attendant que la Chambre de Mrs les Eleus que l'on bastit actuellement, soit achevée. [...] Monsieur le Prince estant arrivé aux Cordeliers, fut complimenté par le Gardien, &amp; il ne se fut pas plûtost placé dans l'Eglise, que l'on commença la Messe du Saint Esprit. Elle fut chantée solemnellement, &amp; lors qu'elle fut finie la Compagnie se rendit à la Salle destinée pour cette ceremonie qui se fait tous les trois ans. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-06a_127">
+        <head>MG-1688-06a_127</head>
+        <bibl>Mercure galant, juin 1688, p. 127-128</bibl>
+        <p>Ouverture du Prix du Jeu de l'Arquebuse dans la mesme Ville [Dijon].</p>
+        <p/>
+        <p>Le 16. [mai] Monsieur le Prince fit l'ouverture du Prix du Jeu de l'Arquebuse, au son des Violons &amp; des Hautbois, &amp; au bruit des Timbales &amp; des Trompetes, par deux coups qu'il tira, &amp; qui donnerent assez prés du noir, pour faire voir qu'il auroit pû ensuite remporter le Prix, s'il ne s'estoit contenté de donner cette marque de son adresse en faisant honneur aux Chevaliers. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

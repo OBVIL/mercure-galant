@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1697</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1697-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1697</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1697-03_164">
+        <head>MG-1697-03_164</head>
+        <bibl>Mercure galant, mars 1697, p. 164-167</bibl>
+        <p>Airs de Mr de Gilliers.</p>
+        <p/>
+        <p>Mr Gillier, Ordinaire de la Musique de Monsieur, s'est enfin déterminé à donner ses Ouvrages au public, qui les souhaite depuis long-temps. Il a commencé par un Livre d'Airs &amp; de Simphonies avec les Basses continuës, qu'il a fait graver tres proprement, &amp; qu'il a dédié à Monsieur le Duc de Chartres. Il a pris soin d'y marquer les agrémens, &amp; il a disposé les pieces de maniere à pouvoir en faire commodement de petits Concerts de chambre. Ce recueil se vend chez l'Auteur, ruë de Berry au Marais, prés le petit Marché, &amp; chez le Sieur Foucaut, Marchand, ruë Saint Honoré, à la Regle d'or, prés le Cimetiere de Saint Innocent. Il sera suivi d'autres Recueils de differens caracteres, comme Motets, Leçons de Tenebres, Concerts détachez, &amp; Airs à boire, à voix seule &amp; à deux &amp; trois parties, mélez de simphonies. Le nom de Mr Gillier fait son éloge. On sçait combien il excelle en son art par l'harmonie &amp; la modulation naturelle de ses chants, par les accompagnements expressifs &amp; recherchez, &amp; par la belle metode, qui imite d'aussi prés qu'il se peut, celle de l'incomparable Lambert, sous lequel il a esté élevé Page de la Musique de la Chambre du Roy.</p>
+      </div>
+
+<div xml:id="MG-1697-03_176">
+        <head>MG-1697-03_176</head>
+        <bibl>Mercure galant, mars 1697, p. 176-179</bibl>
+        <p>Voicy des Vers qui ont esté mis en air par un habile homme. Ils sont de Mr Dader de Toulouse, &amp; ils ont esté faits sur l'arrivée de Madame la Princesse de Savoye en France. Je vous envoye un quatrain noté, qui vous servira à chanter les autres.</p>
+        <p/>
+        <p>CRIS D'ALLEGRESSE</p>
+        <p>D'un Berger du rivage</p>
+        <p>De la Seine.</p>
+        <p/>
+        <p>EN quittant la Savoye</p>
+        <p>Pour nous donner des Loix,</p>
+        <p>Vous allumez la joye</p>
+        <p>Dans le coeur des François.</p>
+        <p>*</p>
+        <p>Vostre auguste presence</p>
+        <p>Qui remplit nos desirs,</p>
+        <p>Redouble de la France</p>
+        <p>Les jeux &amp; les Plaisirs.</p>
+        <p>*</p>
+        <p>LOUIS &amp; vostre Pere</p>
+        <p>Avec nostre Dauphin,</p>
+        <p>Sont charmez du mistere</p>
+        <p>Qu'accomplit le destin.</p>
+        <p>*</p>
+        <p>Le Prince qu'on vous donne</p>
+        <p>Ne vous promet pas moins</p>
+        <p>Qu'une riche Couronne,</p>
+        <p>Pour payer tous vos soins.</p>
+        <p>*</p>
+        <p>Son coeur, comme le vostre,</p>
+        <p>Est rempli de vertus ;</p>
+        <p>Ils sont faits l'un pour l'autre,</p>
+        <p>Et du Ciel reconnus.</p>
+        <p>*</p>
+        <p>La Pais ensevelie</p>
+        <p>Dans son banissement,</p>
+        <p>Est enfin rétablie</p>
+        <p>Par vostre Himen charmant.</p>
+        <p>*</p>
+        <p>A vostre Mariage</p>
+        <p>L'on en doit les douceurs ;</p>
+        <p>Achevez ces Ouvrages</p>
+        <p>Au gré de tous nos coeurs,</p>
+        <p>*</p>
+        <p>Ma fluste est toute preste.</p>
+        <p>Mes petits chalumeaux</p>
+        <p>Reservent pour la Feste</p>
+        <p>Leurs concerts les plus beaux.</p>
+        <p>*</p>
+        <p>L'on m'entendra sans cesse</p>
+        <p>Chanter avec ardeur</p>
+        <p>La Prince &amp; la Princesse</p>
+        <p>Qui font nostre bonheur.</p>
+        <p>*</p>
+        <p>Sur le bord de la Seine,</p>
+        <p>Pour me faire écouter,</p>
+        <p>Quand j'auray pris haleine,</p>
+        <p>Je m'en vais concerter.</p>
+      </div>
+
+<div xml:id="MG-1697-03_188">
+        <head>MG-1697-03_188</head>
+        <bibl>Mercure galant, mars 1697, p. 188-209</bibl>
+        <p>Histoire.</p>
+        <p/>
+        <p>De quoy n'est-on point capable quand on aime veritablement ? Une jeune Demoiselle, plus touchante par les agrémens de sa personne, que par l'exacte regularité de ses traits, mais vive, &amp; d'un enjouëment qui faisoit plaisir à tout le monde, estoit recherchée dans tout son quartier, &amp; les societez les plus agreables paroissoient manquer de quelque chose quand on ne l'y voyoit pas. Elle avoit beaucoup de grace à toucher le Clavessin ; elle chantoit avec assez de metode, &amp; la penetration de son esprit qu'on ne pouvoit assez admirer, faisoit que la conversation ne languissoit jamais avec elle. [...] On luy apprit quelques airs nouveaux qui estoient fort à la mode. Elle les chantoit avec plaisir aussitost qu'on l'en prioit, &amp; en les chantant elle faisoit voir les plus belles dents de monde &amp; les mieux rangées. Si l'on applaudissoit à sa voix, on se récrioit  sur la beauté de ses dents, &amp; les loüanges qu'elle recevoit de ce côté là, luy estoient fort agreables. [...]</p>
+      </div>
+
+<div xml:id="MG-1697-03_221">
+        <head>MG-1697-03_221</head>
+        <bibl>Mercure galant, mars 1697, p. 221-223</bibl>
+        <p>Mr Morant, premier President du Parlement de Toulouse, y arriva vers les derniers jours de Janvier. Quoy qu'on ne fasse à ces premiers Magistrats qu'une entrée de devoir la premiere fois qu'ils viennent prendre possession de leurs Charges, on luy en fit une d'inclination à ce dernier retour de Paris. Toutes les personnes de distinction allérent au-devant de luy avec leurs carrosses ou à cheval. Le Peuple y accourut en foule. Des Compagnies Bourgeoises se mirent sous les armes, avec des tambours, fiffres, &amp; haut-bois, &amp; lors qu'il entra ce furent des cris de joye de tout le Peuple. Comme il estoit tard, on mit des flambeaux aux fenestres, pour mieux marquer le plaisir que l'on se faisoit de son retour dans toute la Ville.</p>
+      </div>
+</body>
+  </text>
+</TEI>

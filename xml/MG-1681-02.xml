@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-02_079">
+        <head>MG-1681-02_079</head>
+        <bibl>Mercure Galant, février 1681, p. 79-84</bibl>
+        <p>Réjoüissances faites à Grenoble apres le Serment presté par M. de Virieu pour la Charge de Premier Président du Parlement de la mesme Ville.</p>
+        <p/>
+        <p>Vous avez appris par quelqu'une de mes Lettres la Reception de Mr le Marquis de Saint André Virieu, en la charge de Premier Président au Parlement de Grenoble. Il en est venu prester le Serment entre les mains de Sa Majesté, dont il a esté reçeu avec tous les témoignages d'estime qu'il pouvoit attendre de ce grand Monarque. [...] Il partit de Grenoble au temps des Vacations d'Octobre, &amp; y retourna pour la premiere Audience de l'ouverture des Roys. [...] Aussi tous les Ordres coururent chez luy en foule, pour luy faire compliment à son retour. [...] Le soir il y eut des détachemens d'un certain nombre de Mousquetaires de toutes les Compagnies. Ils furent rangez dans la grande Court des Peres Dominicains, par les soins de Mr le Clair qui fait la fonction d'Ayde-Major, &amp; qui joignit aux Détachemens dont je vous parle une fort agreable Symphonie de Hautbois, Violons, Musetes, &amp; autres Instrumens. Tout cela marcha avec une partie des Officiers à la lueur d'un grand nombre de Flambeaux, &amp; alla occuper la Ruë de l'Apartement de Mr de S. André, où les Salves &amp; la Symphonie firent un effet merveilleux. Voilà, Madame, quelles ont esté les Réjoüissances de la Ville de Grenoble pour le retour de son Magistrat. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-02_131">
+        <head>MG-1681-02_131</head>
+        <bibl>Mercure Galant, février 1681, p. 131-167</bibl>
+        <p>« Je viens à un Article de divertissement. Mr Malo, &amp; quelques-uns de ses Amis qui ont passion pour la Musique, ne voulant rien épargner pour se donner ce plaisir, ont fait toute la dépense qui pouvoit estre necessaire pour méler d'agreables Intermedes de Chants, &amp; de Dances, à l'Amphitrion du fameux Moliere. Cette Comédie a esté représentée plusieurs fois ce Carnaval, sur un fort galant Theatre dressé chez Mr Malo, en présence d'un fort grand nombre de Personnes de qualité invitées à ce Spectacle. Les Acteurs estoient des Particuliers, qui se sont tous acquitez admirablement de leurs rôles. La Musique des Intermedes qui ont divisé les Actes, est de Mr Lalloüete, Eléve de Mr Lully. C'est assez dire pour répondre de sa bonté. Voicy en quoy consistent les Ornemens qu'on a prestez à la Piece. L'ouverture du Theatre se fait par la Seine, qui commence le Prologue. Elle est suivie de ses Nymphes, deux desquelles chantent ces Vers.</p>
+        <p/>
+        <p>Sortons, sortons de nos Grotes profondes,</p>
+        <p>Ce jour pour nous est un jour glorieux ;</p>
+        <p>Le Dieu qui régne sur ces Ondes,</p>
+        <p>Doit bientost paroistre en ces lieux.</p>
+        <p/>
+        <p>La Seine répond.</p>
+        <p>Qu'à seconder mes soins vostre zele s'empresse.</p>
+        <p>Que vostre heureuse adresse</p>
+        <p>Donne à vos yeux un nouvel agrément ;</p>
+        <p>Qu'en vos chants, qu'aux transports d'une pleine allegresse,</p>
+        <p>Eclate le bonheur d'un sejour si charmant.</p>
+        <p/>
+        <p>Apres que le Choeur des Nymphes a répeté ces deux derniers Vers, &amp; qu'elles ont toutes exprimé leur joye par leurs Dances, deux d'entr'elles chantent ce qui suit.</p>
+        <p/>
+        <p>On dit qu'il faut aimer les peines</p>
+        <p>Que l'Amour mesle à ses douceurs.</p>
+        <p>Laissons ces Biens trompeurs</p>
+        <p>A qui veut porter des Chaînes,</p>
+        <p>Laissons ces Biens trompeurs</p>
+        <p>A qui veut verser des pleurs.</p>
+        <p/>
+        <p>La peur d'une Chaîne cruelle</p>
+        <p>Ne me fait point craindre sa Loy ;</p>
+        <p>Mais il n'est plus de foy,</p>
+        <p>On rougit d'estre fidelle ;</p>
+        <p>Mais il n'est plus de foy,</p>
+        <p>Il vaut mieux n'aimer que soy.</p>
+        <p/>
+        <p>Neptune paroist suivy des Tritons. La Seine va au devant de ce Dieu avec ses Nymphes, &amp; tous ensemble, ils font cette Scene.</p>
+        <p/>
+        <p>LA SEINE.</p>
+        <p>Quelle faveur pour ces heureux Climats !</p>
+        <p>Quel sujet, Dieu puissant, attire icy tes pas ?</p>
+        <p/>
+        <p>NEPTUNE.</p>
+        <p>Je viens voir de plus pres ta gloire sans seconde,</p>
+        <p>Je viens estre à mon tour témoin de ton bonheur,</p>
+        <p>Et montrer icy quel honneur</p>
+        <p>Moi-mesme je me fais du tribut de ton Onde.</p>
+        <p>C'est sur tes Rivages fameux</p>
+        <p>Que le plus grand des Roys, en tout ce qu'il médite,</p>
+        <p>Charme par sa haute conduite</p>
+        <p>Ses Peuples qu'il rend heureux,</p>
+        <p>L'Univers qu'il étonne, &amp; les Dieux qu'il imite.</p>
+        <p/>
+        <p>Quel charme de le voir à son Peuple, à sa gloire,</p>
+        <p>D'un coeur si satisfait immoler son repos,</p>
+        <p>Et faire oublier ces Héros,</p>
+        <p>Ou qu'a formez la Fable, ou que vante l'Histoire !</p>
+        <p/>
+        <p>LA SEINE.</p>
+        <p>Que le Gange orgueilleux, jaloux d'un sort si beau,</p>
+        <p>Sur des Arenes d'or roule son onde fiere,</p>
+        <p>Que du Dieu de la Lumiere</p>
+        <p>Ses flots soient le brillant Berceau ;</p>
+        <p>A voir ce que mes Bords étalent d'abondance,</p>
+        <p>J'ay droit de mépriser tout l'or de ses sablons ;</p>
+        <p>Et d'un si grand Héros l'éclat &amp; la présence,</p>
+        <p>Du Soleil à mes yeux valent bien les rayons.</p>
+        <p/>
+        <p>Tous ensemble.</p>
+        <p>Le bruit de sa gloire extréme</p>
+        <p>A cent Peuples charmez fait souhaiter ses Loix.</p>
+        <p>On ne peut nombrer ses Exploits.</p>
+        <p>La Renommée elle-mesme</p>
+        <p>S'est veue en peine avecque ses cent voix.</p>
+        <p/>
+        <p>UN TRITON à la Seine.</p>
+        <p>Nul ne peut mieux que toy de sa rare valeur</p>
+        <p>Montrer icy les preuves.</p>
+        <p>Tandis que Mars en fureur</p>
+        <p>De l'Europe troublée alarmoit tous les Fleuves,</p>
+        <p>D'horribles cris gémissoient leurs Echos,</p>
+        <p>Le sang souilloit leurs eaux &amp; leurs rivages.</p>
+        <p>Ce Grand Roy cependant assuroit ton repos,</p>
+        <p>Et toûjours tes libres flots</p>
+        <p>Portoient au Dieu des Mers tes paisibles hommages.</p>
+        <p/>
+        <p>UNE NYMPHE.</p>
+        <p>Par ce calme constant de ces ondes si vives</p>
+        <p>On peut juger quels attraits</p>
+        <p>Une profonde Paix</p>
+        <p>Entretient sur ces Rives.</p>
+        <p/>
+        <p>Sans cesse mille Concerts</p>
+        <p>En ces aimables Lieux font retentir les airs.</p>
+        <p>Une allégresse entiere</p>
+        <p>N'y laisse plus pousser que d'amoureux soûpirs,</p>
+        <p>Et la Trompete guerriere</p>
+        <p>De cette heureuse Paix sert encor aux plaisirs.</p>
+        <p/>
+        <p>NEPTUNE &amp; UN TRITON.</p>
+        <p>Que ces aimables Lieux</p>
+        <p>Soient toûjours exempts d'alarmes.</p>
+        <p>Le Choeur répete ces deux Vers.</p>
+        <p/>
+        <p>NEPTUNE.</p>
+        <p>Que la faveur des Dieux</p>
+        <p>En maintienne sans cesse, en augmente les charmes.</p>
+        <p/>
+        <p>UN TRITON.</p>
+        <p>Pour les Voisins jaloux soient le trouble &amp; les larmes.</p>
+        <p/>
+        <p>DEUX NYMPHES.</p>
+        <p>De ces justes souhaits l'effet n'est point douteux.</p>
+        <p>Le destin de LOVIS, la terreur de ses armes,</p>
+        <p>En sont de seurs garands à ses Peuples heureux.</p>
+        <p/>
+        <p>Tous ensemble.</p>
+        <p>Que ces aimables Lieux</p>
+        <p>Soient toûjours exempts d'alarmes.</p>
+        <p/>
+        <p>Apres que ces Vers ont esté chantez, les Tritons forment une Entrée avec les Nymphes. Elle est suivie de ces deux Couplets que chante la Seine.</p>
+        <p/>
+        <p>Icy l'Amour fait aimer sa puissance,</p>
+        <p>Ces Lieux charmans y portent nos desirs.</p>
+        <p>Suivons ses Loix. Que sert la resistance ?</p>
+        <p>Toûjours les maux précedent ses plaisirs ;</p>
+        <p>Mais quand un coeur voit payer sa constance,</p>
+        <p>Regrette-t-il sa peine &amp; ses soûpirs ?</p>
+        <p/>
+        <p>Quand des Amans on fuit le tendre hommage,</p>
+        <p>Sçait-on joüir des droits de sa beauté ?</p>
+        <p>Quels sont les biens que gouste un coeur sauvage ?</p>
+        <p>Doit-il vanter sa triste liberté ?</p>
+        <p>Que de plaisirs il perd dans le bel âge !</p>
+        <p>Qu'un jour ce temps sera bien regrete !</p>
+        <p/>
+        <p>Ce Prologue estant finy, les Acteurs représentent le Premier Acte de la Comédie d'Amphitrion, dont Jupiter emprunte la forme pour se faire aimer d'Alcmene. C'est là-dessus qu'est fait l'Intermede qui suit cet Acte. L'Amour y vient s'applaudir de la victoire qu'il a remportée sur le Souverain des Dieux. Vénus paroist avec luy. Il est suivy des Plaisirs, &amp; elle des Graces.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Celébrez de l'Amour la victoire nouvelle,</p>
+        <p>Chantez sa gloire immortelle.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Celébrons de l'Amour la victoire nouvelle,</p>
+        <p>Chantons sa gloire immortelle.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Que Jupiter vante à mes yeux</p>
+        <p>Son pouvoir redouté des Hommes &amp; des Dieux ;</p>
+        <p>De ses mains, quand je veux, j'arrache le tonnerre,</p>
+        <p>Il quite les Cieux pour la Terre,</p>
+        <p>Et trouve dans mes fers son destin glorieux.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Celébrons de l'Amour, &amp;c.</p>
+        <p/>
+        <p>UN PLAISIR.</p>
+        <p>Résister à l'Amour est une triste gloire.</p>
+        <p>En vain d'un fier orgueil on se croit faire honneur ;</p>
+        <p>Pour un jeune coeur</p>
+        <p>La défaite vaut mieux cent fois que la victoire.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>La Jeunesse</p>
+        <p>Sans tendresse,</p>
+        <p>Est un Printemps sans fleurs.</p>
+        <p>Gardez-vous bien de traiter de foiblesse</p>
+        <p>Les amoureuses langueurs.</p>
+        <p>La Jeunesse</p>
+        <p>Sans tendresse,</p>
+        <p>Est un Printemps sans fleurs.</p>
+        <p>A l'Amour il faut se rendre.</p>
+        <p>Cedez-luy sans attendre,</p>
+        <p>Pour gouster plus longtemps ses douceurs.</p>
+        <p>La Jeunesse</p>
+        <p>Sans tendresse</p>
+        <p>Est un Printemps sans fleurs.</p>
+        <p/>
+        <p>TROIS PLAISIRS.</p>
+        <p>Si vous croyez toûjours une Fierté cruelle,</p>
+        <p>Vous vous épargnerez des ennuis, des soûpirs.</p>
+        <p>Si vous voulez croire un Amant fidelle,</p>
+        <p>Vous gousterez les plus charmans plaisirs.</p>
+        <p/>
+        <p>UNE GRACE.</p>
+        <p>Toucher une Beauté que sa propre douceur</p>
+        <p>Conduit aux sentimens qu'on veut luy faire prendre,</p>
+        <p>C'est un triomphe aisé qu'on doit tout au bonheur ;</p>
+        <p>Mais desarmer un coeur</p>
+        <p>Qui des traits de l'Amour s'est toûjours sçeu défendre,</p>
+        <p>C'est vaincre avec honneur.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Au pouvoir de l'Amour, rendez, rendez les armes.</p>
+        <p/>
+        <p>UN PLAISIR.</p>
+        <p>Rien ne peut, rien ne doit résister à ses coups.</p>
+        <p/>
+        <p>VENUS &amp; UN PLAISIR.</p>
+        <p>Dans son Empire plein de charmes</p>
+        <p>Il est des momens moins doux,</p>
+        <p>Mais les plaisirs ailleurs ne valent pas ses larmes.</p>
+        <p/>
+        <p>VENUS.</p>
+        <p>Vostre gloire en cédant doit estre sans alarmes.</p>
+        <p/>
+        <p>UN PLAISIR.</p>
+        <p>Il a soûmis des coeurs</p>
+        <p>Qui n'ont point eu d'autres vainqueurs.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Amans, si l'orgueil de vos Belles</p>
+        <p>Semble d'abord à vos ardeurs fidelles</p>
+        <p>Ne promettre pour fruit que de tristes regrets,</p>
+        <p>Ne vous lassez point de vos chaînes.</p>
+        <p>Soyez constans, soyez discrets,</p>
+        <p>Bientost dans les plaisirs vous oublierez vos peines.</p>
+        <p/>
+        <p>AUTRE GRACE.</p>
+        <p>Un coeur qui sçait se taire,</p>
+        <p>Sçait conduire une affaire.</p>
+        <p>Dans le sort le plus doux</p>
+        <p>Plaignez-vous d'un malheur extréme.</p>
+        <p>Un bonheur bien caché ne craint point les Jaloux,</p>
+        <p>Il ne faut estre heureux que pour l'Objet qu'on aime.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Joignez vos voix &amp; vostre zele.</p>
+        <p>Que la Terre &amp; les Cieux</p>
+        <p>Retentissent du bruit de ma gloire immortelle,</p>
+        <p>Suivez toûjours mes Loix, c'est imiter les Dieux.</p>
+        <p/>
+        <p>Le Choeur répete, Joignons nos voix, &amp;c. Apres quoy, les Plaisirs &amp; les Jeux font une Entrée, pour marquer la part qu'ils prennent à la victoire de l'Amour. La Dance finie, un des Plaisirs chante ce qui suit.</p>
+        <p/>
+        <p>Ne croyez pas toutes les plaintes</p>
+        <p>Qu'on fait de l'Empire amoureux.</p>
+        <p>Un coeur bien discret sous ces adroites feintes</p>
+        <p>Souvent veut cacher le bonheur de ses feux.</p>
+        <p>Ne croyez pas toutes les plaintes</p>
+        <p>Qu'on fait de l'Empire amoureux.</p>
+        <p/>
+        <p>Que sans aimer, la vie est triste !</p>
+        <p>Cédons</p>
+        <p>à l'Amour, cédons tous.</p>
+        <p>Tout aime à son tour ; un coeur qui resiste,</p>
+        <p>S'attire l'effort des plus rudes coups.</p>
+        <p>Que sans aimer, la vie est triste !</p>
+        <p>Cédons à l'Amour, cédons tous.</p>
+        <p/>
+        <p>Les Acteurs ayant représenté le Second Acte d'Amphitrion, dans lequel Jupiter trouve moyen de se raccommoder avec Alcmene, Mercure amene des Musiciens &amp; des Danseurs vestus en Bergers &amp; en Faunes, pour la Feste que ce Souverain des Dieux fait préparer aux Officiers de l'Armée. L'ouverture de cet Intermede se fait par Mercure, qui chante ces Vers.</p>
+        <p/>
+        <p>Messieurs, c'est icy qu'à loisir</p>
+        <p>Vous pouvez préparer vostre galante Feste,</p>
+        <p>Qui du Festin qu'on appreste</p>
+        <p>Doit achever le plaisir.</p>
+        <p>Que vos Jeux animez par le Dieu des Bouteilles,</p>
+        <p>Charment les yeux &amp; les oreilles,</p>
+        <p>Et dans vos Chants celebrez tour-à-tour</p>
+        <p>Le Dieu du Vin, &amp; celuy de l'Amour.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Aimable liberté, charme d'un coeur tranquile,</p>
+        <p>Un Amant malheureux trouve en toy son azile,</p>
+        <p>Nul chagrin sous tes Loix ne le fait murmurer ;</p>
+        <p>Et moy dans les plus rudes chaînes,</p>
+        <p>Accablé de mille peines,</p>
+        <p>Je meurs sans te pouvoir seulement desirer.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>De tes mortels chagrins je plains la violence ;</p>
+        <p>Pour t'en guérir, éprouve l'inconstance.</p>
+        <p/>
+        <p>Qu'un Inconstant est heureux !</p>
+        <p>Que sa Bergere</p>
+        <p>Soit ingrate ou légere,</p>
+        <p>Il n'en a point de momens plus fâcheux.</p>
+        <p>Qu'un Inconstant est heureux !</p>
+        <p>S'il se trouve mal dans sa chaîne,</p>
+        <p>S'abord il en brise les noeuds,</p>
+        <p>Et consolé d'un sort qu'il repare sans peine,</p>
+        <p>En va chercher ailleurs une selon ses voeux.</p>
+        <p>Qu'un Inconstant est heureux !</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Iris est insensible à mon amour fidelle,</p>
+        <p>Mais je ne puis aimer qu'elle.</p>
+        <p/>
+        <p>UN FAUNE.</p>
+        <p>Méprise les conseils de cet Amant volage,</p>
+        <p>De son aveuglement tu dois re garantir.</p>
+        <p>Changer d'esclavage,</p>
+        <p>Ce n'est pas en sortir.</p>
+        <p/>
+        <p>Tous les Faunes ayant répeté ces deux derniers Vers, deux d'entr'eux chantent.</p>
+        <p/>
+        <p>Pour guérir ton chagrin,</p>
+        <p>Ne cherche que le Dieu du Vin.</p>
+        <p>Fais ton azile d'une Treille,</p>
+        <p>C'est là que tu peux te sauver.</p>
+        <p>L'Amour ne t'y viendra trouver</p>
+        <p>Que pour partager ta Bouteille.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Iris est insensible à mon amour fidelle,</p>
+        <p>Mais je ne puis aimer qu'elle.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>Essaye, essaye une fois</p>
+        <p>Les plaisirs d'un coeur volage.</p>
+        <p/>
+        <p>LES FAUNES.</p>
+        <p>Suy Bacchus comme nous, suy ses aimables Loix.</p>
+        <p/>
+        <p>BERGER INCONSTANT, &amp; UN FAUNE.</p>
+        <p>Tu changeras bientost de sort &amp; de langage.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Ah, si vous connoissiez la Beauté que je sers,</p>
+        <p>Vous partageriez mes fers.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>J'ay veu cette Beauté qui se rit de tes peines,</p>
+        <p>Cependant ses appas ne peuvent rien sur moy.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Il faut donc qu'un Rocher soit plus tendre que toy.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>Non, mais une Beauté qui n'offre que des chaînes,</p>
+        <p>N'aura jamais ma foy.</p>
+        <p/>
+        <p>UN FAUNE.</p>
+        <p>Bacchus ne défend pas d'aimer,</p>
+        <p>De beaux yeux quelquefois ont bien sçeu me charmer ;</p>
+        <p>Mais quand l'Amour devient trop puissant sur mon ame,</p>
+        <p>Je mets une Bouteille au devant de ses coups ;</p>
+        <p>Et le Vin dans mon coeur, pour modérer sa flâme,</p>
+        <p>Allume un feu plus doux,</p>
+        <p>Vive le Dieu du Vin, vive son doux empire.</p>
+        <p>Ses charmantes douceurs</p>
+        <p>Ne coustent point de pleurs,</p>
+        <p>On possede aussitost tout ce que l'on desire.</p>
+        <p>Vive le Dieu du Vin, vive son doux Empire.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Un seul regard d'Iris mesme severe,</p>
+        <p>Vaut à mon coeur les plaisirs les plus doux.</p>
+        <p>Si ce regard estoit desarmé de colere,</p>
+        <p>Grands Dieux, de mes transports je vous rendrois jaloux.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>Esclave malheureux du Tyran que tu sers,</p>
+        <p>Il ne te faut que des pleurs &amp; des fers.</p>
+        <p>Va porter tes ennuis ailleurs,</p>
+        <p>Et quels que soient les maux dont tu sens les atteintes,</p>
+        <p>Ne trouble point icy nos jeux par tes clameurs,</p>
+        <p>Ou le bruit de tes plaintes</p>
+        <p>Ne fera qu'exciter nos ris &amp; tes douleurs.</p>
+        <p/>
+        <p>Les Faunes commencent icy à dancer, &amp; en suite chantent ces Vers.</p>
+        <p/>
+        <p>Fussiez-vous accablé de mille soins confus,</p>
+        <p>Quand l'Amour, un Proces, &amp; tous vos Biens perdus,</p>
+        <p>Vous donneroient du dégoust pour la vie,</p>
+        <p>Voulez-vous rire encor malgré le Sort jaloux ?</p>
+        <p>Voulez-vous voir tous les Roys sans envie ?</p>
+        <p>Buvez, buvez, enyvrez-vous.</p>
+        <p/>
+        <p>Eh bien, ces jeux &amp; ces plaisirs</p>
+        <p>Ne valent-ils pas bien tes pleurs &amp; tes soûpirs ?</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Iris est insensible à mon amour fidelle,</p>
+        <p>Mais je ne puis aimer qu'elle.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>Esclave malheureux du Tyran que tu sers,</p>
+        <p>Il ne te faut que des pleurs &amp; des fers.</p>
+        <p/>
+        <p>BERGER CONSTANT.</p>
+        <p>Tant qu'Amour gardera son pouvoir sur les ames.</p>
+        <p/>
+        <p>LES FAUNES.</p>
+        <p>Tant que Bacchus chassera le chagrin.</p>
+        <p/>
+        <p>BERGER INCONSTANT.</p>
+        <p>Tant que l'Amour constant fera craindre ses flâmes.</p>
+        <p/>
+        <p>Tous ensemble.</p>
+        <p>Bacchus, le seul Bacchus, reglera mon destin.</p>
+        <p>Iris, la belle Iris, reglera mon destin.</p>
+        <p>L'aimable changement reglera mon destin.</p>
+        <p/>
+        <p>Jupiter s'estant fait connoistre pour l'Amant d'Alcmene dans le troisiéme Acte, les Thébains finissent la Piece, en exprimant par leurs dances &amp; leurs chants la joye qu'ils ont que leur Ville ait esté honorée de la présence de ce Dieu.</p>
+        <p/>
+        <p>CHOEUR de THEBAINS.</p>
+        <p>Jupiter pour ces Lieux</p>
+        <p>Quite le sejour des Dieux.</p>
+        <p/>
+        <p>DEUX THEBAINS.</p>
+        <p>De ce grand jour gardons bien la mémoire,</p>
+        <p>Que l'Encens en tous lieux fume sur nos Autels.</p>
+        <p/>
+        <p>CHOEUR DE THEBAINS.</p>
+        <p>Que le reste des Mortels</p>
+        <p>Soit jaloux de nostre gloire.</p>
+        <p/>
+        <p>DEUX THEBAINS.</p>
+        <p>Ces Lieux ont pour luy des appas</p>
+        <p>Qu'au Ciel il ne trouvoit pas.</p>
+        <p/>
+        <p>DEUX AUTRES THEBAINS.</p>
+        <p>Concevons un bonheur supréme</p>
+        <p>Sur le charmant espoir qu'il nous donne luy-mesme.</p>
+        <p/>
+        <p>UN THEBAIN.</p>
+        <p>Tremblez, Ennemis jaloux,</p>
+        <p>Il va naître parmy nous</p>
+        <p>Un Héros dont les Faits doivent remplir la Terre.</p>
+        <p>Vous reconnoistrez à ses coups</p>
+        <p>Le Fils du Maistre du Tonnerre,</p>
+        <p>Tremblez, Ennemis jaloux.</p>
+        <p/>
+        <p>AUTRE THEBAIN.</p>
+        <p>Jeunes Beautez, dont les rigueurs extrémes,</p>
+        <p>Sont tout le fruit de nos ardeurs,</p>
+        <p>Voyez condamner vos coeurs</p>
+        <p>Par l'exemple des Dieux mesmes.</p>
+        <p>Est-il honteux</p>
+        <p>De brûler de leurs feux ?</p>
+        <p/>
+        <p>DAME THEBAINE.</p>
+        <p>Les Dieux aux transports amoureux</p>
+        <p>Peuvent trouver des charmes.</p>
+        <p>Tous les plaisirs sont faits pour eux,</p>
+        <p>Ils n'ont point dans leurs voeux</p>
+        <p>De cruelles alarmes.</p>
+        <p>Ce n'est point aux Mortels jaloux</p>
+        <p>D'espérer un sort si doux.</p>
+        <p/>
+        <p>THEBAIN.</p>
+        <p>Quitez une erreur si vaine,</p>
+        <p>Les Dieux en prenant une chaîne,</p>
+        <p>Ne sont pas exempts de soûpirs.</p>
+        <p>Un peu de peine</p>
+        <p>Fait mieux gouster les plaisirs.</p>
+        <p/>
+        <p>DAME THEBAINE.</p>
+        <p>Il n'est point de tourment cruel</p>
+        <p>Qui puisse mettre à bout leur courage immortel.</p>
+        <p>Mais de ma fermeté mon ame se défie.</p>
+        <p>J'ay veu de cent Beautez le malheur éclatant.</p>
+        <p>S'il m'en arrivoit autant,</p>
+        <p>Ce seroit fait de ma vie.</p>
+        <p/>
+        <p>DEUX DAMES THEBAINES.</p>
+        <p>Fuyons, fuyons l'Amour, craignons ce Dieu trompeur,</p>
+        <p>On ne peut contre luy garder trop bien son coeur.</p>
+        <p/>
+        <p>THEBAIN.</p>
+        <p>Si la crainte des soûpirs</p>
+        <p>Vous fait fuir les plaisirs</p>
+        <p>Où le bel âge vous convie,</p>
+        <p>D'un Amant éprouvé faites un heureux choix,</p>
+        <p>Pour suivre de si douces Loix,</p>
+        <p>Ce vous sera trop peu que toute vostre vie.</p>
+        <p/>
+        <p>LES THEBAINS.</p>
+        <p>Aimez, jeunes Beautez, aimez,</p>
+        <p>De vos fers, de vos feux, vos coeurs seront charmez.</p>
+        <p/>
+        <p>DAME THEBAINE.</p>
+        <p>Il est trop malaisé de faire un choix heureux.</p>
+        <p/>
+        <p>AUTRE THEBAINE.</p>
+        <p>Tout est plein aujourd'huy de Trompeurs dangereux.</p>
+        <p/>
+        <p>AUTRE THEBAINE.</p>
+        <p>On ne les connoit plus ; ils ont tous le langage</p>
+        <p>Des coeurs bien amoureux.</p>
+        <p/>
+        <p>DEUX THEBAINES.</p>
+        <p>Gardons, gardons toûjours une fierté sauvage,</p>
+        <p>Il est trop malaisé de faire un choix heureux.</p>
+        <p/>
+        <p>THEBAIN.</p>
+        <p>Il est des Amans infidelles,</p>
+        <p>Mais risquons-nous moins</p>
+        <p>En vous ofrant nos soins ?</p>
+        <p>Les feintes aux coeurs des Belles</p>
+        <p>Sont-elles moins naturelles ?</p>
+        <p/>
+        <p>DEUX THEBAINS.</p>
+        <p>Aimons, aimons ; que nulle crainte</p>
+        <p>N'empeschede nous engager.</p>
+        <p/>
+        <p>DEUX AUTRES THEBAINS.</p>
+        <p>On demesle aisément une ame bien atteinte,</p>
+        <p>D'avec un coeur léger.</p>
+        <p/>
+        <p>AUTRE THEBAIN.</p>
+        <p>Et quand on y devroit courir quelque danger,</p>
+        <p>Le prix que l'Amour nous propose</p>
+        <p>Est-il un prix si bas,</p>
+        <p>Qu'il ne vaille pas</p>
+        <p>Qu'un coeur pour l'acquérir hazarde quelque chose ?</p>
+        <p/>
+        <p>THEBAINS &amp; THEBAINES.</p>
+        <p>Ensemble.</p>
+        <p/>
+        <p>THEBAINS.</p>
+        <p>Suivez, suivez l'Amour, aimez ce doux Vainqueur.</p>
+        <p/>
+        <p>THEBAINES.</p>
+        <p>Fuyons, fuyons l'Amour, craignons ce Dieu trompeur.</p>
+        <p/>
+        <p>THEBAINS.</p>
+        <p>On ne peut contre luy garder longtemps son coeur.</p>
+        <p/>
+        <p>THEBAINES.</p>
+        <p>On ne peut contre luy garder trop bien son coeur.</p>
+        <p/>
+        <p>Ce Dialogue est suivy d'une Entrée que dance le Peuple de Thebes ; apres quoy une Thébaine chante ces Paroles.</p>
+        <p/>
+        <p>Lors que nous passons la vie</p>
+        <p>Sans quelque amoureux desir,</p>
+        <p>Que nos jours font peu d'envie !</p>
+        <p>Ils sont pour nous sans plaisir,</p>
+        <p>Lors que nous passons la vie</p>
+        <p>Sans quelque amoureux desir.</p>
+        <p/>
+        <p>Le retour de la verdure</p>
+        <p>N'est dû qu'aux soins de l'Amour.</p>
+        <p>Si tout rit dans la Nature,</p>
+        <p>C'est que tout luy fait la Cour.</p>
+        <p>Le retour de la verdure</p>
+        <p>N'est dû qu'aux soins de l'Amour.</p>
+        <p/>
+        <p>DEUX THEBAINS.</p>
+        <p>Rendons-nous</p>
+        <p>Quand l'Amour nous inspire ;</p>
+        <p>Rendons-nous,</p>
+        <p>Tout doit aimer ses coups.</p>
+        <p/>
+        <p>Le Choeur répete, Rendons-nous, &amp;c.</p>
+        <p/>
+        <p>DEUX THEBAINS.</p>
+        <p>Le vain honneur de braver son empire,</p>
+        <p>Nous cousteroit nos plaisirs les plus doux.</p>
+        <p/>
+        <p>Le Choeur répete Le vain honneur, &amp;c. &amp; on chante le Couplet qui suit de la mesme sorte.</p>
+        <p/>
+        <p>Nos beaux ans</p>
+        <p>Sont faits pour la tendresse,</p>
+        <p>Nos beaux ans</p>
+        <p>Ne durent qu'un Printemps ;</p>
+        <p>Aimons, aimons ; si c'est une foiblesse,</p>
+        <p>Pour estre sage, on n'a que trop de temps.</p>
+        <p/>
+        <p>Avoüez, Madame, que pour des Particuliers, rien ne sçauroit  estre plus glorieux, que de se donner à eux, &amp; à leurs Amis, un divertissement assez peu com[m]un pour attirer tout Paris, si l'entrée du Lieu avoit esté libre pour de l'argent. Le bruit qu'il a fait ayant fait naître l'envie à Monseigneur le Dauphin de voir ce galant Spectacle, il se rendit il y a trois jours chez Mr Malo, accompagné de Madame la Dauphine, de Monsieur, de Madame, de Mademoiselle, &amp; suivy d'une partie de la Cour. La Comédie fut si bien joüée, &amp; les Intermedes chantez d'une maniere si juste, que ce Prince témoigna tout haut, que de longtemps il n'avoit rien veu qui luy eust paru si agreable. »</p>
+      </div>
+
+<div xml:id="MG-1681-02_213">
+        <head>MG-1681-02_213</head>
+        <bibl>Mercure Galant, février 1681, p. 213-216, 227-229, 232-249</bibl>
+        <p>Plusieurs Opéra de Venise, avec la Description de la Maison de Piazzola, appartenante à M. de Contarini Procurateur de S. Marc.</p>
+        <p/>
+        <p>Je vous parlay l'année derniere de l'Opéra intitulé Les Amazones dans les Isles Fortunées, que Mr Contarini, Procurateur de S. Marc, avoit fait représenter en présence d'un nombre infiny d'Auditeurs illustres, dans sa belle Maison de Piazzola. On l'y a représenté encor cette année, avec un autre, qui a eu pour titre, Berénice vindicative. Piazzola, Madame, n'est autre chose qu'un Bourg à dix milles de Padouë, où ce Noble Venitien, qui est tres riche, a fait bâtir un Palais superbe. [...] Les Murailles de la Court sont tres belles, &amp; tout le Palais est environné de Canaux d'une eau courante, qui servent aussi de Reservoirs, &amp; qui se déchargent tous dans un grand Bassin de figure ronde, entouré de grandes Portes, ou Arcades ornées de Statuës. Ce Bassin a tant d'étenduë &amp; de profondeur, que l'on y peut naviguer avec de petites Barques ou Gondoles. C'est dans ces Gondoles que Mr Contarini donne des Serenades &amp; des Concerts de Musique pendant l'Eté. [...]</p>
+        <p>Je serois trop long, si je voulois vous marquer toutes les beautez de ce Palais. [...] On trouve au troisiéme Etage une Galerie, où se voyent toutes les sortes d'Instrumens de Musique que l'on peut s'imaginer, avec tous les Opéra qui ont esté veus jusqu'à présent, soit à Venise, ou ailleurs. L'Hercule fait par le Sr Cavali, &amp; représenté à Paris pour le divertissement de Sa Majesté, y tient sa place parmy les autres. Il ne faut point s'étonner de cet amas, puis que pour avoir les Instrumens les plus particuliers, Mr Contarini n'a épargné aucune dépense. Les deux Loges dont j'ay parlé au commencement, sont aux deux costez de la Galerie, avec des manieres de Tribunes tout autour, pour y mettre des Choeurs de Musique &amp; d'Instrumens, afin de divertir pendant le repas. [...]</p>
+        <p>Mr Contarini, qui est magnifique en toutes choses, accompagne ses grandes qualitez d'une pieté solide, &amp; en a donné de nobles marques, en faisant bâtir à ses dépens l'Eglise du Bourg, en luy donnant des Revenus qui suffisent pour entretenir l'Archiprestre, &amp; les autres Prestres dont il a la nomination. Il a de plus fait construire un Lieu en forme de Monastere, avec une Court environnée de Portiques soûtenus de Colonnes de marbre, des Apartemens dans le bas pour l'usage &amp; les nécessitez de la Maison, &amp; des Chambres au dessus. Il y a fait bâtir une Eglise encor plus belle &amp; plus grande que celle du Bourg. On éleve dans ce Lieu trente-trois pauvres Filles de Famille honnestes, ausquelles il entretient des Femmes pour en avoir soin, &amp; pour leur enseigner les Ouvrages ordinaires au Personnes de leur Sexe, &amp; des Maîtres pour leur apprendre la Musique, qu'il aime avec passion. Comme il s'est trouvé parmy ces Filles de tres-belles Voix, il résolut aussitost de faire construire un magnifique Theatre pour des Opéra qu'il fait composer exprés. Ce Theatre a cent quatre-vingts pieds de long. Sa largeur est de soixante. Il y a quatre Ordres ou Etages de Loges disposées en demy-cercle, tirant sur l'ovale. On y monte par des Escaliers de marbre, ornez &amp; soûtenus de Statuës. Les Murailles &amp; les Loges sont peintes à Fresque, &amp; les ouvertures tres-bien travaillées. Le Parterre, qui contient cinq cens Personnes, est tout fait de bois avec des degrez percez à jour pour recevoir le frais. L'eau passe dessous. Il y a aupres de là pour le mesme effet une Chambre soûterraine, qui sert à donner du vent en Eté à tous les endroits de ce superbe Theatre. Les Loges peuvent aussi contenir cinq cens Personnes. Elles sont toutes ornées de Statuës de relief dorées. Le Ciel ou le Lambris est tout travaillé à fleurs &amp; à feuillages, avec un tres-grand nombre de Miroirs, qui refléchissent la lumiere, &amp; la renvoyant de tous côtez, font un effet surprenant.</p>
+        <p>Ce fut sur ce beau Theatre que pour la seconde fois on représenta l'Opéra des Amazones le 10. ou 11. de Novembre. Vingt Torches de cire blanche l'éclairoient. Le Rideau qui en cachoit la Décoration, estoit de Velours cramoisy à poil, avec des Coûtures couvertes de Trainetes ou petits Passemens d'or, que la lumiere rendoit tres-brillans. Les Spectateurs estoient la plûpart d'une qualité fort relevée, puisqu'on y voyoit le Duc de Mantouë, le Prince de Bozzolo, le Landgrave de Hesse, &amp; beaucoup d'autres, &amp; les Ambassadeurs de l'Empereur, de France, &amp; d'Espagne, avec toute leur Suite ; quoy que ces Ministres y fussent inconnus, de mesme que plusieurs Procurateurs &amp; Senateurs de Venise. Les Dames Venitiennes y parurent au nombre de deux cens, &amp; autant de Nobles. Les Etrangers de l'un &amp; de l'autre Sexe, estoient encor en plus grand nombre, en sorte que les Loges &amp; tous les autres endroits en furent remplis autant qu'ils le pouvoient estre. Mr Contarini fit distribuer à tous indiféremment des Livres de l'Opéra, &amp; des Bougies pour les lire, parce qu'avant qu'on levast la toile, on éteignit les vingt Torches, &amp; l'on ne laissa allumées que celles qui estoient dans les divers Etages des Loges, jusques au commencement de la Représentation. Elle dura trois heures &amp; demie avec beaucoup de variété, &amp; un applaudissement universel. Parmy les choses extraordinaires qui y parurent, on y remarqua trois cens Acteurs, sçavoir, cent Femmes Amazones, cent Hommes déguisez en Mores, cinquante Hommes à cheval qui firent une tres-belle montre, des Pages, des Estatiers, des Laquais, &amp; des Cochers, qui à la fin de la Piece conduisirent sur le Theatre un Carrosse tout couvert de Broderie d'or, tiré par six des plus beaux Chevaux qu'on puisse voir. Les Scenes que l'on admira le plus, furent celles d'un grand Cabinet, dont toutes les Pieces estoient relevées en Broderie, &amp; une autre de Tentes ou Pavillons brodez. Il y en avoit pour le moins quarante.</p>
+        <p>Le lendemain sur le soir, on se promena dans l'Avenuë [...]. En suite on donna le Bal, où l'on vit de tres-superbes Habits, &amp; des Pierreries qui n'ont pas de prix.</p>
+        <p>Le jour suivant on alla au Cours dans l'Avenuë, &amp; à quatre de nuit, on se rendit au Theatre que l'on trouva encor éclairé par vingt Torches de cire blanche, mais celles-cy estoient torses &amp; dorées. La Toile qui cachoit le lieu de la Scene, estoit de Velours cramoisy à fleurs à fond d'or. On distribua des Bougies dorées, &amp; dans les Livres qu'on donna à tout le monde, chaque Scene se voyoit représentée en Taille douce. Les Spectateurs furent les mesmes du jour précedent. La Représentation dura depuis six heures jusqu'à onze, mais avec une admiration si continuelle, qu'aucun Opéra ne fut jamais aplaudy avec tant de marques d'une entiere satisfaction. Quoy que le premier fust beau, celuy-cy, qui estoit Berénice vindicative, le surpassa de beaucoup par la magnificence des Entrées, &amp; par la richesse des Habits. On y compta jusques à cinq cens Acteurs ; scavoir, cent Piquiers, cent Femmes, cent Cavaliers montans des Chevaux bardez, soixante Hallebardiers, des Chasseurs, des Estatiers, des Pages, qui parurent tous dans la premiere Scene du Triomphe. Rien ne pouvoit mieux représenter les fameux Triomphes des Empereurs Romains. On y voyoit sept superbes Chars pleins de Trophées, &amp; un entr'autres tiré par quatre Chevaux vivans qui marchoient de front. La Reyne Berénice estoit assise sur ce dernier, qui estoit haut de vingt pieds, &amp; orné de Stucs dorez &amp; argentez d'une beauté admirable. Sur le derriere estoit un grand Aigle, qui de ses aîles faisoit ombre à cette Reyne. Devant ce Char qu'avoient précedé cent Femmes, toutes magnifiquement vétuës, on voyoit marcher celuy où son Ennemy vaincu estoit enchaîné. On admira le bel ordre de ce Spectacle, qui quoy que tres-grand, se termina sans confusion. Ce qui étonna le plus, ce fut une veritable Chasse de Cerfs, d'Ours, &amp; de Sangliers vivans, qui furent tuez par les Chasseurs. Pour les Scenes feintes, on remarqua particulierement une grande Place, un Temple, une Ecurie avec cent Chevaux vivans &amp; quantité de Palefreniers ; une Chambre toute garnie de Point de Venise d'une dépense extraordinaire ; un Carrosse qui parut à la fin du second Acte, dont l'Impériale, les Rideaux, les Portieres, les Houpes, &amp; les Couvertures des Chevaux, estoient de ce mesme Point ; un autre tout couvert de fleurs de soye, un autre de Pierres fines, un autre embelly de Bustes d'or, un autre enrichy de Diamans &amp; de Miroirs, &amp; un autre orné de Stucs tous dorez. Ces six Carrosses, remplis de Dames &amp; d'Hommes qui chantoient de petits Airs galans, alloient en tournant sur le Theatre, de la mesme sorte que l'on se promene au Cours. Les diverses Décorations ne changeoient pas à la maniere ordinaire. Elles sortoient de dessous la terre, &amp; celles mesme qui estoient en place se perdoient, &amp; s'abîmoient avec tant de promptitude que les yeux estoient trompez. Tout ce qui servit au nouvel Opéra de Berénice, fut diférent de ce que l'on avoit veu le premier jour à celuy des Amazones. Ainsi, ce furent nouveaux Habits, nouvelles Décorations, &amp; nouveaux Musiciens. Ces admirables Représentations devoient estre continuées encor quatre fois, mais la chute d'un Bâtiment depuis peu construit, empêcha d'executer ce dessein. C'estoit une espece de Magazin, dans lequel on gardoit tous les Habits des Entrées, &amp; des Personnages. Les Chars de Triomphe en furent brisez, avec les Carrosses dont je viens de vous parler.</p>
+      </div>
+
+<div xml:id="MG-1681-02_262">
+        <head>MG-1681-02_262</head>
+        <bibl>Mercure Galant, février 1681, p. 262-269</bibl>
+        <p>Ce qui s'est passé à Paris pendant le Carnaval.</p>
+        <p/>
+        
+        <p/>
+        <p>Il est temps de vous parler de ce qui s'est fait ce Carnaval. Vous ne doutez point, Madame, qu'on ne l'ait passé agréablement dans la Capitale d'un Royaume, qu'une glorieuse Paix rend abondant en plaisirs ainsi qu'en toute autre chose. [...] Ces Messieurs faisoient entr'eux chaque jour une espece de Loterie. Tous les Billets estoient noirs, mais ils coûtoient beaucoup plus cher que des blancs, parce que chaque Billet contenoit ce que ceux qui les tiroient devoient payer pour le Divertissement du soir. La premiere Assemblée se fit chez Mr l'Ambassadeur de Venise, qui loge au Marais. [...] Apres un tres-grand Soupé, l'on joüa l'Andromaque de Mr Racine, Trésorier de France, &amp; la petite Comédie de la Comete. Pendant ce temps les Masques vinrent en foule de tous les Quartiers de Paris. Le Bal commença en suite, &amp; toute la nuit fut employée à dancer. Huit jours apres (car ces Festes ne se faisoient que tous les Jeudis) l'Hôtel de Nevers fut le lieu de l'Assemblée. Tous ces grands Apartemens estoient richement meublez, &amp; on les voyoit briller d'un nombre presque infiny de lumieres. Le Cinna de Mr de Corneille l'aîné, fut représenté. Quelques Voix des plus belles de l'Opéra en distinguerent les Actes, &amp; tout cela fut suivy de plusieurs Scenes plaisantes des Italiens. On ouvrit ensuite aux Masques qui avoient des Billets pour entrer. Comme l'on s'estoit fort diverty chez Mr l'Ambassadeur de Venise, &amp; que ces Assemblées plaisoient extremement au Public, on avoit crû avec beaucoup de raison que le nombre des Masques seroit tres-grand. On ne se trompa point. Aussi avoit-on eu la précaution de faire éclairer tous les beaux Apartemens de ce grand Palais, &amp; de mettre des Violons ou des Hautbois dans toutes les Chambres, en sorte que chacune estoit un lieu d'Assemblée. Jugez, Madame, si cette agreable confusion de Masques, tous tres-bien mis, se peut trouver ailleurs qu'à Paris. La Collation fut magnifique, &amp; l'on dança jusqu'au jour. Le Jeudy de la semaine suivante, cette mesme Compagnie se rendit chez Mr de Strasbourg. Vous sçavez trop de quelle maniere ce Prince fait les choses, pour n'estre pas persuadée que tout y estoit superbe, &amp; en abondance. Il y eut Comédie Italienne. Apres le Soupé, Monsieur, &amp; Madame, honorerent cette belle Assemblée de leur présence, &amp; on leur servit une galante Collation, où vous pouvez croire que rien ne manqua. [...]</p>
+      </div>
+
+<div xml:id="MG-1681-02_277">
+        <head>MG-1681-02_277</head>
+        <bibl>Mercure Galant, février 1681, p. 277-278, 282</bibl>
+        <p>Divertissemens de S. Germain pendant le Carnaval, avec les noms de ceux qui ont esté des Mascarades, &amp; la description de leurs Habits.</p>
+        <p/>
+        <p>Je vous ay dit quelque chose la derniere fois de la maniere dont on se divertissoit à Saint Germain. On a continué de la mesme sorte le reste du Carnaval, &amp; on n'y a laissé passer aucun jour, sans prendre quelques-uns des plaisirs qui sont ordinaires dans cette saison. Le Balet, la Comédie, des Mascarades, &amp; les Bals, ont servy alternativement à toute la Cour. La Mascarade qui préceda celle du Mardy-gras, fut tres-éclatante. [...] La plûpart des Comédies que l'on a joüées à S. Germain, ont esté représentées dans l'Antichambre de Madame la Dauphine. Le Roy entierement occupé des soins de l'Etat, ausquels ce Prince se donne avec une application inconcevable, ne s'est trouvé à aucune. Sa Majesté a vue seulement la Représentation de la Devineresse, qui s'est joüée sur le Theatre du Balet.</p>
+      </div>
+
+<div xml:id="MG-1681-02_334">
+        <head>MG-1681-02_334</head>
+        <bibl>Mercure Galant, février 1681, p. 334</bibl>
+        <p>Voyage de Monseigneur le Dauphin &amp; de Madame la Dauphine à Paris, avec le Régal qui leur a esté donné chez M. Malo.</p>
+        <p/>
+        <p>Madame la Dauphine qui n'avoit point encor veu la Foire de Saint Germain, y alla Mardy dernier, apres avoir dîné au Palais Royal, où son Altesse Royale traita Monseigneur le Dauphin. Ce fut de là que ce jeune Prince, accompagné de cette Princesse, de Monsieur, de Madame, &amp; de Mademoiselle, se rendirent chez Mr Malo pour la Représentation &amp; les Intermedes en musique de la Comédie d' Amphitrion, dont je vous ay déjà parlé dans cette Lettre [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

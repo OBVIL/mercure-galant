@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-01_030">
+        <head>MG-1690-01_030</head>
+        <bibl>Mercure galant, janvier 1690, p. 30-32</bibl>
+        <p>Ouverture du jubilé.</p>
+        <p/>
+        <p>Le 7. du mois passé, le Pape fit l'ouverture du Jubilé en l'Eglise de Sainte Marie Majeure. La Cavalcade fut fort solemnelle. Tous les Corps Reguliers &amp; Seculiers avec les Basiliques y assisterent en Procession. Le rendez-vous estoit à l'Eglise des Chartreux &amp; de là la marche se fit par la Vigne Montale. Sa Sainteté estoit portée en Litiere avec les marques les plus éclatantes de la majesté des Souverains Pontifes. Toute sa Maison estoit montée sur des mules. Un Prelat portoit la Croix à cheval, suivi d'un Carosse vuide à six chevaux blancs. Il y avoit aussi deux Litieres vuides, &amp; l'on menoit à la main deux Mules ou Haquenées richement harnachées. Ensuite marchoient les Chevaux-legers, &amp; les Cuirassiers le Sabre nud à la main, &amp; des Trompettes &amp; Timbales. Le Pape fut receu par le Sacré College à la grande porte de Sainte Marie Majeure. Il donna ensuite la Benediction au Peuple, &amp; permit à tous les Religieux de luy baiser les pieds.</p>
+      </div>
+
+<div xml:id="MG-1690-01_135">
+        <head>MG-1690-01_135</head>
+        <bibl>Mercure galant, janvier 1690, p. 135-138</bibl>
+        <p>Vous sçavez sans doute, Madame, que les Peres Theatins ont accoûtumé de celebrer tous les ans une Neuvaine solemnelle dans les jours qui precedent la Feste de Noël, pour honorer l'attente des Couches de la Sainte Vierge. On y fait tous les jours la lecture d'une pieuse Meditation sur les Prieres de l'Eglise qu'on appelle communément les O, &amp; elle est precedée &amp; suivie d'une excellente Musique. Tant qu'a vescu la feuë Reine Mere Anne d'Austriche de glorieuse Memoire, elle n'a jamais manqué d'assister à cette solemnité, &amp; elle y venoit ordinairement accompagnée de ses Augustes Enfans. Pendant que le Roy faisoit sa residence à Paris, Sa Majesté y envoyoit toûjours sa Musique, &amp; ne manquoit point la veille de Noël de se trouver au Salut. Son A.R. Monsieur n'a pas oublié une si Sainte Coustume, dont la Reine sa Mere luy avoit donné l'exemple, &amp; à moins que quelque indisposition ne l'en empesche, ce Prince ne se dispense jamais de venir rendre ses hommages à la Créche du Sauveur naissant. Ainsi il a continué cette année ce pieux devoir, s'étant rendu dans l'Eglise des Peres Theatins le 24. du mois passé, accompagné de Madame &amp; de Mademoiselle.</p>
+      </div>
+
+<div xml:id="MG-1690-01_150">
+        <head>MG-1690-01_150</head>
+        <bibl>Mercure galant, janvier 1690, p. 150-152</bibl>
+        <p>Eglise de Saint André dans la Ville de Niort, agrandie par les bienfaits du Roy.</p>
+        <p/>
+        <p>[Le roi fit agrandir l'église Saint-André de Niort, devenue trop petite avec la conversion exemplaire des Protestants que cette ville venait de connaître.]</p>
+        <p/>
+        <p>Mr le President de Fontmort dont le zele a toûjours paru fort grand pour tout ce qui regarde la veritable Religion, &amp; qui n'a épargné ny soins ny depenses pour la faire fleurir, a eu soin de l'employ des deniers que Sa Majesté a donnez pour cet Ouvrage, qui fut achevé la veille des Rois. Le lendemain, Mr de Fontmort fit poser la Croix sur le frontispice de cette Eglise, avec les Armes du Roy, &amp; l'on celebra une Messe solemnelle, où assisterent tous les Corps de Justice, &amp; tout ce qu'il y a de personnes de qualité &amp; de distinction dans la Ville, &amp; aux environs. Le Pere Mainard de l'Oratoire, qui est fort goûté des nouveaux Convertis de la Province, y prescha &amp; fit un Eloge du Roy qui répondit à la beauté de la matiere. Le Te Deum fut chanté ensuite, &amp; suivy de toute [sic] les démonstrations de la plus parfaite joye. La Mousqueterie &amp; les Cloches de la Ville se firent entendre aussi-bien qu'une infinité d'instrumens guerriers.</p>
+      </div>
+
+<div xml:id="MG-1690-01_189">
+        <head>MG-1690-01_189</head>
+        <bibl>Mercure galant, janvier 1690, p. 189-191</bibl>
+        <p>Divertissemens du Carnaval.</p>
+        <p/>
+        <p>Pendant que plus de vingt Puissances souveraines liguées contre la France sont en mouvement, que l'on tient par tout des Assemblées, &amp; que la pluspart accablent leurs Sujets d'imposts, tout est tranquille en ce Royaume, tout y marche d'un pas égal, &amp; l'on prend les divertissemens de la saison à Paris &amp; à Versailles de la maniere qu'on a toujours fait. Le Roy a donné à son ordinaire de magnifiques repas depuis que le Carnaval est ouvert, &amp; l'on n'a passé aucune soirée à Versailles sans qu'il y eust quelque Mascarade, ou quelque autre divertissement. Monseigneur le Dauphin est aussi venu plusieurs fois prendre celuy du Bal à Paris, &amp; ce Prince s'estant extremement diverty au premier que luy donna Monsieur, a souhaité que Son Altesse Royale luy en donnast un second.</p>
+      </div>
+
+<div xml:id="MG-1690-01_199">
+        <head>MG-1690-01_199</head>
+        <bibl>Mercure galant, janvier 1690, p. 199-203</bibl>
+        <p>Ceremonies faites à Avignon pour l'Exaltation du cardinal Ottoboni au pontificat.</p>
+        <p/>
+        <p>Le soir du 3. du mois passé Mr. Cenci, Vicelegat d'Avignon, monta à l'Eglise Metropolitaine, où l'on chanta le Te Deum en Musique, pour rendre graces à Dieu de l'exaltation du Cardinal Ottoboni au Pontificat. Il y avoit plus de deux cens flambeaux de cire blanche allumez, ce qui faisoit un tres bel effet. Mr le Vicelegat marcha precedé de la Compagnie des Suisses &amp; de sa Garde ordinaire, &amp; accompagné de Mr Gaddi, Auditeur &amp; Lieutenant General de la Legation des Auditeurs de rote ; du Vicegerent de la Chambre Apostolique, des Juges de S. Pierre, du Viguier, Consuls, &amp; autres Magistrats, &amp; Officiers du Pape, &amp; de la Ville, &amp; de toute la Noblesse. Ensuite il descendit à la Place du Palais, où il fit allumer un feu qu'on y avoit préparé. Le lendemain, tout le Clergé Regulier &amp; Seculier se rendit le matin dans l'Eglise Metropolitaine, &amp; marcha de là processionnellement à celle des Peres Cordeliers. Mr le Vicelegat, precedé &amp; accompagné comme le jour précedent, suivit la Procession, &amp; lors qu'il fut monté sur le Trône que l'on a accoutumé de luy dresser, Mr de Garensé, Prevost de Nostre Dame, chanta la grand'Messe, aprés quoy Mr l'Abbé de Tulle prononça en Latin le Panégyrique du Pape avec beaucoup de succés. Cela estant fait, la Procession, &amp; Mr le Vicelegat retournerent dans le mesme ordre à l'Eglise Metropolitaine. Il y eut pendant trois jours des Illuminations extraordinaires au Palais Apostolique, à l'Hostel de Ville, &amp; à toutes les Maisons, avec de grands feux de joye &amp; d'artifice dans toutes les Places publiques.</p>
+      </div>
+</body>
+  </text>
+</TEI>

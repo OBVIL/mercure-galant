@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-03_034">
+        <head>MG-1698-03_034</head>
+        <bibl>Mercure galant, mars 1698, p. 34-36</bibl>
+        <p>Réjoüissances faites à Prémontré, avec un Discours prononcé à la gloire du Roy.</p>
+        <p/>
+        <p>Ce Discours, dont je n'exprime icy que la substance, fut suivi d'un Te Deum chanté en Musique par les Religieux de la Maison, qui formoient un tres-beau Choeur, &amp; par d'habiles Musiciens qu'on avoit fait venir des meilleurs endroits. On chanta ensuite l'Exaudiat, &amp; d'autres Prieres pour Sa Majesté, au son des Orgues, des Trompettes, &amp; de plusieurs instrumens de Musique, qui firent un effet merveilleux dans l'Eglise. Aprés cette Cérémonie où la joye &amp; la devotion se trouverent heureusement mélées l'une avec l'autre, toute la Communauté passa dans la grande Cour de l'Abbaye, où elle trouva devant le logis Abbatial un tres-beau feu préparé. On l'alluma au bruit des Tambours, des Timbales, des Trompettes, &amp; de la Mousqueterie de prés de deux cens personnes qui étoient sous les Armes, tant des habitans de Prémonstré, que des Villages circonvoisins.</p>
+      </div>
+
+<div xml:id="MG-1698-03_038">
+        <head>MG-1698-03_038</head>
+        <bibl>Mercure galant, mars 1698, p. 38-52</bibl>
+        <p>Réjouissances faites à Troyes.</p>
+        <p/>
+        <p>Cette publication s'y fit le 25. de Janvier en la maniére qui suit. [...] Il y eut un grand concours de Peuple, &amp; l'on entendit pendant presque toute la marche, le bruit des tambours, le son des hautbois &amp; des fifres, les fanfares des Trompettes, de frequentes &amp; vigoureuses décharges de mousquets, &amp; les acclamations réïterées de Vive le Roy. Le lendemain sur les trois heures du soir, tous les Corps de la Ville ayant esté invitez d'assister au Te Deum, se trouvérent à l'heure marquée, en l'Eglise de Saint Pierre, Cathedrale, où Mr l'Evêque de Troyes &amp; tout le Clergé s'étoient rendus. Il y eut une Musique celebre. L'Orgue y fut touché par Mr Siret, habile Organiste, &amp; l'on y chanta un tres beau Motet, dont la Musique estoit de la composition du Maistre des Enfans de Choeur. Les actions de graces renduës, le Maire &amp; les Eschevins retournérent à l'Hôtel de Vile, où les hautbois, les fifres, les tambours, les trompettes &amp; les violons formérent une tres-belle simphonie. A sept heures du soir Mr Lion, Maire, mit le feu à l'artifice que l'on avoit preparé devant la Maison de Ville. Il fut tiré par le sieur Parisot, Architecte &amp; Sculpteur. [...]</p>
+        <p>Ensuite Mr Lion convia à souper les Echevins &amp; Officiers de Ville, &amp; autres personnes de marque ; &amp; le soupé fini, il leur donna le divertissement d'un Bal avec celuy d'un Feu d'artifice qu'il avoit fait dresser devant son logis. Mr Lion, son Fils, y mit le feu. [...]</p>
+        <p>Le sixiéme du mois passé, jour du Jeudy gras, les Habitans du Fauxbourg de Croncels se rangerent sous les armes. Sur les trois heures du soir, les Capitaines &amp; Lieutenans, à la teste de trois cens hommes, se rendirent chez Mr l'Abbé, Juge des quatre Fauxbourgs, &amp; de là chez Mr Langlois leur Majot, qui assisterent au Te Deum, que les Peres de Saint Lazare, &amp; tous les Seminaristes chanterent dans l'Eglise de Saint Gilles. Sur les huit heures du soir, Mr l'Abbé mit le feu à l'artifice qu'on avoit dressé devant le Convent des Religieuses de la Visitation ; afin qu'elles eussent plus de part à la joye commune. [...] Aprés que l'artifice eut esté tiré, les Compagnies remenerent le Juge des quatre Fauxbourgs &amp; leur Major jusqu'en leur logis, au son des Hautbois &amp; des Tambours, &amp; les saluerent de plusieurs décharges de mousquets. Elles en userent de la même sorte pour leurs Capitaines. Le reste de la nuit fut employé en joye &amp; en divertissemens.</p>
+      </div>
+
+<div xml:id="MG-1698-03_054">
+        <head>MG-1698-03_054</head>
+        <bibl>Mercure galant, mars 1698, p. 54-70</bibl>
+        <p>Réjouissances faites à Niort.</p>
+        <p/>
+        <p>Mr de Chateauneuf, Seigneur de Pierrelevée, la Goupillere, la Riviere, &amp; autres Places, Lieutenant de Roy, &amp; Maire perpetuel des Ville &amp; Chateau de Niort, dont Mr de Lapara, Maréchal de Camp des Armées du Roy, est Gouverneur ; ayant reçu l'ordre d'assister au Te Deum, de faire tirer le Canon, &amp; d'allumer des feux au sujet de la publication de la Paix, s'assembla à l'Hôtel de Ville avec les Echevins &amp; autres Officiers de Ville, le Dimanche 2. du mois passé, &amp; fit mettre sous les armes le Regiment Royal de milice Bourgeoise, composé de douze Compagnies. [...] Les deux Bataillons de ce Regiment estant assemblez par les ordres de Mr le Lieutenant de Roy, sous la conduite de Mr de la Terraudiere, subdelegué de Mr l'Intendant, ancien Maire &amp; Lieutenant Colonel, le Te Deum fut chanté en l'Eglise de Nôtre Dame, où tous les Corps se rendirent avec les Communautez ecclesiastiques &amp; Religieuses, &amp; un grand concours de peuple. Les Troupes défilerent ensuite dans la Place du Marché-vieux, où elle furent rangées en bon ordre [...]. On y avoit fait dresser un Bucher magnifique [...]. Le feu fut mis au bucher [...], ce qui fut accompagné de plusieurs décharges de Mousqueterie, de plusieurs coups de canon, &amp; de divers feux d'artifices &amp; fusées dont l'air fut remply, au bruit des Tambours &amp; des Trompettes, &amp; aux acclamations du peuple dont la Place estoit remplie, par des cris plusieurs fois redoublez de, vive le Roy. [...] L'on y jetta aussi quelques fusées, les Trompettes &amp; les Hautbois s'y faisant toujours entendre ; &amp; ce qu'il y eut d'agreable, c'est qu'au bruit des Canons &amp; au son des Violons, un grand nombre de peuple s'estant assemblé en cette place, on y dansa publiquement comme dans un Bal reglé, avec toutes les dames qui s'y presenterent sans aucune distinction. Ce fut par ces danses que la feste fut terminée bien avant dans la nuit. [...] Le lendemain Mr Rouget de la Barbiniere, Lieutenant General, aussi distingué par son merite personnel que par l'exercice de sa Charge, regala à souper un nombre considerable des plus distinguez de la Ville, &amp; fit ensuite allumer un feu au devant de son Hostel, où les Conviez tirerent à l'envi un grand nombre de coups de pistolet jusques à minuit, &amp; firent encore danser autour de ce feu toutes les Femmes &amp; Filles de toutes conditions, qui s'y presenterent, avec les violons qui avoient joüé pendant tout le repas.</p>
+      </div>
+
+<div xml:id="MG-1698-03_085">
+        <head>MG-1698-03_085</head>
+        <bibl>Mercure galant, mars 1698, p. 85-92</bibl>
+        <p>Lettre contenant plusieurs nouvelles.</p>
+        <p>La Lettre que vous allez lire contient diverses Nouvelles que vous ne serez pas fâchée d'apprendre.</p>
+        <p/>
+        <p>A MONSIEUR ***</p>
+        <p/>
+        <p>Je suis bien glorieux, Monsieur, d'avoir à vous mander quelque chose qui puisse vous donner une bonne idée du goust que l'on commence à avoir en Portugal pour les Sciences, &amp; de l'honneur qu'on rend à ceux que l'on appelle Sçavans. Il est mort au Bresil il y a cinq ou six mois un Jesuite, nommé le Pere Antoine Vieyra. [...] Jeudy dernier 19. de ce mois, la ceremonie s'en fit dans l'Eglise des Jesuites de Saint Roch, choisie pour ce dessein. [...] [La cérémonie] fut ouverte par l'Office des Morts que chanta la Musique de la Chapelle du Roy. Ensuite l'Evêque d'Illaria celebra la Messe, à la fin de laquelle Dom Manuel Cajetan, homme de condition, Religieux Theatin, prononça une Oraison Funebre, qui répondit fort au merite &amp; à l'érudition de celuy de qui l'on honoroit la memoire.</p>
+      </div>
+
+<div xml:id="MG-1698-03_123">
+        <head>MG-1698-03_123</head>
+        <bibl>Mercure galant, mars 1698, p. 123-136</bibl>
+        <p>Réjouissances faites par les Peres de la Doctrine Chrestienne de Toulouse.</p>
+        <p/>
+        <p>Si la Ville de Toulouse se distingue par les diverses Compagnies de gens de Lettres qui s'y sont formées, elle ne le fait pas moins dans toutes les occasions qui s'offrent de marquer son zele pour son Souverain. Ainsi vous jugez bien que les réjoüissances y ont esté grandes pour la Paix. Il s'y en fait de particulieres par les Peres de la Doctrine Chrestienne du College de l'Esquille, dont vous trouverez les circonstances dans la Lettre que vous allez lire.</p>
+        <p/>
+        <p>A MONSIEUR ***</p>
+        <p/>
+        <p>MONSIEUR,</p>
+        <p>On vous a fort parlé, me dites-vous, des réjoüissances que les Peres de la Doctrine Chrestienne du College de l'Esquille de Toulouse viennent de faire pour la Paix, &amp; vous souhaitez d'en apprendre le détail. [...] C'est une feste de trois jours qu'ils viennent de celebrer. [...]</p>
+        <p>Le second jour, septiéme de Février, le R. P. Vayssiere fit representer une Piece de Theatre, dont le Heros estoit Achille. Elle estoit allegorique, aussi bien que les Balets dont elle estoit ornée, &amp; l'on y pouvoit remarquer une Paix souhaitée avec empressement, recherchée avec ardeur, &amp; celebrée avec joye dans le Palais du Roy Lycomede. Elle fut accompagnée d'intermedes, qui firent en partie récitez, &amp; en partie chantez. Le sujet en estoit l'Heresie bannie pour toujours de la France par le retour de la Paix. On n'y avoit pas oublié le Mariage de Monseigneur le Duc de Bourgogne ; &amp; il auroit esté malaisé de le faire dans une Piece destinée à chanter une Paix, avec laquelle on sçait assez qu'il a des rapports si necessaires. Ce fut dans l'Hostel de Ville qu'elle fut representée. L'assemblée fut encore plus belle ce jour-là que le premier. Le Parlement y assista. Il y eut un grand concours de Dames de la premiere qualité. Mrs les Capitouls toujours zelez pour les interests de Sa Majesté, ne manquerent pas aussi de s'y trouver. Enfin chacun s'empressa d'assister à un spectacle consacré à la gloire du Roy ; &amp; l'on ne comprit jamais mieux le plaisir extrême que ceux de Toulouse ont d'entendre les loüanges d'un si grand Prince. La Piece eut tout le succés qu'on avoit esperé. L'assemblée se retira fort satisfaite de l'Auteur &amp; des Acteurs, &amp; l'on ne se plaignit que de la trop grande foule. La Musique fut trouvée d'un goust merveilleux. Elle estoit de la composition de Mr Aphroidize, Maistre de Musique du Chapitre de S. Sernin.</p>
+      </div>
+
+<div xml:id="MG-1698-03_156">
+        <head>MG-1698-03_156</head>
+        <bibl>Mercure galant, mars 1698, p. 156-162</bibl>
+        <p>Autres réjouissances faites en plusieurs endroits de la Bourgogne.</p>
+        <p/>
+        <p>Les Riceys, qui sont trois Bourgs au commencement de la Bourgogne, situez dans une belle vallée entre Bar sur Seine, Mussy-Levêque, Tonnerre, &amp; Chastillon sur Seine, assez connus par leurs Vignobles, se sont distinguez dans leurs réjoüissances, mais particulierement celuy qui porte le nom de Ricey-le-Bas, fit un feu de joye le 9. du mois passé, qui attira l'applaudissement d'un nombre infini de spectateurs. [...]</p>
+        <p>Cela se fit à l'issuë du Te Deum qui fut chanté dans l'Eglise du lieu, où assisterent tous les Habitans au bruit de la mousqueterie, du carillon des cloches, qui sont en grand nombre ; &amp; fort agreables, &amp; au bruit des Orgues, Hautbois &amp; Violons, avec des Fifres &amp; plusieurs Tambours, le fameux Joüeur de Hautbois, qui a si souvent joüé devant le Roy &amp; Monseigneur, s'y estant aussi trouvé.</p>
+      </div>
+
+<div xml:id="MG-1698-03_162">
+        <head>MG-1698-03_162</head>
+        <bibl>Mercure galant, mars 1698, p. 162-165</bibl>
+        <p>Autres [réjouissances] faites à Nogent le Rotrou.</p>
+        <p/>
+        <p>Nogent le Rotrou, Province du Perche, Generalité d'Alençon, quoy que Bourg seulement, mais le plus grand du Royaume, marqua son zele le 25. de Janvier. La Cavalcade du Maire &amp; des Echevins, accompagnez de trois Herauts &amp; de deux cens cinquante des principaux Bourgeois à cheval, avec des Trompettes, Timbales &amp; Fifres, pour la publication de la Paix, fut magnifique. Le lendemain 26. le Te Deum fut chanté en action de graces dans l'Eglise Collegiale de Saint Jean, où assisterent les Officiers de l'Hostel de Ville,  la meilleure partie de la Bourgeoisie au nombre de 800. hommes sous les armes. Ensuite le Maire alluma le feu dans la place devant l'Hostel de Ville, &amp; la Bourgeoisie y fut regalée de vin. La nuit parut éclairée par un nombre infini d'illuminations ; ce qui fut suivi d'un magnifique repas donné aux hommes de distinction au nombre de quarante-deux, à une table en forme de fer à cheval. Les Pauvres du lieu se sentirent de la feste par la distribution qui leur fut faite de plusieurs vivres le même jour, &amp; le lendemain on donna le Bal &amp; un repas ambigu aux Dames, qui ne fut pas moindre que celuy des hommes.</p>
+      </div>
+
+<div xml:id="MG-1698-03_229">
+        <head>MG-1698-03_229</head>
+        <bibl>Mercure galant, mars 1698, p. 229-237</bibl>
+        <p>Buste du Roy élevé à Rieux.</p>
+        <p/>
+        <p>Le Maire &amp; les Consuls, aprés avoir fait assembler le Conseil de Ville, destinerent le Dimanche 9e. de Février, pour faire la publication de la Paix. Tous les Peuples des environs en furent avertis la veille par plusieurs décharges d'Artillerie, &amp; par le Carillon des Cloches de la Cathedrale, si renommé à cause de la diversité des airs &amp; de la justesse de son harmonie. Tous les Artisans &amp; les Bourgeois de la Ville se mirent le lendemain sous les armes. [...] Toutes les Troupes commencerent à défiler sur les deux heures ; l'Infanterie marchant la premiere quatre à quatre avec ses Officiers &amp; le Colonel à la tête, au bruit d'un grand nombre de Tambours, de Hautbois &amp; des Fifres. La Cavalerie suivoit en bel ordre au son des Trompettes. [...] Ce fut dans cet ordre qu'ils parcoururent plusieurs fois la Ville, &amp; qu'ils se rendirent devant l'Eglise Cathedrale où le Te Deum fût chanté, Mr l'Evêque Officiant pontificalement. Cette action de graces fut accompagnée de plusieurs décharges d'Artillerie &amp; de Mousqueterie, &amp; du bruit des Tambours, des Trompettes &amp; des Hautbois. Au sortir de cette ceremonie, [...] Les troupes s'en retournerent dans le mesme ordre qu'elles estoient venuës, &amp; s'estant rangées en haye de chaque côté devant l'Eglise Cathedrale, où le bucher avoit esté preparé, il fut allumé par le Maire aux cris reïterez de Vive le Roy, au bruit &amp; aux fanfares des Tambours, des Trompettes, &amp; des Hautbois, &amp; des décharges d'Artillerie &amp; de Mousqueterie. [...] Il [Mr le Maire] donna un magnifique repas à vingt-cinq ou trente Dames des plus qualifiées, &amp; fit servir avec la même propreté &amp; la même magnificence une Table de soixante couverts, où estoient les Bourgeois &amp; les principaux de la Ville. La santé du Roy y fut beuë au son des trompettes &amp; de plusieurs autres instrumens. Il y eut ensuite un tres-beau Bal, pendant lequel on jetta un grand nombre de fuzées. Cette grande feste fut enfin terminée par de grands feux &amp; de grandes illuminations qu'on fit dans toutes les ruës, &amp; il n'y eut point de particulier qui ne se distinguast par quelque nouvelle maniere de réjoüissance.</p>
+      </div>
+
+<div xml:id="MG-1698-03_237">
+        <head>MG-1698-03_237</head>
+        <bibl>Mercure galant, mars 1698, p. 237-250</bibl>
+        <p>Réjouissances faites à Soissons.</p>
+        <p/>
+        <p>Le 22. de Janvier, Mr de Buirette, Lieutenant Criminel de Soissons, qui avoit receu les ordres du Roy par Mr le Duc d'Estrées, Gouverneur de la Province, pour la publication de la mesme Paix [...] ; ordonna suivant les Conclusions du Procureur du Roy, que ces ordres seroient enregistrez &amp; publiez le lendemain. [...] Le Jeudy 23. tous s'étans rendus dans la Salle des Audiences du Palais Presidial, Mr Vuarel, l'un des Avocats du Roy, fit un tres-beau Discours, dans lequel il montra les grands biens que toute la France doit attendre de la Paix. Le Lieutenant Criminel parla sur le même sujet avec beaucoup d'éloquence, &amp; aprés que me Greffier du Bailliage eut fait la lecture des ordres de Sa Majesté ; on alla au bruit des Trompettes &amp; des Timballes sur le perron qui donne sur la grande place, où il fit la méme lecture aux acclamations reïterées de Vive le Roy. Cela fait, les Officiers du Baillage &amp; de la Ville monterent à cheval pour faire faire la publication par les Carrefours. [...] Entre ses Huissiers &amp; ses serviteurs de Ville, estoit le Greffier du Baillage, ayant devant luy les Trompettes &amp; les Timbales. [...] La publication de la Paix fut faite à tous les Carfours par le Greffier du Baillage, toûjours precedée &amp; suivie du bruit des Timbales, des Trompettes &amp; des acclamations du peuple. Le soir on fit dans la grande Place devant l'Hotel de Ville un feu d'artifice qui reüssit parfaitement bien. Il y en eut un autre devant le Palais Episcopal avec des Illuminations &amp; des Feux dans toute les ruës. Les Officiers du Baillage &amp; Siége Presidial marchoient ensemble, &amp; le repas où le Maire, les Echevins &amp; autres Officiers de Ville furent invitez, se fit chez Mr Buirette ; Il fut propre &amp; somptueux, &amp; l'on y servit tout ce qu'il y a de plus rare &amp; de meilleur. Dans le temps qu'on se donnoit le plus à la joye, les Musiciens entrerent, &amp; ils chanterent ces Vers.</p>
+        <p/>
+        <p>La Paix qui nous assemble est une Paix charmante,</p>
+        <p>LOUIS qui nous la donne est le plus grand des Rois.</p>
+        <p>Que chacun chante,</p>
+        <p>La Paix qui nous assemble est une Paix charmante,</p>
+        <p>LOUIS qui nous la donne est le plus grand des Rois.</p>
+        <p>Sa sagesse nous y convie.</p>
+        <p>Buvons, buvons, &amp; réjouissons nous.</p>
+        <p>On trouve dans le vin les plaisirs les plus doux,</p>
+        <p>Quand on sçait y noyer la discorde &amp; l'envie.</p>
+        <p/>
+        <p>La Chanson parut fort convenable au sujet, &amp; les Musiciens ayant esté priez de la chanter plusieurs fois, le plaisir de la table fut poussé bien avant dans la nuit. Cependant le bal avoit esté commencé dans une autre Salle, où toutes les personnes distinguées de l'un &amp; de l'autre Sexe, formoient une Assemblée tres-agreable. La Salle estoit éclairée d'un grand nombre de bougies, &amp; on presenta aux Dames beaucoup de Limonades, des Oranges de Portugal, &amp; plusieurs Bassins de Confitures. Le Vendredy 24. le Maire &amp; les Officiers du Corps de Ville, donnerent à souper à ceux du Baillage &amp; Siége Presidial, aux Chefs des autres Compagnies, &amp; aux Officiers de la Gendarmerie, qui estoient à Soissons. [...] On y but la santé du Roy au bruit du canon, des Trompettes &amp; des Timbales, &amp; d'une salve de plusieurs Chevaliers de l'Arquebuse, qui estoient sous les armes devant la porte, &amp; les mesmes Musiciens qu'on avoit veus le jour precedent, vinrent chanter ces autres Vers.</p>
+        <p/>
+        <p>L'invincible LOUIS rend le calme à la terre,</p>
+        <p>Pour un Heros si grand la Paix quitte les Cieux.</p>
+        <p>Il bannit pour jamais les fureurs de la Guerre.</p>
+        <p>Que le plaisir regne en ces lieux</p>
+        <p>Dans ce jour de réjoüissance,</p>
+        <p>Sensibles à nostre bonheur</p>
+        <p>Marquons nostre reconnoissance.</p>
+        <p>LOUIS toujours heureux,</p>
+        <p>LOUIS toûjours vainqueur,</p>
+        <p>Pouvoit de l'Univers achever la conqueste,</p>
+        <p>Mais la bonté l'arrête.</p>
+        <p>Est il rien de plus glorieux ?</p>
+        <p>Dans le temps que tout cede à sa valeur extrême,</p>
+        <p>De ses fiers Ennemis un Roy victorieux,</p>
+        <p>Pour nous donner la Paix, veut se vaincre luy même.</p>
+        <p>Chantons un triomphe si beau,</p>
+        <p>Chantons ce triomphe nouveau,</p>
+        <p>Et quand nous partageons les fruits de la victoire,</p>
+        <p>Rendons, rendons au moins ce tribut à sa gloire.</p>
+        <p/>
+        <p>Le Dimanche 26. du méme mois Mr le Maire donna chez luy une autre feste. Toutes les Dames de distinction y furent invitées, &amp; il y eut un Bal qui fut interrompu sur le minuit par un bruit de guerre. Les fenéttres de la Salle &amp; de la Chambre qui ont veuë sur le Jardin s'ouvrirent, &amp; les Dames s'y estant placées, une partie des hommes entra dans le Jardin qui estoit illuminé par quantité de pots à feu, dont un grand nombre de fusées volantes, &amp; tout ce qu'on peut voir de plus beau dans les feu d'artifice, augmenterent encore la lumiere Une fleche éclatante traçoit en caracteres de feu les paroles de Vive le Roy, &amp; elles furent tres-lisibles depuis le commencement du feu jusques à la fin. On recommença ensuite le Bal qui ne finit que par l'arrivée du jour.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier, première partie, 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-01a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, janvier, première partie, <date>1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-01a_001">
+        <head>MG-1687-01a_001</head>
+        <bibl>Mercure Galant, janvier 1687, p. 1-5</bibl>
+        <p>Scène de liesse populaire pour la guérison du roi</p>
+        <p/>
+        <p>Prélude.</p>
+        <p>Quand les Souverains ont gagné quelques Batailles, ou forcé des Places à se rendre, les Peuples en rendent ordinairement graces à Dieu avec des démonstrations de joye, mais ces actions de graces ne se font que dans une seule Eglise, &amp; au nom de toute une Ville, au lieu que celles que l'on vient de faire pour remercier Dieu du retour de la Santé du Roy, beaucoup plus considerable à ses Peuples, que s'il avoit gagné des Royaumes entiers, ont esté faites dans toutes les Eglises de Paris. Ceux qui les desservent ont prié deux fois ; d'abord pour demander la guérison de Sa Majesté, &amp; ensuite pour en rendre graces à Dieu. Les premiers d'entre les Corps des Bourgeois qui ont fait faire ces Prieres, ont commencé comme a fait l'Eglise, &amp; ils ont ensuite finy par des actions de graces. Ainsi l'Eglise &amp; les Peuples ont prié chacun sur deux sujets, &amp; ces deux sortes de Prieres s'estant faites à quatre fois differentes, ont esté à l'infiny. [...]</p>
+        <p>Toutes les Eglises suffisoient à peine pour ceux qui vouloient faire faire des Prieres, &amp; l'on a esté souvent obligé d'attendre que ceux qui s'estoient mis en estat d'en faire faire les premiers, eussent achevé, pour satisfaire au zele des autres. Les uns ont fait prier pendant un jour entier, les autres pendant trois jours, &amp; les autres pendant neuf ; &amp; enfin, pour rendre ces Prieres plus celebres, on y a ajoûté la Musique, &amp; la décoration des Eglises où tout ce que Paris a de plus riche &amp; de plus superbe a paru, avec les décharges des Boëtes &amp; de la Mousqueterie.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_001_BIS">
+        <head>MG-1687-01a_001_BIS</head>
+        <bibl>Mercure Galant, janvier 1687, première partie, p. 1-5</bibl>
+        <p>Scène de liesse populaire pour la guérison du roi</p>
+        <p/>
+        <p>Prélude.</p>
+        <p>Quand les Souverains ont gagné quelques Batailles, ou forcé des Places à se rendre, les Peuples en rendent ordinairement graces à Dieu avec des démonstrations de joye, mais ces actions de graces ne se font que dans une seule Eglise, &amp; au nom de toute une Ville, au lieu que celles que l'on vient de faire pour remercier Dieu du retour de la Santé du Roy, beaucoup plus considerable à ses Peuples, que s'il avoit gagné des Royaumes entiers, ont esté faites dans toutes les Eglises de Paris. Ceux qui les desservent ont prié deux fois ; d'abord pour demander la guérison de Sa Majesté, &amp; ensuite pour en rendre graces à Dieu. Les premiers d'entre les Corps des Bourgeois qui ont fait faire ces Prieres, ont commencé comme a fait l'Eglise, &amp; ils ont ensuite finy par des actions de graces. Ainsi l'Eglise &amp; les Peuples ont prié chacun sur deux sujets, &amp; ces deux sortes de Prieres s'estant faites à quatre fois differentes, ont esté à l'infiny. [...]</p>
+        <p>Toutes les Eglises suffisoient à peine pour ceux qui vouloient faire faire des Prieres, &amp; l'on a esté souvent obligé d'attendre que ceux qui s'estoient mis en estat d'en faire faire les premiers, eussent achevé, pour satisfaire au zele des autres. Les uns ont fait prier pendant un jour entier, les autres pendant trois jours, &amp; les autres pendant neuf ; &amp; enfin, pour rendre ces Prieres plus celebres, on y a ajoûté la Musique, &amp; la décoration des Eglises où tout ce que Paris a de plus riche &amp; de plus superbe a paru, avec les décharges des Boëtes &amp; de la Mousqueterie.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_098">
+        <head>MG-1687-01a_098</head>
+        <bibl>Mercure Galant, janvier 1687, p. 98-110</bibl>
+        <p>Eglogue de Madame des Houlieres.</p>
+        <p>Ce n'est point assez de vous avoir donné en Prose un abregé des surprenantes Merveilles du Regne du Roy ; il faut encore vous en faire voir un Eloge en Vers dans une Eclogue qui a l'approbation de tous ceux qui s'y connoissent. Elle est de l'Illustre Madame des Houlieres. Ce nom vous répond de la beauté de l'Ouvrage.</p>
+        <p/>
+        <p>LOUIS.</p>
+        <p>ECLOGUE.</p>
+        <p/>
+        <p>Dans les vastes jardins de ce charmant Palais</p>
+        <p>Que le Zephirs [sic], les Nayades &amp; Flore</p>
+        <p>Ont résolu de ne quitter jamais,</p>
+        <p>Iris &amp; Celimene au lever de l'Aurore</p>
+        <p>Chantoient ainsi LOUIS sous un ombrage épais.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Admirez cet amas superbe</p>
+        <p>D'Eaux, de Marbres &amp; d'Or qui brillent à nos yeux,</p>
+        <p>Et de l'Antiquité ces restes précieux ;</p>
+        <p>Cette terre où naguere à peine croissoit l'herbe,</p>
+        <p>Qu'humectoit seulement l'eau qui tombe des Cieux,</p>
+        <p>Par le pouvoir d'un Prince en tout semblable aux Dieux,</p>
+        <p>Renferme dans son sein mille &amp; mille Nayades,</p>
+        <p>Se pare des plus belles Fleurs,</p>
+        <p>Et pour elle Pomone &amp; les Hamadryades</p>
+        <p>Sont prodigues de leurs faveurs</p>
+        <p>LOUIS, plus grand qu'on ne figure</p>
+        <p>Le Dieu qui préside aux Combats,</p>
+        <p>De cent Peuples vaincus augmente ses Estats,</p>
+        <p>Mais il est dans ces lieux Vainqueur de la Nature.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Par ses rares Vertus vos yeux sont ébloüis :</p>
+        <p>Il faut en parler pour vous plaire.</p>
+        <p>On vous voit, quoy qu'on puisse faire,</p>
+        <p>Revenir toujours à LOUIS.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>D'un si juste panchant bien loin de me défendre,</p>
+        <p>Je fais gloire de l'avoüer.</p>
+        <p>Iris, il est plus fort qu'on ne le peut comprendre.</p>
+        <p>Mon plus doux plaisir est d'entendre</p>
+        <p>Loüer ce Conquerant [par] qui sçait bien loüer.</p>
+        <p>Malgré moy ne pouvant le suivre</p>
+        <p>Dans ses prompts &amp; fameux Exploits,</p>
+        <p>Je ne pus me résoudre à vivre</p>
+        <p>Inutile au plus grand des Rois.</p>
+        <p>D'une noble audace animée</p>
+        <p>A sa gloire en secret je consacray mes jours,</p>
+        <p>Et pour faire en tous lieux voler sa renommée,</p>
+        <p>Des neuf sçavantes Soeurs j'imploray le secours.</p>
+        <p>Iris, pour ces soins Heroïques</p>
+        <p>Je negligeay les autres soins.</p>
+        <p>Mes infortunes domestiques</p>
+        <p>En sont de fidelles témoins.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Le beau zele qui vous anime,</p>
+        <p>Vous empesche de voir quels perils vous courez ;</p>
+        <p>Vos veilles, vos transports vous rendent la victime</p>
+        <p>De ce Roy que vous adorez.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Hé! Que fais-je pour luy que l'Univers ne fasse !</p>
+        <p>Depuis les Climats où la glace</p>
+        <p>Enchaisne la fureur des Mers,</p>
+        <p>Jusque dans les Climats où l'ardeur est extrême,</p>
+        <p>Est-il un peuple qui ne l'aime,</p>
+        <p>Et qui n'ait pas sur luy toujours les yeux ouverts ?</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Je le sçay. Cependant si vous vouliez m'en croire.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Ah ! Changez de discours, vos soins sont superflus,</p>
+        <p>Avec moy celebrez sa gloire,</p>
+        <p>Ou je ne vous écoute plus.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Hé bien, de ses hauts faits rappelons la memoire.</p>
+        <p>Qu'ils sont beaux, qu'ils sont éclatans !</p>
+        <p>Il a plus d'une fois foudroyé les Titans.</p>
+        <p>Sa pieté remporte</p>
+        <p>Une pleine victoire</p>
+        <p>Sur un Monstre orgueilleux que respectoit le temps.</p>
+        <p>Il n'est pour luy rien d'impossible</p>
+        <p>Mais il est plus charmant encor qu'il n'est terrible,</p>
+        <p>Et jamais son abord n'a fait de Mécontens.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Il se laisse attendrir ; que sans crainte on se plaigne,</p>
+        <p>Tous les malheureux sont oüis.</p>
+        <p>Quel bonheur d'estre né sous son auguste Regne !</p>
+        <p>Que je sçay bien goûter ce bien dont je joüis !</p>
+        <p>Quels que soient mes malheurs, je n'envie à personne</p>
+        <p>Le faste &amp; les amis que la fortune donne,</p>
+        <p>Chanter LOUIS LE GRAND borne tous mes désirs.</p>
+        <p>Ce plaisir où je m'abandonne</p>
+        <p>Me tient lieu de tous les plaisirs.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Un Roy de ces lointains Rivages</p>
+        <p>Que dore le Soleil de ses premiers rayons</p>
+        <p>Par de magnifiques hommages</p>
+        <p>Confirme de LOUIS ce que nous en croyons,</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>En vain des diverses Provinces</p>
+        <p>Qui voudroient se soûmettre aux Loix de ce Heros,</p>
+        <p>Les Jaloux &amp; superbes Princes</p>
+        <p>S'unissent pour troubler son glorieux repos.</p>
+        <p>Si par des efforts témeraires</p>
+        <p>Ils violent la Paix dont LOUIS est l'appuy,</p>
+        <p>Quel Dieu peut les sauver de ces vastes miseres</p>
+        <p>Que le sort des Vaincus traisne en foule aprés luy !</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Quand le Ciel menaçoit une teste si chere.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Ah ! Cruelle Iris, taisez-vous ;</p>
+        <p>Ne renouvellez point une douleur amere ;</p>
+        <p>De tous ses maux passez je perce le mystere.</p>
+        <p>Il estoit regardé comme un Dieu parmy nous,</p>
+        <p>Et de ses sacrez droits jaloux</p>
+        <p>Le Ciel nous a fait voir une si belle Vie.</p>
+        <p>Aux infirmitez asservie.</p>
+        <p>Mais enfin que gagna son injuste couroux ?</p>
+        <p>LOUIS ne ploya point sous ces terribles coups.</p>
+        <p>A quelques projets qu'il s'attache,</p>
+        <p>Quelque soit le peril qui menace ses jours,</p>
+        <p>On ne sçait où l'homme se cache.</p>
+        <p>Mais le Heros paroist toujours !</p>
+        <p/>
+        <p>Pan, suivy de plus d'un Satyre,</p>
+        <p>A ces mots parut à leurs yeux,</p>
+        <p>Et leur donna l'effroy que la pudeur inspire</p>
+        <p>Au redoutable aspect de ces folastres Dieux.</p>
+        <p>Souffrez que sous d'heureux presages,</p>
+        <p>Nymphes, leur dit ce Dieu des Bois,</p>
+        <p>Je mêle dans ces verds boccages</p>
+        <p>Mes doux concerts à vos charmantes voix.</p>
+        <p>Chantons le plus aimable &amp; le plus grand des Rois.</p>
+        <p>Des Dieux mesmes LOUIS merite les hommages,</p>
+        <p>Rasseurez vos esprits, ne craignez point d'outrages,</p>
+        <p>Je ne suis point icy ce que je suis ailleurs,</p>
+        <p>Il faut s'y faire violence,</p>
+        <p>De LOUIS l'auguste presence</p>
+        <p>Est un terrible frein pour les mauvaises moeurs.</p>
+        <p>Venez donc avec confiance</p>
+        <p>Chanter encore un Roy qui regne sur les Coeurs.</p>
+        <p>Ah ! Sans la frayeur qui me glace,</p>
+        <p>Luy dit lors Celimene avec un fier sousris,</p>
+        <p>J'oserois bien du chant vous disputer le prix.</p>
+        <p>Ne condamnez point mon audace,</p>
+        <p>Vos chalumeaux ont d'agreables sons ;</p>
+        <p>Mais quand LOUIS LE GRAND anime mes chansons,</p>
+        <p>Je le disputerois mesme au Dieu du Parnasse.</p>
+        <p>Alors plus viste sur le Fan</p>
+        <p>Ne fuit l'ardent Chasseur qui des yeux le dévore,</p>
+        <p>D'Iris suivie elle abandonne Pan,</p>
+        <p>Et fut resver ailleurs au Héros qu'elle adore.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_098_BIS">
+        <head>MG-1687-01a_098_BIS</head>
+        <bibl>Mercure Galant, janvier 1687, première partie, p. 98-110</bibl>
+        <p>Eglogue de Madame des Houlieres.</p>
+        <p/>
+        <p>Ce n'est point assez de vous avoir donné en Prose un abregé des surprenantes Merveilles du Regne du Roy ; il faut encore vous en faire voir un Eloge en Vers dans une Eclogue qui a l'approbation de tous ceux qui s'y connoissent. Elle est de l'Illustre Madame des Houlieres. Ce nom vous répond de la beauté de l'Ouvrage.</p>
+        <p/>
+        <p>LOUIS.</p>
+        <p>ECLOGUE.</p>
+        <p/>
+        <p>Dans les vastes jardins de ce charmant Palais</p>
+        <p>Que le Zephirs [sic], les Nayades &amp; Flore</p>
+        <p>Ont résolu de ne quitter jamais,</p>
+        <p>Iris &amp; Celimene au lever de l'Aurore</p>
+        <p>Chantoient ainsi LOUIS sous un ombrage épais.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Admirez cet amas superbe</p>
+        <p>D'Eaux, de Marbres &amp; d'Or qui brillent à nos yeux,</p>
+        <p>Et de l'Antiquité ces restes précieux ;</p>
+        <p>Cette terre où naguere à peine croissoit l'herbe,</p>
+        <p>Qu'humectoit seulement l'eau qui tombe des Cieux,</p>
+        <p>Par le pouvoir d'un Prince en tout semblable aux Dieux,</p>
+        <p>Renferme dans son sein mille &amp; mille Nayades,</p>
+        <p>Se pare des plus belles Fleurs,</p>
+        <p>Et pour elle Pomone &amp; les Hamadryades</p>
+        <p>Sont prodigues de leurs faveurs</p>
+        <p>LOUIS, plus grand qu'on ne figure</p>
+        <p>Le Dieu qui préside aux Combats,</p>
+        <p>De cent Peuples vaincus augmente ses Estats,</p>
+        <p>Mais il est dans ces lieux Vainqueur de la Nature.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Par ses rares Vertus vos yeux sont ébloüis :</p>
+        <p>Il faut en parler pour vous plaire.</p>
+        <p>On vous voit, quoy qu'on puisse faire,</p>
+        <p>Revenir toujours à LOUIS.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>D'un si juste panchant bien loin de me défendre,</p>
+        <p>Je fais gloire de l'avoüer.</p>
+        <p>Iris, il est plus fort qu'on ne le peut comprendre.</p>
+        <p>Mon plus doux plaisir est d'entendre</p>
+        <p>Loüer ce Conquerant [par] qui sçait bien loüer.</p>
+        <p>Malgré moy ne pouvant le suivre</p>
+        <p>Dans ses prompts &amp; fameux Exploits,</p>
+        <p>Je ne pus me résoudre à vivre</p>
+        <p>Inutile au plus grand des Rois.</p>
+        <p>D'une noble audace animée</p>
+        <p>A sa gloire en secret je consacray mes jours,</p>
+        <p>Et pour faire en tous lieux voler sa renommée,</p>
+        <p>Des neuf sçavantes Soeurs j'imploray le secours.</p>
+        <p>Iris, pour ces soins Heroïques</p>
+        <p>Je negligeay les autres soins.</p>
+        <p>Mes infortunes domestiques</p>
+        <p>En sont de fidelles témoins.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Le beau zele qui vous anime,</p>
+        <p>Vous empesche de voir quels perils vous courez ;</p>
+        <p>Vos veilles, vos transports vous rendent la victime</p>
+        <p>De ce Roy que vous adorez.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Hé! Que fais-je pour luy que l'Univers ne fasse !</p>
+        <p>Depuis les Climats où la glace</p>
+        <p>Enchaisne la fureur des Mers,</p>
+        <p>Jusque dans les Climats où l'ardeur est extrême,</p>
+        <p>Est-il un peuple qui ne l'aime,</p>
+        <p>Et qui n'ait pas sur luy toujours les yeux ouverts ?</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Je le sçay. Cependant si vous vouliez m'en croire.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Ah ! Changez de discours, vos soins sont superflus,</p>
+        <p>Avec moy celebrez sa gloire,</p>
+        <p>Ou je ne vous écoute plus.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Hé bien, de ses hauts faits rappelons la memoire.</p>
+        <p>Qu'ils sont beaux, qu'ils sont éclatans !</p>
+        <p>Il a plus d'une fois foudroyé les Titans.</p>
+        <p>Sa pieté remporte</p>
+        <p>Une pleine victoire</p>
+        <p>Sur un Monstre orgueilleux que respectoit le temps.</p>
+        <p>Il n'est pour luy rien d'impossible</p>
+        <p>Mais il est plus charmant encor qu'il n'est terrible,</p>
+        <p>Et jamais son abord n'a fait de Mécontens.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Il se laisse attendrir ; que sans crainte on se plaigne,</p>
+        <p>Tous les malheureux sont oüis.</p>
+        <p>Quel bonheur d'estre né sous son auguste Regne !</p>
+        <p>Que je sçay bien goûter ce bien dont je joüis !</p>
+        <p>Quels que soient mes malheurs, je n'envie à personne</p>
+        <p>Le faste &amp; les amis que la fortune donne,</p>
+        <p>Chanter LOUIS LE GRAND borne tous mes désirs.</p>
+        <p>Ce plaisir où je m'abandonne</p>
+        <p>Me tient lieu de tous les plaisirs.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Un Roy de ces lointains Rivages</p>
+        <p>Que dore le Soleil de ses premiers rayons</p>
+        <p>Par de magnifiques hommages</p>
+        <p>Confirme de LOUIS ce que nous en croyons,</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>En vain des diverses Provinces</p>
+        <p>Qui voudroient se soûmettre aux Loix de ce Heros,</p>
+        <p>Les Jaloux &amp; superbes Princes</p>
+        <p>S'unissent pour troubler son glorieux repos.</p>
+        <p>Si par des efforts témeraires</p>
+        <p>Ils violent la Paix dont LOUIS est l'appuy,</p>
+        <p>Quel Dieu peut les sauver de ces vastes miseres</p>
+        <p>Que le sort des Vaincus traisne en foule aprés luy !</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Quand le Ciel menaçoit une teste si chere.</p>
+        <p/>
+        <p>CELIMENE.</p>
+        <p>Ah ! Cruelle Iris, taisez-vous ;</p>
+        <p>Ne renouvellez point une douleur amere ;</p>
+        <p>De tous ses maux passez je perce le mystere.</p>
+        <p>Il estoit regardé comme un Dieu parmy nous,</p>
+        <p>Et de ses sacrez droits jaloux</p>
+        <p>Le Ciel nous a fait voir une si belle Vie.</p>
+        <p>Aux infirmitez asservie.</p>
+        <p>Mais enfin que gagna son injuste couroux ?</p>
+        <p>LOUIS ne ploya point sous ces terribles coups.</p>
+        <p>A quelques projets qu'il s'attache,</p>
+        <p>Quelque soit le peril qui menace ses jours,</p>
+        <p>On ne sçait où l'homme se cache.</p>
+        <p>Mais le Heros paroist toujours !</p>
+        <p/>
+        <p>Pan, suivy de plus d'un Satyre,</p>
+        <p>A ces mots parut à leurs yeux,</p>
+        <p>Et leur donna l'effroy que la pudeur inspire</p>
+        <p>Au redoutable aspect de ces folastres Dieux.</p>
+        <p>Souffrez que sous d'heureux presages,</p>
+        <p>Nymphes, leur dit ce Dieu des Bois,</p>
+        <p>Je mêle dans ces verds boccages</p>
+        <p>Mes doux concerts à vos charmantes voix.</p>
+        <p>Chantons le plus aimable &amp; le plus grand des Rois.</p>
+        <p>Des Dieux mesmes LOUIS merite les hommages,</p>
+        <p>Rasseurez vos esprits, ne craignez point d'outrages,</p>
+        <p>Je ne suis point icy ce que je suis ailleurs,</p>
+        <p>Il faut s'y faire violence,</p>
+        <p>De LOUIS l'auguste presence</p>
+        <p>Est un terrible frein pour les mauvaises moeurs.</p>
+        <p>Venez donc avec confiance</p>
+        <p>Chanter encore un Roy qui regne sur les Coeurs.</p>
+        <p>Ah ! Sans la frayeur qui me glace,</p>
+        <p>Luy dit lors Celimene avec un fier sousris,</p>
+        <p>J'oserois bien du chant vous disputer le prix.</p>
+        <p>Ne condamnez point mon audace,</p>
+        <p>Vos chalumeaux ont d'agreables sons ;</p>
+        <p>Mais quand LOUIS LE GRAND anime mes chansons,</p>
+        <p>Je le disputerois mesme au Dieu du Parnasse.</p>
+        <p>Alors plus viste sur le Fan</p>
+        <p>Ne fuit l'ardent Chasseur qui des yeux le dévore,</p>
+        <p>D'Iris suivie elle abandonne Pan,</p>
+        <p>Et fut resver ailleurs au Héros qu'elle adore.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_122">
+        <head>MG-1687-01a_122</head>
+        <bibl>Mercure Galant, janvier 1687, p. 122-130</bibl>
+        <p>Ceremonies observées aux obsèques de feu Monsieur le Prince.</p>
+        <p/>
+        <p>Je vous ay mandé dans ma Lettre du dernier mois, que le Corps de feu Monsieur le Prince avoit esté exposé à Fontainebleau sur un Lit de parade pendant plusieurs jours. [...]</p>
+        <p>Monsieur le Prince de Conty, choisy par le Roy pour aller jetter en son nom de l'Eau-bénite sur le Corps, arriva à Fontainebleau le 21. de Décembre, &amp; fut receu à la descente du Carosse par Monsieur le Duc, à present Monsieur le Prince, qui estoit accompagné de Ms les Ducs de la Tremoüille &amp; de Coislin, Parens, &amp; environné de ses Gentilshommes. Mr de Saintot, Maistre des Ceremonies, conduisit Monsieur le Prince de Conty à un Apartement tendu de deüil, qu?on luy avoit préparé, &amp; dans lequel il se revestit d'une grande robe de deüil. [...] [Dans la chambre de deuil] Monsieur le Prince de Conty [...] osta son Bonnet, aprés quoy il se mit à genoux sur le Prié-Dieu du Roy, posé sur un drap de pied de Velours rouge au pied de l'Estrade. Les Gardes du Corps se rangerent tout autour. Alors Mr l'Evesque d?Autun en Habits Pontificaux commença le De profundis, que les Ecclesiastiques chanterent, &amp; au milieu de ce Pseaume Monsieur le Prince de Conty s?approcha du Corps, &amp; le salüa.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_122_BIS">
+        <head>MG-1687-01a_122_BIS</head>
+        <bibl>Mercure Galant, janvier 1687, première partie, p. 122-130</bibl>
+        <p>Ceremonies observées aux obsèques de feu Monsieur le Prince.</p>
+        <p/>
+        <p>Je vous ay mandé dans ma Lettre du dernier mois, que le Corps de feu Monsieur le Prince avoit esté exposé à Fontainebleau sur un Lit de parade pendant plusieurs jours. [...]</p>
+        <p>Monsieur le Prince de Conty, choisy par le Roy pour aller jetter en son nom de l'Eau-bénite sur le Corps, arriva à Fontainebleau le 21. de Décembre, &amp; fut receu à la descente du Carosse par Monsieur le Duc, à present Monsieur le Prince, qui estoit accompagné de Ms les Ducs de la Tremoüille &amp; de Coislin, Parens, &amp; environné de ses Gentilshommes. Mr de Saintot, Maistre des Ceremonies, conduisit Monsieur le Prince de Conty à un Apartement tendu de deüil, qu'on luy avoit préparé, &amp; dans lequel il se revestit d'une grande robe de deüil. [...] [Dans la chambre de deuil] Monsieur le Prince de Conty [...] osta son Bonnet, aprés quoy il se mit à genoux sur le Prié-Dieu du Roy, posé sur un drap de pied de Velours rouge au pied de l'Estrade. Les Gardes du Corps se rangerent tout autour. Alors Mr l'Evesque d'Autun en Habits Pontificaux commença le De profundis, que les Ecclesiastiques chanterent, &amp; au milieu de ce Pseaume Monsieur le Prince de Conty s'approcha du Corps, &amp; le salüa.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_248">
+        <head>MG-1687-01a_248</head>
+        <bibl>Mercure Galant, janvier 1687, p. 248-301</bibl>
+        <p>Actions de graces rendües pour le retablissement de la Santé du Roy.</p>
+        <p/>
+        <p>J'aurois à remplir un Volume de tous les Te Deum qui ont esté chantez en action de graces pour le rétablissement de la Santé du Roy. Ainsi je vous parleray seulement de quelques-uns. Le 7. de ce mois les Chefs Conducteurs des differens Ouvrages des Gobelins firent faire des Prieres solemnelles pour ce sujet, dans l'Eglise de Saint Hippolite leur Paroisse, &amp; donnerent dans cette journée tous les témoignages de joye qui accompagnent ordinairement les Réjoüissances publiques, en conservant neantmoins le caractere d'une pieté vrayment chrestienne, qui estoit le principal but de leur action. Le matin à la pointe du jour on fit une Salve de Boëtes pour annoncer cette grande Feste, &amp; avertir ceux qui devoient y prendre part de se rendre à l'Eglise. Elle se trouva magnifiquement parée, &amp; l'Autel quoy que fort enrichy, orné d'une maniere simple &amp; noble, qui marquoit bien que c'estoit des gens de goust &amp; de dessein, qui en avoient pris soin ; le Portrait de Sa Majesté estoit exposé au milieu de l'Eglise. Le Service commença sur les dix heures par l'Exposition du Saint Sacrement, aprés quoy la Messe fut chantée en Musique de la Composition de Mr Oudot. Aprés la Messe on fit une seconde salve de Boëtes, pour avertir les Pauvres de venir pour la distribution de mille pains qui se fit à la porte de l'Eglise. Le Service recommença sur les deux heures par un sçavant Panegyrique du Roy que fit le Pere Menestrier, Jesuite, qui prit pour texte, Domine salvum fac Regem. Il y fit briller également la pieté &amp; l'éloquence, &amp; le finit par ces mesmes mots Domine salvum fac Regem, ce qui plut &amp; toucha beaucoup &amp; parut du temps. Aprés ce Panegyrique on chanta les Vespres &amp; le Salut, aussi en Musique. Le Salut fut suivi du Te Deum, &amp; le soir sur les huit heures, on fit faire une troisiéme salve de Boëtes pour avertir le Peuple de venir prendre part à la Réjoüissance d'un grand feu que l'on dressa devant la porte de la Maison Royale des Gobelins, où l'on abandonna une piece de Vin, qui fut beue avec de grandes acclamations de joye pour l'heureux rétablissement d'une Santé si precieuse à l'Etat.</p>
+        <p>Les Augustins Deschaussez, appellez communement les Petits Peres, estant de Fondation Royale, se crurent d'autant plus obligez de donner dans cette occasion des marques publiques de leur joye, qu'ils reçoivent tous les jours de nouveaux bienfaits de Sa Majesté. Ainsi aprés avoir dit plusieurs Messes pour le Roy durant son incommodité, &amp; fait plusieurs Prieres qu'ils conclurent par une Neuvaine solemnelle où le Saint Sacrement fut exposé à tous les Saluts, &amp; où ils eurent la consolation de voir tout leur Quartier, qui n'est pas un des moins peuplez de Paris, venir se joindre a eux pour demander au Ciel l'entiere guerison de ce Monarque, sçachant que le voeux de toute la France, &amp; les leurs en particulier avoient esté exaucez, ils en voulurent remercier Dieu publiquement. Le 9 de ce mois fut choisy pour ces actions de graces, &amp; dés le matin ils le firent connoistre par une décharge de trente Boëtes. Le soir ils firent chanter le Te Deum. La Musique &amp; la Symphonie estoient de la composition de Mr Ludet, Officier ordinaire de la Musique du Roy. Il y eut une triple salve de cent cinquante Mousquetaires que Mr Stoup Colonel du Regiment des Gardes Suisses, avoit envoyez dans leur Court. La premiere se fit au commencement du Te Deum, la seconde à la fin, &amp; la troisiéme aprés la Benediction du Saint Sacrement. Ces trois Salves furent faites au bruit des Tambours &amp; des Fifres, de trois Compagnies dont on avoit tiré ces détachemens, &amp; la derniere fut suivie d'une décharge de cent Boëtes que ces Religieux avoit fait ranger dans leur Jardin. Leur Eglise estoit toute illuminée.</p>
+        <p>Le Lendemain les Officiers &amp; Cavaliers du Guet à Cheval, créez par Sa Majesté pour faire la Ronde pendant la nuit dans cette grande Ville, firent faire dans la mesme Eglise une pareille solemnité. Le Te Deum y fut chanté par la mesme Musique, &amp; finit par une décharge de Boëtes accompagnée de plusieurs douzaines de Fusées volantes. Mr le Mareschal Duc de la Feüillade qui prend part à tout ce qui se fait pour la gloire du Roy aux environs de la Place des Victoires, &amp; particulierement dans l'Eglise de ces Peres dediée à Nostre Dame des Victoires, voulut partager leur joye en faisant allumer le soir de grands feux dans la Place, tirer des Boëtes par trois décharges, &amp; distribuer du vin à tous les Passans qui y venoient en foule crier Vive le Roy. Ces Réjoüissances durerent trois jours assez avant dans la nuit, les Peuples y donnant à l'envy les uns des autres des marques du plaisir qu'ils ressentoient de la parfaite guerison du Roy.</p>
+        <p>Je vous ay déjà parlé dans ma quatriéme Lettre du Voyage des Ambassadeurs de Siam en France, du Te Deum qui a esté chanté aux Feüillans pour la mesme occasion ; mais ne vous en ayant dit que ce qui regardoit les Ambassadeurs, je vay vous en entretenir plus au long. Ces Peres voulant reconnoistre les bontez que le Roy a pour leur Congregation, &amp; particulierement pour leur Monastere Royal de la Ruë S. Honoré, &amp; Mr de Lully, qui n'est pas moins redevable à ce Prince, voulant de son costé donner des marques de sa reconnoissance, &amp; de sa joye, s'est joint à eux pour les faire éclater. Il a donné sa Musique, &amp; fait toute la dépense qui la concernait ; de mesme que les Feüillans ont fait de leur costé toute celle qui a regardé la Décoration de l'Eglise. Elle ne pouvoit manquer d'estre belle &amp; de bon goust, puis qu'ils avoient pris &amp; suivy les avis de Mr Berrin. L'Eglise estoit toute tenduë de tres-riches Tapisseries, &amp; remplie de plusieurs Lustres &amp; Girandoles, avec des Plaques &amp; des Bras d'argent tout autour. Le Maistre Autel estoit éclairé par un nombre infiny de Cierges, de Bougies &amp; de lampes, qui remplissoient une Gloire qui estoit au dessus du Tabernacle. Au milieu de cette Gloire on voyoit deux Couronnes de Pierreries. La plus élevée representoit une Couronne de gloire ou Couronne immortelle, &amp; estoit toute semée d'étoiles faites de Rubis. Il y avoit aux deux costez de l'Autel deux Obelisques de quinze pieds de haut chacun. Ils estoient tout couverts de lumieres, &amp; éclairoient des Chifres de Sa Majesté formez de Pierreries, qui estoient au milieu de ces Obelisques. Le matin du jour que cette Ceremonie se devoit faire, les Feüillans donnerent un pain, &amp; une chopine de vin à une tres-grande quantité de Pauvres, &amp; firent le soir la mesme distribution. L'empressement fut si grand pour voir cette Feste, à cause du sujet &amp; des personnes qui s'en mêloient, qu'encore qu'elle ne deust commencer qu'à quatre ou cinq heures du soir, plusieurs personnes vinrent retenir leurs places dés dix heures du matin. Il y en eut d'autres qui craignant la foule, vinrent disner aux Feüillans, &amp; ces Peres traiterent ce jour-là prés de deux cens personnes. Ils observerent un ordre admirable pour placer, beaucoup d'entre-eux ayant des listes de ceux dont les places estoient réservées, &amp; les conduisant à mesure qu'ils arrivoient. Les personnes de qualité pouvoient aller se chauffer dans le Convent avec toute sorte de commodité, tant il y eut bon ordre par tout. Mr le Cardinal Ranuzzi officia avec de superbes ornemens, dont la feüe Reyne Mere a fait present aux Feüillans. Je ne dis rien de la Musique ; elle estoit de Mr de Lully, &amp; l'on sçait de quoy il est capable. L'Echafaut où elle estoit placée, estoit remply de cent cinquante personnes. La Simphonie fut trouvée tres-belle. Les Feüillans finirent cette Ceremonie, &amp; chanterent d'un air si remply de zele &amp; si devot, qu'ils édifierent toute l'Assemblée, qui fut touchée de leur chant. Il serait impossible de voir une plus illustre Assemblée. Ce qu'il y a icy de Princes Etrangers, les Ambassadeurs, le Clergé, &amp; ce que la Cour &amp; Paris ont de plus distingué, s'y trouva. Les Feüillans donnerent une fort grande Collation aux Evesques, &amp; à toutes les Personnes de qualité qui voulurent manger, en attendant que l'on pust sortir facilement. Ceux qui furent obligez de demeurer long-temps dans la court, attendirent à la clarté d'un grand nombre de lumières qui estoient à toutes les fenestres qui donnent sur cette court. [...]</p>
+        <p/>
+        <p>Entre le grand nombre de Corps ou de Compagnies qui ont fait éclater leur zele dans la mesme occasion, Mrs les Fermiers Generaux des Fermes unies se sont particulierement distinguez. Ils choisirent l'Eglise des Jacobins Reformez de la ruë S. Honoré pour cette Ceremonie, &amp; elle y fut faite le Jeudy 23. de ce mois avec toute la solemnité possible. Au dessus de la porte de la ruë estoit un grand Cartouche posé sur une tenture de haute-lisse qui tapissoit toute cette porte, &amp; ce Cartouche apprenoit qu'on alloit rendre graces à Dieu dans cette Eglise pour le parfait rétablissement de la Santé du Roy. Au devant de la Tribune des Orgues &amp; de la grande porte de l'Eglise, on avoit dressé un échaffaut pour y placer les Musiciens au nombre de plus de cent. [...]</p>
+        <p>Outre le nombre presque infiny de lampes &amp; de lumières qui faisoient briller [l']Autel de toutes parts, on avoit eu soin de faire paroistre au travers des deux ouvertures qui sont de chaque costé, deux Gloires transparentes, peintes de nuages jaunes qu'on voyoit parsemez de testes de Cherubins, &amp; éclairez par derriere d'un grand nombre de Bougies. Il seroit difficile d'exprimer la magnificence dont toute cette décoration parut aux yeux de tous ceux qui assisterent à cette Ceremonie. Mr le Cardinal Ranuzzi estant arrivé, on commença le Te Deum, qui fut chanté par la plus grande partie des meilleurs Musiciens du Roy &amp; de la Ville. Il estoit de la composition du fameux Mr Lorenzani, aussi bien que l'Exaudiat dont il fut suivy, avec un fort beau Motet chanté par le Sr Favaly, Chantre de la Musique de la Chapelle du Roy, qui se fait admirer de tout le monde par la beauté de sa voix. [...]</p>
+        <p/>
+        <p>Les trois Cours supérieures de la Ville de Roüen, qui avoient assisté le 12. de ce mois à une Messe Solemnelle, &amp; au Te Deum qui fut chanté en musique dans l'Eglise Cathedrale au son de toutes les Cloches &amp; au bruit du Canon &amp; des Boëtes en Action de graces de la guerison de Sa Majesté, ont voulu marquer par des voeux separez que la santé de ce grand Monarque est la plus forte grace dont la France puisse estre redevable au Ciel. Mr de Ris, premier President du Parlement, ne cedant en rien au zele de quatre premiers Presidens de son nom qui l'ont precedé dans cette Charge, &amp; qui dans toutes sortes d'occasions ont fait paroistre une passion extraordinaire pour le service de leur Roy &amp; pour le bien de l'Estat, parut le Jeudy 23. de ce mois à la teste de l'auguste Corps dont il est le chef, &amp; descendit dans la Sale du Palais qui estoit tenduë de tapisseries, &amp; ornée de tout ce qui pouvoit rendre la ceremonie plus éclatante. Le peuple qui l'attendoit en foule, le receut avec des marques de joye extraordinaires. Tous ces Messieurs qui estoient en Robes rouges, ayant pris leurs places, on commença la Messe en musique. Elle fut celebrée par Mr l'Abbé du Four qui est du corps, &amp; grand Tresorier de l'Eglise Cathedrale. Aprés la Messe un Choeur nombreux de Musique entonna le Te Deum, pendant lequel Mr le premier President alla mettre le feu à un grand Bucher que l'on avoit preparé dans la Court du Palais. [...]</p>
+        <p>Les avocats &amp; les Procureurs qui ont fait aussi chanter un Te Deum, se sont distinguez par des Illuminations surprenantes. Les Marchands ont joint de grandes aumônes aux Prieres, &amp; le zele de tous les Corps leur fournit de jour en jour quelque maniere nouvelle de remercier Dieu de la conservation d'un Prince si cher à toute la France.</p>
+        <p>Mrs de la Ville de Blois n'ont rien oublié dans la mesme occasion de ce qui pouvoit marquer leur zele. Ils firent mettre le 19. de ce mois tous les Habitans sous les armes par Compagnies, sans exception d'Avocats, de Procureurs, ny d'autres Bourgeois, qui tous se firent un tres-grand plaisir de faire connoistre par une Feste publique le respectueux amour qu'ils ont pour le Roy. Le Te Deum fut chanté en Musique avec beaucoup de solemnité dans l'Eglise des Jesuites, qui estoit parée extraordinairement &amp; tres-bien illuminée. Mrs les Maire &amp; Echevins, &amp; Mrs les Officiers du Presidial y assisterent en Corps avec les plus Notables de la Ville. [...]</p>
+        <p>L'exemple de Mrs de Blois, fut suivy par les Habitans des Faux bourgs de Foix de la mesme Ville. Ils se mirent sous les Armes au nombre de 350. vestus de mesme parure, avec chacun un ruban de Cravate de mesme couleur, &amp; un Bonnet à la Dragonne, enrichy d'un galon d'or sur les coutures. Ceux des autres Faux-bourgs, de Vienne, de Bourgneuf &amp; de S. Jean étoient aussi habillez fort lestement, &amp; chaque Faux-bourg avoit sa couleur, &amp; sa parure particuliere. Ils firent tous des Réjoüissances qui firent connoistre combien leurs coeurs estoient penetrez de joye pour l'heureuse Convalescence du Roy. Le Clergé n'oublia pas de marquer aussi son zele par un Te Deum qu'il fit chanter dans l'Eglise du Château en grande ceremonie.</p>
+        <p>Mrs de l'Academie Françoise, qui ont un interest tout particulier à la conservation de la Personne sacrée de leur Auguste Protecteur, ont aussi donné des marques de leur joye par un Te Deum qu'ils firent chanter en Musique Lundy dernier 27. de ce mois, dans la Chapelle du Louvre.</p>
+      </div>
+
+<div xml:id="MG-1687-01a_248_BIS">
+        <head>MG-1687-01a_248_BIS</head>
+        <bibl>Mercure Galant, janvier 1687, première partie, p. 248-301</bibl>
+        <p>Actions de graces rendües pour le retablissement de la Santé du Roy.</p>
+        <p/>
+        <p>J'aurois à remplir un Volume de tous les Te Deum qui ont esté chantez en action de graces pour le rétablissement de la Santé du Roy. Ainsi je vous parleray seulement de quelques-uns. Le 7. de ce mois les Chefs Conducteurs des differens Ouvrages des Gobelins firent faire des Prieres solemnelles pour ce sujet, dans l'Eglise de Saint Hippolite leur Paroisse, &amp; donnerent dans cette journée tous les témoignages de joye qui accompagnent ordinairement les Réjoüissances publiques, en conservant neantmoins le caractere d'une pieté vrayment chrestienne, qui estoit le principal but de leur action. Le matin à la pointe du jour on fit une Salve de Boëtes pour annoncer cette grande Feste, &amp; avertir ceux qui devoient y prendre part de se rendre à l'Eglise. Elle se trouva magnifiquement parée, &amp; l'Autel quoy que fort enrichy, orné d'une maniere simple &amp; noble, qui marquoit bien que c'estoit des gens de goust &amp; de dessein, qui en avoient pris soin ; le Portrait de Sa Majesté estoit exposé au milieu de l'Eglise. Le Service commença sur les dix heures par l'Exposition du Saint Sacrement, aprés quoy la Messe fut chantée en Musique de la Composition de Mr Oudot. Aprés la Messe on fit une seconde salve de Boëtes, pour avertir les Pauvres de venir pour la distribution de mille pains qui se fit à la porte de l'Eglise. Le Service recommença sur les deux heures par un sçavant Panegyrique du Roy que fit le Pere Menestrier, Jesuite, qui prit pour texte, Domine salvum fac Regem. Il y fit briller également la pieté &amp; l'éloquence, &amp; le finit par ces mesmes mots Domine salvum fac Regem, ce qui plut &amp; toucha beaucoup &amp; parut du temps. Aprés ce Panegyrique on chanta les Vespres &amp; le Salut, aussi en Musique. Le Salut fut suivi du Te Deum, &amp; le soir sur les huit heures, on fit faire une troisiéme salve de Boëtes pour avertir le Peuple de venir prendre part à la Réjoüissance d'un grand feu que l'on dressa devant la porte de la Maison Royale des Gobelins, où l'on abandonna une piece de Vin, qui fut beue avec de grandes acclamations de joye pour l'heureux rétablissement d'une Santé si precieuse à l'Etat.</p>
+        <p>Les Augustins Deschaussez, appellez communement les Petits Peres, estant de Fondation Royale, se crurent d'autant plus obligez de donner dans cette occasion des marques publiques de leur joye, qu'ils reçoivent tous les jours de nouveaux bienfaits de Sa Majesté. Ainsi aprés avoir dit plusieurs Messes pour le Roy durant son incommodité, &amp; fait plusieurs Prieres qu'ils conclurent par une Neuvaine solemnelle où le Saint Sacrement fut exposé à tous les Saluts, &amp; où ils eurent la consolation de voir tout leur Quartier, qui n'est pas un des moins peuplez de Paris, venir se joindre a eux pour demander au Ciel l'entiere guerison de ce Monarque, sçachant que le voeux de toute la France, &amp; les leurs en particulier avoient esté exaucez, ils en voulurent remercier Dieu publiquement. Le 9 de ce mois fut choisy pour ces actions de graces, &amp; dés le matin ils le firent connoistre par une décharge de trente Boëtes. Le soir ils firent chanter le Te Deum. La Musique &amp; la Symphonie estoient de la composition de Mr Ludet, Officier ordinaire de la Musique du Roy. Il y eut une triple salve de cent cinquante Mousquetaires que Mr Stoup Colonel du Regiment des Gardes Suisses, avoit envoyez dans leur Court. La premiere se fit au commencement du Te Deum, la seconde à la fin, &amp; la troisiéme aprés la Benediction du Saint Sacrement. Ces trois Salves furent faites au bruit des Tambours &amp; des Fifres, de trois Compagnies dont on avoit tiré ces détachemens, &amp; la derniere fut suivie d'une décharge de cent Boëtes que ces Religieux avoit fait ranger dans leur Jardin. Leur Eglise estoit toute illuminée.</p>
+        <p>Le Lendemain les Officiers &amp; Cavaliers du Guet à Cheval, créez par Sa Majesté pour faire la Ronde pendant la nuit dans cette grande Ville, firent faire dans la mesme Eglise une pareille solemnité. Le Te Deum y fut chanté par la mesme Musique, &amp; finit par une décharge de Boëtes accompagnée de plusieurs douzaines de Fusées volantes. Mr le Mareschal Duc de la Feüillade qui prend part à tout ce qui se fait pour la gloire du Roy aux environs de la Place des Victoires, &amp; particulierement dans l'Eglise de ces Peres dediée à Nostre Dame des Victoires, voulut partager leur joye en faisant allumer le soir de grands feux dans la Place, tirer des Boëtes par trois décharges, &amp; distribuer du vin à tous les Passans qui y venoient en foule crier Vive le Roy. Ces Réjoüissances durerent trois jours assez avant dans la nuit, les Peuples y donnant à l'envy les uns des autres des marques du plaisir qu'ils ressentoient de la parfaite guerison du Roy.</p>
+        <p>Je vous ay déjà parlé dans ma quatriéme Lettre du Voyage des Ambassadeurs de Siam en France, du Te Deum qui a esté chanté aux Feüillans pour la mesme occasion ; mais ne vous en ayant dit que ce qui regardoit les Ambassadeurs, je vay vous en entretenir plus au long. Ces Peres voulant reconnoistre les bontez que le Roy a pour leur Congregation, &amp; particulierement pour leur Monastere Royal de la Ruë S. Honoré, &amp; Mr de Lully, qui n'est pas moins redevable à ce Prince, voulant de son costé donner des marques de sa reconnoissance, &amp; de sa joye, s'est joint à eux pour les faire éclater. Il a donné sa Musique, &amp; fait toute la dépense qui la concernait ; de mesme que les Feüillans ont fait de leur costé toute celle qui a regardé la Décoration de l'Eglise. Elle ne pouvoit manquer d'estre belle &amp; de bon goust, puis qu'ils avoient pris &amp; suivy les avis de Mr Berrin. L'Eglise estoit toute tenduë de tres-riches Tapisseries, &amp; remplie de plusieurs Lustres &amp; Girandoles, avec des Plaques &amp; des Bras d'argent tout autour. Le Maistre Autel estoit éclairé par un nombre infiny de Cierges, de Bougies &amp; de lampes, qui remplissoient une Gloire qui estoit au dessus du Tabernacle. Au milieu de cette Gloire on voyoit deux Couronnes de Pierreries. La plus élevée representoit une Couronne de gloire ou Couronne immortelle, &amp; estoit toute semée d'étoiles faites de Rubis. Il y avoit aux deux costez de l'Autel deux Obelisques de quinze pieds de haut chacun. Ils estoient tout couverts de lumieres, &amp; éclairoient des Chifres de Sa Majesté formez de Pierreries, qui estoient au milieu de ces Obelisques. Le matin du jour que cette Ceremonie se devoit faire, les Feüillans donnerent un pain, &amp; une chopine de vin à une tres-grande quantité de Pauvres, &amp; firent le soir la mesme distribution. L'empressement fut si grand pour voir cette Feste, à cause du sujet &amp; des personnes qui s'en mêloient, qu'encore qu'elle ne deust commencer qu'à quatre ou cinq heures du soir, plusieurs personnes vinrent retenir leurs places dés dix heures du matin. Il y en eut d'autres qui craignant la foule, vinrent disner aux Feüillans, &amp; ces Peres traiterent ce jour-là prés de deux cens personnes. Ils observerent un ordre admirable pour placer, beaucoup d'entre-eux ayant des listes de ceux dont les places estoient réservées, &amp; les conduisant à mesure qu'ils arrivoient. Les personnes de qualité pouvoient aller se chauffer dans le Convent avec toute sorte de commodité, tant il y eut bon ordre par tout. Mr le Cardinal Ranuzzi officia avec de superbes ornemens, dont la feüe Reyne Mere a fait present aux Feüillans. Je ne dis rien de la Musique ; elle estoit de Mr de Lully, &amp; l'on sçait de quoy il est capable. L'Echafaut où elle estoit placée, estoit remply de cent cinquante personnes. La Simphonie fut trouvée tres-belle. Les Feüillans finirent cette Ceremonie, &amp; chanterent d'un air si remply de zele &amp; si devot, qu'ils édifierent toute l'Assemblée, qui fut touchée de leur chant. Il serait impossible de voir une plus illustre Assemblée. Ce qu'il y a icy de Princes Etrangers, les Ambassadeurs, le Clergé, &amp; ce que la Cour &amp; Paris ont de plus distingué, s'y trouva. Les Feüillans donnerent une fort grande Collation aux Evesques, &amp; à toutes les Personnes de qualité qui voulurent manger, en attendant que l'on pust sortir facilement. Ceux qui furent obligez de demeurer long-temps dans la court, attendirent à la clarté d'un grand nombre de lumières qui estoient à toutes les fenestres qui donnent sur cette court. [...]</p>
+        <p/>
+        <p>Entre le grand nombre de Corps ou de Compagnies qui ont fait éclater leur zele dans la mesme occasion, Mrs les Fermiers Generaux des Fermes unies se sont particulierement distinguez. Ils choisirent l'Eglise des Jacobins Reformez de la ruë S. Honoré pour cette Ceremonie, &amp; elle y fut faite le Jeudy 23. de ce mois avec toute la solemnité possible. Au dessus de la porte de la ruë estoit un grand Cartouche posé sur une tenture de haute-lisse qui tapissoit toute cette porte, &amp; ce Cartouche apprenoit qu'on alloit rendre graces à Dieu dans cette Eglise pour le parfait rétablissement de la Santé du Roy. Au devant de la Tribune des Orgues &amp; de la grande porte de l'Eglise, on avoit dressé un échaffaut pour y placer les Musiciens au nombre de plus de cent. [...]</p>
+        <p>Outre le nombre presque infiny de lampes &amp; de lumières qui faisoient briller [l']Autel de toutes parts, on avoit eu soin de faire paroistre au travers des deux ouvertures qui sont de chaque costé, deux Gloires transparentes, peintes de nuages jaunes qu'on voyoit parsemez de testes de Cherubins, &amp; éclairez par derriere d'un grand nombre de Bougies. Il seroit difficile d'exprimer la magnificence dont toute cette décoration parut aux yeux de tous ceux qui assisterent à cette Ceremonie. Mr le Cardinal Ranuzzi estant arrivé, on commença le Te Deum, qui fut chanté par la plus grande partie des meilleurs Musiciens du Roy &amp; de la Ville. Il estoit de la composition du fameux Mr Lorenzani, aussi bien que l'Exaudiat dont il fut suivy, avec un fort beau Motet chanté par le Sr Favaly, Chantre de la Musique de la Chapelle du Roy, qui se fait admirer de tout le monde par la beauté de sa voix. [...]</p>
+        <p/>
+        <p>Les trois Cours supérieures de la Ville de Roüen, qui avoient assisté le 12. de ce mois à une Messe Solemnelle, &amp; au Te Deum qui fut chanté en musique dans l'Eglise Cathedrale au son de toutes les Cloches &amp; au bruit du Canon &amp; des Boëtes en Action de graces de la guerison de Sa Majesté, ont voulu marquer par des voeux separez que la santé de ce grand Monarque est la plus forte grace dont la France puisse estre redevable au Ciel. Mr de Ris, premier President du Parlement, ne cedant en rien au zele de quatre premiers Presidens de son nom qui l'ont precedé dans cette Charge, &amp; qui dans toutes sortes d'occasions ont fait paroistre une passion extraordinaire pour le service de leur Roy &amp; pour le bien de l'Estat, parut le Jeudy 23. de ce mois à la teste de l'auguste Corps dont il est le chef, &amp; descendit dans la Sale du Palais qui estoit tenduë de tapisseries, &amp; ornée de tout ce qui pouvoit rendre la ceremonie plus éclatante. Le peuple qui l'attendoit en foule, le receut avec des marques de joye extraordinaires. Tous ces Messieurs qui estoient en Robes rouges, ayant pris leurs places, on commença la Messe en musique. Elle fut celebrée par Mr l'Abbé du Four qui est du corps, &amp; grand Tresorier de l'Eglise Cathedrale. Aprés la Messe un Choeur nombreux de Musique entonna le Te Deum, pendant lequel Mr le premier President alla mettre le feu à un grand Bucher que l'on avoit preparé dans la Court du Palais. [...]</p>
+        <p>Les avocats &amp; les Procureurs qui ont fait aussi chanter un Te Deum, se sont distinguez par des Illuminations surprenantes. Les Marchands ont joint de grandes aumônes aux Prieres, &amp; le zele de tous les Corps leur fournit de jour en jour quelque maniere nouvelle de remercier Dieu de la conservation d'un Prince si cher à toute la France.</p>
+        <p>Mrs de la Ville de Blois n'ont rien oublié dans la mesme occasion de ce qui pouvoit marquer leur zele. Ils firent mettre le 19. de ce mois tous les Habitans sous les armes par Compagnies, sans exception d'Avocats, de Procureurs, ny d'autres Bourgeois, qui tous se firent un tres-grand plaisir de faire connoistre par une Feste publique le respectueux amour qu'ils ont pour le Roy. Le Te Deum fut chanté en Musique avec beaucoup de solemnité dans l'Eglise des Jesuites, qui estoit parée extraordinairement &amp; tres-bien illuminée. Mrs les Maire &amp; Echevins, &amp; Mrs les Officiers du Presidial y assisterent en Corps avec les plus Notables de la Ville. [...]</p>
+        <p>L'exemple de Mrs de Blois, fut suivy par les Habitans des Faux bourgs de Foix de la mesme Ville. Ils se mirent sous les Armes au nombre de 350. vestus de mesme parure, avec chacun un ruban de Cravate de mesme couleur, &amp; un Bonnet à la Dragonne, enrichy d'un galon d'or sur les coutures. Ceux des autres Faux-bourgs, de Vienne, de Bourgneuf &amp; de S. Jean étoient aussi habillez fort lestement, &amp; chaque Faux-bourg avoit sa couleur, &amp; sa parure particuliere. Ils firent tous des Réjoüissances qui firent connoistre combien leurs coeurs estoient penetrez de joye pour l'heureuse Convalescence du Roy. Le Clergé n'oublia pas de marquer aussi son zele par un Te Deum qu'il fit chanter dans l'Eglise du Château en grande ceremonie.</p>
+        <p>Mrs de l'Academie Françoise, qui ont un interest tout particulier à la conservation de la Personne sacrée de leur Auguste Protecteur, ont aussi donné des marques de leur joye par un Te Deum qu'ils firent chanter en Musique Lundy dernier 27. de ce mois, dans la Chapelle du Louvre.</p>
+      </div>
+</body>
+  </text>
+</TEI>

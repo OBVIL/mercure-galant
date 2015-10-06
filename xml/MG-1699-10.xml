@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1699</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1699-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1699</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1699-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1699-10_057">
+        <head>MG-1699-10_057</head>
+        <bibl>Mercure galant, octobre 1699, p. 57-64</bibl>
+        <p>Relation d'une Feste donnée à Stokolm par le Roy de Suede.</p>
+        <p/>
+        <p>Je vous envoye la Relation d'une Feste donnée à Stokolm par le Roy de Suede, le 6. Aoust dernier.</p>
+        <p>Sa Majesté Suedoise desirant donner à la Famille Royale le divertissement d'une Mascarade, &amp; la chaleur estant encore trop grande pour la faire dans les appartemens, le Jardin du Roy fut choisi, comme le lieu le plus convenable pour cette réjoüissance.</p>
+        <p>Sur les six heures du soir les Masques commencerent à y paroistre, &amp; en moins d'une heure il y en eut environ mille qui se firent admirer par la diversité, &amp; la magnificence de leurs habits, ainsi que par la maniere bizarre &amp; nouvelle dont plusieurs estoient vestus.</p>
+        <p>Sur les sept heures, le Roy, la Reine Doüairiere, leurs Altesses Royales, Madame la Duchesse d'Holstein, &amp; Madame la Princesse sa Soeur, ainsi que Mr le Duc d'Holstein, &amp; leurs Altesses le Prince &amp; la Princesse de Wolfembutel, arriverent avec plusieurs Conseillers d'Estat, &amp; leurs Femmes, mais tous sans estre masquez.</p>
+        <p>Aprés qu'ils eurent fait quelques tours dans le Jardin, à quoy la beauté de la soirée sembloit inviter, &amp; aprés s'estre divertis parmy cette grande foule de Masques, l'on alla à l'Orangerie. [...]</p>
+        <p>Aprés qu'on se fut mis à table, la Simphonie se fit entendre. Les Violons estoient rangez aux deux costez de l'entrée du Sallon à droite, &amp; les Hautbois de l'autre costé sur des Balcons élevez, au bas desquels estoient dressez quatre Buffets. Les Trompettes avec des Timballes estoient dans le Jardin. [...]</p>
+        <p>Le Roy se rendit à l'autre bout du Jardin, vis à vis de l'Orangerie, où l'on avoit dressé un Theatre, dont la décoration estoit formée de Vases, &amp; des caisses d'Orangers. Plusieurs Dames &amp; Cavaliers de la Cour danserent un Balet sur ce Theatre, &amp; receurent de tres-grands applaudissemens. Le Balet fini, toute l'Assemblée se dispersa de costé &amp; d'autre. Leurs Majestez, les Princes &amp; Princesses se retirerent les uns aprés les autres pour s'aller déguiser ; &amp; ce qui augmenta beaucoup le plaisir de ce divertissement, fut qu'au retour personne ne se connoissoit plus, tant les déguisemens estoient bizarres &amp; grotesques.</p>
+        <p>Pendant ce temps-là le Bal commença dans l'Orangerie, &amp; continua jusques à quatre heures du matin.</p>
+      </div>
+
+<div xml:id="MG-1699-10_098">
+        <head>MG-1699-10_098</head>
+        <bibl>Mercure galant, octobre 1699, p. 98-104</bibl>
+        <p>Chanson sur l'air de Joconde, sur toutes les Dames qui se sont trouvées aux Eaux de Bourbon.</p>
+        <p/>
+        <p>La beauté de la Saison a fait cette année venir à Bourbon plusieurs Dames distinguées par la qualité &amp; par le merite. Les unes n'y venant que pour de legeres incommoditez, &amp; les autres pour accompagner seulement quelques-unes de leurs Parentes, ou de leurs Amies, elles ont toutes formé des assemblées tres brillantes. Un Cavalier, qui fait jolimnt [sic] des Vers, s'y est trouvé dans le même temps. On l'a engagé à écrire pour toutes les Dames ; il l'a fait, &amp; ses Vers ont fait plaisir, sur tout dans un pays où les amusemens sont assez rares.</p>
+        <p/>
+        <p>Chanson sur l'Air de Joconde.</p>
+        <p/>
+        <p>Bourbon est, à mon sentiment,</p>
+        <p>Le plus beau lieu du monde ;</p>
+        <p>J'en veux celebrer l'agrément</p>
+        <p>Sur le ton de Joconde.</p>
+        <p>Mille Beautez qu'en ce sejour</p>
+        <p>Un même soin amene,</p>
+        <p>Nous font croire que de l'Amour</p>
+        <p>C'est icy la Fontaine.</p>
+        <p/>
+        <p>Vassé, de vos premiers regards</p>
+        <p>On ne peut se défendre,</p>
+        <p>On court encor plus de hazards</p>
+        <p>Quand on peut vous entendre.</p>
+        <p>Nous sentons mille feux nouveaux</p>
+        <p>S'emparer de nos ames :</p>
+        <p>De Bourbon les bains &amp; les eaux</p>
+        <p>N'éteignent point ces flâmes.</p>
+        <p/>
+        <p>Avec ce teint vif &amp; fleury,</p>
+        <p>Ce yeux si seurs de plaire,</p>
+        <p>La belle Lauzun est icy,</p>
+        <p>Dieux ! qu'y vient-elle faire ?</p>
+        <p>Vient-elle chercher la santé</p>
+        <p>Dans le sein de cette onde,</p>
+        <p>Ou par les traits de sa beauté</p>
+        <p>Y blesser tout le monde ?</p>
+        <p/>
+        <p>A voir l'aimable Montfort</p>
+        <p>Et l'air &amp; la noblesse,</p>
+        <p>Qui de nous ne croiroit d'abord</p>
+        <p>Que c'est une Déesse ?</p>
+        <p>Diane a moins de majesté,</p>
+        <p>La Reine de Cithere</p>
+        <p>A mille fois moins de beauté,</p>
+        <p>Et sçait moins l'art de plaire.</p>
+        <p/>
+        <p>Nou aurions besoin du Berger</p>
+        <p>Qui jugea les Déesses.</p>
+        <p>Pour pouvoir dans ce lieu juger</p>
+        <p>Entre nos deux Duchesses</p>
+        <p>Des Amours, des Ris &amp; des Jeux</p>
+        <p>La troupe se partage,</p>
+        <p>Et l'on ne sçait chez qui des deux</p>
+        <p>On en voit davantage.</p>
+        <p/>
+        <p>Les jours passent comme un moment</p>
+        <p>Avec l'Ambassadrice  :</p>
+        <p>Chacun à son esprit charmant</p>
+        <p>A l'envi rend justice.</p>
+        <p>Les Jeux, les Plaisirs empressez</p>
+        <p>Sont toujours sur ses traces.</p>
+        <p>Ciel ! vient-il des climats glacez</p>
+        <p>Tant de feu, tant de graces ?</p>
+        <p/>
+        <p>Charmante Abbesse, en ce sejour</p>
+        <p>Quand chacun vous revere,</p>
+        <p>Croyez-moy, l'on cache l'amour,</p>
+        <p>Sous ce respect sincere.</p>
+        <p>A vostre esprit comme à vos yeux</p>
+        <p>Qui ne rendroit les armes ?</p>
+        <p>Mais c'est seulement pour les Dieux</p>
+        <p>Que sont faits tant de charmes.</p>
+        <p/>
+        <p>Vous avez pour nous enflâmer</p>
+        <p>Un droit trop legitime :</p>
+        <p>Vous voir, &amp; ne vous pas aimer,</p>
+        <p>Comtesse , c'est un crime.</p>
+        <p>Mais aussi-tost qu'on voit vos yeux,</p>
+        <p>Un certain trouble aimable</p>
+        <p>Nous fait trop sentir qu'en ces lieux</p>
+        <p>Personne n'est coupable.</p>
+        <p/>
+        <p>La jeune de Sors sur ces bords</p>
+        <p>Paroist incomparable :</p>
+        <p>Elle joint aux charmes du corps</p>
+        <p>Un esprit adorable.</p>
+        <p>Que son entretien est charmant,</p>
+        <p>Nostre ame en est ravie,</p>
+        <p>Qui peut la voir un seul moment,</p>
+        <p>L'aime toute se vie.</p>
+        <p/>
+        <p>Jeune Pellard, dans mes portraits</p>
+        <p>Vostre esprit, vostre grace,</p>
+        <p>Vostre douceur &amp; vos attraits</p>
+        <p>Demandent une place :</p>
+        <p>Mais j'ay de trop foibles couleurs</p>
+        <p>Pour un si bel ouvrage.</p>
+        <p>C'est l'amour qui dans tous les coeurs</p>
+        <p>Gravera vostre Image.</p>
+        <p/>
+        <p>Muse, il nous faut trouver encor</p>
+        <p>Quelques graces nouvelles.</p>
+        <p>Peignons un précieux tresor</p>
+        <p>De graces naturelles.</p>
+        <p>Un esprit amusant &amp; doux,</p>
+        <p>Une beauté touchante.</p>
+        <p>Ces traits font reconnoistre à tous</p>
+        <p>L'aimable Lieutenante.</p>
+        <p/>
+        <p>Ah, que l'on goûte de douceur</p>
+        <p>Lorsque l'on vous écoute  !</p>
+        <p>Que vostre voix de notre coeur</p>
+        <p>Découvre bien la route !</p>
+        <p>Mais vous consacrez aux Autels</p>
+        <p>Ces talens admirables.</p>
+        <p>Helas, pour les foibles Mortels</p>
+        <p>Ils ont trop redoutables.</p>
+      </div>
+
+<div xml:id="MG-1699-10_122">
+        <head>MG-1699-10_122</head>
+        <bibl>Mercure galant, octobre 1699, p. 122-141</bibl>
+        <p>Iournal du Voyage de Fontainebleau.</p>
+        <p>Je vous envoye un Journal du voyage de Fontainebleau où la Cour arriva le 3. du mois passé. [...]</p>
+        <p/>
+        <p>Le 5. il y eut chasse du Cerf. [...] Les Comediens représenterent le soir l'Andromaque &amp; Crispin Médecin, où Monseigneur &amp; tous les Princes &amp; Princesses assisterent. [...]</p>
+        <p>Le Mercredy 9. Monsieur le Chancelier prêta serment entre les mains du Roy. Sa Majesté alla tirer l'aprésdinée, &amp; le soir la Comedie du Tartuffe fut representée. [...]</p>
+        <p>Le Samedy 12. il y eut Chasse du Sanglier dans les Toiles, &amp; ensuite promenade en Carosse autour du Canal, &amp; le soir la Comedie de Phedre qui fut suivie du Grondeur.</p>
+        <p>Le Jeudy 17. il y eut Chasse du Cerf, &amp; leurs Majestez Britanniques y allerent dans le Carosse du Roy, ainsi qu'aux Chasses suivantes. Le soir, Monseigneur &amp; Messeigneurs les Princes se divertirent à la Comedie du Menteur.</p>
+        <p>Le Vendredy 18. le Roy d'Angleterre, &amp; Monseigneur allerent de bonne heure à la Chasse du Loup. Il y eut le matin grande Toilette chez Madame la Duchesse de Bourgogne, où Madame la Chanceliere prit le Tabouret. Le Roy alla tirer l'aprésdînée, &amp; Messieurs les Princes coururent le Liévre, Il y eut le soir des Appartemens chez le Roy pour la premiere fois. L'on y chanta une partie de l'Opera de Coronis, dont les Vers dont du sieur Morel, &amp; la Musique du sieur Mataut, tous deux Ordinires [sic] de la Musique du Roy. Le Roy ny leurs Majestez Britanniques n'entendirent point cette Musique, qui fut trouvée fort belle. [...]</p>
+        <p>Le Dimanche 20. le Roy alla tirer, &amp; le soir les Comediens representerent Mithridate &amp; le Florentin.</p>
+        <p>Le Lundy 21. le Roy alla tirer ; leurs Majestez Britanniques ne sortirent point ; il y eut le soir des Appartemens, où Monseigneur entendit ce qui avoit esté déja executé de l'Opera de Coronis. [...]</p>
+        <p>Le Jeudy 24. il y eut Chasse du Cerf, &amp; l'on representa le soir pour la premiere fois la Comedie des Fées, faite exprés pour Fontainebleau, par le sieur d'Ancourt, Comedien, &amp; ornée d'un Prologue &amp; d'Intermedes de Musique &amp; de Danses ; La Musique estoit de Mr de la Lande, Surintendant de la Musique du Roy, &amp; les entrées de Balet du sieur Beauchamp. Les habits estoient du dessein de Mr Berrin.</p>
+        <p>Le Vendredy 25. il y eut grande Toilette chez Madame la Duchesse de Bourgogne, où le dames parurent pour la premiere fois en coiffures d'une forme nouvelle, c'est à dire beaucoup plus basses. Le Roy alla tirer, Monseigneur se promena sur les bords du Canal, &amp; Messeigneurs les Princes coururent le Liévre. Il  eut le soir des Appartemens. L'on y chanta le Prologue &amp; le premier Acte de l'Opera nouveau de Martésie, dont la Musique est de Mr des Touches, qui a composé les Opera d'Issé &amp; d'Amadis de Grece. Cette derniere fut generalement applaudie. [...]</p>
+        <p>Le Dimanche 27. le Roy alla tirer, &amp; il y eut le soir Comedie, qui fut Crispin Musicien. [...]</p>
+        <p>Le Mardy 29. le Roy alla tirer, &amp; Monseigneur courut le Loup. Il y eut le soir des Appartemens, &amp; l'on chanta plusieurs endroits choisis de l'Opera de Martésie, qui ne furent pas moins applaudis que ce qu'on avoit déjà entendu. [...]</p>
+        <p>Le Vendredy 2. il y eut encore Chasse du Cerf, &amp; Appartement le soir. L'on y chanta le Prologue de Phaëton. [...]</p>
+        <p>Le Jeudy 8. il y eut Chasse du Cerf, &amp; le soir la Comedie des Fées. Je vous donneray le reste de ce Journal avant que de fermer cette Lettre.</p>
+      </div>
+
+<div xml:id="MG-1699-10_219">
+        <head>MG-1699-10_219</head>
+        <bibl>Mercure galant, octobre 1699, p. 219-238</bibl>
+        <p>Journal de Montargis.</p>
+        <p/>
+        <p>Je satisfaits volontiers vostre curiosité, en vous envoyant un Journal exact de ce qui s'est passé pendant six jours que la Cour de Monsieur a esté à Montargis. Ce Prince partit de Fontainebleau le Samedy 3. de ce mois, à onze heures du matin. [...]</p>
+        <p>Le Dimanche, Madame la Duchesse de Chastillon arriva. Pendant le dîner &amp; le souper les Trompettes de Monsieur, &amp; les Hautbois de Mr de Rosmadec, son premier Gentilhomme de la Chambre, se firent entendre. Les occupations de ce jour furent le Jeu &amp; le Promenade. [...]</p>
+        <p>Le Lundy, Monseigneur arriva sur les quatre heures, &amp; avec luy Madame la Princesse de Conty Doüairiere, Monsieur le Prince de Conty, Mademoiselle de Lislebonne, Mesdames d'Utfé, de la Valliere, &amp; Marquise de Chatillon. Madame &amp; Mademoiselle d'Armagnac retournerent ce même jour à Fontainebleau. Monsieur, Monsieur le Duc de Chartres, &amp; toute leur Cour, allerent au devant de Monseigneur, qui fut receu au son de toutes les cloches, &amp; aux acclamations de tout le Peuple. [...]</p>
+        <p>Le Jeudy il plut toute la matinée, ce qui n'interrompit point les plaisirs de ce beau lieu. Le Ciel se découvrit l'apresdisnée, &amp; l'on alla à la promenade. Le soir on recommença le jeu jusqu'au soupé, &amp; quand on fut hors de table, les Hauts-bois qui avoient joué à ce repas, inviterent la Compagnie a entrer dans la Grande Salle qui étoit éclairée par vingt-quatre Chandeliers à plusieurs branches. Monsieur permit que l'on dançast, &amp; il se fit une espece de petit Bal tres-agreable.</p>
+      </div>
+
+<div xml:id="MG-1699-10_266">
+        <head>MG-1699-10_266</head>
+        <bibl>Mercure galant, octobre 1699, p. 266-270</bibl>
+        <p>Suite du Journal de Fontainebleau.</p>
+        <p/>
+        <p>Je vous tiens parole, en vous envoyant la suite du Journal du Voyage de Fontainebleau.</p>
+        <p>Le Vendredy 9. le Roy alla tirer, Monseigneur courut le Cerf avec l'Equipage de Mr le Duc du Maine, &amp; Messeigneurs les Princes coururent le Liévre avec les chiens de Mr le Comte de Toulouse. Il  eut le soir Appartement.</p>
+        <p>Le Samedy 10. il y eut Chasse du Loup, &amp; le soir la Comedie de Surena, suivie des Plaideurs.</p>
+        <p>Le Dimanche 11. le Roy alla tirer, &amp; le soir il y eut pour Monseigneur grande répetition de la Musique de l'Opera de Martésie, dans la Galerie des Cerfs.</p>
+        <p>Le Lundy 12. il y eut Chasse du Cerf, &amp; Appartemens le soir.</p>
+        <p>Le Mardy 13. le Roy alla tirer. Monseigneur courut le Loup, &amp; les Comediens representerent le soir le Geolier de soy-même.</p>
+        <p>Le Mercredy 14. le Roy ne sortit point, &amp; entendit à son soupé le Prologue &amp; le premier Acte de l'Opera de Martésie, du Sr des Touches.</p>
+        <p>Le Jeudy 16. le Roy alla tirer, Monseigneur courut le Chevreüil, &amp; Messeigneurs les Princes coururent le Liévre. Les Comediens representerent le soir la Sophonisbe de l'Ainé Corneille, &amp; l'Esté des Coquettes du Sr Dancour.</p>
+        <p>Le Samedy le Roy alla tirer, Monseigneur courut le Loup, &amp; Messeigneurs les Princes, le Liévre. On chanta pendant le soupé du Roy, plusieurs morceaux de l'Opera de Martesie.</p>
+        <p>Le Dimanche 18. le Roy ne sortit point, &amp; il y eut le soir Appartemens où l'on chanta le Temple de la Paix.</p>
+        <p>Le Lundy 19. le Roy alla tirer, &amp; Monseigneur courut le Chevreuil. Le soir les Comediens representerent la Mere Coquette de Mr Quinaut, qui fut precedée d'une Scene nocturne des deux fils de S. Allard, l'un en Scaramouche &amp; l'autre en Arlequin, qui firent des saults  merveilleux.</p>
+        <p>Le Mardy il y eut chasse du Cerf l'aprésdisnée, &amp; le soir il n'y eut aucun divertissement</p>
+        <p>Le Mercredy 21. le Roy alla tirer, &amp; Monseigneur courut le Loup. Le soir les Comediens representerent les Horaces &amp; le Medecin malgré luy.</p>
+        <p>Le Jeudy 22. le Roy vint tout d'une traite de Fontainebleau à Versailles, ayant trois Relais. Ce même jour fut celuy de la consommation du Mariage de Monseigneur le Duc de Bourgogne.</p>
+      </div>
+</body>
+  </text>
+</TEI>

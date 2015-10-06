@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1693</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1693-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1693</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1693-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1693-05_071">
+        <head>MG-1693-05_071</head>
+        <bibl>Mercure galant, mai 1693, p. 71-73</bibl>
+        <p>Dialogues.</p>
+        <p/>
+        <p>Les Vers du Dialogue qui suit, sont faits pour estre mis en Musique. Vous leur trouverez le tour qu'il faut pour cela.</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Ah, qu'il m'est doux de vous aimer !</p>
+        <p>Mon seul bonheur est de vous plaire.</p>
+        <p/>
+        <p>SILVIE.</p>
+        <p>Si cet amour estoit sincere,</p>
+        <p>Il auroit de quoy me charmer.</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Ciel, doutez-vous encor de mon amour extrême ?</p>
+        <p>N'en croyez-vous pas mes sermens ?</p>
+        <p/>
+        <p>SILVIE.</p>
+        <p>Les Dieux permettent aux Amans,</p>
+        <p>D'attester vainement leur puissance suprême.</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Croyez-en mes soupirs.</p>
+        <p/>
+        <p>SILVIE.</p>
+        <p>Ne me trompent-ils pas ?</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Du moins croyez-en vos appas.</p>
+        <p/>
+        <p>SILVIE.</p>
+        <p>Mes yeux n'ont point assez de charmes</p>
+        <p>Pour captiver vostre coeur.</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Ils peuvent arracher les armes</p>
+        <p>Au plus superbe Vainqueur.</p>
+        <p/>
+        <p>SILVIE.</p>
+        <p>Ah, plust au Ciel que vous fussiez fidelle !</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Je vous fais à jamais maistresse de mon coeur.</p>
+        <p/>
+        <p>TOUS DEUX.</p>
+        <p>Heureux, qui peut jusqu'à la mort</p>
+        <p>Brûler d'une ardeur mutuelle.</p>
+      </div>
+
+<div xml:id="MG-1693-05_204">
+        <head>MG-1693-05_204</head>
+        <bibl>Mercure galant, mai 1693, p. 204-207</bibl>
+        <p>Actions de graces rendues à Dieu par les Chevaliers Hospitaliers du Saint-Esprit.</p>
+        <p/>
+        <p>La grace que le Roy a faite aux Chevaliers Hospitaliers du Saint Esprit, en desunissant leurs biens qui avoient esté unis à l'Ordre de Saint Lazare, est un effet trop éclatant de sa justice &amp; de sa bonté, pour ne pas les engager à rendre publics les témoignages de leur reconnoissance. C'est pourquoy, aussi tost que Mr Granvoinet de Salins, Prestre Religieux Profez de l'Ordre Hospitalier du Saint Esprit, Commandeur de Stephanspheld en Alsace, &amp; Deputé de ses Superieurs pour les affaires de son Ordre, eut appris que l'Edit de Sa Majesté estoit enregistré au Grand Conseil, &amp; qu'il alloit estre publié, il écrivit des Lettres Circulaires à tous les Confreres dans les maisons de son Ordre, qui s'estoient soustenuës, &amp; n'avoient point esté unies à celuy de Saint Lazare, tant pour leur donner avis de cette bonne nouvelle, que pour les inviter à remercier Dieu d'une grace si particuliere, &amp; à faire des Prieres pour la Santé, &amp; Prosperité du Roy, &amp; de toute la Famille Royale. Cela fut executé peu de jours après, avec toute la solemnité, &amp; toute la devotion possible, particulierement à Besançon &amp; à Dole en Franche Comté, ainsi qu'à Stephanspheld, où l'on chanta le Te Deum avec une grande Messe, &amp; les Prieres pour le Roy. Depuis ce temps-là, le mesme Commandeur deputé, eut l'honneur de remercier Sa Majesté au nom de tout son Ordre. Il fut presenté par Mr le Maréchal Duc de Duras, Gouverneur de la Franche-Comté.</p>
+      </div>
+
+<div xml:id="MG-1693-05_214">
+        <head>MG-1693-05_214</head>
+        <bibl>Mercure galant, mai 1693, p. 214-231</bibl>
+        <p>Pompe funebre de Mademoiselle d'Orleans, faite à Saint Denis, avec l'invitation faites aux Compagnies Superieures, &amp; autres, &amp; la description du Mausolée.</p>
+        <p/>
+        <p>Le 6. de ce mois, les Herauts &amp; le Roy d'Armes allerent au Parlement, à la Chambre des Comptes, &amp; à la Cour des Aides, avec Mr le Marquis de Blainville, Grand-Maistre des Ceremonies ; à la Cour des Monnoyes, à l'Election, à l'Université, au Chastelet, &amp; à l'Hostel de Ville, avec Mr des Granges, Maistre des Ceremonies, pour faire faire par les Jurez Crieurs qui les suivoient, les proclamations de la Pompe funebre de Mademoiselle d'Orleans. Cette ceremonie commence toujours par le Parlement, &amp; se fait ainsi. Les Herauts entrent d'abord dans la Grand'-Chambre, vestus d'une grande robe de drap noir avec leur cotte d'armes, &amp; s'approchent prés du Barreau, puis ayant fait leurs reverences accoutumées, ils passent au Barreau, où ils se tiennent debout, mais couverts. le Grand Maistre de Ceremonies entre, &amp; après avoir rendu la Lettre de Cachet du Roy, il prend seance avec les Conseillers. Un Commissaire de la Cour fait lecture de la Lettre ; puis la Cour ayant répondu, un Heraut dit aux Jurez Crieurs qui suivent, de faire la proclamation ; &amp; aprés que les Crieurs ont sonné leurs clochettes, l'un d'eux s'avance proche du Barreau &amp; dit, Messieurs, priez Dieu pour l'ame de tres haute &amp; tres puissante Princesse, &amp;c. Il dit le nom &amp; toutes les qualitez, puis il repete encore, priez Dieu pour l'ame, &amp;c. ajoûte, pour le repos de l'ame de laquelle le Roy fait faire un Service solemnel en l'Eglise Royale de Saint Denis en France, un tel jour &amp; à telle heure. Cette proclamation faite, les Herauts &amp; le Grand Maistre des Ceremonies se retirent, &amp; en font autant aux autres Compagnies. Quand ces proclamations eurent été faites pour Mademoiselle d'Orleans, les Herauts se transporterent à Saint Denis en France, pour assister aux Vespres des Morts qui y furent chantées le même jour sur les quatre heures après midy, par les Religieux de cette Abbaye. Les Herauts furent posez par le Roy d'Armes aux quatre coins &amp; au devant du Corps, &amp; tous les Officiers &amp; toutes les Officieres de cette Princesse assisterent à ces Vespres. Le lendemain matin, les Herauts ayant esté posez comme le jour précedent, les Officiers &amp; Officieres de la Maison de Mademoiselle d'Orleans furent placez dans le Choeur par Mr des Granges ; &amp; sur les dix heures du matin, les Compagnies que le Roy avoit fait inviter estant arrivées jusques à onze heures &amp; demie, furent aussi placées par Mr le Marquis de Blainville, &amp; Mr des Granges. Puis les Heauts s'estant levez d'auprés le Corps, aprés avoir fait leurs reverences, s'en allerent avec le Roy d'Armes prendre Monsieur le Duc de Chartres, &amp; Madame la Duchesse de Chartres, Monsieur le Duc, &amp; Mademoiselle, Monsieur le Prince de Conty, &amp; Madame de Guise, dans une maison qui est au dehors de l'Abbaye, où ils trouverent Mr le Marquis de Blainville, Mr des Granges &amp; Mr Martinet, ce dernier Aide des Ceremonies. Ils firent marcher devant eux tous les Pauvres mandians avec chacun un flambeau de cire blanche à la main. Ensuite marcherent les Jurez Crieurs avec leurs robes de drap noir, un Ecusson des Armes de la Princesse Défunte devant &amp; derriere, puis les Herauts, le Roy d'Armes, l'Aide, le Maistre, &amp; le Grand Maistre des Ceremonies ; Monsieur le Duc &amp; Madame la Duchesse de Chartres, Monsieur le Duc &amp; Mademoiselle, Monsieur le Prince de Conti, &amp; Madame de Guise. Ils entrerent en cet ordre par la grande porte de l'Eglise. [...]</p>
+        <p>[...] Tout ce qui regarde [la] Pompe funebre [dressée dans l'église] estoit du dessein de Mr Berrin, Dessinateur du Cabinet du Roy, qui avoit pris soin de le faire executer luy mesme. [...]</p>
+        <p>Les Mandians furent rangez des deux costez de la Nef, jusques au Choeur, &amp; les Crieurs estant restez dans la Nef, les Heraults reprirent leurs places. Les Princes &amp; les Princesse furent conduits aux leurs par Mr le Marquis de Blainville, &amp; Mr l'Archevesque d'Auche qui officia, estant allé à l'Autel avec le Clergé, les Religieux commencerent au Choeur le Libera ; il fut repris par la Musique du Roy, qui acheva de chanter pendant la Messe. A l'Offerte, les Reverences accoûtumées furent faites par le Roy d'Armes, les Heraults, l'Aide, le Maistre, le grand Maistre des Ceremonies, les Princes &amp; les Princesses ; puis l'Oraison Funebre fut prononcée par Mr l'Abbé Anselme. La Messe estant achevée, l'aspersion &amp; les encensemens se firent par les Evesques &amp; les Archevesques, apres quoy le Roy d'Armes se leva de sa place, &amp; alla audevant du Corps, où ayant appellé les Officiers de la Chambre de feu Mademoiselle d'Orleans, il leur dit de rendre les derniers devoirs à leur Maistresse. [...]</p>
+      </div>
+
+<div xml:id="MG-1693-05_235">
+        <head>MG-1693-05_235</head>
+        <bibl>Mercure galant, mai 1693, p. 235-237</bibl>
+        <p>Service fait à Honfleur pour la mesme Princesse.</p>
+        <p/>
+        <p>On a écrit de Honfleur, que les Echevins y avoient fait sonner toutes les Cloches, sitost qu'ils eurent appris la mort de Mademoiselle d'Orleans, qui estoit Dame de leur Ville. Cela fut continué jusqu'au 6. de ce Mois qu'ils luy firent faire un Service solemnel dans la principale Eglise. Elle estoit tenduë à double rang, ornée d'Ecussons, &amp; dans le Choeur un superbe Mausolée. Le Pere Pascal Capucin, l'un des plus celebres Predicateurs de la Province, prononça l'Oraison Funebre de cette Princesse avec beaucoup d'applaudissement.</p>
+      </div>
+
+<div xml:id="MG-1693-05_242">
+        <head>MG-1693-05_242</head>
+        <bibl>Mercure galant, mai 1693, p. 242-243</bibl>
+        <p>Service fait à Soissons.</p>
+        <p/>
+        <p>Le 22. du mois passé, l'Academie de Soissons, qui est en partie redevable de son établissement aux bons offices de feu Mr Pelisson, voulant témoigner sa reconnoissance envers un Ami si plein de merite &amp; de generosité, fit faire dans la Chapelle de l'Evesché un Service solemnel pour le repos de l'ame de ce grand homme. La Messe fut celebrée par Mr l'Abbé de Hericourt, Directeur de la Compagnie, &amp; chantée par le Clergé du Seminaire, composé de plus de quarante Ecclesiastiques. [...]</p>
+      </div>
+
+<div xml:id="MG-1693-05_309">
+        <head>MG-1693-05_309</head>
+        <bibl>Mercure galant, mai 1693, p. 309</bibl>
+        <p>Printemps nouveau.</p>
+        <p/>
+        <p>Vous aurez sans doute attendu un Printemps de moy, mais cette agreable saison a esté si retardée, qu'il y a grande apparence que nous aurons l'Esté tout d'un coup après l'Hiver. C'est ce qui a donné lieu aux Vers suivans.</p>
+        <p/>
+        <p>Vos concerts autrefois, aimable Philomele,</p>
+        <p>Annonçoient les plaisirs de la saison nouvelle,</p>
+        <p>Et preparoient nos coeurs au retour du beau temps.</p>
+        <p>Tout est changé ; les Tambours, les Trompettes,</p>
+        <p>Par leurs bruits éclatans</p>
+        <p>Vous font taire dans vos retraites.</p>
+        <p>Et LOUIS seul qui part vous marque le Printemps.</p>
+      </div>
+
+<div xml:id="MG-1693-05_310">
+        <head>MG-1693-05_310</head>
+        <bibl>Mercure galant, mai 1693, p. 310-313</bibl>
+        <p>Recueils des Motets de Mr de Lorenzani.</p>
+        <p/>
+        <p>Bien que la Musique soit aujourd'huy fort à la mode, &amp; qu'il y ait un tres-grand nombre de Compositeurs, il est certain que les Maistres excellens &amp; originaux sont rares. C'est ce qui fait croire que les vrais Connoisseurs ne seront pas fachez d'estre avertis, que Mr Lorenzani a fait imprimer depuis peu, à la sollicitation de ses Amis, par le Sr Christophe Ballard, un Recueil de plusieurs de ses Motets à une, deux trois, quatre, cinq &amp; six parties, avec les simphonies, le tout en onze volumes dediez au Roy. Mr de Lorenzani remplissoit à Rome avec éclat la place de Maistre de Musique des Jesuites, lorsqu'on luy vint offrir celle de la Cathedrale de Messine, bien plus importante par sa reputation, &amp; par ses revenus, qu'aucune autre d'Italie. Mr le Maréchal de Vivonne, aussi distingué par son esprit &amp; par son bon goust que par ses grands Emplois &amp; par sa naissance, qui commandoit pour lors en Sicile, l'honora bien-tost de son estime &amp; de sa bienveillance, &amp; lors que ce Seigneur revint en France, aprés les revolutions de Messine, il engagea Mr de Lorenzani à le suivre jusqu'à Paris, avant que de retourner à Rome, où la Maistrise de S. Pierre luy estoit offerte. Il le conduisit à la Cour, &amp; le presenta au Roy, auquel il fit entendre des Motets &amp; des Airs Italiens de sa composition, dont Sa Majesté parut si contente, qu'Elle eut la bonté de luy faire dire, que s'il vouloit demeurer en France, Elle auroit soin de sa fortune. Ces paroles furent bientost suivies d'un Present considerable, pour luy faire acheter de Mr Boisset la Charge de Maistre de Musique de la feuë Reine, qu'il a exercée jusqu'à la mort de cette Princesse.</p>
+      </div>
+</body>
+  </text>
+</TEI>

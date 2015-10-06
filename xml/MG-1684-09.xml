@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-09_073">
+        <head>MG-1684-09_073</head>
+        <bibl>Mercure galant, septembre 1684, p. 73-77</bibl>
+        <p>Extrait d'une Lettre de Siam</p>
+        <p/>
+        <p>EXTRAIT DE LA LETTRE de Mr des Landes Bourreau écrite de Siam, en date du 22 Decembre 1682.</p>
+        <p/>
+        <p>Monsieur l'Evesque d'Heliopolis a présenté les Lettres qu'il avoit de Sa Majesté Tres-Chrestienne pour le Roy de Siam, [...]. Cet Evesque eut le lendemain audience de ce Monarque, [...]. Il y avoit déja longtemps que le Barcallon m'avoit dit que le Roy son Maistre, avant que d'aller à Lavau, me donneroit une marque de l'estime qu'il faisoit de nostre Nation, &amp; de la considération particuliere qu'il avoit pour moy, lors qu'on m'avertit de me trouver le 11. Octobre au Palais du Roy. Les Ambassadeurs du Roy de Damby devoient le mesme jour avoir audience. Je m'y rendis dés le matin, &amp; apres avoir passé plusieurs Courts, dans l'une desquelles, qui estoit vis-à-vis le Trône du Roy, il y avoit plusieurs Soldats sous les armes, l'on me fit asseoir dans un endroit tout couvert de Tentes, au milieu de plus de six cens Mandarins. [...] Au signal de quelques Instrumens, plusieurs riches Rideaux qui couvroient le Trône de ce Prince, se tirerent, &amp; Sa Majesté y parut avec beaucoup d'éclat, tant pour la beauté du Trône, que pour la richesse des Pierreries, dont sa teste &amp; ses habits estoient couverts. Apres plusieurs fanfares de Trompettes, le Barcallon prit la parole, &amp; luy dit, que selon l'ordre de Sa Majesté, je me présentois à ses pieds pour recevoir ses faveurs. [...] Au signal des Instrumens que l'on avoit entendus d'abord, les mesmes Rideaux recouvrirent le Trône Royal.[...]</p>
+      </div>
+
+<div xml:id="MG-1684-09_190">
+        <head>MG-1684-09_190</head>
+        <bibl>Mercure galant, septembre 1684, p. 190, 205-206, 208-209</bibl>
+        <p>Prise de Sainte-Maure [par les Vénitiens], avec des remarques curieuses sur l'Isle de ce nom et sa situation</p>
+        <p/>
+        <p>Je viens à la prise de Sainte Maure, dont le Siége fut formé le 23. de Juillet par l'Armée Vénitienne, [...]</p>
+        <p/>
+        <p>Enfin, le Dimanche 6. jour d'Aoust, aprés que le feu eut continué jusqu'au soir de part &amp; d'autre, les Turcs éleverent un Drapeau blanc sur leurs Murailles, pour faire connoistre qu'ils vouloient capituler. [...]</p>
+        <p/>
+        <p>Les Vénitiens n'ont perdu que deux cens Hommes à ce Siége. [...] Mr Morosini fit aussitost benir la principale Mosquée, &amp; le Te Deum y fut chanté.</p>
+      </div>
+
+<div xml:id="MG-1684-09_316">
+        <head>MG-1684-09_316</head>
+        <bibl>Mercure galant, septembre 1684, p. 316-318</bibl>
+        <p>[Nouvelle comédie des Comédiens Italiens confirmant leur succès]</p>
+        <p/>
+        <p>Comme les Comédiens Italiens ont donné depuis deux ans toute leur application à mériter l'aplaudissement de leurs Auditeurs, &amp; que pour y réüssir, ils n'ont épargné ny soins, ny dépense, toutes les Piéces nouvelles qu'ils ont joüées depuis ce temps-là, ont eu des succés qui ont passé ceux qu'on auroit pû esperer autrefois des Ouvrages les plus achevez. Tout Paris y court en foule, comme aux premieres représentations de l'Opéra. La Satyre vive, &amp; juste dont plusieurs de leurs scenes sont remplies, paroist profitable &amp; de bon goût ; &amp; les vices &amp; les folies des François estant deux matieres inépuisables, ils peuvent se promettre toûjours de tres-grandes Assemblées, s'ils continuent à donner des Comédies de ce caractere. Ils en representent une depuis trois semaines intitulée, La Toison d'or Comique, dont les seuls Articles du Mariage d'Arlequin Jason, peuvent divertir les plus serieux.</p>
+      </div>
+</body>
+  </text>
+</TEI>

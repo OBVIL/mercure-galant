@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-05_084">
+        <head>MG-1686-05_084</head>
+        <bibl>Mercure Galant, mai 1686, p. 84-93</bibl>
+        <p>Feste pour célébrer le jour de la naissance du Duc de Modène</p>
+        <p/>
+        <p>On a fait cette année une grande Feste à Modène, pour célébrer selon la coûtume du Pays, le jour de la Naissance du Prince qui gouverne cet Estat. Elle devoit se faire le 6 de Mars, mais une légère indisposition qui luy arriva, fut cause qu'on la remit au 13 du mesme mois. Outre un Opéra en Musique que plusieurs Gentilshommes de cette Cour entreprirent de chanter, d'autres Cavaliers de la mesme Cour préparèrent un Tournoy, avec l'agrément de Mr le Duc de Modène [...] Le 27 de Février, dernier jour du Carnaval, pendant que toute la Cour prenoit le Divertissement d'un bal, auquel les Dames avoient esté invitées par ce Prince, la Danse fut interrompüe par un Concert de Musique, après lequel on vit entrer dans la Salle la fameuse Magicienne Circé, dans un équipage très-pompeux, &amp; avec tout l'ornement qui pouvoit faire connoistre une Fille du Soleil. Elle avoit une Baguette à la main, &amp; estoit suivie d'un fort grand nombres de Pages. Elle chanta quelques Vers, pour expliquer le sujet de sa venüe, &amp; sur un signe qu'elle fit ensuite, les Pages présentèrent un Cartel de Defy à Mr le Duc de Modène &amp; à tous ceux de sa Cour, pour soutenir les armes à la main que dans les coeurs généreux l'amour donne de l'éclat à la valeur. Le Défy fut accepté. Il estoit fait sous les noms d'Ulisse Prince d'Itaque ; de Télègone son Fils ; d'Euriloque &amp; d'Elpénor, Compagnons d'Ulisse ; de Picus Roy des Latins &amp; de Learque. Circé en se retirant chanta un autre Air pour marquer l'impatience qu'elle avoit de voir arriver le jour du Combat. Mr le Duc de Modène avec Mr le Prince Foreste, &amp; dix-huit Chevaliers de leur Suite, se rendit le 13 de Mars dans la Place assignée pour le Camp devant le Palais Ducal. Deux Champions de Circé sous les noms d'Ulisse &amp; de Télègone, se placèrent dans leurs postes, &amp; Eplénor sous la forme d'un Lyon, Euriloque sous celle d'un Ours, parurent sur deux morceaux de Bâtimens anciens &amp; à demy ruinez. On voyoit dans la mesme Place deux espèces de Rochers, où se cachèrent Picus &amp; Léarque, tous deux changez en Sirènes. Une Simphonie guerrière avertit les Spectateurs de l'arrivée de Circé, qui parut assise sur un Dragon. Elle s'avança jusques au milieu du Champ, &amp; après avoir animé ses Champions au Combat, elle se retira pour en estre Spectatrice. Alors la Course fut commencée au bruit des Timbales &amp; des Trompettes, &amp; Mr le Duc de Modène, &amp; Mr le Prince Foreste, le premier armé d'une Lance, &amp; l'autre d'une Zagaïe, allèrent rompre contre [les Champions de Circé]. [...] [A l'issue des Combats, la magicienne] rentra dans le Camp assise sur son Dragon comme elle y estoit venüe d'abord. Elle fit connoistre par les derniers Vers qu'elle chanta, que ses Champions cédoient la Victoire. Après qu'elle se fut retirée, Mr le Duc de Modène, avec Mr le Prince Foreste, &amp; les autres Chevaliers, fit une manière de Caracol autour du Camp, &amp; tous s'estant mis ensuite en Escadron, ils sortirent en bon ordre, &amp; rentrèrent au Palais. Toute cette Feste se fit sans Comparse, &amp; sans les Suites qui sont ordinaires dans les Tournois ; Mr le Duc n'ayant regardé celuy-cy que comme un simple Divertissement, qui permettoit qu'on se dispensast des Règles.</p>
+      </div>
+
+<div xml:id="MG-1686-05_165">
+        <head>MG-1686-05_165</head>
+        <bibl>Mercure Galant, mai 1686, p. 165-169</bibl>
+        <p>Réception faite par les Habitans du Ponteaudemer à M. le Marquis de Beuvron. Lieutenant General pour le Roy en Normandie</p>
+        <p/>
+        <p>M. le Marquis de Beuvron, Lieutenant Général pour le Roy en Normandie, se rendit en la Ville du Ponteaudemer le 24 du dernier mois, accompagné de Madame la Marquise de Beuvron sa femme, &amp; de Mademoiselle de Genlis sa Fille, pour visiter un nouveau Port de Mer que sa Majesté y fait faire dans le dessein de rendre cette Ville là une des plus maritimes de la Province. [...]. [A l'annonce de l'arrivée du marquis] la plupart des Gentilshommes &amp; des jeunes Gens, montèrent à cheval avec des parures magnifiques, &amp; tous les Bourgeois se mirent en armes. Surtout, deux Compagnies de Cuirassiers qui sont en Garnison dans les Faux-bourgs allèrent le recevoir le Sabre à la main, &amp; il entra dans la Ville avec de Grandes Acclamations. Mr d'Argences, Lieutenant Général [de] la Ville &amp; du Vicomté du Ponteaudemer, le vint haranguer à la teste des Echevins, aussi bien que Mr du Bourg, premier Avocat du Roy dans la mesme Vicomté. [...] Il y eut deux jours de réjoüissances publiques, avec Cavalcades, grands festins, bruits de Canon &amp; de Mousqueterie, Trompettes, Tambours, Illuminations, Feux de joye, &amp; d'Artifice. Mr de Beuvron visita ce Port de Mer, &amp; partit ensuite au milieu des cris de Vive le Roy.</p>
+      </div>
+
+<div xml:id="MG-1686-05_185">
+        <head>MG-1686-05_185</head>
+        <bibl>Mercure Galant, mai 1686, p. 185-186</bibl>
+        <p>Table contenant les principes de la Musique en Dialogue</p>
+        <p/>
+        <p>Il s'est fait depuis peu une Table contenant les principes de la Musique en Dialogue. Non seulement elle est facile &amp; divertissante pour ceux qui apprennent cette Science de cette manière, mais elle est aussi fort curieuse pour les Spéculatifs &amp; les plus habiles, qui ont témoigné en faire grand cas. Cette Table se distribuë chez Mr Fleury, qui en est l'Auteur. On y trouve encore d'autres Ouvrages fort considérables, qu'il a faits pour joüer la Basse continuë sur le Théorbe, sur le Lut, &amp; sur la Guitarre.</p>
+      </div>
+
+<div xml:id="MG-1686-05_187">
+        <head>MG-1686-05_187</head>
+        <bibl>Mercure Galant, mai 1686, p. 187-188</bibl>
+        <p>Messe &amp; Sermon en Grec</p>
+        <p/>
+        <p>Je vous ay parlé plusieurs fois de la Feste de la Commémoration du S. Sépulcre qu'on célèbre tous les ans aux Cordeliers du Grand Couvent, le Dimanche de Quasi modo. On y chante une Messe en Grec ; &amp; après l'Evangile, on fait un Discours dans la mesme Langue [...]</p>
+      </div>
+
+<div xml:id="MG-1686-05_189">
+        <head>MG-1686-05_189</head>
+        <bibl>Mercure Galant, mai 1686, p. 189-200, 204-205</bibl>
+        <p>Lettre contenant ce qui s'est passé à Rome touchant le Te Deum, chanté pour rendre grâce à Dieu de l'entière réunion des Protestans de France à l'Eglise Catholique.</p>
+        <p/>
+        <p>J'ay eu raison de vous dire que j'esperois ne pas finir cette Lettre, sans vous apprendre ce se seroit passé dans la Cérémonie du Te Deum qu'on devoit chanter à Rome, pour rendre grâces à Dieu de l'entière réunion des Protestans de France à l'Eglise Catholique. Ce que Mr de Chassebras de Cramailes a écrit là-dessus à Mr le Duc de S. Aignan, contient toutes les particularités de cette Feste. On m'a donné une copie de sa Lettre, dont je vous fait part. Comme il a esté témoin de tout, sa Relation est fort exacte.</p>
+        <p/>
+        <p>De Rome ce Mardy 30 avril 1686</p>
+        <p/>
+        <p>L'on admiroit icy depuis longtemps les grands progrès qui se faisoient dans la France au sujet de la Conversion des Religionnaires, &amp; l'on voyoit que le Ciel secondoit de plus en plus les pieuses entreprises de nôtre Auguste Monarque, lorsque la nouvelle arriva de l'Edit du mois d'Octobre dernier, par lequel Sa Majesté déffendoit l'Exercice de la Religion Prétendue Réformée dans tout son Royaume. Cette nouvelle fut si bien receuë à Rome, que la Chambre Apostolique fit aussitost traduire cet Edit en Italien. On le mit sous la presse ; mais le grand nombre des Exemplaires qui en furent faits ne suffisant pas pour satisfaire l'empressement que chacun montroit d'en avoir une copie, on fut obligé de l'imprimer de nouveau à Bologne, &amp; en d'autres Villes d'Italie. Le Pape écrivit aussitost à Sa Majesté une Lettre de congratulation, comme vous avez seu, &amp; témoigna à plusieurs particuliers qu'il n'avoit jamais receu de nouvelle qui le touchast plus sensiblement. L'effet surprenant de cet Edit ayant fait voir par la Suite que Dieu y mettoit la main, &amp; toute la France se trouvant aujourd'huy presque entièrement purgée de l'Hérésie de Calvin par les soins extraordinaires du Roy, qui n'a d'autre veuë dans toutes ses entreprises que la gloire de Dieu, la grandeur de son Royaume &amp; la félicité de ses Peuples ; Sa Sainteté fit convoquer un Consistoire secret au commencement de ce Caresme, &amp; fit à la fin un Discours Latin tout plein d'éloquence, pour faire voir l'avantage que la Religion recevoit du zèle de nostre pieux Monarque, qui soûtenoit avec tant de gloire la qualité de Trés-Chrétien &amp; de Fils aisné de l'Eglise.[...] Le 26 de ce mois, il ordonna qu'il se tiendroit Chapelle extraordinaire le Dimanche suivant dans la Chapelle de son Palais, &amp; que dans le temps qu'il entonneroit luy mesme le Te Deum, les Canons du Chasteau S. Ange feroient leur décharge, &amp; que toutes les Eglises de Rome, tant les Basiliques, Patriarcales, Collégiales, que les autres Séculières &amp; Régulières sans en excepter aucune, sonneroient ensemble toutes leurs Cloches durant l'espace d'une demie-heure, ordonnant encore qu'il feroit chanter un Te Deum solemnel le mesme jour dans chacune de ces Eglises à la fin de la Grand'Messe, qui est l'heure où la dévotion attire le plus de monde. Ce jour venu qui fut le Dimanche dernier 28 d'Avril, Mr le Cardinal d'Estrées se rendit le matin de bonne heure à la Chapelle du Pape, accompagné d'une Suite extraordinaire de Carrosses ; tous les François qui sont à Rome &amp; un grand nombre de Prélats &amp; de Gentilshommes Romains &amp; Etrangers ayant voulu faire Cortège. Il chanta la Messe en présence de tous les Cardinaux &amp; de toute la Prélature de Rome. Les Maîtres de Cérémonie du Pape avoient mit leur habit rouge dont il ne se servent que dans les plus grandes Festes, &amp; la Messe étant finie, ce mesme Cardinal entonna le Te Deum aux fanfares de toutes les Trompettes du Palais, &amp; au bruit du Canon, &amp; de toutes les Cloches de la Ville qui se firent entendre à plus de douze milles aux environs [...]</p>
+        <p>Le mesme jour au matin l'on exposa le Saint Sacrement pour les Prières des Quarante-heures, dans l'Eglise Paroissiale de S. Loüis des François, administrée par des Ecclésiastiques de la Nation. Le Pape avoit accordé une Indulgence plenière à tous ceux qui visiteroient cette Eglise l'un des trois jours qu'il y demeureroit exposé, &amp; qui s'estant mis en état de mériter les grâces du Ciel, remercieroient Dieu de l'heureux retour des Hérétiques de France à l'Eglise Catholique. Pendant ces trois jours il y est venu un nombre infiny de Peuple, &amp; le Sr Mellani, Maistre de Musique de cette Eglise, &amp; l'un des plus habiles de Rome, a semblé se surpasser luy-mesme dans cette rencontre où il a voulu faire paroistre le zèle ardent qu'il a pour l'interest de la Religion, &amp; pour tout ce qui regarde l'avantage de la France. [...]</p>
+        <p/>
+        <p>Aujourd'huy Mardy martin, les Pères Picpus de Sainte Marie des Miracles ont célèbré une Messe solemnelle dans leur Eglise, avec grand Choeur de Musique &amp; Simphonie. Ensuite ils ont chanté le Te Deum, &amp; tiré toute la quantité de Boëtes &amp; de Mortiers. Ils se préparent à redoubler ce soir les Illuminations du Dôme de leur Eglise, &amp; de toutes les fenestres de leur Couvent. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-05_206">
+        <head>MG-1686-05_206</head>
+        <bibl>Mercure Galant, mai 1686, p. 206-209</bibl>
+        <p>Voicy une autre Lettre de Mr Chassebras, écrite à Mr le Duc de S. Aignan, huit jours après la première.</p>
+        <p/>
+        <p>De Rome le Mardy 7 May 1686</p>
+        <p/>
+        <p>Dimanche dernier 5 de ce mois, les Pères de S. Antoine de Rome célébrèrent une Messe en action de grâces de la Conversion des Hérétiques de France. Le S. Sacrement fut exposé dès le matin. Il y eut une superbe Musique avec grande Simphonie. Mr d'Hervault, l'un des douze Auditeurs du tribunal de la Rote, chanta le Te Deum à la fin de la Messe, où se trouva Mr l'Ambassadeur de France, avec un concours extraordinaire de personnes de qualité. Comme ces Pères ont le coeur tout François, &amp; qu'il font gloire d'estre nez sujets d'un Monarque qui fait l'admiration de toute la Terre, ils n'oublièrent rien pour rendre cette Feste des plus augustes &amp; des plus célèbres. Ils avoient fait orner leur Eglise d'un riche Damas rouge cramoisy, rehaussé de tissus &amp; de franges d'or, avec le Portrait de Sa Sainteté, &amp; celuy du Roy. Ils avoient mis en dehors un autre Portrait de Sa Majesté à cheval, entouré de festons &amp; de satins. Les Trompettes qui estoient dans un Balcon au dessous, mêlant leurs fanfares avec le son des Timbales, sembloient porter jusqu'au Ciel les loüanges du Fils aisné de l'Eglise. Il y avoit un fontaine de vin à la porte du Couvent, qui coula toute la journée, &amp; l'air retentissoit de tous les costez des cris d'alegresse de Vive la France, &amp; Vive le Roy Très-Chrétien. La nuit venüe, l'on éclaira tout le Couvent de Lanternes. On alluma des feux dans la rüe, on tira quantité de fusées, &amp; d'autres Artifices, avec plus de quatre-vingt Boëtes &amp; Mortiers, qui s'estoient déjà fait entendre le soir du jour précédent, &amp; tout le matin de jour-là. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-05_217">
+        <head>MG-1686-05_217</head>
+        <bibl>Mercure Galant, mai 1686, p. 217-219, 221-222</bibl>
+        <p>Cérémonie faite dans l'Eglise de S. Jean en Grève</p>
+        <p/>
+        <p>Le 12 de ce mois on célébra avec beaucoup de magnificence la Feste de la Translation des Reliques de S. Nicolas, Evesque de Mire, dans l'Eglise de S. Jean en Grève. Le motif de cette Feste fut de relever une Confrairie érigée à l'honneur de ce Saint, il y a plus de trois siècles, &amp; qui avoit esté comme éteinte dans les dernières années. C'est à quoy Messire Antoine-Alexandre de Francelles, Docteur de la maison &amp; Société de Sorbonne, &amp; Curé de S. Jean, a fort contribué par ses soins, aussi bien que Mr l'Abbé Billet, Directeur de cette Confrairie, qui est maintenant administrée par les Clercs &amp; Acolytes de la Paroisse. [...]</p>
+        <p/>
+        <p>[Après la procession,] l'Abbé Morelet fit le panégyrique du Saint avec beaucoup d'applaudissement, &amp; près de deux cens Prestres se trouvèrent au Salut. La Musique avoit esté faite par le Sr Boutillier, Musicien de Mademoiselle de Guise, qui n'en a que de bons, &amp; disciple de Mr Marais, si connu pour la Basse de Viole. Le Te Deum fut chanté en action de grâces à Dieu pour le rétablissement de la santé du Roy ; &amp; pour le retour des Protestans au sein de l'Eglise. Ce fut par ces deux raisons que l'on s'attacha particulièrement à donner à cette Feste toute la pompe qui en pouvoit augmenter l'éclat. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-05_223">
+        <head>MG-1686-05_223</head>
+        <bibl>Mercure Galant, mai 1686, p. 223-225</bibl>
+        <p>Autre [cérémonie] faite à Versailles</p>
+        <p/>
+        <p>Comme résoudre &amp; exécuter n'est pour le Roy qu'une mesme chose, surtout dans ce qui regarde le service de Dieu, le Bastiment de la Paroisse de Versailles est presque achevé, quoy qu'il soit commencé depuis peu de temps, &amp; qu'il ait deux Tours &amp; une grande façade. Les six Cloches destinées pour cette nouvelle Eglise, furent bénistes le 3 de ce mois par Mr l'Archevesque de Paris. Monseigneur le Dauphin &amp; Madame la Dauphine nommèrent la première &amp; la cinquième, &amp; les quatre autres furent nommées par les Princes &amp; les Princesses du Sang qui assistèrent à cette Cérémonie. Sa Majesté qui se connoist parfaitement à tout, a pris plaisir à entendre le Carillon de ces Cloches, qui ont leur six Tons de Musique, avec une justesse admirable. Elles ont esté fonduës au vieux Louvre par le Sr de Ninville, &amp; le Sr Droüart son Gendre. Cette fonte a succédé à celle du Carillon de la Samaritaine, ce qui augmente de jour en jour la réputation des Ouvriers, qui continuent à travailler pour le Roy dans le mesme lieu.</p>
+      </div>
+</body>
+  </text>
+</TEI>

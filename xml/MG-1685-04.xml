@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-04_086">
+        <head>MG-1685-04_086</head>
+        <bibl>Mercure Galant, avril 1685, p. 86-90</bibl>
+        <p>Mort de Madame la Marquise de Robias</p>
+        <p/>
+        <p>La pieté qui accompagne ordinairement les personnes de vostre sexe, nous en fait voir un grand nombre, qui dans leurs derniers momens ont une parfaite soumission aux ordres de Dieu, &amp; les reçoivent avec une résignation veritablement Chrestienne. Telle a esté Madame la Dauphine de Sartre, femme de Mr le Marquis de Robias d'Estoublon, morte dans la ville d'Arles le 17. du mois passé. [...] Elle estoit doüée d'un esprit si relevé &amp; si propre aux connoissances sublimes, qu'elles n'ignoroit rien de tout ce qui peut établir l'estime d'une personne sçavante. Elle sçavoit jusqu'aux parties les plus difficiles des mathematiques, telles que l'Algebre, la Philosophie ancienne &amp; moderne, &amp; tout ce qu'il faut croire de plus raisonnable de l'une &amp; de l'autre. Elle s'estoit même acquis les principes de la Medecine ; mais quelque avantage qu'elle receust de ces differentes connoissances, son plus fort attachement estoit la Morale, &amp; sur tout, la Chrestienne qu'elle prenoit pour regle de toutes ses actions. On a peu vû de femmes avoir une intelligence &amp; une penetration plus rafinée, une netteté d'esprit &amp; d'expression plus forte, soit à écrire, soit à parler, ny un talent plus singulier à s'attirer également l'estime, l'admiration &amp; le respect de tous ceux qui l'approchoient. [...] Elle sçavoit parfaitement la Musique, &amp; composoit tres-facilement. Sa methode à chanter estoit admirable, aussi-bien que son talent pour les Instrumens, tels que le Clavessin, le Lut, &amp; le Theorbe. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-04_127">
+        <head>MG-1685-04_127</head>
+        <bibl>Mercure Galant, avril 1685, p. 127-133</bibl>
+        <p>[A propos du Recueil d'Airs d'Honoré d'Ambruis]</p>
+        <p/>
+        <p>Vous ne me demanderez plus pourquoi Mr d'Ambruis après s'estre acquis tant de réputation par ses beaux Airs, a négligé d'en faire part au Public. Il vient d'en donner un Recueil avec leurs ornemens dans la mesure, &amp; les seconds couplets en diminution, mesurez aussi sur la Basse continuë, &amp; tres-propres pour ceux qui veulent se perfectionner dans l'Art de bien chanter, ou toucher sur la partie pour l'accompagnement de la voix seule. Il a cru devoir cette satisfaction au Public, qui le pressoit depuis fort longtemps de faire imprimer quelques uns des Airs qui couroient dans le monde forts imparfaits, &amp; sans leurs Basses naturelles. Ce Recueil en contient beaucoup qui ont mérité une estime genérale. Mr d'Ambruis y en a joint d'autres qui n'ont point encore paru, &amp; il les a accompagnez de leurs seconds couplets en diminution, mesurez pareillement sur la Basse continuë. Il a mis à la fin un Dialogue pour une Haute-contre, un Dessus, &amp; une Basse continuë. On pourra chanter la Basse contre quand on voudra, &amp; en cas on pourra aussi chanter le Dessus en Taille. Ceux qui souhaiteront se perfectionner dans l'Art du Chant, trouveront de la satisfaction dans ce Livre, &amp; si l'on veut consulter ce celebre Maistre, on découvrira des facilitez qui ne peuvent s'exprimer sur le papier. Il s'est servy en quelques endroits de marques particulieres au lieu de Notes, pour les Ports de voix, Cadences épuisées, Cadences en l'air, doubles Cadences, flatemens, accens ou plaintes. Il promet dans peu un autre Livre d'Airs à trois parties chantantes &amp; d'autres Ouvrages. Il a dédié celuy-cy à l'Illustre Mr Lambert, Maistre de Musique de Chambre du Roy. Il en fait l'éloge, &amp; avouë que c'est dans la méditation de ses Ouvrages, qu'il a puisé les connoissances qui l'ont fait travailler si heureusement. Il est assez rare qu'un habile Homme veüille ceder à un autre de mesme profession, &amp; c'est ce qui fera estimer Mr d'Ambruis, autant que ses beaux Airs, &amp; ce qui luy a peut-estre attiré ce Sonnet.</p>
+        <p/>
+        <p>Mettre dans un beau jour les plus foibles pensées,</p>
+        <p>Réparer par des tons les defauts d'un Autheur,</p>
+        <p>Toucher d'une Chanson le moins sensible coeur,</p>
+        <p>Et redonner la vie à des choses passées.</p>
+        <p/>
+        <p>Avec un tour galant, des manieres aisées</p>
+        <p>Peindre les passions, en inspirer l'ardeur,</p>
+        <p>Faire d'un beau sujet éclater la grandeur,</p>
+        <p>Et sçavoir ménager les choses opposées.</p>
+        <p/>
+        <p>Travailler sans relache ; estre toûjours nouveau,</p>
+        <p>C'est montrer ce que l'Art a de rare &amp; de beau,</p>
+        <p>Et ce que, jusqu'icy peu de Gens ont sçeu faire :</p>
+        <p/>
+        <p>Mais joindre à ces talens un esprit bien tourné,</p>
+        <p>Pour plaire également en plus d'un caractère</p>
+        <p>Ce n'est qu'au seul d'Ambruis que le Ciel l'a donné.</p>
+      </div>
+
+<div xml:id="MG-1685-04_134">
+        <head>MG-1685-04_134</head>
+        <bibl>Mercure Galant, avril 1685, p. 134-137</bibl>
+        <p>Plaintes d'un Amant</p>
+        <p/>
+        <p>Voicy d'autres paroles que vous trouverez fort agréables, &amp; tres-propres à estre chantées. Elles sont de Mademoiselle Castille.</p>
+        <p/>
+        <p>PLAINTES D'UN AMANT</p>
+        <p/>
+        <p>Languissant &amp; réveur aux bords d'une Fontaine,</p>
+        <p>Helas ! dis-je cent fois songeant à Céliméne,</p>
+        <p>Ces petits flots d'argent</p>
+        <p>Vont d'un cours diligent</p>
+        <p>R'embellir l'émail de la Plaine.</p>
+        <p>Ces Ruisseaux</p>
+        <p>Ont repris leur doux murmure ;</p>
+        <p>Ces Costeaux</p>
+        <p>Une nouvelle Verdure ;</p>
+        <p>Ces Ormeaux</p>
+        <p>Redonnent leurs frais ombrages ;</p>
+        <p>Ces Oyseaux</p>
+        <p>Font retentir ces Bocages</p>
+        <p>De mille chans nouveaux.</p>
+        <p>Ce Gazon,</p>
+        <p>Ce Valon</p>
+        <p>Refleurit,</p>
+        <p>Tout rit</p>
+        <p>Dans nostre Village,</p>
+        <p>Tout fait l'amour, tout s'engage.</p>
+        <p>Tircis ce galant Berger</p>
+        <p>Qui ne fait que songer</p>
+        <p>A réjouir Iris son aimable Bergere,</p>
+        <p>Va méditant pour elle tout le jour</p>
+        <p>Cent petits Airs nouveaux sur sa Flûte legere</p>
+        <p>Et sa bergere à son tour</p>
+        <p>Ne songe sans cesse</p>
+        <p>Qu'à soulager son amour</p>
+        <p>D'un peu de tendresse.</p>
+        <p>Enfin dans nos Hameaux, dans nos Bois, nos Champs</p>
+        <p>Tout se prépare aux plaisirs innocens</p>
+        <p>Que ramene</p>
+        <p>Le Printemps.</p>
+        <p>L'on y verra plus d'inhumaine</p>
+        <p>Que mon ingrate Céliméne,</p>
+        <p>Qui ne promet à mes feux trop constans</p>
+        <p>Qu'une éternelle peine.</p>
+      </div>
+
+<div xml:id="MG-1685-04_246">
+        <head>MG-1685-04_246</head>
+        <bibl>Mercure Galant, avril 1685, p. 246-256</bibl>
+        <p>Noms de ceux qui doivent estre du Carousel de Monseigneur le Dauphin</p>
+        <p/>
+        <p>Je vous envoye seulement les noms de ceux qui doivent composer le Carousel de Monseigneur le Dauphin. J'aurois satisfait plûtost vostre curiosité sur cét article, mais entre un si grand nombre de Personnes distinguées, il est difficile de fixer un choix. Les maladies, &amp; divers autres accidens y peuvent d'ailleurs apporter du changement, &amp; je ne vous répons pas qu'il n'y en arrive point jusqu'au jour de ce Carousel, qui est remis au commencement de Juin. Mr le Duc de S. Aignan qui entend parfaitement bien ces sortes de Divertissemens guerriers, &amp; qui ordinairement en est l'Inventeur, a donné le sujet de celuy-cy. Il l'a tiré des Guerres Civiles de Grenade, &amp; en a reglé beaucoup de choses, comme il avoit fait à la grande Feste de Versailles qui avoit pour tître, Le Palais d'Alcine, ou Les Plaisirs de l'Isle enchantée. Elles estoit entiérement de son invention, &amp; dura trois jours, avec diférens Spectacles. Il y aura huit Quadrilles dans le Carousel qui va paroistre. Elles seront divisées en deux Partys. Voicy les noms des Officiers Genéraux.</p>
+        <p>M. le Duc de Saint-Aignan Maréchal de Camp Genéral.</p>
+        <p>Il sera suivy de quatre Pages, &amp; de quatre Estafiers, &amp; aura deux Trompettes &amp; un Timbalier.</p>
+        <p>Les Maréchaux de Camp sont</p>
+        <p>M. le Duc de Gramont.</p>
+        <p>M. le Duc d'Uzés.</p>
+        <p>M. le Marquis de Tilladet.</p>
+        <p>M. le Marquis de Dangeau.</p>
+        <p>Ils auront chacun trois Pages &amp; trois Estafiers.</p>
+        <p>Monseigneur le Dauphin sera à la teste de la premiere Quadrille de son Party, qui representera les Abencerrages. Ses couleurs seront Or &amp; Noir, il aura quatre Escuyers qui sont :</p>
+        <p>M. du Mont.</p>
+        <p>M. de la Neuville.</p>
+        <p>M. du Gast.</p>
+        <p>M. de Casau.</p>
+        <p>Il sera suivy de vingt Pages, &amp; de vingt Estafiers, &amp; il aura huit Trompettes &amp; deux Timbaliers.</p>
+        <p>Vous allez lire les noms des jeunes Seigneurs qui seront de son Party. Souvenez-vous, s'il vous plaist, Madame, que je mets ces noms sans marquer les rangs que la naissance doit donner à chacun d'eux.</p>
+        <p>M. le Marquis de Crequy.</p>
+        <p>M. le Marquis de Nangis.</p>
+        <p>M. le Comte de Brione.</p>
+        <p>M. le Duc de la Tremoüille.</p>
+        <p>M. le Grand-Prieur.</p>
+        <p>M. de Mailly.</p>
+        <p>M. de la Roche-Guyon.</p>
+        <p>M. le Prince d'Elbeuf.</p>
+        <p>M. le Duc de Vendosine.</p>
+        <p>M. le Comte de Fiesque.</p>
+        <p/>
+        <p>LES ALMORANDY,</p>
+        <p>Dont les Couleurs seront Argent &amp; Couleur de Feu.</p>
+        <p/>
+        <p>M. le Chevalier Colbert.</p>
+        <p>M. de Coedelette.</p>
+        <p>M. de Plumartin.</p>
+        <p>M. de Bussolle.</p>
+        <p>M. de Mirepoix.</p>
+        <p>M. de Roassy.</p>
+        <p>M. de Thiange.</p>
+        <p>M. de Castres.</p>
+        <p>M. de la Fayette.</p>
+        <p>M. de Palavicin.</p>
+        <p/>
+        <p>LES ALABASES,</p>
+        <p>Dont les Couleurs seront Grisdelin, &amp; Argent.</p>
+        <p/>
+        <p>M. de Hautesoit.</p>
+        <p>M. de Chastre.</p>
+        <p>M. le Chevalier de Broïlle.</p>
+        <p>M. le Marquis d'Antin.</p>
+        <p>M. le Marquis de Tresnel.</p>
+        <p>M. de Villacef.</p>
+        <p>M. le Marquis de Livry.</p>
+        <p>M. de Médavid.</p>
+        <p>M. de Brassac.</p>
+        <p/>
+        <p>LES GAZULES,</p>
+        <p>Qui auront pour Couleurs le Violet &amp; l'Argent.</p>
+        <p/>
+        <p>M. le Prince de Furstemberg.</p>
+        <p>M. le Prince Camille.</p>
+        <p>M. de Chamarante.</p>
+        <p>M. le Marquis de Bellefonds.</p>
+        <p>M. de Neste.</p>
+        <p>M. de Conismark.</p>
+        <p>M. de Rohan.</p>
+        <p>M. le Duc de Roquelante.</p>
+        <p>M. le Prince de Tingry.</p>
+        <p>M. de Rochefort.</p>
+        <p>Ils auront tous chacun deux Pages, &amp; deux Estafiers.</p>
+        <p/>
+        <p>LES VANEGUES,</p>
+        <p>Qui auront pour Couleurs l'or &amp; l'Argent.</p>
+        <p/>
+        <p>M. de Querouël.</p>
+        <p>M. le Marquis de Soyecourt.</p>
+        <p>M. de Villequier.</p>
+        <p>M. Milly Buligneux.</p>
+        <p>M. le Comte d'Ostel.</p>
+        <p>M. le Comte Danau.</p>
+        <p>M. de Carpéigne.</p>
+        <p>M. de Nogaret.</p>
+        <p>M. de Villars.</p>
+        <p>M. le Comte de Gondrin.</p>
+        <p/>
+        <p>LES ZEGRI,</p>
+        <p>Qui porteront Verd &amp; or.</p>
+        <p/>
+        <p>M. de Blanzac.</p>
+        <p>M. de Valentinois.</p>
+        <p>M. le Duc de la Ferté.</p>
+        <p>M. le Marquis d'Alincourt.</p>
+        <p>M. le Chevalier de Sully.</p>
+        <p>M. de Sainte Frique.</p>
+        <p>M. d'Artagnan.</p>
+        <p>M. de Vervins.</p>
+        <p>M. le Prince de Harcourt.</p>
+        <p>M. de Liancourt.</p>
+        <p/>
+        <p>LES MASSES,</p>
+        <p>Qui auront pour Couleurs Feüille-morte &amp; Argent.</p>
+        <p/>
+        <p>M. de Vaubecourt.</p>
+        <p>M. de Surville.</p>
+        <p>M. de Mursé.</p>
+        <p>M. de Quelus.</p>
+        <p>M. de Molac.</p>
+        <p>M. de Froulé.</p>
+        <p>M. de Moüy.</p>
+        <p>M. de Baisemaux.</p>
+        <p>M. de Bournonville.</p>
+        <p>M. d'Ancenis Charost.</p>
+        <p/>
+        <p>LES GOMELES,</p>
+        <p>Dont les couleurs seront Cramoisy &amp; Argent.</p>
+        <p/>
+        <p>M. de Cossé.</p>
+        <p>M. de Vieuxbourg.</p>
+        <p>M. de Montchevreüil.</p>
+        <p>M. de Ferdinand.</p>
+        <p>M. de Bouligneux.</p>
+        <p>M. le Chevalier de Soyecourt.</p>
+        <p>M. de Vibraye.</p>
+        <p>M. de Novion.</p>
+        <p>M. le Duc d'Atris.</p>
+        <p>M. de Chemerault.</p>
+        <p>Ils auront tous chacun deux Pages, &amp; deux Ecuyers, de mesme que ceux du premier Party.</p>
+      </div>
+
+<div xml:id="MG-1685-04_273">
+        <head>MG-1685-04_273</head>
+        <bibl>Mercure Galant, avril 1685, p. 273-274, 277</bibl>
+        <p>Devotions du Roy &amp; de toute la Maison Royale pendant la Semaine Sainte</p>
+        <p/>
+        <p>Le Roy qui remplit avec tant d'application &amp; d'exactitude tous les devoirs d'un Monarque, s'est ataché pendant toute la derniere semaine de Caresme avec autant de zéle que de pieté à tous ceux d'un veritable Chrétien. Non seulement il s'est trouvé à tous les Offices que prescrit l'Eglise dans un temps si saint, mais il a fait encore toutes les choses qui les rendent beaucoup plus longs &amp; plus fatigans pour luy que pour les particuliers, comme celles de faire la Cene, &amp; de toucher les Malades. [...]</p>
+        <p/>
+        <p>Le même jour le Roy, Monseigneur le Dauphin, &amp; Madame la Dauphine, entendirent la Grand'Messe chantée par la Musique de Sa Majesté, &amp; assistérent à la procession du Saint-Sacrement. [...]</p>
+      </div>
+
+<div xml:id="MG-1685-04_288">
+        <head>MG-1685-04_288</head>
+        <bibl>Mercure Galant, avril 1685, p. 288-295</bibl>
+        <p>Changement arrivé dans la Troupe des Comédiens Italiens</p>
+        <p/>
+        <p>La Comédie estant plus à la mode qu'elle n'a jamais esté, &amp; faisant depuis quelque temps plusieurs fois chaque semaine le divertissement de la Cour, &amp; tous les jours celuy du Public depuis la jonction des Troupes Françoises, je croy que je dois vous parler comme d'un plaisir recherché de tout le monde, &amp; que l'on voit généralement aimé. Je vous diray donc que ce divertissement qui a cessé selon la coûtume pendant la quinzaine de Pasques, va recommencer, mais avec des changemens considerables du costé des Acteurs. Il n'y a pas lieu d'en estre surpris. Les Comédiens qui occupoient l'Hostel de Bourgogne, ceux qui joüoient au Palais Royal, &amp; sous le nom de la Troupe de Moliere, &amp; celle qui representoit au Marais, ne composant à présent qu'une seule Troupe qu'on appelle de Guenegaut, à cause qu'elle a son Théatre au bout de la Ruë qui porte ce nom : ces trois Troupes, dis-je, formant un Corps tres-nombreux, &amp; tous les grands Corps estant sujets à de fréquens changemens, il est difficile qu'il n'en arrive souvent à celuy dont je vous parle. La mort a emporté des Acteurs qui avient fait du bruit dans le monde. Il y en a d'autres qui sont sortis de la Troupe avec les accommodemens qui leur ont esté proposez, &amp; Mr Hubert a demandé à se retirer. Il estoit l'Original de plusieurs Roles qu'il representoit dans les Pieces de Moliere, &amp; comme il estoit entré dans le sens de ce fameux Autheur par qui il avoit esté instruit, il y réüssissoit parfaitement. Jamais Acteur n'a porté si loin les roles d'Homme en Femme. Celuy qu'il representoit dans les Femmes Sçavantes, Madame Jourdain dans le Bourgeois gentilhomme, &amp; Madame Jobin dans la Devineresse, luy ont attiré l'applaudissement de tout Paris. Il s'est fait aussi admirer dans le Role du Vicomte de l'Inconnu, ainsi que dans ceux de Medecins &amp; de Marquis Ridicules. Il est fort avantageux d'avoir excellé dans les choses pour lesquelles on s'est senty du Talent. C'est ce que Mr Poisson a fait avec une grande distinction. Aussi cét Acteur surprit fort ses Camarades lors qu'il leur déclara qu'il vouloit quitter la Comédie. Ils le prierent avec de grandes instances d'abandonner ce dessein, mais il les a pressez si fortement pendant plusieurs jours de luy permettre de se retirer, qu'ils ont esté enfin obligez d'y consentir. Il y a vingt-cinq ans que le Roy ayant pris plaisir à la voir joüer dans une Troupe de Campagne, le mit à l'Hostel de Bourgogne. Son grand naturel ne le fit pas seulement réussir comme Acteur, mais mesme comme Autheur ; &amp; le recit que le Baron de la Crasse fait de la Cour, parut extémement bien touché. Il a fait plusieurs Pieces de Théatre, &amp; l'on peut dire que c'est la nature qui parle dans toutes. Lors qu'il a quitté la Comédie, ses Camarades luy ont donné des marques de leur estime &amp; de leur regret. Il y a eu encore d'autres changemens dans cette Troupe, mais comme ils sont trop éclatans pour estre ignorez, je n'ay rien à vous en dire. Il y est entré des Acteurs nouveaux &amp; des Actrices nouvelles, qui ont tous esté choisis parmy ce qu'il y a de meilleur entre les Comédiens qui joüent à la Campagne.</p>
+        <p>Les Italiens qui ont déjà paru ce Caresme avec un Acteur nouveau, vont encore fortifier leur Troupe de deux autres qui leur viennent d'Italie. C'est un Amant, &amp; un Polichinelle. S'ils plaisent autant que Pasquarel, leur Sale se trouvera trop petite pour les Assemblées qu'ils attireront. J'ay cru pouvoir m'étendre autant que j'ay fait sur ce qui regarde des Troupes dont les premieres Personnes de la Terre veulent bien prendre la peine de se mêler.</p>
+      </div>
+</body>
+  </text>
+</TEI>

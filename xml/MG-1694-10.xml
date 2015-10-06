@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-10_009">
+        <head>MG-1694-10_009</head>
+        <bibl>Mercure galant, octobre 1694, p. 9-34</bibl>
+        <p>Détail de tout ce qui s?est passé à la Ceremonie du Mariage de la Princesse de Pologne, &amp; de l?Electeur de Baviere.</p>
+        <p>Comme il faut des mois entiers pour estre bien instruit de toutes les circonstances de ce qui se passe d?important dans les Pays éloignez, je ne vous ay rien dit jusqu?à present d?un illustre Mariage. Le Comte de Terin, Envoyé extraordinaire de  Mr l?Electeur de Baviere, ayant apporté au Prince Jacques de Pologne, les pleins pouvoirs d?épouser, au nom de S. A. E. la Princesse Fille du Roy, on disposa toutes choses pour cette grande ceremonie, en sorte que les Fiançailles se firent dans l?Eglise de S. Jean de Varsovie, le Samedy 14. d?Aoust à une heure aprés midy, à la fin de la Messe pontificalement celebrée par le Cardinal Radziewski, Archevesque de Gnesne, Primat du Royaume, à laquelle S. A. R. communia. (?)</p>
+        <p>Le jour des Fiançailles on avoit esté à l?Eglise par de longues galeries de communication entre deux hayes de Gardes du Corps, de Suisses &amp; des quatre Compagnies, [?] mais le jour du mariage on traversa à pied les cours du Chasteau, sur de longues pieces de drap d?écarlattes bordées par les mesmes Troupés, depuis le bas de l?escalier jusqu?à Saint Jean par la Ville. Cela se fit au bruit du canon, des Trompettes, des timbales, &amp; des tambours, accompagnez d?instrumens guerriers à la Turque, placez sur des Balcons dans la principale cour, &amp; qui se répondant les uns aux autres, formoient un concert tout martial, qui mettoit la joye dans tous les c?urs.</p>
+        <p>Aux sons aigus &amp; perçans des haut-bois des Janissaires, &amp; des clairons des Hongrois, se joignirent les cris de Vive le Roy, renforcez par les acclamations de la populace, à l?aspect des fontaines jallissantes de vin de Hongrie.  Il y en avoit deux dans la mesme cour. Au-dessus du reservoir de ces fontaines, s?élevoient deux grandes statuës de Pallas, dont la premiere avoit sur la teste le bonnet Electoral, &amp; à la main droite un esponton, avec un bouclier ovale au bras gauche. Sur ce bouclier estoient en relief les armes de Mr de Baviere ; &amp; l?autre avoit la Couronne de Pologne, &amp; un Bouclier à l?antique, qui est l?écusson de la famille du Roy. A six heures du soir on commença à marcher [.] (?)</p>
+        <p>Quand on fut arrivé à l?Eglise, où le Cardinal Radziewski, assisté de huit Evesques en Mitre &amp; en Crosse, s?estoit rendu, leurs Majestez se placerent sur un trône qu?on leur avoit préparé à la droite du Ch?ur, pendant que la Princesse &amp; les Princes s?avancerent vers le marchepied de l?Autel, où aprés le Veni Creator, chanté par la Musique de la Chapelle, on lut tout haut les Pouvoirs de Monsieur l?Electeur : aprés quoy le Cardinal donna la Benediction nuptiale. (?)</p>
+        <p>La Cour estant revenuë par les Galeries au Château, dont tous les appartemens estoient meublez fort superbement, &amp; parfaitement illuminez, leurs Majestez &amp; leurs Altesses Royales jusqu?à l?heure du souper receurent les complimens sur ce qui venoit de se passer. Dans l?enfoncement de la grande Salle de la Diette, sur une Estrade élevée de trois marches, &amp; couverte d?écarlate, avec un tres-magnifique Dais au dessus, on avoit posé une table pour leurs Majestez, la Maison Royale, le Nonce du Pape, &amp; l?Ambassadeur de France, ausquels on donna des fauteüils. Mr le Marquis d?Arquien, sur une indisposition se dispensa de s?y trouver. Cette table fut servie par les Officiers de la Couronne. Le Roy placé immediatement sous le Dais dans un grand fauteüil de Vermeil doré, garny de velours cramoisi, avec de grosses crespines d?or, avoit à sa droite la nouvelle Electrice, le Prince Royal, &amp; le Nonce du Pape ; à sa gauche, la Reine, les deux jeunes Princes, &amp; l?Ambassadeur de France. Sur les costez de la mesme salle on avoit dressé eux grandes tables de soixante couverts chacune, l?une à droite pour les Generaux, les Officiers de la Couronnes, &amp; autres Grands, &amp; l?autre à gauche pour les Dames. Il y en avoit encore plusieurs dans des chambres voisines pour le reste de la Cour. A costé de la table de leurs Majestez, dans l?embrasure d?une fenestre, estoit une espece d?Amphitheatre où l?on avoit placé la Simphonie. (?)</p>
+        <p>Je ne vous dis rien de la profusion &amp; de la delicatesse des viandes &amp; des entremets dont toutes ces tables furent couvertes, non plus que de la rareté des fruits &amp; des confitures qui les releverent. Les Vins les plus exquis de Hongrie, d?Italie &amp; de France, aussi-bien que les Liqueurs &amp; les Eaux glacées, y furent moins distribuez que prodiguez. Aprés ce splendide repas, qui fut reiteré les deux jours suivans avec la mesme magnificence, il y eut un Bal qui dura jusques au jour.</p>
+        <p>Le 16. &amp; le 17. aprés dîné, leurs Majestez &amp; leurs A. R. receurent de nouveaux complimens, accompagnez des presens qu?on a coutume de faire dans une pareille occasion. Ils firent connoistre veritablement le profond respect &amp; la veneration des Seigneurs &amp; des Grands du Royaume pour leurs Majestez. Ce fut des marques plus convaincantes par la richesse, la galanterie &amp; le bon goust des Bijoux qu?on presenta. Le 18. pour diversifier les plaisirs, on tira sur la Vistule un grand Feu d?artifice qui representoit un Vaisseau de guerre avec tous ses agrés. Sur les voiles, parmy les cordages, &amp; le long de ses masts, on lisoit quantité d?Inscriptions, de Devises, d?Emblêmes &amp; de Chifres convenables au sujet. Le 19. on representa un Opera Italien avec des changemens de decoration, &amp; plusieurs entrées de Balet dans les Entre-actes. A la fin de ce divertissement, qu?on a eu plus d?une fois, on servit un magnifique Ambigu, où chacun eut entiere liberté de prendre part. Le 22. pour achever la pompe de cette Feste, le Prince de Radzevil, Neveu du Roy, traita magnifiquement tous les Seigneurs de la Cour ; en quoy il fut imité le 24. par le Prince Sartoreski, l?un des plus magnifiques Seigneurs de Pologne. Les autres doivent faire tour à tour de pareils regales. On m?apprend que ce fut l?Evesque de Polin, &amp; non le Cardinal Radziewski, qui fit la Ceremonie du Mariage.</p>
+      </div>
+</body>
+  </text>
+</TEI>

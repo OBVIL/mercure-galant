@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1692</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1692-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1692</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1692-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1692-03_007">
+        <head>MG-1692-03_007</head>
+        <bibl>Mercure galant, mars 1692, p. 7-20</bibl>
+        <p>Prelude, contenant le détail ce qui s'est passé à l'arrivée du Roy au Palais Royal.</p>
+        <p/>
+        <p>Ayant à vous parler de la venüe du Roy à Paris, dont je ne pûs vous entretenir le mois passé, je ne vous feray point d'éloges de ce Monarque, comme je fais d'ordinaire au commencement de toutes mes Lettres, mais je vous diray que tout Paris en fit ce jour-là, &amp; qu'ils furent accompagnez de grandes acclamations de joye. (...)</p>
+        <p>Monsieur, &amp; Monsieur le Duc de Chartres estant arrivez de fort bonne heure pour avoir l'honneur de [le] recevoir, le Roy partit de Versailles dans son Carrosse, ayant Madame à costé de luy, &amp; vis à vis Madame la Duchesse de Chartres, Mademoiselle, &amp; Madame la Princesse de Conty Doüairiere. Monseigneur le Dauphin estoit à la portiere du costé du Roy. Sa Majesté estant arrivée au Palais Royal sur les trois heures &amp; demie, &amp; ayant esté receuë par Monsieur &amp; Monsieur le Duc de Chartres, alla à l'appartement de ce jeune Prince, &amp; se rendit ensuite à celuy de Madame la Duchesse de Chartres, qui est à la droite en montant le grand Escalier, &amp; qui a pour premiere piece une fort grande Salle des Gardes, qui estoit destinée pour le Souper. On trouve ensuite une fort belle anti-chambre, &amp; la chambre de Monsieur le Duc de Chartres. (...) Le Roy passa ensuite dans un grand Cabinet qui est tout de Menuiserie, avec des figures sculpées &amp; dorées d'or bruny. Il y a dans ce Cabinet plusieurs Tableaux encastrez dans la Menuiserie. Comme on avoit destiné ce lieu pour le Bal, il estoit remply de Lustres. Le Roy &amp; toute la Cour passerent aprés cela dans une petite anti-chambre, &amp; se rendirent de là dans la chambre de Madame la Duchesse de Chartres, dont la Tapisserie par bandes de velours cramoisy plein, estoit enrichie d'une broderie or &amp; argent. Le lit, les fauteüils, &amp; les pliants estoient de broderie d'or plein sans fond. Il y avoit un tres beau Lustre dans cette chambre, &amp; des Miroirs de distance en distance. Le Roy estant ensuite entré dans un petit Cabinet, passa dans une grande Galerie magnifiquement meublée. (...) Cette Galerie estoit destinée pour le Jeu. Le Roy y laissa Madame la Duchesse de Chartres, &amp; elle tint cercle pendant que ce Prince alla visiter les nouveaux appartemens ausquels S. A. R. fait travailler dans l'endroit où estoient les Academies de Peinture, Sculpture, &amp; Architecture. Sa Majesté ayant demeuré environ demy-heure dans ces appartemens, &amp; prés d'une heure &amp; demie à Paris, monta seule en Chaise, &amp; repassa au travers du mesme Peuple qui remplissoit les ruës à son arrivée, &amp; qui avoit résolu de l'attendre, quand Elle ne s'en seroit retournée que le soir. (...) Monseigneur le Dauphin, Monsieur, Madame, &amp; toutes les Dames allerent à l'Opera, &amp; toute cette brillante Cour aprés avoir pris ce divertissement, vint jouër dans la Galerie de Madame la Duchesse de Chartres. Le Jeu fut grand, &amp; la perte &amp; le gain en proportion. On dressa pendant ce temps-là deux grandes tables dans la grande Salle des Gardes. Il y en avoit une de vingt-deux couverts, qui fut tenüe par Monseigneur, &amp; servie par les Officiers de Monsieur, qui tint l'autre table. Celle-là estoit de vingt &amp; un couverts, &amp; fut servie par les officiers de Madame la Duchesse de Chartres. (...) Les Violons de Monsieur joüerent pendant tout le Souper, aprés lequel il y eut Bal dans le grand Cabinet, où s'estoient renduës plusieurs Dames, dont les habits, quoy que superbes, ne laisserent pas d'estre ornez de Pierreries. Le Bal dura jusques à deux heures aprés minuit, &amp; Monseigneur s'en retourna à Versailles.</p>
+      </div>
+
+<div xml:id="MG-1692-03_066">
+        <head>MG-1692-03_066</head>
+        <bibl>Mercure galant, mars 1692, p. 66-74</bibl>
+        <p>Noyon.</p>
+        <p/>
+        <p>(...) [L]'ordre ayant esté donné dans toutes les Villes pour faire chanter le Te Deum en action de graces à Dieu pour cette conqueste, Mr l'Evesque de Noyon a fait paroistre un zele tout singulier dans le Mandement qu'il en a fait publier dans son Diocese. Il est extraordinaire, &amp; d'une maniere si nouvelle, que quoy que le temps de vous l'envoyer semble passé, je croy devoir vous en faire part. Vous y trouverez un Portait du Roy tres-ressemblant, &amp; connoissant autant que je fais vos sentimens d'admiration pour ce grand Monarque, je sçais que je ne sçaurois vous obliger davantage, qu'en vous faisant voir tout ce qui a rapport à sa gloire. Voicy les termes de ce Mandement.</p>
+        <p>François de Clermont, par la Grace de Dieu, Evêque, Comte de Noyon, Pair de France, Conseiller d'Etat ordinaire. A tous Doyens, Chanoines, Chapitres, Abbez, Abbesses, Prieurs, Curez, Superieurs &amp; Superieures de Communautez Regulieres &amp; Seculieres de nostre Diocese, Salut &amp; Benediction. La justice qui anime le courage, qui arme le bras, qui consacre le glaive de nostre invincible Monarque, nous a toûjours faire esperer que Dieu continuëroit de confondre en tous lieux les injustes desseins des communs ennemis de la Religion, de l'Eglise &amp; de l'Etat. (...)</p>
+        <p>Et c'est aussi selon les saintes intentions, les justes sentimens, &amp; la religieuse reconnoissance de Sa Majesté, qu'en conséquence de la Lettre dont il luy a plu de nous honorer, nous vous ordonnons de chanter incessamment le Te Deum dans vos Eglises en action de graces à Dieu, avec autant de cérémonie &amp; de solemnité que de devotion &amp; de joye. Donné à Noyon en nostre Palais Episcopal, &amp;c.</p>
+      </div>
+
+<div xml:id="MG-1692-03_144">
+        <head>MG-1692-03_144</head>
+        <bibl>Mercure galant, mars 1692, p. 144-159</bibl>
+        <p>On a fait de grandes Solemnitez au grand Convent des Augustins de Toulouse, pour la Feste de la Canonisation de S. Jean de Sahagun, Religieux Augustin, &amp; Patron de la Ville &amp; de l'Université de Salamanque. (...)</p>
+        <p>La ceremonie de cette solemnité commença le 4. du mois passé, &amp; continua pendant huit jours. L'ouverture en fut faite aux Vespres du jour précedent en presence du Parlement, la Feste ayant esté annoncée à une heure aprés midy par le son des Cloches, les fanfares des Trompettes, &amp; au bruit de plusieurs décharges de Fauconneaux &amp; de Mousquets, que les Soldats du Guet de l'Hostel de Ville firent au haut du Clocher des Augustins, ce qui fut réiteré sur les sept heures du soir, &amp; à quoy l'on ajoûta des fusées volantes. Le lendemain au matin, les Peres Augustins allerent en Procession à l'Eglise Métropolitaine, portant les trois Banieres du Saint, dont les houpes estoient tenuës par les principaux de la Communauté, revêtus de Chapes. Ils en partirent de mesme processionnellement avec le Corps du Chapitre, qui celebra la Grand Messe dans leur Eglise, chantée par une excellent Musique. L'aprésdînée, le Panegyrique du Saint fut prononcé par un du Corps du mesme Chapitre, où Mr l'Archevesque de Toulouse assista, &amp; donna la Benediction du saint Sacrement, revestu de ses ornemens Pontificaux, les Religieux ayant chanté l'Exaudiat à trois Choeurs, ce qui s'observa chaque jour de l'Octave, pendant laquelle il y eut des motets tous differens.</p>
+        <p>Les six jours suivans, les Dominiquains, les Cordeliers, &amp; autres Religieux, toûjours suivis d'une foule de peuple, se rendirent dans la mesme Eglise des Augustins processionnellement, portant la Baniere du Saint. Il estoient reçûs par les Augustins à la porte de l'Eglise, &amp; entrant tous ensemble en chantant, ils alloient droit à l'Autel, ce qui paroissoit d'une pompe singuliere. La Messe fut chantée &amp; celebrée par chaque Communauté avec cette gravité, que les nombreuses Communautez de Toulouse ont acccoûtumé de faire leurs Offices dans de semblables occasions. Tous les Freres Communioient de la main de leur Superieur, qui officioit à la Messe. Le Vendredy dans l'Octave, les Penitens Noirs signalerent leur zele par une Procession dans la mesme Eglise, &amp; reçurent la Communion de la main de Mr de Thezan du Pujol, Abbé d'Olargues, Prieur de la Compagnie, &amp; Conseiller au Parlement, qui celebra le Messe. Elle fut chantée par la Musique, &amp; le soir il donna la Benediction du saint Sacrement. Le Dimanche, les Penitens Bleus firent paroistre une égale pieté, &amp; s'estant rendus processionnellement dans la mesme Eglise, ils communierent sur la fin d'une grand'Messe chantée aussi par la Musique, celebrée par Mr l'Abbé de Boyer, Souprieur de la Compagnie, &amp; Conseiller au Parlement, qui donna le soir la Benediction. Le mesme jour, sur les deux heures aprés midi, les Augustins firent une Procession solemnelle par la Ville, au nombre de quatre-vingt. Il y en avoit trente sept revestus en Chappes ou Dalmatiques. Les seize Chantres, qui étoient distribuez alternativement aprés dix Religieux non revestus, ayant chacun un cierge à la main, portoient un bourdon d'argent. On y vit paroistre les trois Banieres du Saint, dont la premiere estoit placée à la teste. Aprés la derniere estoient les Trompettes, Haut-bois &amp; autres instruments de l'Hôtel de Ville qui joüoient par intervalles, quand les Religieux cessoient de chanter. Ensuite venoient sept Paillons richement parez, où estoient sept bustes magnifiques de sept Saint differens de l'Ordre de saint Augustin, dans lesquels sont des Reliques des mesmes Saints. Chaque Pavillon estoit porté par quatre Religieux des Communautez, qui avoient chanté la grand'Messe pendant la semaine, excepté celuy de saint Jean de Sahagun, que portoient quatre Augustins revestus de Dalmatiques. Au tour de ces Pavillons, marchoient quatorze Bourgeois avec des Flambeaux de cire blanche. Aprés l'Officiant, accompagné d'un Diacre, d'un Soudiacre &amp; de quelques enfans habillez en Anges, qui tenoient les extremitez de sa Chappe, &amp; dont il y en avoit encore plusieurs distribuez dans l'ordre de la Procession, les Capitouls, ayant aussi chacun un flambeau à la main avec leurs Robes de ceremonie, precedez de leurs Officiers, &amp; suivis de leurs soldats, fermoient la marche. La premiere station se fit à l'Eglise Metropolitaine, où une des trois Banieres fut laissée. On alla de là à l'Eglise Abbatiale de saint Sernin, que Ms du Chapitre avoient fait orner de tapisseries. Ce furent eux qui firent la closture de cette Solennité le jour de l'Octave. Ils s'en acquiterent avec grande pompe, &amp; reçurent une Baniere du Saint que leur presenta le Superieur, le soir avant qu'ils donnassent la Benediction. La Musique chanta l'Exaudiat &amp; le Te Deum, &amp; à mesme-temps la troisiéme Baniere fut élevée &amp; attachée à la voute de l'Eglise des Augustins. La Benediction donnée, tout la Communauté des Religieux avec douze Officiers revestus, se rendit Processionnellement, en chantant l'Iste Confessor, au bucher preparé, où le Superieur ayant mis le feu, entonna le Te Deum, qui fut continué jusques à la fin, tandis le bruit des Fauconnaux &amp; des mousquets se faisoit entendre du clocher, &amp; au dessus de la voute de l'Eglise. Lors qu'il fut un peu plus tard, il y eut pendant une heure une espece de feu d'artifice par le grand nombre des fusées qui s'élevoient en l'air. Durant l'Octave on entendoit à toute heure tirer au clocher ; mais principalement quand les Processions entroient ou sortoient, ou qu'elles estoient dans l'Eglise.</p>
+      </div>
+
+<div xml:id="MG-1692-03_219">
+        <head>MG-1692-03_219</head>
+        <bibl>Mercure galant, mars 1692, p. 219-222</bibl>
+        <p>Conversion de Mr Lury, Rabin de la Sinagogue de Mets.</p>
+        <p/>
+        <p>Le 7. du mois passé Mr Lauri, fameux Juif de Mets, &amp; l'un de plus sçavans Rabins de la Synagogue, fut baptisé dans l'Eglise de saint Simplice, l'une des plus belles de la Ville, qui estoit éclairée de quantité de lumieres, &amp; que l'on avoit ornée de lustres &amp; de riches tapisseries. Il s'y rendit, suivi de six de ses enfans, tous vestus de blanc avec des couronnes de fleurs sur leur teste, &amp; qui estoient conduits par les personnes les plus qualifiées, qui leur devoient servir de parrains &amp; de marraines. Il y avoit encore deux grandes Filles Juives, parentes de celuy qui faisoit le principal sujet de la feste. Mr le grand Vicaire, accompagné du Clergé, qui vint en Procession, fit ranger le Pere, les six Enfans, &amp; les deux grandes Filles, &amp; aprés avoir invoqué le S. Esprit, il leur donna à tous les Baptesme. Mr de Givry, Commandant dans la Place, &amp; Madame l'Intendante, qui avoient conduit le Cathecumene au pied de l'Autel, le nommerent Louis, de la part du Roy. Il seroit bien difficile d'oüir une symphonie plus animée que celle des Trompettes, des Flutes douces, des Haut-bois, des Violons, &amp; des Orgues, qui faisoient retentir toute l'Eglise de Cantiques de joye &amp; de loüanges. Dans la Place qui répond à la porte de cette Eglise, estoient plusieurs bataillons rangez en bel ordre, qui firent trois décharges de mousqueterie, tandis que le Canon de la Citadelle se faisoit entendre avec grand bruit. Aprés la cérémonie, tous les nouveaux baptisez furent conduits chez Mr l'Intendant. La Femme de Mr Lauri qui s'estoit fortement opposée à la conversion de son Mary, &amp; à celle de ses Enfans, fut touchée de Dieu quelques jours aprés, &amp; on la vit disposée à recevoir le Baptesme, à l'arrivée de Mr l'Evesque de Mets, que l'on attendoit incessamment.</p>
+      </div>
+
+<div xml:id="MG-1692-03_283">
+        <head>MG-1692-03_283</head>
+        <bibl>Mercure galant, mars 1692, p. 283-285</bibl>
+        <p>Dialogue de Pallas &amp; des Muses sur le Voyage du Roy.</p>
+        <p/>
+        <p>Voicy des Vers qui ont esté faits par Mr de Boismenil, d'Abbeville, sur le départ du Roy pour Compiegne. Ces vers sont faits pour chanter, &amp; je ne doute point qu'il ne se trouve beaucoup de Musiciens qui ne cherchant qu'à faire retentir la gloire de ce Monarque, s'appliqueront à les mettre en Air.</p>
+        <p/>
+        <p>SUR LE DEPART</p>
+        <p>DU ROY,</p>
+        <p>RECIT DE PALLAS.</p>
+        <p>En vain pour arrester le Heros invincible,</p>
+        <p>Qui fait le prix de nos Chansons,</p>
+        <p>L'Hiver armé de ses glaçons</p>
+        <p>A prolongé le cours d'une saison terrible.</p>
+        <p/>
+        <p>CHOEUR des Muses.</p>
+        <p>Les neges, les frimats, les vents n'ont rien d'horrible</p>
+        <p>Pour le Heros que nous chantons.</p>
+        <p/>
+        <p>RECIT.</p>
+        <p>Au seul bruit de ses Exploits</p>
+        <p>L'Aigle fuit dans les montagnes,</p>
+        <p>Et trop peu seur dans les campagnes</p>
+        <p>Le Lion cherche les bois.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Les neges, les frimats, &amp;c.</p>
+        <p/>
+        <p>RECIT.</p>
+        <p>Loüis ne cherche que la gloire ;</p>
+        <p>Mais celle qui vient des Combats</p>
+        <p>Pour son grand coeur a plus d'appas.</p>
+        <p>Il part, il marche, il court, il vole à la Victoire.</p>
+        <p>Heureux François, suivez ses pas.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Les neges, les frimats, &amp; c.</p>
+      </div>
+
+<div xml:id="MG-1692-03_295">
+        <head>MG-1692-03_295</head>
+        <bibl>Mercure galant, mars 1692, p. 295-297</bibl>
+        <p>Mariage de M. le Duc du Maine, &amp; de Mademoiselle de Charolois.</p>
+        <p/>
+        <p>Aprés vous voir parlé il y a un mois d'un des plus grands Mariages qui se pust faire en France, je vais vous entretenir d'un autre dont vous devez souhaiter d'apprendre des nouvelles, à cause de la haute naissance des Mariez, &amp; de leur merite personnel. Quoy que Mademoiselle de Charolois, Fille de Monsieur le Prince, n'ait que quatorze ans, &amp; qu'elle ait l'humeur gaye que cet âge inspire ordinairement, elle ne laisse pas de faire remarquer un esprit au-delà de ses années. En pouvoit-elle manquer, estant du sang dont elles est sortie ? Cette Princesse a mille bonnes qualitez. Elle danse bien &amp; joüe parfaitement bien du Clavessin. Quant à Monsieur le Duc du Maine, vous devez vous souvenir que plus de cent de mes Lettres sont remplies de ses éloges ; &amp; comme ils sont sur des faits je vous ay rendu compte de temps en temps, ils n'ont point esté regardez comme ces loüanges vagues qui ayant tout pour objet, ne parlent de rien qui soit positif. On doit demeurer d'accord que l'esprit de Monsieur le Duc du Maine a toujours brillé, dans quelque bas âge qu'on l'ait vû, &amp; qu'il a connu &amp; chery l'intrepidité &amp; la valeur dés sa plus tendre jeunesse.</p>
+      </div>
+</body>
+  </text>
+</TEI>

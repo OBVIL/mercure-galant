@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-05_048">
+        <head>MG-1681-05_048</head>
+        <bibl>Mercure Galant, mai 1681, p. 48-50, 58, 60-63, 68-69</bibl>
+        <p>Procession suivie de Machines.</p>
+        <p/>
+        <p>Vostre Amie, que vous me mandez estre allée à Sainte Reyne, a fait ce Voyage dans un temps, où elle sera témoin d'une Cerémonie bien particuliere. C'est une Procession des plus solemnelles, qui se fait tous les ans le Dimanche de la Trinité, depuis la Ville de Flavigny jusqu'en ce Bourg là. Voicy ce qui s'y pratique. Le jour que je viens de vous marquer, le Curé &amp; Chapitre de S. Genest de Flavigny, se rendent à l'Eglise de l'Abbaye dés cinq heures du matin, &amp; un peu apres on en voit sortir la Gendarmerie des Garçons en tres-grand nombre, tous fort lestes, avec leur Enseigne, Fifres, Tambours, &amp; Hautbois. Ils sont précedez d'une Compagnie de petits Garçons aussi fort propres, ayant leur Capitaine, leur Enseigne, &amp; leur Tambour. [...] Apres que toutes les Reliques sont passées, on voit le Clergé en tres-bon ordre, chantant des Hymnes en l'honneur de Sainte Reyne. [...]</p>
+        <p>La Procession va de Flavigny au Bourg d'Alize par un chemin, &amp; en revient par un autre, pour la plus grande satisfaction d'une infinité de monde qui tous les ans y accourt de toutes parts. [...] A l'entrée du Bourg, la Gendarmerie se met en haye, &amp; occupe toute la grande Ruë jusqu'à la Chapelle, &amp; c'est alors que les Salves de coups de Mousquets, les Tambours, les Fifres, &amp; les Hautbois, avec le chant des Religieux &amp; des Prestres, font une agreable confusion de sons diférens. Les Reliques sont portées dans la Chapelle de l'Hôpital, &amp; la grande Messe est celébrée dans celle de Sainte Reyne par le Prieur de l'Abbaye de Flavigny. Ce sont les Religieux qui la chantent. La Messe finie, on prend un peu de repos, &amp; on s'en retourne à Flavigny dans le mesme ordre qu'on en est venu. L'origine de cette Procession est fort ancienne. C'est un renouvellement de celle qui se fit en l'année 864. sous le Regne de Charles le Chauve, [...]. On fit cette mesme année une Tragédie du Martyre de la Sainte. Le Theatre estoit dressé dans la Court de l'Abbaye, &amp; du haut du grand Clocher une Colombe y vint fondre, ayant en son bec une Couronne de fleurs, qu'elle mit sur la teste de celle qui représentoit le Personnage.</p>
+      </div>
+
+<div xml:id="MG-1681-05_087">
+        <head>MG-1681-05_087</head>
+        <bibl>Mercure Galant, mai 1681, p. 87-88, 90-92</bibl>
+        <p>Mort de Madame Molé, Abbesse de S. Antoine.</p>
+        <p/>
+        <p>Dame Magdelaine Molé, Abbesse de S. Antoine des Champs, mourut le 28. de l'autre mois. Elle estoit Fille de feu Mr le Garde des Sceaux Molé, &amp; Soeur du Président de ce mesme nom, &amp; avoit succedé à Madame Bouthillier, Abbesse avant elle, dont la mort arriva le 25. Septembre 1652. Madame Molé estoit Religieuse de l'Ordre de Saint Benoist dans l'Abbaye de Chelles ; [...] Mr Petit, Abbé &amp; General de Cisteaux, Supérieur de cette Maison, fit la Cerémonie de l'Enterrement le Mercredy 30. du mois. Le Chapitre, où dés le matin on avoit porté le Corps, estoit tout tendu de noir, aussi bien que les Cloîtres &amp; le Choeur des Religieuses. Il fut mis sur une Estrade au milieu du Choeur, pendant que ce General celébra la Messe. [...] Si tost que cette Cerémonie fut achevée, Mr l'Abbé de Cisteaux entonna le Te Deum, qui fut continué par les Religieux &amp; Religieuses, Choeur à Choeur, &amp; l'amena ainsi en procession dans l'Eglise, où il l'installa dans la Chaire Abbatiale, &amp; donna en suite la Benédiction.</p>
+      </div>
+
+<div xml:id="MG-1681-05_167">
+        <head>MG-1681-05_167</head>
+        <bibl>Mercure Galant, mai 1681, p. 167-168</bibl>
+        <p>Gouvernement de Baro donné à M. Le Marquis de Genlis.</p>
+        <p/>
+        <p>Sa Majesté donna dans le mesme temps le Gouvernement de Baro, que possedoit aussi feu Mr le Duc de Lesdiguieres, à Mr le Marquis de Genlis, Lieutenant General de ses Camps &amp; Armées. Il est de l'illustre Maison de Brulart dont je vous ay parlé bien des fois. Ce Marquis a commandé en plusieurs occasions, &amp; est connu de Sa Majesté depuis fort longtemps, ayant esté employé dans tous les Balets qui ont fait les premiers divertissemens de ce Prince. Aussi est-il du nombre de ceux que Mr de Benserade a toûjours pris soin de bien marquer dans ses Vers, sur les Personnages dont ces Balets estoient composez.</p>
+      </div>
+
+<div xml:id="MG-1681-05_199">
+        <head>MG-1681-05_199</head>
+        <bibl>Mercure Galant, mai 1681, p. 199-201</bibl>
+        <p>Balet du Triomphe de l'Amour dancé à Paris.</p>
+        <p/>
+        <p>Quelque plaisir que vous pust donner la veuë effective du plus superbe Palais, il égaleroit à peine celuy que vous recevriez si vous voyiez l'Opéra nouveau, intitulé le Triomphe de l'Amour. On en commença les Représentations sur le Theatre de l'Académie Royale de Musique le Samedy 10. de ce Mois ; &amp; Monseigneur le Dauphin, qui vint exprés à Paris en voir la seconde, en sortit tres satisfait. Je ne vous ay rien dit de cet Opéra, qui ne soit présentement confirmé par la voix publique. Les Machines qu'on y trouve surprenantes, &amp; d'une invention tres-particuliere, y font courir tous les jours en foule. Elles sont du Sr Rivani de Bologne, qui par ces sortes d'Ouvrages s'est fait admirer dans toutes les Villes d'Italie.</p>
+      </div>
+
+<div xml:id="MG-1681-05_228">
+        <head>MG-1681-05_228</head>
+        <bibl>Mercure Galant, mai 1681, p. 228-229, 236, 245-246, 261-263, 305-309, 311, 314</bibl>
+        <p>Tout ce qui passé depuis le débarquement des Ambassadeurs de Moscovie à Calais jusques au jour de leur départ de Paris ; leurs Audiences ; ce qu'ils ont veu ; &amp; ce qu'ils ont dit.</p>
+        <p/>
+        <p>Depuis quinze jours on ne parle icy que des Moscovites. Ce qui vient de loin fait toûjours du bruit, parce qu'il est extraordinaire, &amp; la curiosité naturelle à tous les Hommes, leur fait souhaiter d'estre éclaircis de toutes les choses qui ne leur sont pas connuës. C'est ce qui m'a fait rechercher avec un extréme soin, tout ce que les Ambassadeurs de Moscovie ont fait &amp; dit de plus digne d'estre remarqué, depuis qu'ils sont arrivez en France. [...]</p>
+        <p>Ils partirent avec huit Trompetes, cinq Timbaliers, plusieurs Hautbois &amp; Musetes, &amp; un assez grand nombre de Domestiques, le tout se montant à soixante &amp; deux Personnes. [...]</p>
+        <p>Les Pasques des Moscovites qui viennent huit jours plus tard que les nostres, n'estant pas faites quand Mr Tors arriva, ils le prierent d'en voir la Cerémonie, &amp; voulant luy faire honneur, ils le placerent au milieu de leur Chambre, au mesme endroit où le Tzar se seroit mis s'il avoit esté présent. Ils chanterent accompagnez de leur Prestre, d'une maniere qui ressemble fort à nostre Plein-chant ; [...].</p>
+        <p>Environ huit jours apres que ces deux Ambassadeurs furent arrivez à S. Denys, où ils ont paru beaucoup plus civils qu'on ne les croyoit, à plusieurs Personnes de qualité qui les y ont veus, Mr de Bonneüil Introducteur des Ambassadeurs, leur vint dire de la part du Roy, que Sa Majesté consentoit qu'ils fissent dans peu leur Entrée à Paris, &amp; qu'un Maréchal de France les y accompagneroit. Ils demanderent la permission de faire marcher avec eux leurs Trompetes, Timbales, Hautbois, &amp; Musetes, ce qu'on ne leur accorda qu'en qualité d'Instrumens de joye. [...]</p>
+        <p>Dans l'Entrée, leurs Trompetes [celles des Ambassadeurs] marcherent à la teste de tout, leurs Timbales &amp; leurs Hautbois en suite, puis plusieurs de leurs Gens à cheval. [...]</p>
+        <p>Ils ont demeuré onze jours icy apres leur Audience de congé, &amp; ils ont crû qu'on leur faisoit grace de leur permettre de sortir, &amp; de voir une partie de ce qu'il y a de curieux en cette superbe Ville, &amp; aux environs, parce qu'en Moscovie les Ambassadeurs ne sortent point du Lieu où ils sont logez sans l'ordre du Tzar. Leur premiere sortie fut pour aller à la Comédie Françoise. Les Comédiens qui avoient esté les en prier, leur donnerent l'Inconnu, parce que cette Piece est accompagnée de quelque Spéctacle, &amp; de quelques Chansons &amp; Entrées, &amp; qu'ils la crurent la plus capable de les divertir. L'affluence du Peuple continua à leur Hôtel pour les voir manger. Madame la Maréchale d'Estrées, &amp; Madame de Thiange, estant un soir incognito à leur Soupé, le premier Ambassadeur en fut averty. Il n'en témoigna rien pendant le Soupé, mais à la fin du Repas, il se leva, se découvrit, but à leur santé, &amp; tous ceux qui estoient à table firent la mesme chose. Dans le mesme instant on entendit ses Trompetes, ses Timbales, ses Muzetes, &amp; ses Hautbois qu'il avoit fait placer dans le Jardin auquel répondoient les fenestres de la Salle. Apres avoir bû, il alla droit à ces Dames, les salüa, &amp; les conduisit à la Fenestre pour entendre, &amp; pour voir ce Concert. Je dis voir, car le feu de toutes parts paroissoit sortir de leurs Timbales, &amp; en effet ils prétendent qu'il en sort. Je ne puis dire quel est leur secret. Quant à l'accord des Hautbois &amp; des Musetes avec leurs Timbales, quoy qu'il ne soit pas le meilleur du monde, vous voyez qu'il faut que l'on s'en soit avisé longtemps avant que nous l'ayions vû à l'Opéra. Si cette maniere là nous est présentement commune avec eux, celle de boire de l'Eau-de-vie lors qu'ils se mettent à table, leur est particuliere. [...]</p>
+        <p>On les a menez aux Thuileries où ils ont veu faire l'Exercice à la premiere Compagnie des Mousquetaires, qui s'y rend pour cela une fois chaque Semaine. [...]</p>
+        <p>Les Ambassadeurs furent régalez par Mr le Commandeur de Fourbin, Capitaine-Lieutenant desdits Mousquetaires, de quantité de Liqueurs ; &amp; des Hautbois de ces troupes furent si satisfaits, qu'ils témoignerent avoir envie de persuader au Tzar de faire une Compagnie semblable à celle de ces Mousquetaires. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

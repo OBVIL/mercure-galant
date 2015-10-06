@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure Galant, Quartier de décembre 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-12e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>décembre 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-12e_003">
+        <head>MG-1683-12e_003</head>
+        <bibl>Mercure Galant, quartier d'octobre 1683, [p. 3-32]</bibl>
+        <p>[Conversation academique sur les qualités de l'air]</p>
+        <p/>
+        <p>CONVERSATION</p>
+        <p>ACADEMIQUE,</p>
+        <p/>
+        <p>Dans laquelle il est traité des bonnes, &amp; des mauvaises qualitez de l'Air.</p>
+        <p/>
+        <p>A Madame la Comtesse de C.R.C.</p>
+        <p/>
+        <p>[...] Enfin on peut dire que l'Air, ce que S. Paul a dit à Dieu, In quo vivimus, movemur, &amp; sumus. Il nous fait voir les objets, mais il nous donne encore l'oüye, &amp; l'odorat. Par son moyen nous sentons, &amp; nous entendons. Tous nos Instrumens, &amp; toutes nos Chansons, ne sont qu'un air mesuré &amp; harmonieux. Il anime les uns, il inspire les autres. Une Chanson s'appelle un Air, ou une façon de chanter ; mais encore par ce qu'il faut de l'air pour le chanter, &amp; que la Musique rend cet air harmonieux par les diférentes notes qui le composent. En effet, l'air agité par la voix, frape agreablement nos oreilles ; ce qui a fait dire à un Ancien, qu'une belle Ode, qui est la mesme chose qu'une belle Chanson, estoit un air qui voloit dans les oreilles. Il y a des Païs mesme où l'air fait les belles Voix, &amp; où tous les Hommes chantent bien. Vous demeurez d'accord de cette verité, puis que selon Aristote, la voix &amp; les Instrumens ne font qu'une répercussion de l'Air inspiré. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

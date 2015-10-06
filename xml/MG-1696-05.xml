@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1696</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1696-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1696</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1696-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1696-05_077">
+        <head>MG-1696-05_077</head>
+        <bibl>Mercure galant, mai 1696, p. 77-86</bibl>
+        <p>[Cette romance et cette lettre en chanson sont insérées dans une lettre de Mademoiselle l'Heritier.]</p>
+        <p/>
+        <p>[...] comme la charmante Duchesse chez qui nous étions, m'avoit priée de luy faire des couplets sur un certain Air qu'elle aimoit fort, je luy fis Impromptu une maniere de Romance que je vous envoye, qui rouloit sur le mesme sujet que la conversation que nous avions euë.</p>
+        <p/>
+        <p>ROMANCE,</p>
+        <p>SUR L'AIR</p>
+        <p>L'autre jour m'allant promener,</p>
+        <p>Ah ! mon mal vient que d'aimer.</p>
+        <p/>
+        <p>Evitons l'amour &amp; ses traits.</p>
+        <p>Qu'il est beau de n'aimer jamais !</p>
+        <p>Je croy que ses plus doux attraits</p>
+        <p>Ont encor bien des peines.</p>
+        <p>Qu'il est beau de n'aimer jamais !</p>
+        <p>Bravons toûjours les chaisnes.</p>
+        <p/>
+        <p>Si quelque objet peut enflamer,</p>
+        <p>La gloire seule doit charmer.</p>
+        <p>Chaque Sexe doit s'en former</p>
+        <p>Un attirant modele.</p>
+        <p>La Gloire seule doit charmer,</p>
+        <p>Ne vivons que pour elle.</p>
+        <p/>
+        <p>On parvient par divers sentiers</p>
+        <p>A cueïllir de brillans Lauriers.</p>
+        <p>Dames ainsi que Cavaliers</p>
+        <p>Peuvent orner l'Histoire.</p>
+        <p>On parvient par divers sentiers</p>
+        <p>Au Temple de Memoire.</p>
+        <p/>
+        <p>Mais pour atteindre aux prompts honneurs,</p>
+        <p>Vive Mars, vive ses faveurs,</p>
+        <p>Themis &amp; les sçavantes Soeurs,</p>
+        <p>Ont une belle route</p>
+        <p>Mais pour atteindre aux prompts honneurs,</p>
+        <p>Mars vaut bien mieux, sans doute.</p>
+        <p/>
+        <p>Quand on est du sexe à fracas,</p>
+        <p>Qu'il est beau d'aimer les combats !</p>
+        <p>Qu'on trouve de touchans appas</p>
+        <p>Au mestier de Bellone !</p>
+        <p>Qu'il est beau d'aimer les combats !</p>
+        <p>Que de gloire s'y donne !</p>
+        <p/>
+        <p>Si mon sexe l'avoit permis</p>
+        <p>Que j'aurois bravé d'ennemis !</p>
+        <p>Tous ceux que Louis a soumis</p>
+        <p>M'auroient vû les combattre.</p>
+        <p>Que j'aurois bravé d'ennemis</p>
+        <p>Si Dame alloit se battre !</p>
+        <p/>
+        <p>On fait des exploits inoüis</p>
+        <p>Quand on suit les pas de Loüis.</p>
+        <p>L'oeil &amp; le coeur sont réjouis</p>
+        <p>De l'éclat de sa gloire.</p>
+        <p>Quand on suit les pas de Loüis</p>
+        <p>On court à la Victoire.</p>
+        <p/>
+        <p>Mais en dépit de mon ardeur</p>
+        <p>Je ne puis suivre ce Vainqueur.</p>
+        <p>Chantons sa rapide valeur,</p>
+        <p>Pour luy faisons des festes.</p>
+        <p>Je ne puis suivre ce Vainqueur.</p>
+        <p>Celebrons ses conquestes</p>
+        <p/>
+        <p>Chantant ce Heros chaque jour</p>
+        <p>Je prétens combattre à mon tour.</p>
+        <p>Je veux toûjours vaincre l'Amour</p>
+        <p>Et terrasser sa brigue.</p>
+        <p>Je prétens combattre à mon tour,</p>
+        <p>Mais ce n'est pas la Ligue.</p>
+        <p/>
+        <p>Ces couplets devinrent fort à la mode, &amp; cela me donna auprés de quelque gens un petit air Amazonien, que de bonne foy je n'avois nullement songé à m'acquérir, comme vous jugez bien, n'ayant cherché dans cet entretien &amp; dans ces chansons qu'à me divertir, en expliquant mes sentimens naturellement. On s'est souvenu encore depuis que pendant que j'estois en Normandie en 1694. &amp; que les Ennemis prenoient mille mesures pour insulter nos Ports &amp; les Côtes de cette Province, la confiance que j'ay dans la suprême sagesse, &amp; l'ascendant du Roy, me fit toujours dire, sans prendre les moindres alarmes, que les Anglois feroient bien plus de bruit que d'effet ; &amp; on a remis sur les rangs une Lettre en chansons, que j'écrivoïs à une de mes Amies de Bayeux, où j'estois dans ce temps-là, &amp; qui, comme vous sçavez, est sur la route de la Hogue. Ne m'allez pas encore faire une affaire, de ce que vous n'avez point vû cette Lettre, c'est que j'ay cru qu'elle ne meritoit pas vostre attention ; mais puis qu'on s'est avisé de la tirer de l'oubli, je vais vous en dire quelques morceaux. Vous sçavez que ces sortes de Lettres se font sur mille chants differens, &amp; qu'on change d'air à chaque couplet. En voicy quelques-uns. Je commençois par une description des craintes &amp; des alarmes, qui agitoient certains coeurs dans le lieu où j'estois, &amp; je disois que le tumulte de Mars en avoit chassé tous les Jeux et les Amours ; puis je poursuivois ainsi.</p>
+        <p/>
+        <p>FRAGMENT</p>
+        <p>D'une Lettre en Chansons.</p>
+        <p>SUR L'AIR,</p>
+        <p>Sommes-nous pas trop heureux.</p>
+        <p/>
+        <p>Dans ce turbulent fracas,</p>
+        <p>Peut estre on croit que les Muses</p>
+        <p>Interdites &amp; confuses</p>
+        <p>Du bruit tonnant des Combats,</p>
+        <p>Ne pourront prendre courage</p>
+        <p>Que pour chanter dignement</p>
+        <p>Ce qu'un* Heros jeune &amp; sage</p>
+        <p>Va faire chez le Flamand.</p>
+        <p>*Monseigneur commandoit l'Armée de Flandre.</p>
+        <p/>
+        <p>SUR L'AIR</p>
+        <p>Il fait tout ce qu'il défend.</p>
+        <p/>
+        <p>Mais cette troupe divine</p>
+        <p>Qui penetre l'avenir,</p>
+        <p>Dit sans en estre chagrine,</p>
+        <p>Voyant l'Enemi venir ;</p>
+        <p>Comment craindre les tempestes</p>
+        <p>Quand Louis défend nos testes ?</p>
+        <p>Pleines de tranquillité</p>
+        <p>Imitons leur fermeté.</p>
+        <p/>
+        <p>SUR L'AIR</p>
+        <p>La verte jeunesse qui tourne à tous vents.</p>
+        <p/>
+        <p>Malgré les alarmes,</p>
+        <p>Malgré les Tambours,</p>
+        <p>Profitons des charmes</p>
+        <p>Qu'on doit aux beaux jours ;</p>
+        <p>De certain Dieu tendre</p>
+        <p>Défendons-nous seul,</p>
+        <p>Et laissons défendre</p>
+        <p>Nos Ports à* Choiseul.</p>
+        <p>*Mr le Maréchal de Choiseul commandoit un Camp en Normandie.</p>
+        <p/>
+        <p>SUR L'AIR</p>
+        <p>Quand Iris prend plaisir à boire.</p>
+        <p/>
+        <p>Tout s'émeut au bruit de la guerre,</p>
+        <p>Mais quand Loüis tient son tonnerre</p>
+        <p>L'Enemy doit seul avoir peur .</p>
+        <p>Nostre Heros enchaisne la Victoire,</p>
+        <p>Bientost nous le verrons vainqueur,</p>
+        <p>Et son Dauphin rempli d'ardeur,</p>
+        <p>Va se couvrir encor de gloire.</p>
+        <p/>
+        <p>Cette Lettre en chansons, Madame, &amp; la Romance avoient fait voir les sentimens que j'ay sur la valeur. [...]</p>
+      </div>
+
+<div xml:id="MG-1696-05_309">
+        <head>MG-1696-05_309</head>
+        <bibl>Mercure galant, mai 1696, p. 309-310</bibl>
+        <p>Il me reste à vous dire qu'il vaque une place à l'Académie Françoise par la mort de Mr de la Bruyere, si connu par son Livre des caracteres de Theophraste. Il avoit soupé avec un appetit extraordinaire, &amp; presque aussitost aprê, il tomba en Apoplexie. Il n'eut plus de connoissance, &amp; mourut à deux heures aprés minuit.</p>
+      </div>
+</body>
+  </text>
+</TEI>

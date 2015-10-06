@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1693</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1693-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1693</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1693-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1693-06_317">
+        <head>MG-1693-06_317</head>
+        <bibl>Mercure galant, juin 1693, p. 317-318</bibl>
+        <p>Suite du Voyage de Monsieur.</p>
+        <p/>
+        <p>Son A.R. Monsieur fit chanter le Te Deum dans l'Eglise de Nostre-Dame de Vitré, le 21. de ce mois. Ce Prince s'y rendit au travers de la Bourgeoise, qui estoit en armes depuis le Chasteau où il logeoit, jusques à l'Eglise. Monsieur monta ensuite à cheval avec toute sa Cour, qui estoit magnifique &amp; nombreuse, &amp; se rendit au Camp qui est aux environs de cette Ville-là, où il trouva les Troupes en bataille sur une Ligne, &amp; se mit à leur teste. Il visita ensuite le parc de l'artillerie, &amp; revint voir les Troupes. La Cavalerie fut admirée pour sa beauté. Il y avoit douze Bataillons, dont les Officiers saluérent Son A.R. avec l'Epée. Toutes les Troupes firent trois salves en répondant au Canon qui leur servoit de signal ; elles marquent beaucoup de chagrin de voir que le Prince d'Orange les rend inutiles en manquant à sa parole, &amp; la Cour de Monsieur, qui en est encore plus chagrine, employe au jeu le loisir que ce mesme Prince luy laisse. Il y eut le soir des feux par toute la Ville, &amp; un grand Bal, où l'on dansa jusques à cinq heures du matin.</p>
+      </div>
+</body>
+  </text>
+</TEI>

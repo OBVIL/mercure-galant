@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1697</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1697-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1697</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1697-02_059">
+        <head>MG-1697-02_059</head>
+        <bibl>Mercure galant, février 1697, p. 59-88</bibl>
+        <p>Reception faite à Mr le Mareschal Duc de Bouflers à Beauvais, en qualité de Gouverneur.</p>
+        <p/>
+        <p>Le Roy ayant créé par son Edit du mois d'Aoust dernier, des Charges de Gouverneurs dans toutes les Villes de son Royaume, Mr le maréchal Duc de Bouflers s'est fait un honneur de se procurer l'agrément de S.M. pour le gouvernement de la Ville de Beauvais [...] où il se rendit le troisième du [mois] passé sur les sept heures du soir avec cette même diligence qu'il a coutume d'apporter lors qu'il execute les ordres de Sa Majesté. Son arrivée fut une maniere de surprise qui déroba beaucoup des preparatifs que le zele &amp; l'affection des Habitans avoient projettez, &amp; leur joye ne fut pas aussi complete qu'elle l'eust esté, pour avoir esté avancée de quelques semaines. Tous les Corps de la Ville ne laisserent pas de s'empresser à l'envy pour luy venir rendre leur respects, &amp; firent un concours de devoirs dans la maison de Mr Foy de Morcourt, que Mr le Maréchal de Bouflers a déjà plusieurs dois honoré d'une pareille visite, comme il l'honore d'une entiere confiance, par l'attachement &amp; le zele qu'il a toûjours reconnu en luy pour sa personne &amp; ses interests [...]</p>
+        <p>[Suit une description des différentes personnalités, les corps de ville, corps du présidial, le chapitre de la cathédrale, Mr l'abbé d'Ormesson, doyen, qui prononça le compliment &amp; trois anciens chanoines, ainsi que les officiers de l'élection, le corps des bourgeois et membres de la noblesse, tous venus rendre leur hommage au nouveau gouverneur]</p>
+        <p>[Tous] s'estoient rendus auprés de Mr le Mareschal au premier avis de son arrivée, &amp; luy formérent une Cour digne de luy. Elle forma en mesme temps une grosse Compagnie pour le souper, qui fut servi magnifiquement peu de temps après. Les Chefs de differents Corps de la Ville y furent invitez, &amp; Mr l'Abbé d'Ormesson y fut traité avec la distinction convenable à sa dignité &amp; à son nom. Les Violons &amp; les Hautbois égayerent la bonne chere, &amp; furent postez à une distance à ne pouvoir interrompre la conversation. [...] Le lendemain, les Compagnies privilegiées s'estant remises sous les armes, marcherent en bon ordre au Logis de Mr le Gouverneur ; &amp; le Corps de Ville s'y estant aussi rendu, Mr le Maréchal précédé de ces quatre Compagnies fort lestes, se mit en marche, accompagné de son nouveau Lieutenant, des Officiers de Ville, &amp; de toute la Noblesse, vers l'Hostel commun, pour la prise de possession de ce nouveau Gouvernement. [...] Mr le Maréchal prit sa seance dans la grande Salle, sur un siege distingué , ayant d'un costé &amp; d'autre Messieurs de Ville &amp; du Presidial. Mr Auxcousteaux de Pisseleux, Bailly du Duché de Boufflers, en sa fonction de Procureur du Roy de la Ville, requit l'enregistrement des Lettres &amp; Provisions de Gouverneur, par un Discours [...]</p>
+        <p>[Suivent la restitution des lettres patentes de l'érection du Comté de Cagny en duché sous le nom de Bouflers.]</p>
+        <p>Ces Lettres furent leuës &amp; enregistrées sur la prononciation de Mr le President d'Hucqueville, Maire, avec l'agrément &amp; l'applaudissement de tous les assistants. Les acclamations du peuple se mêlerent pour lors au son des cloches, aux fanfares des Trompettes &amp; au bruit des Tambours. [...]</p>
+      </div>
+
+<div xml:id="MG-1697-02_155">
+        <head>MG-1697-02_155</head>
+        <bibl>Mercure galant, février 1697, p. 155-172</bibl>
+        <p>Harangue faite à Mr l'Archevesque de Paris.</p>
+        <p/>
+        <p>Mr l'Archevêque de Paris, qui n'a point encore laissé échapper d'occasion de faire paroistre sa pitié &amp; son zele pour le gouvernement de son Diocese, en a donné depuis peu une marque bien éclatante, par une Mission qu'il a fait faire à Paris, par les Peres Capucins, à la Paroisse de S.Hyppolite au Fauxbourg Saint Marcel. Les Missionnaires estoient au nombre de douze, tous consommez dans ce saint &amp; charitable exercice. L'ouverture s'en fit le 27 Decembre de l'année derniere, par une Procession composée du Clergé de la Paroisse &amp; des Peres Missionnaires, après laquelle le Superieur fit voir dans un sermon fort instructif &amp; fort pathetique, tous les avantages que les Fidelles peuvent tirer d'une Mission, &amp; tous les moyens d'en profiter. [...] Pendant la Mission, qui a duré prés de six semaines, il y a eu tous les jours trois Sermons, &amp; une Conference sur les Commandements de Dieu, &amp; un Salut le soir avec la benediction du Saint Sacrement après la dernier Predication.</p>
+        <p>Le 3 de ce mois, Mr l'Archevêque se rendit dés le matin dans cette Eglise, pour terminer cette Mission. Mr le Curé accompagné d'un Clergé composé de cinquante Ecclesiastiques, &amp; des Peres Missionnaires, l'alla recevoir en Procession aux dernieres maisons de sa Paroisse, où Mr l'Archevêque estant descendu de carosse, fut conduit sous un dais à l'Eglise en chantant le Cantique Benedictus. A l'entrée de l'Eglise, Mr le Curé le harangua [...]</p>
+        <p>[Suit la harangue.]</p>
+      </div>
+
+<div xml:id="MG-1697-02_182">
+        <head>MG-1697-02_182</head>
+        <bibl>Mercure galant, février 1697, p. 182-202</bibl>
+        <p>[L'article rend compte des péripéties que rencontra un père, un « fort honneste homme » qui « avoit amassé beaucoup de bien » en cherchant à marier sa fille unique.]</p>
+        <p/>
+        <p>[Histoire]</p>
+        <p/>
+        <p>[...] Elle estoit tres-belle ; &amp; comme il l'aimoit fort tendrement, toute ses pensées alloient à luy procurer un parti avantageux. Il n'avoit rien épargné pour augmenter en elle un merite que sa complaisance, l'agrément de son humeur &amp; la vivacité de son esprit faisoient éclater par tout où on la voyoit. Elle avoit une grace merveilleuse dans la danse, &amp; sçavoit fort bien joüer du Lut &amp; du Clavessin. [...] Cependant la Belle, dont l'humeur estoit fort douce, &amp; qui n'estimoit rien tant que la vie tranquille, comptoit pour rien tous les avantages que la nature &amp; la fortune luy avoient donnez [...]</p>
+      </div>
+
+<div xml:id="MG-1697-02_202">
+        <head>MG-1697-02_202</head>
+        <bibl>Mercure galant, février 1697, p. 202-223</bibl>
+        <p>Secrets merveilleux dont l'experience a esté faite devant le Roy.</p>
+        <p/>
+        <p>Je ne puis m'empêcher de repeter ce que je vous ay dit déjà plusieurs fois, que jamais les Arts n'ont tant fleury que sous le regne du Roy, que jamais on n'a tant ny si bien pensé, &amp; qu'on a inventé mille choses, qui ont esté inconnuës aux Anciens. Voicy la troisième fois que Mr de Lagarouste, Gentilhomme de la Ville de Saint Cere en Quercy, me donne occasion de parler de son merveilleux genie. [...] Je vous ay parlé aussi d'une machine de Musique qu'il a faite, &amp; qu'il a nommée Pandolyre, nom qui luy convient tres-bien, puisque c'est l'assemblage de toutes sortes d'Instrumens ; c'est une Machine que l'on ne peut assez admirer. Aussi le Roy en ayant examiné le dessein avec beaucoup d'attention, en fut si surpris que Sa Majesté avoüa qu'elle n'avoit jamais rien vû d'une si grande imagination. Le Public sera bien aise que je luy en marque la construction, [...], &amp; que je luy fasse part en détail que l'Auteur en fait à ses Amis. C'est un Corps d'Architecture &amp; de Sculpture, d'une tres-grande beauté, qui a vingt-deux pieds de long sur quartorze de hauteur, &amp; sept de face du costé des Claviers. Il y a au premier corps d'en bas treize Statuës en forme de Termes qui sont organisées, chantant chacune leur partie, avec le mouvement du menton, &amp; toutes ensemble comme dans un Choeur de Musique. L'on voit un Char où sont assis trois petits Amours qui joüent de la Musette, avec le mouvement de la teste, des bras, &amp; des doigts sur le chalumeau, qui sert de chaize à l'Organiste. Dans ce premier étage est une Orgue à douze ou quatorze Jeux, que l'Auteur a fait de sa main. Les soufflers &amp; le Souffleur y sont cachez. Dans le deuxième Corps sont quatre Clavecins tous differens, dont le premier qui sert de mobile à toute la machine, est à trois cens cordes portées sur une table &amp; sur trois chevalets, dont chaque rang est accordé differemment ; de force que ce Clavecin seul fait Concert entier. C'est l'Instrument le plus singulier qu'on ait jamais vû. Il est d'une bonté &amp; d'une beauté admirable. Dans le troisième étage sont les Luths, des Theorbes, des Violes &amp; des Violons. C'est une seule personne qui fait joüer ensemble tous ces Instrumens par le moyen de trois claviers qui sont placez dans ce Grand Clavecin. Par le premier l'on fait chanter les Statuës, joüer de la Musette aux enfans, &amp; l'Orgue de même, quoy que separément si l'on veut, les figures n'y ayant aucun rapport. Par le deuxième Clavier toute la Machine jouë à la fois ; &amp; par le troisième, l'Instrument seul que l'on veut entendre. On y voit sur le devant un frontispice où sont placées les neuf Muses avec Apollon, ayant chacune en main leur Instrument de Musique dont elle joüent, &amp; dont on voit le mouvement, &amp; pour couronment l'Auteur y a placé la figure du Roy, que la Gloire &amp; la Victoire couronnent, &amp; deux Renommées qui luy viennent offrir l'Univers entier, en luy presentant deux Globes, où sont l'un &amp; l'autre Hemisphere. Autour du Gouvernement sont treize enfans qui portent tous des Instrumens differens, dont on voit encore le mouvement. Cet ouvrage, merveilleux en toutes ses parties, a acquis à l'Auteur une si grande reputation, qu'une infinité de gens de la premiere qualité, &amp; de Curieux ont efté chez luy pour le voir, ne pouvant ajoûter foy à tout ce qui leur en avoit esté dit. [...]</p>
+      </div>
+
+<div xml:id="MG-1697-02_253">
+        <head>MG-1697-02_253</head>
+        <bibl>Mercure galant, février 1697, p. 253-260</bibl>
+        <p>Mr le comte de Briole nommé à l'Ambassade de Savoye.</p>
+        <p/>
+        <p>Le choix que le Roy a fait Mr le Comte de Briolle, premier Ecuyer de Monsieur le Prince, pour son Ambassadeur vers Monsieur le Duc de Savoye, a esté fort applaudy. Ce Comte a toutes les qualitez necessaires pour remplir dignement cet employ. Il y a long-temps qu'il eset attaché à la Maison de Condé. Il a fait plusieurs Campagnes sous feu Monsieur le Prince. L'on apprenoit à vaincre sous ce Grand Homme, mais encore à avoir de l'esprit, car personne n'ignore que ce Prince en avoit autant que de valeur. Tout se trouve dans ce sang, &amp; il seroit malaisé de porter la magnificence plus loin que Monsieur le Prince d'aujourd'huy. On voit briller en luy ce caractere de grandeur dans tout ce qu'il fait, &amp; les Festes qu'il a données à Chantilly, ont esté si distinguées, tant par la grande dépense, que par des manieres galantes &amp; toutes nouvelles, que l'avenir aura peine à estre persuadé que les Relations qui en ont esté faites, contiennent des veritez. Ce Prince donna un Bal le Lundy gras, où la magnificence, la profusion, &amp; la galanterie, parurent dans le plus haut point. Il y avoit un appartement de huit pieces, tout brillant de lumieres, &amp; superbement paré. Après un magnifique soupé, la Compagnie que Monsieur le Prince avoit regalée, descendit dans cet appartement. On y trouva plusieurs Masques, qu'on crut estre venus pour le Bal. Les Violons joüérent comme pour commencer, les Masques sortirent de leur place, &amp; dancerent un Balet. Ils cachoient tout ce que l'opera a de meilleurs Danseurs &amp; de meilleures Danseuses. Ce Balet finy, ils se retirérent, &amp; le Bal commença. Tant qu'il dura, on servit un nombre infiny de bassins remplis de tout ce que que la Patisserie peut fournir de plus agreable au goust ; le tout estoit chaud. [...]</p>
+        <p>[Suit une description des mets et des rafraîchissements placés dans une alcôve de la pièce principale. « Ainsi toute l'Assemblée eut ce qu'elle souhaitoit pour manger ou pour boire »]</p>
+        <p>Ceux qui avaient dansé un Balet avant l'ouverture du Bal, surprirent une seconde fois l'Assemblée, &amp; en dansèrent un second, sous d'autres habits. Leurs Altesses Royales, &amp; tout ce que la Cour &amp; Paris ont de distingué, se trouverent à ce Bal, qui meriteroit une plus ample description que celle que je vous en fais.</p>
+      </div>
+</body>
+  </text>
+</TEI>

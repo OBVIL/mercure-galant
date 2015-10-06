@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre, première partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-09a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, septembre, première partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-09a_035">
+        <head>MG-1686-09a_035</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 35-38</bibl>
+        <p>Prélude sur l'établissement de la Maison de S. CIR</p>
+        <p/>
+        <p>[Ce long article reproduit l'édit d'établissement de la maison royale Saint-Louis de Saint Cyr, composé de quatorze articles qui constituent le règlement cette institution. Le treizième est précisément consacré aux chants accompagnant les messes.]</p>
+        <p/>
+        <p>XIII</p>
+        <p/>
+        <p>Voulons &amp; nous plaist, qu'en considération de nostre présente Fondation Royale, ladite Communauté soit tenuë de faire célébrer une Messe haute, &amp; deux Messe basses tous les Dimanches &amp; Festes de l'année, &amp; deux Messes basses les jours ouvrables à l'intention qu'il plaise à Dieu de nous donner &amp; à nos Successeurs les lumières nécessaires pour gouverner nostre Etat selon les Règles de la Justice, &amp; pour augmenter son culte &amp; exalter son Eglise dans notre Royaume, Terres &amp; Seigneuries de notre Obeïssance, comme aussi à l'intention de remercier Dieu des grâces qu'il répand sur Nous, sur nostre Maison Royale &amp; sur nostre Etat. Nous voulons qu'à la Messe de la Communauté il soit chanté le Pseaume Exaudiat te Dominus, avec le Verset &amp; l'Oraison accoûtumée, &amp; à la fin de Vespres, le Domine salvum fac Regem ; Et comme nous mettons cette Maison sous la protection de la Sainte Vierge &amp; de Saint Loüis, VOULONS que l'une desdites Messes qui doivent estre dites chaque jour, soit célébrée pour le repos des Ames des Roys nos Prédécesseurs, &amp; de la feuë Reyne nostre Epouse, &amp; après qu'il aura plû à Dieu de disposer de nous, ladite Messe sera pareillement célébrée à nostre intention, &amp; seront lesdites Dames tenuës de dire à la fin de la Messe de la Communauté &amp; Salut les jours cy-dessus un De profundis pour le repos de nostre Ame.</p>
+      </div>
+
+<div xml:id="MG-1686-09a_048">
+        <head>MG-1686-09a_048</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 48, 54-56, 62-65</bibl>
+        <p>Prières et réjouissances</p>
+        <p/>
+        <p>On cherche en tous lieux à donner des marques du zèle ardent &amp; respectueux qu'on a pour Sa Majesté. Ce qui s'est fait au Ponteaudemer en est une preuve. On y a célébré la Feste de S. Loüis avec une grande pompe, suivant le Concordat que les Echevins de la Ville ont fait du consentement du Magistrat avec les Pères Carmes, pour une Messe qui sera chantée solemnellement tous les ans à pareil jour dans leur Eglise. [...]</p>
+        <p/>
+        <p>Le Sermon finy, on chanta l'Exaudiat en Musique, &amp; l'on dit des Prières ordinaires pour le Roy. [...]</p>
+        <p>Mrs de l'Académie de Ville-franche en Beaujolois ont soléminisé [sic] la mesme Feste avec des circonstances qui méritent d'estre scuës [sic]. Le matin ils se rendirent à l'Eglise Collègiale, où Mrs du Chapitre chantèrent avec beaucoup de solemnité la grand'Messe, qui fut suivie de Prières pour le Roy. [...]</p>
+        <p>Le mesme jour, Feste de S. Loüis, il y eut un salut fort solemnel dans l'Eglise des Pères Augustins Déchaussez de Nostre-Dame de Victoire. La Musique estoit de la composition de Mr Laloüete, Elève de Mr de Lully, &amp; satisfit fort tous ceux qui y assistèrent. Ce salut sera chanté tous les ans dans la mesme Eglise. [...]</p>
+        <p>Peut-estre n'avez-vous pas sçeu jusqu'à présent que le 5 ce mois, jour de la naissance de Sa Majesté, on disoit tous les ans une Messe basse dans l'Eglise des Clercs Réguliers, dits Théatins, pour rendre grâce à Dieu du présent qu'il luy a plû de faire à la France en la personne de ce grand Monarque. C'est une Fondation de la Reine Mère. Le Père Alexis du Buc, Supérieur, qui n'oublie rien quand il s'agit de marquer son zèle pour LOUIS Le GRAND, a rendu cette année ce Remerciement plus solemnel en faisant chanter la Messe en Musique. Elle estoit de la composition de Mr Lorenzani, Maistre de Musique de la feuë Reyne. Tous ceux qui l'ont entenduë avoüent qu'on ne peut rien faire de plus beau. L'Exaudiat qui suivit la Messe, charma toute l'Assemblée. Elle ne fut pas moins illustre que nombreuse, puis que Mr le Nonce, &amp; plusieurs Evesques s'y trouvèrent.</p>
+        <p>Le soir Mr le Marquis de la Feüillade, célébra le jour de cette heureuse Naissance, en faisant tirer quantité de Boëtes dans la Place des Victoires. [...] Ce n'estoit que feu autour de la Place, &amp; la Figure du Roy estoit environnée de Haut-bois, de Violons, &amp; de Flûtes douces. Tout un grand Peuple joüit de ce divertissement pendant trois heures entières, &amp; ne pouvoit se lasser de louer le zèle de Mr de la Feüillade, qui avoit déjà fait la memes chose le soir du jour de la Feste de S. Loüis. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-09a_164">
+        <head>MG-1686-09a_164</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 164-165, 167, 169-171</bibl>
+        <p>Carrousel fait à Florence</p>
+        <p/>
+        <p>Je ne vous ay point parlé d'un Carrousel qui s'est fait depuis quelque temps à Florence, &amp; qui représentait la Sagesse &amp; la Valeur, sous la conduite de Mr le Prince Ferdinand, Fils aisné de Monsieur le Grand Duc de Toscane. [...] Comme il a esté élevé dans tous les Exercices Militaires, il a voulu prendre pour sujet de cette Feste Pallas &amp; Mars qui envoyent leurs Champions contre les Hydres, &amp; autres Monstres qui troublent le repos de la Terre. [...]</p>
+        <p/>
+        <p>[Suit la description de l'évolution des Quadrilles composant le carrousel qu'accompagnent] plusieurs Choeurs de Musique, composez de diffèrens instrumens, &amp; des meilleures voix d'Italie [...]</p>
+        <p/>
+        <p>[Le prince Ferdinand prit part au combat, et] défit les Monstres avec une adresse qui attira mille cris de joye des Spectateurs [...] les Trompetes &amp; les Timbales se firent entendre, &amp; un Choeur de Musique ayant suivy, ce jeune Prince s'avança jusqu'au milieu de la Place à la teste des Chevaliers de Pallas, pour faire le coup de Pistolet, avec ceux de la Quadrille de Mars qui luy estoit opposées [...] après quoy toutes les Quadrilles se disposèrent à un Combat général avec l'épée. Il ne fut pas si tost commencé que Mars &amp; Pallas rappelèrent leurs Chevaliers, &amp; les invitèrent à la Paix par divers Choeurs de Musique. [...] La Feste s'estant terminée par là, [les Chevaliers se rangèrent autour du prince Ferdinand et] défilèrent au bruit des Timbales &amp; des trompetes, ayant ce jeune Prince à leur teste.</p>
+      </div>
+
+<div xml:id="MG-1686-09a_186">
+        <head>MG-1686-09a_186</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 186-187, 191</bibl>
+        <p>Arrivée à Rouen de M. Faucon de Ris</p>
+        <p/>
+        <p>Le Mercredy 14 de ce mois Mr de Faucon de Ris, qui pendant plusieurs années a exercé l'Intendance des Bordeaux avec tant de gloire, &amp; qui avoit esté nommé par le Roy Premier Président en son Parlement de Normandie, arriva en sa Terre &amp; Maison de Charleval, à cinq lieuës de Roüen, &amp; il en partit le lendemain, jour de la Feste de l'Assomption, pour venir prendre possession de sa Charge. Si tost que la nouvelle en eut esté répanduë, tous les Officiers ordinaires de la Ville ayant en teste leurs Capitaines ou Lieutenans, avec leurs Drapeaux, &amp; Trompettes, allèrent à cheval au devant de luy jusqu'à la première Poste, &amp; les autres à pied jusqu'à S. Paul, qui est au bas de la Montagne, Enseignes déployées, &amp; Tambours battans, pour le recevoir &amp; l'accompagner jusqu'à son Hostel. [...]</p>
+        <p/>
+        <p>[Il y reçut les différents Corps de la Ville ainsi que le Chapitre de la Cathédrale de Rouen qui le complimentèrent tant sur son habileté que sur] l'exactitude qu'il a à remplir tous les devoirs de sa Charge.</p>
+      </div>
+
+<div xml:id="MG-1686-09a_213">
+        <head>MG-1686-09a_213</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 213-215, 217-218, 220, 222-225, 228-229, 231, 233-234</bibl>
+        <p>Galanterie espagnole</p>
+        <p/>
+        <p>Quand les Espagnols trouvent quelque occasion de faire éclater leur galanterie, ils font connoistre qu'ils n'oublient pas les leçons que les Maures de Grenade leur ont autrefois données. Vous en allez trouver une preuve dans les honneurs que Mr le Marquis del Carpio, Vice-roy de Naples, a rendus à Madame la Duchesse de Bracciane. [...] Cette Duchesse ayant envie de voir la Ville de Naples, &amp; Mr le Marquis del Carpio luy ayant fait témoigner le plaisir qu'il se feroit de l'y recevoir, elle partit de Rome le premier de Juin. [...] [Elle atteint Naples par la mer le 3 juin. Le vice-roi vint au devant d'elle pour l'accueillir.]</p>
+        <p/>
+        <p>Il entra dans sa Galère, &amp; les Complimens se firent de part &amp; d'autre dans les termes les plus obligeans &amp; les plus honnestes. [...] enfin sur les trois heures ils arrivèrent au Port, où la Duchesse estoit attenduë par Madame la Princesse Cariati, de la Maison de Savelli, Cousine au troisième degré de Mr le Duc de Bracciane [...]</p>
+        <p/>
+        <p>Le lendemain le Viceroy luy envoya un rafraîchissement magnifique de toutes sortes de fruits &amp; de liqueurs [...] &amp; sur le soir elle fut visitée par le Marquis de Cogolludo, Fils aisné du Duc de Medina-Celi, &amp; Général des Galères de Naples. [...]</p>
+        <p/>
+        <p>Le [jeudi] 6 [la duchesse de Bracciane] alla sur le soir chez la Marquise de Cogolludo, où elle trouva la Princesse d'Aveline avec plusieurs Dames. Le Viceroy y alla aussi, &amp; y demeura jusqu'à la fin d'un Concert. Lors qu'il fut sorty, on ouvrit le Bal, qui fut commencé par les Dames &amp; des Gentilshommes Espagnols, à la manière d'Espagne, &amp; continué par les Filles de Madame la Duchesse de Bracciane, comme on fait en France. Il fut suivy d'une magnifique Collation, après quoy cette Duchesse fut reconduite chez elle.</p>
+        <p>Le 10 on luy fit voir le Palais des Rois de Naples. Tous les Gardes prirent les armes à son arrivée, &amp; l'Enseigne joüa du Drapeau. La Mesme chose se fit dans tous les Corps de Garde ; ce qui est un honneur extraordinaire qu'on ne fait qu'aux Princes Souverains. Elle fut receuë dans ce Palais par toute la Cour du Viceroy, &amp; après un Concert qui dura peu, on luy donna un somptueux Régale.</p>
+        <p>Le 12 elle fut priée par le Marquis &amp; la Marquise de Cogolludo, d'aller voir les Antiquitez de Puzzol &amp; de Baye. La Duchesse d'Aveline &amp; le Duc de S. Macer l'y accompagnèrent, &amp; elle fut escortée par huit Galères, qui estoient toutes remplies de Concerts &amp; de Trompetes. [...]</p>
+        <p/>
+        <p>Le 16 le Viceroy l'invita d'aller à Posilippe, Maison de Plaisance des Roys de Naples. Elle arriva vestuë à l'Espagnole, &amp; pendant qu'elle visitoit les Appartemens, le Viceroy s'y rendit accompagné du Prince de Forin, de ses deux Fils, du Marquis de S. Elme &amp; de son Frère. Après un Concert qui dura deux heures, on servit diverses Tables, dont l'un n'estoit que de deux Couverts, pour la Duchesse &amp; pour la Princesse de Cariati. Le Viceroy afin de marquer un plus grand respect, servit la Duchesse sans Chapeau &amp; sans Epée, &amp; mit luy-mesme les Plats sur la Table &amp; les en osta, sans vouloir permettre qu'aucun de ses Officiers luy epargnast cette peine. [...]</p>
+        <p/>
+        <p>L'heure de s'en retourner estant venuë, le Viceroy prit congé de la Duchesse. Elle monta en Carrosse &amp; revint à Naples. Elle croyoit que le Viceroy s'étoit retiré dans son palais, mais elle fut fort surprise de le trouver dans la Court du sien, où il l'attendoit pour la conduire jusque dans sa Chambre. La galanterie ne pouvoit aller plus loin. [...]</p>
+        <p/>
+        <p>Le 20 [le vice-roi] alla encore la visiter, suivy de tous les Gardes, tant Soldats que Cavalerie, &amp; après luy avoir fait quelques complimens il se retira. Comme elle avoit marqué ce jour là pour celuy de son départ, il retourna chez elle peu de temps après, &amp; luy donna le divertissement d'un Ballet. Lors qu'elle voulut partir, il la conduisit au Port, &amp; la fit monter avec toute sa suite dans la mesme Galère qui l'avoit amenée ; il y monta luy-mesme, &amp; l'ayant accompagnée à quatre milles sur Mer, il prit congé d'elle avec toutes les marques qu'elle pouvoit souhaiter de son estime [...]</p>
+      </div>
+
+<div xml:id="MG-1686-09a_244">
+        <head>MG-1686-09a_244</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 244-251</bibl>
+        <p>Particularités touchant l'Accouchement de Madame la Dauphine</p>
+        <p/>
+        <p>Ce fut entre onze heures trois quarts &amp; Midy. Mr Clément dit aussi-tost tout bas à Sa Majesté que c'estoit un Prince [...] &amp; Sa Majesté dit tout haut, C'est un Duc de Berry.[...] Le Roy retourna au Conseil &amp; dit en y entrant, Loüons Dieu, Messieurs, de ce qu'il vient de nous donner encore un Prince. Le Conseil estant finy, Sa Majesté alla à la Chapelle rendre grâces à Dieu de l'heureux Accouchement de Madame la Dauphine. Le lendemain ce Monarque assista au Te Deum, qui fut chanté dans la mesme Chapelle, où se trouvèrent Mr le Nonce, &amp; toute la Cour. Le soir il y eut des Feux de joye, &amp; des Illuminations par toutes les ruës. Le Lundy 2 de ce mois on chanta le Te Deum dans l'Eglise de la Paroisse, &amp; le soir on continua les réjoüissances du jour précédent. Le mesme jour il s'en fit de grandes à Paris. [...] L'après-disnée on chanta le Te Deum dans l'Eglise de Nostre-Dame. [...] Il y eut un grand Repas &amp; Bal à l'Hostel de Ville, &amp; l'on n'y oublia rien pour marquer la joye que chacun en ressentoit. [...] Je remets au prochain mois les réjoüissances qui ont esté faites à Bourges, Capitale du Berry, pour la Naissance de ce Nouveau Prince.</p>
+      </div>
+
+<div xml:id="MG-1686-09a_276">
+        <head>MG-1686-09a_276</head>
+        <bibl>Mercure Galant, septembre 1686, première partie, p. 276-283, 285-290, 292</bibl>
+        <p>Journal de tout ce qui s'est passé à Anet pendant le séjour de Monseigneur le Dauphin</p>
+        <p/>
+        <p>J'ay pris soin de m'informer de tout ce qui s'est passé à Anet pendant le séjour de Monseigneur le Dauphin, que je vous en envoye un Journal. Vous sçavez que Diane de Poitiers, Duchesse de Valentine, a fait bâtir cette belle Maison, &amp; que Monsieur le Duc de Vendosme à qui elle appartient, a fait beaucoup de dépense pour l'augmenter &amp; pour l'embelir. Il se préparoit depuis longtemps à y recevoir Monseigneur ; mais ce Prince n'y voulut aller qu'après les Couches de Madame la Dauphine [...] Cela fut cause qu'il ne partit de Versailles que le Vendredy 6 de ce mois à six heures du matin. Sur les dix heures il arriva à Anet qui en est éloigné de treize lieuës. Peu de temps après l'arrivée de ce Prince, on servit à disner sur une Table de 16 à 18 Couverts, placée dans le milieu du Salon de ce Château, &amp; dans le mesme moment on en servit une autre dans le mesme lieu de 18 à 20 Couverts, sans qu'il y eust aucune différence entre les Services de ces deux Tables. [...] Ces deux Tables ont toûjours esté magnifiquement servies, &amp; de la mesme manière. Monsieur le Duc de Vendosme en a fait servir tous les jours sept ou huit autres.</p>
+        <p>La première passoit pour celle de ce Prince, quoy qu'il ne s'y soit guère trouvé. [...]</p>
+        <p>La seconde estoit tenüe par M. de Bois de Laval, Capitaine ou Gouverneur du Chasteau. Ceux qui trouvaient quelques fois les autres Tables trop pleines, venoient manger à celle là. Elle estoit aussi destinée pour une partie des Demoiselles de l'Opéra.</p>
+        <p>La troisième estoit celle de M de Lully. Elle estoit servie avec autant de régularité que les autres, &amp; il y avoit un Maistre d'Hostel uniquement pour cela. On y voyoit toûjours bonne Compagnie tant à manger qu'à faire conversation avec M de Lully pendant le Repas, parce que son entretien n'est pas moins agréable que ses Ouvrages.</p>
+        <p>La quatrième estoit pour une partie des Demoiselles qui chantoient à l'Opéra, &amp; pour toutes celles qui y dançoient.</p>
+        <p>La cinquième pour tous les Musiciens &amp; les danseurs.</p>
+        <p>La sixième pour tous les Joüeurs d'Instrumens.</p>
+        <p>La Septième pour les Brigadiers, &amp; Gardes du Corps qui servoient auprès de Monseigneur.</p>
+        <p>La huitième estoit celle des Suisses du Roy servant auprès de ce Prince. [...]</p>
+        <p/>
+        <p>Le mesme jour que Monseigneur le Dauphin fut arrivé, il alla l'aprèsdisnée courre le Cerf avec la Meute de M. le Grand Prieur, &amp; il le prit après l'avoir couru trois heures. Sur les sept heures, il monta dans la Galerie de Diane, pour y voir l'Opéra d'Acis &amp; Galatée. Monsieur le Duc de Vandosme voulant donner à ce Prince un Divertissement qu'il n'eust point encore veu, en a fait toute la dépense. Les Vers de cet Opéra sont de M. Capistron. Il reçût beaucoup d'applaudissemens.</p>
+        <p>Le Samedy 7 Monseigneur alla courre le Loup avec les chiens de son Equipages. Il le prit après trois heures de course. On joüa le reste du jour. A sept heures on alla à l'Opéra, puis on soupa à l'ordinaire.</p>
+        <p>Le Dimanche 8 Monseigneur alla tirer, &amp; permit à ceux qui l'accompagnoient de tirer aussi. [...] Il y eut encore Opéra, &amp; l'on soupa ensuite. [...]</p>
+        <p>Le Mardi 10 Monseigneur courut le Loup dans le Parc de Breval, avec son Equipage. Il en prit un de huit mois, &amp; un jeune Loup que dévorèrent les Chiens. Il y eut Opéra avant Soupé.</p>
+        <p>Le Mercredy 11 alla courre le Cerf avec l'Equipage de Mr le Grand Prieur. Le Cerf après avoir couru plus de trois heures, se vint faire prendre dans la Rivière d'Anet. Beaucoup de Dames des environs estoient dans leurs Caroisse. Il y a long temps que cette sorte de Chasse n'a donné plus de plaisir, &amp; pour le rendre plus grand, Monseigneur fit faire sur le champ une partie de la Curée. Il y eut Opéra au retour. [...]</p>
+        <p>Le Vendredy 13 Monseigneur alla courre le Loup avec son Equipage. Il en prit un gros après quatre heures de course. Il y eut Opéra le soir. [...]</p>
+        <p/>
+        <p>Le Mercredy 17 Monseigneur entendit la Messe sur les sept heures, après quoy il monta à cheval pour retourner à Versailles, où il arriva à neuf ; ainsi il ne demeura pas deux heures à faire douze lieuës. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

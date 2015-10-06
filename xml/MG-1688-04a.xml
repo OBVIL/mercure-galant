@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril, première partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-04a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, avril, première partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-04a_016">
+        <head>MG-1688-04a_016</head>
+        <bibl>Mercure galant, avril 1688, première partie, p. 16-22</bibl>
+        <p>Ceremonies observées aux Mariages faits en Pologne.</p>
+        <p/>
+        <p>Quoy que je vous parle assez rarement de ce qui arrive aux Particuliers des Cours Etrangeres, quelque élevez qu'ils soient par leurs Dignitez &amp; par leur Naissance, ce que j'ay à vous dire de Mr le Comte de Wielopolski, grand Chancelier de Pologne, montre si bien le peu de stabilité des choses du monde, que la sainteté du temps où nous sommes m'oblige à vous le representer comme un exemple de leur insconstance. Ce Comte ayant arresté le mariage de son Fils aisné avec la Fille du Castelan de Cracovie, premier Senateur du Royaume, la ceremonie en fut faite par Mr le Cardinal Radziewski, Archevesque de Gnesne, avec une pompe extraordinaire. Leurs Majestez Polonoises, accompagnées d'une Cavalcade tres-nombreuse, se rendirent au lieu où elle se fit, &amp; Elles y furent conduites par Mr le Comte de Wielopolski. Il y eut ensuite un repas fort somptueux, &amp; l'on servit quatre tables avec une propreté &amp; une abondance à laquelle il eust esté difficile de rien ajoûter. [...] Le Festin, qui dura fort longtemps, fut suivy du Bal, &amp; le Roy commença les danses qu'on appelle Danses de ceremonie, en menant le Marié. La Reine mena ensuite la Mariée. Les Princes &amp; les Princesses, Enfans du Roy, firent la mesme chose, &amp; ces danses durerent jusqu'à trois heures après minuit. Le lendemain tous les Conviez firent leurs presens selon la coutume. Le Roy &amp; la Reine commencerent, &amp; comme chacun fit une harangue en les donnant, &amp; que les Mariez furent obligez de répondre à toutes, la journée se passa presque entiere à recevoir &amp; à haranguer. Le jour suivant, le Roy &amp; la Reine ayant esté prendre la Mariée dans leur Carosse, la conduisirent à la maison de Mr le Comte de Wielopolski, où leurs Majestez furent traitées magnifiquement avec tous les Conviez. Ce Comte donna le Bal, &amp; fit durer ces Festes huit jours, en traitant tous les Parens &amp; tous les Amis. C'est l'usage du Pays, où d'ordinaire en de pareilles occasions on n'abandonne la Mariée au Marié qu'après de grandes fatigues. Peu de jours, après il tomba dans une maladie fort dangereuse, dont on espera pendant quelque temps qu'on viendroit à bout de le tirer, mais enfin il mourut la nuit du 14. au 15 de Février. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-04a_056">
+        <head>MG-1688-04a_056</head>
+        <bibl>Mercure galant, avril 1688, première partie, p. 56-96</bibl>
+        <p>Prix de l'Arquebuse proposé à cinquante Villes differentes par Mrs de la Ville d'Autun.</p>
+        <p/>
+        <p>Nous commençons d'entrer dans une Saison où l'on doit rendre un Prix magnifique, si l'on suit l'engagement qui fut pris l'Esté dernier. Comme les choses que l'on n'a point publiées, sont toûjours nouvelles pour tous ceux qui n'en ont point entendu parler, je puis vous faire la relation de cette Feste, qui ne doit pas vous estre moins agreable pour s'estre passée il y a déjà plusieurs mois, puis que je ne vous en ay encore rien mandé. Les particularitez en sont assez remarquables pour meriter vostre curiosité. La Ville d'Autun, qui estoit autrefois la Capitale des Gaules, &amp; la seule qui fust capable de donner de la terreur à Cesar, cherchant à se distinguer dans les exercices qui ont l'apparence de la Guerre, proposa à cinquante Villes de differentes Provinces, un Prix à l'Arquebuse de dix mille francs ; &amp; un autre de deux mille au Pistolet. Mr Dorné, Capitaine choisi par la Jeunesse, écrivit une Lettre circulaire aux Chevaliers, pour les exhorter à prendre part au divertissement qu'il offroit. Cette Lettre eut le succés qu'il en avoit esperé ; &amp; il en auroit eu un plus grand, si la pluspart des Invitez n'eussent esté occupez à l'élection des Magistrats de leurs Villes, qui se faisoit dans ce mesme temps. Cependant le 28. Juin dernier, on vit arriver les Chevaliers de la Ville de Dijon bien montez, en bel ordre, vestus lestement, &amp; ayant chacun des Plumes blanches. Deux Trompettes les precedoient, &amp; les gens de livrées estoient à leur suite. Ils parcoururent deux à deux les principales ruës de la Ville, &amp; le Porte-Etendard estoit seul au troisiéme rang. Ceux de Beaune arriverent le lendemain dans un semblable équipage, ayant des Plumes rouges, &amp; leur livrée de mesme couleur. Ceux de Louën estoient en plus grand nombre que les autres. Ils avoient leurs habits galonnez d'argent d'une même parure, &amp; estoient montez superbement, avec quatre Trompettes, quatre Hautbois, &amp; quatre Fifres à leur teste. Ceux de Châlons, de Nuids, de Montcenis, de Tournu, &amp; de plusieurs autres Villes firent la mesme Cavalcade, &amp; tous se retirerent au Champ de Mars dans les logis qui leur avoient esté destinez. Mr Dorné leur envoya le vin de present, &amp; Mr Rabiot, Conseiller, &amp; nouvellement élu en la Charge de Vierg, leur envoya celuy de la Ville. La chaleur demandoit qu'on leur laissast le temps de se rafraîchir, mais l'impatience genereuse des Autunois porta les principaux d'entre eux à leur aller rendre visite. On entendit dehors par tout le son des Trompettes, des Fifres, des Tambours, des Violons, &amp; des autres Instrumens qui sont capables d'inspirer l'humeur guerriere. Les logis estoient disposez dans le Champ de Mars de telle sorte, que les Chevaliers estoient vis à vis les uns des autres. Ils se visiterent en ceremonie, &amp; les Sergens de Ville avec ceux de la Compagnie de Mr Dorné au nombre de dix huit, commencerent à marcher avec les Tambours pour assembler la Compagnie. [...] Le Champ de Mars est situé au milieu de la Ville, &amp; contient un si grand espace, qu'on pourroit bastir une Ville considerable dans son enceinte. Le Vierg estant logé dans l'une des extremitez, on alla le salüer. [...] Ce Comte [il s'agit du comte de Roussillon] marcha après cette belle compagnie avec cinquante Gentilshommes les plus lestes de la Province, qui le conduisirent au lieu destiné pour faire l'ouverture du Prix. Ce lieu est renfermé d'une grande muraille bastie à la mosaique, qui regne tout autour d'un grand espace de terre plus long que large, au milieu duquel les Chevaliers d'Autun firent construire il y a quarante ans, un superbe Edifice, au front duquel paroissent cinq Portiques sous lesquels sont cinq voûtes qui soûtiennent un grand Escalier, couvert d'un dôme d'ardoise &amp; de lames de plomb, extremement beau. [...] Le soir estant venu, toutes les loges furent illuminées. Celles des Marchands qui estoient dans l'enfoncement, formoient un objet fort agreable. Les Dames se rendirent en cet endroit, &amp; vingt-quatre Violons &amp; douze Hautbois qui s'accordoient parfaitement bien, s'estant fait entendre par les ordres de Mr le Comte de Roussillon, on fit un grand cercle au milieu de la place, au dedans duquel un des plus considerables des jeunes Gens de la Ville commença le Bal avec une Demoiselle de la campagne qui avoit de grands avantages à la danse. Ils eurent tous deux l'applaudissement de l'Assemblée, qui étoit composée de toutes les Personnes de qualité de l'Autunois, de l'un &amp; de l'autre sexe. Ce Bal ayant finy à deux heures après minuit, chacun se retira jusqu'au lendemain, que les Chevaliers des Villes estant venus dans leurs Loges au son des Tambours, des Fifres, des Trompettes &amp; des autres Instrumens, on s'exerça le reste du jour à tirer le Prix. Ceux de Loüen s'aviserent de representer le Roy de Siam, &amp; l'un d'eux vestu à la mode de ce Pays-là, estant monté sur un Char de triomphe, précedé par vingt-quatre Gardes avec de superbes livrées, armez de grandes halebardes fort propres &amp; fort luisantes, &amp; suivy par ses Chevaliers, fit le tour des trente six Loges, au devant desquelles on luy presentoit des Confitures &amp; du vin, qu'il receut avec la gravité d'un Roy qui ne se fait voir que rarement à ses Peuples. [...] Madame la Marquise de Montjeu étant entrée en sa Tente, il luy jetta son mouchoir, &amp; luy fit dire par son Drogman, qu'il l'estimoit assez pour la mettre dans son Serrail. Il en fit autant à la jeune Demoiselle qui avoit ouvert le Bal le soir précedent, &amp; la nuit estant survenuë, il fit un tour de Ville sur son Char. Il passa devant le College des Jesuites, où les Ecoliers qui s'y trouverent, crierent à haute voix : Vive, vive le Roy de Siam, &amp; il ordonna qu'on leur donnast congé pendant le temps du Prix ; ce que ces Peres luy accorderent fort honnestement. Il voulut ensuite souper en public, &amp; les Musiciens de la Ville luy donnerent un tres-beau Concert pendant ce repas. Le lendemain il monta encore sur son Char de triomphe pour venir en sa Tente, &amp; après que toutes les Villes furent assemblées, il se fit conduire chez Mr Dorné, [...]. On le regala ensuite magnifiquement, &amp; on ordonna à la Jeunesse de luy rendre tous les honneurs qui luy estoient deus. [...] Le soir la jeune Demoiselle qui s'estoit déjà fait admirer à la danse, eut un Bal reglé chez Mr le Lieutenant general de la Chancellerie, où tout ce qu'il y avoit de Gens de qualité se trouverent. [...] Ce Bal finy, il restoit à voir le lendemain qui emporteroit le Prix. [...] Pendant les trois jours du Prix, on envoyoit en chaque Loge douze douzaines de bouteilles de vin, des pastez de venaison, des jambons de Mayence, &amp; ce qu'on pouvoit trouver de plus propre à réveiller l'appetit des Chevaliers. Le Vierg tenoit table ouverte, &amp; Mr Dorné donna deux magnifiques Colations aux Dames. Jamais tant de joye n'avoit paru. Jamais on n'avoit veu tant d'ordre dans une Ceremonie, ny tant de splendeur &amp; d'éclat dans les habits, &amp; jamais on  n'avoit oüy tant de fois crier, Vive le Roy, qu'on l'entendit pendant tout le temps de ce grand divertissement, qui se termina par un Bal donné chez Mr le Comte d'Aligny, à une belle Demoiselle du voisinage, qui avoit tous les agrémens possibles de la taille, de la beauté, &amp; de la danse pour meriter cet honneur. Le quatriéme jour, les Chevaliers parurent en ordre pour s'en retourner. On les accompagna en armes jusques aux portes &amp; comme ceux de Loüen s'estoient le plus signalez, on les conduisit à une lieuë de la Ville, dans une grande plaine sur leur route, où ils trouverent un magnifique repas sous une Tente de feüillages qu'on avoit fait dresser à ce dessein. M. le Marquis de Montjeu les regala dans sa belle maison de Montjeu, bastie sur une montagne, au haut de laquelle sont deux grands estangs semblables à deux lacs, &amp; des Jets d'eau d'une hauteur incroyable. Il les fit chasser dans son Parc, &amp; leur donna un fort beau Concert.</p>
+        <p>Ce n'estoit pas assez d'avoir tiré le Prix à l'Arquebuse, il falloit aussi pour achever la pompe de cette Feste, qu'on tirast celuy du Pistolet. La Noblesse fit l'ornement de l'Assemblée. Mr le Comte d'Aiguli se mit à la teste des Chevaliers du Charolois, Mr le Comte de Vauteau, qui avoit esté élu de la Noblesse de cette Province là, voulut marcher sous son Etendart, &amp; Mrs de Fontenaille, de Poüilly, le Cler, de Boucherin, &amp; plusieurs autres les accompagnerent. [Suit une description de toutes les compagnies, de leurs livrées et de leurs enseignes.] Quatre trompettes precedoient la marche de chaque Compagnie, &amp; l'ordre estoit tel qu'on pouvoit l'attendre de gens accoûtumez à ne le jamais rompre dans les occasions les plus perilleuses. Ils arriverent aux Tentes que l'on avoit preparées, &amp; après une course legere pour saluer les Dames, on arbora les Etendards sur les Tentes qui se trouvoient extremement propres pour la Saison. Mr le Comte d'Aiguli ouvrit le Prix par un coup au noir, &amp; tous les Chevaliers tirerent chacun le leur pour les Dames. En mesme temps Mr Rabiot envoya les presens de vin par les Valets de Ville, &amp; Mr Dorné en fit autant par les Sergens, &amp; par les Tambours de sa Compagnie. On servit ensuite un grand Repas où l'on but à la santé du Roy avec les fanfares des Trompettes, &amp; les décharges de Canons &amp; de Mousquets. Toute la Ville accourut à cette réjoüissance ; on n'entendoit autre chose que des cris de Vive le Roy. Les Chanoines de la Cathedrale envoyerent leur Musique, &amp; les Violons firent un Concert tres-harmonieux. [...] On proposa aux Chevaliers de nommer chacun sa Dame. Le hazard voulut qu'ils les choisirent avec distinction, &amp; sans que l'un prist celle de l'autre. Le lieu fut éclairé d'une quantité de flambeaux, on dansa sans faire un Bal reglé, &amp; le lendemain on tira le prix en quatre volées qui fut remporté par Mr de Siry de Seranday. C'est un Gentilhomme de bonne mine, &amp; qui n'a pas moins d'esprit que de coeur. [...] Il alla faire compliment à la Dame qu'il avoit choisie, comme ayant esté animé par elle pour bien tirer, &amp; il luy donna le Bal où elle parut avec beaucoup d'avantage. La nuit s'estant passée en toutes sortes de divertissemens, on donna parole de rendre le Prix au Printemps prochain. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-04a_176">
+        <head>MG-1688-04a_176</head>
+        <bibl>Mercure galant, avril 1688, première partie, p. 176-187</bibl>
+        <p>Essay de Pastorale pour un Concert.</p>
+        <p/>
+        <p>Vous connoistrez par le sujet dont traitent les Vers que je vous envoye sous le titre d'Essay de Pastorale, qu'il y a déjà du temps qu'ils ont esté faits. Vous ne laisserez pourtant pas de les lire comme nouveaux, &amp; ils le sont en effet puis qu'ils n'ont point encore esté veus.</p>
+        <p/>
+        <p>ESSAY</p>
+        <p>DE PASTORALE,</p>
+        <p>Pour un Concert à Madame</p>
+        <p>la Dauphine.</p>
+        <p/>
+        <p>La Scene est dans les Campagnes de Versailles.</p>
+        <p/>
+        <p>L'HIMEN ET L'AMOUR.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>C'est icy des Bergers le commun rendez-vous ;</p>
+        <p>Icy chaque troupeau s'assemble.</p>
+        <p/>
+        <p>L'HIMEN.</p>
+        <p>Ce lieu dans le dessein de nous unir ensemble,</p>
+        <p>Me paroist fait pour nous.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Ce Heros si connu qui sçait regner &amp; plaire,</p>
+        <p>Aime &amp; protege ce sejour ;</p>
+        <p>Je crois que l'Himen &amp; l'Amour</p>
+        <p>Pourront s'y satisfaire.</p>
+        <p/>
+        <p>L'HIMEN.</p>
+        <p>Celle dont les Dieux ont fait choix,</p>
+        <p>Pour estre la source feconde,</p>
+        <p>De tant de Heros &amp; de Roys,</p>
+        <p>Qui porteront l'Empire des François,</p>
+        <p>Jusqu'aux extremitez du monde,</p>
+        <p>Se laisse admirer quelquefois</p>
+        <p>Dans ces campagnes &amp; ces bois.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Je sçay qu'en ce Palais cette Epouse charmante,</p>
+        <p>De son aimable Epoux attend l'heureux retour ;</p>
+        <p>Mais helas ! pendant cette attente</p>
+        <p>Que peuvent l'Himen &amp; l'Amour ?</p>
+        <p/>
+        <p>L'HIMEN.</p>
+        <p>Le jeune demy-Dieu que le ciel a fait naître,</p>
+        <p>Et l'agreable espoir de voir bien-tost paraître,</p>
+        <p>L'Auguste Frere qui le suit,</p>
+        <p>Font les plus doux momens du jour &amp; de la nuit,</p>
+        <p>De cette admirable Princesse.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>De peur que l'ennuy ne la presse</p>
+        <p>Assemblons les ris &amp; les jeux.</p>
+        <p>Unissons nos conquestes,</p>
+        <p>Faisons naître des Festes,</p>
+        <p>Ecoutons tous les voeux</p>
+        <p>Des Bergers amoureux.</p>
+        <p>Unissons nos conquestes</p>
+        <p>Meslons nous avec eux.</p>
+        <p>Unissons nos conquestes</p>
+        <p>Pressons les instans</p>
+        <p>Qui les rendent contens.</p>
+        <p>Unissons nos conquestes,</p>
+        <p>Faisons naître des Festes.</p>
+        <p/>
+        <p>Tous deux.</p>
+        <p>Bergers, honorez l'heureux jour</p>
+        <p>Qui joint l'Himen avec l'Amour.</p>
+        <p>Celebrez l'heureuse journée</p>
+        <p>Qui joint l'Amour à l'Himenée ;</p>
+        <p>Dans ce doux &amp; charmant sejour,</p>
+        <p>La paix entr'eux s'est terminée.</p>
+        <p/>
+        <p>Un choeur de Bergers &amp; de Bergeres repete.</p>
+        <p>Bergers, honorons l'heureux jour, &amp;c.</p>
+        <p/>
+        <p>Un Berger &amp; deux Bergeres.</p>
+        <p>Le concert des Oiseaux,</p>
+        <p>Des Zephirs &amp; des eaux</p>
+        <p>Allume dans nos ames,</p>
+        <p>Mille innocentes flâmes.</p>
+        <p/>
+        <p>Deux Bergers &amp; deux Bergeres.</p>
+        <p>De nouvelles ardeurs</p>
+        <p>Ont embrazé nos coeurs ;</p>
+        <p>Allons sous ce feüillage sombre</p>
+        <p>Joüir du silence &amp; de l'ombre.</p>
+        <p/>
+        <p>Deux Bergers.</p>
+        <p>Quand l'Himen &amp; l'Amour ont resolu d'agir,</p>
+        <p>On ne doit plus rougir</p>
+        <p>Des tendres sentimens que la nature inspire ;</p>
+        <p>Tout ce qu'on voit soupire.</p>
+        <p/>
+        <p>Deux Bergeres.</p>
+        <p>Quelles émotions,</p>
+        <p>Dans nos coeurs qui s'agitent</p>
+        <p>Par tant d'illusions</p>
+        <p>A l'amour nous incitent !</p>
+        <p>Quand l'Himen &amp; l'Amour ont resolu d'agir</p>
+        <p>On ne doit plus rougir, &amp;c.</p>
+        <p/>
+        <p>Deux Bergers.</p>
+        <p>Quand l'Himen &amp; l'Amour, &amp;c.</p>
+        <p>Peut-on resister aux amours</p>
+        <p>Quand l'Himen vient à leur secours.</p>
+        <p/>
+        <p>Deux Bergeres repetent.</p>
+        <p>Quand l'Himen, &amp;c.</p>
+        <p/>
+        <p>Deux Bergers, &amp; deux Bergeres</p>
+        <p>Peut-on resister, &amp;c.</p>
+        <p/>
+        <p>Le Choeur reprend.</p>
+        <p>Peut-on resister, &amp;c.</p>
+        <p/>
+        <p>L'Himen &amp; l'Amour.</p>
+        <p>De ces beaux Pâturages,</p>
+        <p>Fortunez habitans,</p>
+        <p>De mille soins reconnoissans</p>
+        <p>Goûtez les tendres témoignages.</p>
+        <p/>
+        <p>Deux Bergers &amp; deux Bergeres.</p>
+        <p>Dieux, comment pourrons-nous</p>
+        <p>Vous rendre les honneurs qui sont dignes de vous ?</p>
+        <p/>
+        <p>Le Choeur repete.</p>
+        <p>Dieux comment, &amp;c.</p>
+        <p/>
+        <p>L'Amour &amp; l'Himen.</p>
+        <p>L'Himen</p>
+        <p>aisement se contente,</p>
+        <p>L'Amour</p>
+        <p>Il ne demande que vos voeux ;</p>
+        <p>Il veut toûjours vous rendre heureux</p>
+        <p>Pourvû que le coeur y consente.</p>
+        <p/>
+        <p>Le Choeur repete.</p>
+        <p>L'Himen</p>
+        <p>aisement se contente, &amp;c.</p>
+        <p>L'Amour</p>
+        <p>Que dans tous les lieux d'alentour,</p>
+        <p>Retentissent les noms &amp; d'Himen &amp; d'Amour.</p>
+        <p/>
+        <p>Les Bergers &amp; Bergeres.</p>
+        <p>Que dans tous les lieux...</p>
+        <p/>
+        <p>Le Choeur reprend.</p>
+        <p>Que dans tous les lieux...</p>
+        <p/>
+        <p>L'Himen.</p>
+        <p>Que sur ce climat l'abondance</p>
+        <p>Puisse à jamais verser sa plus riche influance.</p>
+        <p/>
+        <p>L'Amour.</p>
+        <p>Que toûjours de nouveaux plaisirs,</p>
+        <p>Previennent jusqu'à vos desirs.</p>
+        <p/>
+        <p>L'Himen &amp; l'Amour.</p>
+        <p>Ne vous étonnez pas si d'un estind [sic] si doux,</p>
+        <p>Les plus fameux Hameaux vont devenir jaloux.</p>
+        <p>Un jour les Divinitez mesmes</p>
+        <p>Quitteront le sejour des Cieux</p>
+        <p>Et leurs grandeurs suprêmes,</p>
+        <p>Pour venir avec vous habiter en ces lieux.</p>
+        <p/>
+        <p>Deux Bergers &amp; deux Bergeres.</p>
+        <p>O plaisirs ! ô douceurs extrêmes !</p>
+        <p>Que dans tous les lieux d'alentour,</p>
+        <p>Retentissent les noms &amp; d'Himen &amp; d'Amour.</p>
+        <p/>
+        <p>Choeur.</p>
+        <p>Que dans tous les lieux, &amp;c.</p>
+        <p/>
+        <p>Un Berger &amp; une Bergere.</p>
+        <p>Mais quel trouble s'excite !</p>
+        <p>Tout s'émeut, tout s'agite.</p>
+        <p>Quels soudains mouvemens</p>
+        <p>Redoublent nos contentemens !</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>Mille naissantes fleurs embellissant la Terre,</p>
+        <p>Des lieux les plus deserts font un riche parterre.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>D'un murmure agreable &amp; nouveau,</p>
+        <p>J'entens couler ce doux ruisseau.</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>D'un feüillage plus vert tous les arbres se parent.</p>
+        <p/>
+        <p>Tous ensemble.</p>
+        <p>A l'abord du plus grand des Dieux,</p>
+        <p>Tant de nouveautez se préparent,</p>
+        <p>Ou Loüis de retour arrive dans ces lieux.</p>
+        <p>Quelques Divinitez puissantes</p>
+        <p>Forment en sa faveur ces beautez étonnantes.</p>
+        <p/>
+        <p>Le Choeur repete.</p>
+        <p>A l'abord du plus grand, &amp;c.</p>
+        <p/>
+        <p>Bergers &amp; Bergeres.</p>
+        <p>Ah, réjoüissons-nous,</p>
+        <p>N'ayons plus de tristesse.</p>
+        <p>Nostre grande Princesse</p>
+        <p>Va recevoir son Epoux.</p>
+        <p>N'en soyons plus en peine,</p>
+        <p>Le Vainqueur le ramene.</p>
+        <p/>
+        <p>Le Choeur.</p>
+        <p>Qu'on n'entende par tout que chants melodieux,</p>
+        <p>De voix &amp; d'instrumens que les airs retentissent,</p>
+        <p>Que les jeux &amp; les ris, que les amours s'unissent,</p>
+        <p>Que nos concerts s'elevent jusqu'aux Cieux.</p>
+        <p/>
+        <p>Bergers.</p>
+        <p>Avant la fin du jour</p>
+        <p>Nous verrons de ces lieux le Maistre de retour.</p>
+        <p/>
+        <p>Choeur.</p>
+        <p>Qu'on n'entende, &amp;c.</p>
+      </div>
+
+<div xml:id="MG-1688-04a_308">
+        <head>MG-1688-04a_308</head>
+        <bibl>Mercure galant, avril 1688, première partie, p. 308-309</bibl>
+        <p>Comme Madame la Dauphine aime beaucoup la Musique, qu'elle s'y connoist parfaitement, qu'elle a la voix belle, &amp; qu'elle chante mesme en partie, chacun s'empresse à travailler pour la divertir. C'est ce qui est cause qu'il y a eu souvent à Versailles de petits concerts en forme d'Opera, sans habits &amp; sans theatre. Les deux derniers dont la Cour a eu le divertissement, sont de M. Moreau &amp; de M. Matho. Ils ont paru tous deux fort agreables, &amp; on y a trouvé de fort belles choses. Vous devez estre persuadée que M. Matho est tres-habile, puis qu'il a esté choisi pour montrer à chanter à cette Princesse.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1695</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1695-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1695</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1695-06_091">
+        <head>MG-1695-06_091</head>
+        <bibl>Mercure galant, juin 1695, p. 91-109</bibl>
+        <p>Ceremonies faites à l'établissement d'un Bureau des Finances à la Rochelle.</p>
+        <p/>
+        <p>L'Office de Maire de la Ville de la Rochelle, avec les fonctions &amp; gages qui y ont esté atrtibuez, a esté uni &amp; incorporé au Corps des Presidens, Tresoriers de France, Generaux des Finances, pour estre exercé annuellement par un d'entr'eux, à commencer par le plus ancien en reception, &amp; continué d'année en année, à tour &amp; par ordre de tableau, sans qu'à l'avenir cet Office puisse estre desuni ny separé.</p>
+        <p>Mr Begon, Intendant de la Generalité de la Rochelle, qui se distingue en toutes sortes d'occasions, par son zele &amp; son application singuliére pour le service de son Prince, &amp; qui est également estimé de tout le monde par son sçavoir &amp; par sa pieté, ayant eu ordre de faire cet établissement si avantageux aux Habitans de la Rochelle, il jugea à propos avant toutes choses de commencer par faire faire des Prieres publiques, &amp; pour cet effet le 2. du mois passé, estant revestu de sa robe rouge, precedé de deux Hoquetons armez de leurs Carabines, &amp; suivy des Tresoriers de France &amp; des autres Officiers du Bureau des Finances, en robes de satin noir, il se rendit à l'Eglise Cathedrale, où ils assisterent à la Messe du S. Esprit chantée solemnellement par la Musique. Mr le Doyen officia en l'absence de Mr l'Evesque qui estoit occupé à la visite des Paroisses de son Diocese, qu'il fait avec beaucoup d'exactitude &amp; d'édification. Le Chapitre &amp; le Clergé assistérent à la Ceremonie qui fut tres-celebre. (...)</p>
+        <p>Le lendemain, toute la Bourgeoisie eut ordre de prendre les armes, &amp; de se mettre en bataille dans la Place d'armes de la Ville. Pendant qu'on estoit occupé à cet exercice, les Députez choisis par les Paroisses, au nombre de cinquante, &amp; plusieurs autres Habitans, se rendirent à l'Hostel de Ville, où ils avoient esté convoquez. Mr l'Intendant, qui en fut averty, s'y rendit au mesme instant, pour faire proceder en sa presence à la nomination des quatre Echevins &amp; des douze Notables qui devoient composer le Conseil de Ville, où doit assister le Commissaire aux Reveuës avec les douze Assesseurs.</p>
+        <p>Le premier Echevin fut choisi du Corps du Presidial. On tira le second Echevin du nombre des Officiers de l'Election ; le troisiéme du Corps de la Bourgeoisie, &amp; le quatriéme du Corps des Marchands. A l'égard de la nomination des douze Notables, on suivit l'ordre prescrit par l'Edit de creation du Corps de Ville. Ces Messieurs ayant tous fait serment de fidelité au Roy, &amp; pris la seance convenable à leurs dignitez, le nouveau Maire, Doyen des Tresoriers de France, qui est entré cette année en exercice, fut placé leur teste, à costé de Mr l'Intendant, qui le fit reconnoistre en pleine Assemblée. Le rétablissement du Corps de Ville ayant esté ainsi arresté, fut divulgué &amp; rendu public, comme il se pratiquoit anciennement, au son de toutes les cloches &amp; des acclamation populaires. On chanta le Te Deum en action de graces, &amp; tous ces Mrs y assisterent en cet ordre.</p>
+        <p>Mr l'Intendant revêtu de sa robe rouge, avoit à sa gauche le nouveau Maire de la Ville, revêtu d'une robe de velours rouge cramoisi, tres-riche, doublée de satin noir, ayant sur l'épaule gauche un chaperon de mesme velours, fourré d'hermines, &amp; chargé de trois Fleurs de Lis d'or en broderie. Il estoit précedé de deux Hoquetons, de douze Hallebardiers, &amp; de douze Archers de Ville, ayant des casaques rouges avec les armes de la Ville en broderie, au milieu du dos &amp; sur l'estomach. Les quatre Echevins marchoient aprés luy, ainsi que le Procureur du Roy, &amp; le Greffier de la Ville, revestus de tres-belles robes de drap d'écarlate ; les douze Assesseurs, les douze Notables, plusieurs autres Habitans. Ils allerent à l'Eglise Cathedrale, où le Chapitre &amp; le Clergé estoient assemblez. Mr le Doyen officia, &amp; le Te Deum fut chanté solemnellement par la Musique, avec les Prieres ordinaires pour le Roy, &amp; pour la prosperité de ses armes. (...)</p>
+        <p>Sur les sept heures du soir, le nouveau Maire, précedé des Trompettes, des Tambours, des Hallebardiers &amp; des Archers de la Ville, &amp; de quantité de flambeaux de cire blanche, accompagné des quatre Echevins, du Procureur du Roy, du Greffier, tous en robes rouges, des Assesseurs &amp; des Notables, partit de l'Hostel de Ville pour aller à la Place d'armes. Les ruës estoient bordées de Soldats en haye des deux costez ; &amp; aprés avoir observé les ceremonies ordinaires, il alluma au son des fanfares des Trompettes &amp; des tambours, le feu de joye qui avoit esté préparé pour la réjoüissance publique. La Bourgeoisie, ainsi que les autres Habitans qui assistoient à cette ceremonie, ayant fait plusieurs salves au bruit de la Mousqueterie, marqua par ses acclamations &amp; par ses cris de Vive le Roy, sa reconnoissance envers Sa Majesté, du bien &amp; de l'avantage qu'elle recevoit en cette occasion, &amp; combien le rétablissement de leur Corps de Ville estoit glorieux pour ses Citoyens. Pour achever la solemnité de cette feste, Mr l'Intendant fit préparer un Soupé magnifique, pour regaler le nouveau Maire, &amp; tout le Corps de Ville, que Mr le Maréchal d'Estrées voulut encore honorer de sa presence.</p>
+        <p>Le jour suivant 4. du même mois, Madame l'Intendante voulant bien en faveur de la réjoüissance publique, donner tréve pour quelques momens à ses exercices de pieté, où elle est actuellement occupée pour le soulagement des Pauvres de la Province, regala toutes les Dames de la Ville. Il y eut Bal ensuite, &amp; quantité d'illuminations, ce qui attira une tres nombreuse Compagnie. On ne se souvient point en ce pays là, qu'il se soit jamais passé dans la Ville de la Rochelle, des réjoüissances si generales, chacun s'est distingué dans cette rencontre pour donner des marques de sa joye, &amp; particulierement les Officiers du Presidial.</p>
+      </div>
+
+<div xml:id="MG-1695-06_214">
+        <head>MG-1695-06_214</head>
+        <bibl>Mercure galant, juin 1695, p. 214-216</bibl>
+        <p>Mariages.</p>
+        <p/>
+        <p>On apprend par les Lettres de Languedoc, les réjoüissances qui ont esté faites à Narbonne, au sujet du mariage de Mr le Comte de Merinville, son Gouverneur, avec Mademoiselle du Cambout. Les Consuls partirent le 8. de ce mois, le soir en robes rouges, de l'Hostel de Ville, avec toute la pompe dans laquelle ils ont accoutumé de marcher aux plus grandes Festes. Ils estoient précedez par les Compagnies de Milices Bourgeoises, au bruit des Tambours &amp; des Trompettes, &amp; estant arrivez au milieu de la grande Place, vis à vis la Vicomté, dont la porte estoit ornée d'un arc de triomphe, avec les Armes de Mr &amp; de Madame de Merinville, prenant chacun un flambeau, aprés les ceremonies ordinaires, ils allumerent le Feu que l'on avoit préparé, &amp; auprés duquel les Milices firent leur décharge, qui fut suivie du canon &amp; d'autres Feux d'artifice.</p>
+      </div>
+
+<div xml:id="MG-1695-06_325">
+        <head>MG-1695-06_325</head>
+        <bibl>Mercure galant, juin 1695, p. 325-326</bibl>
+        <p>Nouvelles de Catalogne.</p>
+        <p/>
+        <p>Nos Ennemis crient victoire lors qu'ils ne sont battus qu'à demy. Ainsi le Roy d'Espagne a esté en pompe faire chanter le Te Deum à Nostre-Dame d'Atoche, parce qu'il n'est entré dans Castelfollit que la moitié du Convoy qui avoit esté préparé pour le ravitailler. L'Armée du Roy s'assemble à une lieuë &amp; demie de Gironne, afin d'estre plus en état de pourvoir cette Place de toutes les choses dont elle pourroit avoir besoin. Celle des Ennemis s'assemble à Blanes. Mr de Vendosme, qui s'est abouché à Perpignan avec Mr de Noailles, y doit estre arrivé il y a quelque temps.</p>
+      </div>
+</body>
+  </text>
+</TEI>

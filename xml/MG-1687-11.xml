@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-11_004">
+        <head>MG-1687-11_004</head>
+        <bibl>Mercure galant, novembre 1687, p. 4-7</bibl>
+        <p>Prelude.</p>
+        <p/>
+        <p>J'avouë que j'aurois pû vous dire quelque chose des divertissemens que l'on a pris [à Fontainebleau], mais je ne vous en aurois rien appris de nouveau, en vous disant qu'il y a eu alternativement Comedie Françoise, &amp; Italienne, differens Concerts, &amp; differens Jeux dans les Appartemens, ainsi que diverses Chasses aux environs de cette Maison Royale. Le Roy a pris quelquefois ce plaisir, ce qui fait voir la santé parfaite dont ce Monarque joüit, puis qu'il faut de la vigueur pour cet exercice. Quoy qu'il n'ait eu nul attachement pour tous les autres plaisirs, il n'a pas laissé de se montrer à quelques-uns, mais seulement autant qu'il estoit besoin pour les faire prendre à ceux de sa Cour. [...]</p>
+        <p>Comme Madame la Dauphine aime extremement la Musique, &amp; qu'elle s'y connoist parfaitement, plusieurs Musiciens ont travaillé pour la divertir sur de petits Ouvrages en maniere d'Opera, &amp; ces Ouvrages se sont trouvez remplis de beaucoup de choses agreables, tant pour la Musique que pour les Vers. Cette Princesse estant d'une pieté exemplaire, qui l'engage à faire souvent ses Devotions, le Pere Frey, Jesuite Allemand, fut appellé pour la confesser à la Feste de tous les Saints.</p>
+      </div>
+
+<div xml:id="MG-1687-11_138">
+        <head>MG-1687-11_138</head>
+        <bibl>Mercure galant, novembre 1687, p. 138-104</bibl>
+        <p>Feste donnée par M. le Marquis du Tremblay.</p>
+        <p/>
+        <p>La France est si florissante, que les Particuliers, j'entens les Personnes d'une qualité distinguée, mais au dessous des Princes, Ducs &amp; Pairs &amp; Maréchaux de France, font des Festes qui sont souvent inconnuës hors des lieux où elles sont données, &amp; qui paroistroient beaucoup dans les Estats de plusieurs Souverains. Celle qui fut faite au commencement de ce mois chez Mr du Tremblay, Maistre des Requestes, en son Château du Tremblay, est de ce nombre. Elle commença la veille de S. Charles Boromée [Borromée] [le 3 octobre], Feste de Mr le Marquis du Tremblay, par une illumination au Chasteau qui porte ce mesme nom. On y vit briller plus de douze cens Bougies. Il y eut un grand Repas, une fort belle simphonie, un Feu d'artifice, &amp; tout cela fut suivy du Bal. Le lendemain on chanta une Messe en Musique. L'Assemblée fut nombreuse, &amp; composée de Personnes de qualité de l'un &amp; de l'autre sexe. Vous sçavez que le Chasteau du Tremblay est tres-beau, &amp; qu'il a esté basty sur le modelle de celuy de Luxembourg. Mr du Tremblay, Gouverneur de la Bastille, Grand-pere de celuy dont je vous parle, l'a extremement embelly. Il estoit Frere du Pere Joseph, Capucin, qui a eu si grande part aux affaires sous le Ministere de Mr le Cardinal de Richelieu.</p>
+      </div>
+
+<div xml:id="MG-1687-11_170">
+        <head>MG-1687-11_170</head>
+        <bibl>Mercure galant, novembre 1687, p. 170-186</bibl>
+        <p>Journal du Voyage des Ambassadeurs de Siam, depuis Brest jusques au Cap de Bonne-Esperance, avec ce qui s'est passé pendant le sejour qu'ils ont fait au Cap.</p>
+        <p/>
+        <p>Je reprens aujourd'huy de plus haut ce qui regarde ce Voyage, &amp; vous en envoye un Journal tres-curieux qui commence au jour que la Flote partit de Brest, &amp; finit à celuy du rembarquement au Cap de Bonne-Esperance. Ce Journal a esté envoyé par Mr Masurier, Gentilhomme Lionnois, qui est allé à Siam avec Mr de Farges, &amp; qui fait connoistre son esprit par les remarques judicieuses qu'il a faites, &amp; son intelligence dans la Marine, par la maniere dont il s'explique sur toutes les choses qui la regardent. [...]</p>
+        <p>Le Mercredy, Jeudy &amp; Vendredi saint nous chantasmes Tenebres ; du Jeudy au Vendredy le Saint Sacrement fut exposé pendant vingt-quatre heures ; le lendemain Vendredy, nous eusmes le Sermon sur la Passion, par un de ces Peres, avec l'applaudissement de tous ceux du Vaisseau, &amp; le Samedy, &amp; le Dimanche de Pasques, il y eut grand Messe avec la simphonie des Violons, des Hautbois, &amp; Flûtes douces. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-11_240">
+        <head>MG-1687-11_240</head>
+        <bibl>Mercure galant, novembre 1687, p. 240-241</bibl>
+        <p>Nouvelles Pieces de Clavessin, de M. le Begue.</p>
+        <p/>
+        <p>J'ajousteray à ce que je vous ay dit la derniere fois des Pieces nouvelles de Clavessin, composées par Mr le Begue, Organiste du Roy, qu'elles se vendent presentement chez Mr Lesclop, Faiseur d'Orgues, ruë au Maire, proche Saint Nicolas des Champs. Vos Amies seront peut-estre bien-aises de l'apprendre, parce qu'il les envoye dans toutes les Villes du Royaume, où elles ne sont pas moins estimées par la facilité qu'il y a de les apprendre, qu'à cause de leur extrême beauté.</p>
+      </div>
+
+<div xml:id="MG-1687-11_262">
+        <head>MG-1687-11_262</head>
+        <bibl>Mercure galant, novembre 1687, p. 262-263</bibl>
+        <p>Ce qui s'est passé à l'ouverture du Parlement, &amp; à celle des Audiences.</p>
+        <p/>
+        <p>Le lendemain de la Saint Martin, on fit l'ouverture du Parlement en la maniere accoûtumée. La Messe fut celebrée dans la Grand'Salle du Palais par Mr l'Evesque de Xaintes [Saintes], &amp; chantée par plusieurs Choeurs de Musique. Tout le Parlement s'y trouva en Corps, &amp; en Robes rouges, &amp; cette Ceremonie estant achevée, il se rendit dans la Grand'-Chambre avec l'Evesque qui avoit officié. Ce Prelat leur fit un Compliment, &amp; fit en mesme temps l'Eloge de la Justice.</p>
+      </div>
+
+<div xml:id="MG-1687-11_267">
+        <head>MG-1687-11_267</head>
+        <bibl>Mercure galant, novembre 1687, p. 267-275</bibl>
+        <p>Opera d'Achille &amp; de Polixene.</p>
+        <p/>
+        <p>On a commencé à jouër icy un Opera nouveau, intitulé Achille &amp; Polixene. L'ouverture, &amp; le premier Acte sont de la composition de feu Mr de Lully, &amp; c'est le dernier Ouvrage de Musique qu'il ait fait avant sa mort. Le Prologue &amp; les quatre derniers Actes ont esté composez par Mr Colasse, l'un des quatre Maistres de Musique de la Chapelle du Roy, &amp; Eleve du même Mr de Lully. La Piece est de Mr Capistron [Campistron], qui a fait l'Opera d'Acis &amp; de Galatée, &amp; l'Idille qui fut chanté à Anet pour le divertissement de Monseigneur le Dauphin, &amp; que je vous envoyay il y a quelques mois. Quoy que Mr Capistron [Campistron] ait fait beaucoup d'autres Ouvrages considerables, je ne vous nomme que ces deux-là, parce que s'agissant icy d'Opera, je dois vous le faire connoistre par les Pieces de sa façon, qui ont esté mises en Musique. Je vous envoye ce dernier Opera imprimé, &amp; comme vous en pourrez juger par vous-mesme en le lisant, je n'ay rien à vous en dire. Je l'ay écouté avec grande attention, &amp; si je vous expliquois ce que j'en pense, il sembleroit que je voudrois prévenir les sentimens de ceux qui lisent mes Lettres, &amp; empescher que l'on n'en jugeast autrement que moy : il y auroit trop de vanité à cela. J'ay sujet de me défier de mes lumieres &amp; suis fort persuadé qu'il y a beaucoup de gens plus éclairez que je ne le suis. Quant à la Musique, &amp; au spectacle que vous ne pouvez entendre ny voir, il faut vous en dire davantage. Neanmoins je parleray peu de la Musique, parce qu'elle n'a pas un point fixe de bonté comme beaucoup d'autres choses. Le dernier de ceux qui travaillent en Musique, compose souvent selon les regles ainsi que le plus habile, &amp; c'est ce qui est presque general dans toutes sortes d'Arts. Cependant il ne s'ensuit point que leurs Ouvrages soient également beaux. Tous les hommes sont composez des mesmes parties, &amp; quoy que chacun ait tout ce qui est necessaire pour former le corps humain, on ne sçauroit dire que tous les hommes soient d'une égale beauté. On trouve des traits plus reguliers dans les uns que dans les autres ; il y a des beautez blondes, &amp; des beautez brunes ; il y en a de vives &amp; de languissantes, &amp; parmy tout cela il se rencontre toûjours un certain je ne sçay quoy qui frape dans celles qui sont les moins parfaites. Toutes ces differentes beautez sont aimées selon le goust de ceux qui les voyent. Il en est de mesme à l'égard de la Musique. L'un veut du vif, l'autre veut du languissant, l'un veut rire, l'autre veut pleurer, &amp; cela est cause que chacun juge de la beauté d'un Ouvrage de Musique selon que cet Ouvrage est conforme à son goust. Ainsi quoy que je pusse dire de la Musique de Mr Colasse, ce que j'en dirois ne seroit pas generalement receu, &amp; un particulier ne doit jamais donner son sentiment pour regle sur une chose dont on peut juger si differemment. Je puis dire pourtant à l'avantage de Mr Colasse, qu'il est presque impossible qu'un homme qu'on a trouvé assez habile pour remplir une des quatre places de Maistre de Musique de la Chapelle du Roy, &amp; qui a demeuré pendant plusieurs années avec le fameux M. de Lully, n'ait pas beaucoup de ses manieres, &amp; ne fasse pas de belles choses. Aussi je vous diray qu'il y en a dans son Opera, &amp; qu'elles ont esté applaudies des Connoisseurs. Le reste du spectacle est de M. Berrin [Berain], dont je vous ay tres-souvent parlé. Plusieurs Opera, les Carrousels, les Illuminations de Versailles, la Feste de Seaux &amp; mille autres choses de cette nature, luy ont acquis tant de réputation là-dessus, &amp; l'ont rendu si habile, qu'il ne fait rien qui ne soit d'un tres-bon goust. C'est ce que l'on a trouvé dans les habits de l'Opera d'Achille &amp; de Polixene, qui ont receu un applaudissement universel. Ils ont paru fort riches, tres-bien entendus, &amp; suivant le caractere des Personnages.</p>
+      </div>
+
+<div xml:id="MG-1687-11_282">
+        <head>MG-1687-11_282</head>
+        <bibl>Mercure galant, novembre 1687, p. 282-283</bibl>
+        <p>Cloches tenues par Monseigneur le Dauphin &amp; Madame la Dauphine.</p>
+        <p/>
+        <p>Le 9. de ce mois Mr l'Archevesque de Sens benit deux Cloches à l'Hôpital Royal de la Charité d'Avon, les-Fontainebleau. Monseigneur le Dauphin a esté le Parrain de l'une, &amp; Madame la Dauphine la Marraine. Ils visiterent ensuite les pauvres Malades, à chacun desquels ils firent distribuer deux Loüis d'or. Madame la Duchesse fut la Marraine de la seconde Cloche, &amp; Monsieur le Duc du Maine, le Parrain.</p>
+      </div>
+
+<div xml:id="MG-1687-11_313">
+        <head>MG-1687-11_313</head>
+        <bibl>Mercure galant, novembre 1687, p. 313-315</bibl>
+        <p>LIVRES DE MUSIQUE de la Composition de Mr de Bacilly.</p>
+        <p/>
+        <p>Il y en a vingt, moitié gravez au Burin, moitié de l'impression du Sieur Ballard. Les dix gravez sont en fort petit nombre depuis qu'il en a effacé toutes les planches. Il n'en a fait tirer qu'une vingtaine de chaque sorte pour ceux qui voudront profiter de l'occasion de les avoir, bien plus corrects qu'ils n'étoient, &amp; en bien plus beau papier. Il y en a aussi une trentaine de chaque des dix sortes de l'impression du sieur Ballard qui feront un jour fort cherchez à cause des Airs Bachiques en maniere de Basse dont il est l'Inventeur, &amp; où l'on scait qu'il a excellé. Outre ces vingt livres d'Airs, il a encore environ une trentaine de Livres de son admirable Art de chanter, &amp; un grand nombre des douze Recueils Nouveaux de Vers mis en chant. Tous ces livres se vendent au Palais chez le sieur de Luynes &amp; le sieur Guerout Libraires, &amp; chez l'Autheur ruë S. Anthoine, dans une Porte Cochere, qui est entre deux Boutiques de Linges vers l'Hostel de Suilly [Sully].</p>
+        <p>Le même Monsieur de Bacilly avertit qu'il a une Bibliotheque à vendre de toutes sortes de livres de Musique, Italienne, Latine &amp; Françoise, in quarto au nombre de plus de cent Volumes, à trois, à quatre &amp; à cinq parties, même des Ouvrages du vieux Boisset [Boësset] de Gaudron [Guédron], de Moulinié, comme aussi toutes sortes de Livres d'Airs de differens Autheurs, dont les trois premiers ne se trouvent plus chez le sieur Ballard, &amp; autres Livres de Richard, Chastelet, des Rosiers, Sicard, Cambefort, Hotman, Cambert, &amp; tous les Livres de Chansons à danser &amp; à boire, de puis l'an 1621. jusqu'à la presente année, plusieurs Opera tant notez qu'en feuïlle, &amp; plusieurs livres à Vignette, reliez en Marroquin, pour écrire de la Musique &amp; de la Tablature.</p>
+      </div>
+</body>
+  </text>
+</TEI>

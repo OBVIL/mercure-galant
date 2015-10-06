@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-07_010">
+        <head>MG-1683-07_010</head>
+        <bibl>Mercure Galant, juillet 1683, 10-15, 17-18</bibl>
+        <p>Céremonie faite à Montpellier [et ] Abjuration de trente-deux Personnes</p>
+        <p/>
+        <p>Je vous ay parlé dans quelqu'une de mes Lettres de la démolition du Temple de Montpellier. Le Parlement de Toulouse l'avoit ordonnée par Arrest du 15. Novembre dernier [...]. Quoy que l'on eust abatu ce Temple il ya déjà quelque temps, ceux de cette Religion n'avoient pas laissé de continuer leurs Procédures au Parlement de Toulouse, &amp; par un second Arrest du 15. de May qui confirme le premier, il fut ordonné qu'on éleveroit une Croix sur un Piédestal, à la place où estoit le Temple, l'Exercice de la Religion Prétenduë Réformée demeurant interdit à jamais dans la Ville &amp; Juridiction de Montpellier. La Cerémonie de la Benédiction de cette Croix fut faite le Jeudy 10. de Juin par une Procession genérale, la plus solemnelle qui eust esté veuë depuis fort longtemps en ce Païs-là. [...] La Procession partit de l'Eglise Cathédrale de S. Pierre, où tout le monde s'estoit assemblé ; &amp; apres que l'on eut fait le tour de la Ville, on vint se ranger à la Place du Temple démoly, sous des Tentes qu'on y avoit fait dresser pour éviter l'ardeur du Soleil. Mr l'Evesque y estant arrivé, revestu de ses Habits Pontificaux, se mit à genoux, &amp; aussitost la Musique fit entendre ce Motet que ce Prélat avoit composé exprés, Ecce Crucem Domini, fugite partes adversæ, dum Crux erigitur, Hæresis confunditur, advolate, Fideles, ad Crucis triumphum. Le Motet finy, Mr l'Evesque dit plusieurs Oraisons, &amp; benit la Croix qu'il encensa ; apres quoy il s'assit sur un Fauteüil qu'on luy avoit préparé, pour recevoir l'abjuration de trente-deux Personnes que la connoissance de la Verité faisoit renoncer à leurs erreurs. [...]</p>
+        <p/>
+        <p>On acheva la Procession par le tour Royal, &amp; quand la Benédiction Episcopale eut esté donnée dans l'Eglise de S. Pierre, la Compagnie de Mrs les Penitens, qui sont toûjours pleins de zele, voulant témoigner la joye qu'elle avoit de voir triompher la Croix dans un Lieu, où l'Herésie avoit regné si longtemps avec tant d'empire, s'y rendit tout de nouveau, &amp; y chanta un Motet particulier.</p>
+      </div>
+
+<div xml:id="MG-1683-07_152">
+        <head>MG-1683-07_152</head>
+        <bibl>Mercure Galant, juillet 1683, p. 152-160</bibl>
+        <p>Je manquerois à la promesse que je vous ay faite de vous parler de tout ce qui mérite d'estre sçeu, si je ne vous disois rien d'une Serénade qui fut donnée à Madame de Thiange, le 9. de ce mois sur les dix heures du soir. Elle fut chantée à un Dessus &amp; à une Basse, &amp; ne surprit pas moins par sa nouveauté, que par la beauté de sa simphonie. Le nom de Mr Laurenzani, qui la donnoit, y attira une grande quantité de Personnes de toutes Nations, qui s'en retournerent avec l'admiration que l'on a toûjours pour les Ouvrages de ce merveilleux Romain. Madame de Thiange n'eut pas moins de plaisir que celles qui en reçeurent le plus. Elle aime la Musique, comme elle fait toutes les belles choses, &amp; elle s'y connoist parfaitement. Ainsi, les beautez, ny les défauts, ne luy échapent jamais. Cette Serénade la toucha extrémement, aussi-bien que Mesdemoiselles de la Rochefoucaut, qui estoient alors avec elle. Vous sçavez, Madame, que ces Illustres Personnes ont toutes les qualitez qui peuvent rendre une grande naissance recommandable. Mr l'Abbé de Marsillac leur Frere estoit de la compagnie. Son mérite vous est connu. [...] Les Paroles sur lesquelles Mr Laurenzani avoit composé la Musique, estoient de cette incomparable Romaine Donna Anna Carouso, dont je vous ay si souvent entretenuë. Cette Dame, apres s'estre fait admirer de tous ceux qui l'ont connüe en France, est retournée en Italie, où j'apprens qu'on l'a reçeuë avec la mesme joye qu'on reçoit d'ordinaire les biens dont on a esté privé longtemps, &amp; qu'on desire toûjours avec passion. Ces paroles sont agreables, pleines de bon sens, &amp; marquent beaucoup de délicatesse d'esprit ; mais j'entens dire qu'elle a fait d'autres Ouvrages, qui luy ont acquis une estime generale dans les plus celébres Académies d'Italie. Vous jugerez de ce qu'elle est capable de faire, par les Vers qui furent chantez d'elle dans la Serénade dont je vous parle. Les voicy.</p>
+        <p/>
+        <p>SERENATA</p>
+        <p>Cantata a Soprano &amp; Basso.</p>
+        <p/>
+        <p>TIRSI, SILVIO.</p>
+        <p/>
+        <p>TIR. Quanto é dolce il languire</p>
+        <p>Per due vaghe pupille !</p>
+        <p>Son care le faville,</p>
+        <p>E' soave il morire.</p>
+        <p>Ah, che dentro il mio seno</p>
+        <p>Ebbro di sue dolcezze il cor vien meno</p>
+        <p>Aventurosa sorte ?</p>
+        <p/>
+        <p>SIL. Misero, tu deliri in preda à morte.</p>
+        <p/>
+        <p>TIR. E qual strano desio,</p>
+        <p>Con sollecite cure,</p>
+        <p>Ti muove à presagir le mie sventure ?</p>
+        <p/>
+        <p>SIL. Fuggi, fuggi, infelice,</p>
+        <p>Del faretrato Nume</p>
+        <p>Il barbaro costume ;</p>
+        <p>Son finte le gioie,</p>
+        <p>Veraci gl'anni.</p>
+        <p/>
+        <p>TIR. Troppo in vero t'inganni,</p>
+        <p>Solo chi segue amor, speri gioire,</p>
+        <p>Che dentro l'impero</p>
+        <p>Del picciolo Arciero</p>
+        <p>Non alberga dolor, non v'é martire,</p>
+        <p>Solo chi segue amor, speri gioire.</p>
+        <p/>
+        <p>SIL. Ah che ben io m'aveggio,</p>
+        <p>Che dal letargo oppresso</p>
+        <p>De' tuoi sensi rubelli,</p>
+        <p>Frenetico d'amor cosi favelli !</p>
+        <p/>
+        <p>TIR. Graditti contenti</p>
+        <p/>
+        <p>SIL. Spietati tormenti</p>
+        <p/>
+        <p>TIR. Mi stilla Nel cuore</p>
+        <p>SIL. Ti stilla Nel cuore</p>
+        <p/>
+        <p>à 2. Il Nume Bambin.</p>
+        <p/>
+        <p>SIL. Paventa il rigore</p>
+        <p/>
+        <p>TIR. Non temo il rigore</p>
+        <p/>
+        <p>à 2 Di fiero destin.</p>
+        <p/>
+        <p>SIL. Carico di catene</p>
+        <p>Oggetto a mille pene,</p>
+        <p>Vive sempre chi segue il Dio di Gnido ;</p>
+        <p>Nulla giova esser fido,</p>
+        <p>Nulla giova adorar fermo é costante,</p>
+        <p>Poi che sol per penar nasce un Amante.</p>
+        <p>Nauffrangante, e quasi assorto,</p>
+        <p>Fra procelle disperate</p>
+        <p>Il tuo cuor langendo stá.</p>
+        <p>Vieni, vieni al dolce porto,</p>
+        <p>Fuggi l'onde dispietate,</p>
+        <p>Torna, torna in libertá.</p>
+        <p/>
+        <p>TIR. Ah, che pur troppo é vero !</p>
+        <p>Ben giusto é il tuo pensiero.</p>
+        <p>Degl'amorosi affetti</p>
+        <p>Scuoto il giogo tiranno,</p>
+        <p>E scorgo che i diletti</p>
+        <p>Altro non son che mascherato inganno.</p>
+        <p/>
+        <p>à 2. Sù donque agoder la libertà ;</p>
+        <p>Sciolgasi,</p>
+        <p>Frangasi</p>
+        <p>Il crudo laccio diservitú.</p>
+        <p/>
+        <p>SIL. Non ti lusinghi</p>
+        <p>TIR. Non mi lusingha Più</p>
+        <p/>
+        <p>à 2. Il fallace balen d'una beltá.</p>
+        <p>Sú sú donque a goder la libertá. »</p>
+      </div>
+
+<div xml:id="MG-1683-07_230">
+        <head>MG-1683-07_230</head>
+        <bibl>Mercure Galant, juillet 1683, p. 230, 232-233, 255-256, 258-259</bibl>
+        <p>Voyage du Roy</p>
+        <p/>
+        <p>Pendant le séjour de Leurs Majestez à Besançon, toutes les ruës furent illuminées, de mesme que le jour de leur arrivée, &amp; l'on connut aisément que toutes ces démonstrations extraordinaires de joye estoient des effets de l'amour, dont les coeurs des Habitans estoient penétrez pour le Roy. [...]</p>
+        <p/>
+        <p>On celébra une Messe solemnelle pour Sa Majesté apres son départ, dans l'Eglise de l'Hôpital du S. Esprit, où la Noblesse, &amp; tous les Corps de Ville, furent invitez. L'ouverture s'en fit par un Exaudiat en Musique, &amp; un Discours à la loüange de ce Prince, prononcé par un Prestre de la Maison, Docteur de Paris. Mr Beuque, Commandeur de l'Hôpital, fit l'Office ; &amp; quoy qu'il y eust grande Simphonie, le Corps de Musique de l'Eglise Métropolitaine ne laissa de se distinguer. [...]</p>
+        <p/>
+        <p>[...] Le 4. Monseigneur le Dauphin se rendit dés le matin au Camp [où étaient cantonnés les Régiments de l'Armée du roi], &amp; donna les ordres necessaires pour l'attaque d'un Fort, qui estoit sur la hauteur voisine. Ce Prince fit ensuite l'honneur à Mr le Duc de Villeroy, d'aller dîner chez luy. Une Grange fort spatieuse luy servoit de Logement. [...]</p>
+        <p/>
+        <p>Mr le Duc de Villeroy vouloit servir Monseigneur le Dauphin ; mais ce Prince luy commanda si absolument de se mettre à table, qu'il ne put se défendre d'obeïr. [...]</p>
+        <p/>
+        <p>Les Violons se firent entendre au commencement de ce Repas ; les Hautbois des Dragons joüerent ensuite ; les Tambours prirent leur place peu de temps apres, &amp; l'on commença la Santé du Roy debout &amp; découvert.</p>
+      </div>
+</body>
+  </text>
+</TEI>

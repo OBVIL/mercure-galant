@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-07_015">
+        <head>MG-1684-07_015</head>
+        <bibl>Mercure galant, juillet 1684, p. 15-23</bibl>
+        <p>Réception faite à M. le Landgrave de Hesse à la Cour de Hannovre</p>
+        <p/>
+        <p>Mr de Landgrave de Hesse est venu depuis peu de temps à Hanover, où il a passé huit jours avec Madame sa Femme, &amp; la Princesse de Curlande sa Soeur. Comme cette Cour est tres-galante, on n'y a rien oublié de ce qui pouvoit contribuer à les divertir. On leur fit une Entrée fort solemnelle, &amp; le lendemain il y eut Comédie, ce qui continua tous les jours, à l'exception du Dimanche. Il y eut aussi Bal souvent, &amp; le hazard fut cause que l'on en commença un dans la Chambre de Madame la Duchesse de Hanover, sans qu'on eust donné aucun ordre pour cela. Cette Princesse voulant faire voir à la Compagnie l'adresse que le jeune Baron de Platen avoit à la Dance, le fit appeller, &amp; il dança diverses Entrées avec l'applaudissement de tout ce qu'il y avoit de Spéctateurs ; apres quoy, il prit Mesdames les Princesses, qui en suite en prirent d'autres. Ainsi le Bal s'échauffant, on passa dans l'Antichambre, &amp; l'on y dança jusqu'à l'heure de la Comédie. Le Dimanche, Mr le Grand-Maréchal donna le Bal chez luy à toute cette Serénissime Assemblée, &amp; il s'y trouva plus de cent Cavaliers, &amp; autant de Dames. Apres que l'on eut dancé depuis six heures jusques à dix, on servit un magnifique Soupé ; &amp; l'on ne fut pas plutost sorty de table, qu'on recommença la Dance, qui dura la plus grande partie de la nuit. Le jour qui précéda celuy du depart de Mr le Landgrave, il y eut Wirtschaft, ou Mascarade. Le sort ayant décidé du déguisement, Mr le Landgrave y parut en Mars ; Madame sa Femme, en Déesse ; la Princesse de Curlande, en Indienne ; &amp; Monsieur le Duc de Hanover, en Arlequin. Madame la Duchesse avoit un Habit, comme les Dames de sa qualité le portoient il y a trois cens ans. Monsieur le Prince aîné estoit habillé en Scaramouche ; les deux Princesses, en Turques ; &amp; les autres Princes, chacun de diférente maniere. Mr le Grand-Maréchal estoit en Héraut-d'Armes ; Madame la Maréchale, en Avocat ; &amp; tous les autres avoient des Habillemens bizarres. Toute cette Troupe alla sur les cinq heures à Herrenhausen, Maison de plaisance de Monsieur le Duc de Hanover, les Cavaliers à cheval, &amp; les Dames en Carrosse. On y fit une espece de Jouste, ou de Carrousel. Les Cavaliers vestus d'Habits de Toile, garnis de Foin, &amp; montez sur des Chevaux sans Selles, coururent les uns contre les autres avec des Lances, qui avoient un rond de bois au bout. Ainsi le plus fort renversoit l'autre par terre, &amp; tomboit souvent en mesme temps. On alla en suite dans une grande Prairie, où les Carrosses &amp; les Masques firent plusieurs tours. Rien n'y parut plus grotesque que l'Habillement du Prince Auguste. Il estoit monté sur un Asne, &amp; portoit en croupe un Cavalier déguisé en Fille. Tous les Masques se mirent en Escadron, &amp; revinrent en cet ordre dans la Ville, devant le Carrosse de Monsieur le Duc de Hanover. Lors que l'on fut arrivé, le Bal commença, &amp; dura jusqu'au Soupé, qui fut tres-superbe. La Table de S.A.S. estoit de soixante &amp; douze Couverts. Le Bal recommença apres le Soupé, &amp; ne finit qu'à cinq heures du matin. L'apresdînée de ce mesme jour, on prit le divertissement de la Comédie, auquel on joignit celuy des Marionnetes ; &amp; sur le soir, Mr le Landgrave, dont le départ estoit résolu, sortit de la Ville avec la mesme cerémonie qu'il y estoit entré ; &amp; les Gentilhommes de la Cour qui se suivirent, eurent ordre de le traiter splendidement pendant tout le temps qu'il seroit sur les Terres de Monsieur le Duc de Hanover.</p>
+      </div>
+
+<div xml:id="MG-1684-07_033">
+        <head>MG-1684-07_033</head>
+        <bibl>Mercure galant, juillet 1684, p. 33, 48-56</bibl>
+        <p>Extrait d'une Lettre de Venise</p>
+        <p/>
+        <p>p.33</p>
+        <p>Je vous ay fait part de plusieurs Extraits de Lettres de Mr Chassebras de Cremailles, à Madame Chassebras du Breau sa Bellesoeur, touchant les manieres de Venise, &amp; ce qui s'y fait de plus curieux. [...]</p>
+        <p/>
+        <p>p.48-56</p>
+        <p>Serénades &amp; Concerts de nuit sur l'Eau.</p>
+        <p/>
+        <p>Il ne se passe guére de soirées dans les grandes chaleurs de l'Eté, que l'on n'entende de ces petits Concerts, les uns plus beaux, les autres moindres. Quelques Gentilshommes, ou Particuliers, vont plusieurs ensemble dans une Péote. C'est un Bateau couvert d'Etoffe fort propre, qui peut tenir une vingtaine de Personnes. Ils y font mettre un Clavecin, un ou deux Theorbes, plusieurs Violons &amp; Basses de Violes, &amp; se font voguer sur le grand Canal, depuis deux ou trois heures de nuit jusqu'à cinq ou six heures, c'est à dire jusqu'à deux heures apres minuit. Ils s'arrestent de temps en temps devant des Palais de leur connoissance, pour donner d'agreables Serénades ; &amp; quelquefois il se rencontre deux ou trois Péotes, qui se répondent l'une à l'autre, &amp; font ensemble de petits Corps de Voix &amp; de Simphonie. A leur imitation, quantité de Garçons de Boutiques &amp; Artisans, vont de mesme les Festes &amp; Dimanches au soir, avec des Hautbois, Flageolets, des Flutes douces, &amp; des Guitarres, &amp; chantent des Airs dolens &amp; lugubres devant la Maison de leur Maîtresse ; &amp; parce que quelques-uns entendent passablement la Musique, ces petites Serénades rustiques ont aussi leur agrément.</p>
+        <p>Nous avons eu quelquefois les soirs d'autres sortes de Concerts sur les Balcons du Palais. Le plus beau que j'aye entendu, est celuy du Prince de Parme, General de l'Infanterie des Armées Venitiennes. Son Palais estoit éclairé en dehors, de soixante Flambeaux, des Tapis à toutes les Fenestres, avec grand nombre de Feux &amp; de Lumieres de l'autre costé du grand Canal. Il faisoit cette Feste en réjoüissance de la Victoire obtenuë par les Chrestiens contre les Infidelles. Il y avoit des Voix admirables, un Choeur de Simphonie magnifique, mêlé de Trompetes &amp; de Tambours ; &amp; de temps en temps on faisoit des décharges de Boëtes &amp; d'Artillerie. Ce divertissement dura deux ou trois grandes heures.</p>
+        <p/>
+        <p>Les Dances des jeunes Filles.</p>
+        <p/>
+        <p>C'est quelque chose de joly les Festes &amp; les Dimanches, de voir les Dances des jeunes Filles d'Artisans. Elle s'assemblent sur le soir par pelotons dans les Places publiques. Il y en a une qui jouë du Tambour de Basque, &amp; chante en mesme temps, pendant que les autres dancent les Fourlanes dont je vous ay parlé ailleurs. Leurs Habits sont fort simples, mais d'une grande propreté.</p>
+        <p>Les plus notables sont vêtuës de Tafetas chamarré d'une petite Dentelle d'or &amp; d'argent, la gorge fort découverte, un Colier de Filigrane d'or ou d'argent doré, dont les grains sont aussi gros que de petites Noisettes, des Pendans-d'oreilles, &amp; des Brasselets aussi d'or, ou de fausses Pierreries, leur Coiffure toute unie, quelques petites Boucles sur le front, &amp; un Tour de gros Boutons de Filigrane pareillement d'or ou d'argent doré derriere la teste, avec des abondances de Fleurs dans les tresses de leurs cheveux.</p>
+        <p>Les plus agreables de ces Dances sont lors qu'il y a des Festes d'Eglise. Elles font mettre dans les Places plusieurs Bancs, &amp; laissent au milieu un grand Cercle vuide, où elles font de petits Bals. Les Artisans, &amp; autres petites Gens, qui veulent estre de la Feste, font venir un Clavecin avec des Violons ; &amp; l'on ne peut s'empescher de rire, de voir leur maniere de dancer sans régle ny mesure, chacun faisant les pas à sa fantaisie, &amp; de la maniere qu'il luy plaist, mais neanmoins d'une legéreté &amp; d'une vîtesse qui se se peut quasi-comprendre, pour des Gens aussi grossiers qu'ils le sont.</p>
+        <p>Quand ces Festes se font dans quelques Isles hors de la Ville, le divertissement est encore tout autre. L'on couvre les Places de toile &amp; de verdure. Il y a des Barques de petites Symphonies, qui viennent des environs ; &amp; comme il semble que tout soit permis à la Campagne, &amp; que l'on y doive avoir une entiere liberté, on voit des jeunes Gentilshommes qui jettent bas leurs Vestes, se mettent de la Feste, &amp; prennent plaisir à dancer avec les autres au milieu de cette Troupe Champestre.</p>
+      </div>
+
+<div xml:id="MG-1684-07_127">
+        <head>MG-1684-07_127</head>
+        <bibl>Mercure galant, juillet 1684, p. 127-130</bibl>
+        <p>Renouvellement de Nôces de deux Personnes qui ont cinquante tant Enfans que petits Enfans</p>
+        <p/>
+        <p>Mr le Bret, celébre dans le Négoce, se voyant dans la cinquantiéme année de son Mariage, se crût obligé de régaler toute sa Famille, &amp; il la fit assembler, tant en son nom, qu'en celuy de Madame le Bret sa Femme, pour une Feste qu'il commença par des Actions de graces à Dieu. Il est quelques Mariez de cinquante ans, quoy que peut-estre le nombre en soit fort petit ; mais il est rare de se trouver comme luy Pere de cinquante, tant Enfans, que Petits-enfans.[...]</p>
+        <p>On chanta d'abord le Veni Creator en Musique, &amp; en suite l'aîné de trois Fils, qui sont tous trois Religieux, celébra la Messe. [...] Cette Messe fut suivie du Te Deum aussi en Musique, apres quoy on remena les Mariez avec les Violons. Leurs Petits enfans les obligérent de consentir à cette marque de réjoüissance.[...]</p>
+      </div>
+
+<div xml:id="MG-1684-07_133">
+        <head>MG-1684-07_133</head>
+        <bibl>Mercure galant, juillet 1684, p. 133-134, 136-137</bibl>
+        <p>Procession de la Sainte Larme [à Vendôme]</p>
+        <p/>
+        <p>La sécheresse a esté si grande depuis fort long-temps, qu'elle a obligé Mr le Bailly &amp; Maire de Vendosme, de prier les Peres Benédictins, de porter la Sainte Larme dans une Procession genérale qui se fit sur la fin du dernier mois. [...]</p>
+        <p/>
+        <p>La Procession commença à neuf heures du matin, &amp; ne finit qu'à une heure apres midy. Il y avoit quantité d'Instrumens de Musique ; &amp; tout y fut tres-bien ordonné. La Cerémonie étant achevée, les Gens d'armes avec Mr le Bailly &amp; les autres Officiers, montérent au Château, devant lequel un Feu avoit esté préparé. On l'alluma apres que l'on eut chanté le Te Deum pour la Prise de Luxembourg, &amp; il s'y fit encore plusieurs Décharges.</p>
+      </div>
+
+<div xml:id="MG-1684-07_137">
+        <head>MG-1684-07_137</head>
+        <bibl>Mercure galant, juillet 1684, p. 137-138, 141-142</bibl>
+        <p>Réjouissances faites au Havre, &amp; Statuë érigée à sa gloire</p>
+        <p/>
+        <p>On s'est réjoüy de cette Conqueste dans toute la France ; mais on n'en a fait éclater sa joye en aucun lieu avec plus de magnificence, que l'on fit au Havre le 18. du mois passé. Vous ne devez pas en estre surprise. L'empressement que Mr le Duc de S. Aignan, Gouverneur de cette Place a de plaire au Roy, inspire un zéle si pur à ses Habitans, qu'ils ne laissent perdre aucune occasion de le signaler. Apres que le Te Deum eut esté chanté dans l'Eglise de Nostre-Dame avec toute la solemnité possible, en présence de ce Duc, de Madame la Duchesse sa Femme, &amp; de beaucoup de Noblesse, &amp; d'Officiers de Marine &amp; de Troupes, on marcha vers la grande Place qui est devant l'Hôtel de Ville, où cinq ou six jours auparavant, Mr le Duc de S. Aignan, &amp; les Echevins &amp; Conseillers de Ville, avoient fait dresser une Statuë de huit pieds de haut. [...]</p>
+        <p/>
+        <p>On avoit dressé une Table de cinquante Couverts dans l'une des Salles de l'Hostel de Ville. Elle fut servie avec autant de magnificence que de propreté ; pendant que le Peuple, accouru de tous costez dans la mesme Place, poussoit des cris de joye, &amp; faisoit des voeux pour la prosperité de ce grand Monarque. A la fin du Repas ; où plusieurs Officiers de Marine &amp; de Troupes de terre avoient esté conviez, on fit voler par reprises un grand nombre de Fusées, au son des Trompetes, &amp; de plusieurs autres Instrumens. Les Troupes ne défilérent que bien avant dans la nuit ; [...]</p>
+      </div>
+
+<div xml:id="MG-1684-07_197">
+        <head>MG-1684-07_197</head>
+        <bibl>Mercure galant, juillet 1684, p. 197-199, 256-257</bibl>
+        <p>Etat présent du Royaume d'Alger</p>
+        <p/>
+        <p>Je devrois vous parler icy du Traité d'Alger &amp; des Ambassadeurs de ce Royaume, qui sont venus en France. J'ay beaucoup de choses curieuses à vous en dire ; mais un Mémoire qui est tombé entre mes mains touchant le Gouvernement présent de l'Etat d'Alger, m'a paru devoir les préceder. [...] [La] lecture que je vous envoye, sera cause que vous aurez plus de plaisir à apprendre ce que je vous diray la premiere fois, parce que vous aurez une parfaite connoissance des moeurs, &amp; du gouvernement de ceux dont je vous entretiendray. [...]</p>
+        <p/>
+        <p>Des Femmes d'Alger, &amp; de leur Mariage</p>
+        <p/>
+        <p>[... Les femmes turques et maures] sont magnifiquement meublées &amp; retenuës chez elles, &amp; chargées de Pierreries. Elles y dancent, ayant des mouchoirs travaillez en or de chaque main, au son d'un Instrument en forme de Violon, touché par des Esclaves negres. Il y a des Ecoles dans la Ville, où ces Esclaves apprennent à en joüer pour cela. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

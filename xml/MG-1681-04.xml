@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-04_127">
+        <head>MG-1681-04_127</head>
+        <bibl>Mercure Galant, avril 1681, p. 127-133</bibl>
+        <p>Mort du Sieur Francisque Corbet</p>
+        <p/>
+        <p>Dans ce mesme temps nous avons perdu un Homme, qui par les merveilles de sa Guitarre, a remply toute l'Europe de sa réputation. C'est le Sr Francisque Corbet. Son mérite qui estoit tres-singulier, m'oblige à m'étendre un peu sur son histoire. Il est né à Pavie ; &amp; dans toute l'Italie, quand on veut loüer une Piece de Guitarre par son Autheur, on dit seulement E' del Pavese. Dés sa jeunesse il aima si fort cet Instrument, que ses Parens qui le destinoient à autre chose, employerent vainement les carresses &amp; les menaces pour le détacher de cette étude. Il l'a continuée depuis avec si grand succés, qu'il surprit d'abord tous les Musiciens d'Italie. En suite il alla en Espagne, où il fit entendre à la Cour, des choses que l'on avoit crû auparavant impossibles sur la Guitarre. De là il passa chez l'Empereur, &amp; par toutes les Cours d'Allemagne, où il fut chéry des plus grands Princes. Apres estre retourné en Italie, pour soûtenir sa gloire que des Envieux vouloient obscurcir, en s'attribuant injustement ses Ouvrages, il se donna au Duc de Mantoüe, qui fut bien aise d'avoir un tel Homme à présenter à Sa Majesté. Nostre Grand Monarque l'honora de son estime, &amp; de ses libéralitez, &amp; l'employa dans les plus pompeux Spéctacles ; mais son naturel ne permettant pas qu'il fust longtemps dans un mesme lieu, il voulust aller en Angleterre, où Sa Majesté Britannique, qui voulut bien se mesler de son Mariage, luy donna le titre de Gentilhomme de la Reyne, une Clef de sa Chambre, son Portrait enrichy de Diamans, &amp; une Pension considérable. Le regret d'avoir quitté la France luy estant venu trop tard, il fit deux ou trois voyages à Paris, dans lesquels il eut soin de faire imprimer quelques Livres de sa Composition, comme il avoit déjà fait en Flandre, en Italie, &amp; ailleurs. Il est enfin revenu en France, marquer par sa mort la douleur qu'il avoit de ne luy avoir pas donné toute sa vie. Les Personnes du premier rang luy ont toûjours conservé la mesme estime, &amp; sur tout il a reçeu dans ses derniers jours plusieurs marques sensibles des bontez de Son Altesse Royale Madame.</p>
+      </div>
+
+<div xml:id="MG-1681-04_131">
+        <head>MG-1681-04_131</head>
+        <bibl>Mercure Galant, avril 1681, p. 131-133</bibl>
+        <p>« Mr Médard qui a pris de ses Leçons, &amp; qui est Autheur du Concert de la Paix, dont je vous ay parlé dans quelqu'une de mes Lettres, ne s'est pas contenté de composer une Piece sur la Guitarre, qui exprime les plaintes de cet Instrument sur la mort de son Maistre. Il a voulu encor faire voir par l'Epitaphe qui suit, combien sa mémoire luy estoit chere.</p>
+        <p/>
+        <p>EPITAPHE DE FRANCISQUE CORBET.</p>
+        <p/>
+        <p>Ci gist l'Amphion de nos jours,</p>
+        <p>Francisque, cet homme si rare,</p>
+        <p>Qui fit parler à sa Guitarre</p>
+        <p>Le vray langage des Amours.</p>
+        <p/>
+        <p>Il gagna par son harmonie</p>
+        <p>Les coeurs des Princes &amp; des Roys,</p>
+        <p>Et plusieurs ont crû qu'un Génie</p>
+        <p>Prenoit le soin de conduire ses doigts.</p>
+        <p/>
+        <p>Passant, si tu n'as pas entendu ces merveilles,</p>
+        <p>Apprens qu'il ne devoit jamais finir son sort,</p>
+        <p>Et qu'il auroit charmé la Mort ;</p>
+        <p>Mais, helas ! par malheur, elle n'a point d'oreilles. »</p>
+      </div>
+
+<div xml:id="MG-1681-04_133">
+        <head>MG-1681-04_133</head>
+        <bibl>Mercure Galant, avril 1681, p. 133-136, 198-202</bibl>
+        <p>« Balet dancé à Hanover, avec les Vers du Sujet, &amp; ceux qui ont esté faits sur les Personnages.</p>
+        <p/>
+        <p>Pendant que Monseigneur le Dauphin faisoit préparer le magnifique Balet du Triomphe de l'Amour, qui a servy de divertissement à Leurs Majestez tout le Carnaval, la Cour de Hanover qui imite si galamment toutes les manieres de celle de la France, se disposoit à faire paroistre une Mascarade mise en Balet, presque sous le mesme titre. Ce Balet, appellé le Charme de l'Amour, a esté dancé par Madame la Princesse de Hanover, Fille aînée du Duc qui porte aujourd'huy ce nom, à qui elle a voulu témoigner, en luy donnant ce Spéctacle, la joye qu'elle avoit de son retour d'Italie. On avoit feint, pour Sujet de la Mascarade, que l'Amour, ayant promis à Junon qu'il trouveroit un Lieu de plaisir en Terre, assez charmant &amp; assez délicieux pour y retenir Jupiter continuellement aupres d'elle, avoit choisy celuy d'Eurybate aux Frontieres de Lydie. Le reste s'expliquera par les Entrées. Je vay vous les marquer toutes, &amp; ajoûteray selon l'ordre de ces Entrées, les Vers qui conviennent à chacun de ceux qui en ont esté. Madame la Princesse de Hanover parut avec grand éclat en Reyne des Amazones. Messieurs les Princes ses Freres y représentoient l'Amour, un Plaisir Champestre, &amp; deux Princes de Mycene. [...] Pendant toutes ces rencontres impréveuës, le jour estant venu sur son déclin, on remit au lendemain les Jeux &amp; la Luite, &amp; on se contenta pour cette fois de la Dance des Bergers. Ainsi le Balet finit, &amp; chacun se rentra au Hameau, où par un magnifique Repas, on donna à tout ce beau monde le plaisir le plus necessaire à l'accomplissement du Charme de l'Amour.</p>
+        <p>Je ne doute point, Madame, que vous ne soyez surprise de voir qu'il se trouve en Allemagne des Muses Françoises aussi polies que l'est celle qui a inspiré les Vers que l'on a meslez parmy ces Entrées. Ils sont aisez, naturels, &amp; dignes du grand Spéctacle dont ils ont servy à expliquer les Sujets. Tout fut magnifique dans cette Feste ; &amp; si l'on y admira la richesse des Habits, elle n'eut pas moins dequoy satisfaire par la beauté de la Symphonie &amp; de la Musique. Il est juste, apres vous avoir parlé de Chants, de fournir à vôtre voix le moyen de s'exercer. Vous les trouverez dans les Paroles qui suivent, notées par un sçavant Maistre.»</p>
+        <p>Parmy les Vers qui furent distribuez à l'Assemblée avec le Sujet de la Mascarade, on y trouva ceux-cy pour Monsieur le Duc de Hanover.</p>
+        <p/>
+        <p>Nous prétendions donner quelque réjoüissance</p>
+        <p>Au Grand Héros qui regne en cet heureux sejour,</p>
+        <p>Et c'est luy qui par sa présence</p>
+        <p>Fait renaître la joye, &amp; la donne à sa Cour.</p>
+        <p>Pour en combler nos coeurs, c'est assez qu'on le voye,</p>
+        <p>Son seul aspect nous peut tous réjoüir.</p>
+        <p>Cependant nostre ardeur s'employe</p>
+        <p>A luy chercher un bien dont il nous fait joüir.</p>
+        <p/>
+        <p>Bien qu'il fasse beau voir nostre aimable Amazone,</p>
+        <p>Et sa Mere icy-bas digne de plus d'un Trône,</p>
+        <p>Pres d'un Prince si cher triompher aujourd'huy,</p>
+        <p>Un amas de Vertus &amp; de Beautez en elles,</p>
+        <p>En nous les faisant voir si belles,</p>
+        <p>N'empesche point nos yeux d'estre charmez de Luy.</p>
+        <p/>
+        <p>Où pourroit-on jamais trouver rien qui ressemble</p>
+        <p>Aux biens qu'en sa faveur le Ciel a mis ensemble ?</p>
+        <p>Il prend le soin de le rendre icy-bas</p>
+        <p>Le plus heureux Prince du monde,</p>
+        <p>En luy donnant de grands Etats,</p>
+        <p>Pour y régner dans une Paix profonde ;</p>
+        <p>Aimé de ses Sujets, utile à ses Voisins,</p>
+        <p>Et respecté du reste de la Terre,</p>
+        <p>En état, quand il veut, d'aller porter la Guerre,</p>
+        <p>Hors de tous ses Païs, &amp; loin de leurs Confins.</p>
+        <p/>
+        <p>Mais quand le Ciel le rend aux autres redoutable,</p>
+        <p>Il le rend pour les Siens un Potentat aimable,</p>
+        <p>Qui régne plus par sa bonté</p>
+        <p>Qu'il ne fait par le droit de son autorité.</p>
+        <p>Mesme aux Sujets qui sont plus loin de sa Personne,</p>
+        <p>De rendre la justice il sçait venir à bout.</p>
+        <p>S'il est icy présent, il l'est encor par tout,</p>
+        <p>Par les sages ordres qu'il donne.</p>
+        <p/>
+        <p>Le salut de son Peuple est assuré sur Luy,</p>
+        <p>Au repos de l'Empire il est un ferme appuy ;</p>
+        <p>Et si jettant les yeux sur sa haute conduite,</p>
+        <p>On considere son mérite,</p>
+        <p>Sa valeur, sa sagesse, &amp; ses autres vertus,</p>
+        <p>Il est à l'Univers quelque chose de plus,</p>
+        <p>Puis qu'il est icy-bas, à qui bien le contemple,</p>
+        <p>D'un parfait Souverain le modele &amp; l'exemple,</p>
+        <p>Et que son grand courage, &amp; sa rare équité,</p>
+        <p>Doivent charmer son Siecle &amp; la Posterité,</p>
+        <p>Pendant que de ces dons sa Personne pourveuë</p>
+        <p>Nous comble tous les jours du bonheur de sa veuë,</p>
+        <p>Et que Luy-mesme il fait ce Charme de sa Cour,</p>
+        <p>Qui n'est pas moins puissant que celuy de l'Amour.</p>
+        <p/>
+        <p>Que ne devons-nous point aux bontez d'un tel Maistre,</p>
+        <p>Alors qu'il se redonne à nos justes desirs,</p>
+        <p>Et qu'apres les avoir fait naître,</p>
+        <p>Il vient par son retour les changer en plaisirs ?</p>
+        <p>Cherchons à nostre tour tout ce qui peut luy plaire</p>
+        <p>Dans les heures de son repos.</p>
+        <p>Des divertissemens d'un si digne Héros</p>
+        <p>Faisons nostre plus grande affaire ;</p>
+        <p>Et tandis que la Terre &amp; le Ciel sont d'accord</p>
+        <p>A former le glorieux Sort</p>
+        <p>Qui doit éterniser son nom &amp; sa mémoire,</p>
+        <p>Que le zele nous presse, &amp; nous occupe tous</p>
+        <p>A rendre les momens de son loisir plus doux,</p>
+        <p>Et le laissons agir pour nous &amp; pour sa gloire,</p>
+        <p>Nul ne sçait mieux que luy ménager ces deux Points,</p>
+        <p>Dont il fait ses deux plus grands soins.</p>
+        <p/>
+        <p>Si nous n'arrivons pas à l'effet desirable</p>
+        <p>Que nous nous sommes proposez,</p>
+        <p>Nous montrerons du moins, par un effort loüable,</p>
+        <p>Qu'à tenter tout pour Luy nous sommes disposez.</p>
+        <p>Ne doutons point qu'il n'ait la complaisance</p>
+        <p>De recevoir nostre hommage aujourd'huy,</p>
+        <p>Et d'honorer de sa présence</p>
+        <p>Un Divertissement que l'Amour fait pour Luy.</p>
+        <p>Il sçait bien qu'elle est nécessaire</p>
+        <p>Pour l'accomplissement du bonheur de ces Lieux,</p>
+        <p>Et que c'est Luy seul qui doit faire</p>
+        <p>Le Charme de nos Coeurs, &amp; celuy de nos yeux.</p>
+        <p/>
+        <p>Ce Sonnet suivoit pour Madame la Duchesse de Hanover. Elle est Tante de Madame, &amp; Fille de Frideric V. Electeur Palatin, qui fut fait Roy de Boheme en 1618.</p>
+        <p/>
+        <p>Vous avez bonne part au Charme de l'Amour,</p>
+        <p>Sa beauté de la vostre est la parfaite Image ;</p>
+        <p>Si par Luy l'Eurybate est un heureux sejour,</p>
+        <p>Tout ce qu'il a de grand est vostre digne Ouvrage.</p>
+        <p/>
+        <p>Princes, Dieux, Amazone, en vous rendant hommage,</p>
+        <p>Reconnoissent assez qu'ils vous doivent le jour.</p>
+        <p>Chacun d'eux à l'envy croit vous faire sa Cour,</p>
+        <p>S'il s'empresse à qui mieux sera son Personnage.</p>
+        <p/>
+        <p>a Ces Héros, b cet Amour, ce Plaisir innocent,</p>
+        <p>Le ravissant éclat de ce Charme puissant,</p>
+        <p>Arresteront les yeux de nostre Grand Auguste.</p>
+        <p/>
+        <p>Pour s'expliquer alors en Pere &amp; comme Epoux,</p>
+        <p>Luy-mesme il vous dira d'un aveu libre &amp; juste,</p>
+        <p>Que ses plus chers plaisirs sont toûjours avec Vous.</p>
+        <p/>
+        <p>a Les quatre Princes. b Madame la Princesse.</p>
+        <p/>
+        <p>I. ENTREE.</p>
+        <p>L'ouverture du Theatre faisoit découvrir le Lieu champêtre d'Eurybate. On voyoit Mercure descendre du Ciel, &amp; un Concert de doux Instrumens accompagnoit sa descente. Il venoit de la part de Jupiter &amp; de Junon, observer ce qui se passoit à Eurybate, &amp; avertir tous ceux de cette Contrée, que ces deux Divinitez avoient dessein d'honorer de leurs présences ce Lieu de repos &amp; de délices. Apres qu'il eut débité le Sujet de la Mascarade, qu'il jetta en plusieurs endroits du Parterre, il dança seul au son des Violons, &amp; se retira en suite dans un coin, comme voulant remarquer ce qui se faisoit.</p>
+        <p/>
+        <p>Pour Mr Rekau, Gentilhomme du Païs, représentant MERCURE.</p>
+        <p>Je ne fais qu'aller &amp; venir,</p>
+        <p>Sçavoir ce qui se passe est ma plus grande affaire ;</p>
+        <p>Mais je serois trop long à vous entretenir,</p>
+        <p>Cet Ecrit vous dira tout ce que l'on va faire.</p>
+        <p/>
+        <p>II. ENTREE.</p>
+        <p>Des Trompetes, des Timbales, &amp; des Tambours, ayant commencé à se faire entendre confusément, le Dieu Mars parut au fond du Theatre descendant du Ciel au bruit de tous ces Instrumens militaires, qui cesserent aussitost qu'il fut à terre, &amp; donnerent lieu aux Violons de joüer un Air inquiet qu'il dança. Il venoit dans ce Lieu tâcher de troubler la paix &amp; le repos que l'Amour &amp; Bacchus y établissoient en faveur des Habitans de cette Contrée, mais il y demeura luy-mesme comme enchanté par la force du Charme que l'Amour y avoit déjà répandu. Ce Charme avoit la vertu de retenir tous ceux des Dieux &amp; des Hommes qui mettoient le pied sur cette Terre enchantée. Ainsi Mars ne songea plus qu'à y faire bonne chere, qu'à y tenir table, &amp; se divertir à la Dance, mais toûjours avec des marques d'inquiétude pour la Guerre.</p>
+        <p/>
+        <p>Pour Mr de la Chevalerie, Grand Echanson, tenant la Table du Grand Maréchal de la Cour, représentant MARS.</p>
+        <p/>
+        <p>Ce Dieu n'est pas le Mars qui fait mourir,</p>
+        <p>Chacun peut hardiment le suivre.</p>
+        <p>Que nul de vous ne craigne de périr,</p>
+        <p>Car il est le Mars qui fait vivre.</p>
+        <p>Tel Officier ne manque pas</p>
+        <p>De trouver à lever du monde,</p>
+        <p>Parce qu'il fait tous ses Soldats</p>
+        <p>Chevaliers de la Table Ronde.</p>
+        <p/>
+        <p>III. ENTREE.</p>
+        <p>L'Amour, suivy de trois Plaisirs champêtres, vint pour présider aux Festes &amp; aux Divertissemens des Habitans d'Eurybate. Il dança, &amp; alla en suite prendre sa place sur un Trône qui luy estoit préparé au fond du Theatre.</p>
+        <p/>
+        <p>Pour Monsieur le Prince Christian, représentant l'AMOUR.</p>
+        <p/>
+        <p>Avec les doux attraits de la belle Hippolite,</p>
+        <p>J'ay dans ces Lieux pouvoir de tout charmer.</p>
+        <p>Sa grace, sa bonté, sa vertu, son mérite,</p>
+        <p>Forcent tout le monde à l'aimer.</p>
+        <p>La beauté rend tout aimable</p>
+        <p>Aux Mortels, &amp; mesme aux Dieux.</p>
+        <p>C'est un Charme inévitable</p>
+        <p>Pour ceux à qui le Ciel donne un coeur &amp; des yeux.</p>
+        <p/>
+        <p>IV. ENTREE.</p>
+        <p>Les trois Plaisirs champêtres dancerent en présence de l'Amour.</p>
+        <p/>
+        <p>Pour Monsieur le Prince Ernest-Auguste, représentant le PLAISIR de la Chasse.</p>
+        <p/>
+        <p>Vous ne faites que de naître,</p>
+        <p>Plaisir petit &amp; charmant,</p>
+        <p>Et déjà vous causez un grand contentement</p>
+        <p>A ceux qui vous ont donné l'estre.</p>
+        <p>Vous serez à vostre tour</p>
+        <p>Ce Dieu qui fait que l'on aime,</p>
+        <p>Et de Plaisir de l'Amour,</p>
+        <p>Vous deviendrez l'Amour mesme.</p>
+        <p/>
+        <p>V. ENTREE.</p>
+        <p>Un Char de Triomphe descendit du Ciel au son des Theorbes, Clavessins, Basses de Violes, Luths, Flûtes douces, &amp; autres Instrumens, &amp; demeura suspendu en l'air. Sur ce Char estoient la Renommée, la Gloire, &amp; la Victoire. La Gloire</p>
+        <p>portoit le Sceptre d'Hippolite Reyne des Amazones ; la Victoire son Epee ; &amp; la Renommée placée au milieu de ces deux Deïtez, tenoit sa Trompete en main, &amp; se préparoit à publier en tous lieux les exploits, &amp; les grandes qualitez de la jeune &amp; belle Reyne, qui entra par le costé droit, &amp; sortit du coin le plus proche du font du Theatre.</p>
+        <p>Elle estoit suivie des Princes Euriales &amp; Hylas, Fils du Roy Euristée, &amp; Parens d'Hercule, qu'elle avoit fait ses Captifs dans la fameuse Expédition qu'elle venoit d'achever contre les Mycéniens. Huit Hérauts d'Armes, vétus à la Grecque, la précedoient, publiant au son des Hautbois &amp; autres Instrumens, la venuë de cette triomphante Amazone. Tandis qu'ils se rangeoient des deux costez du Theatre, la Renommée chanta ces Paroles.</p>
+        <p/>
+        <p>Je n'ay pas assez de cent voix</p>
+        <p>Pour dire tout ce que je vois</p>
+        <p>De cette jeune &amp; charmante Merveille ;</p>
+        <p>Et quand je rediray cent fois</p>
+        <p>Qu'elle est unique &amp; sans pareille,</p>
+        <p>Je n'ay pas assez de cent voix</p>
+        <p>Pour dire tout ce que je vois</p>
+        <p>De cette jeune &amp; charmante Merveille.</p>
+        <p/>
+        <p>LA VICTOIRE.</p>
+        <p>Sa valeur peut tout gagner,</p>
+        <p>Rien ne résiste à ses armes.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Tout doit hommage à ses charmes,</p>
+        <p>Elle est faite pour régner.</p>
+        <p/>
+        <p>Apres que la Renommée, la Victoire, &amp; la Gloire eurent chanté, la Reyne Hippolite dança au son des Violons, &amp; s'approcha ensuite des Princes qu'elle affranchit de leurs chaînes. Ils luy firent une profonde revérence pour remercîment de leur liberté. Cependant Hippolite précedée de ses Hérauts, se retira, &amp; entra chez Alciane, principale Bergere d'Eurybate. Le Char de Triomphe se perdit dans les nuës en mesme temps, &amp; l'Amour demeura sur son Trône, environné des Plaisirs champêtres.</p>
+        <p/>
+        <p>Pour Madame la Princesse de Hanover, représentant LA REYNE DES AMAZONES.</p>
+        <p/>
+        <p>Elle est le Charme de l'Amour.</p>
+        <p>L'éclat de sa beauté luy donne un doux empire</p>
+        <p>Qui retient les coeurs qu'elle attire</p>
+        <p>Dans cet agreable sejour.</p>
+        <p>Avec la fierté d'Amazone,</p>
+        <p>Elle a d'un tendre coeur les charmantes bontez,</p>
+        <p>Et nous fait voir cent nobles qualitez</p>
+        <p>Qui la rendent digne du Trône.</p>
+        <p>Heureux celuy des Potentats</p>
+        <p>Qui doit donner à ses Etats</p>
+        <p>La meilleure des Souveraines,</p>
+        <p>Lors que le Ciel luy donnera</p>
+        <p>Une Princesse qui sera</p>
+        <p>Plus belle que toutes les Reynes.</p>
+        <p/>
+        <p>VI. ENTREE.</p>
+        <p>Les deux Princes de Mycene dancerent ensemble, &amp; se réjoüirent de leur liberté, qu'ils croyoient avoir entiere, quand le Charme de l'Amour les retenoit ainsi que les autres dans ce Païs enchanté.</p>
+        <p/>
+        <p>Pour Monsieur le Prince Maximilien, représentant EURYALE Prince Captif d'Hippolite.</p>
+        <p/>
+        <p>Quoy que d'une jeune Guerriere</p>
+        <p>Ce Prince soit le Captif aujourd'huy,</p>
+        <p>Il n'est point de Beauté si fiere</p>
+        <p>Qui ne voulust se rendre à luy.</p>
+        <p/>
+        <p>Pour Monsieur le Prince Charles, représentant HYLAS, autre Prince Captif d'Hippolite.</p>
+        <p/>
+        <p>Il faut pour une fois céder aux traits vainqueurs</p>
+        <p>D'un Sexe fier dont je porte les chaînes ;</p>
+        <p>Mais de ce Sexe un jour je vaincray tant de coeurs,</p>
+        <p>Qu'ils payeront toutes mes peines.</p>
+        <p/>
+        <p>VII. ENTREE.</p>
+        <p>Alciane, principale Bergere d'Eurybate, accompagnée de Ménalque &amp; de Lysis, les deux plus considérables Bergers de la Contrée, entra au son des Musetes &amp; des Flûtes douces. Elle se réjoüit avec eux de l'honneur que leur Demeure champêtre recevoit de l'arrivée de la Reyne des Amazones, &amp; disposa toutes les choses necessaires à la Feste que les Bergers devoient faire pour divertir cette grande Reyne, qui vouloit honorer de sa présence leurs Dances, leurs Jeux, &amp; leurs Luites. Alciane &amp; ces deux Bergers allerent faire avancer les autres qui devoient assister à cette réjoüissance.</p>
+        <p/>
+        <p>Pour Madame la Baronne de Platen, Grande Maréchale de la Cour, représentant ALCIANE.</p>
+        <p/>
+        <p>Cette Bergere avec beaucoup d'adresse</p>
+        <p>A bonne grâce, &amp; le pas fin.</p>
+        <p>Elle n'est point une Déesse,</p>
+        <p>Et pourtant elle a l'air &amp; le coeur tout divin.</p>
+        <p>Rien n'égale sa Bergerie,</p>
+        <p>Où tout est riche, tout est beau.</p>
+        <p>Rien ne passe en galanterie</p>
+        <p>Son aimable &amp; noble Troupeau.</p>
+        <p>Où peut on voir de conduite plus belle</p>
+        <p>A servir un grand Souverain,</p>
+        <p>Que celle du Berger fidelle</p>
+        <p>Dont elle a le coeur &amp; la main ?</p>
+        <p>La vie est toute héroïque</p>
+        <p>De ce beau couple d'Amans ;</p>
+        <p>Il a l'estime publique,</p>
+        <p>Elle est l'honneur de nos Champs.</p>
+        <p/>
+        <p>Pour Mr Senfft, Gouverneur de Messieurs les Princes, représentant le Berger MENALQUE.</p>
+        <p/>
+        <p>Menalque, Berger d'importance,</p>
+        <p>A de certains Moutons remuans &amp; légers,</p>
+        <p>Qui sçauront s'écarter malgré sa vigilance,</p>
+        <p>Et donner du chagrin à beaucoup de Bergers.</p>
+        <p/>
+        <p>Pour Mr de Gohr, Capitaine d'Infanterie, représentant le Berger LYSIS.</p>
+        <p/>
+        <p>Lysis, dont l'humeur est volage,</p>
+        <p>Prenoit plaisir tous les jours à changer ;</p>
+        <p>Mais depuis que l'Amour, par son Charme l'engage,</p>
+        <p>Il n'est point dans ce Lieu de plus constant Berger.</p>
+        <p/>
+        <p>VIII. ENTREE.</p>
+        <p>Oriane &amp; Amasie, Bergeres jeunes &amp; volages, estant accourues seules &amp; sans Bergers à la Feste d'Eurybate, dancerent en se prenant quelquefois la main l'une à l'autre. L'Amour qui aime l'humeur volage, quita son Trône, &amp; vint se mettre entre-deux. Elles luy donnerent la main de costé &amp; d'autre, chacune croyant la donner à sa Compagne. L'Amour se retira d'entre-elles, sans en avoir esté apperçeu, &amp; retourna à sa place.</p>
+        <p/>
+        <p>Pour Madame de Meysenboug, représentant ORIANE.</p>
+        <p/>
+        <p>Quand le torrent nous entraîne,</p>
+        <p>On cede au plus grand effort ;</p>
+        <p>Mais quand soy mesme on peut faire choix de son sort,</p>
+        <p>La liberté vaut mieux que la plus belle chaîne.</p>
+        <p/>
+        <p>Pour Mademoiselle de Grotte, représentant AMASIE.</p>
+        <p/>
+        <p>Il n'est point icy de Bergere,</p>
+        <p>Meilleure, &amp; de plus belle humeur.</p>
+        <p>On ne la prendra point pour volage &amp; légere,</p>
+        <p>Quand on connoistra bien son coeur ;</p>
+        <p>Car enfin c'est la plus sage</p>
+        <p>Des Bergeres du Village.</p>
+        <p/>
+        <p>IX. ENTREE.</p>
+        <p>Un Satyre vint prendre la place de l'Amour, &amp; dança au milieu des deux Bergeres volages. Elles luy donnerent la main sans y penser, mais l'effroy les prit sitost qu'elles eurent jetté leurs regards sur luy, &amp; elles s'enfuyrent des deux costez du Theatre. Le Satyre s'estant attaché à poursuivre Oriane, luy arracha un petit Miroir qu'elle avoit pendu à sa ceinture. Il dança, &amp; tâcha de se faire beau pour plaire ; mais d'abord qu'il se regarda dans ce Miroir, il ne pût souffrir luy-mesme la laideur de sa figure.</p>
+        <p/>
+        <p>Pour le Sr Jemmes, Maistre du Balet, représentant le SATYRE.</p>
+        <p/>
+        <p>Pour ridicules mal-faisans</p>
+        <p>On fait passer tous les pauvres Satyres.</p>
+        <p>Helas ! combien trouve-t-on de Gens pires</p>
+        <p>Parmy vous autres Courtisans ?</p>
+        <p/>
+        <p>X. ENTREE.</p>
+        <p>Dares &amp; Percas, Païsans yvres, sortirent de la Taverne du Village, rencontrerent le Satyre, le caresserent, le firent dancer, &amp; apres s'estre joüez de luy quelque temps, ils luy firent une querelle, le poursuivirent à grands coups, &amp; le menerent toûjours batant, jusqu'à ce qu'ils l'eurent perdu de veuë ; apres quoy ils dancerent ensemble d'une maniere tout-à-fait bizarre.</p>
+        <p/>
+        <p>Pour Mr de Bousch Colonel des Gardes, &amp; Mr Possadofsky Ecuyer Tranchant de la Cour, représentant LES PAÏSANS YVRES.</p>
+        <p/>
+        <p>Chacun a son plaisir dans ce Lieu délectable.</p>
+        <p>La nostre est de vuider Bouteille,</p>
+        <p>Verre &amp; Pot,</p>
+        <p>Et d'estre jour &amp; nuit à table,</p>
+        <p>Sans avoir soin de payer nostre écot.</p>
+        <p/>
+        <p>X. ENTREE.</p>
+        <p>Dares &amp; Percas, Païsans yvres, sortirent de la Taverne du Village, rencontrerent le Satyre, le caresserent, le firent dancer, &amp; apres s'estre joüez de luy quelque temps, ils luy firent une querelle, le poursuivirent à grands coups, &amp; le menerent toûjours batant, jusqu'à ce qu'ils l'eurent perdu de veuë ; apres quoy ils dancerent ensemble d'une maniere tout-à-fait bizarre.</p>
+        <p/>
+        <p>Pour Mr de Bousch Colonel des Gardes, &amp; Mr Possadofsky Ecuyer Tranchant de la Cour, représentant LES PAÏSANS YVRES.</p>
+        <p/>
+        <p>Chacun a son plaisir dans ce Lieu délectable.</p>
+        <p>La nostre est de vuider Bouteille,</p>
+        <p>Verre &amp; Pot,</p>
+        <p>Et d'estre jour &amp; nuit à table,</p>
+        <p>Sans avoir soin de payer nostre écot.</p>
+        <p/>
+        <p>XI. ENTREE.</p>
+        <p>Le Dieu Bacchus que l'on vit sortir de la Taverne sur son Tonneau, traîné par six Satyres joüans de la Flûte, se réjoüit de trouver les Païsans en cet état, leur donna encor à boire, &amp; dança avec eux ; mais quand il voulut compter la dépense qu'ils avoient faite, ils s'enfuyrent, en faisant mille grotesques postures. Bacchus apres avoir dancé seul, témoigna à l'Amour qu'il n'avoit point de plus fort desir que de contribuer à l'Enchantement de ce Dieu, par l'abondance de son Vin, qui est un Charme assez doux pour toutes sortes de Personnes dans un Lieu champêtre. Il vint pour percer son Tonneau ; mais le Dieu Pan, qui l'avoit pris, estant yvre, pour l'Arbre sacré dans lequel il avoit accoûtumé de se retirer, sortit du Tonneau tout réjoüy. Cette méprise avoit fait que les Satyres qui font une fidelle escorte à leur Dieu par tout où il est, s'estoient attachez à traîner le Tonneau de Bacchus, où ils sçavoient que Pan s'estoit enfermé. Ce Dieu des Sylvains &amp; des Bergers, invita tous les Habitans des Bois, des Eaux &amp; des Montagnes de cette Contrée, à publier la grandeur du Nom de Monsieur le Duc ERNESTE AUGUSTE, Souverain du Païs, &amp; à préparer pour ce grand Prince, qu'ils reconnoissoient pour le Maistre de leurs Demeures champêtres, tous les Divertissemens capables de le retenir dans ce Lieu délicieux. Voicy les Paroles qu'il chanta.</p>
+        <p/>
+        <p>Pendant que les autres Dieux</p>
+        <p>S'empressent tous à qui montrera mieux</p>
+        <p>Leurs soûmission éternelle</p>
+        <p>Pour le Souverain des Dieux ;</p>
+        <p>Troupe fidelle,</p>
+        <p>Montrez vostre zele</p>
+        <p>Pour le Héros qui régne dans ces Lieux.</p>
+        <p>Oreades &amp; Naïades,</p>
+        <p>Faunes, Sylvains, &amp; Dryades,</p>
+        <p>Faites que par tout dans ces Bois,</p>
+        <p>Sur vos doux Chalumeaux, Musetes, &amp; Hautbois,</p>
+        <p>On entende le Nom du Grand ERNESTE-AUGUSTE.</p>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p/>
+        <p>Plusieurs Faunes &amp; Sylvains, Oreades, Naïades, &amp; Dryades, estant accouruës de toutes parts à la voix de Pan, luy rendirent une prompte obeïssance, en chantant ces Vers.</p>
+        <p/>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p>Vive le grand ERNESTE-AUGUSTE.</p>
+        <p>Allons graver ce Nom sur tous ces Arbres verds,</p>
+        <p>Afin que par nos soins leurs Habitans divers</p>
+        <p>Puissent connoistre</p>
+        <p>Qu'il est leur Maistre,</p>
+        <p>Et qu'ils sont ses Sujets.</p>
+        <p>Que sur nos Chalumeaux, Musetes, Flageolets,</p>
+        <p>On entende le Nom du Grand ERNESTE-AUGUSTE.</p>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p/>
+        <p>Aussitost que le Dieu Pan eust témoigné par son Chant &amp; par sa joye, qu'il estoit de concert avec l'Amour dans le dessein de son Charme, il le laissa maistre de la Place où se devoit celébrer la Feste des Bergers d'Eurybate, &amp; reconduisit Bacchus dans sa Taverne, en dançant au milieu de ses Satyres.</p>
+        <p/>
+        <p>Pour Mr de Batincourt, Gentilhomme de la Cour, représentant BACCHUS.</p>
+        <p/>
+        <p>Avoüez, sans mon Jus divin,</p>
+        <p>Que tous vos plaisirs seroient fades,</p>
+        <p>Et qu'enfin ce seroit vous traiter en Malades,</p>
+        <p>Que vous priver de l'usage du Vin.</p>
+        <p/>
+        <p>Pour le Sr Jemmes, Maistre du Balet, représentant le Dieu PAN.</p>
+        <p/>
+        <p>Je voudrois avoir du retour,</p>
+        <p>Si je changeois mon estre &amp; ma figure,</p>
+        <p>Avec la plus belle posture</p>
+        <p>Du cavalier le mieux fait de la Cour.</p>
+        <p/>
+        <p>XII. ENTREE.</p>
+        <p>L'Amour dança seul une espece de Ménüet pour commencer la Feste des Bergers, tandis que les Bergeres Alise, Doris, &amp; Aminte, entrerent du costé droit du Théatre, &amp; que les Bergers Mélinte, Licidas, &amp; Damis, entrerent de l'autre. Ils montrerent tous leur admiration pour l'Amour, qui passa au milieu d'eux pour retourner sur son Trône. Alors cette Troupe Pastorale commença une Dance en l'honneur de l'Amour, apres s'estre tournez tous de son costé, &amp; s'estre en mesme temps inclinez devant luy en signe de venération.</p>
+        <p/>
+        <p>Pour les trois Bergers, tous trois Officiers de Guerre.</p>
+        <p/>
+        <p>Il est malaisé de changer</p>
+        <p>Nostre air de Commandant, &amp; nos demarches fieres.</p>
+        <p>Pourtant avec de si belles Bergeres</p>
+        <p>On s'accoûtumeroit à faire le Berger.</p>
+        <p/>
+        <p>Pour les trois Bergeres.</p>
+        <p/>
+        <p>Nous sommes trois jeunes Fieres,</p>
+        <p>Qui ne nous souciërions guéres</p>
+        <p>Chacune d'ataquer à la Luite un Berger ;</p>
+        <p>Nous luy ferions courir la moitié du danger.</p>
+        <p/>
+        <p>Pour Mr Veyhe, Lieutenant Colonel des Gardes, représentant le Berger MELINTE.</p>
+        <p/>
+        <p>D'attaquer mes Moutons jamais Loup ne hazarde,</p>
+        <p>Ils sont dressez, &amp; vont fort bien aux coups.</p>
+        <p>A tous autres Troupeaux ils serviroient de garde,</p>
+        <p>Car sans doute ils batroient pareil nombre de Loups.</p>
+        <p/>
+        <p>Pour Mr Bulau, Capitaine-Lieutenant de la Garde du Palais, représentant le Berger DAMIS.</p>
+        <p/>
+        <p>Pour me débarasser de toute autre conduite</p>
+        <p>Que de celle d'un fier Troupeau,</p>
+        <p>Je cherche une Bergere adroite &amp; de mérite,</p>
+        <p>A qui je veux donner le soin de mon Hameau.</p>
+        <p/>
+        <p>Pour Mademoiselle Gehle l'aînée, Premiere Fille d'honneur de Madame la Duchesse de Hanover, représentant la Bergere ALISE.</p>
+        <p/>
+        <p>Chacun me dit que Ménandre</p>
+        <p>Est un aimable Berger,</p>
+        <p>Qu'il m'aime d'un amour tendre</p>
+        <p>Qui ne peut jamais changer ;</p>
+        <p>Mais encor qu'il m'ait dit sa passion luy-mesme,</p>
+        <p>Cela doit-il m'alarmer ?</p>
+        <p>Quand nous sçaurons comment il aime,</p>
+        <p>Nous verrons s'il faudra l'aimer.</p>
+        <p/>
+        <p>Pour Mademoiselle Gehle la jeune, autre Fille d'honneur, représentant la Bergere DORIS.</p>
+        <p/>
+        <p>Je me plais sur la Fougere</p>
+        <p>D'estre seule tout le jour,</p>
+        <p>Et suis trop jeune Bergere</p>
+        <p>Pour me connoistre à l'amour.</p>
+        <p>Mais si quelque Berger me vient dire luy-mesme</p>
+        <p>Que pour moy le sien est extréme,</p>
+        <p>Cela doit-il m'alarmer ?</p>
+        <p>Quand nous sçaurons comment il aime,</p>
+        <p>Nous verrons s'il faudra l'aimer.</p>
+        <p/>
+        <p>Pour Mademoiselle Bulau, Fille de feu Mr le Président Bulau, représentant la Bergere AMINTE.</p>
+        <p/>
+        <p>Bergere si belle &amp; si sage,</p>
+        <p>Sans balancer davantage,</p>
+        <p>Devroit enfin s'engager.</p>
+        <p>A dix-huit ans on a l'âge</p>
+        <p>De faire un fort beau ménage</p>
+        <p>Avec un jeune Berger.</p>
+        <p/>
+        <p>XIII. ENTREE.</p>
+        <p>La Reyne Hippolite, &amp; les Princes de Mycene, voulant estre de la Partie, &amp; se signaler à la Dance, aux Jeux, &amp; à la Luite des Bergers &amp; des Bergeres, entrerent au son des Flûtes douces, Hautbois, Violons &amp; autres Instrumens de réjoüissance. Alciane entra aussi avec Ménalque, &amp; les deux Bergers volages, pour faire les honneurs du Lieu. Elle se plaça avec sa Suite dans le fond du Theatre ; &amp; les autres Bergers &amp; Bergeres, se rangerent des deux costez pour faire place à Hippolite, à Euryale, &amp; à Hylas. Apres que cette belle Amazone eut dancé avec les deux Princes, au milieu de toute cette Troupe de Bergers &amp; des Bergeres ; le Dieu Mars qui ne cherche qu'à troubler par tout la Feste, annonça au bruit des Tambours, Timbales &amp; Trompetes, la venuë d'Hercule dans Eurybate. Une alarme si impréveuë, causa trois effets forts diférens. Les Bergers &amp; Bergeres prirent la fuite, &amp; se disperserent des deux costez du Theatre. Hippolite apprenant que son Ennemy capital estoit si proche, courut aussitost aux Armes. Les Princes de Mycene ayant demandé les leurs, fort incertains du party qu'ils devoient prendre, estant obligez à tous les deux, allerent avec la Reyne à la rencontre d'Hercule, &amp; l'Amour quitta son Trône pour les suivre, &amp; remedier à ce tumulte.</p>
+        <p/>
+        <p>XIV. ENTREE.</p>
+        <p>Pendant ce temps, Mars dança seul au milieu de quatre Soldats, Artabase, Orondas, Pharasmane, &amp; Harpage, qui sortirent des deux costez du Theatre ; apres quoy, il alla s'asseoir à la place que l'Amour avoit quittée, &amp; laissa dancer ses quatre Guerriers.</p>
+        <p/>
+        <p>Pour les Soldats de Mars, Gentilshommes de la Cour.</p>
+        <p/>
+        <p>Bien qu'avec Mars à table il soit beau de s'assoir,</p>
+        <p>Et que nous nous fassions un honneur d'y bien boire ;</p>
+        <p>De combatre encor mieux chacun de nous faire gloire,</p>
+        <p>L'occasion le fera voir.</p>
+        <p/>
+        <p>XV. ENTREE.</p>
+        <p>Les quatre Soldats de la Suite de Mars, firent connoistre en dançant, la joye qu'ils avoient de la venuë d'Hercule, espérant bientost une occasion de Guerre, de ce Conquérant, qui l'alloit porter dans tout le Monde.</p>
+        <p/>
+        <p>Pour Mr de Bousch, Colonel des Gardes, représentant ARTABASE, Soldat de Mars.</p>
+        <p/>
+        <p>Ce n'est par aucune disgrace</p>
+        <p>Que je deviens de Colonel, soldat.</p>
+        <p>Le Charme de l'Amour m'a mis en cet état ;</p>
+        <p>L'Enchantement finy, je rentre dans ma place.</p>
+        <p/>
+        <p>Pour Mr Possadosky, Ecuyer-Tranchant de la Cour, représentant HARPAGE, Soldat de Mars.</p>
+        <p/>
+        <p>Ce jeune Soldat, sans railler,</p>
+        <p>Mérite une Charge plus grande ;</p>
+        <p>Car il sçait tout couper, &amp; trancher, &amp; tailler,</p>
+        <p>Quand l'occasion le demande.</p>
+        <p/>
+        <p>Pour Mr le Comte de Noyelle, représentant PHARASMANE, Soldat de Mars.</p>
+        <p/>
+        <p>Sans me faire tenir à quatre,</p>
+        <p>Et sans vouloir passer pour un Soldat cruel,</p>
+        <p>Qu'on m'attaque, on verra si je sçay bien combatre</p>
+        <p>En toute sorte de Duel.</p>
+        <p/>
+        <p>Pour Mr de S. Pol, Lieutenant Colonel d'Infanterie, représentant ORONDAS, Soldat de Mars.</p>
+        <p/>
+        <p>Ce Soldat sçait parler &amp; faire,</p>
+        <p>En Homme de coeur &amp; d'esprit ;</p>
+        <p>Et mesme, s'il est necessaire,</p>
+        <p>Il fait encor plus qu'il ne dit.</p>
+        <p/>
+        <p>XVI. ENTREE.</p>
+        <p>Hercule, retournant de ses Expéditions de Gaule &amp; d'Espagne, accompagné de deux Chevaliers errans de l'une &amp; de l'autre de ces Nations, vient à Eurybate, où il croyoit surprendre Hippolite, &amp; retirer de captivité les deux Princes de Mycene ; mais il les trouva en liberté, &amp; sçeut qu'ils en avoient l'obligation à la genérosité de la Reyne des Amazones. Ce grand Héros, rendant justice à la vertu de son Ennemie, quitta tout sentiment de haine pour elle. Ainsi le Charme de l'Amour, l'ayant arresté comme tous les autres dans ce Lieu de plaisirs, il ne songea plus qu'à s'y délasser de ses longs travaux, oubliant tous ses Combats passez avec cette charmante Amazone, &amp; toute entreprise nouvelle. Il dança seul, &amp; se retira au font du Theatre, avec ses deux Chevaliers errans à ses costez. Mars descendit du Trône où il s'estoit mis, &amp; se joignit à ce Héros qu'il invita à se divertir, &amp; à faire bonne chere, en attendant de nouvelles occasions de Guerre. En mesme temps, les quatre Soldats s'allerent placer de l'un &amp; l'autre costé de cette Troupe, &amp; ils parurent tous de face au font du Theatre.</p>
+        <p/>
+        <p>Pour Mr le Comte de Schaumbourg, représentant HERCULE.</p>
+        <p/>
+        <p>Je me suis mis plus d'une fois</p>
+        <p>En toute sorte de figures.</p>
+        <p>Icy je suis un Hercule Gaulois,</p>
+        <p>Mais pourtant Grec aux bonnes Avantures.</p>
+        <p/>
+        <p>Pour Mr de Gohr, Capitaine d'Infanterie, représentant un CHEVALIER ERRANT GAULOIS.</p>
+        <p/>
+        <p>En amour, non plus qu'en vaillance,</p>
+        <p>Je ne cede à pas un Mortel ;</p>
+        <p>Et je suis un Chevalier tel,</p>
+        <p>Qu'à la pointe de ma Lance,</p>
+        <p>Malgré cent Géans divers,</p>
+        <p>Je prétens conquérir moy seul tout l'Univers.</p>
+        <p/>
+        <p>Pour Mr Senfft, Gouverneur de Messieurs les Princes, représentant un CHEVALIER ERRANT ESPAGNOL.</p>
+        <p/>
+        <p>Par la vertu de l'Armet de Mambrin,</p>
+        <p>Et de ma belle &amp; forte Armure,</p>
+        <p>J'entreprens, &amp; veux mettre à fin</p>
+        <p>Toute étrange &amp; rare Avanture.</p>
+        <p/>
+        <p>XVII. ENTREE.</p>
+        <p>Hippolite, précedée par l'Amour &amp; par ses Plaisirs champêtres, &amp; accompagnée des deux Princes de Mycene, entra au son des Luths, Theorbes, &amp; Violons, &amp; ayant présenté ces deux Princes à Hercule, elle les remist entre ses mains, afin qu'il les remenast dans leur Païs. Alciane de son costé, suivie des autres Bergers &amp; Bergeres dont l'Amour avoit dissipé la crainte, vint prendre part à la joye, que causoit à tout le monde la paisible entreveuë d'Hercule avec Hippolite. Ensuite l'Amour dança un Ménuet au milieu des Plaisirs, &amp; alla trouver Mercure pour luy donner ordre de remonter au Ciel, &amp; d'y porter la nouvelle de ce grand accord entre deux Personnes si ennemies.</p>
+        <p/>
+        <p>XVIII. ENTREE.</p>
+        <p>La Reyne des Amazones dança avec les deux Princes. Sa dance finie, Hercule luy présenta les deux Fils du Roy Euristée, &amp; cette action de genérosité fit naître une parfaite reconciliation entre ce Héros, &amp; cette belle Amazone. Pendant que tout cela se passoit, la Concorde parut au milieu des Airs, assise sur un Arc-en-Ciel, &amp; chanta ces Paroles.</p>
+        <p/>
+        <p>Tout est soûmis au Charme de l'Amour,</p>
+        <p>La douce Loy de son Empire,</p>
+        <p>Dans un parfait accord tient tout ce qui respire.</p>
+        <p>Soit aux Champs, soit à la Cour,</p>
+        <p>Tout est soûmis au Charme de l'Amour.</p>
+        <p/>
+        <p>XIX. ENTREE.</p>
+        <p>Les Chevaliers errans, qui a la premiere veuë d'Alciane s'estoient sentis portez à l'aimer, dancerent &amp; se battirent pour elle en présence de l'Assemblée, chacun prétendant à l'honneur de se dire son Chevalier ; mais apres qu'ils eurent fait preuve de leur valeur à la Dance &amp; au Combat, l'Amour les condamna tous deux à un banissement perpétuel, dans la juste appréhension qu'il eut que les Chevaliers errans de deux Nations si opposées en toutes choses, telles que sont la Gauloise &amp; l'Espagnole, n'excitassent des désordres qui pussent servir d'obstacle au dessein qu'il avoit fait de retenir le Maistre des Dieux aupres de Junon, dans le lieu délicieux d'Eurybate.</p>
+        <p/>
+        <p>XX. ENTREE.</p>
+        <p>Un Scaramouche curieux de voir la Feste, entra, &amp; fit mille plaisantes &amp; agreables postures, au milieu de cette illustre Assemblée.</p>
+        <p/>
+        <p>Pour Mr de Bonnefond, Capitaine Reformé, représentant un SCARAMOUCHE.</p>
+        <p/>
+        <p>J'ay mes Congez en bonne forme.</p>
+        <p>J'ay passé cent dangers sans estre estropié ;</p>
+        <p>Et malgré toute la Réforme,</p>
+        <p>Je suis encor un Scaramouche en pié.</p>
+        <p/>
+        <p>DERNIERE ENTREE.</p>
+        <p>Mercure venu du Ciel de la part de Jupiter &amp; de Junon, pour sçavoir ce qui se passoit dans cet endroit de la Terre, leur alla dire du consentement de l'Amour, que tout estoit prest pour les recevoir dans Eurybate. Il leur apprit la reconciliation d'Hercule avec Hippolite, dont le Dieu Pan porta aussi la nouvelle à tous les Habitans de ses Bois. L'Amour, comme le Maître de ce Lieu, y demeura. Mars invita toute cette Troupe à venir faire bonne chere à sa table, &amp; Bacchus promit de régaler l'Assemblée des meilleurs Vins de la Terre. Un Inconnu, &amp; une Inconnuë, entrerent parmy la foule, &amp; par leur maniere extraordinaire de dancer divertirent fort les Spéctateurs.</p>
+        <p>[...]</p>
+        <p/>
+        <p>ENTREE.</p>
+        <p>Le Dieu Bacchus que l'on vit sortir de la Taverne sur son Tonneau, traîné par six Satyres joüans de la Flûte, se réjoüit de trouver les Païsans en cet état, leur donna encor à boire, &amp; dança avec eux ; mais quand il voulut compter la dépense qu'ils avoient faite, ils s'enfuyrent, en faisant mille grotesques postures. Bacchus apres avoir dancé seul, témoigna à l'Amour qu'il n'avoit point de plus fort desir que de contribuer à l'Enchantement de ce Dieu, par l'abondance de son Vin, qui est un Charme assez doux pour toutes sortes de Personnes dans un Lieu champêtre. Il vint pour percer son Tonneau ; mais le Dieu Pan, qui l'avoit pris, estant yvre, pour l'Arbre sacré dans lequel il avoit accoûtumé de se retirer, sortit du Tonneau tout réjoüy. Cette méprise avoit fait que les Satyres qui font une fidelle escorte à leur Dieu par tout où il est, s'estoient attachez à traîner le Tonneau de Bacchus, où ils sçavoient que Pan s'estoit enfermé. Ce Dieu des Sylvains &amp; des Bergers, invita tous les Habitans des Bois, des Eaux &amp; des Montagnes de cette Contrée, à publier la grandeur du Nom de Monsieur le Duc ERNESTE AUGUSTE, Souverain du Païs, &amp; à préparer pour ce grand Prince, qu'ils reconnoissoient pour le Maistre de leurs Demeures champêtres, tous les Divertissemens capables de le retenir dans ce Lieu délicieux. Voicy les Paroles qu'il chanta.</p>
+        <p/>
+        <p>Pendant que les autres Dieux</p>
+        <p>S'empressent tous à qui montrera mieux</p>
+        <p>Leurs soûmission éternelle</p>
+        <p>Pour le Souverain des Dieux ;</p>
+        <p>Troupe fidelle,</p>
+        <p>Montrez vostre zele</p>
+        <p>Pour le Héros qui régne dans ces Lieux.</p>
+        <p>Oreades &amp; Naïades,</p>
+        <p>Faunes, Sylvains, &amp; Dryades,</p>
+        <p>Faites que par tout dans ces Bois,</p>
+        <p>Sur vos doux Chalumeaux, Musetes, &amp; Hautbois,</p>
+        <p>On entende le Nom du Grand ERNESTE-AUGUSTE.</p>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p/>
+        <p>Plusieurs Faunes &amp; Sylvains, Oreades, Naïades, &amp; Dryades, estant accouruës de toutes parts à la voix de Pan, luy rendirent une prompte obeïssance, en chantant ces Vers.</p>
+        <p/>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p>Vive le grand ERNESTE-AUGUSTE.</p>
+        <p>Allons graver ce Nom sur tous ces Arbres verds,</p>
+        <p>Afin que par nos soins leurs Habitans divers</p>
+        <p>Puissent connoistre</p>
+        <p>Qu'il est leur Maistre,</p>
+        <p>Et qu'ils sont ses Sujets.</p>
+        <p>Que sur nos Chalumeaux, Musetes, Flageolets,</p>
+        <p>On entende le Nom du Grand ERNESTE-AUGUSTE.</p>
+        <p>Il n'est rien de si juste,</p>
+        <p>Que chaque Etat, soit divin, soit humain,</p>
+        <p>Reconnoisse son Souverain.</p>
+        <p/>
+        <p>Aussitost que le Dieu Pan eust témoigné par son Chant &amp; par sa joye, qu'il estoit de concert avec l'Amour dans le dessein de son Charme, il le laissa maistre de la Place où se devoit celébrer la Feste des Bergers d'Eurybate, &amp; reconduisit Bacchus dans sa Taverne, en dançant au milieu de ses Satyres.</p>
+        <p/>
+        <p>Pour Mr de Batincourt, Gentilhomme de la Cour, représentant BACCHUS.</p>
+        <p/>
+        <p>Avoüez, sans mon Jus divin,</p>
+        <p>Que tous vos plaisirs seroient fades,</p>
+        <p>Et qu'enfin ce seroit vous traiter en Malades,</p>
+        <p>Que vous priver de l'usage du Vin.</p>
+        <p/>
+        <p>Pour le Sr Jemmes, Maistre du Balet, représentant le Dieu PAN.</p>
+        <p/>
+        <p>Je voudrois avoir du retour,</p>
+        <p>Si je changeois mon estre &amp; ma figure,</p>
+        <p>Avec la plus belle posture</p>
+        <p>Du cavalier le mieux fait de la Cour.</p>
+        <p/>
+        <p>XII. ENTREE.</p>
+        <p>L'Amour dança seul une espece de Ménüet pour commencer la Feste des Bergers, tandis que les Bergeres Alise, Doris, &amp; Aminte, entrerent du costé droit du Théatre, &amp; que les Bergers Mélinte, Licidas, &amp; Damis, entrerent de l'autre. Ils montrerent tous leur admiration pour l'Amour, qui passa au milieu d'eux pour retourner sur son Trône. Alors cette Troupe Pastorale commença une Dance en l'honneur de l'Amour, apres s'estre tournez tous de son costé, &amp; s'estre en mesme temps inclinez devant luy en signe de venération.</p>
+        <p/>
+        <p>Pour les trois Bergers, tous trois Officiers de Guerre.</p>
+        <p/>
+        <p>Il est malaisé de changer</p>
+        <p>Nostre air de Commandant, &amp; nos demarches fieres.</p>
+        <p>Pourtant avec de si belles Bergeres</p>
+        <p>On s'accoûtumeroit à faire le Berger.</p>
+        <p/>
+        <p>Pour les trois Bergeres.</p>
+        <p/>
+        <p>Nous sommes trois jeunes Fieres,</p>
+        <p>Qui ne nous souciërions guéres</p>
+        <p>Chacune d'ataquer à la Luite un Berger ;</p>
+        <p>Nous luy ferions courir la moitié du danger.</p>
+        <p/>
+        <p>Pour Mr Veyhe, Lieutenant Colonel des Gardes, représentant le Berger MELINTE.</p>
+        <p/>
+        <p>D'attaquer mes Moutons jamais Loup ne hazarde,</p>
+        <p>Ils sont dressez, &amp; vont fort bien aux coups.</p>
+        <p>A tous autres Troupeaux ils serviroient de garde,</p>
+        <p>Car sans doute ils batroient pareil nombre de Loups.</p>
+        <p/>
+        <p>Pour Mr Bulau, Capitaine-Lieutenant de la Garde du Palais, représentant le Berger DAMIS.</p>
+        <p/>
+        <p>Pour me débarasser de toute autre conduite</p>
+        <p>Que de celle d'un fier Troupeau,</p>
+        <p>Je cherche une Bergere adroite &amp; de mérite,</p>
+        <p>A qui je veux donner le soin de mon Hameau.</p>
+        <p/>
+        <p>Pour Mademoiselle Gehle l'aînée, Premiere Fille d'honneur de Madame la Duchesse de Hanover, représentant la Bergere ALISE.</p>
+        <p/>
+        <p>Chacun me dit que Ménandre</p>
+        <p>Est un aimable Berger,</p>
+        <p>Qu'il m'aime d'un amour tendre</p>
+        <p>Qui ne peut jamais changer ;</p>
+        <p>Mais encor qu'il m'ait dit sa passion luy-mesme,</p>
+        <p>Cela doit-il m'alarmer ?</p>
+        <p>Quand nous sçaurons comment il aime,</p>
+        <p>Nous verrons s'il faudra l'aimer.</p>
+        <p/>
+        <p>Pour Mademoiselle Gehle la jeune, autre Fille d'honneur, représentant la Bergere DORIS.</p>
+        <p/>
+        <p>Je me plais sur la Fougere</p>
+        <p>D'estre seule tout le jour,</p>
+        <p>Et suis trop jeune Bergere</p>
+        <p>Pour me connoistre à l'amour.</p>
+        <p>Mais si quelque Berger me vient dire luy-mesme</p>
+        <p>Que pour moy le sien est extréme,</p>
+        <p>Cela doit-il m'alarmer ?</p>
+        <p>Quand nous sçaurons comment il aime,</p>
+        <p>Nous verrons s'il faudra l'aimer.</p>
+        <p/>
+        <p>Pour Mademoiselle Bulau, Fille de feu Mr le Président Bulau, représentant la Bergere AMINTE.</p>
+        <p/>
+        <p>Bergere si belle &amp; si sage,</p>
+        <p>Sans balancer davantage,</p>
+        <p>Devroit enfin s'engager.</p>
+        <p>A dix-huit ans on a l'âge</p>
+        <p>De faire un fort beau ménage</p>
+        <p>Avec un jeune Berger.</p>
+        <p/>
+        <p>XIII. ENTREE.</p>
+        <p>La Reyne Hippolite, &amp; les Princes de Mycene, voulant estre de la Partie, &amp; se signaler à la Dance, aux Jeux, &amp; à la Luite des Bergers &amp; des Bergeres, entrerent au son des Flûtes douces, Hautbois, Violons &amp; autres Instrumens de réjoüissance. Alciane entra aussi avec Ménalque, &amp; les deux Bergers volages, pour faire les honneurs du Lieu. Elle se plaça avec sa Suite dans le fond du Theatre ; &amp; les autres Bergers &amp; Bergeres, se rangerent des deux costez pour faire place à Hippolite, à Euryale, &amp; à Hylas. Apres que cette belle Amazone eut dancé avec les deux Princes, au milieu de toute cette Troupe de Bergers &amp; des Bergeres ; le Dieu Mars qui ne cherche qu'à troubler par tout la Feste, annonça au bruit des Tambours, Timbales &amp; Trompetes, la venuë d'Hercule dans Eurybate. Une alarme si impréveuë, causa trois effets forts diférens. Les Bergers &amp; Bergeres prirent la fuite, &amp; se disperserent des deux costez du Theatre. Hippolite apprenant que son Ennemy capital estoit si proche, courut aussitost aux Armes. Les Princes de Mycene ayant demandé les leurs, fort incertains du party qu'ils devoient prendre, estant obligez à tous les deux, allerent avec la Reyne à la rencontre d'Hercule, &amp; l'Amour quitta son Trône pour les suivre, &amp; remedier à ce tumulte.</p>
+        <p/>
+        <p>XIV. ENTREE.</p>
+        <p>Pendant ce temps, Mars dança seul au milieu de quatre Soldats, Artabase, Orondas, Pharasmane, &amp; Harpage, qui sortirent des deux costez du Theatre ; apres quoy, il alla s'asseoir à la place que l'Amour avoit quittée, &amp; laissa dancer ses quatre Guerriers.</p>
+        <p/>
+        <p>Pour les Soldats de Mars, Gentilshommes de la Cour.</p>
+        <p/>
+        <p>Bien qu'avec Mars à table il soit beau de s'assoir,</p>
+        <p>Et que nous nous fassions un honneur d'y bien boire ;</p>
+        <p>De combatre encor mieux chacun de nous faire gloire,</p>
+        <p>L'occasion le fera voir.</p>
+        <p/>
+        <p>XV. ENTREE.</p>
+        <p>Les quatre Soldats de la Suite de Mars, firent connoistre en dançant, la joye qu'ils avoient de la venuë d'Hercule, espérant bientost une occasion de Guerre, de ce Conquérant, qui l'alloit porter dans tout le Monde.</p>
+        <p/>
+        <p>Pour Mr de Bousch, Colonel des Gardes, représentant ARTABASE, Soldat de Mars.</p>
+        <p/>
+        <p>Ce n'est par aucune disgrace</p>
+        <p>Que je deviens de Colonel, soldat.</p>
+        <p>Le Charme de l'Amour m'a mis en cet état ;</p>
+        <p>L'Enchantement finy, je rentre dans ma place.</p>
+        <p/>
+        <p>Pour Mr Possadosky, Ecuyer-Tranchant de la Cour, représentant HARPAGE, Soldat de Mars.</p>
+        <p/>
+        <p>Ce jeune Soldat, sans railler,</p>
+        <p>Mérite une Charge plus grande ;</p>
+        <p>Car il sçait tout couper, &amp; trancher, &amp; tailler,</p>
+        <p>Quand l'occasion le demande.</p>
+        <p/>
+        <p>Pour Mr le Comte de Noyelle, représentant PHARASMANE, Soldat de Mars.</p>
+        <p/>
+        <p>Sans me faire tenir à quatre,</p>
+        <p>Et sans vouloir passer pour un Soldat cruel,</p>
+        <p>Qu'on m'attaque, on verra si je sçay bien combatre</p>
+        <p>En toute sorte de Duel.</p>
+        <p/>
+        <p>Pour Mr de S. Pol, Lieutenant Colonel d'Infanterie, représentant ORONDAS, Soldat de Mars.</p>
+        <p/>
+        <p>Ce Soldat sçait parler &amp; faire,</p>
+        <p>En Homme de coeur &amp; d'esprit ;</p>
+        <p>Et mesme, s'il est necessaire,</p>
+        <p>Il fait encor plus qu'il ne dit.</p>
+        <p/>
+        <p>XVI. ENTREE.</p>
+        <p>Hercule, retournant de ses Expéditions de Gaule &amp; d'Espagne, accompagné de deux Chevaliers errans de l'une &amp; de l'autre de ces Nations, vient à Eurybate, où il croyoit surprendre Hippolite,</p>
+        <p>&amp; retirer de captivité les deux Princes de Mycene ; mais il les trouva en liberté, &amp; sçeut qu'ils en avoient l'obligation à la genérosité de la Reyne des Amazones. Ce grand Héros, rendant justice à la vertu de son Ennemie, quitta tout sentiment de haine pour elle. Ainsi le Charme de l'Amour, l'ayant arresté comme tous les autres dans ce Lieu de plaisirs, il ne songea plus qu'à s'y délasser de ses longs travaux, oubliant tous ses Combats passez avec cette charmante Amazone, &amp; toute entreprise nouvelle. Il dança seul, &amp; se retira au font du Theatre, avec ses deux Chevaliers errans à ses costez. Mars descendit du Trône où il s'estoit mis, &amp; se joignit à ce Héros qu'il invita à se divertir, &amp; à faire bonne chere, en attendant de nouvelles occasions de Guerre. En mesme temps, les quatre Soldats s'allerent placer de l'un &amp; l'autre costé de cette Troupe, &amp; ils parurent tous de face au font du Theatre.</p>
+        <p/>
+        <p>Pour Mr le Comte de Schaumbourg, représentant HERCULE.</p>
+        <p/>
+        <p>Je me suis mis plus d'une fois</p>
+        <p>En toute sorte de figures.</p>
+        <p>Icy je suis un Hercule Gaulois,</p>
+        <p>Mais pourtant Grec aux bonnes Avantures.</p>
+        <p/>
+        <p>Pour Mr de Gohr, Capitaine d'Infanterie, représentant un CHEVALIER ERRANT GAULOIS.</p>
+        <p/>
+        <p>En amour, non plus qu'en vaillance,</p>
+        <p>Je ne cede à pas un Mortel ;</p>
+        <p>Et je suis un Chevalier tel,</p>
+        <p>Qu'à la pointe de ma Lance,</p>
+        <p>Malgré cent Géans divers,</p>
+        <p>Je prétens conquérir moy seul tout l'Univers.</p>
+        <p/>
+        <p>Pour Mr Senfft, Gouverneur de Messieurs les Princes, représentant un CHEVALIER ERRANT ESPAGNOL.</p>
+        <p/>
+        <p>Par la vertu de l'Armet de Mambrin,</p>
+        <p>Et de ma belle &amp; forte Armure,</p>
+        <p>J'entreprens, &amp; veux mettre à fin</p>
+        <p>Toute étrange &amp; rare Avanture.</p>
+        <p/>
+        <p>XVII. ENTREE.</p>
+        <p>Hippolite, précedée par l'Amour &amp; par ses Plaisirs champêtres, &amp; accompagnée des deux Princes de Mycene, entra au son des Luths, Theorbes, &amp; Violons, &amp; ayant présenté ces deux Princes à Hercule, elle les remist entre ses mains, afin qu'il les remenast dans leur Païs. Alciane de son costé, suivie des autres Bergers &amp; Bergeres dont l'Amour avoit dissipé la crainte, vint prendre part à la joye, que causoit à tout le monde la paisible entreveuë d'Hercule avec Hippolite. Ensuite l'Amour dança un Ménuet au milieu des Plaisirs, &amp; alla trouver Mercure pour luy donner ordre de remonter au Ciel, &amp; d'y porter la nouvelle de ce grand accord entre deux Personnes si ennemies.</p>
+        <p/>
+        <p>XVIII. ENTREE.</p>
+        <p>La Reyne des Amazones dança avec les deux Princes. Sa dance finie, Hercule luy présenta les deux Fils du Roy Euristée, &amp; cette action de genérosité fit naître une parfaite reconciliation entre ce Héros, &amp; cette belle Amazone. Pendant que tout cela se passoit, la Concorde parut au milieu des Airs, assise sur un Arc-en-Ciel, &amp; chanta ces Paroles.</p>
+        <p/>
+        <p>Tout est soûmis au Charme de l'Amour,</p>
+        <p>La douce Loy de son Empire,</p>
+        <p>Dans un parfait accord tient tout ce qui respire.</p>
+        <p>Soit aux Champs, soit à la Cour,</p>
+        <p>Tout est soûmis au Charme de l'Amour.</p>
+        <p/>
+        <p>XIX. ENTREE.</p>
+        <p>Les Chevaliers errans, qui a la premiere veuë d'Alciane s'estoient sentis portez à l'aimer, dancerent &amp; se battirent pour elle en présence de l'Assemblée, chacun prétendant à l'honneur de se dire son Chevalier ; mais apres qu'ils eurent fait preuve de leur valeur à la Dance &amp; au Combat, l'Amour les condamna tous deux à un banissement perpétuel, dans la juste appréhension qu'il eut que les Chevaliers errans de deux Nations si opposées en toutes choses, telles que sont la Gauloise &amp; l'Espagnole, n'excitassent des désordres qui pussent servir d'obstacle au dessein qu'il avoit fait de retenir le Maistre des Dieux aupres de Junon, dans le lieu délicieux d'Eurybate.</p>
+        <p/>
+        <p>XX. ENTREE.</p>
+        <p>Un Scaramouche curieux de voir la Feste, entra, &amp; fit mille plaisantes &amp; agreables postures, au milieu de cette illustre Assemblée.</p>
+        <p/>
+        <p>Pour Mr de Bonnefond, Capitaine Reformé, représentant un SCARAMOUCHE.</p>
+        <p/>
+        <p>J'ay mes Congez en bonne forme.</p>
+        <p>J'ay passé cent dangers sans estre estropié ;</p>
+        <p>Et malgré toute la Réforme,</p>
+        <p>Je suis encor un Scaramouche en pié.</p>
+        <p/>
+        <p>DERNIERE ENTREE.</p>
+        <p>Mercure venu du Ciel de la part de Jupiter &amp; de Junon, pour sçavoir ce qui se passoit dans cet endroit de la Terre, leur alla dire du consentement de l'Amour, que tout estoit prest pour les recevoir dans Eurybate. Il leur apprit la reconciliation d'Hercule avec Hippolite, dont le Dieu Pan porta aussi la nouvelle à tous les Habitans de ses Bois. L'Amour, comme le Maître de ce Lieu, y demeura. Mars invita toute cette Troupe à venir faire bonne chere à sa table, &amp; Bacchus promit de régaler l'Assemblée des meilleurs Vins de la Terre. Un Inconnu, &amp; une Inconnuë, entrerent parmy la foule, &amp; par leur maniere extraordinaire de dancer divertirent fort les Spéctateurs. [fin p. 198]</p>
+        <p>[p. 198-199] Pendant toutes ces rencontres impréveuës, le jour estant venu sur son déclin, on remit au lendemain les Jeux &amp; la Luite, &amp; on se contenta pour cette fois de la Dance des Bergers. Ainsi le Balet finit, &amp; chacun se rentra au Hameau, où par un magnifique Repas, on donna à tout ce beau monde le plaisir le plus necessaire à l'accomplissement du Charme de l'Amour.</p>
+        <p>[p. 199-202] Je ne doute point, Madame, que vous ne soyez surprise de voir qu'il se trouve en Allemagne des Muses Françoises aussi polies que l'est celle qui a inspiré les Vers que l'on a meslez parmy ces Entrées. Ils sont aisez, naturels, &amp; dignes du grand Spéctacle dont ils ont servy à expliquer les Sujets. Tout fut magnifique dans cette Feste ; &amp; si l'on y admira la r</p>
+      </div>
+
+<div xml:id="MG-1681-04_327">
+        <head>MG-1681-04_327</head>
+        <bibl>Mercure Galant, avril 1681, p. 327, 329-330, 333-336, 338-342</bibl>
+        <p>Tout ce qui s'est passé à S. Cloud pendant le sejour que Leurs Majestez y ont fait.</p>
+        <p/>
+        <p>Leurs Majestez ont passé huit jours dans la superbe &amp; délicieuse Maison de S. Cloud, dont Son Altesse Royale a fait les honneurs d'un air, qui a charmé tous ceux qui en ont esté témoins. [...]</p>
+        <p>Le Roy, accompagné de toute la Cour, y arriva le 15. du Mois entre quatre et cinq heures du soir. Les Compagnies destinées pour la Garde de Sa Majesté, estoient déjà dans leurs postes, dont les Trompetes &amp; les Timbales tenoient le plus avancé. Monsieur &amp; Madame reçeurent le Roy, la Reyne, Monseigneur le Dauphin, &amp; Madame la Dauphine, au bas de l'Escalier, à la descente de leur Carrosse. Les Violons &amp; les Hautbois estoient au haut de cet Escalier. [...]</p>
+        <p>On alla de là, dans un Grand Cabinet appellé la Salle des Audiences. Il sembloit qu'apres ce que l'on venoit de voir, on ne pouvoit plus entrer dans aucun Lieu, qui dust arrester les yeux. Cependant ce Cabinet parut tres-superbement meublé, &amp; disputa de magnificence avec tout ce qu'on avoit veu. Ce n'estoient qu'Ouvrages d'argenterie de toutes manieres. Ce qui est ordinairement de bois aux Sieges, Tables, &amp; Fauteüils, estoit d'argent, &amp; on voyoit une tres-belle Broderie d'or, qui relevoit tous les Meubles jusques aux Portieres. Mr le Begue, celebre Organiste de Sa Majesté, touchoit en ce Lieu un Cabinet d'Orgues d'une invention particuliere ; &amp; le plaisir qu'on eut de l'entendre, y arresta la Cour quelque temps. Apres cet agreable divertissement, on entra dans le Sallon qui représente les Amours de Mars &amp; de Vénus, &amp; qui a esté peint par Mr Mignard. [...] Leurs Majestez passerent en suite dans la Galerie, au bout de laquelle on trouva la Symphonie ordinaire de Monsieur. Elle est composée d'un Clavessin, d'un Dessus de Viole, &amp; d'un Luth ; le premier touché par le Sr Baltasar, l'autre par le Sr Garnier, &amp; le Luth par le Sr Jaquelon. Cette Symphonie ayant cessé, chacun alla voir son Apartement. [...]</p>
+        <p>Il y eut Comédie le soir sur un superbe Theatre, que Monsieur avoit fait rehaussé d'or. On y représenta Zaïde Princesse de Grenade, &amp; les Précieuses ridicules. Le Roy n'a vû aucune des Pieces qui ont diverty la Cour, Sa Majesté ayant toûjours pris soin des Affaires de son Etat à son ordinaire, &amp; ayant tous les jours tenu Conseil de la maniere qu'Elle a accoûtumé de le tenir quand Elle est à S. Germain. Il y eu tous les jours Bal ou Comédie. Outre les deux que je viens de nommer, on y a représenté l'Iphigénie de Mr Racine, Trésorier de France, avec la Comtesse d'Escarbagnas de feu Mr Moliere ; le Dom Bertrand de Sigaral, de Mr de Corneille le jeune ; &amp; les Usuriers, par les Italiens. Le nouveau Salon servit seulement pour le premier Bal. Le jour que l'on arriva, le Roy fit l'honneur aux Dames de les faire manger avec Luy. Les Violons, &amp; les Hautbois joüerent pendant tout le temps que l'on demeura à table. Apres le Soupé on alla dans la Galerie, où il y eut Concert jusques au coucher. [...] En arrivant à S. Cloud, il [le Roy] congedia toute sa Musique, &amp; voulut entendre celle de Monseigneur le Dauphin jusqu'à son retour à Saint Germain. Elle a tous les jours chanté à la Messe des Motets de Mr Charpentier, &amp; Sa Majesté n'en a point voulu entendre d'autres, quoy qu'on luy en eust proposé. Il y a deux ans qu'on en chante devant Monseigneur le Dauphin. Les Violons se sont toûjours fait entendre au dîner, où l'affluence des Personnes venuës de Paris pour voir le Roy a esté si grande, qu'à peine ce Prince pouvoit-il passer pour se mettre à table.</p>
+      </div>
+
+<div xml:id="MG-1681-04_359">
+        <head>MG-1681-04_359</head>
+        <bibl>Mercure Galant, avril 1681, p. 359-361</bibl>
+        <p>Airs spirituels enseignez par M. de Bassilly.</p>
+        <p/>
+        <p>Si vostre Amie, à qui le dessein de se consacrer à Dieu, a inspiré tant d'aversion pour les Airs profanes, vient à Paris comme vous le dites, elle pourra prendre des Leçons pour régler sa voix, sans qu'elle renonce à ses scrupules. L'illustre Mr de Bassilly, qui a composé deux Livres d'Airs spirituels, avec des seconds Couplets en diminution, s'est résolu de les enseigner chez luy, afin que ces beaux Airs que l'on a falcifiez sous le titre de diférens Autheurs, soient chantez par ceux qui voudront les bien sçavoir, suivant toutes les Regles de son Traité de l'Art de Chanter, imprimé il y a déjà plusieurs années. Il l'expliquera de point en point aux Curieux, &amp; leur donnera les exemples necessaires pour l'entiere intelligence de ces Regles. Ainsi en un petit nombre de Leçons, on sçaura parfaitement chanter toutes sortes d'Airs, sur lesquels chacun pourra appliquer les Préceptes, dont il aura enseigné l'usage. Il demeure Ruë S. Claude.</p>
+      </div>
+</body>
+  </text>
+</TEI>

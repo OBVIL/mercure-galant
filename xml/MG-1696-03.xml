@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mars 1696</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1696-03/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mars 1696</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1696-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1696-03_010">
+        <head>MG-1696-03_010</head>
+        <bibl>Mercure galant, mars 1696, p. 10-11</bibl>
+        <p>Sacre de Mr Delfino, Nonce en France.</p>
+        <p/>
+        <p>Le Dimanche 29. du même mois de Janvier, Messire Marc-Daniel Delfino, Noble Venitien, Vicelegat d'Avignon, nommé à la Nonciature de France, fut sacré Archevêque de Damas in partibus Infidelium, dans l'Eglise des Jesuites d'Avignon, par Messire Loüis-Aube de Roque-Martine, Evêque &amp; Comte de Saint-Paul-Trois-Chasteaux, assisté de Mrs les Evêques d'Orange &amp; de Carpentras. La ceremonie fut tres-solemnelle, tant par le grand nombre de personnes de qualité de toute la Province, qui y assisterent, que par la Musique &amp; Symphonie de toute sorte d'Instrumens. Ensuite le nouveau Nonce traita magnifiquement à dîner Mrs les Evêques, les Consuls, les Officiers de la Legation, &amp; les personnes les plus distinguées de la Ville.</p>
+      </div>
+
+<div xml:id="MG-1696-03_012">
+        <head>MG-1696-03_012</head>
+        <bibl>Mercure galant, mars 1696, p. 12-25</bibl>
+        <p>Idille de Meudon.</p>
+        <p/>
+        <p>Je vous envoye un Divertissement de Musique, qui a esté fait pour Monseigneur. Il est de la composition de Mr Boisset, si connu par ses beaux Airs, &amp; les paroles sont de Mr Moreau de Mautour, dont je vous ay déjà envoyé plusieurs Pieces &amp; Traductions galantes.</p>
+        <p/>
+        <p>IDILLE DE MEUDON.</p>
+        <p/>
+        <p>Flore, l'Hiver, Cerés, Bacchus,</p>
+        <p>Deux Plaisirs chantans, deux</p>
+        <p>Bergers &amp; deux Bergeres.</p>
+        <p/>
+        <p>UN BERGER de la suite de Flore.</p>
+        <p>Ce n'est plus le temps des Amours</p>
+        <p>Que la saison de Flore.</p>
+        <p>C'est en vain qu'on entend au lever de l'Aurore</p>
+        <p>Les Oiseaux dans nos bois annoncer les beaux jours.</p>
+        <p>On ne voit plus d'Amans sensibles,</p>
+        <p>Les plaisirs ont quitté nos retraites paisibles,</p>
+        <p>La Guerre en a troublé le cours.</p>
+        <p>La Déesse des fleurs que le Zephire adore,</p>
+        <p>Se plaint &amp; repete toujours,</p>
+        <p>Ce n'est plus le temps des amours</p>
+        <p>Que la saison de Flore.</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>Le Printemps par mes soins a peine fait éclore</p>
+        <p>Les fleurs, dont ces jardins, ces prez sont embellis,</p>
+        <p>Que les Heros de l'Empire des Lis</p>
+        <p>Me quittent pour Bellone, &amp; content à la gloire.</p>
+        <p>A leur exemple on voit mille &amp; mille Guerriers</p>
+        <p>Aux Myrtes amoureux préferer les Lauriers,</p>
+        <p>Dont la valeur couronne la Victoire.</p>
+        <p>Au pouvoir de Venus en vain j'aurois recours,</p>
+        <p>On neglige ses loix lors que Mars regne encore,</p>
+        <p>Ce n'est plus le temps des amours</p>
+        <p>Que la saison de Flore.</p>
+        <p/>
+        <p>Choeur de la suite de Flore.</p>
+        <p>Les échos sont pour nous muets &amp; sourds ;</p>
+        <p>Le bruit de nos Concerts, le son de nos Musettes</p>
+        <p>Cede au son des Trompettes,</p>
+        <p>Cede au bruit des Tambours.</p>
+        <p>On neglige nos champs lors que Mars regne encore.</p>
+        <p>Ce n'est plus le temps des Amours</p>
+        <p>Que la saison de Flore.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>L'hiver est la saison des Amours, des Plaisirs,</p>
+        <p>C'est le temps où le Dieu des armes</p>
+        <p>Suspend les craintes, les alarmes,</p>
+        <p>Aux tendres coeurs il permet les soupirs ;</p>
+        <p>L'hiver est la saison des Amours, des Plaisirs.</p>
+        <p/>
+        <p>DEUX PLAISIRS.</p>
+        <p>Pour les Amans guerriers que le repos appelle,</p>
+        <p>Tous les Hivers sont des Printemps.</p>
+        <p>Le retour des frimats tous les ans renouvelle</p>
+        <p>Leurs soins &amp; leurs empressemens.</p>
+        <p>C'est l'heureux temps des jeux, des ris charmans.</p>
+        <p>Et loin de la fiere Bellone</p>
+        <p>On vient goûter de doux momens</p>
+        <p>Dans les beaux jours que l'amour donne ;</p>
+        <p/>
+        <p>FLORE.</p>
+        <p>De toute autre saison qu'on vante les faveurs,</p>
+        <p>Pour moy, j'ay l'avantage,</p>
+        <p>Que l'aimable saison des fleurs</p>
+        <p>Sera toujours le doux partage</p>
+        <p>Des tendres coeurs.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Divinité charmante !</p>
+        <p>Que ton destin doit te rendre contente.</p>
+        <p>Icy tout flate tes desirs ;</p>
+        <p>On y voit en tout temps, même sans les zephirs,</p>
+        <p>Ta Cour toujours nouvelle &amp; florissante,</p>
+        <p>Et tu sçais conserver dans ces lieux pleins d'appas,</p>
+        <p>La verdure &amp; les fleurs au milieu des frimats.</p>
+        <p/>
+        <p>L'HIVER &amp; FLORE.</p>
+        <p>Pour plaire à l'auguste Maistre</p>
+        <p>De ce sejour digne des Dieux,</p>
+        <p>Faisons paroistre</p>
+        <p>Nostre zele à ses yeux,</p>
+        <p>Meslons nos soins, nos chansons &amp; nos yeux.</p>
+        <p/>
+        <p>UN PLAISIR.</p>
+        <p>Vous, Bacchus &amp; Cerès, qui versez sur la France</p>
+        <p>Vos biens &amp; vos faveurs au gré de tous ses voeux ;</p>
+        <p>Pour le Heros dont la presence</p>
+        <p>Vient embellir ces lieux,</p>
+        <p>Meslons nos soins, nos chansons &amp; nos jeux.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Pour plaire à l'auguste Maistre</p>
+        <p>De ce sejour digne des Dieux,</p>
+        <p>Faisons paroistre</p>
+        <p>Nostre zele à ses yeux,</p>
+        <p>Meslons nos soins, nos chansons &amp; nos yeux.</p>
+        <p/>
+        <p>UN PLAISIR.</p>
+        <p>Publions la valeur de ce nouvel Alcide.</p>
+        <p>Ainsi que le Soleil dans sa course rapide,</p>
+        <p>On l'a vû traverser</p>
+        <p>Des Belges fiers les vastes plaines,*</p>
+        <p>Pour prévenir &amp; renverser</p>
+        <p>De cent Peuples liguez les entreprises vaines.</p>
+        <p/>
+        <p>*La marche de quarante lieuës en Flandre en 1694.</p>
+        <p/>
+        <p>BACCHUS.</p>
+        <p>C'est dans les mains de ce Vainqueur heureux,</p>
+        <p>Que le plus grand Roy de la terre</p>
+        <p>Déposa son tonnerre,</p>
+        <p>Pour dompter les Lions &amp; l'Aigle audacieux.*</p>
+        <p>Le bruit de son nom glorieux</p>
+        <p>S'étend jusqu'aux climats où j'ay porté la guerre :</p>
+        <p>Pour seconder les efforts genereux</p>
+        <p>J'enrichis ses Sujets de vins delicieux.</p>
+        <p/>
+        <p>*La prise de Philipsbourg.</p>
+        <p/>
+        <p>CERES.</p>
+        <p>Pour luy plaire par tout je seme l'abondance ;</p>
+        <p>Si mes épics sans nombre égalent les Guerriers</p>
+        <p>Que nous produit la France,</p>
+        <p>Elle est aussi feconde en moissons qu'en lauriers.</p>
+        <p/>
+        <p>BACCHUS &amp; CERES.</p>
+        <p>Son illustre Dauphin dans ces lieux nous rassemble,</p>
+        <p>Celebrons ses vertus dans nos chants les plus doux.</p>
+        <p>Peut-on manquer de plaisirs entre nous,</p>
+        <p>Lors que Bacchus &amp; Ceres sont ensemble ?</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Celebrons ses vertus dans nos chants les plus doux,</p>
+        <p>Peut-on manquer de plaisirs entre nous,</p>
+        <p>Lors que Bacchus &amp; Ceres sont ensemble ?</p>
+        <p/>
+        <p>Chant de Bergers.</p>
+        <p>Bergers, accourons tous, &amp; quittons nos Hameaux,</p>
+        <p>Loüis qui sur nos coeurs exerce un doux empire,</p>
+        <p>Dans ces lieux charmans nous attire.</p>
+        <p>A des concerts divins joignons nos chalumeaux.</p>
+        <p/>
+        <p>Deux Bergers.</p>
+        <p>Dans nos prairies,</p>
+        <p>Nos Bergeries,</p>
+        <p>Si nous goûtons un plein repos,</p>
+        <p>Nous le devons aux soins de ce Heros.</p>
+        <p>Nos troupeaux paissent sans alarmes,</p>
+        <p>Sans craindre la fureur des loups,</p>
+        <p>Et quand l'amour nous fait sentir ses charmes,</p>
+        <p>Rien n'est plus à craindre pour nous</p>
+        <p>Que les yeux des jaloux.</p>
+        <p>Dans nos prairies,</p>
+        <p>Nos &amp;c.</p>
+        <p/>
+        <p>Deux Bergeres</p>
+        <p>Dans cet azile</p>
+        <p>Goûtons le bonheur tranquille</p>
+        <p>De voir l'auguste Fils du plus grand des Vainqueurs.</p>
+        <p>La majesté qui dans ses yeux éclate,</p>
+        <p>Inspire de la crainte à nos timides coeurs.</p>
+        <p>Mais sa douceur nous rassure &amp; nous flate.</p>
+        <p>Qu'il est digne de nos amours,</p>
+        <p>Ce Prince qui fait nos beaux jours !</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>Depuis qu'il a receu nostre nouvel hommage,</p>
+        <p>Nos champs, nos bois n'ont plus rien de sauvage,</p>
+        <p>Tout brille en nos hameaux, nos jeux y sont charmans,</p>
+        <p>Et nous passons d'heureux momens.</p>
+        <p>Le bruit des armes,</p>
+        <p>Et les tristes alarmes</p>
+        <p>Ne troublent point les voeux &amp; les soins des Amans.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Un tendre coeur joüit de sa victoire,</p>
+        <p>Il a le plaisir à son tour,</p>
+        <p>De faire souffir à la Gloire</p>
+        <p>Les maux qu'elle a faits à l'Amour.</p>
+        <p/>
+        <p>Bacchus, Ceres, deux Plaisirs.</p>
+        <p>Dans ce brillant sejour, dont l'éclat nous enchante,</p>
+        <p>Le Prince aimable en fait tous les attraits,</p>
+        <p>Que tout ressente</p>
+        <p>Sa presence charmante.</p>
+        <p>Ah, sans luy nos plaisirs ne seroient qu'imparfaits.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Que le bruit de son nom au doux son des Musettes,</p>
+        <p>Au doux son des trompettes</p>
+        <p>Retentisse de toutes parts.</p>
+        <p/>
+        <p>Deux Plaisirs.</p>
+        <p>Au milieu de sa Cour ce Vainqueur est aimable</p>
+        <p>Autant que redoutable</p>
+        <p>Dans le champ de Mars.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Que le bruit de son nom au doux son des Musettes,</p>
+        <p>Au doux son des Trompettes</p>
+        <p>Retentisse de toutes parts.</p>
+      </div>
+
+<div xml:id="MG-1696-03_164">
+        <head>MG-1696-03_164</head>
+        <bibl>Mercure galant, mars 1696, p. 164-173</bibl>
+        <p>Dialogue.</p>
+        <p/>
+        <p>Je vous envoye un Dialogue, qui a esté mis en Musique par un de nos plus habiles Musiciens. Il a receu une approbation generale, dans une assemblée de Connoisseurs, où il a esté chanté, pour satisfaire une Dame du premier rang, qui s'est fait un plaisir de celebrer le retour d'un Epoux aussi vaillant, &amp; fidelle Sujet du Roy, qu'il est tendrement aimé d'une Epouse aimable.</p>
+        <p/>
+        <p>IRIS ET TIRCIS.</p>
+        <p/>
+        <p>DIALOGUE.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>L'Hiver flate mon coeur de l'espoir du repos.</p>
+        <p>Son retour interrompt le bruit tonnant des armes,</p>
+        <p>Après tant de vives allarmes,</p>
+        <p>Enfin, je revoy mon Heros.</p>
+        <p>Je le revoy couvert d'une gloire immortelle,</p>
+        <p>Mais helas ! revient-il fidelle ?</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>D'où vous naist ce soupçon jaloux ?</p>
+        <p>Toûjours, charmante Iris, vostre empire m'est doux,</p>
+        <p>Toûjours pour vos beaux yeux mon coeur est tout de flame,</p>
+        <p>Le Ciel dont le pouvoir me soumit à leurs coups,</p>
+        <p>N'a jamais partagé mon ame</p>
+        <p>Qu'entre la gloire &amp; vous.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Ah ! Tircis, est-il vray qu'une si longue absence</p>
+        <p>N'ait point changé pour moy vos tendres sentimens ?</p>
+        <p>Les jeunes Heros de ce temps</p>
+        <p>Ne se piquent pas de constance.</p>
+        <p>Eloignez des objets qui possedoient leurs coeurs,</p>
+        <p>Ils prennent aisément de nouvelles ardeurs.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Non, si pour me livrer à quelque amour nouvelle</p>
+        <p>Mon coeur vouloit se dégager,</p>
+        <p>Je sens qu'il ne pourroit changer.</p>
+        <p>La jeune Iris est la plus belle</p>
+        <p>Des Nymphes qu'on voit sous les Cieux.</p>
+        <p>Son air n'est pas d'une Mortelle,</p>
+        <p>Puisque rien de si beau ne peut charmer mes yeux</p>
+        <p>Le moyen que mon coeur ne reste pas pour elle,</p>
+        <p>Dans tous les temps dans tous les lieux,</p>
+        <p>Toujours soumis, tendre &amp; fidelle ?</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Si je pouvois n'en point douter</p>
+        <p>Helas, que je serois heureuse !</p>
+        <p>Mais les bords arrosez par la Sambre &amp; la Meuse</p>
+        <p>Ont des Nymphes redouter.</p>
+        <p>Leur conduite toujours prévenante</p>
+        <p>&amp; flatteuse,</p>
+        <p>Promet un sort rempli d'attraits</p>
+        <p>Aux Amans blessez de leurs traits,</p>
+        <p>Et nos jeunes Guerriers dans le temps de Bellonne</p>
+        <p>Quelque intervale donne</p>
+        <p>Sont ravis de trouver près d'eux</p>
+        <p>D'agreables objets propres à rendre heureux.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Des communes faveurs je méprise les charmes,</p>
+        <p>Je vous adoreray seule jusqu'au trépas,</p>
+        <p>Vous triomphez de moy pas vos charmans appas,</p>
+        <p>Autant que Loüis par ses armes</p>
+        <p>Triomphe de Nassau dans cent fameux combats.</p>
+        <p>Quittez-donc un soupçon qui blesse</p>
+        <p>Ma sincere delicatesse.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Ouy, Tircis, je voy bien que vous estes constant.</p>
+        <p>Que mon coeur est charmé ! que mon coeur est content !</p>
+        <p/>
+        <p>IRIS &amp; TIRCIS.</p>
+        <p>Aprés qu'une longue absence</p>
+        <p>A fait sentir son pouvoir,</p>
+        <p>Quel plaisir de se revoir</p>
+        <p>Pleins d'ardeur &amp; de constance !</p>
+        <p>L'Amour seul peut donner un sort doux &amp; charmant.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>J'aimeray mon Iris jusqu'au dernier moment.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Je chercheray Tircis tous le temps de ma vie.</p>
+        <p>Par un heureux destin dont mon ame est ravie</p>
+        <p>Le devoir s'accorde à mes feux.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>L'Amour &amp; la Raison nous animent tous deux,</p>
+        <p>C'est ce qu'à peine on pourra croire.</p>
+        <p/>
+        <p>IRIS &amp; TIRCIS.</p>
+        <p>Durent à jamais les beaux noeuds</p>
+        <p>Qui sont formez chez nous par l'amour &amp; la gloire.</p>
+        <p/>
+        <p>Ce Dialogue est de la mesme Mademoiselle l'Heritier qui a fait l'Eloge des Dames, employé dans ma Lettre de Janvier, dont vous m'avez témoigné estre si contente.</p>
+      </div>
+
+<div xml:id="MG-1696-03_233">
+        <head>MG-1696-03_233</head>
+        <bibl>Mercure galant, mars 1696, p. 233-253</bibl>
+        <p>Relation des honneurs rendus à Mme la Duchesse de Modène.</p>
+        <p/>
+        <p>Les Nouvelles publiques vous ont appris que Mr le Duc de Modene avoit epousé Madame la Princesse de Hanover. Cette nouvelle Duchesse accompagnée de Madame la Duchesse de Hanover sa Mere, arriva au commencement du mois passé,  dans les Etats du Duc son Mary. La Lettre qui suit vous fera sçavoir la reception qui a esté faite à ces deux Princesses, en beaucoup de lieux par où elles ont passé.</p>
+        <p/>
+        <p>A Modene ce 15 Février 1696.</p>
+        <p/>
+        <p>[...] Nous entrames à Veronne au bruit du canon, de la mousqueterie, des boëtes, &amp; de toutes sortes d'instrumens, &amp; trouvâmes plus de dix mille personnes hors de la Ville. Toutes les rues estoient illuminées, tous les balcons tapissez. Nous logeâmes dans le Palais du Podesta. Il y eut le soir, &amp; tous les jours suivans de nostre sejour, Serenades, Opera, Comedie &amp; Bals, où se trouverent toujours plus de trois cens Dames, plus belles &amp; mieux mises les unes que les autres, &amp; toutes couvertes de pierreries. Il ne se peut rien ajoûter à la magnificence des tables, &amp; à l'affluence de toutes choses, qui surpasserent tout ce qu'on s'en peut imaginer. Tout cela nous suivit jusqu'à une journée &amp; demie de Veronne. C'estoient les limites des la Republique, &amp; de l'Etat de Mantoüe. [...] A deux lieuës de Mantoüe arriva le Duc, qui fit ses complimens &amp; s'en retourna. Une lieuë approchant de Mantouë, nous trouvâmes les chemins garnis de lumieres &amp; de Milice, comme à Veronne. Nous entrâmes au bruit de toute l'artillerie &amp; des cris de joye. Le Duc et la Duchesse se trouverent à la porte pour y recevoir les nostres. Nous logeâmes dans le Chasteau, qui est un des plus grands &amp; des plus richement meublez de l'Europe. Il est situé sur un lac, ce qui le rend un lieu fort mal sain. Nous y sejournâmes deux jours, pendant lesquels il y eut toujours Opera, Comedie &amp; Bal, où estoient de tres-belles Dames, &amp; plusieurs autres qui nous avoient suivis de Veronne. [...] On arriva [le 6] à deux heures de nuit à Buon-Porto. Nous logeâmes dans un Palais appartenant à la Marquise de Rangoni, Dame d'honneur de la Duchesse de Modene ; le mariage y fut consommé, &amp; nous en partîmes à trois heures aprés midy en carosse, pour nous rendre le soir à Modene, éloignée de quatre lieuës. A moitié chemin nous rencontrâmes la Duchesse mere, accompagnée de soixante &amp; dix carosses à six chevaux, qui composerent le cortege de nostre Entrée. Depuis là les chemins furent bordez de lumieres, comme avant qu'on arrivast à Veronne &amp; à Mantoüe. Tous les Clochers étoient illuminez à triple étage, aussi bien que les remparts, ce qui produisoit la nuit le plus bel effet du monde. Nous entrâmes au bruit du canon, de la mousqueterie, des boestes, des fusées volantes qui continuerent toute la nuit &amp; des acclamations du Peuple. Toute la Ville estoit illuminée &amp; tapissée dans les principaux endroits. Les rues même où l'on ne devoit point passer, l'estoient aussi depuis le pavé jusque sur les toits, avec des lanternes de papier huilé &amp; peint de differentes couleurs. Les Palais l'estoient par une infinité de grands flambeaux de cire blanche, &amp; l'on en compta à celuy du Duc jusques à huit cens, qui brûlerent toute la nuit. Le Palais qui n'est point encore achevé, sera un des plus grands &amp; des plus magnifiques d'Italie. Il y a dès à present un grand nombre d'appartemens aussi somptueusement meublez que l'on en voye en beaucoup de Cours. Celuy de la Duchesse contient dix-sept ou dix-huit grandes Pieces de plein pied, où les moindres tapisseries sont de velours cramoisi avec de larges galons &amp; des franges d'or. Le lit de la Duchesse est d'une broderie particuliere dedans &amp; dehors, avec quantité d'ornemens de Perles ; &amp; la Toilette, qui estoit des plus magnifiques, est de vermeil cizelé, avec le bas d'un tres beau point de Venise. En un mot, c'est le veritable Palais où l'Amour fit transporter Psyché par les Zephirs. Il n'y a personne qui soit plus galant, plus sage &amp; plus content que le Duc. Ce fut le 7. que nous arrivâmes icy, &amp; le Lundy 13. on fit la ceremonie de mariage dans l'Eglise Cathedrale, qui estoit magnifiquement ornée. Tout le pavé, &amp; même celuy du Porche, estoit couvert de vieux tapis. La Messe fut celebrée pontificalement par l'Evêque, avec Musique, &amp; le Te Deum chanté ; aprés quoy on fit le Festin nuptial. Vous n'avez qu'à vous imaginer tout ce qu'il y a de plus propre, de plus delicat &amp; de plus abondant en viandes, fruits &amp; confitures, ce qui fut suivi du Bal. Hier l'on tira un Feu d'artifice des mieux entendus. Tout cela meriteroit une description plus étendue que celle que je vous fais, mais j'espere que vous voudrez bien vous en contenter.</p>
+      </div>
+
+<div xml:id="MG-1696-03_313">
+        <head>MG-1696-03_313</head>
+        <bibl>Mercure galant, mars 1696, p. 313-316</bibl>
+        <p>Ouvrages posthumes de Mr de la Fontaine.</p>
+        <p/>
+        <p>Il en est des Auteurs illustres comme des grands Peintres, leurs Ouvrages semblent augmenter de prix par leur mort. C'est ce qui fait qu'aprés qu'on les a perdus, on s'empresse à ramasser tout ce qu'on peut trouver d'eux, jusqu'à des fragmens, quoy que mutilez. Ainsi, vous ne devez pas estre surprise, si depuis la mort de Mr de la Fontaine, on a pris soin de faire un recueil de tous les Ouvrages qui portoient son nom, &amp; qui n'avoient point encore esté imprimez. On vient de le donner au Public, sous le titre d'Oeuvres Posthumes. Ce ne sont point des fragmens, ny des morceaux détachez qu'il ait laissez imparfaits. Ce sont toutes pieces que Mr de la Fontaine a finies, &amp; qui doivent d'autant plus attirer les Curieux, que l'on peut estre assuré qu'elles sont de luy, puis qu'estant original dans son genre, &amp; par conséquent inimitable, son Stile est trop aisé à connoistre pour luy pouvoir imputer de fausses copies. Il y a des Lettres en Prose, des Lettres en Vers, d'autres mêlées de Vers &amp; de Prose avec quelque Fables, &amp; dans tout cela, on voit briller ce talent exquis, qui l'a distingué avec tant de gloire, de tous ceux qui ont tâché de suivre la mesme route. Ce recueïl d'oeuvres Posthumes, qui est regardé comme un tresor, par tout ce qu'il y a de personnes qui aiment les belles choses, se trouve chez le Sr de Luynes, libraire au Palais, dans la Salle des Merciers.</p>
+      </div>
+
+<div xml:id="MG-1696-03_316">
+        <head>MG-1696-03_316</head>
+        <bibl>Mercure galant, mars 1696, p. 316-317</bibl>
+        <p>Je vous manday le mois passé que la Troupe des Comediens du Roy, avoit representé une piece serieuse, qui par sa beauté avoit réveillé le goust de la Tragedie. Cette Piece qu'on appelle Polixene, a eu quantité de Partisans fort considerables, &amp; son succez a justifié tout le bien qu'ils en ont dit. Vous en pourrez juger par vous-mesme en la lisant, puisqu'elle se debite chez le Sr Thomas Guillain, Libraire, à la descente du Pont-neuf, prés les Augustins.</p>
+      </div>
+
+<div xml:id="MG-1696-03_317">
+        <head>MG-1696-03_317</head>
+        <bibl>Mercure galant, mars 1696, p. 317-320</bibl>
+        <p>Le Viellard couru, ou les differens caracteres des femmes.</p>
+        <p/>
+        <p>La premiere representation de la Comedie le Viellard couru, où les differens carcateres des Femmes, ayant esté faite il y a huit jours, plusieurs s'appliquerent à chercher de la verité dans les portraits qu'on y fait de quantité de Maistresses du Veillard, quoy que l'Auteur n'ait eu intention de peindre personne, mais seulement de donner des Amantes au Heros de sa Piece, qui, suivant son sujet, devoit en avoir beaucoup. Il n'est pas impossible que plusieurs de ceux qui ont fait des applications, se soient trompez de bonne foy mais il est sûr que d'autres cherchant à perdre la Piece, &amp; à exciter du murmure, ont fait exprés de fausses applications, puisque de differens portraits placez en divers actes, ils ont pris des morceaux, &amp; les ont joints pour en composer quelques-uns, &amp; appliquer à une seule personne ces differens morceaux joints ensemble, quoy qu'ils ayent esté faits pour plusieurs, &amp; sans qu'on ait eu d'autre objet que d'entrer dans le naturel, soit à l'égard du beau, soit à l'égard du laid, de la pluspart des femmes. Voilà ce qui attira tant d'ennemis à la Piece, le premier jour qu'elle parut, mais le nombre de ses Auditeurs ayant esté grand &amp; équitable dans les representations suivantes, l'Auteur doit estre satisfait de la justice que le Public luy rend, en dépit des ennemis qu'il estoit innocemment attirez.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1682</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1682-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1682</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1682-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1682-06_010">
+        <head>MG-1682-06_010</head>
+        <bibl>Mercure Galant, juin 1682, p. 10-17</bibl>
+        <p>Processions.</p>
+        <p/>
+        <p>[Si le roi] tient pour les Hommes une conduite si juste, il est encor plus exact pour ce qui regarde le culte de Dieu. Il en a donné d'éclatantes marques, &amp; dans la solemnité de la Feste de Pentecoste, &amp; dans les Processions qui ont esté faites à Versailles le Jeudy 28. de May, &amp; le Jeudy 4. de ce mois jour de l'Octave. Je vous en fis une ample description, &amp; vous en marquay toute la Pompe dans ma Lettre de Juin de l'année derniere. Ainsi, Madame, je me contenteray aujourd'huy de vous dire que les mesmes choses y ont esté observées, &amp; que la Chapelle neuve dont je vous parlay il y a un mois, s'estant trouvée presque au mesme lieu où Sa Majesté avoit accoûtumé de faire dresser un Reposoir, en a servy cette année. Le Roy &amp; la Reyne accompagnez de Monseigneur le Dauphin, de Monsieur &amp; de Madame, suivirent la Procession avec une pieté qui en inspiroit aux moins zelez ; apres quoy ils entendirent la Messe dans l'Eglise de la Paroisse. Ce qui s'est fait à Paris, n'a pas esté moins édifiant. Toutes les Processions y ont paru avec grande pompe, &amp; entr'autres celle de la Paroisse Royale de S. Loüis a eu un éclat extraordinaire. Quatre Capitaines aux Gardes portoient les Bâtons du Daiz avec beaucoup de modestie &amp; de gravité. C'estoient Mrs de Ferrand, de Bourlon, de Monceaux, &amp; de Bretonvilliers. Le Clergé précedoit en Chapes avec les Flambeaux &amp; les Torches ordinaires. Plusieurs Conseillers d'Etat, Maistres des Requestes, &amp; Conseillers du Parlement, marchoient en Robes rouges derriere le Daiz, suivis d'un nombre infiny de Gens de l'un &amp; de l'autre Sexe. La Procession s'arresta au superbe Reposoir que fait faire tous les ans Mr le Procureur General de la Cour des Aydes. Quoy que la magnificence en soit tres-considérable, il y adjoûte toûjours un Concert de Voix &amp; d'Instrumens, dont la justesse auroit dequoy contenter les plus difficiles en Musique. La Procession ayant passé sur le Quay, on entendit batre le Tambour de loin, &amp; ce batement répondoit au son du Fifre. On avoit placé, par permission du Roy, deux Compagnies de ces Capitaines, aux deux costez avancez du Pont Marie. Elles occupoient ce Poste, l'une &amp; l'autre Chapeau bas, ayant un genoüil en terre, &amp; l'autre élevé, avec le Mousquet tourné sur l'eau. La premiere Compagnie fit sa décharge lors qu'elle vit approcher le Daiz. Les Tambours à genoux marquerent par le redoublement &amp; le bruit confus de leur baterie leur respectueuse adoration pendant que le Daiz passa ; ensuite dequoy l'autre Compagnie fit une seconde salve. La Procession ayant repassé par le Quay des Balcons devant le Pont de Pierre, y fut saluée de la mesme sorte par deux autres Compagnies, &amp; s'arresta encore une fois au Reposoir de Mr le Procureur General, où la mesme Symphonie se fit entendre. Vous remarquerez dans cette action deux choses fort particulieres. Rien n'édifie davantage que de voir le Daiz porté par quatre Officiers d'Armée dans une solemnité de Paroisse ; mais si cela est nouveau, ces marques de pieté nous surprendront-elles, quand le Souverain en donne par tout de si grands exemples ? Il est aussi fort nouveau que des Compagnies aux Gardes soient rengées en haye dans des Lieux où Sa Majesté n'est pas. Cela fait connoistre qu'Elle ne refuse rien, lors qu'il s'agit de la gloire du Maistre des Souverains.</p>
+      </div>
+
+<div xml:id="MG-1682-06_046">
+        <head>MG-1682-06_046</head>
+        <bibl>Mercure Galant, juin 1682, p. 46-50</bibl>
+        <p>Le Rossignol &amp; le Milan, Fable.</p>
+        <p/>
+        <p>je vous envoye une Fable de Mr Daubaine. C'est assez vous dire, pour estre assuré que vous la lirez avec plaisir.</p>
+        <p/>
+        <p>LE ROSSIGNOL, ET LE MILAN.</p>
+        <p>FABLE.</p>
+        <p/>
+        <p>UN Rossignol se trouvant sous la pate</p>
+        <p>D'un Milan, Beste scélerate,</p>
+        <p>L'Attila des petits Oyseaux ;</p>
+        <p>Ah, ne me mangez pas, luy dit-il d'un air tendre.</p>
+        <p>Sur moy que trouvez-vous à prendre ?</p>
+        <p>Je ne puis seulement vous fournir deux morceaux ;</p>
+        <p>Et si vous le voulez, je vais vous faire entendre</p>
+        <p>Tout ce que la Musique a de plus merveilleux.</p>
+        <p>Pour vous-mesme, Seigneur, conservez-moy la vie ;</p>
+        <p>De bon coeur je consens à vous suivre en tous lieux.</p>
+        <p>Plus de chagrins pour vous, plus de mélancolie.</p>
+        <p>Voyez ce que je vaux, voyez à quoy je sers.</p>
+        <p>Autant de fois que vous prendra l'envie</p>
+        <p>D'avoir le plaisir des Concerts,</p>
+        <p>Je vous le donneray ; ma douce mélodie</p>
+        <p>Pour cela seule me suffit.</p>
+        <p>Seule elle vaut l'Opéra de Persée.</p>
+        <p>Jamais Gascon eut-il une telle pensée ?</p>
+        <p>A tout cela le Milan répondit.</p>
+        <p>Vostre Musique est sans pareille ;</p>
+        <p>Vous comparez Lully, ce seroit se moquer ;</p>
+        <p>Mais mon plaisir n'est point le plaisir de l'oreille,</p>
+        <p>Et partant, nostre Amy, je prétens vous croquer.</p>
+        <p>Là-dessus il l'étrangle, &amp; puis le gobe en plume,</p>
+        <p>Car faire du Rosty n'est pas une coûtume</p>
+        <p>Dont jamais les Milans se soient voulu piquer.</p>
+        <p/>
+        <p>C'est tout de bon, jeune Climene,</p>
+        <p>Je suis tombé dans vos filets ;</p>
+        <p>Ou, pour parler en des termes plus nets,</p>
+        <p>Et que l'on entende sans peine,</p>
+        <p>Pour vous je commence à sentir</p>
+        <p>Ce que l'amour inspire de plus tendres ;</p>
+        <p>Mais tout d'un coup vous me faites comprendre</p>
+        <p>A quoy cela peut aboutir.</p>
+        <p>J'ay beau du Rossignol emprunter le langage,</p>
+        <p>J'ay beau vous prôner l'avantage</p>
+        <p>Qu'on tire d'un Amant qui sçait faire des Vers ;</p>
+        <p>J'ay beau dire qu'à l'Univers</p>
+        <p>Les miens feroient sçavoir combien vous estes belle,</p>
+        <p>Helas ! c'est ne vous rien offrir.</p>
+        <p>Vous n'en estes pas moins cruelle,</p>
+        <p>Je le vois bien, il faut mourir.</p>
+      </div>
+
+<div xml:id="MG-1682-06_084">
+        <head>MG-1682-06_084</head>
+        <bibl>Mercure Galant, juin 1682, p. 84</bibl>
+        <p>[...]</p>
+        <p>Je me souviens de vous avoir dit qu´il [Bacilly] devoit donner un Livre nouveau d´Airs gravez, ayant pour titre, Second Mélange. Il se vend présentement au Palais avec ses autres Livres d´Airs gravez. Ce dernier fait le dixiéme.[...]</p>
+      </div>
+
+<div xml:id="MG-1682-06_141">
+        <head>MG-1682-06_141</head>
+        <bibl>Mercure Galant, juin 1682, p. 141-144, 146-148, 152-155</bibl>
+        <p>Tout ce qui s'est passé aux Etats tenus en Bourgogne.</p>
+        <p/>
+        <p>Je vay m'acquiter de ma parole, en vous faisant le détail de tout ce qui s'est passé aux derniers Etats tenus en Bourgogne. Monsieur le Duc estant party de Paris le 19. Avril, se rendit le 30. à Seignelay, où Mr de Motheux, Capitaine du Château, le reçeut au bruit de l'Artillerie, &amp; de la Milice sous les armes. Ce Prince à son arrivée fut harangué par les Corps du Clergé &amp; de la Justice, qui luy firent présenter d'excellent Vin. [...]</p>
+        <p>Le lendemain premier jour de May, qui estoit un Vendredy, Son Altesse Serénissime entendit la Messe dans la Chapelle du Château à sept heures du matin ; &amp; comme Elle croyoit ensuite venir monter en Carrosse, Elle fut surprise de voir servir un Repas en maigre d'une extréme propreté. [...]</p>
+        <p>Le 4. à l'issuë de son dîné, Elle donna audience aux Députez de toutes les Villes de la Province, &amp; reçeut quelques complimens particuliers, comme des Elûs de la Triennalité d'aprésent, qui sont Mr l'Abbé de Quincé pour le Clergé, Mr le Marquis de Tiange pour la Noblesse, &amp; Mr Riel Conseiller au Bailliage de Chastillon-sur-Seine pour le Tiers-Etat. Le soir, Mr l'Intendant régala ce Prince d'un Soupé tres-magnifique, &amp; d'un Opéra, dont il fut si satisfait, qu'il tomba d'accord qu'on ne pouvoit rien de mieux pour la Province.</p>
+        <p>Le 5. qui fut le jour de l'ouverture des Etats qui se tiennent au Convent des Cordeliers, apres que le Pere Gardien eut complimenté S.A.S. à son arrivée à ce Convent, on celebra une Messe solemnelle du Saint Esprit dans leur Eglise, où Elle assista. Apres la Messe, Elle se rendit à la grande Salle destinée pour la tenuë des Etats. [...]</p>
+        <p>L'apresdînée, Messieurs du Clergé, de la Noblesse, &amp; du Tiers Etat, entrerent dans leurs Chambres, pour parler du Don que la Province fait tous les ans à Sa Majesté.</p>
+        <p>Le 6. Mr l'Abbé Fiot, Député de la Chambre du Clergé, porta la parole à S.A.S. de la résolution que les Chambres avoient prise sur le Don gratuit, qui estoit de confier tous les intérests de la Province à sa prudente &amp; sage conduite. Il s'acquita tres-dignement de cette commission, &amp; fit un Discours qui luy attira beaucoup de loüanges.</p>
+        <p>Sur la Réponse de S.A.S. qui conseilloit d'offrir un Million, Mr de Quincé fut chargé l'apresdînée de luy aller dire que les Etats demeuroient d'accord de donner le Million, &amp; demandoient sa protection aupres du Roy.</p>
+        <p>Depuis ce temps, &amp; jusqu'à l'onziéme, on travailla avec assiduité aux Affaires de la Province, tant dans les Chambres des Etats, qu'aupres de S.A.S. Elle y a donné des soins &amp; une application incroyable, &amp; toûjours avec succés &amp; des applaudissemens tout particuliers. L'unique divertissement qu'Elle a pris pendant ce temps, a esté l'Opéra que Mr l'Intendant luy a donné plusieurs fois. Ce Prince a mangé souvent chez luy, &amp; n'a veu qu'une seule Comédie de toutes celles qu'a représentées la Troupe qui estoit alors à Dijon. Mr de Maleteste, Conseiller au Parlement, a eu l'honneur de le régaler d'un Concert fort agreable, qui fut aussi qualifié d'Opéra. [...]</p>
+      </div>
+
+<div xml:id="MG-1682-06_180">
+        <head>MG-1682-06_180</head>
+        <bibl>Mercure Galant, juin 1682, p. 180-181</bibl>
+        <p>[sans titre]</p>
+        <p/>
+        <p>Je vous envoye la Veuë du Generalife, autre Palaïs que les Roys d'Afrique ont fait bastir à Grenade. C'estoit comme une Maison de Plaisance où ils aimoient à passer les plus beaux jours de l'année, à cause des Jardinages, de la quantité d'eau qu'il y avoit, &amp; de la beauté de la veuë, car on découvre de là non seulement toute l'Alhambre, mais on voit aussi par dessus l'Alhambre toute la Ville, &amp; toute la Plaine. On dit que ce Palais fut nommé Generalife, qui en Arabe, veut dire, Maison des Arts ou de la Musique, parce qu'un Prince More s'y retira pour s'appliquer entierement aux Sciences, &amp; particulierement à la Musique. [...]</p>
+      </div>
+
+<div xml:id="MG-1682-06_241">
+        <head>MG-1682-06_241</head>
+        <bibl>Mercure Galant, juin 1682, p. 241-243</bibl>
+        <p>Mariage de M. Lambert de Torigny, &amp; de Mademoiselle Bontemps.</p>
+        <p/>
+        <p>Messire Claude Jean Lambert, Seigneur de Thorigny, de Susy en Brie, Conseiller au Parlement, &amp; Fils aîné de Messire Nicolas Lambert Président des Comptes, &amp; de Dame... de Laubepine, a épousé depuis peu de jours Marie Marguerite Bontemps, Fille aînée de Messire Alexandre Bontemps, Premier Valet de Chambre du Roy, Intendant du Château, Parc &amp; dépendances de Versailles ; &amp; de Dame Claude Marguerite du Bois, Soeur de Mr du Bois, Procureur General en la Cour des Aydes. Cette nouvelle Mariée est fort jeune. Elle chante &amp; jouë tres-bien du Clavessin, &amp; l'on ne peut mieux dancer qu'elle fait. Elle a esté élevée par Madame du Bois sa Grand-Mere, &amp; l'on ne peut douter qu'elle n'ait mille belles qualitez, puis qu'elle est Fille de Mr Bontemps, qui sert le Roy avec un attachement, un zele &amp; une assiduité, qui luy ont justement acquis l'estime &amp; la bienveillance de ce grand Monarque. [...]</p>
+      </div>
+
+<div xml:id="MG-1682-06_305">
+        <head>MG-1682-06_305</head>
+        <bibl>Mercure Galant, juin 1682, p. 305-309</bibl>
+        <p>Séjour de Monsieur à S. Cloud.</p>
+        <p/>
+        <p>Je suis ravy que l'Article de S. Cloud, qui fait un des principaux de ma derniere Lettre, ait plû aux Belles de vostre Province. Quoy que ce superbe &amp; délicieux Palais n'ait rien qui n'enchante, ou cesse d'examiner ses beautés, si-tost qu'on voit le grand Prince à qui elles sont deuës. Si ses manieres sont si honnestes &amp; si engageantes pour tout le monde, il ne faut pas s'étonner, si lors qu'il s'agit de recevoir le Roy, pour lequel, outre la tendresse que le sang inspire, il en a toûjours senty une tres-forte, il n'oublie rien pour luy marquer l'excés de la joye dont son coeur est penetré, en le possedant. Ce Prince a demeuré trois semaines dans cette charmante Maison, &amp; a pris des Eaux de Vichy pendant tout ce temps. Comme il est extrémement aimé, il a esté visité dans ce beau Lieu, par tout ce que la Cour a de Personnes plus considérables ; &amp; quoyque les Eaux qu'il prenoit dûssent toûjours l'y retenir, le plaisir de voir le Roy l'a fait aller de temps en temps à Versailles. Il revenoit coucher à S. Cloud ; mais ayant quité les Eaux depuis quelques jours, il est retourné aupres de Sa Majesté pour n'en plus partir. Les plaisirs y sont fréquents, &amp; il y a tous les jours Comédie Françoise ou Italienne. Le Roy qui se donne entierement aux affaires de l'Etat, ne s'y trouve point ; mais quelque-fois il prend le divertissement de la Chasse, parce que cet exercice, qui est une image de la guerre, est propre à entretenir la vigueur du corps. Toute la Cour se divertit fort souvent à voir les Eaux, &amp; à se promener sur le Canal. Il y a quelquefois Symphonie, &amp; l'endroit de tout Versailles où elle se fait entendre le plus agreablement, est le grand Escalier du Roy. Vous ne serez pas surprise que je vous parle d'un Escalier, quand vous sçaurez que c'est celuy dont je vous ay fait la description, &amp; que la France doit au fameux Mr le Brun. Lors qu'il est plein de lumieres, il peut disputer de magnificence avec les plus riches Appartemens des plus beaux Palais du monde.</p>
+      </div>
+</body>
+  </text>
+</TEI>

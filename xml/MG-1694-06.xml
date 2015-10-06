@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-06_085">
+        <head>MG-1694-06_085</head>
+        <bibl>Mercure galant, juin 1694, p. 85-88</bibl>
+        <p>Benefices donnez par le Roy.</p>
+        <p/>
+        <p>Le mesme jour de la Pentecoste, Sa Majesté, aprés avoir entendu Vespres chantées par la Musique, où officia Mr l'Archevesque de Reims, nomma Mr l'Abbé de Gesvres à l'Archevesché de Bourges. Il est Fils de Mr le Duc de Gesvres, premier Gentilhomme de la Chambre, &amp; Gouverneur de Paris. Cet Abbé estant à Rome y a fait voir dés sa plus grande jeunesse la sagesse &amp; la prudence qui ne se trouvent ordinairement que dans un âge plus avancé, ce qui luy fit acquérir une estime generale. Sa Majesté donna en mesme temps l'Evesché de Treguier à Mr l'Abbé de Kervillio, Avocat General du Parlement de Bretagne, tres-estimé dans son Corps, &amp; dont la réputation d'honneste homme est si établie, qu'il n'a point eu d'autre recommandation auprés du Roy, qui ne le connoissoit que par là. Mr Coupillet, cy-devant Maistre de Musique de la Chapelle de Sa Majesté, fut pourvu ce mesme jour d'un Canonicat de l'Eglise Royale de Saint Quentin, outre une pension de deux mille livres qu'Elle luy avoit donnée il y a quelques mois, pour marquer qu'Elle estoit contente de ses services. Elle nomma aussi à l'Abbaye de Nonenque Madame de Toiras, &amp; Madame de Pibrac à celle de Levignac. Il restoit plusieurs Abbayes à remplir, mais Sa Majesté, pour des raisons que sa prudence &amp; sa charité luy ont inspirées, a differé juques à Noël à y nommer.</p>
+      </div>
+
+<div xml:id="MG-1694-06_151">
+        <head>MG-1694-06_151</head>
+        <bibl>Mercure galant, juin 1694, p. 151-164</bibl>
+        <p>Ceremonie faite à la Cour de Pologne.</p>
+        <p/>
+        <p>Le 13. Avril dernier, le Roy de Pologne fit à Holkieu la ceremonie de donner l'Ordre du S. Esprit à Mr le Marquis d'Arquien. Le jour precedent, ce Prince en sortant de la Messe le fit Chevalier de S. Michel dans la chambre de la Reine. Mr d'Arquien se mit à genoux, &amp; le Roy debout &amp; couvert tira son Sabre, &amp; luy en donnant deux coups sur l'une &amp; sur l'autre épaule, il dit, En vertu du pouvoir que le Roy de France m'a donné, de par Saint Michel &amp; Saint Georges, je vous fais Chevalier. Ensuite Sa Majesté Polonoise l'embrassa deux fois, &amp; l'aida à se relever. Cela se fit en particulier, &amp; en habit ordinaire. Le lendemain on alla à la Paroisse d'Holkieu, &amp; le Roy pour rendre cette action plus éclatante, voulut en faire le chemin à pied. (...) A neuf heures &amp; demie, le Maistre des Ceremonies, suivi du Heraut &amp; de l'Huissier, alla prendre Mr le Marquis d'Arquien, qui estoit en habit de Novice, &amp; le conduisit à l'appartement du Roy, qui l'attendoit revestu du grand manteau &amp; du grand Collier de l'Ordre, &amp; les reverences estant faites, on défila de cette maniere. L'Huissier précedé de quantité de Tambours, de Trompettes, de Hautbois, &amp; de Clairons à l'Allemande, à la Turque, à la Polonoise, &amp; à la Hongroise, marchoit le premier, suivi du Heraut, à quatre pas du Prevost Maistre des Ceremonies, du grand Tresorier, &amp; du Secretaire, tous trois de front, le premier au milieu, le grand Tresorier à sa droite, &amp; le Secretaire à sa gauche ; ensuite le Chancelier seul ; Mr le Marquis d'Arquien seul aussi, &amp; le Roy, dont Mr de Marigny, Frere de la Reine, portoit le Manteau. Les Senateurs &amp; autres Grands du Royaume, suivoient chacun en son rang. On arriva à l'Eglise. Le Service commença par un Sermon Polonois, que fit le Pere Balouski, Jesuite, sur la Ceremonie qui se preparoit. La Prédication estant achevée, le Prestre vint à l'Autel où il entonna le Veni Creator, qui par l'ordre de la Reine ne fut chanté qu'en plain Chant, aprés quoy on commença une Messe basse, pendant laquelle la Musique Françoise chanta des Motets. La Messe finie, les reverences furent faites suivant l'instruction venuë de la Cour de France, que Mr Faitout, Secretaire de Mr d'Arquien, tenoit à la main, &amp; la Ceremonie s'acheva à l'ordinaire. On sortit de l'Eglise dans le mesme ordre qu'on y estoit venu, &amp; on ramena le Roy dans son appartement. Ce Prince ayant quitté ses habits de l'Ordre, on passa dans l'antichambre de la Reine, où l'on trouva une grande table en quarté long, couverte des mets les plus exquis. (...) Le jour suivant, Mr le Marquis d'Arquien regala magnifiquement toute la Cour.</p>
+      </div>
+
+<div xml:id="MG-1694-06_255">
+        <head>MG-1694-06_255</head>
+        <bibl>Mercure galant, juin 1694, p. 255-259</bibl>
+        <p>Détail de tout ce qui s'est passé à la Bataille gagnée par Mr de Noailles, avec diverses Relations touchant cette Bataille.</p>
+        <p/>
+        <p>[Le Roi reçoit une lettre de Mr de Noailles qui l'informe de l'avancée de ses troupes]</p>
+        <p/>
+        <p>Cette Lettre fut apportée au Roy par Mr le Marquis de Noailles. Sa Majesté la reçût avec beaucoup de joye, mais avec la moderation qui luy est naturelle, &amp; ses premiers soins estant toûjours de faire rendre des Actions de graces à Dieu, Elle écrivit la Lettre suivante à Mr l'Archevesque de Paris.</p>
+        <p/>
+        <p>MON Cousin. A peine la Campagne est-elle commencée, que je reçois la nouvelle d'une Bataille gagnée par mes Troupes en Catalogne le vinpt septiéme du mois dernier, sous le commandement de mon Cousin le Mareschal Duc de Noailles. Il forma le dessein le jour precedent d'attaquer l'Armée Espagnole, retranchée de l'autre costé du Ter ; toute mon Armée passa la Riviere à la vüe &amp; sous le feu des Ennemis. Il furent forcez dans leurs retranchemens, mis en deroute, poursuivis pendant quatre lieuës, &amp; mon Armée ne s'arresta que quand des defilez impraticables les luy eurent derobez. Leur perte est au moins de cinq ou six mille hommes tuez, ou faits prisonniers. Ils ont abandonné leurs Equipages, leurs Munitions ont esté enlevées, jamais Victoire n'a esté plus complete. J'ay lieu de croire, qu'un si heureux commencement m'annonce des suites encore plus heureuses, non seulement dans la Catalogne, mais dans les autres lieux où je suis obligé de porter mes Armes ; &amp; que l'Espagne insensible aux coups qu'on luy porte dans des lieux trop éloignez, ne le sera pas à ceux qu'elle reçoit si prés du coeur des ses Estats. Des marques si visibles de la protection singuliere que Dieu donne à la justice de mes Armes, m'obligent de luy en rendre graces, &amp; de luy en demander la continuation. Cest pourquoy je vous écrit cette Lettre pour vous dire que mon intention est, que vous fassiez chanter le Te Deum dans l'Eglise Cathedrale de ma bonne Ville de Paris, au jour &amp; à l'heure que le Grand Maistre, ou le Maistre des Ceremonies vous dira de ma part ; &amp; je donne ordre à mes Cours d'y assister en la maniere accoustumée. Sur ce, je prie Dieu qu'il vous ait, mon Cousin, en sa sainte &amp; digne garde. Ecrit à Versailles le 7. Juin 1694. Signé, LOUIS, &amp; plus bas, Phelypeaux.</p>
+      </div>
+
+<div xml:id="MG-1694-06_315">
+        <head>MG-1694-06_315</head>
+        <bibl>Mercure galant, juin 1694, p. 315-318</bibl>
+        <p>Siege de la Forteresse.</p>
+        <p/>
+        <p>Le Roy voulant faire chanter le Te Deum en action de grace de la prise de la Ville &amp; du Chasteau de Palamos, écrivit la Lettre suivante à Mr l'Archevesque de Paris.</p>
+        <p/>
+        <p>MON Cousin. Ie ne doute pas que mes Ennemis eux-mesmes ne se soient attendus à voir la derniere Victoire que je viens de remporter en Catalogne, suivie de prés par la prise de Palamos &amp; qu'après la prise de Palamos ils ne s'attendent encore à des pertes plus considerables &amp; plus sensibles. Ce sont aussi les esperances que cette Conqueste me donne qui en font le plus grand prix, quoy que d'ailleurs elle soit accompagnée de circonstances a&amp;#946;ez glorieuses. La Ville a esté prise d'a&amp;#946;aut, quoy que défenduë par plus de trois mille hommes. Plus de six cens y ont esté tuez &amp; autant faits prisonniers. Le reste s'étant retiré dans le Chasteau, y a esté pre&amp;#946;é si vivement, qu'aprés avoir inutilement demandé à capituler, le Gouverneur &amp; quatorze cens hommes qui luy restoient se sont rendus Prisonniers de Guerre. Le bonheur de mes Armes ne se dement point, &amp; une si longue prosperité seroit étonnante, si elle n'estoit dûe à la justice de la cause que je soutiens. C'est pour en rendre graces à celuy quy s'y interesse par des marques si visibles de sa continuelle protection, que je vous fais cette Lettre, pour vous dire que mon intention est, que vous fassiez chanter le Te Deum dans l'Eglise Cathedrale de ma bonne Ville de Paris, le vingt-troisième de ce mois, à l'heure que le Grand Maistre ou le Maistre des Ceremonies vous dira de ma part, vous averti&amp;#946;ant que je donne ordre à mes Cours d'y assister en la maniere accoustumée. Sur ce, je prie Dieu qu'il vous ait, mon Cousin, en sa sainte &amp; digne garde. Ecrit à Versailles le vingt-deuxiéme Iuin mil six cens quatre-vingt-quatorze. Signé LOUIS, &amp; plus bas Phelypeaux.</p>
+      </div>
+
+<div xml:id="MG-1694-06_340">
+        <head>MG-1694-06_340</head>
+        <bibl>Mercure galant, juin 1694, p. 340-341</bibl>
+        <p>Iournal de ce qu'a fait Monseigneur en Flandre.</p>
+        <p/>
+        <p>Le 5. Juin un Courier du Cabinet luy ayant apporté la nouvelle du gain de la Bataille de Catalogne, Monseigneur fit aussitost chanter le Te Deum, dans l'Eglise des Chanoinesses Maubeuge, &amp; le soir on en fit la réjoüissance, non seulement dans la Ville de Maubeuge, mais dans tous les lieux où estoient les Troupes. Le jour de la Feste de Dieu, Monseigneur fit ses devotions, communia dans l'Eglise des Jesuites de Maubeuge par les mains de Mr l'Abbé de Tonnerre, &amp; ensuite alla à la Procession du S. Sacrement, qui se fit dans l'Eglise des Chanoinesses, à cause du mauvais temps. Il estoit accompagné des Prince du Sang qui sont auprés de luy, &amp; des Officiers Generaux.</p>
+      </div>
+</body>
+  </text>
+</TEI>

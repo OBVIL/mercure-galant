@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1695</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1695-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1695</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1695-02_236">
+        <head>MG-1695-02_236</head>
+        <bibl>Mercure galant, février 1695, p. 236-276</bibl>
+        <p>Les Vers appellez Irreguliers ne sont pas du goust de tout le monde, comme vous avez pû le remarquer par un Ouvragé dont je vous ay fait part dans quelqu'une de mes Lettres. Mr de la Fevrerie, Auteur de tant d'excellens Traitez que vous avez lûs dans mes Lettres extraordinaires y a répondu, &amp; vous ne serez pas fâchée de sçavoir ce qu'il en dit.</p>
+        <p/>
+        <p>RÉPONSE</p>
+        <p>A la Satire contre les Vers</p>
+        <p>irreguliers, employée dans le</p>
+        <p>Mercure du mois d'Avril</p>
+        <p>1694.</p>
+        <p/>
+        <p>Tout ce qu'on appelle Irregulier, n'est pas toûjours défectueux. Les Vers dont il s'agit sont de ce nombre : mais avant que de faire voir qu'ils n'ont pas les défauts qu'on leur attribuë, je vais montrer qu'ils ne sont point contre les regles, &amp; que c'est à tort qu'on les nomme Irreguliers.</p>
+        <p>Il y a de plusieurs sortes d'Irregularitez dans les Ouvrages de l'Art. Celle qui contre les regles est la plus grande ; celle qui est sans regle est la moindre ; &amp; l'une &amp; l'autre est vicieuse, parce que le mépris &amp; ignorance des regles est toûjours blasmable ; mais il y en a une troisiéme, qui bien loin d'estre défectueuse, a de l'agrément, parce qu'elle a naturellement sa proportion &amp; sa justesse, quoy qu'elle paroisse contre l'usage. Telles sont les nouvelles inventions, &amp; les découvertes dans les Arts &amp; dans les Sciences. Telle est cette versification libre, aisée, &amp; naturelle que quelques Critiques qui ne peuvent souffrir ce qui est nouveau, traitent de licencieuse, &amp; d'irreguliere. Ces Gens-là n'ont garde d'approuver l'Architecture de Mansard, la Musique de Lulli, les Mon[t]res de Hautefeuille, &amp; tant d'autres excellentes choses que les Curieux inventent tous les jours. Tout ce qui n'est point de leur temps, les choque &amp; leur déplaist, parce qu'ils n'en connoissent pas le merite &amp; l'utilité, &amp; qu'ils sont hors d'estat de s'en faire instruire ;</p>
+        <p>Et d'aller à l'Ecole en un âge grison.</p>
+        <p>Ainsi ils jugent fort legerement de toutes les choses nouvelles, &amp; les nomment défectueuses, &amp; irregulieres. Je ne suis donc pas surpris que les Vers libres ayent le malheur de leur déplaire, &amp; que les personnes accoûtumées à n'aller au Parnasse qu'en Chaise, ou en Litiere, soient un peu étourdies de s'y voir traîner par un nombreux, &amp; magnifique Equipage.</p>
+        <p>On veut estre à son aise en Litiere mené,</p>
+        <p>Et non en bondissant en Carosse mené.</p>
+        <p>On n'a pas inventé les Vers libres &amp; irreguliers, &amp; faciliter l'abord du Parnasse à tout le monde. Au contraire, les Maistres de l'Art qui s'en sont servis les premiers pour embellir nostre Poësie, ont pretendu par ce moyen, en interdire l'accez à mille Gens qui y vouloient monter. Il faut en effet, pour réussir, sçavoir tous les tours, &amp; tous les secrets de versification, &amp; avoir une fécondité, &amp; une cadence de Rimes inépuisables ; car enfin, est il plus aisé de faire de quatre ou cinq sortes de vers differens sur une seule rime, ou sur plusieurs, que de n'en faire que d'une mesure égale, de rime plate, &amp; de la mesme couleur ? On n'a jamais avancé sur ce sujet une proposition plus fausse, &amp; plus insoûtenable ; mais, par ce nom de Vers libres ou irreguliers, qu'on leur a donné mal à propos, on l'a adroitement insinuée dans l'esprït de ceux qui n'ont pas la connoissance de la Poësie Françoise, &amp; qui se persuadent que ce n'est que de la Prose rimée. Cependant lors qu'on fait connoistre à une personne qui a quelque talent pour ce bel Art, &amp; qui en veut sçavoir les regles, que ces Vers libres ou irreguliers sont parfaits chacun en son genre, qu'ils ont leurs pieds &amp; leurs mesures qu'ils ne changent jamais, &amp; qu'ils rencontrent toûjours leurs semblables dans la mesme égalité ; enfin, qu'il n'est point permis de faire d'autre sorte de Vers que ceux que les anciennes regles de l'Art ont prescrites, &amp; que tout ce qu'on entend par là n'est qu'une agréable liberté de mesler dans le Poëme, les Vers Heroïques, les Alexandrins, les Vers Odiques, les Saphiques, &amp; les Hemistiches, ou pour parler en termes moins scientifiques &amp; plus intelligibles, les Vers de dix, de douze, de huit, de sept, &amp; de six syllabes ; alors un Jeune Eleve ouvre les yeux &amp; les oreilles, la teste luy tourne, &amp; bien loin de vouloir continuer sa route sur le Parnasse, il veut en descendre au plus viste, ou qu'on luy montre un chemin plus aisé pour y arriver.</p>
+        <p>Il faut donc en revenir aux petits vers de huit sillabes qu'il est d'abord capable d'executer ; encore est-il long temps avant que d'observer exactement les Rimes masculines &amp; feminines. De là, il passe aux autres Vers dont il n'acquiert l'usage qu'après plusieurs leçons &amp; une longue experience dans la Poësie.</p>
+        <p>Voilà comme on devient Poëte, &amp; il est constant qu'on ne s'avise jamais d'abord de faire des Vers libres, mais seulement dans la suite, lors qu'on est initié dans le mistere, &amp; que l'on connoist toutes les finesse de l'Art ; car à moins que d'estre rompu dans le métier, comment passer insensiblement du grand Vers au petit, &amp; du petit au grand, avec cette varieté de mesures &amp; de rimes qui se trouve dans cette versification qu'on n'a pas introduite pour rimer à l'avanture, &amp; pour entasser Vers sur Vers, comme on le veut faire croire, ce qui est encore une autre erreur aussi grande que la premiere ; car ce n'est point un déreglement d'esprit, &amp; de stile, ny une licence fatale comme l'explique l'Auteur de la Satire ; c'est un arrangement concerté qui par differens Vers comme par differens Tons, forme une excellente harmonie, où sans se laisser tomber on finit le sens &amp; la pensée, &amp; où le Poëte &amp; le Lecteur trouvent un delicieux repos. C'est pour cela que cette Poësie est si propre à la Musique, mais il est fort peu de Poëtes qui en soient capables ; car si on n'a du goust &amp; de l'oreille pour l'harmonie, on ne peut réussie dans les Vers libres. Quinault seul se trouve entre mille. Les autres Poëtes accoûtumez à leurs mesures égales, &amp; à leurs cadences unisones, sont comme ceux qui preferent le Violon &amp; la Flûte, au Lut &amp; au Clavessin, ennemis de tout Concert, &amp; de toute Symphonie, &amp; comme dit Boileau,</p>
+        <p>Qui toûjours sur un ton semblent psalmodier.</p>
+        <p>[...] Cependant les petits Poëmes, comme les Madrigaux &amp; les Chansons, reçoivent toutes sortes de Vers ; &amp; cela ne sera pas permis dans un Poëme de plus longue haleine, où la varieté est si necessaire, &amp; l'affectation si ennuyeuse ? L'Auteur de la Satyre dit là-dessus que,</p>
+        <p>Le Parnasse a toujours gardé le moindre Stile</p>
+        <p>Pour ce qu'en general on nomme Vaudeville.</p>
+        <p>Mais cette raison est frivole, &amp; ne me contente pas ; car la difference du stile ne consiste pas dans le mélange des Vers. Le sublime, le bas, &amp; le mediocre se trouvent dans les Vers libres, comme dans les Vers d'égale mesure ; &amp; pour les Chansons, la veritable raison de cette irregularité, c'est la note &amp; le chant qui y obligent toujours, soit que l'on compose les paroles devant ou aprés la Musique, parce qu'il est certain qu'il n'est presque point d'Air en Vers d'une mesme mesure qui ait un peu d'agrément. Mais enfin, d'où vient que dans les Poëmes il y a des repos ou des Stances, il faut absolument que ces Stances soient d'une même égalité de vers, d'un même nombre, &amp; d'une même étenduë ? Au contraire, il semble qu'un Poëme ainsi coupé, ne doit pas estre si égal &amp; si continu. Il y a plus d'affectation en cela que de regularité, sur tout quand le naturel y doit paroistre tout entier, comme dans les Stances qui servent à exprimer l'amour, qui est une passion si naturelle &amp; si ennemie de toute contrainte ; dont les mouvemens sont si vifs, si promps, si changeans, où tout est si en desordre &amp; si dérangé. Cela choque la vray-semblance ; &amp; si cette maniere n'est pas ridicule, du moins elle ne persuade guere. C'est l'usage, &amp; si cet usage est arbitraire &amp; défectueux, ne sera t-il pas permis de le changer ? C'est ce qu'on a voulu faire dans ce genre de Poësie, qui est libre dans estre irreguliere &amp; licentieuse. [...]</p>
+        <p>Les Maistres du Theatre sont donc revenus avec raison à l'ancienne versification, &amp; ont conservé les grands Vers pour les Pieces regulieres, reservant les Vers libres pour les Balets &amp; les Opera ; où à cause de la Musique &amp; du Chant, il quadrent mieux que les autres par la diversité de leurs cadences &amp; de leurs mesures. On s'en sert encore fort à propos dans les Traductions des Comedies Italiennes, ainsi qu'on a fait pour l'Aminte, &amp; le Pastor Fido, qui ont beaucoup plus de grace en Vers libres qu'en grands Vers, parce que les Italiens composent leurs Pieces de Theatre en Vers irreguliers ; &amp; qu'estant remplies de quantité de pensées brillantes &amp; de descriptions fleuries, cette Poesie est plus propre à les exprimer ; mais de tous ceux qui les ont employez pour le Theatre, Mr Quinault en merite le prix, &amp; la gloire. Jamais Poëte n'a mieux manié cette sorte de versification que luy, &amp; Baptiste avoir raison de dire, qu'il estoit le seul qui pût l'accommoder, &amp; qui sçeut aussi bien varier les mesures &amp; les rimes dans la Poësie, qu'il sçavoit varier les tons, &amp; les cadences dans la Musique. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

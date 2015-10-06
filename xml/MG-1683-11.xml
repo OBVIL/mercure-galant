@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1683</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1683</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1683-11_027">
+        <head>MG-1683-11_027</head>
+        <bibl>Mercure Galant, novembre 1683, p. 27-29, 33-35</bibl>
+        <p>Festes galantes données à Genéve</p>
+        <p/>
+        <p>La quantité d'Etrangers considérable, &amp; sur tout les Princes d'Allemagne, qui se trouvent presque toûjours à Geneve, rendent cette Ville un sejour fort agreable. C'est ce qui donne lieu de vous parler d'une partie de plaisir qu'il s'y est faite depuis peu de temps par les soins de Mr le Prince d'Anhald. [...] Ce jeune prince, dont la Maison est aussi illustre que les Aliances, estant chez Mr le Comte de Dona, où se rendent ordinairement les Personnes les plus qualifiées, &amp; qui avec sa belle Famille, est comme l'ame de tous les plaisirs qu'on gouste à Geneve proposa une Partie de promenade, à laquelle la beauté du jour convioit les Dames &amp; les Cavaliers, que le hazard avoit assemblez en assez grand nombre. On accepta le party, &amp; l'on se rendit dans plusieurs Carrosses au Jardin de Madame Baudichon, à deux cens pas de la Ville, du costé de la Porte de Rive, qui est la plus belle situation de Geneve. [...]</p>
+        <p/>
+        <p>Apres [un] magnifique Régale [...], on prit le plaisir de la Promenade, &amp; ce plaisir fut suivy du Bal, où Mr le Prince d'Anhald fit admirer son adresse. Mademoiselle de Dona, dont l'air grand &amp; noble se fait distinguer par tout, y parut d'une beauté achevée, en dançant le Menüet de l'Opéra de Phaëton. Le Bal finy, toute cette aimable Troupe monta en Carrosse, &amp; on vint au Manége de la Ville, où les Cavaliers donnerent aux Dames le divertissement d'une Course de Bague. [...] Apres [...], on accompagna la Comtesse de Dona, qui leur fit servir une tres-belle Collation. On dança encore une partie de la nuit, &amp; la Compagnie se sépara.</p>
+      </div>
+</body>
+  </text>
+</TEI>

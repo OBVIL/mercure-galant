@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1695</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1695-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1695</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1695-07_193">
+        <head>MG-1695-07_193</head>
+        <bibl>Mercure galant, juillet 1695, p. 193-195</bibl>
+        <p>Voicy des paroles qui ont esté faites sur une Gavote de Mr Charpentier, si connu de ses Ouvrages. Comme elle a grand cours, vous serez bien-aise d'en avoir tous les couplets.</p>
+        <p/>
+        <p>GAVOTE.</p>
+        <p>I.</p>
+        <p>Celle qui fait tout mon tourment,</p>
+        <p>Ie l'aime à la folie :</p>
+        <p>Depuis longtemps je suis Amant</p>
+        <p>De l'aimable Sïlvie.</p>
+        <p>La voir &amp; l'aimer seulement</p>
+        <p>Est toute mon envie.</p>
+        <p>Celle qui fait tout mon tourment</p>
+        <p>Ie l'aime à la folie.</p>
+        <p/>
+        <p>II.</p>
+        <p>La voir &amp; l'aimer seulement</p>
+        <p>Est toute mon envie,</p>
+        <p>Ie n'ay pû pa&amp;#946;er un moment</p>
+        <p>Sans l'avoir bien servie.</p>
+        <p>Celle qui fait tout mon tourment</p>
+        <p>&amp;c.</p>
+        <p/>
+        <p>III.</p>
+        <p>Ie n'ay point passé de moment</p>
+        <p>Sans l'avoir bien servie.</p>
+        <p>Les maux que je souffre en l'aimant</p>
+        <p>Me couteront la vie.</p>
+        <p>Celle qui fait tout mon tourment,</p>
+        <p>&amp;c.</p>
+        <p/>
+        <p>IV.</p>
+        <p>Les maux que je souffre en l'aimant</p>
+        <p>Me couteront la vie.</p>
+        <p>Dès que je la voy cependant,</p>
+        <p>Mon ame en est ravie.</p>
+        <p>Celle qui fait tout mon tourment,</p>
+        <p>Ie l'aime à la folie.</p>
+      </div>
+</body>
+  </text>
+</TEI>

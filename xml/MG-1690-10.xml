@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, octobre 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-10/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-10_061">
+        <head>MG-1690-10_061</head>
+        <bibl>Mercure galant, octobre 1690, p. 61-71</bibl>
+        <p>Réjouissances faites à Châtillon-sur-Seine.</p>
+        <p/>
+        <p>Toute la Ville &amp; toutes les Maisons Religieuses contribuerent à la parure de la principale Eglise, où le Te Deum fut chanté, ainsi que tous les Corps des Métiers, qui prirent soin d'y faire arborer leurs étendards. On plaça le Portrait du Roy à l'entrée du Choeur, &amp; la Tribune fut couverte de verdure, garnie d'un fort grand nombre d'Oiseaux, qui mêlerent leur ramage aux chants d'allegresse, &amp; eurent ensuite la liberté. Les Corps du Bailliage &amp; de la Magistrature, se rendirent de l'Hostel de Ville dans l'Eglise, au bruit des Tambours, Fifres &amp; Violons, précedez de deux Compagnies de jeunes gens sous les armes. Aprés la ceremonie, les Corps des Officiers retournerent à l'Hostel de Ville dans le mesme ordre qu'ils estoient venus, &amp; ensuite les Magistrats marcherent par toute la Ville, au bruit de toutes sortes d'Instrumens, &amp; par leur exemple animerent les Bourgeois, qui dresserent des tables, &amp; mangerent ainsi qu'eux au milieu des rues. [...] Mr le Chape, Maire de la Ville, commença un Bal public avec les Magistrats, dans la plus belle Place de la Ville, que l'on éclaira de quantité de flambeaux. Il regala tous ceux qui abordoient devant sa maison, &amp; n'épargna rien pour marquer de son zele. La Feste qui commença le Dimanche, fut continuée le reste de la semaine. Le Lundy ayant fait cueillir toutes les fleurs qui estoient dans ses parterres, pour faire des festons autour du Portrait du Roy, il les fit mettre dans un grand bassin, &amp; marcha avec les Magistrats dans leur appareil ordinaire. Un jeune homme fort leste, placé au milieu des Fifres, des Tambours &amp; Violons, portoit ce bassin, qui pendant la marche fut remply d'une infinité de Bouquets, que les hommes, femmes, &amp; filles y jettoient incessamment. [...] Le Jeudy Mrs du Corps de la Magistrature le firent porter en triomphe [le portrait du roi] au bruit des Fifres &amp; des Tambours. [...] Le Frere Zenon, Religieux Feüillant, se signala particulierement par le grand nombre de belles Fusées qu'il fit, &amp; que l'on tira pendant les trois jours que les TE DEUM furent chantez pour le gain des trois Batailles. Il estoit fort connu de la Reine-mere, qui luy a inspiré un tel amour pour le Roy, qu'il fait dire tous les ans deux cens Messes, pour la conservation de sa santé, &amp; pour la prosperité de ses Armes.</p>
+        <p>La Ville de Chastillon sur Seine a fait une chose qui n'a esté faite par aucune Ville, puis qu'outre les manieres nouvelles, &amp; ingenieuses dont elle s'est servie pour faire éclater sa joye, &amp; dont vous venez de lire la Relation, elle employa Mr Pyon, Bachelier en Theologie, &amp; Principal du College de la Ville, pour faire trois pieces d'Eloquence, dont chacune avoit pour sujet une des Batailles qui donnoient occasion à la réjoüissance publique. Elles furent exposées aux yeux du Peuple à la porte de l'Eglise dans les jours des Te Deum, afin que la lecture de ces Pieces l'excitast encore davantage à l'admiration de ce que le Roy a fait cette derniere Campagne, contre un si grand nombre d'Ennemis liguez.</p>
+      </div>
+
+<div xml:id="MG-1690-10_098">
+        <head>MG-1690-10_098</head>
+        <bibl>Mercure galant, octobre 1690, p. 98-110</bibl>
+        <p>Le Pere Louis Verdun, Religieux du grand Convent de l'Observance de Saint François de Toulouse, qui exerce depuis plus de huit ans la fonction de Commissaire &amp; Procureur General de la Terre Sainte dans toute la France, receut la nouvelle de ce grand triomphe par Madame Girardin, le jour qu'on porta à Nostre-Dame les Etendarts &amp; les  Drapeaux pris à la bataille de Fleurus, &amp; qu'on y chanta le TE DEUM pour rendre graces à Dieu d'une Victoire si signalée contre les Ennemis de l'Eglise catholique &amp; de l'Estat, &amp; le lendemain on luy rendit un Paquet de Constantinople, où le Procureur General de la Terre Sainte luy faisoit le détail de cette Negociation. [...] Ce Religieux ayant appris cet heureux succés, se vit dans le comble de sa joye, &amp; ne songea qu'à satisfaire l'impatience qu'il eut d'en remercier le Roy. Cet honneur luy fut accordé le jour de la feste de S. Loüis, &amp; il avoit demandé à faire son compliment ce jour-là, à cause du zele que ce saint Roy a marqué pour la Terre Sainte. [...] Il supplia ensuite le Roy de luy permettre de faire éclater publiquement les témoignages de son respect &amp; de sa reconnoissance, &amp; d'ordonner un Te Deum dans l'Eglise du grand Convent des Cordeliers, &amp; un Feu devant la porte, afin qu'ils pussent devenir plus solemnels. La fin de son compliment fut, Que les Religieux Cordeliers n'oublieroient rien pour attirer sur Sa Majesté les benedictions du Ciel dans ces mesme Lieux, où le Sauveur les a répanduës si abondamment sur tous les hommes.</p>
+        <p>Le Roy fut fort satisfait de ce compliment, &amp; accorda la permission qu'on luy demandoit. Ainsi le 20. du mois passé, on chanta un Te Deum solemnel dans l'Eglise du Grand Convent des Cordeliers de Paris. Elle estoit tendüe de riches tapisseries, &amp; il y avoit cent Chandeliers d'argent sur l'Autel, qui estoit illuminé depuis le bas jusques à la voûte. Vous jugez bien qu'on n'oublia pas d'avoir une excellente Musique. Elle estoit de la composition de Mr Noël, qui a si bien réussy en plusieurs occasions. Tout ce qu'il y a de plus habile parmy les Musiciens du Roy, &amp; ceux de la Ville, soit pour les Voix, soit pour les Instrumens &amp; la Simphonie, fut employé pour ce Te Deum, aprés lequel les Religieux chanterent l'Exaudiat, &amp; la Musique finit par la Simphonie, &amp; par le, Domine, salvum fac Regem, ce qui fut suivy d'un grand bruit de Boëtes. Sur les sept heures du soir, on vit paroistre une Illumination devant la porte de l'Eglise en dehors, où une infinité de lampons [sic] formoient une double guirlande tout autour du grand portail, ainsi que des Obelisques des deux costez, avec des Fleurs de lis au bout, &amp; au dessus du grand portail, à la face de l'Eglise, on voyoit les cinq Croix de Jerusalem. Cette illumination dura jusques à minuit, &amp; on entendit presque toujours le son des Timbales &amp; des Trompetes.</p>
+      </div>
+
+<div xml:id="MG-1690-10_212">
+        <head>MG-1690-10_212</head>
+        <bibl>Mercure galant, octobre 1690, p. 212-213</bibl>
+        <p>Nouvelles de Savoye.</p>
+        <p/>
+        <p>On trouva dans leur Camp du Pain &amp; du Vin que Mr de Saint Ruth fit donner aux Irlandois, ausquels il permit d'aller dans les Montagnes prendre des Troupeaux qu'on sçavoit y estre en paturage. Le soir, il receut les deputez de Montiers. En y arrivant le 13. au matin, il trouva l'Archevesque à quarante pas de la Ville, accompagné des principaux Habitans qui lui offrirent les Clefs dans un grand &amp; magnifique Bassin, entouré de roses. Mr de Saint Ruth mit pied à terre, &amp; receut ces Clefs en ceremonie. On alla ensuite dans la Ville, &amp; l'on y chanta le Te Deum pour la Victoire qu'on venoit de remporter, &amp; aprés laquelle le Peuple voulut persuader aux François qu'il soupiroit depuis fort long-temps.</p>
+      </div>
+
+<div xml:id="MG-1690-10_254">
+        <head>MG-1690-10_254</head>
+        <bibl>Mercure galant, octobre 1690, p. 254-255</bibl>
+        <p>L'Armée se rendit [...] devant la Valone, où l'on ne fut pas plutost arrivé, que l'on fit sommer la Ville &amp; le Chasteau de se rendre. Le Bacha se dispensa de répondre jusqu'au lendemain matin, &amp; pendant la nuit il emporta ses meilleurs effets, &amp; les portes qu'on trouva ouvertes firent connoistre que la Garnison estoit sortie de la Place. Les Venitiens y estant entrez en mesme temps, y firent chanter le Te Deum.</p>
+      </div>
+
+<div xml:id="MG-1690-10_263">
+        <head>MG-1690-10_263</head>
+        <bibl>Mercure galant, octobre 1690, p. 263-268</bibl>
+        <p>On a chanté la défaite des Savoyards sur un air de leur Pays. Mr Dicroville [Diéreville], Auteur des couplets que je vous ay envoyez sur cette défaite, a changé de ton et pour faire souvenir les Espagnols &amp; les Hollandois qu'ils n'ont point pris leur revanche en Flandre, il a fait sur l'air des Folies d'Espagne les nouveaux couplets que je vous envoye. Il n'y en a point qui soit plus connu.</p>
+        <p/>
+        <p>AUX ESPAGNOLS</p>
+        <p>Et aux Hollandois.</p>
+        <p/>
+        <p>Avant le temps finissez la Campagne,</p>
+        <p>Retirez-vous, &amp; ne combattez plus ;</p>
+        <p>Tous les efforts de Hollande &amp; d'Espagne</p>
+        <p>Contre Loüis sont toujours superflus.</p>
+        <p/>
+        <p>Allez chez vous manger en paix l'esclanche,</p>
+        <p>Castanega, Vvaldeck et Brandebourg ;</p>
+        <p>Vous prétendiez avoir vôtre revanche,</p>
+        <p>Et vous fuyez les coups de Luxembourg.</p>
+        <p/>
+        <p>Quoy ! Contre un seul trois ne peuvent suffire !</p>
+        <p>Que faut-il donc pour en venir à bout ?</p>
+        <p>C'est de Loüis dont il défend l'Empire,</p>
+        <p>C'en est assez pour resister à tout.</p>
+        <p/>
+        <p>Ce puissant Roy vous force de le croire.</p>
+        <p>Quel desespoir, quelle rage pour vous !</p>
+        <p>Tout ce qu'on fait pour abattre sa gloire,</p>
+        <p>Vous en rendra mille fois plus jaloux.</p>
+        <p/>
+        <p>Vous ne sçauriez humilier la France,</p>
+        <p>Laissez Loüis joüir de son bonheur ;</p>
+        <p>De cent Liguez il brave l'alliance,</p>
+        <p>Et tout n'est rien contre un si grand Vainqueur.</p>
+        <p/>
+        <p>C'est le party le meilleur qui vous reste</p>
+        <p>Dans le malheur qui vous poursuit toujours ;</p>
+        <p>Il deviendra chaque jour plus funeste,</p>
+        <p>C'est trop long-temps en éprouver le cours.</p>
+        <p/>
+        <p>Tout doit trembler quand son bras se déploye,</p>
+        <p>Pour satisfaire à son juste couroux :</p>
+        <p>Il vient encor de prendre la Savoye,</p>
+        <p>Les Ramonneurs sont traitez comme vous.</p>
+        <p/>
+        <p>Plus d'Ennemis, pour luy plus de victoires,</p>
+        <p>Suscitez-en, vous les verrez soumis.</p>
+        <p>En pourroit-on croire un jour les Histoires,</p>
+        <p>Si tout n'estoit prodige sous Loüis ?</p>
+        <p/>
+        <p>Vous, Hollandois, faites vostre commerce,</p>
+        <p>Au champ de Mars vos malheurs sont trop grands,</p>
+        <p>Et vous n'aurez ny chagrin, ny traverse,</p>
+        <p>Quand vous sçaurez vous conduire en Marchands.</p>
+        <p/>
+        <p>Vous, Espagnols, rengainez la rapiere,</p>
+        <p>Et dans Madrid allez vous en parer,</p>
+        <p>Vous perdez tous vostre prestance fiere</p>
+        <p>Dans le moment qu'il faudroit la tiree [sic].</p>
+      </div>
+
+<div xml:id="MG-1690-10_290">
+        <head>MG-1690-10_290</head>
+        <bibl>Mercure galant, octobre 1690, p. 290-303</bibl>
+        <p>Divertissemens donnez à leurs Majestez Britanniques dans le mesme lieu.</p>
+        <p/>
+        <p>Le 5. de ce mois, le Roy partit de Versailles, &amp; se rendit à Fontainebleau [...].</p>
+        <p>Le 11. leurs Majestez Britanniques partirent de S. Germain en Laye, &amp; aprés avoir disné à Fremond, Maison de plaisance de Mr le Chevalier de Lorraine, où les Officiers du Roy avoient préparé un magnifique repas, Elles arriverent sur les quatre heures à la Forest de Fontainebleau, où Sa Majesté qui s'estoit avancée jusque-là pour les recevoir, leur proposa le plaisir de voir courre un Loup. [...] On arriva à Fontainebleau sur les six heures, entre deux hayes de peuple pendant plus d'une lieuë de chemin. [...] Le Roy qui voulut les conduire [à l'appartement de la Reine-mère], les laissa se reposer jusqu'à sept heures &amp; demie, qu'il vint les reprendre pour les mener aux Appartemens, où de deux jours en deux jours il y eut Musique. [...]</p>
+        <p>Le 17. il y eut deux Chasses. On alla courre le matin un Cerf, qui foula plusieurs fois sur les chiens, en blessa un &amp; en prit un autre par la teste, entre deux de ses andouïllées, &amp; le porta vingt à vingt cinq pas en courant à toutes jambes. Sur les cinq heures on alla aux Toiles, où sept Sangliers &amp; deux Cerfs se trouverent enfermez. Les Levriers qui estoient postez en divers endroits pour les joindre, prirent deux Sangliers [...]. Ils furent recompensez de l'ardeur qu'ils avoient montrée pendant la Chasse. On avoit fait apporter leur moüée dans huit baquets quatre de chaque costé de l'allée qui regardoit la Terrasse de l'Appartement de la Reine. [...] Lors que leur grosse faim fut passée, leurs Officiers les menerent au lieu où estoient les quartiers du Cerf, &amp; leur permirent de s'en regaler au bruit des fanfares.</p>
+      </div>
+</body>
+  </text>
+</TEI>

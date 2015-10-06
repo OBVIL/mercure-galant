@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1693</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1693-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1693</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1693-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1693-07_197">
+        <head>MG-1693-07_197</head>
+        <bibl>Mercure galant, juillet 1693, p. 197-203</bibl>
+        <p>Rejoüissances faites à Grenoble.</p>
+        <p/>
+        <p>J'ay oublié de vous dire que lors qu'on eut appris à Madrid la prise de Roses, on proposa au Roy d'Espagne d'aller à Valladolid, &amp; mesme plus loin, &amp; que la confusion fut si grande dans le Conseil, qu'il y eut presque autant d'avis que de testes. Tandis que la consternation regnoit dans ce Conseil, tout s'estoit en joye en France, &amp; on faisoit encore de grandes réjoüissances pour la prise de Heidelberg. Mr Roman Couppier, Consul de Grenoble, qui estoit chargé du soin de celles qui s'y devoient faire, les avoit préparées pour le 21. du mois passé. Le Parlement, la Chambre des Comptes, &amp; le Corps de Ville s'estant rendus dans la Cathedrale ,Mr le Cardinal le Camus, Evesque &amp; Prince de Grenoble, entonna le Te Deum, qui fut chanté en Musique ; aprés quoy on alla dans la Place de Saint André, où estoit dressé le feu. Le Penonnage estoit sous les armes autour de la Place, &amp; bordoit la ruë qui conduit jusqu'à l'Hostel de Mr Pucelle, Premier President de Parlement de Dauphiné, qui alluma ce feu avec les ceremonies ordinaires, accompagné des Maire &amp; Consuls, qui estoient venus, précedez par les Drapeaux, &amp; par un Concert de Violons, de Hautbois, &amp; de Musettes. Le Bucher estoit orné de Peintures &amp; de Devises qui convenoient au sujet. [...] Toutes [l]es Devises estoient de Mr Didier, Avocat au Parlement de Grenoble. La Feste ne se termina par avec le jour, &amp; toute la nuit se passa en réjoüissances.</p>
+      </div>
+
+<div xml:id="MG-1693-07_203">
+        <head>MG-1693-07_203</head>
+        <bibl>Mercure galant, juillet 1693, p. 203-209</bibl>
+        <p>Service fait à la Ville d'Eu, pour feuë Mademoiselle d'Orleans, par l'ordre de Mr. du Maine [...]</p>
+        <p/>
+        <p>Le 26. du mois passé, on fit à la Ville d'Eu un Service solemnel pour feuë Mademoiselle d'Orleans ; &amp; pour vous faire comprendre d'abord jusques où l'on a porté la pompe de cette Ceremonie, il me suffira de dire qu'elle a esté faite par ordre de Monsieur le Duc du Maine, qui en avoit confié le soin à Mr de Malezieux son Intendant, Secretaire General des Galeres &amp; de ses Commandemens. [...]  [Mr de Malezieux] avoit choisy pour rendre les honneurs Funebres à cette Princesse, l'Eglise de Saint Laurens qui sert de Chapelle au superbe Chasteau de la Ville d'Eu. Cette Chapelle qui est desservie par les Chanoines Reguliers de Saint Augustin, êgale en grandeur, &amp; surpasse en beauté la plus-part des Eglises Cathedrales de France. [...] Plus de cent cinquante Ecclesiastiques du Comté d'Eu, tous en surplis, se rendirent dans l'Eglise de Saint Laurens à l'heure marquée pour le Service ; les Peres Jesuites &amp; Capucins y assisterent ; la meilleure partie de la Noblesse du Pays s'y trouva, Messieurs de la Justice du Comté d'Eu y vinrent en robes, &amp; il y eut une multitude presque infinie de peuple. La Messe fut chantée par les Chanoines Reguliers, &amp; l'Oraison Funebre fut prononçée par le Pere Fejacq, Prieur des Peres Jacobins d'Amiens. [...] La Ceremonie fut terminée par de grandes aumônes que Mr de Malezieux fit distribuer à plus de douze cens Pauvres. Il traita ensuite la plus grande partie du Clergé, de la Noblesse, &amp; de la Justice qui y avoit assisté, &amp; il le fit avec beaucoup de magnificence &amp; de politesse.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre, première partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-12a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, décembre, première partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-12a_010">
+        <head>MG-1686-12a_010</head>
+        <bibl>Mercure Galant, décembre 1686, p. 10-11, 29-30</bibl>
+        <p>Discours prononcé par le Père Loüis de Nazareth</p>
+        <p/>
+        <p>[...] Il s'est fait une Neuvaine fort solemnelle au Séminaire de l'union Chrestienne, étably à l'Hostel de S. Chaumont. La closture s'en fit le 28 du mois passé. Mr l'Evesque d'Authun y officia en Habits Pontificaux, &amp; le Père Loüis Religieux Pénitent du Couvent de Nazareth, fit Discours qui fut fort admiré par tous ceux qui l'entendirent. Il prit pour son Texte ce Passage de la seconde Epistre de S Paul aux Corinthiens ; Gratias Deo super inenarrabilia dona eius. [...]</p>
+        <p/>
+        <p>Avant ce Discours on avoit chanté le Pange Lingua, &amp; aussi tost qu'il fut finy, on commença le Salut.</p>
+      </div>
+
+<div xml:id="MG-1686-12a_038">
+        <head>MG-1686-12a_038</head>
+        <bibl>Mercure Galant, décembre 1686, p. 38-39, 41-44</bibl>
+        <p>Prières pour le Roy</p>
+        <p/>
+        <p>[Pour rendre grâce à Dieu de l'entière guérison du Roi, plusieurs personnalités religieuses firent dire des Messes solennelles.]</p>
+        <p/>
+        <p>Le Père Alexis du Buc, Supérieur des Théatins, a fait voir dans [cette] occasion, le zèle ardent dont il a donné des marques en beaucoup d'autres rencontres. Il fit chanter une Messe Solemnelle, à laquelle toute sa Communauté communia. L'Exaudiat fut aussi chanté à l'issuë de Vespres, &amp; les Litanies à la fin de la Prière du Soir. Ces Prières furent continuées pendant neuf jours, &amp; la Neuvaine se termina par une Messe en Musique de la composition de Mr Lorenzani, à laquelle plusieurs Personnes de qualité assistèrent. Ce fut encore le Père du Buc qui la célébra.</p>
+        <p/>
+        <p>[Le Père Seguin, Prieur du Couvent des Jacobins de la rue Saint-Honoré, fit exposer la relique de saint Hyacinte que le roi avait déjà invoqué lors de sa maladie survenue à Calais, dans la chapelle de la communauté.] [...] On y a chanté pendant neuf jours une grand'Messe, &amp; plusieurs autres Prières. [...] Le Père Seguin les fait encore continuer par une Procession qui se termine à la Chapelle du mesme Saint, où l'on chante les Litanies de la Vierge, &amp; diverses Oraisons, avec une confiance &amp; une ardeur singulière. [Le Chapitre] de la Ville de Saint Quentin en Vermandois, n'a pas montré moins d'ardeur pour la guérison du Roy. Il ordonna des Prières le 25 du mois passé, en action de grâce dans toute l'étenduë de sa Juridiction, &amp; l'ouverture s'en fit le 27 par une Messe du S. Esprit, que chanta une excellente Musique dans l'Eglise principale. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12a_085">
+        <head>MG-1686-12a_085</head>
+        <bibl>Mercure Galant, décembre 1686, p. 85-86, 88-92, 99-100</bibl>
+        <p>Discours contenant l'origine des Cardinaux, la grandeur de leur dignité, combien il y en doit y avoir dans le sacré Collège, ce que c'est que leur Titre, &amp; la manière dont se fait leur élection.</p>
+        <p/>
+        <p>[Après un long exposé historique sur l'histoire des cardinaux au sein de l'Eglise de Rome, l'auteur de l'article expose] [p. 79] ce qui s'est fait au Sujet de la dernière Promotion du deuxième de Septembre.</p>
+        <p/>
+        <p>[...] Le Jeudy 5 du mesme mois le Pape leur donna le Chapeau le matin dans un Consistoire public avec beaucoup de solemnité. Les nouveaux Cardinaux avoient eu ordre de se rendre de bonne heure dans la Chapelle du Palais de Montecavallo. Ils y vinrent dans leurs Carosses de cérémonie, accompagnez d'un cortège de Prélats &amp; de Noblesse. [...]</p>
+        <p/>
+        <p>Deux Maistres de Cérémonies demeurèrent à l'entrée pour recevoir les nouveaux Cardinaux qu'ils firent placer sur le banc à main droite du Trône [sur lequel était le Pape] ; &amp; la Musique de la Chapelle leur servit d'entretien pendant tout le temps qu'ils y furent.</p>
+        <p>Une heure après les anciens Cardinaux se rendirent aussi au palais de Montecavallo dans la Salle du Consistoire. [...] Deux Massiers de Sa Sainteté gardoient la Porte du Consistoire, &amp; les Suisses estoient sur les montées, dans les Anti Salles, &amp; autour des Bancs de la Salle, &amp; prenoient soin de faire ranger le menu Peuple, &amp; de ne laisser entrer que les Personnes d'aparence &amp; de mise.</p>
+        <p>Quand la plus grande partie des Anciens Cardinaux fut venue un Maistre de Cérémonie leur vint donner avis que tous les nouveaux Cardinaux estoient arrivez. Aussi tost trois Cardinaux Chefs d'Ordre, je veux dire, le plus ancien des Evesques, le plus ancien des Prestres, &amp; le plus ancien des diacres, se transportèrent dans la Chapelle avec le Cardinal Altieri, Carmerlingue de la Sainte Eglise, &amp; le Cardinal Crescentio, Carmerlingue du Consistoire, précédez de deux Maistres de Cérémonies, &amp; d'une partie de la Garde Suisse, &amp; il y firent prester serment aux nouveaux Cardinaux sur l'Autel. Cela estant fait, ils se retournèrent au Consistoire, laissant les nouveaux Cardinaux dans la Chapelle, où les musiciens s'appliquèrent de nouveau à faire paroistre la justesse de leurs voix &amp; la délicatesse de leurs compositions. [...]</p>
+        <p>Sur les quinze heures d'Italie qui pourroient estre environ dix heures du matin suivant l'Horloge de France, le Pape se rendit au Consistoire vestu pontificalement en Chape &amp; en Mitre d'étoffe d'or. [...] [Il reçut les nouveaux Cardinaux en leur mettant le chapeau rouge sur la tête.]</p>
+        <p/>
+        <p>Le Pape s'en retourna dans le mesme ordre qu'il éstoit venu en donnant sa Bénédiction, &amp; les Cardinaux estant demeurez dans le Consistoire, la Musique de la Chapelle entonna le Te Deum à la porte, &amp; marcha en Procession, les Cardinaux suivant deux à deux, &amp; les Anciens donnant toûjours la droite aux Nouveaux. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12a_156">
+        <head>MG-1686-12a_156</head>
+        <bibl>Mercure Galant, décembre 1686, p. 156-157, 162</bibl>
+        <p>Madame Simiane de Moncha est élevée Abbesse de Bouxfier</p>
+        <p/>
+        <p>Je ne sçay, Madame, si je vous ay mandé, que les Dames Chanoinesses de Bouxfier en Lorraine ayant tenu Chapitre, y avoient élu pour leur Abbesse Madame Anne de Simiane de Moncha, Chanoinesse de Remiremont, que son mérite rend aussi considérable que sa naissance. [...] [On reprend ici les circonstances de son élection et la description des cérémonies organisées à cette occasion à l'issue desquelles :] [...]</p>
+        <p/>
+        <p>On chanta le Te Deum, où une belle Simphonie se fit entendre aussi bien à la Messe qui fut célébrée ensuite. Au sortir de l'Eglise, toutes les Dames [menèrent la nouvelle Abbesse] dans sa Maison, &amp; elle leur donna un repas très magnifique.</p>
+      </div>
+
+<div xml:id="MG-1686-12a_249">
+        <head>MG-1686-12a_249</head>
+        <bibl>Mercure Galant, décembre 1686, p. 249-250</bibl>
+        <p>Tout ce qui s'est passé en Hongrie depuis la prise de Bude</p>
+        <p/>
+        <p>[Cet article relate la campagne qui suivit la prise de Bude, qui s'acheva par la victoire des troupes du comte Veterani sur les Tartares aux environs de la ville de Segredin.]</p>
+        <p/>
+        <p>[...] Si tost qu'il [le comte de Veterani] fut de retour au Camp devant cette Place, il fit chanter le Te Deum au bruit de la décharge toute l'Artillerie, après quoy il envoya aux Assiègez un des Prisonniers qu'on avoit fait, qui leur fit connoître qu'ils ne devoient espérer aucun secours du Grand Visir, dont l'Armée venoit d'estre en fuite. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12a_322">
+        <head>MG-1686-12a_322</head>
+        <bibl>Mercure Galant, décembre 1686, p. 322-328</bibl>
+        <p>Continuation des Prières pour le Roy</p>
+        <p/>
+        <p>J'ay commencé ma Lettre par les Prières qui ont esté faites pour l'heureux succès de l'Opération, à laquelle la fermeté du Roy l'avoit engagé à s'exposer, &amp; je la finis en vous parlant encore de Prières ; mais il faut que je vous explique que ces Prières ont esté pour deux sujets. L'Eglise ordonna que l'on en fist après l'Opération, afin que les suites en fussent aussi heureuses que les commencemens l'avoient esté. Ensuite tous les Corps des Officiers de Ville, ceux des Arts &amp; Métiers, &amp; toutes les Communautez commencèrent à en faire pour le mesme sujet ; mais dans le cours de ces prières, &amp; avant que tant de Corps eussent pû avoir leur tour, toutes les Eglises retentissant de celles qui se faisoient avec grande solemnité, on apprit la parfaite guérison du Roy, &amp; ces Prières qui n'estoient que pour demander à Dieu le retour de sa Santé, non seulement furent changées en des Actions de grâces, mais l'on y mesla des Te Deum. Ce sont celles que l'on continuë encore tous les jours, &amp; l'empressement est si grand, que tout Paris semble estre occupé à ces saintes réjoüissances. Quand on est hors des Eglises, on entend toutes les Cloches de la Ville sonner dans le mesme temps, &amp; quand on entre dans quelqu'une, on entend que de la Musique, &amp; on les trouve toutes remplies d'un Peuple priant aux pieds des Autels, &amp; avec un zèle qui tire des larmes de joye de ceux qui ont autant d'amour pour le Roy, qu'en mérite toute ce que ce grand Monarque a fait pour la France. Les Eglises où ces Prières se font, sont éclairées d'un nombre infini de Cierges, &amp; l'on n'y voit que riches Tapisseries, Argenterie &amp; Tableaux. [...] [Les Professeurs du Collège Royal] qui sont logez dans les Galeries du Louvre, &amp; que l'on peut dire chacun en son genre les premiers de leur Profession, puisque ce n'est que par là qu'ils ont mérité ces logemens, se sont extrêmement distinguez dans la Messe qu'ils ont fait chanter dans la Chapelle du Louvre. Ce fut Mr le Curé de Saint Germain l'Auxerrois, Paroisse du Louvre, qui la célébra. Elle fut accompagnée d'un Te Deum, &amp; l'on peut dire que tout y estoit choisi. La Musique estoit du fameux Mr Lorenzani, dont la réputation est si établie ; les voix des plus belles de France &amp; d'Italie ; la Chapelle magnifiquement décorée, &amp; la Compagnie composée d'un très grand nombre de Personnes de qualité, &amp; de Mrs de l'Académie Françoise, à qui le Roy, qui en est le Protecteur, a donné une Salle dans le Louvre [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12a_329">
+        <head>MG-1686-12a_329</head>
+        <bibl>Mercure Galant, décembre 1686, p. 329</bibl>
+        <p>Zèle des nouveaux Catholiques, qui font des Prières Publiques pour Sa Majesté</p>
+        <p/>
+        <p>Les nouveaux Catholiques qui doivent plus à Sa Majesté que les autres, puisqu'ils luy sont redevables de leur salut, en ont marqué leur reconnoissance par une Messe solemnelle qu'ils firent chanter à S Sulpice le 12 de ce mois, &amp; où la plupart d'entre eux communièrent. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12a_333">
+        <head>MG-1686-12a_333</head>
+        <bibl>Mercure Galant, décembre 1686, p. 333-335</bibl>
+        <p>Prières faites au Havre pour la guérison du Roy</p>
+        <p/>
+        <p>Je ne parleray point encore des Prières qui ont esté faites dans les autres Villes, je pousserais ma Lettre trop loin ; mais le Havre ayant fait une chose extraordinaire, mérite d'être excepté. Le Dimanche 8 de ce mois, jour de la Conception de la Vierge, on y fit une Procession très solemnelle, qui commença après le Salut, &amp; où le Saint Sacrement fut porté sous le Dais comme le jour de la Feste-Dieu. Toutes les Ruës estoient tapissées. Mr le Duc &amp; Madame la Duchesse de saint Aignan suivoient le Dais, avec un grand nombre d'Officiers, de Dames, &amp; de personnes considérables portant des Cierges. Les Confrères &amp; tous les Prestres du Séminiare en portoient aussi, &amp; plus de vingt cinq mille personnes suivoient la Procession. Après qu'elle fut rentrée, on commença les Prières par un Te Deum, en Action de Grâces de la meilleure santé du Roy. Il fut suivy de l'Exaudiat, &amp; d'autres Pseaumes pour la conservation, pendant que les deux autres paroisses de S François &amp; de S Michel, les Capucins, les Pénitens &amp; les Ursulines, ne la demandoient pas avec moins d'ardeur.</p>
+      </div>
+
+<div xml:id="MG-1686-12a_335">
+        <head>MG-1686-12a_335</head>
+        <bibl>Mercure Galant, décembre 1686, p. 335-336</bibl>
+        <p>Te Deum chanté le 29 Décembre dans toutes les Paroisses de Paris, en action de Grâce de la parfaite Guérison du Roy.</p>
+        <p/>
+        <p>Je n'ay rien à ajoûter, sinon qu'il a plu à Dieu d'exaucer tant de Prières, &amp; que la Santé du Roy est parfaite, qu'il a remply tous les devoirs d'un Chrétien pendant les Festes estant descendu à la Chapelle, &amp; que ce Dimanche 29 de ce mois, on chanta le Te Deum dans toutes les Paroisses de Paris, en action de grâces d'une guérison si ardemment souhaitée.</p>
+      </div>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre, première partie, 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-09a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, septembre, première partie, <date>1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-09a_028">
+        <head>MG-1688-09a_028</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 28-30</bibl>
+        <p>Extraits de plusieurs Discours prononcés en divers lieux le jour de la Feste de S. Louis.</p>
+        <p/>
+        <p>[...] Le mesme jour, Feste de S. Loüis, l'Academie Françoise la solemnisa dans la Chapelle du Louvre avec les mesmes ceremonies qu'elle a accoûtumé de faire tous les ans. Mr l'Archevesque de Paris, qui estoit alors Directeur de cette celebre Compagnie, y assista en Camail &amp; en Rochet. Pendant la Messe qui fut celebrée par Mr l'Abbé de Lavau, l'un des Académiciens, on entendit une excellente Musique de la composition de Mr Oudot. La Messe finie, Mr l'Abbé Rose, Neveu de Mr Rose, President en la Chambre des Comptes, &amp; Secretaire du Cabinet du Roy, prononça le Panegyrique de St Loüis avec une éloquence digne de l'Illustre Assemblée qui l'écouta, &amp; qui estoit fort nombreuse. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-09a_036">
+        <head>MG-1688-09a_036</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 36-46</bibl>
+        <p>Spectacle donné à Poitiers.</p>
+        <p/>
+        <p>L'éloge de Sa Majesté se fit en beaucoup de lieux le jour de la mesme Feste. Il ne fut pas oublié à Poitiers dans le Panegyrique Latin de St Loüis que prononça ce jour-là le Pere Brillac, Jesuite. Tous les Corps de la Ville y assisterent, ce qu'ils firent encore le lendemain à une Tragédie qui fut representée dans le College des Jesuites pour la distribution des Prix. [...]</p>
+        <p>Je ne vous dis rien de la Tragedie, non plus que de beaucoup d'autres qui ont esté representées dans le mesme temps en divers Colleges des Peres Jesuites. Tout ce qu'ils font est remply d'esprit, &amp; l'on trouve toûjours de quoy admirer dans toutes les choses qu'ils inventent pour ces sortes de Spectacles. Cependant quoy que je me taise sur cet article, l'interest que vous prenez à ce qui regarde la gloire du Roy, m'oblige à vous dire que la Tragedie du College de Poitiers dont je viens de vous parler, fut meslée d'un magnifique Ballet, dont quatre Divinitez firent l'ouverture. Mars, la Paix, Themis, &amp; la Religion, vinrent disputer ensemble la gloire d'avoir le plus contribué à donner au Roy le surnom de Grand. Mars entra precedé de deux Trompetes, &amp; furieux de ce qu'on osoit luy contester cet honneur. La Paix pretendit avoir sujet de l'en exclure, puis que LOÜIS LE GRAND l'avoit banny de la France. Themis &amp; la Religion soûtinrent leurs avantages, &amp; sur l'émulation que ce differend produisit entre eux, chacun ayant publié les grandes choses que cet Auguste Monarque avoit faites en sa faveur, enfin pour le terminer, on convint de donner la préference à celuy qui réüssiroit le mieux dans une Feste qu'ils feroient à son honneur. Ils en furent tous d'accord, &amp; cette agreable contestation fit diviser le Balet en quatre parties, composées chacune de cinq Entrées. Mars parut dans la premiere, accompagné de quatre Guerriers qui portoient chacun un bouclier, sur lequel estoit peinte une Devise sur les Conquestes de LOÜIS LE GRAND. Ils firent la premiere Entrée de cette partie. La seconde fut de Vulcain, suivy des Forgerons qui avoient forgé les Bombes, les Carcasses, les Mortiers, &amp; les autres armes extraordinaires, par lesquelles le Roy s'est rendu si redoutable. Après eux parut Neptune amenant quatre Tritons, &amp; cette troisiéme Entrée rendoit témoignage des Combats de Mer. La quatriéme estoit composée de Peuples vaincus, qui étoient contraints de confesser qu'ils avoient contribué malgré eux à la gloire de cet incomparable Monarque. Dans la derniere on vit la Fortune, la Victoire, la Gloire &amp; la Renommée, qui publioient à l'envy qu'il n'estoit jamais plus Grand que durant la Guerre.</p>
+        <p>Les cinq Entrées de la seconde partie de ce Ballet furent. I. La Paix conduisant les Graces, qui se vantoient d'avoir trouvé le secret de faire triompher LOUIS LE GRAND du coeur de ses Sujets, comme Mars l'avoit fait triompher des Etrangers. II. Apollon amenant la Mathematique, la Poësie, l'Histoire &amp; la Philosophie, qu'un regne aussi pacifique que celuy du Roy fait fleurir jusqu'à le disputer à l'Antiquité. III. Pallas accompagnée de quatre Arts qu'on a perfectionnez pendant la Paix ; la Peinture, la Sculpture, la Musique, &amp; les Exercices Militaires. IV. L'Opera, la Danse, &amp; la Manufacture. V. Le Commerce, Theris représentant la jonction des deux Mers, des Rivieres transportées &amp; changées en Jets d'eau &amp; en Cascades, &amp; ces Jets d'eau conduits par Neptune &amp; par Protée, ce qui exprimoit parfaitement les merveilles d'un regne où la Paix triomphe.</p>
+        <p>La troisiéme Partie regardoit Themis. En voicy les cinq Entrées. I. La Justice revenant du Ciel, précedée de quatre Nymphes qui portoient les marques de sa dignité. II. La Discorde, la Chicane, la Fraude &amp; l'Usure vouloient maintenir leur possession, mais la Justice les releguoit aux Enfers. III. L'Union, la Droiture, la Bonne Foy, &amp; la Conscience venoient au secours de la Justice, &amp; la faisoient triompher sous les auspices de LOUIS LE GRAND. IV. Des Nations venoient avoüer, les unes que la Justice du Roy les avoit rétablies aux dépens de ses Conquestes ; les autres qu'elles avoient senty sa Justice, quand elles n'avoient pas voulu déferer à la raison. V. Des Sujets du Roy venoient publier qu'ils ne vouloient point d'autre Juge qu'un Prince qui sçait se condamner luy-mesme en sa propre cause.</p>
+        <p>Dans la quatriéme partie I. La Religion conduisoit des Sacrificateurs pour rétablir le culte divin, &amp; rendre le Roy aussi Grand dans le Ciel qu'il l'est sur la terre. II. Le Duel, le Blasphêmen la Débauche, &amp; l'Atheisme paroissoient ; la Religion les chassoit honteusement. III. L'Heresie entroit avec ses Furies, &amp; après une foible resistance, elle expiroit à la veuë du Portrait du Roy que luy presentoit la Religion. IV. La Science, la Force, la Prudence &amp; la Liberalité offroient d'effacer les vestiges de l'Heresie. V. Des Nations Etrangeres venoient avoüer qu'elles estoient obligées à Loüis le Grand, qui malgré leur éloignement les avoit éclairées des lumieres de la Verité. Après toutes ces Entrée, il y eut un Ballet General, où tous les Monarques à qui l'on a donné autrefois le surnom de GRAND, venoient feliciter le Roy, &amp; reconnoissoient qu'aucun d'eux n'avoit porté si justement ce glorieux titre.</p>
+      </div>
+
+<div xml:id="MG-1688-09a_192">
+        <head>MG-1688-09a_192</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 192-202</bibl>
+        <p>Eglogue.</p>
+        <p/>
+        <p>Je vous envoye une Eglogue qui a esté faite par un Amant fort passionné. Les Vers vous le feront aisément connoistre. Ils sont fort tendres, &amp; marquent le desespoir d'un coeur veritablement touché d'amour. Cette Eglogue est d'un jeune Chevalier, qui aimoit une personne toute charmante, &amp; d'une naissance tres-considerable. Ils furent trahis par une Confidente qui découvrit le secret de leur tendresse, &amp; on mit la Demoiselle dans un Convent auprés d'une Tante Religieuse.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>EGLOGUE.</p>
+        <p/>
+        <p>Au pied des Monts fameux, d'où le paisible Orance,</p>
+        <p>Vers les murs de Limpha coule dans le silence,</p>
+        <p>Le coeur remply d'ennuis, sur ses doux chalumeaux,</p>
+        <p>L'infortuné Daphnis, oubliant ses Troupeaux,</p>
+        <p>Chantoit son triste amour pour sa divine Astrée.</p>
+        <p>Les Bergers assemblez de toute la contrée,</p>
+        <p>Touchez de son malheur, rangez autour de luy,</p>
+        <p>Sont d'un feu si charmant l'unique &amp; digne fruit.</p>
+        <p>[...]</p>
+        <p>DAPHNIS.</p>
+        <p>Pour le moins une fois dites-moy, je vous aime,</p>
+        <p>Et je suis trop heureux dans mon malheur extrême.</p>
+        <p>Ah ! non, non, oubliez l'Amant infortuné,</p>
+        <p>Qu'à des maux éternels le Ciel a destiné.</p>
+        <p>Permettez seulement, jeune &amp; charmante Astrée,</p>
+        <p>Qu'en secret, de mon coeur vous soyez adorée ;</p>
+        <p>Que gravé sur le liérre, &amp; chanté dans mes Vers,</p>
+        <p>Vostre nom retentisse au bout de l'Univers.</p>
+        <p>Quelquefois les doux chants de nos tendres Musettes</p>
+        <p>Egalent les Clairons &amp; le son des Trompettes.</p>
+        <p>Phebus &amp; les neuf Soeurs m'inspirent quelquefois,</p>
+        <p>A chanter les hauts faits des Heros &amp; des Rois.</p>
+        <p>Les siecles à venir connoistront vostre gloire,</p>
+        <p>Et sçauront de mes feux la déplorable histoire,</p>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1688-09a_237">
+        <head>MG-1688-09a_237</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 237-238</bibl>
+        <p>Ce qui s'est passé à l'Académie de Ville-Franche le jour de la Feste de Saint Loüis.</p>
+        <p/>
+        <p>Le 25. du mois passé Mrs de l'Academie de Villefranche en Beaujolois, celebrerent la Feste de S. Loüis avec un éclat extraordinaire. Ils avoient choisi ce jour-là pour élever le Buste du Roy dans la Salle de l'Academie, &amp; la ceremonie fut commencée par une Messe solemnelle qu'ils allerent entendre dans l'Eglise Collegiale, où l'on chanta les Prieres publiques pour Sa Majesté. Ensuite le Panegyrique du Saint fut prononcé par le Pere Chastelain Dessertines, Jesuite, avec de grands applaudissemens d'une assemblée fort nombreuse. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-09a_259">
+        <head>MG-1688-09a_259</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 259</bibl>
+        <p>Ce qui s'est passé aux Theatins le jour de la Naissance du Roy.</p>
+        <p/>
+        <p>Le 5. de ce mois, jour de la Naissance du Roy, le Pere Alexis du Buc, Superieur des Theatins, fit chanter une Messe solemnelle dans leur Eglise, en action de graces du precieux don qu'il a pleu à Dieu de faire ce jour-là à la France. Le soir il y eut un Salut, precedé d'un Eloge de sa Majesté que ce mesme Pere prononça. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-09a_287">
+        <head>MG-1688-09a_287</head>
+        <bibl>Mercure galant, septembre 1688, première partie, p. 287-289</bibl>
+        <p>Le 9. de ce mois, Monseigneur le Dauphin accompagné de plusieurs Seigneurs, alla prendre le divertissement de la Chasse à Anet. Il y a demeuré quatre jours entiers, pendant lesquels il a esté deux fois tirer, &amp; deux fois à la Chasse du Loup. La Comedie estoit le plaisir du soir. Elle a esté representée chaque jour devant ce Prince, qui fut logé dans un Appartement d'une tres-grande magnificence, &amp; où l'on peut dire qu'il ne manquoit rien, soit pour la peinture, soit pour la dorure. La beauté des meubles répondoit parfaitement à ces ornemens. Monsieur le Duc de Vandosme a fait accomoder cet Appartement exprés, pour recevoir Monseigneur toutes les fois qu'il voudra venir chasser à Anet, qui est un lieu fort commode, &amp; fort agreable pour prendre ce divertissement.</p>
+      </div>
+</body>
+  </text>
+</TEI>

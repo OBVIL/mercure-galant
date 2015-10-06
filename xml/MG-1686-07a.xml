@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet, première partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-07a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, juillet, première partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-07a_098">
+        <head>MG-1686-07a_098</head>
+        <bibl>Mercure Galant, juillet 1686, première partie, [p. 98-100]</bibl>
+        <p>Madame la Présidente de Maniban accouche d'un Fils après dix-huit ans de Mariage.</p>
+        <p/>
+        <p>Il y en a qui sortent trop tost du Monde, &amp; d'autres s'y font attendre longtemps. Tel est le Fils qui est né le second jour de ce mois à Madame la Présidente de Maniban, après dix-huit ans de Mariage. Elle est Fille de Mr Fieuber, Premier Président au Parlement de Toulouse. Mr le Marquis de Maniban son Mary, Président au Mortier dans le mesme Parlement, fit éclater la joye qu'il avoit de cette naissance, par des feux, des concerts de Trompetes, des profusions de vin, &amp; des Illuminations qui furent suivies dans tout son quartier. Madame de Maniban est une personne des plus accomplies de cette Province. Il y a trois ou quatre ans qu'elle parut à la Cour, &amp; l'estime que les Gens du meilleur goust marquèrent pour elle, fit voir que le vray mérite n'y demeure pas longtemps inconnu.</p>
+      </div>
+
+<div xml:id="MG-1686-07a_152">
+        <head>MG-1686-07a_152</head>
+        <bibl>Mercure Galant, juillet 1686, première partie, p. 152-153</bibl>
+        <p>Divertissement à Versailles</p>
+        <p/>
+        <p>Le 13 il y eut Canal le soir à Versailles (c'est le terme dont on se sert à la Cour pour dire qu'on s'y promène sur le Canal.) Monseigneur le Dauphin, &amp; Madame la Dauphine prirent ce plaisir, accompagnez de toutes les Personnes distinguées qui n'avoient point suivy le Roy dans son Voyage. Il y eut divers Bastimens remplis de Musiciens, &amp; l'on y servit un Repas magnifique.</p>
+        <p>.</p>
+      </div>
+
+<div xml:id="MG-1686-07a_153">
+        <head>MG-1686-07a_153</head>
+        <bibl>Mercure Galant, juillet 1686, première partie, p. 153-155, 161-162</bibl>
+        <p>Régal donné à Choisy avec la Description de cette Maison</p>
+        <p/>
+        <p>Le 14 Mademoiselle d'Orléans donna à disner dans sa Maison de Choisy, à Monseigneur le Dauphin, à Monsieur, à Madame, à Madame la princesse de Conty, &amp; à plusieurs autres personnes du premier rang. Choisy est une maison que cette Princesse a fait bastir à deux lieuës de Paris ; &amp; il est assez surprenant qu'un aussi grand Bastiment, avec une fort belle Orangerie, ait esté commencé &amp; finy, sans qu'on ait interrompu le travail. Rien n'est plus beau que la situation de Choisy. La rivière de Seine bat contre le parapet qui règne le long du jardin. Ce qui rend la veuë admirable, c'est qu'elle n'est point bornée. [...] [Suit la description de la maison]</p>
+        <p/>
+        <p>[La princesse d'Orléans] régala toute l'auguste Assemblée dont j'ay commencé à vous parler, avec beaucoup de magnificence. Il y eut quatre Tables servies en mesme temps, &amp; [un] grand Concert de Violons pendant le Disner. [...] L'aprèsdisnée il y eut Concert dans les Appartemens, &amp; sur le soir dans plusieurs Bosquets du Jardin pendant qu'on estoit à la Promenade.</p>
+      </div>
+
+<div xml:id="MG-1686-07a_185">
+        <head>MG-1686-07a_185</head>
+        <bibl>Mercure Galant, juillet 1686, première partie, p. 185-187, 240, 248, 252, 254-256, 260-261, 275-276, 305-307, 315-316</bibl>
+        <p>Journal du Voyage de M. le Chevalier de Chaumont</p>
+        <p/>
+        <p>Je viens au détail du Voyage de Mr le Chevalier de Chaumont, Sa Majesté l'ayant nommé son Ambassadeur vers le Roy de Siam. Il se rendit à Brest avec Mr l'Abbé de Choisy, sur la fin de Février de l'année dernière, &amp; il s'embarquèrent dans un des Vaisseaux du Roy, appellé l'Oiseau. [...] Le vent leur fut toûjours assez favorable, &amp; comme il y avoit dans le Vaisseau des Missionnaires &amp; six Jésuites, ce n'estoit tous les jours qu'Exercices de piété, &amp; l'on y vivoit avec la mesme régularité que dans un Couvent. Ils s'appliquoient tour à tour à faire des Exhortations à tout l'Equipage. On disoit la Messe, on chantoit Vespres, &amp; on passa fort heureusement la Ligne le 6 d'Avril sans souffrir beaucoup de la chaleur. [...] [Suit le récit complet de l'expédition française jusqu'au Siam qu'elle atteint le 24 septembre. L'ambassadeur se rendit alors à] Bancok, qui est la première Place du Royaume de Siam sur la Rivière . [...]</p>
+        <p/>
+        <p>[Après plusieurs tractations, le chevalier de Chaumont fut invité à rencontrer le roi du Siam, le 18 octobre]</p>
+        <p/>
+        <p>[Il se constitua alors un cortège somptueux où prirent place l'ambassadeur, ses officiers et des] gens de sa Suite, tous fort propres, &amp; accompagnez de Trompettes &amp; de dix-huit hommes de livrée. [...]</p>
+        <p/>
+        <p>On marcha [...] dans une rue assez longue, &amp; large à peu près comme la rue S. Honoré. Elle estoit bordée d'arbres, &amp; d'une double file de Soldats [...] Ils estoient nus pieds, &amp; avoient une Chemise rouge, avec une Echarpe de toile peinte qui leur servoit de culote [...] Des Tambours sonnant comme des Timbales, des Musettes, des manières de petites Cloches, &amp; des Trompettes qui ne rendoient qu'un son de Cornet, formoient une harmonie aussi bizarre qu'extraordinaire. [...] [Suit la description du cortège jusqu'à son arrivée dans le palais du roi]</p>
+        <p/>
+        <p>[Ce dernier accueillit l'ambassadeur de France en lui disant] qu'à la nouvelle de son arrivée à la Barre de Siam, il avoit eu envie de l'aller trouver, mais que les Affaires de l'Estat ne luy en avoient point laissé le temps. Ce compliment estoit à peine finy, qu'on entendit les Trompettes &amp; les Tambours du dedans. Les Trompettes du dehors répondirent à ce bruit, qui faisoit connoistre que le Roy montoit à son Trône. [...] [Suit la description de l'audience]</p>
+        <p/>
+        <p>Au sortir de l'Audience, Mr l'Ambassadeur fut conduit dans le Palais, où il vit l'Elefant blanc. On luy rend de grands honneurs, &amp; on le regarde comme une Divinité. Quatre Mandarins sont toûjours auprès de luy. Deux tiennent un Eventail pour chasser les Mouches, &amp; les deux autres un Parasol, afin d'empescher qu'il ne soit incommodé du Soleil. Il est servy en Vaiselle d'or. On en élève un petit qui sera son successeur. Lorsqu'il a besoin de se laver ; on le mène à la Rivière, &amp; alors les Tambours &amp; les Trompetes marchent devant luy. [...]</p>
+        <p/>
+        <p>Le 31 [octobre] on fit de fort grandes réjoüissances pour le couronnement du Roy du Portugal. On tira quantité de Coups de Canon, &amp; il y eut le soir un feu d'Artifice. Ces réjoüissances furent continuées le lendemain, premier jour de Novembre. [...] On n'entendit que coups de Canons jusqu'à la nuit &amp; on tira toûjours sans discontinuer. Tous les Bastimens qui éstoient [sic] sur la Rivière, tirèrent aussi après le repas, qui fut suivye d'une Comédie de Chinois, &amp; d'un autre Divertissement, façon de Marionnettes. Il y eut quelque chose d'assez surprenant &amp; de singulier dans cette Feste. [...]</p>
+        <p/>
+        <p>Le Roy [de Siam] se montre au Peuple deux ou trois fois tous les ans, va aussi quelques fois par terre faire ses Offrandes à quelques Mosquée. Deux cens Elefans, ou environ, commencent la marche, portant chacun trois Hommes armez. Après eux vient la Musique. Elle est composée de Timbales, de Tambours, &amp; de Hautbois. Mille hommes de pied armez paroissent ensuite, distribuez en diverses Compagnies, qui ont leurs Drapeaux &amp; Bannières. Tout cela précède les grands mandarins qui sont à cheval. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

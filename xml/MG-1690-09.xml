@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1690</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1690-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1690</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1690-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1690-09_114">
+        <head>MG-1690-09_114</head>
+        <bibl>Mercure galant, septembre 1690, p. 114-121</bibl>
+        <p>[Réjouissances du 7 août 1690.]</p>
+        <p/>
+        <p>Le Corps de Ville fit mettre toute la Bourgeoisie sous les armes, avec les Capitaines &amp; les Sergens de quartier, qui assisterent au feu de joye. Il fut allumé aprés que l'on eut chanté le Te Deum dans la Cathedrale, &amp; ce fut un feu continuel de Mousqueterie &amp; de Canon. [...] La Feste se termina par des danses &amp; des feux particuliers qu'on fit dans toute la Ville. Chaque Magistrat Presidial fit la danse de son quartier ; chaque Consul fit la mesme chose, &amp; toutes ces danses alloient dans la court de l'Evesché, où incessamment l'on versoit à boire à tous ceux qui en vouloient. Le Procureur Sindic, qui fut ocupé tout ce jour-là à donner ses ordres pour la representation du Combat Naval, fit allumer de nouveau le lendemain au soir toutes les Lanternes de sa ruë, &amp; se mit à la teste de tout son quartier, qui fit une danse si nombreuse, qu'elle se multiplia aussi-tost en huit autres danses.</p>
+      </div>
+
+<div xml:id="MG-1690-09_121">
+        <head>MG-1690-09_121</head>
+        <bibl>Mercure galant, septembre 1690, p. 121-122</bibl>
+        <p>Je ne vous parleray point d'un Feu d'artifice qui a esté fait à Uzez dans la mesme occasion par l'ordre de Mr l'Evesque, ny d'un Soupé magnifique de cinquante Couverts, qu'il donna ensuite à toute la Noblesse du Pays. Je vous diray seulement que le bruit de cette Feste ayant attiré un fort grand nombre de nouveaux Convertis, la Cathedrale s'en trouva toute remplie dans le temps du TE DEUM. Il fut chanté en Musique en presence des Cors de Ville &amp; de Justice.</p>
+      </div>
+
+<div xml:id="MG-1690-09_137">
+        <head>MG-1690-09_137</head>
+        <bibl>Mercure galant, septembre 1690, p. 137-140</bibl>
+        <p>La Ville de Mende, dans le Givaudan, Province du Gouvernement de Languedoc, n'a pas monstré moins de zele, qu'Agen &amp; Uzez. Les Chanoines de la Collegiale de tous les Saints firent dresser un Feu de joye dans leur court avec toute la magnificence possible. Ils s'y rendirent tous en Surplis &amp; en Aumusses ayant leur Doyen à leur teste, &amp; tenant chacun un Cierge de cire blanche à la main, &amp; aprés avoir chanté le Te Deum, &amp; commencé le Veni Creator, il allumerent ce Feu à ces paroles, Accende lumen sensibus. Entre les Particuliers de la Ville, Mr de Reversac, Tresorier de France en la Generalité de Montpellier qui estoit alors à Mende avec sa Famille, se distingua par un feu d'artifice fort agreable. Il fut allumé devant sa maison au bruit de six Musettes, de douze Violons, de quatre Trompetes, &amp; d'une assez grande Mousqueterie. Le Bal succeda à ce divertissement, &amp; la Compagnie grossit de telle sorte en fort peu de temps, qu'on fut obligé de danser dans une court extrémement spatieuse. Douze Masques superbement vestus, y vinrent accompagnez d'une bande de Violons, &amp; par les sauts surprenans qu'ils firent, il fut aisé de connoistre que c'estoit une Troupe de Comediens nouvellement arrivée. Ces rejouïssances durerent jusqu'au jour.</p>
+      </div>
+
+<div xml:id="MG-1690-09_140">
+        <head>MG-1690-09_140</head>
+        <bibl>Mercure galant, septembre 1690, p. 140-141</bibl>
+        <p>On en fit de fort grandes à Nogent le Roy le 23. de Juillet, pour la Victoire remportée à Fleurus par l'Armée du Roy, &amp; elles furent renouvellées le 30. du mesme mois pour la défaite des Flottes Angloise &amp; Hollandoise. Deux Compagnies de Bourgeois formerent une espece de Bataillon, qui fut suivy d'une Compagnie de Cadets, chacun de huit à neuf ans, tout bienfaits &amp; propres. Elles marcherent au bruit des Fifres, des Violons, des Tambours, &amp; des Trompettes, &amp; allerent se ranger prés de l'Eglise en deux lignes paralelles. Aprés que l'on eût chanté le TE DEUM, pendant lequel tout le Canon fut tiré, les Compagnies defilerent, &amp; monterent au Chasteau, ayant Messieurs de la Justice à leur teste.</p>
+      </div>
+
+<div xml:id="MG-1690-09_148">
+        <head>MG-1690-09_148</head>
+        <bibl>Mercure galant, septembre 1690, p. 148-149</bibl>
+        <p>Les mesmes réjouïssances ont esté faites à Toulon, où l'on a chanté le TE DEUM dans la Cathedrale avec beaucoup de ceremonie. [...] Le matin du 13. du mois passé, jour choisy pour cette Feste, le Pere Raphaël, Prieur du Convent, celebra une Messe solemnelle. Aprés Vespres, les Religieux, ayant chacun un Flambeau à la main, firent une Procession où l'on porta l'Image miraculeuse de nostre Dame de Montaigu. Le soir, les Violons au dedans, &amp; les Tambours &amp; les Fifres au dehors, firent connoistre qu'on alloit chanter le TE DEUM.</p>
+      </div>
+
+<div xml:id="MG-1690-09_150">
+        <head>MG-1690-09_150</head>
+        <bibl>Mercure galant, septembre 1690, p. 150-152</bibl>
+        <p>Service fait à Cologne pour le repos de l'ame de Me la Dauphine.</p>
+        <p/>
+        <p>Le 23. du mois passé, on fit à Cologne, dans l'Eglise Cathedrale, un Service solemnel pour Madame la Dauphine. Tous les Ecclesiastiques de ce Diocese s'y trouverent avec les Religieux de tous les Ordres. L'Office s'y fit en Musique, &amp; on y entendit toutes sortes d'Instrumens. Les Timbales &amp; les Trompettes étoient couvertes de frise noire. [...] Aprés la Messe, l'Evesque &amp; les Prelats s'avancerent vers le Mausolée, suivis des Chanoines qui avoient de longues robes de velours rouge &amp; des surplis par dessus. On fit les encensemens, &amp; le tout se termina par des chants lugubres.</p>
+      </div>
+
+<div xml:id="MG-1690-09_178">
+        <head>MG-1690-09_178</head>
+        <bibl>Mercure galant, septembre 1690, p. 178</bibl>
+        <p>La Ville &amp; la Cour de Montpellier ayant fait chanter le Te Deum pour les Victoires du Roy, la veille du jour où l'on celebre la Feste de Saint Ignace [...].</p>
+      </div>
+
+<div xml:id="MG-1690-09_182">
+        <head>MG-1690-09_182</head>
+        <bibl>Mercure galant, septembre 1690, p. 182-186</bibl>
+        <p>Divertissement representé sur le Theatre de Bourbon à Roüen.</p>
+        <p/>
+        <p>On a representé cette année, selon la coutume, sur le Theatre du College Royal &amp; Archiepiscopal de Bourbon des Peres Jesuites de Roüen, une Tragedie pour la distribution des Prix fondez par Mrs du Parlement de Normandie. Le sujet estoit Idomenée, Roy de Crete, qui à son retour du Siege de Troye, fut battu d'une si forte tempeste, que pour appaiser la colere des Dieux qu'il croyoit avoir irritez, il promit de leur immoler la premiere chose vivante qui s'offriroit à ses yeux sur le rivage de Crete. Il y vit d'abord son Fils unique, appellé Idée, &amp; lors qu'il voulut le sacrifier, la Reine sa Femme s'y opposa. Elle s'estoit engagée à le marier avec Electre, Fille d'Agamemnon, qui s'estoit retirée en l'Isle de Crete aprés la mort de son Pere. Les Sujets d'Idomenée ne pouvant souffrir la mort de ce jeune Prince, entreprirent de le faire regner en chassant ce Roy, mais il se deroba secretement tandis qu'on preparoit toutes choses dans le Temple pour son mariage, &amp; afin de detourner la vangeance des Dieux de dessus la teste de son Pere, il s'immola luy-mesme, &amp; se rendit la Victime &amp; le Sacrificateur, sans que son dessein eust esté connu ny de la Reine sa Mere, ny de la Princesse Electre. Cette Tragedie estoit du Pere d'Epineul, Regent de Rhetorique, &amp; fut representée avec beaucoup de magnificence, par les meilleurs Acteurs d'entre la jeunesse de ce College. Chaque Acte estoit suivy de Balets differens, où les Passions parurent sous les simboles de la crainte, du desespoir, de la tristesse, de l'esperance &amp; de la joye. Ils furent dansez par les plus habiles Danseurs de l'Opera étably à Roüen depuis peu d'années, &amp; par les Maistres de danse de la Ville. Ce grand Spectacle finit par la distribution des Prix, où les Enfans des personnes les plus qualifiées eurent bonne part.</p>
+      </div>
+
+<div xml:id="MG-1690-09_279">
+        <head>MG-1690-09_279</head>
+        <bibl>Mercure galant, septembre 1690, p. 279-283</bibl>
+        <p>Voicy plusieurs couplets de Chanson, qui apparemment seront aussi bien receus dans vôtre Province qu'ils l'ont été à Paris. Ils sont de Mr Diereville, qui les a faits sur l'Air J'ay passé deux jours sans vous voir. Il les intitule</p>
+        <p/>
+        <p>PLAINTES</p>
+        <p>des Hollandois, défaits sur</p>
+        <p>mer &amp; sur terre.</p>
+        <p/>
+        <p>O Ciel ! quel est nôtre malheur</p>
+        <p>Sur mer comme sur terre !</p>
+        <p>LOUIS en tous lieux est vainqueur,</p>
+        <p>Tout cede à son tonnerre.</p>
+        <p>Helas ! faut-il comme à Fleurus,</p>
+        <p>Nous voir encor icy vaincus ?</p>
+        <p/>
+        <p>Luxembourg, ce vaillant Heros,</p>
+        <p>Y parut en Alcide ;</p>
+        <p>Et Tourville dessus les flots,</p>
+        <p>N'est pas moins intrepide.</p>
+        <p>Helas ! aprés ces deux combats,</p>
+        <p>Que vont devenir les Etats ?</p>
+        <p/>
+        <p>Les Anglois croyoient sur les Mers</p>
+        <p>Avoir un grand empire,</p>
+        <p>Et qu'aucuns Rois de l'Univers</p>
+        <p>N'osoient leur contredire.</p>
+        <p>Helas ! LOUIS leur fait trop voir</p>
+        <p>Qu'ils se flattoient d'un vain pouvoir.</p>
+        <p/>
+        <p>Vainement nous estions unis</p>
+        <p>Pour conjurer sa perte ;</p>
+        <p>Nous n'en sommes que mieux punis,</p>
+        <p>Nostre Flotte est deserte.</p>
+        <p>Helas ! malgré tous nos efforts,</p>
+        <p>Il nous bat jusque dans les Ports.</p>
+        <p/>
+        <p>Nous voguons de tous les costez</p>
+        <p>Sans trouver un azile ;</p>
+        <p>Nous sommes par tout arrestez,</p>
+        <p>Rien n'échape à Tourville.</p>
+        <p>Helas ! en vain nous le fuyons,</p>
+        <p>Il nous brûle &amp; nous coule à fonds.</p>
+        <p/>
+        <p>Ah ! que LOUIS est bien servy</p>
+        <p>Sur la Terre &amp; sur l'Onde !</p>
+        <p>Chacun le veut rendre à l'envy</p>
+        <p>Le plus puissant du Monde.</p>
+        <p>Helas ! quelle rage pour nous</p>
+        <p>Quand nous voulons l'accabler tous !</p>
+        <p/>
+        <p>Que nous sert de voir aujourd'huy</p>
+        <p>Toute l'Europe en Ligues ?</p>
+        <p>Rien ne réüssit contre luy,</p>
+        <p>Il rompt toutes nos brigues.</p>
+        <p>Helas ! tout ce qu'on entreprend</p>
+        <p>Ne sert qu'à le rendre plus grand.</p>
+        <p/>
+        <p>Voy tous les maux que tu nous fais,</p>
+        <p>Maudit Prince d'Orange ;</p>
+        <p>Crains à ton tour de tes forfaits</p>
+        <p>Que le Ciel ne se vange.</p>
+        <p>Helas ! nous ressentons des coups</p>
+        <p>Que tu merites mieux que nous.</p>
+        <p/>
+        <p>Sous une libre &amp; douce loy</p>
+        <p>Nous vivions sans traverse ;</p>
+        <p>Falloit-il pour te faire Roy</p>
+        <p>Rompre nostre Commerce ?</p>
+        <p>Helas ! nous en sommes plus gueux,</p>
+        <p>Et tu n'en es pas plus heureux.</p>
+        <p/>
+        <p>La cheute est le fort des Tyrans,</p>
+        <p>Tu ne sçaurois le croire,</p>
+        <p>Quand tu veux comme les Titans</p>
+        <p>Porter si haut ta gloire.</p>
+        <p>Helas ! puisses-tu l'éprouver</p>
+        <p>Du Trône où tu sceus t'élever.</p>
+      </div>
+</body>
+  </text>
+</TEI>

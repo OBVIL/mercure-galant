@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-06/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juin 1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-06_001">
+        <head>MG-1686-06_001</head>
+        <bibl>Mercure Galant, juin 1686, p. 1-2, 4-5</bibl>
+        <p>Prières pour rendre grâces à Dieu du retour de la santé du Roy</p>
+        <p/>
+        <p>Je ne suis pas étonné, Madame, qu'on ait fait des prières dans vostre Province pour l'entier rétablissement de la santé de nostre Auguste Monarque, puisque Paris a donné l'exemple à toutes les Villes du Royaume. [...]</p>
+        <p/>
+        <p>Le Chapitre de S. Marcel donna des marques de son zèle sur la fin du mois passé, par un salut qui fut chanté en Musique dans cette Eglise. Elle estoit ornée ces jours-là des plus belles Tapisseries de la Manufacture Royale des Gobelins. Le S. Sacrement y fut exposé, &amp; Mr le Doyen le porta en Procession. Les Chanoines, Chapelains, &amp; Ecclésiastiques de la Communauté de ce Chapitre y assistèrent au nombre de quatre-vingt, tous en Chapes, &amp; la Cérémonie se termina par le Te Deum, en action de grâces de l'entier recouvrement d'une Santé si prétieuse en France. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-06_150">
+        <head>MG-1686-06_150</head>
+        <bibl>Mercure Galant, juin 1686, p. 150-152, 163-165, 170</bibl>
+        <p>Grande Feste donnée à Rome par M. le Cardinal d'Estrées</p>
+        <p/>
+        <p>Je vous ay déjà fait part de tout ce qui s'est passé à Rome à l'occasion de la Feste Générale, faite pour la Réunion des Protestans de France à l'Eglise Catholique. Il me reste à vous parler d'une Féte particulière, qui a fait connoistre le zèle de Mr le Cardinal d'Estrées. Il choisit pour cela l'Eglise de la Trinité du Mont, parce qu'il en est Titulaire. [...] Vous jugez bien que la Feste fut d'une magnificence extraordinaire, puisqu'on ne peut soutenir les interests &amp; la gloire de la France avec plus d'éclat, plus de grandeur, plus de prudence &amp; plus deconduite que font Mr le Duc d'Estrées, &amp; M le Cardinal son Frère. [...]</p>
+        <p>[La fête fut fixée au 12 mai. Dans l'église richement décorée pour l'occasion, furent reçu « M. Altoviti Patriache, [accompagné] d'un très grand nombre de Prélats, &amp; d'autres Personnes de qualifiées, ce qui faisoit un Cortège de plus de vingt-six Carrosses ».]</p>
+        <p/>
+        <p>Après la Messe, que Mr Cafati, Archevesque de Trebisonde célébra pontificalement, &amp; qui fut chantée par deux Choeurs de plus de soixante &amp; dix Musiciens. On entonna le Te Deum, qui fut aussi chanté en Musique, aux fanfares des Trompettes, &amp; au bruit de Boëtes ; des Tambours &amp; des Timbales. [...] Lorsque [la cérémonie] fut achevée, Mr le Cardinal d'Estrées régala magnifiquement un grand nombre de Personnes de qualités dans la grande Salle du Collège de Propaganda Fide. [...] Ce repas fut suivy d'une belle symphonie, &amp; d'un récit en Vers Italiens à la loüange du Roy, que quatre des plus belles voix de Rome chantèrent dans une autre Salle, où ce Cardinal avait fait passer la Compagnie. [...] [Avec l'obscurité débuta l'Illumination de l'Eglise, du Couvent de la Trinité ainsi que des maisons environnantes.]</p>
+        <p/>
+        <p>[...] un peu après que l'Illumination eut paru, on entendit un Concert de Tambours &amp; de Trompettes. Il fut suivy d'un autre de Violons, après lequel divers instrumens firent une Symphonie très agréable, pendant qu'une des plus belles voix de Rome chantoit un Récit à la loüange du Roy. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-06_212">
+        <head>MG-1686-06_212</head>
+        <bibl>Mercure Galant, juin 1686, p. 212-213</bibl>
+        <p>Tout ce qui s'est passé à la Réception des quatre nouveaux Chevaliers de l'Ordre</p>
+        <p/>
+        <p>[Le jour de la Pentecôte, le duc de Chartres, le duc de Bourbon, le prince de Conti et le duc du Maine furent reçus, en la chapelle de Versailles, chevaliers de l'Ordre du Saint-Esprit par Louis XIV. Après une longue description de la cérémonie, on peut lire :]</p>
+        <p/>
+        <p>[...] Mr l'Archevesque de Paris, Prélat Commandeur de l'Ordre, estant arrivé, revestu de ses habits pontificaux, commença le Veni Creator, que la Musique du Roy continua. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-06_296">
+        <head>MG-1686-06_296</head>
+        <bibl>Mercure Galant, juin 1686, p. 296-298</bibl>
+        <p>Prières faites [...] aux Théatins à Paris, pour rendre grâces à Dieu du retour de la Santé du Roy.</p>
+        <p/>
+        <p>[...] Il s'est fait une grande Cérémonie [...] pour [le « rétablissement de la Santé du Roy »] à Paris [...] &amp; les Théatins de Sainte Anne la Royale célébrèrent le 24 de ce mois un Salut, où l'on chanta le Te Deum en Musique, de la composition de Mr Lorenzani, Maistre de Musique de la feu Reyne. Mr le Nonce du Pape y officia, &amp; donna la Bénédiction du S. Sacrement. Le bruit qui s'estoit répandu de cette Cérémonie, attira quantité de Personnes de la première qualité [...].</p>
+      </div>
+</body>
+  </text>
+</TEI>

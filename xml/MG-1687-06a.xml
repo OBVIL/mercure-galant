@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juin, première partie, 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-06a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, juin, première partie, <date>1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-06a_072">
+        <head>MG-1687-06a_072</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 72</bibl>
+        <p>Réception faite à Albi à M. le Goux de la Berchere.</p>
+        <p/>
+        <p>Je vous ay déja mandé quelque chose de la Reception qui a esté faite à Albi, à Mr le Goux de la Berchere Archevesque d'Aix, nommé par le Roy pour remplir la place de Messire Hyacinte Serroni, premier Archevesque d'Albi, mort à Paris depuis quelques mois. En voicy une Relation exacte &amp; fidelle. M. du Chapitre de la celebre Eglise de Sainte Cecile qui est la Metropolitaine de la Ville, n'eurent pas plûtost appris la mort de ce Prelat, qu'ils s'assemblerent pour nommer et choisir des Officiers pendant le Siege vacant. [...] Il y avoit une Compagnie de Marchands, composée de deux cens hommes, bien lestes &amp; bien montez, precedez de Trompettes. Les Consuls l'attendirent à la porte de la Ville, où Mr Martinon le harangua, &amp; l'accompagnerent en Carrosse jusqu'à l?Archevesché. Le soir le Te Deum fut chanté dans l'Eglise de Sainte Cecile. Mr Regnaudin, premier Archidiacre l'entonna, &amp; il fut continué par la Musique avec des Trompettes &amp; d'autres Instrumens. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06a_154">
+        <head>MG-1687-06a_154</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 154</bibl>
+        <p>Benediction de l'Eglise des Capucins de Montelimar.</p>
+        <p/>
+        <p>J'oubliay de vous mander la derniere fois que le 27. d'Avril on fit à Montelimard en Dauphiné, la Benediction de l'Eglise que les Peres Capucins y ont fait bastir, des Materiaux du Temple des Pretendus Reformez que l'on avoit abatu, lesquels Materiaux ces Peres ont achetez par un secours de la liberalité du Roy, qui leur a donné quatre mille francs. La ceremonie fut faite par M. l'Abbé de Colombet, Doyen du Chapitre de l'Eglise Collegiale &amp; Paroissiale de Sainte Croix. Le lendemain au matin, les Cordeliers, les Recollets, &amp; les Penitens du Saint Sacrement se rendirent tous en Corps dans la mesme Eglise de Sainte Croix. Mr d'Haverre, Lieutenant pour le Roy de la Ville &amp; Citadelle, suivy de la Noblesse, Mr Bayle, Vice-Senéchal, Mr du Claux, President de l'Election en Corps, &amp; Mr les Consuls en chaperon, en firent de mesme. De cette Eglise ils allerent en Procession avec Mrs du Chapitre, dans l'ancienne Chapelle des Capucins, où le S. Sacrement estoit exposé. Après quelques Motets chantez par douze Musiciens choisis de quatre Corps de Musique, Mr le Doyen le porta dans la nouvelle Eglise. Il fut suivy de tous les Corps, chacun ayant un cierge à la main, &amp; l'on chanta le Pange lingua, pendant que quelques Compagnies d'Infanterie, qui sont en Garnison à Montelimard, firent des salves au son des Tambours. Le S. Sacrement ayant esté posé sur l'Autel, on fit l'ouverture des Prieres de quarante heures, aprés quoy Mr l'Abbé de Colombet Doyen, assisté de son Chapitre, celebra solemnellement la premier Messe. Elle fut chantée en Musique avec plusieurs Motets en l'honneur de S. Joséph titulaire de cette Eglise, &amp; de S. François. La Messe étant achevée, cet Abbé entonna le Te Deum, &amp; prescha l'aprésdînée avec beaucoup de succés. Le concours du Peuple à cette Eglise, fut extraordinaire pendant ces trois jours, &amp; le dernier. L'Indulgence de quarante heures estant finie, on para tous les Autels d'ornemens noirs. Alors les Capucins, qui estoient en fort grand nombre, sortirent de leur Sacristie chacun un cierge à la main, &amp; allerent prendre dans leur ancienne Chapelle les ossemens des corps de leurs Religieux qu'on y avoit enterrez. Ils les exposerent dans leur Eglise couverts d'un drap mortuaire, &amp; ayant allumé plusieurs cierges autour de ce drap, ils chanterent solemnellement l'Office des Morts, &amp; porterent ces ossemens dans le tombeau avec les ceremonies qu'ils ont accoûtumé de faire quand ils enterrent un Religieux. Tout le peuple fut extremement touché de cette lugubre ceremonie, aprés laquelle le Gardien donna la benediction, &amp; enfin un Exaudiat, chanté par ces Peres finit la ceremonie.</p>
+      </div>
+
+<div xml:id="MG-1687-06a_159">
+        <head>MG-1687-06a_159</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 159</bibl>
+        <p>Réjoüissances faites à Mercurol dans le Dauphiné pour la guerison du Roy.</p>
+        <p/>
+        <p>Je vous ay parlé depuis six mois des réjoüissances faites dans toute la France, pour le rétablissement de la santé de Sa Majesté ; cependant il y en a encore beaucoup dont je ne vous ay dit aucune chose. Je supprime la ceremonie des Te Deum ; mais je croy devoir entrer dans quelques détail des réjoüissances qui ont attiré dans Mercurol, prés de Tain en Dauphiné, un nombre infiny de Spectateurs. [...]</p>
+        <p>La Feste se fit le 27. d'Avril. M. l'Abbé de Lessins, Oncle de Mr de Lionne, partit de Romans pour venir à Mercurol, mettre le feu au Bucher avec M. le Comte d'Autun, fils unique de la Maison de Lionne son petit Neveu. Il fut receu avec toute la Noblesse qui l'accompagnoit, chez M. Barbier, Lieutenant de Chastellenie, qui estoit allé au devant de luy jusqu'à la Frontiere de la Terre, suivi d'une Compagnie de Milice, composée de cent vingt hommes bien faits &amp; fort propres. A l'issue de son disné on entendit un grand bruit de guerre, qui sembloit estre le défilé d'une Armée. C'estoient deux Quartiers de la Ville de Romans qui demandoient la permission d'estre de la Feste. [...] Le Quartier de S. Nicolas marchoit le premier au nombre de plus de mille hommes, avec des Tambours, des Hautbois, &amp; des Trompettes Marines. Il y avoit des Cuirassiers à cheval, des Turcs, des Mores, des Instrumens de leur Nation, [...]. Après venoit le Quartier de la Presle qui n'estoit pas moins nombreux. Tous les Soldats avoient des gibecieres de bazane rouge chargées de Fleurs-de-Lys blanches, &amp; des habits extremément propres. On avoit si bien choisi les Tambours de ce quartier, qu'il n'y en avoit aucun qui n'eust esté Tambour Major. Une bande de Violons dans un Char de Triomphe suivy de plusieurs Figures grotesques, faisoit entendre une mélodie fort agreable. Le feu ayant esté allumé, toutes ces Milices firent de grandes décharges, qui se mêlerent au bruit de vingt-quatre Boëtes, que M. l'Abbé de Lessins avoit envoyées exprés en ce lieu-là.</p>
+      </div>
+
+<div xml:id="MG-1687-06a_166">
+        <head>MG-1687-06a_166</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 166</bibl>
+        <p>Feste de M. le Baron d'Olieres, faite à Aix en Provence pour le mesme sujet.</p>
+        <p/>
+        <p>Dans la Feste que Mr le Baron d'Olieres, de l'illustre &amp; ancienne Maison d'Agoult fit faire à Aix en Provence pour la mesme occasion, il y eut un Carrousel, où Mr de Mirabeau, &amp; Mr le Chevalier d'Agoult son Frere, tous deux fils de ce Baron, parurent avec une grace qui les fit admirer de tout le monde. Ils estoient habillez à la Romaine, sous l'Etendard bleu, &amp; montoient chacun un tres-beau cheval d'Espagne. [...] Ce fut en ce superbe équipage qu'ils firent le tour de la Ville d'Aix avec les autres qui composoient les trois Quadrilles de ce Carrousel, estant precedez de Trompettes &amp; de Timbales, &amp; suivis d'un Char de triomphe tiré par six chevaux, dans lequel estoient quatorze Gentilshommes magnifiquement vestus, qui representoient le premier âge du Roy. Cette Feste ne fut pas plûtost terminée, qu'ils partirent l'un &amp; l'autre, &amp; se rendirent à la Baronnie d'Olieres, à six lieuës d'Aix, où ils en firent une nouvelle, aussi-bien qu'à Poureiourd. Bourg assez connu par son grand passage, à demy-lieuë de la Baronnie. Ils firent ensuite la mesme chose à Mirabeau, situé dans la Senéchaussée de Sisteron en Provence, dont Mr le Baron d'Olieres est aussi Seigneur, &amp; ce fut par tout la mesme magnificence, tant le zele que ceux de cette Maison ont pour le Roy, est ardent à embrasser les occasions qui le peuvent faire distinguer.</p>
+      </div>
+
+<div xml:id="MG-1687-06a_174">
+        <head>MG-1687-06a_174</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 174</bibl>
+        <p>Ceremonie de l'Enterrement du Prince Loüis de Brandebourg.</p>
+        <p/>
+        <p>Vous sçavez la mort du Prince Loüis de Brandebourg, arrivée à Postdam le 7. d'Avril. On soupçonna qu'il estoit mort de poison, &amp; ce fut le sentiment des Medecins aprés que l'on eut ouvert son Corps. Cependant quoy qu'on ait fait arrester ses Domestiques, il a esté impossible de découvrir les Autheurs de cet empoisonnement. Le Mercredy 7. du mois passé, son Corps fut porté de Postdam à Berlin, Capitale des Etats du Marquis Electeur de Brandebourg, &amp; il y fut inhumé avec beaucoup de ceremonies. Le Regiment des Gardes estoit en haye des deux costez depuis la porte neuve jusqu'à l'Eglise, sous seize Drapeaux blancs couverts de crespe, ainsi que les Hautbois &amp; les Tambours. Seize Carrosses de deüil à six chevaux caparaçonnez, le tout avec des housses trainantes, étoient à la teste de la marche. Cinquante autres venoient ensuite attelez de mesme, &amp; ils estoient suivis de deux Compagnies de Trabans ou Pertuisaniers avec leurs Drapeaux, ayant leurs Timbales &amp; leurs Trompettes couvertes de Taffetas noir. Aprés eux paroissoient les Pages en longs manteaux de deüil conduits par leur Gouverneur ; puis les Ecoliers de Tricdrichsucoder, de Berlin &amp; autres lieux avec les Regens ; les Ministres &amp; tous les Corps du Clergé ; les Timbaliers de la Chambre ; douze Trompettes, &amp; tous les Commissaires en Corps deux à deux, conduits par les Maréchaux. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-06a_193">
+        <head>MG-1687-06a_193</head>
+        <bibl>Mercure Galant, juin 1687, première partie, p. 193</bibl>
+        <p>Feste du Jeu de l'Arquebuse, faite à Caën.</p>
+        <p/>
+        <p>Je vous ay souvent parlé dans mes Lettres de certaines Festes qui se font tous les ans en plusieurs Villes de France. On peut dire qu'elles ne sont pas inutiles à l'Etat, puisque la jeunesse apprend insensiblement par là, &amp; en se divertissant, la maniere de bien manier les Armes. Il s'est fait une de ces Festes à Caën. Quoy que l'adresse de ceux qui composent la Compagnie, appellée du Papeguay, dont les Privileges regardent les Jeux de l'Arquebuse, de l'Arc &amp; de l'Arbalestre, y paroisse tous les ans au premier jour de May, on a tâché cette année de rendre cette Feste encore plus éclatante que les precedentes, [...] Ainsi le 6. d'Avril Mr d'Aumesnil, qui en est Capitaine-Lieutenant, donna ses ordres pour commencer la ceremonie le Jeudy 1. de May, auquel jour leurs Jeux recommencent tous les ans. Les Affiches furent mises au son des Tambours à tous les Carfours &amp; lieux publics de la Ville, afin que rien ne fust oublié pour la solemnité de la Feste, &amp; le jour choisi estant arrivé, la Generale fut battuë dés le matin, &amp; la Compagnie composée de trois cens hommes, sous les armes, parut fort propre &amp; fort leste. [Suit l'ordre de la marche.] La Compagnie marcha dans cet ordre par la Ville, au son des Hautbois, &amp; au bruit des Fifres &amp; des Tambours, pour se rendre en l'Eglise des Cordeliers. Chacun en passant distribuoit des Sonnets aux Spectateurs pour les inviter à prendre part à la Feste. [...] On posa les armes dans une grande salle, puis on entra dans le Choeur, remply de quantité de personnes considerables, qui avoient suivy Mr de la Croisette, Commandant pour le Roy dans la Ville &amp; Chasteau de Caën, accompagné des principaux Officiers &amp; des Echevins. [...] La Messe ayant esté chantée en Musique, la Compagnie reprit les armes, &amp; retourna dans le mesme ordre à la Place royale, au milieu de laquelle, &amp; devant la Statuë de Sa Majesté, estoit un Theatre de dix pieds de haut. [...] Sur les cinq heures du soir, la Compagnie se trouva au même lieu de la Place royale, d'où elle se rendit encore aux Cordeliers. Le Te Deum y fut chanté en Musique avec simphonie, &amp; au bruit de plusieurs décharges. [...] La Feste se termina par un beau Feu d'artifice, qui fut tiré à dix heures. Il avoit esté dressé autour du Theatre où l'on avoit placé le Trophée. Aprés cela on se separa par Troupes de dix à douze, qui se mirent à des tables dans la Place royale, &amp; burent à la santé de LOÜIS LE GRAND, au son des Hautbois, des Fifres &amp; des Tambours.</p>
+      </div>
+</body>
+  </text>
+</TEI>

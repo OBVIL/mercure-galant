@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-04_021">
+        <head>MG-1684-04_021</head>
+        <bibl>Mercure galant, avril 1684, p. 21-24</bibl>
+        <p>Ce qui s'est passé à Aytré proche La Rochelle, à l'occasion de la Religion Prétenduë Réformée</p>
+        <p/>
+        <p>Je ne dois pas oublier de vous dire icy, ce qui s'est passé depuis un mois, touchant la Religion. Mr Guillemin, Seigneur d'Aytré, professant la Prétenduë Réformée, faisoit faire sous le prétexte d'un droit personnel, un exercice public de cette Religion dans son Chasteau, ce qui estoit cause qu'un tres-grand nombre de Prétendus Réformez y venoient de toutes parts, [...]. Pour reprimer cet abus, le Roy par un Arrest du Conseil d'Etat donné le 31. Janvier dernier, luy a fait défense sous peine de désobeïssance, &amp; de perte de son droit personnel pour toûjours, de faire à l'avenir l'exercice de sa Religion ailleurs que dans une Chambre de son Chasteau, pour luy, sa Famille, &amp; les Habitans du Lieu ; [...]. Cet Arrest fut signiffié le 18. Mars ; &amp; le lendemain, Dimanche de la Passion, Dimanche de la Passion, on en chanta solemnellement le Te Deum dans l'Eglise Paroissiale d'Aytré.</p>
+      </div>
+
+<div xml:id="MG-1684-04_104">
+        <head>MG-1684-04_104</head>
+        <bibl>Mercure galant, avril 1684, p. 104-105, 138-139</bibl>
+        <p>Détail de la Marche de M. le Maréchal de Bellefons jusques à six lieuës de Pampelune</p>
+        <p/>
+        <p>Mr le Maréchal de Bellefons ayant reçeu ordre du Roy, d'entrer dans la Haute-Navarre, avec ce qu'il trouveroit de Troupes &amp; de Milices dans le Païs, pour donner une alarme aux Espagnols, en fit avertir Mr Foucault, qui s'est acquité de l'Intendance de Montauban avec tant de gloire pendant neuf années, &amp; qui est présentement Intendant de Bearn &amp; de Navarre, &amp; luy manda de Bayonne, qu'il feroit le 18. Mars à S. Jean Pied-de-port, derniere Ville de France. Mr Foucault ayant aussitost fait assembler tout ce qu'il y avoit de Gentilshommes à Pau &amp; aux environs, ils partirent le 15. au nombre de quarante, pour aller trouver ce Maréchal sur la frontiere. [...]</p>
+        <p/>
+        <p>Comme il y a peu de Logemens dans Roncevaux, il en envoya une partie au Bourg du Bouguet &amp; qui n'en est qu'à demy-lieuë, sous la conduite de Mr le Marquis de Bellefons. Il y a environ soixante &amp; dix Maisons tres-bien bâties au Bourguet. Les Troupes y trouverent abondamment des Vivres, &amp; du Fourage que les Habitans y avoient laissez. La crainte qu'on ne fust venu pour les brûler, leur avoit fait abandonner leurs Maisons, si-tost qu'ils avoient oüy le bruit des Tambours &amp; des Trompetes, &amp; ils s'estoient retirez dans les Bois voisins. Cependant les Troupes ne prirent que le Pain, le Vin, &amp; le Fourage qui leur estoient necessaires, sans commettre aucun desordre, ny toucher aux Meubles, quoy que les Maisons de ce Bourg, qui est fort riche, &amp; fort peuplé, en fussent tres-bien garnies. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-04_304">
+        <head>MG-1684-04_304</head>
+        <bibl>Mercure galant, avril 1684, p. 304-309, 311-312, 330-332, 338-341</bibl>
+        <p>Détail de tout ce qui s'est passé au Mariage de Mademoiselle avec Monsieur le Duc de Savoye</p>
+        <p/>
+        <p>Je ne doute poiny que vous n'ayez grande impatience de voir l'Article du Mariage de mademoiselle. Quoy qu'il se soit fait sans cerémonie, il y a beaucoup à vous dire, parce que les moindres choses qui se passent entre les Personnes de ce rang sont toûjours accompagnées d'éclat dans leur plus grande simplicité, &amp; que ce qui n'est point cerémonie pour les souverains, ne laisse pas d'estre, &amp; grand , &amp; auguste aux yeux du Public. [...] Il y a quelques mois que Monsieur le Duc de Savoye fit les démarches nécessaires, pour faire connoistre qu'il souhaitait avec passion épouser Mademoiselle. La recherche que ce jeune Souverain en fit, fut approuvée. Il n'y avoit point de Party au Monde, qui pust mieux remplir l'envie qu'il avoit de faire une tres haute Alliance ; [...]. Je vous ay marqué dans ma lettre de Fevrier tout ce qui se passa lors que le Roy dit à Mademoiselle, que Monsieur le Duc de Savoye l'avoit demandée en Mariage. La nouvelle du consentement que l'on y donnoit, fut à peine portée à Turin, que tout y parut en joye. Le Portrait de la Princesse fut mis sous un magnifique Daiz, &amp; toute la Cour de Savoye vint baiser la main à son Souverain. [...] On convint ensuite pour beaucoup de raisons, de faire le Mariage sans cerémonie, &amp; les deux Cours en demeurerent d'accord. D'ailleurs, la Cour de France estant encor en deüil, &amp; celuy de la Cour de Savoye ne faisant alors que commencer, à cause de la mort de la Reyne de Portugal, ce temps estoit mal propre aux cerémonies, &amp; tout sembloit demander qu'il n'y en eust point. [...]</p>
+        <p/>
+        <p>Le Dimanche 9. de ce mois, Mr le Marquis Ferrero, conduit par Monsieur de Bonneüil, Introducteur des Ambassadeurs, porta à Monsieur le Duc du Maine la Procuration de Monsieur le Duc de Savoye, pour épouser Mademoiselle en son nom. [...]</p>
+        <p/>
+        <p>Mr l'Abbé de Brou, Aumônier du Roy, celébra la Messe, pendant laquelle la Musique chanta un Laudate. Mr de Saintot présenta le Cierge à Monsieur le Duc du Maine, pour aller à l'Offrande ; &amp; Mr Martinet, à Mademoiselle. Mrs les Abbez de S . Valier, &amp; Fleury, Aumôniers du Roy, tinrent le Poële sur les Epousez.</p>
+        <p>La Messe finie, le Curé de la Paroisse apporta le Registre des Mariages sur le Prié-Dieu du Roy. Madame Royale, &amp; Monsieur le Duc du Maine s'en approcherent pour le signer, &amp; toute la Maison Royale en fit de mesme [...]</p>
+        <p/>
+        <p>Il faut vous parler [du présent] que la France fait à la Savoye, en luy donnant cette Princesse qui sort du Sang de ses Roys. Sa grande jeunesse estoit cause que tout son mérite n'estoit pas encore connu. Cependant j'ay sceu de ceux qui l'ont pratiquée, qu'elle est d'une humeur douce, égale, &amp; patiente ; qu'elle est incapable de donner du chagrin à personne en se prévalant de son rang ; qu'elle a un grand fonds de sagesse, &amp; de pudeur ; qu'elle aime son devoir ; qu'elle sçait parfaitement tout ce qui regarde sa Religion ; qu'elle y est attachée, &amp; qu'on pourroit dire qu'elle est tout-à-fait secrette, si elle avoit de grandes occasions de faire voir qu'un secret est seûr entre ses mains. Elle sçait la Geographie, &amp; la Fable, &amp; mesme historiquement. Elle jouë du Clavessin, chante parfaitement bien, &amp; sçait assez l'Italien pour le bien parler, si la défiance qu'elle a de soy-mesme sans aucun sujet, ne luy causoit une timidité mal fondée qui l'en empesche. Elle aime la lecture, &amp; emporte une Bibliotheque de Livres qui luy ont esté choisis par Mr l'Abbé Testu, qui comme je vous l'ay déja marqué, a eu soin de son éducation. Il en a pris un tres-grand à luy former l'esprit &amp; les moeurs, &amp; a merité par-là beaucoup de gloire. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-04_349">
+        <head>MG-1684-04_349</head>
+        <bibl>Mercure galant, avril 1684, p. 349-351</bibl>
+        <p>Mariage de M. le Chevalier du Guet</p>
+        <p/>
+        <p>Je vous appris il y a trois mois le Mariage de Mr Chopin, Lieutenant Criminel, avec Mademoiselle Foy de Senantes. [...] La Cerémonie fut faite le Dimanche 15. de ce mois, dans la Chapelle du Chasteau de Clagny. Mr le Duc du Maine fit l'honneur au Marié de luy donner la Chemise, &amp; Madame de Montespan fit le mesme honneur à la mariée, parce qu'ayant beaucoup contribué à ce Mariage, elle en a voulu faire les honneurs. [...] L'apresdinée du jour de la celébration du Mariage, Madame de Montespan donna une grande Collation à Clagny. Elle y avoit invité toutes les Dames de feuë la Reyne. On y joüa à divers sortes de Jeux, &amp; Mademoiselle de Nantes y donna le Bal, où elle parut avec tout l'agrement, &amp; toutes les graces qui luy sont ordinaires, &amp; dont je vous ay souvent parlé. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

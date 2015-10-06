@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1691</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1691-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1691</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1691-04_040">
+        <head>MG-1691-04_040</head>
+        <bibl>Mercure galant, avril 1691, p. 40-57</bibl>
+        <p>Feste universelle à l'honneur de Louis le Grand en maniere de petit Opera.</p>
+        <p/>
+        <p>Voicy une maniere de petit Opera, que l'Auteur intitule La Feste universelle à l'honneur de LOUIS LE GRAND. Vous reconnoistrez en le lisant qu'il n'est pas indigne de vostre approbation.</p>
+        <p/>
+        <p>MOMUS.</p>
+        <p>C'est en ce jour que l'amour nous fait voir</p>
+        <p>Que tout reconnoist son pouvoir.</p>
+        <p>Les Dieux reverent son empire,</p>
+        <p>Il tient Jupiter dans les fers ;</p>
+        <p>Pluton dans ses prisons soupire ;</p>
+        <p>Neptune brûle dans les mers.</p>
+        <p>D'où vient que depuis quelques jours</p>
+        <p>Je sens je ne sçay quoy qui me fait de la peine ?</p>
+        <p>Sans esperer aucun secours,</p>
+        <p>Par tout je suis Climene,</p>
+        <p>Je m'éloigne de nos hameaux,</p>
+        <p>Et mesme il faut que mes Troupeaux</p>
+        <p>Se joignent au troupeau de la belle inhumaine</p>
+        <p>S'ils pretendent que je les mene.</p>
+        <p/>
+        <p>CLIMENE.</p>
+        <p>Ainsi, Berger, vous les défendrez tous</p>
+        <p>Des attaques des Loups ;</p>
+        <p>Je consens qu'ils paissent ensemble.</p>
+        <p>Allons dansez sous ces ormeaux,</p>
+        <p>Le Dieu qui nous assemble,</p>
+        <p>Aura le soin de nos troupeaux.</p>
+        <p/>
+        <p>Le Choeur des Bergers repete les trois derniers Vers.</p>
+        <p>Allons, &amp;c.</p>
+        <p/>
+        <p>DEUX BERGERS.</p>
+        <p>Quel moyen de se défendre</p>
+        <p>Des caresses de l'amour ?</p>
+        <p>Il faut à la fin de rendre,</p>
+        <p>On doit aimer quelque jours ;</p>
+        <p>La Beauté qui cherche à prendre</p>
+        <p>Se trouve prise à son tour.</p>
+        <p>Quel moyen de se défendre</p>
+        <p>Des caresses de l'amour ?</p>
+        <p/>
+        <p>DEUX BERGERES.</p>
+        <p>On ne perd rien pour attendre</p>
+        <p>Dans cet aimable sejour.</p>
+        <p>Suivons le chemin de tendre,</p>
+        <p>Ne cherchons aucun détour.</p>
+        <p>Un Amant peut tout pretendre,</p>
+        <p>Quand il sçait faire sa cour.</p>
+        <p/>
+        <p>Choeur de Bergers.</p>
+        <p>On ne perd rien pour attendre, &amp;c.</p>
+        <p>Quand une Beauté nous enchaine,</p>
+        <p>Q'elle nous fait sentir la douceur de ses coups,</p>
+        <p>On se laisse mener sans peine ;</p>
+        <p>La liberté n'a rien qui soit si doux,</p>
+        <p/>
+        <p>CLIMENE,</p>
+        <p>Qu'on marche avec assurance</p>
+        <p>Quand le sort remplit nôtre espoir,</p>
+        <p>Quand le coeur suit l'obeissance,</p>
+        <p>Quand l'amour prévient le devoir !</p>
+        <p/>
+        <p>Choeur de Bergers.</p>
+        <p>Jeunes Amans,</p>
+        <p>Que vos plaisirs seront charmans !</p>
+        <p>La tendresse</p>
+        <p>Qui vous presse</p>
+        <p>Vous fait paroistre les momens</p>
+        <p>De longs retardemens.</p>
+        <p/>
+        <p>LISIS &amp; CLIMENE.</p>
+        <p>Qu'on rie, qu'on chante, qu'on danse</p>
+        <p>Dans cet heureux jours ;</p>
+        <p>Que la joye augmente ;</p>
+        <p>Que tout se ressente</p>
+        <p>Des bienfaits de l?amour.</p>
+        <p/>
+        <p>CALLIOPE.</p>
+        <p>On voit, lors qu'à l'amour on se laisse engager,</p>
+        <p>Que la flâme la plus belle</p>
+        <p>Devient à la fin mortelle ;</p>
+        <p>Evitez sagement un si cruel danger.</p>
+        <p/>
+        <p>PAN.</p>
+        <p>Fuyons sa surprise,</p>
+        <p>Ses charmes, ses fers ;</p>
+        <p>Manquer de franchise,</p>
+        <p>C'est estre aux enfers.</p>
+        <p/>
+        <p>URANIE.</p>
+        <p>Un Amant n'est guere sage,</p>
+        <p>Il s'estime malheureux</p>
+        <p>Si l'on méprise ses feux ;</p>
+        <p>Mais il l'est bien davantage</p>
+        <p>Quand on répond à ses voeux.</p>
+        <p/>
+        <p>MELPOMENE.</p>
+        <p>Craignez, imprudente Jeunesse,</p>
+        <p>Gardez pour la vertu toute vostre tendresse.</p>
+        <p/>
+        <p>Choeur de Bergers.</p>
+        <p>La vertu seroit farouche,</p>
+        <p>S'il n'estoit permis d'aimer ;</p>
+        <p>Un objet aimable touche,</p>
+        <p>Il a droit de nous charmer.</p>
+        <p/>
+        <p>PAN.</p>
+        <p>Ce Sexe volage</p>
+        <p>Jamais ne s'engage</p>
+        <p>Que pour un moment,</p>
+        <p>Comme il se dégage</p>
+        <p>Sans sçavoir comment.</p>
+        <p/>
+        <p>CALLIOPE.</p>
+        <p>Mettrons-nous en oubly les Arts les plus parfaits</p>
+        <p>Qui prestent à l'amour d'inévitables traits ?</p>
+        <p>On captive les coeurs par les vers d'Uranie.</p>
+        <p/>
+        <p>URANIE.</p>
+        <p>La Musique sur tout par ses puissans accords</p>
+        <p>Charme les Immortels, les Vivans, &amp; les Morts.</p>
+        <p>La rage cede à l'harmonie,</p>
+        <p>Sa douceur calme les fureurs,</p>
+        <p>Et l'on voit que la simphonie</p>
+        <p>Suspend les plus grandes douleurs.</p>
+        <p/>
+        <p>MELPOMENE.</p>
+        <p>Il n'est rien que l'on n'enchante</p>
+        <p>Par les charmes de la voix,</p>
+        <p>Et la Lire est bien plus puissante</p>
+        <p>Que le Sceptre des plus grands Rois.</p>
+        <p/>
+        <p>LES MUSES s'adressant à la Renommée qui survient, précédée par des Trompettes &amp; des Hautbois.</p>
+        <p>Vous venez à propos, joignons-nous,</p>
+        <p>Le concert en sera plus doux.</p>
+        <p/>
+        <p>LE Choeur.</p>
+        <p>Celebrons cette Feste,</p>
+        <p>Et que chacun s'apreste</p>
+        <p>A chanter tour à tour</p>
+        <p>La merveille des Arts, &amp; celles de l'amour.</p>
+        <p/>
+        <p>LA RENOMMÉE.</p>
+        <p>Que deviendroient ces Arts dans le siecle où nous sommes,</p>
+        <p>Si le plus grand des Rois,</p>
+        <p>Si le plus grand des hommes</p>
+        <p>Ne les faisoit fleurir ? Consacrons-luy nos voix.</p>
+        <p/>
+        <p>SUIVANS de la Renommée.</p>
+        <p>Publions à l'envy son éclatante gloire,</p>
+        <p>Traçons de ses hauts faits la memorable histoire ;</p>
+        <p>Leur nombre étonnera les siecles à venir,</p>
+        <p>Et bien loin de ne les pas croire,</p>
+        <p>Ils en conserveront toujours le souvenir.</p>
+        <p/>
+        <p>DEUX FAUNES.</p>
+        <p>Dans l'horreur des combats ceux qui l'ont osé suivre,</p>
+        <p>L'ont veu cent fois en danger de perir ;</p>
+        <p>Mais celuy qui montre à bien vivre</p>
+        <p>Ne doit jamais mourir.</p>
+        <p/>
+        <p>DEUX NIMPHES.</p>
+        <p>Des monstres infernaux il a vaincu la rage</p>
+        <p>Lorsque dans ses Etats il a détruit l'erreur ;</p>
+        <p>Des combats singuliers il a banny l'usage,</p>
+        <p>On n'entend plus parler d'une telle fureur.</p>
+        <p/>
+        <p>NEPTUNE.</p>
+        <p>Je luy vois faire des miracles</p>
+        <p>Pour relever l'éclat d'un Trône renversé,</p>
+        <p>En vain un fier Tiran y forme des obstacles,</p>
+        <p>Il se verra bien-tost à son tour abaissé.</p>
+        <p>Il sera contraint de descendre,</p>
+        <p>L'imprudent court à son trépas ;</p>
+        <p>Si son crime a pû nous surprendre,</p>
+        <p>Sa fin ne nous surprendra pas..</p>
+        <p/>
+        <p>Troupe d'Irlandois.</p>
+        <p>Que la foudre</p>
+        <p>Le reduise en poudre</p>
+        <p>Pour punir sa fureur.</p>
+        <p>Que la foudre</p>
+        <p>Le reduise en poudre</p>
+        <p>Pour soulager nostre douleur.</p>
+        <p/>
+        <p>Deux François.</p>
+        <p>Que le Ciel en colere</p>
+        <p>L'accable de malheur,</p>
+        <p>Et que bientost Cerbere</p>
+        <p>Luy devore le coeur.</p>
+        <p/>
+        <p>Troupe d'Irlandois,</p>
+        <p>Qu'il meure, qu'il perisse.</p>
+        <p/>
+        <p>Choeur de François.</p>
+        <p>Que le Ciel punisse</p>
+        <p>Ce coeur inhumain.</p>
+        <p/>
+        <p>Troupe d'Irlandois.</p>
+        <p>Qu'il meure, qu'il perisse.</p>
+        <p/>
+        <p>Troupe de François.</p>
+        <p>Il perira de nostre main.</p>
+        <p/>
+        <p>Un Irlandois.</p>
+        <p>Le Peuple d'Albion son Monarque abandonne.</p>
+        <p>Dans un triste sort quel sera son appuy ?</p>
+        <p>Il perd en un moment une triple couronne.</p>
+        <p/>
+        <p>Choeur de François.</p>
+        <p>Non, non, il ne perd rien, LOUIS sera pour luy.</p>
+        <p/>
+        <p>MOMUS</p>
+        <p>Moy qui trouve tout à redire,</p>
+        <p>Qui ne trouve rien de parfait,</p>
+        <p>Je me sens obligé de dire</p>
+        <p>Que des grandes vertus ce Prince est le portrait.</p>
+        <p>Ce Heros bien souvent aux dépens de sa gloire</p>
+        <p>Content de sa grandeur,</p>
+        <p>A fixé la Victoire,</p>
+        <p>Et retenu son coeur.</p>
+        <p>Son Etat par ses soins en delices abonde ;</p>
+        <p>On parlera de luy jusqu'à la fin du monde.</p>
+        <p/>
+        <p>LE CHOEUR,</p>
+        <p>Il est heureux, pieux, &amp; juste,</p>
+        <p>Et la victoire suit son Char.</p>
+        <p>Il n'est pas moins sage qu'Auguste,</p>
+        <p>Il est plus vaillant que Cesar.</p>
+        <p/>
+        <p>LA RENOMÉE</p>
+        <p>Que son nom vole</p>
+        <p>Plus viste qu'Eole</p>
+        <p>Par tout l'Univers.</p>
+        <p/>
+        <p>Suivans de la Renommée.</p>
+        <p>Que son nom vole</p>
+        <p>De l'un à l'autre Pole :</p>
+        <p>Qu'à son honneur on chante mille Vers.</p>
+        <p/>
+        <p>CALLIOPE.</p>
+        <p>Nostre Parnasse,</p>
+        <p/>
+        <p>CIBELE</p>
+        <p>Nos campagnes.</p>
+        <p/>
+        <p>UNE DRUIDE.</p>
+        <p>Nos forests,</p>
+        <p/>
+        <p>UNE NAYADE.</p>
+        <p>Nos Eaux,</p>
+        <p/>
+        <p>UNE OREADE.</p>
+        <p>Nos Montagnes.</p>
+        <p/>
+        <p>Choeur de Muses et de Nimphes.</p>
+        <p>Retentissent toujours du bruit de ses exploits,</p>
+        <p>Il est plus Roy que tous les autres Rois.</p>
+        <p/>
+        <p>LE CHOEUR.</p>
+        <p>Il est plus Roy que tous les autres Rois.</p>
+        <p>Sa grandeur n'a point de Seconde,</p>
+        <p>Et nous défions le Soleil,</p>
+        <p>Luy qui fait tout le tour du monde,</p>
+        <p>De voir jamais rien de pareil.</p>
+        <p/>
+        <p>Deux François.</p>
+        <p>Mars sur nos Ennemis fait tomber son tonnerre,</p>
+        <p>Il les confond, il les détruit,</p>
+        <p>Et cependant dans nostre terre</p>
+        <p>A peine en oyons-nous le bruit.</p>
+        <p>Sans quitter son Palais il gagne des Batailles.</p>
+        <p>Hollandois, Allemans, appaisez son couroux,</p>
+        <p>Tous vos Camps sont par luy remplis de funérailles.</p>
+        <p>Que ne fera-t'il pas t'il [sic] s'approche de vous ?</p>
+        <p>Mais un jeune Heros doit terminer l'affaire,</p>
+        <p>Si Louis faisoit tout, qu'auroit son Fils à faire ?</p>
+        <p>Ce Prince nous fait voir en signalant son bras,</p>
+        <p>Qu'il suit bien ses leçons, qu'il marche sur ses pas.</p>
+        <p/>
+        <p>MERCURE,</p>
+        <p>Il est prest à partir suivy de la fortune,</p>
+        <p>Je viens de luy porter</p>
+        <p>Le Trident de Neptune,</p>
+        <p>Et le foudre de Jupiter.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Grand Prince, si le Ciel daigne exaucer nos voeux,</p>
+        <p>Tu jouïras d'un sort encore plus heureux,</p>
+        <p>Le bonheur te suivra dans la paix, dans la guerre ;</p>
+        <p>A cent Peuples divers tu donneras des loix,</p>
+        <p>Nous te verrons un jour le Maistre de la terre,</p>
+        <p>Tout l'Univers sera l'Empire des François.</p>
+        <p>Dieux, conservez ce grand Monarque,</p>
+        <p>Qu'il n'ait jamais que de beaux jours ;</p>
+        <p>Que jamais la cruelle Parque</p>
+        <p>N'en puisse interrompre le cours.</p>
+        <p/>
+        <p>BACCUS.</p>
+        <p>Quoy, sans Bachus fait-on des Festes</p>
+        <p>Et celebre-t-on de LOUIS</p>
+        <p>Les hauts faits inouis ?</p>
+        <p>Mars ny l'Amour sans moy ne font point de conquestes,</p>
+        <p>Pour les Guerriers il faut du vin.</p>
+        <p/>
+        <p>SILENE.</p>
+        <p>Beuvons sans fin</p>
+        <p>De ce nectar divin.</p>
+        <p>Que chacun s'enyvre,</p>
+        <p>Malheur à qui ne voudra suivre</p>
+        <p>Ce Dieu de pampre couronné,</p>
+        <p>Qui s'enyvra dés qu'il fut né.</p>
+        <p/>
+        <p>BACCUS &amp; SILENE.</p>
+        <p>Beuvons, chantons, vuidons les pots,</p>
+        <p>Pour boire à la Santé plus de grand Heros.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Prions les Immortels de nous donner la paix ;</p>
+        <p>Que le bruit des Canons, des Mousquets, des Trompettes</p>
+        <p>Fasse place aux Balets, aux Chansons, aux Musettes.</p>
+        <p/>
+        <p>UN FRANÇOIS.</p>
+        <p>Ah, quand viendra ce temps avec tous ses attraits !</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Il va rendre bien-tost nos desirs satisfaits.</p>
+        <p>Le siecle d'or qu'on vit sous le regne d'Auguste,</p>
+        <p>Va regner sous le Fils du Roy Louis le Juste ;</p>
+        <p>Nos lauriers produiront les Mirthes de la paix,</p>
+        <p>Pour ne secher jamais.</p>
+      </div>
+
+<div xml:id="MG-1691-04_148">
+        <head>MG-1691-04_148</head>
+        <bibl>Mercure galant, avril 1691, p. 148-149</bibl>
+        <p>Tenebres.</p>
+        <p/>
+        <p>A l'égard de l'Office de la Semaine Sainte, que l'on appelle Tenebres, la vois de Madame Cheret a esté admirée à l'Assomption, comme dans les années précédentes. Aussi peut-on dire que cette voix y attire seule autant de monde que pourroient faire des Tenebres toutes en Musique. Celle de Mr Charpentier a paru admirable, &amp; a fait augmenter de plus en plus les Assemblées qui se sont trouvées dans l'Eglise du College de Loüis le Grand, pour entendre les Tenebres qu'on y a chantées les trois jours accoutumez. Cette Musique a fait d'autant plus d'impression, qu'elle exprimoit parfaitement le sujet des paroles qu'on chantoit, &amp; qu'elle en faisoit comprendre la force.</p>
+      </div>
+
+<div xml:id="MG-1691-04_159">
+        <head>MG-1691-04_159</head>
+        <bibl>Mercure galant, avril 1691, p. 159-162</bibl>
+        <p>Le 29, du mois passé, les Commissaires-Contrôleurs-Mouleur de bois, &amp; autres Officiers sur le bois, voulant témoigner le zele qu'ils ont pou le Roy, firent chanter une Messe solemnelle, pour la conservation de sa personne sacrée &amp; pour la prospérité de ses armes, dans l'Eglise du Saint Esprit, à l'imitation de Mrs les Prevost des Marchands &amp; Echevins de Paris, qui s'estoient acquittez de devoir dans la mesme Eglise ; &amp; le Mardy 3, de ce mois, les Marchands Maistres Ouvriers en draps d'or, d'argent &amp; de foye d'établissement Royal, firent faire la mesme solemnité dans l'Eglise des Peres Benedictins de la Congregation de S. Maur, dits Blan-Manteaux, où ils ont depuis longtemps étably leur Confrairie. La Messe fut précédée de l'hymne Veni Creator, &amp; suivie du Pseaume Exaudiat, qui furent chantez alternativement par les Religieux &amp; par l'Orgue. Tous leurs Officiers en charge y assisterent en corps, &amp; donnerent tous dans cette occasion des marques de leur piété. Le luminaire &amp; les Ornemens estoient les blus beaux que ces religieux ayent coutume d'employer dans les Festes les plus solemnelles ; &amp; non seulement ils joignirent leurs Sacrifices aux prieres de cette Compagnie, dont ils voulurent seconder le zele, mais ils ont celebré plusieurs Messes en leur particulier, pour demander à Dieu ses graces &amp; sa protection pour le Roy, tant qu'a duré le Siege de Mons.</p>
+      </div>
+
+<div xml:id="MG-1691-04_204">
+        <head>MG-1691-04_204</head>
+        <bibl>Mercure galant, avril 1691, p. 204-207</bibl>
+        <p>Divers ouvrages sur la Prise de Mons.</p>
+        <p/>
+        <p>VERS LIBRES,</p>
+        <p>Imitez &amp; chantez sur des airs des Opera de Roland &amp; d'Armide.</p>
+        <p/>
+        <p>Du plus grand de nos Rois celebrons la Conqueste,</p>
+        <p>Les faits éclatans &amp; gueriers.</p>
+        <p>Cueillons à foison des lauriers,</p>
+        <p>Et soyons des premiers à couronner sa teste.</p>
+        <p>*</p>
+        <p>Faisons entendre en mille lieux,</p>
+        <p>Qu'à ce Heros tout est possible ;</p>
+        <p>Faisons entendre en mille lieux,</p>
+        <p>Que son regne est tout glorieux.</p>
+        <p>*</p>
+        <p>A sa rare valeur rien n'est inaccessible,</p>
+        <p>Et par tout elle est invincible,</p>
+        <p>Quand la gloire s'offre à ses yeux.</p>
+        <p>*</p>
+        <p>Tandis qu'en vains projets la Ligue est occupée,</p>
+        <p>Que pour armer elle atend le Printemps,</p>
+        <p>Impatient d'exercer son épée,</p>
+        <p>Ce conquérant la tient prête en tout temps.</p>
+        <p>De ses desseins secrets il cache l'importance,</p>
+        <p>Et prevenant ses Ennemis,</p>
+        <p>Il va jusque chez eux affronter leur Puissance,</p>
+        <p>De leurs Remparts forcer la resistance,</p>
+        <p>Et montrer qu'à son bras tout doit estre soumis.</p>
+        <p>*</p>
+        <p>Triomphez malgré l'envie,</p>
+        <p>Triomphez, ô Puissant Roy,</p>
+        <p>On vit heureux sous vostre Loy.</p>
+        <p>Et par vos soins l'erreur en est bannie,</p>
+        <p>Triomphez malgré l'envie,</p>
+        <p>Triomphez, ô Puissant Roy.</p>
+        <p>*</p>
+        <p>Quand vous courez aux armes,</p>
+        <p>Vous causez mille allarmes.</p>
+        <p>On sçait combien pesent vos coups,</p>
+        <p>Et ce que peut vostre couroux.</p>
+        <p>Quand vous courez aux armes,</p>
+        <p>Vous causez mille allarmes.</p>
+        <p>*</p>
+        <p>Les Lys sont la tige feconde</p>
+        <p>Du plus beau Sang du Monde.</p>
+        <p>C'est d'eux que sortent des Cesars,</p>
+        <p>Dont la force &amp; le nom sont craints de toutes parts.</p>
+        <p>*</p>
+        <p>Cassel &amp; Philisbourg les ont veus intrepides,</p>
+        <p>A Mons ils ont par tout affronté le danger,</p>
+        <p>Et déjà de jeunes Alcides</p>
+        <p>S'empressent de les suivre, &amp; de le partager.</p>
+      </div>
+
+<div xml:id="MG-1691-04_335">
+        <head>MG-1691-04_335</head>
+        <bibl>Mercure galant, avril 1691, p. 335-336</bibl>
+        <p>Suite du Journal du Siège de Mons.</p>
+        <p/>
+        <p>[...] Le 11, le Roy fit le tour des remparts [de Mons], où il se trouva un nombre considerable de Canons [...]. Les Religieuses de l'Abbaye où le Roy a logé, ayant demandé avec de grandes instances à voir Sa Majesté, on les fit venir du lieu ou elles estoient retirées. Elles chanterent aussi tost le Te Deum, &amp; le Domine salvum fac regem, &amp; sa Majesté leur fit de grandes liberalitez. [...]</p>
+      </div>
+
+<div xml:id="MG-1691-04_339">
+        <head>MG-1691-04_339</head>
+        <bibl>Mercure galant, avril 1691, p. 339-344</bibl>
+        <p>Le Roy ayant donné ses ordres à l'égard de Mons &amp; de ses Troupes, partit du Camp le 12, de ce mois, &amp; ayant couché ce jour-là au Quesnoy, &amp; le lendemain à S Quentin, il arriva le 14. à Compiegne, où il séjourna le jour de Pasques. Sa Majesté, pour solemniser cette grande Feste, quoy qu'Elle de reservast à faire ses devotions le Dimanche suivant à Versailles, alla le matin entendre la grande Messe à la Paroisse de Saint Jacques, qui est celle du Chasteau. [...] L'aprésdînée, Sa Majesté qui avoit fait avertir les Religieux Benedictins de l'Abbaye de S. Corneil, de la Congregation de S. Maur, qui est l'Eglise principale de la Ville, qu'Elle iroit y  entendre Vespres s'y rendit sur les deux heures, accompagnée, comme le matin, de toute la Cour. Le P. Prieur, revestu d'une Chape, avec les Chantres &amp; les autres Officiers, l'alla recevoir à la teste de sa Communauté, à la porte de l'Eglise, où il lui presenta une Croix pretieuse de l'Empereur Charlemagne, dans laquelle il y a une partie tres-considerable de la vraye Croix. Le Roy s'estant mis à genoux la baisa avec sa devotion ordinaire ; après quoy ayant esté conduit à la place qu'on luy avoit préparée dans le Choeur, il entendit les Vespres, qui furent chantées solemnellement, &amp; à la fin desquelles on vint encenser Sa Majesté. Pendant tout le temps qu'elles durerent, Elle donna des marques de sa solide pieté, &amp; de la veneration qui est deuë à ce saint jour, en se iognant [sic] avec  les Religieux pour chanter à haute voix les louanges de Dieu, aussi-bien que Monseigneur le Dauphin, &amp; plusieurs Seigneurs de la Cour. [...] [Sa Majesté] partit le 16. de Compiegne, &amp; arriva le lendemain à Versailles, d'où Elle estoit partie le 17. de Mars ; [...]. On a déjà chanté deux fois le Te Deum à Paris, quoy que le temps où la Campagne s'ouvre ordinairement, ne soit pas encore arrivé. La prise de cinq Places en Italie meritoit bien qu'on rendist à Dieu des graces particulieres, &amp; la conqueste de la plus forte Place des Pays-bas, ne le meritoit pas moins. Les réjouissances ont esté icy extraordinaires, plus par l'amour que les Peuples ont pour le Roy, qu'à cause de l'importance de ses conquestes. Le Feu d'artifice que la Ville a fait pour la prise de Mons a esté d'autant plus considerable, que suivant ses statuts, la dépense augmente pour tout ce qui se fait lors que les Rois prennent eux-mesmes des Places, ou gagnent des Batailles, &amp; tous les Officiers de Ville qui ont des droits pour ces sortes de réjouissances, reçoivent le double.</p>
+      </div>
+</body>
+  </text>
+</TEI>

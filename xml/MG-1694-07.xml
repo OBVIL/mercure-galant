@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-07_083">
+        <head>MG-1694-07_083</head>
+        <bibl>Mercure galant, juillet 1694, p. 83-87</bibl>
+        <p>L'abondance de la matiere m'empescha le mois passé de vous parler de la mort de plusieurs personnes d'un rang distingué. Mr le Duc de Sully dont le nom estoit Maximilien Pierre-François de Bethune, mourut dans sa maison de Sully, âgé de cinquante quatre ans. Il estoit Pair de France, Chevalier des Ordres du Roy, &amp; Fils de Maximilien François de Bethune, Duc de Sully Pair de France, Prince d'Enrichemont, &amp; de Charlote Seguier, Fille de Pierre Duc de Villemor, Pair &amp; Chancelier de France, qui estant demeurée Veuve en 1661. épousa en 1668. Henry legitimé de France, Duc de Verneüil, Fils du Roy Henry IV. Ayeul de Sa Majesté, Mr le Duc de Sully qui vient de mourir, estoit Frere de Madame la Duchesse du Lude, auparavant Comtesse de Guiche. Il avoit pris alliance en 1658. avec Marie-Antoinette Servient, Fille d'Abel, Marquis de Sablé, Sur-Intendant des Finances, &amp; il en a eu entre autres Enfans Mr le Prince d'Enrichemont qui espousa Mademoiselle de Coissin il y a quelques années. La Maison de Bethune est si connuë, &amp; je vous en ay parlé tant de fois, qu'il me seroit inutile de rien ajouster à ce que je vous en ay déjà dit. Mr le Duc de Sully, estant Gouverneur du Vexin François, Mr le Noir, en qualité de Maire de la Ville de Mante, fit faire le 6. de ce mois un Service solemnel, pour le repos de son ame, dans l'Eglise Royale &amp; Collegiale de ce lieu. Mrs du Presidial, &amp; toutes les autres Compagnies y assisterent en corps, ainsi que les Echevins &amp; Arquebusiers de la Ville. Toute l'Eglise estoit tenduë de drap noir, avec des Armoiries de distance en distance, &amp; on avoit eslevé un superbe Mauzoléee au milieu du Choeur, éclairé d'un tres-grand nombre de Cierges. La Musique qu'on entendit à la Messe répondit parfaitement aux magnifiques preparatifs que l'on avoit faits.</p>
+      </div>
+
+<div xml:id="MG-1694-07_097">
+        <head>MG-1694-07_097</head>
+        <bibl>Mercure galant, juillet 1694, p. 97-100</bibl>
+        <p>Madrigal.</p>
+        <p/>
+        <p>Les Vers qui suivent sur cette mesme Victoire [celle du Duc de Noailles], sont de Mademoiselle Itié, qui fit il y a deux ans cette celebre Chanson, qui a esté chantée dans toute l'Europe, &amp; où il y avoit pour refrein à chaque couplet, Tout le long de la Riviere. Ce fut lors que le Prince d'Orange avec cent mille hommes regarda prendre Namur, couvert de la Mehagne, qu'il feignoit toujours de vouloir passer, &amp; que pourtant il ne passa point.</p>
+        <p/>
+        <p>Les desseins de Louis sont secondez des Cieux,</p>
+        <p>Il vient de remporter une grande victoire,</p>
+        <p>Et malgré ses fiers envieux</p>
+        <p>Il est toujours couvert de gloire.</p>
+        <p>Ils ont beau se liguer pour rompre ses projets,</p>
+        <p>Par mille inventions effrayer ses Sujets.</p>
+        <p>C'est en vain, rien ne peut ébranler son courage.</p>
+        <p>On le voit constamment marcher d'un pas égal.</p>
+        <p>Et ce que contre luy peut inventer leur rage ;</p>
+        <p>Pour eux seuls est toujours fatal.</p>
+        <p/>
+        <p>SUR LA VICTOIRE</p>
+        <p>De Mr le Maréchal</p>
+        <p>de Noailles.</p>
+        <p>Un Heros n'est Heros parfait</p>
+        <p>Que lors que tous ses pas sont conduits par sa teste,</p>
+        <p>Et que de conqueste en conqueste,</p>
+        <p>La sagesse en tous lieux répond de ce qu'il fait.</p>
+        <p>Ce n'est pas tout, il faut dans cette noble lice,</p>
+        <p>Où tous ses Ennemis demeurent abbatus,</p>
+        <p>Que l'aspect du Heros soit la terreur du Vice,</p>
+        <p>Et que son grand nom ne s'unisse</p>
+        <p>Qu'au nom des plus grandes vertus.</p>
+        <p>Dans ses travaux, dans ses Batailles,</p>
+        <p>Dans tous ses succés inoüis,</p>
+        <p>Tel est toujours le grand Louis,</p>
+        <p>Et tel est aujourd'huy Noailles.</p>
+        <p/>
+        <p>A LA FRANCE.</p>
+        <p>Quelle rapidité dans toutes vos conquestes !</p>
+        <p>Quel excés de valeur dans tous vos Generaux !</p>
+        <p>France, que vous avez d'habiles Marèchaux !</p>
+        <p>Il semble que Loüis est toujours à leurs testes.</p>
+      </div>
+
+<div xml:id="MG-1694-07_290">
+        <head>MG-1694-07_290</head>
+        <bibl>Mercure galant, juillet 1694, p. 290-293</bibl>
+        <p>Journal du siege de Gironne.</p>
+        <p/>
+        <p>Pendant que la consternation remplissoit la Ville de Madrid, la joye éclatoit à Paris, &amp; on s'y préparoit à faire des feux de joye, &amp; à chanter le Te Deum. Voicy la Lettre du Roy écrite sur ce sujet à Mr l'Archevesque de Paris.</p>
+        <p>Mon Cousin. Je ne puis estre insensible à la joye d'avoir remporté un avantage que le sort des Armes m'avoit autrefois refusé. Je suis Maistre de Gironne. Cette Place a esté assiegée le 24. du mois dernier, par mon Cousin le Maréchal Duc de Noailles, &amp; quoi qu'elle fust défendue par les avantages de sa situation, par une Garnison de prés de cinq mile hommes, &amp; par la réputation qu'elle s'estoit acquise, elle s'est renduë après cinq jours seulement de tranchée ouverte, &amp; aux conditions qu'on a voulu luy imposer. Plus cette conqueste a esté facile, plus je me sens obligé d'en rendre grace au Ciel, qui en èpargnant le sang de mes Sujets, ajoûte à la gloire du succès une faveur qui m'est plus precieuse que toutes les autres qu'il m'accorde. Je vous ècris donc cette Lettre, pour vous dire que mon intention est, que vous fassiez chanter le Te Deum dans l'Eglise Cathedrale de ma bonne Ville de Paris, le 14. de ce mois, à l'heure que le Grand Maistre ou le Maistre des Ceremonies vous dira de ma part, &amp; je donne ordre à mes Cours d'y assister en la maniere accoutumée. Sur ce je prie Dieu qu'il vous ait, mon Cousin, en sa sainte &amp; digne garde. Ecrit à Versailles, le 12. jour de Juillet 1694, signé LOUIS. Et plus bas, Phelypeaux.</p>
+      </div>
+
+<div xml:id="MG-1694-07_338">
+        <head>MG-1694-07_338</head>
+        <bibl>Mercure galant, juillet 1694, p. 338-339</bibl>
+        <p>Nouvelles de la Recolte.</p>
+        <p/>
+        <p>La joye que nos Ennemis ont euë du Bombardement de Dieppe a esté bien moderée par l'abondance de nostre Recolte. Vous ne devez pas ignorer que quatre années ensemble, n'ont jamais fourny une plus abondante moisson ; de sorte que d'un jour de marché à l'autre, on a vendu dans Amiens une pistole, ce qui en valoit quatre le jour precedent. Les Habitans en ont eu tant de joye, qu'en action de graces, ils y ont fait chanter le Te Deum ; &amp; cet exemple a déja esté suivy par plusieurs Villes.</p>
+      </div>
+
+<div xml:id="MG-1694-07_339">
+        <head>MG-1694-07_339</head>
+        <bibl>Mercure galant, juillet 1694, p. 339-340</bibl>
+        <p>Le Défenseur des Dames.</p>
+        <p/>
+        <p>Puisque nous sommes sur le chapitre de la joye, je vous diray que la Comedie Italienne, dont vous me parlez, &amp; qui a pour titre, le Deffenseur des Dames, a fort réussi, &amp; qu'elle a esté joüée plus de trente fois de suite, avec une petite Piece du mesme Auteur, où les hommes ne sont pas moins agreablement attaquez que les femmes, dans la premiere, on y voit un jeune Acteur qui promet beaucoup, &amp; qui chante fort agreablement. Il est fils de Maistre, puisqu'il est fils de Mr Cinthio, qui vous a souvent diverty de plus d'une maniere sur le Theatre, estant le premier de ceux qui ont travaillé avec succez dans le goust François.</p>
+      </div>
+</body>
+  </text>
+</TEI>

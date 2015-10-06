@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-04_119">
+        <head>MG-1686-04_119</head>
+        <bibl>Mercure Galant, avril 1686, p. 119-120</bibl>
+        <p>Lettre à l'Evesque de Lavaur</p>
+        <p/>
+        <p>[Dans une Lettre datée du 28 mars 1686, adressée par l'Abbé Faydit à l'Abbé Fléchier nommé à l'Evêché de Lavaur, on peut lire :]</p>
+        <p/>
+        <p>[...] J'ay une petite Maison de Campagne, où pour tout ornements, j'ay fait peindre les sept plus grands Personnages qui ayent jamais esté chacun dans leur genre, &amp; que je regarde comme les sept Miracles du Monde ; Monsieur le Prince pour la Guerre ; Mr Descartes pour la Physique ; Mr Arnauld pour la Science de la Religion &amp; la Polémique ; Mr Corneille pour la Tragédie ; Mr Lully pour la Musique ; Mr le Brun pour la Peinture ; &amp; vous Monseigneur, pour l'Eloquence. Le Roy est au dessus de tous vous autres, qui répand ses rayons pour vous éclairer &amp; vous échauffer au travail. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-04_136">
+        <head>MG-1686-04_136</head>
+        <bibl>Mercure Galant, avril 1686, p. 136-137, 144-146</bibl>
+        <p>Fruits extraordinaire d'une Mission faite à Privas</p>
+        <p/>
+        <p>Il s'est fait à Privas une Mission qui a produit de grands fruits. Privas est une Ville dans le Vivarets qui a soûtenu l'Hérésie jusqu'à la Rébellion, en sote qu'on fut obligé de l'assiéger pour la réduire à l'obéïssance. On en bannit tous les Religionnaires, ce qui fut cause qu'il y resta peu de monde. Il y a présentement environ quinze cens habitans, dont huit cens ne se sont convertis que depuis le mois de septembre dernier. C'est seulement depuis ce temps là qu'ils ont esté receus dans la Ville. [...]</p>
+        <p/>
+        <p>[Un dimanche, seules les jeunes filles furent invitées à communier.] Elles se trouvèrent à l'Eglise, à l'heure marquée, au nombre de deux cens, &amp; et le Crucifix fut mis entre les mains de celle qui avoit demandé de le porter. On entonna les Litanies. Elles continuèrent à les chanter, sortant de l'Eglise deux à deux, &amp; marchèrent ainsi fort dévotement, suivies de Mr le Curé, &amp; de quelques Ecclésiastiques, qui chantoient des Motets en Fauxbourdon.</p>
+        <p>Après eux marchoient quantité d'hommes &amp; de Femmes, dont la foule fit connoistre que cette Cérémonie ne les choquoit pas. A leur retour elles se placèrent dans l'endroit qu'on leur avoit préparé. M. le Curé commençait la Messe, pendant laquelle un des Missionnaires produisoit à haute voix des Actes de Foy, d'Esperance, de Charité, de regret &amp; d'humilité, alternativement avec un Ecclésiastique, qui chantoit en plein-chant quelques paroles de l'hymne Pange Lingua. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-04_170">
+        <head>MG-1686-04_170</head>
+        <bibl>Mercure Galant, avril 1686, p. 170-187</bibl>
+        <p>Il y a quelques années que je vous fis une exacte &amp; entière description de tous les Appartemens de Versailles &amp; de ce que l'on appelle tenir Apartement. La Musique est du nombre des divertissemens que l'on y prend les jours qu'on le tient. Non seulement les plus beaux Airs de Mr de Lully y sont chantez, mais encore ceux des Maistres de Musique qui ont quelque distinction, &amp; dont les Ouvrages ont fait bruit. Cela fait qu'ils s'empressent tous à travailler, &amp; qu'ils cherchent de belles paroles, parce que lors qu'il sont assez heureux pour en avoir, ils sont seurs que leur Musique paroistra beaucoup davantage. C'est ce qui arriva dernièrement au Sieur Marets, qui ayant mis en Musique l'Idille que je vous envoye, le fit chanter aux Apartemens en présence de toute la Cour. Il y arriva une chose extraordinaire, &amp; qui fait connoistre son grand succés. Madame la Dauphine en fut si contente, qu'elle le fit recommencer sur l'heure. Tous ceux qui l'avoient déjà oüy, l'entendirent une seconde fois, &amp; témoignèrent y prendre un nouveau plaisir. Il fut encore chanté le jour d'Apartemens suivant. Je vous ay souvent parlé des Ouvrages de Prose &amp; de Vers, &amp; de de différens caractères de l'Auteur des paroles, c'est tout ce que je vous en diray aujourd'huy. J'espère vous envoyer le mois prochain quelques endroits notez de l'Idille.</p>
+        <p/>
+        <p>IDILLE</p>
+        <p>DRAMATIQUE.</p>
+        <p/>
+        <p>SCENE I.</p>
+        <p/>
+        <p>La France, la Paix, le Repos, les Plaisirs, Choeur.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Venez, aimable Paix,</p>
+        <p>Venez, Repos tranquille,</p>
+        <p>La France pour jamais</p>
+        <p>Doit estre vostre azile.</p>
+        <p/>
+        <p>LE REPOS.</p>
+        <p>Allons, aimable Paix</p>
+        <p/>
+        <p>LA PAIX.</p>
+        <p>Allons, Repos tranquille</p>
+        <p/>
+        <p>Le Repos &amp; la Paix ensemble</p>
+        <p>La France pour jamais</p>
+        <p>Doit estre nostre azile</p>
+        <p/>
+        <p>Choeur</p>
+        <p>Venez, aimable Paix, &amp;c.</p>
+        <p/>
+        <p>La Paix et le Repos</p>
+        <p>Arrestons dans ces lieux les Jeux &amp; les Plaisirs,</p>
+        <p>De nos plus doux bienfaits comblons tous les désirs,</p>
+        <p>Faisons que tout repose,</p>
+        <p>Et ne souffrons d'autres soûpirs</p>
+        <p>Que ceux que l'Amour cause.</p>
+        <p/>
+        <p>Entrée des Plaisirs et des Jeux, qui se mêlent avec les Bergers qui dansent</p>
+        <p/>
+        <p>Trois Plaisirs Chantent</p>
+        <p>Dans ce beau séjour</p>
+        <p>Les Craintes seroient vaines ;</p>
+        <p>Les Plaisirs tour à tour</p>
+        <p>En banissent les peines,</p>
+        <p>On n'y porte d'autres chaisnes</p>
+        <p>Que les chaisnes de l'Amour.</p>
+        <p/>
+        <p>Une Bergère</p>
+        <p>On ne voit dans ce Boccage</p>
+        <p>Que les Jeux les plus charmans.</p>
+        <p>C'est icy que l'on s'engage,</p>
+        <p>Sans connoistre les tourmens,</p>
+        <p>On ne craindra plus les peines</p>
+        <p>Dans un si charmant séjour,</p>
+        <p>On n'y porte d'autres chaisnes</p>
+        <p>Que les chaisnes de l'Amour.</p>
+        <p/>
+        <p>Entrée</p>
+        <p>Les Bergères s'en vont avec les Plaisirs.</p>
+        <p>Les Bergers restent seuls.</p>
+        <p/>
+        <p>SCENE II</p>
+        <p/>
+        <p>Tirsis, Iris, Lisandre</p>
+        <p/>
+        <p>TIRSIS.</p>
+        <p>Suivons nos jeunes Bergères,</p>
+        <p>Les Jeux et les plaisirs s'attachent à leurs pas,</p>
+        <p>Les Bergers ne se plaisent guères</p>
+        <p>Où les bergères ne sont pas.</p>
+        <p/>
+        <p>LISANDRE.</p>
+        <p>Allez, Bergers, dans ce Boccage,</p>
+        <p>Vous qui vivez contens dans l'Empire amoureux,</p>
+        <p>Les Ris, les Jeux, le Badinage</p>
+        <p>Sont faits pour les Amans heureux.</p>
+        <p>Je voy danser Tirsis, il court à ma Bergère,</p>
+        <p>Elle me fuit, elle l'attend ;</p>
+        <p>Quand on voit un rival content,</p>
+        <p>Tous les plaisirs ne touchent guère.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Ne plaist on plus dès que l'on aime ?</p>
+        <p>J'avois sceu le charmer</p>
+        <p>Avant que de sçavoir aimer,</p>
+        <p>Son amour estoit extrême</p>
+        <p>Avant qu'il fist naistre le mien ;</p>
+        <p>Et quand je l'aime plus qu'il ne m'aimoit luy-mesme,</p>
+        <p>Il ne me dit plus rien.</p>
+        <p>Ne plaist on plus dès que l'on aime ?</p>
+        <p/>
+        <p>LISANDRE.</p>
+        <p>Je vous entens, vous soûpirez,</p>
+        <p>Depuis quand estes-vous si tendre ?</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Depuis que vous ignorez</p>
+        <p>Que vous sçavez vous faire entendre.</p>
+        <p/>
+        <p>LISANDRE.</p>
+        <p>Tirsis n'est pas avec vous,</p>
+        <p>Vous croyez luy parler sans doute.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Depuis que Lisandre est jaloux</p>
+        <p>Je luy parle snas qu'il m'écoute.</p>
+        <p/>
+        <p>LISANDRE.</p>
+        <p>Mon coeur toujours de bonne foy</p>
+        <p>Ne sçauroit s'attacher qu'au vostre,</p>
+        <p>Et vous, quand vous parlez à moy,</p>
+        <p>Vous songez à quelque autre.</p>
+        <p/>
+        <p>IRIS.</p>
+        <p>Vous affectez un vain couroux</p>
+        <p>Pour me faire une querelle ;</p>
+        <p>Vous voulez estre cru jaloux,</p>
+        <p>Pour estre cru fidelle.</p>
+        <p/>
+        <p>LISANDRE.</p>
+        <p>Si vous craignez toujours que je puisse changer</p>
+        <p>L'objet d'un amour extrême,</p>
+        <p>Iris, connoissez-moy, connaissez-vous vous mesme,</p>
+        <p>Vous ne craindrez plus ce danger.</p>
+        <p/>
+        <p>Ensemble</p>
+        <p>Aimons-nous d'une ardeur mutuelle.</p>
+        <p>Aimons-nous pour nous aimer toujours ;</p>
+        <p>Qu'une flâme toujours nouvelle</p>
+        <p>Rallume à tous momens nos premières amours.</p>
+        <p>Aimons-nous d'une ardeur mutuelle.</p>
+        <p>Aimons-nous pour nous aimer toujours.</p>
+        <p/>
+        <p>Le Choeur répète ces deux derniers Vers.</p>
+        <p/>
+        <p>PASSECAILLE</p>
+        <p/>
+        <p>Qu'un Berger dans ce charmant Boccage</p>
+        <p>Est heureux dès qu'il est amoureux !</p>
+        <p>Son amour n'est jamais volage,</p>
+        <p>Et jamais la Beauté qui l'engage</p>
+        <p>Ne trahit en l'aimant ses désirs ny ses feux.</p>
+        <p>Qu'un Berger dans ce charmant Boccage</p>
+        <p>Est heureux dès qu'il est amoureux !</p>
+        <p/>
+        <p>Un jeune Amant tendre &amp; fidelle</p>
+        <p>Toujours constant dans son amour,</p>
+        <p>Ne trouve point de coeur rebelle</p>
+        <p>Qui malgré ses rigueurs ne céde quelque jour.</p>
+        <p/>
+        <p>Ne vous rebutez pas dans vos tendres désirs,</p>
+        <p>Amans, vos frayeurs sont vaines ;</p>
+        <p>Ce n'est qu'avec des peines</p>
+        <p>Qu'on achète les plaisirs.</p>
+        <p/>
+        <p>SCENE III</p>
+        <p/>
+        <p>La France, la Paix, la Victoire, Choeur.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Quels tambours, quelles trompettes ?</p>
+        <p/>
+        <p>LA PAIX &amp; LA FRANCE</p>
+        <p>Quelles clameurs mal à propos</p>
+        <p>Interrompent nos Musettes,</p>
+        <p>Et menacent nostre repos ?</p>
+        <p/>
+        <p>LA PAIX À LA FRANCE</p>
+        <p>Quoy, jusque dans ton sein craindray-je la Victoire ?</p>
+        <p/>
+        <p>LE REPOS</p>
+        <p>La barbare en tous lieux m'attaque &amp; me détruit,</p>
+        <p>Je suis d'accord avec la Gloire,</p>
+        <p>Et la Victoire me poursuit.</p>
+        <p/>
+        <p>La Paix &amp; le Repos ensemble</p>
+        <p>Je suis d'accord avec la Gloire,</p>
+        <p>Et la Victoire me poursuit.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Victoire toujours agissante,</p>
+        <p>La Paix &amp; le Repos règnent dans mes Etats,</p>
+        <p>Les Plaisirs et les Jeux suivent icy leurs pas,</p>
+        <p>Ne viens pas me priver de leur douceur charmante,</p>
+        <p>La Gloire en est contente.</p>
+        <p>Et la Victoire ne l'est pas.</p>
+        <p/>
+        <p>LA VICTOIRE.</p>
+        <p>Non, je ne puis souffrir tes Festes,</p>
+        <p>Et tu reçois trop bien la Paix &amp; le Repos.</p>
+        <p>La bonté du Héros</p>
+        <p>Limite ses Conquestes,</p>
+        <p>S'il n'eust jamais donné la Paix,</p>
+        <p>Ta gloire alloit plus loin que tes souhaits.</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Tout rit, tout chante,</p>
+        <p>Dans ces leiux pleins d'appas,</p>
+        <p>La Gloire en est contente,</p>
+        <p>Et la Victoire ne l'est pas.</p>
+        <p/>
+        <p>LA VICTOIRE.</p>
+        <p>Quelle terreur, quelle épouvante</p>
+        <p>A jamais trouble tes Etats</p>
+        <p>Dans le temps mesme des combats ?</p>
+        <p>Du Héros que je sers la valeur triomphante</p>
+        <p>Te laissoit entre les bras</p>
+        <p>D'un paisible repos &amp; d'une Paix constante.</p>
+        <p>Quelle terreur, quelle épouvante</p>
+        <p>A jamais trouble tes Etats</p>
+        <p>Dans le temps mesme des combats ?</p>
+        <p/>
+        <p>LA FRANCE.</p>
+        <p>Du héros que tu sers la douceur est charmante,</p>
+        <p>Jusqu'à ses ennemis, il veut que tout ressente</p>
+        <p>Le tranquille repos qui règne en ses Etats.</p>
+        <p>La Gloire en est contente,</p>
+        <p>Et la Victoire ne l'est pas.</p>
+        <p/>
+        <p>LA VICTOIRE.</p>
+        <p>Le Maistre de cet Empire</p>
+        <p>Devoit l'estre de l'Univers.</p>
+        <p>Dans les plaisirs divers</p>
+        <p>Que le repos inspire,</p>
+        <p>Laisse chanter &amp; rire</p>
+        <p>Ceux dont il brise les fers ;</p>
+        <p>Mais toy, connois ce que tu perds.</p>
+        <p>Le Maistre de cet Empire</p>
+        <p>Devoit l'estre de l'Univers.</p>
+        <p/>
+        <p>La France, la Paix &amp; le Repos</p>
+        <p>Du Héros triomphant la sagesse profonde</p>
+        <p>Cherche moins son bonheur que le bonheur du Monde.</p>
+        <p/>
+        <p>LA VICTOIRE.</p>
+        <p>Il faut donc céder au Repos,</p>
+        <p>La Paix m'arreste,</p>
+        <p>Je ne vay qu'avec le héros,</p>
+        <p>Je n'interromps plus vostre Fetse</p>
+        <p>La Paix m'arretse.</p>
+        <p/>
+        <p>Grand Choeur</p>
+        <p>Benissons le Vainqueur, qu'il triomphe à jamais,</p>
+        <p>Il unit le Repos, la Victoire &amp; la Paix.</p>
+        <p/>
+        <p>Une Bergère</p>
+        <p>Bergers, qui vous plaignez de vos peines secrètes,</p>
+        <p>Bergers, qui murmurez du sort de vos rivaux,</p>
+        <p>Quittez vos Houlettes,</p>
+        <p>Confiez à vos chiens le soin de vos Troupeaux,</p>
+        <p>La Paix accorde les Trompettes</p>
+        <p>Au son de nos Musettes,</p>
+        <p>De petites Chansonnettes</p>
+        <p>Soulagent souvent de grands maux.</p>
+        <p/>
+        <p>Une autre Bergère</p>
+        <p>Nous ne craindrons plus que la Gloire</p>
+        <p>Nous vienne enlever nos Amans,</p>
+        <p>La Paix a finy nos tourmens,</p>
+        <p>Les bergers à leur tour</p>
+        <p>Vont faire triompher l'Amour.</p>
+        <p/>
+        <p>Le Grand Choeur</p>
+        <p>Benissons le Vainqueur, qu'il triomphe à jamais,</p>
+        <p>Il unit le Repos, la Victoire &amp; la Paix.</p>
+      </div>
+
+<div xml:id="MG-1686-04_204">
+        <head>MG-1686-04_204</head>
+        <bibl>Mercure Galant, avril 1686, p. 204-205, 210</bibl>
+        <p>Reception faite par M. le Vice-légat d'Avignon à M. le Comte de Castelamene</p>
+        <p/>
+        <p>Je croy, Madame que vous avez seu il y a déjà quelque temps, que Mr le Comte de Castelmene a esté nommé pour aller à Rome en qualité d'Ambassadeur d'Obédience à sa Sainteté de la part du Roy d'Angleterre. [...] Mr Cency Vice-Légat d'Avignon, ayant seu qu'il estoit party de Paris, dépêcha son Secrétaire jusqu'à Pont-Saint-Esprit, pour luy faire compliment de sa part, &amp; luy offrir tout ce qui pouvoit dépendre de luy dans son Gouvernement ; &amp; sur l'avis qu'il receut que Mr l'Ambassadeur arriveroit à Avignon le soir du Dimanche 24 de Mars. [L'arrivée en ville de l'ambassadeur fut saluée, à la lueur de flambeaux par un long cortège constitué par tous les corps de la ville, ainsi que par des batteries d'infanterie. Il fut accueilli à la table du vice-légat d'Avignon qui] estoit de vingt quatre Couverts, &amp; il y eut six services, chacun de neuf grands Bassins, de douze Plats moyens, &amp; de douze autres hors d'oeuvre.</p>
+        <p/>
+        <p>La magnificence, la propreté &amp; la délicatesse Françoise aussi bien que l'Italienne, parurent à ce Repas &amp; à ceux qui suivirent, par l'abondance des viandes les plus exquises, [&amp;] par une excellente Symphonie [...]</p>
+      </div>
+
+<div xml:id="MG-1686-04_250">
+        <head>MG-1686-04_250</head>
+        <bibl>Mercure Galant, avril 1686, p. 250-254, 257-275, 278, 280-282, 287-295, 299, 305-306</bibl>
+        <p>Relation générale de tout ce qui s'est passé touchant la Statüe que M. le Duc de la Feüillade à fait élever à la gloire du Roy</p>
+        <p/>
+        <p>[Au lendemain de la Paix de Nimègue, le duc de la Feuillade décida de faire ériger à ses frais une statue du roi sur un piédestal orné de bas-reliefs relatant les victoires du monarque. Cette oeuvre de Martin Desjardins fut installée au centre de la place des Victoires conçue par Jules-Hardouin Mansart.]</p>
+        <p/>
+        <p>[...] il faut vous faire la description de cette mémorable Journée [le 28 mars dernier], qui ne sera pas moins vivre dans l'Histoire Mr le Duc de la Feüillade, que les Actions de valeur &amp; d'intrépidité qui luy ont fait mériter de remplir tant d'endroits de l'Histoire de LOÜIS LE GRAND il eut soin que les Ornements de la place fussent proportionnez à la grandeur &amp; à l'éclat de la Feste. Le lieu destiné pour Monseigneur le Dauphin, Monsieur, Madame &amp; tous les Princes &amp; Princesses qui le devoient accompagner, estoit d'une magnificence extraordinaire. C'estoit une espèce de Galerie ouverte à hauteur d'appuy par le devant d'un des costez. [...] Sa situation étoit avantageuse, parce que d'un costé on découvrait toute la Place, &amp; que de l'autre on voyoit &amp; dedans &amp; dehors tant que la veüe se pouvoit étendre. Vis à vis de cét endroit, au bas duquel les Troupes &amp; Mrs de Ville devoient passer, il y avoit un échaffaut remply de Violons, de Timbales, de Trompettes, &amp; de plusieurs autres instrumens. Toute la Place estoit environnée d'Echaffauts &amp; de Balcons, dont le devant estoit orné de Tapis magnifiques [...] Tous ces échaffauts furent occupés par le plus beau monde de Paris. On y entroit par plusieurs portes, &amp; sans peine, tant Mr le Duc de la Feüillade avoit donné de bons ordres pour empescher la confusion, presque inséparable des grandes Festes. [...]</p>
+        <p/>
+        <p>Lors que Monseigneur entra, il receut de la part de Mr le Duc de la Feüillade une Bourse remplie de Médailles d'or [à l'effigie du roi]. Il en prit une pour luy, &amp; une pour Madame la Dauphine, &amp; distribua les autres [...] On a fait un Coin particulier pour Sa Majesté. Il est une fois plus grand, &amp; l'on ne frappera qu'une Médaille pour le Roy, afin que ce Monarque en ait une qui soit unique dans le Monde [...]</p>
+        <p>Pendant que Monseigneur distribuait ces Médailles, les Violons &amp; les autres Instrumens se faisoient entendre alternativement, &amp; quelque fois ensemble [...] Il faut presentement vous parler de l'ordre qui fut gardé dans la Marche.</p>
+        <p>Dix-huit cens hommes du Régiment des Gardes, le Lieutenant Colonel, tous les Capitaines, Officiers, Sergens, Tambours, Hautsbois &amp; Fifres, avec quarante Trompettes s'estant rendus Place Dauphine à dix heures du matin, on détacha cent hommes pour la Garde de Monseigneur le Dauphin à l'Hostel de la Feüillade, autant pour l'Opéra, où devoit aller ce Prince, &amp; l'on se dispersa en trois cens à tous les bouts &amp; Carrefours des Rües qui aboutissoient dans celles par lesquelles on devoit passer pour aller à la Place des Victoires. [...] Comme Monseigneur devait arriver par le Quay du Louvre, &amp; qu'il estoit facile de l'apercevoir de dessus le Pont-Neuf, on avoit placé des Tambours de distance en distance depuis la Place Dauphine jusqu'à la Maison de Ville, qui devoit battre à son arrivée, ce qui estoit le signal pour faire tirer le Canon. Ce Prince ayant paru à deux heures &amp; demie, les Tambours en avertirent la Ville, le Canon tira, &amp; la Marche commença dans l'ordre qui suit. Le Major à cheval estoit à la teste, suivy des quatre Aydes, &amp; des quatre sous-Aydes Major. Après luy marchoient cinquante Sergens. Ils formoient cinq rangs, dont chacun estoit de dix, &amp; ils précédoient trente Trompettes, qui faisoient aussi trois rangs. Mr le Duc de la Feüillade, qui s'étoit rendu en Carosse à la Place Dauphine sur les deux heures après midy, paroissoit à cheval après les Trompettes, au milieu d'un grand espace que l'on avoit soin de laisser vuide. Vingt hommes de Livrées vestus de neuf, marchoient avec luy, &amp; deus de ses Gentilshommes alloient de chaque costé, ayant à l'arçon de la selle de grandes Bourses de velours remplies d'argent, qu'ils jettoient au Peuple pendant toute cette Marche. Ce Duc estoit suivy du Lieutenant Colonel, après lequel quatorze Capitaines à pied avec la Pique à la main, marchoient en deux rangs. Ils estoient suivis de vingt-six Divisions de cinquante soldats chacune, marchant dix de front. Il y en avoit dix de Mousquetaires, six de Piquiers, &amp; ensuite dix autres de Mousquetaires. Trois Officiers éstoient à la teste de chaque. Division de Mousquets, &amp; cinq Enseignes portoient leurs Drapeaux à la teste de chaque Division de Piques. Les Tambours &amp; les Hautbois marchoient entre ces Divisions, sçavoir vingt Tambours entre la seconde &amp; la troisième de Mousquets, huits Hautbois entre la cinquième &amp; la sixième ; vingt autres Tambours entre la septième &amp; la huitième ; huit Hautbois à la teste des Piquiers ; vingt Tambours entre la troisième &amp; quatrième Division de Piques ; huit Hautbois à la teste de la seconde manche des mousquets ; vingt Tambours entre la troisième &amp; la quatrième Division de cette seconde manche ; huit Hautbois entre la cinquième &amp; la sixième ; vingt Tambours entre la septième et la huitième. Quatorze Capitaines en deux rangs marchoient à la queüe des Troupes, précedez de douze Trompettes, &amp; suivis de cinquante Sergens, qui faisoient cinq rangs, comme les premiers. On alla part le Pont-neuf dans la rue de l'Arbre-sec ; on détourna à la Croix du Tiroir le long de la rüe Saint-Honoré, &amp; l'on entra par celle de Richelieu dans la rüe neuve des Petits champs. Toutes les fenestres estoient remplies de beau Monde, &amp; ornées de magnifiques tapis. Rien ne troubla l'ordre de la Marche, par le soin qu'eurent trente Mousquetaires, qui alloient cinquante pas devant, faire ranger tous ceux qui bordoient les rües. Ils s'arrestèrent à l'entrée de la Place sans y entrer. Lors que l'on fut dans la rüe des Petits-champs à la veüe de la Statüe de Sa Majesté, Mr le Duc de la Feüillade, qui avoit toûjours esté à cheval, fort superbement monté, mit pied à terre à trois cens pas de la Place, &amp; marcha la pique à la main. Il la mit sur l'épaule en y entrant, passa devant Monseigneur, &amp; laissant la Statüe à gauche, il la salüa de la Pique en passant devant. Tous les Capitaines, Officiers, &amp; Drapeaux la saluèrent de mesme. Le Major avec les Aydes &amp; sous-Aydes Major ayant passé à cheval devant la Statüe, tous chapeaux bas, les Aydes &amp; sous-Aydes mirent pied à terre, &amp; il n'y eut que le Major qui resta à cheval. Un Ayde Major à la teste de cinquante Sergens qui avoient commencé la Marche, fit le demy tour de la Statüe, &amp; lors qu'il fut près des bornes que séparent la rüe, de la Place, il leur fit faire un quart de conversion à droite, marchant le long des maisons de la Ville. Ils allèrent se poster en bordant la haye, &amp; faisant un quart de conversion par rang le long du petit ruisseau que forme le Pavé, &amp; qu'ils laissèrent un pied derrière eux, en occupant à distance égale tout l'espace qui est depuis le Fanal du coin de la rüe d'Aubusson, jusqu'au Fanal qui est près de la rüe des Fossez-Montmartre. Les trente Trompettes qui suivoient les Sergens, après avoir fait comme eux le demy tour de la Figure, firent une demie conversion, passèrent entre le rang des Sergens &amp; des Troupes, en sonnant toüjours, &amp; allèrent se poster en face de la Statüe, le dos tourné contre l'Hostel de Mr le Duc de la Feüillade. Ce duc avec tous les Capitaines, fit le tour entier de la Statüe, auprès de laquelle il alla se poster à droite, tenant toûjours la Pique à la main, &amp; faisant face comme la Statüe. Le Lieutenant Colonel se posta à trois pas derrière luy, le premier Capitaine à deux pas derrière le Lieutenant Colonel, &amp; tous les Capitaines l'un derrière l'autre environnant la Statüe, &amp; à un pas de la Balustarde de fer [qui entourait la statue]. Les six Sergens qui estoient à la teste des Troupes, menérent les soldats hors de la Place, &amp; leur firent occuper le Carrefour, la court, &amp; la rüe des Petits Pères, où un Ayde Major les posta de sorte qu'ils ne pûssent blesser personne en tirant. Les Officiers qui étoient à la teste des Divisions, au lieu de sortir avec leurs Soldats, qu'ils menèrent seulement près des bornes qui font la séparation de la rüe, firent un quart de mouvement à droite, &amp; se mettant à la file, ils allèrent former un rang devant celuy des Sergens qui estoient déjà postez, n'occupant que le mesme front que les Sergens, &amp; faisans face à la Statüe. Les Hautbois accompagnèrent les Troupes jusqu'à leur sortie de la place, &amp; faisant ensuite une demie conversion à gauche, ils allèrent se poster derrière la Statüe, à laquelle ils firent face à trois pas de la balustrade de fer. A mesure que les Tambours arrivoient prés des bornes, ils se séparoient des Troupes, &amp; le Tambour Major les postait dans la rûe le long des bornes. Ils firent aussi face à la Statüe, &amp; occupèrent l'espace qui est entre les deux Fanaux qui sont derrière. Les premiers Piqueurs ayant passé devant la Statüe, le Drapeau blanc &amp; quatre Sergens se détachèrent, &amp; allèrent se poster devant &amp; aux pieds de la Statüe, à trois pas devant la balustrades. [...]</p>
+        <p/>
+        <p>A mesure qu'il arrivoit des Tambours &amp; des Hautbois, ils se séparoient des Troupes, &amp; alloient rejoindre leurs Camarades, les Tambours hors de la Place le long des bornes &amp; les Hautbois derrière la Satüe prés de la balustrade de fer. [...]</p>
+        <p/>
+        <p>Voilà dans quel ordre le Régiment se posta. Ainsi il ne resta dans la place que Mr le Colonel, le Lieutenant Colonel, les Capitaines &amp; le Drapeau Colonel, qui entouraient la balustrade, tandis que les autres Officiers étoient postez autour de la Place, faisoient un rond, &amp; laissoient la plus grande partie de la place libre pour la Cérémonie &amp; la Marche de Mrs de la Ville. Les Hautbois, Trompettes, Tambours &amp; Fiffres, bordoient en dehors l'ouverture de la Place [...] Tout estant dans l'ordre que je viens de vous marquer, le Major fit un signal qui fit taire les Tambours &amp; les Trompettes ; &amp; à ce bruit guerrier succéda une Simphonie très agréable de Violons, Hautbois, Trompettes &amp; Timbales de la Chambre, pour divertir Monseigneur le Dauphin, jusqu'à ce que la Ville fust arrivée. [...]</p>
+        <p/>
+        <p>Mr le Gouverneur &amp; Mr le Prevost des Marchands s'arrestèrent devant la Statüe, &amp; après s'être découverts &amp; avoir fait une profonde inclination, ils firent faire une Chamade par leurs Tambours &amp; Trompettes, &amp; sur un signal que fit le Major du Régiment des gardes les autres Tambours, Trompettes, Fifres, Hautbois &amp; Musettes répondirent aussi-tost. Les Mousquetaires postez tout au tour hors de la place, firent une décharge qui fut suivie de quantité de cris de Vive le Roy. Ensuite sur un second signal du Major, tout le bruit cessa à la réserve des Violons &amp; Hautbois qui continuèrent de joüer, tandis que la Ville fit encore le tour de la Statüe, devant laquelle Mr le Gouverneur &amp; Mr le Prevost des Marchands s'arrestèrent de nouveau avec les mesmes inclinations. Ils firent faire une seconde Chamade, à laquelle on répondit comme la première, &amp; elle fut suivie d'une troisième. Cette dernière Chamade ayant été faite, les Gardes de la Ville qui estoient à Cheval derrière les rangs des Officiers &amp; Sergens, marchèrent en quatre files, &amp; sortirent de la Place par où ils estoient entrez. La Ville les suivit dans l'ordre qu'elle avoit tenu pendant la Marche. Les trente Trompettes qui avoient paru d'abord sortirent en trois rangs trente pas après la Ville, ayant esté mis en marche par un Ayde-Major, tandis qu'un autre Ayde Major formoit les cinquante premiers Sergens, postez dix de front. Il les mit devant les trente Trompettes, faisant le tour de la Place. Quand les Trompettes furent à costé de Mr le Colonel, il fit à droite, &amp; alla prendre sa marche derrière eux, suivy du Lieutenant Colonel, &amp; de tous les Capitaines, marchant six de front. Les Capitaines &amp; après eux marchèrent les Officiers dans ce mesme ordre de six de front ; ils furent suivis des douze Trompettes de la queue. Ensuite les cinquante derniers Sergens rangez dix de front ; le Major, les quatre Aydes, &amp; les quatre sous-Aydes Major à Cheval, fermèrent la Marche. Les Hautbois &amp; les Musettes se partagèrent en trois, dix après le second rang des Capitaines, dix à la teste des Drapeaux, &amp; dix après le troisième rang d'Officiers [...]</p>
+        <p>Cette cérémonie estant finie, Monseigneur le Dauphin qui avoit résolu de voir l'Illumination qui devoit être le soir autour de la Statüe du Roy, &amp; d'aller à l'Hostel de Ville, où Mr le Duc de la Feüillade avoit envoyé une Compagnie de Gardes, &amp; au devant duquel la Ville avoit fait préparer un Feu d'Artifice, alla prendre le Divertissement à l'Opéra, en attendant que la nuit fust venüe.</p>
+        <p>[Le Dauphin regagna la Place des Victoires] sur les dix heures du soir, &amp; traversa la rüe S. Honoré, celle de Richelieu, &amp; tout le chemin qui conduit à l'Hostel de la Feüillade, au travers d'une double haye de Soldats et de Gardes. [...] Monseigneur fut receu au bruit des Hautbois à la Place des Victoires, &amp; il la trouva toute éclatante, &amp; la figure encore davantage, parce qu'elle estoit eclairée par plus de de deux mille Lampes qui répandoient un grand jour sans qu'on les vists [sic]. [...]</p>
+        <p/>
+        <p>[Le Dauphin fut reçu à l'Hôtel de Ville après l'Illumination de la statue, il y eu là aussi] quantité de Trompettes &amp; de Hautbois, &amp; divers autres instrumens.</p>
+        <p>On devina aisément par la manière dont ce spectacle estoit ordonné, &amp; par la profusion d'artifices, que Mr de la Feuillade donnoit encore ce divertissement &amp; vouloit couronner par là une journée qui luy estoit si glorieuse &amp; dans laquelle il avoit fait voir jusqu'où peut aller le zèle d'un sujet pour son Prince.</p>
+      </div>
+</body>
+  </text>
+</TEI>

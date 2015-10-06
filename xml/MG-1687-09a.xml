@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre, première partie, 1687</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-09a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, septembre, première partie, <date>1687</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1687-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1687-09a_081">
+        <head>MG-1687-09a_081</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 81-97</bibl>
+        <p>Theses où sont gravées dans un grand nombre de Cartouches presque toutes les grandes actions du Roy.</p>
+        <p/>
+        <p>Les Merveilles de la Vie du Roy sont si grandes, &amp; fournissent tant &amp; de si belle matiere, qu'on ne se contente pas de faire voir la grandeur de ce Monarque dans des discours recitez publiquement, ou imprimez ; on tâche encore de les faire paroistre de mille manieres ingenieuses. C'est ce que l'on peut connoistre en jettant les yeux sur une These de Philosophie qui vient d'estre publiée. On y voit d'un seul coup tout ce que Sa Majesté a fait en faveur de la Religion Catholique, &amp; toutes les actions de graces renduës à Dieu par les Peuples pour le rétablissement de sa Santé, avec les réjoüissances qui les ont accompagnées, &amp; ce qu'il y a de surprenant, c'est que chaque action est marquée par un passage de l'Ecriture qui semble avoir esté fait exprés pour le sujet, tant il vient naturellement. Cette These fut soutenuë le Vendredy 18. de Juillet, au College Royal &amp; Archiepiscopal des Jesuites de Rouën, par Mr l'Abbé Dulion de Poinsson, natif de la Guadaloupe. [...]</p>
+        <p>Comme tous les Bas-reliefs de ce costé sont employez à representer les actions de pieté qui ont esté faites pour le rétablissement de la santé du Roy, l'autre costé represente les réjoüissances publiques, les Festins, les Cavalcades, les Bals, les Ballets, les Feux d'artifices, les illuminations, &amp; les autres spectacles. Le premier est pour les actions de Theatre, les concerts de Musique, &amp; les Cavalcades, avec ces mots de Judith. Omnes populi gaudebant in organis &amp; Cytharis.</p>
+      </div>
+
+<div xml:id="MG-1687-09a_122">
+        <head>MG-1687-09a_122</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 122-202</bibl>
+        <p>Statuë du Roy élevée à Poitiers avec une description de toutes les Réjoüissances publiques qui se sont faites en cette occasion.</p>
+        <p/>
+        <p>Comme la France n'a jamais eu de Heros plus digne de l'immortalité que LOUIS LE GRAND, elle n'a jamais eu aussi tant d'émulation qu'elle en fait paroistre à luy ériger des Statuës, &amp; à faire fraper des Medailles qui puissent conserver les traits du visage de ce Prince, &amp; faire voir à la postérité la plus reculée cet air de Majesté qui anime sa Personne, &amp; qui est meslé de tant de douceur. Parmy les Villes qui ont demandé instamment la permission d'ériger des Monumens, qui leur puissent mettre devant les yeux ce qu'elles ont le plus profondement gravé dans le coeur, celle de Poitiers s'est distinguée. Les Marchands qui y font un Corps considerable, touchez d'une juste reconnoissance des bienfaits qu'ils reçoivent tous les jours de Sa Majesté, pour la protection qu'Elle donne aux Arts &amp; au Commerce, resolurent d'en donner quelques marques exterieures en luy élevant une Statuë sur la porte du lieu où ils s'assemblent pour rendre la justice, mais Mr Foucault, Intendant de la Province, dont vous connoissez le parfait attachement pour tout ce qui regarde la gloire du Roy, leur ayant conseillé de rendre ce Monument public, &amp; de l'ériger dans une Place, où estant plus en veuë, il fist mieux connoistre leur zele, ils entrerent dans son sentiment, &amp; aussitost le Corps de Ville au nom de tous les Habitans de Poitiers, choisit la plus belle Place pour y élever ce Monument, qui est une Statuë du Roy en pied, dans une attitude noble, majestueuse, &amp; digne du Prince qu'elle represente. [Suit une description de la statue, de son piédestal et des inscriptions gravées dessus.]</p>
+        <p>On peut dire que ce Monument est tel, qu'il y a sujet d'applaudir au zele de ceux qui l'ont erigé, &amp; à l'habileté de Mr Giroüard Sculpteur, qui en a entrepris l'execution. Le vingt-cinquiéme jour d'Aoust ayant esté fixé pour cette Feste, on se prepara à la signaler par des réjoüissances extraordinaires, &amp; la Place qui estoit autrefois le vieux Marché, &amp; que l'on appelle presentement la Place Royale, ainsi que le marque la seconde Inscription, se trouva décorée de la maniere que je vay vous l'expliquer. Quatre Arcs de Triomphe la fermoient aux quatre ruës qui y aboutissent. Le premier étoit dedié au Roy par ces mots. [...]</p>
+        <p>Ces quatre Arcs de Triomphe faisant déjà un tres-bel effet dans la Place, elle fut encore ornée de quantité de Theatres pour la Musique, pour les Spectateurs &amp; pour les Trompettes. Celuy de la Musique representoit le Mont-Parnasse. Les Muses y estoient placées en divers endroits, &amp; Apollon élevé sur un Piedestal, sembloit les animer à chanter les Loüanges de LOUIS LE GRAND, &amp; les asseuroit en mesme temps de l'aveu &amp; de la protection de ce Monarque, par l'Inscription qui suit.</p>
+        <p>ILLIMEA CARMINA CURAE.</p>
+        <p>Au haut du Theatre des Trompettes estoit une Renommée la Trompette à la main avec ces paroles, Nil mortale loquar, pour dire que ce qu'elle publieroit du Roy, deviendroit l'admiration de l'Univers, &amp; l'entretien de tous les Siecles.</p>
+        <p>Comme le Corps des Marchands avoit grand part à cette Feste, il y eut un Theatre particulier dressé pour eux, &amp; ce Theatre servit à la décoration de la Place, ainsi que les autres. Mercure, le Dieu du Negoce, y estoit élevé sur une pyramide, sur laquelle ont avoit peint des trophées des divers Instrumens qui sont propres aux Marchands. Quatre Figures qui representoient des Arts, occupoient les quatre coins, le tout accompagné de Devises &amp; d'Inscriptions qui convenoient au sujet. Toute la Place estoit environnée d'autres Theatres, qui outre leur décoration particuliere, estoient agreablement ornez d'une quantité prodigieuse de Personnes de l'un &amp; de l'autre Sexe, que le bruit de ce qu'on devoit faire à Poitiers, avoit attirées des autres Villes. Celuy des Ecoliers parut fort brillant. Les Peres Jesuites, dont vous connoissez le zele pour toutes les choses qui regardent la gloire du Roy, souhaitant qu'ils entrassent dans cette Feste, &amp; qu'ils contribuassent autant qu'ils pourroient à luy donner de l'éclat, les avoient fait dresser depuis quelque temps à l'exercice des armes, &amp; en avoient fait une Milice aussi propre qu'elle parut bien reglée ; de sorte que ce fut un spectacle fort divertissant de les voir tous rangez en bon ordre sur le Theatre qu'on leur avoit préparé. Il estoit bordé de demy-piques &amp; de Drapeaux de differentes couleurs, &amp; cela faisoit une face tres-agreable.</p>
+        <p>[...]</p>
+        <p>La Place ayant changé de nom depuis l'érection de la Statuë, on avoit exprimé ce changement par une Emblême qui se trouva peinte à tous les endroits par où l'on y pouvoit entrer. C'estoit la figure d'un homme couronné, qui donnoit la main à une figure de Femme en signe d'alliance, avec ces mots, Regio decorat nomine. Cette Figure de Femme representoit la Place, que la Statuë du Roy, figuré par cet homme couronné, honoroit du nom de PLACE ROYALE, son érection estant une espece d'alliance qu'elle contracte avec elle.</p>
+        <p>Toutes ces Décorations ayant esté executées avec tout le soin possible, on ne songea plus qu'à se préparer à la Feste, qui commença le 24. Aoust, par un Acte de Philosophie dedié au Roy. Cette action fut d'autant plus belle, que les éloges de ce grand Monarque y eurent autant de part que la Philosophie. L'Acte estant finy, les Ecoliers, qui avoient fait paroistre leur capacité &amp; leur esprit, allerent chez M l'Intendant, luy porter en pompe la These de Satin où estoit le Portrait de Sa Majesté. Ils furent précedez des Hautbois &amp; des Trompettes &amp; celuy qui la portoit, marcha environné des Drapeaux des Compagnies de chaque Classe. Le soir toutes les Cloches sonnerent, &amp; leur carillon se joignant au bruit du Canon, &amp; à celuy des Trompettes &amp; des Tambours que l'on avoit disposez sur les Tours &amp; sur les lieux les plus élevez de la Ville, annonça la Feste du lendemain. Elle commença par une action de pieté. Le Clergé composé de six Chapitres, de vingt deux Paroisses, &amp; d'un grand nombre de Communautez Religieuses, s'estant assemblé dans l'Eglise Cathedrale, avec tous les Corps de la Ville, Mr Foucault s'y rendit à la teste du Presidial, qui estoit ce jour-là en Robes rouges, &amp; qui fut suivy ou prévenu d'une affluence extraordinaire de Peuple. L'Eglise qui est tres-vaste, se trouva parfaitement bien decorée &amp; illuminée, par les soins de M. l'Abbé Du Soucy, qui est Chanoine de la Cathedrale, &amp; Conseiller d'Eglise. M. Rabereul, Doyen de l'Eglise de Saint Pierre, celebra la Messe avec beaucoup de solemnité. Elle fut suivie d'un Te Deum, pour rendre graces à Dieu des faveurs particulieres que la pieté du Roy, &amp; son affection paternelle pour ses Sujets attirent sur ce Royaume. Il y eut une excellente Musique, composée des plus belles voix de la Province, &amp; de plusieurs autres que M. l'Intendant avoit fait venir des Provinces voisines. Le Pere Chesnon, Jesuite, prononça un tres-beau Panegyrique du Roy. [...]</p>
+        <p>Après que cette action fut finie, tous les Corps se retirerent, excepté la Milice du College, qui ayant assisté à cette Ceremonie avec toute la devotion que pouvoit souffrir l'équipage guerrier où elle estoit, se rendit en tres-bon ordre à la nouvelle Place Royale, où tous ceux dont elle estoit composée, saluërent la Statue du Roy, d'une contenance fiere, mais qui marquoit que le coeur avoit beaucoup de part à cette action. Ensuite, après y avoir fait l'exercice avec toute la justesse des Troupes bien disciplinées, cette Milice fit place à une autre, qui ne fut pas moins agreable à voir. Ce fut celle des Bourgeois, qui s'estant rangez chacun sous son Drapeau, se rendirent l'après-dînée à la Place au bruit des Tambours, des Fifres, &amp; des Hautbois, &amp; dans un ordre qui fit admirer leur marche. La Statuë estant le premier objet de leurs regards, le fut aussi de leurs respects. Elle fut salüée à plusieurs reprises par la décharge du Canon &amp; de la Mousqueterie, à laquelle se joignirent les fanfares des Trompettes, &amp; mille cris de Vive le Roy. Après le mouvement des Troupes, &amp; les devoirs rendus aussi à la Statuë par le Corps des Marchands, qui estoient là en robes de ceremonie, Mr Foucault à la teste du Corps de Ville, fit trois tours autour de la Place, precedé par les Trompettes &amp; par les Tambours. Il mit ensuite le feu à un bucher que l'on avoit preparé, &amp; voulut bien que l'on donnast un flambeau au Juge des Marchands, comme une reconnoissance publique des soins qu'avoient pris ce Corps pour l'érection de ce Monument. Ce fut là que redoublerent les cris &amp; les acclamations du Peuple, ainsi que le bruit du Canon &amp; des Mousquets, qui ne finit qu'avec le feu du bucher ; après quoy on entendit un concert de Trompettes, qui attirant l'attention de tout le monde, qui s'estoit dissipée dans le fracas &amp; le tumulte de la Feste, prépara à une simphonie admirable de Violons, de Flûtes &amp; de Hautbois. Elle fut suivie d'un grand concert de Voix &amp; d'Instrumens, auquel l'Eloge du Roy servit de matiere. On feignit que le Dieu du Clain, nom de la Riviere qui passe à Poitiers, avoit esté réveillé par un bruit confus de Tambours &amp; de Trompettes ; &amp; voicy les Vers qu'on luy fit chanter.</p>
+        <p/>
+        <p>Quel bruit Guerrier vient troubler mon repos ?</p>
+        <p>D'où vient que sur ces bords éloignez des alarmes</p>
+        <p>Le Tambour vient mesler le bruit affreux des Armes</p>
+        <p>Au doux murmure de mes eaux ?</p>
+        <p/>
+        <p>Quelle Divinité se presente à mes yeux ?</p>
+        <p>Quel est cet air, ce port, &amp; cette noble audace ?</p>
+        <p>Je croyois que la Paix regnoit seule en ces lieux ;</p>
+        <p>D'où vient que Mars a pris sa place ?</p>
+        <p/>
+        <p>Peuples, qu'on voit icy luy dresser des Autels,</p>
+        <p>Aimez-vous encor les alarmes ?</p>
+        <p>Le redoutable Dieu des armes</p>
+        <p>Est-il le seul des Immortels</p>
+        <p>Qui pour vous ait des charmes ?</p>
+        <p/>
+        <p>Le Choeur des Peuples respondit à la surprise du Dieu du Clain, &amp; luy faisant connoistre LOUIS sous la face du Dieu Mars, prit occasion de chanter les loüanges de ce Monarque. Une voix seule les commença par ces Vers.</p>
+        <p/>
+        <p>Sortez, Fleuve, sortez de vostre étonnement,</p>
+        <p>Reconnoissez l'égarement</p>
+        <p>Qui vous fait de LOUIS méconnoistre l'Image.</p>
+        <p>Ce Heros a du Dieu Mars</p>
+        <p>L'activité, le courage ;</p>
+        <p>Par tout a ses Etendards</p>
+        <p>La Victoire ouvre un passage,</p>
+        <p>Mais toûjours sa fierté</p>
+        <p>Le cede à sa bonté.</p>
+        <p/>
+        <p>Une autre Voix poursuivit ainsi.</p>
+        <p/>
+        <p>Ce n'est pas seulement l'Arbitre de la Guerre</p>
+        <p>Pour qui ce Peuple heureux celebre un si beau jour.</p>
+        <p>S'il fait sur des ingrats éclater son tonnerre,</p>
+        <p>Il est l'aimable Autheur du repos de la terre,</p>
+        <p>Et de tout l'Univers la terreur &amp; l'amour.</p>
+        <p/>
+        <p>Après que le Choeur eut repeté ces trois derniers Vers, deux Voix ensemble chanterent ceux-cy.</p>
+        <p/>
+        <p>Redoutez, fiers Ennemis,</p>
+        <p>Sa main foudroyante ;</p>
+        <p>Reverez, Peuples soûmis,</p>
+        <p>Sa main bien-faisante.</p>
+        <p/>
+        <p>Le Choeur repeta encore ces quatre Vers, &amp; ensuite on entendit ces quatre autres, dont les deux premiers furent chantez par une Voix seule, &amp; les deux derniers par une autre.</p>
+        <p/>
+        <p>Hors de ses heureux Etats</p>
+        <p>Regne nostre Auguste Maistre.</p>
+        <p>Dans les plus lointains Climats</p>
+        <p>Sa vertu le fait connoistre.</p>
+        <p/>
+        <p>Après cela les deux Voix chanterent ensemble ces deux autres Vers, qui furent repetez par le Choeur.</p>
+        <p/>
+        <p>Il peut quand il luy plaist, le plus doux des Vainqueurs,</p>
+        <p>Desarmer tout d'un coup, &amp; les mains &amp; les coeurs.</p>
+        <p/>
+        <p>Les deux mesmes Voix ayant chanté separément, l'une ce vers,</p>
+        <p>Qu'il est heureux, qu'il est aimable !</p>
+        <p/>
+        <p>Et l'autre celuy-cy,</p>
+        <p>Qu'il est grand, qu'il est redoutable !</p>
+        <p/>
+        <p>Le Choeur reprit,</p>
+        <p>Que le Peuple est fortuné,</p>
+        <p>A qui le Ciel l'a donné !</p>
+        <p/>
+        <p>Après quoy quatre differentes Voix chanterent chacune un des Vers qui suivent.</p>
+        <p/>
+        <p>Il est le ferme appuy de la foible innocence,</p>
+        <p>Le Parnasse luy doit des honneurs immortels,</p>
+        <p>La discorde aux Enfers gemit sous sa puissance,</p>
+        <p>Il vient de rétablir le culte des Autels.</p>
+        <p/>
+        <p>Et tous ensemble.</p>
+        <p/>
+        <p>C'est peu que sa valeur sur la Terre &amp; sur l'Onde,</p>
+        <p>Signale ce Heros par mille exploits divers,</p>
+        <p>Sa vertu, sa bonté, sa sagesse profonde</p>
+        <p>Le font triompher des Enfers.</p>
+        <p/>
+        <p>Le Dieu du Clain, touché des grandeurx du Roy, fit paroistre son admiration en chantant ces Vers.</p>
+        <p/>
+        <p>J'approuve avec plaisir l'ardeur de vostre zele,</p>
+        <p>Chantez, Peuples, chantez ce Heros glorieux,</p>
+        <p>Publiez ses exploits, portez jusques aux Cieux</p>
+        <p>Le bruit de sa gloire immortelle,</p>
+        <p>A ces traits éclatans, à ces faits inoüis,</p>
+        <p>Je reconnois LOUIS.</p>
+        <p/>
+        <p>Le Choeur ayant repeté ces deux derniers Vers, une Voix seule poursuivit de cette sorte.</p>
+        <p/>
+        <p>C'est peu que nostre zele éclate en ce grand jour,</p>
+        <p>Il faut porter plus loin le respect &amp; l'amour</p>
+        <p>Que dans nos coeurs charmez a fait naistre sa gloire.</p>
+        <p>Qu'un Monument à sa memoire</p>
+        <p>Aux Siecles à venir fasse voir le Heros,</p>
+        <p>Dont la fidelle Histoire</p>
+        <p>Prend soin de publier les glorieux travaux.</p>
+        <p/>
+        <p>Le Choeur finit par ces derniers Vers.</p>
+        <p/>
+        <p>Qu'il dure ce Monument,</p>
+        <p>Qu'à l'abry des Lauriers il brave les orages ;</p>
+        <p>Qu'il fasse de ces Lieux le plus bel ornement,</p>
+        <p>Qu'il soit incessamment</p>
+        <p>L'objet de nos respects, celuy de nos hommages ;</p>
+        <p>Qu'il laisse aux Siecles à venir</p>
+        <p>Du bonheur de nos jours l'éternel souvenir.</p>
+        <p/>
+        <p>Ces Vers avoient esté mis en Musique par Mr Pain, Maistre de la Musique de S. Hilaire de Poitiers, &amp; ils eurent un succés qui répondit à ce qu'on attendoit de l'habileté d'un si grand Maistre.</p>
+        <p>Cet éloge dura jusques à la nuit qui fut tres-brillante, par le bel effet que produisit une Illumination qui regnoit depuis le premier étage jusqu'au toit, dans les quatre costez de la Place, qui est de cinquante toises en quarré. A cette Illumination se joignit celle d'un tres-beau Feu d'artifice, dont il faut vous dire le dessein. [...] Tout cela estant finy, la Feste fut continuée chez Mr l'Intendant, où les plus honnestes gens se rendirent. On fut arresté à la porte par un nouvel objet qui surprit. C'estoit trois longues tables disposées en triangle, couvertes de viandes qui furent abandonnées à la discretion du peuple. Ces tables estoient dressées dans une petite place dont la figure est triangulaire, &amp; où l'on abordoit par trois ruës, à l'entrée desquelles il y avoit des arcades ornées de Festons. Les Officiers de Mr l'Intendant placez au milieu de ces trois tables, avoient soin de les servir à mesure qu'on les dégarnissoit, &amp; de faire retirer ceux qui avoient soupé, pour faire place aux autres. La foule s'y trouva telle, qu'il y en avoit qui n'en pouvoient approcher, &amp; ceux-là se consoloient à une fontaine de vin qui coula depuis le matin à l'entrée de l'Hostel de M. Foucault. Ce spectacle ayant diverty quelque temps la Compagnie, elle entra à la faveur d'une nouvelle Illumination qui faisoit voir de tous costez cet Hostel en feu, dans deux grandes Salles éclairées comme le reste. Quatre Tables de vingt-cinq couverts chacune, que l'on y trouva dressées, furent occupées par toutes les Dames que les Hommes voulurent servir. Il y eut simphonie pendant le repas, &amp; tout se passa sans confusion.</p>
+        <p>Le Soupé finy, on crut traverser une Bassecourt pour passer au Jardin, mais comme si elle eust disparu par enchantement, les Dames furent agreablement surprises de se trouver sur une Terrasse ornée de fleurs &amp; de deux Fontaines jaillissantes, par laquelle on descendoit dans un grand &amp; magnifique Sallon qu'elles n'avoient jamais vû. Ce Salon, qui se trouva tout disposé pour le Bal, estoit formé par un carré de trente-deux arcades de quinze pieds de hauteur. Sa longueur estoit de cinquante pieds sur quarante de large, &amp; son plat-fond estoit élevé de trente pieds, mais par le moyen d'une perspective pratiquée dans le Jardin, on avoit fait paroistre dans le bout une Galerie fort longue &amp; fort éclairée, qui y faisoit un très-bel accompagnement. Toutes les arcades estoient ornées de festons de fleurs, &amp; les piliers qui les soutenoient, couverts de Miroirs. L'espace qui estoit depuis le ceintre des arcades jusqu'au platfond, estoit fermé par de tres-riches Tapisseries, &amp; dans la principale face estoit élevé un Buste du Roy, de trois pieds de haut, environné d'un Soleil, dont le tour &amp; les rayons estoient couverts de lumieres. Ce Soleil estoit accompagné de Fleurs de Lys &amp; d'L couronnées sans nombre, le tout disposé avec des lumieres vives, qui faisoient une Illumination des plus surprenantes. Dans la face du Salon opposée à celle où estoit le Buste, &amp; au dessus de l'arcade qui faisoit l'ouverture de la Galerie, on avoit mis sous un Dais un fort beau Portrait du Roy, de la main du fameux Mr. Mignard. Ce fut dans cette Sale que plus de quatre-vingt Dames qui avoient soupé chez M. l'Intendant, &amp; toutes celles qui vinrent aprés le soupé, soutinrent parfaitement bien la réputation où les Poitevines sont de bien danser. Les Amphitheatres qui avoient esté dressez le long &amp; derriere les arcades, furent remplis par un tres-grand nombre de personnes, qui eurent la curiosité de voir cette Assemblée, dont Madame l'Intendante fit admirablement bien les honneurs. Il y eut une tres-grande profusion de confitures &amp; de toutes sortes de rafraîchissemens,  &amp; toute cette nuit se passa en réjoüissance, aussi-bien que les trois jours suivans, pendant lesquels la Maison de Mr. l'Intendant demeura ouverte pour satisfaire l'empressement du Peuple, que l'envie de voir la nouvelle structure du Salon attiroit en foule.</p>
+        <p>Le 26, les Officiers du Presidial, ayant à leur teste Mr de Razes President, qui ne laisse échapper aucune occasion de signaler son zele pour le service du Roy, ne se contentant pas d'avoir assisté au Te Deum, que M. l'Intendant avoit fait chanter le jour precedent dans l'Eglise Cathedrale, en firent chanter un autre dans celle des Cordeliers. L'action fut solemnelle, &amp; toute la Ville s'estant renduë l'apresdînée au College des Jesuites sur le bruit d'une Feste qui s'y devoit faire, on la commença par l'explication d'un Tableau Enigmatique que Mr Foucault avoit fait faire à Paris. [Suit la description du tableau.] Cette Enigme ayant esté expliquée on en proposa une autre. C'étoit Amphion qui touchoit un Lut, &amp; qui par son harmonie faisoit remuer les Arbres, &amp; les plaçoit en droite ligne sur le bord d'une Riviere. La Ville de Thebes paroissoit dans l'éloignement, &amp; des Muses sur le haut d'un Rocher, luy montroient la Lyre d'Orphée parmy les Constellations du Ciel, afin de l'animer, &amp; de l'exciter à continuer un Jeu qui produisoit de si beaux effets. Cette Enigme fut expliquée sur la Trompette, dont le son range des Troupes en Bataille, &amp; le Fleuve qui paroissoit dans le Tableau, donna occasion à celuy qui parloit, de toucher le passage du Rhin, &amp; de dire de tres-belles choses à la gloire du Heros qui conduisoit cette celebre action. Le veritable mot estoit le Cours. C'est une Promenade que Mr l'Intendant a fait faire sur les bords de la Riviere du Clain, aux portes de la Ville de Poitiers, qui n'avoit aucun de ces sortes d'embellissemens. L'explication de ces deux Enigmes, fut suivie d'une piece de Theatre, où l'on representa LOUIS LE GRAND, comme le plus grand de tous les Rois. Pour le faire d'une maniere plus agreable, &amp; qui fust plus du genie &amp; du tour de la Poësie, on crut devoir le representer &amp; les Princes ses Voisins, sous le nom &amp; l'idée des Dieux de l'Antiquité, avec qui ils ont des rapports plus singuliers. Le Roy y parut sous le nom d'Apollon, que les Anciens confondoient avec le Soleil, symbole de nostre Auguste Monarque. Pluton, Dieu des Richesses, des Enfers &amp; des Marais, figura les Hollandois &amp; les Peuples des Pays Bas. Jupiter fut connu pour l'Empereur à cause de l'Aigle Impériale, &amp; Neptune representa les Genois, les Algeriens, &amp; les autres Peuples Maritimes. Le Destin, qui dans la pensée des Anciens avoit un droit de souveraineté sur tous les autres Dieux, qui estoient soûmis à ses Arrests, déclara d'abord qu'il vouloit se défaire de sa suprême puissance en faveur d'Apollon, &amp; luy donner le premier rang sur Pluton, sur Neptune, sur Jupiter mesme. Il luy fit ensuite remporter sur eux les mesmes Victoires que le Roy a remportées sur ses Ennemis de sorte que les endroits les plus éclatans d'une vie si merveilleuse parurent dans tout leur jour, &amp; d'une maniere tres-naturelle, quoy que sous des symboles étrangers. Après tous ces Triomphes, on vit Apollon formant un Arc en Ciel, &amp; donnant la paix aux autres Dieux, ce qui signifioit le repos que le Roy a si genereusement donné à toute l'Europe. Ils marquerent tous la recevoir avec joye, &amp; l'on finit, en luy décernant des Arcs de Triomphe &amp; des Statuës dans les Places publiques. Cette Action estoit de cinq Actes, meslez de plusieurs entrées de Ballet. Ensuite on distribua les Prix que donna M. l'Intendant, &amp; qu'il s'est engagé de donner tous les ans à ce College, à condition qu'on y prononcera aussi tous les ans le jour de S. Loüis un Panegyrique du Roy.</p>
+        <p>Dés ce mesme jour sur le midy, Madame de Navailles, Abbesse de Sainte-Croix, étant d'une Maison dont le zele s'est toûjours signalé heureusement pour la gloire de Sa Majesté, fit annoncer par le carrillon des Cloches de son Abbaye, la Feste qu'elle preparoit pour le lendemain. Le Canon de la Ville l'annonça aussi fort loin par les décharges reïterées, &amp; le bruit des Tambours &amp; des Trompettes se mesla aux concerts de Voix, de Violons &amp; de Flûtes douces. On chanta les Vespres avec beaucoup de solemnité &amp; Madame l'Abbesse qui ne manqua pas d'y officier, donna les premieres marques de sa juste reconnoissance envers le Roy par ses ferventes prieres, &amp; par celles de sa nombreuse Communauté. Le Clocher de l'Abbaye, qu'on avoit orné de Guidons &amp; d'Estendards, fut éclairé toute la nuit d'un nombre prodigieux de flambeaux. Le lendemain 27. d'Aoust, on vit dans chaque endroit de cette Maison Royale une Décoration merveilleuse qui surprit d'autant plus qu'on ne s'y attendoit pas. Tout cela se fit encore par les soins de Mr l'Abbé du Soucy, qui se connoist parfaitement aux choses de cette nature. On avoit tendu sur les portes du dehors de riches tapisseries de cette Abbaye, chargées d'Ecussons aux Armes de France, &amp; l'on avoit employé les plus magnifiques à parer tout le dedans de l'Eglise, depuis le bas des Grilles jusqu'aux voûtes, qui sont extrêmement exaucées. [...] M. l'Intendant, le Presidial, les autres Corps de la Ville, &amp; une infinité de Noblesse de l'un &amp; de l'autre Sexe s'estant rendus dans l'Eglise, M. de Monnay, Official &amp; Grand-Vicaire de Poitiers, commença la Messe, qui fut chantée solemnellement avec le concert d'un grand nombre de belles Voix, des Orgues, des Violons, des Hautbois &amp; des Flûtes douces. [...] Après la Messe, Madame l'Abbesse entonna le Te Deum, &amp; il fut continué par l'excellente Musique, &amp; la belle simphonie que l'on avoit admirée. Le soir, il y eut dans la Clôture de l'Abbaye un Feu de joye, que Mademoiselle de Rothelin, Niece de Madame l'Abbesse, alluma en presence de toutes les Religieuses, qui dans ce moment chanterent de nouveau en leur particulier le Te Deum avec l'Exaudiat ; après quoy la Musique qui avoit assisté à la Ceremonie du matin, s'estant renduë au grand Parloir de Madame l'Abbesse, où plusieurs personnes de qualité se rencontrerent, elle luy fit chanter tous les Vers qui avoient esté composez à la loüange du Roy. La Solemnité de cette journée se termina par une aumône generale qu'elle fit faire à tous les Pauvres de la Ville &amp; de la campagne, que l'on y vit accourir de toutes parts, sur le bruit qui s'en estoit répandu.</p>
+        <p>Les Dames de la Trinité, qui ne sont pas moins considerables par leur naissance que par leur vertu, firent aussi chanter une Messe solemnelle &amp; un Te Deum en Musique, &amp; leurs Prieres pour la conservation du Roy, ne cesserent point pendant tout le jour.</p>
+        <p>Quoy que le Chapitre de S. Hilaire, qui avoit esté prié de se trouver à la Ceremonie qui fut faite le 25. dans la Cathedrale, y eust assisté en Corps, il ne laissa pas de faire chanter peu de jours après un Te Deum particulier en Musique, de la composition de M. Pain. Ce fameux &amp; Royal Chapitre est d'autant plus considerable, qu'il dépend immediatement du S. Siege. Le Bureau des Finances, le Corps de Ville, &amp; le Corps des Marchands, qui voulurent faire la clôture de la Feste, firent pareillement chanter de grandes Messes solemnelles &amp; des Te Deum, ausquels Mr l'Intendant assista. Enfin, chacun a voulu marquer son zele dans cette occasion, jusqu'aux Ecoliers de Droit, qui ayant eu permission de s'assembler, &amp; d'entrer dans la réjoüissance publique, allerent en Corps &amp; sous les armes, rendre leurs devoirs à la Statuë, auprés de laquelle ils firent tirer un Feu d'artifice. J'ay oublié de vous dire que dés le 12. d'Aoust, la Figure avoit esté élevée dans le Vieux Marché, qu'on nomme aujourd'huy Place Royale, mais tous les ornemens ne pouvant estre si-tost en estat pour la Ceremonie, il fut arresté qu'elle ne se feroit que le 25. jour de S. Loüis. Cependant, quoy que la Figure n'eust esté posée que le soir du 12. Mr. Joussant, Recteur de l'Université, ne pouvant retenir l'ardeur de son zele, alla dés ce mesme soir avec quantité de Personnes qualifiées de la Ville, &amp; accompagné de Tambours, de Hautbois, &amp; de Trompettes, rendre hommage à la Statuë, en faisant trois fois le tour de la Place avec les Ceremonies qui s'observent dans une semblable occasion.</p>
+      </div>
+
+<div xml:id="MG-1687-09a_202">
+        <head>MG-1687-09a_202</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 202-207</bibl>
+        <p>Grandes Réjoüissances faites à Troyes en Champagne à la Reception d'une Figure du Roy.</p>
+        <p/>
+        <p>Ce que je viens de vous dire fait voir le zele des Peuples. Il est si grand pour laisser à la posterité des marques de son amour pour le Roy, &amp; du haut point de gloire où ce Prince a mis la France que toutes les Villes de ce florissant Royaume ont resolu de luy élever des Monumens. On n'épargne pour cela ny le marbre ny le bronze, &amp; l'on y travaille de toutes parts. La Ville de Troyes, Capitale de Champagne, que les dernieres Conquestes de Sa Majesté ont mise dans un repos si tranquille, n'avoit pas moins d'empressement que les autres Villes du Royaume, de faire connoistre l'ardeur qu'elle a pour sa gloire, lors qu'elle receut de la liberalité de M. Girardon, l'un de ses Compatriotes, un Present assez beau pour estre l'ouvrage des soins &amp; de la dépense d'une Ville entiere. C'est un Portrait du Roy en marbre, de grandeur naturelle, si bien travaillé, &amp; tellement ressemblant, que Troyes pourra se vanter dans les Siecles avenir, d'avoir la vraye Image d'un Prince, qui fera alors, comme il fait dés aujourd'huy, l'admiration de l'Univers. Aussi cette Ville là n'a-t-elle rien oublié, en recevant cet Ouvrage, pour marquer la joye la plus sensible, que des Sujets veritablement charmez de la grandeur &amp; de bontez de leur Souverain, puissent témoigner. Toute la Bourgeoisie estoit sous les armes, &amp; avoit à sa teste une partie des Echevins &amp; des Conseillers de Ville. Je dis une partie, puisque le Maire &amp; le reste du Conseil estoient assemblez à l'Hostel de Ville, pour y recevoir un si precieux present. Il fut posé sur un Brancard couvert d'un Tapis de Velours violet, parsemé de Fleurs de Lys d'or, &amp; porté du lieu où il avoit esté mis en attendant le jour de cette Ceremonie, par quatre Officiers de Ville, au milieu de la Milice. Un grand nombre de Tambours, de Trompettes &amp; de Hautbois les precedoient, &amp; ils allerent ainsi jusques à l'Hostel de Ville, où ce Present fut receu par le Maire, les Echevins &amp; les Conseillers, avec toutes les marques possibles de joye &amp; de veneration. On le plaça dans la grande Salle sur une Table couverte d'un Tapis enrichy de Fleurs de Lys d'or, &amp; ce fut là qu'on donna au Peuple, qui l'avoit suivy avec un empressement extraordinaire, accompagné de cris d'allegresse, la satisfaction de le voir. [...]</p>
+      </div>
+
+<div xml:id="MG-1687-09a_241">
+        <head>MG-1687-09a_241</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 241-270</bibl>
+        <p>Détail de tout ce qui s'est passé pendant le séjour que Monseigneur le Dauphin a fait à Anet.</p>
+        <p/>
+        <p>Je vous envoyay l'année derniere une description si exacte du Voyage que Monseigneur le Dauphin fit à Anet, que cette Relation vous en fait attendre une pareille de ce qui s'y vient de passer. Je dois vous dire avant que d'entrer dans aucun détail, que le Roy n'a pas voulu permettre cette année, que Mr le Duc de Vendosme fist aucune dépense, parce qu'il avoit poussé la magnificence trop loin, lorsqu'il eut l'honneur de recevoir Monseigneur, dans le temps qu'on y joüa l'Opéra de Galatée ; mais quoy qu'elle fust extraordinaire, elle auroit esté encore plus grande, s'il eust pû la proportionner à l'ardeur de son zele. Comme les Officiers du Roy ont esté à Anet, &amp; qu'ils ont fait toute la dépense, Mr de Vendosme a seulement eu sa table qu'il a fait tenir par Mr l'Abbé de Chaulieu, &amp; ce Prince a fait travailler à des Idilles en Musique, par les deux Fils de feu Mr de Lully, dont le cadet a la Charge de Surintendant de la Musique du Roy. Voicy les noms de tous ceux qui ont accompagné Monseigneur à Anet, &amp; qui ont esté nommez par ce Prince. [...]</p>
+        <p>Il y eut Media noche le jour que l'on arriva, parce que c'estoit un Samedy au soir. On joüa l'Ecole des Femmes avant ce Repas, &amp; l'Idille que Mr de Lully le Cadet avoit mis en Musique, fut chanté ensuite par les plus belles voix de l'Opera. Je vous l'envoye. Il est de Mr de Capistron [Campistron], dont je ne vous diray rien, puisque ses Ouvrages vous l'ont fait connoistre.</p>
+        <p/>
+        <p>IDILLE. DAPHNIS, LICIDAS, SILVANDRE.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Vous qui fustes jadis témoins de mes soûpirs,</p>
+        <p>Ruisseau sacré, forest paisible,</p>
+        <p>Vous l'estes chaque jour de mes plus doux plaisirs,</p>
+        <p>Depuis que j'ay rendu sensible</p>
+        <p>L'objet de mes tendres desirs.</p>
+        <p/>
+        <p>Je vois avec transport ces lieux où Celimene</p>
+        <p>Pour la premiere fois daigna m'ouvrir son coeur,</p>
+        <p>Qui penetré de l'excés de ma peine</p>
+        <p>Me reconnut pour son Vainqueur.</p>
+        <p/>
+        <p>Chaque instant me découvre en elle</p>
+        <p>Quelque beauté nouvelle,</p>
+        <p>Des plus charmans Bergers elle attire les voeux,</p>
+        <p>Mais elle est encor plus fidelle</p>
+        <p>Que belle.</p>
+        <p>Dieux tout-puissans, jugez si mon sort est heureux.</p>
+        <p/>
+        <p>Charmé de sa fidelité</p>
+        <p>Je viens dans cette retraite</p>
+        <p>Chanter en liberté</p>
+        <p>Sur ma Musette,</p>
+        <p>Et mon bonheur &amp; sa beauté.</p>
+        <p/>
+        <p>J'aperçois Licidas, il se plaignoit sans cesse</p>
+        <p>Des rigueurs de l'ingrate Iris,</p>
+        <p>Dans ses yeux aujourd'huy je vois moins de tristesse,</p>
+        <p>Et peut-estre à la fin il a receu le prix</p>
+        <p>Que meritoit sa tendresse.</p>
+        <p/>
+        <p>Apprens-moy quel est ton sort,</p>
+        <p>Cher Licidas, contente mon envie.</p>
+        <p/>
+        <p>LICIDAS.</p>
+        <p>Il est toûjours funeste, &amp; peut-estre la mort</p>
+        <p>Vaut mieux qu'une si triste vie.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Ne me trompes-tu point ? Iris est-elle encore</p>
+        <p>Insensible à ton amour ?</p>
+        <p/>
+        <p>LICIDAS.</p>
+        <p>Depuis un an que je l'adore</p>
+        <p>Sa haine &amp; ses mépris m'accablent chaque jour.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Malgré sa cruauté ne perds point l'esperance</p>
+        <p>De voir changer ton destin.</p>
+        <p>L'amour &amp; la confiance</p>
+        <p>Obtiennent à la fin</p>
+        <p>Leur juste récompense.</p>
+        <p/>
+        <p>DAPHNIS, LICIDAS.</p>
+        <p>L'amour &amp; la confiance, &amp;c.</p>
+        <p/>
+        <p>LICIDAS.</p>
+        <p>Quand je n'oserois me flater</p>
+        <p>De fléchir un jour la cruelle,</p>
+        <p>Je ne sçaurois la quitter,</p>
+        <p>Ny surmonter</p>
+        <p>La foiblesse que j'ay pour elle.</p>
+        <p/>
+        <p>Quelques maux qu'en aimant mon coeur puisse souffrir,</p>
+        <p>Il aime encor mieux sans doute,</p>
+        <p>Soupirer, se plaindre &amp; mourir,</p>
+        <p>Que de tenter les efforts qu'il en coute</p>
+        <p>Pour se guerir.</p>
+        <p/>
+        <p>Mais je vois sous ces ombrages</p>
+        <p>Tous nos Bergers assemblez.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Ils font retentir ces bocages</p>
+        <p>De leurs chants redoublez.</p>
+        <p/>
+        <p>LICIDAS.</p>
+        <p>Quel mouvement en ces lieux les attire,</p>
+        <p>Et leur inspire</p>
+        <p>Des chants si doux ?</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>Silvandre vient à nous,</p>
+        <p>Il pourra nous le dire.</p>
+        <p/>
+        <p>SILVANDRE.</p>
+        <p>Venez tous, suivez-moy, que rien ne vous retienne,</p>
+        <p>Joignez vostre voix à la mienne.</p>
+        <p/>
+        <p>Qu'à l'envy chacun chante,</p>
+        <p>Mille et mille fois</p>
+        <p>La grace charmante,</p>
+        <p>La vertu constante</p>
+        <p>Du Fils du plus grand des Rois.</p>
+        <p/>
+        <p>TOUS TROIS.</p>
+        <p>Qu'à l'envy chacun chante, &amp;c.</p>
+        <p/>
+        <p>SILVANDRE.</p>
+        <p>Il revient en ces lieux après un an d'absence</p>
+        <p>Goûter les innocens plaisirs,</p>
+        <p>Que la Nature &amp; l'Art d'intelligence,</p>
+        <p>Offrent en abondance</p>
+        <p>A ses premiers desirs.</p>
+        <p/>
+        <p>L'ardeur de luy plaire</p>
+        <p>Toûjours pure, toûjours sincere,</p>
+        <p>Anime icy tous les coeurs,</p>
+        <p>Et s'il peut trouver ailleurs</p>
+        <p>Plus de grandeur, plus de magnificence.</p>
+        <p>Il n'y sçauroit trouver du moins</p>
+        <p>De plus tendres soins,</p>
+        <p>Plus de respect, ny plus d'obeissance.</p>
+        <p/>
+        <p>DAPHNIS.</p>
+        <p>A ses yeux oserons-nous paroistre,</p>
+        <p>Et pour luy nos concerts auront-ils des appas ?</p>
+        <p/>
+        <p>SILVANDRE.</p>
+        <p>Quelques foibles qu'ils puissent estre,</p>
+        <p>Il ne les méprisera pas.</p>
+        <p/>
+        <p>Il a trop bien appris de son Auguste Pere,</p>
+        <p>Par mille exemples divers</p>
+        <p>Que l'indulgence est necessaire,</p>
+        <p>Aux Maistres de l'Univers.</p>
+        <p>Qu'à l'envy chacun chante, &amp;c.</p>
+        <p/>
+        <p>TOUS TROIS.</p>
+        <p>Qu'à l'envy chacun chante, &amp;c.</p>
+        <p/>
+        <p>LICIDAS.</p>
+        <p>Venez dans cette retraite</p>
+        <p>Faire un peu plus de sejour,</p>
+        <p>C'est pour vos jeux qu'elle est faite,</p>
+        <p>Les ans n'y durent qu'un jour</p>
+        <p>La felicité parfaite</p>
+        <p>Fuit l'embaras de la Cour.</p>
+        <p/>
+        <p>Que toûjours la noire envie</p>
+        <p>Respecte vos jeux charmans ;</p>
+        <p>Et que la Parque adoucie</p>
+        <p>Vous file de nouveaux ans.</p>
+        <p>Puisse votre belle vie</p>
+        <p>Estre un éternel printemps.</p>
+        <p/>
+        <p>Après cet Idille on chanta ce Menuet des mesmes Autheurs.</p>
+        <p/>
+        <p>Heureux les coeurs,</p>
+        <p>Qu'Amour couronne,</p>
+        <p>Du prix charmant de ses faveurs ;</p>
+        <p>Rien ne vaut ce qu'il donne,</p>
+        <p>Non, le Trône mesme</p>
+        <p>N'a pas tant d'attraïts,</p>
+        <p>C'est un bonheur suprême,</p>
+        <p>Mais</p>
+        <p>Ce sort n'est dû qu'à des Amans parfaits.</p>
+        <p/>
+        <p>On jouä ensuite la petite Comedie intitulée, Les Fragments de Moliere, &amp; l'heure du Soupé estant venuë, tous les Seigneurs que Monseigneur le Dauphin avoit nommez, eurent l'honneur de manger à la Table de ce Prince, qui fut magnifiquement servie. Il y en eut aussi plusieurs autres, où la propreté répondit à l'abondance pour les principales Personnes de sa suite, &amp; pour tous ceux qui estoient employez à ses Divertissemens.</p>
+        <p>Le lendemain Dimanche après la Messe &amp; le Déjeuné, Monseigneur alla tirer en volant, &amp; l'apresdinée il se divertit à la Chasse au Cerf. Il vit à son retour le Baron d'Albicrack, &amp; ensuite il entendit un second Idille mis en Musique par Mr de Lully l'aisné. Ce second Idille, que je vous envoye aussi, est d'un Cavalier qui ne fait des Vers que pour son divertissement. Vous allez juger de quelle maniere il s'en acquite. Cet Ouvrage fut fait en si peu de temps, qu'il pourroit passer pour un Impromptu.</p>
+        <p/>
+        
+        <p/>
+        <p>AUTRE IDILLE.</p>
+        <p>TIRCIS, ALCIDON, SILENE.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Tandis que dans ce beau sejour</p>
+        <p>Un heureux sort ramene l'allegresse,</p>
+        <p>Faut-il que le cruel Amour,</p>
+        <p>Laisse mon coeur accablé de tristesse ?</p>
+        <p>Helas, que je suis malheureux !</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Ah, que mon destin est à plaindre ?</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Je voudrois guerir de mes feux.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Et les miens devroient bien s'éteindre.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Depuis un si longtemps que j'adore Cloris,</p>
+        <p>En puis-je recevoir un plus injuste prix ?</p>
+        <p>Loin de brûler pour moy d'une pareille flâme.</p>
+        <p>La pitié seulement n'entre point dans son ame.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Iris flatoit mes desirs,</p>
+        <p>Son coeur ne put s'en défendre,</p>
+        <p>Elle agrea mes soupirs</p>
+        <p>Dés que je les fis entendre.</p>
+        <p>Mais je viens de la voir avec un autre Amant,</p>
+        <p>Et la volage Iris, sans songer que je l'aime,</p>
+        <p>L'écoutoit aussi tendrement,</p>
+        <p>Qu'elle m'écouteroit moy-même.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Helas, que je suis malheureux !</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Ah, que mon destin est à plaindre !</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Je voudrois guerir de mes feux.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Et les miens devroient bien s'éteindre.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Songeons à nous dégager ;</p>
+        <p>Pourquoy tant nous affliger</p>
+        <p>Pour des Maistresses infidelles,</p>
+        <p>Ou trop cruelles ?</p>
+        <p>N'en trouve-t-on aisément</p>
+        <p>D'autres aussi belles,</p>
+        <p>Et pour comble d'agrément,</p>
+        <p>Qui seront nouvelles ?</p>
+        <p/>
+        <p>TIRCIS, ALCIDON.</p>
+        <p>Songeons à nous dégager, &amp;c.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>C'est une erreur qu'une amour parfaite,</p>
+        <p>Pour mon repos je m'en garderay ;</p>
+        <p>Je soupirois sur ma Musette,</p>
+        <p>Mais malgré vous, Amour, j'y danseray.</p>
+        <p/>
+        <p>Si le plaisir vient s'offrir sans peine,</p>
+        <p>Peut-estre alors je m'engageray,</p>
+        <p>Je me plaignois d'une inhumaine,</p>
+        <p>Mais malgré vous, Amour, je m'en riray.</p>
+        <p/>
+        <p>Tant que dureront nos beaux jours.</p>
+        <p>Cherchons, cherchons souvent de nouvelles amours.</p>
+        <p/>
+        <p>TIRCIS, ALCIDON.</p>
+        <p>Tant que dureront nos beaux jours &amp;c</p>
+        <p/>
+        <p>SILENE.</p>
+        <p>Et moy je veux chercher à m'enyvrer toûjours.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Arreste un peu, vieux Silene,</p>
+        <p>Viens nous aider à calmer nos soucis.</p>
+        <p/>
+        <p>SILENE.</p>
+        <p>Je crains qu'on ne me surprenne</p>
+        <p>Avec des Amans transis.</p>
+        <p/>
+        <p>Avec vous toûjours on s'ennuye,</p>
+        <p>Vous qui d'un triste amour suivez la dure loy :</p>
+        <p>J'ay promis à Bachus en luy donnant ma foy,</p>
+        <p>De ne connoistre de ma vie</p>
+        <p>Que des Ivrognes comme moy.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Demeure, Silene, demeure,</p>
+        <p>Nostre amour va prendre fin.</p>
+        <p/>
+        <p>SILENE.</p>
+        <p>Pour me le prouver tout à l'heure,</p>
+        <p>Venez le noyer dans le vin.</p>
+        <p/>
+        <p>TIRCIS, ALCIDON.</p>
+        <p>Pour te le prouver tout à l'heure,</p>
+        <p>Allons le noyer dans le vin.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Quel changement, quel effet admirable</p>
+        <p>D'une liqueur incomparable !</p>
+        <p>Que ne te dois-je pas, ô puissant Dieu du vin !</p>
+        <p>Tu bannis de mon coeur Iris &amp; le chagrin.</p>
+        <p/>
+        <p>TIRCIS.</p>
+        <p>Le chagrin suit souvent l'amoureuse folie,</p>
+        <p>Le vin sçait beaucoup mieux contenter mon desir,</p>
+        <p>Avec Bacchus si ma raison s'oublie,</p>
+        <p>Au moins en la perdant je trouve du plaisir.</p>
+        <p/>
+        <p>SILENE.</p>
+        <p>Graces au Dieu Bacchus, les ingrates Beautez</p>
+        <p>Dont vos coeurs estoient enchantez,</p>
+        <p>Ne vous causeront plus d'alarmes :</p>
+        <p>Oubliez à jamais leurs charmes,</p>
+        <p>A moins que ces objets si doux</p>
+        <p>Ne viennent quelquefois rire &amp; boire avec nous.</p>
+        <p/>
+        <p>Vous qui servez des Beautez inhumaines,</p>
+        <p>Cherchez Bacchus, il brisera vos chaines.</p>
+        <p/>
+        <p>TIRCIS, ALCIDON.</p>
+        <p>Benissons l'heureux jour,</p>
+        <p>Qui finit nostre amour.</p>
+        <p/>
+        <p>ALCIDON.</p>
+        <p>Liberté, douce paix.</p>
+        <p>Ne nous quittez jamais.</p>
+        <p/>
+        <p>TIRCIS, SILENE.</p>
+        <p>Dans ces lieux sans amour, sans envie,</p>
+        <p>On joüit des douceurs de la vie.</p>
+        <p>Auroient-ils tant d'appas</p>
+        <p>Si l'on n'y beuvoit pas ?</p>
+        <p/>
+        <p>TOUS TROIS.</p>
+        <p>Vous qui servez des Beautez inhumaines,</p>
+        <p>Cherchez Bacchus, il brisera vos chaines.</p>
+        <p/>
+        <p>Cet Idille fut suivy de la petite Comedie de Pasquin d'Avalos, &amp; après qu'on eut Soupé, on chanta dans le grand Cabinet de Monseigneur l'Idille de Mr de Lully le Cadet.</p>
+        <p>Monseigneur alla le Lundy à la Chasse au Loup, &amp; n'en revint qu'à neuf heures du soir. Il vit à son retour la Femme Juge &amp; Partie, &amp; entendit l'Idille de Mr de Lully le Cadet.</p>
+        <p>On alla le Mardy aux mesmes Chasses que le Dimanche. On joüa le soir Polieucte &amp; le Medecin malgré luy. L'Idille de Mr de Lully l'Aisné fut chanté entre ces deux Pieces, &amp; on chanta l'autre Idille après le Soupé dans le grand Cabinet.</p>
+        <p>La Chasse du Cerf servit de divertissement le Mercredy. La Coquette fut representée le soir. On chanta ensuite l'Idille de Mr de Lully le Cadet, qui fut suivy de la representation des Enlevemens, &amp; après le Soupé on chanta l'Idille de Mr de Lully l'Aisné.</p>
+        <p>On alla le Jeudy à la Chasse au Loup. On joüa le soir l'Amphitrion qui fut precedé d'une ouverture, &amp; d'un Air Italien de la Composition de Mr de la Barre. Après l'Amphitrion on chanta l'Idille de Mr de Lully l'Aisné, &amp; après cet Idille on joüa le Rendez-vous des Tuilleries. L'Idille de Mr de Lully le Cadet fut chanté avant le coucher, &amp; finit les divertissemens. Je ne vous dis rien du succés de la Musique de ces deux Idilles. On n'auroit pas pris plaisir à les entendre tant de fois, si on ne l'avoit trouvée bonne. A l'égard de celuy qui a le mieux réüssi, c'est ce qu'il seroit difficile de decider ; il faudroit pour cela qu'ils eussent mis tous les deux le mesme Ouvrage en Musique. Tout ce que je puis vous dire, c'est qu'estant encore fort jeunes, &amp; ayant appris d'un aussi habile Maistre que feu Mr de Lully leur Pere, il y a sujet d'en attendre beaucoup s'ils entreprennent de marcher sur ses traces, &amp; s'ils s'appliquent assez pour cela.</p>
+        <p>J'ay oublié de vous marquer qu'il y a eu quelques entrées de Balet dans les Entractes des Comedies. Monseigneur a témoigné se divertir extremement pendant tout le temps qu'il a passé dans cette delicieuse Maison, &amp; cela se remarquant sur le visage de ce Prince, causoit une joye à toute sa Cour qui l'animoit à se divertir aussi, &amp; particulierement à Monsieur de Vendosme, dont l'attachement pour toute la Maison Royale, ne se sçauroit exprimer. Les deux Idilles qui ont servy de divertissement à Anet, &amp; que vous venez de lire, ont esté chantez à Marly devant le Roy, &amp; ils y ont eu le mesme succés.</p>
+      </div>
+
+<div xml:id="MG-1687-09a_270">
+        <head>MG-1687-09a_270</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 270-271</bibl>
+        <p>Tout ce qui s'est passé à l'Académie Françoise le jour de Saint Loüis.</p>
+        <p/>
+        <p>Le 25. du mois passé, l'Academie Françoise solemnisa à son ordinaire la Feste de S. Loüis, Roy de France, dans la Chapelle du Louvre. M. l'Abbé de la Vau, l'un des quarante Academiciens, celebra la Messe, pendant laquelle il y eut une excellente Musique. Elle estoit de la composition de Mr Oudot, qui fit paroistre son habileté ce jour-là plus que jamais. Ensuite Mr l'Abbé Courcier, Theologal de l'Eglise de Paris, prononça le Panegyrique de S. Loüis, avec un succés qui luy attira beaucoup de loüanges. [...] L'assemblée estoit nombreuse, mais en mesme temps de gens choisis.</p>
+      </div>
+
+<div xml:id="MG-1687-09a_329">
+        <head>MG-1687-09a_329</head>
+        <bibl>Mercure galant, septembre 1687, première partie, p. 329-331</bibl>
+        <p>Arrivée, séjour &amp; départ des Ambassadeurs de Moscovie.</p>
+        <p/>
+        <p>Les Ambassadeurs qui y sont venus les deux dernieres fois [à la Cour de France], ayant témoigné aux Princes leurs Maistres la satisfaction qu'ils y ont receuë, elle a esté cause de cette troisiéme Ambassade, &amp; qu'un Prince de la Famille des Czars qui ont porté la Couronne avant ceux qui la portent aujourd'huy, a esté nommé premier Ambassadeur. Ils débarquerent à Dunkerque, où le Roy leur envoya M. Tort, Gentilhomme ordinaire de sa Maison, qui souvent a eu de pareilles Commissions, parce qu'ils s'en est toûjours acquité au gré de Sa Majesté, &amp; des Ambassadeurs qu'il a receus &amp; accompagnez pendant tout le séjour qu'ils ont fait en France. Il y avoit trois Ambassadeurs, &amp; le dernier estoit nommé Chancelier, non pas qu'il fust en effet Chancelier de Moscovie, comme quelques Relations publiques l'ont marqué, il n'y a pas vraye semblance à celà ; mais parce qu'il n'y a presque point de Corps qui n'ait son Chancelier en ce Pays-là, &amp; qu'il y en a mesme dans les Villes &amp; dans les Bourgs. Ces trois Ambassadeurs avoient une suite de plus de six-vingt personnes tant Gentilshommes que Gardes Domestiques, Trompettes, Timbaliers, &amp; Joüeurs d'Instrumens, qui ont tous esté nourris ; &amp; voiturez aux despens du Roy. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

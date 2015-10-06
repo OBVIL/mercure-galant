@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, novembre 1692</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1692-11/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1692</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1692-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1692-11_140">
+        <head>MG-1692-11_140</head>
+        <bibl>Mercure galant, novembre 1692, p. 140-152</bibl>
+        <p>Idille.</p>
+        <p/>
+        <p>Je vous envoye un Idille sur le retour de Monsieur le Duc de Chartres. Il est de la composition de Mr Pagot, Valet de Chambre de leurs Altesses Royales Monsieur, &amp; Monsieur le Duc de Chartres. Mr Gervais le jeune en a mis les paroles eu Musique, &amp; elles furent chantées au Palais-Royal au commencement de ce mois. (...) L'Idille dont je vous fait part, a pour sujet l'Hiver qui ramene Monsieur le Duc de Chartres à la Nymphe de Saint Cloud, que son absence tenoit toujours en alarmes par les perils qu'il couroit.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Je ramene en ces lieux vostre Auguste Heros.</p>
+        <p>Vous qui l'aimez d'une amour si fidelle,</p>
+        <p>Preparez-luy quelque Feste nouvelle ;</p>
+        <p>Que chacun l'envy celebre ses travaux.</p>
+        <p>L'horreur de mes frimats l'arrache à la Victoire.</p>
+        <p>Chantez, chantez son glorieux retour :</p>
+        <p>Aprés avoir donné le Printemps à sa Gloire,</p>
+        <p>Il vient donner l'hiver à son amour.</p>
+        <p>Chantez, chantez son glorieux retour.</p>
+        <p/>
+        <p>BERGERS DE S. CLOUD,</p>
+        <p>SUITE DE L'HIVER.</p>
+        <p>Chantons, chantons le glorieux retour</p>
+        <p>D'un Heros que l'Hiver arrache à la Victoire.</p>
+        <p>Aprés avoir donné le Printemps à la Gloire,</p>
+        <p>Il vient donner l'Hiver à son amour.</p>
+        <p/>
+        <p>LA NYMPHE DE S. CLOUD.</p>
+        <p>Le Ciel, à mes voeux favorable,</p>
+        <p>Nous rend la presence adorable</p>
+        <p>D'un Heros, le sujet de nos jeux innocens.</p>
+        <p>Aprés mille perils pressans,</p>
+        <p>Où l'engagea son courage,</p>
+        <p>Quel plaisir de le voir encor sur ce rivage !</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Possedez ce Heros glorieux,</p>
+        <p>Joüissez de toute sa tendresse.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Heureux Habitans de ces lieux,</p>
+        <p>Montrez vostre allegresse</p>
+        <p>Par mille chants joyeux.</p>
+        <p/>
+        <p>Deux Bergers chantent, &amp; le Choeur répond.</p>
+        <p>Voicy le jour heureux</p>
+        <p>Qui fait cesser nos larmes :</p>
+        <p>Voicy le jour heureux</p>
+        <p>Qui va combler nos voeux.</p>
+        <p>Un Heros plein de charmes</p>
+        <p>Vient de quitter les armes,</p>
+        <p>Pour suivre les doux noeuds</p>
+        <p>De son coeur amoureux.</p>
+        <p>Voicy les jour heureux</p>
+        <p>Qui fait cesser nos larmes :</p>
+        <p>Voicy le jour heureux</p>
+        <p>Qui va combler nos voeux.</p>
+        <p/>
+        <p>On entend un bruit de Guerre qui doit précéder la venuë de la Gloire.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>O Ciel ! la Gloire vient troubler tous nos plaisirs,</p>
+        <p>Elle me va ravir le Heros que j'adore.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Non, il n'est pas temps encore,</p>
+        <p>Et je vais m'opposer à ses cruels desirs.</p>
+        <p/>
+        <p>LA NYMPHE ET L'HIVER.</p>
+        <p>Non, il n'est pas temps encore,</p>
+        <p>Opposons-nous tous deux à ses cruels desirs.</p>
+        <p/>
+        <p>L'HIVER A LA GLOIRE.</p>
+        <p>Déesse, en vain vous voulez faire croire,</p>
+        <p>Que vous regnez sur toutes les Saisons ;</p>
+        <p>Jamais on n'a vû la Victoire</p>
+        <p>Regner dans le temps des glaçons.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Ce n'est point la rigueur de ta Saison cruelle</p>
+        <p>Qui ramene ce Prince en ces aimables lieux ;</p>
+        <p>Son bras toujours victorieux</p>
+        <p>Ne craint point les frimats quand la Gloire l'appelle.</p>
+        <p>C'est à ses feux : c'est à son amour</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>C'est aux frimats ;</p>
+        <p/>
+        <p>LA GLOIRE</p>
+        <p>C'est à son amour</p>
+        <p/>
+        <p>L'HIVER &amp; LA GLOIRE, ensemble.</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>Suite de L'HIVER.</p>
+        <p>C'est aux frimats ;</p>
+        <p/>
+        <p>Suite de LA GLOIRE.</p>
+        <p>C'est à son amour</p>
+        <p/>
+        <p>Suite de L'HIVER &amp; de LA GLOIRE.</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Les voeux d'une aimable Princesse</p>
+        <p>L'ont emporté sur ses desirs guerriers ;</p>
+        <p>Aprés tant de travaux, aprés tant de lauriers,</p>
+        <p>Il cede enfin à sa tendresse.</p>
+        <p>C'est à ses feux ; c'est à son amour</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>C'est aux frimats ;</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>C'est à son amour</p>
+        <p/>
+        <p>L'HIVER &amp; LA GLOIRE.</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>Suite de L'HIVER.</p>
+        <p>C'est aux frimats ;</p>
+        <p/>
+        <p>Suite de la GLOIRE.</p>
+        <p>C'est à son amour</p>
+        <p/>
+        <p>Suite de L'HIVER &amp; de la GLOIRE.</p>
+        <p>Qu'on doit son glorieux retour.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>Terminez les débats d'une vaine querelle.</p>
+        <p>Unisons-nous tous trois pour plaire à ce Heros.</p>
+        <p>Pendant que dans ces lieux il gouste un doux repos,</p>
+        <p>Par mille nouveaux airs montrons-luy nostre zele.</p>
+        <p/>
+        <p>L'HIVER, LA GLOIRE, LA NYMPHE, ensemble.</p>
+        <p>Terminons les débats d'une vaine querelle ;</p>
+        <p>Unissons-nous tous trois pour plaire à ce Heros</p>
+        <p>Pendant que dans ces lieux il gouste un doux repos,</p>
+        <p>Par mille nouveaux airs montrons-luy nostre zele.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Je l'ay veu tout couvert du sang des Ennemis</p>
+        <p>Monter au Temple de Memoire.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Par cent travaux, par cent faits inouis,</p>
+        <p>On l'a veu fixer la Victoire.</p>
+        <p/>
+        <p>LA NYMPHE.</p>
+        <p>De l'Auguste PHILIPPE il est le digne Fils :</p>
+        <p>C'est la Neveu, c'est le sang de LOUIS.</p>
+        <p/>
+        <p>Tous les CHOEURS.</p>
+        <p>De l'Auguste PHILIPPE il est le digne Fils :</p>
+        <p>C'est le Neveu, c'est le Sang de LOUIS.</p>
+        <p/>
+        <p>LA NYMPHE à la GLOIRE.</p>
+        <p>Je tremble, je frissonne,</p>
+        <p>Quand je le vois courir aprés vos étendars.</p>
+        <p/>
+        <p>L'HIVER.</p>
+        <p>Sans cesse il s'abandonne</p>
+        <p>Aux plus affreux perils, aux plus cruels hazards.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Du chaste sein d'une Bellonne,</p>
+        <p>Il ne pouvoit sortir qu'un Mars.</p>
+        <p/>
+        <p>DEUX BERGERS de S. Cloud.</p>
+        <p>On diroit à le voir que le Dieu de la guerre,</p>
+        <p>Dans les mains de l'Amour a remis son tonnerre</p>
+        <p/>
+        <p>I. Voix de la suite de l'Hyver.</p>
+        <p>Il se fait craindre, &amp; plaist également.</p>
+        <p/>
+        <p>I. Voix de la suite de la Gloire.</p>
+        <p>S'il est terrible, il n'est pas moins charmant.</p>
+        <p/>
+        <p>Tous les CHOEURS.</p>
+        <p>Il se fait craindre, &amp; plaist également,</p>
+        <p>S'il est terrible, il n'est pas moins charmant.</p>
+        <p/>
+        <p>LA GLOIRE.</p>
+        <p>Pendant que dans ces lieux son amour le rappelle,</p>
+        <p>Joüissez du plaisir de le voir ;</p>
+        <p>Mais quand l'Amour aura fait son devoir,</p>
+        <p>Souffrez qu'il me soit fidelle.</p>
+        <p>Laissez-le sur les pas de ses nobles Ayeux,</p>
+        <p>S'élever au-dessus de tous les demy-Dieux.</p>
+        <p/>
+        <p>LA NYMPHE &amp; L'HIVER, ensemble.</p>
+        <p>C'est en vain qu'on voudroit s'opposer à la Gloire,</p>
+        <p>Ce Heros suit tous ses desirs ;</p>
+        <p>Il méprise tous les plaisirs,</p>
+        <p>Quand il voit voler la Victoire.</p>
+        <p/>
+        <p>DEUX BERGERS de S. Cloud,</p>
+        <p>&amp; les Choeurs répétent.</p>
+        <p>Suivez, jeune Heros,</p>
+        <p>L'ardeur qui vous transporte.</p>
+        <p>Suivez, jeune Heros,</p>
+        <p>Le cours de vos travaux.</p>
+        <p>Toujours sur vostre coeur la Gloire est la plus forte ;</p>
+        <p>Vous ne sçauriez gouster un indigne repos.</p>
+        <p>Suivez, jeune Heros,</p>
+        <p>L'ardeur qui vous transporte.</p>
+        <p>Suivez, jeune Heros</p>
+        <p>Le cours de vos travaux.</p>
+      </div>
+
+<div xml:id="MG-1692-11_188">
+        <head>MG-1692-11_188</head>
+        <bibl>Mercure galant, novembre 1692, p. 188-195</bibl>
+        <p>Ceremonie faite à Niort.</p>
+        <p/>
+        <p>Les Religieux de la Charité de la Ville de Niort ont celebré avec de grandes solemnitez la Feste de la Canonisation de S. Jean de Dieu, leur Patriarche. L'ouverture s'en fit le Dimanche 19. du mois passé, par une Procession generale, où fut portée la Banniere du Saint, qui avoit esté benite le jour précedent, par Mr Prunier, Curé de Nostre-Dame, dans la Paroisse duquel l'Hôpital de ces Religieux est situé. Les Pauvres de l'Hôpital General commencerent la marche, &amp; furent suivis de la Confrairie des Pelerins, aprés laquelle on vit paraistre les Confreres de Saint Nicolas, au nombre de plus de trois cens, &amp; tous en Surplis. Les Religieux de la Charité suivoient la Banniere du Saint, qui estoit précedée de plusieurs Trompettes, &amp; ensuite marchoient les Capucins, les Cordeliers, le Clergé Seculier de la Ville, les Officiers du Bailliage en robes, Mr de la Teraudiere, Maire, l'épée au costé, les Echevins avec leurs robes &amp; chaperons rouges, douze Sergens des Bandes du Regiment Royal, étably en la Ville de Niort, les Officiers de ce mesme Regiment deux à deux, l'épée au costé &amp; le haussecol, &amp; douze autres Sergens de Bandes pour fermer la marche, &amp; separer ceux qui la formoient, du reste du Peuple, qui assista à cette Procession dans une affluence extraordinaire. Elle se rendit à Nostre-Dame, où la Grand'Messe fut chantée solemnellement, &amp; le Panegyrique du Saint prononcé avec beaucoup de succés par Mr Prunier. La Messe finie, tous les Corps reconduisirent la Banniere du Saint dans l'Eglise de la Charité, &amp; plusieurs Motets y furent chantez en Musique, aussi-bien que les Prieres pour le Roy &amp; pour la Paix. L'aprésdînée, le mesme Panegyrique y fut prononcé par Mr l'Abbé Raffy, Docteur en Theologie, &amp; ancien Curé de la Rocheguion, &amp; on termina la Ceremonie de ce jour par un feu de joye que les Religieux avoient fait dresser au milieu de la Place qui est devant leur Hôpital. Ils y allerent processionnellement avec Mr le Curé de Nostre-Dame, &amp; son Clergé. Ce mesme Curé, le Pere Lambert Hersant, Mr le President de Fontmort, Mr de la Teraudiere, Maire, Mr Boucher, Capitaine au Regiment, commandant un détachement que l'on avoit fait pour assister au Feu, à l'occasion des reveuës qui se font de temps en temps de ce Regiment, &amp; Mr de la Teraudiere, Fils, Aide Major dans ce mesme Regiment, mirent le feu au bucher par divers endroits, au bruit des Trompettes &amp; des Tambours, &amp; de plusieurs Salves de Mousqueterie, que fit le détachement qui bordoit la Place de tous costez. Cela fut suivy d'un grand nombre de fusées qui s'éleverent du Dôme de l'Hôpital, où il y avoit de grandes illuminations. On alluma un semblable feu dans la mesme Place, &amp; avec les mesmes ceremonies, le jour de l'Octave, pendant laquelle le Pere Rabor, Cordelier, Mr l'Abbé Sergé, le Pere Joachim, Capucin, le Pere Motot, Prestre de l'Oratoire, Mr Chaillot, Vicaire de l'Eglise de Nostre-Dame, Mr Melenent, Prestre, Aumônier de la Charité, &amp; le Pere Mesnard, Prestre de l'Oratoire, prononcerent le Panegyrique du Saint, avec autant d'éloquence, que de zele. L'Office du jour qui fut la closture de l'Octave, se fit par Mr Baston, Curé de Saint André, qui aprés plusieurs Motets que l'on chanta en Musique, entonna solemnellement le Te Deum, dont les versets furent chantez alternativement, le premier par le Clergé, le second par les Trompettes, &amp; le troisiéme par l'Orgue, pendant quoy on éleva la Banniere du Saint à la voûte de l'Eglise.</p>
+      </div>
+
+<div xml:id="MG-1692-11_228">
+        <head>MG-1692-11_228</head>
+        <bibl>Mercure galant, novembre 1692, p. 228-232</bibl>
+        <p>Ouverture du Parlement.</p>
+        <p/>
+        <p>Le Mercredy 12. de ce mois, le Parlement s'étant rendu en robes rouges dans la grande Salle du Palais, la Messe y fut chantée en Musique, &amp; pontificalement celebrée par Mr de Sillery, Evêque de Soissons. Cette grande ceremonie estant achevée, tous ceux qui composoient ce Senat Auguste entrerent dans la Grand'Chambre, &amp; Mr le premier President prenant la parole, dit, Que les hommes dans leurs plus grands emplois ne pouvoient rien faire par eux mesmes. Il fit une belle peinture de leur foiblesse, &amp; aprés en avoir donné une parfaite idée, il dit, qu'il falloit s'adresser au Ciel, &amp; qu'on ne le pouvoit mieux faire que par les prieres de l'Evesque qui venoit d'officier. Il loüa les grands talens &amp; les vertus de ses Ancestres, &amp; s'estant étendu sur ce que le Chancelier de Sillery avoit fait de grand, &amp; sur ses Ambassades, il ajousta que le grand mérite de tant d'illustres personnages avoit passé jusqu'à ce Prelat. Mr de Soissons répondit à ce compliment, en termes fort obligeans pour cette Auguste Compagnie, &amp; aprés l'avoir remerciée du choix qu'elle avoit fait de luy pour officier ce jour-là, il dit, que ce n'estoit pas le seul remerciement qu'il eust à luy faire, &amp; qu'il luy en devoit pour tous les Evesques dont le Parlement avoit toujours pris la deffence. Il fit ensuite une peinture de la Justice ; il en fit voir toutes les beautez, &amp; n'oublia pas que Dieu avoit dit, que c'estoit une portion de luy-mesme. Aprés ces Complimens reciproques, il y eut un magnifique dîner chez Mr le premier President, où Mr de Soissons, quelques Presidens à Mortier, plusieurs Conseillers, &amp; autres personnes de la premiere qualité se trouverent.</p>
+      </div>
+
+<div xml:id="MG-1692-11_261">
+        <head>MG-1692-11_261</head>
+        <bibl>Mercure galant, novembre 1692, p. 261-265</bibl>
+        <p>Lotterie où l'on peut mettre, quoy que tirée.</p>
+        <p/>
+        <p>Je vous ay parlé juste touchant la Lotterie de Mr Philidor l'ainé, Ordinaire de la Musique du Roy. Monseigneur le Dauphin &amp; Madame la Princesse de Conty Doüairiere, se sont donné le divertissement de faire tirer cette Lotterie devant eux. Plusieurs personnes de marque y ont esté employées, &amp; les boëtes ont esté cachetées des cachets qui ont servy à la grande Lotterie du Roy. Cependant elles ne seront distribuées que vers le quinziéme du mois prochain, &amp; elles demeureront jusque-là en dépost chez Madame la Princesse de Conty. Il faut vous en dire la raison. On vouloit tenir parole au Public, &amp; tirer cette Lotterie, mais il s'en falloit mille écus que le fond ne fust remply. On ne pouvoit diminuer mille écus sur la somme à laquelle on avoit fixé cette Lotterie, parce qu'il n'y a qu'un seul lot, qui consiste en une maison. L'embarras estoit grand, &amp; les expedients difficiles à trouver. Enfin il a esté résolu, que Mr Philidor prendroit pour mille écus de billets, c'est-à dire, pour ce qui restoit de fond à remplir. Il les a pris, &amp; l'on n'a différé de délivrer les boëtes qu'afin que le Public fust averty, qu'il luy offre ses billets, pour les mesmes sommes qu'il a données. Ceux qui les acheteront ne seront pas long-temps sans estre éclaircis s'ils auront ce lot unique, puis que la Lotterie est tirée, ce qui fut fait le 19. de ce mois, &amp; depuis ce temps on a déjà pris beaucoup de ces Billets. Il peut arriver qu'il luy en restera, mais peut-estre aussi qu'il n'en aura pas assez pour ceux qui en souhaitteront. Le Public a sujet par là d'estre content de Mr Philidor. Puis qu'il offre tous les billets jusques au dernier, on peut le mettre hors d'état de regagner sa maison en prenant ceux qui luy restent. On trouvera les Cartes de plusieurs sortes de numero, chez Mr Louvet, Marchand Papetier à l'Empereur, à Paris, ruë de l'Arbre-Sec, &amp; chez Mr Philidor, l'Ainé, proche les Coches du Sr Paumier à Versailles.</p>
+      </div>
+
+<div xml:id="MG-1692-11_311">
+        <head>MG-1692-11_311</head>
+        <bibl>Mercure galant, novembre 1692, p. 311-313</bibl>
+        <p>Réception faite à ce Prince.</p>
+        <p/>
+        <p>La Maison de Chantilly est si belle, &amp; Monsieur le Prince toûjours ingenieux à inventer des divertissemens, en fait trouver le sejour si agréable à ceux qui vont se promener dans cette délicieuse Maison, qu'il est impossible d'y avoir esté sans qu'on ait envie d'y retourner. C'est ce qui fait que Monseigneur le Dauphin s'y plaist. Il y a passé trois jours ce mois-cy avec Monsieur le Duc, Monsieur le Prince de Conty, &amp; Monsieur le Duc du Maine. Pendant ce temp-là, les plaisirs ont succedé les uns aux autres. La chasse a esté heureuse, la bonne chere complette, &amp; la joye toujours fort grande. Il ne faudroit pas connoistre Monsieur le Prince pour en douter. Monseigneur passa par Paris à son retour, &amp; alla voir l'Opera de Phaëton qui n'avoit point esté joüé depuis plusieurs années, &amp; qui parut avec de nouveaux embellissemens. Il fut extrémement applaudy, tant pour la Musique de Mr de Lully dont on ne se peut lasser, qu'à cause de la magnificence des Décorations &amp; de la beauté des habits. Je ne puis m'empescher de vous dire, en vous parlant des plaisirs, que les Comediens François, joüent une Comedie nouvelle, intitulée, Les Femmes à la Mode, dont le succez est tres-grand, &amp; les assemblées nombreuses ; rien n'est plus vif, ne divertit davantage, &amp; n'entre mieux dans le goust du siecle.</p>
+      </div>
+</body>
+  </text>
+</TEI>

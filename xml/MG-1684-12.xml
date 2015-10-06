@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre 1684</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1684-12/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1684</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1684-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1684-12_136">
+        <head>MG-1684-12_136</head>
+        <bibl>Mercure galant, décembre 1684, p. 136, 138-139, 150-154, 158-173, 168-174, 180-181</bibl>
+        <p>Détails des Cerémonies faites au Mariage de Mad. La Princesse de Hanover</p>
+        <p/>
+        <p>Je vous ay déja parlé du Mariage de Mr le Prince Eléctoral de Brandebourg avec Madame la Princesse de Hanover. En voicy de plus amples circonstances. [...]</p>
+        <p/>
+        <p>Madame la Princesse de Hanover est une Personne tres-aimable. [...] Pour de l'esprit, elle en a beaucoup, &amp; une douceur fort engageante. Elle chante bien ; jouë du Clavessin, danse avec beaucoup de grace, &amp; sçait ce que fort peu de Personnes sçavent dans un âge aussi-peu avancé que le sien. Elle eue justement seize ans accomplis le jour que se fit son Mariage.</p>
+        <p/>
+        <p>[...] Le lendemain au matin Leurs Altesses passerent dans l'Appartement des Mariez, &amp; leur souhaiterent d'heureux jours. [...] Ce jour &amp; le jour suivant se passerent en jeux, en danses, &amp; en Festes particulieres, jusqu'au Mardy 10. d'Octobre destiné pour l'entrée du Prince à Hanover, qui fut tres-bien ordonnées. Leurs Altesses trouverent dans la Plaine trois Regimens de Cavalerie, qui aprés avoir fait leur décharge, défilerent quatre à quatre, &amp; tinrent la teste du Cortege. Les Ruës estoient abordées par les Regimens d'Infanterie de Podvvits &amp; de Berhnolph, &amp; les Gardes à pied occupoient la Court du Château, &amp; les avenuës. Ensuite on voyoit vingt-quatre Chevaux de main de Mr le Duc de Hanover, avec des Couvertures magnifiques, menez par autant de Palfreniers ; puis douze Pages à cheval de Mr le Duc, avec les Ecuyers à deux teste, douze Chevaux de main de Mr le Prince Electoral, huit Pages de ce mesme Prince ; trente Carrosses à six Chevaux de la Cour de Hanover, vingt-trois autres à six Chevaux de Mr le Duc, dont il y en avoit six d'une tres-grande beauté ; trois du Prince Electoral, d'une magnificence extraordinaire ; surtout le dernier, dont l'Impériale, le dedans, aussi bien que le Siege du Cocher, &amp; les Harnois des six Chevaux, sont d'un Velours dont le fond est d'argent, &amp; les fleurs d'or. On y voit seulement un peu de Cramoisy en quelques endroits. Il est doré partout, &amp; fort bien peint. Aprés cela paroissoient douze Trompettes de Mr le Duc de Hanover, &amp; huit de Mr le Prince Electoral, qui remplissoient l'air d'une harmonie agreable, à laquelle répondoient les Trompettes des trois Regimens qui estoient postez dans la Plaine. [...]</p>
+        <p/>
+        <p>Le Soupé fut servy. On n'y but aucune santé qui ne fut celebrée par trois coups de Canon, dont on avoit mis cinquante petites Piéces aux environs du Château. Le signal leur estoit donné par douze Trompettes, qui estoient postez sur les Galeries &amp; sur les Balcons, &amp; dans les intervales douze Violons &amp; six Hautsbois charmoient par leurs doux accords toute cette auguste Compagnie. [...]</p>
+        <p>Aprés le Soupé, on se rendit dans une grande Salle, parée pour le Bal. Il commença par une Danse qu'on ne connoit point en France, &amp; que l'on conserve en Allemagne par une vieille tradition. Six de la Cour de Hanover donnerent la main à six de Mr le Prince Electoral, tous un flambeau de cinq blanche à la main. Les Mariez se placerent au milieu, en sorte qu'il y en avoit six devant, &amp; six derriere ; &amp; commencerent la Dance. Il danserent à deux reprises. Mr le Duc vint prendre la place du Prince, &amp; dansa comme luy. Ensuite Madame la Duchesse prit celle de Madame La Princesse Electorale ; le Prince de Hanover celle du Duc ; la Princesse, celle de la Duchesse ; &amp; le Prince Charles, celle du Prince de Hanover. Il finit la Dance qui se fait au son des Trompettes, sans qu'il y ait aucun Violon qui joüe. Aprés cette Dance on commença un Bal à la Françoise.</p>
+        <p>[...] Le lendemain la plus grande partie de la journée s'estant passée en divertissemens, on prit celuy de la Comedie. L'Inconnu fut representé, avec un Balet entre les Actes, composé de vingt Entrées. Les Recits qui estoient à la loüange des Mariez, en furent chantez par les Musiciens de Mr le Duc de Hanover. [...] Le Soupé fut encore suivy du Bal. Le Vendredy 13. tous les Princes &amp; Princesses firent l'honneur à Mr Podvvits Lieutenant Genéral, d'aller disner chez luy. Il y eut ce jour là deux petites Comédies, &amp; le Bal estoit. Le Samedy ont joüa Britannicus, &amp; le soir il y eut un tres-beau Feu d'artifice. [...]</p>
+        <p/>
+        <p>Le Dimanche 15. on chanta le Te Deum dans l'Eglise du Château, &amp; le soir les deux petits Princes avec les petits Seigneurs, &amp; les jeunes Demoiselles de la Cour, danserent un Balet de douze Entrées, qui fut parfaitement bien executé, &amp; qui attira l'applaudissement de toute la Compagnie. [...] L'apresdinée ont eut le plaisir de la Chasse au Sanglier dans la Cour du Château, [...] Ensuite les Princes &amp; les Princesses se rendirent chez Mr de Groot, où l'on commença le Bal sur les six heures. Il fut interrompu par un Repas d'une propreté &amp; d'une abondance surprenante. [...] On recommença le Bal aprés le Soupé. Le Mardy 17. se passa en jeu, &amp; le soir on représenta Psyché, qui fut un spectacle tout charmant, tant pour la richesse &amp; la beauté des habits, que pour la justesse des Machines. Aprés Soupé il y eut encore Bal. Mr le Baron de Platen, grand Maréchal, &amp; Premier Ministre de Mr le Duc de Hanover, qui s'estoit reservé un jour pour régaler Leurs Altesses, s'en acquitta le Mercredy 18. avec une si grande profusion, &amp; tant de délicatesse, qu'on n'eust pû rien ajoûter à la somptuosité de cette Festes. Lors qu'on fut au fruit, il y eut pendant une demy-heure une Fontaine d'Eau de Senteur au milieu de la Table des Princes. [...] Ce Repas finy, l'on passa dans celle de la Comédie, dont l'on diversifia les Entractes par de nouvelles Entrées. Après cela toute cette illustre Compagnie se rendit chez Madame Harling, Dame d'honneur de Madame la Duchesse, qui voulut régaler à son tour la Princesse Electorale, dont elle a toûjours eu la conduite. Elle donna un Souper très propre &amp; très galant ; dans un Appartement séparé du Château, [...] Il y eut une fort jolie Mascarade de six Filles d'honneur de la Cour, &amp; d'autant de Cavaliers deguisez en Paysans &amp; en Paysanes, qui vinrent féliciter les Mariez, &amp; les servirent à table. Leurs Dances rustiques succederent au Repas, &amp; ne furent pas un des moindres divertissemens de cette journée. [...]</p>
+        <p/>
+        <p>[...] j'ajoûteray le Portrait de Madame la Princesse de Hanover, Fille de Mr le Duc de Zell. [...] Elle dance parfaitement bien, jouë du Clavessin, &amp; chante de mesme. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-12_201">
+        <head>MG-1684-12_201</head>
+        <bibl>Mercure galant, décembre 1684, p. 201-203, 210-213</bibl>
+        <p>Mariage de Mr le Marquis de La Fare, &amp; de Mademoiselle de Vantelet</p>
+        <p/>
+        <p>Sur la fin du dernier mois, Mr le Marquis de la Fare préta le Serment de fidélité pour la Charge de Capitaine des Gardes du Corps de Monsieur, dont il reçût le Bâton. [...] Quelques jours auparavant, il avoit épousé Mademoiselle de Vantelet. Vous sçavez déja que les premieres propositions de ce Mariage furent faites par Son Altesse Royale, &amp; que Sa Majesté les agréa avec des marques d'estime tres obligeantes pour les deux Parties. [...] le Mariage fut celébré le Lundy 13. de Novembre à quatre heures du matin, dans la Chapelle de l'Hostel d'Armagnac, qui estoit magnifiquement meublé, [...] Cette Cerémonie fut précedée d'un grand Soupé, au bruit des Hautbois &amp; des Violons, &amp; en suite il y eut Bal. [...]</p>
+        <p/>
+        <p>Je viens à Mademoiselle de Vantelet, présentement Marquise de la Fare. Mais, Madame, que vous en diray-je, ou plutost que ne vous en diray-je pas ? Jamais aucune personne dans un âge si peu avancé, n'est entrée au monde avec une estime &amp; une approbation si genérale. [...] Elle sçait l'Italien, jouë fort bien du Clavessin, &amp; dance parfaitement, &amp; avec une grace merveilleuse. [...] Ceux qui la connoissent un peu particuliérement, luy trouvent une finesse d'esprit que l'on auroit peine à croire, de délicatesse de sentimens dont rien n'approche, &amp; une sagesse dans sa conduite qui dément son âge. [...]</p>
+      </div>
+
+<div xml:id="MG-1684-12_228">
+        <head>MG-1684-12_228</head>
+        <bibl>Mercure galant, décembre 1684, p. 228-234</bibl>
+        <p>Prise-de-Possession de l'Abbaïe de Vauluisant pour l'Abbé le Tellier</p>
+        <p/>
+        <p>Le Vendredy 24. du dernier mois, Mr Boileau, Docteur de la Faculté &amp; Societé de Sorbonne, Doyen de l'Eglise Métropolitaine de Sens, assisté de Mr Vezou, Lieutenant Genéral de la mesme Ville, de Mr Jamard, Avocat au Parlement, &amp; de plusieurs Gentilshommes ; prit possession de l'Abbaïe de Nostre-Dame de Vauluisant, Diocese de Sens, pour Mr l'Abbé le Tellier, Fils de Mr le Marquis de Louvoys, Ministre d'Etat, pourvû par Sa Majesté de cette Abbaïe. Jamais Prise-de-possession n'avoit esté si solemnelle &amp; si magnifique, tous les Religieux de cette grande Abbaïe, l'une des plus belles de l'Ordre de S. Bernard, ayant voulu témoigner leur joye, d'avoir un Abbé d'un si grand nom. Le Pere Prieur estant averty de l'arrivée de Mr Boileau, alla en ses Habits de Cerémonie, le recevoit dans la Basse-Court, à la descente du Carrosse, &amp; le mena au pied du Grand Autel de l'Eglise, qui est tres-superbe. Toute la Communauté s'y estant rendüe, Mr Boileau, avec ceux qui l'accompagnoient, furent conduits à la grande Porte, où un Notaire Apostolique luy présenta les Bulles obtenües pour cette Abbaïe, &amp; la Procuration de Mr l'Abbé le Tellier, apres quoy le Pere Prieur s'estant avancé ; suivy de tous ses Religieux, Mr Boileau leur fit un petit Discours sur l'avantage qu'il avoit d'estre chargé de la Procuration de Mr leur Abbé, qui ne feroit pas moins d'honneur à leur Maison, que Mr le Chancelier son Ayeül, &amp; Mr de Louvoys son Pere, en faisoient à toute la France. Vous serez aisément persuadée qu'il ne dit rien qui ne fust remply d'esprit, si vous songez qu'il est Frere de Mr Despreaux, dont la réputation est si connüe. Le Pere Prieur, répondit pour toute la Communauté, [...] Le Notaire Apostolique ayant repris la Procuration &amp; les Bulles, présenta de l'Eau Beniste à Mr Boisleau, que l'on conduisit au grand Autel qu'il baisa. Ensuite il alla sonner la grosse Cloche, &amp; fut instalé dans toutes les Places de Mr l'Abbé. Il se mit à genoux dans la derniere, &amp; on chanta le Veni Creator, &amp; le Te Deum avec l'Orgue, &amp; au son de toutes les Cloches, ce qui fut suivy des Prieres pour le Roy. Cela fait, le Notaire Apostolique fit la lecture des Bulles &amp; de la Procuration, &amp; déclara à haute &amp; intelligible voix, qu'il installoit &amp; mettoit en possession de l'Abbaye de Nostre-Dame de Vauluisant, Messire Jacques Boisleau, pour &amp; au nom de Messire Camille le Tellier. La Cerémonie se termina par un Disné magnifique, que le Pere Prieur donna à Mr Boisleau, à Mr Vezou, Lieutenant Genéral, &amp; à plusieurs Gentilshommes, qui estoient venus de toutes parts pour en estre les témoins.</p>
+      </div>
+
+<div xml:id="MG-1684-12_317">
+        <head>MG-1684-12_317</head>
+        <bibl>Mercure galant, décembre 1684, p. 317-318</bibl>
+        <p>Livres Nouveaux</p>
+        <p/>
+        <p>Le choix que le Roy a fait de Roland pour le sujet du nouvel Opéra que Mr de Lully prépare, a inspiré à Mademoiselle Girault le dessein de mettre l'Arioste dans un jour qui laisse voir tout ce qu'il a d'agreable, sans en découvrir les endroits trop libres. Ainsi puis que cet Opéra qu'on attend, va faire entrer l'Arioste dans le commerce du grand monde, il ne faut pas qu'il y paroisse en vieux Libertin ; il effaroucheroit les Dames, au lieu de les divertir. C'est ce qui a obligé Mademoiselle Girault d'adoucir ce qui luy a paru de trop outré, en conservant neanmoins le sens de l'Autheur, autant que la bienséance l'a pû permettre. Cette spirituelle Personne a crû aussi qu'on pouvoit suprimer les choses Saintes, &amp; leur donner un autre tour, ne les trouvant pas bien placées dans un Ouvrage d'un caractere si libre. Elle a retranché quelques endroits languissans &amp; ennuyeux, l'Arioste ayant dans sa Langue naturelle certaines beautez, qui passeroient dans la nostre pour de grands defauts. Cette nouvelle Traduction de Roland le furieux, que vos Amies seront peut-estre bien aises de voir, à l'occasion de l'Opéra, se trouve chez le Sr Guignard, à l'entrée de la grande Salle du Palais, à l'Image Saint Jean. [...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

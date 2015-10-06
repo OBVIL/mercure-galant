@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, avril 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-04/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>avril 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-04_123">
+        <head>MG-1694-04_123</head>
+        <bibl>Mercure galant, avril 1694, p. 123-126</bibl>
+        <p>Ceremonie faite à Nismes.</p>
+        <p/>
+        <p>Il s'est fait depuis peu de temps une Ceremonie considerable dans l'Eglise Cathedrale de Nismes. Madame de Georges de Taraud de Lognac, cy-devant Prieure de l'Abbaye Royale des Dames Benedictines de la Font de Nismes, transferées depuis plusieurs années à Beaucaire, &amp; à present Abbesse de cette mesme Abbaye, fut benite dés le commencement du Carême, par Mr l'Evesque de Nismes, qui celebra la Messe revestu de ses habits Pontificaux. Cette Abbesse estoit accompagnée de Madame de la Fare, &amp; de Madame Gabrielle de George de Ledenon, toutes deux Religieuses de la mesme Abbaye. La derniere est Niece de cette nouvelle Abbesse, &amp; Fille de feu Messire de Georges de Taraut, Baron de Ledenon, l'une des plus illustres &amp; anciennes Familles de la Ville de Nismes. Le Choeur de la Cathedrale estoit tendu de riches tapisseries. Au costé droit de l'Autel estoit le Trône de Mr de Nismes, &amp; vis à vis estoit la Credence, garnie de sa Chapelle &amp; de ses Vases de vermeil pour l'Eglise. Il y avoit un peu au dessous une autre Credence, sur laquelle on avoit mis les Cierges, pains &amp; barils dorez &amp; argentez pour l'offrande de Madame l'Abbesse ; la Crosse d'argent estoit à costé de cette Credence. Une excellente Musique chanta la Messe, aprés laquelle Mr l'Evesque fit servir deux tables avec beaucoup de magnificence &amp; de propreté, où plusieurs personnes de qualité furent invitées, avec toute la Famille &amp; Parenté de Mr le Baron de Ledenon, Frere de Madame l'Abbesse. Il y eut un tres grand concours de monde dans l'Eglise, &amp; sur tout quantité de nouveaux Convertis, qui n'avoient jamais vû une pareille ceremonie dans la Ville de Nismes.</p>
+      </div>
+
+<div xml:id="MG-1694-04_216">
+        <head>MG-1694-04_216</head>
+        <bibl>Mercure galant, avril 1694, p. 216-236</bibl>
+        <p>Je vous ay déjà mandé la mort de Madame la Grand'Duchesse Doüairiere de Toscane, arrivée à Pise la nuit du 5. au 6. du mois passé, aprés une facheuse maladie de quelques semaines. Elle avoit receu tous ses Sacremens quelques jours auparavant, avec des sentimens de pieté &amp; de resignation à la volonté de Dieu, qui firent pleurer tous les assistans. La matin du Samedy 6e toutes les cloches de la Ville annoncerent cette funeste nouvelle, &amp; pendant que six Gentils hommes de la Cour, suivant les ordres qu'ils avoient reçûs, faisoient disposer tout ce qui estoit necessaire pour la Pompe funebre, tout le Palais fut tendu de deüil, &amp; aprés qu'on eut ouvert &amp; embaumé le corps, on le revestit des habits accoustumez de la Princesse, avec ses Pierreries, &amp; le soir on l'exposa dans l'antichambre, la Couronne Dule en teste, au milieu d'un grand nombre de lumieres. (...)  Le Cercueil ayant esté posé dans l'Eglise de Monticelli, le soir du Mercredy 10. il fut porté de là sur les vingt-quatre heures jusques à la porte de Florence, où il ne fut pas plutost arrivé que l'on entendit sonner toutes les Cloches. La Forteresse de Saint Jean Baptiste fit plusieurs décharges de tout son Canon, &amp; cela dura jusques à trois heures, dans lequel temps le Corps arriva dans l'Eglise Collegiale de Saint Laurens. La Croix de Saint Nicolas &amp; les Prestres de Pise qui l'avoient accompagné jusque-là, l'ayant laissé sous un Dais à la porte de Florence, il se fit une nouvelle Marche dans cet ordre. Les Cuirassiers de Pise, armez comme de coutume, &amp; couverts de plusieurs crespes pendans, tenant leurs épées nuës la garde en haut, avec un Chaperon de drap noir, marchoient les premiers, précedez des Trompettes avec des sourdines. (...) La Garde des Suisses avec des Timbales &amp; des Trompettes dont le son estoit lugubre, fermoit cette Marche, chacun de ceux qui la composoient tenant un flambeau. L'Archevesque de Florence, assisté de plusieurs Evesques, tous en habits Pontificaux, receut le Corps à la porte de l'Eglise Collegiale de Saint Laurent, qui estoit toute tendüe de noir dehors &amp; dedans. Les grands Officiers l'ayant mis entre les mains des Estafiers, ceux-cy le placerent sur un superbe échafaut que l'on avoit élevé dans le milieu de l'Eglise. Le Cardinal de Medicis arriva dans le mesme temps, &amp; aprés une courte oraison qu'il fit au pied de l'échafaut, sur lequel il jetta de l'Eau benite, il alla au Priedieu qu'on luy avoit préparé du costé de l'Evangile, assistant à toutes les prieres que firent l'Archevêque &amp; le Clergé, qui avoit accompagné le Corps. Le Jeudy au matin 11. du mois, l'Eglise de Saint Laurent ayant esté ouverte, on trouva le corps de la Princesse hors du Cercueil, revestu de ses habits ordinaires ave quantité de Pierreries, la Couronne Ducale en teste, sur un somptueux échafaut, &amp; un tres-grand Dais noir au dessus. (...) L'Archevesque de Florence, assisté des Evesques venus exprés pour cette lugubre fonction, officia pontificalement, &amp; la Musique du Palais chanta la Messe de Requiem. Vous vous imaginez bien le concours extraordinaire de monde qui s'y trouva. La Messe finie, on descendit le Corps, qui fut remis dans la Biere, &amp; porté par les Estafiers à la Chapelle où sont inhumez les Princes de la Maison de Medicis, l'Archevesque, les Evesques, &amp; toute la Noblesse de la Cour l'accompagnant. (...) Elle fut mise dans le Caveau de François I. à costé du Cercueil de Ferdinand II. son Mary. Elle estoit née en 1622. le 3. de Février, &amp; est morte âgée de soixante &amp; douze ans &amp; vingt-neuf jours.</p>
+      </div>
+
+<div xml:id="MG-1694-04_327">
+        <head>MG-1694-04_327</head>
+        <bibl>Mercure galant, avril 1694, p. 327-330</bibl>
+        <p>Elections faites à Liege.</p>
+        <p/>
+        <p>Je viens à l'affaire de Liege dont je vais seulement vous raconter le fait, vous ferez ensuite vos reflexions. Le 20. de ce mois tous les Chanoines se trouverent au Chapitre ainsi qu'il avoit esté resolu. L'agitation y fut grande, &amp; sur les dix heures le Grand Doyen Mean sortit luy vingt deuxiéme, en protestant contre tout ce qui s'alloit faire. Il resta vingt cinq Chanoines dans le Chapitre qui élûrent Mr l'Electeur de Cologne. Le Canon annonça aussi-tost cette élection, on alla chanter le Te Deum à l'Eglise, &amp; mettre le nouvel Evêque en possession. On le mena de là au Palais, où il avoit fait preparer un grand repas. Le Grand Doyen convoqua le soir un Chapitre General pour le lendemain, les deux Partis s'y rendirent. Celuy de l'Electeur de Cologne demanda à l'autre ce qu'il venoit faire. Il répondit qu'il estoit venu pour élire un Evesque. On luy dit que l'Election estoit faite, &amp; il fut obligé de se retirer. Il alla chez le Grand Doyen, à la reserve d'un Chanoine, qui ne voulut point le suivre. Ils éleurent dans la Salle le Grand-Maistre de l'Ordre Teutonique, chanterent le Te Deum, &amp; se presenterent ensuite à la porte de l'Eglise, où ils voulurent mettre ce second Evesque en possession. Ils la trouverent occupée par une Garde, qui les empêcha d'y entrer. Ils allerent ensuite au Palais, où cet Evesque les devoit traiter, mais l'Electeur de Cologne avoit ordonné qu'on en chassast ceux qui vouloient y préparer ce repas. Pendant ce temps, le Canon de la Chartreuse, où est le quartier des Hollandois, se faisoit seulement entendre. Les deux Evesques firent jetter de l'argent aux Troupes &amp; au Peuple, &amp; couler force Vin. On prit l'argent, &amp; on but à la santé des deux Evesques. Le soir, les Envoyez de l'Empereur, au nombre de trois, firent des Iluminations au devant de leurs Logis, &amp; des feux de joye, &amp; le Party de l'Electeur de Cologne donna aussi de grandes marques de son allegresse.</p>
+      </div>
+</body>
+  </text>
+</TEI>

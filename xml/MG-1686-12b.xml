@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, décembre, deuxième partie, 1686</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1686-12b/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, décembre, deuxième partie, <date>1686</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1686-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1686-12b_059">
+        <head>MG-1686-12b_059</head>
+        <bibl>Mercure Galant, décembre 1686, seconde partie, Voyage des Ambassadeurs de Siam en France, Contenant la récéption qui leur a esté faite dans les Villes où ils ont passé, leurs Entrées dans Paris, les Cérémonies observées dans l'Audience qu'il ont euë du Roy &amp; de la Maison Royale, les Compliments qu'ils ont faits, la Description des Lieux où ils ont esté, &amp; ce qu'ils ont dit de remarquable sur tout ce qu'ils ont veu, p. 59-60</bibl>
+        <p>Ce qui s'est passé à Montloüis le jour qu'ils y ont esté regalez par les Jésuites</p>
+        <p/>
+        <p>[Les Ambassadeurs] allèrent accompagnez des Mandarins à la Maison des Pères Jésuites, dite Montloüis, située sur une hauteur au delà du Faux-bourg S Antoine ; &amp; après s'y estre promenez pendant quelque temps, on leur servit un diner si bien entendu &amp; si magnifique, qu'ils dirent que l'on ne pouvoit traiter avec plus de magnificence &amp; de propreté. Le R. Père de la Chaise, Confesseur du Roy, faisoit les honneurs de la Maison. Il y eur un Concert de Voix &amp; d'Instrumens pendant le repas. [...]</p>
+      </div>
+
+<div xml:id="MG-1686-12b_062">
+        <head>MG-1686-12b_062</head>
+        <bibl>Mercure Galant, décembre 1686, seconde partie, Voyage des Ambassadeurs de Siam en France, Contenant la récéption qui leur a esté faite dans les Villes où ils ont passé, leurs Entrées dans Paris, les Cérémonies observées dans l'Audience qu'il ont euë du Roy &amp; de la Maison Royale, les Compliments qu'ils ont faits, la Description des Lieux où ils ont esté, &amp; ce qu'ils ont dit de remarquable sur tout ce qu'ils ont veu, p. 62-63</bibl>
+        <p>Ils vont entendre les Orgues de S. Méderic</p>
+        <p/>
+        <p>Les Ambassadeurs en s'en retournant entrèrent dans S Méderic, pour entendre les Orgues de cette Eglise, qui ont la réputation d'estre aussi bonnes que l'organiste est habile. Elles leur donnèrent beaucoup de plaisirs, mais ils y en auroient encore pris d'avantage, sans la foule extraordinaire de peuple qui s'y rencontra.</p>
+      </div>
+
+<div xml:id="MG-1686-12b_126">
+        <head>MG-1686-12b_126</head>
+        <bibl>Mercure Galant, décembre 1686, seconde partie, Voyage des Ambassadeurs de Siam en France, Contenant la récéption qui leur a esté faite dans les Villes où ils ont passé, leurs Entrées dans Paris, les Cérémonies observées dans l'Audience qu'il ont euë du Roy &amp; de la Maison Royale, les Compliments qu'ils ont faits, la Description des Lieux où ils ont esté, &amp; ce qu'ils ont dit de remarquable sur tout ce qu'ils ont veu, p. 126, 141-142, 174, 180-181, 191-192, 203-206, 225-226, 252-253, 266-267, 286-288, 290-291, 293</bibl>
+        <p>On trouvera une Description Historique de toutes les Places, dont les noms suivent avec un détail des honneurs que les Ambassadeurs y ont receus, &amp; de tout ce qu'ils y ont vû, fait &amp; dit, qu'on n'a pas jugé à propos de répéter à chaque article de Ville.</p>
+        <p/>
+        <p>[Les Ambassadeurs quittèrent la France pour rejoindre les Flandres. La fin du volume est consacrée à la description de l'accueil qui leur fut reservé dans chacune des villes qu'ils visitèrent.]</p>
+        <p/>
+        <p>Amiens</p>
+        <p>[...][Ils furent conduits] Tambours battant [...] jusqu'à la porte du lieu qui avoit esté destiné pour leur logement.</p>
+        <p/>
+        <p>Arras</p>
+        <p>[...] [Lors de leur entrée dans la ville] le Carillon se fit entendre, &amp; l'on sonna une Cloche appellée Joyeuse, parce qu'on ne la sonne jamais que pour les sujets de réjoüissances. [...]</p>
+        <p/>
+        <p>Ils prirent beaucoup de plaisir à entendre les Orgues de [la] Cathédrale, qui sont fort bonnes [...]</p>
+        <p/>
+        <p>Au sortir de l'Abbaye de Saint Vaast, ils allèrent au Concert dont on leur avoit parlé le matin, &amp; dont Madame de Préfontaine, femme du Président du Conseil d'Artois, faisoit les honneurs. Elle les reçût accompagnées des principales Dames de la Ville. Les Musiciens estoient dans une fort grande Salle, dans laquelle il se trouva une grande affluence de monde, quelque ordre qu'on eût apporté pour empêcher la foule. Ils furent fort satisfaits de ce Concert, &amp; le témoignèrent à Madame de Préfontaine, en luy faisant leurs remerciements. [...]</p>
+        <p/>
+        <p>Béthune</p>
+        <p>[...] Ils arrestèrent le soir Mr Chanterene [Lieutenant Colonel d'Infanterie] à souper, avec le Capitaine qui commandoit la Garde devant leur logis. Mr de Chanterene fit venir des Violons, qui joüèrent pendant tout le Repas. [...]</p>
+        <p/>
+        <p>S. Omer</p>
+        <p>[...] Le concours des Dames fut grand le soir à leur soupé. La Ville envoya des Violons qui joüèrent pendant tout le Repas, &amp; il y eût Bal si tost que l'on fut sorty de table. [...] Les Jésuites leur donnèrent une Collation où la propreté répondit à l'abondance de tout ce qui y fut servy : elle fut accompagnée d'un grand Concert d'Instrumens. [...]</p>
+        <p/>
+        <p>Dunkerque</p>
+        <p>[...] Comme on leur avoit donné les Violons, ce qui continua tant qu'ils séjournèrent à Dunkerque, ils avoient mandé les noms de plusieurs Airs, &amp; même la raison des noms qu'on leur avoit dits. La Folie d'Espagne s'estant trouvée de ce nombre, il ne se rencontra personne qui leur pût apprendre pourquoy cet Air eu ce nom : ce qui fut cause que Mr Megron leur ayant demandé l'Ordre, ils dirent La Folie d'Espagne. Mr Tors leur demanda, pourquoy ils donnoient ce mot. Ils répondirent, qu'ils avoient peut-estre plus de raison de le donner, que le Musicien n'en avoit eu de nommer Folie un Air qui paroissoit très beau, puisque c'en estoit une très grande que d'avoir laissé prendre la Ville de Dunkerque. [...]</p>
+        <p/>
+        <p>Lille</p>
+        <p>[...] Mrs du Magistrat leur donnèrent la Comédie dans l'Hostel de Ville, après quoy ils passèrent dans une grande Salle, où il y avoit un Concert de Voix, &amp; d'instrumens qui dura une heure &amp; demie. [...]</p>
+        <p/>
+        <p>[Ils] allèrent souper chez Mr de la Rablière, qui les avoit invités. Ce Repas fut d'une très grande magnificence, &amp; accompagné d'une Simphonie, composée d'un fort grand nombre d'Instrumens [...] Il y eût un grand Bal après le soupé, où Melle Despierre se fit admirer. On m'a assuré qu'elle est de la force de tout ce qu'il y a de personnes en France qui dancent le mieux. [...]</p>
+        <p/>
+        <p>Tournay</p>
+        <p>[...] On joüa une Pièce comique ; mais afin de faire voir de beaux Habits aux Ambassadeurs, Mr le Comte de Maulevrier ordonna aux Comédiens de se vestir à la Romaine ; ce qui réüssit fort bien [...]</p>
+        <p/>
+        <p>En attendant l'heure du soupé, on leur donna le divertissement d'un Concert de Musique, composé de très belles voix, d'une viole &amp; de quelques flûtes douces. Ce Concert fut trouvé bien exécuté &amp; de bon goût. [...]</p>
+        <p/>
+        <p>Pendant le soupé, on leur donna le divertissement d'un autre Concert composé de voix, de Hautbois, &amp; de Violons. Mr de Maulevrier but à leurs Santez, &amp; ils luy firent raison chacun en particulier [...] Il beut ensuite à l'Alliance des deux Couronnes, &amp; lorsque les Ambassadeurs y burrent aussi, on entendit une décharge de quantité de Boëtes. Elle fut suivie presque aussi tost d'un grand bruit de Timbales &amp; de Trompettes qui continua jusqu'à ce que les Ambassadeurs bussent à la Santé du Roy de France. Pendant que Mr le Comte de Maulevrier leur en fit raison, une autre décharge de boëtes se fit entendre, &amp; le bruit des Timballes &amp; des Trompettes recommença. On but à la Santé du puissant Roy de Siam, &amp; pendant ce temps, la mesme quantité de boëtes, de Timballes, &amp; de Trompettes fit encore le même bruit. Il continua lorsque Mr le Comte de Maulevrier but à leur bon Voyage. [...]</p>
+        <p/>
+        <p>[Après le repas, le comte de Maulevrier les invita au jardin où l'on donnait un feu d'artifice.] Ils rentèrent dans une salle où ils trouvèrent les Dames rangées, &amp; quantité de violons qui joüoient. Comme ils avoient sceu que Mr le Comte de Maulevrier leur vouloit donner le divertissement d'un Bal, ils prirent les places qui leur estoient préparées, &amp; virent dancer pendant deux heures avec une joye qui faisoit connoître qu'ils estoient très satisfait de tous ces plaisirs ; après quoy ils prirent congé de Mr le Gouverneur.</p>
+      </div>
+</body>
+  </text>
+</TEI>

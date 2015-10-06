@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-07_085">
+        <head>MG-1698-07_085</head>
+        <bibl>Mercure galant, juillet 1698, p. 85-87</bibl>
+        <p>Feste solemnisée à Grenoble.</p>
+        <p/>
+        <p>La solemnité de le Canonisation de Saint Jean de Dieu, Fondateur de l'Ordre de la Charité, a esté faite à Grenoble avec beaucoup de magnificence. Elle commença le Dimanche huitiéme du mois passé, &amp; elle dura huit jours. [...] L'Etendart où estoit representé le Saint ayant esté beni dans la Cathedrale par Mr le Cardinal le Camus, on fit la Procession generale, où son Eminence assista. Tous les Corps Religieux s'y trouverent, &amp; pendant huit jours ce fut un concours surprenant de peuple que la devotion attiroit de tous costez. Huit differens Predicateurs firent l'Eloge du Saint, &amp; Mr le Cardinal, qui fit l'ouverture, se distingua à son ordinaire par son éloquence &amp; par son sçavoir. Tous les jours aux Offices divins une agréable Symphonie de Violons se faisoit entendre ; &amp; au Salut on tiroit du Canon à differentes reprises. [...]</p>
+      </div>
+
+<div xml:id="MG-1698-07_196">
+        <head>MG-1698-07_196</head>
+        <bibl>Mercure galant, juillet 1698, p. 196-212</bibl>
+        <p>Relation de ce qui s'est passé à l'entrée de Mr l'Evesque de Chartres [sic pour Blois].</p>
+        <p/>
+        <p>Vous ne serez pas fachée de sçavoir ce qui s'est passé à l'Entrée de Mr de Bertier, que le Roy a fait premier Evéque de Blois. Tous les ordres pour sa reception en cette Ville-là ayant esté donnez, &amp; le jour se son Entrée marqué au Jeudy 26. de Juin, ce Prelat accompagné de la Maréchaussée, qui estoit allée au devant de luy jusqu'à sa maison de Champigny, à trois lieuës de la Ville, se rendit au son des Cloches &amp; au bruit de la Mousqueterie, en l'Abbaye de Saint Laumer, où il fut receu à la porte de l'Eglise par le Prieur, qui le harangua à la teste de sa Communauté. [...] [Le lendemain à] deux heures précises, il partit de l'Abbaye précedé de toute la Communauté, qui le conduisit jusqu'à l'entrée de la Ville. [...]</p>
+        <p>Depuis l'Entrée de la Ville jusqu'à l'Eglise paroissiale de Saint Solemne, destinée pour estre la Cathedrale, toute la Bourgeoisie en armes formoit une double haye, afin d'empêcher autant qu'il se pourroit, que la foule du peuple, accouru de vingt lieuës à la ronde, ne rompist la marche. Le Clergé chantoit des Pseaumes &amp; des Hymnes qui avoient rapport à la ceremonie, &amp; le peuple l'accompagnoit d'acclamations &amp; de cris de Vive le Roy. [...]</p>
+        <p>Il fut conduit par le Prieur à l'Autel, &amp; de là à son Trône, où il entonna le Te Deum, qui fut chanté par la Musique du Chapitre.</p>
+      </div>
+</body>
+  </text>
+</TEI>

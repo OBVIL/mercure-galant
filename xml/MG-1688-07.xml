@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, juillet 1688</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1688-07/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1688</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1688-07_011">
+        <head>MG-1688-07_011</head>
+        <bibl>Mercure galant, juillet 1688, p. 11-19</bibl>
+        <p>Discours qui fait voir le merite enfermé dans le titre de Grand.</p>
+        <p/>
+        <p>Jamais on n'a mieux marqué le merite que renferme ce titre de Grand, que fit Mr Corbet, Bachelier de Sorbonne &amp; Curé d'Erennes, dans une Feste qui fut celebrée le jour de S. Yves, par les soins de M. de S. Gervais, Procureur du Roy de la Ville de Falaise en Normandie. Il y avoit convié toute la Noblesse, &amp; tout ce qui se trouva de Personnes considerables aux environs. Toute la Justice y assista en robes, au nombre de soixante ou quatre-vingt, tant Officiers qu'Avocats, avec plus de cent Ecclesiastiques. La Ceremonie se fit dans l'Eglise de la Trinité, où l'on entendit une fort bonne Musique. Mr Corbet estant monté en Chaire, prit pour texte ces paroles de la Genese, Faisons l'Homme à nostre image &amp; ressemblance, [...]. [Suit le détail du discours.] Après que cette Ceremonie fut achevée, Mr le Procureur du Roy conduisit tout le Corps de Justice dans un appartement tendu de bleu parsemé de Fleurs de lys, où l'on servit un repas avec autant de magnificence que de propreté. Madame de Saint Gervais sa Femme, regala de son costé toutes les Dames chez elle, &amp; l'on n'entendit de toutes parts que des Violons meslez de cris de Vive le Roy.</p>
+      </div>
+
+<div xml:id="MG-1688-07_033">
+        <head>MG-1688-07_033</head>
+        <bibl>Mercure galant, juillet 1688, p. 33-65</bibl>
+        <p>Description de la Feste de Livry.</p>
+        <p/>
+        <p>Il n'y a point de plaisirs qui conviennent mieux aux Princes, &amp; sur tout lors qu'ils sont jeunes, que le divertissement de la Chasse, parce qu'il est necessaire qu'ils se fassent une habitude des fatigues afin qu'ils puissent suporter plus aisement celles de la guerre. Comme la Chasse en est une Image, il semble qu'ils soient plus naturellement portez à ce plaisir, que ceux qui menent une vie particuliere, &amp; c'est par cette raison que Monseigneur le Dauphin cherche à le prendre dans tous les lieux des environs de Versailles &amp; de Paris, où la Chasse est la plus belle. La Forest de Livry estant des plus propres pour cela, ce Prince y va chasser fort souvent, &amp; il couche mesme quelquefois chez Mr Sanguin, Marquis de Livry, Premier Maistre d'Hostel de Sa Majesté. Vous pouvez croire, Madame, que ce Marquis ressent cet honneur comme il le doit. L'envie d'y répondre d'une autre maniere qu'en donnant à manger à Monseigneur, ce qu'il ne peut faire à cause que la Table de ce Prince le suit par tout, &amp; qu'il ne veut point permettre qu'on fasse de la dépense pour luy dans aucun des lieux qu'il honore de sa presence, le fit travailler secretement à quelques divertissemens pour l'en regaler en le surprenant, mais quelque secret qu'on eust exigé touchant les apprests de cette Feste, il fut impossible de les avancer sans qu'il échapast à quelqu'un de ceux qu'on y employoit. C'est ce qui arrive ordinairement dans toutes les choses qu'on est obligé de confier à un grand nombre de gens. Monseigneur estant allé chasser à Livry, &amp; coucher ensuite chez Mr Sanguin, fut informé de ce qu'on y preparoit. Comme on n'eut plus aucun secret à garder, on travailla librement, &amp; cela donna moyen de rendre la Feste plus magnifique qu'elle n'eust pû estre si on eust toujours esté contraint. Le jour destiné pour la donner, qui fut le trente du dernier mois, Monseigneur arriva à Livry sur la fin de l'aprésdînée, accompagné de Mr le Duc de Vandosme, de Mr le Grand Prieur, de la plus grande partie des Seigneurs qui ont accoustumé de le suivre en qualité de Menins, &amp; de plusieurs autres personnes distinguées. Ce Prince alla d'abord se reposer aux Appartemens, &amp; se mit au jeu peu de temps après. Les divertissemens qu'on luy avoit preparez, estant en estat de commencer, il sortit pour les aller prendre, &amp; passa par un lieu delicieux, appellé l'Allée des Chevrefeuils. [...] Au milieu de cette belle allée estoient à droite &amp; à gauche un grand nombre d'Orangers qui en formoient une nouvelle, &amp; faisoient une agreable perspective de Fleurs, jusques au Theatre, qui estoit au bout. [...] Au devant du Theatre estoit le haut-Dais. Vous sçavez qu'on nomme ainsi la place du Roy, &amp; des Princes du rang de Monseigneur. [Suit une description précise du haut-dais, puis des arcades qui encadrent le théâtre.] L'Orchestre estoit caché d'une hauteur de Gazon figuré en console, sur laquelle estoit un rang de pots de Fleurs qui faisoit face à Monseigneur. [...] Monseigneur s'estant placé dans le milieu du haut-Dais, les plus belles Voix &amp; les meilleurs Danseurs de l'Academie de Musique commencerent le Prologue. Ils representoient les Habitans de Livry. Quelques-uns d'entre-eux avoient des rateaux, &amp; d'autres des ciseaux de Jardinier, &amp; tous ensemble sembloient travailler à l'ornement d'un Jardin. En effet on le voyoit s'embellir à mesure qu'ils donnoient leurs soins pour le parer, s'il m'est permis de parler ainsi. Les uns achevoient d'attacher des festons ; d'autres rangeoient des Orangers, &amp; d'autres se servant de leurs cizeaux pour tondre les palissades, les faisoient mouvoir selon la cadence des Violons. Pendant que ceux qui avoient des rateaux emportoient avec ces instrumens, les feüilles que les autres avoient fait tomber. Voicy les Vers qui furent chantez dans ce Prologue.</p>
+        <p/>
+        <p>Deux Jardiniers &amp; une Jardiniere.</p>
+        <p>Travaillons, hastons-nous,</p>
+        <p>Disposons ces ombrages ;</p>
+        <p>Nos fleurs y répandront leurs parfums les plus doux,</p>
+        <p>Travaillons, hastons-nous.</p>
+        <p/>
+        <p>Deux Jardiniers.</p>
+        <p>Les fleurs &amp; les feüillages</p>
+        <p>Sont de nos Villages</p>
+        <p>Les ornemens les plus beaux,</p>
+        <p>Les fleurs &amp; les feuillages</p>
+        <p>Sont la pompe de nos hameaux.</p>
+        <p/>
+        <p>Une Jardiniere.</p>
+        <p>S'il trouve peu d'attraits dans ce sejour champestre,</p>
+        <p>Nostre zele du moins attirera ses yeux.</p>
+        <p/>
+        <p>Un Jardinier.</p>
+        <p>Il est du sang des Dieux,</p>
+        <p>Son héroïque ardeur le fait assez connoistre ;</p>
+        <p>Mais sa bonté nous montre encore mieux</p>
+        <p>Qu'il est du sang des Dieux.</p>
+        <p/>
+        <p>Choeur.</p>
+        <p>Il est du sang des Dieux, &amp;c.</p>
+        <p/>
+        <p>Ces Vers qu'on trouva fort agreables, &amp; entierement convenables au sujet, avoient esté mis en Musique par Mr Colasse, l'un des quatre Maistres de Musique de la Chapelle du Roy. Vous devez estre persuadée qu'un homme qui a esté jugé digne d'une telle Charge, ne sçauroit rien faire que de bien. Comme Mr de Livry ne vouloit donner aucun divertissement à Monseigneur qui ne fust nouveau, &amp; qu'il n'avoit pas eu le temps de faire faire une piece de Theatre, il en choisit une qui parut nouvelle à ce Prince, parce qu'il ne l'avoit veuë que dans sa grande jeunesse. Cette piece estoit du fameux Moliere, &amp; n'avoit point esté joüée depuis fort longtemps, qu'elle fut representée dans un Balet de Sa Majesté. On y fit des intermedes nouveaux, qu'on accommoda à la venuë de Monseigneur à Livry. Les Comediens Italiens en firent de si divertissans, qu'on pourroit dire que l'Assemblée en fut fatiguée à force de rire. Mr Pecour parut dans quelques-uns d'une maniere tres-agreable. Toutes les Entrées qu'on dansa dans cette Feste, estoient de sa composition. La pluspart des Acteurs du Prologue, parurent encore à la fin de la Piece. Voicy ce qu'ils chanterent.</p>
+        <p/>
+        <p>I. BERGER.</p>
+        <p>Redoublons nos soins empressez,</p>
+        <p>Les yeux d'un Prince aimable</p>
+        <p>Sur nos jeux se sont abaissez</p>
+        <p>Redoublons nos soins empressez.</p>
+        <p>Il nous honore encor d'un regard favorable,</p>
+        <p>Nous serons bien recompensez,</p>
+        <p>Redoublons nos soins empressez.</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>Que nostre zele se signale,</p>
+        <p>Qu'il s'efforce à paroistre encor plus éclatant.</p>
+        <p>Quelle gloire est égale</p>
+        <p>Au prix qui nous attend !</p>
+        <p/>
+        <p>Choeur.</p>
+        <p>Que nostre zele se signale, &amp;c.</p>
+        <p/>
+        <p>Une Bergere.</p>
+        <p>Quittons des chants où regnoit la tendresse.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Elevons, élevons les tons de nos Hautbois.</p>
+        <p/>
+        <p>Tous deux.</p>
+        <p>Et redisons sans cesse,</p>
+        <p>Quel Hoste glorieux a visité nos bois.</p>
+        <p/>
+        <p>Le Choeur.</p>
+        <p>Quittons des chants où regnoit la tendresse,</p>
+        <p>Elevons, élevons les tons de nos Hautbois,</p>
+        <p>Et redisons sans cesse</p>
+        <p>Quel Hoste glorieux a visité nos bois.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Bergers, quelle douceur extrême,</p>
+        <p>Quand nous nous vanterons de cet honneur suprême</p>
+        <p>Aux bergers des Hameaux voisins !</p>
+        <p>Bergers, quelle douceur extrême</p>
+        <p>Quand nous nous vanterons de nos heureux destins !</p>
+        <p/>
+        <p>Le Choeur.</p>
+        <p>Quittons des chants, &amp;c.</p>
+        <p/>
+        <p>Un Berger.</p>
+        <p>Vostre destinée est trop belle,</p>
+        <p>Lieux rustiques, Jardins par nos soins cultivez,</p>
+        <p>Gardez la memoire immortelle</p>
+        <p>De l'honneur que vous recevez.</p>
+        <p/>
+        <p>Le Choeur.</p>
+        <p>Vostre destinée, &amp;c.</p>
+        <p/>
+        <p>Ce divertissement qui parut tres bien imaginé, donna beaucoup de plaisir, &amp; on écouta la Musique avec grande attention, parce que le temps estoit si beau, qu'il sembloit avoir contribué à la Feste. L'Assemblée estoit choisie, &amp; n'estant point trop nombreuse, il n'y eut personne incommodé, quoy qu'on le soit fort souvent dans les divertissemens de cette nature, qui font presque toûjours essuyer plus de fatigue qu'on n'y goûte de plaisir.</p>
+        <p>Toute la Compagnie s'estant levée, Monseigneur retourna par la mesme allée où estoit le Theatre, &amp; marcha au milieu de ce beau tapis de gazon, dont je vous ay déjà parlé, &amp; qu'on avoit bordé d'Orangers. [Le prince est conduit vers une allée illuminée jusqu'à une table dressée pour le dîner.] Tandis que Monseigneur estoit à table, &amp; que ses yeux estoient occupez par des palissades, &amp; par des morceaux d'architecture formez de lumieres, son odorat par les Fleurs qui remplissoient le lieu où il estoit, son goust par les mets qu'on luy servoit, tous ceux dont l'Orchestre avoit esté remply pendant la Comedie, ayant passé par un chemin plus court que celuy qu'on avoit fait prendre à Monseigneur, pour luy faire voir l'Illumination de l'Allée des Chevrefeüils, se trouverent placez avec tous leurs Instrumens, derriere la Table de ce Prince, lorsqu'il arriva pour souper. Ainsi il y eut pendant ce repas de quoy satisfaire en mesme temps, l'oüye, l'odorat, la veuë &amp; le goust. Mr de Livry avoit donné ordre qu'on servist des tables pour tous ceux qui surviendroient &amp; qui n'estoient pas attendus à cette Feste. On en servit aussi plusieurs pour tous ceux qui avoient esté employez dans le divertissement, &amp; il y en eut qui furent remplies de soixante personnes. Monseigneur alla encore à la Chasse le lendemain aux environs de Livry, &amp; revint disner dans le Chasteau, d'où il partit extrémement satisfait du divertissement que M. le Marquis de Livry luy avoit donné, après l'en avoir remercié avec cet air de bonté qui luy est ordinaire. Aussi peut-on dire qu'il ne manquoit rien à cette Feste. Elle estoit galante, magnifique, &amp; bien entenduë. Tout ce qui avoit esté projetté fut exécuté dans le temps, rien ne fit attendre, il n'y eut point de confusion, &amp; il parut que tout répondoit au zele de Mr de Livry, &amp; aux soins de Mr Berrin, Dessinateur ordinaire du Cabinet de Sa Majesté. Comme il a l'esprit fecond, il a beaucoup inventé pour cette Feste, ce qui n'est pas surprenant, puis qu'il nous a souvent fait voir de grandes choses en de pareilles occasions. Quelques jours après, la Comedie, le Prologue, &amp; les Intermedes qui avoient esté representez à Livry, servirent de divertissement à Marly, ce qui marque le plaisir qu'il avoit donné la premiere fois, puis qu'il ne fut demandé que sur le bien qu'en avoient dit ceux qui s'estoient trouvez à cette Feste.</p>
+      </div>
+
+<div xml:id="MG-1688-07_183">
+        <head>MG-1688-07_183</head>
+        <bibl>Mercure galant, juillet 1688, p. 183-201</bibl>
+        <p>Ce qui s'est passé en Angleterre à la Naissance du Prince de Galles, &amp; les réjoüissances faites à Paris, &amp; en plusieurs Villes de France sur ce sujet.</p>
+        <p/>
+        <p>Comme la nouvelle de la naissance du Prince de Galles ne fut sceuë icy le mois dernier que lors qu'il fallut achever ma Lettre, je n'eus le temps que de vous l'apprendre, &amp; je n'entray dans aucun détail de ce qui se passa à l'occasion de cette naissance. [...]</p>
+        <p>La nouvelle de la naissance de ce Prince fut à peine arrivée en France, que Mr Skelton, Envoyé Extraordinaire d'Angleterre, en fit part au Roy, &amp; à toute la Maison Royale. Il avoit envoyé demander audience le jour precedent par son Secretaire, &amp; il fut conduit dans toutes les formes par M. de Bonneüil, Introducteur des Ambassadeurs. [...]</p>
+        <p>Le 5 de ce mois, les Religieuses Angloises du Fauxbourg Saint Antoine rendirent graces à Dieu de ce qu'il avoit accordé un Prince aux souhaits de l'Angleterre. Jamais leur Eglise n'avoit esté ny si bien ornée ny si éclairée qu'elle le fut ce jour-là. Il y eut le matin une Messe solemnelle, &amp; l'apresdinée un Te Deum, &amp; un Salut en Musique. Elle estoit de la composition de Mr Oudot, Maître de la Musique des Peres Jesuites de la Maison de Saint Loüis. Mr l'Evesque de Senez y officia en habits Pontificaux, &amp; cette ceremonie se fit en presence de M. le Prince de Richemont. [...]</p>
+        <p>Les Religieuses Augustines Angloises établies dans le Fauxbourg Saint Victor, ont fait de semblables prieres pour la naissance du Prince, &amp; elles les ont continuées trois jours, pendant lesquels elles ont marqué leur joye par des Feux. Elles les finirent par le Te Deum.</p>
+        <p>Le 8 il y eut des prieres en action de graces pour le mesme sujet dans la Chapelle du College des Ecossois, par les soins du Principal, &amp; elles furent suivies le soir de réjoüissances publiques. [...]</p>
+        <p>Le jour précedent, Mr Gorman, Superieur du Seminaire de Sainte Anne la Royale des Irlandois de la Ville de Bordeaux, avoit fait une grande Feste, pour rendre graces à Dieu de cette mesme naissance. Mr d'Allaire, Grand-Vicaire de la Cathedrale, celebra la grand'Messe, &amp; le Te Deum fut chanté ensuite par une tres-bonne Musique, au bruit de plusieurs salves de Canon. [...]</p>
+        <p>Ce mesme jour, Mrs Patrice Lambert, &amp; Patrice Deans, Irlandois, marquerent leur joye par une grande Messe qu'ils firent chanter à Saint Malo dans l'Eglise de S. Servan, après quoy ils donnerent un grand regale à bord de la Fregate nommée, le Marchand. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-07_247">
+        <head>MG-1688-07_247</head>
+        <bibl>Mercure galant, juillet 1688, p. 247-283</bibl>
+        <p>Tout ce qui s'est passé au Mariage de Monsieur le Prince de Conty.</p>
+        <p/>
+        <p>Le Roy ayant arresté le Mariage de son Altesse Serenissime Monsieur le Prince de Conty, avec Mademoiselle de Bourbon, &amp; que la ceremonie des Fiançailles se feroit le 28. du mois passé, ce Prince &amp; cette Princesse se rendirent ce jour là à quatre heures après midy dans l'Appartement de Madame la Dauphine. [...]</p>
+        <p>Le lendemain toute la Maison Royale, &amp; toute la Cour magnifiquement parée s'étant trouvée à la Messe du Roy, ce mesme Prelat [l'évêque d'Orléans] fit en presence de Sa Majesté la ceremonie des Epousailles. [...] L'apresdinée ce Prince receut ses visites dans l'Appareement [sic] de son Altesse Serenissime Monsieur le Prince, où l'on avoit preparé toutes choses pour le coucher des Epousez. Après le Soupé, le Roy descendit dans cet Appartement. [...] Après que Madame la Princesse de Conty eut esté mise au lit ; le Roy y conduisit Mr le Prince de Conty. Ces nouveaux Mariez receurent encore le lendemain des visites dans le mesme appartement. Le Roy leur fit l'honneur de les aller voir à l'issuë de son disner. Monseigneur le Dauphin étant à Livry ce jour-là, leur rendit visite à Paris. Madame la Dauphine leur fit le mesme honneur à Versailles le jour que le Roy y alla, &amp; ils furent visitez de toute la Maison Royale avant que de venir à Paris, &amp; de tout ce qu'il y avoit de personnes distinguées à la Cour. Ils partirent de Versailles l'aprésdînée du jour suivant, pour se rendre icy à l'Hostel de Conty. Monseigneur avoit resolu de venir voir ce jour-là Monsieur le Prince &amp; Madame la Princesse de Conty, ce qui fut cause qu'on travailla avec toute la diligence possible aux apprests d'une Feste proportionnée à la promptitude avec laquelle il falloit s'y préparer, &amp; qui, quoy que belle, estoit encore au dessous du zele de Monsieur le Prince de Conty, &amp; de ce qu'il auroit fait s'il avoit eu plus de temps. Monseigneur arriva sur les cinq heures du soir, &amp; fut receu à la descente de son Carrosse, par Monsieur le Prince, Monsieur le Duc, &amp; Monsieur le Prince de Conty. Il monta d'abord dans l'appartement haut qui donne sur le Jardin, ce qui le rend fort agreable. [...] A costé du dernier des deux Cabinets on trouva une Collation composée de tout ce que la saison avoit pu fournir de plus rares fruits, &amp; de toutes sortes d'eaux glacées, &amp; de liqueurs. On passa ensuite dans un grand salon, éclairé par un fort grand nombre de Lustres, de Girandoles, &amp; de flambeaux, où un divertissement en forme d'Opera avoit esté preparé. Ce Salon estoit partagé en deux. Il y en avoit une moitié pour les Spectateurs, &amp; l'autre étoit occupée par le Theatre. Comme le terrein manquoit, Mr Berrin avoit trouvé moyen d'épargner celuy qui auroit esté necessaire pour faire un Orchestre, &amp; avoit fait faire trois Amphitheatres sur le Theatre, un de chaque costé, &amp; un autre dans le fond. Ils estoient dans des manieres de Corridors, avec des appuys en Balustres pardevant, sur lesquels on voyoit de fort beaux Tapis. Toute la Musique estoit dans les Amphitheatres des costez, &amp; la Simphonie dans celuy du fonds, de sorte qu'elle estoit également entenduë de tout le monde. Quand Monseigneur fut placé, on tira des rideaux qui estoient au devant du Theatre au lieu de toile, &amp; l'on fut surpris de voir un nombre infiny de personnes magnifiquement vestuës, representant plusieurs Divinitez qui devoient servir d'Acteurs à une maniere d'Epitalame. Cet ouvrage mis en Musique par Mrs de Lully estoit de la composition de Mr de la Chapelle, Secretaire des Commandemens de Monsieur le Prince de Conty, qui avoit le soin &amp; la conduite de toute la Feste. Minerve parut d'abord, &amp; chanta ces vers qui servirent de Prologue.</p>
+        <p/>
+        <p>Dieux des Arts, occupez au Temple de Memoire</p>
+        <p>A consacrer à l'immortalité,</p>
+        <p>Le nom d'un Roy dont les faits &amp; la gloire</p>
+        <p>Paroistront un prodige à la postérité,</p>
+        <p>Cessons de celebrer ses travaux, ses merveilles,</p>
+        <p>L'Univers a tremblé, les Peuples sont soumis ;</p>
+        <p>Le Vainqueur regne en paix, &amp; n'a plus d'Ennemis ;</p>
+        <p>Ses bontez, ses exploits ont épuisé nos veilles.</p>
+        <p>Et nous permet d'interrompre en ce jour,</p>
+        <p>Les soins que nous prenons pour sa gloire immortelle</p>
+        <p>Et veut qu'icy l'Hymen, d'accord avec l'Amour,</p>
+        <p>Chante les doux plaisirs d'une ardeur mutuelle,</p>
+        <p>Qui joint aux noeuds du sang une chaîne nouvelle.</p>
+        <p/>
+        <p>On vit ensuite paroistre Apollon qui fit cette Scene avec Minerve.</p>
+        <p/>
+        <p>APOLLON.</p>
+        <p>Je quitte les Valons sacrez,</p>
+        <p>Où je tiens mon Empire,</p>
+        <p>Et je viens avec vous ordonner &amp; conduire</p>
+        <p>Tout l'appareil des Jeux qu'icy vous celebrez.</p>
+        <p/>
+        <p>MINERVE.</p>
+        <p>Ah, qu'ils auront de charmes &amp; de gloire !</p>
+        <p>Apollon vient luy-mesme augmenter leurs appas,</p>
+        <p>Et les Filles de Memoire</p>
+        <p>Accompagnent ses pas.</p>
+        <p/>
+        <p>APOLLON.</p>
+        <p>Vous le sçavez, Minerve, &amp; le soin qui me presse,</p>
+        <p>Comme moy vous interesse.</p>
+        <p>Que ne devons-nous point à ce sang glorieux,</p>
+        <p>Dont les Heros s'assemblent en ces lieux !</p>
+        <p/>
+        <p>Apollon &amp; Minerve ayant repeté ensemble ces deux derniers Vers, la Suite de l'un &amp; de l'autre fit une entrée de Ballet, après quoy Apollon reprit.</p>
+        <p/>
+        <p>Muses, Dieux, sur qui je preside,</p>
+        <p>Je vous laisse en ce beau sejour,</p>
+        <p>Venez, paroissez tous ; venez, suivez l'Amour,</p>
+        <p>Tous les lieux sont charmans quand l'Amour sert de guide.</p>
+        <p/>
+        <p>Ce prologue estant finy, l'Amour vint chanter ces Vers, qu'il adressa aux jeux &amp; aux plaisirs qui l'accompagnoient.</p>
+        <p/>
+        <p>Aimables jeux, suivez mes pas,</p>
+        <p>Doux plaisirs, redoublez vos charmes,</p>
+        <p>Offrez tous vos appas</p>
+        <p>A deux coeurs dont l'Hymen a finy les alarmes.</p>
+        <p>C'est desormais dans ce séjour</p>
+        <p>Que je veux établir ma Cour.</p>
+        <p>Preparez de galantes Festes</p>
+        <p>Pour celebrer l'Hymen de ces heureux Epoux ;</p>
+        <p>Dans les lieux où vous estes</p>
+        <p>Tous les momens sont doux.</p>
+        <p/>
+        <p>Il y eut icy une Entrée de Balet, &amp; la Nuit estant survenuë, commença par ces Vers tout le divertissement qui suit.</p>
+        <p/>
+        <p>Qui vient troubler la paix de cet Azile ?</p>
+        <p>Mortels, finissez ces Concerts ;</p>
+        <p>Joüissez du repos tranquille</p>
+        <p>Que je donne à tout l'Univers.</p>
+        <p>La Nuit se plaist dans le silence,</p>
+        <p>Elle finit du jour les penibles travaux.</p>
+        <p>N'opposez à ses loix aucune resistance,</p>
+        <p>Couronnez-vous de ses pavots.</p>
+        <p>Cedez à leur paisible &amp; douce violence,</p>
+        <p>Goûtez les charmes du repos.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Charmante Nuit, secondez mon envie.</p>
+        <p>Pour plaire à deux Epoux sortis du sang de Mars</p>
+        <p>J'ay rassemblé de toutes parts</p>
+        <p>Tout ce qui peut former la plus douce harmonie,</p>
+        <p>Charmante Nuit, secondez mon envie,</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Fuyez, fuyez de ce séjour,</p>
+        <p>Sommeil, portez ailleurs un secours necessaire ;</p>
+        <p>Vostre Empire ne dure guere</p>
+        <p>Dans les lieux où regne l'Amour.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Laissons dormir l'inutile Vieillesse,</p>
+        <p>Dont la tendresse</p>
+        <p>Se perd en vains desirs.</p>
+        <p>L'unique soin de la Jeunesse</p>
+        <p>Est de veiller sans cesse,</p>
+        <p>Et de chercher toujours l'amour &amp; les plaisirs.</p>
+        <p/>
+        <p>La Nuit &amp; le Choeur.</p>
+        <p>Laissons dormir l'inutile Vieillesse.</p>
+        <p>Heureux Epoux,</p>
+        <p>L'Amour veille avec vous.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Le plus puissant des Dieux a celebré luy-mesme</p>
+        <p>Cet Hymen plus heureux que celuy de Thetis.</p>
+        <p>Rien n'en trouble la paix ny la douceur extrême,</p>
+        <p>Et l'Amour &amp; l'Hymen sont pour jamais unis.</p>
+        <p/>
+        <p>DEUX PLAISIRS.</p>
+        <p>Chantons la douce intelligence</p>
+        <p>Où ces Dieux vivront desormais.</p>
+        <p>C'est à vous que l'on doit cette heureuse alliance,</p>
+        <p>Tendres Epoux, goûtez-en les attraits.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Pour leur marquer mon zele &amp; ma reconnoissance</p>
+        <p>J'invente un Divertissement</p>
+        <p>Digne, si je le puis, de leur plaire un moment.</p>
+        <p>J'ay besoin de vostre assistance,</p>
+        <p>Et la nuit est plus propre aux plaisirs de l'Amour</p>
+        <p>Que le brillant éclat du jour.</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Les Graces &amp; l'Hymen icy viennent ensemble.</p>
+        <p>Quel bonheur les assemble !</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>En faveur des nouveaux Epoux</p>
+        <p>J'ordonne aux Graces de le suivre.</p>
+        <p>Ah, s'il est doux de vivre,</p>
+        <p>Ce ne doit estre qu'avec vous.</p>
+        <p>Venez, aimable Hymen, que rien ne nous separe,</p>
+        <p>Venez prendre part aux plaisirs</p>
+        <p>De la Feste que je prepare,</p>
+        <p>Et n'ayons desormais que les mesmes desirs.</p>
+        <p/>
+        <p>La Nuit &amp; deux Plaisirs.</p>
+        <p>Regnez, charmant Hymen, couronnez la tendresse</p>
+        <p>De tous les coeurs que l'Amour blesse.</p>
+        <p>Aimables Dieux, ne vous quittez jamais ;</p>
+        <p>Que vostre Empire aura d'attraits !</p>
+        <p>Regnez, charmant Hymen, couronnez la tendresse</p>
+        <p>De tous les coeurs que l'Amour blesse.</p>
+        <p/>
+        <p>L'HYMEN.</p>
+        <p>Pour les fidelles Amans</p>
+        <p>L'Amour n'est point sans alarmes.</p>
+        <p>Leurs plaisirs les plus charmans</p>
+        <p>Leur coustent toujours des larmes ;</p>
+        <p>Mais quand l'Hymen unit tous leur momens,</p>
+        <p>L'Amour n'a plus que des charmes</p>
+        <p>Pour les fidelles Amans.</p>
+        <p/>
+        <p>L'AMOUR &amp; L'HYMEN.</p>
+        <p>Que nostre intelligence est belle !</p>
+        <p>Qu'elle soit eternelle.</p>
+        <p/>
+        <p>L'HYMEN.</p>
+        <p>Mais qu'entens-je ? Junon vient dans ce beau séjour.</p>
+        <p>Que d'éclat ! que de gloire &amp; de magnificence !</p>
+        <p/>
+        <p>JUNON.</p>
+        <p>Que j'aime à voir l'intelligence,</p>
+        <p>Où l'Hymen est avec l'Amour !</p>
+        <p>Ces Epoux, dont la chaine aujourd'huy vous rassemble,</p>
+        <p>Sont dignes des soins glorieux</p>
+        <p>De tous les Immortels ensemble,</p>
+        <p>Voyez ce que je fais pour eux.</p>
+        <p>Je vais rendre eternel vostre innocent commerce,</p>
+        <p>Pour asseurer leurs plaisirs,</p>
+        <p>Fuyez, chagrins, fuyez, tristes soupirs ;</p>
+        <p>Dans leur aimable ardeur que rien ne les traverse,</p>
+        <p>Et que tout flate leurs desirs.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Junon dans nos jeux s'interesse,</p>
+        <p>Qu'ils auront de charmes divers !</p>
+        <p>Montrez vostre allegresse,</p>
+        <p>Redoublez vos concerts.</p>
+        <p/>
+        <p>Il se fit icy une troisieme Entrée de Balet.</p>
+        <p/>
+        <p>JUNON.</p>
+        <p>Sortez du noir séjour, hastez-vous de me plaire,</p>
+        <p>Pluton répondez à ma vaix [sic].</p>
+        <p/>
+        <p>PLUTON.</p>
+        <p>A quoy te suis-je necessaire ?</p>
+        <p>Commande ; mon Empire est soumis à tes loix.</p>
+        <p/>
+        <p>JUNON.</p>
+        <p>L'Amur [sic] celebre une Feste nouvelle,</p>
+        <p>Je partage ses soins, j'autorise son zele,</p>
+        <p>Eloignez de ces lieux ce qui pourroit troubler</p>
+        <p>Les innocens plaisirs qu'il a sceu rassembler.</p>
+        <p>Dans l'affreuse épaisseur de vos funestes ombres,</p>
+        <p>Enchaisnez la Discorde &amp; les Soupçons jaloux.</p>
+        <p>Allez revoir l'horreur de vos demeures sombres,</p>
+        <p>Dieu des Enfers, allez, protegez-nous.</p>
+        <p/>
+        <p>PLUTON.</p>
+        <p>Je t'obeis, je vais dans leurs Antres funebres</p>
+        <p>Accabler sous les fers ces Monstres odieux ;</p>
+        <p>Je vais voiler leurs yeux</p>
+        <p>D'eternelles tenebres,</p>
+        <p>Et rien ne troublera les jeux</p>
+        <p>De la Feste que tu celebres.</p>
+        <p>Noirs Ministres de mon couroux,</p>
+        <p>Suivez mes pas, préparez-vous,</p>
+        <p>Venez dans nos prisons les plus impenetrables</p>
+        <p>Ensevelir pour jamais</p>
+        <p>Les Ennemis detestables</p>
+        <p>De l'Amour &amp; de la Paix.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>La Discorde, la Jalousie</p>
+        <p>Ne suivront jamais vos pas ;</p>
+        <p>Heureux Epoux, jouissez des appas</p>
+        <p>D'une innocente vie.</p>
+        <p/>
+        <p>JUNON.</p>
+        <p>Aimable Nuit, tandis qu'en ces momens</p>
+        <p>Le comble de douceurs cet heureux hymenée,</p>
+        <p>Pour accomplir cette journée</p>
+        <p>Fais par quelques Songes charmans,</p>
+        <p>Predire à ces tendres Amans</p>
+        <p>Le bonheur de leur destinée.</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Doux Enfans du Sommeil, agreables mensonges,</p>
+        <p>Par qui les Mortels, enchantez,</p>
+        <p>De leurs biens à venir sçavent les veritez,</p>
+        <p>Répondez à ma voix, accourez, heureux Songes.</p>
+        <p>Montrez à ces Epoux de combien de beaux jours,</p>
+        <p>De combien de bonheur par tout sera suivie</p>
+        <p>La plus heureuse &amp; la plus belle vie</p>
+        <p>Dont la Parque jamais puisse filer le cours.</p>
+        <p/>
+        <p>Premier SONGE heureux.</p>
+        <p>Pour vos coeurs enflamez</p>
+        <p>Ne craignez point les noeuds dont l'Hymen vous enchaine,</p>
+        <p>Ils sont exempts de toutes peines.</p>
+        <p>Sous ses plus douces loix l'Amour les a formez</p>
+        <p>Pour vos coeurs enflamez.</p>
+        <p/>
+        <p>Deuxiéme SONGE heureux.</p>
+        <p>Princesse, vostre Epoux sera toujours aimable,</p>
+        <p>Et vous aurez toujours le pouvoir de charmer.</p>
+        <p>Est-il un bien plus desirable</p>
+        <p>Que d'avoir en tout temps de quoy se faire aimer ?</p>
+        <p/>
+        <p>LA NUIT.</p>
+        <p>Les Ris, les Plaisirs &amp; les Jeux</p>
+        <p>Vous comblent de douceurs extrêmes,</p>
+        <p>Vostre destin est plus heureux</p>
+        <p>Et plus beau que celuy des Dieux mesmes.</p>
+        <p>L'Amour sans cesse offre à vos voeux</p>
+        <p>Les Ris, les Plaisirs, &amp; les Jeux.</p>
+        <p/>
+        <p>L'AMOUR &amp; L'HYMEN.</p>
+        <p>Vos vertus ont des Dieux attiré la presence,</p>
+        <p>Et merité leur secours.</p>
+        <p>Heureux Epoux, que leur puissance</p>
+        <p>Veille à jamais sur vos beaux jours.</p>
+        <p/>
+        <p>Une GRACE.</p>
+        <p>Princesse aimable, Amour vous favorise,</p>
+        <p>Dans vos plaisirs l'Hymen vous autorise,</p>
+        <p>Cedez à leurs transports, goustez-en les douceurs,</p>
+        <p>Vous regnez sur tous les coeurs.</p>
+        <p>Fille de la vertu mesme</p>
+        <p>Vous marchez sur ses pas,</p>
+        <p>Vous avez ses solides appas ;</p>
+        <p>Que vous rendez heureux le Heros qui vous aime !</p>
+        <p>Chantons, chantons sa gloire, &amp; son bonheur extrême.</p>
+        <p/>
+        <p>Un PLAISIR &amp; une GRACE.</p>
+        <p>O Ciel, prens soin de leurs destinées,</p>
+        <p>Que pour eux tes faveurs</p>
+        <p>Ne soient jamais bornées.</p>
+        <p>Dans les plaisirs, dans les honneurs</p>
+        <p>Fais couler toutes leurs années.</p>
+        <p/>
+        <p>L'AMOUR.</p>
+        <p>Unissons-nous, offrons nos Jeux les plus charmans</p>
+        <p>A deux Epoux toujours amans.</p>
+        <p>N'oublions rien pour plaire</p>
+        <p>Dans ces aimables lieux,</p>
+        <p>Rien ne nous est contraire ;</p>
+        <p>On y voit briller des yeux</p>
+        <p>Plus beaux que la lumiere.</p>
+        <p>Dont se parent les Cieux.</p>
+        <p>N'oublions rien pour plaire.</p>
+        <p/>
+        <p>Un PLAISIR.</p>
+        <p>Que l'Amour a d'attraits</p>
+        <p>Pour un coeur qu'il inspire !</p>
+        <p>Heureux qui sent ses traits,</p>
+        <p>Trop heureux qui soupire !</p>
+        <p>Ne nous lassons jamais</p>
+        <p>De suivre son empire.</p>
+        <p/>
+        <p>Il y eut encore icy une entrée de Balet.</p>
+        <p/>
+        <p>Une GRACE.</p>
+        <p>L'Hymen a cent douceurs</p>
+        <p>Pour un coeur qui l'appelle ;</p>
+        <p>Il bannit les rigueurs</p>
+        <p>D'une Beauté cruelle,</p>
+        <p>Et charme les langueurs</p>
+        <p>D'un coeur tendre &amp; fidelle.</p>
+        <p>Cedez à vostre tour,</p>
+        <p>Beautez à qui tout cede.</p>
+        <p>Faut-il qu'en ce beau jour</p>
+        <p>La crainte vous possede ?</p>
+        <p>Des maux que fait l'Amour</p>
+        <p>L'Hymen est le remede.</p>
+        <p/>
+        <p>L'HYMEN.</p>
+        <p>Vivez, heureux Epoux,</p>
+        <p>Dans une paix profonde,</p>
+        <p>Soyez toujours comblez de nos biens les plus doux,</p>
+        <p>Vivez, heureux Epoux, pour le bonheur du monde,</p>
+        <p>Donnez-luy des Heros qui soient dignes de vous.</p>
+        <p/>
+        <p>Le Choeur repeta les deux derniers Vers, comme il en avoit repeté plusieurs autres en divers endroits que j'ay cru inutile de vous marquer.</p>
+        <p>Ce divertissement estant finy, Monseigneur traversa le mesme Appartement par lequel il avoit déjà passé. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-07_301">
+        <head>MG-1688-07_301</head>
+        <bibl>Mercure galant, juillet 1688, p. 301-319</bibl>
+        <p>Autre article touchant les réjoüissances faites à Paris, pour la naissance du Prince de Galles.</p>
+        <p/>
+        <p>Quoy que vous ayez déjà veu dans cette Lettre un long article touchant la naissance du Prince de Galles, &amp; les réjoüissances qu'elle a fait faire en divers endroits, je dois vous donner icy une continuation de ce mesme article, dont je n'avois pas les particularitez lors que je l'ay commencé. Mr Skelton, au retour des Audiences qu'il eut à Versailles, donna les premieres marques de sa joye, en traitant tous les Anglois de qualité qui estoient à Paris, &amp; resolut de faire un Feu d'artifice afin que le Public y pust prendre part. Comme il sçavoit bien que toutes les Festes considerables qui se font en France estoient de l'invention de Mr Berrin, il le pria d'avoir soin de la Decoration de ce Feu, &amp; ne luy donna que fort peu de temps pour y faire travailler, quoy qu'il souhaitast quelque chose qui répondist à la grandeur de son zele. Le jour qu'il regala le Public de ce spectacle, il le fit annoncer dés six heures du matin, par un grand nombre de Boëtes. Elles recommencerent sur le midy, &amp; le Peuple en fut plus particulierement informé par deux Fontaines de vin qui coulerent ce jour là, &amp; pendant une grande partie de la nuit devant l'Hôtel de M. l'Envoyé. Un peu avant qu'on tirast le Feu, il fit servir une magnifique Collation aux Ministres des Princes Etrangers, à plusieurs Dames de qualité Angloises &amp; Françoises, &amp; generalement à tous ceux qui avoient esté conviez, dont le nombre montoit à prés de deux cens personnes. Tout estant prest pour tirer le feu, Mr Skelton qui demeure proche de l'Hostel de Conty, sçachant que Madame la Princesse de Conty y estoit avec Madame la Princesse, &amp; Madame la Duchesse, en usa d'une maniere fort honneste &amp; fort galante. Il leur envoya Mr Lochemont, son Ecuyer, pour sçavoir d'elles quand elles vouloient que l'on commençast à allumer. Elles répondirent fort obligemment à cette honnesteté dont elles le remercierent, &amp; dirent que puis qu'il vouloit bien avoir cette déference, elles luy demandoient encore une demy-heure. Pendant ce temps le Peuple qui remplissoit la Place où le Feu estoit dressé, se divertissoit à voir l'Illumination du Logis de Mr Skelton, ainsi qu'à entendre les Hautbois, les Timbales, &amp; les Trompettes. La demy-heure que les Princesses avoient demandée s'estant écoulée, on alluma, non pas l'Artifice suivant ce qui s'est toujours pratiqué, mais les lumieres dont l'architecture de cet édifice estoit toute profilée, de sorte que longtemps avant que l'Artifice joüast, cet édifice parut tout brillant, &amp; tout couvert d'un nombre infiny de lumieres, sans pourtant qu'aucun membre de l'architecture en fust caché. [...]</p>
+        <p>Je vous envoye une Estampe du Feu, que j'ay fait graver beaucoup plus exacte &amp; mieux travaillée, que celle qui courut parmy le Peuple le jour du Spectacle. Lors qu'il fut finy, Mr Skelton fit continuer l'Illumination &amp; les Fontaines de vin tout le reste de la nuit, &amp; partit de Paris, avec tous ceux qu'il avoit conviez, pour se rendre au Chasteau de Montrouge. On y servi un magnifique Soupé sur quatre tables de quarante couverts chacune. Les plats furent portez par cent Suisses, au son des Violons &amp; des Hautbois, ausquels répondoient les Timbales, &amp; les Trompettes. Il y avoit cent Boëtes dans le Jardin. On en fit plusieurs décharges lors que l'on but la santé des deux Rois, &amp; des Maisons Royales. Toute la court du Chasteau estoit illuminée, &amp; il y avoit au milieu une piramide de lumieres, où estoient representées les Armes d'Angleterre, d'Ecosse, &amp; d'Irlande. [...] Cette grande Feste se termina par un Bal qui dura jusques à cinq heures du matin. Le soir suivant, Mr l'Envoyé regala plusieurs autres personnes qui n'avoient pu avoir place à ce grand repas, ce qui se fit encore avec beaucoup de magnificence, &amp; au bruit des Boëtes &amp; de plusieurs Instrumens. [...]</p>
+      </div>
+
+<div xml:id="MG-1688-07_322">
+        <head>MG-1688-07_322</head>
+        <bibl>Mercure galant, juillet 1688, p. 322-323</bibl>
+        <p>Livres de Musique de M. Martin.</p>
+        <p/>
+        <p>Depuis qu'on imprime la Musique, personne ne s'estoit encore avisé de faire imprimer des Airs serieux &amp; Bachiques à deux ou trois Parties, mêlées de simphonies &amp; d'accompagnemens, de maniere qu'on puisse jouër tout un Livre de suite, sans trouver deux Airs d'une mesme modulation. C'est ce que vient de faire M. Martin, qui a donné au Public un Livre qu'il a composé exprés pour former un petit concert. Chaque récit ou Trio chantant est precedé d'une petite simphonie, comme Ouvertures, Chaconnes, Rondeaux, &amp; autres petites Pieces de caprice, propres pour les Violons &amp; pour les Flûtes avec des accompagnemens dans tous les Recits, &amp; afin de faciliter le concert, il les a fait imprimer en quatre Parties, &amp; a joint à la Basse continuë tous les Recits chantans en partition, pour plaire aux personnes qui peuvent s'accompagner elles-mesmes du Clavessin, du Theorbe, ou de la Basse de Viole. Ces Livres se debitent chez le Sieur Guerout. Court-neuve du Palais.</p>
+      </div>
+
+<div xml:id="MG-1688-07_330">
+        <head>MG-1688-07_330</head>
+        <bibl>Mercure galant, juillet 1688, p. 330-331</bibl>
+        <p>Ces paroles &amp; cet Air [cf. MG-1688.07.02] sont du fameux M. de Bacilly, qui a fait graver depuis peu ses Airs Spirituels tout autrement qu'ils n'estoient, non seulement pour la graveure, mais pour quantité de changemens &amp; d'augmentations, dont il est parlé dans un discours qui est à la fin du Livre. Entre les Airs nouvellement ajoûtez, il y a un Recitatif à la maniere des Scenes des Opera. Quant aux Airs qui ont paru dans les Editions precedentes, ils sont tellement changez, tant pour les premiers que pour les seconds couplets qu'ils ne sont presque pas reconnoissables. Il n'y a point à douter qu'ils ne soient receus favorablement par tout, &amp; mesme dans les Monasteres de Religieuses, puis que le nom de M. l'Archevesque de Paris à qui ils sont dediez, leur y donnera l'entrée. Ce Livre se vend chez le Sieur Guerout, Cour-neuve du Palais.</p>
+      </div>
+</body>
+  </text>
+</TEI>

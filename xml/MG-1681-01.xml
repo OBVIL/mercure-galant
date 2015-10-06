@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier 1681</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-01/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1681</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1681-01_245">
+        <head>MG-1681-01_245</head>
+        <bibl>Mercure Galant, janvier 1681, p. 245-246</bibl>
+        <p>Mr le Marquis de Vienne a fait ces Vers pour une Chanson.</p>
+        <p/>
+        <p>Amour, je craignois peu tes charmes,</p>
+        <p>Si tu n'eusses pris pour tes armes</p>
+        <p>Les yeux du monde les plus beaux.</p>
+        <p>Helas ! qui s'en pourroit défendre ?</p>
+        <p>Si tu te sers de ces Flambeaux,</p>
+        <p>Tu mettras tous les coeurs en cendre.</p>
+        <p/>
+        <p>J'ay donné le nom de Chanson à ces Vers parce qu'ils me paroissent fort propres à estre mis en Musique.</p>
+      </div>
+
+<div xml:id="MG-1681-01_246">
+        <head>MG-1681-01_246</head>
+        <bibl>Mercure Galant, janvier 1681, p. 246</bibl>
+        <p>A propos de Musique, elle a fait une grande perte en la personne de Mr Langeais, tres-estimé de tous ceux qui prennent plaisir à ce divertissement. Il estoit de celle du Roy, &amp; mourut quelques jours avant la premiere représentation du Balet.</p>
+      </div>
+
+<div xml:id="MG-1681-01_284">
+        <head>MG-1681-01_284</head>
+        <bibl>Mercure Galant, janvier 1681, p. 284-292</bibl>
+        <p>Divertissemens de S. Germain.</p>
+        <p/>
+        <p>Enfin, Madame, Le Balet intitulé le Triomphe de l'Amour, a esté dancé. Je vous en ay déjà parlé dans deux de mes Lettres. Dans la premiere je vous entretins de son sujet ; &amp; dans la seconde, je vous ay marqué les noms des Personnes de qualité qui en devoient estre. Elles y ont dancé toutes, à la reserve de trois ou quatre qui ont eu permission de s'en retirer pour quelques raisons de bienséance. Je ne vous repéteray point leurs noms. Le Livre du Balet est public, on peut les y voir. Je vous diray seulement que la Musique de Mr de Lully a esté trouvée tres-belle, aussi-bien que les Habits. La galanterie y a paru à l'envy avec la magnificence, le tout varié d'une maniere si agreable, qu'on est demeuré d'accord que le génie de Mr Berrin ne peut s'épuiser, quand il s'est meslé de quelque chose. Je croy vous avoir déjà mandé que le Sujet du Balet, &amp; les Vers que l'on y chante, estoient de Mr Quinault. Vous connoissez sa maniere. Tous ses Ouvrages, sur tout quand l'Amour y entre, ont un caractere qui luy est particulier. Si Mr de Benserade qui faisoit toûjours les Vers qui se chantoient aux Balets, n'y a pas travaillé cette fois-cy, ceux qui regardent tous les Personnages, &amp; que vous trouverez dans l'Imprimé du Balet, sont de sa façon. Il faut entendre la Cour pour cela, &amp; il la sçait mieux qu'Homme du monde, ayant fait depuis plus de trente ans, tous les Vers de cette nature qui sont dans les Balets imprimez. Ce travail demande un esprit d'autant plus vif, qu'il faut faire des portraits délicats &amp; en racourcy, des Personnes dont on parle, par rapport aux Personnages qu'elles représentent. Monseigneur le Dauphin ne dança point le premier jour du Balet, mais on fut agreablement surpris quand on le dança la seconde fois. Ce Prince eut paru à peine avec ceux de son Entrée, qu'il fut reconnu de tout le monde. Il s'éleva aussi-tost un bruit d'applaudissement &amp; de joye, qui occupa quelque temps toute l'Assemblée. Vous jugez bien avec quel plaisir on le vit dancer, puis que c'estoit une preuve de l'entier rétablissement de sa santé. Il a résolu de se donner le divertissement de son Entrée une fois chaque semaine. Madame la Dauphine qui s'estoit fait admirer dans toutes les siennes par sa justesse à la dance, s'attira de nouvelles acclamations le second jour qu'elle parut. Aussi fit-elle une chose assez extraordinaire. Madame la Princesse de Conty estant malade, &amp; n'ayant pû dancer ses Entrées, le Roy dit deux heures avant le Balet, qu'il falloit que Madame la Dauphine en dançast quelqu'une. Son dessein n'estoit pas que ce fust dés ce jour mesme. Cependant cette Princesse apprit sur l'heure une grande Entrée toute remplie de figures, &amp; dans laquelle il y a plus de douze reprises. Ainsi toute la Cour fut fort étonnée de luy avoir vû faire en moins de deux heures, ce qu'une Personne moins intelligente n'auroit pas appris en quinze jours.</p>
+        <p>Je ne sçaurois finir cet Article sans vous parler de l'Entrée, où Mademoiselle de Nantes dance seule. Elle s'en acquite avec tant de grace, de legereté, &amp; de justesse, qu'elle enchante tout le monde. Aussi n'a-t-on jamais veu personne qui eust l'oreille plus fine, ny plus d'agrément pour toute sorte de Dances. Quelqu'un ayant dit au Roy dans une Repétition generale où Sa Majesté se trouva, que parmy le grand nombre d'Instrumens, on n'entendroit pas assez les Castagnetes que cette Princesse bat admirablement bien ; le Roy répondit que ceux qui devoient se mesler avec elle à la fin de l'Entrée, les batoient aussi. Mr le Duc de S. Aignan prit la parole, &amp; dit, On ne les entendra pas, Sire, le batement des mains de toute l'Assemblée, empeschera d'oüir celuy-là. Il seroit fort difficile de bien loüer Mademoiselle de Nantes, quoy qu'elle soit dans un âge où les autres ne sont encor qu'Enfans ; &amp; c'est avec beaucoup de justice que Mr de Bensarade a dit d'elle,</p>
+        <p/>
+        <p>Que de naissantes Fleurs ! ô que cette Princesse</p>
+        <p>Représente bien la Jeunesse,</p>
+        <p>Et qu'elle aura de grace &amp; de facilité</p>
+        <p>A représenter la Beauté !</p>
+        <p>Heureuse de pouvoir un jour estre fidelle</p>
+        <p>A tous les traits de son Modelle.</p>
+        <p>[...]</p>
+      </div>
+
+<div xml:id="MG-1681-01_295">
+        <head>MG-1681-01_295</head>
+        <bibl>Mercure Galant, janvier 1681, p. 295-299</bibl>
+        <p>Divertissemens de la Cour.</p>
+        <p/>
+        <p>Il y a tous les soirs des Divertissemens à la Cour, aujourd'huy Balet, demain Comédie Françoise ou Italienne, &amp; le jour suivant Bal &amp; Mascarade. Les Dames dans une grande parure, sans pourtant estre masquées, reçoivent les Masques chez Madame la Dauphine. Monseigneur le Dauphin y alla dernierement vétu en Sauvage. Son Habit estoit tres-bien entendu, &amp; l'on fut longtemps sans reconnoistre ce Prince. Il estoit accompagné de Monsieur le Prince de la Roche-sur-Yon, de Mr le Comte de Brionne, de Mr le Marquis d'Alincour, de Mr le Marquis de Moüy, de Mr le Comte de Fiesque, &amp; de Mr de Mimeures. Il y eut plusieurs autres Mascarades le mesme jour tres-magnifiques, &amp; entr'autres celle de Monsieur le Comte de Vermandois, dont estoient Mr &amp; Madame de Mortemar, Madame la Marquise de Seignelay, &amp; plusieurs autres. Les Bals regnent aussi à Paris où il y a beaucoup d'Assemblées tous les soirs. La Comédie y en attire toûjours de fort grandes malgré la rigueur de la Saison, &amp; Arlequin Mercure Galant, autrement, Dieu Mercure, fait fort admirer cet incomparable Acteur.</p>
+        <p>Les François ont donné depuis trois jours la premiere Représentation de Zaïde, Princesse de Grénade. C'est une Piece tout-à-fait agreable, dont les Vers sont naturels, les pensées brillantes, &amp; les incidens fort peu communs. Elle est bien joüée, &amp; on voit assez par la dépense que les Comédiens ont faite pour des Habits extraordinaires, qu'ils n'ont point douté de son succés. Ils doivent joüer sur la fin du Carnaval, une Comédie en cinq Actes, intitulée La Pierre Philosophale. On dit qu'elle est remplie de Spectacles d'une invention tres-singuliere, &amp; qui ont mesme quelque chose de grand. Ceux qui cherchent la Pierre Philosophale ayant plus d'un but, &amp; cette Science en renfermant plusieurs autres, ce Sujet doit faire attendre beaucoup de diversité.</p>
+      </div>
+
+<div xml:id="MG-1681-01_341">
+        <head>MG-1681-01_341</head>
+        <bibl>Mercure Galant, janvier 1681, p. 341-343</bibl>
+        <p>Divertissemens d'Andely.</p>
+        <p/>
+        <p>J'ay oublié de vous dire que plusieurs Gentilhommes d'Andely, &amp; des environs, ayant fait une grande Partie de Chasse le jour de la Feste de S. Hubert, ont donné depuis ce temps des Festes continuelles à toute la Noblesse du Païs de l'un &amp; de l'autre Sexe. Il y a eu deux fois la semaine diverses Tables servies avec autant de proprete que d'abondance, &amp; les Violons n'ont point manqué à tous ces Repas. Les derniers ont esté precedez de la Représentation des Fâcheux, &amp; de la petite Comédie du Deüil. Jugez combien de plaisir reçeurent les Dames qui avoient esté invitées à ce Divertissement, puis que tous les Rôles furent joüez avec toute la justesse &amp; tout l'agrement possible. On y admira sur tout une fort aimable Personne, aussi considérable par ses belles qualitez que par sa naissance, qui fit tout ce qu'on eust pû attendre d'une Actrice consommée, dans le Personnage qu'elle voulut bien représenter. Andely est une petite Ville à sept lieuës de Roüen, où il y a Presidial, &amp; de fort honnestes Gens.</p>
+      </div>
+</body>
+  </text>
+</TEI>

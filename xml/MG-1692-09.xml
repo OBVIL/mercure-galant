@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, septembre 1692</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1692-09/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1692</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1692-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1692-09_119">
+        <head>MG-1692-09_119</head>
+        <bibl>Mercure galant, septembre 1692, p. 119-133</bibl>
+        <p>Réjouissances faites à Dijon.</p>
+        <p/>
+        <p>Vous sçavez, Madame, que le 18. de l'autre mois, Madame la Duchesse accoucha d'un Prince, qu'on appelle Duc d'Anguien. La joye en a esté grande à Dijon, &amp; la Relation que je vous envoye vous l'apprendra. Je la laisse dans les mesme termes que je l'ay receuë,</p>
+        <p>Parmy toutes les réjoüissances qu'on a fait paroistre dans Dijon, pour l'heureuse naissance de Monsieur le Duc d'Anguein, celles qui se sont faites au Chasteau n'ont cedé en rien à celles de la Ville. Mr Durand de Fontenay, Major de cette Place, Gentilhomme de merite connu pas ses services dans les Troupes, &amp; qui ayant esté choisi de S. A. S. Monsieur le Prince pour un de ses Aides de Camp au Siege de Namur, s'est acquitté de cet employ avec beaucoup d'honneur, voulant donner des marques publiques de sa reconnoissance pour les bontez de ce grand Prince, eut à peine appris l'accouchement de Madame la Duchesse, qu'il donna les ordres pour faire lendemain une Feste dans le Chasteau, qui fut d'autant plus agreable qu'elle fut prompte, &amp; exécutée avec autant d'ordre &amp; de diversité, que si l'on eust employé beaucoup de temps à la préparer.</p>
+        <p>Il fit orner la grande Salle de l'appartement du Gouverneur, de tapisseries fort magnifiques, avec quantité de Lustres pour la rendre plus éclairée. On exposa sous un Dais le Portrait de Son Altesse Serenissime Monsieur le Prince, &amp; celuy de Monsieur le Duc, au bas duquel étoient ces Vers.</p>
+        <p>Plein d'esprit &amp; d'ardeur, né pour vaincre &amp; pour plaire ;</p>
+        <p>Charmant par mes vertus, estimé de mon Roy ;</p>
+        <p>C'est par là qu'on me voit digne Fils de mon Pere,</p>
+        <p>Et qu'un jour on verra mon Fils digne de moy.</p>
+        <p>Au dessous de ces Portraits on mit deux riches fauteüils, élevez sur deux marches couvertes de tapis, pour marquer la place de ces deux Princes. Le soir sur les huit à neuf heures, toutes les personnes de consideration de la Ville, de l'un &amp; de l'autre Sexe, qui avoient esté invitées, s'assemblerent dans cette Salle avec la parure la plus propre à augmenter la beauté des Dames ; de sorte qu'il sembloit que le Dieu d'Amour pour lors ne commandoit pas moins dans cette Place, que celuy de la Guerre. Madame de Fontenay, qui a beaucoup d'agrémens dans sa personne &amp; dans ses manieres, eut le soin de faire placer les Dames, tandis que Mr de Fontenay prenoit celuy de recevoir les hommes les plus qualifiez qui s'y rendirent. Lors que chacun fut placé, sans que le grand nombre causast de confusion, les Vers &amp; les Instrumens commencerent l'Opera du Triomphe de l'Amour, que l'on avoit choisi pour estre le plus convenable au sujet de cette réjoüissance. Cet Opera fut précedé d'un Prologue qui répondoit à la gloire que Monsieur le Duc vient nouvellement d'acquerir au Combat donné en Flandre &amp; à la joye qu'il a de se voir Pere d'un Fils souhaité avec tant d'empressement. Les Vers &amp; le Chant furent faits le même jour, de cette maniere.</p>
+        <p/>
+        <p>PROLOGUE.</p>
+        <p>PREMIER RECIT</p>
+        <p>Chers Habitans de la Cité des Dieux,</p>
+        <p>Préparez une Feste, &amp; marquez vostre zele,</p>
+        <p>Pour un Prince brillant d'une gloire nouvelle,</p>
+        <p>Et qui doit faire un jour le bonheur de ces lieux.</p>
+        <p/>
+        <p>SECOND RECIT.</p>
+        <p>Marchant sur les pas glorieux</p>
+        <p>De son Pere &amp; de ses Ayeux,</p>
+        <p>Du plus grand Roy du monde il a rempli l'attente,</p>
+        <p>Par les faits surprenans qu'a produit son grand coeur,</p>
+        <p>Dans cette Bataille sanglante</p>
+        <p>Dont il revient vainqueur.</p>
+        <p/>
+        <p>TROISIEME RECIT.</p>
+        <p>Aprés une illustre victoire,</p>
+        <p>Ce Heros de retour,</p>
+        <p>Goûte les premiers fruits de sa nouvelle gloire,</p>
+        <p>Et ceux de son amour.</p>
+        <p>Une Princesse aimable &amp; belle,</p>
+        <p>Qui charme seule &amp; son coeur &amp; ses yeux ;</p>
+        <p>Luy donne dans un Fils, digne present des Cieux,</p>
+        <p>Un gage précieux</p>
+        <p>De son amour tendre &amp; fidelle.</p>
+        <p>Chers Habitans de la Cité des Dieux,</p>
+        <p>Préparez tous une Feste nouvelle.</p>
+        <p/>
+        <p>CHOEUR.</p>
+        <p>Chers Habitans de la Cité des Dieux,</p>
+        <p>Que chacun de vous en ces lieux</p>
+        <p>A la joye, un plaisir aujourd'huy s'abandonne.</p>
+        <p>Unissons nos coeurs &amp; nos voix,</p>
+        <p>Pour ce jeune Heros, fameux par ses exploits,</p>
+        <p>Et chantons mille &amp; mille fois</p>
+        <p>Le gage précieux que son amour luy donne.</p>
+        <p/>
+        <p>Ce Prologue fini, on commença incontinent l'Opera du Triomphe de l'Amour. Ce Dieu en effet ne triomphe-t-il pas en ce rencontre, &amp; ne merite-t-il pas beaucoup de gloire d'avoir donné un successeur à un des plus grands Princes de la premiere Cour du monde ? Cet Opera fut executé avec beaucoup de justesse, &amp; la Symphonie en fut admirable. Les Dames allérent ensuite respirer la fraischeur de l?air dans la place d?Armes, où le bruit des Canons succedant à l'harmonie des voix &amp; des instrumens, redoubla la joie que l'on ressentoit. Aprés plusieurs décharges coup sur coup réïterées, on fut agréablement surpris de voir le sommet des tours couronné de lanternes, à travers lesquelles on découvroit des noeuds d'amour, &amp; des Chiffes qui marquoient les noms de leurs Altesses Serenissimes ; mais le plaisir de la surprise augmenta merveilleusement, lors qu'on apperçut sur les mesmes tours, des feux d'artifices qui les bordoient, &amp; que l'on en vit partir une infinité de lances à feu, &amp; de fusées volantes entremêles de grenades, qui de toutes parts s'élevant dans l'air, répandirent par tout l'éclat &amp; la lumiere, avec une diversité de figures, &amp; un nombre infini d'étoiles brillantes, qui paroissant dans l'eau du fossé, sembloient faire l'alliance de deux élemens ennemis, &amp; on eût dit que du fond des eaux &amp; du haut des airs, il sortoit de differens feux qui faisoient un nouveau jour au milieu de la nuit la plus sombre. Tout le peuple de la Ville estoit accouru au bruit de cette Feste, &amp; bordoit les fossez du Chateau en foule, avec tant de cris &amp; d'acclamations que le son confus des voix se mêlant au bruit de l'artifice, ce mélange donnoit autant de plaisir dans sa confusion que la Musique en avoit donné par son harmonie. Le Feu d'artifice estant fini, &amp; la grande foule du peuple écoulée, les Dames demeurerent au Chasteau, &amp; elles eurent envie d'aller sur le sommet d'une des Tours, où elles trouverent un nouveau plaisir. Mr de Fontenay y avoit fait trouver les violons qui joüerent les Pieces les plus belles &amp; les plus sçavantes des Maîtres les plus habiles. Cela dura jusques à une heure aprés minuit, que chacun se retira content du plaisir qu'il avoit eu dans cette Feste, si bien ordonnée, &amp; executée avec tant de propreté &amp; d'agrément ; mais</p>
+        <p>En vain l'amour avec ses charmes,</p>
+        <p>Et le Dieu Mars avec ses armes,</p>
+        <p>Se joignent en un mesme temps</p>
+        <p>Pour rendre une Feste assortie ;</p>
+        <p>Tous leurs plaisirs sont languissans</p>
+        <p>Si Bacchus n'est de la partie.</p>
+        <p>En effet, tandis que le concert &amp; les feux d'artifices occupoient ceux qui estoient invitez, &amp; qui avoient accouru à cette Feste, les vin animoit les uns &amp; les autres, &amp; fournissoit à la Garnison de quoy prendre part au plaisir. Mr de Fontenay fit largesse du meilleur de sa cave aux Soldats qui saluérent la santé du Roy &amp; de leurs Altesses Serenissimes, &amp; répondirent assez bien de leur part, à tout ce qu'on fit d'ailleurs pour remplir cette Feste, à laquelle succedérent le repos &amp; le sommeil.</p>
+      </div>
+</body>
+  </text>
+</TEI>

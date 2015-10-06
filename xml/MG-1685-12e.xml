@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extraordinaire du Mercure Galant, Quartier de décembre 1685</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1685-12e/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier de <date>décembre 1685</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1685-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1685-12e_003">
+        <head>MG-1685-12e_003</head>
+        <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 3-11</bibl>
+        <p>Paraphrase d'un Cantique pour le Roy</p>
+        <p/>
+        <p>PARAPHRASE</p>
+        <p>D'UN CANTIQUE</p>
+        <p>POUR LE ROY.</p>
+        <p/>
+        <p>Magnus Dominus &amp; laudabilis nimis, &amp; magnitudinis ejus non est finis.</p>
+        <p>Psalm. 144.</p>
+        <p/>
+        <p>Qu'il est louäble ! qu'il est grand !</p>
+        <p>Sujets fortunez d'un tel Maistre,</p>
+        <p>Rendez graces au Ciel de vous avoir fait naistre</p>
+        <p>Sous un regne si doux si calme, si puissant.</p>
+        <p/>
+        <p>Le moyen d'exprimer sa grandeur infinie ?</p>
+        <p>Ce Monarque s'éleve aux honneurs immortels,</p>
+        <p>Et le moindre jour de sa vie</p>
+        <p>N'a-t-il pas mérité l'Encens &amp; les Autels ?</p>
+        <p/>
+        <p>Venite &amp; videte opera Domini, quæ posuit prodigia super terram. Psal. 45.</p>
+        <p/>
+        <p>Accourez de tout l'Univers,</p>
+        <p>Venez, Peuples ! venez vous-mesme vous instruire</p>
+        <p>De tant de prodiges divers ;</p>
+        <p>Nous ne cessons de les écrire,</p>
+        <p>Mais ny nos Chansons ny nos Vers,</p>
+        <p>Ny nos mélodieux Concerts</p>
+        <p>A ce vaste dessein ne peuvent pas suffire.</p>
+        <p/>
+        <p>Conturbatæ funt gentes, &amp; inclinata sunt regna,</p>
+        <p/>
+        <p>Toutes les Nations du Monde</p>
+        <p>Tremblant au nom de ce Heros.</p>
+        <p>Ignorent-ils ses travaux ?</p>
+        <p>Ils ont remply la Terre &amp; l'Onde.</p>
+        <p/>
+        <p>Les Tresors les mieux affermis</p>
+        <p>Dont on vante la gloire immense,</p>
+        <p>Chancelent s'ils ne sont soûmis</p>
+        <p>A cette supréme puissance.</p>
+        <p/>
+        <p>En vain vostre air imperieux</p>
+        <p>Vous enchante, Grands de la terre</p>
+        <p>Devant ce Heros glorieux,</p>
+        <p>Ne baisserez-vous pas toûjours, soit paix ou guerre,</p>
+        <p>Ne baisserez-vous pas les yeux ?</p>
+        <p/>
+        <p>Dedit vocem suam &amp; mota est terra.</p>
+        <p/>
+        <p>Comme ses actions sont autant de Miracles,</p>
+        <p>Toutes ses paroles aussi</p>
+        <p>Ne sont-elles pas des Oracles ?</p>
+        <p>D'un bout du Monde à l'autre on les écoute ainsi,</p>
+        <p>De cet air souverain dont la bouche prononce,</p>
+        <p>Est-il rien de grand desormais</p>
+        <p>Que cette bouche ne l'annonce ?</p>
+        <p>Un mot, tout est en guerre, un mot, tout est en paix.</p>
+        <p/>
+        <p>Fundamenta Montium conturbata sunt, quoniam iratus est eis. Psal. 17.</p>
+        <p/>
+        <p>Se met-il en couroux pour punir les coupables,</p>
+        <p>Rien ne les sçauroit garantir ;</p>
+        <p>Et quand la foudre doit partir,</p>
+        <p>Ses coups sont moins inévitables.</p>
+        <p>Retraites de ces orgueilleux</p>
+        <p>Dont on a puny l'insolence,</p>
+        <p>Boulevars &amp; Rocs sourcilleux,</p>
+        <p>Vous en fumez encor, tremblez sous la puissance</p>
+        <p>D'un Monarque qui peut faire, sur qui l'offense,</p>
+        <p>Pleuvoir des deluges de feux.</p>
+        <p/>
+        <p>Orietur in diebus ejus justitia &amp; abundantia pacis. Psal. 70.</p>
+        <p/>
+        <p>Qu'il récompense ou qu'il punisse</p>
+        <p>Selon que l'on a merité,</p>
+        <p>N'est-ce pas toûjours sa Justice</p>
+        <p>Qui conduit ses faveurs, on sa severité ?</p>
+        <p>Cette auguste Justice au milieu des alarmes</p>
+        <p>De cent Peuples qu'il voit, &amp; tremblant &amp; soumis,</p>
+        <p>Luy fait mesme quitter les armes,</p>
+        <p>Et la paix a pour luy des charmes,</p>
+        <p>Qui font la seureté de tous ses Ennemis.</p>
+        <p/>
+        <p>Memoriam fecit mirabilium suorum. Psal. 110.</p>
+        <p/>
+        <p>Que ce Monarque eternel de sa magnificence,</p>
+        <p>Que ce Monarque éleve à nos yeux aujourd'huy,</p>
+        <p>Vous durerez toûjours témoins de sa puissance,</p>
+        <p>Vous parlerez toûjours de luy.</p>
+        <p>Chef-d'oeuvres où les Arts ont dompté la nature,</p>
+        <p>On se perd à vous voir, grands &amp; riches Palais !</p>
+        <p>Vous avez épuisé toute l'Architecture,</p>
+        <p>Mais de ce Conquerant, la hauteur sans mesure,</p>
+        <p>Vous ne l'égalerez jamais.</p>
+        <p/>
+        <p>Et factus est in pace locus ejus.</p>
+        <p/>
+        <p>Le comble enfin de sa grandeur,</p>
+        <p>C'est que toûjours calme &amp; tranquile</p>
+        <p>Nul indigne transport ne soûleve son coeur,</p>
+        <p>Luy seul fait mouvoir, &amp; demeure immobile,</p>
+        <p>Ils ont beau chaque jour, ils ont beau redoubler</p>
+        <p>Ces soins dont le poids nous étonne</p>
+        <p>Si leur foule l'environne</p>
+        <p>Elle ne le peut troubler.</p>
+        <p/>
+        <p>Præ fulgore conspectu ejus nubes transierunt. Psal. 17.</p>
+        <p/>
+        <p>En vain pour obscurcir sa brillante carriere</p>
+        <p>De grossieres vapeurs s'élevent dans les airs ;</p>
+        <p>Pour peu qu'il les regarde elles ne durent guere,</p>
+        <p>Et malgré leurs efforts volages &amp; divers,</p>
+        <p>Toûjours de la mesme manière</p>
+        <p>Il brillera dans l'Univers.</p>
+        <p/>
+        <p>Magna opera Domini, exquisita in omnes voluntates ejus. Psal. 110.</p>
+        <p/>
+        <p>Tout ce qu'il fait tient du prodige,</p>
+        <p>Et ce que l'on croyait impossible autrefois</p>
+        <p>Est aisé quand il dirige.</p>
+        <p>Rien ne peut ébranler la force de ses Loix.</p>
+        <p>Jamais soûmission, jamais ne fut si grande</p>
+        <p>Dés qu'il marque sa volonté</p>
+        <p>De quelque passion que l'on soit agité,</p>
+        <p>Tout obeit quand il commande.</p>
+        <p/>
+        <p>Lauditio ejus manet in sæculi. Psal. 110.</p>
+        <p/>
+        <p>Et comme à remonter dans les Siecles passez,</p>
+        <p>Rien n'est comparable à sa gloire,</p>
+        <p>Il nous est bien permis de croire</p>
+        <p>Que les beaux traits de son Histoire</p>
+        <p>Ne seront jamais effacez.</p>
+        <p>Heros, que l'avenir doit encor faire naître.</p>
+        <p>Dans ce Heros que nous chantons</p>
+        <p>Vous revererez vostre Maistre,</p>
+        <p>Imitant par vos voix nos accens &amp; nos tons.</p>
+        <p>Vous celebrerez sa loüange,</p>
+        <p>Vous battrez comme nous incessamment des mains.</p>
+        <p>Sans qu'il naisse jamais Heros chez les humains,</p>
+        <p>Qui vous fasse prendre le change.</p>
+        <p/>
+        <p>Et tronus ejus sicut sol. Psal. 88.</p>
+        <p/>
+        <p>La gloire de son regne &amp; ses travaux divers,</p>
+        <p>Le charme &amp; l'honneur de l'Histoire</p>
+        <p>Montrent son Trône à l'Univers,</p>
+        <p>Comme le centre de la gloire.</p>
+        <p>Que le Soleil au haut des Cieux</p>
+        <p>Pour répandre par tout l'éclat de la lumiere,</p>
+        <p>Roule dans sa vaste carriere,</p>
+        <p>S'il fait plus de chemin, il ne brille pas mieux.</p>
+        <p/>
+        <p>Assette Domino gloriam &amp; honorem.</p>
+        <p/>
+        <p>Assemblez tous les ornemens</p>
+        <p>Qui peuvent enrichir sa couronne éclatante ;</p>
+        <p>Mais le Monde entier mesme a-t-il de diamans</p>
+        <p>Une quantité suffisante</p>
+        <p>Pour la former assez brillante ?</p>
+        <p/>
+        <p>Sit gloria Domini in sæculum. Psal. 103.</p>
+        <p/>
+        <p>Que sa gloire à jamais icy-bas reverée</p>
+        <p>Passant de Siecle en Siecle à nos derniers Neveux,</p>
+        <p>Dans la gloire des Bienheureux</p>
+        <p>Aille confondre sa durée.</p>
+      </div>
+
+<div xml:id="MG-1685-12e_149">
+        <head>MG-1685-12e_149</head>
+        <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 149-160</bibl>
+        <p>Sur le Psalme 136.</p>
+        <p/>
+        <p>Comment chanterons-nous le Cantique du seigneur dans une Terre étrangere ?</p>
+        <p/>
+        <p>Pourquoy donc tant de fois, mes fidelles Amis,</p>
+        <p>Avec empressement me dire que je chante ?</p>
+        <p>Que l'air d'un doux Luth m'est permis,</p>
+        <p>Ou d'une voix douce &amp; charmante ?</p>
+        <p/>
+        <p>Oüy, je sçay que le chant veut un esprit reglé,</p>
+        <p>Une ame dégagée, un coeur qui se déploye,</p>
+        <p>Et non pas ainsi que je l'ay,</p>
+        <p>Car je ne goûte aucune joye.</p>
+        <p/>
+        <p>Quoy ! vous m'avertissez qu'il est bon de chanter,</p>
+        <p>Plus l'esprit est chagrin, plus l'ame est abattüe,</p>
+        <p>Et qu'un Luth la doit exciter,</p>
+        <p>Pour chasser l'ennuy qui la tuë.</p>
+        <p/>
+        <p>De peur, me dites-vous, que l'excés des douleurs</p>
+        <p>Ne l'accable à la fin d'une peine trop rude ;</p>
+        <p>Ou que pensant à ses malheurs,</p>
+        <p>Elle n'ait trop d'inquietude.</p>
+        <p/>
+        <p>Le remede certain que vous me promettez</p>
+        <p>Prend des exemples seurs, comme on me les explique ;</p>
+        <p>Et toutes ces autoritez</p>
+        <p>Marquent l'effet de la Musique.</p>
+        <p/>
+        <p>Vous m'alleguez sur tout, afin de l'appuyer,</p>
+        <p>Qu'un Rameur fatigué de sa trop longue peine,</p>
+        <p>Chante pour se desennuyer,</p>
+        <p>En voguant sur l'humide plaine.</p>
+        <p/>
+        <p>Qu'un Pasteur qui s'ennuye, en menant son Troupeau</p>
+        <p>De Vallon en Vallon, ou parmy les Campagnes,</p>
+        <p>Fait retentir son chalumeau,</p>
+        <p>Dans les Bois, ou sur les Montagnes.</p>
+        <p/>
+        <p>Qu'afin de soulager sa peine &amp; ses ennuis,</p>
+        <p>Souvent le Voyageur à quelque chant s'adonne ;</p>
+        <p>Que le Soldat pendant les nuits,</p>
+        <p>En veillant des Chansons entonne.</p>
+        <p/>
+        <p>Non, non pour leurs doux chants je ne condamne pas,</p>
+        <p>Rameur, Soldat, Pasteur, ou celuy qui voyage ;</p>
+        <p>Chacun d'eux y sent des appas,</p>
+        <p>Et dans sa peine se soulage.</p>
+        <p/>
+        <p>Mais quant à mes ennuis, moy qui depuis long-temps</p>
+        <p>Ecoute une Maistresse, &amp; gemir, &amp; se plaindre,</p>
+        <p>Parmy ses soûpirs éclatans,</p>
+        <p>A chanter puis-je me contraindre ?</p>
+        <p/>
+        <p>A peine avec ma voix veux je donc commencer</p>
+        <p>Quelque air melodieux, qu'en mon coeur je rappelle,</p>
+        <p>Que l'accent que je vay pousser,</p>
+        <p>Me semble une chose nouvelle.</p>
+        <p/>
+        <p>Comme au sortir d'un lieu remply d'obscurité,</p>
+        <p>On craint le vif éclat que le Soleil envoye,</p>
+        <p>De mesme en ma captivité,</p>
+        <p>Je crains &amp; le chant &amp; la joye.</p>
+        <p/>
+        <p>Quand il me prend envie, ou que je fais dessein</p>
+        <p>De pincer doucement les cordes de la Lyre,</p>
+        <p>Et que ma tremblante main</p>
+        <p>Je suis le doux air qui m'inspire ;</p>
+        <p/>
+        <p>Que sur un Flageolet, ou sur un Chalumeau.</p>
+        <p>Quelque aimable Chanson avec douceur j'entonne,</p>
+        <p>Que ma voix pousse un Air nouveau,</p>
+        <p>Pour suivre mon Luth qui fredonne.</p>
+        <p/>
+        <p>Helas ! autant de fois mes soûpirs &amp; mes pleurs</p>
+        <p>Qui retiennent mes doigts, troublent mon armonie ;</p>
+        <p>Ma voix qu'étouffent mes douleurs,</p>
+        <p>Cede à ma tristesse infine.</p>
+        <p/>
+        <p>J'essaye encore un coup à faire mes efforts,</p>
+        <p>Pour pousser les accens d'une voix délicate,</p>
+        <p>Et joindre les plus doux accords</p>
+        <p>Aux charmes du Luth que je flatte.</p>
+        <p/>
+        <p>Mais enfin l'apperçois, helas ! que c'est en vain</p>
+        <p>Que mon esprit s'efforce, &amp; ma voix s'étuide ;</p>
+        <p>Car mon Luth, ma voix, ou ma main,</p>
+        <p>N'excite aucune melodie.</p>
+        <p/>
+        <p>A negliger ainsi cet Art rare &amp; charmant,</p>
+        <p>Ma voix en perd l'usage, &amp; ma main l'habitude,</p>
+        <p>Et si l'aimois tendrement,</p>
+        <p>J'en suis &amp; le soin &amp; l'étude.</p>
+        <p/>
+        <p>Quand mesme j'en aurois conservé dans le coeur,</p>
+        <p>La tendre passion que j'en avois conceue ;</p>
+        <p>Je ne vaincrois pas la rigueur</p>
+        <p>Du malheureux sort qui me tuë.</p>
+        <p/>
+        <p>Mais encor que je sçache avec facilité,</p>
+        <p>Accorder doucement &amp; ma voix &amp; ma Lyre ;</p>
+        <p>Et que dans un air concerté</p>
+        <p>Ma langue fasse qu'on admire ;</p>
+        <p/>
+        <p>Soit qu'aux doux tremblemens qui partent de mes doigs,</p>
+        <p>Les neuf Soeurs d'Apollon cedent enfin la gloire ;</p>
+        <p>Que mon Flageolet, ou ma voix,</p>
+        <p>Sur Marsias ait la victoire :</p>
+        <p/>
+        <p>Soit que dans l'Arcadie, autrefois Pan vanté</p>
+        <p>Me quitte à la dispute &amp; l'honneur &amp; la place ;</p>
+        <p>Que mon Luth soit plus écouté</p>
+        <p>Que celuy du Chantre de Thrace.</p>
+        <p/>
+        <p>Dois-je dans cet estat me plaindre &amp; soûpirer ?</p>
+        <p>Dois-je m'appliquer aux Chants mon ame toute entiere ?</p>
+        <p>Quand je ne puis assez pleurer,</p>
+        <p>Pour en avoir trop de matiere.</p>
+        <p/>
+        <p>Helas ! dans mes soûpirs, &amp; mes maux divers,</p>
+        <p>Mon coeur incessamment gouste tant d'amertume,</p>
+        <p>Que pour m'oster l'amour des airs,</p>
+        <p>Mes douleurs passent en coutume.</p>
+        <p/>
+        <p>Mais quoy ! ne voit-on pas que les lieux, les saisons,</p>
+        <p>Ne peuvent convenir aux airs que je neglige ?</p>
+        <p>Et que tout s'oppose aux Chansons,</p>
+        <p>Dans la tristesse qui l'afflige ?</p>
+        <p/>
+        <p>Voulez-vous qu'en ces lieux, malgré mesme mon sort,</p>
+        <p>Et dans l'éloignement de ma terre si chere,</p>
+        <p>Sur moy je fasse quelque effort,</p>
+        <p>Pour chanter à mon ordinaire ?</p>
+        <p/>
+        <p>Helas ! comment chanter dans ce bannissement,</p>
+        <p>Qui redouble en mon coeur une peine infinie ?</p>
+        <p>Un si fâcheux éloignement</p>
+        <p>Ne convient pas à l'harmonie.</p>
+        <p/>
+        <p>Quoy donc ! dans les horreurs de cet exil fatal,</p>
+        <p>En ce triste sejour où toujours je soupire,</p>
+        <p>Si loin de mon Pays natal,</p>
+        <p>Je ferois retentir ma Lyre ?</p>
+        <p/>
+        <p>Pardonnez ; car le sort qui me vient affliger,</p>
+        <p>En me perçant le coeur d'une atteinte imprévuë,</p>
+        <p>M'oste en ce Pays étranger,</p>
+        <p>L'amour que j'en avois conceuë.</p>
+        <p/>
+        <p>Tout banny que je suis, &amp; loin de mon climat,</p>
+        <p>Le desir de chanter nullement ne me touche,</p>
+        <p>Et l'horreur de mon triste estat</p>
+        <p>Me serre le coeur &amp; la bouche.</p>
+        <p/>
+        <p>Non ; ne m'en parlez plus ; lorsque mes tristes yeux</p>
+        <p>Se fondent tout en eau, ne versent que des larmes ;</p>
+        <p>Pourrois-je en ce sort ennuyeux</p>
+        <p>Sur ma Lyre trouver des charmes ?</p>
+        <p/>
+        <p>Avoir toûjours l'objet d'où naissent mes travaux,</p>
+        <p>A sentir les ennuis dont mon ame est pressée ;</p>
+        <p>Par mon Luth d'adoucir mes maux,</p>
+        <p>Je ne puis avoir la pensée.</p>
+        <p/>
+        <p>Helas ! le souvenir de mes jours plus heureux,</p>
+        <p>Me rappeller en l'esprit ma premiere fortune,</p>
+        <p>Et mon exil trop rigoureux</p>
+        <p>A chaque moment m'importune.</p>
+        <p/>
+        <p>S'il falloit qu'Amphion fust comme moy contraint</p>
+        <p>De vivre dans ces lieux, il n'auroit plus de gloire,</p>
+        <p>Et de mesme douleur atteint,</p>
+        <p>Il briseroit son Luth d'yvoire.</p>
+        <p/>
+        <p>Par un regard Orphée, au retour des Enfers,</p>
+        <p>En perdant sa Moitié, perdit sa mélodie,</p>
+        <p>Et sa main oubliant ses airs,</p>
+        <p>Tout à coup devint engourdie.</p>
+        <p/>
+        <p>Sa Harpe luy tomba si promptement des doigts,</p>
+        <p>Qu'au vif ressentiment de ses douleurs aiguës,</p>
+        <p>Les airs manquerent à sa voix,</p>
+        <p>Et ses cordes furent rompuës.</p>
+        <p/>
+        <p>Pourquoy donc aujourd'huy tant de fois m'avertir,</p>
+        <p>Que je pousse ma voix, &amp; je pince ma Lyre ?</p>
+        <p>Mon sort qui n'y peut consentir,</p>
+        <p>Veut seulement que je soûpire.</p>
+        <p/>
+        <p>Helas ! quand je me vois dans l'exil où je suis,</p>
+        <p>Et que mon cher climat se presente à ma veuë,</p>
+        <p>Je tombe en de si grands ennuis,</p>
+        <p>Que mon ame en est abattuë.</p>
+        <p/>
+        <p>Après un long espoir, me voyant de retour</p>
+        <p>Dans un pays heureux, dont le desir me presse,</p>
+        <p>Mon coeur &amp; ma voix tour à tour,</p>
+        <p>Chanteront avec allegresse.</p>
+        <p/>
+        <p>RAULT, de Roüen</p>
+      </div>
+
+<div xml:id="MG-1685-12e_252">
+        <head>MG-1685-12e_252</head>
+        <bibl>Mercure Galant, Extraordinaire du quartier d'octobre 1685, p. 252-253, 260-261, 268-271</bibl>
+        <p>[Histoire galante, « Defense de l'inconstance »]</p>
+        <p/>
+        <p>[S'etant rendus chez Emilie, [p. 245] « Clitandre le franc Marquis &amp; la precieuse Melite [...] y trouverent la jeune Arelise, Lycidas, &amp; quelques autres personnes de merite, qui sans doute se seroient facilement passez de ces deux ridicules. » Les membres de cette compagnie engagent une conversation sur la constance dont Emilie passe pour être ennemie.]</p>
+        <p/>
+        <p>[...] Mais, Madame, [demanda Emilie à Melite,] faites moy, s'il vous plaist, comprendre ce que c'est qu'un Inconstant, &amp; d'où vient que vous trouvez tant de deffaut à l'estre. Est ce un crime que d'aimer également tout ce qui est également beau ; &amp; qu'y a t'il de plus juste que les sentimens que je vais vous chanter ? Vous sçavez que la voix d'Emilie est admirable, &amp; comme elle estoit en humeur goguenarde, elle chanta fort agreablement ces Parolles.</p>
+        <p/>
+        <p>CHANSON.</p>
+        <p/>
+        <p>Je permets aux Romans</p>
+        <p>D'avoir des Amans fidelles,</p>
+        <p>Je permets aux Romans</p>
+        <p>La constance des Amans.</p>
+        <p>Mais trouvant par tout des Belles,</p>
+        <p>Par tout je veux cajoler ;</p>
+        <p>Puis que l'Amour a des aîles,</p>
+        <p>Doit-il pas toûjours voler ?</p>
+        <p/>
+        <p>[...] L'Inconstance en amour [ajouta-t-elle], [...] n'est pas toûjours une imperfection. Elle est bien souvent l'ouvrage du bon sens &amp; du discernement, &amp; un Amant pourroit répondre pour toute défense.</p>
+        <p/>
+        <p>Peut-on nommer legereté</p>
+        <p>Une humeur pleine d'équité,</p>
+        <p>Qui me fait abandonner celle</p>
+        <p>Qu'il m'avoit arresté,</p>
+        <p>Pour en aimer une plus belle ?</p>
+        <p/>
+        <p>[A propos des stratagèmes employés par les amants pour conquérir le coeur de leurs dames, Arélise dit :]</p>
+        <p>[...] Je ne sçais, [...] si cette langueur peut produire de bons effets pour celuy qui la souffre ; mais si j'estois Galant d'une Femme, je ne voudrois pas que le mienne allast fort loin, &amp; je n'en voudrois qu'autant qu'en demande ma Chanson. Comme elle chante merveilleusement bien, tout le monde la luy demanda, &amp; aprés qu'elle eut pris la précaution que ce seroit sans interrompre Emilie, elle chanta ces paroles.</p>
+        <p/>
+        <p>Quoy qu'en dise le nouvel Usage</p>
+        <p>Qui n'est plus que pour la belle humeur,</p>
+        <p>En Amour il faut de la langueur,</p>
+        <p>Mais je l'entends sur le Visage</p>
+        <p>Car elle sied mal dans le Coeur.</p>
+        <p/>
+        <p>Clitandre qui est le plus étourdy de tous les Marquis, l'interrompit de deux ou trois éclats de rire. Eh ! Madame, dit-il, de quoy nous regalez-vous ! Fy, Dieu me damne, laissez cette Chanson pour les Comediens Italiens, c'est celle qu'ils chantent à leur Comédie du Vin Emetique. Vrayment, dit Melite, il me semble que cela est vray. Vrayment, répliqua Arelise, il n'y en a que l'air ; car si vous l'avez [bien] écoutée [...], vous verrez que le Vin Emetique n'a point de part à cette Chanson. Emilie pria de continuer des Couplets qu'elle fit ainsi.</p>
+        <p/>
+        <p>Je sçais bien que cette Loy déroge</p>
+        <p>Aux maximes des nouveaux Galans</p>
+        <p>Mais un soûpir poussé bien à temps,</p>
+        <p>Peut faire avancer une Horloge</p>
+        <p>Qui ne sonneroit de long-temps.</p>
+        <p/>
+        <p>Bien souvent les plus fiers regardent</p>
+        <p>Les pleurs qu'un Amant verse à propos,</p>
+        <p>Mais pour n'en avoir pas dans le dos</p>
+        <p>Pendant que ses yeux les hazardent</p>
+        <p>Son coeur doit jouir du repos.</p>
+        <p/>
+        <p>Qu'il dise que pressé de martyre</p>
+        <p>Il se va tuer, que c'en est fait ;</p>
+        <p>Quoyque son discours soit sans effet</p>
+        <p>Il est fort sage de le dire,</p>
+        <p>Mais il est un sot s'il le fait.</p>
+        <p>[...]</p>
+      </div>
+</body>
+  </text>
+</TEI>

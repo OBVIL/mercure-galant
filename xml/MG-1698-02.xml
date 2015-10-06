@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, février 1698</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1698-02/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>février 1698</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1698-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1698-02_016">
+        <head>MG-1698-02_016</head>
+        <bibl>Mercure galant, février 1698, p. 16-26</bibl>
+        <p>Voicy une suite des réjoüissances qui ont esté faites dans quelques Villes pour la publication de la Paix. Celle de Poitiers, qui ne le cede à aucune autre dans toutes les choses qui regardent la gloire de son Souverain, choisit le premier jour de Decembre pour celebrer une Feste qui marquast sa joye. Cette feste commença le matin par le Te Deum dans l'Eglise Cathedrale, avec les ceremonies ordinaires. [...] Le soir, Mr l'Intendant s'estant rendu à l'Hôtel de Ville, où Mrs le Maire &amp; les Echevins l'attendoient, ils allerent en ceremonie à la Place Royale, où toute la Bourgeoisie estoit sous les armes, divisée en douze Compagnies, leurs Officiers à leur teste, &amp; distinguées chacune par leurs Drapeaux, &amp; où l'on avoit abandonné au peuple huit bariques de vin. Ils partirent de l'Hôtel de Ville en cet ordre. Leur marche estoit précedée des Trompettes &amp; Timbales, Hautbois &amp; Clairons, &amp; d'une Compagnie, qu'on peut nommer les Gardes de Mr le Maire, &amp; qui l'acompagne toujours dans les Ceremonies extraordinaires. [...] Estant arrivez au lieu où estoit préparé un grand bucher, ils firent trois tours alentour, au son des Trompettes, des Hautbois &amp; des Tambours, aprés quoy Mr l'Intendant, Mr le Maire &amp; les deux premiers Echevins allumerent le feu avec des flambeaux de cire blanche. L'air retentit des acclamations du peuple, qui y estoit en grande affluence, &amp; des cris redoublez de Vive le Roy, qui furent suivis du bruit de la mousqueterie, &amp; d'une triple décharge du Canon. Les Cloches de toutes les Eglises mesloient leur carillon à ce bruit. Cela estant fait, la Compagnie retourna dans le même ordre à l'Hôtel de Ville, où il y eut des Illuminations &amp; un grand Soupé. Tous les Habitans, dont les coeurs sont pleins d'amour &amp; de zele pour le Roy, marquerent chacun en particulier leur joye, mais de leur propre mouvement &amp; sans ordre, en faisant des Illumination à leurs fenestres, &amp; allumant des feux devant leurs portes, ce qui fut continué à l'envi dans toutes les ruës &amp; tous les Carrefours de la Ville jusqu'à minuit. Au milieu de toutes ces acclamations, vingt-cinq ou trente Marchands des plus zelez se distinguerent, &amp; firent d'une maniere particuliere éclater leur joye. Ils choisirent le Logis de Mrs Babaud Freres, comme le plus beau, &amp; le plus propre pour leur feste, faisant le coin d'une ruë, &amp; estant de pierre de taille à deuz faces &amp; à quatre étages. [...] Leur Boutique, qui est grande, &amp; qui a deux ouvertures, fut le lieu où ils voulurent souper publiquement. Elle estoit tapissée, &amp; décorée de divers Tableaux &amp; Devises dans des Cartouches, &amp; de festons de Lauriers, &amp; éclairée de trois Lustres. Pendant le Soupé, où la santé du Roy fut beuë avec ceremonie, les Hautbois &amp; les Trompettes joüerent tour à tour. Estant sortis de table, ils allerent mettre le feu au bucher préparé dans le Carrefour, au son de leurs Hautbois &amp; de leurs Trompettes, &amp; au bruit de quelque mousqueterie. De là ils se rendirent dans une Salle voisine, préparée pour un Bal, qu'ils donnerent à toutes les Dames du quartier, &amp; à toutes celles des autres endroits de la Ville, qui voulurent s'y trouver. Pendant tous ces divertissemens &amp; toutes ces marques de joye, qui couloient de source, les cloches de l'Eglise de la Paroisse, qui est tout proche du lieu où se faisoit cette feste, ne cesserent point de carilloner.</p>
+        <p>Quelques jours aprés, la Compagnie des Arquebusiers, ou Chevaliers de l'Oiseau, donnerent aussi des marques de leur zele. Ils firent chanter le Te Deum le matin dans l'Eglise des Peres Jacobins, &amp; le soir, tous lestement &amp; proprement habillez, ils se rendirent en fort bon ordre à la Place, où ils allumerent un grand bucher qu'ils y avoient fait préparer. Outre tous les Tambours de la Ville, ils avoient à leur teste les Hautbois &amp; les Trompettes. Aprés plusieurs décharges de leur mousqueterie, ils allerent dans le même ordre en differens endroits de la Ville, &amp; ensuite souper ensemble. La santé du Roy ne fut pas oubliée dans ce repas.</p>
+      </div>
+
+<div xml:id="MG-1698-02_026">
+        <head>MG-1698-02_026</head>
+        <bibl>Mercure galant, février 1698, p. 26-44</bibl>
+        <p>Les Magistrats de la Ville de Luzy n'épargnerent rien dans la même occasion pour marquer leur zele. Ils apprirent le 27. Septembre que le 20. du même mois la Paix avoit esté signée par les Plenipotentiaires de France, d'Espagne, d'Angleterre &amp; de Hollande, &amp; aussi-tost ils firent travailler aux feux de joye, dont le dessein fut donné par Mr Nault, Maire perpetuel, qui n'épargna ny ses soins, ny la dépense pour les faire réüssir. [...] Le Dimanche 22. de Décembre, sur les cinq heures du soir, les Habitans s'estant mis en armes par le commandement des Magistrats, proprement vestus, allerent en bon ordre devant la maison de Mr Nault, Maire, en laquelle Mrs Coujard, Fontaine, de Bau, du Pain, Echevins, Mr Reignault, Procureur du Roy, &amp; Mr Repoux, Secretaire, s'estoient un peu auparavant rendus en robes. On fit une décharge de mousqueterie, &amp; de quelques petites pieces de Canon avec des cris de Vive le Roy, dont toute la Ville retentit On n'entendit que Tambours, Fifres &amp; Hautbois, &amp; la joye paroissoit si universellement sur le visage de tout le monde, qu'il estoit aisé de juger de la satisfaction que l'on avoit de la Paix. Les Magistrats sortirent de la maison de Mr le Maire, précedez par les Huissiezs, &amp; s'estant arrestez sur le perron, il parla à toute l'Assemblée avec beaucoup d'éloquence &amp; de vigueur. [...] On fit une seconde décharge de mousqueterie &amp; de Canons, &amp; la Soldatesque s'estant mise en marche en tres-bon ordre, les Magistrats furent conduits dans l'Eglise de Saint Pierre, où l'on chanta le Te Deum en Musique, &amp; Mr Vaudrot, Docteur de Theologie &amp; Archiprestre, donna la benediction du Saint Sacrement, aprés un discours sur les loüanges du Roy. Les Magistrats allerent ensuite sur le Canal, où aprés s'estre placez sur une hauteur, on vit un combat naval. L'on y jetta de part &amp; d'autre quantité de Grenades, de lances à feu, &amp; d'autres feux d'artifices, dont le spectacle charmoit d'autant plus, que la nuit le rendoit plus éclatant. [...] La mousqueterie &amp; le Canon firent leurs décharges, &amp; on n'entendoit que Tambours, Fifres, Hautbois &amp; Violons, dont l'agreable bruit se mêloit aux acclamations du peuple. [...] [Ensuite] le Maire donna un magnifique repas aux autres-Magistrats, &amp; à quantité de Gentilshommes du voisinage, qui estoient venus prendre part à la réjoüissance publique. A ce repas succeda le Bal, qui dura jusques à quatre heures du matin, &amp; qui finit par une danse de douze Bergers, qui tous avec des bouquets champestres, tels que la saison pouvoit les fournir, les mettoient au pied de l'Effigie du Roy, qui estoit en grand dans la Salle où l'on dansa. Ils attacherent à la tapisserie chacun un grand rouleau, sur le premier desquels il y avoit en lettres d'or, Diligam te, Domine, fortitudo mea ; sur le second, Exurgant, &amp; dissipetur inimici ejus ; sur un autre, Quam magnificum est nomen tuum in universa terra. Un autre portoit ces mots, Omnia mirabilia tua narrabo ; le cinquiéme, Exaltabo in salute tua ; dans le suivant, Custodi eum, Deus, à generatione ista in sempiternum ; sur un autre, Sub umbra alarum tuarum protgenos ; sur un autre, Instruit me ad bellum virtute heroica. Le suivant contenoit ces mots, Posuisti eum Regem, ut omni bonorum genere affluamus. Sur le dixiéme on lisoit ces paroles, Cuncta viae Regis benignitas sunt &amp; veritas ; sur les deux derniers, Et ego ponam primogenitum meum excelsum prae Regibus terrae, &amp; Dilexisti justitiam, propterea unxit te Deux oleo laetitiae suae. On trouva ces versets tirez des Pseaumes de la version des Septante , bien appliquez ; &amp; aprés que les Bergers eurent achevé un Balet, on servit six grands plats de Confitures, de toutes sortes de fruits, de citrons, d'oranges, &amp; plusieurs bouteilles de liqueurs.</p>
+      </div>
+
+<div xml:id="MG-1698-02_044">
+        <head>MG-1698-02_044</head>
+        <bibl>Mercure galant, février 1698, p. 44-45</bibl>
+        <p>Les marques de joye que l'on a données à Castres, ont eu quelque chose de bien singulier. Pendant quatre Dimanches consecutifs on a allumé un feu public, qui a esté accompagné d'un feu d'artifice ; les Habitants en armes ont suivi les Consuls, qui estoient en habits de ceremonie. Des fontaines de vin ont coulé en plusieurs endroits, tandis que des feux estoient allumez devant les portes de la pluspart des maisons ; &amp; dans toutes ces quatre semaines, il ne s'est passé aucun jour sans qu'il y ait eu Bal, &amp; d'autres sortes de réjoüissances qui ont marqué combien cette Ville a esté sensible aux avantages qu'elle espere de la Paix.</p>
+      </div>
+
+<div xml:id="MG-1698-02_045">
+        <head>MG-1698-02_045</head>
+        <bibl>Mercure galant, février 1698, p. 45-59</bibl>
+        <p>La Réole en Guienne, sur la Garonne, s'est aussi fort distinguée. Toute la Ville se mit sous les armes ; &amp; aprés qu'on eut allumé un grand feu de joye dans la Place publique, il y eut profusion du meilleur vin, &amp; tout cela par l'ordre &amp; par les soins de Mr de la Veissiere, Maire, qui traita tout le Corps de Ville, ce qui fut suivi d'un Bal pour les Dames.</p>
+        <p>Le Pere Dom Gabriel le Comte, Prieur des Benedictins de la même Ville, voulant donner des marques particulieres de sa joye, choisit pour cela le jour de la Feste de S. Maur, Patron de sa Congregation. Aprés les Vespres, le Pere Dom Saint-Germain, Predicateur de réputation dans ces Provinces, qui a travaillé à l'instruction des Religionnaires sous les ordres de Mr le Cardinal de Bonzy, monta en Chaire, &amp; prit pour son texte, Fac secundum exemplar quod monstratum est tibi in monte. Copiez l'original qui vous a esté montré sur la montagne [...] aprés quoy les Religieux de ce Convent chanterent le Te Deum.</p>
+      </div>
+
+<div xml:id="MG-1698-02_149">
+        <head>MG-1698-02_149</head>
+        <bibl>Mercure galant, février 1698, p. 149-203</bibl>
+        <p>Le Mercredy 22. du mois passé, la Paix fut publiée à Sens entre la France, l'Empereur &amp; l'Empire, &amp; à cette occasion, il y eut une Assemblée extraordinaire au Palais, où Mr Farinade, Avocat du Roy au Presidial, prononça le Discours suivant, en presence de Mr Vezou, President Lieutenant General, de tous les Conseillers &amp; Magistrats de ce même Siege, du Maire, des Eschevins, des Officiers des quartiers &amp; de tous les Ordres de la Ville. [...]</p>
+        <p>Le Dimanche suivant 26., le Te Deum fut chanté dans l'Eglise Cathedrale, en presence de tous les corps Ecclesiastiques &amp; Seculiers, aprés quoy on alluma un grand feu de joye dans la grande Place, où les Habitans estoient sous les armes. Cela fut fait aux cris redoublez de Vive le Roy, &amp; au bruit des décharges de la Mousqueterie, du Canon, des Tambours, Trompettes, &amp; autres Instrumens. Le soir, il y eut un feu d'artifice dans la même Place, avec de riches representations &amp; Devises à la gloire de Sa Majesté, &amp; quantité d'Illuminations, ce qui fut suivi d'un grand regale à l'Hôtel de Ville, d'un Bal general, &amp; d'une magnifique Collation pour les Dames, aux dépens des Officiers des quartiers.</p>
+        <p>Le même jour vingt-deuxiéme, Mr Caillet, Conseiller au Parlement en la Cinquiéme des Enquestes, Envoyé Extraordinaire en Pologne du Roy de la Grand'Bretagne en 1689. fit chanter le Te Deum pour la Paix Generale, dans l'Eglise de sa Terre de Theil prés de Sens, &amp; autres dépendantes de sa Chastellenie. Ensuite il alluma un grand feu de joye qu'il avoit fait préparer devant son Chasteau, où plus de quatre cens hommes estoient sous les armes en tres-bon ordre. Ils firent de grandes décharges de Mousqueterie, &amp; on leur abandonna plusieurs pieces de vin. Il y eut table ouverte dans les appartemens du Chasteau pour plusieurs Gentilshommes, &amp; autres personnes distinguées, qui furent traitées magnifiquement pendant deux jours.</p>
+      </div>
+
+<div xml:id="MG-1698-02_219">
+        <head>MG-1698-02_219</head>
+        <bibl>Mercure galant, février 1698, p. 219-227</bibl>
+        <p>Les mêmes réjoüissances se firent à Blois le 26. du mois passé, &amp; rien ne fut oublié dans tous les quartiers de cette Ville pour marquer le zele dont les Bourgeois estoient animez. [...] Mr Scion, nouveau Converti, [...] fit un Discours des plus touchans sur les avantages de la Paix. [...] Ce Discours finy, Mr Scion fit défoncer un tonneau de vin dans sa Cour, afin que tous ceux de sa Compagnie bussent à la santé du Roy, tandis qu'il donna dans son logis la Colation aux Officiers. Ensuite il marcha en bon ordre au Chasteau de Bury, où il fit faire deux décharges, puis au Te Deum qui fut chanté solemnellement au bruit de plusieurs autres décharges, &amp; enfin au feu de joye, précedé de la Croix &amp; du Clergé, qui estoit nombreux. La feste se termina par un grand repas, que le Capitaine donna le soir, avec une Illumination qui dura toute la nuit, au bruit des Tambours &amp; des Fifres, mais la bonne chere ne finit pas. Elle dura encore huit jours, tous les Officiers se piquant de regaler chacun à son tour.</p>
+      </div>
+</body>
+  </text>
+</TEI>

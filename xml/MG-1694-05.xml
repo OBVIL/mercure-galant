@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, mai 1694</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+          </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1694-05/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, <date>mai 1694</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div xml:id="MG-1694-05_041">
+        <head>MG-1694-05_041</head>
+        <bibl>Mercure galant, mai 1694, p. 41-46</bibl>
+        <p>Premiere Messe dite à Strasbourg par Mr l'Abbé d'Auvergne, avec plusieurs particularitez tres-curieuses.</p>
+        <p/>
+        <p>Si la devotion porte toujours les vrais Fidelles à se trouver aux Ceremonies ordinaires de la Religion Catholique, la curiosité y attire assez souvent ceux mesmes qui en professent une contraire, quand la nouveauté les accompagne. C'est ce qui est arrivé depuis peu dans la celebration de la premiere Messe de Mr l'Abbé d'Auvergne, dont vous allez lire le détail. Je l'ay tiré d'une Lettre écrite par un Bourgeois de Strasbourg, à un de ses Amis de Paris. Il la finit par ces termes.</p>
+        <p>Je profite du reste de mon papier, pour vous apprendre un nouvelle. Le 25. de Mars, jour de l'Annonciation de la Vierge, Mr le Prince Henry d'Auvergne, Chanoine Capitulaire de la Cathedrale de cette Ville, celebra sa premiere Messe avec un grand éclat. Messieurs de l'Estat Major, &amp; du Magistrat y assisterent, aussi-bien que tout ce qu'il y avoit de plus distingué dans la Ville &amp; dans la Garnison. L'on ne se souvient pas d'avoir jamais vû un concours si prodigieux, bien des gens y estant venus de dehors, &amp; beaucoup de Lutheriens s'estant joints aux Catholiques pour voir une Ceremonie qui n'avoit point esté pratiquée depuis fort longtemps ; car j'ay oüy dire qu'il y avoit plus de deux cens ans que la Messe n'avoit esté dite par aucun de Mrs les Grands Chanoines de la Cathedrale, &amp; Mr le Prince Henry est encore le seul Prestre aujourd'huy dans le Chapitre. Il passe pour estre fort regulier dans sa conduite, &amp; fort liberal envers toute sorte de Pauvres. A la fin de sa Messe, qui fut chantée par une tres belle Musique, accompagnée de symphonie, Madame la Princesse de Feldens, Palatine nouvellement convertie, &amp; Madame la Marquise de Chamilly, Gouvernante de la Place, communierent, ainsi que beaucoup d'autres Personnes de consideration de l'un &amp; de l'autre Sexe, sans compter tous les Seminaristes. Ce Prince officia avec la mesme modestie le reste du jour, la Semaine sainte, &amp; les Festes. Il a sous sa conduite le Prince Frederic son Frere, qui n'a pas plus de douze ans, &amp; qui promet beaucoup. Ce jeune Prince ayant esté élû Chanoine Domiciliaire de la mesme Eglise Cathedrale de Strasbourg le 25 de Février, fut mis en possession de son Canonicat par Mr le Grand Doyen, en presence des principaux Officiers de la Ville. Je suis, Monsieur, vostre, &amp;c. A Strasbourg le 25. Avril 1694.</p>
+      </div>
+
+<div xml:id="MG-1694-05_140">
+        <head>MG-1694-05_140</head>
+        <bibl>Mercure galant, mai 1694, p. 140-141</bibl>
+        <p>Discours fait à la loüange du Roy, à l'ouverture des jeux Floraux.</p>
+        <p/>
+        <p>Mr le President de Resseguier, l'un des sept Mainteneurs des Jeux Floraux de Toulouse, estant mort, Mr Resseguier le Conseiller en fit l'ouverture par un beau Discours à la loüange du Roy, le 15. d'Avril dernier ; &amp; le premier de ce mois on donna les trois Fleurs à Mrs Crozat, Gourdou, &amp; Colomiez, pour leurs Chants Royaux &amp; leurs Sonnets.</p>
+      </div>
+
+<div xml:id="MG-1694-05_225">
+        <head>MG-1694-05_225</head>
+        <bibl>Mercure galant, mai 1694, p. 225-227</bibl>
+        <p>Détail de tout ce qui s'est passé touchant l'Evesque de Liege, ce qui a suivi cette élection, &amp; ce qui regarde l'Ordre Teutonique.</p>
+        <p/>
+        <p>Voilà la teneur du Bref d'éligibilité que le Pape Innocent XI. donna au Prince Clement de Baviere le 19. Juin 1688. &amp; c'est ce Bref, où il est aussi parlé de l'Evesché de Liege, que le Grand Doyen Mean, &amp; ceux de son party ne trouvent pas bon. Vous en pouvez voir les causes dans le grand nombre de Dispenses qui y sont marquées, &amp; toutes de la plus grande importance, qui sont accordées au Prince qu'Innocent XI. vouloit rendre éligible. Le Party contraire au Prince Clement s'estant donc opposé à son élection, sortit en protestant contre ce que la partie restante du Chapitre alloit faire en vertu de ce Bref que le Grand Doyen trouvoit defectueux.</p>
+        <p>Mr Mean ayant quitté l'Assemblée avec ceux de son party, les vingt-quatre Chanoines qui demeurerent élurent le Prince Clement de Baviere pour Prince de Liege ; aprés quoy on alla chanter le Te Deum à l'Eglise, &amp; mettre ce nouvel Evesque en possession. On le mena de là dîner au Palais, où tout estoit préparé, &amp; où il fut salüé Prince &amp; Evesque de Liege, par les Corps de Ville, &amp; mesme par Mr Dikwelt, Envoyé des Hollandois. Le Canon tira, &amp; il y eut de grandes réjoüissances.</p>
+      </div>
+</body>
+  </text>
+</TEI>
