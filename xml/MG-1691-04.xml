@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1691-04_040">
+      <div type="article" xml:id="MG-1691-04_040" resp="mercure">
         <head>MG-1691-04_040</head>
         <bibl>Mercure galant, avril 1691, p. 40-57</bibl>
         <p>Feste universelle à l'honneur de Louis le Grand en maniere de petit Opera.</p>
@@ -386,22 +386,19 @@
         <p>Nos lauriers produiront les Mirthes de la paix,</p>
         <p>Pour ne secher jamais.</p>
       </div>
-
-<div xml:id="MG-1691-04_148">
+      <div type="article" xml:id="MG-1691-04_148" resp="mercure">
         <head>MG-1691-04_148</head>
         <bibl>Mercure galant, avril 1691, p. 148-149</bibl>
         <p>Tenebres.</p>
         <p/>
         <p>A l'égard de l'Office de la Semaine Sainte, que l'on appelle Tenebres, la vois de Madame Cheret a esté admirée à l'Assomption, comme dans les années précédentes. Aussi peut-on dire que cette voix y attire seule autant de monde que pourroient faire des Tenebres toutes en Musique. Celle de Mr Charpentier a paru admirable, &amp; a fait augmenter de plus en plus les Assemblées qui se sont trouvées dans l'Eglise du College de Loüis le Grand, pour entendre les Tenebres qu'on y a chantées les trois jours accoutumez. Cette Musique a fait d'autant plus d'impression, qu'elle exprimoit parfaitement le sujet des paroles qu'on chantoit, &amp; qu'elle en faisoit comprendre la force.</p>
       </div>
-
-<div xml:id="MG-1691-04_159">
+      <div type="article" xml:id="MG-1691-04_159" resp="mercure">
         <head>MG-1691-04_159</head>
         <bibl>Mercure galant, avril 1691, p. 159-162</bibl>
         <p>Le 29, du mois passé, les Commissaires-Contrôleurs-Mouleur de bois, &amp; autres Officiers sur le bois, voulant témoigner le zele qu'ils ont pou le Roy, firent chanter une Messe solemnelle, pour la conservation de sa personne sacrée &amp; pour la prospérité de ses armes, dans l'Eglise du Saint Esprit, à l'imitation de Mrs les Prevost des Marchands &amp; Echevins de Paris, qui s'estoient acquittez de devoir dans la mesme Eglise ; &amp; le Mardy 3, de ce mois, les Marchands Maistres Ouvriers en draps d'or, d'argent &amp; de foye d'établissement Royal, firent faire la mesme solemnité dans l'Eglise des Peres Benedictins de la Congregation de S. Maur, dits Blan-Manteaux, où ils ont depuis longtemps étably leur Confrairie. La Messe fut précédée de l'hymne Veni Creator, &amp; suivie du Pseaume Exaudiat, qui furent chantez alternativement par les Religieux &amp; par l'Orgue. Tous leurs Officiers en charge y assisterent en corps, &amp; donnerent tous dans cette occasion des marques de leur piété. Le luminaire &amp; les Ornemens estoient les blus beaux que ces religieux ayent coutume d'employer dans les Festes les plus solemnelles ; &amp; non seulement ils joignirent leurs Sacrifices aux prieres de cette Compagnie, dont ils voulurent seconder le zele, mais ils ont celebré plusieurs Messes en leur particulier, pour demander à Dieu ses graces &amp; sa protection pour le Roy, tant qu'a duré le Siege de Mons.</p>
       </div>
-
-<div xml:id="MG-1691-04_204">
+      <div type="article" xml:id="MG-1691-04_204" resp="mercure">
         <head>MG-1691-04_204</head>
         <bibl>Mercure galant, avril 1691, p. 204-207</bibl>
         <p>Divers ouvrages sur la Prise de Mons.</p>
@@ -457,20 +454,18 @@
         <p>Et déjà de jeunes Alcides</p>
         <p>S'empressent de les suivre, &amp; de le partager.</p>
       </div>
-
-<div xml:id="MG-1691-04_335">
+      <div type="article" xml:id="MG-1691-04_335" resp="mercure">
         <head>MG-1691-04_335</head>
         <bibl>Mercure galant, avril 1691, p. 335-336</bibl>
         <p>Suite du Journal du Siège de Mons.</p>
         <p/>
         <p>[...] Le 11, le Roy fit le tour des remparts [de Mons], où il se trouva un nombre considerable de Canons [...]. Les Religieuses de l'Abbaye où le Roy a logé, ayant demandé avec de grandes instances à voir Sa Majesté, on les fit venir du lieu ou elles estoient retirées. Elles chanterent aussi tost le Te Deum, &amp; le Domine salvum fac regem, &amp; sa Majesté leur fit de grandes liberalitez. [...]</p>
       </div>
-
-<div xml:id="MG-1691-04_339">
+      <div type="article" xml:id="MG-1691-04_339" resp="mercure">
         <head>MG-1691-04_339</head>
         <bibl>Mercure galant, avril 1691, p. 339-344</bibl>
         <p>Le Roy ayant donné ses ordres à l'égard de Mons &amp; de ses Troupes, partit du Camp le 12, de ce mois, &amp; ayant couché ce jour-là au Quesnoy, &amp; le lendemain à S Quentin, il arriva le 14. à Compiegne, où il séjourna le jour de Pasques. Sa Majesté, pour solemniser cette grande Feste, quoy qu'Elle de reservast à faire ses devotions le Dimanche suivant à Versailles, alla le matin entendre la grande Messe à la Paroisse de Saint Jacques, qui est celle du Chasteau. [...] L'aprésdînée, Sa Majesté qui avoit fait avertir les Religieux Benedictins de l'Abbaye de S. Corneil, de la Congregation de S. Maur, qui est l'Eglise principale de la Ville, qu'Elle iroit y  entendre Vespres s'y rendit sur les deux heures, accompagnée, comme le matin, de toute la Cour. Le P. Prieur, revestu d'une Chape, avec les Chantres &amp; les autres Officiers, l'alla recevoir à la teste de sa Communauté, à la porte de l'Eglise, où il lui presenta une Croix pretieuse de l'Empereur Charlemagne, dans laquelle il y a une partie tres-considerable de la vraye Croix. Le Roy s'estant mis à genoux la baisa avec sa devotion ordinaire ; après quoy ayant esté conduit à la place qu'on luy avoit préparée dans le Choeur, il entendit les Vespres, qui furent chantées solemnellement, &amp; à la fin desquelles on vint encenser Sa Majesté. Pendant tout le temps qu'elles durerent, Elle donna des marques de sa solide pieté, &amp; de la veneration qui est deuë à ce saint jour, en se iognant [sic] avec  les Religieux pour chanter à haute voix les louanges de Dieu, aussi-bien que Monseigneur le Dauphin, &amp; plusieurs Seigneurs de la Cour. [...] [Sa Majesté] partit le 16. de Compiegne, &amp; arriva le lendemain à Versailles, d'où Elle estoit partie le 17. de Mars ; [...]. On a déjà chanté deux fois le Te Deum à Paris, quoy que le temps où la Campagne s'ouvre ordinairement, ne soit pas encore arrivé. La prise de cinq Places en Italie meritoit bien qu'on rendist à Dieu des graces particulieres, &amp; la conqueste de la plus forte Place des Pays-bas, ne le meritoit pas moins. Les réjouissances ont esté icy extraordinaires, plus par l'amour que les Peuples ont pour le Roy, qu'à cause de l'importance de ses conquestes. Le Feu d'artifice que la Ville a fait pour la prise de Mons a esté d'autant plus considerable, que suivant ses statuts, la dépense augmente pour tout ce qui se fait lors que les Rois prennent eux-mesmes des Places, ou gagnent des Batailles, &amp; tous les Officiers de Ville qui ont des droits pour ces sortes de réjouissances, reçoivent le double.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

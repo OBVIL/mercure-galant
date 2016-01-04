@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1693-10a_025">
+      <div type="article" xml:id="MG-1693-10a_025" resp="mercure">
         <head>MG-1693-10a_025</head>
         <bibl>Mercure galant, octobre 1693, p. 25-38</bibl>
         <p>Ceremonies faites à Montargis.</p>
@@ -59,16 +59,14 @@
         <p>Après la fameuse Bataille de Cassel, son Altesse Royale, Monsieur, fit bastir une Eglise au College des Barnabites de Montargis, Ville de son appanage, en action de graces de la Victoire qu'il avoit remportée. La premiere Pierre y avoit esté mise au nom de ce Prince, &amp; l'Edifice estant achevé, on en fit la Benediction le 24. du mois d'Aoust dernier, &amp; le lendemain, Feste de St Loüis, sous l'Invocation duquel cette Eglise est consacrée à Dieu, l'ouverture en fut faite avec beaucoup de magnificence. La Ceremonie commença par une Prossession du S. Sacrement, depuis l'ancienne Eglise du College jusqu'à la nouvelle, où l'on celebra ensuite solemnellement la premiere Messe en Musique. Les Vespres furent aussi chantées par la Musique, &amp; le Clergé, le Presidial, la Prevosté, &amp; l'Election y assiterent en Corps. Les Habitans se mirent sous les Armes, &amp; le Maire, les Echevins, &amp; les Capitaines des Quartiers qui s'y rendirent aussi avec leurs Compagnies, y tinrent leur rang de l'un &amp; de l'autre costé du Dais, sous lequel on avoit mis le Portrait de son Altesse Royale. Aprés Vespres le Pere Dom Eustache Bonnet, Barnabite, fit le Panegyrique de Saint Loüis, [...]</p>
         <p>Ce Discours estant achevé, on chanta le Te Deum ; il se fit plusieurs salves de Mousqueterie, &amp; les Feux de joye qu'on alluma dans la Ville terminerent toute cette Feste.</p>
       </div>
-
-<div xml:id="MG-1693-10a_038">
+      <div type="article" xml:id="MG-1693-10a_038" resp="mercure">
         <head>MG-1693-10a_038</head>
         <bibl>Mercure galant, octobre 1693, p. 38-43</bibl>
         <p>Autre ceremonie faite à Paris.</p>
         <p/>
         <p>Le 7. du mois passé Mr Bignon, Premier President au grand Conseil, aussi connu par son équité &amp; sa pieté, que pour sa capacité, &amp; la connoissance universelle qu'il a des belles Lettres, fut éleu tout d'une voix Doyen de la grande confrairie de Nostre Dame aux Seigneurs, Pretres &amp; Bourgeois de Paris, en la place de feu Mr de Novion, cy-devant Premier President au Parlement de Paris. La Messe du St Esprit fut celebrée pontificalement par Mr l'Evesque de Bethleem à laquelle assisterent les Chanoines de l'Eglise de Paris, avec les Curez de cette Ville, &amp; plusieurs Magistrats &amp; Confreres Laïques. [...] Aprés le Serment presté [par M. Bigon], on chanta le Te Deum, qui fut suivi des Prieres pour le Roy &amp; pour la Paix. Ensuite on conduisit Mr Bignon au Bureau, où il fut installé en sa place de Doyen.</p>
       </div>
-
-<div xml:id="MG-1693-10a_055">
+      <div type="article" xml:id="MG-1693-10a_055" resp="mercure">
         <head>MG-1693-10a_055</head>
         <bibl>Mercure galant, octobre 1693, p. 55-67</bibl>
         <p>Eglogue.</p>
@@ -302,8 +300,7 @@
         <p>Allons tous contre luy nous servir de remede</p>
         <p>Que nos champs &amp; nos Bois nous offrent tour à tour.</p>
       </div>
-
-<div xml:id="MG-1693-10a_266">
+      <div type="article" xml:id="MG-1693-10a_266" resp="mercure">
         <head>MG-1693-10a_266</head>
         <bibl>Mercure galant, octobre 1693, p. 266-269</bibl>
         <p>Suite du siege de Charleroi.</p>
@@ -312,8 +309,7 @@
         <p/>
         <p>Mon Cousin. J'ay crû ne pouvoir finir la Campagne en Flandre plus utilement, que par la prise de Charleroy, qui acheve de fermer aux Ennemis l'entrée des Pays que j'ay conquis sur eux. Mon Cousin le Maréchal Duc de Luxembourg en a fait faire le Siege par mes ordres, la Place a esté investie le neuviéme du mois passé, &amp; s'est renduë l'onziéme de ce mois après vingt-six jours de Tranchée ouverte. Une si longue resistance est moins deuë à la valeur des Assiegez, qu'au soin que j'ay pris de diminuer à mes Troupes le peril &amp; la fatigue de ce Siege, dans la certitude où j'estois que les Ennemis battus à Sainte-Croix ou Neewinde, estoient hors d'estat d'entreprendre de secourir cette Place, &amp; qu'aux Fortifications qui y avoient esté faites par mes ordres, &amp; qui l'avoient renduë imprenable â tous autres qu'à des François. Aprés cette Conqueste je ne dois pas manquer de rendre graces à celuy qui envoye la Victoire où il luy plaist, &amp; qui a bien voulu jusques à présent l'attacher à la suite de mes Armes. C'est pourquoy je desire que vous fassiez chanter le Te Deum dans l'Eglise Cathedrale de ma bonne Ville de Paris, au jour &amp; à l'heure que le Grand Maistre ou le Maistre des Ceremonies vous dira de ma part, &amp; je donne ordre à mes Cours d'y assister en la maniere accoutumée. Sur ce, je prie Dieu qu'il vous ait, mon Cousin, en sa sainte &amp; digne garde. Ecrit à Fontainebleau le seiziéme Octobre mil six cens quatre-vingt-treize.</p>
       </div>
-
-<div xml:id="MG-1693-10a_283">
+      <div type="article" xml:id="MG-1693-10a_283" resp="mercure">
         <head>MG-1693-10a_283</head>
         <bibl>Mercure galant, octobre 1693, p. 283</bibl>
         <p>J'ajouste des Vers propres à estre mis en air, qui ont esté faits sur le [Siège de Charleroi].</p>
@@ -327,6 +323,6 @@
         <p>Laissons luy prendre Charleroy,</p>
         <p>Tandis que nous prendrons à boire.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

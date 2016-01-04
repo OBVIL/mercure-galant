@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1692-09_119">
+      <div type="article" xml:id="MG-1692-09_119" resp="mercure">
         <head>MG-1692-09_119</head>
         <bibl>Mercure galant, septembre 1692, p. 119-133</bibl>
         <p>Réjouissances faites à Dijon.</p>
@@ -111,6 +111,6 @@
         <p>Si Bacchus n'est de la partie.</p>
         <p>En effet, tandis que le concert &amp; les feux d'artifices occupoient ceux qui estoient invitez, &amp; qui avoient accouru à cette Feste, les vin animoit les uns &amp; les autres, &amp; fournissoit à la Garnison de quoy prendre part au plaisir. Mr de Fontenay fit largesse du meilleur de sa cave aux Soldats qui saluérent la santé du Roy &amp; de leurs Altesses Serenissimes, &amp; répondirent assez bien de leur part, à tout ce qu'on fit d'ailleurs pour remplir cette Feste, à laquelle succedérent le repos &amp; le sommeil.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

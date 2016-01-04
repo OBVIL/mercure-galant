@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1693-11_255">
+      <div type="article" xml:id="MG-1693-11_255" resp="mercure">
         <head>MG-1693-11_255</head>
         <bibl>Mercure galant, novembre 1693, p. 255-261</bibl>
         <p>Etat des Regimens de Carabiniers.</p>
@@ -59,6 +59,6 @@
         <p>Vous ne serez pas fachée d'apprendre ce qui suit touchant les Carabiniers du Roy, dont je vous ay déjà parlé. Le Régiment est composé de cent Compagnies de Carabiniers, de trente Maistres chaune, faisant en tout trois mille Carabiniers &amp; quatre cens Officiers, y compris le Mestre de Camp en pied, les cinq Mestres de Camp sous luy les cinq Lieutenans Colonels, les cinq Majors, &amp; les cinq Aides Majors. Ils feront vingt Escadrons de cinq Compagnies chacun, dont il y en aura deux des vieux Regimens &amp; trois des nouveaux .[...]</p>
         <p>A chaque quatre Escadrons il y aura un Timbalier à la Compagnie du Mestre de Camp, habillé de la Livrée du Roy, sans or ny argent, aussi-bien que les Trompettes de toutes les Compagnies.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

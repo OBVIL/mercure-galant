@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1691-07_170">
+      <div type="article" xml:id="MG-1691-07_170" resp="mercure">
         <head>MG-1691-07_170</head>
         <bibl>Mercure galant, juillet 1691, p. 170-179</bibl>
         <p>Promenade de Leurs Altesses Royales à Arcueil.</p>
         <p/>
         <p>Il ne se fait rien de mediocre en France, &amp; sur tout lors qu'il s'agit d'avoir l'honneur de recevoir chez soy quelque Prince de la Maison Royale. Les Particuliers ont tant de zele en ces sortes d'occasions, qu'ils font des dépenses beaucoup au dessus de ce que le posste [sic] où ils sont ne semble permettre, mais ce qui est blâmé en d?autres rencontres est toûjours approuvé dans celles là. Au commencement du mois passé, Monsieur alla à Arcüeil chez Mr Gendron, Argentier de la grande Ecurie du Roy, accompagné de Madame, &amp; de Mademoiselle, que suivoit toute leur Cour. [...] A son arrivée les Cloches se firent entendre. [...] Après qu'ils se furent promenez dans tous les endroits du Logis, &amp; qu'ils en eurent visité les Appartemens, ils passerent dans une Maison voisine que Mr Gendron avoit destinée pour y faire servir la Collation. [...] Ils se promenerent ensuite dans les Jardins de cette Maison qui sont grands &amp; spacieux, &amp; revinrent dans le Salon qu'ils trouverent tres eclairé. La Table y estoit servie d'un ambigu. Elle estoit fort longue, &amp; large à proportion, &amp; il y avoit un Service particulier pour Monsieur. Ce Prince ordonna qu'on mist des couverts, ce qui fut executé. [...] Après que Monsieur, Madame &amp; Mademoiselle eurent pris leurs places, &amp; que les couverts eurent esté mis, les Dames de la suite de Monsieur se mirent à table, &amp; l'on entendit un fort beau concert de Violons. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

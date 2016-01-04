@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,25 +51,23 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1691-01_237">
+      <div type="article" xml:id="MG-1691-01_237" resp="mercure">
         <head>MG-1691-01_237</head>
         <bibl>Mercure galant, janvier 1691, p. 237-241</bibl>
         <p>L'ancienne Eglise du Village de S. Leu lez Taverny dans le Duché d'Anguien, autrefois de Montmorency, estant fort éloignée du Village &amp; par là extrémement incommode aux Habitans sur tout en Hyver, a esté demolie, &amp; on en a édifié une nouvelle au milieu de ce Village. La premiere Pierre en fut posée le 4, d'Avril de l'anne derniere par l'ordre de S. A. S.  Monsieur le Prince, qui a bien voulu contribuer au bien &amp; à l'utilité des Habitans de son Duché. Ce fut son Bailly d'Anguien qui la posa [...]. La Ceremonie se fit avec beaucoup de;solemnité, au son des Tambours &amp; des Boëtes, &amp; la libéralité ordinaire de Son altesse se répandit abondamment sur les Ouvriers par une distribution d'argent qu'il fit faire. Lors que la nouvelle Eglise fut achevée des bastir, Mr l'Archevesque de Paris en ayant permis la Dedicace, Mr l'Evesque de Bethléem en commença la Ceremonie le 6, de Novembre dernier par la préparation des Reliques pour passer sous les Autels, &amp; le lendemain elle fut continuée à sept heures du matin, &amp; suivie d'une grande Messe celebrée Pontificalement par ce Prelat. Les Pains benits de Son Altesse Serenissime y furent presentez par le bailly d'Anguien, qui avoit fait distribuer tout ce qui pouvoit être necessaire pour rendre ce jour plus solemnels. Il étoit accompagné des Gardes du Duché qui firent leur décharge au son des Trompettes &amp; des Tambours. Il y eut l'apresdinée Predication par Mr l'Abbé Chaussau, &amp; cette Feste finit par une Procession où Mr l'Evesque de Bethleem porta le Saint Sacrement. Le concours de peuples qui sont venus visiter cette Eglise de toutes-parts, tant que l'Octave a duré, est quelque chose d'extraordinaire. Pendant tout ce temps il s'est fait de nouvelles distributions d'argent par l'ordre de Monsieur le Prince, &amp; tous les Curez des Villages des environs y sont venus en Procession.</p>
       </div>
-
-<div xml:id="MG-1691-01_242">
+      <div type="article" xml:id="MG-1691-01_242" resp="mercure">
         <head>MG-1691-01_242</head>
         <bibl>Mercure galant, janvier 1691, p. 242-250</bibl>
         <p>Le Lundy, premier jour de cette année, Mrs les Chanoines de l'Eglise Royale &amp; Collegiale de S. Thomas du Louvre ayant sceu que Messire Omer de Champin, Docteur de la Faculté de Paris, de la Maison de Navarre, Doyen &amp; Chanoine de leur Eglise, étoit mort subitement sur les quatre heures du matin, s'assemblerent aprés Matines dans leur Sacristie, au son de la Cloche, &amp; en estant partis en Corps ils allerent à la chambre du défunt, où estant arrivez, ils luy rendirent les devoirs de la pieté Chrestienne envers les Morts. Ils se mirent tous à genoux, dirent un De profundis &amp; sa Collecte, luy jetterent de l'Eau benite, &amp; se retirerent. Aprés la grand'Messe ils s'assemblerent encore au son de la Cloche en leur Chapitre, pour deliberer de l'élection d'un Doyen suivant l'ancien usage [...]. Mr d'Aquin, abbé Commandataire de l'abbaye de Saint-Laurent est élu]. Le Lundy 15, de ce mois [...] Mr d'Aquin [...] s'acquitta des ceremonies accoutumées, &amp; presta le serment à genoux, entre les mains de l'ancien Chanoine, qui estoit debout, les autres asis. Ensuite ils descendirent tous à l'Eglise [...]. De là ils allerent tous en la maison Decanale luy en faire montre pour acte de possession ; aprés quoi on remonta au Chapitre où il fut placé dans la Chaire de Doyen. Il embrassa ses confreres, &amp; on fit sonner les Cloches lorsqu'il descendit. Le Greffier ayant publié l'élection suivant l'usage, le nouveau Doyen commença le Te Deum, que les Chanoines continuerent avec l'Orgue, &amp; il descendit de sa place Decanale au milieu du Choeur, pour dire à la fin l'Oraison, Pro gratiarum actione, &amp; l'on finit par l'antienne &amp; l'Oraison de S. Thomas Martyr, Archevesque de Cantorbery, Patron de cette Eglise.</p>
       </div>
-
-<div xml:id="MG-1691-01_320">
+      <div type="article" xml:id="MG-1691-01_320" resp="mercure">
         <head>MG-1691-01_320</head>
         <bibl>Mercure galant, janvier 1691, p. 320-321</bibl>
         <p>Relation de Canada.</p>
         <p/>
         <p>Le Dimanche 29, les rejoüissances furent faites à Quebec avec beaucoup d'appareil. Le grand Pavillon de l'Amiral, &amp; un autre que Mr de Porneuf avoit pris à l'Acadie, furent portez à l'Eglise au son des Tambours. Mr l'Evesque y chanta le Te Deum, &amp; l'on fit ensuite une Procession solemnelle en l'honneur de la Vierge, Patronne du Pays. Toutes les troupes estoient sous les armes. On a institué à perpetuité une Feste sous le nom de Nostre-Dame des Victoires [...]. Le Feu de joye fut allumé à l'entrée de la nuit par Mr le Gouverneur, au bruit de plusieurs decharges du Canon &amp; de la Mousqueterie [...].</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1689-06a_028">
+      <div type="article" xml:id="MG-1689-06a_028" resp="mercure">
         <head>MG-1689-06a_028</head>
         <bibl>Mercure galant, juin 1689, p. 28-38</bibl>
         <p>Lettre en prose &amp; en Vers.</p>
@@ -86,8 +86,7 @@
         <p/>
         <p>Si tost que j'eus composé ces Vers, &amp; plusieurs autres sur les mesmes mesures. Je les fis mettre en air par un de mes Amis qui sçavoit la musique, &amp; je cherchay l'occasion de les faire chanter à propos devant cette Belle. La fortune me la fit trouver. Les jeunes personnes n'aiment rien tant que ce qui les flate ; Filis fut charmée de cette chanson, &amp; voulut sçavoir le nom de l'Auteur. Le Musicien se défendit longtemps de l'en éclaircir pour allumer davantage sa curiosité ; puis il luy fit promettre qu'elle n'en témoigneroit rien, quand elle l'auroit appris ; &amp; enfin il luy dit que l'Air venoit de luy, mais que les paroles venoient de moy, ou plûtost d'elle, puis que sa beauté me les avoit inspirées. Elle ne se gendarma pas de cette declaration, comme les Dames des Romans ont accoûtumé de faire. C'estoit une petite prude de qualité, d'humeur honneste, mais un peu froide. Elle répondit seulement que je ne devois pas penser à elle quis [sic] qu'elle n'estoit pas destinée à estre à moy, &amp; en effet sa Mere la vouloit mettre en Religion, je ne discontinuay pourtant pas de l'aimer ; [...].</p>
       </div>
-
-<div xml:id="MG-1689-06a_067">
+      <div type="article" xml:id="MG-1689-06a_067" resp="mercure">
         <head>MG-1689-06a_067</head>
         <bibl>Mercure galant, juin 1689, p. 67-91</bibl>
         <p>Mort de la Reyne de Suede.</p>
@@ -95,16 +94,14 @@
         <p>[...] [La mort] de la Reyne Christine de Suede [fut] causée par une recheute aprés une dangereuse maladie. Elle avoit receu tous les Sacremens, &amp; fait paroistre une resignation à la volonté de Dieu, digne de la grandeur de courage qui l'avoit fait renoncer à l'éclat d'une couronne. Si-tost que le Pape eut appris sa mort, il ordonna que tous les saints sacrifices qui se feroient pendant quelques jours dans toutes les Eglises de Rome, seroient appliquez pour le repos de son ame. Elle a fait son Testament, par lequel elle a institué le Cardinal Azzolini son Heritier universel, à la charge d'acquiter toutes ses dettes, de faire dire vingt mille Messes, &amp; de satisfaire à la Fondation qu'elle a faite de trois Chapelles dans l'Eglise de Saint Pierre avec une Messe tous les jours. Elle a défendu qu'on luy dressast aucun Mausolée, &amp; n'a voulu qu'une simple Inscription, qui fist connoistre son nom &amp; son âge. Elle a laissé à Sa Sainteté un Christ de marbre de la main de Bernini, &amp; fait d'autres legs à l'Empereur, au Roy Tres-Chrestien, au Roy Catholique, à l'Electeur de Brandebourg, &amp; à quelques Cardinaux. Elle a aussi fait plusieurs dispositions en faveur de la Marquise Capponi, du Marquis del Monte, &amp; de la Famille de l'un &amp; de l'autre. Il y a encore divers legs pour les principaux Officiers de sa Maison, &amp; par une clause speciale, elle a exempté tous ceux qui l'ont servie de rendre aucun compte. [...]</p>
         <p>Quoy que par [son] Testament la Reyne Christine de Suede eust ordonné qu'elle seroit enterrée sans aucune pompe, le Pape n'a pas laissé de luy faire faire des Obseques proportionnées à la grandeur de son rang. Elle avoit choisi sa sepulture à la Rotonde, anciennement le Pantheon, où sont enterrez plusieurs grands hommes qui ont excelle dans les Arts, du nombre desquels est Raphaël, &amp; son Corps y fut porté dans un de ses Carrosses le 21. d'Avril, aprés avoir esté exposé dans la chambre de l'Audience depuis le 19. jour de sa mort. Ce Carrosses estoit couvert de drap violet, &amp; onze autres le suivoient drapez de noir. Tous les Estafiers marchoient devant teste nuë. Ils estoient vestus de deüil, &amp; avoient chacun un flambeau à la main. Le 23. on mit le Corps sur un lit de parade, couvert d'un drap de brocard d'or, où il demeura exposé, revestu d'un habit blanc, avec le Manteau Royal, le Sceptre à la main, &amp; la Couronne à la teste. La Messe fut chantée par la Musique de la Chapelle en presence du Sacré College, &amp; de la Maison du Pape, &amp; le soir du mesme jour, on transporta le Corps à l'Eglise de Saint Pierre. Toute la Ville de Rome accourut pour voir cette lugubre ceremonie. Les Communautez &amp; les Confrairies marchoient deux à deux, chacun un flambeau à la main, &amp; precedoient les Estafiers, &amp; les autres moindres Officiers de la Maison de cette Princesse. Ensuite venoit le Corps. Les coins du drap estoient soûtenus par les Genilshommes de la Chambre, &amp; les Prelats les suivoient en Cavalcade. Vingt Cardinaux assisterent à cette Procession, ainsi que tout le Clergé des Basiliques &amp; des Paroisses. Aprés que l'on eut fait les prieres ordinaires, on l'inhuma dans la mesme Eglise, où l'on tient que Sa Sainteté a resolu de faire dresser un Mausolée. Cette Illustre Reyne est morte dans son palais de la Longare qui estoit fort magnifique, &amp; où il y avoit de tres grands Apppartemens richement meublez &amp; ornez des plus beaux Tableaux de l'Europe. Ils étoient tous de la main des meilleurs Peintres des derniers Siecles. Outre une tres-bonne Bibliotheque, dans laquelle estoient quantitié de Manuscrits, &amp; entre autre celuy de Pyrro Ligorio, de l'Architecture, &amp; celuy de Stephanus de Urbibus, noté de la main de Lucas Holstenius, elle avoit un Cabinet remply de Medailles les plus rares, d'Agates, &amp; de pierres precieuses, avec des Statuës &amp; plusieurs autres curiositez, dont elle avoit apporté une partie de Suede. Le reste avoit estoit achepté [sic] à Rome, où elle dépensoit tous les ans prés de quatre cens mille livres qu'elle avoit de revenu, ce qui accommodoit fort la Ville. [...]</p>
       </div>
-
-<div xml:id="MG-1689-06a_191">
+      <div type="article" xml:id="MG-1689-06a_191" resp="mercure">
         <head>MG-1689-06a_191</head>
         <bibl>Mercure galant, juin 1689, p. 191-194</bibl>
         <p>Histoire.</p>
         <p/>
         <p>S'il est mal-aisé de n'aimer pas ce qu'on trouve aimable, il n'est pas moins difficile de renoncer à aimer quand on croit le devoir faire, &amp; les sentimens d'indifference qu'on s'imagine avoir pris pour se dégager, sont quelquefois des sentimens déguisez qui ont d'autant plus de violence, qu'ils ont esté longtemps retenus par le dépit qui les a fait naistre. L'avanture dont vous allez lire les particularitez en pourra servir de preuve. Un Gentilhomme d'un veritable merite, &amp; d'une naissance assez distinguée pour avoir pris le nom de Marquis sans qu'on pust dire qu'il l'eut usurpé, estant un jour allé entendre un concert où il fut mené par un Amy, trouva dans la Maison où il se faisoit, une jeune Demoiselle dont la beauté luy parut piquante. Elle estoit blonde, avoit les traits assez reguliers, le teint d'un éclat qui surprenoit, &amp; une douceur toute charmante répanduë sur son visage. Il fit si bien qu'il se plaça auprés d'elle, &amp; tandis que tout le monde prestoit l'oreille avec soin aux belles Voix dont le concert estoit composé, il eut les yeux toûjours attachez sur cette aimable personne. Les paroles qu'on chanta luy donnerent lieu de l'entretenir. Il en tira de quoy la flater sur son merite, &amp; s'il la mit dans quelque embarras à force de luy donner des loüanges, il ne laissa pas de s'appercevoir qu'elle avoit l'esprit aisé, &amp; que le silence qu'elle gardoit quelquefois estoit un effet de sa modestie. Il ne sortit point de l'Assemblée sans avoir appris qui elle estoit. Il sceut que sa qualité répondoit à son merite, &amp; qu'ayant perdu son Pere &amp; sa Mere dans son plus bas âge, elle demeuroit chez une Tante qui s'estoit chargée de sa conduite. [...]</p>
       </div>
-
-<div xml:id="MG-1689-06a_312">
+      <div type="article" xml:id="MG-1689-06a_312" resp="mercure">
         <head>MG-1689-06a_312</head>
         <bibl>Mercure galant, juin 1689, p. 312-316</bibl>
         <p>Emblême.</p>
@@ -130,6 +127,6 @@
         <p/>
         <p>En effet cette Harpe déconcertée nous fait voir assez au naturel l'estat de l'Angleterre, dans la situation où sont les Affaires, &amp; Apollon qui accorde cette Harpe, nous represente le Roy, qui par sa sagesse &amp; son assistance rétablira l'ordre dans l'Angleterre, &amp; remettra des Peuples rebelles sous l'obeissance de leur legitime Souverain.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

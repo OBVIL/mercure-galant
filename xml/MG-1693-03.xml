@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1693-03_231">
+      <div type="article" xml:id="MG-1693-03_231" resp="mercure">
         <head>MG-1693-03_231</head>
         <bibl>Mercure galant, mars 1693, p. 231-237</bibl>
         <p>Histoire.</p>
         <p/>
         <p>[...] [Une jeune fille décida d'obliger un cavalier] à luy donner une Feste, aprés laquelle elle se feroit un triomphe de luy pouvoir dire, qu'il ne devoit plus rien esperer, &amp; qu'elle avoit épousé un de ses Rivaux. [...] On agissoit contre luy en apparence, &amp; c'estoit travailler à son bonheur. [...] Cette Feste fut un Bal où il l'asseura qu'il auroit soin de ne laisser rien manquer afin de luy faire plus d'honneur. Ce divertissement estoit un de ceux de la saison. Il luy demanda son jour, &amp; elle choisit celuy qu'elle avoit pris avec son Amant pour se marier, ce qui fut fait de fort grand matin, &amp; avec tant de secret personne ne le sceut. Il alla la voir l'aprésdîner, &amp; elle luy dit mille choses obligeantes. Il parut le soir avec un habit fort magnifique, &amp; commença le Bal avec elle. Les Masques y vinrent en confusion, &amp; pour leur laisser la liberté de danser, on entra une heure aprés dans une chambre où une superbe collation se trouva servie pour les Dames conviées. Tandis que chacun estoit occupé aux plaisirs de cette Feste, dont la Demoiselle faisoit les honneurs, sa Mere &amp; le Cavalier n'eurent pas de peine à disparaître. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1692-08a_044">
+      <div type="article" xml:id="MG-1692-08a_044" resp="mercure">
         <head>MG-1692-08a_044</head>
         <bibl>Mercure galant, août 1692, première partie, p. 44-61</bibl>
         <p>Réjoüissances publiques.</p>
@@ -60,38 +60,34 @@
         <p>Comme par les ordres de Mr le Maréchal d'Estrées, Commandant pour le Roy en Poitou &amp; Aunix, on a commencé d'assembler les douze Compagnies du Regiment Royal, étably par le feu Roy en la Ville de Niort, elles furent convoquées ce jour-là à l'occasion du Feu de joye. Aprés qu'on eut fait les exercices en bon ordre, &amp; fort regulierement, on les conduisit devant la grande Eglise de Nostre-Dame, où le Te Deum fut chanté, en presence du Corps de Ville, de tous les Corps de Justice, &amp; de tous les Ordres Religieux. Ensuite ces Compagnies défilerent, &amp; se rendirent en la grande Place du Marché vieux, où elles furent rangées en trois Bataillons de prés de cinq cens hommes chacun. Elles firent plusieurs salves &amp; décharges de Mousqueterie, dont le bruit ne fut interrompu que par des acclamations de Vive le Roy, fort souvent reïterées. Le feu fut mis au bucher avec six flambeaux, portez par Mr de Pierrelevée, Lieutenant de Roy de la Ville &amp; du Chasteau de Niort, par Mr de Fonmort, President &amp; Lieutenant General ; par Mr de la Terraudiere, Maire ; par le Doyen des Echevins qui y assisterent tous en robes avec leurs chaperons rouges ; par le Major du Regiment, &amp; par le premier Capitaine, &amp; à la fin on vit s'élever en l'air quantité de fusées &amp; de feux d'artifice qui terminerent la feste.</p>
         <p>On ne se distingue pas moins dans les petits lieux, que dans les plus grandes Villes, quand il s'agit de montrer son zele pour le Roy ; &amp; le 20. du mesme mois de Juillet, Mr le Bailly du Duché d'Anguien, dit autrefois Montmorency, fit chanter le Te Deum avec toute la solemnité possible, dans le Convent des Religieux Trinitaires, où toute la Justice du lieu se rendit en robes. L'Eglise estoit fort ornée, &amp; éclairée d'un grand nombre de lumieres. On fit la Procession pour le Roy, &amp; ensuite un des Peres fit un Discours à la loüange de ce Monarque. Le Musique &amp; la Simphonie ne furent pas oubliées à l'Exaudiat &amp; au Te Deum, &amp; il se fit plusieurs décharges de plus de cent Boëtes.</p>
       </div>
-
-<div xml:id="MG-1692-08a_150">
+      <div type="article" xml:id="MG-1692-08a_150" resp="mercure">
         <head>MG-1692-08a_150</head>
         <bibl>Mercure galant, août 1692, première partie, p. 150-154</bibl>
         <p>Feste celebrée à Poitiers.</p>
         <p/>
         <p>Les Peres Augustins de Poitiers ont celebré pendant huit jours la solemnité de saint Jean de Sahagun, Religieux de leur Ordre, canonisé par le Pape Alexandre VIII. Elle a eu tout l'éclat possible, &amp; ils n'ont rien épargné pour donner à cette cérémonie toute la pompe qu'elle pouvoit recevoir. Le premier jour, ils sortirent en Procession de leur Eglise, qui estoit magnifiquement parée, pour aller prendre Messieurs de saint Pierre dans la Cathedrale, où ils entrerent au bruit des Tambours &amp; des Trompettes. Aprés que l'on y eut chanté un Motet, les Chanoines les accompagnerent dans leur Eglise, où ils retournerent dans le mesme ordre qu'ils estoient partis. M. l'Evesque de Poitiers y officia Pontificalement, &amp; la Messe, &amp; les Vespres, aussi bien que le Salut, furent chantées par une excellente Musique de la Cathedrale. Le second jour, ces Religieux firent la mesme chose pour les Chanoines de l'Eglise Collegiale de sainte Radegonde, &amp; le troisiéme, pour ceux de Nostre-Dame la Grande. Les Carmes, les Jacobins, &amp; les Cordeliers y vinrent officier les trois jours suivans, &amp; ce furent les Augustins qui à leur tour firent l'Office le septiéme jour dans leur propre Eglise. La Clôture de cette Octave, se fit par les Chanoines de saint Hilaire, qu'ils allerent prendre, &amp; qui amenerent une excellente Musique, remplie de tres-belles voix, &amp; de plusieurs sortes d'instrumens. Le Te Deum fut chanté, aprés que la Benediction eut esté donnée, &amp; le soir sur les sept heures, tous les Religieux du Convent, la Croix &amp; la Baniere en teste, allerent mettre le feu à un bucher qu'ils avoient fait élever au milieu de la Place Royale, devant leur Eglise. Il s'y fit plusieurs décharges de Canon, &amp; il s'y trouva un concours de monde extraordinaire.</p>
       </div>
-
-<div xml:id="MG-1692-08a_216">
+      <div type="article" xml:id="MG-1692-08a_216" resp="mercure">
         <head>MG-1692-08a_216</head>
         <bibl>Mercure galant, août 1692, première partie, p. 216-219</bibl>
         <p>Cérémonies faites au Louvre le jour de la Feste de saint Louis.</p>
         <p/>
         <p>Le Lundy 25. de ce mois, l'Academie Françoise celébra, selon sa coûtume, la Feste de S. Louis dans la Chapelle du Louvre, &amp; comme elle choisit toujours un predicateur parmi les plus habiles, pour faire le Panegyrique de ce Saint, elle avoit jetté les yeux cette année sur M. l'Abbé Bignon, Fils de Mr Bignon, Conseiller d'Etat, &amp; Neveu de Mr de Pontchartrain. Les excellens Sermons qu'on a déja entendus de luy, l'ayant mis dans une grande réputation, l'Assemblée fut fort nombreuse, &amp; composée de plusieurs Prelats, Abbez, &amp; autres personnes d'un merite distingué. Il pris pour son Texte ces paroles d'Isaïe, Princeps ea qua sunt digna Principe cogitabit, &amp; traita cette matiere avec toute l'éloquence d'un Orateur consommé. Il y et des Peintures extrémement délicates, &amp; ceux qui s'appliquerent à retenir de beaux traits, ne furent embarassez que dans le choix qu'ils en devoient faire. Il fait sentir admirablement, en parlant des rares vertus de S. Loüis, que quand la pieté regne dans le coeur d'un Roy, elle passe bien-tost en coûtume dans celuy de ses Sujets. Ce Panegyrique fut precedé d'une Messe que dit Mr l'Abbé de la Vau, l'un des quarante Académiciens, &amp; pendant laquelle on chanta divers Motets de la Composition de Mr Oudot. La plûpart des plus belles voix de Paris estoient de cette Musique, qui fut écoutée avec beaucoup de plaisir.</p>
       </div>
-
-<div xml:id="MG-1692-08a_219">
+      <div type="article" xml:id="MG-1692-08a_219" resp="mercure">
         <head>MG-1692-08a_219</head>
         <bibl>Mercure galant, août 1692, première partie, p. 219-220</bibl>
         <p>Autre Panegyrique de S. Louis fait par M. l'Abbé de Castre.</p>
         <p/>
         <p>Les mesme jour, Mr l'Abbé de Castre prêcha dans l'Eglise des Jesuites de la ruë S. Antoine, &amp; son Sermon reçut de grands applaudissemens. Il y avoit une affluence extraordinaire de gens de qualité, &amp; si l'éloge qu'il fit de saint Loüis eut beaucoup d'Approbateurs, celuy du Roy en eut encore davantage. La Musique qui estoit de Mr Charpentier, charma toute l'Assemblée, &amp; particulierement un Motet, composé exprés pour cette Feste. On ne peut rien ajoûter à la réputation qu'il s'acquiert de jour en jour.</p>
       </div>
-
-<div xml:id="MG-1692-08a_264">
+      <div type="article" xml:id="MG-1692-08a_264" resp="mercure">
         <head>MG-1692-08a_264</head>
         <bibl>Mercure galant, août 1692, première partie, p. 264-265</bibl>
         <p>Nouvelle Relation du Combat de Steinkerke.</p>
         <p/>
         <p>Le 21. sur les dix heures, Mr l'Abbé de Riqueti celebra la Messe à la teste des Gardes Françoises, où l'on avoit tendu les Tentes de Monsieur le Duc de Chartres. Tous les Officiers Generaux s'y rendirent avec tous les Aumôniers de l'Armée, &amp; aprés la Messe, ce mesme Abbé entonna le Te Deum. Cela parut extraordinaire, parce qu'il n'estoit jamais arrivé qu'on l'eust chanté pour une Victoire dans l'Armée victorieuse, mais il y avoit eu pour cela un ordre exprés de Sa Majesté à Mr de Luxembourg.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

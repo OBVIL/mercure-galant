@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1689-01a_025">
+      <div type="article" xml:id="MG-1689-01a_025" resp="mercure">
         <head>MG-1689-01a_025</head>
         <bibl>Mercure galant, janvier 1689, p. 25-30</bibl>
         <p>Festes Publiques.</p>
         <p/>
         <p>[...]	Les Magistrats de Luzy ont fait aussi de grandes réjoüissances. On avoit dressé dans la principale Place de la Ville, un piedestal haut &amp; large de dix pieds en chaque quarré, &amp; sur ce piedestal estoit une pyramide de quinze pieds de hauteur, terminée par un Soleil d'or, dont les rayons illuminoient la place de tous les costez. On avoit mis deux Lions à deux des coins de la piramide sur le piedestal, l'un peint de gueules au champ d'or, &amp; l'autre d'or au champ d'azur, pour representer les deux plus considerables Provinces des Pays-Bas. Ils paroissoient expirans, &amp; on lisoit au bas ces paroles, Nos pudeat sine Sole mori. Deux Aigles qu'on voyoit sur les deux autres coins, sembloient s'élever vers le Soleil. Ces mots estoient au dessous, Quantum distamus ab illo. Monseigneur le Dauphin estoit peint en Generalissime autour de la pyramide avec Mr le Maréchal de Duras, &amp; ses Lieutenans Generaux, ausquels il montroit avec un baston de commandement, l'inutile effort des Aigles, avec ces paroles, Tolluntur in altum, ut lapsu graviore ruant. Toute la pyramide estoit garnie de feux d'artifice, de fusées, &amp; de grenades. Mrs Repous, Ballard, Miraut, &amp; Coujar, ayant fait mettre les Habitans sous les armes, allerent au logis de Mr Nault, Chastelain, premier Magistrat de la Ville, chez qui tous les autres s'estoient assemblez. Ils firent faire une décharge de Mousqueterie, &amp; les conduisirent en tres-bel ordre à la Place, où après qu'ils en eurent fait trois fois le tour au bruit de tambours, des Fifres, des Hautbois, &amp; des Musettes, le Chastelain précedé des Sergens de Ville, ayant chacun un flambeau à la main, mit le feu à la droite, &amp; les autres Magistrats le mirent aprés luy aux autres endroits. Pendant que les grenades &amp; les fusées faisoient leur effet, le Soleil qui estoit à la pointe de la pyramide parut tout en feu, mais sans brûler, &amp; l'on fut surpris de voir au milieu trois Fleurs de Lys aussi en feu, &amp; ces mots en lettres d'or, Fraterno &amp; simili candore coruscant. Les Lions &amp; les Aigles ayant esté consumez, le Soleil demeura encore tout lumineux plus de deux heures, sans qu'il fust endommagé par les flâmes. Les Magistrats furent reconduits chez le Chastelain, qui leur donna un magnifique repas, aussi bien qu'à la Noblesse. Il fut suivy d'un grand Bal, où toutes les Dames avoient esté invitées. Le lendemain on chanta le Te Deum dans l'Eglise principale, où assisterent les Magistrats, conduits encore par les Habitans en armes. [...]</p>
       </div>
-
-<div xml:id="MG-1689-01a_053">
+      <div type="article" xml:id="MG-1689-01a_053" resp="mercure">
         <head>MG-1689-01a_053</head>
         <bibl>Mercure galant, janvier 1689, p. 53-83</bibl>
         <p>Balet dancé à Trianon</p>
@@ -448,30 +447,27 @@
         <p/>
         <p>La Musique des Vers de ce Balet a esté faite par Mr de la Lande, l'un des quatre Maistres de Musique de la Chapelle du Roy. Il doit estre d'un merite fort reconnu, puis que Sa Majesté luy vient de donner la Surintendance de Sa Musique qu'avoit le jeune Mr de Lully qui est mort sur la fin du mois passé. Les Entrées du mesme Ballet sont de Mr de Beauchamp, qui depuis un tres-grand nombre d'années a esté toûjours employé à travailler aux Balets du Roy.</p>
       </div>
-
-<div xml:id="MG-1689-01a_258">
+      <div type="article" xml:id="MG-1689-01a_258" resp="mercure">
         <head>MG-1689-01a_258</head>
         <bibl>Mercure galant, janvier 1689, p. 258-262</bibl>
         <p>Opera nouveau.</p>
         <p/>
         <p>Le 11. de ce mois, on donna icy la premiere representation d'un Opera nouveau, intitulé Thetis &amp; Pelée. Il est de Mr de Fontenelle. Il y a tant de delicatesse d'esprit dans tous ses Ouvrages, qu'on se promettoit beaucoup de celuy-cy, &amp; je puis dire que la beauté de ses Vers a remply l'attente de tout le monde. Les plus tendres sentimens du coeur y sont exprimez naturellement, quoy que d'une maniere tres-noble, &amp; l'approbation generale du public parle assez en sa faveur, pour me dispenser de luy donner toutes les loüanges qu'il merite. Quant au spectacle de cet Opera, il ne peut estre que grand, puis que Jupiter &amp; Neptune qui y sont Rivaux, peuvent remuer à leur gré le Ciel, la Mer &amp; la Terre. Ainsi on n'y voit rien de forcé. Les habits répondent au spectacle &amp; sont magnifiques, bien entendus, &amp; convenables aux personnages. Le tout a esté fait sur les desseins de Mr Berrin, Dessignateur ordinaire du Cabinet du Roy. Je vous ay parlé de luy en plusieurs occasions. La Musique est de Mr Colasse, l'un des quatre Maistres de Musique de Sa Majesté. On sçait que le merite a donné ces places, &amp; que ceux qui y aspiroient ont esté enfermez pour composer. Les habiles Connoisseurs asseurent que les endroits qui demandent une belle Musique dans cet Opera, sont si bien poussez, qu'il est impossible de faire mieux. Le reste est traité comme il doit l'estre dans les Ouvrages de cette nature, &amp; il seroit assez difficile de faire autrement. Pour la Simphonie, elle me paroist extremment applaudie, par tous ceux qui jugent de bonne foy, &amp; sans preoccupation. Quand je vous envoye de pareils articles, &amp; que je vous parle de choses dont je ne puis juger par moy-mesme, vous devez estre persuadée que je vous mande le sentiment le plus general.</p>
       </div>
-
-<div xml:id="MG-1689-01a_301">
+      <div type="article" xml:id="MG-1689-01a_301" resp="mercure">
         <head>MG-1689-01a_301</head>
         <bibl>Mercure galant, janvier 1689, p. 301-303</bibl>
         <p>Suite des affaires d'Angleterre</p>
         <p/>
         <p>[...] Cette Princesse [la Reine d'Angleterre] coucha à Poix le 2. de ce mois, &amp; arriva le lendemain à Beauvais sur les quatre heures aprés midy. Les Bourgeois estoient sous les armes, &amp; formoient une double haye dans tous les lieux où elle passa. Mr l'Evesque de Beauvais en habit d'Eglise, &amp; accompagné des anciens du Chapitre, la receut à la descente de son Carosse. Le reste du Chapitre s'estoit mis en haye pour l'attendre dans la Salle du Palais Episcopal. Mrs du Presidial, &amp; Mrs de Ville s'y trouverent aussi ; ces derniers firent les presens accoutumez. Le 4. la Reine aprés avoir entendu la Messe dans son appartement, où elle fut celebrée par son Confesseur, vint dans la Cathedrale entendre une seconde Messe basse, qui fut neanmoins accompagnée de quelques motets chantez par la Musique de cette Eglise. On avoit resolu de la haranguer, &amp; de luy faire les mesmes ceremonies que lors qu'on receut la Reine Mere d'Angleterre en 1650. mais comme elle refusa ces honneurs, elle fut seulement receuë par Mr de Beauvais qui luy presenta de l'eau benite à la teste de son Clergé. M. le Premier luy donna la main jusques à son Prie-Dieu, où elle adora la vraye Croix qui luy fut presentée par M. l'Evesque. Elle fut reconduite en marche de Procession, comme elle avoit esté amenée. [...]</p>
       </div>
-
-<div xml:id="MG-1689-01a_377">
+      <div type="article" xml:id="MG-1689-01a_377" resp="mercure">
         <head>MG-1689-01a_377</head>
         <bibl>Mercure galant, janvier 1689, p. 377-382</bibl>
         <p>Tragedie representee à S. Cir.</p>
         <p/>
         <p>Il y a des temps &amp; des raisons pour toutes choses, &amp; elles sont souvent blâmées ou estimées, suivant qu'on a égard à l'un &amp; à l'autre dans ce que l'on fait, &amp; qu'on se sert de tout ce qui en peut faire valoir l'execution. Tout cela se rencontre dans la Tragedie d'Ester, qui a esté representée depuis peu de jours à S. Cir. On voit dans cette Maison trois cens jeunes Filles, toutes de qualité ; il faut que la jeunesse se divertisse, &amp; particulierement quand elle n'a pas renoncé au monde, comme la plupart de ces jeunes Demoiselles. Ceux qui en sont entierement retirez, dont l'âge est fort avancé, &amp; qui font mesme profession de mener une vie toute sainte, ont des heures pour leur recreation. Il ne suffisoit pas d'en donner à cette jeunesse toute vive, les personnes meures en font un bon usage. La jeunesse, &amp; sur tout quand elle est en si grand nombre, les employe à des choses differentes mais quand le nombre est si grand, il est malaisé que tant de personnes s'en servent toujours également bien. Il y a de la prudence, &amp; de l'esprit à trouver une chose generale, qui les occupe toutes, &amp; longtemps, &amp; particulierement dans un Carnaval, parce que l'usage ayant autorisé les plaisirs dans cette saison, on n'en peut refuser à la jeunesse. C'est ce qui a obligé l'illustre Personne à qui toute la Noblesse de France a de si grandes obligations du soin qu'elle prend de l'éducation &amp; de la fortune de tant de jeunes personnes, de faire faire une Tragedie pour estre representée à S. Cir pendant le Carnaval, par une partie de cette jeunesse. Cela s'est fait depuis plusieurs siecles, &amp; se fait encore dans des Convents tres-austeres, où les Pensionnaires representent des Tragedies saintes. Quoy que ces Pieces ne soient representées que peu de fois, &amp; qu'elles durent peu d'heures, on s'occupe à en parler pendant plusieurs mois, on se divertit aux repétitions, on s'attache à la representation, &amp; quand on est ainsi tout remply d'une chose sainte &amp; morale qui instruit en divertissant, &amp; qui entre dans l'esprit parce qu'on s'y plaist, on ne l'a point occupé par d'autres choses, qui non seulement pourroient n'estre d'aucune utilité, mais ausquelles mesme il seroit mieux de ne le point appliquer. Le sujet de la Tragedie qu'on vient de representer à S. Cir, est Esther, &amp; elle a esté faite par Mr Racine. On peut juger par la sainteté du sujet, des effets qu'il peut produire dans les coeurs, &amp; de la beauté de la Piece par le nom de son Auteur. Aussi le Roy qui l'a honorée plusieurs fois de sa presence, y a t-il pris tout le plaisir qu'il a toujours ressenty en voyant les Ouvrages de Mr Racine. Il y a des Choeurs dans cette Piece de vingt quatre Filles de S. Cir, faits par Mr Moreau, qui sont d'une grande beauté, &amp; fort utiles à celles qui prennent le party de la Religion, puis qu'elles apprennent par là à chanter, ce qui est tres-necessaire dans les Convents.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
