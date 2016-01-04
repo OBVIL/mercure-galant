@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1691-06_159">
+      <div type="article" xml:id="MG-1691-06_159" resp="mercure">
         <head>MG-1691-06_159</head>
         <bibl>Mercure galant, juin 1691, p. 159-172</bibl>
         <p>Réjouissances.</p>
@@ -62,6 +62,6 @@
         <p>Caën est une Ville trop considérable pour n'avoir pas cherché à se distinguer. Après le Te Deum chanté, &amp; des feux de joye allumez par tout dés le Dimanche 6. du mois passé, on renouvella les réjoüissances le Jeudy suivant. [...] Toute la Ville étant sous les armes, on chanta le Te Deum dans l'Eglise de S. Pierre, au bruit du Canon du Château, en présence de Mrs de Beuvron &amp; de Matignon, Lieutenans de Roy de Normandie, accompagnez de toute la Noblesse &amp; de Mr Foucault, Intendant, à la teste de toute la Justice. [...] La Fête finit par plusieurs feux d'artifice, dont les effets furent surprenans.</p>
         <p>Les Particuliers n'ont pas oublié de marquer leur zele, &amp; ce qui se fit dés le 16. d'Avril dans la Paroisse d'Herenguerville, Diocese de Coutance, en est une preuve[.] Mr de Berenger qui en est Seigneur &amp; Patron, avoit invité tous les Ecclesiastiques &amp; toutes les personnes qualifiées de son voisinage de l'un &amp; de l'autre sexe, d'assister à cette Feste, qui commença par une grande distribution de pains qui fut faite aux Pauvres, &amp; par plusieurs Messes, à la fin desquelles on chanta toûjours le Te Deum. Il fut encore chanté solemnellement l'apresdinée, &amp; ensuite on alla voir les buchers que l'on avoit préparez pour cette réjoüissance. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

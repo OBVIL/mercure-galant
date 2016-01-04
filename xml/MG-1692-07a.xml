@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1692-07a_198">
+      <div type="article" xml:id="MG-1692-07a_198" resp="mercure">
         <head>MG-1692-07a_198</head>
         <bibl>Mercure galant, juillet 1692, première partie, p. 198-220</bibl>
         <p>Festes publiques faites à Paris pour la prise de Namur.</p>
@@ -62,28 +62,25 @@
         <p>Toutes les Cours Superieures assisterent à ce Te Deum, avec leurs habits de ceremonie, &amp; le soir il y eut un fort beau Feu d'artifice devant l'Hostel de Ville. (...) Il y eut un fort grand Regale à l'Hôtel de Ville ; &amp; aprés que l'on eut tiré le Feu, la Feste fut generale. Ce ne furent que des feux par tout, &amp; il y en eut plus de cent considerables en divers quartiers. Les uns marquerent leur zele par des Illuminations, des fusées volantes, des Repas, des Concerts &amp; des Bals, &amp; d'autres s'unirent ensemble pour faire de grandes Festes. Ce qu'il y a de certain, c'est que l'on peut dire que ce jour-là les yeux, l'oüie &amp; le goust, tout fut content. Mr le Cardinal de Furstemberg fit l'Office dés le matin dans l'Eglise de S. Germain des Prez. L'aprésdînée il chanta le Te Deum, pendant lequel il y eut des Canons tirez. Il fit une fort grande dépense en feux d'artifice, &amp; à regaler tous ceux qui voulurent estre témoins de la Feste. [...]</p>
         <p>Le Jeudy 17. les Augustins Déchaussez de la Place des Victoires, d'autant plus ardens à se distinguer lors qu'il s'agit de la gloire de Sa Majesté, que leur Maison est de Fondation Royale, &amp; que leur Eglise, dédiée à Nostre-Dame des Victoires, semble destinée pour rendre incessament graces à Dieu de celles du Roy, firent chanter le Te Deum en Musique au bruit de deux décharges de Boëtes. Il s'y trouva un concours extraordinaire de personnes de qualité &amp; de Peuple.</p>
       </div>
-
-<div xml:id="MG-1692-07a_251">
+      <div type="article" xml:id="MG-1692-07a_251" resp="mercure">
         <head>MG-1692-07a_251</head>
         <bibl>Mercure galant, juillet 1692, première partie, p. 251-252</bibl>
         <p>Réjouissances publiques, faites en plusieurs Villes sur la prise de cette mesme Place.</p>
         <p/>
         <p>Tous les Mandemens que Mr l'Evêque de Noyon fait publier dans son Diocese, en ordonnant des Prieres pour l'heureux succés des entreprises du Roy, sont toûjours accompagnez d'un si juste Eloge de ce Monarque, que je croy devoir vous faire part de celuy qui vient de paroître pour faire chanter le Te Deum de la prise de Namur. Il a receu de grands applaudissemens, &amp; vous le lirez sans doute avec beaucoup de plaisir.</p>
       </div>
-
-<div xml:id="MG-1692-07a_279">
+      <div type="article" xml:id="MG-1692-07a_279" resp="mercure">
         <head>MG-1692-07a_279</head>
         <bibl>Mercure galant, juillet 1692, première partie, p. 279-281</bibl>
         <p>Madame la Marquise de la Frezeliere, Femme de Mr de la Frezeliere, Lieutenant General des Armées du Roy, Gouverneur de Salins, &amp; Lieutenant General de l'Artillerie, n'eut pas plustost appris dans sa Terre de Monts en Poitou, la conqueste de Namur, que pour en marquer sa joye, elle convia le Commandant de la Noblesse de Bourgogne avec la plus grande partie de ceux dont l'Arriereban est composé, &amp; tous les Gentilshommes &amp; toutes les Dames de ses terres &amp; de son voisinage d'assister au Te Deum en musique, qu'elle fit chanter. Elle les traita tous magnifiquement, &amp; plusieurs décharges de quelques pieces de Canon, qu'elle a dans son Chasteau, annoncerent cette Feste à tous ceux des environs qui ne purent s'y trouver. Elle fit aussi distribuer du vin à tous les Habitans qui en voulurent, pour boire à la santé de Sa Majesté, &amp; il y eut entr'eux de grandes réjoüissances.</p>
       </div>
-
-<div xml:id="MG-1692-07a_295">
+      <div type="article" xml:id="MG-1692-07a_295" resp="mercure">
         <head>MG-1692-07a_295</head>
         <bibl>Mercure galant, juillet 1692, première partie, p. 295-296</bibl>
         <p>Journal de ce qui s'est passé à l'Armée de M. de Luxembourg.</p>
         <p/>
         <p>Le Mardy, premier de ce mois, Mr l'Abbé de Riqueti dit la Messe dans l'Eglise des Chanoinesses de Moustier, où assisterent tous les Princes &amp; Officiers Generaux, aprés quoy ce mesme Abbé entonna le Te Deum. Ce jour-là, Sa Majesté vin à l'Abbaye du Floref, Ordre de Prémonstré, où l'Abbé la reçut en habits Pontificaux à la porte de l'Eglise avec la Communauté. Mr de Luxembourg, &amp; les Officiers Generaux qui n'étoient pas de jour s'y trouverent, &amp; on tint Conseil de Guerre. Il y fut déliberé d'envoyer des Troupes de l'Armée du Roy en Allemagne, &amp; on y détermina celles que l'on devoit détacher, &amp; celles qui demeureroient dans l'Armée de Mr de Luxembourg. Le Roy alla coucher de là à Dinant.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

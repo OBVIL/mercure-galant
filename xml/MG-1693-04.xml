@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1693-04_208">
+      <div type="article" xml:id="MG-1693-04_208" resp="mercure">
         <head>MG-1693-04_208</head>
         <bibl>Mercure galant, avril 1693, p. 208-246</bibl>
         <p>Lettre écrite à la Reine de Suede.</p>
@@ -184,6 +184,6 @@
         <p>Servante &amp; Sujette,</p>
         <p>M.A.K.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

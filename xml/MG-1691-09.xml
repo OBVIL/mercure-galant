@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,29 +51,27 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1691-09_007">
+      <div type="article" xml:id="MG-1691-09_007" resp="mercure">
         <head>MG-1691-09_007</head>
         <bibl>Mercure galant, septembre 1691, p. 7-12</bibl>
         <p>Prelude, contenant tout ce qui s'est passé à l'Academie Françoise le jour de la Feste de Saint Loüis.</p>
         <p/>
         <p>Que de choses, Madame, j'aurois à vous dire de nostre Auguste Monarque, si j'entreprenois de vous rapporter tout ce qui fut dit à sa gloire le jour de la Feste de S. Loüis ! [...] Mr l'Abbé de Montelet, qui prescha ce jour-là dans la Chapelle du Louvre, où Mrs de l'Academie Françoise celebrerent cette grande Feste selon leur coutume [...] Il monta en Chaire après que Mr l'Abbé de Lavau, l'un des quarante de cette celebre Compagnie, eut dit la Messe, pendant laquelle Mr Oudot fit entendre à son ordinaire, une excellente Musique de sa composition. [...] L'aprèsdînée de ce mesme jour, Mrs de l'Academie Françoise tinrent une Assemblée publique pour la distribution des Prix. Elle fut ouverte par Mr le Marquis de Dangeau, qui en est presentement le Directeur, &amp; qui déclara qu'on avoit appris que la piece que la Compagnie avoit jugée digne de remporter celuy de l'Eloquence, avoit esté faite par Mr de Clairville, jeune Gentilhomme de Roüen ; &amp; que l'Ouvrage qui avoit merité celuy de la Prose, estoit de Mademoiselle Bernard, aussi de Roüen, ce qui n'estoit pas desavantageux à la Normandie. Ces deux Pieces furent leuës par Mr l'Abbé Tallemand le jeune, avec l'applaudissement d'une nombreuse Assemblée, [...]. Mademoiselle Bernard vous estoit déjà connuë par Eleonor d'Tvrée, &amp; par le Comte d'Amboise, qui sont deux Ouvrages en Prose, où vous n'avez pas moins admiré la finesse des pensées, que la délicatesse de l'expression. La Tragedie de Laodamie, &amp; celle de Brutus de l'hyver dernier, l'on fait paroistre une Rivale tres dangereuse pour tous ceux qui s'attachent au Theatre. [...]</p>
       </div>
-
-<div xml:id="MG-1691-09_067">
+      <div type="article" xml:id="MG-1691-09_067" resp="mercure">
         <head>MG-1691-09_067</head>
         <bibl>Mercure galant, septembre 1691, p. 67-74</bibl>
         <p>Feste celebrée à Bordeaux.</p>
         <p/>
         <p>Le Dimanche 22, de Juillet, les Peres Augustins de Bordeaux commencerent la solemnité de la Canonisation de S. Jean de Sahagun, dit de Saint Facond, Religieux de leur Ordre, &amp; Patron de Salamanque. [...] Le Pape Clement VIII. le beatifia l'an 1601. &amp; le Pape Alexandre VIII. le canonisa le 28. Novembre de l'année derniere. L'ouverture de solemnité qui a duré huit jours se fit par une grande Procession qui partit de l'Eglise Cathedrale Saint André, pour se rendre dans celle des Augustins. Les Religieux portoient dans cette Procession deux Bannieres qui representoient le Saint, &amp; quelques unes de ses principales actions. Toutes les Paroisses marchoient ensuite, puis le Chapitre de S. André, le Parlement &amp; la Cour des Aides en robes rouges, &amp; les autres Corps de Justice. Ils se rendirent tous processionnellement dans l'Eglise des Augustins, qui est une des plus belles de la Ville, &amp; qui estoit magnifiquement ornée. Mr l'Abbé d'Arche, Doyen du Chapitre de S. André, y celebra la Messe, qui fut chantée par la Musique. Chaque jour de la semaine, un Ordre Religieux y a esté en Procession, chanter la Messe, &amp; prescher à son rang l'aprèsdînée. [...] Le jour de l'Octave, Mr l'Abbé de Constans, Doyen du Chapitre de S. Severin, y dit la grand'Messe, qui fut chantée par la Musique de son Eglise, &amp; il y officia de mesme à Vespres, accompagné de tous les Chanoines de son Corps. Ils y firent ensuite la Procession du S. Sacrement, dont le mesme Doyen donna la benediction, qui fut suivie immediatement après de l'élevation d'une Banniere du Saint, au milieu du Choeur de l'Eglise, la mesme Musique chantant des Motets à l'honneur du Saint, le Te Deum &amp; l'Exaudiat, avec d'autres Prieres pour le Roy ; ce qui avoit esté fait tous les jours de la semaine, à chaque benediction du S. Sacrement. Le soir, les Jurats revestus de leurs robes de ceremonie, &amp; précedez par les trois Compagnies de leurs Hallebardiers, de leurs Trompettes, Haut-bois &amp; Enseignes, allerent mettre le feu au bucher que les Peres Augustins avoient fait dresser dans la Place devant leur Couvent, où les cinq Compagnies du Quartier, au nombre de huit cens hommes sous les armes, s'estoient rangées en Bataille. Après plusieurs décharges de la Mousqueterie, des Boëtes, &amp; de quelques pieces de Canon, l'on fit joüer un Feu d'artifice qui réussit parfaitement, pendant qu'on entendoit les Trompettes, les Haut-bois, les Violons, les Tambours, les Musettes, &amp; les Fifres.</p>
       </div>
-
-<div xml:id="MG-1691-09_134">
+      <div type="article" xml:id="MG-1691-09_134" resp="mercure">
         <head>MG-1691-09_134</head>
         <bibl>Mercure galant, septembre 1691, p. 134-138</bibl>
         <p>Ceremonie &amp; réjoüissances faites [à] Saint Germain en Laye le jour de la naissance du Roy.</p>
         <p/>
         <p>Le 5. de ce mois, jour de la Naissance du Roy, il se fit à Saint Germain en Laye une Ceremonie, où les Habitans firent paroistre pour Sa Majesté tout le zele qu'on peut souhaiter dans de fidelles Sujets. Les Peres Recolets, &amp; les Peres Augustins Déchaussez des Loges, pour donner plus d'éclat à cette Ceremonie, se rendirent à dix heures du matin à la Paroisse pour accompagner le Clergé. On fit ensuite une Procession generale, qui fut suivie d'une Messe solemnelle, que l'on celebra, &amp; a laquelle Leurs Majestez Britanniques assisterent, ainsi qu'au Salut qui fut chanté par la Musique du Roy. La Messe achevée, on commença le Te Deum, pendant lequel on se rendit au lieu où le Feu de joye estoit préparé. [...] Il y eut l'aprésdînée un divertissement composé par Mr le Maire, Professeur des Humanitez à S. Germain, &amp; représenté sur le Theatre de l'Hostel de la Rochefoucault. Il estoit d'une maniere nouvelle, &amp; avoir pour sujet, La Coutume &amp; l'Opinion détruites par des Discours en forme de Paradoxes. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1689-04a_157">
+      <div type="article" xml:id="MG-1689-04a_157" resp="mercure">
         <head>MG-1689-04a_157</head>
         <bibl>Mercure galant, avril 1689, p. 157-159</bibl>
         <p>Réjoüissances faites à Rome.</p>
         <p/>
         <p>Le Jeudy 17. du dernier mois, Mr Dalibert, un des premiers Officiers de la Reine de Suede, fit une grande Feste à Rome dans l'Eglise de la Maison Professe des Peres Jesuites dediée au Nom de JESUS, au sujet de la convalescence de cette Princesse. L'Eglise qui est une des plus belles de la Ville, estoit tenduë des plus riches Tapisseries de la Reine, avec des Vases d'argent remplis de bouquets &amp; de fleurs sur les corniches &amp; sur les piedestaux. Il y eut une excellente Musique &amp; une Simphonie des plus belles. L'Evesque de Verceil celebra la Messe, &amp; douze Cardinaux y assisterent, avec une affluence de monde incroyable. Le soir le Palais de la Reine fut illuminé, &amp; toutes les ruës des environs, de mesme que toutes celles qui conduisent de ce Palais à l'Eglise de JESUS. Le Dimanche suivant, tous les Marchands Ouvriers &amp; Artisans qui travaillent pour cette Princesse, firent aussi une superbe Feste dans l'Eglise de S. Salvator in Lauro, où il y eut encore une fort belle Musique. Ils avoient fait orner la façade de l'Eglise de toiles peintes, avec quantités de figures, de Médaillons, &amp; de Devises, &amp; des Festons de fleurs sous les voûtes &amp; sous les arcades.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

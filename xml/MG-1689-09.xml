@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1689-09_021">
+      <div type="article" xml:id="MG-1689-09_021" resp="mercure">
         <head>MG-1689-09_021</head>
         <bibl>Mercure galant, septembre 1689, p. 21-28</bibl>
         <p>Concert.</p>
@@ -129,22 +129,20 @@
         <p>Que je sois toujours amoureux,</p>
         <p>Et vous toujours indifferente.</p>
       </div>
-
-<div xml:id="MG-1689-09_180">
+      <div type="article" xml:id="MG-1689-09_180" resp="mercure">
         <head>MG-1689-09_180</head>
         <bibl>Mercure galant, septembre 1689, p. 180-181</bibl>
         <p>Ce qui s'est passé à l'Académie Françoise le jour de la Feste de Saint Loüis.</p>
         <p/>
         <p>le Jeudy 25. du mois passé, jour de la Feste de S. Loüis Roy de France, Mrs de l'Academie Françoise s'assemblerent, selon leur coutume, dans la Chapelle du Louvre, où Mr l'Abbé de Lavau, l'un des quarante Academiciens, celebra la Messe, pendant laquelle un Corps de Musique composé de plusieurs belles Voix &amp; de divers Instrumens, chanta d'excellens motets, de la composition de Mr Oudot. La Messe finie, Mr l'Abbé de Riqueti prononça le Panegyrique du Saint. [...]</p>
       </div>
-
-<div xml:id="MG-1689-09_377">
+      <div type="article" xml:id="MG-1689-09_377" resp="mercure">
         <head>MG-1689-09_377</head>
         <bibl>Mercure galant, septembre 1689, p.377</bibl>
         <p>Affaires d'Allemagne et d'Angletere.</p>
         <p/>
         <p>Les Ennemis n'ont fait aucun progrés depuis qu'ils ont pris Mayence. Ils avoient assez souffert pour se reposer, &amp; leur perte a esté si grande que le Party qui a fait chanter le Te Deum, est celuy qui a eu le plus de sujet de verser des larmes. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,21 +51,19 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1693-09_010">
+      <div type="article" xml:id="MG-1693-09_010" resp="mercure">
         <head>MG-1693-09_010</head>
         <bibl>Mercure galant, septembre 1693, p. 10-26</bibl>
         <p>Service fait aux Jesuites de Lyon, pour feu Mr l'Archevesque de Lyon.</p>
         <p/>
         <p>L'abondance de la matiere ne me permit pas le mois passé, de vous apprendre avec combien de somptuosité &amp; d'éclat les Peres Jesuites de Lyon ont fait paroistre au Public la reconnoissance qu'ils conservent pour feu Messire Camille de Neuville Villeroy, Archevesque de la mesme Ville, leur Bienfaiteur. Le 23. de Juillet dernier, ils luy firent faire des Obseques avec une magnificence digne de leur zele, &amp; de la personne pour qui ils se sont acquittez de ce devoir, ce Prelat ne s'estant pas contenté de les honorer pendant sa vie d'une protection toute particuliere, mais ayant bien voulu leur laisser encore sa Bibliotheque par son testament. [...] La Ceremonie commença par les Vespres des Morts, qui furent dites solemnellement le 22 de Juillet. Le lendemain, Mr l'Evesque d'Autun, Administrateur de l'Archevesché de Lyon pendant le Siege vacant, officia avec son Clergé. Mr le Marquis de Canaples, Commandant dans la Province, accompagné de toute la Noblesse se trouva dans cette grande Assemblée, aussi-bien que Mr de Berulle, Intendant de la Province, Mrs les Comtes de Lyon, Mrs du Presidial, les Officiers de la Ville avec les Exconsuls, les Elus, &amp; les Tresoriers de France, tous en Corps. L'Assemblée estoit encore composée de tout ce qu'il y avoit de personnes de merite &amp; de distinction dans la Ville. Mr l'Abbé de Saint Antoine, &amp; Madame la Princesse de Wirtemberg furent de ce nombre. Le Pere de Colonia, l'un des deux Professeurs de Rhetorique, prononça l'Oraison Funebre [...]. L'applaudissement qu'il a receu, &amp; l'empressement qu'on a marqué de le voir, ont obligé le Pere de Colonia à le donner au Public.</p>
       </div>
-
-<div xml:id="MG-1693-09_056">
+      <div type="article" xml:id="MG-1693-09_056" resp="mercure">
         <head>MG-1693-09_056</head>
         <bibl>Mercure galant, septembre 1693, p. 56-57</bibl>
         <p>On ne se contente pas de siffler les Pieces, on va quelquefois jusqu'à siffler les Acteurs, quand ils n'ont pas le bonheur de plaire. Les Comediens François viennent d'en perdre un qui n'avoit rien à appréhender de ce costé-là, puis qu'il estoit le charme de tout Paris dans le Comique. C'est vous faire entendre assez que je vous parle de Mr Raisin, mort dans une grande jeunesse, &amp; d'autant plus regretté de ceux qui aiment la Comedie, que c'est une perte difficile à réparer.</p>
       </div>
-
-<div xml:id="MG-1693-09_057">
+      <div type="article" xml:id="MG-1693-09_057" resp="mercure">
         <head>MG-1693-09_057</head>
         <bibl>Mercure galant, septembre 1693, p. 57-67</bibl>
         <p>Réjouissances faites en Champagne.</p>
@@ -73,14 +71,12 @@
         <p>La défaite des Ennemis à Neerwinde, a esté si grande &amp; si entiere, qu'on a fait des Feux de joye pour cette Victoire dans toutes les Villes du Royaume. Celle de Luzy en Champagne s'est distinguée dans ces marques de réjoüissance. Mr Naule de Tresillon, Maire perpetuel de la Ville, ayant donné ses ordres, on éleva dans la grande Place une Pyramide à quatre faces, qui se terminoit par le haut en maniere de couronne, au dessus de laquelle on voyoit un Soleil d'or, &amp; au bas sur la face qui regardoit la grande ruë, Mr le Maréchal Duc de Luxembourg estoit representé armé, tenant son Baston de Maréchal, avec lequel il montroit le Soleil. [...]</p>
         <p>On avoit remply la derniere face, de Lyons, &amp; de Leopards enchaisnez, &amp; d'une Aigle attachée par les pieds. Au dessus estoit un Coq chantant avec ces mots de Virgile, Tormenti genus, pour signifier que l'Aigle se voyant captive n'avoit point de plus facheux tourment que celuy de voir le Coq au dessus d'elle, &amp; de l'entendre chanter, de mesme que les Lyons &amp; les Leopards n'en avoient pas de plus cruel que la voix de cet Oiseau. [...] Sur les huit heures du soir, les Bourgeois en armes lestement vestus, &amp; commandez par Mrs Ballard &amp; Repoux, allerent prendre Mr le Maire chez luy, où s'estoient rendus Mrs de Ville. Le Corps de Justice, pour luy faire honneur, parce qu'il entroit dans l'exercice de la Magistrature perpetuelle, voulut aussi assister à cette Ceremonie. La porte de son Logis étoit ornée de quatre colomnes qui formoient un Dome par le dessus, où étoient les Armes du Roy en relief, celles de la Ville, &amp; au dessous les Armes de ce Magistrat. De chaque costé estoit une Fontaine de Vin. Mr le Maire sortit précedé par quatre Sergens, ayant des Manteaux rouges, sur lesquels les Armes de la Ville estoient mises en forme de broderie, &amp; par six Huissiers en robe. Chaque Sergent avoit une Halebarde. Après une décharge de Mousqueterie qui dura plus d'un quart d'heure, on commença à marcher dans un bel ordre, les Tambours, les Fifres &amp; les Hautbois inspirant la joye par la maniere dont ces instrumens retentissoient. Douze Violons avec des Basses de Viole suivoient la Soldatesque precedant le Magistrat, qui ne fut pas plutost arrivé à la Place où estoit dressé le Feu, que quatre Fontaines de Vin commençerent à couler aux quatre coins. On fit trois fois le tour de la Place, &amp; les Sergens de Ville s'estant arrestez, il se fit une double haye à travers laquelle Mr Coujard, Major, vint presenter un Flambeau à Mr le Maire, avec lequel il mit le Feu à une meche de Souffre, qui s'estant portée sur la Galerie, on vit en un moment toute la Piramide embrasée, ce qui fut suivy d'un si grand bruit de Mousquets, de Petards &amp; de Grenades, qu'il sembloit que toute la Ville alloit estre renversée. Ce Feu ayant duré prés d'une heure, il sortit du Baston de Commandement que Mr de Luxembourg tenoit en sa main, une espece de Feu de Foudre qui alla tomber sur les Lyons, sur les Leopards, &amp; sur l'Aigle qu'il consuma entierement ; presqage certain que l'Espagne, la Hollande &amp; l'Empereur chercheront inutilement à resister aux Armes du Roy. On reconduisit le Magistrat dans le mesme ordre qu'on estoit venu, &amp; il regala magnifiquement les Officiers de Ville &amp; de Justice, le Major &amp; les Capitaines des Quartiers. Les Particuliers firent tous des Feux devant leurs Maisons, &amp; ce fut pendant tout le reste de la nuit une rejoüissance generale. Le lendemain, Mr le Maire fit faire un Service solemnel pour le repos des ames de ceux qui avoient donné leur sang pour leur Patrie, &amp; signalé leur courage dans une Bataille aussi glorieuse à la France que celle-là.</p>
       </div>
-
-<div xml:id="MG-1693-09_211">
+      <div type="article" xml:id="MG-1693-09_211" resp="mercure">
         <head>MG-1693-09_211</head>
         <bibl>Mercure galant, septembre 1693, p. 211-212</bibl>
         <p>Le 25. du mois passé, la Feste de Saint Loüis fut celebrée, selon la coutume, dans la Chapelle du Louvre, par Mrs de l'Academie Françoise. Mr l'Abbé de la Vau, l'un des quarante, dit la Messe, pendant laquelle il y eut un fort grand Choeur de Musique, qui chanta divers Motets de la composition de Mr Oudot. Ensuite Mr l'Abbé Nolet prononça le Panegyrique du Saint, [...].</p>
       </div>
-
-<div xml:id="MG-1693-09_236">
+      <div type="article" xml:id="MG-1693-09_236" resp="mercure">
         <head>MG-1693-09_236</head>
         <bibl>Mercure galant, septembre 1693, p. 236-242</bibl>
         <p>Rejouissances faites à Grenoble.</p>
@@ -88,14 +84,13 @@
         <p>Le 23. du mois passé on fit à Grenoble de grandes rejouïssances pour la victoire remportée à Neervinde en Flandre par les Armes de Sa Majesté. Aprés que l'on eut chanté le Te Deum en action de graces, le Penonnage se rangea dans un bel ordre sur la place Saint André, où l'on avoit dressé le bucher, du dessein de Mr Roman Couppier, Assesseur &amp; Premier Consul de l'Hostel de Ville. Il estoit érigé sur quatre Portiques ou Arcs de triomphe d'une Architecture particuliere, puis qu'elle estoit de Verdure, ce qui faisoit un effet tres-agreable. Sur ces Portiques estoit le Bucher en forme de Tour accompagnée de quatre Donjons, &amp; couverte d'un Dome aussi de Verdure, le tout orné de Peintures du pinceau de Mr du Claux, l'un des plus habiles Peintres de Grenoble. [...]</p>
         <p>[...] Il y eut des illuminations toute la nuit, &amp; l'on jeta un grand nombre de fusées sur la Place de Grenoble, où il y avoit une tres-belle Symphonie.</p>
       </div>
-
-<div xml:id="MG-1693-09_250">
+      <div type="article" xml:id="MG-1693-09_250" resp="mercure">
         <head>MG-1693-09_250</head>
         <bibl>Mercure galant, septembre 1693, p. 250-252</bibl>
         <p>Marchandises trouvées sur les Vaisseaux de la Flotte de Smirne.</p>
         <p/>
         <p>On a veu depuis fort peu de temps à Toulon cinq à six mille Officiers de Marine, tous magnifiques, avec Mr le Maréchal de Tourville. Vous pouvez juger par là quelle agréable confusion il y avoit de Soldats &amp; de Matelots. Ils estoient au nombre de soixante &amp; dix mille, répandus dans la ville &amp; aux environs. On trouvoit des Tables dressées dans toutes les ruës sous des Tentes &amp; des Pavillons. Le Bal, la Comédie &amp; les Promenades faisoient l'occupation de tant de gens. On voyoit cent quarante Voiles dans le Port. C'étoit le plus magnifique spectacle du monde. Mr le Maréchal de Tourville en partit le 15 de ce mois, avec soixante &amp; un Vaisseau [sic] pour revenir à Brest [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
