@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-08_043">
+      <div type="article" xml:id="MG-1686-08_043" resp="mercure">
         <head>MG-1686-08_043</head>
         <bibl>Mercure Galant, août 1686, p. 43-48</bibl>
         <p>Ballade</p>
@@ -115,8 +115,7 @@
         <p>Quant est de moy, je publie en tous lieux,</p>
         <p>Point on ne doit contraindre son Génie.</p>
       </div>
-
-<div xml:id="MG-1686-08_051">
+      <div type="article" xml:id="MG-1686-08_051" resp="mercure">
         <head>MG-1686-08_051</head>
         <bibl>Mercure Galant, août 1686, p. 51-53, 55-65, 67, 73</bibl>
         <p>Lettre de Venise touchant les grands divertissements donnez par M le duc de Hanover</p>
@@ -133,8 +132,7 @@
         <p>La sixième estoit un Grotesque, ayant un Triton sur la Poupe, &amp; sur la Prouë un Dragon marin. Ses Rameurs &amp; ses Trompettes estoient cuverts d'écailles, argent &amp; vert. [...]</p>
         <p>La Feste, qui comme je vous l'ay déjà marqué, dura fort longtemps, se termina par les Banderoles que les Vainqueurs vinrent recevoir sur le bord de la Machine, &amp; par le distribution des Prix.</p>
       </div>
-
-<div xml:id="MG-1686-08_103">
+      <div type="article" xml:id="MG-1686-08_103" resp="mercure">
         <head>MG-1686-08_103</head>
         <bibl>Mercure Galant, août 1686, p. 103-105</bibl>
         <p>Galanterie</p>
@@ -143,44 +141,39 @@
         <p/>
         <p>[Ainsi débute l'histoire galante et la louange en vers intitulée « A Iris », d'un gentilhomme de Provence qui marquant « beaucoup de chagrin de ne pouvoir joüir [des plaisirs] de Marseille », se plaint « du malheur qu'il a d'estre éloigné d'une Dame d'une fort grand mérite chez qui il y a un concours continuels de gens choisis, tant de la Ville, que personnes Etrangères ».]</p>
       </div>
-
-<div xml:id="MG-1686-08_113">
+      <div type="article" xml:id="MG-1686-08_113" resp="mercure">
         <head>MG-1686-08_113</head>
         <bibl>Mercure Galant, août 1686, p. 113-124</bibl>
         <p>Cérémonie faite à Rome</p>
         <p/>
         <p>Rome que l'on appelle la Sainte, soûtient ce glorieux titre dans toutes les occasions de piété. Il n'y a point de lieu au Monde, où l'on voye plus d'Assemblées &amp; de confrairies publiques. Chacune à son Habit particulier, ses Exercices de dévotion, &amp; les Festes solemnelles, &amp; quand il s'agit de célébrer quelques-unes, elles cherchent à l'envy à se distinguer par quelque action de magnificence. Telle a esté cette année l'émulation des Confrères du Scapulaire de l'Ordre de nostre Dame des Carmes. Cette Confrairie établie dans l'Eglise de saint Silvestre &amp; de S. Martin des Monts, est fort ancienne, &amp; l'une des plus célèbres de Rome, tant par le grand nombre, que par l'éminente qualité des Confrères. [...] [Ils] choisirent pour leur Solemnité le Dimanche 28 [du mois de juillet]. Elle fut annoncée dès le matin par le bruit des Boëtes, &amp; par le son des Trompetes &amp; des cloches. Il y eut à la Grand'Messe &amp; aux Vespres deux Choeurs de Musique &amp; d'instrumens, &amp; l'on distribua des Médailles bénites du S. Père à tous ceux qui firent leurs Dévotions. Toutes choses ayant ésté disposées pour la Procession, qu'on peut nommer générale [...] [Suit la description de ce cortège composé tant des cardinaux et de leurs estafiers ou prélats, que des grands seigneurs et du peuples.] Elle sortit sur les six heures du soir de l'Eglise de S. Martin des Monts des Religieux des Carmes de la Grande Observance [...] &amp; se rendit à une heure de nuit à l'Oratoire de la Confrairie, bâty dans le Quartier de l'Eglise des douze Apostres [...] D'abord parurent les Guidons de la Confrairie ; des Lanternes vitrées, éclairées par des flambeaux de cires ; trois Tambours &amp; six Trompettes, qui portaient les armes &amp; la livrée de M. le Cardinal Alfieri. Ensuite marchoient deux à deux, [...] les Estafiers des Prélats, &amp; ceux que les Cardinaux avoient envoyez. [...] Après venait la bannière portée par six serviteurs de la Confrairie, [...] qui estoit suivie de cent Confrères Bourgeois tenant chacun un Flambeau, &amp; vestus en Pénitens. Ils précédoient une autre grande Croix de bois doré, portée par cinq Gentilhommes, environnez de Tambours, de Fifres, &amp; de Trompetes, aux Armes de Mr le Cardinal Protecteur. Les Religieux Carmes du Couvent de S. Martin, &amp; des autres Couvens de la Ville sous leur Croix &amp; leurs Bannières, suivoient deux à deux un Cierge à la main, avec leurs habits bruns &amp; leurs Manteaux blancs. Le Crucifix de la Confrairie marchoit après eux au milieu d'un Choeur de Musique, précédé de vingt-quatre grands Phanaux dorez. [...] Trois Prélats portoient alternativement le Crucifix, &amp; ils estoient escortez de plus de deux cens Gentilshommes de la première Noblesse de la Ville, vestus en Confrère, &amp; tenant aussi chacun un Flambeau de cire blanche. Leur train qui les suivoit ou les précédoit, augmentoit l'éclat &amp; la majesté de cette marche. Cinquante nouveaux Confrères paroissoient ensuite, portant des Flambeaux dans des chandeliers dorez de la hauteur d'un premier étage. Après eux venoit un autre Choeur de Musique, qui précédoit la grande Machine sur laquelle estoit posée l'Image de la Vierge. [...] Mr le Cardinal Alfieri suivit en rang de Premier Confrère, n'ayant pour toute marque de sa Dignité que le seul Chapeau. [...] Tout ce que je vous dis de cette Cérémonie, est tiré d'une Lettre écrite de Rome par M. de Chassebras du Breau à M. le Duc de Saint Aignan.</p>
       </div>
-
-<div xml:id="MG-1686-08_177">
+      <div type="article" xml:id="MG-1686-08_177" resp="mercure">
         <head>MG-1686-08_177</head>
         <bibl>Mercure Galant, août 1686, p. 177-181</bibl>
         <p>Cérémonie faite en la Ville de Luxembourg</p>
         <p/>
         <p>[Cet article rend compte de la cérémonie organisée par les Récollets de Luxembourg le 5 juillet, date anniversaire de la mort du bienheureux Pierre de Luxembourg] fils de Guy Comte de Saint Paul, &amp; de Mathilde de Chastillon. Il fut fait cardinal par Clément VII, Pape à Avignon en 1386 &amp; mourut l'année suivante en odeur de sainteté, âgé seulement de dix-huit ans. Quelques Autheurs ont écrits qu'il a fait jusqu'à trois mille miracles. [...] Le Père Olivier Juvernay, Gardien [du Couvent des Récolets], fameux pas ses Prédications, jugea à propos de commencer cette Feste par une Messe solemnelle &amp; ce fut Mr l'Abbé de Munster qui officia [...] La beauté de la Symphonie répondit à celle des Voix qui estoient fort en fort grand nombre. [...] A la fin de la Messe le Père Gardien fit le Panégyrique du Bien heureux &amp; prit pour son Texte ce Verset du quatrième Pseaume Scitote quoniam mirificavit Dominus Sanctam suum. [...] On [avait] fait faire un Buste [du Bien heureux] très bien travaillé, qui fut ensuite porté en Procession. [...] La Cérémonie du matin fut terminée par le Te Deum que l'on chanta solemnellement, &amp; après lequel on donna la Bénédiction. [...]</p>
       </div>
-
-<div xml:id="MG-1686-08_211">
+      <div type="article" xml:id="MG-1686-08_211" resp="mercure">
         <head>MG-1686-08_211</head>
         <bibl>Mercure Galant, août 1686, p. 211-213</bibl>
         <p>On peut en voir la Liste [des récits de basse de Bacilly] dans le second Recüeil de ses Airs Bachiques, qu'on vend chez le Sr de Luynes, &amp; autres Libraires du Palais, avec tous les Livres tant de sa composition que celle du fameux Mr Lambert, auquel il a adressé depuis une Lettre en Vers &amp; en Prose, pour remerciment de l'estime particulière qu'il témoigne faire de luy en toutes sortes de rencontres. En effet la manière dont Mr Lambert en parle, fait assez connoistre qu'il luy trouve tout ce qu'on peut désirer dans un parfait Maistre de Chant en toutes circonstances. Je ne vous répète point ce que je vous ay déjà dit de son Premier Livre de l'Art de Chanter, si vanté non seulement des Musiciens, mais encore de ceux qui faisant profession de parler en public, ont besoin de bien sçavoir la prononciation &amp; la quantité qu'il a establie sur les Sillabes des mots qui se rencontrent dans le chant François, &amp; dans la déclamation. Vous sçavez combien les deux Livres de ses Airs Spirituels sont estimez. Les Préfaces qu'il y a mises font voir la diffèrence qu'il y a entre un Air &amp; un Chant Spirituel, qui d'ordinaire n'étoit qu'un Cantique ou Motet François, au lieu que ses Airs outre la modulation, ont un agrément que d'autres que luy auroient peine à leur donner.</p>
       </div>
-
-<div xml:id="MG-1686-08_285">
+      <div type="article" xml:id="MG-1686-08_285" resp="mercure">
         <head>MG-1686-08_285</head>
         <bibl>Mercure Galant, août 1686, p. 285-286</bibl>
         <p>Tragédie</p>
         <p/>
         <p>Ces jours passez on représenta dans la Court du Collège de la Marche, une Tragédie intitulée, Le Triomphe de la Religion, qui précéda la distribution des Prix. Le succez en fut fort grand. Comme cette Pièce estoit moitié Latine &amp; moitié Françoise, tout le monde eut de quoy se satisfaire. Il y eut pour Intermède un Ballet qui avoit rapport avec la Tragédie, &amp; où le Comique &amp; le sérieux estoient joints avec grand art. [...]</p>
       </div>
-
-<div xml:id="MG-1686-08_295">
+      <div type="article" xml:id="MG-1686-08_295" resp="mercure">
         <head>MG-1686-08_295</head>
         <bibl>Mercure Galant, août 1686, p. 295-296</bibl>
         <p>Feste de S. Louis célébrée au Louvre</p>
         <p/>
         <p>Dimanche dernier 25 de ce mois, Mrs de l'Académie Françoise célébrèrent à leur ordinaire la Feste de S. Louis au Louvre. Ils se trouvèrent en fort grand nombre à cette Cérémonie, à laquelle M. l'Archevesque de Paris, qui est aussi de leur Corps, assista avec les marques de sa Dignité [...] Le reste de l'Assemblée estoit composé de quantité de personnes considérables par leur mérite &amp; par leur naissance. M l'Abbé de la Vau, présentement Directeur de la Compagnie, célébra la Messe, pendant laquelle il y eut une excellente Musique, de la composition de Mr Oudot. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

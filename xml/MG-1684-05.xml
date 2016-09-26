@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-05_009">
+      <div type="article" xml:id="MG-1684-05_009" resp="mercure">
         <head>MG-1684-05_009</head>
         <bibl>Mercure galant, mai 1684, p. 9-12</bibl>
         <p>Arrivée de M. le Marquis de Torcy en Portugal &amp; sa Reception</p>
         <p/>
         <p>Je vous ay appris par ma Lettre de Janvier, que Mr le Marquis de Torcy, Fils aîné de Mr Colbert de Croissy, Ministre &amp; Secretaire d'Etat, avoit esté nommé Envoyé Extraordinaire de Sa Majesté, pour aller en Portugal complimenter le Roy Dom Pédro sur son avenement à la Couronne. [...] Le 17. [...] le Vaisseau [nommé le Faucon] entra dans la Riviere [de Lisbonne]. [...] Le Navire, qui estoit garny par tout de Flâmes, de Banderoles &amp; de Gaillardelettes de diférentes couleurs, salüa le Fort de S. Julien, &amp; ensuite la Tour de Bellin, qui rendirent le Salut. On moüilla entre cette Tour &amp; la Ville &amp; Mr des Granges, Consul François, &amp; Commissaire de la Marine, vint aussi-tost de la part de Mr l'Ambassadeur, conférer avec Mr le Marquis de Torcy &amp; Mr de Villette. Le lendemain 18. le Commandant fit mettre dans sa Chaloupe une Bande de Violons qu'il a sur son Bord. Le Canot où il entra avec Mr de Torcy, suivoit la Chaloupe de fort prés, &amp; ils allérent descendre à Bellin, devant ce fameux Convent, dont la magnificence &amp; la beauté sont si estimées. [...]</p>
       </div>
-
-<div xml:id="MG-1684-05_069">
+      <div type="article" xml:id="MG-1684-05_069" resp="mercure">
         <head>MG-1684-05_069</head>
         <bibl>Mercure galant, mai 1684, p. 69-82</bibl>
         <p>« ll y a longtemps que je ne vous ay parlé de Hanover. Cette Cour, qui suit toutes les manieres de celle de France, l'imite aussi dans ses divertissemens. Le Ballet qu'on y a dancé depuis peu, en est une marque. Une Troupe de jeunes Gens des plus qualifiez, voulant régaler d'une petite Mascarade, Madame Sophie-Charlote de Brunsvvic &amp; de Lunebourg, Fille de Monsieur le Duc de Hanover, se déguisa en Princes Indiens ; &amp; l'Amour qui les conduisoit, les présenta à cette Princesse. Un grand Concert d'Instrumens qui fit l'ouverture du Ballet, préceda ce Dialogue, que chanterent deux Zéphirs.</p>
@@ -235,8 +234,7 @@
         <p/>
         <p>Je croy vous avoir déja parlé plusieurs fois de Madame la Princesse Sophie, qu'on a voulu divertir par ce Ballet. L'esprit, l'agrément, &amp; la beauté, brillent en elle avec de grands avantages. Elle estoit en France avec Madame la Duchesse de Hanover sa Mere, dans le temps du Mariage de la Reyne d'Espagne ; &amp; quoy qu'elle fust dans ses premieres années, des Personnes du meilleur goust &amp; du premier rang, prirent un si grand plaisir à son entretien, qu'ils jugerent déslors de tout ce qui fait aujourd'huy admirer cette Princesse. »</p>
       </div>
-
-<div xml:id="MG-1684-05_160">
+      <div type="article" xml:id="MG-1684-05_160" resp="mercure">
         <head>MG-1684-05_160</head>
         <bibl>Mercure galant, mai 1684, p. 160, 164-167, 169</bibl>
         <p>Tout ce qui s'est passé à la Reception de Madame Royale à Lyon</p>
@@ -248,6 +246,6 @@
         <p/>
         <p>Elle continua son Voyage le Vendredy 5. de ce mois, &amp; partit sur les onze heures, apres avoir entendu la Messe dans l'Eglise des Jacobins.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

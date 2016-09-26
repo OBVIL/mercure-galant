@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-07_010">
+      <div type="article" xml:id="MG-1683-07_010" resp="mercure">
         <head>MG-1683-07_010</head>
         <bibl>Mercure Galant, juillet 1683, 10-15, 17-18</bibl>
         <p>Céremonie faite à Montpellier [et ] Abjuration de trente-deux Personnes</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>On acheva la Procession par le tour Royal, &amp; quand la Benédiction Episcopale eut esté donnée dans l'Eglise de S. Pierre, la Compagnie de Mrs les Penitens, qui sont toûjours pleins de zele, voulant témoigner la joye qu'elle avoit de voir triompher la Croix dans un Lieu, où l'Herésie avoit regné si longtemps avec tant d'empire, s'y rendit tout de nouveau, &amp; y chanta un Motet particulier.</p>
       </div>
-
-<div xml:id="MG-1683-07_152">
+      <div type="article" xml:id="MG-1683-07_152" resp="mercure">
         <head>MG-1683-07_152</head>
         <bibl>Mercure Galant, juillet 1683, p. 152-160</bibl>
         <p>Je manquerois à la promesse que je vous ay faite de vous parler de tout ce qui mérite d'estre sçeu, si je ne vous disois rien d'une Serénade qui fut donnée à Madame de Thiange, le 9. de ce mois sur les dix heures du soir. Elle fut chantée à un Dessus &amp; à une Basse, &amp; ne surprit pas moins par sa nouveauté, que par la beauté de sa simphonie. Le nom de Mr Laurenzani, qui la donnoit, y attira une grande quantité de Personnes de toutes Nations, qui s'en retournerent avec l'admiration que l'on a toûjours pour les Ouvrages de ce merveilleux Romain. Madame de Thiange n'eut pas moins de plaisir que celles qui en reçeurent le plus. Elle aime la Musique, comme elle fait toutes les belles choses, &amp; elle s'y connoist parfaitement. Ainsi, les beautez, ny les défauts, ne luy échapent jamais. Cette Serénade la toucha extrémement, aussi-bien que Mesdemoiselles de la Rochefoucaut, qui estoient alors avec elle. Vous sçavez, Madame, que ces Illustres Personnes ont toutes les qualitez qui peuvent rendre une grande naissance recommandable. Mr l'Abbé de Marsillac leur Frere estoit de la compagnie. Son mérite vous est connu. [...] Les Paroles sur lesquelles Mr Laurenzani avoit composé la Musique, estoient de cette incomparable Romaine Donna Anna Carouso, dont je vous ay si souvent entretenuë. Cette Dame, apres s'estre fait admirer de tous ceux qui l'ont connüe en France, est retournée en Italie, où j'apprens qu'on l'a reçeuë avec la mesme joye qu'on reçoit d'ordinaire les biens dont on a esté privé longtemps, &amp; qu'on desire toûjours avec passion. Ces paroles sont agreables, pleines de bon sens, &amp; marquent beaucoup de délicatesse d'esprit ; mais j'entens dire qu'elle a fait d'autres Ouvrages, qui luy ont acquis une estime generale dans les plus celébres Académies d'Italie. Vous jugerez de ce qu'elle est capable de faire, par les Vers qui furent chantez d'elle dans la Serénade dont je vous parle. Les voicy.</p>
@@ -149,8 +148,7 @@
         <p>à 2. Il fallace balen d'una beltá.</p>
         <p>Sú sú donque a goder la libertá. »</p>
       </div>
-
-<div xml:id="MG-1683-07_230">
+      <div type="article" xml:id="MG-1683-07_230" resp="mercure">
         <head>MG-1683-07_230</head>
         <bibl>Mercure Galant, juillet 1683, p. 230, 232-233, 255-256, 258-259</bibl>
         <p>Voyage du Roy</p>
@@ -165,6 +163,6 @@
         <p/>
         <p>Les Violons se firent entendre au commencement de ce Repas ; les Hautbois des Dragons joüerent ensuite ; les Tambours prirent leur place peu de temps apres, &amp; l'on commença la Santé du Roy debout &amp; découvert.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

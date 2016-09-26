@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1697-11_210">
+      <div type="article" xml:id="MG-1697-11_210" resp="mercure">
         <head>MG-1697-11_210</head>
         <bibl>Mercure galant, novembre 1697, p. 210-222</bibl>
         <p>Te Deum chanté à Paris, &amp; réjoüissances faites pour la conclusion de la Paix Generale.</p>
@@ -60,6 +60,6 @@
         <p>MON Cousin, Les heureux succés dont le Ciel a favorisé mes Armes dans le cours d'une si longue guerre, ne m'ont jamais éloigné du desir sincere que j'avois pour la Paix, qui a toujours été l'unique fin que je me suis proposée dans toutes mes entreprises. [...] Je suis assez récompensé de tout ce que me coûte cette modération, puisqu'elle finit les maux inséparables de la guerre. Le prompt soulagement que mes Peuples en reçoivent, &amp; le plaisir que je ressens de les rendre heureux, me dédommagent assez de tout ce que je leur sacrifie [...] Dieu favorable aux desseins qu'il m'a toûiours inspirez, a ouvert les yeux aux puissances Conféderées, qui desabusées de leurs fausses esperances,[...] ont accepté les conditions que je leur ay si souvent offertes. La Paix qui fut signée le 20 Septembre dernier avec l'Espagne, l'Angleterre &amp; la Hollande a été ratifiée depuis peu de jours. La Ratification de celle que je viens de conclure avec l'Empereur &amp; l'Empire, achevera bien tôt cet ouvrage si important &amp; si necessaire à l'Europe : mais je ne puis differer jusques-là de témoigner à Dieu ma juste reconnoissance, &amp; de lui rendre les actions de graces que je lui dois [...] Je désire donc que vus fassiez chanter le Te Deum dans l'Eglise Metropolitaine de ma bonne Ville de Paris, au jour &amp; à l'heure que le grand Maître ou le Maîtres des Cérémonies vous dira de ma part : &amp; je lui ordonne d'y inviter mes Cours &amp; ceux qui ont accoûtumé d'y assister. Sur ce je prit Dieu qu"il vous ait, mon Cousin, en sa sainteté &amp; digne garde. Ecrit à Versailles le douzième jour de Novembre mil six cens quatre-vingt dix sept. Signé, LOUIS ; &amp; plus bas, PHELYPEAUX .</p>
         <p>Mr le Chancelier, les Cours Superieures &amp; le Corps de Ville, ayant esté invitez d'assister au Te Deum par Mr le Marquis de Blainville, Grand Maistre des Ceremonies, &amp; par Mr des Granges Maistre des Ceremonies, ils se trouverent à Nostre Dame à l'heure marquée, &amp; les Actions de graces ayant esté renduës à Dieu en la manière ordinaire, Mrs les Prevost des Marchands &amp; Eschevins, avec les Conseillers &amp; Quarteniers se rendirent à l'Hôtel de Ville pour y recevoir Monsieur, Madame de Chartres &amp; Mademoiselle. Mr le Nonce, &amp; plusieurs autres Personnes de qualité s'y trouverent aussi pour voir tirer le Feu d'artifice, dont le dessein fut trouvé fort beau. [...] Après que l'on eut tiré le Feu, on presenta à leurs Altesses Royales des Corbeilles de fruits &amp; de confitures, &amp; l'on en porta ensuite dans toutes les Chambres de l'Hôtel de Ville : ce qui fut suivi d'un Bal, qui dura fort avant dans la nuit. Tous les Bourgeois de Paris marquerent leur joye ce même jour, tant par des Illumniations, que par les Feux qu'ils firent le soir devant leurs Maisons. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

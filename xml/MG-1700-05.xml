@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1700-05_019">
+      <div type="article" xml:id="MG-1700-05_019" resp="mercure">
         <head>MG-1700-05_019</head>
         <bibl>Mercure galant, février 1700, p.19-40</bibl>
         <p>RELATION EXACTE de ce qui s'est passé à la mort &amp; aux Funerailles du R. P. Marc d'Aviano, Capucin Prédicateur.</p>
@@ -61,6 +61,6 @@
         <p>Toutes choses estant donc disposées pour faire les Funerailles au jour que l'Empereur avoit marqué, il partit de son Palais la Favorite, avec l'Imperatrice, le Roy des Romains, l'Archiduc &amp; l'Archiduchesse, pour se rendre à l'Eglise des Capucins. Le corps du défunt estoit exposé devant le grand Autel, non seulement renfermé dans une balustrade qu'on avoit faite exprés, mais encore par des Soldats de la Garde de l'Empereur &amp; de la Ville, postez de telle maniere, qu'on pouvoit en defendre l'entrée à tout le peuple, &amp; la permettre seulement aux Dames &amp; aux Personnes de qualite, &amp; a tous les Officiers de la Cour.</p>
         <p>Il n'y eut pour lors que le Roy des Romains qui alla luy baiser les mains, aussitost qu'il fut entré dans l'Eglise. Ils monterent ensuite dans la Tribune pour entendre la Messe solemnelle des Morts, qui fut chantée par Mr l'Evesque de Vienne, Prince du Saint Empire, &amp; par un choeur des principaux Musiciens de l'Empereur. Après que l'on eut fini en noir toutes les lugubres ceremonies du Sacrifice, par les prieres, les aspersions &amp; les encensemens que l'Eglise veut qu'on fasse aux funerailles des défunts, Mr l'Evesque de Nitrie en celebra une seconde avec la mesme solemnité, mais avec cette difference neanmoins, qu'il la dit revestu de blanc, à l'honneur de la sainte &amp; immaculée Vierge Mere de Dieu. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

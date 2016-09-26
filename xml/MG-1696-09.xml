@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-09_085">
+      <div type="article" xml:id="MG-1696-09_085" resp="mercure">
         <head>MG-1696-09_085</head>
         <bibl>Mercure galant, septembre 1696, p. 85-180</bibl>
         <p>Suite de l'histoire du mois dernier.</p>
@@ -65,8 +65,7 @@
         <p>[...] [La petite Marquise] alloit souvent au Bal, à la Comedie, à l'Opera, &amp; toujours avec la même Compagnie. Le Marquis ne la quittoit pas, &amp; tous ses autres Amans voïant assez que c'estoit une affaire reglée, s'estoient retirez. [...] Ainsi le mariage fut arresté. On leva les étoffes, &amp; la ceremonie se fit chez [son] bon oncle, qui comme Tuteur, voulut donner le festin des nôces.</p>
         <p>Jamais la petite Marquise ne parut si belle, que ce jour là. [...] On les unit pour jamais, &amp; chacun leur donnoit mille benedictions. Le soir, le festin fut magnifique. La musique &amp; les violons n'y manquerent pas. Enfin l'heure fatale étant arrivée, les parens &amp; les amis les mirent ensemble dans un lit de parade, &amp; les embrasserent, les hommes en riant, &amp; quelques Vieilles en pleurant. [...]</p>
       </div>
-
-<div xml:id="MG-1696-09_198">
+      <div type="article" xml:id="MG-1696-09_198" resp="mercure">
         <head>MG-1696-09_198</head>
         <bibl>Mercure galant, septembre 1696, p. 198-204</bibl>
         <p>Spectacle donné à Rouën.</p>
@@ -135,16 +134,14 @@
         <p>Un Magistrat digne des Lis,</p>
         <p>Digne de prononcer les Arrests de Loüis.</p>
       </div>
-
-<div xml:id="MG-1696-09_226">
+      <div type="article" xml:id="MG-1696-09_226" resp="mercure">
         <head>MG-1696-09_226</head>
         <bibl>Mercure galant, septembre 1696, p. 226-227</bibl>
         <p>[Liste des Marchandises contenues sur les Vaisseaux de la Flotte de Smirne, appartenant aux March. de Marseille.]</p>
         <p/>
         <p>Je vous envoye un détail des marchandises que l'on a trouvées sur six des Vaisseaux qui sont venus de nostre flote de Smirne. Leur charge est estimée plusieurs millions ; &amp; on a eu à Marseille d'autant plus de joye de leur arrivée, que le Roy a fait la grace à cette Ville là de luy accorder la franchise de son Port. Aussi pour marquer combien  cette joye estoit generale, on y a chanté un Te Deum, &amp; allumé des feux dans toutes les ruës. [...]</p>
       </div>
-
-<div xml:id="MG-1696-09_269">
+      <div type="article" xml:id="MG-1696-09_269" resp="mercure">
         <head>MG-1696-09_269</head>
         <bibl>Mercure galant, septembre 1696, p. 269-290</bibl>
         <p>[Publication de la Paix &amp;c]</p>
@@ -162,6 +159,6 @@
         <p>Le bruit des Trompettes &amp; des Tambours apprit que le Feu alloit commencer, &amp; l'on n'entendit plus qu'un tonnerre de Boëtes qui redoubloit à chaque instant. Chacun eut ensuite les yeux attachez sur les Armes de France &amp; de Savoye, qui brûlerent dans la Cour sans se consumer. Ce Feu fut beau dans toutes ses parties, &amp; finit par cinq grosses gerbes, qui peu de temps aprés descendirent en pluye de feu, &amp; couvrirent toute la cour. L'on apperceut ensuite au même endroit d'où l'artifice estoit parti, un Soleil admirable, mis exprés en l'honneur de la Devise de Sa Majesté. Il en sortit de tous costez une infinité de rayons enflammez, &amp; compassez avec une tres-grande justesse.</p>
         <p>Ce Soleil demeura fixe fort longtemps, &amp; les yeux auroient toujours esté attachez dessus, sans un composé de plusieurs fusées volantes réunies ensemble, qu'on appelle une Girande, qui vola en l'air par dessus cette Tour si élevée, qui est dans la cour, &amp; qu'on dit avoir esté bastie par une Reine, pour y faire observer les Astres. On en fut redevable à la liberalité de Mesdemoiselles de Soissons &amp; de Carignan, qui s'en estoient fait une affaire particuliere. Les Trompettes, dont le nombre estoit grand, firent ensuite trois tours autour de la machine. Les Tambours qui leur succederent, en firent autant ; mais les Fifres &amp; les Hautbois bien concertez ensemble, chasserent tous ces bruits de guerre, par des sons plus tendres, &amp; firent place à une plus douce harmonie, dont l'Assemblée fut vivement touchée. Il parut aprés cela trois tables, l'une toute couverte de Caffé, l'autre de Thé, &amp; la troisième de Chocolat, dont tout le monde fut regalé. Il y eut ensuite un grand Bal, dans un lieu éclairé d'une infinité de bougies. L'Assemblée qui le composoit, fut augmentée par la compagnie qui eut l'honneur de venir à la suite de Mesdemoiselles de Carignan. Ce Bal dura jusques à une heure aprés minuit, &amp; chacun s'en retourna fort satisfait &amp; comblé de differens plaisirs.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

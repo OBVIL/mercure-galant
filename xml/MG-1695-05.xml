@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1695-05_220">
+      <div type="article" xml:id="MG-1695-05_220" resp="mercure">
         <head>MG-1695-05_220</head>
         <bibl>Mercure galant, mai 1695, p. 220-224</bibl>
         <p>Morts.</p>
         <p/>
         <p>Messire Alexandre de Rieux, Marquis de Sourdeac, mort le 7. de ce mois. Il estoit Fils de Guy de Rieux, Marquis de Sourdeac, premier Ecuyer de la Reine Marie de Medicis, &amp; de Louise de Vieuxpont, Dame du Neubourg, Dame d'honneur de la mesme Reine, &amp; petit Fils de René de Rieux, Seigneur de Sourdeac, Marquis d'Oixant, Chevalier des Ordres du Roy, Lieutenant General en Bretagne, Gouverneur de Brest, &amp; de Suzanne de Sainte-Melaine. La Maison de Rieux est une des plus illustres de cette Province, &amp; a donné des Mareschaux de France, des Evesques, &amp; des premiers Officiers dans l'épée. Mr le Marquis de Sourdeac avoit épousé Helene de Clere, Dame d'un fort grand merite, qui s'est toûjours distinguée par son esprit &amp; par sa vertu, &amp; dont il laisse un Fils vivant, à present Marquis de Sourdeac, &amp; quatre Filles, dont il y en a deux Religieuses ; l'une au calvaire du Fauxbourg Saint Germain, &amp; l'autre aux Filles de S. Sacrement du mesme Fauxbourg. On se souviendra longtemps de la magnificence avec laquelle ce Marquis donna une grande Feste dans son Chasteau du Neubourg, en réjoüissance de l'heureux mariage de Sa Majesté, &amp; de la Paix qu'il luy avoit plû donner à ses Peuples. La Tragedie de la Toison d'or meslée de Musique &amp; de superbes spectacles, fut faite exprés pour cela. Il fit venir au Neubourg les Comediens du Marais, qui l'y representérent plusieurs fois en presence de plus de soixante des plus considerables personnes de la Province, qui furent logées dans le Chasteau, &amp; regalées pendant plus de huit jours avec toute la propreté &amp; toute l'abondance imaginable. Cela se fit au commencement de l'hiver de l'année 1660. &amp; ensuite Mr le Marquis de Sourdeac donna aux Comediens toutes les machines &amp; toutes les decorations qui avoient servy à ce grand spectacle qui attira tout Paris, chacun y ayant couru longtemps en foule.</p>
       </div>
-
-<div xml:id="MG-1695-05_225">
+      <div type="article" xml:id="MG-1695-05_225" resp="mercure">
         <head>MG-1695-05_225</head>
         <bibl>Mercure galant, mai 1695, p. 225-244</bibl>
         <p>Apotheose à la memoire de Mr le Mareschal Duc de Luxembourg.</p>
@@ -231,22 +230,20 @@
         <p>Laodamas, le plus grand des Heros,</p>
         <p>Dans le sejour des Dieu goûte un heureux repos.</p>
       </div>
-
-<div xml:id="MG-1695-05_244">
+      <div type="article" xml:id="MG-1695-05_244" resp="mercure">
         <head>MG-1695-05_244</head>
         <bibl>Mercure galant, mai 1695, p. 244-252</bibl>
         <p>Service solennel fait pour Mr le Mareschal Duc de Luxembourg, avec l'Oraison funebre prononcée par le Pere de la Ruë Jesuite.</p>
         <p/>
         <p>Le Mardy 21. du mois passé, on fit un Service solemnel pour Mr le Maréchal Duc de Luxembourg, dans l'Eglise de la Maison Professe des Jesuites de la ruë Saint Antoine, qui est une des plus grandes &amp; des plus commodes pour ces sortes de Ceremonies, estant fort étenduë &amp; ouverte, sans separation de Choeur ny de Nef, à la maniere des Eglises d'Italie. (...) [L]a Messe commença à onze heures, &amp; fut celebrée par Mr l'Evêque &amp; Comte de Noyon, Pair de France, &amp; réponduë en Musique par un grand nombre de Musiciens des meilleurs de Paris. La composition étoit  Mr Charpentier.</p>
       </div>
-
-<div xml:id="MG-1695-05_273">
+      <div type="article" xml:id="MG-1695-05_273" resp="mercure">
         <head>MG-1695-05_273</head>
         <bibl>Mercure galant, mai 1695, p. 273-281</bibl>
         <p>Mariages.</p>
         <p/>
         <p>Le Lundy 23. de ce mois, Mr le President de Mesme fut marié dans l'Eglise de S. Paul, avec Mademoiselle de Brou. Cette Eglise, quoy que grande, se trouva trop petite pour contenir le concours de peuple qui voulut voir la ceremonie. On fut d'abord averti de l'arrivée de la Mariée par un bruit éclatant de Tambours, qui se fit entendre à l'entrée de l'Eglise, &amp; qui fut suivi de la Simphonie qui estoit dans l'Orgue. La Mariée fut conduite par Mr l'Abbé de Mesme dans le Choeur, au pied du grand Autel, où elle se mit à genoux vis à vis de Mr de Mesme, sur un Prie-Dieu posé sur un grand tapis de Turquie. Les Ducs, les Duchesses, &amp; autres Parens, &amp; les personnes de la premiere qualité, qui accompagnoient les Mariez, ayant tous pris leurs places dans des Fauteüils, la celebration du mariage fut faite par Mr l'Evêque d'Amiens, Oncle de la Mariée, &amp; ensuite la Messe dite Mr le Curé de Saint Paul, tandis que l'Orgue &amp; la Simphonie se faisoient entendre de toutes parts. Aprés la Messe, Mr le President de Mesme, accompagné de Mesdames de Vivonne, d'Elbeuf, &amp; des plus proches Parens, remena la Mariée chez Madame sa Mere. Il se retira ensuite en son Hostel, &amp; tout le monde se separa. Sur les six heures du soir, Madame la Duchesse de Vivonne, &amp; Madame la Comtesse de Nancré, comme plus proches Parentes de Mr de Mesme, allerent prendre la Mariée, &amp; la menerent à l'Hostel de Mesme, où elle fut receuë par Mr de Mesme, &amp; par un grand nombre de personnes de la premiere qualité, qui l'attendoient. Elle fut conduite le grand Appartement l'Hostel de Mesme, qui estoit superbement meublé &amp; où l'on voyoit briller de toutes parts la magnificence, la propreté, le bon goust, &amp; la delicatesse. On passa jusqu'à huit heures à recevoir tous les Conviez, Monsieur le Duc visita dans ce temps-là Madame de Mesme, &amp; aprés le compliment ordinaire, on se rendit dans l'appartement à l'Italienne, où toute la Compagnie fut regalee d'un excellent concert de Musique. Sur les neuf heures, on monta dans une grande Salle, où le Soupé se trouva servi. Cette Salle estoit éclairée par un grand nombre de Lustres &amp; de Bougies. Il y avoit deux tables de grandeur égale, de trente couverts chacune, &amp; un buffet d'une extrême magnificence. La Mariée, &amp; toutes le Dames se mirent à une même table, &amp; tous les Homme à l'autre, avec cette circonstance, que cette table se trouvant plus remplie qu'il ne falloit, Mr de Mesme en fit dresser un troisiéme où il se mit avec Mr le Duc d'Elbeuf, &amp; deux ou trois autres personnes. Les viandes furent servies par quarante Suisses divisez en quatre quadrilles, distinguées par quatre differentes couleurs. Quatre Maistres d'hostel avoient soin de servir chaque table, &amp; quarante Valets de chambre estoient occupez à donner à boire, sans qu'il y eust une seule personne de Livrée dans la Salle. Le repas, fut composé de out ce qu'il y avoit de plus delicat pour la saison ; mais l'ordre &amp; la propreté fut ce qu'il y eut de plus admirable. Dés qu'on fut à table, on entendit dans une Salle voisine toute la Simphonie de l'Opera, qui ne discontinua point pendant ce repas. Quelque soin que quatre Suisses eussent pris de refuser l'entrée de l'Hostel à toutes autres personnes qu'aux Conviez, la maison ne laissa pas de se trouver remplie d'un peuple infini, que la curiosite aussi-bien que l'affection que tout le monde, pour de Mr de Mesme, avoit porté à vouloir estre témoin de cette feste. Aprés le Soupé, toute la Compagnie descendit dans l'appartement à l'Italienne, où l'on trouva encore un autre concert de Musique qui dura jusques à minuit. Ensuite la Mariée fut conduite dans son appartement, &amp; aprés qu'elle fut deshabillée, tous les Conviez s'en retournerent chez eux.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

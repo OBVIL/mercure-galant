@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-01_067">
+      <div type="article" xml:id="MG-1685-01_067" resp="mercure">
         <head>MG-1685-01_067</head>
         <bibl>Mercure Galant, janvier 1685, p. 67-70, 74-77</bibl>
         <p>Lettre sur la Conversion de Mr Vignes, Ministre à Grenoble</p>
@@ -73,16 +73,14 @@
         <p>Après sa prédication où assistèrent le Parlement &amp; la Chambre des Comptes en Corps, il passa dans le Choeur de l'Eglise revestu de ses Habits Pontificaux, &amp; précédé de son Chapitre qui l'estoit de la Croix, &amp; qui chantoit le Veni Creator. Il alla la Crosse à la main au Lieu d'où Mr Vignes avoit oüy sa Prédication, &amp; là il reçeut son Abjuration que ce sage Converty fit avec une présence d'esprit, &amp; une constance admirable ; apres laquelle le Chapitre reprit son chemin vers le Grand Autel. Mr l'Evesque y conduisit toûjours par la main Mr Vignes, &amp; y estant arrivez, il luy donna le Sacrement de Confirmation, en la cerémonie duquel Mr de Saint-André, Premier Président au Parlement, &amp; Madame la Comtesse de Clermont, furent le Parrain &amp; la Marraine. Cette solemnité finie, on chanta le Te Deum, &amp; on donna la Benédiction du Saint-Sacrement, puis Mr l'Evesque, les Chanoines, les Prestres, &amp; tous les Clercs, embrasserent nostre nouveau Converty. Son illustre Parrain en fit autant. On vit répandre des yeux de plusieurs Personnes des larmes de joye ; &amp; Mr le Duc Mazarin, &amp; Mr le Prince de Wirtemberg, qui s'y trouverent, en furent fort édifiez.</p>
         <p>Il n'en estoit pas arrivé de mesme au Temple le lendemain de sa retraite, qui estoit un Dimanche, car les Pseaumes y furent chantez si lamentablement, qu'on connut bien que ces pauvres Dévoyez avoient le coeur triste par l'éloignement de leur Pasteur, qu'ils aimoient &amp; estimoient si parfaitement, qu'ils ne l'appeloient point autrement que le bon Israëlite. [...]</p>
       </div>
-
-<div xml:id="MG-1685-01_208">
+      <div type="article" xml:id="MG-1685-01_208" resp="mercure">
         <head>MG-1685-01_208</head>
         <bibl>Mercure Galant, janvier 1685, p. 208-209</bibl>
         <p>Sermon de M. l'abbé Fléchier</p>
         <p/>
         <p>Le Mercredy 17 de ce mois, jour de la Feste de S. Antoine, Mr l'Abbé Fléchier, Aumônier ordinaire de Madame la Dauphine, prononça l'Eloge de ce Saint, dans l'Eglise des Religieux de S. Antoine, Chanoines Reguliers de Saint Augustin. Il s'acquita de cette action avec un si grand succés, que son Auditoire composé d'un Monde choisi de Paris, en sortit charmé &amp; tomba d'accord que la solitude ne pouvoit estre loüée avec plus de pieté, de force &amp; d'éloquence. Il y eut Musique &amp; Symphonie, dont on fut fort satisfait.</p>
       </div>
-
-<div xml:id="MG-1685-01_209">
+      <div type="article" xml:id="MG-1685-01_209" resp="mercure">
         <head>MG-1685-01_209</head>
         <bibl>Mercure Galant, janvier 1685, p. 209-212</bibl>
         <p>Vers sur le calme dont joüit la France</p>
@@ -155,8 +153,7 @@
         <p>On dira, c'est chez les François</p>
         <p>Qu'on vit content comme des Roys.</p>
       </div>
-
-<div xml:id="MG-1685-01_246">
+      <div type="article" xml:id="MG-1685-01_246" resp="mercure">
         <head>MG-1685-01_246</head>
         <bibl>Mercure Galant, janvier 1685, p. 246-250, 253-256</bibl>
         <p>Belle action</p>
@@ -165,8 +162,7 @@
         <p/>
         <p>Les Religieuses de la Virginité sont très vertueuses, &amp; ont beaucoup d'esprit. Apres avoir esté sensibles à la douleur, elles ne l'ont pas moins esté à la joye de conserver leur trésor. Aussi-tost qu'elles sçeurent que le Roy avoit la bonté de leur laisser leur illustre &amp; chere Abbesse, elles allérent à l'Eglise chanter le Te Deum en Musique tres-solemnellement, au son des Cloches &amp; au bruit du Canon. Il y eut des Feux de joye allumez, depuis sept heures du matin jusques au soir, &amp; le lendemain la Messe d'action de graces fut chantée par Mr l'Abbé de Château-Renault [...]. Tout le reste de la Noblesse du Vendômois &amp; des Provinces voisines, est venu les jours suivans à la Virginité, féliciter cette Abbesse sur sa généreuse résolution, aussi bien que Mrs les Curez &amp; Ecclesiastiques. Les Communautez de Religieux en ont député de leurs Corps, pour luy rendre leurs devoirs. Le Bailly de Vendômois, tous les Officiers de la Justice de Vendôme &amp; de Montoire, luy sont venus faire compliment, sur la joye de voir qu'elle demeuroit, [...].</p>
       </div>
-
-<div xml:id="MG-1685-01_295">
+      <div type="article" xml:id="MG-1685-01_295" resp="mercure">
         <head>MG-1685-01_295</head>
         <bibl>Mercure Galant, janvier 1685, p. 295-296, 299-303, 305-307, 317-318</bibl>
         <p>Suite de l'Article de Siam</p>
@@ -180,14 +176,13 @@
         <p/>
         <p>Le 16. de ce mois, ils retournèrent à Versailles, virent l'Opera de Roland où le Roy étoit, &amp; ils eurent presque toûjours les yeux attachez sur Sa Majesté, parce que lors qu'ils se prosternérent dans la Galerie, leur profonde humiliation les avoit empeschez de voir ce Monarque. [...]</p>
       </div>
-
-<div xml:id="MG-1685-01_327">
+      <div type="article" xml:id="MG-1685-01_327" resp="mercure">
         <head>MG-1685-01_327</head>
         <bibl>Mercure Galant, janvier 1685, p. 327-329</bibl>
         <p>Divertissemens du Carnaval</p>
         <p/>
         <p>Je viens aux divertissemens du Carnaval. On a commencé le 18. Janvier à représenter à Versailles l'Opéra de Roland, &amp; l'on a continué d'en donner des Representations une fois chaque semaine. La Piéce est de Mr Quinaut, Auditeur des Comptes, &amp; la Musique de Mr de Lully, Surintendant de la Musique de la Chambre du Roy, ces deux Messieurs ont si souvent travaillé à ces sortes de divertissemens, que tout Paris est persuadé de leur sçavoir faire. Outre ce divertissement, il y en a eü plusieurs autres à la Cour, où l'on a pris deux ou trois fois la Semaine celuy de la Comedie. Il y a eü aussi Appartement &amp; plusieurs Mascarades, sçavoir une grande chaque Semaine, &amp; plusieurs petites ; &amp; comme elles doivent continüer le reste du carnaval, je ne vous en diray rien aujourd'huy, afin de vous parler de toutes ensemble au mois prochain.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-03_008">
+      <div xml:id="MG-1682-03_008" type="migration">
         <head>MG-1682-03_008</head>
         <bibl>Mercure Galant, mars 1682, p. 8-9, 12-15, 36, 40-41, 43-44</bibl>
         <p>Reception de M. l'Evesque de Meaux dans la Ville de ce nom, avec toutes les Harangues &amp; les Réponses.</p>
@@ -62,9 +62,8 @@
         <p>Le lendemain huitiéme du mois, le Chapitre, dont les Dignitez estoient revestus de Chapes, précedé de tout le Clergé Séculier &amp; Régulier alla prendre ce Prélat dans la grande Salle de l'Evesché. [...]</p>
         <p>Cela estant fait, on le conduisit la Mitre en teste, &amp; sa Crosse estant portée devant luy, entre deux Hayes de Bourgeois, que Mr Tenier, Capitaine de la Colonelle, avoit placez aux avenuës de la Court de l'Evesché, &amp; sur le Parvis de la Cathédrale, pour empescher le desordre. Les décharges de cette Milice, jointes au bruit des Tambours, des Fifres, des Trompetes, &amp; des Cloches, se firent entendre jusqu'à ce qu'on fut arrivé au grand Portail de l'Eglise. [...] [L'évêque fait alors le serment pour la conservation des droits, immunités et franchises du chapitre, puis une autre harangue.]</p>
         <p>Apres cette Cerémonie, il entra processionnellement dans l'Eglise au bruit des Tambours &amp; des Fifres, au son des Orgues, &amp; au chant de la Musique. On le conduisit au Grand Autel, qu'on luy fit baiser. Il alla de là à sa Chaise, où il s'assit, &amp; en suite à son Trône, d'où il revint au pied de l'Autel. En mesme temps on chanta le Te Deum, dont la Musique fut admirée. [...]</p>
-      </div>
-
-<div xml:id="MG-1682-03_082">
+      </div> 
+      <div xml:id="MG-1682-03_082" type="migration">
         <head>MG-1682-03_082</head>
         <bibl>Mercure Galant, mars 1682, p. 82-85, 87, 89-90, 92-93, 97-101</bibl>
         <p>Honneurs rendus à M. le Duc &amp; à Madame la Duchesse de Hanover, dans les Etats de M. l'Electeur de Brandebourg, &amp; à la Cour de ce Prince.</p>
@@ -82,8 +81,7 @@
         <p>Dans ce superbe Carrosse estoient Madame la Duchesse &amp; Mr le Duc de Hanover, Mr l'Electrice &amp; Mr l'Electeur. [...] Une Compagnie de trois cens Trébans en Livrée bleuë, toute couverte d'or &amp; d'argent, environnoit ce Carrosse. Ils marchoient armez de leurs grandes Pertuisanes à la Macédonienne. Quatre Valets de pied de mesme parure, faisoient une somptueuse &amp; tres-agreable confusion, mêlez avec ces Hallebardiers autour de cette triomphante Machine, qui estoit précedée de vingt Trompetes, &amp; de deux Timbaliers, dans la plus éclatante Livrée &amp; dans le plus brillant équipage qu'on puisse employer en de pareilles solemnitez.</p>
         <p>Apres ce grand Carrosse suivoit celuy de Madame la Princesse Electorale, où estoit aussi Madame la Marquise de Brandebourg, Fille unique du feu Prince Radzevil, Heritiere de quatre Principautez, &amp; mariée depuis peu au Prince Loüis, second Fils de Mr l'Electeur, sans que le mariage ait esté encor consommé. Elle donnoit la place d'honneur à Madame la Princesse de Hanover. Madame la Duchesse d'Holstein, la seule qui reste de la Maison des Princes de Brick, estoit avec elles dans ce Carrosse. Il estoit suivy de plusieurs autres de Princes &amp; des Princesses ; &amp; enfin un Regiment de Cavalerie ayant à la teste ses Timbales &amp; ses Trompetes, fermoit cette marche. [...] A mesure qu'on avançoit dans la Ville, dont les Ruës estoient bordées de la Bourgeoisie en haye &amp; sous les armes, il se faisoit une Salve continuelle de tous ces Bourgeois qui s'estoient parez à l'avantage ; &amp; aussitost qu'on entra dans la Porte du Chasteau, les Gardes à pied firent une triple Salve de neuf mille coups de Mousquets. On descendit de Carrosse au bruit de cette mousqueterie &amp; des fanfares des Trompetes &amp; Timbales. [...]</p>
       </div>
-
-<div xml:id="MG-1682-03_283">
+      <div xml:id="MG-1682-03_283" type="migration">
         <head>MG-1682-03_283</head>
         <bibl>Mercure Galant, mars 1682, p. 283-285</bibl>
         <p>« BOUTS-RIMEZ</p>
@@ -112,6 +110,6 @@
         <p>Et si l'on le voyoit sans frais &amp; sans machines,</p>
         <p>Je l'aurois dans ma Salle avec un Paravent. »</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

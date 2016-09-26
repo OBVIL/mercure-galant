@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1697-02_059">
+      <div type="article" xml:id="MG-1697-02_059" resp="mercure">
         <head>MG-1697-02_059</head>
         <bibl>Mercure galant, février 1697, p. 59-88</bibl>
         <p>Reception faite à Mr le Mareschal Duc de Bouflers à Beauvais, en qualité de Gouverneur.</p>
@@ -62,8 +62,7 @@
         <p>[Suivent la restitution des lettres patentes de l'érection du Comté de Cagny en duché sous le nom de Bouflers.]</p>
         <p>Ces Lettres furent leuës &amp; enregistrées sur la prononciation de Mr le President d'Hucqueville, Maire, avec l'agrément &amp; l'applaudissement de tous les assistants. Les acclamations du peuple se mêlerent pour lors au son des cloches, aux fanfares des Trompettes &amp; au bruit des Tambours. [...]</p>
       </div>
-
-<div xml:id="MG-1697-02_155">
+      <div type="article" xml:id="MG-1697-02_155" resp="mercure">
         <head>MG-1697-02_155</head>
         <bibl>Mercure galant, février 1697, p. 155-172</bibl>
         <p>Harangue faite à Mr l'Archevesque de Paris.</p>
@@ -72,8 +71,7 @@
         <p>Le 3 de ce mois, Mr l'Archevêque se rendit dés le matin dans cette Eglise, pour terminer cette Mission. Mr le Curé accompagné d'un Clergé composé de cinquante Ecclesiastiques, &amp; des Peres Missionnaires, l'alla recevoir en Procession aux dernieres maisons de sa Paroisse, où Mr l'Archevêque estant descendu de carosse, fut conduit sous un dais à l'Eglise en chantant le Cantique Benedictus. A l'entrée de l'Eglise, Mr le Curé le harangua [...]</p>
         <p>[Suit la harangue.]</p>
       </div>
-
-<div xml:id="MG-1697-02_182">
+      <div type="article" xml:id="MG-1697-02_182" resp="mercure">
         <head>MG-1697-02_182</head>
         <bibl>Mercure galant, février 1697, p. 182-202</bibl>
         <p>[L'article rend compte des péripéties que rencontra un père, un « fort honneste homme » qui « avoit amassé beaucoup de bien » en cherchant à marier sa fille unique.]</p>
@@ -82,16 +80,14 @@
         <p/>
         <p>[...] Elle estoit tres-belle ; &amp; comme il l'aimoit fort tendrement, toute ses pensées alloient à luy procurer un parti avantageux. Il n'avoit rien épargné pour augmenter en elle un merite que sa complaisance, l'agrément de son humeur &amp; la vivacité de son esprit faisoient éclater par tout où on la voyoit. Elle avoit une grace merveilleuse dans la danse, &amp; sçavoit fort bien joüer du Lut &amp; du Clavessin. [...] Cependant la Belle, dont l'humeur estoit fort douce, &amp; qui n'estimoit rien tant que la vie tranquille, comptoit pour rien tous les avantages que la nature &amp; la fortune luy avoient donnez [...]</p>
       </div>
-
-<div xml:id="MG-1697-02_202">
+      <div type="article" xml:id="MG-1697-02_202" resp="mercure">
         <head>MG-1697-02_202</head>
         <bibl>Mercure galant, février 1697, p. 202-223</bibl>
         <p>Secrets merveilleux dont l'experience a esté faite devant le Roy.</p>
         <p/>
         <p>Je ne puis m'empêcher de repeter ce que je vous ay dit déjà plusieurs fois, que jamais les Arts n'ont tant fleury que sous le regne du Roy, que jamais on n'a tant ny si bien pensé, &amp; qu'on a inventé mille choses, qui ont esté inconnuës aux Anciens. Voicy la troisième fois que Mr de Lagarouste, Gentilhomme de la Ville de Saint Cere en Quercy, me donne occasion de parler de son merveilleux genie. [...] Je vous ay parlé aussi d'une machine de Musique qu'il a faite, &amp; qu'il a nommée Pandolyre, nom qui luy convient tres-bien, puisque c'est l'assemblage de toutes sortes d'Instrumens ; c'est une Machine que l'on ne peut assez admirer. Aussi le Roy en ayant examiné le dessein avec beaucoup d'attention, en fut si surpris que Sa Majesté avoüa qu'elle n'avoit jamais rien vû d'une si grande imagination. Le Public sera bien aise que je luy en marque la construction, [...], &amp; que je luy fasse part en détail que l'Auteur en fait à ses Amis. C'est un Corps d'Architecture &amp; de Sculpture, d'une tres-grande beauté, qui a vingt-deux pieds de long sur quartorze de hauteur, &amp; sept de face du costé des Claviers. Il y a au premier corps d'en bas treize Statuës en forme de Termes qui sont organisées, chantant chacune leur partie, avec le mouvement du menton, &amp; toutes ensemble comme dans un Choeur de Musique. L'on voit un Char où sont assis trois petits Amours qui joüent de la Musette, avec le mouvement de la teste, des bras, &amp; des doigts sur le chalumeau, qui sert de chaize à l'Organiste. Dans ce premier étage est une Orgue à douze ou quatorze Jeux, que l'Auteur a fait de sa main. Les soufflers &amp; le Souffleur y sont cachez. Dans le deuxième Corps sont quatre Clavecins tous differens, dont le premier qui sert de mobile à toute la machine, est à trois cens cordes portées sur une table &amp; sur trois chevalets, dont chaque rang est accordé differemment ; de force que ce Clavecin seul fait Concert entier. C'est l'Instrument le plus singulier qu'on ait jamais vû. Il est d'une bonté &amp; d'une beauté admirable. Dans le troisième étage sont les Luths, des Theorbes, des Violes &amp; des Violons. C'est une seule personne qui fait joüer ensemble tous ces Instrumens par le moyen de trois claviers qui sont placez dans ce Grand Clavecin. Par le premier l'on fait chanter les Statuës, joüer de la Musette aux enfans, &amp; l'Orgue de même, quoy que separément si l'on veut, les figures n'y ayant aucun rapport. Par le deuxième Clavier toute la Machine jouë à la fois ; &amp; par le troisième, l'Instrument seul que l'on veut entendre. On y voit sur le devant un frontispice où sont placées les neuf Muses avec Apollon, ayant chacune en main leur Instrument de Musique dont elle joüent, &amp; dont on voit le mouvement, &amp; pour couronment l'Auteur y a placé la figure du Roy, que la Gloire &amp; la Victoire couronnent, &amp; deux Renommées qui luy viennent offrir l'Univers entier, en luy presentant deux Globes, où sont l'un &amp; l'autre Hemisphere. Autour du Gouvernement sont treize enfans qui portent tous des Instrumens differens, dont on voit encore le mouvement. Cet ouvrage, merveilleux en toutes ses parties, a acquis à l'Auteur une si grande reputation, qu'une infinité de gens de la premiere qualité, &amp; de Curieux ont efté chez luy pour le voir, ne pouvant ajoûter foy à tout ce qui leur en avoit esté dit. [...]</p>
       </div>
-
-<div xml:id="MG-1697-02_253">
+      <div type="article" xml:id="MG-1697-02_253" resp="mercure">
         <head>MG-1697-02_253</head>
         <bibl>Mercure galant, février 1697, p. 253-260</bibl>
         <p>Mr le comte de Briole nommé à l'Ambassade de Savoye.</p>
@@ -100,6 +96,6 @@
         <p>[Suit une description des mets et des rafraîchissements placés dans une alcôve de la pièce principale. « Ainsi toute l'Assemblée eut ce qu'elle souhaitoit pour manger ou pour boire »]</p>
         <p>Ceux qui avaient dansé un Balet avant l'ouverture du Bal, surprirent une seconde fois l'Assemblée, &amp; en dansèrent un second, sous d'autres habits. Leurs Altesses Royales, &amp; tout ce que la Cour &amp; Paris ont de distingué, se trouverent à ce Bal, qui meriteroit une plus ample description que celle que je vous en fais.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

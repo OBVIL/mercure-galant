@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-09_119">
+      <div type="article" xml:id="MG-1685-09_119" resp="mercure">
         <head>MG-1685-09_119</head>
         <bibl>Mercure Galant, septembre 1685, p. 119 [Dans ce long article descriptif, il n'est fait allusion à la musique qu'en tête du premier paragraphe transcrit ici.]</bibl>
         <p>Relation de Mr Chassebras de Cramailles, contenant son Voyage depuis Venise jusques à Rome, &amp; ses Remarques sur les Villes, Lieux &amp; Chemins considerables, avec les Devotions de Nostre-Dame de Lorette, &amp; de Saint François d'Assise</p>
         <p/>
         <p>Je vous ay déjà donné plusieurs Relations de M. de Chassebras de Cramailles, &amp; entre autres celle de dix ou douze Opera, qui furent representez à Venise en son seul Carnaval, du temps que ce curieux voyageur y estoit. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09_209">
+      <div type="article" xml:id="MG-1685-09_209" resp="mercure">
         <head>MG-1685-09_209</head>
         <bibl>Mercure Galant, septembre 1685, p. 209-212, 214-219</bibl>
         <p>Relation de ce qui s'est passé au Louvre le jour de la Feste de S. Loüis</p>
@@ -68,8 +67,7 @@
         <p/>
         <p>Le jour de la S. Loüis, la Procession dont je viens de vous parler, se rendit au Louvre dans l'ordre suivant. Les Timbales &amp; les Trompettes estoient précedées du Bâton de la Confrairie de Saint Roch, aux costez duquel on voyoit de grandes Torches, où les Armes de la Ville estoient attachées. Les Pains Benits suivoient avec les plus magnifiques ornemens dont on a coûtume de les enrichir. Ils estoient accompagnez de douze Gardes de Mr de Bullion [Cette année, c'est M. de Bullion, prévôt de Paris, qui avait été désigné par la Confrérie de Saint-Roch pour distribuer le pain béni. La coutume voulait que, chaque année, les membres de la Confrérie désignent celui qui serait chargé « de bien vouloir se charger des voeux de toute la Ville, &amp; animer par son exemple la pieté publique ».], &amp; portez par douze Personnes de ses Livrées, suivies de plusieurs autres pour les relayer. Après les autres Pains Benits marchoient l'Aumônier, le Maitre d'Hostel, &amp; plusieurs Domestiques du mesme Mr de Bullion. Toutes les Reliques de l'Eglise des Carmes paroissoient ensuite. Au milieu, estoient celles de Saint Roch, portées toutes par des Bourgeois vétus de noir, hors celle de la Sainte Epine, que des Religieux portoient. [...] Messieurs les Prevosts, Echevins &amp; Officiers de Ville marchoient après eux, accompagnez de cinquante Archers ; il y en avoit aussi plusieurs qui précedoient la Procession, &amp; d'autres qui l'attendoient au Louvre. [...] La Procession estant arrivée au Louvre, Mr de Bullion s'y rendit, &amp; fut placé dans un lieu de distinction, où il y avoit une Chaise pour luy. Les Trompettes &amp; les Timbales précederent les Pains qu'on devoit benir, lors qu'on les porta devant l'Autel pour cette Ceremonie. Ils furent suivis de l'Aumônier, du Maistre d'Hostel, &amp; du reste des Domestiques. M. le Marquis de Bullion alla à l'Offrande avec un Cierge chargé d'Ecus d'or, outre lesquels il en donna encore autant à l'oeuvre de la Confrairie de Saint Roch. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09_219">
+      <div type="article" xml:id="MG-1685-09_219" resp="mercure">
         <head>MG-1685-09_219</head>
         <bibl>Mercure Galant, septembre 1685, p. 219, 232-233</bibl>
         <p>Eloge du Roy, par Mr l'Abbé Capeau</p>
@@ -78,32 +76,28 @@
         <p/>
         <p>Il y eut une excellente Musique pendant la Messe. Elle estoit de Mr Oudot, qui receut de grands applaudissemens. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09_237">
+      <div type="article" xml:id="MG-1685-09_237" resp="mercure">
         <head>MG-1685-09_237</head>
         <bibl>Mercure Galant, septembre 1685, p. 237-239</bibl>
         <p>Ce qui s'est passé dans la Ville de Luxembourg, le jour de la S. Loüis</p>
         <p/>
         <p>Le mesme jour les Habitans de Luxembourg, qui l'année derniere avoient celebré avec beaucoup de solemnité le jour de S. Loüis, parce que c'est celuy de la Feste du Roy, s'engagerent à la celebrer tous les ans avec une magnificence digne de leur zele. L'Assemblée du Clergé, &amp; de tous les Corps, se fit dans l'Eglise des Recolets François, que le Roy a établis. On alla ensuite en Procession dans la Ville. Le Saint sacrement porté par Mr l'Abbé de Munster, &amp; suivy de Mr le Marquis de Lambert Gouverneur de la Place, accompagné de tous les Officiers de Garnison, &amp; de beaucoup de Noblesse des environs. Les Voix &amp; les Instrumens n'y furent pas oubliez plus que tout ce qui pouvoit donner de l'éclat à cette Feste. [...] [Le Père Olivier Juvernay, gardien des Recollets de Luxembourg, prononce ensuite le panégyrique de saint Louis.] Il y eut le soir des Illuminations par toute la Ville, &amp; plusieurs décharges de la Mousqueterie &amp; l'Artillerie ; tous les Habitans ayant voulu marquer à l'envy qu'ils ont le coeur veritablement François. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09_256">
+      <div type="article" xml:id="MG-1685-09_256" resp="mercure">
         <head>MG-1685-09_256</head>
         <bibl>Mercure Galant, septembre 1685, p. 256-257</bibl>
         <p>Nouvelles Cloches benites en l'Eglise de S. Etienne du Mont, &amp; tenües par les six Docteurs Regens de la Faculté de Droit de l'Université de Paris</p>
         <p/>
         <p>On a fait quatre nouvelles Cloches pour l'Eglise de Saint Estienne du Mont à Paris ; &amp; elles ont esté benites depuis peu de temps par M. Gardeau Curé de cette Paroisse. Elles eurent pour Parains les six Docteurs Regens de la Faculté de Droit de l'Université de Paris, qui sont Mrs Doujat, Hallé, de Loy, Baudon, Cugnet &amp; Mongin. Ils nommerent la premiere Estienne, à cause que cette Eglise est dédiée à Saint Estienne, &amp; les trois autr[e]s furent nommées Jean, Pierre, &amp; Michel, du nom des trois anciens de ces six Docteurs.</p>
       </div>
-
-<div xml:id="MG-1685-09_257">
+      <div type="article" xml:id="MG-1685-09_257" resp="mercure">
         <head>MG-1685-09_257</head>
         <bibl>Mercure Galant, septembre 1685, p. 257-265</bibl>
         <p>Etats de Bretagne</p>
         <p/>
         <p>Je ne vous ay point parlé des Etats de Bretagne, qui se sont tenus depuis peu. Tout s'est passé à l'ordinaire, c'est à dire, à la satisfaction du Roy &amp; de la Province. Vous sçavez que pendant qu'ils durent, chacun s'efforce à l'envy de faire paroître sa magnificence. Mr le Duc de Chaunes a toûjours tenu deux Tables, qui ont esté servies avec beaucoup d'abondance &amp; de propreté. La mesme chose a esté de toutes les autres Tables, &amp; sur tout de celle de Mr l'Evesque de Saint Malo. Il y avoit fort souvent jusqu'à cinquante Personnes. Mr de Chaunes voulut un jour regaler toutes les Dames, &amp; il leur donna un souper magnifique. Le Sieur Duméry dont la voix s'est fait long-temps admirer à l'Opera, a fait differens Concerts qui ont esté extrémement applaudis, &amp; les Etats luy ont fait une gratification digne de leur liberalité, &amp; de la generosité de Mr le Duc de Chaunes. Après qu'ils furent finis à Dinan, Mr l'Evesque de Saint Malo traita à Saint Malo Mr Fieubet, premier Commissaire du Roy pour la Province. Ce Prelat &amp; Mr de Guemadeu allerent au devant de luy avec toute leur maison qui est fort nombreuse. En arrivant sur la Gréve à la portée du Canon, la Ville le salüa de cinquante volées de son Artillerie, &amp; tout le Peuple accourut en foule en criant Vive le Roy. La garnison de la Ville estoit sous les armes, &amp; il fut conduit à l'Evesché, où tous les Corps le complimenterent. On luy servit ensuite un magnifique dîner en Poisson, ce qui le surprit d'autant plus que ce jour là le temps estoit fort mal propre pour la pesche. Les Tambours &amp; les Violons ne cesserent point de joüer pendant le repas. Au sortir de Table, on trouva six Carrosses à six Chevaux que l'on avoit préparez, &amp; dans lesquels l'on fit une promenade sur la Gréve. On entra ensuite dans plusieurs petits Bâteaux, qui allerent joindre un grand Vaisseau. Mr de Fieubert y fut receu avec les Tambours, les Trompettes, &amp; les Violons, &amp; l'on y servit une tres superbe collation. [...] Lors qu'on retourna dans la Ville, on trouva encore la Garnison sous les armes. Le Gouverneur fit la civilité à Mr de Fieubert de luy demander l'ordre. Après le soupé qui fut somptueux ; il y eut Comedie &amp; Musique ; puis on passa dans une grande Sale qui avoit esté préparé pour le Bal, &amp; qui estoit magnifiquement ornée, &amp; enrichie de plusieurs Tableaux de grand prix. On servit pendant le Bal une tres-galante Collation, avec quantité de liqueurs rafraichissantes, &amp; l'on se separa qu'après avoir fait media noche. Ce dernier régale fut donné sans que personne s'y fust attendu. Le lendemain les Tambours, les Violons &amp; les Haut Bois se trouverent au lever de Mr le Commissaire du Roy. Mr de S. Malo alla ensuite le prendre pour le mener à la Messe, où cét Evesque luy fit tous les honneurs qu'il pouvoit luy faire. Il y eut Musique pendant la Messe, &amp; l'on disna au sortir de là, parce que Mr de Fieubert estoit pressé de partir. A l'issue du disner Messieurs de Ville prirent congé de luy, &amp; en receurent mille honnestetez. [...] Vous voyez, Madame, qu'on ne peut rien ajoûter à l'éclat de magnificence &amp; de grandeur avec lequel ce Prelat vient à bout de ce qu'il entreprend. La belle voix du Sieur Dumény ne donna pas moins de plaisir dans ces divertissemens quelle [sic] avoit fait aux Etats.</p>
       </div>
-
-<div xml:id="MG-1685-09_275">
+      <div type="article" xml:id="MG-1685-09_275" resp="mercure">
         <head>MG-1685-09_275</head>
         <bibl>Mercure Galant, septembre 1685, p. 275-276, 283-284]</bibl>
         <p>Affaires d'Allemagne</p>
@@ -116,22 +110,20 @@
         <p/>
         <p>[...] Aprés la Bataille, Monsieur le Prince de Conty envoya Mr de la Chapelle Secretaire de ses Commandemens, porter cent cinquante Ducats aux Cavaliers de l'Escadron dans lequel il avoit combattu, &amp; dix en particulier au Cavalier qui s'estoient trouvé à son costé. Cette liberalité fut receuë avec des marques de joye &amp; d'admiration, qui durent tout le reste du jour, &amp; au bruit des Trompettes &amp; des Timbales. [...]</p>
       </div>
-
-<div xml:id="MG-1685-09_323">
+      <div type="article" xml:id="MG-1685-09_323" resp="mercure">
         <head>MG-1685-09_323</head>
         <bibl>Mercure Galant, septembre 1685, p. 323-326</bibl>
         <p>Comédie representée à Roüen</p>
         <p/>
         <p>On me mande de Roüen un petit Prodige dont je dois vous fais part. Mademoiselle de Villiers, Femme d'un des Comediens de Sa Majesté, à l'exemple de Mademoiselle Raisin sa Mere, qui avoit formé une Troupe de petits Comediens, appellez la Troupe de Monseigneur le Dauphin, y en a étably une autre, à laquelle le Roy a permis de joindre le titre de Comediens de Monseigneur le Duc de Bourgogne. Elle a choisy pour la composer, huit Enfans avec un Garçon &amp; une Fille qu'elle a ; &amp; les a si bien concertez ensemble, qu'ils ont surpris &amp; charmé toute la Ville, dans deux Representations que cette petite Troupe a déjà donnée d'Ariane, sur le Theatre des Comediens de Monseigneur le Dauphin qui sont toûjours à Roüen. La Fille de mademoiselle de Villiers ; qui est la plus vielle de la Troupe, quoi qu'elle n'ait encore que dix ans, a fait des merveilles dans le Role d'Ariane, qui est tout remply de passion. Son Frere qui n'en a que huit, s'est fait admirer en joüant Thesée. Et la petite Phedre, âgée de sept ans, a esté extremément applaudie. On peut dire que cet établissement est avantageux au Public, puisque ce sont des Eleves que l'on forme pour son plaisir, comme il s'en fait dans toutes les autres Professions. La pluspart des bons comediens, tant Serieux que Comiques, comme Mrs Baron, Raisin, &amp; autres qui sont dans la troupe de Sa Majesté, ont esté élevez de cette sorte, &amp; on les a tirez de celle de Monseigneur le Dauphin, pour les faire venir à Paris, où vous sçavez qu'ils se sont rendus Parfaits.</p>
       </div>
-
-<div xml:id="MG-1685-09_328">
+      <div type="article" xml:id="MG-1685-09_328" resp="mercure">
         <head>MG-1685-09_328</head>
         <bibl>Mercure Galant, septembre 1685, p. 328-329</bibl>
         <p>Musique aux Theatins</p>
         <p/>
         <p>Mercredy dernier 26. de ce mois, il y eut aux Theatins un Salut en Musique, avec des Prieres pour les Morts. La mesme chose se doit faire tous les Mercredis dans la mesme Eglise. La Musique est du fameux Mr Lorenzani, Maistre de la Musique de la Reine. L'habileté qu'il a dans cet Art, est connüe de tout le monde. Cet Article demande plus d'étendüe, &amp; je le reserve pour le mois prochain [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

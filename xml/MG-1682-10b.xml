@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-10b_006">
+      <div xml:id="MG-1682-10b_006" type="migration">
         <head>MG-1682-10b_006</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 6-7, 9-10</bibl>
         <p>Jacobins du Grand Convent de Paris.</p>
@@ -59,8 +59,7 @@
         <p>La naissance de Monseigneur le Duc de Bourgogne, qui a donné tant de joye à tous les François, est assurément une récompense de ce zele, qui attire tous les jours de nouvelles Benedictions du Ciel sur le Roy. On continuë en plusieurs endroits à rendre graces à Dieu de cette Naissance ; &amp; les Jacobins du grand Couvent de Paris, quoy qu'ils eussent chanté deux fois solemnellement le Te Deum, &amp; allumé deux Feux diférens pendant les Réjoüissances publiques, en firent une particuliere le Dimanche 4. de ce mois. C'étoit un jour consacré à la grande Feste du Rosaire, dont Loüis XIII. Loüis le Grand, &amp; Monseigneur le Dauphin, ont embrassé la devotion dés leur Berceau ; [...]</p>
         <p>La Réjoüissance commença par la décharge de quantité de Boëtes, apres quoy une excellente Musique mêlée de Symphonie, chanta le Te Deum &amp; l'Exaudiat aux Fanfares des Trompetes, &amp; au bruit des Timbales. Un Feu d'artifice des plus beaux termina la Feste.</p>
       </div>
-
-<div xml:id="MG-1682-10b_017">
+      <div xml:id="MG-1682-10b_017" type="migration">
         <head>MG-1682-10b_017</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 17-19, 22-24</bibl>
         <p>Lyon.</p>
@@ -69,8 +68,7 @@
         <p>Ces marques de joye se sont données dans toutes les Villes. Les Communautez Religieuses firent à l'envy paroître la leur par l'illumination de leurs Clochers, &amp; par quantité de Fusées volantes. Les Célestins, qui dés la nuit du 22. au 23. avoient illuminé leur Clocher, préparérent quelque chose de singulier pour le jour de S. Loüis, mais la pluye les obligea de remettre ce spectacle jusqu'au Dimanche 30. Aoust. Ce jour-là, après avoir fait tirer grand nombre de Boëtes, ils mirent le feu à une Machine, qu'ils avoient ornée de trois Devises, l'une pour le Roy, &amp; les deux autres pour Monseigneur le Dauphin, &amp; Monseigneur le Duc de Bourgogne. [...]</p>
         <p>Pendant [que la] Machine bruloit, &amp; que les Fusées s'élevoient en l'air, ces Religieux, tous un flambeau à la main, entrérent dans leur Eglise, où leur Provincial qui estoit alors chez eux, entonna solemnellement le Te Deum. Le Choeur poursuivit au son de l'Orgue touché par Mr Boussart, qui par sa délicatesse se fait admirer de tout le monde. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_025">
+      <div xml:id="MG-1682-10b_025" type="migration">
         <head>MG-1682-10b_025</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 25-34, 37-46</bibl>
         <p>Carrousel, Feu d'artifice, &amp; autres Festes.</p>
@@ -90,8 +88,7 @@
         <p>Entre la premiere &amp; la seconde Race, à la teste de laquelle on voyoit Pepin, on fit passer un Char relevé de deux manieres, de petits Portiques ornez de Festons &amp; de Rideaux flotans &amp; remply d'excellens Maistres, qui par un Concert de Cromornes, Hautbois, Flutes-douces, &amp; Timbales, donnoient beaucoup de plaisir aux Spectateurs. [...] Ensuite on voyoit le Char de l'Eglise Gallicane précedé de deux Trompetes &amp; d'une Timbale. [...]</p>
         <p>Hugues Capet, Défenseur de la Couronne, parut à la teste de la troisiéme Race, habillé à la Romaine, d'une Moëre couleur de feu, surmontée de plusieurs rangs de Dentelles d'or, bordée &amp; garnie de Perles &amp; de Diamans. [...] Philippe Auguste, marchant apres Robert, Henry I. Philippe I. Loüis le Gros, &amp; Loüis le Jeune, fut le premier de ces Rois, que l'on vit vestu à la Françoise avec un Juste-au-Corps chamarré d'or &amp; d'argent. La marche estoit interrompuë devant luy par deux Tambours &amp; un Trompete. Elle fut fermée par un Char où estoit assis le Génie de la Bourgogne, qui représentoit le jeune Duc qui porte aujourd'huy son nom. [...] Les plus fameux Argonautes Jason, Thesée, Castor, &amp; Pollux, &amp; plusieurs autres, entouroient le Char, qui estoit tapissé de Damas rouge, &amp; suivy des Rois &amp; Ducs de Bourgogne, Grands Maistres de la Toison d'or, ayant à leur teste Philippe le Bon, Instituteur de cet Ordre. Un Drapeau qui en portoit le Collier les précedoit avec deux Trompetes &amp; une Timbale. Hercule, Personnage Symbolique du Roy, conduisoit les Héros de la Toison, représentez tous par des Enfans, pour faire connoistre que la gloire de ces grands Hommes est effacée par celle de LOÜIS LE GRAND. Un Te Deum chanté en Musique, de la composition de Mr Belon, finit cette Feste. Il fut suivy des fanfares des Trompetes, du bruit des Tambours, &amp; de la décharge des Boëtes que l'on avoit préparées.</p>
       </div>
-
-<div xml:id="MG-1682-10b_046">
+      <div xml:id="MG-1682-10b_046" type="migration">
         <head>MG-1682-10b_046</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 46-49, 53-54</bibl>
         <p>Roussillon.</p>
@@ -99,16 +96,14 @@
         <p>La Province de Roussillon a bien témoigné qu'elle estoit veritablement Françoise, &amp; qu'avec nos Habillemens qu'elle a pris depuis un temps, elle avoit pris aussi le zele que nous avons pour nôtre Auguste Monarque. Dés que la nouvelle de l'Accouchement de Madame la Dauphine eut esté apportée par un Courrier extraordinaire à Mr le Comte de Chazeron, Lieutenant Général des Armées du Roy, &amp; à Mr le President de Trobat, Intendant de la mesme Province ; ces deux Messieurs ne songerent qu'à donner des marques éclatantes de leur joye, &amp; appliquerent tous leurs soins à préparer une Fête. [...] Le 29. d'Aoust, la Feste fut annoncée à Perpignan pour le lendemain, par une Cavalcade de plusieurs jeunes Gens de la Ville, qui chantoient des Airs dans tous les lieux publics, &amp; estoient precédez de Timbales, de Trompetes, de Hautbois, &amp; de douze Drapeaux du Regiment des Milices de la Province, après quoy marchoit un Drapeau Royal que Messieurs les Consuls avoient fait faire &amp; qui estoit porté par la Jeunesse la plus qualifiée. Le 30., on se rendit dans la grande Eglise pour y remercier Dieu du Bonheur qu'il venoit d'envoyer. [...] Mr le Comte de Chazeron assista à une Messe solemnelle, accompagné de tous les Officiers de la Garnison. Le Conseil Souverain occupoit la droite du Choeur, &amp; l'Université &amp; les Consuls la gauche. Un Pere Jesuite fit un Eloge dont il s'aquitta tres dignement. Après midy, les Vespres précederent le Te Deum, qui fut chanté au bruit de tout le Canon de la Ville &amp; de la Citadelle. Ensuite on fit une Procession des plus solemnelles. [...]</p>
         <p>Le 31. fut celebré avec les mesmes réjoüissances. Toutes les Boutiques furent fermées, &amp; le Peuple ne fit que dancer dans les Places publiques, où l'on avoit dressé de petits Theatres pour y placer des Joüeurs de toutes sortes d'Instrumens. Enfin le troisiéme jour Mr l'Abbé de la Réalle fit une Feste magnifique à la Réalle, &amp; tout finit par un tres-grand Feu d'artifice, qui représentoit un Athlas chargé du Monde, d'où sortoient trois Soleils, &amp; par un grand Bal qui fut donné aux Dames à la Maison de Ville.</p>
       </div>
-
-<div xml:id="MG-1682-10b_055">
+      <div xml:id="MG-1682-10b_055" type="migration">
         <head>MG-1682-10b_055</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 55-59</bibl>
         <p>Toulon.</p>
         <p/>
         <p>Le Lundy 24. d'Aoust, les Tambours, Flutes &amp; Hautbois, se mirent en marche dans la Ville de Toulon, pour y disposer le Peuple aux Réjoüissances que l'on avoit résolu de faire. Les quatre Sergens de Ville qui les précedoient avec les Echarpes &amp; les couleurs des Capitaines Quarteniers, portoient sur une Halebarde une Epée d'argent attachée à une Echarpe bleuë avec les couleurs de la Ville. C'estoit le Prix que les Consuls avoient destiné pour la Joûte qui fut faite sur la Mer les deux jours suivans. Le lendemain jour de Saint Loüis, après la solemnité des Cerémonies de la Cathédrale, ausquelles assista Mr de Courcelles, Commandant pour Sa Majesté en l'absence de Mr le Duc de Vendosme, Gouverneur de la Ville, on donna les ordres necessaires, pour faire commencer la Joûte. Le Balcon de l'Hôtel de Ville, soûtenu par deux Termes d'une tres-belle sculpture, servit pour placer Mr &amp; Madame de Courcelles avec plusieurs Dames de qualité qui estoient venuës pour ce Spectacle. A chaque costé de ce Balcon on avoit dressé un Amphitheatre pour placer les Violons &amp; les Hautbois, qui avec les Trompetes devoient animer les Combatans. On les remarquoit sur une petite planche élevée au dessus de la Poupe des Bateaux destinez pour cette Joûte, &amp; qui estoient peints aux Armes de Monseigneur le Dauphin &amp; de la Ville, aussi bien que les Targues &amp; les Lances dont ils se servirent dans le combat. Il dura jusqu'à l'entrée de la nuit, &amp; alors Mr de Courcelles, accompagné des Consuls, se rendit à la Place d'armes où l'on avoit préparé le Feu. [...] Le lendemain on continua la Feste, &amp; les Boutiques furent fermées pendant tout le jour. [...] On recommença la Joûte qui attira un nombre infiny de Spectateurs. Un des Combatans en renversa sept, &amp; ayant fourny ses Courses avec toute la vigueur qu'on peut souhaiter dans un brave Athlete, il reçeut le Prix des mains du Premier Consul. La nuit, ce ne furent que Festins, que Dances, que Bals, &amp; le jour parut avant qu'on eust finy les Plaisirs.</p>
       </div>
-
-<div xml:id="MG-1682-10b_064">
+      <div xml:id="MG-1682-10b_064" type="migration">
         <head>MG-1682-10b_064</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 64-68</bibl>
         <p>Moulins.</p>
@@ -116,32 +111,28 @@
         <p>La joye a esté tres-grande à Moulins, &amp; toute la Ville en a donné d'éclatantes marques ; mais le zele de Mr de Bouville Intendant dans cette Generalité, lui fit prévenir les apprests qui se faisoient pour une Feste publique, &amp; dés le Mardy 11. Aoust il envoya inviter la plus grande partie des Dames, les Officiers du Présidial, du Bureau des Finances, &amp; du Corps de Ville, de mesme que la Noblesse du voisinage, &amp; plusieurs Officiers des Compagnies de Cavalerie qui y sont en garnison. Toute cette Compagnie se rendit chez luy sur les huit heures du soir &amp; trouva dans une grande Salle tres-bien éclairée, trois Tables qui furent servies avec autant de magnificence que de propreté. [...]</p>
         <p>Le 25. toutes les Cloches de la Ville annoncerent dés le matin qu'on devoit chanter le Te Deum. Mr le Marquis de Levy Lieutenant General de la Province, y assista accompagné de Mr de Bouville, du Présidial &amp; du Corps de Ville. Cet Intendant ne se contenta pas d'avoir marqué sa joye en particulier ; il voulut encor contribuër aux Réjoüissances publiques par un magnifique Repas qu'il donna le soir à Mr le Marquis de Levy, à Mr Dobeilh Maire, à Messieurs Gaumin, Belin, Villardin, &amp; Cousin, Echevins, &amp; à plus de quarante Personnes de qualité de la Province &amp; des Troupes. [...] Il y eut en beaucoup d'endroits diverses Tables dressées, où l'on faisoit boire tous les Passans à la santé du Roy &amp; du jeune Prince. Sur les neuf heures, Messieurs de Levy &amp; de Bouville, accompagnez des Maires &amp; Echevins, &amp; d'un fort grand nombre de Gentilhommes, se rendirent à la Place où estoit dressé le Feu de joye, précedez des Tambours de la Ville &amp; de six Trompetes. Après qu'il fut allumé, ils se retirerent à l'Hôtel de Ville, où aussi-tost deux Fontaines de Vin commencerent à couler. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_072">
+      <div xml:id="MG-1682-10b_072" type="migration">
         <head>MG-1682-10b_072</head>
         <bibl>Mercure Galant, octobre 1682, p. 72-73</bibl>
         <p>Clermont en Picardie.</p>
         <p/>
         <p>Clermont, petite Ville de Picardie, n'a pas oublié de marquer son zele. Les plaisirs y commencerent par une marche que firent les Habitans du Fauxbourg, ayant Mr Bonvillé pour Capitaine à leur teste. Ils marcherent en fort bon ordre, Tambour batant, jusques à la Ville, où ils furent reçeus par les Echevins, qui les prierent de partager le divertissement du Feu de joye. Mr de Reberque, Huissier du Cabinet du Roy, qui a eu l'honneur de servir Sa Majesté plusieurs années en qualité de Commissaire General des Vivres dans ses Armées, se distingua fort dans cette Feste. Il fit couler une Fontaine de Vin pendant tout le jour, traita splendidement Messieurs de Ville, &amp; donna le soir le Bal aux Dames, avec une Magnifique Collation.</p>
       </div>
-
-<div xml:id="MG-1682-10b_073">
+      <div xml:id="MG-1682-10b_073" type="migration">
         <head>MG-1682-10b_073</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 73-74</bibl>
         <p>Clermont en Auvergne.</p>
         <p/>
         <p>Je ne vous dis rien des Réjoüissances publiques qui ont esté faites à Clermont en Auvergne. Vous pouvez juger de leur éclat par ce qu'a fait un Particulier. Le Mercredy 2. de Septembre, Mr Chery qui tient l'Académie de la Ville, donna le Spéctacle d'un Carrousel, où plusieurs Gentilhommes extrémement propres, &amp; tres-bien montez, coururent la Bague, les Testes, &amp; l'Oye. [...] Tout le monde fut fort satisfait de leur adresse ; &amp; un Manege de Guerre fort juste termina ce Carrousel. Le soir on illumina toutes les Fenestres de l'Académie, &amp; on fit joüer un Feu d'artifice au bruit des Trompetes, des Tambours, des Violons, des Hautbois, &amp; d'une quantité de Mousquets, &amp; de plusieurs grosses Boëtes. Un grand Repas succeda à ces divertissemens, &amp; l'on ne parla dans toute la Ville, que de la galanterie de cette Feste.</p>
       </div>
-
-<div xml:id="MG-1682-10b_074">
+      <div xml:id="MG-1682-10b_074" type="migration">
         <head>MG-1682-10b_074</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 74-75</bibl>
         <p>Charité sur Loire.</p>
         <p/>
         <p>On s'est distingué à la Charité-sur-Loire, presque toutes les semaines, depuis la Naissance du jeune Prince, par des Illuminations &amp; par des Feux, tantost dans un Quartier, tantost dans un autre. Celuy qui est le plus voisin du Rivage, s'aquita de ce devoir le Dimanche 27. du dernier mois, d'une maniere qui surprit agreablement toute la Ville. Une grande Fille représentant la Victoire, parut l'apresdînée dans un Char tres-propre. Elle estoit vestuë magnifiquement, ainsi que quatre Figures qui représentoient les quatre Parties du Monde, &amp; suivoient le Char. Il estoit tiré par quatre Esclaves, &amp; rouloit au bruit de six Tambours &amp; de six Hautbois, dont l'habillement &amp; la coifure avoient quelque chose de fort singulier. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_092">
+      <div xml:id="MG-1682-10b_092" type="migration">
         <head>MG-1682-10b_092</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 92-97, 99, 102-105</bibl>
         <p>Genes.</p>
@@ -152,16 +143,14 @@
         <p>Mr de S. Olon avoit fait illuminer la Maison Consulaire aussi bien que son Palais ; &amp; dés qu'il fut arrivé, divers Instrumens donnerent le signal du Feu. On le mit d'abord à deux petites Machines qu'on avoit dressées au bout de deux Ruës, qui aboutissent à la grande Place de Campetto. Elles eurent tant de succés qu'on espera tout du Char. Aussi l'effet en fut merveilleux. [...] La Nation Françoise ne s'oublia pas pendant ces trois jours, tous les Particuliers ayant illuminé leurs Fenestres, &amp; fait des Feux devant leurs Maisons. Le soir du 24. elle fit chanter le Te Deum à l'Annonciade en présence de Mr le Résident ; ce qui fut suivy de la décharge de plus de cent Boëtes, &amp; de trois Feux d'artifice. Le lendemain, Feste de S. Loüis, toute la Nation conduite par son Consul, ayant esté prendre Mr &amp; Madame de Saint Olon dans leur Palais, les accompagnerent en la mesme Eglise de l'Annonciade, où ils entendirent la grande Messe, qui fut celebrée solemnellement dans la Chapelle dédiée à ce Grand Saint. La Musique y fut tres-belle, &amp; le Sr Dominico Paganelli en reçeut beaucoup de gloire. On entendit quantité de Boëtes, qui terminérent la Ceremonie, &amp; le soir Mr Aubert voulant signaler son zele en particulier, donna le Spéctacle d'un Feu d'artifice qu'il avoit fait élever au milieu de la Place Campetto. C'estoit un Théatre sur lequel on voyoit une Figure qui représentoit la France Victorieuse. [...]</p>
         <p>Toutes les Fenestres de la Maison estoient éclairées d'une infinité de Flambeaux de Cire blanche, &amp; les Trompetes ayant donné le Signal, on fit joüer le Feu d'artifice, qui fut precédé de quantité de Fusées volantes. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_106">
+      <div xml:id="MG-1682-10b_106" type="migration">
         <head>MG-1682-10b_106</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 106</bibl>
         <p>Livourne.</p>
         <p/>
         <p>La Feste fut commencée à Livourne le Vendredy 21. Aoust, par un Te Deum que l'on chanta solemnellement dans l'Eglise des Peres Observantins, où est la Chapelle de Saint Loüis de la Nation Françoise. Il y eut deux Choeurs de Musique, &amp; une excellente Simphonie. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_109">
+      <div xml:id="MG-1682-10b_109" type="migration">
         <head>MG-1682-10b_109</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 109-112, 115-116</bibl>
         <p>Venise.</p>
@@ -169,40 +158,35 @@
         <p>Les Festes que Mr Amelot, Ambassadeur de France à Venise, a faites pendant trois jours, ont esté fort éclatantes. Elles commencérent le Dimanche 30. Aoust, par un Te Deum qu'il fit chanter dans l'Eglise appellée La Madonna del Horto, après que l'Abbé de cette Eglise eut celebré la Messe Pontificalement. La Musique estoit composée de tout ce qu'il y a de plus excellent à Venise pour les Instrumens &amp; pour les Voix. Trois salves de deux cens Boëtes accompagnérent la Cerémonie, qui attira un concours de monde extraordinaire. [...] Mr le Duc de la Rocheguyon, Mr le Marquis de Liancourt, &amp; quelques autres Gentilhommes François qui se trouverent alors à Venise, dînerent chez Mr l'Ambassadeur. Son Palais fut ouvert à tout le monde depuis quatre heures après midy, jusqu'à onze heures du soir, &amp; il n'y venoit personne à qui l'on ne présentast des Confitures seches, &amp; des Eaux glacées de toutes sortes. La plûpart estoient masquez suivant la coûtume, &amp; ce fut de cette sorte que Mr le Duc de Mantouë y vint, aussi bien que les Ambassadeurs de l'Empereur &amp; du Roy d'Espagne. Les Violons, les Hautbois &amp; les Trompetes, se faisoient entendre de tous costez, &amp; il y avoit de petits Concerts particuliers en divers Apartemens. [...] Toutes les Avenuës du Palais furent éclairées chaque soir par une tres grande quantité de ces Lumieres ardentes qu'on employe dans le Païs en de pareilles occasions, &amp; par de grands Feux qu'on avoit faits sur les Ponts du Canal. [...]</p>
         <p>Cette Illumination fit un effet merveilleux, éclairant la Mer de telle sorte, que toutes les Gondoles de Venise, qu'elle attira, particulierement les deux derniers jours, devinrent un autre Spectacle encor plus nouveau que celuy de la Machine. Une salve de deux cens Boëtes préceda le Feu, qui fut terminé par une Girandole d'une infinité de Fusées volantes. Les Trompetes se faisant entendre du mesme lieu où il fut tiré, répondoient à d'autres qui estoient dans le Jardin ; &amp; lors qu'elles cessoient de sonner, les Hautbois divertissoient agreablement les Spectateurs. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_171">
+      <div xml:id="MG-1682-10b_171" type="migration">
         <head>MG-1682-10b_171</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 171-173</bibl>
         <p>Villeneuve la Crémane.</p>
         <p/>
         <p>En vous parlant il y a un mois des Festes de Montpellier, je vous manday que Madame la Marquise de Castres, qui en l'absence de Mr le Marquis de Castres son Fils, qui en est le Gouverneur, avoit donné ses ordres pour les Réjoüissances publiques, estoit alors à Villeneuve la Crémane. Elle y assista au Te Deum, accompagnée d'un fort grand nombre de Personnes qualifiées, que Mr le Marquis de Villeneuve son Gendre avoit invitées à cette Feste. Ce Te Deum fut suivy du bruit d'une infinité de Boëtes, &amp; d'une décharge de Mousqueterie. Plus de cinq cens Hommes sous les armes, tous tres proprement vestus, se rendirent à l'entrée du Chasteau, où le Vin leur fut prodigué en abondance. Il y eut un magnifique Soupé, apres lequel on alla se promener dans le Parc. Au bout d'une grande Allée qui regarde le Chasteau, estoit un grand Feu de joye que Mr le Marquis de Villeneuve, &amp; plusieurs Gentilhommes, allumerent, chacun avec un Flambeau de cire blanche. Les Trompetes, Tambours, Violons, Hautbois, &amp; Fifres, faisoient une agreable harmonie, pendant qu'on renouveloit à plusieurs reprises la décharge des Boëtes &amp; des Mousquets. Chacun s'estant rendu de là sur une Terrasse, on fit joüer le Feu d'artifice, basty sur un grand Rondeau dans le milieu de la mesme Allée, ayant de tres-beaux Parterres à droite &amp; à gauche. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_174">
+      <div xml:id="MG-1682-10b_174" type="migration">
         <head>MG-1682-10b_174</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 174-176</bibl>
         <p>Bourges.</p>
         <p/>
         <p>Vous jugerez de ce qui s'est fait à Bourges, par le détail des Réjoüissances d'un seul Quartier. Mr Guillot, Echevin de celuy de S. Sulpice, en fit armer tous les Habitans le matin du 6. de Septembre. L'apresdînée, toutes les Cloches des quatre Paroisses de ce Quartier ayant sonné fort longtemps, on orna toutes les Places de belles Tapisseries, sur lesquelles les Armes du Roy, de la Reyne, &amp; de toute la Maison Royale, furent mises entourées de Fleurs &amp; de Lauriers, &amp; au dessous, celles de Mr le Prince de Soubise, Gouverneur de la Province. On mena six Pieces de Canon à la Place de S. Pierre, &amp; deux devant la Maison de Mr l'Intendant. Il y eut un grand Feu de joye à la Place du Poids du Roy, &amp; un autre d'artifice où couloit une Fontaine de Vin. Cet Echevin donna sur les six heures du soir un magnifique Soupé au Corps de Ville ; &amp; à huit heures, les Habitans du Quartier, au nombre de six cens, commandez par Mr Poucet leur Lieutenant, le vinrent prendre chez luy, apres avoir esté faire leur décharge au Logis de Mr l'Intendant. Mr Guillot se mit à leur teste avec les Officiers de Ville, &amp; alla allumer le Feu de joye. Il y avoit deux Amphitheatres dans la Place. Sur l'un estoit un Choeur de Musique, qui chanta l'Exaudiat, &amp; quelques Motets ; &amp; sur l'autre, un Concert de Violons. Toute la nuit se passa en joye.</p>
       </div>
-
-<div xml:id="MG-1682-10b_179">
+      <div xml:id="MG-1682-10b_179" type="migration">
         <head>MG-1682-10b_179</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 179-180</bibl>
         <p>Troyes.</p>
         <p/>
         <p>Le mesme Dimanche seiziéme d'Aoust, le Te Deum fut chanté solemnellement à Troyes, en présence de Mr le Marquis de Chapelaines, Grand-Bailly de Troyes, de son Lieutenant, des Officiers de l'Election, &amp; du Corps de Ville. Tous les Corps Ecclesiastiques y assisterent, mesme le Chapitre de l'Eglise Royale &amp; Collégiale de S. Etienne, qui ne s'estoit point trouvé depuis cinquante ans avec celuy de la Cathédrale. [...] je ne vous dis rien de particulier des témoignages que toute la Ville donna de sa joye. Rien n'y manqua de ce qui pouvoit la faire éclater.</p>
       </div>
-
-<div xml:id="MG-1682-10b_180">
+      <div xml:id="MG-1682-10b_180" type="migration">
         <head>MG-1682-10b_180</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 180-181</bibl>
         <p>Metz.</p>
         <p/>
         <p>Elle a esté grande à Metz, &amp; ses Habitans l'ont d'autant plus ressentie, qu'ils ne doutent point que Monseigneur le Duc de Bourgogne n'ait esté conçeu dans leur Ville, lorsqu'au retour de Strasbourg la Cour y passa dans les premiers jours du mois de Novembre. Trois décharges de tout le Canon, &amp; la Mousqueterie des Cadets de la Citadelle, y precéderent les ordres du Roy. On choisit le 15. d'Aoust, jour de l'Assomption de la Vierge, pour chanter le Te Deum, qui fut entonné par Mr de la Feüillade, Evesque de Metz, au retour de la Procession genérale qu'on fait de jour-là dans toute la France. Mr le Roy, Commandant de la Place, y assista, accompagné des Officiers de la Garnison, &amp; de tous les Corps. Le soir de ce mesme jour, Mr de la Grillonniere, Maistre Echevin, donna ses ordres pour un grand Feu d'artifice, &amp; pour plusieurs autres Feux qu'on alluma dans toutes les Ruës à diférentes reprises. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_182">
+      <div xml:id="MG-1682-10b_182" type="migration">
         <head>MG-1682-10b_182</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 182-185, 187-188</bibl>
         <p>Avignon, &amp; Célestins.</p>
@@ -210,8 +194,7 @@
         <p>La Naissance de Monseigneur le Duc de Bourgogne, n'a pas seulement fait éclater la joye dans toutes les Villes du Royaume. Celles qui ne sont point sous l'heureuse Domination de son Monarque, ont aussi marqué la leur, avec un zele qui n'a pas paru moins ardent que celuy de ses Sujets. La Ville d'Avignon s'est particulierement distinguée. Les Feux d'artifice, les Illuminations, les décharges de l'Artillerie, le son des Cloches, les Te Deum, les Processions, &amp; géneralement tout ce qui peut témoigner qu'on est tres-sensible à un grand Bonheur, a paru dans cette Ville-là, &amp; les Peuples, les Consuls, l'Archevesque, &amp; le Vice-Legat, n'ont rien oublié pour se signaler. On ne doit pas s'étonner après cela si les Celestins qui sont dans la mesme Ville d'Avignon, ont donné les démonstrations de joye que je vais vous dire, puis qu'ils auroient dû en faire paroître beaucoup, pour suivre l'exemple qu'ils ont receu, quand même ils n'auroient pas esté fondez par Charles VI. Roy de France, &amp; qu'ils n'auroient pas Loüis Duc d'Orleans son Frere pour l'un de leurs principaux Fondateurs. [...] Ces Peres qui ont le Corps du Pape Clement VII. dans leur superbe Eglise, commencerent leurs Réjoüissances, suivant les ordres du Pere Nicolas Malet leur Supérieur, par une Fontaine d'un excellent Vin, qui coula pendant dix-huit heures. [...]</p>
         <p>On avoit mis à la Place la plus honorable de la magnifique Chapelle de Saint Pierre de Luxembourg, où se fit la Ceremonie, le Portrait du Roy sous un riche Dais, pour montrer que ce Monarque est le Fondateur &amp; le Protecteur de ce Monastere, basty en Terre Papale. A l'entrée de la nuit le Vice-Legat, accompagné des Consuls &amp; de toute la Noblesse du Païs &amp; de la Ville, se rendit à l'Eglise de ces Peres, &amp; en suite dans cette Chapelle. On y chanta le Te Deum &amp; l'Exaudiat en Musique. Il y avoit grand nombre de toute sorte d'Instrumens, &amp; la Symphonie fut trouvée fort bonne. Les Actions de graces finies, on entendit une décharge de toutes les Boëtes de la Ville, qu'on avoit placées dans le Jardin de ce Monastere. Ce bruit fit connoître qu'on se préparoit à faire joüer le Feu d'artifice, qui eut un fort grand succés. La Peinture, &amp; la Sculpture, en estoient fort agréables. Au couronnement de la Machine, on voyoit deux Dauphins qui soûtenoient un Soleil, &amp; qui recevant de luy leurs forces &amp; leurs lumieres, sembloient vouloir s'élever jusqu'à cet Astre. On lisoit ces paroles, Erigit se Delphinus in Astra. Pendant que l'Artifice charmoit les yeux, un Concert de toutes sortes d'Instrumens, occupoit agréablement les oreilles.</p>
       </div>
-
-<div xml:id="MG-1682-10b_190">
+      <div xml:id="MG-1682-10b_190" type="migration">
         <head>MG-1682-10b_190</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 190-193</bibl>
         <p>Geneve.</p>
@@ -219,8 +202,7 @@
         <p>Mr du Pré, Résident pour le Roy à Géneve, ayant receu le Lundy 17. Aoust, la nouvelle de l'heureux Accouchement de Madame la Dauphine, la porta au Magistrat qui estoit assemblé, &amp; l'invita en mesme temps à en venir celébrer la Feste le Mercredy 19. [...] Le jour choisy estant arrivé, tout le Magistrat se rendit en Corps à son Hostel, où il les receut de la maniére du monde la plus remplie d'agrément. Le Repas fut propre, &amp; d'une magnificence à laquelle il eust esté dificile de rien ajoûter. Un excellent Concert de Musique ne contribua pas peu aux plaisirs de cette Feste, dans les intervales que le Canon qu'on faisoit joüer presque incessamment pour les Santez du Roy, de la Reyne &amp; de toute la Maison Royale, cessoit de se faire entendre. [...]</p>
         <p>Mr du Pré continua la Feste le jour suivant pour ceux de la Nation Françoise qui sont dans la Ville &amp; aux environs, &amp; en invita les Principaux de l'un &amp; de l'autre Sexe, à un Régale, où rien ne manqua de toutes les choses qui pouvoient contribuer à le rendre somptueux. A ce Repas succeda le Bal. La Salle où il fut donné, estoit tres-bien éclairée ; &amp; les Dames &amp; les Cavaliers qui estoient en fort grand nombre, ne s'y firent pas moins remarquer par la propreté de leur parure que par la justesse de leurs dances.</p>
       </div>
-
-<div xml:id="MG-1682-10b_199">
+      <div xml:id="MG-1682-10b_199" type="migration">
         <head>MG-1682-10b_199</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 199-208</bibl>
         <p>Arion, Fable.</p>
@@ -390,8 +372,7 @@
         <p/>
         <p>Cette Fable est de Mr Bardou de Poitiers.</p>
       </div>
-
-<div xml:id="MG-1682-10b_208">
+      <div xml:id="MG-1682-10b_208" type="migration">
         <head>MG-1682-10b_208</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 208-211, 214, 215-217, 219-224, 226-227</bibl>
         <p>Cette Fable [cf. notice Mercure 1682.10.40] est de Mr Bardou de Poitiers. Il est d'une Ville où l'on a fait beaucoup de Réjoüissances. Je ne puis vous les apprendre d'une maniere plus agreable, qu'en vous faisant part de ce qu'il en a écrit à une Veuve de qualité, qui fait son sejour à la Campagne.</p>
@@ -414,24 +395,21 @@
         <p>Le lendemain, les Ecoliers, selon l'ordre qu'on leur avoit donné, se rendirent d'assez bonne heure au College avec un grand nombre de Tambours &amp; de Trompetes, &amp; sept parties de Hautbois. On les divisa par Compagnies, dont les plus qualifiez estoient à la teste, chaque Troupe ayant ses Officiers &amp; ses Enseignes particulieres, sans parler des Guidons, &amp; des Etendards, qu'on avoit fait faire en grand nombre. Dans cet ordre ils sortirent deux à deux du College, &amp; allerent à l'Eglise Cathédrale de S. Pierre, où apres avoir fait compliment à Mr l'Evesque &amp; au Chapitre, ils laisserent un Guidon extrémement riche, chargé des Armes du jeune Prince, comme un Monument eternel du Voeu qu'ils faisoient pour sa conservation. Ils firent la mesme cerémonie dans les autres Eglises Collégiales de S. Hilaire, de Sainte Radegonde, &amp; de Nostre-Dame la Grande, d'où ils se rendirent à Saint Loüis, qui est l'Eglise des Jesuites. Sur les six heures du soir, apres avoir esté salüer Mr l'Intendant, ils allerent au Marché-Vieux. C'est une fort grande Place au milieu de la Ville, où tout ce qu'il y avoit de Personnes considérables à Poitiers se trouverent. Mr l'Evesque voulut luy-mesme estre témoin de cette action. Toutes les Compagnies occuperent le milieu de cette Place, où l'on avoit dressé d'un costé un Theatre de vingts pieds en quarré, &amp; de l'autre un Bucher de quarante pieds de haut. Des quatre extrémitez du Theatre s'élevoient quatre grandes Pyramides, dont les entredeux estoient fermez d'une Balustrade jaspée, qui soûtenoit une Frise, où l'on voyoit quantité d'Inscriptions. [...]</p>
         <p>Les Compagnies s'estant rangées dans la Place, le Canon qu'on avoit mis à costé du Theatre, donna par une décharge generale le signal pour le Feu, qui fut allumé par les Chefs de chaque Troupe au son des Tambours, des Trompetes, &amp; des Hautbois. En mesme temps on fit joüer le Feu d'artifice, dont l'effet fut admirable. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_227">
+      <div xml:id="MG-1682-10b_227" type="migration">
         <head>MG-1682-10b_227</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 227-229</bibl>
         <p>Vendosme.</p>
         <p/>
         <p>On a donné à Vendosme pendant huit jours, des marques de joye extraordinaires. Mr de Rémilly, Bailly de la Ville, apres avoir assisté au Te Deum en Robe &amp; en Bonnet avec les autres Officiers, se mit à la teste des Habitans, qui s'estoient divisez en Compagnies. Il leur servit de Colonel, &amp; ne parut pas moins fier, avec la demy Pique à la main, &amp; un Tour de Plumes à son Chapeau, qu'il avoit paru un moment auparavant en Habit de Magistrat. Outre le Colonel, il y avoit des Capitaines des Quartiers ayant chacun leurs Livrées. On fit les décharges &amp; les mouvemens avec autant de justesse que si ces Troupes Bourgeoises eussent fait plusieurs Campagnes. [...] Le lendemain, les Dames jalouses que les Hommes fussent seuls à celébrer cette Feste, se mirent de la partie. Elles parurent vestuës en Amazones avec des Habits superbes, ayant Madame de Rémilly à leur teste, &amp; s'estant renduës toutes à cheval à la grande Place de la Ville, elles y firent une espece de Carrousel, que vous jugez bien qui fut tres-galant. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_230">
+      <div xml:id="MG-1682-10b_230" type="migration">
         <head>MG-1682-10b_230</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 230-231</bibl>
         <p>Nogent en Champagne.</p>
         <p/>
         <p>Les Capucins de Nogent sur Seine, petite Ville de Champagne, s'y sont distinguez par un Te Deum en Musique, qu'ils firent chanter dans leur Eglise le Dimanche 13. de l'autre mois. Leur Autel estoit paré d'une façon toute singuliere pour la propreté. C'estoit un nombre de lumieres presque infiny, ce qui luy donnoit un fort grand éclat. Plusieurs coups furent tirez pendant la cerémonie, mais la pluye continuelle fit remettre le Feu d'artifice au lendemain. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_233">
+      <div xml:id="MG-1682-10b_233" type="migration">
         <head>MG-1682-10b_233</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 233-238</bibl>
         <p>Nogent le Roy.</p>
@@ -478,32 +456,28 @@
         <p>Ne troublent jamais son grand coeur.</p>
         <p>[...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_238">
+      <div xml:id="MG-1682-10b_238" type="migration">
         <head>MG-1682-10b_238</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 238-241</bibl>
         <p>Chasteauthierry.</p>
         <p/>
         <p>La Nouvelle de l'Accouchement de Madame la Dauphine fut sçeuë à Chasteauthierry dés le Dimanche 9. d'Aoust, par l'Ecuyer de cette Princesse qui passoit par là, pour en aller donner avis à la Cour de Baviere. Les Echevins la firent sçavoir aussitost au Peuple par le carrillon de toutes les Cloches de la Ville qui sonnerent tout le reste de ce jour. Le lendemain on fit une Procession genérale, à laquelle ils assisterent avec Messieurs du Présidial, tous les Officiers de Justice, &amp; toutes les Communautez Religieuses. [...] Le Mercredy on dressa des Tables dans toutes les Ruës. Tous les Capitaines régalerent les Bourgeois &amp; Corps de Mestier ; &amp; comme on donna le Bal le soir, ainsi que l'on avoit fait les jours précedens, on ne vit que Masques qui s'arrestoient à toutes les Tables. Il n'y eut aucune Femme un peu distinguée, qui ne s'atroupast pour composer des galantes Marches, dans lesquelles elles estoient accompagnées de Violons, &amp; des Tambours de la Ville.</p>
       </div>
-
-<div xml:id="MG-1682-10b_241">
+      <div xml:id="MG-1682-10b_241" type="migration">
         <head>MG-1682-10b_241</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 241-244</bibl>
         <p>[Mortagne-au-Perche]</p>
         <p/>
         <p>La joye a esté aussi fort éclatante à Mortagne, Capitale de la Province du Perche. Le Dimanche 6. de l'autre mois, Mr le Vicomte Juge des Habitans, s'estant mis à la teste de huit ou neuf cens des Principaux, les conduisit dans la grande Place publique, où les autres Officiers l'attendoient avec un nombre considérable de Gentilhommes, &amp; les Corps de Ville &amp; de la Justice. Ils y firent leur décharge apres qu'on eut allumé le Feu, &amp; ce grand bruit de Mousqueterie réïteré plusieurs fois, dura plus de deux heures. Le Peuple pendant ce temps se rafraîchissoit à des Fontaines de Vin, qui en versoient de tous costez dans la Place. Le Corps de Ville traita magnifiquement tous les Officiers de la Justice. On donna la Comédie aux Dames, &amp; en suite un grand Bal dans une des Places publiques, où l'on dança jusqu'au jour. Le Lundy toutes les Boutiques furent fermées. Le Chapitre de l'Eglise Collégiale de Toussaint, apres avoir chanté le Te Deum, fit faire un Feu devant son Eglise. Les Capucins &amp; les autres Monasteres en firent autant ; &amp; le soir toutes les Fenestres des Maisons furent remplies de Lumieres. Il y eut encor grand Bal dans la mesme Place, où l'on avoit dancé le jour précedent. Le Mardy, jour de la Nativité de la Vierge, tous les Bourgeois souperent devant leurs Portes, &amp; l'on n'entendit par tout que coups de Mousquetade &amp; bruits de Petards. Mr le Vicomte fit faire un grand Feu sur le haut des Ruines du vieux Chasteau de la Ville. Tous les Habitans s'y trouverent sous les armes, &amp; en allerent en suite allumer un autre qu'ils avoient fait préparer. Pendant ce temps, le Curé de la Paroisse fit chanter un Te Deum en Musique, apres lequel Mr le Vicomte donna le Bal à toutes les Dames dans une grande Place qui est au pied du Chasteau. La meilleure partie de la nuit y fut passée à dancer ; &amp; le Mercredy les Bourgeois continuerent leurs Réjoüissances. Le Jeudy chaque Corps des Officiers de la Ville fit un grand Festin le soir dans toutes les Places Publiques.</p>
       </div>
-
-<div xml:id="MG-1682-10b_244">
+      <div xml:id="MG-1682-10b_244" type="migration">
         <head>MG-1682-10b_244</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 244-245</bibl>
         <p>[Senlis]</p>
         <p/>
         <p>La Ville de Senlis s'estoit distinguée le mois précedent par les mesmes Festes. La Jeunesse s'y mit sous les armes le Dimanche 9 Aoust, &amp; marcha par toute la Ville dans l'ordre d'une vraye Milice, faisant des décharges continuelles. Il y eut un magnifique Repas à l'Hostel de Ville, où tout le monde bût à la santé du Roy, &amp; à celle du jeune Prince. A ce Repas succeda le Bal que les Echevins donnerent. Les Feux, les Festins, les Dances, tout continua jusqu'au Mardy 11. Le Lundy, toute la Jeunesse, dans le mesme ordre que le premier jour, alla à l'Abbaye de Nostre-Dame de la Victoire, à demy-lieuë de Senlis, pour rendre graces à Dieu, &amp; avoir l'honneur en mesme temps de voir Mr de la Roche-sur-Yon. Ce Prince estoit à la Chasse. Cette Milice se rendit de là au Chasteau du Plessis-Choiseüil, aussi à demy-lieuë de Senlis, où Mr le Marquis de S. Simon la reçeut avec beaucoup d'applaudissement. Chacun fit sa décharge en passant devant ce zelé Gouverneur ; apres quoy on revint à Senlis Tambour batant. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_246">
+      <div xml:id="MG-1682-10b_246" type="migration">
         <head>MG-1682-10b_246</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 246-249, 251-259</bibl>
         <p>[Soissons]</p>
@@ -511,8 +485,7 @@
         <p>La mesme Feste fut commencée à Soissons le Dimanche 16. Aoust par une Procession genérale que les soins de Mr du Tour Grand-Vicaire, &amp; ceux de Messieurs les Chanoines, rendirent fort magnifique. [...] Je vous ay déjà appris par cette Lettre, que celuy qui remplit la Charge de Maire, est Mr Chantereau le Febvre, Trésorier de France. [...] Au retour du Te Deum, il mena les Echevins chez luy. [...] En suite on alla à l'Hostel de Ville, qui paroissoit tout en feu par le nombre infiny de Lanternes qu'on y avoit disposées de toutes parts. Madame l'Intendante y estoit, accompagnée de toutes les Dames de Soissons. Mr le Maire la complimenta en arrivant, &amp; luy présenta les Confitures de la Ville, qu'elle distribua aussitost aux Dames qui estoient avec elle. On fit voler dans les airs une infinité de Fusées, pendant que tout retentissoit du bruit des Violons, des Hautbois, &amp; des Trompetes. Le lendemain Lundy, les Boutiques furent fermées par Ordonnance de Police, &amp; tout le jour se passa en Jeux &amp; en Dances. [...]</p>
         <p>Le Mercredy, ce fut une Feste toute nouvelle, que firent les Arquebusiers. Mr Bonnet, Commissaire Provincial des Guerres, leur Capitaine, &amp; Mr Vuilleaume Capitaine-Lieutenant, allerent à la teste de cette Compagnie, qui est composée d'hommes fort bien faits &amp; fort adroits, inviter Mr l'Intendant, &amp; Mr le Maire, à une Messe qu'ils faisoient dire. Ces Messieurs y assisterent. L'apresdînée, les Arquebusiers se rendirent dans leur Jardin, qui est sans contestation un des plus beaux de la Province. [...] Ce fut dans ce Lieu qu'ils tirerent le Prix. Ils défererent le coup du Roy à Mr de Bouttigny ; &amp; apres que beaucoup de Personnes eurent fait voir leur adresse à cet Exercice, on le quitta pour passer dans la Salle, où estoit une Table à quatre-vingts Couverts. Mr Vuilleaume, qui donna ce Repas, l'assaisonna de tous les plaisirs imaginables. Les Tambours, les Fifres, &amp; les Hautbois, ne cessoient de joüer, que pour laisser entendre une Musique composée de Theorbes, de Clavessins, &amp; de Voix ; &amp; pendant tout ce temps-là, on voyoit par les Fenestres de la Salle les trois Terrasses du Jardin illuminées, &amp; les Feux qu'avoient allumez les Peres Feüillans, dont le Jardin touche à celuy de l'Arquebuse ; de sorte que tout cela composoit la plus agreable décoration qu'on se puisse figurer. [...] On croyoit toutes les réjoüissances finies à Soissons ; mais on sçeut que Mr Gaigne Trésorier de France, préparoit un grand Régale pour le Dimanche suivant. Il a eu quatre fois de suite l'honneur de loger Monseigneur &amp; Madame la Dauphine dans les Passages de la Cour à Soissons. Ainsi la joye de ce Prince &amp; de cette Princesse, devoit le toucher plus particulierement que les autres. Il le marqua bien par la magnificence extraordinaire d'un Soupé, où il avoit prié les premiers Officiers de tous les Corps de la Ville. [...] Un Feu d'artifice que Mr Gaigne fit tirer dans son Jardin, succeda au Soupé, &amp; ce divertissement fut encore suivy d'un grand Bal. [...] Tout ce Recit des Réjoüissances de Soissons seroit imparfait, si je ne vous parlois pas de celles qu'a faites Madame Armande-Henriette de Lorraine-d'Harcourt, Abbesse de Nostre-Dame. Cette Princesse, dont la pieté est égale à sa haute naissance, a crû que des dépenses éclatantes ne seroient pas si proportionnées à son état, que des prieres &amp; des aumônes. Dés qu'elle sçeut la Naissance de nostre nouveau Prince, elle fit chanter solemnellement un Te Deum dans son Monastere, &amp; envoya de grandes charitez, des Tonneaux de Vin, beaucoup de Pain &amp; de Viande, &amp; des sommes d'argent considérables, à l'Hôpital General, aux Prisons, à l'Hôtel-Dieu, &amp; à bien d'autres Lieux, jusqu'où la joye publique ne seroit point parvenuë sans cette illustre Abbesse.</p>
       </div>
-
-<div xml:id="MG-1682-10b_267">
+      <div xml:id="MG-1682-10b_267" type="migration">
         <head>MG-1682-10b_267</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 267-268, 271</bibl>
         <p>Attaque du Fort de l'Académie de Bernardy, présentement de Mesmont.</p>
@@ -525,56 +498,49 @@
         <p>Je vous suis bien obligé, Monsieur, de m'avoir préferé à tout ce que vous avez icy d'Amis, pour les Commissions qui regardent l'éducation de Monsieur vostre Fils. [...]</p>
         <p>Ces Attaques ont duré tout le mois de Septembre, &amp; une partie de celuy-cy ; &amp; quand je n'aurois pas eu des raisons particulieres de les aller voir, pour vous en parler en suite, je n'aurois pas laissé d'avoir une curiosité que je trouve genérale dans Paris. Vous auriez eu beaucoup de plaisir de voir plus de soixante jeunes Gens de qualité marcher en bon ordre, au bruit des Tambours, &amp; au son des Hautbois. Ils estoient suivis d'un pareil nombre de leurs Domestiques, armez d'une maniere peu diférente. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_276">
+      <div xml:id="MG-1682-10b_276" type="migration">
         <head>MG-1682-10b_276</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 276-282</bibl>
         <p>Rome.</p>
         <p/>
         <p>Peut-estre, Madame, la Naissance des Césars n'a-t-elle pas esté autrefois celebrée à Rome avec plus de joye, que le vient d'estre celle de Monseigneur le Duc de Bourgogne. Dés que Mr le Duc d'Estrées, Ambassadeur de France, eut reçeu cette nouvelle, il alla l'apprendre à Sa Sainteté, suivy d'un Cortége de plus de cent Carrosses. [...] En suite Mr le Duc d'Estrées fit part de la mesme nouvelle, à Mr le Cardinal Cibo, Premier Ministre du Pape, à la Reyne Christine de Suede, &amp; aux Cardinaux. Depuis le 23. d'Aoust jusqu'au 25. Mr l'Ambassadeur fit faire tous les jours de magnifiques Illuminations au Palais de Farnese où il loge, &amp; mesme dans toutes les Maisons voisines, où il avoit envoyé des Flambeaux ; mais le 25. fut un jour remarquable, par la Chapelle qui se tint à l'Eglise de S. Loüis, dont on celebroit la Feste. [...] Mr de Bachis Evesque de Sinigaglia, celébra la Messe. Le Sieur Melani y fit entendre une Musique excellente, &amp; des Symphonies admirables. Le Te Deum y fut chanté au bruit des Boëtes, des Trompetes, &amp; des Tambours. A cette Feste succederent un grand Repas, que Mr le Duc d'Estrées donna aux Prélats &amp; aux Princes de la Faction de France ; &amp; une distribution d'argent que Mr le Cardinal son Frere fit faire à plus de trois mille pauvres. D'autre costé, les Cardinaux &amp; les Seigneurs attachez à la Couronne, imiterent ces Réjoüissances. Mr l'Abbé Scarlatti Agent de S. A. E. de Baviere, &amp; le R. P. Clement Agent des Cordeliers de France, marquerent bien leur zele par la beauté des Illuminations qu'ils firent. Celle de Mr de la Chausse, Agent de feu Mr le Cardinal de Retz, mérite qu'on vous la décrive en particulier. [...] Cette illumination dura trois jours, aussi bien qu'une Table ouverte, que Mr de la Chausse tint chez luy, &amp; qu'il fit accompagner de Violons, de Tambours, de Fifres, &amp; de Trompetes.</p>
       </div>
-
-<div xml:id="MG-1682-10b_282">
+      <div xml:id="MG-1682-10b_282" type="migration">
         <head>MG-1682-10b_282</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 282-290</bibl>
         <p>Ratisbonne.</p>
         <p/>
         <p>Mr Verjus, Comte de Crecy, Plénipotentiaire de France à la Diéte de Ratisbonne, attendoit avec impatience depuis quelques semaines, la nouvelle de l'Accouchement de Madame la Dauphine, lorqu'enfin il la reçeut le 13. du mois d'Aoust, par un Courrier, à qui il donna une fort grosse Chaîne d'or, qui fut la premiere chose qui tomba sous sa main. [...] Il passa deux jours à recevoir les visites &amp; les complimens que luy firent tant de Personnes considérables, par leur mérite &amp; par leur employ ; &amp; le 13. du mois il les invita tous en cérémonie à une Messe &amp; à un Te Deum, qu'il faisoit chanter le lendemain dans l'Eglise de l'Abbaye des Ecossois où il loge. Le 6. à la pointe du jour, on donna le premier signal de la Feste, par une décharge du Canon de la Ville de Ratisbonne, que les Magistrats avoient le jour précédent envoyé de leur Arsenal à Mr le Comte de Crecy. Cela attira d'autant plus la curiosité de tout le monde, qu'on sçait que cette Ville, s'est toûjours défenduë de fournir de l'Artillerie pour des Festes de cette nature. La Messe fut celebrée solemnellement avec une fort bonne Musique, à laquelle répondoient au dehors les décharges du Canon. Le Directeur de l'Empire, quoy que fort indisposé, ne laissa pas d'assister à cette Messe, aussi bien que les Ministres de Mr l'Electeur de Cologne, de Mr l'Electeur de Brandebourg, de Mr l'Electeur Palatin, du Roy de Suéde, du Roy de Dannemark, de Munster, de Hesse-Cassel, &amp; d'Anhalt, &amp; les Députez de la Ville de Ratisbonne, qui tous se trouverent à la cerémonie, tant Catholiques que Protestans. Apres ces actions de graces renduës à Dieu, Mr le Comte de Crecy songea à des divertissemens publics, ausquels il destina le jour de la Feste de S. Loüis, qui n'estoit éloigné que de neuf jours, mais ses soins, son habileté, &amp; le bon ordre qu'il mit à tout, &amp; la grande dépense qu'il fit, supléerent au peu de temps qu'il avoit. Le 25. estant donc arrivé, il fit chanter dans l'Abbaye des Ecossois une Messe aussi solemnelle que la premiere ; &amp; au retour il donna un Repas tres-superbe &amp; tres-propre à plus de cent Personnes, qui estoient les Ministres de la Diéte, les Magistrats de Ratisbonne, les plus considérables de la Noblesse de Baviere &amp; d'Autriche, &amp; toutes les Dames de la Ville. Le soir on alla dans une Isle qui est au milieu du Danube, &amp; que Mr le Comte de Crecy avoit choisie pour y faire tirer ses Feux d'artifice. Il y avoit fait bâtir une Salle qui enfermoit plus de 1500. pieds d'espace. Elle estoit magnifiquement tapissée &amp; éclairée d'un nombre infiny de Bougies, &amp; retentissoit du bruit des Hautbois &amp; des Violons, qui divertirent toute l'illustre Compagnie qui y fut reçeuë, en attendant les Spéctacles qui devoient paroître. Au bout de quelque temps, on fut étonné de voir tous les Flambeaux s'éteindre, mais la perte de leur lumiere fut réparée par celle qui arrivoit dans une grande Machine qu'on voyoit floter sur le Danube, &amp; qui estoit annoncée de loin par des Tambours &amp; des Timbales. Cette Machine s'arresta vis-à-vis le Feu d'artifice qu'on avoit dressé dans l'Isle, &amp; alors on distingua clairement quatre Dauphins, qui soûtenoient un Arc de Triomphe orné d'une infinité de Devises à la loüange du Roy &amp; de Monseigneur le Duc de Bourgogne. Sur le haut de l'Architecture estoit un Globe terrestre, où le nom du Roy se lisoit de toutes parts en caractéres de feu, &amp; ce Globe portoit une Renommée, qui ayant la Trompete à la main, sembloit prendre son vol pour aller dans toutes les Parties de la Terre, publier les actions de LOUIS LE GRAND. Le Feu d'artifice de l'Isle représentoit la France. Elle tenoit une Corne d'abondance d'une main, &amp; de l'autre des Couronnes de Laurier &amp; d'Olivier. Il sortit de ces deux Bâtimens une infinité de feux, dont les uns alloient se perdre dans les airs, &amp; les autres se rouloient longtemps sur les eaux de la Riviere sans s'y éteindre. Cependant on entendoit de tous costez l'agreable mélange du son des Tambours, des Hautbois, &amp; des Trompetes. Apres que les Feux eurent joüé, on dança dans la Salle. [...] Le lendemain, Mr le Comte de Crécy commanda qu'on distribuast des aumônes aux Pauvres, &amp; envoya des Présens aux Religieux, &amp; de l'argent, avec plusieurs Tonneaux d'excellente Biere aux Soldats de la Garnison. Mais il voulut enfin que tout le Peuple pust prendre part à la réjoüissance, &amp; le 30. il fit élever dans une grande Place un Echafaut tout couvert d'Arbres, qui se joignans par le haut, formoient un Berceau. On joüoit de la Musete, du Chalumeau, &amp; du Hautbois, sur ce Theatre champêtre, &amp; plus bas couloient de grandes Fontaines d'un tres-bon Vin, qui excitoit les Allemands à bien boire la Santé du Roy, de toute la Maison Royale, &amp; de Mr le Comte de Crécy.</p>
       </div>
-
-<div xml:id="MG-1682-10b_290">
+      <div xml:id="MG-1682-10b_290" type="migration">
         <head>MG-1682-10b_290</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 290-291</bibl>
         <p>Rochefort.</p>
         <p/>
         <p>Le Te Deum fut suivy à Rochefort de trois Salves de toute l'Infanterie qui garde le Port. L'Amiral tira en suite tout son Canon ; &amp; six-vingts Pieces qui sont sur le Quay, la plûpart de trente-six, luy répondirent. Madame L'Intendante, accompagnée de Messieurs les Intendans de Rochefort, de Limoges, de Montauban, &amp; de la Noblesse de trois ou quatre Provinces, s'estant renduë dans la grande Place des Capucins, alluma un Feu que l'on avoit préparé avec une infinité d'Artifices. [...] Plusieurs Tables servies avec propreté &amp; avec abondance, ne contribuerent pas peu à la joye de cette grande Assemblée. Il y eut grand Bal le soir ; [...].</p>
       </div>
-
-<div xml:id="MG-1682-10b_293">
+      <div xml:id="MG-1682-10b_293" type="migration">
         <head>MG-1682-10b_293</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 293</bibl>
         <p>Brie-Comte-Robert.</p>
         <p/>
         <p>Le 24. d'Aoust, apres beaucoup de réjoüissances faites à Brie-Comte-Robert par les ordres de Mr Porta son Gouverneur, on eut le spéctacle d'un tres-grand Feu d'artifice tiré dans la Place, au bruit de l'Artillerie du Chasteau, tous les Habitans estant sous les armes. Il fit distribuer du Vin au Peuple pendant tout le jour ; &amp; le soir il donna le Bal aux Dames, &amp; une superbe Collation.</p>
       </div>
-
-<div xml:id="MG-1682-10b_294">
+      <div xml:id="MG-1682-10b_294" type="migration">
         <head>MG-1682-10b_294</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 294-295</bibl>
         <p>Montbazon.</p>
         <p/>
         <p>Les Officiers du Duché de Montbazon en Touraine, appartenant à Mr le Prince de Guémené, firent assembler tous les Habitans de la Ville, &amp; de toutes les Paroisses qui en dépendent, pour le Te Deum qui fut chanté dans la Chapelle du Château. On fit diverses décharges, tant du Canon que de la Mousqueterie, tous les Habitans s'estant armez pour rendre plus éclatante la cerémonie du Feu.</p>
       </div>
-
-<div xml:id="MG-1682-10b_297">
+      <div xml:id="MG-1682-10b_297" type="migration">
         <head>MG-1682-10b_297</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 297-298</bibl>
         <p>Clervaux.</p>
         <p/>
         <p>Les Religieux de l'Abbaye Royale de Clervaux s'estant assemblez le 23. Aoust au nombre de plus de six-vingts dans leur grande Eglise, exposerent devant le Maistre-Autel les Chefs de S. Bernard, premier Abbé de cette Abbaye, de S. Malachie, de S. Marc Evangeliste, de S. Barnabé, &amp; de S. Vincent Martyr, le Reliquaire du Grand Constantin, &amp; une infinité d'autres Reliques tres-rares de leur Trésor, qu'ils porterent en suite processionnellement à leur ancien Monastere, où ils chanterent la Messe. Lors qu'elle fut dite, ils retournerent en leur Abbaye dans le mesme ordre qu'ils estoient partis ; &amp; rentrant dans leur Eglise, le Prieur en l'absence de l'Abbé, entonna le Te Deum, que l'Orgue &amp; le Choeur continuerent. Toute la Noblesse du voisinage, &amp; quantité d'Ecclesiastiques, assisterent à cette Procession. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_298">
+      <div xml:id="MG-1682-10b_298" type="migration">
         <head>MG-1682-10b_298</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 298-300</bibl>
         <p>Sens.</p>
@@ -583,32 +549,28 @@
         <p>Dans le moment que l'Ange parut, une Figure majestueuse qui représentoit le Génie de la France, reçeut ce riche Présent ; &amp; les quatre Vertus s'intéressant pour l'éducation du jeune Prince, vinrent luy offrir leurs soins, tandis que la Renommée se mit en état d'aller publier à toute la Terre la joye de la France. Elle tenoit sa Trompete d'une main, &amp; de l'autre une Banderole, sur laquelle on lisoit ce Vers en lettres d'or, Pacatumque reget Patrÿs virtutibus orbem.</p>
         <p>Dans le temps qu'elle déployoit ses aîles pour partir, les fanfares des Trompetes, mêlées d'autres Instrumens, firent retentir les airs de toutes parts. Ce fut le signal pour faire joüer tous les Artifices. Le Theatre estoit éclairé admirablement, &amp; il y eut dans toute la Place une Illumination des plus surprenantes.</p>
       </div>
-
-<div xml:id="MG-1682-10b_300">
+      <div xml:id="MG-1682-10b_300" type="migration">
         <head>MG-1682-10b_300</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 300-302</bibl>
         <p>Comté de la Tour-d'Opin.</p>
         <p/>
         <p>Comme le Comté de la Tour-d'Opin en Dauphiné, a eu la gloire d'estre le Lieu des Plaisirs des Princes Dauphins, on s'est empressé à y donner des marques de joye pour la Naissance de Monseigneur le Duc de Bourgogne. [...] Toute la Ville s'estant mise sous les armes le Mardy 22. de Septembre, alla prendre Madame la Comtesse de Mury, qui en est la Dame, &amp; l'accompagna en l'Eglise Paroissiale, où le Te Deum fut chanté sur les deux heures, au bruit du Canon &amp; de la Mousqueterie. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_303">
+      <div xml:id="MG-1682-10b_303" type="migration">
         <head>MG-1682-10b_303</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 303-304</bibl>
         <p>Estaing.</p>
         <p/>
         <p>La Ville d'Estaing, Païs de Roüargues, s'est fort distinguée par les soins de Mr le Comte d'Estaing. Les Prestres du lieu, &amp; ceux du Comté, au nombre de plus de soixante, chanterent le Te Deum, en présence de toute la Noblesse, que ce Comte traita magnifiquement, ainsi que toute le Clergé. Les Violons, les Hautbois, &amp; toute la Symphonie du Païs, ne cesserent point de se faire entendre. Il y eut des Illuminations à toutes les Fenestres du Chasteau &amp; de la Ville, &amp; des Fontaines de Vin coulerent un jour &amp; une nuit.</p>
       </div>
-
-<div xml:id="MG-1682-10b_314">
+      <div xml:id="MG-1682-10b_314" type="migration">
         <head>MG-1682-10b_314</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 314-315</bibl>
         <p>Abbaye Royale de S. Pierre de Lyon.</p>
         <p/>
         <p>En vous parlant des Réjoüissances de Lyon, j'ay oublié de vous dire que Madame de Chaunes, Abbesse de l'Abbaye Royale de S. Pierre, s'estoit particulierement distinguée. Elle prévint les ordres de Mr l'Archevesque, en faisant chanter le Te Deum dans son Eglise Paroissiale, dés le jour mesme qu'elle apprit qu'il estoit né un nouveau Prince à la France. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_317">
+      <div xml:id="MG-1682-10b_317" type="migration">
         <head>MG-1682-10b_317</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 317-318, 322-324</bibl>
         <p>Frontignan.</p>
@@ -618,72 +580,63 @@
         <p>Une autre Compagnie de jeunes Hommes suivoit avec un Drapeau de Tafetas bleu, où estoit un Amour emmailloté, tenant un Arc d'une main, &amp; de l'autre plusieurs Fléches d'or. [...]</p>
         <p>Ces deux Compagnies que précedoient des Hautbois, des Tambours &amp; des Trompetes, furent salüées par une décharge des Mousquetaires. Elles leur rendirent le salut, &amp; se mettant à leur teste, marcherent par toute la Ville. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_324">
+      <div xml:id="MG-1682-10b_324" type="migration">
         <head>MG-1682-10b_324</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 324-326</bibl>
         <p>Pezenas.</p>
         <p/>
         <p>Mr Daguesseau Intendant en Languedoc, a esté témoin de ce qui s'est fait à Pezenas. Il fut surpris de l'ardeur avec laquelle tous les Habitans se portoient à la dépense. [...] Mr le Chastelain, comme Chef de Justice, donna les ordres pour toute la Feste ; &amp; on ne se contenta pas de les suivre, on alla encor plus loin. Mr Pugeol, Secretaire pour le Roy aux Etats, &amp; Agent de la Province, qui dans toutes les occasions qui regardent la Maison Royale, est des premiers à marquer son zele, se distingua dans celle-cy par une Illumination des plus éclatantes qu'il fit dans sa Maison, dont la face est fort grande sur la petite Place de la Ville. [...] Mr Pugeol avoit fait faire un Feu d'artifice ; &amp; pour accompagner cette Feste, il donna le Bal aux Dames, &amp; une magnifique Collation. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_329">
+      <div xml:id="MG-1682-10b_329" type="migration">
         <head>MG-1682-10b_329</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 329-330</bibl>
         <p>Sarlat.</p>
         <p/>
         <p>La Compagnie des Penitens Bleus de la Ville de Sarlat, fit une Procession solemnelle le jour de Saint Jerôme leur Patron, &amp; en suite fit chanter un Te Deum en Musique avec Symphonie, pour rendre graces à Dieu de la Naissance du jeune Prince. La Cerémonie finit par le Voeu de faire une semblable Procession tous les ans, &amp; de construire une Chapelle, où l'on fera des prieres particulieres pour la prospérité de la Famille Royale.</p>
       </div>
-
-<div xml:id="MG-1682-10b_330">
+      <div xml:id="MG-1682-10b_330" type="migration">
         <head>MG-1682-10b_330</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 330-331</bibl>
         <p>Cadix.</p>
         <p/>
         <p>Cette mesme Feste a esté solemnisée à Cadix avec de grandes marques de joye par Mr Cathalan, Consul de la Nation Françoise en ce lieu là, &amp; en Andalousie, &amp; Commissaire General des Armées Navales de Sa Majesté. Il fit orner magnifiquement la Chapelle de Saint Loüis qu'il a fait bâtir pour les François. On y celébra une grande Messe, qui fut chantée en Musique, &amp; en suite le Te Deum, aux fanfares des Trompetes &amp; au bruit des coups de Canon &amp; des Pierriers. Sur les deux heures apres midy, il fit ouvrir une Fontaine de Vin devant sa Maison au bruit des mesmes Trompetes. Cette libéralité attira un nombre infiny de Peuples, auquel pour luy donner encor plus de lieu de prendre part aux Réjoüissances, il fit jetter une somme considérable par ses Fenestres. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_336">
+      <div xml:id="MG-1682-10b_336" type="migration">
         <head>MG-1682-10b_336</head>
         <bibl>Mercure Galant, octobre 1682 [seconde partie], p. 336-339</bibl>
         <p>Copenhague.</p>
         <p/>
         <p>La nouvelle de [l]a Naissance [du duc de Bourgogne] ayant esté portée par un Exprés à Mr de Martangis Ambassadeur de Sa Majesté à Copenhague, il en fit part aussi-tost au Roy &amp; à la Reyne de Dannemark, qui la reçeurent avec beaucoup de témoignages de joye. Le Dimanche 6. du dernier mois, il fit prendre à tout son Train une Livrée plus riche &amp; plus magnifique que les precédentes, &amp; assista à une grande Messe, qu'il fit chanter en Musique dans sa Chapelle ainsi que le Te Deum. Il avoit fait préparer un Feu d'artifice pour le soir, &amp; aux quatre coins estoient autant de Fontaines, qui commencerent dés l'apresdînée à jetter de diférens Vins. Ce Régale fut tres-bien reçeu du Peuple. [...] Il [M. de Martangis] donna le soir un magnifique Repas à toute la Cour, &amp; à tous les Ambassadeurs &amp; Ministres qui estoient en Dannemark. [...] Lors qu'on fut sorty de table, on fit joüer le Feu d'artifice au son des Trompetes, Timbales, Hautbois, Violons &amp; Flustes douces. La Machine estoit un Temple de la Renommée, orné de Fleurs de Lys, de Devises, de Chifres, &amp; de Dauphins. La Feste se termina par un Bal qui dura jusques à quatre heures du matin, &amp; où quantité de Gens de qualité qui s'en estoient dérobez, revinrent en Masque, &amp; furent régalez ainsi que les autres d'une magnifique Collation.</p>
       </div>
-
-<div xml:id="MG-1682-10b_342">
+      <div xml:id="MG-1682-10b_342" type="migration">
         <head>MG-1682-10b_342</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 342-344</bibl>
         <p>Périgueux.</p>
         <p/>
         <p>Les Réjoüissances de Périgueux commencerent par un Panégyrique du Roy, qui fut prononcé dans la Cathédrale par le Pere Voisin Jesuite. [...] En suite Mr l'Evesque commença le Te Deum, qui fut chanté avec toute la solemnité possible. Le soir, une vingtaine des plus considérables Bourgeois, firent porter des Tables, des Mets, &amp; des Liqueurs en abondance, sur la Terrasse du Taillefer, où ils se régalerent au son des Tambours, des Trompetes &amp; des Violons, &amp; inviterent tous les Passans à prendre part à leur joye. Quelques Officiers des deux Compagnies du Regiment de Servon, qui sont en quartier à Périgueux, allerent les joindre, &amp; ils furent encor suivis d'un grand nombre de Personnes de l'un &amp; de l'autre Sexe, qui passerent la nuit à dancer sur la Terrasse. Les Jesuites avancerent la Tragédie qu'ils ont coûtume de faire joüer tous les ans à la fin de leurs Classes, &amp; ils changerent le sujet du Ballet &amp; des Entre-Actes, qu'ils tournerent fort spirituellement sur la Naissance du jeune Prince. Les Festes de Périgueux durerent quatre jours, mais le quatriéme jour fut le plus remarquable, par le grand nombre de Bourgeois qui se mirent sous les armes, &amp; de Dances &amp; de Repas publics qu'on vit par toute la Ville. Messieurs les Magistrats, precédez des Trompetes &amp; des Tambours, &amp; accompagnez de quantité de Gens à cheval, alloient dans tous les Quartiers faire paroistre leur joye &amp; donner ordre à tout. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_345">
+      <div xml:id="MG-1682-10b_345" type="migration">
         <head>MG-1682-10b_345</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 345- 347</bibl>
         <p>Villers-Canivet.</p>
         <p/>
         <p>Madame de Souvré, Abbesse de Villers-Canivet, proche Falaise, fit assembler sa Communauté dans son Eglise magnifiquement parée. Il est impossible de se rien imaginer de plus éclatant. [...] Cette illustre Abbesse dont je vous ay déjà parlé plusieurs fois, voulant marquer sa joye avec plus d'éclat, fit mettre tous ses Vassaux sous les armes. Il s'y trouva plus de six cens ; &amp; les salves des Mousquets, le bruit des Boëtes, &amp; le carrillon des Cloches, apprirent aux Lieux voisins ce qu'on faisoit à Villers. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_347">
+      <div xml:id="MG-1682-10b_347" type="migration">
         <head>MG-1682-10b_347</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 347-349</bibl>
         <p>Fécamp.</p>
         <p/>
         <p>Mr de la Touche Belleviere, Gouverneur pour le Roy des Ville, Ports, &amp; Havre de Fécamp, y ayant envoyé ses ordres, la grosse Cloche de l'Abbaye se fit entendre presque dans tous les Bourgs &amp; Villages de ce Gouvernement ; ce qui obligea plus de quatre mille Personnes à venir joindre leurs prieres à celles que l'on y fit pour la conservation de toute la Maison Royale. Les Peres Benedictins, &amp; les Capucins, s'assemblerent avec les Curez &amp; Prestres des dix Paroisses de ce Lieu, dans l'Eglise de l'Abbaye ; &amp; à l'issue de Vespres, on fit une Procession solemnelle. Mr de Bourdemare y officia pontificalement, Mr le Grand Prieur estant malade. Le Te Deum fut chanté au retour par la Musique de l'Abbaye, que l'on trouva excellente. Mr le Senéchal, &amp; toute la Justice, y assista en Habit de cerémonie, ainsi que les Officiers de l'Admirauté &amp; du Grenier à Sel. Tous les Bourgeois estoient sous les armes. Le Te Deum finy, Mr le Major &amp; Mr Godefroy, allumerent le Feu de joye au bruit des Canons, de la Mousqueterie, &amp; des cris de Vive le Roy. Ce Feu estoit dans la Place du Fort devant la Portail de l'Abbaye. Le soir il y eut des Illuminations &amp; des Feux dans toutes les Ruës, &amp; l'on n'entendit de tous costez que le son des Violons, des Hautbois, des Tambours, des Trompetes, &amp; de toutes sortes d'Instrumens. Vous aurez peut-estre esté surprise d'apprendre que la Cerémonie s'est faite dans l'Eglise de l'Abbaye, &amp; que toutes les Paroisses s'y sont renduës ; mais c'est un Privilege de la celébre Abbaye de Fécamp, &amp; la Ville ne reconnoist point d'autre Evesque. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_352">
+      <div xml:id="MG-1682-10b_352" type="migration">
         <head>MG-1682-10b_352</head>
         <bibl>Mercure Galant, octobre 1682 [deuxièe partie], p. 352-354</bibl>
         <p>Stutgard.</p>
         <p/>
         <p>Mr de Bourgeauville, Envoyé Extraordinaire de Sa Majesté vers les Princes d'Allemagne, a fait une grande Feste à Stutgard, Païs de Wirtemberg, pour la Naissance de nostre nouveau Prince. Il donna un magnifique Soupé à trois Princes &amp; à cinq Princesses, qui se trouverent alors à Stutgard, sçavoir, deux Princes de Vvirtemberg, la Duchesse Doüairiere, le Prince &amp; la Princesse d'Oëttingen, deux Princesses d'Anspac, &amp; une autre d'Oëttingen, trois des plus belles Personnes de l'Allemagne. Il invita tout ce qu'il y avoit de plus considérable de l'un &amp; de l'autre Sexe dans le mesme Lieu, pour leur faire compagnie ; &amp; quoy qu'il eust pris fort peu de temps pour se préparer, l'abondance fut jointe à la propreté, &amp; à la délicatesse des Mets. Quatre grandes Tables furent servies dans un Lieu tres-éclairé, &amp; on but les Santez Royales au bruit des Trompetes, Violons, Timbales, &amp; de toute l'Artillerie de la Ville. [...]</p>
       </div>
-
-<div xml:id="MG-1682-10b_354">
+      <div xml:id="MG-1682-10b_354" type="migration">
         <head>MG-1682-10b_354</head>
         <bibl>Mercure Galant, octobre 1682 [deuxième partie], p. 354-355, 358-361</bibl>
         <p>Wirtschafft.</p>
@@ -693,6 +646,6 @@
         <p>Toute cette illustre Troupe s'estant partagée deux à deux, prit le chemin de la grande Salle, où le Soupé fut servy en Ambigu sur une grande Table en Croix. La Musique fut mêlée à la conversation, &amp; le plaisir de la Dance suivit celuy de la bonne Chere. Les Princesses charmerent par leur grand air, &amp; par la justesse de leurs pas ; &amp; Madame la Comtesse de Vvolffting se fit remarquer avec beaucoup d'avantage.</p>
         <p>On se délassa le lendemain au soir par une Représentation des Marionetes ; &amp; le jour suivant on fit une nouvelle Mascarade dans les formes. Les Billets marquerent à chacun son habillement &amp; sa Dame, &amp; l'on fit des Préparatifs extraordinaires pour bien soûtenir ce que l'on représentoit. [...] On dança longtemps, &amp; jamais Vvirtschafft ne donna plus de plaisir.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

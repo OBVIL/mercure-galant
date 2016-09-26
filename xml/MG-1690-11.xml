@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,31 +51,28 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1690-11_093">
+      <div type="article" xml:id="MG-1690-11_093" resp="mercure">
         <head>MG-1690-11_093</head>
         <bibl>Mercure galant, novembre 1690, p. 93-94</bibl>
         <p>Ordre de S. Jean de Jerusalem.</p>
         <p/>
         <p>Mr le Commandeur de Barbantane, Vicaire General du Grand Prieuré de Toulouse, de l'Ordre de Saint Jean de Jerusalem, ayant appris que Mr le Commandeur de Vignacour avoir esté éleu Grand Maistre de Malthe, en fit paroistre sa joye par des illuminations qu'il fit faire devant sa Maison, &amp; par un grand Feu d'artifice qui fut tiré au bruit des Fifres, des tambours &amp; des hautbois.</p>
       </div>
-
-<div xml:id="MG-1690-11_177">
+      <div type="article" xml:id="MG-1690-11_177" resp="mercure">
         <head>MG-1690-11_177</head>
         <bibl>Mercure galant, novembre 1690, p. 177-180</bibl>
         <p>Mission.</p>
         <p/>
         <p>Comme l'ouverture du Jubilé ne s'est faite dans le Diocese de Roüen que sur la fin du mois d'Octobre dernier, Madame d'Ableiges, qui fait toujours de grandes charitez, &amp; qui ne se plaist qu'aux exercices de pieté, a voulu répandre sur les Paroisses dont elle est Dame, des benedictions particulieres par une Mission qu'elle y a fait faire à ses dépens [...] Cette Mission commença le 23. d'Octobre, &amp; finit le 7. de ce mois. Six Ecclesiastiques des Missions Etrangeres y ont fait pendant ce temps tous les exercices d'une Mission reglée. L'un d'eux faisoit la Priere dés cinq heures du matin, avec une instruction qui duroit une heure ; ensuite on disoit la Messe, &amp; un autre faisoit le Catechisme pour les Enfans jusqu'à neuf heures. A dix heures on chantoit la grand'Messe.</p>
       </div>
-
-<div xml:id="MG-1690-11_252">
+      <div type="article" xml:id="MG-1690-11_252" resp="mercure">
         <head>MG-1690-11_252</head>
         <bibl>Mercure galant, novembre 1690, p. 252-255</bibl>
         <p>Opera nouveau.</p>
         <p/>
         <p>Toute l'Europe liguée contre le Roy depuis deux ans, n'empesche point que tout ne marche en France d'un pas égal. Les seuls Etats de nos Ennemis se ressentent de la guerre, &amp; la magnificence qui est ordinaire aux Opera, semble avoir augmenté cette année, dans celuy d'Enée &amp; Lavinie, qui vient de paroistre. En effet on ne peut rien voir de plus somptueux que les habits &amp; les decorations, le tout du dessein de Mr Berrin. La Musique est de Mr Colasse, dont je vous ay parlé plusieurs fois. Il a déja fait trois Opera depuis la mort de Mr de Lully, &amp; la beauté de la Musique de ce dernier se fait tellement sentir, que l'on se récrie à haute voix dés le Prologue, ce qui n'arrive ordinairement qu'aux endroits de passion qui entrainent l'Auditeur. Les paroles sont de Mr de Fontenelle, &amp; le titre de cet Opera vous fait connoistre qu'il a tiré son sujet de ce que Virgile rapporte du differend d'Enée &amp; de Turnus, qui aspiroient l'un &amp; l'autre à épouser Lavinie. On ne peut douter qu'un Ouvrage de sa façon ne soit plein d'esprit, aprés l'applaudissement general qu'ont receu tous les Livres qu'il a donnez au Public. Il est cependant bien malaisé de contenter tous les gousts dans les choses de cette nature, qui estant composées de differentes parties, ne plaisent qu'autant que chaque goust particulier est satisfait.</p>
       </div>
-
-<div xml:id="MG-1690-11_255">
+      <div type="article" xml:id="MG-1690-11_255" resp="mercure">
         <head>MG-1690-11_255</head>
         <bibl>Mercure galant, novembre 1690, p. 255-258</bibl>
         <p>Prologue.</p>
@@ -122,6 +119,6 @@
         <p>Bergers, preparez-luy mille nouvelles Festes,</p>
         <p>Meslez des sons guerriers au doux chant de vos voix.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

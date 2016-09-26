@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-04_119">
+      <div type="article" xml:id="MG-1686-04_119" resp="mercure">
         <head>MG-1686-04_119</head>
         <bibl>Mercure Galant, avril 1686, p. 119-120</bibl>
         <p>Lettre à l'Evesque de Lavaur</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>[...] J'ay une petite Maison de Campagne, où pour tout ornements, j'ay fait peindre les sept plus grands Personnages qui ayent jamais esté chacun dans leur genre, &amp; que je regarde comme les sept Miracles du Monde ; Monsieur le Prince pour la Guerre ; Mr Descartes pour la Physique ; Mr Arnauld pour la Science de la Religion &amp; la Polémique ; Mr Corneille pour la Tragédie ; Mr Lully pour la Musique ; Mr le Brun pour la Peinture ; &amp; vous Monseigneur, pour l'Eloquence. Le Roy est au dessus de tous vous autres, qui répand ses rayons pour vous éclairer &amp; vous échauffer au travail. [...]</p>
       </div>
-
-<div xml:id="MG-1686-04_136">
+      <div type="article" xml:id="MG-1686-04_136" resp="mercure">
         <head>MG-1686-04_136</head>
         <bibl>Mercure Galant, avril 1686, p. 136-137, 144-146</bibl>
         <p>Fruits extraordinaire d'une Mission faite à Privas</p>
@@ -71,8 +70,7 @@
         <p>[Un dimanche, seules les jeunes filles furent invitées à communier.] Elles se trouvèrent à l'Eglise, à l'heure marquée, au nombre de deux cens, &amp; et le Crucifix fut mis entre les mains de celle qui avoit demandé de le porter. On entonna les Litanies. Elles continuèrent à les chanter, sortant de l'Eglise deux à deux, &amp; marchèrent ainsi fort dévotement, suivies de Mr le Curé, &amp; de quelques Ecclésiastiques, qui chantoient des Motets en Fauxbourdon.</p>
         <p>Après eux marchoient quantité d'hommes &amp; de Femmes, dont la foule fit connoistre que cette Cérémonie ne les choquoit pas. A leur retour elles se placèrent dans l'endroit qu'on leur avoit préparé. M. le Curé commençait la Messe, pendant laquelle un des Missionnaires produisoit à haute voix des Actes de Foy, d'Esperance, de Charité, de regret &amp; d'humilité, alternativement avec un Ecclésiastique, qui chantoit en plein-chant quelques paroles de l'hymne Pange Lingua. [...]</p>
       </div>
-
-<div xml:id="MG-1686-04_170">
+      <div type="article" xml:id="MG-1686-04_170" resp="mercure">
         <head>MG-1686-04_170</head>
         <bibl>Mercure Galant, avril 1686, p. 170-187</bibl>
         <p>Il y a quelques années que je vous fis une exacte &amp; entière description de tous les Appartemens de Versailles &amp; de ce que l'on appelle tenir Apartement. La Musique est du nombre des divertissemens que l'on y prend les jours qu'on le tient. Non seulement les plus beaux Airs de Mr de Lully y sont chantez, mais encore ceux des Maistres de Musique qui ont quelque distinction, &amp; dont les Ouvrages ont fait bruit. Cela fait qu'ils s'empressent tous à travailler, &amp; qu'ils cherchent de belles paroles, parce que lors qu'il sont assez heureux pour en avoir, ils sont seurs que leur Musique paroistra beaucoup davantage. C'est ce qui arriva dernièrement au Sieur Marets, qui ayant mis en Musique l'Idille que je vous envoye, le fit chanter aux Apartemens en présence de toute la Cour. Il y arriva une chose extraordinaire, &amp; qui fait connoistre son grand succés. Madame la Dauphine en fut si contente, qu'elle le fit recommencer sur l'heure. Tous ceux qui l'avoient déjà oüy, l'entendirent une seconde fois, &amp; témoignèrent y prendre un nouveau plaisir. Il fut encore chanté le jour d'Apartemens suivant. Je vous ay souvent parlé des Ouvrages de Prose &amp; de Vers, &amp; de de différens caractères de l'Auteur des paroles, c'est tout ce que je vous en diray aujourd'huy. J'espère vous envoyer le mois prochain quelques endroits notez de l'Idille.</p>
@@ -339,8 +337,7 @@
         <p>Benissons le Vainqueur, qu'il triomphe à jamais,</p>
         <p>Il unit le Repos, la Victoire &amp; la Paix.</p>
       </div>
-
-<div xml:id="MG-1686-04_204">
+      <div type="article" xml:id="MG-1686-04_204" resp="mercure">
         <head>MG-1686-04_204</head>
         <bibl>Mercure Galant, avril 1686, p. 204-205, 210</bibl>
         <p>Reception faite par M. le Vice-légat d'Avignon à M. le Comte de Castelamene</p>
@@ -349,8 +346,7 @@
         <p/>
         <p>La magnificence, la propreté &amp; la délicatesse Françoise aussi bien que l'Italienne, parurent à ce Repas &amp; à ceux qui suivirent, par l'abondance des viandes les plus exquises, [&amp;] par une excellente Symphonie [...]</p>
       </div>
-
-<div xml:id="MG-1686-04_250">
+      <div type="article" xml:id="MG-1686-04_250" resp="mercure">
         <head>MG-1686-04_250</head>
         <bibl>Mercure Galant, avril 1686, p. 250-254, 257-275, 278, 280-282, 287-295, 299, 305-306</bibl>
         <p>Relation générale de tout ce qui s'est passé touchant la Statüe que M. le Duc de la Feüillade à fait élever à la gloire du Roy</p>
@@ -374,6 +370,6 @@
         <p>[Le Dauphin fut reçu à l'Hôtel de Ville après l'Illumination de la statue, il y eu là aussi] quantité de Trompettes &amp; de Hautbois, &amp; divers autres instrumens.</p>
         <p>On devina aisément par la manière dont ce spectacle estoit ordonné, &amp; par la profusion d'artifices, que Mr de la Feuillade donnoit encore ce divertissement &amp; vouloit couronner par là une journée qui luy estoit si glorieuse &amp; dans laquelle il avoit fait voir jusqu'où peut aller le zèle d'un sujet pour son Prince.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1694-11_163">
+      <div type="article" xml:id="MG-1694-11_163" resp="mercure">
         <head>MG-1694-11_163</head>
         <bibl>Mercure galant, novembre 1694, p. 163-172</bibl>
         <p>Pompe funebre de Mademoiselle de Dombes.</p>
@@ -60,6 +60,6 @@
         <p>[Le] 28 ; le Corps fut porté à la Paroisse de Versailles, dans un Carosse à six chevaux, dans lequel estoit Madame de Malezieu, Gouvernante de la petite Princesse, &amp; un Aumosnier en surplis. [...]</p>
         <p>Le Samedy 16. Octobre, on tendit de blanc tout le grand Choeur de la Paroisse, avec trois rangs de tentures dans la Nef, &amp; devant le Portail, le tout fermé des armoiries de la Princesse. [...] Le Clergé chanta les Prieres ordinaires, aprés lesquelles les Prestres descendirent le Corps dans un petit Caveau que l'on avoit creusé au milieu du Choeur.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

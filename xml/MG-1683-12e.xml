@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-12e_003">
+      <div type="article" xml:id="MG-1683-12e_003" resp="mercure">
         <head>MG-1683-12e_003</head>
         <bibl>Mercure Galant, quartier d'octobre 1683, [p. 3-32]</bibl>
         <p>[Conversation academique sur les qualités de l'air]</p>
@@ -65,6 +65,6 @@
         <p/>
         <p>[...] Enfin on peut dire que l'Air, ce que S. Paul a dit à Dieu, In quo vivimus, movemur, &amp; sumus. Il nous fait voir les objets, mais il nous donne encore l'oüye, &amp; l'odorat. Par son moyen nous sentons, &amp; nous entendons. Tous nos Instrumens, &amp; toutes nos Chansons, ne sont qu'un air mesuré &amp; harmonieux. Il anime les uns, il inspire les autres. Une Chanson s'appelle un Air, ou une façon de chanter ; mais encore par ce qu'il faut de l'air pour le chanter, &amp; que la Musique rend cet air harmonieux par les diférentes notes qui le composent. En effet, l'air agité par la voix, frape agreablement nos oreilles ; ce qui a fait dire à un Ancien, qu'une belle Ode, qui est la mesme chose qu'une belle Chanson, estoit un air qui voloit dans les oreilles. Il y a des Païs mesme où l'air fait les belles Voix, &amp; où tous les Hommes chantent bien. Vous demeurez d'accord de cette verité, puis que selon Aristote, la voix &amp; les Instrumens ne font qu'une répercussion de l'Air inspiré. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

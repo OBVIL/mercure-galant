@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,47 +51,42 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-09a_000">
+      <div xml:id="MG-1682-09a_000" type="migration">
         <head>MG-1682-09a_000</head>
         <bibl>Mercure Galant, septembre 1682, p. ij-[iv]</bibl>
         <p>Au Lecteur.</p>
         <p/>
         <p>On ne voulut point le dernier mois donner deux Volumes au Public, pour ne point passer les bornes que l'on s'est prescrites pour une Lettre. Il s'en est plaint, ayant luy-mesme connu l'abondance de la matiere ; &amp; sur cette plainte on s'est résolu à le contenter. Le Mercure de ce mois est donc divisé en deux Parties ; mais quoy qu'elles fassent deux Volumes, tous les deux ne sont neantmoins qu'un seul Mercure. Les Articles de Nouvelles sont meslez dans l'un &amp; dans l'autre avec les Festes publiques, &amp; aucun des deux ne contient de Nouvelles sans Relations, ny de Relations sans Nouvelles. Comme les plus belles choses périssent en peu de temps, quand elles ne paroissent qu'en feüilles volantes, la plûpart des Villes de France souhaitent voir ce qu'elles ont fait en cette grande occasion, dans un Corps, qui estant relié, se puisse conserver aisément ; &amp; pour satisfaire à leurs desirs empressez, &amp; aux demandes expresses du Public, on s'est trouvé engagé à faire ces deux Parties. Il est impossible de se dispenser de faire la mesme chose le mois prochain, &amp; l'on avertit que le Mercure d'Octobre aura encor deux Parties. Quelques-uns de ceux qui jugent de tout par le Titre, croiront peut-estre que toutes les Réjoüissances se ressemblent, parce qu'elles ont toutes le mesme nom, &amp; qu'on y parle de Te Deum, de Feux, de Vins, d'Instrumens, &amp; de tout ce qui accompagne ordinairement la joye. Cependant ce n'est pas en juger juste. Il n'y a rien qui ne soit changé par les circonstances ; &amp; sans cela, tel qui plaide vingt années, n'auroit qu'à lire l'Article de la Loy qui regarde son affaire, &amp; cette affaire seroit décidée. Il en est de mesme à l'égard des Festes qui ont esté faites dans les Provinces. La joye a esté semblable par tout ; mais chacun selon son divers génie, en a donné de diverses marques, &amp; de plus de deux cens Feux d'artifice dont j'ay les Mémoires, je n'en trouve pas un seul qui se ressemble en toutes ses parties. Si pourtant on en croit ceux qui jugent de tout sans avoir rien vû ny lû, &amp; sans vouloir rien entendre, tout n'est qu'une mesme chose. Si chacun prononçoit si viste, je tiendrois ceux qui en ce rencontre ont donné des marques de leur invention &amp; de leur esprit, plus malheureux que les autres, qui n'ont pris aucune peine. Ils ont inventé de nouvelles manieres de dresser des Feux d'artifice. Ils ont fait des Devises. Ils ont représenté la grandeur du Roy par un nombre infiny de Figures diférentes, &amp; fait par là son Eloge sans un long discours. Ils ont donné des Sujets pour faire des Carrousels, &amp; ont eu besoin d'application pour trouver cent choses de cette nature, qui n'ont de ressemblance l'une à l'autre, que parce qu'elles marquent la grandeur de nostre auguste Monarque, &amp; l'esprit de ceux qui en sont les Autheurs. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_035">
+      <div xml:id="MG-1682-09a_035" type="migration">
         <head>MG-1682-09a_035</head>
         <bibl>Mercure Galant, septembre 1682, p. 35-37</bibl>
         <p>Mariage de M. le Marquis de Blainville, &amp; de Mademoiselle de Tonnécharante.</p>
         <p/>
         <p>Le 25. du dernier mois, Mademoiselle de Tonnécharante, de la Maison de Rochechoüart, Fille de feu Mr le Comte de Tonnécharante, Colonel du Régiment de la Marine, &amp; de Dame Marie de Phelypeaux, Fille de feu Mr de la Vrilliere Secrétaire d'Etat, épousa le troisiéme Fils de Mr Colbert, que l'on appelle aujourd'huy Mr le Marquis de Blainville. La Nôce se fit à l'Hostel de la Vrilliere par Mr le Marquis de Chasteauneuf, Ministre &amp; Secrétaire d'Etat, Oncle de la Mariée. Mr l'Archevesque de Bourges, Frere de Mr de Chasteauneuf, fit la cerémonie des Epousailles dans l'Eglise S. Eustache. Le lendemain, les Parens de part &amp; d'autre furent conviez par Mr Colbert d'aller en sa Maison de Sceaux. Le Divertissement commença par la promenade sur le grand Bassin, où il y avoit un Concert de Flûtes. Au retour de la promenade, on trouva dans les Apartemens des Concerts d'Instrumens &amp; de Voix. Ils furent suivis d'un magnifique Soupé sur trois diférentes Tables. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_045">
+      <div xml:id="MG-1682-09a_045" type="migration">
         <head>MG-1682-09a_045</head>
         <bibl>Mercure Galant, septembre 1682, p. 45-49</bibl>
         <p>Hospitalieres de la Roquette.</p>
         <p/>
         <p>Jamais Naissance n'a esté suivie d'acclamations si genérales. Il n'y a point de marques de joye qu'on n'en ait donné icy. Quoy que ma derniere Lettre ait esté toute remplie des Réjoüissances que l'on y a faites dans tous les Quartiers, elle n'a point esté assez ample pour renfermer tout ce que j'avois à vous en dire. Ainsi je suis obligé de vous en parler encore au commencement de celle-cy. Parmy les Communautez Religieuses, les Hospitalieres de la Raquete [sic] se sont distinguées. On ne peut faire plus de Prieres publiques &amp; particulieres qu'elles en ont fait avant &amp; apres les Couches de Madame la Dauphine. Elles chanterent solemnellement le Te Deum, &amp; vinrent en suite assister au Feu qu'elles avoient donné ordre que l'on préparast. On voyoit sur un Lieu fort éminent une Colomne de feu, au dessus de laquelle paroissoit un Globe lumineux qui jetta une infinité de Pyramides de flâmes. Une clarté sortit un moment apres de l'épaisseur d'un Arbre, prodigieux pour son excessive hauteur ; &amp; cette lumiere qui se fit jour à travers les ombres des branches, représentoit en quelque façon la Colomne de nuée qui conduisoit les Hébreux pendant le jour, comme la Colomne de feu représentoit celle qui les éclairoit pendant la nuit. En suite on entendit un grand bruit, qui par une invention toute nouvelle contrefit merveilleusement bien celuy du Canon. Ce bruit fut suivy de deux Motets, chantez l'un &amp; l'autre par une tres-belle Voix. Tout le Convent fut illuminé, &amp; l'on fit les réjoüissances &amp; les libéralitez ordinaires.</p>
       </div>
-
-<div xml:id="MG-1682-09a_049">
+      <div xml:id="MG-1682-09a_049" type="migration">
         <head>MG-1682-09a_049</head>
         <bibl>Mercure Galant, septembre 1682, p. 49-50</bibl>
         <p>Hospitalieres de la Place Royale.</p>
         <p/>
         <p>Les Religieuses Hospitalieres de la place Royale ayant esté averties par Madame la Duchesse de Richelieu, que le temps des Couches de Madame la Dauphine approchoit, firent des Communions particulieres &amp; genérales. Elles continuerent cette devotion, accompagnée de Neufvaines, jusques au jour que cette mesme Duchesse leur fit sçavoir que Madame la Dauphine estoit en travail. La Supérieure fit incontinent venir au Choeur toute la Communauté, qui ne cessa point de prier jusqu'à ce qu'elle eust appris que la France avoit un nouveau Prince. Les Réjoüissances de ce Convent ont esté proportionnées aux Prieres.</p>
       </div>
-
-<div xml:id="MG-1682-09a_050">
+      <div xml:id="MG-1682-09a_050" type="migration">
         <head>MG-1682-09a_050</head>
         <bibl>Mercure Galant, septembre 1682, p. 50-51</bibl>
         <p>Visitation de Sainte Marie.</p>
         <p/>
         <p>Outre les Prieres, les Instrumens de Musique, &amp; l'Artifice, dont se servirent les Religieuses de la Visitation de Sainte Marie de la Ruë du Bac, Fauxbourg S. Germain, pour marquer leur joye, elles étalerent des Tableaux de toutes les Conquestes de Sa Majesté. Ces tableaux estoient accompagnez de Devises &amp; d'Emblémes à sa gloire.</p>
       </div>
-
-<div xml:id="MG-1682-09a_051">
+      <div xml:id="MG-1682-09a_051" type="migration">
         <head>MG-1682-09a_051</head>
         <bibl>Mercure Galant, septembre 1682, p. 51, 53-54</bibl>
         <p>General de l'Ordre de la Sainte Trinité.</p>
@@ -99,24 +94,21 @@
         <p>On ne peut rien voir de plus grand, de plus magnifique, ny de plus ingénieux, que ce qu'on a veu au Convent des Maturins. Le Pere Mercier, General de cet Ordre, appellé de la Sainte Trinité &amp; Rédemption des Captifs, avoit fait faire un Feu d'artifice élevé sur le Balcon de son Jardin. [...]</p>
         <p>Le Pere General, quoy qu'indisposé depuis longtemps, descendit exprés, &amp; voulut luy-mesme allumer le Feu. Il fut tiré au bruit des Trompetes. Toute la Court estoit environnée d'un nombre presque infiny de Flambeaux de cire blanche. Avant &amp; apres le Feu, on tira quantité d'Artifice, &amp; pendant ce divertissement on distribua du Vin en abondance.</p>
       </div>
-
-<div xml:id="MG-1682-09a_054">
+      <div xml:id="MG-1682-09a_054" type="migration">
         <head>MG-1682-09a_054</head>
         <bibl>Mercure Galant, septembre 1682, p. 54-55</bibl>
         <p>Maison Royale de Sainte Croix de la Brétonnerie.</p>
         <p/>
         <p>Le Pere Prieur des Chanoines Réguliers de la Maison Royale de Sainte Croix de la Brétonnerie, apres des Prieres &amp; des Réjoüissances extraordinaires, fit un Régale à tous ses Religieux. On a chanté dans le mesme Lieu un Te Deum pour la Compagnie des Sergens à Verge du Chastelet de Paris.</p>
       </div>
-
-<div xml:id="MG-1682-09a_055">
+      <div xml:id="MG-1682-09a_055" type="migration">
         <head>MG-1682-09a_055</head>
         <bibl>Mercure Galant, septembre 1682, p. 55</bibl>
         <p>College de la Marche.</p>
         <p/>
         <p>Dans la Tragédie représentée au College de la Marche, il y eut un Concert de Musique à la loüange du Roy, &amp; plusieurs Odes recitées sur la Naissance du nouveau Prince. Le Principal de ce College, apres avoir fait chanter le Te Deum, fit allumer un Feu d'artifice, &amp; distribuer du Pain &amp; du Vin.</p>
       </div>
-
-<div xml:id="MG-1682-09a_057">
+      <div xml:id="MG-1682-09a_057" type="migration">
         <head>MG-1682-09a_057</head>
         <bibl>Mercure Galant, septembre 1682, p. 57-67</bibl>
         <p>Festes Galantes.</p>
@@ -254,8 +246,7 @@
         <p/>
         <p>Une Dance genérale des diférens Peuples qui estoient sur le Theatre, finit ce Prologue.</p>
       </div>
-
-<div xml:id="MG-1682-09a_067">
+      <div xml:id="MG-1682-09a_067" type="migration">
         <head>MG-1682-09a_067</head>
         <bibl>Mercure Galant, septembre 1682, p. 67-71</bibl>
         <p>« Toutes les Communautez, &amp; tous les Corps, ayant témoigné leur zele en faisant chanter le Te Deum, Mrs de l'Académie Françoise, qui ont l'honneur d'avoir le Roy pour Protecteur de leur Compagnie, en ont fait chanter un en Musique dans la Chapelle du Louvre. Il estoit de la composition de Mr Oudot, dont je vous ay déjà parlé plusieurs fois, &amp; il fut exécuté par plus de soixante Personnes, Joüeurs d'Instrumens, &amp; Musiciens. La plûpart de ces Messieurs se sont distinguez en cette occasion par leurs Ouvrages. Je vous en ay déjà envoyé quelques-uns. En voicy encor deux Sonnets. Mr Quinaut a fait le second.</p>
@@ -280,16 +271,14 @@
         <p>Avec le mesme soin pourvois à tout le reste,</p>
         <p>Ciel, tu nous as donné des Maistres pour longtemps. »</p>
       </div>
-
-<div xml:id="MG-1682-09a_084">
+      <div xml:id="MG-1682-09a_084" type="migration">
         <head>MG-1682-09a_084</head>
         <bibl>Mercure Galant, septembre 1682, p. 84-87</bibl>
         <p>Alceste.</p>
         <p/>
         <p>Vous me demandez des nouvelles de l'Académie de Musique. Les Assemblées y sont fort nombreuses. Cependant on n'y représente qu'Alceste, qui n'est pas nouveau. Il est vray qu'il l'est par les Machines, ausquelles Mr Bérain a parfaitement réüssy. C'est à luy que nous devons l'invention des Lumieres vives pour les Illuminations. Le Soleil qui parut devant la Porte de l'Opéra le jour que Mr de Lully le donna libéralement au Peuple, estoit composé de plus de mille Lampes. Il en fit un essay devant sa Porte, dés les premiers jours qu'on fit icy des Réjoüissances pour la Naissance de Monseigneur le Duc de Bourgogne. Il ne faut pas s'étonner apres cela, si l'Illumination des Galeries du Louvre a esté si éclatante, puis que c'est le mesme Mr Bérain qui s'en est meslé. Mais pour revenir à l'Opéra, il faut vous apprendre que Mr de Lully travaille à celuy de Phaëton. Il doit estre pour le Roy. Je ne vous dis point qu'on attend beaucoup de cet Ouvrage. Quoy qu'on s'en promette, on peut s'assurer qu'il remplira tout ce qu'on attend ; un aussi grand Homme que luy ne pouvant rien faire qui ne soit le charme de tous ceux qui ont un peu de goust en Musique. Le nouveau succés d'Alceste en est une preuve. Il y a plusieurs années que cet Opéra est fait, &amp; on ne laisse pas d'y découvrir tous les jours des beautez nouvelles, qui y font courir en foule, comme si c'estoient les premieres Représentations que l'on en donnast.</p>
       </div>
-
-<div xml:id="MG-1682-09a_087">
+      <div xml:id="MG-1682-09a_087" type="migration">
         <head>MG-1682-09a_087</head>
         <bibl>Mercure Galant, septembre 1682, p. 87-91, 93-94, 96-101</bibl>
         <p>L'Université de Paris. Cet Article est remply de Remarques curieuses, &amp; de Harangues.</p>
@@ -300,24 +289,21 @@
         <p>Apres cette Harangue, qui reçeut beaucoup d'aplaudissemens de toute la Compagnie, parce qu'elle exprimoit fort naturellement par la bouche du Chef, les sentimens de tous les Membres, on se mit en marche en l'ordre, &amp; en la maniere accoûtumée. [...]</p>
         <p>La Procession ayant pris sa marche par la Ruë de la Harpe, &amp; par dessus le Pont S. Michel, passa devant la premiere Porte du Palais &amp; arriva sur les dix heures à N. Dame, où elle fut reçeuë dans l'Eglise au bruit des plus grosses Cloches, qui avoient commencé à sonner dés le matin, &amp; dans le Choeur, au son de plusieurs Instrumens de Musique, qui formoient une Symphonie tres-agreable. On se plaça en la maniere ordinaire. La Faculté de Théologie, &amp; celle de Medecine, du costé droit, ayant Mr le Recteur à leur teste. Celles de Droit &amp; des Arts, remplirent le costé gauche ; &amp; la foule des Docteurs, des Licenciez, des Bacheliez, &amp; des Maistres és Arts, se trouva si grande, qu'encor que Mrs du Chapitre N. Dame, par un effet du zele qu'ils ont pour tout ce qui regarde la gloire du Roy, eussent abandonné ce jour-là tout leur Choeur à l'Université, aussi-bien que leur Musique, &amp; leurs Officiers, &amp; qu'on eust donné tous les ordres necessaires pour empescher la confusion, les Compagnies se trouverent mêlées les unes parmy les autres, ce qui faisoit un spéctacle tres-particulier du mêlange des diférentes couleurs, &amp; des diférens Habits qui les distinguent. [...] La Messe fut chantée, aussi-bien que le Te Deum à la fin, par la Musique de cette Eglise, &amp; par un grand nombre d'Instrumens, qui répondirent admirablement à la beauté &amp; à la force de la composition de Mr Mignon. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_113">
+      <div xml:id="MG-1682-09a_113" type="migration">
         <head>MG-1682-09a_113</head>
         <bibl>Mercure Galant, septembre 1682, p. 113-116</bibl>
         <p>Monseigneur le Dauphin chasse aux environs de Paris, &amp; fait Collation à S. Oüen chez M. de Boisfranc.</p>
         <p/>
         <p>Monseigneur le Dauphin trouvant l'Image de la Guerre dans l'exercice de la Chasse, a continué pendant tout ce mois à prendre ce divertissement. Il a chassé tres-souvent aux environs de Versailles, d'où il est venu trois fois dans la Plaine de S. Denys, &amp; chaque fois ce Prince a fait collation à S. Oüen dans la belle Maison de Mr de Boisfranc. Monsieur, Madame, &amp; Mademoiselle, vinrent se promener au mesme Lieu au commencement de ce mois. Leurs Altesses Royales estoient accompagnées de Madame la Princesse de Rohan, de Madame la Duchesse de Vantadour, de Madame de Grancé, de Madame la Marquise d'Effiat, de Madame de Gourdon, &amp; de Mademoiselle de Loupes. Toute cette illustre Compagnie arriva sur les quatre heures, &amp; se promena d'abord sur les Terrasses &amp; dans les Jardins ; [...]. Apres qu'on fut revenu de la promenade, on entra dans un Sallon, où Mr de Boisfranc donna un magnifique Ambigu à Leurs Altesses Royales, qui firent l'honneur à Mademoiselle de Boisfranc de la faire manger à leur table. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_116">
+      <div xml:id="MG-1682-09a_116" type="migration">
         <head>MG-1682-09a_116</head>
         <bibl>Mercure Galant, septembre 1682, p. 116-119</bibl>
         <p>Retour de la Santé de M. le Chancelier.</p>
         <p/>
         <p>J'ay à vous apprendre le retour d'une santé dont je croy que toute la France donnera autant de marques de joye que la Cour en a donné. Vous voyez bien que je veux parler de celle de Mr le Chancelier. [...] Mrs les Secretaires du Roy ont fait chanter une grande Messe aux Celestins, pour demander cette guérison. Le nom de ces Peres me fait souvenir de ce qui s'est passé à leur Convent. Quoy qu'ils n'ayent rang icy que les derniers, ce sont eux qui ont chanté à Paris le premier Te Deum pour la Naissance de Monseigneur le Duc de Bourgogne. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_205">
+      <div xml:id="MG-1682-09a_205" type="migration">
         <head>MG-1682-09a_205</head>
         <bibl>Mercure Galant, septembre 1682, p. 205-208</bibl>
         <p>Divertissemens de la Cour de Hanover.</p>
@@ -325,16 +311,14 @@
         <p>La Cour de Hanover estant une des plus galantes Cours d'Allemagne, je continuë à vous en apprendre les Divertissemens. Le Mercredy 8. du dernier mois, Mr le Baron de Platen, dont je vous ay parlé plusieurs fois, régala Leurs Altesses de Hanover, avec Madame la Princesse &amp; Messieurs les Princes, dans sa Maison de plaisance, qui est à une portée de Canon de la Ville. Il y fit venir quantité de petites Pieces de campagne, qu'on plaça dans le Jardin, &amp; on beuvoit toutes les santez au bruit de trois décharges de toute cette Artillerie. On n'oublia rien pour donner de l'éclat à cette Feste. Les Trompetes &amp; les Timbales s'y firent entendre, aussi-bien que les Hautbois, &amp; les Flûtes douces ; &amp; les Violons François acheverent de charmer cette illustre Compagnie, qui prit grand plaisir à les écouter pendant le Repas.</p>
         <p>Le Dimanche 19. du mesme mois, Monsieur le Duc, &amp; Madame la Duchesse de Hanover, qui ont esté prendre l'air de la Campagne à Hircham depuis quelques temps, vinrent à Hanover faire leurs dévotions accoûtumées. Ils y prirent le divertissement de la Comédie Françoise, &amp; ensuite on leur donna un tres-beau Feu d'artifice, qui fut admirablement executé, &amp; qui dura une heure &amp; demie. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_210">
+      <div xml:id="MG-1682-09a_210" type="migration">
         <head>MG-1682-09a_210</head>
         <bibl>Mercure Galant, septembre 1682, p. 210-212</bibl>
         <p>Feste celebrée par les ordres de Madame de Souvray.</p>
         <p/>
         <p>Madame de Souvray, Abbesse de Villers Canivet, dont je vous parlay amplement il y a trois mois (cf. MG-1682.04.03], reçoit tous les jours de nouvelles marques de l'estime que l'on fait de sa vertu, &amp; de son mérite. Mr l'Evesque de Rennes, Mr le Comte de Nancrey, Gouverneur d'Arras, Mr le Comte &amp; Madame la Comtesse d'Aubigny, Mr le Baron de Neufvillette ; &amp; enfin tout ce qu'il y a de Personnes considérables dans le Païs, luy envoyerent faire compliment le jour de Sainte Anne, qui est sa Patronne. Cette Feste fut celebrée par ses ordres avec une magnificence digne d'elle. Tout ce qui concerne les cerémonies de l'Eglise, y fut observé ainsi qu'on a coûtume de faire dans les plus grandes solemnitez, &amp; les Voix charmantes des Religieuses formerent une Musique qui égaloit les plus doux Concerts. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_287">
+      <div xml:id="MG-1682-09a_287" type="migration">
         <head>MG-1682-09a_287</head>
         <bibl>Mercure Galant, septembre 1682, p. 287-289, 292-293, 297-299, 300-301</bibl>
         <p>Dijon.</p>
@@ -344,8 +328,7 @@
         <p>Ce Feu avoit esté préparé avec une extréme diligence pour le jour de la S. Loüis, comme convenable à cette Feste par rapport à celle de Sa Majesté ; neantmoins il ne fut tiré que le Lundy 31. Aoust à cause d'une grosse pluye qui survint, &amp; qui ne cessa presque point tous les autres jours de la semaine. On ne laissa pas de se donner au plaisir pendant tout ce temps. Plusieurs Marchandes, avec quelques jeunes Filles du voisinage du Palais, s'assemblerent le Jeudy 27. &amp; malgré la pluye qui tomboit alors abondamment, elles souperent ensemble au son des Tambours &amp; des Trompetes, &amp; au bruit des Mousquets, sur le Perron du Palais, qu'elles-mesmes avoient tapissé &amp; accomodé tres-proprement. Apres le Repas, elles passerent une partie de la nuit à danser dans la grand'Salle avec leurs Voisins. Le Dimanche 30. il y eut un Te Deum chanté solemnellement par une Musique à trois Choeurs dans l'Eglise des Jésuites, où non seulement tous les Autels, mais trois grandes Pyramides faites exprés, &amp; posées au dessus du grand Autel, &amp; les Corniches qui environnoient le Choeur, estoient chargées d'une infinité de lumieres. [...]</p>
         <p>Le lendemain jour du Feu, les Boutiques &amp; les Colleges furent fermez par l'ordre des Magistrats. Il dura pres de deux heures, &amp; fut tiré au bruit des Canons du Château, &amp; au son des Fifres, des Hautbois, des Violons, Trompetes &amp; des Tambours, assemblez par l'ordre &amp; par les soins du Vicomte Majeur, qui estant à la teste des Officiers de Ville, précedez d'une Milice aussi leste que nombreuse, mit le feu à la Machine. Pendant que toutes ces choses tenoient les Spéctateurs dans une joye continuelle, les Tours &amp; le Clocher de la belle Eglise de Saint Jean, &amp; la Terrasse du Logis du Roy qui porte sa Cime jusques dans les nuës, brilloient de feux éclatans. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09a_318">
+      <div xml:id="MG-1682-09a_318" type="migration">
         <head>MG-1682-09a_318</head>
         <bibl>Mercure Galant, septembre 1682, p. 318-320</bibl>
         <p>Communautez des Musiciens &amp; Simphonistes, &amp; autres.</p>
@@ -353,6 +336,6 @@
         <p>L'abondance de la matiere qui m'oblige à séparer cette Lettre en deux Parties, ne me laisseroit pas finir la premiere, si je voulois vous parler de tout ce que les Particuliers &amp; les Communautez de Paris ont fait. Celle des Musiciens &amp; des Symphonistes a chanté un Te Deum dans l'Eglise des Augustins du grand Convent. Il estoit de la Composition de Mr Josselin. Maistre de Musique des Jesuites de la Ruë S. Jacques. On en a chanté plusieurs autres de ce mesme Maistre en divers endroits. Le Sr Rabasche Syndic de la Communauté des Barbiers &amp; Perruquiers en fit chanter un le jour de Saint Loüis dans l'Eglise de Saint Germain l'Auxerrois, qu'on trouva tres beau. Il y avoit un grand nombre de Voix &amp; d'Instrumens.</p>
         <p>Les Réjoüissances &amp; les Prieres se sont continuées à Paris pendant tout le mois d'Aoust &amp; de Septembre. L'Artifice a brillé en quelques Quartiers. Plusieurs Compagnies de Mariniers, &amp; d'autres Personnes ayant de l'employ sur l'eau, ont fait éclater leurs Réjoüissances par les marques qu'ils ont données de leur force &amp; de leur adresse ; &amp; l'on a veu dans la mesme apresdînée tirer l'Oyson en trois diférens endroits, par trois diférentes Compagnies, au son des Trompetes &amp; de toutes sortes d'Instrumens. Mais, Madame, cette premiere Partie de ma Lettre est déjà trop longue. Je passe à la suite. Vous y trouverez les Réjoüissances des Provinces mêlées à ce qui me reste d'autres Nouvelles.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

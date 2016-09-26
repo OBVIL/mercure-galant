@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-12_141">
+      <div type="article" xml:id="MG-1683-12_141" resp="mercure">
         <head>MG-1683-12_141</head>
         <bibl>Mercure Galant, décembre 1683, p. 141-145, 147</bibl>
         <p>Etats de la Province de Foix, tenus par M. le Marquis de Mirepoix</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>[Une procession traversa la ville jusqu'à l'église où devait se tenir le service funébre au son des] Tambours &amp; [des] Trompetes [qui] faisoient un bruit lugubre, qui fut repris en divers endroits de la Messe. [...]</p>
       </div>
-
-<div xml:id="MG-1683-12_190">
+      <div type="article" xml:id="MG-1683-12_190" resp="mercure">
         <head>MG-1683-12_190</head>
         <bibl>Mercure Galant, décembre 1683, p. 190-191, 193-207</bibl>
         <p>Description de tout ce qui s'est passé à la Pompe Funébre de M. le comte de Vermandois</p>
@@ -71,22 +70,20 @@
         <p>[...] [Toute] l'Infanterie se mit sous les armes ; &amp; Mr le Chevalier de Montchevreüil, à teste de trois Bataillons du Régiment du Roy, vint occuper le Cloistre de Nostre-Dame, les Piques &amp; les Drapeaux ornez de longs Crêpes volans, les Tambours drapez de noir &amp; batant lugubrement, &amp; les Armes traînantes. Un bataillon de Navarre alla en mesme temps border à double haye les Rües depuis le Cloistre jusqu'à la Porte de Meaulens, par où devoit entrer le Corps. [...] Le Guet de la grande Tour de la cathédrale ayant averty par un signal que le Corps approchoit de la Ville, Mr l'Evesque avec une Etole &amp; une Chape de Brocard d'or à ramage noir, &amp; la Mitre en reste, accompagné de ses Archidiacres, du Chantres &amp; du Soûchantre, revestus de semblables Ornemens, &amp; de seize Officiers, &amp; précédé de tous les Chanoines ayant leurs hermines, &amp; de tous les Chapelains &amp; Musiciens, se rendit à cette Porte, où le Corps arriva sur les onze heures, au son de toutes les Cloches, &amp; au bruit de toute l'Artillerie de la Ville, de la Cité &amp; de la Citadelle, suivy de toute la Cavalerie l'épée à la main. [...] Dés que le Carosse qui portoit le Corps fut arrivé à la Porte de la Cité, les Hautbois de l'Armée commencérent un Concert lugubre, qui convenoit merveilleusement à la Cerémonie funébre qu'on alloit faire. Ce Concert dura jusqu'à ce que la draperie de Deüil qui environnoit le Carosse estant décousüe, l'on eust descendu le Corps, &amp; qu'on eust mis sur le Brancard à bras que l'on avoit préparé. Douze des plus anciens chanoines le receurent, &amp; le couvrirent d'un riche Poële de Velours noir, barré d'une large Croix de Drap d'or, &amp; orné de quatre Ecussons, dont les quatre coins furent portez par quatre autres Chanoines des plus venérables. Mr l'Evesque ayant fit les Aspersions &amp; les Priéres ordinaires, le Corps fut conduit dans la Cathédrale, au chant de tous les Musiciens, &amp; au son des Hautbois qui concertoient avec eux. On le posa au milieu du Choeur sur une Estrade couverte de Deüil [...] Apres les Chants, les Aspersions, les Encensemens, &amp; un De profundis en Musique composée de Voix &amp; d'Instrumens, le Corps fut levé par les douze Chanoines, &amp; posé avec la mesme cerémonie dans la Chapelle de Deüil qu'on luy avoit préparée ; où apres de nouvelles Priéres, il fut laissé en dépost jusques au jour de l'Enterrement. [...] Le 28. du mesme mois ayant esté choisy pour le jour des Funérailles, on éleva au milieu du Choeur une haute &amp; vaste Chapelle ardente. [...] Sur les trois heures &amp; demie, tout le Clergé de la Cathédrale partit du Choeur où il s'estoit assemblé, &amp; s'en alla dans un tres-bel ordre à la Chapelle de Deüil où se reposoit le Corps, &amp; d'où apres les Priéres &amp; Cerémonies accoûtumées, on le transporta au Choeur sous la Chapelle ardente, &amp; sur une vaste Estrade de trois dégrez, &amp; toute drapée de noir. [...] On chanta les Vespres, les Matines à neuf Leçons, &amp; les Laudes. [...] Ce Service commença à quatre heures, &amp; finit à sept.</p>
         <p>Le Lendemain, dés cinq heures du matin, on sonna toutes les grosses Cloches de la Cathédrale, presque sans intermission, jusques à une heure apres midy. Sur les dix heures, Mr le Marquis de Montchevreuil accompagné des principaux Officiers de la Maison de Mr le Comte Vermandois, Mr le Gouverneur &amp; l'Etat Major, le Consul, les Echevins de la Ville &amp; de la Cité, la Gouvernance, &amp; tous les Corps de la Ville, s'estant placez dans le Choeur, aux lieux qu'on leur avoir préparez ; Mr l'Evesque revestu d'un riche Ornement, &amp; assisté de dix-huit Officiers revestus de mesme, celébra la Messe pontificalement. Elle fut chantée en Musique, de la composition de Mr Doré Maistre de celle de la Cathédrale, si connu par les beaux Ouvrages qu'il a donnez au Public. Les Voix estoient accompagnées de divers Instrumens, à quoy répondoit par intervales un Concert de Hautbois en tons tristes &amp; lugubres. Tout le Clergé alla à l'Offrande, un Cierge à la main. La Messe finie, les Hautbois joüérent un Air entiérement lugubre, de la composition de Mr de Lully. Apres quoy, Mr l'Evesque accompagné de ses Officiers, vint au haut de la Chapelle ardente faire les Priéres, les Aspersions &amp; les Encensemens ; [...].</p>
       </div>
-
-<div xml:id="MG-1683-12_250">
+      <div type="article" xml:id="MG-1683-12_250" resp="mercure">
         <head>MG-1683-12_250</head>
         <bibl>Mercure Galant, décembre 1683, p. 250-252</bibl>
         <p>Réjoüissances faites pour la Naissance de Monseigneur le Duc d'Anjou</p>
         <p/>
         <p>Le Roy assista [...] au Te Deum, qui fut chanté par la Musique de la chapelle, [...]. Le jeudy 23. de ce mois, ayant esté choisy pour rendre graces à Dieu de cette Naissance dans l'Eglise Nostre-Dame de Paris, le Canon de l'Arsenal, de la Bastille, &amp; de la Gréve, se fit entendre le matin, aussi bien que les Horloges publiques, qui carillonnerent pendant tout le jour. Le Te Deum fut chanté en présence de Mr le Chancelier, avec toute les cerémonies accoûtumées, &amp; le soir on fit des Feux de joye ordinaires dans ces sortes d'occasions. Ces Feux furent précedez d'un Feu d'artifice qui estoit dressé devant l'Hôtel de Ville. [...]</p>
       </div>
-
-<div xml:id="MG-1683-12_314">
+      <div type="article" xml:id="MG-1683-12_314" resp="mercure">
         <head>MG-1683-12_314</head>
         <bibl>Mercure Galant, décembre 1683, p. 314-316</bibl>
         <p>Service fait pour la Reyne aux Carmélites de la Rue du Bouloir</p>
         <p/>
         <p>Je ne finirois point, si je voulois vous parler de tous les honneurs que l'on a rendus à la mémoire de la Reyne ; amis je ne dois pas oublier que les Carmélites de la Ruë du Bouloir ayant fait faire un Service Solemnel pour cette Princesse le 20. de ce mois, la Messe y fut celébrée pontificalement par Mr l'Evesque d'Auxerre, &amp; l'Oraison Funébre prononcée par Mr l'Abbé des Alleurs, Aumönier de Madame la Dauphine. [...] La Musique, qui fut fort touchante, estoit de la composition de Mr Charpentier. [...] Tous les jours, à l'issüe de leurs Vespres, [les Carmélites faisaient sonner] leur Cloche [afin d'annoncer] les Prieres publiques qu'elles faisoient pour cette illustre Défunte ; [...].</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

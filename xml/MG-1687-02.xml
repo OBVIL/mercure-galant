@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1687-02_001">
+      <div type="article" xml:id="MG-1687-02_001" resp="mercure">
         <head>MG-1687-02_001</head>
         <bibl>Mercure Galant, février 1687, p. 1-69</bibl>
         <p>Relation exacte de ce qui s'est passé à la reception du Roy à Paris.</p>
@@ -71,8 +71,7 @@
         <p>Tout Paris estant en joye ce jour là, les Comediens marquerent la leur au Public en donnant la Comedie sans prendre d'argent. L'Assemblée estoit nombreuse. Mr de la Grange dit au Peuple lorsque la Piece fut finie, que n'ayant pû garder le silence pendant toutes les marques d'allegresse que tout Paris faisoit éclater, ils avoient fait ouvrir les portes de leur Hostel pour avoir des témoins de leur zele particulier, &amp; qu'ils avoient voulu profiter d'une occasion si avantageuse pour joindre leurs acclamations aux applaudissemens publics. [...] &amp; marquons notre sincere reconnoissance avant que l'Assemblée se separe par des cris redoublez de VIVE LE ROY. A peine eut-il achevé ces derniers mots, que toute l'Assemblée les repeta plusieurs fois, &amp; qu'il s'en forma comme un Concert qui remplit longtemps toute la Salle. [...]</p>
         <p>Il seroit difficile d'exprimer la joye qui regna à l'Hostel de Ville pendant le reste du soir. Il y eut Bal dans trois Salles en mesme temps. On y receut une fort grande quantité de Masques, &amp; les liqueurs ne leur furent point épargnées. Pendant ce temps toutes les ruës de Paris brilloient par les feux qu'on y avoit allumez, &amp; par les Illuminations dont toutes les fenestres estoient décorées. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_001_BIS">
+      <div type="article" xml:id="MG-1687-02_001_BIS" resp="mercure">
         <head>MG-1687-02_001_BIS</head>
         <bibl>Mercure Galant, février 1687, p. 1-69</bibl>
         <p>Relation exacte de ce qui s'est passé à la reception du Roy à Paris.</p>
@@ -92,8 +91,7 @@
         <p>Tout Paris estant en joye ce jour là, les Comediens marquerent la leur au Public en donnant la Comedie sans prendre d'argent. L'Assemblée estoit nombreuse. Mr de la Grange dit au Peuple lorsque la Piece fut finie, que n'ayant pû garder le silence pendant toutes les marques d'allegresse que tout Paris faisoit éclater, ils avoient fait ouvrir les portes de leur Hostel pour avoir des témoins de leur zele particulier, &amp; qu'ils avoient voulu profiter d'une occasion si avantageuse pour joindre leurs acclamations aux applaudissemens publics. [...] &amp; marquons notre sincere reconnoissance avant que l'Assemblée se separe par des cris redoublez de VIVE LE ROY. A peine eut-il achevé ces derniers mots, que toute l'Assemblée les repeta plusieurs fois, &amp; qu'il s'en forma comme un Concert qui remplit longtemps toute la Salle. [...]</p>
         <p>Il seroit difficile d'exprimer la joye qui regna à l'Hostel de Ville pendant le reste du soir. Il y eut Bal dans trois Salles en mesme temps. On y receut une fort grande quantité de Masques, &amp; les liqueurs ne leur furent point épargnées. Pendant ce temps toutes les ruës de Paris brilloient par les feux qu'on y avoit allumez, &amp; par les Illuminations dont toutes les fenestres estoient décorées. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_073">
+      <div type="article" xml:id="MG-1687-02_073" resp="mercure">
         <head>MG-1687-02_073</head>
         <bibl>Mercure Galant, février 1687, p. 73-114</bibl>
         <p>Actions de graces renduës en plusieurs Villes du Royaume pour l'entier retablissement de la Santé du Roy.</p>
@@ -130,8 +128,7 @@
         <p/>
         <p>La Compagnie des Apotiquaires des Maisons Royales s'acquitta du mesme devoir le 12. du dernier mois, dans l'Eglise Collegiale de S. Thomas du Louvre, où le Doyen de ce Chapitre officia avec toute la devotion qui luy est ordinaire. Le Corps de la Musique de Saint Germain l'Auxerrois se surpassa dans tout ce qui fut chanté ; mais il n'y a pas lieu d'en estre surpris, puis que Mr Fossié en estoit le Maistre. Son merite est fort connu. Il a esté un des premiers Disciples de Mr l'Abbé Robert, dont il a concouru à estre le Successeur. Tout cela se fit par les soins de Mrs de Rouviere &amp; Habert, Syndics. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_073_BIS">
+      <div type="article" xml:id="MG-1687-02_073_BIS" resp="mercure">
         <head>MG-1687-02_073_BIS</head>
         <bibl>Mercure Galant, février 1687, p. 73-114</bibl>
         <p>Actions de graces renduës en plusieurs Villes du Royaume pour l'entier retablissement de la Santé du Roy.</p>
@@ -168,24 +165,21 @@
         <p/>
         <p>La Compagnie des Apotiquaires des Maisons Royales s'acquitta du mesme devoir le 12. du dernier mois, dans l'Eglise Collegiale de S. Thomas du Louvre, où le Doyen de ce Chapitre officia avec toute la devotion qui luy est ordinaire. Le Corps de la Musique de Saint Germain l'Auxerrois se surpassa dans tout ce qui fut chanté ; mais il n'y a pas lieu d'en estre surpris, puis que Mr Fossié en estoit le Maistre. Son merite est fort connu. Il a esté un des premiers Disciples de Mr l'Abbé Robert, dont il a concouru à estre le Successeur. Tout cela se fit par les soins de Mrs de Rouviere &amp; Habert, Syndics. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_133">
+      <div type="article" xml:id="MG-1687-02_133" resp="mercure">
         <head>MG-1687-02_133</head>
         <bibl>Mercure Galant, février 1687, p. 133-137</bibl>
         <p>Autres actions de graces.</p>
         <p>Comme la derniere action d'eclat que le Pere Brachet a faite avant la maladie dont il est mort, c'est d'avoir ordonné des Prieres pour l'heureux succés de l'Operation du Roy, le Pere Dom Claude Boistard qui gouverne à present la Congregation en qualité de Vicaire General, jusqu'a ce que le Chapitre, qui se doit tenir aprés Pasques, ait donné un Successeur au Défunt, a commencé l'exercice de sa Charge par un ordre qu'il a envoyé dans tous les Monasteres de sa Congregation, pour faire des Prieres en Actions de graces de l'heureuse guérison de Sa Majesté. Celles qui avoient esté faites à S. Germain des Prez, &amp; qu'on n'avoit point interrompuës depuis le commencement de l'Operation, y furent terminées le 15. de Janvier par un Te Deum, que l'on y chanta. On fit une aumône generale à la porte de l'Abbaye ; on assista quantité de pauvres honteux, &amp; on delivra ce qu'il y avoit de Prisonniers pour dettes dans les Prisons du Fauxbourg ; &amp; afin que les autres miserables qui gemissent dans ce lieu pour leurs fautes, pussent prendre part à la joye commune, on les tira des cachots pour les amener dans la Chapelle de la Prison, où on leur fit aussi chanter le Te Deum, aprés quoy on leur envoya de l'Abbaye, un souper que l'on peut appeler regale pour des gens chargez de chaînes. Tout cela se fit par les soins du Pere Dom Claude Bretagne, Prieur de Saint Germain, qui a aussi temoigné son zele dans cette occasion, par plusieurs prieres extrordinaires, &amp; d'autres bonnes oeuvres qu'il a fait pratiquer à ses Religieux.</p>
         <p>Les Benedictins du Monastere des Blanc-manteaux ont suivy l'exemple de ceux de l'Abbaye. Ils avoient fait une Neuvaine, &amp; exposé le Saint Sacrement, avec un Salut solemnel pendant neuf jours, sans qu'ils eussent discontinué les Prieres &amp; autres actions de pieté qu'ils avoient commencées dés les premiers jours de l'Operation. Ils chanterent un Te Deum solemnel le dimanche 19. du mesme mois. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_133_BIS">
+      <div type="article" xml:id="MG-1687-02_133_BIS" resp="mercure">
         <head>MG-1687-02_133_BIS</head>
         <bibl>Mercure Galant, février 1687, p. 133-137</bibl>
         <p>Autres actions de graces.</p>
         <p>Comme la derniere action d'eclat que le Pere Brachet a faite avant la maladie dont il est mort, c'est d'avoir ordonné des Prieres pour l'heureux succés de l'Operation du Roy, le Pere Dom Claude Boistard qui gouverne à present la Congregation en qualité de Vicaire General, jusqu'a ce que le Chapitre, qui se doit tenir aprés Pasques, ait donné un Successeur au Défunt, a commencé l'exercice de sa Charge par un ordre qu'il a envoyé dans tous les Monasteres de sa Congregation, pour faire des Prieres en Actions de graces de l'heureuse guérison de Sa Majesté. Celles qui avoient esté faites à S. Germain des Prez, &amp; qu'on n'avoit point interrompuës depuis le commencement de l'Operation, y furent terminées le 15. de Janvier par un Te Deum, que l'on y chanta. On fit une aumône generale à la porte de l'Abbaye ; on assista quantité de pauvres honteux, &amp; on delivra ce qu'il y avoit de Prisonniers pour dettes dans les Prisons du Fauxbourg ; &amp; afin que les autres miserables qui gemissent dans ce lieu pour leurs fautes, pussent prendre part à la joye commune, on les tira des cachots pour les amener dans la Chapelle de la Prison, où on leur fit aussi chanter le Te Deum, aprés quoy on leur envoya de l'Abbaye, un souper que l'on peut appeler regale pour des gens chargez de chaînes. Tout cela se fit par les soins du Pere Dom Claude Bretagne, Prieur de Saint Germain, qui a aussi temoigné son zele dans cette occasion, par plusieurs prieres extrordinaires, &amp; d'autres bonnes oeuvres qu'il a fait pratiquer à ses Religieux.</p>
         <p>Les Benedictins du Monastere des Blanc-manteaux ont suivy l'exemple de ceux de l'Abbaye. Ils avoient fait une Neuvaine, &amp; exposé le Saint Sacrement, avec un Salut solemnel pendant neuf jours, sans qu'ils eussent discontinué les Prieres &amp; autres actions de pieté qu'ils avoient commencées dés les premiers jours de l'Operation. Ils chanterent un Te Deum solemnel le dimanche 19. du mesme mois. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_141">
+      <div type="article" xml:id="MG-1687-02_141" resp="mercure">
         <head>MG-1687-02_141</head>
         <bibl>Mercure Galant, février 1687, p. 141-144</bibl>
         <p>Services faits en diverses Villes du Royaume pour le repos de l'ame de feu Monsieur le Prince.</p>
@@ -194,8 +188,7 @@
         <p>Ce mesme Prelat ayant appris que la Santé du Roy estoit parfaitement rétablie, fit chanter le Dimanche suivant par la mesme Musique de Chambery, jointe à celle de Bellay, une grand?Messe dans la Cathedrale, &amp; le Te Deum ensuite, auquel assisterent les mesmes Corps, outre les Prieres publiques qu?il avoit ordonnées dans son Diocese pour obtenir du Ciel la guérison de Sa Majesté.</p>
         <p>On a fait aussi un Service solemnel pour le repos de l?Ame de Monsieur le Prince, dans la Ville de Senlis, à laquelle le voisinage de Chantilly, qui n?en est qu?à une lieuë, a fait souvent ressentir les effets de sa bonté &amp; de sa protection. Mr le Marquis de Saint Simon, qui en est le Gouverneur, ayant envoyé ses ordres aux Echevins, ce Service fut fait dans la Cathedrale le Lundy 30. de Décembre. Elle estoit toute tenduë de noir, avec les Armes de ce Prince, &amp; l?on n?oublia rien de ce qui pouvoit donner de l?éclat à cette pieuse &amp; triste Ceremonie. Les Echevins se firent conduire en deüil à l?Eglise par les principaux de la Ville, &amp; les Officiers du Présidial, &amp; des autres Corps s?y rendirent. Mr Sanguin, Evesque de Senlis, celebra la Messe, qui fut chantée en Musique. La pluspart des Officiers de ce Prince qui estoient demeurez à Chantilly, ne manquerent pas de s?y trouver. Vous sçavez, Madame, que Mr le Marquis de S. Simon est Frere de Mr le Duc de S. Simon, Gouverneur de Blaye.</p>
       </div>
-
-<div xml:id="MG-1687-02_141_BIS">
+      <div type="article" xml:id="MG-1687-02_141_BIS" resp="mercure">
         <head>MG-1687-02_141_BIS</head>
         <bibl>Mercure Galant, février 1687, p. 141-144</bibl>
         <p>Services faits en diverses Villes du Royaume pour le repos de l'ame de feu Monsieur le Prince.</p>
@@ -204,8 +197,7 @@
         <p>Ce mesme Prelat ayant appris que la Santé du Roy estoit parfaitement rétablie, fit chanter le Dimanche suivant par la mesme Musique de Chambery, jointe à celle de Bellay, une grand'Messe dans la Cathedrale, &amp; le Te Deum ensuite, auquel assisterent les mesmes Corps, outre les Prieres publiques qu'il avoit ordonnées dans son Diocese pour obtenir du Ciel la guérison de Sa Majesté.</p>
         <p>On a fait aussi un Service solemnel pour le repos de l'Ame de Monsieur le Prince, dans la Ville de Senlis, à laquelle le voisinage de Chantilly, qui n'en est qu'à une lieuë, a fait souvent ressentir les effets de sa bonté &amp; de sa protection. Mr le Marquis de Saint Simon, qui en est le Gouverneur, ayant envoyé ses ordres aux Echevins, ce Service fut fait dans la Cathedrale le Lundy 30. de Décembre. Elle estoit toute tenduë de noir, avec les Armes de ce Prince, &amp; l'on n'oublia rien de ce qui pouvoit donner de l'éclat à cette pieuse &amp; triste Ceremonie. Les Echevins se firent conduire en deüil à l'Eglise par les principaux de la Ville, &amp; les Officiers du Présidial, &amp; des autres Corps s'y rendirent. Mr Sanguin, Evesque de Senlis, celebra la Messe, qui fut chantée en Musique. La pluspart des Officiers de ce Prince qui estoient demeurez à Chantilly, ne manquerent pas de s'y trouver. Vous sçavez, Madame, que Mr le Marquis de S. Simon est Frere de Mr le Duc de S. Simon, Gouverneur de Blaye.</p>
       </div>
-
-<div xml:id="MG-1687-02_155">
+      <div type="article" xml:id="MG-1687-02_155" resp="mercure">
         <head>MG-1687-02_155</head>
         <bibl>Mercure Galant, févier 1687, p. 155-178</bibl>
         <p>Autres actions de grace renduës en plusieurs Eglises de Paris, &amp; en plusieurs Ville de France.</p>
@@ -218,37 +210,32 @@
         <p>Mr l'Archevesque d'Arles qui n'a jamais laissé échaper aucune occasion de signaler son zele pour les interests de S.M. ayant eu l'honneur d'estre le premier Prelat de sa nomination, &amp; le plus ancien Commandeur de ses Ordres, s'est rendu si recommandable par son extrême application, à faire faire des Prieres pour la santé de Prince dans toute l'étenduë de son Diocese, qu'il les fit commencer par une Ordonnance la plus touchante &amp; la plus précise que l'on puisse faire, depuis le 4. Decembre jusqu'à la veille de Noël qui en fut la closture ; aprés laquelle ce mesme Prelat renouvellant sa ferveur sur les nouvelles de la guerison du Roy, a esté des premiers à faire chanter le Te Deum dans sa Cathedrale, où Mr son Coadjuteur officia avec toute la solemnité possible, en presence de Mrs les Consuls, de toute la Noblesse qui s'y rendit en foule, &amp; d'un nombre infiny de peuple, ce qui a esté depuis solemnellement executé par une seconde Ordonnance de ce Prelat dans tout le reste de son Diocese. Les Confreres Penitens Bleus de la mesme Ville d'Arles, qui ont une Chapelle particuliere desservie par les Jacobins, satisfirent à cette Ordonnance le 2. de ce mois avec un zele extraordinaire. Cette Chapelle estoit fort illuminée. On l'avoit ornée superbement, &amp; le maistre Autel qui est parfaitement beau, brilloit d'un fort grand éclat, tant par la quantité de l'argenterie que par celle des lumieres. La Procession fut tres-nombreuse, &amp; aprés les Vespres qui furent chantées par les Penitens, on commença le Te Deum en musique. C'estoit celle de la Cathedrale, &amp; Mr Aubert Maître de Chapelle s'y fit admirer. La ceremonie se termina par la décharge d'un tres-grand nombre de boëtes.</p>
         <p>Le Dimanche 2. de ce mois, jour de la Purification de la Vierge, Madame l'Abbesse de Nostre-Dame du Tresor, Ordre de Cisteaux Diocese de Roüen, fit rendre les mesmes actions de graces dans son Eglise, où la Messe, Vespres, le Salut, &amp; le Te Deum furent chantez en musique, de la composition du sieur Laurent du Chesne, sçavant Organiste &amp; Musicien. Il y eut Sermon par le Pere Bruno Penitent, qui fit admirer son eloquence dans l'éloge de Sa Majesté. Le court estoit parée de Tapisseries avec le Tableau du Roy, qui fut salüé de plusieurs décharges de Mousqueterie. Tout cela fut accompagné de Hautbois, de Trompettes, de feux de joye &amp; de liberalitez de Vin. Il y eut aussi de grandes aumônes que fit faire Madame l'Abbesse. Je croy, Madame, que vous n'ignorez pas qu'elle est soeur de Madame de Croissy.</p>
       </div>
-
-<div xml:id="MG-1687-02_237">
+      <div type="article" xml:id="MG-1687-02_237" resp="mercure">
         <head>MG-1687-02_237</head>
         <bibl>Mercure galant, février 1687, p. 237-239</bibl>
         <p>Nouvelles de Venise.</p>
         <p/>
         <p>Les affaires vont toûjours tres-bien à Venise, &amp; les preparatifs que l'on y a fait pour la Guerre, n'ont point empesché les plaisirs du Carnaval. Mr l'Electeur de Baviere, Mr le Duc de Mantouë, &amp; plusieurs autres Princes ont esté y prendre part aux Divertissemens de cette Saison. Ils ont veu tous les Opera qui s'y sont representez, &amp; le Bacha de Napoli de Romanie &amp; son Frere qui sont toûjours à Venise, les ont aussi vûs avec beaucoup de plaisir. Ce n'a pas esté sans faire une reflexion qui les a touchez. Ils ont dit qu'ils reconnoissoient bien que le grand Dieu estoit en colere contre les Otomans, puis qu'estant continuellement en prieres &amp; dans l'exercice de la Penitence, ils voyoient de jour en jour leurs affaires dans un plus méchants état, &amp; que les Chrestiens au contraire, quoy qu'ils ne songeassent qu'à se divertir, gagnoient incessamment des Victoires.</p>
       </div>
-
-<div xml:id="MG-1687-02_246">
+      <div type="article" xml:id="MG-1687-02_246" resp="mercure">
         <head>MG-1687-02_246</head>
         <bibl>Mercure Galant, février 1687, p. 246-248</bibl>
         <p>Détail de ce qui s'est passé à l'Academie Françoise, le jour qu'elle a fait rendre des actions de graces pour le retour de la Santé du Roy.</p>
         <p>Je passe à ce que je vous ay promis de vous apprendre touchant Mrs de l'Academie Françoise. Le zele qu'ils ont pour tout ce qui regarde leur auguste Protecteur, leur ayant fait prendre un interest tout particulier au récouvrement de sa santé, ils en firent rendre graces à Dieu le Lundy 27. du dernier mois dans la Chapelle du Louvre. Elle estoit magnifiquement parée, &amp; rien n'y manquoit de ce qui pouvoit donner de l'éclat à cette Feste. Mr l'Abbé de la Vau, l'un des Academiciens, celebra la Messe, à laquelle ils assisterent en fort grand nombre. Le Te Deum y fut chanté en Musique. Elle estoit de la composition de Mr Oudot, &amp; receut de grands applaudissemens. Ils n'avoient differé ces marques de leur zele &amp; de leur respect pour Sa Majesté, qu'afin de donner le temps de faire un discours sur la guerison de ce Monarque à celuy de leur Corps qu'ils avoient choisi pour parler au nom de tous. La seance qu'ils ont accoûtumé de tenir tous les Lundis pour le travail du Dictionnaire, fut publique ce jour-là. Elle fut ouverte par Mr Boyer, qui est presentement Directeur de la Compagnie.</p>
       </div>
-
-<div xml:id="MG-1687-02_293">
+      <div type="article" xml:id="MG-1687-02_293" resp="mercure">
         <head>MG-1687-02_293</head>
         <bibl>Mercure Galant, février 1687, p. 293-294</bibl>
         <p>Tout ce qui s'est passé au Parlement, le jour des actions de grace qui ont esté renduës dans la grande salle du Palais, pour le retour de la santé du Roy.</p>
         <p>Les Peuples n'ont pas esté les seuls qui ayent rendu d'éclatantes actions de graces, pour le retour de la santé du Roy ; tout ce qu'il y a de plus auguste dans le Royaume s'est imposé ce mesme devoir, &amp; le premier Senat du monde, c'est à dire le Parlement de Paris, n'oubliant rien de tout ce qui pouvoit marquer sa joye, à bien secondé l'ardeur que Mr le Premier President a fait voir en cette occasion. La ceremonie se fit le Jeudy 6. de ce mois dans la grande Salle du Palais. [Elle commence par un panégyrique du roi fait par les doyens de l'académie] On a [pu] ensuite entendre la Messe dont la Musique estoit de Capron, Maistre de Musique de la Sainte Chapelle. Toute l'Assemblée fut fort satisfaite de ce qu'il fit chanter : il y avoit dans un autre endroit de la Salle un Concert de Hautbois avec de fort belles voix qui répondoient à cette Musique. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_299">
+      <div type="article" xml:id="MG-1687-02_299" resp="mercure">
         <head>MG-1687-02_299</head>
         <bibl>Mercure Galant, février 1687, p. 299-303</bibl>
         <p>Actions de graces rendües par Mrs de l'Academie de Peinture &amp; de Sculpture pour le mesme sujet.</p>
         <p>Si plusieurs Corps celebres ont rendu les mesmes actions de graces avant l'Academie Royale de Peinture &amp; de Sculpture, ce n'est pas qu'elle n'ait esté des premieres à donner des ordres pour s'acquiter d'un devoir si juste ; mais la longueur des preparatifs l'obligea de retarder l'effet de son zele jusqu'au Samedy 8. de ce mois. Elle choisit l'Eglise des Peres de l'Oratoire comme un lieu fort propre à estre décoré, &amp; dont ceux qui la desservent ont un attachement tres-particulier pour toute la Maison Royale ; aussi consentirent-ils avec beaucoup de joye à la proposition qu'on leur fit sur ce sujet. Mrs de l'Academie prierent le Pere Soanem, celebre Predicateur, de vouloir bien prescher ce jour là, &amp; Mr Charpentier, qui a apris la Musique à Rome sous le Charissimi, estimé le meilleur Maistre d'Italie, fut employé pour travailler à celle de cette Feste. Quoy que Mrs de l'Academie ayent plusieurs Salles toutes remplies de Tableaux qui sont autant de Chef-d'oeuvres, puisque ce sont ceux des personnes qui ont esté reçuës dans ce sçavant Corps, &amp; qu'ils en eussent pû remplir plusieurs Eglises beaucoup plus grandes que celles des Peres de l'Oratoire ; ils aimerent mieux faire beaucoup de dépense &amp; que toute la décoration de l'Eglise regardast le Roy. On fixa pour cet effet la somme que chacun devoit donner &amp; ceux qui ne sont point dans les Charges, voulurent contribuer autant que les autres. On choisit les plus habiles Peintres de l'Academie pour faire neuf grands Tableaux, &amp; 24. Bas-reliefs qui devoient representer les principales actions de Sa Majesté, &amp; Mr Quinaut voulut bien se charger d'en faire l'explication en Vers François pour estre mise au bas de chaque Tableau, &amp; de chaque Bas-relief. Mr le Brun travailla luy-mesme à un Tableau qu'on a admiré, qui represente l'Eglise victorieuse de l'Heresie, &amp; il contribua beaucoup par les idées qu'il donna, &amp; par les soins qu'il prit de les faire executer, à l'embellissement de cette grande, &amp; ingenieuse Feste. [...]</p>
       </div>
-
-<div xml:id="MG-1687-02_306">
+      <div type="article" xml:id="MG-1687-02_306" resp="mercure">
         <head>MG-1687-02_306</head>
         <bibl>Mercure Galant, février 1687, p. 306-310</bibl>
         <p>Autres actions de graces.</p>
@@ -256,6 +243,6 @@
         <p>Je ne dois pas oublier à vous parler du zele qu'ont fait paroistre les quatorze Peres Affiliez au Grand Convent &amp; College des Jacobins de Paris, ruë Saint Jacques. Leur attachement à la Personne sacrée du Roy est d'autant plus particulier, qu'ils sont dépositaires des Cendres précieuses de Robert de Clermont, cinquiéme Fils de S. Loüis, &amp; des Princes ses Enfans, qui sont enterrez dans leur Eglise, &amp; que vous sçavez estre la tige de la Royale Maison de Bourbon. Ces Peres qui dés le 21. de Novembre avoient commencé chez eux des prieres publiques qu'ils continuerent neuf jours avec Exposition du Saint Sacrement, voyant leurs voeux exaucez par l'entiere guerison de Sa Majesté, en rendirent des actions de graces à Dieu d'une maniere tres-éclatante, le 1. 3. &amp; 4. de Janvier, &amp; les terminerent les jour des Rois par un Te Deum, qui attira une affluence de Peuple incroyable.</p>
         <p>Madame Colbert, Abbesse de l'Abbaye Royale de Saint Loüis de Roüen, estant d'une Famille qui s'est toûjours signalée quand elle a trouvé l'occasion de faire connoistre combien elle est dévoüée au Roy, s'est acquittée du mesme devoir, en faisant chanter la Messe &amp; le Te Deum dans son Eglise, par les plus habiles Musiciens de la Ville. Outre quantité d'aumônes qu'elle fit faire pour marquer sa joye, elle secourut beaucoup de pauvres Familles, &amp; délivra plusieurs Prisonniers.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

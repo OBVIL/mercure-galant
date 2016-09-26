@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-11_034">
+      <div type="article" xml:id="MG-1684-11_034" resp="mercure">
         <head>MG-1684-11_034</head>
         <bibl>Mercure galant, novembre 1684, p. 34-46</bibl>
         <p>Balet de la Cour de Wurtemberg</p>
@@ -94,8 +94,7 @@
         <p/>
         <p>Cette Chanson fut suivie de six Entrées ; la premiere, de Flore seule, par Madame la Princesse Guillaumine-Magdelaine de Wirtemberg ; la seconde, de deux Zéphirs, par Mrs de Forstner &amp; Reiscah ; la troisiéme, de quatre Suivantes de Flore ; la quatriéme, d'un Berger rustique crotesque ; la cinquiéme, de huit Bergers portant des Festons ; &amp; la sixiéme, de l'Amour seul, représenté par Monsieur le Duc de Wirtemberg. Les fanfares des Trompetes jointes au bruit des Timbales, terminérent cette Feste.</p>
       </div>
-
-<div xml:id="MG-1684-11_064">
+      <div type="article" xml:id="MG-1684-11_064" resp="mercure">
         <head>MG-1684-11_064</head>
         <bibl>Mercure galant, novembre 1684, p. 64, 67, 74-77</bibl>
         <p>Prodige d'esprit</p>
@@ -108,8 +107,7 @@
         <p/>
         <p>Les Violons &amp; les Hautbois qui joüérent avant que ce petit Soûtenant ouvrist la Dispute par un Compliment Latin à Mr le Marquis d'Herleville, se firent encore entendre apres chaque Solution qu'il donna aux Objections qui luy furent faites. Cela servoit à luy faire prendre haleine. [...] On vit apporter dans la Salle une magnifique Collation [...] Le Bal succéda à cette Collation, &amp; ainsi le reste du jour fut employé à dancer.</p>
       </div>
-
-<div xml:id="MG-1684-11_131">
+      <div type="article" xml:id="MG-1684-11_131" resp="mercure">
         <head>MG-1684-11_131</head>
         <bibl>Mercure galant, novembre 1684, p. 131, 143-145, 156-157</bibl>
         <p>Relation de la cour de Pékin</p>
@@ -120,24 +118,21 @@
         <p/>
         <p>Outre tout cet attirail, il voulut encore estre accompagné de toutes les marques de grandeur qui l'environnent à la Cour de Pekin, de cette multitude de Tambours, de Trompetes, de Timbales, &amp; autres Instrumens de Musique, qui forment des Concerts dans le temps qu'il est à table, &amp; au bruit desquels il entre dans son Palais, &amp; en sort. Il fit marcher tout cela avec luy, pour étonner ces Peuples barbares par cette pompe extérieure, &amp; leur imprimer avec la crainte le respect deû à la Majesté Impériale. [...]</p>
       </div>
-
-<div xml:id="MG-1684-11_214">
+      <div type="article" xml:id="MG-1684-11_214" resp="mercure">
         <head>MG-1684-11_214</head>
         <bibl>Mercure galant, novembre 1684, p. 214-216</bibl>
         <p>Bénédiction du Couvent des Récolets de Versailles</p>
         <p/>
         <p>L'Eglise, &amp; le Convent pour l'établissement de vingt-cinq Récolets que Sa Majesté avoit résolu de mettre à Versailles, ayant esté bastis en six mois avec une magnificence Royale, Mr l'Abbé de la Motte, Archidiacre de l'Eglise de Paris, eut ordre de Mr l'Archevesque d'en aller faire la Benédiction, [...] Il s'y rendit le 4. de ce mois, &amp; le lendemain la Cerémonie commença à sept heures du matin, par une Procession que cinquante Récolets, ayant avec eux leur Provincial, firent de leur petite Maison à la nouvelle, où il apportérent les Reliques. Cette Procession estant arrivée, on dit les Oraisons, &amp; on fit les Aspersions ordinaires suivant le Rituel ; apres quoy Mr l'Abbé de la Motte chanta la Messe, à la fin de laquelle les quarante jours d'Indulgence accordez par Mr l'Archevesque, furent publiez.</p>
       </div>
-
-<div xml:id="MG-1684-11_221">
+      <div type="article" xml:id="MG-1684-11_221" resp="mercure">
         <head>MG-1684-11_221</head>
         <bibl>Mercure galant, novembre 1684, p. 221-228</bibl>
         <p>Festes de Hanover</p>
         <p/>
         <p>Voicy quelques particularitez de ce qui s'est fait dans le temps du Mariage de Mr le Prince Electoral de Brandebourg avec Madame la Princesse de Hanover. Ce Prince estant arrivé à Hervenhaus, Maison de plaisance de Monsieur le Duc de Hanover, qui est à un quart de lieüe de la Ville, y demeura depuis le Mercredy du dernier mois jusques au Mardy suivant. Le Dimache 8. il épousa la Princesse sans aucune pompe, &amp; le Mardy 10. il fit son Entrée solemnelle dans Hanover, précedé de toute la Cour, qui consistoit en plus de deux cens Gentilshommes à cheval, &amp; en un Cortége de quatrevingt Carrosses. Les Gardes à cheval, &amp; trois Régimens de Cavalerie, marchoient les premiers. Le Prince entra dans la Ville au bruit du Canon, qui tira pendant une heure. Il arriva au Château entre deux Hayes que formoient trois Régimens d'Infanterie. Les Gardes à pied estoient dans la Court par où il passa au son des Timbales, des Trompetes &amp; des Hautbois. Les Gentilshommes mirent pied à terre dans cette Court, &amp; ceux qui remplissoient les Carrosses, en descendirent pour attendre ces illustres Mariez, qui furent ensuite conduits dans leurs Apartemens. La Milice s'estant mise en Bataille dans une Place qui est derriere le Chasteau, y fit trois Décharges avant que de se retirer. Il y eut en suite un magnifique Soupé, pendant lequel on entendit une Musique composée de Timbales &amp; de Trompetes, au lieu de Hautbois &amp; de Violons. Elle sembloit exciter à boire les Santez, qui furent toutes accompagnées de trois volées de Canon à mesure que chacun beuvoit. Un Bal assez extraordinaire suivit ce Soupé, &amp; on y dança d'abord au bruit de ces mêmes Instrumens. Douze des principaux des deux Cours dançoient d'abord se tenant deux à deux par la main, &amp; ayant dans l'outre chacun un gros Flambeau de la hauteur de six pieds. Les Princes &amp; les Princesses suivoient, &amp; six autres fermoient la file. Cette Dance, qui est une ancienne Cerémonie du Païs, dura environ deux heures, apres quoy les Violons &amp; Hautbois commencérent à joüer, &amp; l'on dança les Dances Françoises. Le lendemain on représenta la Comédie de l'Inconnu, embellie de Dances, &amp; de divers agrémens, mais particuliérement d'un Prologue qui fut fait exprés, avec plusieurs Machines &amp; Entrées de Balet. Le Vendredy 13. il y eut un Balet &amp; une excellente Musique de Voix &amp; d'Instrumens, avec des Machines. Il fut dancé par Mrs les deux jeunes Princes de Hanover, par le jeune Baron de Platen, &amp; plusieurs autres Enfans de qualité de l'un &amp; de l'autre Sexe. Quelques jours apres on représenta Psiché, avec des Machines &amp; des Dances ; &amp; tant que Mr le Prince Electoral a esté à Hanover, il y a eu tous les jours Comédie ou Bal, &amp; bien souvent l'un &amp; l'autre. On tira aussi un tres-beau Feu d'artifice dans la Place derriere le Chasteau. Ce Feu eut tout le succés qu'on en pouvoit souhaiter. La magnificence fut toûjours jointe à la propreté, &amp; le délicat égala le somptueux.</p>
       </div>
-
-<div xml:id="MG-1684-11_228">
+      <div type="article" xml:id="MG-1684-11_228" resp="mercure">
         <head>MG-1684-11_228</head>
         <bibl>Mercure Galant, Novembre 1684, p. 228-241</bibl>
         <p>Divertissemens de Fontainebleau</p>
@@ -180,14 +175,13 @@
         <p>Les Entrées avoient été faites par Mrs Favier &amp; Pecour, tous deux Danceurs du Roy. Rien ne sçauroit estre plus agreable que le fut cet Impromptu. Madame la Princesse de Conty, &amp; Mademoiselle de Nantes, s'attirérent l'admiration de tout le monde, estant impossible de mieux dancer qu'elles firent.</p>
         <p>Mr Voille de la Garde, Intendant &amp; Controlleur Genéral de l'Argenterie &amp; des Menus-Plaisirs &amp; Affaires de la Chambre du Roy, avoit pris soin de ce Divertissement, sous les ordres de Mr le Duc de Créquy, Premier Gentilhomme de la Chambre en année.</p>
       </div>
-
-<div xml:id="MG-1684-11_285">
+      <div type="article" xml:id="MG-1684-11_285" resp="mercure">
         <head>MG-1684-11_285</head>
         <bibl>Mercure galant, novembre 1684, p. 285-286</bibl>
         <p>Ouverture du Parlement &amp; de la cour des Aydes</p>
         <p/>
         <p>L'Ouverture du Parlement, qui se fait toûjours le lendemain de la Feste de Saint Martin, a esté faite le Lundy 13. de ce mois, avec les Cerémonies accoûtumées. Vous sçavez, Madame, que cette Ouverture consiste en une Messe du S. Esprit, que l'on chante solemnellement en Musique, à la Chapelle de la Grande Salle du Palais, &amp; à laquelle le Parlement m'assiste en Corps, &amp; en Robes rouges. Cette Messe est toûjours celébrée par un Evesque, &amp; elle l'a esté cette année par Mr l'Evesque de Troyes, [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

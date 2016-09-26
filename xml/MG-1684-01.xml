@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-01_150">
+      <div type="article" xml:id="MG-1684-01_150" resp="mercure">
         <head>MG-1684-01_150</head>
         <bibl>Mercure galant, janvier 1684, p. 150-152, 159-162</bibl>
         <p>Régales donnez par le Roy</p>
@@ -65,16 +65,14 @@
         <p/>
         <p>Je n'acheve pas le Couplet, parce qu'il n'y a rien qui soit si connu. Ce divertissement plût beaucoup, &amp; la surprise qu'il causa aux Dames, en augmenta l'agrément.</p>
       </div>
-
-<div xml:id="MG-1684-01_184">
+      <div type="article" xml:id="MG-1684-01_184" resp="mercure">
         <head>MG-1684-01_184</head>
         <bibl>Mercure galant, janvier 1684, p. 184-191</bibl>
         <p>Réjoüissances faites à Angers pour la Naissance de Monseigneur le Duc d'Anjou</p>
         <p/>
         <p>La Ville d'Angers a marqué par des Rejoüissances extraordinaires, combien elle se sent honorée de la confiance que Sa Majesté continüe de luy témoigner, par le Titre de Duc d'Anjou, qu'il luy a plû donner au second Prince dont Madame la Dauphine est accouchée. [...] Un Détachement de quinze cens Bourgeois tous fort lestes, [...] vint se poster en armes sur la Place publique, [...] pendant que Mr d'Autichamp qui commande pour le Roy dans la Ville &amp; Chasteau d'Angers, les Officiers du Présidial en Robe rouge (Privilége qui leur a esté accordé par nos Roys pour leur extréme fidélité) &amp; toutes les autres Compagnies de Justice, &amp; de Finance, avec les Communautez de la Ville, se rendirent à l'Eglise Cathédrale, où le Te Deum fut chanté par une excellente Musique, en présence de Mr l'Evesque d'Angers. Apres cela les Compagnies vinrent au milieu d'une double Haye de la Milice rangée des deux costez des Rües, depuis la Cathédrale jusqu'à la Place publique, où Mr d'Autichamp, Mr Gohin Président du Présidial, &amp; Mr Charlot Maire (ces deux derniers à la teste de leurs Compagnies) allumérent le feu au bruit des Canons, des Tambours, des Trompettes, &amp; des acclamations publiques. [...] La nuit ne fut pas plûtost venüe, que la Ville parut en feu de toutes parts, tant par les grandes Illuminations, que par le nombre des Feux que les Habitans allumérent dans toutes les Rües. Le Canon de la Ville ayant recommencé à tirer, on répondit dans le Chasteau par une Salve de Mousqueterie. Le Peuple accourut de tous costez à la Place publique. Les Fanfares des Trompettes se meslérent au bruit des Tambours &amp; des Fiffres, &amp; toutes les Figures de l'Arc de Triomphe éclatérent en feux d'artifice de tant de sortes, &amp; répandirent une si vive lumiere, qu'il sembloit qu'on eust voulu prolonger le jour qui avoit paru trop court à la joye publique. Ces réjoüissances furent suivies d'un magnifique Régale que donna Mr le Maire à plusieurs Personnes considérables. Le lendemain, le Te Deum fut chanté dans toutes les Eglises de la Ville.</p>
       </div>
-
-<div xml:id="MG-1684-01_195">
+      <div type="article" xml:id="MG-1684-01_195" resp="mercure">
         <head>MG-1684-01_195</head>
         <bibl>Mercure galant, janvier 1684, p. 195-198</bibl>
         <p>Autres Réjoüissances sur cette Naissance</p>
@@ -82,8 +80,7 @@
         <p>On a fait aussi de grandes Réjoüissances pour la Naissance de ce jeune Prince, dans la Ville de Chasteauneuf en Thimerais. [...] Les Officiers du Bailliage assistérent au Te Deum, qui fut chanté solemnellement dans l'Eglise Paroissiale, &amp; le soir on alluma des Feux dans les Places publiques &amp; dans tous les Quartiers, au son des Tambours &amp; des Trompettes, &amp; au bruit des acclamations de tout le Peuple. Le reste de la nuit se passa en Festins &amp; en Divertissemens.</p>
         <p>Mademoiselle de Martinot, Petite-Fille de la Nourrice de Henry IV. apres avoir fait éclater son zéle à l'occasion de la Naissance de Monseigneur le Duc de Bourgogne, a continué d'en donner des marques, par une Messe solemnelle qu'elle a fait chanter à Asniéres, où elle réside, pour celle de Monseigneur le Duc d'Anjou. Les Peres Missionnaires Jacobins du Convent de S. Maximin &amp; de la Sainte Baume, y assistérent, &amp; ensuite on fit une Procession Genérale à la Croix de la Mission, plantée dans une vaste Campagne, où le Te Deum fut chanté. Mademoiselle de Martinot donna un magnifique Dîné, &amp; le soir fit faire un tres grand Feu devant son Logis.</p>
       </div>
-
-<div xml:id="MG-1684-01_201">
+      <div type="article" xml:id="MG-1684-01_201" resp="mercure">
         <head>MG-1684-01_201</head>
         <bibl>Mercure galant, janvier 1684, p. 201-202, 204-211</bibl>
         <p>Élection d'un procurateur</p>
@@ -94,24 +91,21 @@
         <p>Aussi-tost qu'on luy eut aporté la nouvelle de son Election, il fit ouvrir les Portes de son Palais, donna la liberté à chacun de le venir congratuler, et fit une Feste publique qui dura trois jours. Toutes les Chambres étoient parées extraordinairement. Il y avoit dans chacune un Clavecin &amp; des Violons pour le Bal [...]. Les Boëtes que l'on tiroit continuellement, s'entendoient de tous les endroits de la Ville. Les Trompettes &amp; les Tambours portoient la joye dans tout le Quartier, &amp; les Hautbois &amp; les Flageolets amassoient le menu Peuple, que l'on régaloit de Pains &amp; de Bouteilles de Vin. Lors que la nuit approchoit, on illuminoit le Palais. On faisoit joüer des Feux d'artifice. On lâchoit des volées de Fusées et de Petards, et on allumoit des Feux et des Lumieres dans les Rües voisines, et sur les bords des Canaux des environs. Les Masques alloient par la Ville durant les trois jours, de mesme que dans le Carnaval, et se rendoient en foule le soir dans cet Hôtel. De temps en temps on faisoit des largesses au Peuple ; et en plus de vingt endroits diférens de la Ville, les Parens du nouveau Procurateur firent des feux de joye, et donnérent à boire à tous les Passans, qui témoignoient leur allegresse par des acclamations continuelles de Viva, Viva l'Eccellenza, sia benedetta.</p>
         <p>Ces trois jours s'estant écoulez de cette sorte, il choisit le 28. du mesme mois pour faire son Entrée publique. Pour cela il se rendit le matin à S. Salvator, une des belles Eglises de cette Ville, administrée par des Chanoines Réguliers de l'Ordre de S. Augustin, où apres avoir entendu une haute Messe en Musique, il passa par la Mercerie, fit sa Priere dans l'Eglise de S. Marc, monta dans la Chambre du Collége, y prit sa Séance, fit ses Complimens, &amp; ayant ensuite prété le Serment entre les mains du Doge, il alla prendre possession de sa nouvelle Dignité, &amp; s'en retourna dans sa Gondole au bruit des Boëtes &amp; des Canons. Il estoit vétu dans cette Cerémonie d'une Veste de Pourpre, à Manches Ducales. Plus de trois cens Gentilshommes Venitiens l'accompagnoient dans le mesme Habit ; &amp; le plus proche de ses Parens marchant le dernier, faisoit les Honneurs. Trois ou quatre cens tant d'Ecclesiastiques que Gens d'Epée, &amp; autres Seculiers, estoient du Cortége, &amp; alloient devant deux à deux. Plusieurs Esclavons marchoient les premiers, les uns avec des Fiffres, des Trompettes &amp; des Tambours ; &amp; les autres faisant ranger le monde &amp; la foule des Masques qui avoient encore la liberté d'aller par la Ville ce jour-là, &amp; qui montoient jusques dans le College pour entendre les Harangues. Le soir il y eut Festin &amp; Bal dans le Palais de Son Excellence, comme dans les trois premiers jours, avec les mesmes largesses.</p>
       </div>
-
-<div xml:id="MG-1684-01_324">
+      <div type="article" xml:id="MG-1684-01_324" resp="mercure">
         <head>MG-1684-01_324</head>
         <bibl>Mercure galant, janvier 1684, p. 324-325</bibl>
         <p>Service fait pour la Reyne par Messieurs de l'Academie Françoise</p>
         <p/>
         <p>Messieurs de l'Académie Françoise ont fait faire un Service pour la Reyne, dans la Chapelle du Château du Louvre. Elle estoit toute tenduë de Deüil, depuis le haut jusques au bas. Le reste de l'Appareil lugubre faisoit paroistre la simplicité qu'on est obligé d'avoir dans une Maison Royale, où des Sujets ne doivent songer qu'à faire éclater leur zéle. La Messe fut celébrée par Mr l'Abbé de Lavau, Garde de la Bibliothéque du Cabinet du Roy, &amp; Directeur de l'Académie. La Musique estoit de la composition de Mr Oudot.</p>
       </div>
-
-<div xml:id="MG-1684-01_326">
+      <div type="article" xml:id="MG-1684-01_326" resp="mercure">
         <head>MG-1684-01_326</head>
         <bibl>Mercure galant, janvier 1684, p. 326-328</bibl>
         <p>Amadis, opera</p>
         <p/>
         <p>Sa Majesté ayant ordonné à Mr Quinaut Auditeur des Comptes, de travailler à un Opéra, qui devoit estre représenté à Versailles pendant tout ce Carnaval, &amp; dont Elle avoit choisy Elle-mesme le Sujet, dés le commencement de l'Eté dernier, cet illustre Autheur avoit déja fort avancé ce travail, lors que la Reyne mourut. La régularité que ce Prince observe en toutes choses, l'empêchant de voir aucun Spectacle pendant l'année de son Deüil, il a consenty que Mr de Lully donnast cet Opéra au Public. Il a paru depuis quinze jours sous le titre d'Amadis. Je ne vous dis rien de la Musique. Vous connoissez le rare talent de l'incomparable Mr de Lully, &amp; je puis vous assurer qu'il est toûjours luy-mesme dans tout ce qu'il fait. Les Décorations ont esté inventées par Mr Berrin, &amp; faites sur ses Desseins, aussi-bien que les Habits. Jamais on n'a rien vû de plus magnifique, de mieux entendu, ny de plus convenable au Sujet. Les Vols, dont la nouveauté &amp; la beauté ont surpris, sont du mesme Mr Berrin, qu'on peut dire estre un Génie universel.</p>
       </div>
-
-<div xml:id="MG-1684-01_328">
+      <div type="article" xml:id="MG-1684-01_328" resp="mercure">
         <head>MG-1684-01_328</head>
         <bibl>Mercure galant, janvier 1684, p. 328-329</bibl>
         <p>[Représentation de trois pièces par la Troupe française]</p>
@@ -119,6 +113,6 @@
         <p>La Troupe Françoise a représenté trois Piéces nouvelles, Marie Stuard, de Mr Boursault ; le Docteur Extravagant, de Mr de Beauregard ; &amp; Penelope, de l'Auteur de Zelonide. Vous vous souvenez, Madame, du bruit que fit Zelonide il y a deux ans, Penelope est un Ouvrage, qui a comme ce premier, de grandes beautez. Les Vers en sont travaillez avec un soin fort exact, &amp; répondent noblement à la force des pensées.</p>
         <p>Il paroist depuis peu un Livre intitulé, L'Espion du Grand Seigneur. C'est la Traduction d'un Tome de plusieurs Lettres Arabes, qu'un Ministre de la Porte a écrites depuis l'année 1638. jusqu'en l'année 1682. On le vend en Italien &amp; en François. L'Italien est de Mr Marana, Gentilhomme Génois, de qui on a vû autrefois l'Histoire des dernieres Guerres de Gennes &amp; de Savoye, avec la Conspiration d'un Noble de la République, appellé della Torre.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

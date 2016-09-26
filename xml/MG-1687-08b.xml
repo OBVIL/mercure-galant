@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,35 +51,31 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1687-08b_260">
+      <div type="article" xml:id="MG-1687-08b_260" resp="mercure">
         <head>MG-1687-08b_260</head>
         <bibl>Mercure Galant, août 1687, deuxième partie, p. 260</bibl>
         <p>Sur les dix heures du matin, Mr l'Ambassadeur qui vouloit marquer par une pompe extraordinaire qu'il alloit rendre graces à Dieu du plus grand bien dont la France luy puisse jamais estre redevable, sortit de son Palais pour se rendre dans la Chapelle. La marche de sa Maison commença par ses Janissaires qui avoient leurs Mitres &amp; leurs Bastons garnis d'ivoire. Sa Livrée parut ensuite. Elle estoit suivie de douze Enfans de Langue Françoise vestus à la maniere du Pays, &amp; aprés eux marchoient les Drogmans, &amp; à quelque distance Mr l'Ambassadeur, precedé de son Ecuyer, &amp; suivy de ses deux Secretaires. Mr l'Abbé Girardin menoit Madame l'Ambassadrice. [...] Leurs Excellences furent receuës à la porte de l'Eglise par le Pere Custode des Capucins, &amp; aussitost on donna le signal pour la décharge de toutes les Boëtes. Elle fut suivie de celle de toute l'Artillerie des Bastimens, comme la premiere fois. Aprés que tous ceux qu'on avoit mandez pour assister à cette Ceremonie, eurent esté placez par l'Officier que Mr l'Ambassadeur avoit chargé de la conduite de cette superbe Feste, Messire Gasparo Gasparini, Evesque de Spiga, &amp; Vicaire Patriarchal de Constantinople, parut revestu de ses Habits Pontificaux avec la Crosse &amp; la Mitre, precedé de son Clergé, &amp; alla se mettre à genoux auprés de l'Autel où le S. Sacrement estoit exposé. Il celebra ensuite la Messe, où la Musique &amp; les orgues ne manquerent pas, selon ce qui se pratique aux Festes solemnelles. Aprés l'Offertoire, ce Prelat s'avança vers la balustrade, &amp; s'estant assis auprés d'une table, sur laquelle on avoit mis un Missel, à l'endroit de l'Oraison pour le Roy, il fit un tres-beau discours en langue italienne, pour faire voir aux François l'obligation où ils estoient de rendre graces à Dieu, de ce qu'il avoit conservé ce grand Monarque, &amp; prolongé par là le plus beau regne qui fut jamais. [...] Ce Discours estant finy, M. l'Evesque continua la Messe, &amp; à l'élévation du S. Sacrement, les Boëtes firent une troisiéme décharge. Après la Messe ce mesme Prelat entonna le Te Deum, qui fut chanté par la Musique ainsi que l'Exaudiat, &amp; pendant ce temps, on fit une décharge continuelle tant des Boëtes dans le Jardin du Palais, que du Canon dans le Port. [...]</p>
       </div>
-
-<div xml:id="MG-1687-08b_268">
+      <div type="article" xml:id="MG-1687-08b_268" resp="mercure">
         <head>MG-1687-08b_268</head>
         <bibl>Mercure Galant, août 1687, deuxième partie, p. 268</bibl>
         <p>Les pauvres Esclaves François qui sont dans le Bagne du Grand Seigneur, eurent part à cette Feste. [Il s'agit toujours de la fête donnée à Constantinople suite au rétablissement du roi.] Ils receurent une aumône extraordinaire de M. l'Ambassadeur, &amp; ils résolurent entre eux d'en faire un usage auquel il ne s'attendoit pas. Ils chanterent un Te Deum pendant la nuit, &amp; il fut suivy d'un repas proportionné à l'aumône. Ils burent à la santé du Roy leur Prince naturel, au nom duquel ces miserables se flatent de l'esperance de sortir un jour de leur esclavage. [...]</p>
       </div>
-
-<div xml:id="MG-1687-08b_271">
+      <div type="article" xml:id="MG-1687-08b_271" resp="mercure">
         <head>MG-1687-08b_271</head>
         <bibl>Mercure Galant, août 1687, deuxième partie, p. 271</bibl>
         <p>L'aprésdînée on passa une heure au Jeu, &amp; ce fut un agreable divertissement de voir dans les courts un mélange de Juifs, de Chrestiens, de Turcs, de Maures, de Perses, d'Arabes, &amp; d'Armeniens. Sur les six heures, six Dervis, ou Moines Turcs, qui avoient eu la curiosité de voir la Feste, se presenterent à Mr l'Ambassadeur, &amp; luy dirent qu'ils estoient venus en qualité de Voisins, &amp; non de Dervis, pour prendre part au Donanma. Mr Girardin leur en expliqua le sujet en Langue Turque, qu'il parle parfaitement bien, &amp; ordonna qu'on les conduisist dans une chambre retirée, où l'Eau de vie ne leur fut pas épargnée, non plus que le Rossolis. On les vit tourner au son des Flûtes &amp; des Tambours avec beaucoup de vitesse.</p>
       </div>
-
-<div xml:id="MG-1687-08b_272">
+      <div type="article" xml:id="MG-1687-08b_272" resp="mercure">
         <head>MG-1687-08b_272</head>
         <bibl>Mercure Galant, août 1687, deuxième partie, p. 272</bibl>
         <p>Au sortir de cette chambre, on entra dans l'appartement de Madame l'Ambassadrice, où toutes les Dames estoient à visage découvert, rangées autour d'une table, pour voir un autre divertissement que les Chinghis donnerent à la Compagnie. Ce sont des Turquesses instruites dés leur enfance à toutes sortes de danses, &amp; de postures. Elles n'en firent point d'indecentes, parce que Madame l'Ambassadrice avoit dit à l'Ustacaden, ou Maistresse, qu'elles ne seroient point payées si elles osoient se licencier. Il y en avoit toûjours quatre qui joüoient de la Fluste, du Tambour que nous appellons de Basque, du Cimbalum, ou du Boina, qui est un Instrument semblable à celuy qu'on attribuë au Dieu Pan, tandis que les autres dansoient. Elles firent des recits extravagans, mais ce qu'il y eut de curieux, fut une espece de Bal, que l'on appelle Matraque. Ces Femmes le danserent en calçon &amp; en pourpoint, tenant d'une main une petite rondache d'airain, de la grandeur d'une assiete, &amp; de l'autre un baston de cormier, avec lequel elles se frapoient devant &amp; derriere sans se voir. C'estoit une activité pareille à celle des Forgerons, lorsqu'ils battent le fer sur une enclume. Elles paroient tous les coups avec une adresse qui ne se peut exprimer, &amp; quoy que les Spectateurs craignissent pour elles, il n'en arriva aucun accident.</p>
       </div>
-
-<div xml:id="MG-1687-08b_295">
+      <div type="article" xml:id="MG-1687-08b_295" resp="mercure">
         <head>MG-1687-08b_295</head>
         <bibl>Mercure Galant, août 1687, deuxième partie, p. 295</bibl>
         <p>La Cour du Grand Seigneur ne paroist jamais plus pompeuse que gand elle sort de Constantinople. C'est là que toute sa magnificence se déploye, Aussi les Turcs renvoyent à cette ceremonie, comme à celle dans laquelle on peut mieux remarquer la richesse de leur Empire. Plusieurs Voyageurs en ont écrit, mais aucun n'en a donné une juste idée. Vous la trouverez dans ce que j'ay tiré des Memoires de cette mesme personne touchant une sortie qui se fit le Lundy 27. Octobre 1680. [...] Le Cologlou paroissoit ensuite avec cinquante hommes à cheval, le mousqueton appuyé sur l'arson de la Selle, &amp; ils marchoient les premiers avec les Trompettes, quatre Timbales, quatre Hautbois, &amp; deux hommes joüants d'Instrumens semblables à ceux que les Bacchantes frappent les uns contre les autres. [...] La Musique fermoit cette marche. Elle estoit composée de six Trompettes, de six Timbales, de douze Hautbois &amp; de quatre hommes qui touchoient des especes d'Instrumens, que nous appellons Niacards.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1687-04_074">
+      <div type="article" xml:id="MG-1687-04_074" resp="mercure">
         <head>MG-1687-04_074</head>
         <bibl>Mercure Galant, avril 1687, p. 74-162</bibl>
         <p>Nouvelles réjoüissances faites en plusieurs Villes, &amp; autres lieux, pour le retour de la santé du Roy.</p>
@@ -123,8 +123,7 @@
         <p/>
         <p>M. Doré, Maistre de la Musique de la Cathedrale d'Arras &amp; tous les autres Musiciens de la Ville, aprés avoir prêté leurs voix dans toutes les Eglises, pour rendre graces à Dieu de la parfaite santé du Roy, ont voulu faire connoître qu'ils ne cedoient en zele à aucun Corps. Leur Feste se fit dans l'Eglise des Jesuites, où toute la Ville fut invitée. M. le Févre, Prevost de la Cathedrale, qu'ils avoient prié de faire l'Office, y fit transporter, du consentement du Chapitre, les beaux Ornemens de velours bleu, semez de Fleurs de Lys d'or, dont Louis XI. leur fit autrefois present, afin que la veuë des Lys donnast à tout  monde une forte idée de l'auguste Prince qui les fait aujourd'huy fleurir avec tant de gloire par toute la terre. Les Voix, les Concerts, les Instrumens, tout fut d'un accord qui charma tous ceux qui pûrent avoir place à cette Ceremonie, Le canon si fit entendre pendant qu'on chanta le Te Deum, &amp; M. Doré, de la composition de qui la Musique estoit, ainsi que la Symphonie, receut de grandes loüanges.</p>
       </div>
-
-<div xml:id="MG-1687-04_297">
+      <div type="article" xml:id="MG-1687-04_297" resp="mercure">
         <head>MG-1687-04_297</head>
         <bibl>Mercure Galant, avril 1687, p. 297-312</bibl>
         <p>Suites &amp; conclusion des Réjoüissances faites pour la santé du Roy.</p>
@@ -135,6 +134,6 @@
         <p>Les Gentilshommes se sont aussi signalez. Ils s'assemblerent au nombre de vingt-cinq, tous Habitans de la Ville, &amp; des maisons les plus quafiées de la Province, chez M. de Villeneuve, Senéchal, &amp; aprés avoir  fait chanter une Messe solemnelle, &amp; un Te Deum dans la Cathedrale, ils firent tirer un feu d'artifice qui eut un fort grand succés, &amp; qui fut accompagné d'un bruit extraordinaire de Boëtes. Ils avoient été tous chez M. l'Evesque, pour le prier d'honorer leur Feste de sa presence, &amp; l'avoient conduit en ceremonie chez M. le Senéchal, où il fut placé commodement. Ces honneurs extraordinaires ne sont pas tant des marques de la veneration qu'on a pour le caractere de ce Prelat, que de l'attachement particulier que ses grandes qualitez font avoir pour sa personne. Il fut agréablement surpris, aprés que ces Gentilshommes eurent allumé le feu, de leur voir danser la Moresque l'épée à la main, comme pour faire connnoistre qu'ils seroient prêts en tout temps de la tirer pour le service du Roy. Cette danse  prend son nom &amp; son origine des Mores, qui on esté les maistres de cette Province durant deux Siecles,  &amp; approche fort de la Pirrhique des anciens Grecs, où les Soldats dansoient armez, pour conserver une image de la guerre dans le plaisir mesme. Lors que le feu eut esté tiré, ces Gentilshommes reconduisirent Mr l'Evesque dans le mesme ordre, &amp; souperent ensemble dans la Maison de Ville, où la santé du Roy fut beuë plusieurs fois. [...]</p>
         <p>Mrs du Presidial de Riom ont assisté a un Te Deum chanté solemnellement, au sortir duquel, M. de Combes, Lieutenant general, Neveu de feu M. de St Sandoux, regala tous ceux de sa Compagnie.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

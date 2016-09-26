@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1695-07_193">
+      <div type="article" xml:id="MG-1695-07_193" resp="mercure">
         <head>MG-1695-07_193</head>
         <bibl>Mercure galant, juillet 1695, p. 193-195</bibl>
         <p>Voicy des paroles qui ont esté faites sur une Gavote de Mr Charpentier, si connu de ses Ouvrages. Comme elle a grand cours, vous serez bien-aise d'en avoir tous les couplets.</p>
@@ -91,6 +91,6 @@
         <p>Celle qui fait tout mon tourment,</p>
         <p>Ie l'aime à la folie.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

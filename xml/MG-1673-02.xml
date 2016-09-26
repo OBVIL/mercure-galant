@@ -61,7 +61,7 @@
   <text>
     <body>
       <head><hi rend="i">Le Mercure Galant</hi>, tome II [mai-juillet 1672], 1673.</head>
-      <div xml:id="MG-1673-02_000">
+      <div type="article" xml:id="MG-1673-02_000" resp="mercure">
         <head>Préface</head>
         <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
           p. I-XI.</bibl>
@@ -153,7 +153,7 @@
       </div>
       <div>
         <head>I. Semaine. <hi rend="i">Nouvelles du 1. de May jusques au 7.</hi></head>
-        <div xml:id="MG-1673-02_001">
+        <div type="article" xml:id="MG-1673-02_001" resp="mercure">
           <head>[Dessein du Second et Troisieme Tome]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 1-20.</bibl>
@@ -255,7 +255,7 @@
             curieuses, vous plairont du moins par leur assaisonnement, si elles ne peuvent vous
             plaire par elles-mesmes.</p>
         </div>
-        <div xml:id="MG-1673-02_021">
+        <div type="article" xml:id="MG-1673-02_021" resp="mercure">
           <head>Le Pere rival de son Fils. Stances</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 21-27.</bibl>
@@ -340,7 +340,7 @@
             jolis ; je ne sçay si je me trompe, vous en déciderez, Madame, &amp; je m’en rapporte à
             vostre jugement.</p>
         </div>
-        <div xml:id="MG-1673-02_027">
+        <div type="article" xml:id="MG-1673-02_027" resp="mercure">
           <head>Lettre d’Egypte</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 27-36.</bibl>
@@ -399,7 +399,7 @@
             nous vîmes deux Hommes venir à nous, qui donnoient en se parlant, des marques du plus
             grand étonnement qui fut jamais.</p>
         </div>
-        <div xml:id="MG-1673-02_038">
+        <div type="article" xml:id="MG-1673-02_038" resp="mercure">
           <head>[Histoire de Viergette]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 36-53.</bibl>
@@ -496,7 +496,7 @@
             Campagne furent mises sur le tapis, &amp; l’on parla de la diligence incroyable avec
             laquelle le Roy poursuivoit son Voyage.</p>
         </div>
-        <div xml:id="MG-1673-02_071">
+        <div type="article" xml:id="MG-1673-02_071" resp="mercure">
           <head>[Difference qu’il y a entre la Bibliotheque du Roy &amp; le Cabinet des
             Livres]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
@@ -519,7 +519,7 @@
       </div>
       <div>
         <head>II. Semaine. <hi rend="i">Nouvelles du 7. May jusques au 14.</hi></head>
-        <div xml:id="MG-1673-02_076">
+        <div type="article" xml:id="MG-1673-02_076" resp="mercure">
           <head>[Fragmens d’une Comedie contre les Nouvellistes]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 76-86.</bibl>
@@ -645,7 +645,7 @@
             <l><space/>Et le Pacifique à la Paix.</l>
           </quote>
         </div>
-        <div xml:id="MG-1673-02_091">
+        <div type="article" xml:id="MG-1673-02_091" resp="mercure">
           <head>[Pompe Funèbre de Madame la duchesse Doüairiere d’Orleans faite à S. Denys]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 91-96.</bibl>
@@ -676,7 +676,7 @@
       </div>
       <div>
         <head>III. Semaine. <hi rend="i">Nouvelles du 14. May jusques au 21.</hi></head>
-        <div xml:id="MG-1673-02_097">
+        <div type="article" xml:id="MG-1673-02_097" resp="mercure">
           <head>[Lettre d’un Gentilhomme touchant plusieurs choses remarquables qu’un de ses Amis
             qui a voyagé par tout le monde en a rapporté]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
@@ -765,7 +765,7 @@
             avoit lû la Lettre. Je n’ay plus rien à dire, luy repliqua-t-il ; &amp; je crois que
             vostre curiosité doit estre amplement satisfaite.</p>
         </div>
-        <div xml:id="MG-1673-02_100">
+        <div type="article" xml:id="MG-1673-02_100" resp="mercure">
           <head>[Suite des Fragmens d’une Comedie contre les Nouvellistes] *</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 100-101.</bibl>
@@ -788,7 +788,7 @@
       </div>
       <div>
         <head>IV. Semaine. <hi rend="i">Nouvelles du 21. de May jusques au 28.</hi></head>
-        <div xml:id="MG-1673-02_119">
+        <div type="article" xml:id="MG-1673-02_119" resp="mercure">
           <head>[Suite des Fragmens de la Comedie contre les Nouvellistes, où l’on voit tous les
             termes extraordinaires dont se servent ces Messieurs]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
@@ -885,7 +885,7 @@
             debiter quelques Nouvelles, &amp; il y courut avec plus d’empressement que n’en avoient
             tous ceux qu’il dépeignoit dans sa Comedie.</p>
         </div>
-        <div xml:id="MG-1673-02_126">
+        <div type="article" xml:id="MG-1673-02_126" resp="mercure">
           <head>[Mort de Monsieur Godeau Evesque de Vence]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 126-127.</bibl>
@@ -893,7 +893,7 @@
             Evesque de Vence, qui estoit de l’Academie Françoise : Ils loüerent fort ses Poësies,
             &amp; sa Traduction des Pseaumes.</p>
         </div>
-        <div xml:id="MG-1673-02_127">
+        <div type="article" xml:id="MG-1673-02_127" resp="mercure">
           <head>[Mariage &amp; mort de Monsieur la Mothe le Vayer]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 127-128.</bibl>
@@ -907,7 +907,7 @@
       </div>
       <div>
         <head>V. Semaine. <hi rend="i">Nouvelles du 28. De May jusques au 4. de Juin.</hi></head>
-        <div xml:id="MG-1673-02_147">
+        <div type="article" xml:id="MG-1673-02_147" resp="mercure">
           <head>Extrait d’une Lettre du Camp de Viseyt</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 147-152.</bibl>
@@ -948,7 +948,7 @@
               toute bastie de brique &amp; par compartimens.</p>
           </quote>
         </div>
-        <div xml:id="MG-1673-02_152">
+        <div type="article" xml:id="MG-1673-02_152" resp="mercure">
           <head>Extrait d’une Lettre écrite de Liege</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 152-162.</bibl>
@@ -1014,7 +1014,7 @@
       </div>
       <div>
         <head>VI. Semaine. <hi rend="i">Nouvelles du 4. de Juin jusques au 11.</hi></head>
-        <div xml:id="MG-1673-02_168">
+        <div type="article" xml:id="MG-1673-02_168" resp="mercure">
           <head>Histoire du Val de Gallie ou de l’Enfant Ingrat</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 168-185.</bibl>
@@ -1118,7 +1118,7 @@
             Versailles. Il acheta encor il y a quelque temps un Chasteau, adjoûta-t-il, qui n’est
             pas loin de cette délicieuse Maison, &amp; duquel on a fait le Cheny.</p>
         </div>
-        <div xml:id="MG-1673-02_201">
+        <div type="article" xml:id="MG-1673-02_201" resp="mercure">
           <head>Extrait d’une Lettre de Liege</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 201-205.</bibl>
@@ -1155,7 +1155,7 @@
       </div>
       <div>
         <head>VII. Semaine. <hi rend="italic">Nouvelles du 11. de Juin jusques au 18.</hi></head>
-        <div xml:id="MG-1672-02_247">
+        <div type="article" xml:id="MG-1672-02_247" resp="mercure">
           <head>[L’Entrée de Monsieur le Nonce à Paris]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673, p. 247-249.</bibl>
           <p>On passa de ces Nouvelles à celles de l’Entrée publique du Nonce de Sa Sainteté, que Monsieur le Duc de Verneüil avoit esté prendre dans le Carosse de la Reyne ; &amp; quoy que cette Entrée ne pût estre mise qu’au nombre de ces choses qui arrivent tous les jours, on y remarqua un particularité, qui fut qu’il avoit fait son Entrée dans un Carosse de la Reyne, &amp; non dans un de ceux du Roy ; &amp; qu’ainsi cette Princesse l’avoit reçeu comme Regente. Cette remarque donna occasion de parler du merite de la Personne de Monsieur le Nonce, dont le Roy fait une estime toute particuliere ; &amp; les marques qu’il en a données en le choisissant entre trois que Sa Sainteté avoit nommez, en sont des preuves incontestables. On parla encor ce jour-là du <hi
@@ -1165,7 +1165,7 @@
       </div>
       <div>
         <head>VIII. Semaine. <hi rend="italic">Nouvelles du 18. Juin jusques au 21</hi></head>
-        <div xml:id="MG-1673-02_275">
+        <div type="article" xml:id="MG-1673-02_275" resp="mercure">
           <head>[Commentaire sur la Gazette] *</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 275-276.</bibl>
@@ -1181,7 +1181,7 @@
         <head>IX. Semaine. <hi rend="i"
             >Nouvelles du 25. de Juin jusques au 2 de
           Juillet.</hi></head>
-        <div xml:id="MG-1673-02_314">
+        <div type="article" xml:id="MG-1673-02_314" resp="mercure">
           <head>[L’Académie Françoise prend possession d’une des Salles du Louvre, pour y tenir
             desormais toute ses Assemblées]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
@@ -1197,7 +1197,7 @@
       </div>
       <div>
         <head>X. Semaine. <hi rend="i">Nouvelles du 2. de Juillet jusques au 11.</hi></head>
-        <div xml:id="MG-1673-02_317">
+        <div type="article" xml:id="MG-1673-02_317" resp="mercure">
           <head>[Lettre d’un grand Seigneur de la Cour, touchant la prise d’Arnhem] *</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
             p. 317-338.</bibl>

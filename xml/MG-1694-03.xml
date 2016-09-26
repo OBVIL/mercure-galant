@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,12 +51,12 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1694-03_310">
+      <div type="article" xml:id="MG-1694-03_310" resp="mercure">
         <head>MG-1694-03_310</head>
         <bibl>Mercure galant, mars 1694, p. 310-313</bibl>
         <p>Il paroist depuis peu un Livre intitulé, Iournal des Marches, Campemens, Batailles, Sieges &amp; Mouvemens des Armées du Roy en Flandre, &amp; de celles des Alliez, depuis l'année 1690, jusques à present. (...) Ce Livre se vend chez le Sr Brunet, à l'Enseigne du Mercure Galant au Palais, dans la grande Salle.</p>
         <p>Il débite aussi une Comedie faite sur des Originaux dont il se trouve dans tous les estats du monde, elle est intitulée Les Soufleurs, dont elle fait voir une peinture fort divertissante. Outre les Estampes qui se trouvent dans cette Piece, elle est remplie de quantité d'Airs notez par la diversité qui s'y rencontre, que par les choses plaisantes que l'on a tirées de son sujet.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

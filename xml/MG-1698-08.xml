@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,29 +51,27 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1698-08_259">
+      <div type="article" xml:id="MG-1698-08_259" resp="mercure">
         <head>MG-1698-08_259</head>
         <bibl>Mercure galant, août 1698, p. 259-261</bibl>
         <p>Ceremonie observée à l'Election des nouveaux Echevins.</p>
         <p/>
         <p>Le 16. de ce mois on élut de nouveaux Echevins à l'Hostel de Ville de Paris. [...] Une Messe solemnelle fut chantée dans l?Eglise du Saint Esprit. [...]</p>
       </div>
-
-<div xml:id="MG-1698-08_268">
+      <div type="article" xml:id="MG-1698-08_268" resp="mercure">
         <head>MG-1698-08_268</head>
         <bibl>Mercure galant, août 1698, p. 268-273</bibl>
         <p>Baptême de Mademoiselle de Chartres.</p>
         <p/>
         <p>Le 27. de ce mois à quatre heures &amp; demy aprés midy, le Roy, leurs Majestez B. &amp; Messeigneurs les Princes Fils de France, Madame la Duchesse de Bourgogne, &amp; tous les Princes &amp; Princesses se rendirent à S. Clou, pour le Bâtesme de Mademoiselle de Chartres. [...] Dans tout le temps du repas, qui dura du moins une heure, les Violons de Monsieur jouérent.</p>
       </div>
-
-<div xml:id="MG-1698-08_281">
+      <div type="article" xml:id="MG-1698-08_281" resp="mercure">
         <head>MG-1698-08_281</head>
         <bibl>Mercure galant, août 1698, p. 281</bibl>
         <p>Ce qui s'est passé à l'Entrée &amp; à l'Audience des Ambassadeurs de Hollande.</p>
         <p/>
         <p>Le 26. Mrs Heemsxeix &amp; d'Odiicx, que Mr le Maréchal de Tourville &amp; Mr de Saintot étoient allez prendre à l'Hôtel des Ambassadeurs Extraordinaires, se rendirent à Versailles [...]. Les Compagnies des Gardes-Françoises &amp; Suisses estoient rangées en haye &amp; sous les Armes avec les Tambours appellans.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

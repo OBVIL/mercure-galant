@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-03_025">
+      <div type="article" xml:id="MG-1688-03_025" resp="mercure">
         <head>MG-1688-03_025</head>
         <bibl>Mercure galant, mars 1688, p. 25-33</bibl>
         <p>Suite des divertissemens du Carnaval.</p>
@@ -61,8 +61,7 @@
         <p>M. le Prince d'Enrichemont a aussi donné un Bal magnifique. La vivacité de son esprit, &amp; sa Naissance sont connuës de tout le monde. Ainsi sans m'étendre sur ce qui regarde sa Personne, je vous diray seulement que quatre Italiens masquez vinrent à ce Bal. Ils tenoient chacun une corbeille, trois desquelles estoient remplies de confitures seches les plus exquises, &amp; la quatriéme, de Vers Italiens à la gloire des Dames Françoises. Ils distribuerent ces confitures &amp; ces Vers à toute l'Assemblée, &amp; leur galanterie fut applaudie de tous ceux qui s'y trouverent.</p>
         <p>Le Public s'est aussi donné un Bal magnifique, où deux mille Masques danserent en quatre endroits differens dans le mesme espace de terrein. Cela paroist une Enigme, &amp; a besoin d'explication. Il est juste que je vous la donne. La foule des Masques qui vont au Cours aux Fauxbourg Saint Antoine, dans les derniers jours du Carnaval, se trouva si grande le Mardy-gras, que les Carrosses allerent jusques au Parc de Vincennes. Le jour estoit beau, &amp; quelques Masques étant descendus de Carosse pour se promener à pied, il y en eut d'autres qui les imiterent, de sorte que l'Assemblée devint en peu de temps fort nombreuse sur la pelouse. Le hazard voulut qu'il s'y trouva quelques Violons, &amp; plusieurs Personnes de qualité qui avoient fait apprendre à leurs gens à joüer de cet Instrument, les envoyerent chercher. Cela fut cause qu'au lieu d'un Bal, il s'en forma quatre dans le mesme lieu ; &amp; voilà de quelle maniere le Public s'en est donné un luy mesme.</p>
       </div>
-
-<div xml:id="MG-1688-03_180">
+      <div type="article" xml:id="MG-1688-03_180" resp="mercure">
         <head>MG-1688-03_180</head>
         <bibl>Mercure galant, mars 1688, p. 180-201</bibl>
         <p>Article tres curieux de tout ce qui se passe à Rome aux Ceremonies funebres des Cardinaux.</p>
@@ -77,54 +76,48 @@
         <p>Lors qu'il y eut un nombre suffisant de Cardinaux, les quatre Mandians &amp; les Religieux Servites qui s'estoient rendus à l'Eglise long-temps auparavant commencerent à celebrer les obseques dans une des Chapelles de la Croisée de l'Eglise, chacun de ces Ordres récitant alternativement l'Office qui luy estoit prescrit. Les Franciscains commencerent &amp; chanterent les Vespres, &amp; apres firent les trois Encensemens autour du corps, &amp; luy jetterent autant de fois de l'Eau-benite. Ensuite ils s'en allerent, &amp; cederent la place aux Augustins qui dirent le premier Nocturne des Matines, &amp; allerent de même encenser trois fois &amp; jetter de l'Eau-benite au Défunt. Les Carmes suivirent &amp; dirent le second Nocturne. Les Servites ou Serteurs de la Vierge Marie, chanterent le troisiéme Nocturne. Les Dominicains dirent les Laudes, &amp; ensuite les Musiciens de la Chapelle du Pape reciterent en Musique le Libera, &amp; firent de pareils Encensemens par où finit la Ceremonie. Ces cinq Ordres ont le privilege d'officier dans les Obseques des Cardinaux, &amp; leurs Generaux &amp; Procureurs Generaux ont seance dans la Chapelle du Pape. Durant le temps de l'Office, les cloches de l'Eglise se firent entendre, mais avec une grande modestie, &amp; un grand silence. Elles sonnoient seulement trois coups de suite, puis demeuroient un long intervalle avant que d'en recommencer trois autres, &amp; continuerent ainsi jusqu'à la fin de l'Office. [...]</p>
         <p>Le lendemain Dimanche on fit la mesme ceremonie dans l'Eglise de Saint Marc, où le Cardinal Bassadonna fut inhumé. [...] On suivit dans ces Obseques le mesme Rituel qu'au Cardinal Albizzi, [...].</p>
       </div>
-
-<div xml:id="MG-1688-03_237">
+      <div type="article" xml:id="MG-1688-03_237" resp="mercure">
         <head>MG-1688-03_237</head>
         <bibl>Mercure galant, mars 1688, p. 237-238</bibl>
         <p>Réjoüissances faites à Mets.</p>
         <p/>
         <p>On écrit de Mets que le Carnaval y a continué jusqu'au premier Jeudy de Carême, jour du renouvellement de l'Hostel de Ville, par la promotion au Maistre Echevinat de Messire Pierre Philippe Pantaleon, Lieutenant General du Presidial. La joye des Habitans fut si grande, qu'ils ne purent s'empescher de la marquer par des feux qu'ils allumerent presque dans toutes les ruës avec des acclamations inconcevables. Les Conseillers du Siege donnerent un magnifique Repas au bruit des Timbales &amp; des Trompettes. Tout se réjoüissoit ce jour-là, les uns par les cris, les autres par des Festins &amp; des Concerts d'Instrumens. [...]</p>
       </div>
-
-<div xml:id="MG-1688-03_305">
+      <div type="article" xml:id="MG-1688-03_305" resp="mercure">
         <head>MG-1688-03_305</head>
         <bibl>Mercure galant, mars 1688, p. 305-306</bibl>
         <p>Mort de Mademoiselle de Guise.</p>
         <p/>
         <p>Le 3. de ce mois, tres-haute, tres-puissante, &amp; tres-illustre Princesse, Mademoiselle Marie de Lorraine, Duchesse de Guise &amp; de Joyeuse, Pair de France, Princesse de Joinville, Senechalle Hereditaire de Champagne, mourut à Paris dans son Hostel, âgée de 72. ans six mois, dix-sept jours. Son Corps qui n'a point esté ouvert par l'expresse défense qu'elle en avoit faite, a esté porté à l'Eglise des Capucines, où Madame sa Mere a esté enterrée en habit de Religieuse. Elle a vêcu avec une magnificence digne du Sang dont elle sortoit. Elle faisoit du bien à beaucoup de monde, recompensoit genereusement le moindre service, &amp; faisant toutes choses avec grandeur, elle avoit jusqu'à sa Musique entretenuë. Cette Musique estoit si bonne qu'on peut dire que celle de plusieurs grands Souverains n'en approche pas. [...]</p>
       </div>
-
-<div xml:id="MG-1688-03_316">
+      <div type="article" xml:id="MG-1688-03_316" resp="mercure">
         <head>MG-1688-03_316</head>
         <bibl>Mercure galant, mars 1688, p. 316-317</bibl>
         <p>Procession pour la Reduction de Paris.</p>
         <p/>
         <p>Le Lundy 22. de ce mois Mrs les Prevost [sic] des Marchands, Eschevins &amp; Officiers de la Ville s'estant rendus en l'Eglise Metropolitaine revestus de leurs Robes de Ceremonie, le Clergé de cette Eglise alla suivant la Coustume, pour la Reduction de Paris, à l'obéissance du Roy Henry IV. en Procession aux Augustins du Grand Convent, où Mr le Duc de Gesvres, Gouverneur de cette Ville, se trouva avec les Compagnies superieures. La Messe y fut celebrée par Mr l'Abbé de la Mothe Archidiacre, en absence de Mr l'Archevesque, &amp; chantée par la Musique de Nostre-Dame où se rendirent ce jour-là, toutes les Processions des Paroisses de Paris, ainsi que les quatre Mandians qui assisterent à la Procession Generale qu'on fit aux grands Augustins.</p>
       </div>
-
-<div xml:id="MG-1688-03_317">
+      <div type="article" xml:id="MG-1688-03_317" resp="mercure">
         <head>MG-1688-03_317</head>
         <bibl>Mercure galant, mars 1688, p. 317-322</bibl>
         <p>Opera representé au College de Loüis le Grand.</p>
         <p/>
         <p>J'ay à vous parler de trois Opera. L'un fut representé aux Jesuites le 28. du mois passé. Comme cela pourra vous surprendre, je m'explique. Le College de Louis le Grand estant remply de Pensionnaires de la premiere qualité, &amp; qui n'en sortent que pour posseder les premieres Dignitez de l'Estat, dans l'Eglise, dans l'Epée &amp; dans la Robe, il est necessaire que cette jeunesse s'accoutume à prendre la hardiesse &amp; le bon air qui sont necessaires pour parler en public. C'est dans cette veuë que les Jesuites se donnent la peine de l'exercer en faisant representer deux Tragedies tous les ans. Ils donnent l'une sur la fin de chaque Esté, un peu avant que les Vacances commencent, &amp; elle est representée dans la court du College, parce que la saison est encore belle. Celle qui paroist sur les derniers jours du Carnaval, se represente dans une des Classes, par les Ecoliers de la Seconde. Ces Tragedies n'estoient autrefois mêlées que de Balets, parce que la danse est fort necessaire pour donner de la bonne grace, &amp; rendre le corps agile ; mais depuis que la Musique est en regne, on a trouvé à propos d'y en mêler, afin de rendre ces divertissemens complets. On a encore plus fait cette année, &amp; outre la Tragedie de Saül qui a esté representée en Vers Latins, il y en avoit une en Vers François, intitulée David et Jonathas, &amp; comme ces Vers ont esté mis en Musique, c'est avec raison qu'on a donné le nom d'Opera à cet Ouvrage. On ne peut recevoir de plus grands applaudissemens qu'il en a eu, soit dans les Repetitions, soit dans la Representation. Aussi la Musique estoit-elle de Mr Charpentier, dont les Ouvrages ont toûjours eu un tres-grand succés. La Comédie de Circé, &amp; celles du Malade imaginaire, &amp; de L'Inconnu, dont il a fait la Musique, ainsi que de plusieurs autres, en font foy. On peut dire qui si ce qu'il a fait dans ces Ouvrages a trouvé tant d'Approbateurs, ils auroient encore plû davantage, s'il avoit eu de plus belles voix &amp; en plus grand nombre pour les executer. Il a long-temps travaillé pour la Musique de Monseigneur le Dauphin, lors que ce Prince avoit tous les jours une Messe particuliere, ses exercices l'empeschant de se trouver à celle du Roy. Les récompensés qu'il en receuës marquent la satisfaction qu'on en avoit. Il a long-temps demeuré à l'Hostel de Guise, &amp; a fait des choses pour la Musique de Mademoiselle de Guise qui ont esté beaucoup estimées des plus habiles Connoisseurs. Il compose parfaitement bien en Italien, &amp; les Vers Italiens qui sont dans les Pieces que je viens de vous nommer, en sont une preuve. Aussi a-t-il appris la Musique à Rome sous le Charissimi, qui estoit le Maistre de Musique d'Italie le plus estimé, &amp; sous qui feu M. de Lully a aussi étudié ce bel Art. Les Vers de cet Opera de M. Charpentier, sont de la composition du Pere Chamillard, &amp; imprimez dans le livre qui fut distribué le jour de la representation de cet Ouvrage. Il ne faut que les lire pour connoistre que ce Pere n'entend pas moins la delicatesse de la Poësie Françoise, que de la Latine.</p>
       </div>
-
-<div xml:id="MG-1688-03_322">
+      <div type="article" xml:id="MG-1688-03_322" resp="mercure">
         <head>MG-1688-03_322</head>
         <bibl>Mercure galant, mars 1688, p. 322-323</bibl>
         <p>Opera de Lyon.</p>
         <p/>
         <p>Le second Opera dont il faut que je vous parle, n'est pas nouveau, puis que c'est celuy de Phaëton. Je vous ay déjà dit que c'estoit le premier qu'on devoit representer à Lyon, où l'on a étably une Academie d'Opera. Il a esté joüé pendant tout le Carnaval avec un succés si extraordinaire, qu'on l'est venu voir de quarante lieuës à la ronde. Les décorations, les voix, les danses, les habits, tout a répondu à la beauté de la Musique, &amp; on a beaucoup d'obligation à ceux qui pour la gloire de leur Patrie ont bien voulu hazarder cette depense. Cet etablissement paroist si solide, qu'il n'y a point à douter qu'il ne subsiste toûjours &amp; comme tout ce qui se fait dans le Royaume surpasse tout ce qu'on peut voir de beau, en quelque lieu du monde que ce soit, les Etrangers qui y entreront du costé de Lion, seront surpris, &amp; pourront juger par ce magnifique spectacle, de la grandeur de la France. Le Public ayant demandé l'Opera de Bellerophon à ceux qui ont fait cet établissement, ils y font travailler avec autant d'empressement que de dépense, pour le donner incontinent après les Festes de Pasques. L'on assure qu'il y aura encore plus de magnificence dans cet Opera, que dans Phaëton.</p>
       </div>
-
-<div xml:id="MG-1688-03_323">
+      <div type="article" xml:id="MG-1688-03_323" resp="mercure">
         <head>MG-1688-03_323</head>
         <bibl>Mercure galant, mars 1688, p. 323-324</bibl>
         <p>Flore &amp; Zephire. Opera.</p>
         <p/>
         <p>Je passe au troisiéme Opera qu'on represente icy depuis quelques jours. Il est en trois Actes, &amp; intitulé Flore &amp; Zephire. Les paroles sont de M. du Boulay, Secretaire de M. le Grand Prieur, &amp; il a esté mis en Musique par deux des Fils de feu M. de Lully. Cet Opera où les Enfans de cet excellent homme ont travaillé, a esté representé jour pour jour au bout de l'année de son decés. Le Prologue &amp; le premier Acte, ont esté mis en Musique par M. de Lully le Cadet, Surintendant de la Musique du Roy, &amp; M. de Lully l'Aisné a fait la Musique du second Acte, &amp; du troisiéme à la reserve du divertissement, &amp; de la Scene qui le precede, qui sont encore de M. de Lully le Cadet. Comme le succés d'un Ouvrage fait son éloge, je ne vous dis rien de cet Opera.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -61,7 +61,7 @@
   <text>
     <body>
       <head><hi rend="i">Le Mercure Galant</hi>, [tome I, janvier-avril], 1672.</head>
-      <div xml:id="MG-1672-01_000">
+      <div type="article" xml:id="MG-1672-01_000" resp="mercure">
         <head>Le Libraire au lecteur</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. [I-VIII].</bibl>
@@ -95,7 +95,7 @@
           Livres, ce n’est que de Livres de Galanteries, dont le Journal ne dit jamais rien ; &amp;
           qu’il n’y a pas dans ce Volume trente lignes sur cette matiere.</p>
       </div>
-      <div xml:id="MG-1672-01_001">
+      <div type="article" xml:id="MG-1672-01_001" resp="mercure">
         <head>[Dessein de l’Ouvrage] *</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 1-13.</bibl>
@@ -158,7 +158,7 @@
           pourquoi je commence par une Histoire avant que d’entrer dans le détail des nouvelles de
           la Semaine.</p>
       </div>
-      <div xml:id="MG-1672-01_013">
+      <div type="article" xml:id="MG-1672-01_013" resp="mercure">
         <head>[L’Histoire du Collier de Perles]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672, p.
           13-34.</bibl>
@@ -271,7 +271,7 @@
           chose de si nouveau, que je ne croy pas que vous ayez jamais rien lû de semblable. Passons
           à des nouvelles qui sont plus publiques.</p>
       </div>
-      <div xml:id="MG-1672-01_034">
+      <div type="article" xml:id="MG-1672-01_034" resp="mercure">
         <head>[Honneurs rendus à la mémoire de feüe Madame de Montausier]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 34-37.</bibl>
@@ -291,7 +291,7 @@
           chose d’extraordinaire pour honorer la memoire d’une Personne aussi recommandable par son
           merite que feüe Madame de Montausier.</p>
       </div>
-      <div xml:id="MG-1672-01_037">
+      <div type="article" xml:id="MG-1672-01_037" resp="mercure">
         <head>[Éloge de Monsieur l’Abbé de Noailles]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], p. 37-40.</bibl>
         <p>Je ne sçais si je vous dois mander que M<hi rend="sup">r</hi> l’Abbé de Noailles fit
@@ -310,7 +310,7 @@
           nouvelles les moins curieuses vous apprendrons ce qu’il est bon de sçavoir, lors que l’on
           est autant du Monde que vous, &amp; que l’on y fait une aussi belle figure.</p>
       </div>
-      <div xml:id="MG-1672-01_044">
+      <div type="article" xml:id="MG-1672-01_044" resp="mercure">
         <head>[Histoire des Bas de Soye verds]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 44-60.</bibl>
@@ -398,7 +398,7 @@
           veritez, je n’y adjoûteray rien, quoy qu’il me fut aisé d’inventer beaucoup de choses sur
           une si belle matiere.</p>
       </div>
-      <div xml:id="MG-1672-01_065">
+      <div type="article" xml:id="MG-1672-01_065" resp="mercure">
         <head>[Discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 65-71.</bibl>
@@ -434,7 +434,7 @@
           &amp; galantes, que ceux de barbares qui ne conviennent pas au goust des Dames de ce
           Siecle, à qui sur toutes choses il est important de plaire.</p>
       </div>
-      <div xml:id="MG-1672-01_071">
+      <div type="article" xml:id="MG-1672-01_071" resp="mercure">
         <head>[Avantures arrivées à Constantinople à un François, par laquelle on peut juger de la
           galanterie des Turcs]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -528,7 +528,7 @@
           temps ; &amp; cette blessure de Zennakhoub ayant esté plus favorable que funeste, n’a
           servy que de prétexte au retardement de son mariage.</p>
       </div>
-      <div xml:id="MG-1672-01_089">
+      <div type="article" xml:id="MG-1672-01_089" resp="mercure">
         <head>[Suite du discours sur le <hi rend="i">Bajazet</hi>, Tragédie du Sieur Racine]
           *</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -543,7 +543,7 @@
           glorieuse que celle qu’ils ont meritée.</p>
         <p rend="right i">À Paris, ce 9. Janvier. </p>
       </div>
-      <div xml:id="MG-1672-01_091">
+      <div type="article" xml:id="MG-1672-01_091" resp="mercure">
         <head>[L’Histoire de celle qui aima mieux se brûler avec son Mary, que de le voir
           infidèle]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -643,7 +643,7 @@
           ces pauvres malheureux que l’amour a fait périr dans des flâmes bien plus ardentes que les
           siennes.</p>
       </div>
-      <div xml:id="MG-1672-01_109">
+      <div type="article" xml:id="MG-1672-01_109" resp="mercure">
         <head>[Discours sur le Mariage de Bachus, Comedie héroïque]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 109-111.</bibl>
@@ -657,7 +657,7 @@
           deux mois. Je ne vous diray rien à l’avantage de ses Pieces, il est trop de mes Amis,
           &amp; les loüanges que je luy donnerois seroient peut-estre suspectes.</p>
       </div>
-      <div xml:id="MG-1672-01_114">
+      <div type="article" xml:id="MG-1672-01_114" resp="mercure">
         <head>[L’Histoire de la Famille visionnaire]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 114-128.</bibl>
@@ -732,7 +732,7 @@
           avec toute sa Famille de nouvelles Commissions qui puissent le mettre en état de voir un
           jour remplir ses hautes espérances.</p>
       </div>
-      <div xml:id="MG-1672-01_129">
+      <div type="article" xml:id="MG-1672-01_129" resp="mercure">
         <head>[Retour de Suede de Monsieur le Duc de Pompone]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 129-130.</bibl>
@@ -744,7 +744,7 @@
           qu’on ne voit point dans des Lettres les plus travaillées de nos Académiciens.</p>
         <p rend="right i">À Paris, le 23. Janvier. </p>
       </div>
-      <div xml:id="MG-1672-01_131">
+      <div type="article" xml:id="MG-1672-01_131" resp="mercure">
         <head>[L’Histoire de la Fille Soldat]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 131-147.</bibl>
@@ -832,7 +832,7 @@
           d’Ignorans ont publié depuis quelques jours qu’une Fille avoit fait un Enfant à une autre
           Fille.</p>
       </div>
-      <div xml:id="MG-1672-01_147">
+      <div type="article" xml:id="MG-1672-01_147" resp="mercure">
         <head>[Eloge de Monsieur le Duc de Coaslin]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 147-149.</bibl>
@@ -847,7 +847,7 @@
           qu’il en a beaucoup.</p>
         <p rend="right i">De Paris, le 30. Janvier. </p>
       </div>
-      <div xml:id="MG-1672-01_150">
+      <div type="article" xml:id="MG-1672-01_150" resp="mercure">
         <head>[Mort de Monsieur le Chancelier, &amp; son Eloge]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 150-153.</bibl>
@@ -868,7 +868,7 @@
           Personnes qui pouvoient luy donner quelques lumieres, quoy qu’il en eut beaucoup plus que
           tous ceux qu’il consultoit.</p>
       </div>
-      <div xml:id="MG-1672-01_165">
+      <div type="article" xml:id="MG-1672-01_165" resp="mercure">
         <head>[Eloges des Six Conseillers d’Etat ordinaires, &amp; de six Maistres des Requestes que
           le Roy a choisis pour assister au Sceau]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -877,7 +877,7 @@
           incontestables ; &amp; quand on auroit pas de tous costez mille marques, les graces qu’il
           reçoit continuellement du Roy doivent en donner témoignage.</p>
       </div>
-      <div xml:id="MG-1672-01_166">
+      <div type="article" xml:id="MG-1672-01_166" resp="mercure">
         <head>[Avanture d’une jeune Marquise apres la mort de Monsieur Gaultier excellent Ioüeur de
           Luth]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -894,7 +894,7 @@
           aussi bien du Lut que Mademoiselle de Lenclos, elle devroit travailler à luy ressembler du
           costé de l’esprit, dont vous sçavez que cette Illustre Personne a infinîment.</p>
       </div>
-      <div xml:id="MG-1672-01_169">
+      <div type="article" xml:id="MG-1672-01_169" resp="mercure">
         <head>[L’Histoire du Mary qui se croit Cocu par luy-mesme]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 169-176.</bibl>
@@ -936,7 +936,7 @@
           Femme depuis ce temps, &amp; se veut faire séparer d’avec elle. Je vous laisse à juger
           s’il a raison, &amp; je passe à d’autres nouvelles.</p>
       </div>
-      <div xml:id="MG-1672-01_177">
+      <div type="article" xml:id="MG-1672-01_177" resp="mercure">
         <head>[Le retour d’Italie de Messieurs de Vendosme]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 177-178.</bibl>
@@ -949,7 +949,7 @@
             <hi rend="i">Opera</hi> sont considérables, puis que de tels Gens s’en meslent, &amp;
           les honorent de leur présence.</p>
       </div>
-      <div xml:id="MG-1672-01_187">
+      <div type="article" xml:id="MG-1672-01_187" resp="mercure">
         <head>[Discours sur l’<hi rend="i">Ariane</hi>, Tragédie de monsieur de Corneille le
           jeune]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -961,7 +961,7 @@
           charmes de <hi rend="i">Bajazet</hi> n’ont pas empesché leurs Admirateurs d’en trouver
           dans cette Piece, &amp; d’y retourner plus d’une fois.</p>
       </div>
-      <div xml:id="MG-1672-01_189">
+      <div type="article" xml:id="MG-1672-01_189" resp="mercure">
         <head>[L’Histoire du Cabinet des Miroirs]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 189-207.</bibl>
@@ -1061,7 +1061,7 @@
           trouverez fort extraordinaire, que vous plaindrez nostre Amy, &amp; que vous rirez en méme
           temps de ses folies.</p>
       </div>
-      <div xml:id="MG-1672-01_207">
+      <div type="article" xml:id="MG-1672-01_207" resp="mercure">
         <head>[Discours sur une Comédie de Monsieur de Molière, intitulée les <hi rend="i">Femmes
             Sçavantes</hi>]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -1106,7 +1106,7 @@
           Esprit de trouver à redire.</p>
         <p rend="right i">À Paris, le 12. Mars. </p>
       </div>
-      <div xml:id="MG-1672-01_216">
+      <div type="article" xml:id="MG-1672-01_216" resp="mercure">
         <head>[Le Sujet du Voyage de l’Academie Françoise à Versailles, conduite par Monsieur l'Archevesque de Paris]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 216-218.</bibl>
@@ -1121,7 +1121,7 @@
           mille sorte d’occasions ; mais je n’ay pas entrepris son Panegyrique, je le laisse à ceux
           qui écriront l’Histoire.</p>
       </div>
-      <div xml:id="MG-1672-01_218">
+      <div type="article" xml:id="MG-1672-01_218" resp="mercure">
         <head>[Régal de Monsieur le Marquis d’Angeau à Messieurs de l’Académie Françoise]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 218-225.</bibl>
@@ -1164,7 +1164,7 @@
           noms.</p>
         <p rend="right i">À Paris, le 19. Mars. </p>
       </div>
-      <div xml:id="MG-1672-01_247">
+      <div type="article" xml:id="MG-1672-01_247" resp="mercure">
         <head>[Discours sur les Eaux de Versailles, sur les Jardins, &amp; sur les nouveaux Ouvrages
           qu’on y a mis ; avec les noms des Sculpteurs]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -1201,7 +1201,7 @@
           remettre à une autre fois, ou plutost attendre qu’ils soient achevez.</p>
         <p rend="right i">À Paris, le 2. Avril. </p>
       </div>
-      <div xml:id="MG-1672-01_260">
+      <div type="article" xml:id="MG-1672-01_260" resp="mercure">
         <head>[L’institution de l’Académie des belles Lettres, avec les noms de Messieurs les
           Académiciens]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -1253,7 +1253,7 @@
           mérite la fait connoistre partout ; elle écrit tres-polîment en Prose &amp; en Vers, &amp;
           c’est enfin un Esprit du premier ordre.</p>
       </div>
-      <div xml:id="MG-1672-01_267">
+      <div type="article" xml:id="MG-1672-01_267" resp="mercure">
         <head>Lettre de Gas, Epagneul de Madame Des-houlieres</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 267-271.</bibl>
@@ -1314,7 +1314,7 @@
           habiles. J’en sçay bien la raison ; c’est que tous les Epagneuls n’ont pas de Maistresses
           si spirituelles.</p>
       </div>
-      <div xml:id="MG-1672-01_271">
+      <div type="article" xml:id="MG-1672-01_271" resp="mercure">
         <head>[La Mort de Monsieur de Morangis]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 271-272.</bibl>
@@ -1322,7 +1322,7 @@
           d’esprit et de bien ; &amp; la Gazette en dit tant, que je ne pourois rien dire qui en
           apporchast.</p>
       </div>
-      <div xml:id="MG-1672-01_273">
+      <div type="article" xml:id="MG-1672-01_273" resp="mercure">
         <head>[L’Entrée &amp; l’Audience de Monsieur le Comte de Molina Ambassadeur Extraordinaire
           d’Espagne. Remarques curieuses sur ce sujet]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -1336,7 +1336,7 @@
           conduit jamais au Louvre.</p>
         <p rend="right i">À Paris, le 16. Avril. </p>
       </div>
-      <div xml:id="MG-1672-01_287">
+      <div type="article" xml:id="MG-1672-01_287" resp="mercure">
         <head>[Discours sur le Journal des Sçavans]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 287.</bibl>
@@ -1346,7 +1346,7 @@
           grand Ministre.</p>
         <p rend="right i">À Paris, le 23. Avril. </p>
       </div>
-      <div xml:id="MG-1672-01_306">
+      <div type="article" xml:id="MG-1672-01_306" resp="mercure">
         <head>[Discours sur les Livres nouveaux de Galanterie]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 306-310.</bibl>
@@ -1376,7 +1376,7 @@
           d’obligation à Monsieur Ménage de la peine qu’il s’est bien voulu donner de leur apprendre
           à parler.</p>
       </div>
-      <div xml:id="MG-1672-01_310">
+      <div type="article" xml:id="MG-1672-01_310" resp="mercure">
         <head>[Noms de tous les Autheurs citez par Monsieur Ménage dans son Livre intitulé, <hi
             rend="i">Observations sur la Langue Françoise</hi>]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
@@ -1394,7 +1394,7 @@
           Il a encore parlé d’une douzaine d’autres ; mais leur mérite estant trop vieux, je ne
           crois pas devoir grossir cette Lettre de leurs noms.</p>
       </div>
-      <div xml:id="MG-1672-01_323">
+      <div type="article" xml:id="MG-1672-01_323" resp="mercure">
         <head>[Quelques mots presentement à la mode]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 323-326.</bibl>
@@ -1417,7 +1417,7 @@
           l’on applique enfin ce mot à toutes les choses qu’on veut marquer qui font de la
           peine.</p>
       </div>
-      <div xml:id="MG-1672-01_327">
+      <div type="article" xml:id="MG-1672-01_327" resp="mercure">
         <head>Lettre de Gas, Epagneul de Madame Des-houlières</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 327-329.</bibl>
@@ -1465,7 +1465,7 @@
           </lg>
         </quote>
       </div>
-      <div xml:id="MG-1672-01_329">
+      <div type="article" xml:id="MG-1672-01_329" resp="mercure">
         <head>[Histoire de Megius &amp; de son Compagnon, ou la Pierre Philosophale]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 329-340.</bibl>

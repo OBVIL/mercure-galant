@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-03_035">
+      <div type="article" xml:id="MG-1683-03_035" resp="mercure">
         <head>MG-1683-03_035</head>
         <bibl>Mercure Galant, mars 1683, p. 35-40, 49-53</bibl>
         <p>Entrées de Leurs Altesses de Zell dans la Cour de Hanover, &amp; leur reception dans cette mesme cour</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>La nuit commençoit lors qu'on entra dans la Ville. On fut reçeu au bruit du Canon de ses Ramparts, qui ne cessa point, jusqu'à ce que Leurs Altesses passant au travers des Ruës bordées de Cavalerie, mirent pied à terre dans la seconde Court du Chasteau, salüées de la Mousqueterie, qui se tenoit distribuée en divers Corps autour du Palais. On se rendit d'abord aux Apartemens des Mariez, qui Brilloient de toutes parts, enrichis de Lustres &amp; de Dorures. [...] Le temps de souper estant arrivé, on monta dans la grande Salle des Festins, extrémement éclatante par ses beaux Meubles, &amp; par la richesse du Bufet ; la quantité des Vases &amp; de la Vaisselle de vermeil doré &amp; d'argent, répondant parfaitement bien aux riches Tapisseries &amp; aux Tapis de pied dont le pavé estoit couvert, jusqu'au bout où l'on trouva la Table dressée sous le grand Daiz de parade. [...] Le Festin fut suivy d'un Bal, qui termina la journée. Le lendemain, on prit le divertissement de la Comédie, qui fut représentée avec grand succés, meslée de Machines, d'Entrées de Ballet, &amp; de Choeurs d'Instrumens &amp; de musique. Les jours suivans il y eut d'autres Bals, d'autres Concerts d'Instrumens &amp; de Voix, d'autres Comédies, &amp; divers Feux d'artifice d'une invention admirable. Apres toutes ces réjoüissances, dans lesquelles la magnificence éclata toûjours, cette illustre Compagnie se sépara, mais ce ne fut qu'apres avoir rendu des graces publiques &amp; solemnelles dans la grande Chapelle de la Court, pour l'heureux succés du Mariage de Mr le Prince de Hanover, &amp; de Madame la Princesse de Zell.</p>
       </div>
-
-<div xml:id="MG-1683-03_094">
+      <div type="article" xml:id="MG-1683-03_094" resp="mercure">
         <head>MG-1683-03_094</head>
         <bibl>Mercure Galant, mars 1683, p. 94-98</bibl>
         <p>« Les Vers que j'ajoûte à ceux de cette Chanson, doivent estre d'un grand poids pour ceux qui voudront faire une sérieuse refléxion sur le peu de certitude des choses du monde. Ils ont esté envoyez par une Dame, qui avoit fait une perte tres-considérable.</p>
@@ -131,8 +130,7 @@
         <p>Qu'un si dangereux avantage</p>
         <p>Ne doit estre jamais l'objet de leurs desirs. »</p>
       </div>
-
-<div xml:id="MG-1683-03_228">
+      <div type="article" xml:id="MG-1683-03_228" resp="mercure">
         <head>MG-1683-03_228</head>
         <bibl>Mercure Galant, mars 1683, p. 228-232</bibl>
         <p>Lettre de Venise</p>
@@ -143,8 +141,7 @@
         <p/>
         <p>Je vous promis en partant de vous écrire avec grande exactitude les particularitez des Opéra que l'on représente icy. Je vous tiens parole, &amp; vay vous faire un abregé des Sujets, parce que cet abregé peut servir beaucoup à l'intelligence des Machines. Vous remarquerez dans toutes ces Pieces beaucoup de fautes contre l'Histoire, &amp; vous aurez peine à concevoir comment Anne de Bretagne, que vous ne connoissez que comme Femme de Charles VIII. &amp; ensuite Louis XII. peut épouser Flavine Roy d'Italie. C'est l'usage des Poëtes Italiens. Ils peuvent falsifier ce qui est le plus connu, pour imaginer des évenements selon leur génie. Si dans l'Opéra, intitulé, Il Ré Infante, je traduis Le Roy Infant, &amp; non pas, Le Jeune Roy, c'est parce que tous les François qui sont icy en usent de mesme. Ainsi, nous disons le Théatre de S. Salvator, &amp; non pas de S. Sauveur ; celuy de S. Angelo, &amp; non pas de S. Ange. Ce sont des manieres de parler introduites dans l'usage, &amp; qui les voudroit changer ne se feroit pas entendre. Vous vous souviendrez, s'il vous plaist, que quand je me sers du nom de Noble, j'entends toûjours un Noble Venitien.</p>
       </div>
-
-<div xml:id="MG-1683-03_232">
+      <div type="article" xml:id="MG-1683-03_232" resp="mercure">
         <head>MG-1683-03_232</head>
         <bibl>Mercure Galant, mars 1683, p. 232-250</bibl>
         <p>Relation des Opéra, représentez à Venise pendant le Carnaval de l'année 1683 envoyée à Madame Chassebras du Breau, par M. de Chassebras de Cramailles</p>
@@ -164,8 +161,7 @@
         <p>Ces Théatres sont tous peints, &amp; les Comédiens qui les occupent, changent tous les jours de Comédies. Les jeunes Comédiennes y font des contes assez gaillards, &amp; les Arlequins &amp; Pantalons, ne s'épargent point en tours de souplesses.</p>
         <p>Des six autres Théatres qui ont servy aux Opéras, je commenceray par celuy de S. Jean Chrisostome. C'est celuy dont on parle le plus, &amp; que l'on peut dire un Théatre Royal pour la magnificence. Il appartient aux deux mesmes Freres, Messieurs Grimani, qui le firent faire en 1677. avec une promptitude merveilleuse, trois ou quatre mois ayant esté seulement employez à le bastir. [...]</p>
       </div>
-
-<div xml:id="MG-1683-03_251">
+      <div type="article" xml:id="MG-1683-03_251" resp="mercure">
         <head>MG-1683-03_251</head>
         <bibl>Mercure Galant, mars 1683, p. 251-256</bibl>
         <p>Description du Théatre de S. Jean Chrisostome</p>
@@ -175,8 +171,7 @@
         <p>Le Théatre des Acteurs a treize toises &amp; trois pieds de longueur ; sur dix toises &amp; deux pieds de largeur, estant élevé à proportion. Il est ouvert par un grand Portique de la hauteur de la Salle, dans l'épaisseur du quel encor quatre autre Pales de chaque coste de la mesme simétrie que les autres, mais beaucoup plus ornez &amp; enrichis ; &amp; dans la Voûte ou Arcade, deux Renommées avec les Trompetes paroissent suspenduës en l'air, &amp; d'une Vénus au milieu, qu'un petit amour caresse.</p>
         <p>Une heure avant l'ouverture du Théatre, le Tableau de cette Vénus se retire, &amp; donne jour à une grande ouverture, d'où descend une maniere de Lustre à quatre branches d'étofe d'or &amp; d'argent, de douze à quatorze pieds de hauteur, dont le corps est un grand Cartouche des Armes de Messieurs Grimani, avec une Couronne de Fleur-de-Lys, &amp; de rayons surmontez de Perles au dessus. Ce Chandelier porte quatre grands Flambeaux de poing de Cire blanche, qui éclairent la Salle, &amp; demeurent allumez jusqu'à ce qu'on leve la Toile, &amp; alors le tout s'évanouit &amp; revient à son premier état. Dés que la Piece est finie, cette Machine paroist de nouveau pour éclairer les Spectateurs, &amp; leur donner lieu de sortir à leur aise, sans confusion.</p>
       </div>
-
-<div xml:id="MG-1683-03_256">
+      <div type="article" xml:id="MG-1683-03_256" resp="mercure">
         <head>MG-1683-03_256</head>
         <bibl>Mercure Galant, mars 1683, p. 256-272</bibl>
         <p>[Opéra du Roy Infant]</p>
@@ -202,8 +197,7 @@
         <p>Il y a encor la Florentine, qui est une des bonnes Chanteuses. On la connoist sous ce nom, à cause qu'elle est de Florence. Celuy qui a composé a Musique, se nomme Carlo Palavicino, Maistre de Musique de Communauté des Filles des Incurables de Venise, &amp; Matteo Nocis, qui demeure en cette Ville en a fait les Vers.</p>
         <p>L'Opéra qui a fait le plus de bruit apres le Roy Infant, s'est joüé au Théatre de S. Luc, autrement de S. Salvator. C'est encor un Théatre fort grand, fort beau, tout peint &amp; doré de neuf, &amp; des plus considérables de Venise. Il contient cinq rangs de Pales, trente-trois à chaque rang, &amp; il appartient à un Seigneur de la Maison de Vendramin, établie depuis fort longtemps à Venise, &amp; qui a donné un Doge en 1476. Andre Vendramin. Ses Armes sont au dessus du Théatre des Acteurs en cette sorte, face de trois pieces d'azur, d'or &amp; de gueules.</p>
       </div>
-
-<div xml:id="MG-1683-03_272">
+      <div type="article" xml:id="MG-1683-03_272" resp="mercure">
         <head>MG-1683-03_272</head>
         <bibl>Mercure Galant, mars 1683, p. 272-280</bibl>
         <p>[Opéra des deux Césars]</p>
@@ -218,24 +212,21 @@
         <p>Ferdinand Chiaravelle, Musicien de Mr le Duc de Montouë.</p>
         <p>Pour les Femmes, Anne Marie Manarini représente Honoria. Elle demeure ordinairement à Mantouë, est tres belle, de grande taille, la gorge fort blanche &amp; encor une des plus belles Voix d'Italie.</p>
       </div>
-
-<div xml:id="MG-1683-03_280">
+      <div type="article" xml:id="MG-1683-03_280" resp="mercure">
         <head>MG-1683-03_280</head>
         <bibl>Mercure Galant, mars 1683, p. 280-281</bibl>
         <p>[Opéra du Grand Othon]</p>
         <p/>
         <p>Le Théatre de S. Jean &amp; Paul est encore un des plus beaux de cette Ville. Il est extémement profond, &amp; contient cinq rangs de Pales, trente &amp; un chaque rang. Il est peint &amp; doré comme les autres, &amp; appartient encor à Messieurs Grimani Freres. On y a joüé deux Opéra. Il y a dix changemens de Théatre dans le premier, qui est intitulé le Grand Othon, &amp; dont je vous vay expliquer le sujet en peu de mots. Bérengarius Roy d'Italie, pour s'afermir plus fortement dans le Royaume, veut marier Adalbert son fils à Adélaïde, Veuve du défunt Roy. L'Empereur Othon aimant cette belle Veuve, se rend dans la Cour de ce Roy, &amp; s'y tient longtemps cache sous le nom d'Alceste, jusqu'à ce qu'ayant trouvé le temps de se faire connoistre, il vain Berebgarius &amp; épouse Adélaïde.</p>
       </div>
-
-<div xml:id="MG-1683-03_281">
+      <div type="article" xml:id="MG-1683-03_281" resp="mercure">
         <head>MG-1683-03_281</head>
         <bibl>Mercure Galant, mars 1683, p. 281-282</bibl>
         <p>[Opéra de Coriolan]</p>
         <p/>
         <p>Coriolan, est le titre du second Opéra que l'on a représenté sur ce théatre. Ce jeune Romain estant exilé de sa Patrie, pour avoir offencé les Tribuns du Peuple, se retira vers les Vosques, Ennemis de Rome, où Tullus qui en estoit le Souverain, luy donna le Commandement de son Armée. Il remporta la victoire sur les Romains, aidé de l'adresse de Volumia la Femme, &amp; du courage de Flavia qui l'avoit suivy dans toutes ses conquestes, &amp; qui comme une Amazone avoit combatu genéralement pour luy, &amp; apres s'estre rendu maistre de Sestus-Furius, &amp; de Spurius, les deux Consuls, il leur donna la liberté, voulut qu'ils commandassent comme auparavant, &amp; obligea Tulus à se contenter de son Royaume, &amp; à vivre en paix avec Rome. Il fit encor epouser Flavia au Consul Sestus, à cause de l'amitié qu'il avoit remarquée entr'eux, cette Héroïne s'estant détachée de l'amour qu'elle avoit pour Coriolan, &amp; ne l'ayant suivy que parce qu'elle le croyoit Veuf. Il y a onze Décorations dans cet Opera. Celuy qui en a fait la musique, se nomme Jacques-Antoine Petri, de Bologne.</p>
       </div>
-
-<div xml:id="MG-1683-03_282">
+      <div type="article" xml:id="MG-1683-03_282" resp="mercure">
         <head>MG-1683-03_282</head>
         <bibl>Mercure Galant, mars 1683, p. 282-285</bibl>
         <p>[Opéra de Virgilia]</p>
@@ -243,8 +234,7 @@
         <p>La premiere est dédiée à Mr Amelot, Marquis de Gournay, Ambassadeur de France dans cette fameuse République. Il faut vous en dire le Sujet.</p>
         <p>Virginius n'ayant que deux Filles, accorda Virgilia son aînée à Icilius, &amp; destina Cella la Cadete, à servir la Déesse Vesta. Cette Cadete avoit deux Amans, Licinius &amp; Sestus, Nobles de Race, Personnes de crédit, &amp; d'égal mérite. Dans l'envie qu'elle avoit d'estre mariée, ne pouvant fléchir la dureté de son Pere qui ne vouloit point estre contredit, elle les recevoit tous deux à la fois, leur donnoit des rendez-vous en mesme temps, &amp; souffroit qu'ils se trouvassent chez elle ensemble deguisez en Femmes, afin qu'ils ne se connussent point l'un de l'autre, &amp; que son Pere les prist pour deux Filles qu'elle ménageoit pour leur faire prendre le Voile avec elle. Ces deux Rivaux s'estant decouverts par la suite, Sestus l'abandonna comme une Inconstante ; &amp; Licinius attribuant la legereté à la contrainte où son Pere l'avoit réduite, ne pût s'empescher de l'épouser. Dans ce temps les Décemvirs triomphoient à Rome, &amp; Appius Claudius, un des principaux estant passionné par Virgilia, gagna le coeur de cette Belle, en se faisant passer pour Icilius qu'elle ne connoissoit point, &amp; que son Pere luy avoit ordonné de recevoir comme son Mary. L'amitie s'estant rendue réciproque entre l'un &amp; l'autre, Virginius fut obligé d'y apporter aussi son consentement. Il y a huit changemens de Scenes dans cet Opéra, qui est fort galant &amp; fort plaisant.</p>
       </div>
-
-<div xml:id="MG-1683-03_285">
+      <div type="article" xml:id="MG-1683-03_285" resp="mercure">
         <head>MG-1683-03_285</head>
         <bibl>Mercure Galant, mars 1683, p. 285-288</bibl>
         <p>[Opéra de Silla]</p>
@@ -254,8 +244,7 @@
         <p>Le second est dans le temps que Silla veut faire ruiner les Tombeaux des Proscrits, afin que leur memoire reste dans un eternel oubli. L'ame de Sulpitius fort d'un de ces Sepulchres, &amp; se fait voir de la hauteur de tout le Théatre en la forme d'un Homme affreux &amp; épouvantable, ayant le manîment des bras &amp; des mains comme une Personne vivante. Ce Fantôme reproche à l'Empereur sa cruauté &amp; sa tirannie, &amp; en suite se racourcit, se replie, se rétressit en l'air, &amp; se met en un petit peloton de quatre à cinq pieds, qui se va perdre dans les nuës, &amp; le tout se fait avec un mouvement si subit &amp; si précipité, qu'il paroist s'aneantir entierement.</p>
         <p>Dans ces deux Pieces, Filantin, un des principaux Chanteurs, se fait distinguer, accordant &amp; mariant admirablement bien sa voix avec les fanfares des Trompetes.</p>
       </div>
-
-<div xml:id="MG-1683-03_288">
+      <div type="article" xml:id="MG-1683-03_288" resp="mercure">
         <head>MG-1683-03_288</head>
         <bibl>Mercure Galant, mars 1683, p. 288-291</bibl>
         <p>[Opéra de Thémistocle]</p>
@@ -263,16 +252,14 @@
         <p>Le Théatre de S. Cassian est aussi peint &amp; doré comme les autres, à cinq rangs de Pales, &amp; 31. à chaque rang. Il appartient à un Noble de la Famille de Tron, fort ancienne en cette Ville, originaire de Mantouë, &amp; qui a donné un Doge en 1471. Nicolas Tron. Il porte pour Armes, bandes de gueules &amp; d'or de six pieces, au chef d'or, chargé de trois Fleurs de Lys de gueules, montée chacune sur un Gradin de deux degrez en forme de base, pareillement de gueules.</p>
         <p>On y a joüé deux Pieces. Thémistocle est le titre de la premiere. Ce grand Homme ayant esté exilé d'Athenes, se sauve dans Abidos avec Sibaris sa Fille, feignant de venir d'Egypte. Xerxés Roy de Perse, &amp; ennemy des Grecs, y demeuroit. Il gouste tellement l'esprit de ce Capitaine, qu'il luy donne le souverain commandement de ses Armées, qu'il oste à Artaban, &amp; veut épouser sa Fille Sibaris, au préjudice de l'amitié qu'il avoit toûjours fait paroistre pour Ersilla. Thémistocle ne pouvant se résoudre à porter les armes contre sa Patrie, veut se faire mourir par le poison ; &amp; Sibaris, quoy que touchée de l'amour de Nicomede, ne laisse pas de regarder avec envie le Poste avantageux où Xerxés veut l'élever. Cependant Arataban &amp; Ersillane songeant qu'à la vangeance, veulent obliger Cléophant à faire mourir ces Etrangers. Cléophant n'osoit rien refuser à Ersilla qu'il aimoit. Il ne pouvoit contredire à Artaban, à qui il estoit redevable de la vie, &amp; il estoit sur le point d'éxécuter ce cruel dessein, lors qu'ayant reconnu que Themistocle est son Pere, &amp; Sibaris sa Soeur, son entreprise ne sert qu'à leur sauver à tous deux la vie, en sorte que Xerxés éclaircy de la verité, oste à Thémistocle ce commandement pour lequel il avoit tant de répugnance, luy donne sa protection, &amp; rend Sibaris à Nicomede. Il y a neuf Décorations diférentes dans cet Opéra.</p>
       </div>
-
-<div xml:id="MG-1683-03_291">
+      <div type="article" xml:id="MG-1683-03_291" resp="mercure">
         <head>MG-1683-03_291</head>
         <bibl>Mercure Galant, mars 1683, p. 291-295</bibl>
         <p>[Opéra de l'Innocence justifiée]</p>
         <p/>
         <p>Le second que l'on a représenté sur le mesme Théatre de S. Cassian, est intitulé l'Innocence justifiée. Maxime, Favory de Valentinian III. ne pût voir sans jalousie les marques d'honneur dont cet Empereur combla Ætius Capitaine Romain, qui venoit de remporter dans la France la fameuse Victoire contre Attila Roy des Huns. Il luy dressa plusieurs embuches pour le perdre, fit croire qu'il machinoit secrement contre l'Empire ; &amp; le Conquérant eut le malheur de voir encor Sabina déchaînée contre luy, quoy qu'elle luy eust témoigné de l'amitié jusqu'alors, &amp; qu'il eust obtenu la grace pour son Pere qui estoit resseré dans les Cachots. Mais toutes ces fourberies estant découvertes, l'Empereur en redoubla l'estime qu'il avoit pour Ætius, pardonna à Sabina pour l'amour de luy, &amp; quoy qu'il sçeust que maxime avoit voulu violer l'Impératrice, il se contenta de l'éxiler, à la priere de Flavia sa Femme, que cet Empereur avoit aussi beaucoup aimée. Voilà le Sujet de cette Piece, dont l'Abbé Ziani a fait la musique, &amp; dans laquelle il y a onze changemens de Scene.</p>
       </div>
-
-<div xml:id="MG-1683-03_293">
+      <div type="article" xml:id="MG-1683-03_293" resp="mercure">
         <head>MG-1683-03_293</head>
         <bibl>Mercure Galant, mars 1683, p. 293-297</bibl>
         <p>[Opéra de Cidippe]</p>
@@ -280,8 +267,7 @@
         <p>Le Théatre du Canareggio, ou du Canal Royal, est fort petit mais bien peint. Il est ainsi nommé (contre la regle des autres qui tirent leur nom de l'Eglise la plus proche) à cause qu'il est situé sur un Canal de ce nom, qui est le plus large apres le grand Canal. Il contient trois rangs de Pales, avec 23. à chaque rang, &amp; appartient à un Noble de la Famille de Michiele, l'une des plus anciennes de Venise, dont il y a eu trois Doges, Vital en 1106. Dominique en 1120. &amp; encor un autre Vital en 1173. un Cardinal sous Paul IV. Jean Michiele, qui fut aussi Patriarche de Constantinople, neuf Capitaines genéraux de Mer, onze Procuratuers de S. Marc, &amp; autres Officiers. Leurs Armes sont, facé d'argent &amp; d'azur de six pieces [...].</p>
         <p>Ce Théatre du Canareggio n'a esté basty que pour des Comédies. On y a joüé neantmoins cette année deux Opéra, Cidippe est le titre du premier. Voicy de quelle maniere on a traité ce Sujet. Les Perses estant prests de ravager le Païs des Cyclades, Acontius commandant pour les Grecs, enferma la Princesses Cidippe dans le Temple de Diane qui estoit à Délos, la principale de ces Isles. L'Armée des Grecs ayant esté mise en déroute, les Vainqueurs obligerent Acontius de se retirer, se rendirent maîtres de ces Isles, &amp; toutefois n'oserent entrer dans celle de Délos, pour le respect qu'ils portoient à Diane, Soeur du Soleil, qu'ils adoroient. Acontius, &amp; Cidippe qui avoit esté sauvée par son moyen, prirent dés ce temps une forte passion l'un pour l'autre, quoy qu'ils ne se fussent veus qu'une fois. Ils désespéroient de se pouvoir jamais rencontrer, apres qu'ils se croyoient tous deux péris. Cidippe refusoit tous les partis que son Tuteur luy vouloit donner. Acontius se voyant sans biens, &amp; fugitif, n'osoit retourner en son Païs ; neantmoins Diane le regarda d'un oeil favorable. Il se hazarda un jour d'entrer dans son Temple. Il y fit un serment par un Ecrit signé de sa main, qu'il aimeroit Cidippe toute sa vie ; &amp; la Déesse permit qu'ils se rencontrassent, &amp; couronnassent leur amour par un heureux mariage. Cet Opéra a huit changemens de Théatre. Je vous parleray au premier jour du second, qui ne se jouë que depuis peu.</p>
       </div>
-
-<div xml:id="MG-1683-03_297">
+      <div type="article" xml:id="MG-1683-03_297" resp="mercure">
         <head>MG-1683-03_297</head>
         <bibl>Mercure Galant, mars 1683, p. 297-300</bibl>
         <p>[Machines ajoûtées à l'Opéra du Roy Infant]</p>
@@ -291,16 +277,14 @@
         <p>Dans la huitiéme Scene, où Ergiste arrive à Rome dans un Bucentaure, en réjoüissance de sa venuë, 80. ou 90. Personnes en Camisolle &amp; Bonnet, forment un combat de coups de poings sur un grand Pont sans parapets, qui traverse la largeur du Tibre, où dans l'animosité &amp; la chaleur du combat, ils se renversent les uns les autres dans ce Fleuve, la teste en bas, sur le costé, &amp; de toutes sortes de manieres. Il y a bien 40. Personnes sur la rive à les regarder, &amp; Rodoalde est encor au devant avec toute sa Suite ; ce qui fait plus de 140. Personnes tout à la fois.</p>
         <p>Sur la fin de la Piece, apres la conclusion du Mariage de Falvius, une grande Tortüe marche sur le Théatre, &amp; le Génie militaire de Rome est au dessus, qui commande à plusieurs Guerriers de paroître pour formé l'ame du jeune Roy dans la Prosession de Mars. Cet Animal se brise aussitost en 60. ou 70. pieces, qui sont autant de Soldats armez, à qui chaque écaille de la Tortüe sert de Bouclier. Incontinent Vénus paroist dans le Ciel, qui les empesche de se chamailler, &amp; remontre au Génie qu'il n'est pas encor temps, &amp; que dans un jour de Nôces il ne faut songer qu'à la joye. C'est ce qui donne occasion aux petits Garçons &amp; aux petites Filles de former le Bal dont j'ay parlé.</p>
       </div>
-
-<div xml:id="MG-1683-03_300">
+      <div type="article" xml:id="MG-1683-03_300" resp="mercure">
         <head>MG-1683-03_300</head>
         <bibl>Mercure Galant, mars 1683, p. 300-302</bibl>
         <p>[Opéra intitulé Orontea]</p>
         <p/>
         <p>On a jouë un troisiéme Opéra au Théatre de S. Jean &amp; Paul, intitulé Orontea. Voicy ce que c'est. Floridanus, Fils de Sidonius, Roy des Phéniciens, fut pris fort jeune par un Corsaire, &amp; élevé comme son Fils. Orontea, Reyne d'Egypte, qui avoit toûjours conservé son coeur dans une entiere liberté, luy trouva tant de mérite, qu'elle ne pût s'empescher de l'aimer. Neantmoins elle commençoit à se détacher de l'amour qu'elle avoit pour luy, considerant le tort qu'elle faisoit à ses Parens &amp; à son Royaume, en mettant sur le Trône une Personne de si basse naissance, lors qu'il fut reconnu pour ce qu'il estoit ; ce qui engagea cette Reyne à l'épouser. On voit dans cet Opéra huit Décorations diférentes.</p>
       </div>
-
-<div xml:id="MG-1683-03_302">
+      <div type="article" xml:id="MG-1683-03_302" resp="mercure">
         <head>MG-1683-03_302</head>
         <bibl>Mercure Galant, mars 1683, p. 302-309</bibl>
         <p>[Opéra de Justin]</p>
@@ -319,8 +303,7 @@
         <p>Je suis vostre &amp;c.</p>
         <p>DE CHASSEBRAS DE CRAMAILLES.</p>
       </div>
-
-<div xml:id="MG-1683-03_309">
+      <div type="article" xml:id="MG-1683-03_309" resp="mercure">
         <head>MG-1683-03_309</head>
         <bibl>Mercure Galant, mars 1683, p. 309-342</bibl>
         <p>Description de tous les Divertissemens de la Cour pendant le Carnaval</p>
@@ -350,8 +333,7 @@
         <p>Cette Mascarade fut exécutée avec toute la justesse &amp; tout l'agrément possible. Chacun s'abilla selon le caractere du Personnage qu'il representoit. Madame la Dauphine avoit un Corset de Païsanne à petites Basques. Il estoit de Brocard couleur de feu, or &amp; argent, avec toutes les Tailles marquées d'un velouté noir, sur lequel on avoit posé des Diamans. Le lacet du Corps estoit de Diamans, &amp; le reste de l'Habit estoit de Satin &amp; de Velours, avec des agrémens or &amp; argent. Madame la Princesse de Conty avoit un Habit d'une Toille à fonds de Lame d'argent, avec des Fleurs incarnates ; &amp; son Corset, tout licé de Diamans. L'Habit de Madame convenoit à l'âge de la Personne qu'elle représentoit. Il paroissoit magnifigue, sans or ny argent, &amp; n'estoit que de Velours &amp; de Satin, avec des agrémens veloutez. Elle avoit une maniere de Chaperon de Velours, un Colet monté ; &amp; un Demy ceint. Mr Berrin avoit inventé &amp; fait faire ces Habits. Je les ay donnez à graver pour le mois prochain. Monsieur le Duc qui s'est toûjours distingué par la maniere dont il se déguise, vint à ce Bal, vestu en Dame Hollandoise.</p>
         <p>Ce ne fut pas le seul divertissement qu'eut l'Assemblée. Il fut suivy de quelques Scenes de Comédie qu'on représenta dans l'une des Salles du Bal. Le Théatre estoit une Estrade élevée de deux pieds, ayant pour Décoration deux Amphithéatres des deux costez. Ces Amphithéatres estoient remplis de Musiciens, &amp; Joüeurs d'Instrumens déguisez. Les Acteurs sortoient par deux Portes qu'on voyoit au fonds de ce Théatre. Des Festons, &amp; de riches Tapisseries, leur servoient d'ornement. Au dessus de ces Portes avançoient deux manieres de Balcons, dans lesquels estoient plusieurs Personnes magnifiquement déguisées. Le tout formoit un Théatre d'une maniere aussi galante qu'extraordinaire. Sur les deux heures apres minuit, on vit entrer une seconde Mascarade qui donna beaucoup de plaisir. Elle représentoit une Garniture de Cheminée, de 7 Pieces de Porcelaines. Il y avoit une Urne, des Rouleaux, &amp; des Pagots ou Figures de la Chine. Ces porcelaines estoient remplies par des Personnes de la premiere qualité, qui les representoient. Il y avoit aussi deux Musiciens. Mr le Duc de S. Aignan parut aux deux derniers Bals, vestu en Roy &amp; en Courrier. Il mit comme Roy, son sceptre aux pieds de Sa Majesté, &amp; luy presenta quelques Vers. Il luy en donna aussi comme Courrier, &amp; cette galanterie reçeut de grands applaudissemens. Il faut estre Mr le Duc de S. Aignan, pour marquer son zele au Roy avec tant d'esprit, dans un divertissement qui semble n'en pas fournir l'occasion.</p>
       </div>
-
-<div xml:id="MG-1683-03_350">
+      <div type="article" xml:id="MG-1683-03_350" resp="mercure">
         <head>MG-1683-03_350</head>
         <bibl>Mercure Galant, mars 1683, p. 350-352</bibl>
         <p>Cerémonie faite aux Capucins de Vernon</p>
@@ -359,6 +341,6 @@
         <p>Les Capucins tenant un des premiers rangs parmy les ordres qu'on aime le plus, il ne faut pas s'étonner si l'affluence de monde est grande dans toutes les Cerémonies qui les regardent. C'est ce qui vient d'arriver à leur Couvent de Vernon, où tout le Clergé de la ville, toute la Noblesse des environs, &amp; presque tout le Peuple avec les Officiers, ont assisté à la Position de la premiere Pierre de leur Cloître, qui fut posée par Mr le Marquis de Blaru, Gouverneur de Vernon. [...]</p>
         <p>Un Te Deum solemnel termina la Cerémonie, qui avoit esté commencée par le Veni Creator, &amp; le tout fut suivy de deux Collations magnifiques, l'une pour les Hommes, &amp; l'autre pour les Dames. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

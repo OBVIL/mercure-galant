@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,15 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-01_077">
+      <div xml:id="MG-1682-01_077" type="migration">
         <head>MG-1682-01_077</head>
         <bibl>Mercure Galant, janvier 1682, p. 77-81</bibl>
         <p>Sacre de M. l'Evesque de Carcassonne.</p>
         <p/>
         <p>On a eu nouvelles que Mr l'Abbé de Grignan, nommé d'abord par le Roy à l'Evesché d'Evreux, &amp; depuis à celuy de Carcassonne, a esté sacré le 21. de l'autre mois, en présence d'un nombre infiny de Gens de marque qui s'estoit rendus de toutes parts au Lieu où se devoit faire la Cerémonie. Mr l'Archevesque d'Arles, Oncle de celuy dont je vous parle, [...], avoit souhaité qu'elle se fist dans sa Métropolitaine, comme dans le Poste le plus convenable &amp; le plus avantageux qu'on pust choisir pour luy donner de l'éclat ; mais par des raisons particulieres, elle fut faite à Grignan, &amp; ce fut pour luy une fort grande consolation, de voir consacrer Evesque Mr son Neveu dans le mesme endroit où il y a cinquante-deux ans qu'il reçeut luy-mesme l'honneur de ce Caractere. L'Eglise de Grignan qui est tres-belle &amp; tres-agreable, fut ornée d'un Triple rang de la plus riche Tapisserie que l'on puisse voir, &amp; ceux qui prirent soin de l'orner ainsy, n'oubliérent rien pour parer l'Autel, qu'on vit éclairé d'un nombre incroyable de lumieres. La Cerémonie du Sacre fut commencée à neuf heures du matin par Mrs les Evesques de Vayson, de S. Paul, &amp; d'Orange, en présence de Mr l'Archevesque d'Arles, &amp; de Mr l'Evesque de Viviers, tous deux les plus anciens Prélats du Clergé de France, &amp; elle dura jusques à deux heures apres midy. Il y eut une excellente Musique par les soins de Mr le Comte de Grignan, qui s'y connoissant parfaitement, fit ramasser les plus belles Voix des environs, &amp; les Instrumens qui la pouvoient le mieux assortir. Aussi l'assemblage s'en trouva-t-il si heureux, que tout le monde avoüa qu'on ne pouvoit rien entendre dont le concert eust plus de justesse. Tout ce grand monde qui estoit venu à cette Feste, fut traité chez luy au sortir de là avec une entiere magnificence. [...]</p>
       </div>
-
-<div xml:id="MG-1682-01_100">
+      
+      <div xml:id="MG-1682-01_100" type="migration">
         <head>MG-1682-01_100</head>
         <bibl>Mercure Galant, janvier 1682, p. 100-101, 114-115, 124-125, 128-131, 133-134</bibl>
         <p>Institution des Ordres de Chevalerie, &amp; de Saint-Michel &amp; du Saint-Esprit ; avec ce qui s'est passé à la Reception de Monseigneur le Dauphin dans ces deux Ordres.</p>
@@ -70,8 +70,8 @@
         <p>Les Gardes du Corps qui s'estoient mis sous les armes dans la Salle, formoient une double haye dans la Court &amp; sur l'Escalier, avec les Cent Suisses, dont les Tambours &amp; les Fifres se firent entendre à la teste de la Marche. Sa Majesté estant arrivé dans la Chapelle, se plaça sur un Fauteüil à son Prié-Dieu. Monseigneur le Dauphin, Monsieur, &amp; Monsieur le Duc, eurent des Pliants. [...] Les Chevaliers se placerent sur des Bancs que l'on avoit préparez à droit &amp; à gauche.</p>
         <p>[...] Mr l'Archevesque d'Auch, Commandateur, &amp; Prélat de l'Ordre, revestu de ses Habits Pontificaux, ayant entonné le Veni Creator, la Musique du Roy le continua. Cet Hymne estant achevé, ce Prélat salua l'Autel, donna l'Eau-Benite à Sa Majesté, &amp; commença la Messe. [...] Sa Majesté ayant fait de nouvelles revérences, fut reconduite à son Prié-Dieu, &amp; après l'Agnus Dei, Mr le Cardinal de Boüillon luy présenta la Paix à baiser. Il l'avoit prise des mains du Sous-Diacre. La Messe estant achevée, les Officiers recommencerent leurs revérences, [...].</p>
       </div>
-
-<div xml:id="MG-1682-01_164">
+      
+      <div xml:id="MG-1682-01_164" type="migration">
         <head>MG-1682-01_164</head>
         <bibl>Mercure Galant, Janvier 1682, p. 164-176</bibl>
         <p>Lettre écrite de Valenciennes.</p>
@@ -99,16 +99,16 @@
         <p/>
         <p>Je fus aussi mal-heureux que tous les autres ; &amp; quoy que j'aime beaucoup depuis qu'il a plû à Sa Majesté de m'attacher dans ce Païs, je ne pus gouster d'autre bien, que celuy de voir ce que j'aime sans pouvoir l'entretenir. Le Bal fut interrompu par six Officiers du Gouverneur qui entrerent, les uns chargez de fruits, &amp; les autres de liqueurs. Quelque temps apres, le Bal fut continué, &amp; dura jusques à cinq heures du matin, que toute la Compagnie se rendit à la Chapelle de Saint Pierre sur la Place, pour entendre la Messe, que Mr Magalotti fit dire par son Aumônier. [...]</p>
       </div>
-
-<div xml:id="MG-1682-01_210">
+      
+      <div xml:id="MG-1682-01_210" type="migration">
         <head>MG-1682-01_210</head>
         <bibl>Mercure Galant, janvier 1682, p. 210-212</bibl>
         <p>Conversion de M. et M. de Strada.</p>
         <p/>
         <p>Mr l'Evesque de Clermont a reçeu depuis dix ou douze jours l'Abjuration de Mr &amp; de Madame de Strada, à laquelle ce vigilant &amp; pieux Prélat travailloit depuis long temps. Ils estoient tous deux nez dans l'Héresie, Mr de Strada, Seigneur de Serlieve à une lieuë de Clermont, estant originaire de Flandre, &amp; Madame de Strada de la Famille des Fabrices. [...] La Cerémonie se fit dans l'Eglise Cathédrale de Clermont avec une affluence de monde incroyable. Mademoiselle de Strada leur Fille suivit leur exemple, ainsi qu'une Fille de leurs Domestiques. Mr l'Evesque leur fit un Discours qui attira les larmes de tous ceux qui l'entendirent. Le Te Deum fut chanté en suite solemnellement, &amp; tout le monde sortit avec une satisfaction extraordinaire.</p>
       </div>
-
-<div xml:id="MG-1682-01_278">
+      
+      <div xml:id="MG-1682-01_278" type="migration">
         <head>MG-1682-01_278</head>
         <bibl>Mercure Galant, janvier 1682, p. 278-287</bibl>
         <p>Divertissemens de la Cour &amp; de Paris.</p>
@@ -116,8 +116,8 @@
         <p>L'Opéra d'Atys a esté pendant ce mois un des principaux divertissemens de la Cour. Madame la Dauphine ne l'avoit point encor vû ; &amp; comme pour luy donner ce plaisir, on a refait la plûpart des choses necessaires à cette représentation, la dépense n'a guere esté moindre pour le rétablir, qu'elle eust pû l'estre pour un Opéra nouveau ; mais Sa Majesté n'y regarde pas. Quand on ne distribuë rien qu'avec prudence, on a des fonds suffisans pour tout. Atis a reçeu de grands embellissemens en Entrées. Mademoiselle de Nantes a dancé dans celle de la suite de Flore. Cette Princesse représentoit une petite Nymphe, &amp; estoit au milieu de deux autres de sa grandeur. Quatre petits Zéphirs augmentoient encor la beauté de cette Entrée. L'un estoit representé par Mr le Comte de Guiche. Six grands Danceurs de la mesme suite formoient des Arcades de differentes Figures, avec des Festons de Fleurs, sous lesquels les Nymphes &amp; les Zéphirs dançoient &amp; s'entrelassoient. Rien ne plaisoit tant que ce Spectacle. Dans le second Acte Monseigneur le Dauphin dançoit une Entrée d'Egyptiens. Il estoit accompagné de Monsieur le Prince de la Roche-sur-Yon, de Mr le Comte de Vermandois, de Mr le Comte de Brione, &amp; de Mr de Mimeurs. Dans la mesme Entrée estoient meslées cinq Egyptiennes, représentées par Mademoiselles de Lislebonne, de Tonnerre, de Commercy, de Loubes, &amp; de Laval. Cette derniere dançoit au milieu des quatre. Monseigneur le Dauphin représentoit un Dieu marin dans le quatriéme Acte, &amp; estoit suivy des mesmes Seigneurs que je viens de vous nommer. Mr le Comte de Guiche dançoit comme luy en Dieu marin dans la mesme Entrée, avec deux petits Ruisseaux &amp; deux petites Fontaines. Les Dames dont je vous ay dit les noms en estoient aussi, vestuës en Divinitez marines. Madame la Princesse de Conty devoit dançer avec elles dans les deux Entrées de Monseigneur le Dauphin, mais elle tomba malade, avant que l'on commençast les représentations d'Atys. Cette Princesse est présentement guerie de sa fiévre ; &amp; comme elle est generalement aimée, la joye qu'on a euë du retour de sa santé a esté generale. Outre le divertissement de l'Opéra, la Cour a pris celuy du Bal &amp; celuy de la Comédie Françoise &amp; Italienne, pendant trois ou quatre jours de chaque semaine ; &amp; le Roy, &amp; Monseigneur le Dauphin, ont souvent esté à la Chasse. [...]</p>
         <p>Quant aux divertissemens de Paris, l'Académie Royale de Musique a fait succeder le Triomphe de l'Amour à Proserpine. Le Tarquin, Piece nouvelle de Mr Pradon, a paru sur le Theatre François, &amp; le Baron d'Albykrac qu'on y a remis, sans qu'on l'eust joüé depuis douze ans, a fort diverty de nombreuses Assemblées. Il y a eu pendant tout ce mois quantité de Bals qui ont attiré beaucoup de Masques. On en a donné quelques-uns de jour, mais les plus considérables se sont faits de nuit, suivant l'usage ordinaire. Celuy de Mr de Mannevillete, Secretaire des Commandemens de Monsieur, a esté du nombre. Il en donne un tous les ans à Leurs Altesses Royales, avec autant de magnificence que de politesse. Elles prirent ce divertissement le vingt &amp; un de ce mois. Les Haut-bois y estoient meslez aux Violons. Messieurs les Princes de Conty &amp; de la Roche-sur-Yon, &amp; Mr le Comte de Vermandois, vinrent exprés de Saint Germain pour se trouver à cette Feste, où la plus grande partie des Princes &amp; Princesses, &amp; tout ce qu'il y a de Personnes de la plus haute qualité &amp; de Femmes bien faites à Paris, s'y rendirent aussi bien que plusieurs Ambassadeurs. La foule y estoit si grande, que quelque bon ordre que donnassent à la Porte les Suisses de Son Altesse Royale, &amp; les Gardes de ce Prince dans les autres lieux, les six Pieces de plein-pied, dont le principal Appartement est composé, furent remplies d'une infinité de Gens de marque, dont la pluspart demeurerent jusques à cinq heures du matin. [...]</p>
       </div>
-
-<div xml:id="MG-1682-01_319">
+      
+      <div xml:id="MG-1682-01_319" type="migration">
         <head>MG-1682-01_319</head>
         <bibl>Mercure Galant, janvier 1682, p. 319-322</bibl>
         <p>Tout ce qui s'est passé dans le Voyage de l'Ambassadeur de Maroc, depuis Brest jusques à Paris, &amp; depuis son arrivée ; avec ce qu'il a dit de plus remarquable touchant tout ce qu'il a vû en France.</p>
@@ -125,6 +125,6 @@
         <p>[...] Le Lundy cinquiéme du mois, l'Ambassadeur de Maroc vit à Saint Germain l'Opéra d'Atis. Il en marqua beaucoup de surprise, &amp; ayant passé ensuite sur le Théatre pour s'en retourner par un endroit où il y eust moins de foule, on luy montra Mrs Lully, Vigarany &amp; Berrin, qui estoient en semble. Apres qu'on luy eut appris que l'un avoit fait la Musique, l'autre les Machines, &amp; que le dernier avoit eu soin des habits qu'il avoit trouvez si beaux, il leur dit à tous, que sans les connoistre il leur avoit souhaité de longues années pour le service du Roy. Il a veu aussi le Triomphe de l'Amour, dans l'Académie Royale de Musique ; &amp; ce Spectacle étonna si fort tous ceux de sa suite, que l'un d'entr'eux ne vouloit point regarder ce qui se passoit sur le Theatre, disant qu'il y avoit de la Magie. Ils n'admirerent pas moins les Eaux de Saint Cloud, qui leur parurent un enchantement, en sorte que leur surprise eût peine à cesser.</p>
         <p>Le douziéme du mois cet Ambassadeur vint à Nostre-Dame, où il fut reçeu au son des Orgues. Il monta sur les Tours, d'où il admira Paris, &amp; dit qu'il y avoit trois Villes l'un sur l'autre, à cause de la hauteur des Maisons. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

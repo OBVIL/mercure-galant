@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1695-03_068">
+      <div type="article" xml:id="MG-1695-03_068" resp="mercure">
         <head>MG-1695-03_068</head>
         <bibl>Mercure galant, mars 1695, p. 68-90</bibl>
         <p>Le retour des Plaisirs, Ballet dansé à S. Malo.</p>
@@ -420,16 +420,14 @@
         <p>Que vous avez d'attraits !</p>
         <p>Non, vous ne finirez jamais.</p>
       </div>
-
-<div xml:id="MG-1695-03_288">
+      <div type="article" xml:id="MG-1695-03_288" resp="mercure">
         <head>MG-1695-03_288</head>
         <bibl>Mercure galant, mars 1695, p. 288-289</bibl>
         <p>Comedies nouvelles.</p>
         <p/>
         <p>Les deux Pieces nouvelles que les Comediens François ont jouées ce Caresme, ont fait tant de bruit, que je ne m'étonne point que vous en ayez entendu parler. Celle qui est intitulée, Les Dames vangées, ou La Dupe de soy-mesme, ayant esté representée cinq fois avant Judith, elles ont esté jouées alternativement jusqu'à ce qu'on ait quitté le Theatre. Le succés qu'elles ont eu à Paris a fait souhaiter de les voir à la Cour, où elle ont esté representées. On les verra paroistre encore sur la Scene aussi tost aprés la quinzaine de Pasques, &amp; elles seront ensuite debitées chez le sieur Brunet, dans la grande Salle du Palais, à l'Enseigne du Mercure Galant.</p>
       </div>
-
-<div xml:id="MG-1695-03_289">
+      <div type="article" xml:id="MG-1695-03_289" resp="mercure">
         <head>MG-1695-03_289</head>
         <bibl>Mercure galant, mars 1695, p. 289-296</bibl>
         <p>Baptême d'une Cloche tenuë à S. Paul, par Monsieur &amp; par Madame la Duchesse du Maine.</p>
@@ -437,6 +435,6 @@
         <p>Le 24 de ce mois, on fit en l'Eglise de Saint Paul, la ceremonie de la benediction d'une Cloche qui fut nommée Louise Benedicte par Monsieur le Duc du Maine &amp; Madame la Duchesse du Maine, qui sont à present les premiers Paroissiens de cette Eglise. (...)</p>
         <p>[L]'on entendit une Musique chantée par les plus habiles de Paris, pendant laquelle leurs Altesses Serenissimes donnerent des marques d'une pieté exemplaire, &amp; firent faire de grandes distributions d'aumônes que l'on appliqua aux prisonniers de S. Eloy, aux pauvres malades &amp; pauvres honteux de la Paroisse, &amp; à une grande multitude d'autres pauvres. On fit aussi par leur ordre de grandes liberalitez à ceux qui avoient contribué à toute cette ceremonie. Leurs Altesses Serenissimes sortirent au son des Orgues &amp; des Cloches, accompagnées de Mr le President le Bailleul, des Maguilliers, &amp; des principaux  Paroissiens de saint Paul, qui furent comblez des bontez  ce Prince &amp; de cette Princesse, qu'ils ne pouvoient se lasser d'admirer. Leur liberalité parut de nouveau lors qu'ils monterent en Carosse, &amp; ils firent encore de grandes largesses à tous ceux qui se presenterent pour les recevoir Quelques jours aprés Mr le President le Bailleul accompagné des Marguilliers, alla à Versailles remercier leurs Altesses Serenissimes.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

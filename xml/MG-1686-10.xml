@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-10_151">
+      <div type="article" xml:id="MG-1686-10_151" resp="mercure">
         <head>MG-1686-10_151</head>
         <bibl>Mercure Galant, octobre 1686, p. 151-152</bibl>
         <p>Prise de Napoli en Romanie</p>
         <p/>
         <p>On a fait de grandes réjoüissances à Venise pour la Prise de cette importante Place, &amp; le Doge accompagné de toute la Seigneurie a assisté au Te Deum qu'on y a chanté dans l'Eglise Ducale de Saint Marc, où pour marque d'une joye extraordinaire, on a exposé l'Etendart de la Morée qu'on avait point déployé depuis cent ans.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-09b_015">
+      <div xml:id="MG-1682-09b_015" type="migration">
         <head>MG-1682-09b_015</head>
         <bibl>Mercure Galant, Septembre 1682, Deuxième partie, p.15-25, 27,29-44, 47-51, 54-62</bibl>
         <p>Revenons, Madame, aux Réjoüissances. Celles de Bordeaux ont eu tant d'éclat, que l'on en a donné au Public une Relation particuliere. Cependant quelque étenduë qu'elle soit, on peut dire que ce n'est qu'un Abregé de ce que vous trouverez dans la Lettre dont je vous envoye une Copie. Cette Lettre m'est venuë d'une Dame de Xaintonge, qui l'avoit reçeuë d'un Cavalier, qui estant en ce temps-là à Bordeaux, a esté témoin des diverses Festes que l'on y a faites.</p>
@@ -71,16 +71,14 @@
         <p>Le Mardy 25. Feste de Saint Loüis, qui estoit le jour choisy pour la Réjoüissance du Corps de la Bourgoisie dans l'Hostel de la Bource, Mrs les Juge &amp; Consuls en charge, avec tous les anciens Juge &amp; Consuls, tous en Robe, &amp; les Conseillers en Manteau, se rendirent sur les neuf heures dans leur Chapelle, où la Messe fut celebrée par Mr le Curé de S. Pierre, pendant qu'une excellente Musique chanta diférens Motets. Apres la Messe, la mesme Musique chanta le Te Deum &amp; l'Exaudiat, &amp; en suite quarante Canons se firent entendre. [...] Afin qu'il n'y eust personne qui ne ressentist la joye publique, ces Messieurs firent régaler pendant tout ce jour, tous les Prisonniers qui se trouverent dans les Prisons du Palais. Vous avez veu la Bource, Madame, &amp; vous avez pû y remarquer une grande Place au bas, qu'on nomme effectivement la Place, à cause que c'est l'endroit où tous les Marchands s'assemblent. Je ne sçay si vous avez pris garde qu'il y a autour de cette Place quatre Allées bien voûtées, &amp; pavées de grands Carreaux de marbre. Ces Messieurs firent faire de ces Allées quatre Places, qui furent meublées de Tapisseries &amp; de Fauteüils. On y entroit par la Porte qui regarde la Place du Palais. Aux costez de cette Porte estoient deux Forests sombres, d'où deux Fontaines de Vin sortoient. Les Hautbois &amp; les Violons furent placez de telle maniere, qu'on pouvoit dancer tout-à la-fois en quatre lieux diférens. C'est ce qu'on fit pendant tout le jour ; mais le soir, Mrs de la Bource donnerent le Bal en forme aux Dames Bourgeoises. Plusieurs Personnes de qualité s'y trouverent, &amp; j'y vis Mr l'Intendant &amp; Me l'Intendante. [...] Apres que l'on eut dancé pendant quatre heures, on pria la Compagnie de vouloir monter en haut. Il y avoit deux Tables de quarante Couverts chacune, dressées dans la Salle de l'Audience, &amp; deux semblables dans la Salle des Parties. On servit sur toutes les quatre une magnifique Collation, mêlée de Viande, de Fruit, &amp; de Confitures. La Façade de la Bource qui regarde la Riviere, estoit remplie de Lumieres jusques sur le toit, &amp; l'on avoit ajoûté à la Galerie qui regne le long de cette Façade, une espece d'Amphitheatre, afin d'y pouvoir placer la Compagnie, pour voir le Feu d'artifice dressé sur le Quay Bourgeois, &amp; celuy qui estoit sur deux grands Bateaux au milieu de la Riviere. Mr &amp; Madame de Ris, Mrs les Jurats, &amp; toutes les Dames qui avoient esté priées à cette Feste, estant montez apres la Collation dans les Places qu'on leur avoit préparées, furent agreablement surpris de voir la Riviere toute couverte de Bateaux bordez de Lumieres, avec des Fares ou Fanaux de diférentes couleurs. Les Trompetes ayant donné le signal, on commença au bruit des Tambours &amp; des Fifres, la décharge de trente Boëtes, d'autant de Canons qui estoient sur le Port, de ceux des Vaisseaux, &amp; d'un tres-grand nombre de Petards, qui faisant l'effet de la Mousqueterie, formoient une Attaque réguliere d'un Fort, dressé sur le Quay avec son Donjon carré. [...] On fit trois Attaques. A la derniere, tout le Feu fut allumé, &amp; ce fut un éclat terrible, comme si le Canon de dehors eust donné dans le Magazin des Poudres du Fort. Alors les Tambours &amp; les Trompetes redoublerent leurs fanfares, &amp; en mesme temps on vit sortir du milieu de la Riviere quantité de Fusées volantes, pour servir de Prélude au feu qui fut mis par la derniere à celuy qui estoit dressé sur les deux Bateaux dont j'ay parlé. Il fut d'une beauté surprenante. L'invention en estoit deuë à Mr Sage. Cent petits Brigantins couverts de tous costez de Lumieres, vinrent faire autour de ce Feu plusieurs décharges de Canon &amp; de Mousqueterie, pendant que d'autres voguoient au bord de la Riviere pour faire entendre, les uns de doux Concerts de Musique, &amp; les autres des Trompetes, des Hautbois, des Violons, des Flûtes douces ; enfin, Madame, toute sorte d'Instrumens, qui faisoient une Simphonie toute charmante. [...]</p>
         <p>LE MEDECIN BLAYOIS B.D.</p>
       </div>
-
-<div xml:id="MG-1682-09b_064">
+      <div xml:id="MG-1682-09b_064" type="migration">
         <head>MG-1682-09b_064</head>
         <bibl>Mercure Galant, Septembre 1682, Deuxième partie, p. 64-65</bibl>
         <p>[Réjouissances à Rennes pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Je croy, Madame, que vous tomberez d'accord qu'il n'y a rien de plus singulier que cette Relation. Sa longueur est cause que je tâcheray de retrancher les circonstances qui n'auront rien de particulier dans les Festes des autres Villes. Celles de Rennes en Bretagne ont paru avec grand éclat par la présence de Mr le Duc de Chaunes, Gouverneur de la Province. Apres qu'on y eut chanté le Te Deum avec beaucoup de solemnité, il alluma un grand Feu qui avoit esté préparé dans la Place, &amp; le soir il en fit joüer un d'artifice qui attira l'admiration d'un nombre infiny de Spéctateurs. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_068">
+      <div xml:id="MG-1682-09b_068" type="migration">
         <head>MG-1682-09b_068</head>
         <bibl>Mercure Galant, septembre 1682 Deuxième partie, p. 68, 74-81</bibl>
         <p>[Réjouissances à Vannes pour la naissance du duc de Bourgogne]</p>
@@ -88,8 +86,7 @@
         <p>Mr l'Evesque de Vannes fit chanter le Te Deum dans sa Cathédrale le 13. de l'autre mois, en présence du Parlement de Bretagne, &amp; de tous les autres Corps de la Ville. On fit de grandes distributions de Pain &amp; de Vin, sur tout à la Porte de Mr le Premier Président, qui fit paroistre son zele avec tout l'éclat possible. [...]</p>
         <p>Je passe à la Cerémonie qui s'est faite en ce lieu là pour le Voyage de Madame la Dauphine. Mr l'Evesque de Vannes estant arrivé sur les dix heures au Convent des Carmes de Sainte Anne, la Procession commença une heure apres par la marche de quarante Religieux dans le Cloistre de ces Peres. Ils estoient suivis du Clergé des Paroisses convoquées, &amp; de quantité d'autres Ecclesiastiques. Ce Prélat fermoit la marche assisté des Chanoines &amp; des Dignitez de sa Cathédrale. Il s'arresta à la Porte de l'Eglise pendant que les Religieux s'avancerent jusqu'au grand Portail du Cloistre fait pour les Pelerins, [...]. A l'entrée de ce grand Portail, les Religieux rencontrerent la Bourgeoisie d'Avray sous les armes. Elle étoit divisée en quatre Compagnies par les ordres du Syndic &amp; des Echevins de la Ville, &amp; précedoit les Juges Magistrats de la Juridiction Royale en Robes de Cerémonie. Les Officiers qui conduisoient cette Milice l'ayant rangée en deux hayes, le Pere Prieur des Carmes de Sainte Anne, accompagné des Prieurs des Carmes de Ploermel, de Hennebone, &amp; du Bondon-lez-Vannes, vint complimenter Madame de la Bedoyere sur le Voeu qu'elle venoit rendre au nom de Madame la Dauphine, [...]. Apres cela les Religieux reprirent leur marche vers l'Eglise, dont le Frontispice estoit de deux grands Corps d'Architecture, qui tenoient toute la hauteur &amp; la largeur de la face de ce Temple. [...] Madame de la Bedoyere, précedée par plusieurs Concerts de Voix &amp; d'Instrumens, arriva à cette entrée, où s'estant mise à genoux sur un Carreau préparé, elle présenta la Lampe à Mr l'Evesque de Vannes. Si-tost que ce Prélat l'eut reçeuë, il commença le Te Deum, &amp; ensuite celebra la Messe avec ses Habits Pontificaux. Elle fut réponduë par la Symphonie, &amp; par le Clergé Séculier &amp; Régulier. La Messe estant achevée, Mr l'Evesque précedé du mesme Clergé, &amp; suivy des Juges &amp; Magistrats d'Avray, vint où l'on avoit dressé un grand Feu, &amp; il l'alluma au son des Cloches, des Timbales, des Trompettes &amp; des Tambours. Il se fit plusieurs décharges de Canons, de Boëtes, &amp; de la Mousqueterie de la Milice d'Avray, parmy les cris de Vive le Roy, qui retentissoient de tous costez par le concours de plus de vingt mille Personnes qui s'étoient renduës à cette cerémonie. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_125">
+      <div xml:id="MG-1682-09b_125" type="migration">
         <head>MG-1682-09b_125</head>
         <bibl>Mercure Galant, septembre 1682 Deuxième partie, p. 125-130, 134-137</bibl>
         <p>[Réjouissances à Montpellier pour la naissance du duc de Bourgogne]</p>
@@ -97,8 +94,7 @@
         <p>Je vous ay déjà parlé des Réjoüissances de beaucoup de Villes pour la Naissance de Monseigneur le Duc de Bourgogne. L'heureuse nouvelle, qui en peu de jours en fut par tout, n'eut pas esté plûtost apportée à Montpellier, que Mr de la Gresse Premier Consul de la Ville, donna tous ses soins, pour s'acquiter dignement de ce qui le regardoit. On la fit sçavoir au Peuple par un Cry public, &amp; ce fut par tout une joye inexprimable. On commença aussi-tost d'en donner des marques par un Te Deum, chanté solemnellement dans la Cathédrale. Mr Daguesseau, Intendant de la Province, y assista avec toutes les Compagnies de Justice, &amp; les Consuls de la Ville en Robes de cerémonies. Mr de la Baume, &amp; Mr de Trémoulet, Commandans dans la Ville &amp; Citadelle en l'absence de Mr le Marquis de Castres qui en est le Gouverneur, y assisterent aussi, accompagnez de Mr de Villars, Major de la Citadelle, &amp; de Mr Darnail, Major de la Ville. La Compagnie des Archers du Perroquet, qui est fort nombreuse, se promena avec l'Arc &amp; le Carquois. Ils avoient chacun une Echarpe bleuë, garnie de grandes Dentelles or &amp; argent &amp; ils marchoient précedez de Violons, de Hautbois, &amp; de Trompetes. On ne peut douter qu'une veritable joye ne les animast, puis qu'on vit dans cette Marche des Vieillards âgez de plus de 90. ans, faire avec l'Arc &amp; la Fleche les mesmes fonctions des plus jeunes, sans qu'aucun d'eux eust voulu s'en dispenser. Mr le Marquis de Castres estoit alors à Cazal. Il y apprit qu'il estoit né un Prince à la France, &amp; en mesme temps il écrivit à Madame la Marquise de Castres sa Mere, pour la prier d'avoir soin, qu'on n'oubliast rien dans son Gouvernement &amp; dans ses Terres, de ce qui pouvoit marquer avec grand éclat la joye qu'il sentoit de cette heureuse Naissance. Madame la Marquise de Castres, digne Soeur de Mr le Cardinal de Bonzi, quoy que retenuë à Villeneuve la Cremade, donna ses ordres si justes, qu'on peut dire, que toute absente qu'elle estoit de Montpellier, elle eut plus de part qu'aucun aux Réjoüissances qui s'y firent. En effet, le Dimanche 30. Aoust, jour destiné pour les commencer, dés huit heures du matin, on vit un tres-beau Feu d'artifice dressé d'une maniere toute ingénieuse, devant l'Hôtel de Mr le Gouverneur. [...]</p>
         <p>Sur les neuf heures du soir, Mr de la Baume, Lieutenant de Roy, apres avoir assisté au Feu de l'Hôtel de Ville, se mit à la teste des Compagnies des Six Quartiers, avec Mr Darnail, Major, &amp; à la clarté de quantité de Flambeaux, marcha en cet ordre pour se rendre à un Feu dressé, outre celuy d'artifice, devant l'Hôtel de Mr le Marquis de Castres. Il fut reçeu à cinquante pas du Feu par le Capitaine des Gardes de ce Gouverneur, suivy de plusieurs Gardes avec leurs Casaques, &amp; leurs Mousquetons, &amp; par les Violons, Hautbois, &amp; Trompetes, qui à son abord redoublerent leurs Fanfares, &amp; l'accompagnerent jusqu'à ce Feu. Il l'alluma avec un Flambeau de Cire blanche, que l'Exempt des Gardes luy presenta. En mesme temps on fit joüer quantité de Boetes qui avoient esté posées à cent pas de là. Ce grand bruit ayant cessé, on entendit celuy de plusieurs décharges que firent les Gardes, &amp; toute la Mousqueterie des Habitans un nombre de plus de six mille ; apres quoy, on aperçeut un Dragon, qui descendant d'une Tour, mit le feu à l'artifice, &amp; s'en retourna aussi promptement qu'il estoit venu. L'effet en fut admirable, &amp; ce Spéctacle dura environ deux heures. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_142">
+      <div xml:id="MG-1682-09b_142" type="migration">
         <head>MG-1682-09b_142</head>
         <bibl>Mercure Galant, septembre 1682 Deuxième partie, p. 142-143, 145-152</bibl>
         <p>[Réjouissances à Grenoble pour la naissance du duc de Bourgogne]</p>
@@ -106,24 +102,21 @@
         <p>Les Réjoüissances qui se sont faites dans le Dauphiné, ont peut estre plus de droit que toutes les autres d'avoir icy un Article à part, puis que le Fils Aîné de France porte le nom de cette Province, depuis la Donation que Humbert en fit à la Couronne environ l'an 1340. [...]</p>
         <p>Le douziéme du mois d'Aoust, le son des Trompetes &amp; des Tambours, &amp; le carillon des Cloches, annoncerent à la Ville de Grenoble, que Monseigneur le Duc de Bourgogne estoit né. Les Feux qu'on alluma dans toutes les Ruës, &amp; les Lumieres dont les Fenestres furent éclairées, dissiperent les tenebres de la nuit ; mais ces premieres marques d'une joye publique, ne furent que les préludes de ce qui se fit le 16. &amp; le 17. du mesme mois. Le Lundy qui fut le 16. ce ne furent toute la matinée, que pluyes &amp; vents ; mais aussi-tost qu'à deux heures apres midy les Crieurs publics eurent averty le Peuple, que le lendemain on solemniseroit cette heureuse Naissance, &amp; que toute la Milice eust à se préparer pour paroistre en armes, les orages cesserent, &amp; le plus beau temps du monde leur succeda. Aussi les Consuls en voulurent profiter ; &amp; à leur sollicitation, cette mesme Milice qui n'estoit ordonnée que pour le lendemain, alla trouver Mr le Premier Président, qui commande en Dauphiné en l'absence de Mr le Maréchal Duc de la Feüillade Gouverneur, &amp; de Mr le Comte Tallard Lieutenant de Roy, &amp; obtint de luy la permission de prendre les armes dés ce jour. Jamais en si peu de temps on ne vit tant de monde armé. Les Compagnies se rangerent à leurs Postes en bon ordre, &amp; se rendirent le soir sur le Pont de pierre, qui est à un bout de la Ville sur la Riviere de Lisere. Les Consuls y avoient fait préparer avec assez de promptitude quelques Feux d'artifice, qui furent poussez dans les airs, tandis que l'on entendoit un Concert de Fifres, de Tambours, de Hautbois, &amp; de Musetes. Il sembloit mesme qu'il y eust encor de l'autre costé de l'eau un autre Concert des mesmes Instrumens, à cause d'un fort bel Echo qui en repétoit le son plusieurs fois, &amp; qui est formé par les concavitez d'un Rocher qui avance en cet endroit. Ainsi finirent les plaisirs de cette nuit. Le lendemain les Tambours &amp; les Trompetes furent plûtost oüies, qu'on ne vit le jour. C'en estoit un de Foire. Cependant les plus intéressez &amp; les plus apres au trafic, les Etrangeres mesme, ne songerent qu'aux plaisirs de cette Feste ; &amp; si l'on vendit quelque chose, ce ne fut que ce qui pouvoit y estre propre. [...] A midy toute la Milice de Grenoble fut sous les Drapeaux dans une propreté extraordinaire, tant Officiers que Soldats. Elle se posta depuis la Place de S. André jusqu'à l'Eglise de Nostre-Dame, &amp; occupa les lieux par où devoient passer le Parlement &amp; la Chambre des Comptes. Les Consuls &amp; les autres Officiers de l'Hostel de Ville, en Habits de cerémonie, se rendirent les premiers à la Cathédrale, escortez de leur Huissier, de six Valets de Ville, &amp; de quatre Consignateurs armez de leurs Pertuisannes. Ensuite parurent ces deux Corps si considérables, par les grands Personnages qui les composent, le Parlement &amp; la Chambre des Comptes. On chanta le Te Deum, auquel assista Mr l'Evesque, qui estoit revenu le jour précedent de la Grande Chartreuse, où il avoit rendu à Dieu en solitude, les mesmes graces pour le bonheur de la France, qu'il luy rendoit alors en public. Le Te Deum estant finy, au bruit des décharges continuelles qui faisoit la Milice, sur une Place qui est devant l'Eglise, les Consuls &amp; le reste de l'Hôtel de Ville sortirent pour voir allumer le Feu. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_163">
+      <div xml:id="MG-1682-09b_163" type="migration">
         <head>MG-1682-09b_163</head>
         <bibl>Mercure Galant, septembre 1682 Deuxième partie, p. 163-164</bibl>
         <p>[Réjouissances à Vienne pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Tandis que Grenoble faisoit retentir les cris de Vive le Roy, on se préparoit dans les autres Villes du Dauphiné, à faire paroistre la joye qu'on avoit de la Naissance du Prince. Le 25. Feste de Saint Loüis, on chanta le Te Deum à Vienne dans l'Eglise Cathédrale. Mr de S. André Gouverneur de la Ville, y assista, &amp; ensuite accompagné des Consuls &amp; de toute la Milice, il vint allumer un grand Feu de joye que l'on avoit dressé dans la Place. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_183">
+      <div xml:id="MG-1682-09b_183" type="migration">
         <head>MG-1682-09b_183</head>
         <bibl>Mercure Galant, septembre 1682 Deuxième partie, p. 183-187</bibl>
         <p>[Concert pour la Dauphine]</p>
         <p/>
         <p>Le Roy un peu avant son départ, fit entendre à Madame la Dauphine, cette merveilleuse Romaine, dont je vous ay entretenuë dans deux ou trois de mes Lettres (cf. notices Mercure 1682.04.01 et 1682.07.07). Elle avoit extrémement plû les premieres fois qu'elle avoit chanté mais elle charma dans cette derniere occasion. Mr Lorenzani Maître de Chapelle &amp; Intendant de la Musique de la Reyne, qui doit aussi sa naissance à la premiere Ville du monde, avoit fait un Concert où entroit la Lyre que touche si agreablement cette admirable Personne. Ce Concert plût tellement à Leurs Majestez, qu'on le fit repéter plus d'une fois. De la maniere que Mlle Carousi fut applaudie de tout ce qui l'entendit, qu'on peut dire avoir esté l'Assemblée des premieres Personnes du monde, elle a sujet d'estre satisfaite du goust de la France. Madame la Dauphine, qui se connoît parfaitement à la Musique, &amp; qui la sçait comme ceux qui la sçavent le mieux, ne la loüa pas médiocrement. Monseigneur luy témoigna l'extréme plaisir qu'elle luy avoit causé, aussi bien que Son A. R. qui ne se pouvoit lasser de luy donner des loüanges. La Reyne ne luy en fut pas avare ; mais celles du Roy, &amp; les honnestetez que ce grand Prince luy a souvent faites, sont les marques indubitables du grand mérite de cette illustre Personne ; &amp; comme elle a autant d'esprit &amp; de discernement qu'on en puisse avoir, elle a connu tout le prix des loüanges de ce Monarque, qui a le goust merveilleux en toutes choses, &amp; qui est trop éclairé pour estre capable de se tromper. Tout ce que chanta cette incomparable Romaine fut admiré, &amp; l'on connut bien qu'elle n'avoit pas négligé de mêler les agrémens de la Musique Françoise aux beautez solides de l'Italienne. Mr Lorenzani ne put manquer d'entendre avec joye les loüanges qu'on donnoit à cette merveille de son Païs, puis que de la maniere dont elle executa les Airs qu'il avoit composez, il eut en mesme temps le plaisir de les voir extrémement applaudir par les Personnes qui donnent le prix à toutes choses.</p>
       </div>
-
-<div xml:id="MG-1682-09b_187">
+      <div xml:id="MG-1682-09b_187" type="migration">
         <head>MG-1682-09b_187</head>
         <bibl>Mercure Galant, septembre 1682 [deuxième partie], p. 187-202</bibl>
         <p>[Réjouissances pour la naissance du duc de Bourgogne à Tours]</p>
@@ -138,8 +131,7 @@
         <p>[...]</p>
         <p>Mr Tachereau, Seigneur de Besc &amp; de la Galanderie, Secretaire du Roy, Honoraire, ne fut pas des moins ardens à donner des marques du zele qui l'animoit. Il estoit alors dans son Château de la Galanderie, situé auprés de Tours sur le bord de la Riviere. On chanta dans sa Chapelle un Te Deum en Musique, &amp; pendant trois soirs il y eut des Illuminations à toutes les faces de sa Maison, avec des Feux, &amp; un tres grand nombre de Fusées volantes, qui furent tirées au bruit des Boëtes, des Trompetes, &amp; des Tambours. Quantité de Personnes remarquables de l'un &amp; de l'autre Sexe se trouverent à la Feste, pendant laquelle il tint table ouverte, avec des Hautbois &amp; des Violons, dont l'harmonie ne contribuoit pas peu à la pompe des Repas.</p>
       </div>
-
-<div xml:id="MG-1682-09b_204">
+      <div xml:id="MG-1682-09b_204" type="migration">
         <head>MG-1682-09b_204</head>
         <bibl>Mercure Galant, Septembre 1682, Deuxième partie, p. 204-206, 212-214</bibl>
         <p>Le moyen, Madame, de sortir de la Touraine, sans passer par Candes ? Candes est un Lieu qui mérite bien que les beautez vous en soient connuës. Vous en tomberez d'accord, quand vous aurez lû la Lettre qui suit.</p>
@@ -150,16 +142,14 @@
         <p>Il n'y a jamais eu, Mademoiselle, de peinture plus vive que celle que vous m'avez faite dans vostre Lettre, des Réjoüissances publiques de Tours. [...] Sera-ce vous payer assez bien de vostre belle Rélation, que de vous en faire une des Festes qui se sont faites icy ? Candes n'est qu'un Désert, mais c'est le plus agreable Désert du Monde. Son heureuse situation a mérité que Mrs les Archevesques de Tours le choisissent, pour y passer la plus belle partie de l'année. [...]</p>
         <p>Si tost que nostre grand Prélat eut solemnisé dans sa Cathédrale la Naissance de Monseigneur le Duc de Bourgogne, il se rendit icy pour celebrer la mesme Feste. On l'annonça hier dés le matin, par le son de toutes les Cloches de la Collégiale, &amp; par la permission que Mr l'Archevesque donna à tous les Habitans de ses Terres, d'y chasser pendant huit jours. Quelques Officiers, à qui la Paix a procuré le repos, prirent le soin de faire mettre sous les armes tous nos Citoyens, &amp; d'incorporer dans la mesme Compagnie une infinité de Gens, qui venoient de tous les Villages d'alentour en si grand nombre, qu'il s'en trouva assez pour former un gros Camp. Ce n'estoient plus alors comme à Tours des Fontaines de Vin, mais ç'eust esté une vraye Riviere, si tout ce qu'on en distribua, eust passé par un mesme Canal. Sur les sept heures du soir, on chanta solemnellement le Te Deum, &amp; on alluma un grand Feu au bruit confus des Cloches, des Tambours, des Mousquetades, des Fifres, des Boëtes, &amp; de quelques Pieces de campagne, qui autrefois nous estoient necessaires pour nous défendre du pillage, mais qui sous le Regne de LOVIS XIV. ne peuvent servir qu'à des réjoüissances.</p>
       </div>
-
-<div xml:id="MG-1682-09b_215">
+      <div xml:id="MG-1682-09b_215" type="migration">
         <head>MG-1682-09b_215</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 215</bibl>
         <p>[Réjouissances pour la naissance du duc de Bourgogne à Limoges]</p>
         <p/>
         <p>Le Mardy 18. Aoust, on fit à Limoges la Réjoüissance publique de la Naissance de Monseigneur le Duc de Bourgogne, &amp; rien ne manqua à cette Cerémonie. Le Te Deum fut chanté dans l'Eglise Cathédrale de S. Etienne. Tous les Corps y assisterent, &amp; Mr l'Evesque, accompagné de son Clergé, officia avec grande pompe.</p>
       </div>
-
-<div xml:id="MG-1682-09b_229">
+      <div xml:id="MG-1682-09b_229" type="migration">
         <head>MG-1682-09b_229</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 229-233, 235-237</bibl>
         <p>[Réjouissances à Paris pour la naissance du duc de Bourgogne]</p>
@@ -168,24 +158,21 @@
         <p/>
         <p>Il y avoit sur la Balustrade quantité de Pots-à-feu, de Lances, de Saucissons, avec huit Quaisses de départemens, dont l'effet fut admirable. Aux quatre faces on avoit placé quatre Soleils, qui jettoient du feu de trente pieds de diametre. Je ne parle point de six douzaines de Fusées doubles Marquises &amp; Royales. Tout fut tiré aux fanfares des Trompetes, &amp; au son des Violons, qui se répondoient de la maniere du monde la plus agreable. Joignez à cela le bruit de plusieurs Tambours que l'on entendit dans l'interval de celuy de trois cens Boëtes, qui tirerent à trois diverses reprises, pour terminer cette Feste.</p>
       </div>
-
-<div xml:id="MG-1682-09b_240">
+      <div xml:id="MG-1682-09b_240" type="migration">
         <head>MG-1682-09b_240</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 240-241</bibl>
         <p>[Réjouissances à Melun pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Les Capucins de Melun, dont le Convent a esté basty des libéralitez du Roy Henry IV. auquel il a mis luy-mesme la premiere pierre, ont marqué leur joye par un Te Deum tres-solemnel qu'ils ont fait chanter dans leur Eglise. La Musique est fort rare chez ces Peres, &amp; il faut que l'occasion soit bien pressante pour les obliger à s'en servir. Il y eut le soir un tres-beau Feu d'artifice, qui fut allumé par le Gouverneur. Il estoit accompagné du Maire de la Ville. Les Canons, les Trompetes, les Tambours, &amp; les Cris de Vive le Roy, se firent entendre en mesme temps d'une tres-nombreuse Assemblée, tous les Habitans des environs s'estant rendus dans la Ville.</p>
       </div>
-
-<div xml:id="MG-1682-09b_242">
+      <div xml:id="MG-1682-09b_242" type="migration">
         <head>MG-1682-09b_242</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 242-245</bibl>
         <p>[Réjouissances au Havre pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>L'absence de Mr le Duc de S. Aignan, Gouverneur du Havre, qui estoit au Château d'Alincourt, ny l'indisposition de Mr de la Vaissiere, Lieutenant de Roy, n'auroient pas esté des obstacles à retarder la juste impatience qu'avoit cette Ville, de marquer son zele pour Sa Majesté, si ses Habitans n'avoient crû que ce petit retardement ne serviroit qu'à les mieux disposer à ce devoir. Ils n'eurent donc pas plûtost reçeu les ordres de Mr le Duc de S. Aignan, que tous les Corps furent avertis de se tenir prests pour celébrer la Naissance de Monseigneur le Duc de Bourgogne. La Cerémonie commença le Jeudy 3 de ce Mois, par le Te Deum qui fut chanté solemnellement dans l'Eglise de Nostre-Dame. Mr de la Vaissiere y assista à la teste des Echevins, Conseillers, Syndic, &amp; Corps de la Ville. Les Officiers de la Justice ordinaire, &amp; les autres Corps Réguliers &amp; Séculiers, les Capucins, &amp; les Pénitens, se rendirent aussi dans la mesme Eglise, d'où apres le Te Deum, Mr de la Vaissiere &amp; les Echevins retournerent en l'Hôtel de Ville, pour faire mettre l'Infanterie &amp; la Cavalerie de la Bourgeoisie sous les armes, &amp; disposer toutes choses pour une joye achevée. Elle parut avec grand éclat par un tres-beau Feu, que Mr le Lieutenant de Roy, accompagné du Corps de Ville, alluma ; par plusieurs décharges de la Mousqueterie, &amp; des Cavaliers, que firent ces Bourgeois, aussi disciplinez &amp; accoûtumez au service que de vieilles Troupes, avec tout l'ordre, la promptitude, &amp; l'adresse possibles par quantité de volées de Canon, de décharges de Boëtes &amp; de Mousquets, tant de la Citadelle que de la Ville, &amp; enfin par le divertissement d'un tres-grand nombre de Fusées volantes, &amp; d'autres Feux d'artifice.</p>
       </div>
-
-<div xml:id="MG-1682-09b_262">
+      <div xml:id="MG-1682-09b_262" type="migration">
         <head>MG-1682-09b_262</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 262-163, 267-268</bibl>
         <p>[Réjouissances en Normandie et en Touraine pour la naissance du duc de Bourgogne]</p>
@@ -193,8 +180,7 @@
         <p>Ce n'a pas esté seulement au Havre, &amp; dans les Villes dépendantes de ce Gouvernement, qui sont Harfleur, Montivilliers, &amp; Fécamp, que Mr le Duc de S. Aignan a fait donner d'éclatantes marques de la forte joye que le bonheur de la France luy a fait sentir. Comme il est aussi Gouverneur des Villes &amp; Château de Loches &amp; Beaulieu ont y a fait des choses assez singulieres pour mériter icy un Article. [...]</p>
         <p>Depuis le Dimanche 30. Aoust jusques au 6. de ce mois, il y eut divers Feux de joye, où les Fusées, les Girandoles, &amp; autres Feux d'artifice, brillerent toûjours. Mrs de Loches en firent un avec une fort agreable Symphonie, &amp; des Cabinets d'Orgues tres-beaux &amp; tres-grands, qu'on apporta dans la Ruë, afin que rien ne manquast aux remercîmens &amp; aux prieres que l'on fit à Dieu. Les Cordeliers, les Capucins, les Religieuses, nommées Filles de la Mere de Dieu, ou de Viantais, du nom de leur Supérieure, &amp; les Dames de l'Hostel-Dieu, accompagnerent leurs Feux de Fusées, &amp; d'Illuminations.</p>
       </div>
-
-<div xml:id="MG-1682-09b_288">
+      <div xml:id="MG-1682-09b_288" type="migration">
         <head>MG-1682-09b_288</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 288-291, 294-300, 304-305, 307-309</bibl>
         <p>[Réjouissances à Marseille pour la naissance du duc de Bourgogne]</p>
@@ -205,8 +191,7 @@
         <p>Le lendemain, on n'eut rien de nouveau pour l'invention, mais tout y fut encore plus magnifique. Enfin, le 30. on redoubla les soins pour finir par quelque chose d'extraordinaire. Le Cours de Marseille est un des plus beaux &amp; des plus réguliers du monde. [...] C'est là la Scene qu'on avoit choisie pour achever dignement cette grande Feste. [...]</p>
         <p>Un si beau Lieu le fut encor bien davantage, lors que sur les neuf heures du soir les quatre Compagnies de la Ville y vinrent toûjours dans un équipage tres-propre, éclairées d'un grand nombre de Flambeaux, &amp; se rangerent en haye, pour laisser passer les Echevins qui allerent allumer un grand Feu qu'on avoit préparé à un bout du Cours vers la Porte de Rome. Les Compagnies rentrerent ensuite dans la Ville, dont elles firent tout le tour ; mais elles s'arresterent devant la Maison de Mr le Gouverneur pour donner lieu à leurs Enseignes de joüer du Drapeau. Tout le monde fut fort satisfait de la maniere dont ils s'acquiterent de cet exercice. Pour les Echevins, ils retournerent à l'Hostel de Ville, où ils donnerent un Repas public à tous ceux qui en voulurent estre, &amp; ensuite les Violons sur l'eau, où plus de deux mille Batteaux les suivirent pour joüir de ce plaisir.</p>
       </div>
-
-<div xml:id="MG-1682-09b_325">
+      <div xml:id="MG-1682-09b_325" type="migration">
         <head>MG-1682-09b_325</head>
         <bibl>Mercure Galant, septembre 1682 [deuxième partie], p. 325-330</bibl>
         <p>[Réjouissances à Compiègne pour la naissance du duc de Bourgogne]</p>
@@ -215,8 +200,7 @@
         <p>Le pied de chaque Pilastre estoit embelly d'une Devise. [...]</p>
         <p>Dans les quatre Faces on voyoit les Armes du Roy, de Monseigneur le Dauphin, de Monseigneur le Duc de Bourgogne, &amp; de Mr l'Abbé de Villacerf ; &amp; au milieu des quatre grandes Figures, la Renommée sur une Boule, tenoit une Trompete avec une Banderole aux Armes du jeune Prince. Comme l'Eglise est située sur la pente d'une Montagne qui commande aux environs, on vit le Feu de plus de trois lieues. L'Artifice fit merveilles ; &amp; parmy le bruit des Tambours, en entendit celuy des Mousquets par la décharge qu'en firent les Habitans qui s'estoient mis sous les armes. Le carillon des Cloches du Prieuré &amp; de la Paroisse, ne cessa point pendant tout ce temps &amp; s'il y a eu plus de magnificence dans d'autres Festes, on peut dire qu'il n'y en a point qui ait esté celebrée avec des marques d'une réjoüissance plus parfaite.</p>
       </div>
-
-<div xml:id="MG-1682-09b_331">
+      <div xml:id="MG-1682-09b_331" type="migration">
         <head>MG-1682-09b_331</head>
         <bibl>Mercure Galant, septembre 1682 [deuxième partie], p. 331-334</bibl>
         <p>[Mort de M. l'Evêque de Bazas en Guyenne, suivie de celle de M. Testu]</p>
@@ -224,8 +208,7 @@
         <p>Mr l'Evesque de Bazas en Guyenne, Suffragant d'Auch, est mort icy depuis quelques jours, âgé de 70. ans. [...]</p>
         <p>Cette mort a esté suivie de celle de Mr Testu, Capitaine Chevalier du Guet de la Ville &amp; Fauxbourgs de Paris, arrivée le 17. de ce mois. [...] Il fut porté de son Hôtel Ruë Saint Loüis au Marais, en l'Eglise de Saint Gervais sa Paroisse, accompagné du Curé &amp; de son Clergé, &amp; suivy de tous ceux de sa Famille, &amp; de deux Compagnies des Archers du Guet, avec leurs Lieutenans à la teste, Enseigne &amp; Guidons. Les Tambours couverts de Crespe batoient à la sourdine ; &amp; les Trompetes, couvertes aussi de Crespe, sonnoient de mesme. [...]</p>
       </div>
-
-<div xml:id="MG-1682-09b_335">
+      <div xml:id="MG-1682-09b_335" type="migration">
         <head>MG-1682-09b_335</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 335-338</bibl>
         <p>[Réjouissances à Mont-Louis pour la naissance du duc de Bourgogne]</p>
@@ -233,38 +216,34 @@
         <p>Je vous ay deja parlé plusieurs fois de Mont-Loüis. Vous sçavez que cette Place est située au plus haut des Pyrenées. Les Travaux en sont tres réguliers, &amp; le nom qu'elle porte doit faire juger qu'elle est fort considérable. Mr Durban qui en est Gouverneur, y a fait entendre un Te Deum au bruit des décharges de trente Pieces de Canon, &amp; de trois salves de toute l'infanterie, qui est campée aux environs de la Place. La solemnité fut suivie d'un magnifique Repas qu'ils donna aux Officiers des Troupes, &amp; aux principaux du Païs, qui avoient assisté au Te Deum. Il fit tirer le soir un tres-beau Feu d'artifice, qu'il avoit fait préparer sur un Rocher proche du Camp, où depuis quelques années il a fait faire plusieurs gros Jets d'eau. Rien n'estoit plus agreable que de voir ces eaux briller à la clarté que rendoient les Feux.</p>
         <p>Le lendemain, Mr de Malezieu, Commissaire des Guerres, &amp; que le Roy a chargé des Affaires de ce Païs-là en l'absence de l'Intendant, fit allumer des Feux dans son Quartier. Il y ajoûta l'ornement de quantité de Devises, &amp; donna un Soupé aussi abondant que propre aux mesmes Officiers, &amp; à tous ceux qui s'y voulurent trouver. Toutes sortes d'Instrumens se firent entendre pendant ce Régale. Les Feux que l'on fit joüer ayant attiré le Peuple des lieux voisins, Mr de Malezieu luy fit prendre part aux Réjoüissances par une grande distribution de Pain, &amp; de Vin.</p>
       </div>
-
-<div xml:id="MG-1682-09b_338">
+      <div xml:id="MG-1682-09b_338" type="migration">
         <head>MG-1682-09b_338</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 338-339</bibl>
         <p>[Réjouissances à l'abbaye de Fontevraud pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Les Communautez qui composent l'Abbaye de Fontevraut, ont fait chanter un Te Deum à trois Choeurs de Musique. Quoy qu'il ne fut que quatre heures lors qu'il fut finy, Madame de Fontevraut ne laissa pas de faire allumer un Feu devant la grande Eglise. Tous les Habitans qui estoient en armes, firent un tres-grand nombre de décharges aux acclamations de Vive le Roy.</p>
       </div>
-
-<div xml:id="MG-1682-09b_340">
+      <div xml:id="MG-1682-09b_340" type="migration">
         <head>MG-1682-09b_340</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 340-342</bibl>
         <p>[Réjouissances à l'abbaye de Royal-Lieu près de Compiègne pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Je croy, Madame, que l'Abbaye de Royal-Lieu vous est connuë. Elle est située aupres de Compiegne, &amp; c'est la premiere de France qui ait esté dédiée sous l'invocation de Saint Loüis. Madame de Roanez, Soeur de Mr le Maréchal Duc de la Feüillade, en est Abbesse. [...] Le nom qu'elle porte fait l'éloge de son zele, pour tout ce qui regarde la Maison Royale. Ce zele a paru dans la maniere dont elle a fait chanter le Te Deum, &amp; d'autres Prieres pendant trois jours. Son Eglise estoit parée avec beaucoup de magnificence. Il y avoit quantité d'Instrumens, &amp; la Musique fut trouvée charmante. Le Curé du lieu, avec tout ce qui compose sa Paroisse, &amp; les Capucins, voulurent bien assister au Te Deum à la priere de cette illustre &amp; pieuse Abbesse.</p>
       </div>
-
-<div xml:id="MG-1682-09b_343">
+      <div xml:id="MG-1682-09b_343" type="migration">
         <head>MG-1682-09b_343</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 343-346</bibl>
         <p>[Réjouissances à Bourg-en-Bresse pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Mr le Comte d'Entremont, Lieutenant General pour Sa Majesté des Provinces de Bresse, Bugey, Valromey, &amp; Gex, ayant donné ses ordres pour faire celebrer la Naissance du jeune Prince, s'est voulu signaler dans Bourg, Capitale de Bresse, où il fait sa résidence ordinaire. Il y fit chanter le Te Deum, &amp; y assista accompagné de tous les Corps. [...] Le soir, il régala magnifiquement toutes les Personnes qualifiées, au son de toutes sortes d'Instrumens. Pendant ce temps on illumina toutes les Fenestres, &amp; des Feux de joye furent allumez par tout. Une Corne d'abondance estoit attachée au haut du toit de son Hôtel, d'où sortit de quoy en faire un, qui parut formé en un instant. Toute la Noblesse descendit, se mesla avec le Peuple, dança autour de ce Feu, &amp; y jetta un nombre infiny de Verres de cristal, en buvant à la Santé de toute la Maison Royale. il sembloit que Mr le Comte d'Entremont estoit animé d'un zele pareil à celuy du Prophete Royal, qui dança devant l'Arche d'Alliance. C'est un Seigneur qui a beaucoup de vertu, &amp; qui en donne tous les jours de grands exemples.</p>
       </div>
-
-<div xml:id="MG-1682-09b_347">
+      <div xml:id="MG-1682-09b_347" type="migration">
         <head>MG-1682-09b_347</head>
         <bibl>Mercure Galant, septembre 1682, Deuxième partie, p. 347-349</bibl>
         <p>[Réjouissances à Asnières-sur-Oise pour la naissance du duc de Bourgogne]</p>
         <p/>
         <p>Il me reste à vous parler d'une maniere de montrer sa joye, qui vous surprendra. Aussi est-elle si peu commune, que je ne connois qu'une Personne qui en ait donné de pareilles marques. Mademoiselle Martineau, Petite Fille de la Nourrice de Henry IV. apres avoir fait allumer des Feux devant sa Porte, &amp; distribuer du Pain &amp; du Vin pendant trois jours au dela des forces d'un Particulier, fit chanter à Agniere sur Oise, où elle demeure, une grande Messe ; un Te Deum, &amp; un Salut. Ensuite s'estant renduë à Viarmes, elle y passa un Contract devant le Tabellion Juré au Bailliage &amp; Chastellenie de ce Lieu, en date du 4. Aoust, par lequel elle fonde une grande Messe, un Te Deum, &amp; un Salut, pour estre chantez tous les ans à perpétuité le 6. Aoust, jour de la Naissance de Monseigneur le Duc de Bourgogne. Il seroit difficile de mieux prouver son attachement pour la Famille Royale.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

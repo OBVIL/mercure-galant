@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-04_021">
+      <div type="article" xml:id="MG-1684-04_021" resp="mercure">
         <head>MG-1684-04_021</head>
         <bibl>Mercure galant, avril 1684, p. 21-24</bibl>
         <p>Ce qui s'est passé à Aytré proche La Rochelle, à l'occasion de la Religion Prétenduë Réformée</p>
         <p/>
         <p>Je ne dois pas oublier de vous dire icy, ce qui s'est passé depuis un mois, touchant la Religion. Mr Guillemin, Seigneur d'Aytré, professant la Prétenduë Réformée, faisoit faire sous le prétexte d'un droit personnel, un exercice public de cette Religion dans son Chasteau, ce qui estoit cause qu'un tres-grand nombre de Prétendus Réformez y venoient de toutes parts, [...]. Pour reprimer cet abus, le Roy par un Arrest du Conseil d'Etat donné le 31. Janvier dernier, luy a fait défense sous peine de désobeïssance, &amp; de perte de son droit personnel pour toûjours, de faire à l'avenir l'exercice de sa Religion ailleurs que dans une Chambre de son Chasteau, pour luy, sa Famille, &amp; les Habitans du Lieu ; [...]. Cet Arrest fut signiffié le 18. Mars ; &amp; le lendemain, Dimanche de la Passion, Dimanche de la Passion, on en chanta solemnellement le Te Deum dans l'Eglise Paroissiale d'Aytré.</p>
       </div>
-
-<div xml:id="MG-1684-04_104">
+      <div type="article" xml:id="MG-1684-04_104" resp="mercure">
         <head>MG-1684-04_104</head>
         <bibl>Mercure galant, avril 1684, p. 104-105, 138-139</bibl>
         <p>Détail de la Marche de M. le Maréchal de Bellefons jusques à six lieuës de Pampelune</p>
@@ -68,8 +67,7 @@
         <p/>
         <p>Comme il y a peu de Logemens dans Roncevaux, il en envoya une partie au Bourg du Bouguet &amp; qui n'en est qu'à demy-lieuë, sous la conduite de Mr le Marquis de Bellefons. Il y a environ soixante &amp; dix Maisons tres-bien bâties au Bourguet. Les Troupes y trouverent abondamment des Vivres, &amp; du Fourage que les Habitans y avoient laissez. La crainte qu'on ne fust venu pour les brûler, leur avoit fait abandonner leurs Maisons, si-tost qu'ils avoient oüy le bruit des Tambours &amp; des Trompetes, &amp; ils s'estoient retirez dans les Bois voisins. Cependant les Troupes ne prirent que le Pain, le Vin, &amp; le Fourage qui leur estoient necessaires, sans commettre aucun desordre, ny toucher aux Meubles, quoy que les Maisons de ce Bourg, qui est fort riche, &amp; fort peuplé, en fussent tres-bien garnies. [...]</p>
       </div>
-
-<div xml:id="MG-1684-04_304">
+      <div type="article" xml:id="MG-1684-04_304" resp="mercure">
         <head>MG-1684-04_304</head>
         <bibl>Mercure galant, avril 1684, p. 304-309, 311-312, 330-332, 338-341</bibl>
         <p>Détail de tout ce qui s'est passé au Mariage de Mademoiselle avec Monsieur le Duc de Savoye</p>
@@ -83,14 +81,13 @@
         <p/>
         <p>Il faut vous parler [du présent] que la France fait à la Savoye, en luy donnant cette Princesse qui sort du Sang de ses Roys. Sa grande jeunesse estoit cause que tout son mérite n'estoit pas encore connu. Cependant j'ay sceu de ceux qui l'ont pratiquée, qu'elle est d'une humeur douce, égale, &amp; patiente ; qu'elle est incapable de donner du chagrin à personne en se prévalant de son rang ; qu'elle a un grand fonds de sagesse, &amp; de pudeur ; qu'elle aime son devoir ; qu'elle sçait parfaitement tout ce qui regarde sa Religion ; qu'elle y est attachée, &amp; qu'on pourroit dire qu'elle est tout-à-fait secrette, si elle avoit de grandes occasions de faire voir qu'un secret est seûr entre ses mains. Elle sçait la Geographie, &amp; la Fable, &amp; mesme historiquement. Elle jouë du Clavessin, chante parfaitement bien, &amp; sçait assez l'Italien pour le bien parler, si la défiance qu'elle a de soy-mesme sans aucun sujet, ne luy causoit une timidité mal fondée qui l'en empesche. Elle aime la lecture, &amp; emporte une Bibliotheque de Livres qui luy ont esté choisis par Mr l'Abbé Testu, qui comme je vous l'ay déja marqué, a eu soin de son éducation. Il en a pris un tres-grand à luy former l'esprit &amp; les moeurs, &amp; a merité par-là beaucoup de gloire. [...]</p>
       </div>
-
-<div xml:id="MG-1684-04_349">
+      <div type="article" xml:id="MG-1684-04_349" resp="mercure">
         <head>MG-1684-04_349</head>
         <bibl>Mercure galant, avril 1684, p. 349-351</bibl>
         <p>Mariage de M. le Chevalier du Guet</p>
         <p/>
         <p>Je vous appris il y a trois mois le Mariage de Mr Chopin, Lieutenant Criminel, avec Mademoiselle Foy de Senantes. [...] La Cerémonie fut faite le Dimanche 15. de ce mois, dans la Chapelle du Chasteau de Clagny. Mr le Duc du Maine fit l'honneur au Marié de luy donner la Chemise, &amp; Madame de Montespan fit le mesme honneur à la mariée, parce qu'ayant beaucoup contribué à ce Mariage, elle en a voulu faire les honneurs. [...] L'apresdinée du jour de la celébration du Mariage, Madame de Montespan donna une grande Collation à Clagny. Elle y avoit invité toutes les Dames de feuë la Reyne. On y joüa à divers sortes de Jeux, &amp; Mademoiselle de Nantes y donna le Bal, où elle parut avec tout l'agrement, &amp; toutes les graces qui luy sont ordinaires, &amp; dont je vous ay souvent parlé. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

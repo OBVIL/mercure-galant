@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1694-10_009">
+      <div type="article" xml:id="MG-1694-10_009" resp="mercure">
         <head>MG-1694-10_009</head>
         <bibl>Mercure galant, octobre 1694, p. 9-34</bibl>
         <p>Détail de tout ce qui s?est passé à la Ceremonie du Mariage de la Princesse de Pologne, &amp; de l?Electeur de Baviere.</p>
@@ -63,6 +63,6 @@
         <p>Je ne vous dis rien de la profusion &amp; de la delicatesse des viandes &amp; des entremets dont toutes ces tables furent couvertes, non plus que de la rareté des fruits &amp; des confitures qui les releverent. Les Vins les plus exquis de Hongrie, d?Italie &amp; de France, aussi-bien que les Liqueurs &amp; les Eaux glacées, y furent moins distribuez que prodiguez. Aprés ce splendide repas, qui fut reiteré les deux jours suivans avec la mesme magnificence, il y eut un Bal qui dura jusques au jour.</p>
         <p>Le 16. &amp; le 17. aprés dîné, leurs Majestez &amp; leurs A. R. receurent de nouveaux complimens, accompagnez des presens qu?on a coutume de faire dans une pareille occasion. Ils firent connoistre veritablement le profond respect &amp; la veneration des Seigneurs &amp; des Grands du Royaume pour leurs Majestez. Ce fut des marques plus convaincantes par la richesse, la galanterie &amp; le bon goust des Bijoux qu?on presenta. Le 18. pour diversifier les plaisirs, on tira sur la Vistule un grand Feu d?artifice qui representoit un Vaisseau de guerre avec tous ses agrés. Sur les voiles, parmy les cordages, &amp; le long de ses masts, on lisoit quantité d?Inscriptions, de Devises, d?Emblêmes &amp; de Chifres convenables au sujet. Le 19. on representa un Opera Italien avec des changemens de decoration, &amp; plusieurs entrées de Balet dans les Entre-actes. A la fin de ce divertissement, qu?on a eu plus d?une fois, on servit un magnifique Ambigu, où chacun eut entiere liberté de prendre part. Le 22. pour achever la pompe de cette Feste, le Prince de Radzevil, Neveu du Roy, traita magnifiquement tous les Seigneurs de la Cour ; en quoy il fut imité le 24. par le Prince Sartoreski, l?un des plus magnifiques Seigneurs de Pologne. Les autres doivent faire tour à tour de pareils regales. On m?apprend que ce fut l?Evesque de Polin, &amp; non le Cardinal Radziewski, qui fit la Ceremonie du Mariage.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

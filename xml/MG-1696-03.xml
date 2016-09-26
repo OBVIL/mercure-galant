@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-03_010">
+      <div type="article" xml:id="MG-1696-03_010" resp="mercure">
         <head>MG-1696-03_010</head>
         <bibl>Mercure galant, mars 1696, p. 10-11</bibl>
         <p>Sacre de Mr Delfino, Nonce en France.</p>
         <p/>
         <p>Le Dimanche 29. du même mois de Janvier, Messire Marc-Daniel Delfino, Noble Venitien, Vicelegat d'Avignon, nommé à la Nonciature de France, fut sacré Archevêque de Damas in partibus Infidelium, dans l'Eglise des Jesuites d'Avignon, par Messire Loüis-Aube de Roque-Martine, Evêque &amp; Comte de Saint-Paul-Trois-Chasteaux, assisté de Mrs les Evêques d'Orange &amp; de Carpentras. La ceremonie fut tres-solemnelle, tant par le grand nombre de personnes de qualité de toute la Province, qui y assisterent, que par la Musique &amp; Symphonie de toute sorte d'Instrumens. Ensuite le nouveau Nonce traita magnifiquement à dîner Mrs les Evêques, les Consuls, les Officiers de la Legation, &amp; les personnes les plus distinguées de la Ville.</p>
       </div>
-
-<div xml:id="MG-1696-03_012">
+      <div type="article" xml:id="MG-1696-03_012" resp="mercure">
         <head>MG-1696-03_012</head>
         <bibl>Mercure galant, mars 1696, p. 12-25</bibl>
         <p>Idille de Meudon.</p>
@@ -266,8 +265,7 @@
         <p>Au doux son des Trompettes</p>
         <p>Retentisse de toutes parts.</p>
       </div>
-
-<div xml:id="MG-1696-03_164">
+      <div type="article" xml:id="MG-1696-03_164" resp="mercure">
         <head>MG-1696-03_164</head>
         <bibl>Mercure galant, mars 1696, p. 164-173</bibl>
         <p>Dialogue.</p>
@@ -366,8 +364,7 @@
         <p/>
         <p>Ce Dialogue est de la mesme Mademoiselle l'Heritier qui a fait l'Eloge des Dames, employé dans ma Lettre de Janvier, dont vous m'avez témoigné estre si contente.</p>
       </div>
-
-<div xml:id="MG-1696-03_233">
+      <div type="article" xml:id="MG-1696-03_233" resp="mercure">
         <head>MG-1696-03_233</head>
         <bibl>Mercure galant, mars 1696, p. 233-253</bibl>
         <p>Relation des honneurs rendus à Mme la Duchesse de Modène.</p>
@@ -378,28 +375,25 @@
         <p/>
         <p>[...] Nous entrames à Veronne au bruit du canon, de la mousqueterie, des boëtes, &amp; de toutes sortes d'instrumens, &amp; trouvâmes plus de dix mille personnes hors de la Ville. Toutes les rues estoient illuminées, tous les balcons tapissez. Nous logeâmes dans le Palais du Podesta. Il y eut le soir, &amp; tous les jours suivans de nostre sejour, Serenades, Opera, Comedie &amp; Bals, où se trouverent toujours plus de trois cens Dames, plus belles &amp; mieux mises les unes que les autres, &amp; toutes couvertes de pierreries. Il ne se peut rien ajoûter à la magnificence des tables, &amp; à l'affluence de toutes choses, qui surpasserent tout ce qu'on s'en peut imaginer. Tout cela nous suivit jusqu'à une journée &amp; demie de Veronne. C'estoient les limites des la Republique, &amp; de l'Etat de Mantoüe. [...] A deux lieuës de Mantoüe arriva le Duc, qui fit ses complimens &amp; s'en retourna. Une lieuë approchant de Mantouë, nous trouvâmes les chemins garnis de lumieres &amp; de Milice, comme à Veronne. Nous entrâmes au bruit de toute l'artillerie &amp; des cris de joye. Le Duc et la Duchesse se trouverent à la porte pour y recevoir les nostres. Nous logeâmes dans le Chasteau, qui est un des plus grands &amp; des plus richement meublez de l'Europe. Il est situé sur un lac, ce qui le rend un lieu fort mal sain. Nous y sejournâmes deux jours, pendant lesquels il y eut toujours Opera, Comedie &amp; Bal, où estoient de tres-belles Dames, &amp; plusieurs autres qui nous avoient suivis de Veronne. [...] On arriva [le 6] à deux heures de nuit à Buon-Porto. Nous logeâmes dans un Palais appartenant à la Marquise de Rangoni, Dame d'honneur de la Duchesse de Modene ; le mariage y fut consommé, &amp; nous en partîmes à trois heures aprés midy en carosse, pour nous rendre le soir à Modene, éloignée de quatre lieuës. A moitié chemin nous rencontrâmes la Duchesse mere, accompagnée de soixante &amp; dix carosses à six chevaux, qui composerent le cortege de nostre Entrée. Depuis là les chemins furent bordez de lumieres, comme avant qu'on arrivast à Veronne &amp; à Mantoüe. Tous les Clochers étoient illuminez à triple étage, aussi bien que les remparts, ce qui produisoit la nuit le plus bel effet du monde. Nous entrâmes au bruit du canon, de la mousqueterie, des boestes, des fusées volantes qui continuerent toute la nuit &amp; des acclamations du Peuple. Toute la Ville estoit illuminée &amp; tapissée dans les principaux endroits. Les rues même où l'on ne devoit point passer, l'estoient aussi depuis le pavé jusque sur les toits, avec des lanternes de papier huilé &amp; peint de differentes couleurs. Les Palais l'estoient par une infinité de grands flambeaux de cire blanche, &amp; l'on en compta à celuy du Duc jusques à huit cens, qui brûlerent toute la nuit. Le Palais qui n'est point encore achevé, sera un des plus grands &amp; des plus magnifiques d'Italie. Il y a dès à present un grand nombre d'appartemens aussi somptueusement meublez que l'on en voye en beaucoup de Cours. Celuy de la Duchesse contient dix-sept ou dix-huit grandes Pieces de plein pied, où les moindres tapisseries sont de velours cramoisi avec de larges galons &amp; des franges d'or. Le lit de la Duchesse est d'une broderie particuliere dedans &amp; dehors, avec quantité d'ornemens de Perles ; &amp; la Toilette, qui estoit des plus magnifiques, est de vermeil cizelé, avec le bas d'un tres beau point de Venise. En un mot, c'est le veritable Palais où l'Amour fit transporter Psyché par les Zephirs. Il n'y a personne qui soit plus galant, plus sage &amp; plus content que le Duc. Ce fut le 7. que nous arrivâmes icy, &amp; le Lundy 13. on fit la ceremonie de mariage dans l'Eglise Cathedrale, qui estoit magnifiquement ornée. Tout le pavé, &amp; même celuy du Porche, estoit couvert de vieux tapis. La Messe fut celebrée pontificalement par l'Evêque, avec Musique, &amp; le Te Deum chanté ; aprés quoy on fit le Festin nuptial. Vous n'avez qu'à vous imaginer tout ce qu'il y a de plus propre, de plus delicat &amp; de plus abondant en viandes, fruits &amp; confitures, ce qui fut suivi du Bal. Hier l'on tira un Feu d'artifice des mieux entendus. Tout cela meriteroit une description plus étendue que celle que je vous fais, mais j'espere que vous voudrez bien vous en contenter.</p>
       </div>
-
-<div xml:id="MG-1696-03_313">
+      <div type="article" xml:id="MG-1696-03_313" resp="mercure">
         <head>MG-1696-03_313</head>
         <bibl>Mercure galant, mars 1696, p. 313-316</bibl>
         <p>Ouvrages posthumes de Mr de la Fontaine.</p>
         <p/>
         <p>Il en est des Auteurs illustres comme des grands Peintres, leurs Ouvrages semblent augmenter de prix par leur mort. C'est ce qui fait qu'aprés qu'on les a perdus, on s'empresse à ramasser tout ce qu'on peut trouver d'eux, jusqu'à des fragmens, quoy que mutilez. Ainsi, vous ne devez pas estre surprise, si depuis la mort de Mr de la Fontaine, on a pris soin de faire un recueil de tous les Ouvrages qui portoient son nom, &amp; qui n'avoient point encore esté imprimez. On vient de le donner au Public, sous le titre d'Oeuvres Posthumes. Ce ne sont point des fragmens, ny des morceaux détachez qu'il ait laissez imparfaits. Ce sont toutes pieces que Mr de la Fontaine a finies, &amp; qui doivent d'autant plus attirer les Curieux, que l'on peut estre assuré qu'elles sont de luy, puis qu'estant original dans son genre, &amp; par conséquent inimitable, son Stile est trop aisé à connoistre pour luy pouvoir imputer de fausses copies. Il y a des Lettres en Prose, des Lettres en Vers, d'autres mêlées de Vers &amp; de Prose avec quelque Fables, &amp; dans tout cela, on voit briller ce talent exquis, qui l'a distingué avec tant de gloire, de tous ceux qui ont tâché de suivre la mesme route. Ce recueïl d'oeuvres Posthumes, qui est regardé comme un tresor, par tout ce qu'il y a de personnes qui aiment les belles choses, se trouve chez le Sr de Luynes, libraire au Palais, dans la Salle des Merciers.</p>
       </div>
-
-<div xml:id="MG-1696-03_316">
+      <div type="article" xml:id="MG-1696-03_316" resp="mercure">
         <head>MG-1696-03_316</head>
         <bibl>Mercure galant, mars 1696, p. 316-317</bibl>
         <p>Je vous manday le mois passé que la Troupe des Comediens du Roy, avoit representé une piece serieuse, qui par sa beauté avoit réveillé le goust de la Tragedie. Cette Piece qu'on appelle Polixene, a eu quantité de Partisans fort considerables, &amp; son succez a justifié tout le bien qu'ils en ont dit. Vous en pourrez juger par vous-mesme en la lisant, puisqu'elle se debite chez le Sr Thomas Guillain, Libraire, à la descente du Pont-neuf, prés les Augustins.</p>
       </div>
-
-<div xml:id="MG-1696-03_317">
+      <div type="article" xml:id="MG-1696-03_317" resp="mercure">
         <head>MG-1696-03_317</head>
         <bibl>Mercure galant, mars 1696, p. 317-320</bibl>
         <p>Le Viellard couru, ou les differens caracteres des femmes.</p>
         <p/>
         <p>La premiere representation de la Comedie le Viellard couru, où les differens carcateres des Femmes, ayant esté faite il y a huit jours, plusieurs s'appliquerent à chercher de la verité dans les portraits qu'on y fait de quantité de Maistresses du Veillard, quoy que l'Auteur n'ait eu intention de peindre personne, mais seulement de donner des Amantes au Heros de sa Piece, qui, suivant son sujet, devoit en avoir beaucoup. Il n'est pas impossible que plusieurs de ceux qui ont fait des applications, se soient trompez de bonne foy mais il est sûr que d'autres cherchant à perdre la Piece, &amp; à exciter du murmure, ont fait exprés de fausses applications, puisque de differens portraits placez en divers actes, ils ont pris des morceaux, &amp; les ont joints pour en composer quelques-uns, &amp; appliquer à une seule personne ces differens morceaux joints ensemble, quoy qu'ils ayent esté faits pour plusieurs, &amp; sans qu'on ait eu d'autre objet que d'entrer dans le naturel, soit à l'égard du beau, soit à l'égard du laid, de la pluspart des femmes. Voilà ce qui attira tant d'ennemis à la Piece, le premier jour qu'elle parut, mais le nombre de ses Auditeurs ayant esté grand &amp; équitable dans les representations suivantes, l'Auteur doit estre satisfait de la justice que le Public luy rend, en dépit des ennemis qu'il estoit innocemment attirez.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

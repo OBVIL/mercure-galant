@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-12e_003">
+      <div type="article" xml:id="MG-1684-12e_003" resp="mercure">
         <head>MG-1684-12e_003</head>
         <bibl>Extraordinaire du Mercure galant, octobre 1684, p. 3-17, 20-23</bibl>
         <p>Suite des Nouvelles d'Alep</p>
@@ -77,6 +77,6 @@
         <p>L'Evangile fut lû &amp; chanté par tous les Diacres, l'un apres l'autre, ayant posé le Livre envelopé d'un Linge, sur une Chaise en forme de Pliant. [...] apres quoy Mr de Césarople se leva de sa place, pour aller baiser à l'entrée du Balustre de l'Autel, le Livre des Evangiles, couvert d'argent, qu'un Prestre tenoit bien proprement à la main sur un Linge blanc. Ce Livre fut ensuite porté à baiser par le même Prestre, à l'Evesque des Arméniens, &amp; à Mr le Consul ; &amp; de temps en temps on venoit encenser ces deux Evesques, &amp; Mr le Consul.</p>
         <p>Ensuite les Officiers Assistans allérent querir le Ciboire couvert d'un Linge, auquel ils firent faire le tour de l'Autel, en chantant toûjours, &amp; en faisant sonner incessamment les sonnettes de quatre Soleils d'argent, emmanchez de quatre Bâtons assez gros, plaquez d'argent, dont deux estoient garnis de Banderoles blanches, &amp; les deux autres de Banderoles rouges. Ils les posérent ensuite sur la Table de l'Autel, où le Prestre fut long-temps à faire la Conjuration, ayant laquelle on luy porta dequoy laver les mains. Quand il fut prest à la faire, il porta luy-mesme le S. Ciboire en haut, couvert d'un Linge, jusqu'à la porte de l'Autel ; &amp; apres la Consécration de l'Hostie, qui est de Pain sans levain, ou azyme, il l'exposa aussi au Peuple avant que de la mettre dans le Ciboire, de la mesme maniere qu'il se pratique dans toutes les Eglises Catholiques de France.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

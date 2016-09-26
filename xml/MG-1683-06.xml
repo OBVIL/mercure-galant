@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-06_102">
+      <div type="article" xml:id="MG-1683-06_102" resp="mercure">
         <head>MG-1683-06_102</head>
         <bibl>Mercure Galant, juin 1683, p. 102-103, 105-109</bibl>
         <p>Grandes cerémonies faites à Saint Jean d'Angely</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>Mr l'Evesque de Saintes s'estant rendu le 15. de May à S. Jean d'Angely, commença la Cerémonie le lendemain à neuf heures du matin. Tous les Corps y assisterent. On avoit mis la Relique en dépost dans l'Eglise des Capucins qui sont hors de la Ville. [...] La Procession estant arrivée aux Capucins, on y chanta un Motet en l'honneur du Saint, &amp; deux Religieux de l'Abbaye chargerent ce précieux Dépost sur leurs épaules. Toute la Milice l'accompagnoit suivant la coûtume, lors qu'on porte les Reliques du Patron. [...] [Le] soir, après la Bénédiction qui fut donnée par Mr l'Evesque, l'on fit un grand Feu de joye devant la principale Porte de l'Abbaye. La Milice qui estoit rangée autour, formoit une haye des quatre costez. Le Pere Prieur, avec un Diacre &amp; Sous-Diacre, &amp; quatre Chantres revétus de Chapes, vint dans la Place entonner le Te Deum. Il alluma ensuite le Feu, &amp; alors la Soldatesque fit plusieurs décharges, qui terminerent la Cérémonie de ce jour-là. [...]</p>
       </div>
-
-<div xml:id="MG-1683-06_111">
+      <div type="article" xml:id="MG-1683-06_111" resp="mercure">
         <head>MG-1683-06_111</head>
         <bibl>Mercure Galant, juin 1683, p. 111-116</bibl>
         <p>« Je vous envoyay dans ma Lettre de Fevrier un Madrigal de Mr Quinaut, que tout le monde a trouvé fort agréable. Voicy la Réponse que luy a fait le Berger de Flore.</p>
@@ -128,8 +127,7 @@
         <p>L'un est un Opéra, l'autre un fâcheux tourment.</p>
         <p>Je vous en plains, &amp; plains extrémement. »</p>
       </div>
-
-<div xml:id="MG-1683-06_237">
+      <div type="article" xml:id="MG-1683-06_237" resp="mercure">
         <head>MG-1683-06_237</head>
         <bibl>Mercure Galant, juin 1683, p. 237-238, 250</bibl>
         <p>Conversion de Mr Gilly, Ministre de Baugé, &amp; de Mr Courdil, Ministre à Pinperdu</p>
@@ -138,8 +136,7 @@
         <p/>
         <p>[Après que l'évêque eut prononcé son exhortation à l'attention des nouveaux convertis, il] entonna le Te Deum, qui fut chanté en Musique, par le Choeur de l'Eglise Cathédrale au son de toutes les Cloches.</p>
       </div>
-
-<div xml:id="MG-1683-06_251">
+      <div type="article" xml:id="MG-1683-06_251" resp="mercure">
         <head>MG-1683-06_251</head>
         <bibl>Mercure Galant, juin 1683, p. 251-267</bibl>
         <p>La France n'ayant jamais eu de Monarque qui ait porté sa gloire si loin que LOÜIS LE GRAND, il ne faut pas s'étonner si la Naissance de Monseigneur le Duc de Bourgogne luy a causé une joye égale au desir qu'elle a de se voir éternellement gouvernée par le Sang de ce Héros. Jamais on n'avoit eu tant de Festes, que l'on en fit pour cette Naissance. Comme chacun y donna ses soins selon son génie, Mr Perrault de l'Académie Françoise, si distingué par son esprit, &amp; par la connoissance qu'il a des beaux Arts, n'épargna ny la dépense, ny ses veilles, pour faire éclater sa joye. Il la fit paroistre par une maniere de petit Opéra en forme de Concert, qu'il composa pour en régaler ses Amis chez luy. Cet Ouvrage fit du bruit. Les Vers en estoient beaux, &amp; la Musique en fut trouvée agréable. Ce Concert fut redemandé plusieurs fois par un grand nombre de Personnes de la premiere qualité, &amp; l'on en parla à Madame la Dauphine. Cette Princesse, qui n'aime pas seulement la Musique par les charmes qu'elle y trouve, mais parce qu'elle en a une parfaite connoissance, souhaita de l'entendre, sur le raport des Gens qui ont le bon goust en cet Art, &amp; le Roy voulut bien honorer ce Concert de sa présence. Une partie de la Cour l'entendit. Les uns le trouverent admirable, d'autres dirent qu'il y avoit des beautez ; &amp; d'autres demanderent, avant que d'en juger, le nom de celuy qui avoit fait la Musique. On leur répondit qu'elle estoit de Mr Oudot. Je ne vous en dis pas davantage, pour vous apprendre ce qu'ils en preferent. Il vous est aisé d'en juger par leur demande. Je vous envoyay en ce temps là dans l'une de mes Lettres les Vers sur lesquels cette Musique avoit esté composée. Ce Concert avoit cessé ; mais depuis un mois quelques Personnes du premier rang, &amp; qui se connoissent parfaitement en toutes choses, en ayant entendu parler diversement, ont prié Mr Perrault avec tant d'instance, de leur donner ce Régale, qu'il s'est fait un plaisir de les obliger. On y a découvert de nouveaux charmes. Les Connoisseurs ont trouvé plus qu'ils n'avoient attendu ; l'esprit de critique a esté banny, &amp; l'on a jugé de la beauté de cette Musique, par elle-mesme, &amp; non par le nom de son Autheur. On l'a redemandée hautement, &amp; l'on est demeuré d'accord que les François qui veulent s'attacher aux Arts, n'ont pas besoin pour y exceller, de rien emprunter des autres Nations. On a fait chanter apres ce Concert la Scene d'une Bergere &amp; d'une Bohémienne, que je vous envoye. Les Vers sont de Mr Perrault, &amp; la Musique du mesme Maistre.</p>
@@ -193,14 +190,13 @@
         <p/>
         <p>Vous pouvez juger avec combien de plaisir on a travaillé sur des Paroles si propres à estre chantées. Aussi faut il avoüer qu'on n'en sçauroit avoir davantage que les illustres Assemblées qui se sont trouvées chez Mr Perrault en ont pris à ce Dialogue. Plusieurs de ceux qui entendirent une si bonne &amp; si charmante Musique, dirent que Mr de Lully estoit à plaindre, de ce qu'on luy laissoit le soin de la composition de tous les Opéra, puis qu'il n'avoit demandé son Privilege au Roy que pour des Eléves de Musique, comme le nom d'Académie le porte, toute Académie estant établie pour recevoir les Ouvrages de ceux qui veulent se fortifier dans les Arts ; ce qui se voit à l'Académie de Peinture &amp; de Sculpture, qui doit son établissement au Roy, &amp; ses progrés aux soins de Mr Colbert. On rapporta la mesme chose de plusieurs autres sortes d'Académies. Quelques Personnes répondirent à cela, que les Ouvrages de ceux qui travailleroient, ne pouvant approcher de la Musique de Mr de Lully, le Public se divertiroit peu aux Opéra qui ne seroient pas composez par ce grand Homme. D'autres repartirent qu'on les soufriroit par plusieurs raisons ausquelles ils ne croyoient pas qu'il y eust de replique. Ils dirent que les François auroient de l'indulgence pour les Maîtres de leur Nation, que la nouveauté a des charmes qui la fait soufrir, &amp; que pendant qu'elle empescheroit de voir les defauts des nouveaux Maistres, ils deviendroient habiles en travaillant, &amp; que quelques bons que fussent leurs Ouvrages, ils ne serviroient qu'à faire paroistre les beautez de l'Opéra que donne chaque année Mr de Lully, alors qu'il viendroit à paroître. On ajoûta qu'une Ville comme Paris, qui paroist un Monde entier, ne seroit point réduite à n'avoir qu'un Opéra tous les ans, ce qui chagrine beaucoup ceux qui aiment la Musique, parce qu'apres avoir veu quinze ou seize fois le mesme Opéra pendant un mois, il sont privez de ce divertissement tout le reste de l'année ; que ce manque d'Opéra nouveaux oblige souvent Mr de Lully à en faire représenter de vieux, qui ont esté veus cinq ou six Etes de suite, ce qui n'est pas du goust de la Nation, &amp; ne fait point d'honneur à la France, puis que chez les Etrangers on ne voit jamais reprendre un Opéra qu'on a cessé de représenter, &amp; que dans la seule Ville de Venise. Il y en a douze tous les ans pendant le Carnaval de trois mois. Le zele qui est naturel pour la gloire de la Patrie, fit dire à plusieurs, qu'il manquoit à la grandeur de Paris que l'on vist tous les ans plus d'un Opéra nouveau, &amp; l'on souhaita que les plus habiles Musiciens de France travaillassent pour faire plaisir à Mr de Lully, &amp; luy donner lieu de faire valoir son Privilege dans toute son étenduë, suivant l'intention du Roy, qui est que les plus sçavans Maîtres apportent des Opéra tout composez, &amp; qu'il les fasse représenter sur son théatre, par les mesmes personnes qu'il employe aux siens. Comme il en traitera avec eux de la mesme maniere qu'il fait avec ceux qui luy fournissent des Vers pour sa Musique, il sera toûjours le maistre de tout en vertu de son Privilege, &amp; en donnant chaque année plusieurs Opéra nouveaux qui ne seront pas de luy. On ne l'en admirera pas moins, &amp; sa mémoire en sera plus chere à la Postérité. Il ne reste plus qu'à exhorter ceux qui font des Concerts si agreables, à travailler à des Opéra entiers, non seulement pour le plaisir, &amp; pour la gloire de leur Païs, mais encore afin qu'en épargnant de la peine à Mr de Lully, ils nous en fassent joüir plus longtemps.</p>
       </div>
-
-<div xml:id="MG-1683-06_267">
+      <div type="article" xml:id="MG-1683-06_267" resp="mercure">
         <head>MG-1683-06_267</head>
         <bibl>Mercure Galant, juin 1683, p. 267-268</bibl>
         <p>Pension donnée à Mr Charpentier</p>
         <p/>
         <p>J'ay à vous apprendre en vous parlant de Musique, que le Roy un peu avant son départ donna une pension à Mr Charpentier. Vous sçavez qu'il a toujoûrs composé la Musique, qu'on a chantée à la Messe de Monseigneur le Dauphin, lors que ce Prince n'assistoit pas à celle du Roy. Comme je vous ay parlé de luy dans les occasions où sa Musique a fait bruit, je n'ay rien davantage à vous dire.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-08_188">
+      <div type="article" xml:id="MG-1699-08_188" resp="mercure">
         <head>MG-1699-08_188</head>
         <bibl>Mercure galant, août 1699, p. 188-189</bibl>
         <p>Recueil de Pieces de Clavecin.</p>
         <p/>
         <p>Mr Marchand, Organiste de l'Eglise de Saint Benoist des Peres Jesuites de la ruë Saint Jacques, &amp; du Grand Convent des Cordeliers, vient de mettre au jour un recueil de Pieces de Clavecin, de sa composition, dédié au Roy. Il continuera tous les trois mois de donner alternativement une suite de Pieces de Clavecin, avec une suite de Pieces d'Orgue de chaque ton. Elles se vendent chez l'Auteur, ruë S. Jacques, proche Saint Benoist, &amp; chez le Sr Roussel, Graveur, ruë Saint Jacques, au Lion d'argent, proche les Mathurins. La réputation de Mr Marchand est si bien établie à la Ville &amp; à la Cour, &amp; avec tant de justice, qu'il n'y a pas lieu de douter que ses Ouvrages ne soient recherchez du Public avec un fort grand empressement, ainsi il suffit de l'avertir qu'ils se vendent, pour l'engager d'en acheter.</p>
       </div>
-
-<div xml:id="MG-1699-08_217">
+      <div type="article" xml:id="MG-1699-08_217" resp="mercure">
         <head>MG-1699-08_217</head>
         <bibl>Mercure galant, août 1699, p. 217-232</bibl>
         <p>Détail de tout ce qui s'est fait à Paris à l'occasion de la Statuë Equestre du Roy.</p>
@@ -68,6 +67,6 @@
         <p>Le Colonel des Archers de Ville estoit à leur teste avec les Officiers de ses Compagnies. Le Colonel &amp; les Officiers estoient à cheval, &amp; les Archers à pied ; ils marchoient quatre à quatre. Ils avoient tous un tour de plumes blanches, leurs casaques &amp; leurs armes. Les Tambours &amp; les Hautbois se faisoient entendre ensuite. [...]</p>
         <p>Messieurs de Ville monterent en carosse, &amp; se rendirent sur le bord de la Seine, où cinq grands Bateaux ornez de Tapisseries les attendoient. Ils y prirent place. Ces cinq Bateaux estoient accompagnez de deux autres remplis de Tambours, de Timbales, de Trompettes, de Flutes &amp; de Hautbois.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

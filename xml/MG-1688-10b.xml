@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,11 +51,11 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-10b_227">
+      <div type="article" xml:id="MG-1688-10b_227" resp="mercure">
         <head>MG-1688-10b_227</head>
         <bibl>Mercure galant, octobre 1688, seconde partie, p. 227-228</bibl>
         <p>[...] Bien loin de cela, nous avons beaucoup d'exemples de quantité de sujets, qui ayant esté postulez par la plus grande partie du Chapitre, ont esté preferez à ceux qui avoient esté élus par la moindre partie pour les Cathedrales &amp; pour les Metropolitaines d'Allemagne. Il nous suffira icy de marquer Jean, Marquis de Bade, qui fut postulé Archevesque de Tréves par la plus grande partie du Chapitre le 21. Juin 1456. c'est à dire quelques années après le Traité du Concordat Germanique. On le conduisit au grand Autel, au son des Cloches, &amp; il prit possession de l'Eglise &amp; de toutes les dépendances de l'Archevesché de Tréves, malgré les oppositions du Seigneur d'Issembourg, dont la plus petite partie avoit fait l'élection. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

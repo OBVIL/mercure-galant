@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-04_004">
+      <div type="article" xml:id="MG-1699-04_004" resp="mercure">
         <head>MG-1699-04_004</head>
         <bibl>Mercure galant, avril 1699, p. 4-22</bibl>
         <p>Visites faites par Mr l'Evesque de Poitiers.</p>
@@ -60,8 +60,7 @@
         <p>Le Dimanche de la Sexagesime fut destiné pour faire toutes les fonctions Episcopales dans l'Eglise de Nôtre Dame, l'une des plus belles du Royaume, &amp; on prepara toutes choses pour cela. [...]</p>
         <p>[M. l'Evêque] commença la grand'Messe qu'il celebra in Pontificalibus, &amp; qui fut chantée au Choeur avec l'Orgue.</p>
       </div>
-
-<div xml:id="MG-1699-04_058">
+      <div type="article" xml:id="MG-1699-04_058" resp="mercure">
         <head>MG-1699-04_058</head>
         <bibl>Mercure galant, avril 1699, p. 58-94</bibl>
         <p>Suite du Journal concernant l'Ambassadeur de Maroc.</p>
@@ -73,8 +72,7 @@
         <p>Ayant esté voir Madame le Camus Melson, l'entretien fut tres-vif, &amp; tres spirituel de part &amp; d'autre. Cette Dame le regala d'un tres-beau Porte-lettres, &amp; d'une Tabatiere d'or, garnie de Diamans &amp; de Turquoises. Il alla ensuite à l'Opera de Thesée, où il se récria encore plus qu'il n'avoit fait la premiere, fois, toutes les parties de ce spectacle l'ayant enchanté. [...]</p>
         <p>Il fit de grandes exclamations à Saint Denis sur la beauté des Tombeaux &amp; sur la richesse du Tresor. Il admira le vitrage de cette Eglise, qu'il examina avec attention, &amp; dont il ne pouvoit retirer sa vûë. Le Pere Prieur le reçut à la porte de l'Eglise, avec plusieurs de ses Religieux, &amp; fit joüer les Orgue lorsqu'il sortit.</p>
       </div>
-
-<div xml:id="MG-1699-04_123">
+      <div type="article" xml:id="MG-1699-04_123" resp="mercure">
         <head>MG-1699-04_123</head>
         <bibl>Mercure galant, avril 1699, p. 123-166</bibl>
         <p>Relation exacte de l'Entrée de Mr le Comte de Chantilly, Ambassadeur Extraordinaire de France à Copenhague.</p>
@@ -85,6 +83,6 @@
         <p>S. E. entra dans la Ville par la Porte de l'Oüest, &amp; fut salüée de vingt-sept coups de canon des ramparts. [...] Dans la premiere Place de la route, S. E. rencontra un Bataillon d'environ six cens hommes formé regulierement, à cause de la petitesse de la Place, tambours battant, Enseignes déployées, presentant les armes. [...] [Il dîne avec M. de Scorbiat, Maréchal.] Ce repas fut accompagné de Trompettes, Timbales, Violons, Flutes &amp; Hautbois, &amp; de quelques airs Italiens, par la Musique du Roy de Dannemarck, &amp; par celle du Prince Royal. On y but en ceremonie debout, &amp; au son des Trompettes &amp; Timbales, la santé des deux Rois &amp; des Maisons Royales, en cette sorte. Le Grand Maistre des Ceremonies se leva, &amp; prit un Villocum, ou grand verre plein, &amp; qu'il vuida à la santé du Roy Tres-Chrestien, &amp; il l'apporta à S. E. qui cependant estoit debout, &amp; tenoit le couvercle du Villocum qui luy avoit esté presenté par le Grand Maistre des Ceremonies. On apporta ensuite deux Villocum pleins, dont les deux premiers Seigneurs qui estoient à la droite, prirent chacun un couvercle. S. E. but à la santé du Roy de Dannemack, &amp; la porta au premier &amp; ensuite celle du Roy, qu'il porta au second. Les autres firent ainsi la ronde, pendant laquelle on se tint debout, &amp; par les signaux qu'un Officier fit par les fenestres avec une bougie aux Trompettes &amp; aux Timbales, les Instrumens sonnerent la charge à chaque coup, autant qu'il dura, &amp; jusqu'à ce que la bougie fut retirée. [...]</p>
         <p>Le 3. Mars, dernier jour du Carnaval, Son Excell. traita à dîner &amp; à souper les Seigneurs qui l'avoient esté recevoir &amp; complimenter, le Grand Maistre &amp; le Maistre des Ceremonies, les trois Gentilshommes de la Cour, leurs Hautes Excellences Mrs de Guldenlew, General &amp; Amiral ; sa haute Grace Madame la Generale, &amp; les principaux Seigneurs &amp; Dames de la Cour. Il y eut Bal toute la nuit, &amp; des Appartemens extraordinairement éclairez pour le Jeu.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

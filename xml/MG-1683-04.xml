@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-04_045">
+      <div type="article" xml:id="MG-1683-04_045" resp="mercure">
         <head>MG-1683-04_045</head>
         <bibl>Mercure Galant, avril 1683, p. 45-49, 52-58, 78-82, 84-86</bibl>
         <p>Description de tous les Divertissemens de Venise pendant le dernier Carnaval</p>
@@ -71,24 +71,21 @@
         <p/>
         <p>Au commencent de ma premiere Lettre des Opéra, ou je parle de la grandeur du Théatre de S. Jean Chrysostome, que j'ay mesuré moy-mesme avec un Pied que j'ay apporté de Paris, je me suis servy du mot Portique, pour signifier une Arcade ; &amp; comme ce premier Mot se peut encor entendre pour un Vestibule, ou premiere Salle d'entrée, j'ay peur, Madame, de ne m'estre pas rendu assez intelligible. Voicy comme je l'ay voulu expliquer. Le théatre des Acteurs a treize toises, &amp; trois pieds de longueur, &amp;c. Il est ouvert par une grande Arcade, aussi haute que la Salle dans l'épaisseur de laquelle il ya encor quatre Pales de chaque côté les uns sur les autres (je veux dire qu'il y en a qu'un à chaque rang) qui sont de la mesme symétrie que ceux de la Salle, mais beaucoup plus ornez &amp; enrichis ; &amp; dans la voûte de cette Arcade, deux Renommées, avec leurs Trompetes, sont aussi en relief, &amp; paroissent suspendües en l'air ; &amp; au milieu, à l'endroit de la clef, est un Tableau d'une Vénus qu'un petit Amour caresse. [...]</p>
       </div>
-
-<div xml:id="MG-1683-04_134">
+      <div type="article" xml:id="MG-1683-04_134" resp="mercure">
         <head>MG-1683-04_134</head>
         <bibl>Mercure Galant, avril 1683, p. 134-138</bibl>
         <p>Opéra représenté à Rome</p>
         <p/>
         <p>Nous avons à Rome Mr l'Abbé Servient, Camérier Secret participant du Pape, dont la Charge luy donne un logement dans le Palais de sa Sainteté. Ce logement ayant esté cause qu'il n'a pû faire faire devant sa Porte des Feux de joye, sur la Naissance de Monseigneur le Duc de Bourgogne, comme les autres Fançois qui sont dans la mesme Ville, son zele parut bien plus magnifiquement lors qu'il eut appris cette Naissance. Il fit représenter un Opéra de Musique chez le Sieur Mario Cianti, Cavalier Romain, où toutes les Personnes les plus qualifiées de Rome se trouverent. Elles y furent régalées de toutes sortes de rafraîchissemens servis en profusion, &amp; avec une propreté extraordinaire. Cet Opéra eut de si grandes beautez, que la Reyne de Suede ne put s'empescher de prier Mr l'Abbé Servient de le faire représenter encor une fois chez elle. In ne faut pas s'étonner si la musique en fut trouvée admirable, puis qu'elle estoit de la Composition de cet habile Autheur Don Pietro Pignalta, Maistre de l'Apollinaire. [...]</p>
       </div>
-
-<div xml:id="MG-1683-04_137">
+      <div type="article" xml:id="MG-1683-04_137" resp="mercure">
         <head>MG-1683-04_137</head>
         <bibl>Mercure Galant, avril 1683, p. 138-139</bibl>
         <p>Opéra représenté à Gennes</p>
         <p/>
         <p>On a représenté un Opéra à Gennes dans le Palais du Prince Doria, où la grande partie du Sénat s'est trouvée. On y voyoit Sainte Françoise Romaine, qui consentoit que le Roy de Naples fist son Fils prisonnier &amp; ce mesme Fils délivré par miracle. Comme chaque Païs a ses manieres, un Pere Jesuite fit une éloquente Prédiction à ceux qui estoit assemblez, pour entendre cet Opéra.</p>
       </div>
-
-<div xml:id="MG-1683-04_138">
+      <div type="article" xml:id="MG-1683-04_138" resp="mercure">
         <head>MG-1683-04_138</head>
         <bibl>Mercure Galant, avril 1683, p. 138-155</bibl>
         <p>Quoy que dans le Carnaval, on ne donne point extraordinairement des divertissemens publics à Paris, comme c'est l'usage en beaucoup d'autres Villes de l'Europe, on ne laisse pas d'y faire des Festes aussi galantes &amp; en aussi grand nombre chez les Personnes qualifiées, que l'on en fasse en aucun Lieu de la Terre. Les Spectateurs s'y trouvent toûjours en confusion, sans qu'il soit besoin de les amasser, en publiant le Spéctacle longtemps avant qu'il se donne. Aussi peut-on dire que chaque Hostel de Paris passeroit dans les Païs Etrangers pour le Palais d'un Souverain, &amp; chaque Quartier pour une tres grande Ville. Les nombreuses Assemblées qu'on a veuës ce Carnaval à l'Hostel de Duras, sont une preuve de ce que je dis. On y a donné plusieurs Représentations d'un Opéra nouveau, intitulé L'Amour Berger. C'estoit une Pastorale qui a attiré une telle foule, que les Personnes du premier rang n'ont pû quelque-fois y trouver place. Voicy le Prologue de cet Opéra. Le mois prochain je vous parleray de la Piece, &amp; vous en envoyeray les plus beaux endroits ; avec quelques Airs notez. Vous ne serez pas fâchée de les voir, puis qu'ils sont de Mr de la Lande, dont vous sçavez que le nom n'est pas inconnu à la Cour.</p>
@@ -318,14 +315,12 @@
         <p/>
         <p>La Symphonie recommençoit l'ouverture.</p>
       </div>
-
-<div xml:id="MG-1683-04_159">
+      <div type="article" xml:id="MG-1683-04_159" resp="mercure">
         <head>MG-1683-04_159</head>
         <bibl>Mercure Galant, avril 1683, p. 159-160</bibl>
         <p>[J'ai] souvenir qu'en vous parlant il y a un mois, de toutes les Mascarades qui se sont faites à la cour pendant le Carnaval, je promis de vous faire graver celle de la Nôce de Village, faite par Monseigneur le Dauphin. Je vous ay tenu parole, &amp; voicy la Planche que j'en ay fait faire. Vous la pouvez confronter avec la description de ma précedente, afin d'en examiner les Habits avec plus d'exactitude &amp; plus de plaisir. Ils estoient riches, quoy que convenables au sujet ; &amp; les Personnes qui représentoient les Gens de la Nôce, n'ayant pû prendre l'air Villageois, en prenant l'habillement de Village, on y remarquoit quelque chose, qui imprimoit le respect avec la joye.</p>
       </div>
-
-<div xml:id="MG-1683-04_160">
+      <div type="article" xml:id="MG-1683-04_160" resp="mercure">
         <head>MG-1683-04_160</head>
         <bibl>Mercure Galant, avril 1683, p. 160-164</bibl>
         <p>« Il est peu de Ville, où le Carnaval n'ait donné occasion à de pareilles Réjoüissances. On a veu icy de fort jolis Vers, d'une Mascarade qui s'est faite à Montauban. C'estoit un More qui les présentoit à une Belle. Les plaintes qu'il fait sont tournées si galammant, qu'il mérite bien que vous les écoutiez.</p>
@@ -373,24 +368,21 @@
         <p>C'est le Soleil qui m'a noircy,</p>
         <p>Et ce sont vos yeux qui me brûlent. »</p>
       </div>
-
-<div xml:id="MG-1683-04_164">
+      <div type="article" xml:id="MG-1683-04_164" resp="mercure">
         <head>MG-1683-04_164</head>
         <bibl>Mercure Galant, avril 1683, p. 164-165</bibl>
         <p>Depart de la Signora Donna Anna Carouso</p>
         <p/>
         <p>Enfin, Madame, nous avons perdu la Signora Donna Anna Carouso, cette merveilleuse Romaine, dont je vous ay souvent entretenüe. Elle retourne à Rome, &amp; laisse icy une grande réputation. Son sçavoir, sa maniere de chanter, &amp; d'accompagner sa voix avec le Clavessin &amp; la Lire, &amp; plus que tout cela, son esprit, sa sagesse, &amp; sa modestie, luy ont fait acquerir une estime extraordinaire dans ce Royaume, où les choses médiocres ne sont jamais admirées, &amp; où depuis le Regne de LOÜIS LE GRAND, on n'est pas accoûtumé d'en voir des autres Païs qui surprennent. [...]</p>
       </div>
-
-<div xml:id="MG-1683-04_220">
+      <div type="article" xml:id="MG-1683-04_220" resp="mercure">
         <head>MG-1683-04_220</head>
         <bibl>Mercure Galant, avril 1683, p. 220-225.</bibl>
         <p>Mariage de M. le Comte de Gondrin</p>
         <p/>
         <p>On a eu avis que Mr le Comte de Gondrin épousa Mademoiselle de Pochonne sur la fin du Carnaval. Le Mariage s'est fait dans la Ville d'Aqs, dont Mr le Marquis de Pochonne, Frere de la Mariée, est Gouverneur, aussi-bien que du Chasteau. [...] La Cerémonie des Fiançailles fut faite dans l'Eglise Cathédrale le Dimanche-gras à dix heures du soir, par Mr de Gergoing, Vicaire General de Mr l'Evesque d'Aqs. Les Discours qu'il fit aux Fiancez sur l'état qu'ils alloient prendre, charma toute l'Assemblée, qui se rendit en suite au Chasteau, où il y eut Bal jusqu'au jour. Mr le Comte de Gondrin, &amp; Mademoiselle de Pochonne, ne s'y firent pas moins admirer par leur bon air à la Dance, que par la magnificence de leurs Habits. Ils allerent recevoir le lendemain la Bénediction Nuptiale [...]. Lors qu'on fut rentré dans le Chasteau, on trouva un magnifique Dîné, où tout ce que l'on pouvoit donner dans la Saison fut servy en abondance. [...] [Le soir, il y ] eut un second Bal dans le mesme Sallon où l'on avoit déjà dancé. [...] Ces réjoüissances durerent plusieurs jours avec le mesme ordre, &amp; une tres-bonne Symphonie.</p>
       </div>
-
-<div xml:id="MG-1683-04_310">
+      <div type="article" xml:id="MG-1683-04_310" resp="mercure">
         <head>MG-1683-04_310</head>
         <bibl>Mercure Galant, avril 1683, p. 310-318</bibl>
         <p>Motets chantez devant le Roy, de la composition de ceux qui aspirent à la Maistrise de Musique de la Chapelle de Sa Majesté, avec tous les noms de ceux qui les ont fait chanter.</p>
@@ -451,30 +443,27 @@
         <p/>
         <p>Le Sieur Charpentier estoit fort malade dans le temps qu'on a enfermé ces quinze Musiciens. Il n'y a eu jusqu'icy que deux Maistres de Musique de la Chapelle du Roy. Mr du Mont, &amp; Mr Robert, tous deux tres-habiles, &amp; tres-estimez, remplissoient ces places ; &amp; comme leur âge les oblige de quitter, Sa majesté en veut choisir quatre pour le mesme employ. Depuis que les quinze sur qui doit tomber ce choix, sont sortis du lieu où ils avoient esté enfermez, ils ont tiré au Billet à qui feroit chanter le premier. Le Maistre de Musique de Meaux, dont le nom paru d'abord, commença Lundi 26. de ce mois ; &amp; Mr Mignon, Maistre de Musique de Nostre-Dame, fit chanter le lendemain. Je n'ay point sçeu dans quel ordre tous les autres noms ont esté tirez. Je sçay seulement que Mr Lorenzani fera chanter le septiéme, &amp; que Mr Colasse est le dernier. C'est celuy qui bat la mesure aux Opéra de Mr Lully.</p>
       </div>
-
-<div xml:id="MG-1683-04_356">
+      <div type="article" xml:id="MG-1683-04_356" resp="mercure">
         <head>MG-1683-04_356</head>
         <bibl>Mercure Galant, avril 1683, p. 356-357</bibl>
         <p>Réjoüissances faites à Constantinople pour la Naissance de Monseigneur le Duc de Bourgogne</p>
         <p/>
         <p>On a eu nouvelles de Constantinople, que Mr de Guilleragues nostre Ambassadeur n'y eut pas plûstot reçeu avis de la Naissance de Monseigneur le Duc de Bourgogne, qu'il en fit rendre des actions de grace dans la chapelle du Palais de France. La Messe y fut celebrée Pontificalement par Mr l'Evesque de Cysique, Vicaire Patriarchal de Constantinople, qui prononça un fort beau Discours Italien à la louange de Sa Majesté. On chanta ensuite le Te Deum. [...]</p>
       </div>
-
-<div xml:id="MG-1683-04_357">
+      <div type="article" xml:id="MG-1683-04_357" resp="mercure">
         <head>MG-1683-04_357</head>
         <bibl>Mercure Galant, avril 1683, p. 357-358</bibl>
         <p>Festes de Toulouse</p>
         <p/>
         <p>Vous vous souvenez de toutes les Festes qui ont esté faites à Toulouse pour cette mesme Naissance [celle du duc de Bourgogne]. On a bien connu qu'elles se faisoient par le zele, encor plus que par devoir, puis qu'elles ont esté renouvellées dans la mesme Ville à la fin de Fevrier. On y représenta chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit La naissance de Mercure, par rapport aux avantages que tire la France de la Naissance de Monseigneur le Duc de Bourgogne. La Comédie avoit pour titre Le philosophe à la Mode, &amp; l'on y joüoit les cartésiens. [...]</p>
       </div>
-
-<div xml:id="MG-1683-04_363">
+      <div type="article" xml:id="MG-1683-04_363" resp="mercure">
         <head>MG-1683-04_363</head>
         <bibl>Mercure Galant, avril 1683, p. 363</bibl>
         <p>Phaéton, Opéra</p>
         <p/>
         <p>L'Opéra de Phaéton, qui a servy de divertissement à la Cour ce Carnaval, fut donné pour la premiere fois au Public Mardy dernier 17. de ce mois. Je vous en entretiendray dans ma premiere Lettre.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
