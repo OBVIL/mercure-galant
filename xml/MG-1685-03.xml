@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-03_033">
+      <div type="article" xml:id="MG-1685-03_033" resp="mercure">
         <head>MG-1685-03_033</head>
         <bibl>Mercure Galant, mars 1685, p. 33-34, 47-48</bibl>
         <p>Conte [OENOPHILE]</p>
@@ -69,8 +69,7 @@
         <p>On ne connoissoit point ce que c'est qu'Opera.</p>
         <p>[...]</p>
       </div>
-
-<div xml:id="MG-1685-03_049">
+      <div type="article" xml:id="MG-1685-03_049" resp="mercure">
         <head>MG-1685-03_049</head>
         <bibl>Mercure Galant, mars 1685, p. 49-51, 62-66</bibl>
         <p>Description de tout ce qui s'est fait à Rome à l'occasion [des funérailles] de Dom Alphonse VI. Roy du Portugal, avec la Description du Mausolet dressé pour cette Cérémonie</p>
@@ -82,8 +81,7 @@
         <p>Sur les deux heures M. le Cardinal d'Estrées partit avec un cortege de pres de cinquante Prélats, &amp; quantité d'autres personnes considérables. [...] Son Eminence fut reçuë à la Porte par le Resident de Portugal accompagné des principaux de la Nation ; &amp; des Officiers de l'Eglise. Après que ce Cardinal eut pris sa Place aupres de l'Autel, sur une Estrade, les prélats à la droite du Mausolée, du costé de l'Evangile, &amp; le Resident &amp; ceux qui l'accompagnoient, vis à vis du costé de l'Epistre, la Messe commença. Elle fut celebrée par Mr l'Archevesque de Trebisonde, qui étoit assisté de quatre Evesques, suivant le Ceremonial que l'on observe, aux Obsèques des Roys. La Musique parut merveilleuse, tant par la beauté de la composition, que par le nombre des voix, &amp; des instrumens.</p>
         <p>Il étoit environ deux heures apres midy, lors que toutes les Ceremonies furent achevées. [...]</p>
       </div>
-
-<div xml:id="MG-1685-03_171">
+      <div type="article" xml:id="MG-1685-03_171" resp="mercure">
         <head>MG-1685-03_171</head>
         <bibl>Mercure Galant, mars 1685, p. 171-173</bibl>
         <p>Regalle donné à leurs Altesses Royales de Savoye</p>
@@ -91,8 +89,7 @@
         <p>S. A. R. de Savoye, ayant agree que Mr le President Truchy, l'un de ses Ministres d'Etat ; luy offrist un Bal, &amp; à Mesdames Royales, ce Ministre fit préparer son Palais, qui est un des plus magnifiques de Turin, pour la nuit du 28. de Fevrier passé, &amp; se disposa à recevoir les Personnes Royales qui devoient y venir ; suivies de toute la Cour, de la maniere qu'il fait, &amp; a toûjours fait toutes choses ; c'est à dire en grand Homme, qui entend aussi finement à ordonner une Feste, qu'à soûtenir les plus importantes affaires. [...]</p>
         <p>[Suit la description de l'architecture du palais.]</p>
       </div>
-
-<div xml:id="MG-1685-03_202">
+      <div type="article" xml:id="MG-1685-03_202" resp="mercure">
         <head>MG-1685-03_202</head>
         <bibl>Mercure Galant, mars 1685, p. 202-229</bibl>
         <p>Description entiere du Carnaval de la Cour, &amp; de la Course des Festes</p>
@@ -104,38 +101,34 @@
         <p>La Mascarade des Cris de Paris fut la sixiéme de Monseigneur le Dauphin. Ceux qui accompagnoient ce Prince, étoient Monsieur le Prince de Conty, Monsieur le Prince de la Roche-sur-Yon, Mr le Grand Prieur, Mr le Comte de Brienne, Mr le Prince de Thingry, Mr le Marquis d'Alincours, Mr le Marquis de Courtenvau, Mr de la Rocheguion, Mr de Liencourt, Mr de Grignan, &amp; Mr du S. Esteve. Selon les Mestiers qu'ils representoient, ils portoient ce qu'il y avoit de plus delicat à boire &amp; à manger, &amp; quelques uns portoient jusqu'à des Boutiques garnies de ce qui regardoit leur Personnage. Monsieur le duc de Bourbon, &amp; Mademoiselle de Bourbon vinrent ce soir-là au Bal avec une Troupe de Huit Personnnes, dont les habits representoient des Pavillons. La Mascarade de Monsieur le Duc du Mayne, qui parut le mesme soir, étoit de dix Seigneurs Chinois, &amp; de cinq Dames Chinoises, avec des habits aussi magnifiques, que bien imaginez. Voicy les Noms de ceux qui composoient cette Mascarade ; Monsieur le Duc du Mayne, Monsieur le Comte de Thoulouse, Mr de Mancini, Mr le Comte de Crussol, Mr de Duras, Mr Sully, Mr de Grignan, Mr le Marquis de la Vrilliere, Mr de Soyecourt, Mr Bontemps, Mademoiselle de Nantes, Mademoiselle de Blois, Mademoiselle d'Usez, Mademoiselle de Senneterre, Mademoiselle de Chasteauneuf. Quelques jours avant la fin du Carnaval Monseigneur le Dauphin ayant resolu de faire une Course de Testes en maniere de petit Carousel, avec des Quadriles, on chercha un Sujet, on imagina des Habits, on les fit, on s'exerça, &amp; l'on courut enfin six jours apres qu'on eut resolu ce divertissement. La France seule est capable d'executer des choses de cette nature en si peu de temps. Vous en serez surprise, quand vous aurez sçeu ce que j'ay à vous en dire. Le Dimanche 4. de Fevrier, le Roy, Madame la Dauphine, &amp; toute la Cour se rendirent à trois heures apres midy sur les Amphitheatres du Manege découvert de Versailles. La Quadrille de Monseigneur le Dauphin entra aussi-tost dans la Carriere, au son des Timbales &amp; des Trompettes ; les Armes de cette Quadrille estoient noir &amp; or, les habits de dessous noirs &amp; bordez d'or, &amp; toutes les plumes tant des Hommes que des Chevaux étoient blanches, &amp; les garnitures de mesme. Mr le Marquis de Dangeau, sous le nom de Charlemagne, entra le premier comme Juge du Camp. Monseigneur le Dauphin, estoit sous le nom de Zerbin ; Mr le Prince de Tingry, sous celuy de Renaud ; Mr de la Roche-Guyon, sous celuy d'Aquilan le noir ; Mr le Marquis de Liancour, sous celuy de Grifon le blanc ; &amp; Mr le Marquis d'Antin, sous celuy de Roland. La seconde Quadrille entra aussi-tost apres, précedée de ses Trompettes, &amp; de ses Timbales. Les couleurs de cette Quadrille estoient or &amp; vert, avec des plumes blanches, &amp; mouchetées de vert. Mr le Duc de Gramont estoit Juge du Camp. Il entra le premier sous le nom d'Agramant, Monsieur le Prince de la Roche-sur-Yon, avoit celuy de Mandricard, Mr le Duc de Vandosme, celuy de Gradasse ; Mr le Prince de Turenne, celuy de Roger ; Mr le Comte de Briône, celuy de Rodomont ; &amp; Mr le Marquis d'Alincour, celuy de Sacripant. On ne peut avoir plus de satisfaction que cette Course en donna aux Spectateurs, ny meriter plus d'aplaudissemens que Monseigneur le Dauphin, qui est le Prince du Monde, qui a la meilleure grace les Armes à la main. Apres une fort longue dispute, le Prix demeura à la seconde Quadrille, &amp; ceux qui la composoient le disputerent long-temps entr'eux ; mais enfin, Mr le Prince de Turenne l'emporta, &amp; reçut de la main du Roy, au son des Timbales, &amp; des Trompettes, une Epée d'or avec de riches Boucles, Mr du Mont Ecuyer de Monseigneur le Dauphin, montoit un Cheval nud qu'il gouvernoit, comme auroit pû faire le plus habile Ecuyer à qui rien n'auroit manqué, pour bien manier un Cheval, sur lequel il auroit esté monté. Je croy que vous sçavez de quelle maniere se fait cette Course de testes. Il faut d'abord en emporter une avec la Lance ; puis on en darde une autre, on se retourne ensuite vers la Meduse que l'on darde aussi, apres quoy on emporte à l'épée la derniere teste, qui est plus basse que les autres. Je vous envoyeray le mois prochain les Devises de tous ceux qui estoient de cette Course. Le lendemain on representa l'Opera d'Amadis à Versailles. Le Roy ne l'avoit point encore veu, parce que cet Opera avoit paru dans l'année de la mort de la Reyne, &amp; vous sçavez que pendant ce temps, le Roy n'a pris aucun divertissement. Le jour suivant qui estoit le dernier du Carnaval, la Mascarade de Monseigneur le Dauphin, estoit d'un Marquis de Mascarille porté en Chaise, avec un équipage convenable à son fracas d'ajustement, Monsieur le Comte de Thoulouse masqua ce soir là avec un habit de Persan, &amp; charma toute la Cour. Parmy les Mascarades qui ont le plus diverty, il y en a eu une de Suisses, qui a donné un fort grand plaisir, &amp; dont l'invention causa beaucoup de surprise. Toutes les fois que Madame la Dauphine a dancé, pendant les jours destinez aux Mascarades, sa bonne grace &amp; la justesse de son oreille ont toûjours paru. Madame la Princesse de Conty s'y est souvent fait admirer sous plusieurs habits, mais sur tout avec un habit Grec, dont on fut tellement charmé, que plusieurs en firent faire de semblables pour les Bals suivans. Mes Dames les Marquises de Richelieu &amp; de Bellefonds, se sont fort distinguées par divers habits aussi riches que bien entendus. Madame la Marquise de Seignelay a aussi brillé de la mesme sorte, &amp; fit tout avec un habit à la Hongroise. Je serois trop long si j'entrois dans le detail de toutes celles qui en ont eu de tres riches en masquant. Quoy que ces habits n'eussent le Caractere d'aucune Nation, ils n'en estoient ny moins beaux, ny moins magnifiques, ny moins bien entendus, &amp; n'en paroient pas moins les Dames qui les portoient. Il y a eu encore un divertissement, qui pour n'avoir pas esté du nombre des Mascarades qui se sont faites chez le Roy, n'a pas laissé d'estre un des plus agréables, dont on ayt jamais entendu parler. Le Roy estant entré un soir chez Madame de Montespan, fut surpris de voir que tout son appartement representoit la Foire de S. Germain. Ce n'étoit par tout que Boutiques remplies de Marchands, &amp; l'on voyoit mesme des Compagnies entieres de Personnes qui se promenoient dans cette Foire, &amp; qui faisoient conversation, ou entr'elles, ou avec les Marchands &amp; les Marchandes. Enfin, tout ce que l'on a coustume de voir à la Foire, y paroissoit dépeint au naturel. C'est ainsi qu'on doit surprendre pour bien divertir, &amp; tous ces sortes de divertissemens sont de bon goust.</p>
         <p>L'Opera de Roland qui avoit esté fait pour le Roy, n'ayant pû estre representé à Paris, avant que les divertissemens de Versailles eussent cessé, fut donné pour la premiere fois au Public, le huitiéme de ce mois, accompagné des Machines &amp; des Décorations qui n'avoient pû luy servir d'ornement à la Cour, parce que le superbe Théatre où ces grands spectacles doivent paroistre, n'est pas encore achevé. Ces Décorations &amp; ces Machines, ont donné un nouvel éclat à cet Opera. Ils sont de Mr Berrin, aussi bien que les desseins des habits des Mascarades &amp; du Carousel, dont je viens de vous parler. La Troupe Italienne est augmentée d'un Acteur nouveau, qui attire les applaudissemens de tout Paris, &amp; qui n'a pas moins plû à la Cour qu'à la Ville. Il a une agilité de corps surprenante, &amp; seconde admirablement l'incomparable Arlequin.</p>
       </div>
-
-<div xml:id="MG-1685-03_299">
+      <div type="article" xml:id="MG-1685-03_299" resp="mercure">
         <head>MG-1685-03_299</head>
         <bibl>Mercure Galant, mars 1685, p. 299-301</bibl>
         <p>Eglise des Capucins à Montelimar</p>
         <p/>
         <p>Les Peres Capucins de Montelimar en Dauphiné, voulant avoir une Eglise proportionnée à leur Couvent, &amp; au Zèle qu'ils ont pour le service du Public, en firent benir la premiere Pierre le 7 de ce mois, avec autant de Solemnité que l'on en pouvoit atendre dans une pareille occasion. Mr l'Abbé Colombes, Doyen du Chapitre, accompagné de tout le Clergé, fit la Ceremonie au bruit des Tambours &amp; des Décharges du Regiment de Poitou, qui estoit en quartier d'hyver dans la Ville, &amp; rangé alors en Batailles aux avenues destinées pour cette Eglise, Elle sera dédiée sous le nom de S. Jospeh, Mr le Comte de Virreville, Gouverneur de Montelimar, &amp; Madame de Vogne, mirent cette premiere Pierre ; apres qu'elle eut esté portée processionnellement par toute la Ville. Ils estoient suivis des Consuls en Chaperon, avec la Maison de Ville, de la Noblesse, &amp; de la Bourgeoisie, de l'un &amp; l'autre sexe.</p>
       </div>
-
-<div xml:id="MG-1685-03_301">
+      <div type="article" xml:id="MG-1685-03_301" resp="mercure">
         <head>MG-1685-03_301</head>
         <bibl>Mercure Galant, mars 1685, p. 301-303</bibl>
         <p>Missions des Capucins</p>
         <p/>
         <p>Il ne faut pas s'étonner si l'on s'empresse pour toutes les choses où les Capucins ont quelque interest. Ils sont d'un Ordre que l'on estime par tout, &amp; qui par mille actions d'édification pour l'Eglise, &amp; de charité pour le Prochain, donne tous les jours des marques de l'ardeur qu'ils ont de voir dans tous les Chrestiens, une Pieté solide, &amp; une Foy qui réponde à la sainteté de nostre Religion. S'il falloit prouver cette vérité, je vous donnerois pour un exemple récent, la Mission que vient d'achever à S. Sulpice le Pere Honoré de Cannes, avec le Pere Claude de Paris, &amp; vingt autres Capucins. Elle a eu tout le succez qu'on en pouvoit souhaiter, tant par le nombre des Restitutions considerables que l'on y a faites, que par les Conversions surprenantes, de grandes reconciliations, &amp; plusieurs pratiques de Penitence, qui ont fait connoistre la parfaite resolution où l'on estoit, de renoncer aux plaisirs du Monde. Ainsi, l'on peut dire que dans tout le temps du Carnaval, qui estoit celuy de la Mission, l'on a vécu dans la Paroisse de S. Sulpice, avec la mesme reforme qu'on tasche d'avoir la semaine Sainte. Mr l'Archevesque de Paris en fit la closture le 17 de ce mois, apres avoir assisté au Salut, où il y eut deux Choeurs de Musique, &amp; une excellente Simphonie. [...]</p>
       </div>
-
-<div xml:id="MG-1685-03_307">
+      <div type="article" xml:id="MG-1685-03_307" resp="mercure">
         <head>MG-1685-03_307</head>
         <bibl>Mercure Galant, mars 1685, p. 307-308</bibl>
         <p>Divertissemens</p>
         <p/>
         <p>Je ne vous dis rien de la manière dont on a passé le Carnaval à Paris. C'est une description que l'on auroit peine à faire. On y a pris tous les Divertissemens qui se peuvent prendre dans une Ville, où les plaisirs se trouvent en abondance. Il y a eu force Bals, &amp; force Masques, &amp; entre autres Assemblées, celle qui se fit en ce temps là chez Mr le Marquis de Pommereüil, Maréchal de Camp, &amp; Gouverneur de Doüay, est très remarquable ; il donna un fort grand Bal, où étoient quantite de Dames, de la premiere qualité. Il fut suivy d'une Collation des plus magnifiques.</p>
       </div>
-
-<div xml:id="MG-1685-03_312">
+      <div type="article" xml:id="MG-1685-03_312" resp="mercure">
         <head>MG-1685-03_312</head>
         <bibl>Mercure Galant, mars 1685, p. 312-316</bibl>
         <p>Benédiction des Drapeaux des Gardes Françoises</p>
         <p/>
         <p>Il s'est fait icy [à Paris] une Marche aussi éclatante &amp; superbe, que guerriere, &amp; je ne croy pas qu'on en ait jamais veu de pareille chez aucune nation Etrangere, sans qu'on en ait répandu le bruit, long-temps auparavant, &amp; qu'on ait travaillé pour cela à de grands préparatifs. En effet, il semble qu'un assemblage pareil à celuy qui s'est veu dans cette Marche, demande qu'on ait recours à beaucoup de lieux étrangers, pour avoir les choses qui y peuvent estre nécessaires. Elles n'estoit composée que d'Officiers &amp; de Soldats, &amp; vous douterez point que tout ny fust extrémement magnifique, lors que vous sçaurez qu'ils sont du Régiment des Gardes Françoises. [...] Le sujet de leur marche estoit pour porter Benir quelques Drapeaux neufs de ce Regiment, à l'Eglise Nostre-Dame, ce qu'on fait de temps en temps. Comme la Marche de tout le Régiment auroit esté trop grande, il n'y avoit que des Capitaines, les Lieutenans, les Sous Lieutenans, les Enseignes, les Sergens, &amp; ceux du Regiment qu'on appelle le Porte-Enseignes, car les Officiers ne portent leurs Drapeaux que devant le Roy, dans des jours de Bataille, &amp; en montant la Garde ; dans les routes où il n'y a nul danger à craindre, ils sont portez par ces Portes-Enseignes. Outre tous ceux que je viens de vous marquer, il y avoit encore à cette Marche quatre vingt Tambours du Regiment, &amp; plusieurs Hautbois, vestus des Livrées du Roy. On se rendit en cet équipage dans le Choeur de Nostre-Dame, où les Drapeaux furent portez au bruit de tous ces instrumens, &amp; les Enseignes les ayant pris de mains des Portes-Enseignes, les mirent aux pieds de Mr l'archevesque de Paris, qui fit la Ceremonie de les Benir.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

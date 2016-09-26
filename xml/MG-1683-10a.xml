@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-10a_054">
+      <div type="article" xml:id="MG-1683-10a_054" resp="mercure">
         <head>MG-1683-10a_054</head>
         <bibl>Mercure Galant, octobre 1683, 1ere partie, p. 54-62</bibl>
         <p>Feste Funébre représenteée aux Jésuites de Rouen, au lieu de la Tragédie.</p>
         <p/>
         <p>Ce que les Jesuites de Roüen ont fait, mérite bien de trouver icy sa place. Quoy que la mort de la Reyne y ait donné lieu, ce n'est point une suite de Services dont je vay vous faire la description. C'est quelque chose de fort singulier, inventé avec esprit &amp; digne d'estre sçeu des Curieux. Au lieu de la Tragédie &amp; des Ballets dont ils accoûtumé de donner le Spéctacle tous les ans dans le mois d'Aoust pour la distribution des Prix, ils suprimérent la Piece que l'on avoit préparée, &amp; en firent représenter une autre par leurs Ecoliers, sur la mort de la Reyne, le 13. Septembre, en présence du Parlement, qui a fondé les Prix, &amp; des principaux Membres des autres Corps de la Ville. La Salle, dont on se servit pour cette Action, estoit renduë de Drap noir depuis le haut jusqu'au bas. Il y avoit tout autour deux Bandes de Larmes, d'où pendoient les Ecussons de France &amp; d'Autriche, entremeslez des quartiers d'Espagne, &amp; de quantité d'Emblémes &amp; de Devises sur cette Princesse. La piece estoit divisée en trois Parties. Dans la premiere, quelques Acteurs parurent sur le Théatre ordinaire, comme pour commencer la Tragédie &amp; le Ballet ; mais ils en furent empeschez par le Génie de la France, qui leur apprit la mort de la Reyne, &amp; par Thémis, qui leur ordonna de changer les Jeux qu'ils avoient préparez par son ordre, en des Spéctacles lugubres, &amp; de prendre part à la douleur genérale de la France. En mesme temps la Scene changea, &amp; l'on vit paroistre tout d'un coup au commencement de la seconde partie, un second Théatre en deüil, sur lesquel estoit élevé un grand Tombeau de marbre. Sur ce Tombeau estoit une Urne, que quatre Amours pleurans tenoient embrassée. Chacun avoit son symbole. L'un éteignoit son Flambeau avec ses larmes. L'autre accablé de douleur, se perçoit le coeur d'une de ses Fléches. Le troisième brûloit des Parfums ; &amp; le quatrième jettoit des Fleurs sur le Tombeau. La Religion &amp; la Pieté stoient au pied, aussi avec leurs Simboles. Au dessus de l'Urne estoit une mort, &amp; au dessus de cette Mort, paroissoit la Renommée. Elle tenoit l'Image de la Reyne, victorieuse de la Mort, &amp; s'élevant vers le Ciel. Pour marquer le triomphe de cette Princesse sur la Mort, au lieu de Cyprés, on avoit mis autour du Tombeau des Palmiers qui occupoient toute la Scene. Ils estoient chargez de trois sortes de Couronnes ; d'une couronne Royale de France, d'une Couronne de Fleurs, &amp; d'une Couronne d'Etoiles. Ce Spéctacle, auquel on ne s'attendoit pas, surprit d'abord toute l'Assemblée ; mais elle fut beaucoup plus surprise, quand les Statuës de marbre qui estoient sur le Tombeau, &amp; ausquelles il sembloit qu'il ne manquast que la voix, commencerent à parler, apres en avoir reçeu l'ordre de Thémis. Chacune de ces Statuës pleura la Reyne selon le caractere qu'elle soûtenoit. La Religion exprima par ses Vers le deüil de l'Eglise ; la Pieté, la douleur des Pauvres &amp; des Misérables, pour la perte de leur Bienfaictrice. Les quatre Amours firent entendre les regrets du Roy, de la Famille Royale, de la Cour, &amp; de toute la Nation Françoise. Ces Vers lugubres furent suivis d'un Concert de Musique formé par Apollon &amp; par les Muses, qu'on suposoit avoir elevé ce Tombeau dans le Parnasse. Des Echos qui estoient dans le Tombeau, répondoient à ces concerts. La troisième Partie estoit une espece d'Apotheose. D'abord les Amours, en suite Apollon &amp; les Muses, le Génie de la France, &amp; Thémis, celébrerent tantost par des Vers, tantost par des Chants, triomphe de la Reyne dans le Ciel. Tout cela fut terminé par un Compliment au Parlement, que prononça Mr l'Abbé de Médavi de Grancé, Petit-Fils du Maréchal de ce nom, &amp; Petit-Neveu de Mr l'Archevesque de Roüen. [...]</p>
       </div>
-
-<div xml:id="MG-1683-10a_143">
+      <div type="article" xml:id="MG-1683-10a_143" resp="mercure">
         <head>MG-1683-10a_143</head>
         <bibl>Mercure Galant, octobre 1683, 1re partie, p. 143-144, 148-152, 164-166</bibl>
         <p>Autres Services faits pour la Reyne</p>
@@ -71,8 +70,7 @@
         <p/>
         <p>Mr l'Evesque, Duc de Langres, que je vous ay marqué pour le Prélat Celébrant, dans la description du Service solemnel de S. Denys, estant de retour en son Diocese, en fit un tres-magnifique le Lundy 20. du mesme mois dans l'Eglise de l'Oratoire, qui est Ouvrage admirable dans toutes ses parties. [...] La Musique fut excellente ; &amp; Mr l'Abbé de Boulogne, Grand Archidiacre, qui prononça l'Oraison Funebre, remplit parfaitement l'attente de tous ceux qui estoient présens. [...]</p>
       </div>
-
-<div xml:id="MG-1683-10a_261">
+      <div type="article" xml:id="MG-1683-10a_261" resp="mercure">
         <head>MG-1683-10a_261</head>
         <bibl>Mercure Galant, octobre 1683, 1re partie, p. 261-262, 266-267, 279</bibl>
         <p>Autres Services pour la Reyne</p>
@@ -83,6 +81,6 @@
         <p/>
         <p>Mr des Auzieres, Curé de S. Sillain de Périgueux, a fait paroistre sa reconnoissance, pour l'honneur que Mr des Auzieres son Frere a reçeu d'avoir servy la Reyne, en qualité de Valet de Chambre, par un Service qu'il a fait faire dans sa Paroisse, avec la Musique de la Cathédrale. Mr Doria, Docteur en Theologie, y prononça l'Oraison Funébre. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-05_027">
+      <div type="article" xml:id="MG-1685-05_027" resp="mercure">
         <head>MG-1685-05_027</head>
         <bibl>Mercure Galant, mai 1685, p. 27-28, 30-32</bibl>
         <p>Lettre concernant le Temple de Grenoble</p>
@@ -71,8 +71,7 @@
         <p>ALLARD, ancien Président en l'Eslection de Grenoble.</p>
         <p>A Grenoble ce 7. d'Avril 1685.</p>
       </div>
-
-<div xml:id="MG-1685-05_067">
+      <div type="article" xml:id="MG-1685-05_067" resp="mercure">
         <head>MG-1685-05_067</head>
         <bibl>Mercure Galant, mai 1685, p. 67-73, 75-77</bibl>
         <p>[Article touchant la Démolition du Temple] de Montelimart</p>
@@ -81,8 +80,7 @@
         <p/>
         <p>[A son arrivé, l'évêque de Valence fut harangué et complimenté, puis] Mr de Valence revestu de ses Habits Pontificaux, précedé de tous les Corps Religieux &amp; du Chapitre, partit en Procession pour aller à la Place du Temple ; pendant que la nouvelle Cloche &amp; les anciennes sonnoient à la fois. [...] La Benediction faite avec les Cerémonies ordinaires, Mr de Valence receut au pied de la Croix l'Abjuration d'une Femme. Il avoit auparavant receu celle d'un Gentilhomme dans un autre lieu. Aprés qu'il luy eut fait faire sa Profession de Foy, il retourna à l'Eglise dans le mesme ordre qu'il estoit party. La Musique qu'on avoit fait venir des Villes voisines, entonna le Te Deum, &amp; la Benédiction du Saint Sacrement fut donnée par Mr l'Evesque, qui fut ramené chez luy par Mrs du Chapitre, &amp; par tous les Corps Religieux. [...]</p>
       </div>
-
-<div xml:id="MG-1685-05_091">
+      <div type="article" xml:id="MG-1685-05_091" resp="mercure">
         <head>MG-1685-05_091</head>
         <bibl>Mercure Galant, mai 1685, p. 91-97, 104-106, 126-127</bibl>
         <p>Jeux Floraux, &amp; leur origine, avec plusieurs Piéces faïtes sur ce sujet</p>
@@ -96,8 +94,7 @@
         <p/>
         <p>Je ne doute point, Madame, que toutes ces Piéces ne vous donnent une estime particuliere pour les Muses Toulousaines. Il y a beaucoup de feu, &amp; un tout fort naturel, dans ce qui part d'elles ; &amp; j'espere que de temps en temps je pourray vous procurer le plaisir de voir leurs productions.</p>
       </div>
-
-<div xml:id="MG-1685-05_188">
+      <div type="article" xml:id="MG-1685-05_188" resp="mercure">
         <head>MG-1685-05_188</head>
         <bibl>Mercure Galant, mai 1685, p. 188-190</bibl>
         <p>Troisième dialogue sur les choses difficiles à croire</p>
@@ -106,8 +103,7 @@
         <p/>
         <p>Si l'on a veu Pytagore exceller dans la Morale, les autres Sciences n'ont pas moins contribué à rendre son nom fameux. [...] Dans la Musique ; il la faisoit servir pour la Morale, adoucissant les plus violentes passions de l'ame par la mélodie ; témoin ce jeune Homme desesperé d'amour, qu'il remit dans son bon sens avec un Air Spondaïque ou Sacrifical. [...]</p>
       </div>
-
-<div xml:id="MG-1685-05_197">
+      <div type="article" xml:id="MG-1685-05_197" resp="mercure">
         <head>MG-1685-05_197</head>
         <bibl>Mercure Galant, mai 1685, p. 197, 205-206, 213-218, 245-247, 249-251, 255-257, 259-267, 270-272, 275</bibl>
         <p>Couronnement du Roy d'Angleterre, contenant plusieurs particularitez qui n'ont point encore esté sceuës</p>
@@ -129,22 +125,20 @@
         <p/>
         <p>Après le Festin leurs Majestez revinrent à Witheal aux acclamations du Peuple.</p>
       </div>
-
-<div xml:id="MG-1685-05_362">
+      <div type="article" xml:id="MG-1685-05_362" resp="mercure">
         <head>MG-1685-05_362</head>
         <bibl>Mercure Galant, mai 1685, p. 362-363</bibl>
         <p>Tout ce qui s'est passé depuis l'arrivée du Doge jusques à son départ</p>
         <p/>
         <p>Ils allerent le soir au Bal, où ils furent placez par l'ordre de Sa Majesté dans un endroit fort avantageux pour voir toute la Cour. Elle estoit extrémement parée, &amp; la beauté des Dames estant relevée par tout ce qui pouvoit la faire briller, on peut dire qu'on ne sçauroit rien voir de plus éclatant que l'étoit cette Assemblée. Le Roy fit l'honneur au Doge de luy parler fort obligeamment aprés le Bal, &amp; sa Serenité comblée de tant de bontez, retourna à Paris le soir mesme avec les Senateurs, Mr l'Envoyé de Genes, &amp; toute leur Suite.</p>
       </div>
-
-<div xml:id="MG-1685-05_378">
+      <div type="article" xml:id="MG-1685-05_378" resp="mercure">
         <head>MG-1685-05_378</head>
         <bibl>Mercure Galant, mai 1685, p. 378-379</bibl>
         <p>Sermon en Grec par M. l'Abbé Barentin</p>
         <p/>
         <p>Je ne vous ay point encore parlé d'un Sermon extraordinaire qui se fait tous les ans aux Cordeliers le Dimanche de Quasimodo. La Confrairie des Pélerins de Jérusalem, établie dans l'Eglise de ces Peres, y fait dire ce jour-là une grande Messe que l'on chante en Grec, au milieu de laquelle on presche en la même Langue. L'usage est depuis long temps de choisir pour cet employ de jeu des Ecoliers de qualité, distinguez par les progres qu'ils ont faits dans leurs Etudes. [...] Messieurs de Lamoignon &amp; Talon l'ont fait dans leur temps, &amp; Mr l'Abbé Barentin, Fils de Mr Barentin Premier Président du Grand Conseil, a esté choisy cette année pour ce mesme employ. On ne peut s'en acquiter avec plus de grace qu'il a fait, soit pour le geste &amp; les flexions de voix, soit pour les autres talens qui sont propres à la Chaire. Il y avoit une tres nombreuse Assemblée de Gens de marque, qui en sortirent charmez. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

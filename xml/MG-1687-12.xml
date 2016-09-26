@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1687-12_280">
+      <div type="article" xml:id="MG-1687-12_280" resp="mercure">
         <head>MG-1687-12_280</head>
         <bibl>Mercure galant, décembre 1687, p. 280-282</bibl>
         <p>Etablissement de l'Opera à Lion.</p>
         <p/>
         <p>Il y a quelques années que je vous parlay de l'établissement de l'Opera de Marseille. J'ay à vous dire aujourd'huy qu'un fort habile homme en établit un à Lion, dont les premieres representations commenceront au mois de Janvier prochain. Il y a sujet de croire que le succés en sera grand, puis qu'on a couru aux repetitions avec beaucoup d'empressement, &amp; que ceux qui en ont vû les premieres, y ont pris tant de plaisir, que la foule ayant augmenté, on a esté obligé de prendre de l'argent aux dernieres qu'on a faites, le Public ayant demandé en grace qu'on le receust. Phaeton est le premier Opera qui sera representé, &amp; l'on doit continuer ces divertissemens par l'Opera de Bellerophon.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

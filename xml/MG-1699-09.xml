@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-09_151">
+      <div type="article" xml:id="MG-1699-09_151" resp="mercure">
         <head>MG-1699-09_151</head>
         <bibl>Mercure galant, septembre 1699, p. 151</bibl>
         <p>Nouvelles particularitez du Carousel qui s'est fait à l'Academie de Mrs de Rochefort, de Vandeüil &amp; d'Avricourt.</p>
         <p/>
         <p>La course de Bague estant achevée, tous les Gentilshommes monterent à cheval, &amp; firent une marche autour du Manege découvert, qui est bordé de chaque costé de trois rang d'arbres. Un Timballier, quatre Trompettes &amp; quatre Hautbois la commencerent.</p>
       </div>
-
-<div xml:id="MG-1699-09_185">
+      <div type="article" xml:id="MG-1699-09_185" resp="mercure">
         <head>MG-1699-09_185</head>
         <bibl>Mercure galant, septembre 1699, p. 185-186</bibl>
         <p>Couches de Madame la Duchesse de Lorraine.</p>
@@ -67,16 +66,14 @@
         <p>[Madame la Duchesse de Lorraine accoucha d'un fils le 26 juillet sur les onze heures du soir.]</p>
         <p>Aussi tost aprés l'accouchement Monsieur le Duc de Lorraine fit délivrer quatre Prisonniers qui estoient dans les Prisons de Bar. Il ordonna que les Boutiques fussent fermées pendant trois jours, &amp; envoya des Couriers à Nancy &amp; dans tous ses Etats pour porter de pareils ordres, &amp; Mr le Marquis de Lenoncour fut nommé par ce Prince Envoyé Extraordinaire pour faire sçavoir au Roy cette heureuse nouvelle. Le jour de Saint Louis toute la Cour de Lorraine fut extraordinairement parée. On fit de grandes illuminations, on tira beaucoup de fusées volantes, il y eut un grand Bal à la Cour, &amp; l'on but à la santé du Roy dans toute la Ville de Bar.</p>
       </div>
-
-<div xml:id="MG-1699-09_206">
+      <div type="article" xml:id="MG-1699-09_206" resp="mercure">
         <head>MG-1699-09_206</head>
         <bibl>Mercure galant, septembre 1699, p. 206-207</bibl>
         <p>Ce qui s'est passé le jour de Saint Louis dans toutes les Academies établies par le Roy.</p>
         <p/>
         <p>Mrs de l'Academie Françoise s'estant rendus le jour de Saint Loüis, dans la Chapelle du Louvre, Mr l'Evêque Comte de Noyon, Pair de France, l'un des Quarante de l'Academie, celebra la Messe, pendant laquelle on chanta un Motet en Musique, &amp; Mr l'Abbé Drevillet, Docteur de Sorbonne, prononça le Panegyrique du Saint, dont on celebroit la Feste, &amp; fit voir avec beaucoup d'éloquence que ce Saint avoir remply tous ses devoirs comme Chrestien &amp; comme Roy.</p>
       </div>
-
-<div xml:id="MG-1699-09_220">
+      <div type="article" xml:id="MG-1699-09_220" resp="mercure">
         <head>MG-1699-09_220</head>
         <bibl>Mercure galant, septembre 1699, p. 220-222</bibl>
         <p>Ce qui s'est passé le même jour [fête de Saint Louis] au Camp de Marly.</p>
@@ -84,8 +81,7 @@
         <p>Le même jour [fête de Saint Louis], Messieurs les Officiers du Regiment du Roy, qui campe à Marly, celebrerent la Feste de S. Loüis, dans la Chapelle du Camp, on y benit un pain ; que les Sergens du Regiment presenterent au Roy, avec un bouquet. Le R. Pere Eloy, Recollect du Convent de Versailles, fit un compliment pour eux à Sa Majesté. La ceremonie se fit au bruit des Tambours, Hautbois &amp; Violons, &amp; le Roy leur fit distribuer un somme considerable.</p>
         <p>La grande Messe fut celebrée par Mr Famvel, Aumônier du Camp, &amp; chantée par les Recollets de S. Germain ; que le Roy employe pour servir les Malades de l'Hôpital en qualité d'Aumôniers ordinaires de ses Armées.</p>
       </div>
-
-<div xml:id="MG-1699-09_227">
+      <div type="article" xml:id="MG-1699-09_227" resp="mercure">
         <head>MG-1699-09_227</head>
         <bibl>Mercure galant, septembre 1699, p. 227-243</bibl>
         <p>Mort &amp; Pompe funebre de Mr le Chancelier Boucherat.</p>
@@ -95,6 +91,6 @@
         <p>Le Lundy suivant 7. de ce mois, à neuf heures du soir, se fit le transport du corps en l'Eglise de Saint Gervais. [...]</p>
         <p>Aprés qu'on eut chanté les Vespres des Morts, &amp; qu'on eut jetté de l'Eau-benite, la compagnie s'en alla, &amp; on mit le corps dans une Chapelle ardente sur une estrade de plusieurs degrez, avec quantité de cierges ardens armoriez, qu'on renouvelle tous les jours. Il restera ainsi jusqu'aprés la Saint Martin, qu'on celebrera un Service solemnel, &amp; qu'il sera inhumé dans la cave de sa Chapelle, auprés de Madame son Epouse.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

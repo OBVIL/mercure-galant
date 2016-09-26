@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1694-01_278">
+      <div type="article" xml:id="MG-1694-01_278" resp="mercure">
         <head>MG-1694-01_278</head>
         <bibl>Mercure galant, janvier 1694, p. 278-294</bibl>
         <p>Reception faite au nouveau Curé de Saint Germain l'Auxerrois.</p>
@@ -60,14 +60,13 @@
         <p>Mr le Curé ayant répondu à ce compliment par un discours éloquent &amp; plein de tendresse &amp; de charité, finit en disant. Pour remercier Dieu qui m'envoye en cette Royale Paroisse, de tous les miracles qu'il y opere depuis le chef &amp; le premier jusqu'aux plus petits de mes Paroissiens, c'est à dire, depuis la sacrée Personne du Roy, don la sagesse &amp; la pieté sont sans exemple, jusqu'à cette aimable jeunesse dont le zele innocent m'est d'autant plus agreable qu'il est sans flaterie, &amp; de ce que du nombre de ces enfans j'en viens d'entendre un qui par les talens merveilleux qu'il a déjà fait paroistre en d'autres occasions, est aussi admirable que son innocence, dont son âge répond, &amp; que je prie le Tres-haut de luy conserver, est digne de loüange, disons luy, TE DEUM LAUDAMUS.</p>
         <p>Ce Cantique commencé par Mr le Curé fut chanté par toute l'Assemblée, &amp; suivi des Prieres qu'il fit faire pour Sa Majesté, &amp; de la Benediction qu'il donna à toute la jeunesse de la Paroisse qui estoit devant luy.</p>
       </div>
-
-<div xml:id="MG-1694-01_312">
+      <div type="article" xml:id="MG-1694-01_312" resp="mercure">
         <head>MG-1694-01_312</head>
         <bibl>Mercure galant, janvier 1694, p. 312</bibl>
         <p>Bal donné par Monsieur.</p>
         <p/>
         <p>Les divertissemens du Carnaval ont commencé au Palais Royal par un Bal que Monsieur a donné à Monseigneur le Dauphin. Monsieur le Duc de Chartres &amp; Mademoiselle ouvrirent le bal, avec la bonne grace qui leur est si naturelle. Leurs habits estoient magnifiques, l'assemblée nombreuse, &amp; fort parée, &amp; s'il s'y trouva beaucoup de Masques. On dança dans la Galerie &amp; dans deux pieces du grand appartement de Monsieur.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

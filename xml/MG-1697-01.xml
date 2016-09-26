@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1697-01_047">
+      <div type="article" xml:id="MG-1697-01_047" resp="mercure">
         <head>MG-1697-01_047</head>
         <bibl>Mercure galant, janvier 1697, p. 47-54</bibl>
         <p>Eglogue.</p>
@@ -169,8 +169,7 @@
         <p>Chantons tous sa victoire,</p>
         <p>Celebrons, respectons, adorons tous sa gloire.</p>
       </div>
-
-<div xml:id="MG-1697-01_148">
+      <div type="article" xml:id="MG-1697-01_148" resp="mercure">
         <head>MG-1697-01_148</head>
         <bibl>Mercure galant, janvier 1697, p. 148</bibl>
         <p>Madrigal au Roy.</p>
@@ -188,22 +187,20 @@
         <p>Sous les éclats de sa colere,</p>
         <p>Sont les effets de sa bonté.</p>
       </div>
-
-<div xml:id="MG-1697-01_239">
+      <div type="article" xml:id="MG-1697-01_239" resp="mercure">
         <head>MG-1697-01_239</head>
         <bibl>Mercure galant, janvier 1697, p. 239-244</bibl>
         <p>Quatrième Volume du Parallele des Anciens &amp; des Modernes.</p>
         <p/>
         <p>Mr Perrault, de l'Academie Françoise, a finy son excellent Ouvrage du Parallele des Anciens &amp; des Modernes, par un quatrième volume que Sr Coignard Imprimeur &amp; Libraire du Roy, a commencé à débiter depuis quelques jours, mais il n'y a point donné l'examen exact des plus beaux endroits des Poëtes Anciens &amp; des Modernes, qu'il avoit promis de comparer ensemble. Il déclare qu'il avoit à cet effet traduit en Poësie Françoise, ces mêmes endroits pour mieux juger du sens &amp; de la beauté des pensées qu'ils renferment, &amp; qu'il avoit déjà jetté des raisons qu'on peut apporter de part &amp; d'autre, mais que l'amour de la paix luy fait abandonner cette entreprises, &amp; qu'il a mieux aimé se priver du plaisir de prouver la bonté de sa cause d'une maniere qui luy sembloit invincible, que d'être plus long-temps broüillé avec des hommes d'un aussi grand merite que ceux qu'il avoit pour adversaires, &amp; dont l'amitié ne pouvoit estre achetée trop cher. Il dit là-dessus agreablement dans sa Préface, qu'il avait crü d'abord qu'en s'opposant un peu aux loüanges sans bornes, dont la prévention est si prodigue pour tous les Auteurs anciens, &amp; en reduisant l'estime qu'on en doit faire à sa juste valeur, ces Auteurs estoient éloignez de luy d'un si long espace de temps, que ny eux, ni ceux que les estiment le plus, ne s'aviseroient jamais de s'en tenir offensez, ce qui estoit cause qu'il se regardoit dans cette situation comme des gens qui voulant joüer à la longue paume, vont se mettre dans une pleine campagne, éloignée d tous les chemins &amp; de toutes habitations, pour estre bien assurez de ne blesser personne, mais qu'il avoit reconnu qu'il s'estoit trompé dans cette pensée, d'excellens hommes de nostre temps dont il avoit cité les Ouvrages avec éloge, comme des preuves incontestables de la superiorité de nostre siècle, aimant mieux se fâcher de l'injustice qu'ils prétendoient qu'il eust faite aux Anciens, que de luy sçavoir gré de la justice qu'il leur avoit rendüe. Ainsi Mr Perrault qui n'a point voulu leur donner de plus longs sujets de plainte, quoy que fort peu legitimes, s'est contenté de traiter dans ce dernier volume, de ce qui regarde l'Astronomie, la Geographie, la Navigation, la Guerre, la Philosophie, la Musique, la Medecine, &amp;c. &amp; non-seulement il prouve que les Modernes y sont plus habiles que les anciens, il fait voir combien les premiers ont esté plus loin dans la connoissance exacte de tous ces Arts &amp; de toutes es Sciences.</p>
       </div>
-
-<div xml:id="MG-1697-01_277">
+      <div type="article" xml:id="MG-1697-01_277" resp="mercure">
         <head>MG-1697-01_277</head>
         <bibl>Mercure galant, janvier 1697, p. 277-278</bibl>
         <p>Enigmes.</p>
         <p/>
         <p>Le mot de l'enigme du dernier mois estait l'Hiver, &amp; a été trouvé par [...] Tamiriste de la rue de la Cerisaye. C'est luy qui a fait le divertissement sur la Paix de Savoye, en forme d'Opera ; [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

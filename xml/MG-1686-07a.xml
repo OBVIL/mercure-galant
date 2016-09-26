@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-07a_098">
+      <div type="article" xml:id="MG-1686-07a_098" resp="mercure">
         <head>MG-1686-07a_098</head>
         <bibl>Mercure Galant, juillet 1686, première partie, [p. 98-100]</bibl>
         <p>Madame la Présidente de Maniban accouche d'un Fils après dix-huit ans de Mariage.</p>
         <p/>
         <p>Il y en a qui sortent trop tost du Monde, &amp; d'autres s'y font attendre longtemps. Tel est le Fils qui est né le second jour de ce mois à Madame la Présidente de Maniban, après dix-huit ans de Mariage. Elle est Fille de Mr Fieuber, Premier Président au Parlement de Toulouse. Mr le Marquis de Maniban son Mary, Président au Mortier dans le mesme Parlement, fit éclater la joye qu'il avoit de cette naissance, par des feux, des concerts de Trompetes, des profusions de vin, &amp; des Illuminations qui furent suivies dans tout son quartier. Madame de Maniban est une personne des plus accomplies de cette Province. Il y a trois ou quatre ans qu'elle parut à la Cour, &amp; l'estime que les Gens du meilleur goust marquèrent pour elle, fit voir que le vray mérite n'y demeure pas longtemps inconnu.</p>
       </div>
-
-<div xml:id="MG-1686-07a_152">
+      <div type="article" xml:id="MG-1686-07a_152" resp="mercure">
         <head>MG-1686-07a_152</head>
         <bibl>Mercure Galant, juillet 1686, première partie, p. 152-153</bibl>
         <p>Divertissement à Versailles</p>
@@ -67,8 +66,7 @@
         <p>Le 13 il y eut Canal le soir à Versailles (c'est le terme dont on se sert à la Cour pour dire qu'on s'y promène sur le Canal.) Monseigneur le Dauphin, &amp; Madame la Dauphine prirent ce plaisir, accompagnez de toutes les Personnes distinguées qui n'avoient point suivy le Roy dans son Voyage. Il y eut divers Bastimens remplis de Musiciens, &amp; l'on y servit un Repas magnifique.</p>
         <p>.</p>
       </div>
-
-<div xml:id="MG-1686-07a_153">
+      <div type="article" xml:id="MG-1686-07a_153" resp="mercure">
         <head>MG-1686-07a_153</head>
         <bibl>Mercure Galant, juillet 1686, première partie, p. 153-155, 161-162</bibl>
         <p>Régal donné à Choisy avec la Description de cette Maison</p>
@@ -77,8 +75,7 @@
         <p/>
         <p>[La princesse d'Orléans] régala toute l'auguste Assemblée dont j'ay commencé à vous parler, avec beaucoup de magnificence. Il y eut quatre Tables servies en mesme temps, &amp; [un] grand Concert de Violons pendant le Disner. [...] L'aprèsdisnée il y eut Concert dans les Appartemens, &amp; sur le soir dans plusieurs Bosquets du Jardin pendant qu'on estoit à la Promenade.</p>
       </div>
-
-<div xml:id="MG-1686-07a_185">
+      <div type="article" xml:id="MG-1686-07a_185" resp="mercure">
         <head>MG-1686-07a_185</head>
         <bibl>Mercure Galant, juillet 1686, première partie, p. 185-187, 240, 248, 252, 254-256, 260-261, 275-276, 305-307, 315-316</bibl>
         <p>Journal du Voyage de M. le Chevalier de Chaumont</p>
@@ -99,6 +96,6 @@
         <p/>
         <p>Le Roy [de Siam] se montre au Peuple deux ou trois fois tous les ans, va aussi quelques fois par terre faire ses Offrandes à quelques Mosquée. Deux cens Elefans, ou environ, commencent la marche, portant chacun trois Hommes armez. Après eux vient la Musique. Elle est composée de Timbales, de Tambours, &amp; de Hautbois. Mille hommes de pied armez paroissent ensuite, distribuez en diverses Compagnies, qui ont leurs Drapeaux &amp; Bannières. Tout cela précède les grands mandarins qui sont à cheval. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

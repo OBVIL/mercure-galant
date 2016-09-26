@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1695-12_262">
+      <div type="article" xml:id="MG-1695-12_262" resp="mercure">
         <head>MG-1695-12_262</head>
         <bibl>Mercure galant, décembre 1695, p. 262-265</bibl>
         <p>Rejouissances faites pour la naissance de Mr le Prince de Dombes dans cette Souveraineté.</p>
         <p/>
         <p>Je vous ay déjà appris la naissance de Mr le Prince de Dombes. Cette naissance ayant répandu une joye generale dans la Souveraineté, les Peuples ravis de se voir toujours sous la domination de Monsieur de Duc du Maine leur Souverain, qui y est extrémement aimé, se sont empressez de la faire paroistre par des réjoüissances publiques. Tous les Corps furent convoquez au Dimanche 11. de ce mois. Le Parlement suivi du Corps de la Noblesse, composée de plus de cent Gentilhommes, &amp; de tous les autres Corps, assista au Te Deum, qui fut chanté solemnellement en l'Eglise Cathedrale, avec une Musique &amp; une Simphonie tres-agreable. De là il alla allumer un grand feu d'artifice, du fameux Villette. Mr de Seve, premier President de ce Parlement, qui avoit à sa gauche Mr de Damas, Marquis d'Antigny, Gouverneur de la Souveraineté, y mit le feu. Le Parlement donna un grand Soupé aux Dames &amp; à toute la Noblesse, &amp; ensuite un Bal magnifique à Madame la Gouvernante, qui est de l'illustre Maison de la Baume-Montrevel. Mr le premier President en fit les honneurs avec un air de qualité &amp; de politesse qui contenta toute l'assemblée.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-02_216">
+      <div type="article" xml:id="MG-1696-02_216" resp="mercure">
         <head>MG-1696-02_216</head>
         <bibl>Mercure galant, février 1696, p. 216-258</bibl>
         <p>Ceremonies observées à la reception de Mr le Marquis de Dangeau, grand Maistre de l'Ordre de S. Lazare, &amp; de Nostre Dame de Mont Carmel.</p>
@@ -76,16 +76,14 @@
         <p>[...] Une demi-heure aprés, Mr  le Grand Maistre donna un disné magnifique à tous les Chevaliers. Il entra avec eux dans une grande Salle, où il y avoit cinquante-quatre couverts en long. L'on y estoit placé des deux costez. Mr le Grand Maistre se mit au milieu d'un rang. Elle fut servie avec une fort grande magnificence. Mr le Marquis de Courcillon, son Fils, tint dans une chambre voisine une autre table de dix couverts.</p>
         <p>Le repas fini Mr le Grand Maistre &amp; les Chevaliers retournérent à l'Eglise, où l'on chanta Vespres, &amp; le Salut, aprés lequel les Chevaliers reconduisirent Mr le Grand Maistre à son carrosse. [...]</p>
       </div>
-
-<div xml:id="MG-1696-02_271">
+      <div type="article" xml:id="MG-1696-02_271" resp="mercure">
         <head>MG-1696-02_271</head>
         <bibl>Mercure galant, février 1696, p. 271-276</bibl>
         <p>Etablissement d'un nouveau Theatre à Rome.</p>
         <p/>
         <p>L'application extraordinaire que le Pape donne à la conduite du gouvernement de ses Etats, par l'information exacte qu'il prend de ce qui se passe dans les Congregations, &amp; par les Audiences qu'il donne journellement au Peuple, ne l'empesche pas de songer à ce qui regarde le soulagement des pauvres, la decoration de sa ville Capitale, &amp; le divertissement de ses Peuples. C'est ce qui fait qu'il a fondé divers Hôpitaux pour retirer les Pauvres, &amp; pour faire travailler le vagabons ; qu'il fait élever un grand Palais au milieu de Rome pour loger commodement les Tribunaux de Justice, qui estoient dispersez en differens endroits, &amp; qu'il a donné la permission de bâtir un Theatre en un lieu commode de la Ville pour representer des Opera &amp; des Comedies. Ce dernier édifice vient d'estre achevé par les soins de Mr Dalibert, Secretaire des Commandemens de la deffunte Reine de Suede, Christine Alexandre. Ce Theatre est un des plus grands &amp; des plus magnifiques qu'il y ait en toute l'Italie. On monte dans la Salle du Parterre par un large escalier de pierre. Il y a six rangs de Loges les unes sur les autres, &amp; trente-six Loges à chaque rang, avec huit differens escaliers pour y pouvoir monter &amp; descendre sans embarras ny confusion. Ces Loges sont un peu plus étroites que les nostres, n'y pouvant tenir que trois personnes commodement. Le premier rang n'est pas le plus estimé, parce qu'il est fort peu élevé au dessus du Parterre, &amp; est à l'égard de la Comedie, ce qu'une entre-sole est dans un bastiment. Ainsi on estime principalement le second &amp; le troisième rang, &amp; ce qui est de particulier, c'est que l'usage étant de retenir les Loges pour plusieurs representations, chacun les fait tapisser &amp; orner à sa fantaisie, &amp; en mesme temps chacun se pique de les rendre plus propres les unes que les autres, les uns les doublant de damas &amp; de velours, avec des tissus &amp; galons d'or, &amp; de riches tapis au devant, &amp; les autres avec des étoffes de la Chine, &amp; Satins de differentes couleurs. On devoit faire l'Ouverture de ce Theatre le quinziéme du mois passé, par un nouvel Opera.</p>
       </div>
-
-<div xml:id="MG-1696-02_276">
+      <div type="article" xml:id="MG-1696-02_276" resp="mercure">
         <head>MG-1696-02_276</head>
         <bibl>Mercure galant, février 1696, p. 276-280</bibl>
         <p>Monseigneur fait l'honneur aux Comediens François de venir voir la Comedie dans leur Sale [suivi du] Compliment preparé pour Monseigneur.</p>
@@ -93,8 +91,7 @@
         <p>Ce nouvel établissement me donne occasion de vous parler de celuy de la Troupe de Comediens François. Le premier de Mars 1688. on donna un Arrest dans le Conseil d'Estat, Sa Majesté y estant, par lequel il leur fut permis de faire leur établissement dans le Jeu de Paume de l'Estoile, rüe des Fossez Saint Germain des Prez. En consequence de cette permission, il y ont fait une dépense de plus de deux cens mille livres. Monseigneur avoit souvent marqué qu'il leur feroit l'honneur d'aller voir leur Salle ; mais la facilité d'avoir la Comedie à Versailles, ayant fait couler le temps insensiblement, ce Prince n'estoit point encore venu à la Comédie à Paris. Enfin voulant satisfaire à sa parole &amp; à sa curiosité, il vint voir en même temps deux Pieces qui faisoient du bruit ; sçavoir une piece serieuse intitulée, Polixene, &amp; une Comique, qu'on joüoit alors sous le titre de la Foire S.Germain. Les beautez de la premiere attacherent beaucoup ce Prince, &amp; la seconde le divertit. Mr Dancour, qui en est l'Auteur, avoit préparé le Compliment que vous allez lire ; mais Monseigneur, dont la modestie est connuë, n'en voulut point parce qu'il ne vouloit écouter aucunes loüanges. Voicy les termes de ce Compliment.</p>
         <p>C'est avec un tres-profond respect que j'ose prendre la liberté de remercier Monseigneur de l'honneur qu'il a bien voulu nous faire aujourd'huy. Ce témoignage public de l'estime qu'il a pour le Theatre, &amp; de la protection dont il nous honore, servira d'exemple sans doute, &amp; il attirera sur la Comédie toute la consideration dont elle a besoin. Nous sommes redevables à cette protection glorieuse de la tranquillité, qui par les ordres du Roy va desormais estre rétablie dans les Spectacles. Vos bontez, Monseigneur, se font sentir generalement à tout le monde, &amp; elles vous acquierent sur tous les coeurs, les mêmes droits que vostre naissance auguste vous donne sur les volontez. Nous en sommes tres-vivement penetrez, &amp; si nostre Profession ne nous met pas en estat de sacrifier nostre vie pour vos interests, elle nous donne au moins l'avantage de la consacrer toute entiere à vos plaisirs, avec un zele &amp; un attachement qu'il est impossible de ne pas avoir, &amp; qu'il n'est pas possible de bien exprimer.</p>
       </div>
-
-<div xml:id="MG-1696-02_286">
+      <div type="article" xml:id="MG-1696-02_286" resp="mercure">
         <head>MG-1696-02_286</head>
         <bibl>Mercure galant, février 1696, p. 286-291</bibl>
         <p>Sonnet qui a remporté le prix des bouts-rimez remplis à la gloire de Madame la Princesse de Conty doüairiere.</p>
@@ -129,30 +126,27 @@
         <p>Pour vous peindre &amp; pour vous loüer,</p>
         <p>Un homme plus qu'octogenaire.</p>
       </div>
-
-<div xml:id="MG-1696-02_319">
+      <div type="article" xml:id="MG-1696-02_319" resp="mercure">
         <head>MG-1696-02_319</head>
         <bibl>Mercure galant, février 1696, p. 319-322</bibl>
         <p>Vie de Dom Antoine, Roy de Portugal.</p>
         <p/>
         <p>Madame de Sainctonge, dont l'heureux genie vous est connu par les Opera de sa façon, qui ont été representez sur le Theatre Royal de Musique, &amp; par l'excellent Recueil de Poësies Galantes qu'elle a donné au public depuis peu de temps, vient de faire voir qu'elle n'a pas moins de talent pour la Prose que pour les Vers. Elle a fait paroistre au jour la Vie de Dom Antoine, Roy de Portugal, qui n'ayant pû se conserver la Couronne contre les forces de Philippes II. Roy d'Espagne qui y prétendoit, comme estant Fils d'une Fille d'Emanuel, vint demander du secours en France, &amp; mourut à Paris le 26. Aoust 1595. [...] Cette Histoire est écrite d'un stile aisé &amp; concis, &amp; renferme quantité de circonstances, qui meritent d'estre sçûës. On la trouve chez le Sieur Guignard, à l'entrée de la grand'Salle du Palais.</p>
       </div>
-
-<div xml:id="MG-1696-02_322">
+      <div type="article" xml:id="MG-1696-02_322" resp="mercure">
         <head>MG-1696-02_322</head>
         <bibl>Mercure galant, février 1696, p. 322-323</bibl>
         <p>Divertissemens du Carnaval.</p>
         <p/>
         <p>Jamais les plaisirs n'ont esté plus en regne que pendant ce Carnaval. Les spectacles ont attiré un grand nombre d'Auditeurs ; les Bals ont esté nombreux &amp; frequens ; les Masques ont paru par toute la Ville en grande quantité, &amp; les Places publiques ont esté remplies de danses. Il est peu d'Estats aujourd'huy dont on puisse dire la mesme chose ; aussi n'en est-il point dont le Souverain travaille plus. Cette grande application du Roy paroist dans ce qui va servir d'entretien à tout l'Univers.</p>
       </div>
-
-<div xml:id="MG-1696-02_327">
+      <div type="article" xml:id="MG-1696-02_327" resp="mercure">
         <head>MG-1696-02_327</head>
         <bibl>Mercure galant, février 1696, p. 327-328</bibl>
         <p>Divertissemens nouveaux.</p>
         <p/>
         <p>Dés que les plaisirs innocens seront de retour, on verra paroistre sur la Scene deux Pieces nouvelles, dont l'une est serieuse, ayant pour titre, Agrippa, ou la mort d'Auguste ; L'autre est une Comedie intitulée, le Viellard couru, ou les differens Caracteres des Femmes, de l'Auteur des dames vangées,  qui parurent l'année derniere, &amp; dont on n'a pû reprendre les representations, les principaux Acteurs de cette Piece ayant esté incommodez pendant une partie de l'hiver.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

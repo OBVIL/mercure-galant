@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,37 +51,34 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-08_246">
+      <div type="article" xml:id="MG-1688-08_246" resp="mercure">
         <head>MG-1688-08_246</head>
         <bibl>Mercure galant, août 1688, p. 246-259</bibl>
         <p>Grande Feste donnée par Milord Stafort pour la mesme naissance.</p>
         <p/>
         <p>Milord Stafford, qui en toutes sortes de rencontres s'est toujours fait un plaisir de faire connoistre l'interest qu'il prend à la gloire &amp; aux avantages de sa Patrie, fit icy le 4. de ce mois une grande Feste pour cette mesme naissance. On tira un fort beau feu d'artifice dans la Place qui est devant la terrasse de son Jardin. [...] L'Assemblée estoit fort belle, &amp; de personnes choisies. On y vit entr'autres Mr le Prince &amp; Madame la Princesse de Mekelbourg, Madame la Princesse d'Izenghien, Madame la Duchesse de Valentinois, Madame la Maréchale d'Estrées, Mr l'Envoyé d'Angleterre &amp; Madame sa Femme, Mr le Comte de Morstein, plusieurs Milords Anglois, &amp; autres Personnes de la premiere qualité des deux Royaumes. [Suit une promenade dans les appartements, puis une collation, suivie d'un feu d'artifice.] Il ne se finit qu'à une heure après minuit, &amp; depuis huit heures jusqu'à la fin, il y eut un concert de toutes sortes d'Instrumens. Les Timbales, les Hautbois, les Trompettes, &amp; les Violons se firent entendre pendant tout ce temps. [...]</p>
       </div>
-
-<div xml:id="MG-1688-08_268">
+      <div type="article" xml:id="MG-1688-08_268" resp="mercure">
         <head>MG-1688-08_268</head>
         <bibl>Mercure galant, août 1688, p. 268-270</bibl>
         <p>Etablissement d'une nouvelle Ecole de Mathematique.</p>
         <p/>
         <p>On a étably depuis peu de temps une Ecole de Mathematique dans l'Academie de Jully. Cela s'est fait par les soins du Pere Perdrigeon, Superieur. Le Pere Fougeau, qui a esté nommé Professeur de cette Ecole, en fit l'ouverture il y a quelques jours, par un discours prononcé sur ce sujet. L'Academie de Jully est à sept lieuës de Paris auprés de Dammartin, dans une charmante solitude. Elle est ancienne, &amp; remplie d'Enfans de qualité, ausquels on enseigne les Humanitez, les Mathematiques, le Blazon, la Danse, &amp; tout ce qui peut estre capable de les former selon leur naissance.</p>
       </div>
-
-<div xml:id="MG-1688-08_282">
+      <div type="article" xml:id="MG-1688-08_282" resp="mercure">
         <head>MG-1688-08_282</head>
         <bibl>Mercure galant, août 1688, p. 282-283</bibl>
         <p>Mariage de Mademoiselle de Boucherat.</p>
         <p/>
         <p>Mademoiselle Boucherat, Fille de Mr Boucherat, Conseiller honoraire au Parlement, seul Frere de Mr le Chancelier, a épousé Mr de Lisle Conseiller au Grand Conseil. La ceremonie du Mariage fut faite la nuit du 16. au 17. de ce mois, par Mr le Curé de saint Louis dans la Chapelle de ce digne Chef [illisible] grand en tout ce qu'il fait, il avoit donné un soupé tres-magnifique, après lequel il y eut dans sa Galerie une Symphonie fort agréable &amp; les divertissemens que sa sagesse, &amp; sa moderation en toutes choses luy pouvoient permettre. [...]</p>
       </div>
-
-<div xml:id="MG-1688-08_322">
+      <div type="article" xml:id="MG-1688-08_322" resp="mercure">
         <head>MG-1688-08_322</head>
         <bibl>Mercure galant, août 1688, p. 322-323</bibl>
         <p>Feste de Chantilly.</p>
         <p/>
         <p>Je ne vous dis rien de la grande Feste que Monsieur le Prince a donnée à Monseigneur le Dauphin dans sa belle Maison de Chantilly. Elle a duré huit jours, &amp; elle estoit si bien ordonnée qu'on peut dire que l'on voyoit d'heure en heure naistre de nouveaux plaisirs. Il me faut pour en parler beaucoup plus de temps que je n'en ay, puis que cette Feste seule suffit pour remplir un Volume ; ainsi je la remets au mois prochain, afin de n'oublier rien de toutes les galantes circonstances dont elle a esté accompagnée. Je vous diray cependant que l'Opera nouveau qu'on y a representé sous le titre d'Orontée, se vend chez le Sr Coignard, ruë Saint Jacques, à la Bible d'or. Je suis, Madame, Vostre, &amp;c.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

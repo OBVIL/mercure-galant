@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-08_121">
+      <div type="article" xml:id="MG-1685-08_121" resp="mercure">
         <head>MG-1685-08_121</head>
         <bibl>Mercure Galant, août 1685, p. 121-125</bibl>
         <p>Arrests &amp; Declarations [A propos d'une déclaration contre contre le culte protestant enregistrée par le Parlement]</p>
         <p/>
         <p>[...] [D]epuis l'Interdiction de l'Exercice de la religion Pretenduë Reformée, &amp; la démolition des Temples en divers lieux du Royaume, soit parce qu'ils y avoient esté établis au prejudice de l'Edit de Nantes, soit parce qu'on avoit contrevenu aux Edits &amp; Declarations de Sa Majesté, les Pretendus Reformez viennent &amp; abordent de differens Baillages &amp; Senéchaussées aux Temples qui subsistent, quoy qu'ils en soient éloignez de trente lieuës ; en sorte que cette affluence de Peuple cause des attroupemens dans les lieux où l'Exercice est permis, du scandale dans ceux où ils passent, par les irreverences qu'ils commettent devant les Eglises, &amp; des querelles avec les Catholiques, par leur marche tant de nuit que de jour, pendant laquelle ils chantent leurs Pseaumes à haute voix, au prejudice des défenses qui en ont esté faites par divers Arrests &amp; Declarations. Comme ces Assemblées tumultueuses pourroient avoir de fâcheuses suites, Sa Majesté, qui veut empescher la continuation de ces desordes, A declaré qu'il luy plaist, Qu'aucunes Personnes de la Religion Pretenduë Reformée ne puissent dorenavant aller à l'Exercice aux Temples qui se trouveront dans l'étenduë des Baillages &amp; Senéchaussées où elles n'ont pas leur principal domicile, ny fait leur demeure ordinaire pendant un an sans discontinuation, avec de tres-expresses Defenses aux Ministres &amp; Anciens de les y recevoir, à peine d'interdiction de l'Exercice, &amp; démolition des Temples, &amp; contre les Ministres, d'estre privez pour toûjours des fonctions de leur Ministère dans ce Royaume. La prudence veut, que dans un Etat bien policé, on empêche tout ce qui approche de l'attroupement, &amp; cela fait voir combien cette Declaration a esté donnée. [...]</p>
       </div>
-
-<div xml:id="MG-1685-08_141">
+      <div type="article" xml:id="MG-1685-08_141" resp="mercure">
         <head>MG-1685-08_141</head>
         <bibl>Mercure Galant, août 1685, p. 141-150, 157-159</bibl>
         <p>Suite des Conversions faites dans le Bearn, pendant le mois de juin</p>
@@ -68,8 +67,7 @@
         <p/>
         <p>Cet Acte de Déliberation si solemnel, fut suivy le Dimanche 15. Juillet, de leur Abjuration, auquel on fit une Procession où le Parlement &amp; tous les Corps de la Ville assisterent. Le Te Deum y fut chanté, &amp; les acclamations de Vive le Roy, furent accompagnées du bruit du Canon du Château, &amp; suivies d'un Feu d'artifice, &amp; de la décharge de la Mousqueterie. On peut dire que la Conversion des Pretendus Reformez de la Ville de Pau a esté generale, puis qu'il n'y reste presentement que deux Familles de Gentils-hommes, &amp; une d'un Marchand, qui témoignent vouloir perserver dans la Religion Pretenduë Reformée, avec les Femmes de trois Officiers du Parlement, &amp; de quatre autres Bourgeois. [...]</p>
       </div>
-
-<div xml:id="MG-1685-08_164">
+      <div type="article" xml:id="MG-1685-08_164" resp="mercure">
         <head>MG-1685-08_164</head>
         <bibl>Mercure Galant, août 1685, p. 164-178</bibl>
         <p>Tout ce qui s'est passé passé à la Reception de M. de la Haye, Ambass[adeur]à Venise.</p>
@@ -78,8 +76,7 @@
         <p>M. le Chevalier Giustiniani ayant mis pied à terre en cette Isle, avec les soixante Senateurs, tous en Habits de cerémonie, &amp; venus chacun dans une Gondole à quatre Rames, M. l'Ambassadeur descendit dans l'Eglise, à la porte de laquelle M. Menaut se rendit accompagné de trois Gentilshommes, pour y recevoir ce Chevalier. Il luy fit un Compliment de peu de paroles, &amp; M. l'Ambassadeur le voyant paroistre, s'avança jusqu'au milieu de l'Eglise, où M. le Chevalier Giustiniani se trouva en mesme temps. Les Complimens furent reciproques, &amp; M. l'ambassadeur répondit tres-obligeamment à ce que ce Chevalier luy dit de la part du Senat. M. de la Haye, auquel M. Giustiniani donna la main, sortit de l'Eglise, suivy immediatement du Secretaire de l'Ambassade, avec le premier Senateur, &amp; du Consul accompagné d'un autre Senateur, &amp; ainsi tout le reste du Cortége. Il monta le premier dans la Gondole du Chevalier ayant toûjours la droite, &amp; il n'y entra après eux que le Secretaire de la Republique en veste violette. L'Ancien Senateur fit entrer M. Menault dans la sienne, où il luy donna la droite, comme les autres Senateurs à tout le Cortége. On se rendit au Palais de l'Ambassadeur, jusque dans la Chambre d'Audience, qui estoit garnie d'une Tapisserie de Velours Cramoisy à fond d'or tres-riche, avec le Portrait du Roy sous un Dais de pareille étoffe. M. le Chevalier Giustiniani l'y complimenta tout de nouveau, &amp; M. l'Ambassadeur luy répondit avec beaucoup d'éloquence. Il luy donna la main, &amp; l'accompagna hors de la porte de son Palais, jusques proche sa Gondole [sic], suivy de tous les Senateurs, &amp; du Cortége dans le mesme ordre. Les Violons, les Trompettes, Haut-Bois, &amp; Tambours sonnerent en differens endroits du palais jusqu'à quatre heures de nuit, &amp; pendant ce temps là on distribua quantité de Confitures, d'Eaux fraisches, &amp; de liqueurs à tous ceux qui s'y trouverent, tant en Masque que sans Masque, sur tout aux Nobles &amp; Gentishommes qui y vinrent en grand nombre masquez &amp; démasquez.</p>
         <p>Le lendemain 9. Juillet, M. le Chevalier Giustiniani &amp; les Senateurs s'estant assemblez à dix heures du matin dans l'Eglise de la Madonna del Horto, proche du Palais de M. l'Ambassadeur, envoyerent le Secretaire de la Republique en Veste violette luy faire compliment, &amp; prendre son heure pour aller à l'Audience. Il répondit qu'il estoit tout prest, &amp; cependant on fit mettre toute la Livrée hors le Palais, &amp; le Cortége devant la Porte. M. Menault estoit à la teste, &amp; receut M. Giustiniani qui vint par terre, suivy des Senateurs deux à deux depuis l'Eglise jusques au palais. Il l'accompagna jusques au milieu de l'Escalier, où M. l'Ambassadeur l'ayant receu, il le conduisit à la Chambre d'Audience. Après quelques complimens de part &amp; d'autre, on remonta en Gondole comme le jour précedent jusqu'au palais de Saint Marc, &amp; l'on y mit pied à terre à la Piazzetta. De là après avoir traversé la Court du palais, on monta l'Escalier des geans, &amp; M. l'Ambassadeur s'estant rendu à la porte du College, elle s'ouvrit, le Doge &amp; le College estant debout. M. de la Haye ayant fait les réverences ordinaires, s'assit à sa droite, &amp; se couvrit. Il luy presenta la Lettre du Roy ; le Doge la donna au secretaire de la Republique pour en faire la lecture, après quoy M. l'Ambassadeur fit sa Harangue au Senat, &amp; la prononça d'une maniere tres noble. Le Doge répondit à ce Discours en des termes qui marquoient une entiere venération pour le Roy, &amp; une estime particuliere pour la Personne de M. l'Ambassadeur, qui se retira ensuite toûjours à la droite de M. le Chevalier Giustiniani, qui le conduisit dans sa Gondole comme auparavant, &amp; l'accompagna jusques dans la Chambre d'Audience. Là s'estant de nouveau complimentez, M. l'Ambassadeur luy donna la main, &amp; l'ayant conduit jusqu'à sa Gondole, il salua tous les Senateurs qui passerent devant luy en s'en retournant. Ensuite il monta en haut suivy de tous les Gentilshommes de son Cortége qu'il fit disner avec luy. Quatre Tables furent servies en mesme temps avec beaucoup de magnificence. Il y eut dés le matin un grand Bufet remply d'argenterie dans le Portique, &amp; de l'autre costé une grande Table couverte de toute sorte de Fleurs, de Fruits, &amp; de Confitures à la Françoise. Après le repas, les Violons &amp; autres Instrumens recommencerent à joüer, &amp; on distribua à tout le monde des Eaux, des Liqueurs, &amp; des Confitures comme le jour précedent. La Feste finit à quatre heures de nuit sans estre troublée par aucun desordre. [...]</p>
       </div>
-
-<div xml:id="MG-1685-08_206">
+      <div type="article" xml:id="MG-1685-08_206" resp="mercure">
         <head>MG-1685-08_206</head>
         <bibl>Mercure Galant, août 1685, p. 206-209, 224-225, 227-235, 242-243, 247-252, 254-259, 263-285</bibl>
         <p>Relation contenant toutes les particularités du Mariage de M. le D[uc] de Bourbon</p>
@@ -418,8 +415,7 @@
         <p>Que ces vives ardeurs</p>
         <p>A jamais, à jamais triomphent dans vos coeurs.</p>
       </div>
-
-<div xml:id="MG-1685-08_290">
+      <div type="article" xml:id="MG-1685-08_290" resp="mercure">
         <head>MG-1685-08_290</head>
         <bibl>Mercure Galant, août 1685, p. 290-296, 300-301</bibl>
         <p>Relation de ce qui s'est passé pendant le sejour que Monseigneur le Dauphin a fait à Annet [sic]</p>
@@ -453,6 +449,6 @@
         <p/>
         <p>Les louänges que l'on donne icy à M. de Saint-Aignan, ne doivent pas vous surprendre. On a raison de loüer ce Duc, &amp; on le peut faire par tant d'endroits, que si l'on parloit de luy aussi souvent que ce qu'il fait de loüable donne sujet d'en parler, on ne finiroit jamais sur ce qu'il en faudroit dire. Il a fait depuis un mois diverses Chansons, &amp; d'autres Ouvrages Galants In promptu, pour les plus Augutes Personnes de la terre. On les a écoutez avec beucoup de plaisir ; mais comme ils ont esté faits pour des divertissemens de Cabinet, &amp; que ce qu'on fait pour ces lieux là en sort rarement, ils ne sont pas venus jusqu'à moy.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

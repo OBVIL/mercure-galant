@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1687-09a_081">
+      <div type="article" xml:id="MG-1687-09a_081" resp="mercure">
         <head>MG-1687-09a_081</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 81-97</bibl>
         <p>Theses où sont gravées dans un grand nombre de Cartouches presque toutes les grandes actions du Roy.</p>
@@ -59,8 +59,7 @@
         <p>Les Merveilles de la Vie du Roy sont si grandes, &amp; fournissent tant &amp; de si belle matiere, qu'on ne se contente pas de faire voir la grandeur de ce Monarque dans des discours recitez publiquement, ou imprimez ; on tâche encore de les faire paroistre de mille manieres ingenieuses. C'est ce que l'on peut connoistre en jettant les yeux sur une These de Philosophie qui vient d'estre publiée. On y voit d'un seul coup tout ce que Sa Majesté a fait en faveur de la Religion Catholique, &amp; toutes les actions de graces renduës à Dieu par les Peuples pour le rétablissement de sa Santé, avec les réjoüissances qui les ont accompagnées, &amp; ce qu'il y a de surprenant, c'est que chaque action est marquée par un passage de l'Ecriture qui semble avoir esté fait exprés pour le sujet, tant il vient naturellement. Cette These fut soutenuë le Vendredy 18. de Juillet, au College Royal &amp; Archiepiscopal des Jesuites de Rouën, par Mr l'Abbé Dulion de Poinsson, natif de la Guadaloupe. [...]</p>
         <p>Comme tous les Bas-reliefs de ce costé sont employez à representer les actions de pieté qui ont esté faites pour le rétablissement de la santé du Roy, l'autre costé represente les réjoüissances publiques, les Festins, les Cavalcades, les Bals, les Ballets, les Feux d'artifices, les illuminations, &amp; les autres spectacles. Le premier est pour les actions de Theatre, les concerts de Musique, &amp; les Cavalcades, avec ces mots de Judith. Omnes populi gaudebant in organis &amp; Cytharis.</p>
       </div>
-
-<div xml:id="MG-1687-09a_122">
+      <div type="article" xml:id="MG-1687-09a_122" resp="mercure">
         <head>MG-1687-09a_122</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 122-202</bibl>
         <p>Statuë du Roy élevée à Poitiers avec une description de toutes les Réjoüissances publiques qui se sont faites en cette occasion.</p>
@@ -192,16 +191,14 @@
         <p>Les Dames de la Trinité, qui ne sont pas moins considerables par leur naissance que par leur vertu, firent aussi chanter une Messe solemnelle &amp; un Te Deum en Musique, &amp; leurs Prieres pour la conservation du Roy, ne cesserent point pendant tout le jour.</p>
         <p>Quoy que le Chapitre de S. Hilaire, qui avoit esté prié de se trouver à la Ceremonie qui fut faite le 25. dans la Cathedrale, y eust assisté en Corps, il ne laissa pas de faire chanter peu de jours après un Te Deum particulier en Musique, de la composition de M. Pain. Ce fameux &amp; Royal Chapitre est d'autant plus considerable, qu'il dépend immediatement du S. Siege. Le Bureau des Finances, le Corps de Ville, &amp; le Corps des Marchands, qui voulurent faire la clôture de la Feste, firent pareillement chanter de grandes Messes solemnelles &amp; des Te Deum, ausquels Mr l'Intendant assista. Enfin, chacun a voulu marquer son zele dans cette occasion, jusqu'aux Ecoliers de Droit, qui ayant eu permission de s'assembler, &amp; d'entrer dans la réjoüissance publique, allerent en Corps &amp; sous les armes, rendre leurs devoirs à la Statuë, auprés de laquelle ils firent tirer un Feu d'artifice. J'ay oublié de vous dire que dés le 12. d'Aoust, la Figure avoit esté élevée dans le Vieux Marché, qu'on nomme aujourd'huy Place Royale, mais tous les ornemens ne pouvant estre si-tost en estat pour la Ceremonie, il fut arresté qu'elle ne se feroit que le 25. jour de S. Loüis. Cependant, quoy que la Figure n'eust esté posée que le soir du 12. Mr. Joussant, Recteur de l'Université, ne pouvant retenir l'ardeur de son zele, alla dés ce mesme soir avec quantité de Personnes qualifiées de la Ville, &amp; accompagné de Tambours, de Hautbois, &amp; de Trompettes, rendre hommage à la Statuë, en faisant trois fois le tour de la Place avec les Ceremonies qui s'observent dans une semblable occasion.</p>
       </div>
-
-<div xml:id="MG-1687-09a_202">
+      <div type="article" xml:id="MG-1687-09a_202" resp="mercure">
         <head>MG-1687-09a_202</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 202-207</bibl>
         <p>Grandes Réjoüissances faites à Troyes en Champagne à la Reception d'une Figure du Roy.</p>
         <p/>
         <p>Ce que je viens de vous dire fait voir le zele des Peuples. Il est si grand pour laisser à la posterité des marques de son amour pour le Roy, &amp; du haut point de gloire où ce Prince a mis la France que toutes les Villes de ce florissant Royaume ont resolu de luy élever des Monumens. On n'épargne pour cela ny le marbre ny le bronze, &amp; l'on y travaille de toutes parts. La Ville de Troyes, Capitale de Champagne, que les dernieres Conquestes de Sa Majesté ont mise dans un repos si tranquille, n'avoit pas moins d'empressement que les autres Villes du Royaume, de faire connoistre l'ardeur qu'elle a pour sa gloire, lors qu'elle receut de la liberalité de M. Girardon, l'un de ses Compatriotes, un Present assez beau pour estre l'ouvrage des soins &amp; de la dépense d'une Ville entiere. C'est un Portrait du Roy en marbre, de grandeur naturelle, si bien travaillé, &amp; tellement ressemblant, que Troyes pourra se vanter dans les Siecles avenir, d'avoir la vraye Image d'un Prince, qui fera alors, comme il fait dés aujourd'huy, l'admiration de l'Univers. Aussi cette Ville là n'a-t-elle rien oublié, en recevant cet Ouvrage, pour marquer la joye la plus sensible, que des Sujets veritablement charmez de la grandeur &amp; de bontez de leur Souverain, puissent témoigner. Toute la Bourgeoisie estoit sous les armes, &amp; avoit à sa teste une partie des Echevins &amp; des Conseillers de Ville. Je dis une partie, puisque le Maire &amp; le reste du Conseil estoient assemblez à l'Hostel de Ville, pour y recevoir un si precieux present. Il fut posé sur un Brancard couvert d'un Tapis de Velours violet, parsemé de Fleurs de Lys d'or, &amp; porté du lieu où il avoit esté mis en attendant le jour de cette Ceremonie, par quatre Officiers de Ville, au milieu de la Milice. Un grand nombre de Tambours, de Trompettes &amp; de Hautbois les precedoient, &amp; ils allerent ainsi jusques à l'Hostel de Ville, où ce Present fut receu par le Maire, les Echevins &amp; les Conseillers, avec toutes les marques possibles de joye &amp; de veneration. On le plaça dans la grande Salle sur une Table couverte d'un Tapis enrichy de Fleurs de Lys d'or, &amp; ce fut là qu'on donna au Peuple, qui l'avoit suivy avec un empressement extraordinaire, accompagné de cris d'allegresse, la satisfaction de le voir. [...]</p>
       </div>
-
-<div xml:id="MG-1687-09a_241">
+      <div type="article" xml:id="MG-1687-09a_241" resp="mercure">
         <head>MG-1687-09a_241</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 241-270</bibl>
         <p>Détail de tout ce qui s'est passé pendant le séjour que Monseigneur le Dauphin a fait à Anet.</p>
@@ -528,22 +525,20 @@
         <p>On alla le Jeudy à la Chasse au Loup. On joüa le soir l'Amphitrion qui fut precedé d'une ouverture, &amp; d'un Air Italien de la Composition de Mr de la Barre. Après l'Amphitrion on chanta l'Idille de Mr de Lully l'Aisné, &amp; après cet Idille on joüa le Rendez-vous des Tuilleries. L'Idille de Mr de Lully le Cadet fut chanté avant le coucher, &amp; finit les divertissemens. Je ne vous dis rien du succés de la Musique de ces deux Idilles. On n'auroit pas pris plaisir à les entendre tant de fois, si on ne l'avoit trouvée bonne. A l'égard de celuy qui a le mieux réüssi, c'est ce qu'il seroit difficile de decider ; il faudroit pour cela qu'ils eussent mis tous les deux le mesme Ouvrage en Musique. Tout ce que je puis vous dire, c'est qu'estant encore fort jeunes, &amp; ayant appris d'un aussi habile Maistre que feu Mr de Lully leur Pere, il y a sujet d'en attendre beaucoup s'ils entreprennent de marcher sur ses traces, &amp; s'ils s'appliquent assez pour cela.</p>
         <p>J'ay oublié de vous marquer qu'il y a eu quelques entrées de Balet dans les Entractes des Comedies. Monseigneur a témoigné se divertir extremement pendant tout le temps qu'il a passé dans cette delicieuse Maison, &amp; cela se remarquant sur le visage de ce Prince, causoit une joye à toute sa Cour qui l'animoit à se divertir aussi, &amp; particulierement à Monsieur de Vendosme, dont l'attachement pour toute la Maison Royale, ne se sçauroit exprimer. Les deux Idilles qui ont servy de divertissement à Anet, &amp; que vous venez de lire, ont esté chantez à Marly devant le Roy, &amp; ils y ont eu le mesme succés.</p>
       </div>
-
-<div xml:id="MG-1687-09a_270">
+      <div type="article" xml:id="MG-1687-09a_270" resp="mercure">
         <head>MG-1687-09a_270</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 270-271</bibl>
         <p>Tout ce qui s'est passé à l'Académie Françoise le jour de Saint Loüis.</p>
         <p/>
         <p>Le 25. du mois passé, l'Academie Françoise solemnisa à son ordinaire la Feste de S. Loüis, Roy de France, dans la Chapelle du Louvre. M. l'Abbé de la Vau, l'un des quarante Academiciens, celebra la Messe, pendant laquelle il y eut une excellente Musique. Elle estoit de la composition de Mr Oudot, qui fit paroistre son habileté ce jour-là plus que jamais. Ensuite Mr l'Abbé Courcier, Theologal de l'Eglise de Paris, prononça le Panegyrique de S. Loüis, avec un succés qui luy attira beaucoup de loüanges. [...] L'assemblée estoit nombreuse, mais en mesme temps de gens choisis.</p>
       </div>
-
-<div xml:id="MG-1687-09a_329">
+      <div type="article" xml:id="MG-1687-09a_329" resp="mercure">
         <head>MG-1687-09a_329</head>
         <bibl>Mercure galant, septembre 1687, première partie, p. 329-331</bibl>
         <p>Arrivée, séjour &amp; départ des Ambassadeurs de Moscovie.</p>
         <p/>
         <p>Les Ambassadeurs qui y sont venus les deux dernieres fois [à la Cour de France], ayant témoigné aux Princes leurs Maistres la satisfaction qu'ils y ont receuë, elle a esté cause de cette troisiéme Ambassade, &amp; qu'un Prince de la Famille des Czars qui ont porté la Couronne avant ceux qui la portent aujourd'huy, a esté nommé premier Ambassadeur. Ils débarquerent à Dunkerque, où le Roy leur envoya M. Tort, Gentilhomme ordinaire de sa Maison, qui souvent a eu de pareilles Commissions, parce qu'ils s'en est toûjours acquité au gré de Sa Majesté, &amp; des Ambassadeurs qu'il a receus &amp; accompagnez pendant tout le séjour qu'ils ont fait en France. Il y avoit trois Ambassadeurs, &amp; le dernier estoit nommé Chancelier, non pas qu'il fust en effet Chancelier de Moscovie, comme quelques Relations publiques l'ont marqué, il n'y a pas vraye semblance à celà ; mais parce qu'il n'y a presque point de Corps qui n'ait son Chancelier en ce Pays-là, &amp; qu'il y en a mesme dans les Villes &amp; dans les Bourgs. Ces trois Ambassadeurs avoient une suite de plus de six-vingt personnes tant Gentilshommes que Gardes Domestiques, Trompettes, Timbaliers, &amp; Joüeurs d'Instrumens, qui ont tous esté nourris ; &amp; voiturez aux despens du Roy. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

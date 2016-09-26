@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1694-02_008">
+      <div type="article" xml:id="MG-1694-02_008" resp="mercure">
         <head>MG-1694-02_008</head>
         <bibl>Mercure galant, février 1694, p. 8-11</bibl>
         <p>Sonnet.</p>
@@ -81,8 +81,7 @@
         <p/>
         <p>Ce Sonnet est de Mr des Lutinieres, Senechal de Bourgueil. Quoy que l'usage &amp; la Poésie autorisent l'espece d'exageration qui s'y trouve, il est neanmoins constant que les Victoires du Roy ayant esté continuelles pendant l'Esté dernier, ont fait chanter plusieurs Te Deum pour les avantages remportez en Allemagne, en Italie, en Catalogne, &amp; sur Mer. Ce sont de ces faits qui doivent confondre ses Ennemis, lors qu'ils s'efforcent de rabaisser la gloire de la France. Si la disette des bleds l'a fait souffrir, les Ennemis n'ont pas l'avantage d'avoir contribué à son mal par la force de leurs armes, estant certain qu'ils ne peuvent se vanter d'avoir remporté aucun avantage sur nous, ny de nous avoir pris un pouce de terre.</p>
       </div>
-
-<div xml:id="MG-1694-02_264">
+      <div type="article" xml:id="MG-1694-02_264" resp="mercure">
         <head>MG-1694-02_264</head>
         <bibl>Mercure galant, février 1694, p. 264-304</bibl>
         <p>Détail de tout ce qui s'est passe aux Ceremonies de la Pompe funebre de la Reine de Suede.</p>
@@ -93,21 +92,19 @@
         <p>L'Oraion Funebre finie, la Musique recommença, pendant laquelle le Grand Maistre, &amp; les trois Senateurs nommez pour porter la Couronne, le Sceptre &amp; la Pomme, s'avancerent vers le Mausolée avec les autres Senateurs qui devoient porter le Corps. Ils leverent le Cercueil de l'Estrade où il estoit posé, &amp; le porterent dans le Caveau. Devant le Corps marchoient les quatre Herauts, le Grand Maistre, &amp; les trois Senateurs qui portoient les attributs de la Souveraineté, mais le Grand Maistre descendit dans le Caveau. Quand le Corps y fut posé, on tira deux cens coups de Canon en divers endroits de la Ville. Aprés cela, les Drabans, le Regiment du Roy, la Cavalerie de la Ville, le Regiment des Gardes à pied, les Compagnies de la Bourgeoisie à pied, firent leur premiere decharge ; le Canon tira une seconde fois un même nombre de coups, ce qui fut suivi d'une seconde décharge des Troupes. A la fin de la Ceremonie, l'Evesque de Lincoping donna la benediction. Ensuite les Cloches recommencerent à sonner, &amp; on retourna au Chasteau dans le mesme ordre. Pendant que le Service se faisoit dans l'Eglise où estoit le corps, on faisoit de mesme des Services, &amp; on prononçoit des Oraisons funebres dans toutes les autres Eglises de la Ville &amp; des Faux-bourgs qui estoient éclairées &amp; tenduës de noir. La Ceremonie fut suivie d'un grand Souper. Les Senateurs du Roy, la Noblesse, les Dames, Epouses &amp; Veuves des Senateurs, les autres Dames de la Cour, le Clergé, les Bourgeois &amp; les Paysans, furent tous traitez en differens Appartemens du Chasteau, avec beaucoup de magnificence.</p>
         <p>Au retour le soir, la Cavalerie &amp; l'Infanterie portoient les armes à la maniere ordinaire. Pendant les deux marches on touchoit les tambours &amp; les timbales, mais ils estoient couverts.</p>
       </div>
-
-<div xml:id="MG-1694-02_311">
+      <div type="article" xml:id="MG-1694-02_311" resp="mercure">
         <head>MG-1694-02_311</head>
         <bibl>Mercure galant, février 1694, p. 311-314</bibl>
         <p>Aprés vous avoir fait esperer par ma Lettre du dernier mois le retour de la santé de Madame des Houlieres, comment vous apprendre qu'elle n'a pu resister à la violence de son mal, qui l'a emportée depuis peu de jours ? Elle estoit d'un merite si distingué &amp; si generalement reconnu, qu'il n'y a qu'à dire que Madame des Houlieres est morte, pour faire entendre à tout ceux qui aiment l'esprit, qu'on a fait une perte irreparable. (...)</p>
         <p>Le Public a témoigné beaucoup de douleur de cette mort. Aussi peut-on dire que Madame des Houlieres estoit la gloire du Parnasse, &amp; de son Sexe, &amp; qu'elle a mis nostre Poësie Lyrique au plus haut point de sa perfection, Elle avoit l'esprit d'une élevation extraordinaire, un stile pur &amp; delicat, &amp; des expressions justes &amp; nobles. (...) Les graces de l'esprit estoient jointes à celles du corps, &amp; elle a esté belle jusques à sa fin, quoy qu'agée de cinquante six ans. Elle est morte le 17. de ce mois, aprés une longue maladie, avec une resignation humble &amp; chrestienne, &amp; une constance heroïque, demandant elle-mesme tous les secours spirituels, qu'elle receus dans les sentimens d'une parfaite contrition, d'une foy vive, &amp; d'une ferme esperance.</p>
       </div>
-
-<div xml:id="MG-1694-02_329">
+      <div type="article" xml:id="MG-1694-02_329" resp="mercure">
         <head>MG-1694-02_329</head>
         <bibl>Mercure galant, février 1694, p. 329-330</bibl>
         <p>Divertissement du Carnaval.</p>
         <p/>
         <p>Le Carnaval s'est passé à l'ordinaire. Monsieur a donné le bal cinq ou six fois au Palais Royal avec la magnificence qui est naturelle à ce grand Prince. Monseigneur le Dauphin s'y est trouvé, &amp; l'affluence des masques y a esté grande. Le Mardy du Carnaval toute la Cour superbement parée se rendit dans le grand Appartement du Roy à Versailles, où il y eut un bal digne de l'éclat de la Cour de France, qui conserve toujours la mesme spendeur.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

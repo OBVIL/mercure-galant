@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-02_062">
+      <div type="article" xml:id="MG-1688-02_062" resp="mercure">
         <head>MG-1688-02_062</head>
         <bibl>Mercure galant, février 1688, p. 62-63</bibl>
         <p>CELIMENE.</p>
@@ -78,8 +78,7 @@
         <p>Elle hait les doux accents.</p>
         <p>[...]</p>
       </div>
-
-<div xml:id="MG-1688-02_099">
+      <div type="article" xml:id="MG-1688-02_099" resp="mercure">
         <head>MG-1688-02_099</head>
         <bibl>Mercure galant, février 1688, p. 99-110</bibl>
         <p>Vers en maniere de petit Opera, propres à mettre en chant.</p>
@@ -266,14 +265,12 @@
         <p>Qu'il regne dans les coeurs,</p>
         <p>Qu'il regne sur la Terre.</p>
       </div>
-
-<div xml:id="MG-1688-02_146">
+      <div type="article" xml:id="MG-1688-02_146" resp="mercure">
         <head>MG-1688-02_146</head>
         <bibl>Mercure galant, février 1688, p. 146-147</bibl>
         <p>Ayant fait graver depuis plusieurs années les Jettons qui se frappent tous les ans, j'ay cru devoir prendre encore le mesme soin celle-cy, &amp; je vous les envoye à mon ordinaire. La Planche que je joins à cette Lettre vous les fera voir. Comme on connoist presque tous ces Jettons par les explications qui sont au bas, il n'est pas besoin que je vous donne beaucoup d'éclaircissement là-dessus. Je vous diray seulement que le premier est pour la Maison de Madame la Dauphine, &amp; le dernier pour la Troupe Italienne.</p>
       </div>
-
-<div xml:id="MG-1688-02_170">
+      <div type="article" xml:id="MG-1688-02_170" resp="mercure">
         <head>MG-1688-02_170</head>
         <bibl>Mercure galant, février 1688, p. 170-184</bibl>
         <p>Lettre écrite de Ratisbonne.</p>
@@ -286,6 +283,6 @@
         <p>Le temps ayant esté concerté par toutes ces personnes illustres pour accomplir les ordres de Sa Majesté, Mr le Comte de Crecy fit richement parer un Appartement, &amp; l'on y dressa un Autel qui fut richement orné, afin que toutes choses y répondissent à la sainteté du Sacrement, &amp; à la grandeur du nom qu'on devoit donner à son Fils. [...] La Ceremonie se fit par M. le Comte de Vvartemberg, Doyen des Chanoines de la Cathedrale de Ratisbonne, &amp; qui y fait maintenant la fonction de Suffragant, homme distingué par sa naissance, estant issu de la Serenissime Maison de Baviere, &amp; venerable par la sainteté de ses moeurs. [...]</p>
         <p>La Ceremonie estant finie, la Compagnie fut invitée à une Collation. C'estoit un Ambigu qui avoit esté preparé dans une autre Salle éclairée à la Françoise. Il y avoit une Table de trente couverts. [...] Mr le Comte de Crecy eut soin d'égayer Mrs les Ambassadeurs ; &amp; Madame la Comtesse entretint les Ambassadrices &amp; les Dames ; car dans ces sortes de repas les Dames, quoy qu'assises à la mesme Table, ne s'y mêlent pas ordinairement parmy les hommes. Par ce moyen les uns sont moins contraints à goûter le vin ; &amp; les Dames de leur costé profitent mieux de la conversation. Elles pouvoient en cette rencontre prester l'oreille à la simphonie d'une bande de Violons François, qui sont icy assez rares. Le repas fut suivy d'un Ballet dansé par la Famille d'une personne, qui outre son zele pour tout ce qui peut avoir quelque rapport à la gloire ou au service du Roy, fait depuis longtemps une profession particuliere d'estre attachée d'inclination &amp; d'obligation à celle de M. le Comte de Crecy. Ce Ballet estoit composé de Bergers &amp; de Bergeres, dont les jeux &amp; les danses, qui representoient les plaisirs de l'estat d'innocence, estoient en mesme temps des marques de la profonde paix que LOUIS LE GRAND a donnée à l'Europe, &amp; par laquelle il la comble de plaisirs &amp; de richesses. Après ce Ballet, dont la Compagnie qui ne s'y attendoit pas, se vit agreablement surprise, le Bal commença dans les formes, &amp; dura jusques au jour. Le filleul du Roy fit tous les honneurs &amp; en eut presque toute la fatigue. Il montra qu'il estoit aussi galant qu'il est sçavant ; &amp; qu'un jour il seroit aussi agreable aux Dames, qu'utile au service du Roy son Maistre. Toute cette Feste finit par les liberalitez que fit Mr le Comte de Crecy, à ceux qui avoient esté occupez à la Ceremonie du Baptesme. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

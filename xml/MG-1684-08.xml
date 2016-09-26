@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-08_113">
+      <div type="article" xml:id="MG-1684-08_113" resp="mercure">
         <head>MG-1684-08_113</head>
         <bibl>Mercure galant, août 1684, p. 113-114, 116-117</bibl>
         <p>Bout-de-l'an de la Reyne fait à S. Denys</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>Ce jour-là 31. le Service fut celébré par Mr le Cardinal de Bonzi, qui officia pontificalement. Il commença à dix heures &amp; demie du matin, &amp; ne finit qu'à une heure. Ce fut la Musique du Roy qui chanta la Messe. [...] Le mesme Lundy 31. Juillet, les Missionnaires de Versailles firent un Bout-de-l'an dans la Chapelle du Chasteau.</p>
       </div>
-
-<div xml:id="MG-1684-08_192">
+      <div type="article" xml:id="MG-1684-08_192" resp="mercure">
         <head>MG-1684-08_192</head>
         <bibl>Mercure galant, août 1684, p. de l'extrait 192-193, 209-210, 212-213, 252-253</bibl>
         <p>[À propos du traité de paix d'Alger et du voyage de l'ambassadeur du dey d'Alger]</p>
@@ -73,14 +72,13 @@
         <p>[L'Ambassadeur arriva à Paris] le vingt-neuvième de Juin ; &amp; le quatrième de Juillet il fut conduit à l'Audience du Roy à Versailles par Mr Bonneüil, Introducteur des Ambassadeurs, qui l'avoit esté prendre à Paris à l'Hôtel des Ambassadeurs, avec les Carrosses de Sa Majesté, &amp; de madame la Dauphine. [...]</p>
         <p>Il a dit de l'Opéra, Qu'il n'y avoit rien de semblable au Monde, &amp; que l'Empereur de France surpassoit tous les souverains jusques dans les Jeux. La Comédie Françoise luy a paru trop spirituelle &amp; trop sérieuse, pour estre un Jeu, &amp; il a dit de l'Italienne, Que quoy que ce ne fust que la Petite-Fille de l'Opéra, elle charmoit d'une maniere toute diférente, &amp; qu'Arlequin estoit tout esprit. Cet Acteur, inimitable en son genre, l'ayant esté voir, il luy dit, apres luy avoir fait beaucoup d'honnestetez, ainsi qu'à sa Femme &amp; à ses Filles, que suivant ce qu'il avoit veu, &amp; qu'on luy avoit expliqué, il avoit connu qu'il joüoit beaucoup de Gens, &amp; que comme il croyoit avoir en luy plus d'endroits qu'un autre pour estre joüé, il le prioit de l'épargner apres son depart.</p>
       </div>
-
-<div xml:id="MG-1684-08_324">
+      <div type="article" xml:id="MG-1684-08_324" resp="mercure">
         <head>MG-1684-08_324</head>
         <bibl>Mercure galant, août 1684, p. 324-326</bibl>
         <p>Messieurs de l'Académie Françoise, M. l'Abbé Denise</p>
         <p/>
         <p>A propos de l'Académie Françoise dont je viens de vous parler, Mr l'Abbé Denyse prescha le jour de Saint Loüis au Louvre, devant les Illustres qui la composent. [...] La Musique de la Messe qui fut chantée au Louvre ce mesme jour, plût aussi extrémement. Elle estoit de la composition de Mr Oudot, qui la conduisit. Son mérite vous est connu, &amp; je vous en ay déja parlé plusieurs fois. C'est luy qui tous les ans fait la Musique au Louvre le jour de cette Feste.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

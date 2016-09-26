@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-06a_002">
+      <div type="article" xml:id="MG-1684-06a_002" resp="mercure">
         <head>MG-1684-06a_002</head>
         <bibl>Mercure galant, juin 1684, 1e partie, p. 2-4, 6-12, 19-20</bibl>
         <p>Particularitez de l'entreveüe de Mr le Duc de Savoye, &amp; de Madame Royale ; ce qui s'est passé sur leur Route jusques à Thurin, &amp; les Réjoüissances qui s'y sont faites.</p>
@@ -62,8 +62,7 @@
         <p/>
         <p>[Le] 8. du mois, Madame la Duchesse Royale alla à la Sainte Chapelle, [...] On chanta le Te Deum dans cette Chapelle, &amp; Leurs Altesses Royales qui dînérent en public, n'eurent personne à leur Table. [...]</p>
       </div>
-
-<div xml:id="MG-1684-06a_106">
+      <div type="article" xml:id="MG-1684-06a_106" resp="mercure">
         <head>MG-1684-06a_106</head>
         <bibl>Mercure galant, juin 1684, 1e partie, p. 106, 111-113</bibl>
         <p>Lettre du Roy de Siam au Pape, &amp; au Roy de France, avec plusieurs particularitez touchant les Ambassadeurs embarquez pour la France, sur le Vaisseau le Soleil d'Orient.</p>
@@ -72,8 +71,7 @@
         <p/>
         <p>On appelle ceux qu'il monte, Eléphans de l'Etat. On les loge dans de beaux Lieux, qui sont comme des Maisons de Princes, toutes peintes de feüillages ; &amp; comme ces Animaux aiment fort la propreté, on ne se sert que de Vaisselle d'argent pour leur donner à manger. Jamais ils ne sortent pour aller à la Riviere ou à la Campagne, qu'on ne porte des Parasols devant chacun d'eux. Ils sont précedez de Tambours &amp; de Musetes ; &amp; ont un Harnois d'argent, &amp; garny de cuivre. Deux Hommes montent dessus, l'un sur le col, l'autre sur la croupe ; &amp; dans le milieu, il y a une Selle d'écarlate, où personne n'ose s'asseoir, à cause que c'est la place du Roy. [...]</p>
       </div>
-
-<div xml:id="MG-1684-06a_146">
+      <div type="article" xml:id="MG-1684-06a_146" resp="mercure">
         <head>MG-1684-06a_146</head>
         <bibl>Mercure galant, juin 1684, 1re partie, p. 146-151, 154</bibl>
         <p>Suite du Journal de la Cour, qui comprend plusieurs Articles, &amp; la Reception faite au Roy à Chantilly</p>
@@ -82,12 +80,11 @@
         <p/>
         <p>Le Roy soupa avec Monseigneur le Dauphin, Madame la Dauphine, Monsieur, Madame, Madame la Duchesse, Madame la Princesse de Conty, Mademoiselle de Bourbon, &amp; Mademoiselle de Nantes. La Symphonie fut charmante, &amp; fit le plaisir de la soirée. [...]</p>
       </div>
-
-<div xml:id="MG-1684-06a_262">
+      <div type="article" xml:id="MG-1684-06a_262" resp="mercure">
         <head>MG-1684-06a_262</head>
         <bibl>Mercure galant, juin 1684, 1e partie, p. 262-265</bibl>
         <p>Je ne vous dis point ce que vous sçavez il y a longtemps, que dans toutes sortes d'Airs Mr de Bacilly réüssit également. C'est ce qui a obligé deux grands Hommes à faire un mot tout exprés pour exprimer ce qu'ils pensent d'un Génie si universel. Ils disent que de toute la Musique, luy seul n'est point manieré, au lieu que l'on reconnoist la maniere de composer des autres Autheurs, dans chacun des Airs qu'ils mettent au jour. Le grand nombre qu'il en a donnez de sa façon, remplit dix Volumes, qu'on vend au Palais chez les Srs de Luyne, &amp; Blageart. Il a le don d'ajuster les Airs, mesme ceux d'autruy, &amp; d'y donner un tour agreable conformement au sens des paroles, qu'il posséde souverainement, comme on peut le voir pas son Livre de l'Art de chanter, si vanté de tout le monde. Cette vérité se connoist mieux que jamais, depuis la mort de Mr de Niere, si renommé pour l'execution &amp; les ornemens du Chant. On sçavoit le commerce qu'ils avoient ensemble depuis trente années, &amp; l'on attribuoit à Mr de Niert tout ce qui estoit de Mr de Bacilly. Cependant on voit bien par ce qu'il fait à présent, qu'il n'emprunte de personne, &amp; quelques petits Airs d'Amadis, &amp; autres du temps, qu'il a ornez, en sont une preuve. Quoy qu'un talent si peu ordinaire pour tout ce qui regarde l'Art de chanter, soit connu de la plûpart des Gens éclairez, ses Envieux qui luy veulent nuire, n'ont pas laissé de faire courir le bruit qu'il n'enseigne plus, &amp; ils l'ont si bien persuadé, qu'on ne s'en détrompe qu'avec peine. Il est pourtant vray qu'il est plus capable d'enseigner, qu'il ne l'a encore esté, &amp; qu'un long usage luy a donné de si grandes &amp; de si vives lumieres, qu'en fort peu de temps il rend une voix capable de tout ce qui se pratique dans le Chant. Il n'est point borné à ses Ouvrages, comme beaucoup d'autres, &amp; enseigne indiféremment tout ce qu'il y a de nouveau.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

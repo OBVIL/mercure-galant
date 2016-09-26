@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-11a_180">
+      <div type="article" xml:id="MG-1688-11a_180" resp="mercure">
         <head>MG-1688-11a_180</head>
         <bibl>Mercure galant, novembre 1688, p. 180-181</bibl>
         <p>Service fait à Troyes pour M. le Mareschal Duc de Vivonne.</p>
         <p/>
         <p>Le Maire &amp; les Echevins de la Ville de Troye, Capitale de Champagne, ont donné des marques du zele qu'ils ont toujours eu pour Mr le Maréchal Duc de Vivonne, qui étoit leur Gouverneur en faisant faire ses obseques avec beaucoup de magnificence. On les commença le 3. de ce mois par le son des Cloches de toutes les Eglises, &amp; ce son continua jusqu'au lendemain midy. La Ceremonie se fit dans la Cathedrale. Elle estoit toute tenduë de drap noir depuis le haut jusqu'en bas, dans la Nef &amp; dans le Choeur, avec une bande de velours noir au milieu, &amp; un tres-grand nombre d'Ecussons aux armes du Défunt. Il y avoit une Chapelle ardente, éclairée d'une infinité de Cierges blancs sur des Chandeliers d'argent. Mr le Doyen celebra la Messe, qui fut chantée par une excellente Musique. [...]</p>
       </div>
-
-<div xml:id="MG-1688-11a_194">
+      <div type="article" xml:id="MG-1688-11a_194" resp="mercure">
         <head>MG-1688-11a_194</head>
         <bibl>Mercure galant, novembre 1688, p. 194-211</bibl>
         <p>Réjoüissances faites en plusieurs Villes de France pour la prise de Philisbourg.</p>
@@ -71,22 +70,20 @@
         <p>La Chambre des Comptes de Bretagne établie à Nantes, qui signala son zele avec tant d'éclat, lors que toute la France rendit graces à Dieu du recouvrement de la Santé du Roy, si precieuse à tous ses Sujets, a voulu donner des témoignages particuliers de sa joye pour les conquestes de Monseigneur. Ainsi elle ne s'est pas contentée d'assister au Te Deum qu'on a chanté dans la Cathédrale ; elle se rendit le Lundy 15. de ce mois en habits de ceremonie dans le Palais de la Chambre, d'où elle alla sur les trois heures après midy, à l'Eglise des Cordeliers, où le Te Deum &amp; l'Exaudiat furent chantez par une excellente Musique, accompagnée d'une simphonie charmante. On alla de là à l'Hostel de Mr de la Busnelais, premier President de la Chambre, d'où deux fontaines de vin coulerent le reste du jour. Sur les sept heures du soir, toute la Compagnie, avec Mr le Marquis de Molac, Lieutenant general de Bretagne &amp; Gouverneur de Nantes, &amp; plusieurs autres Personnes de qualité de l'un &amp; de l'autre sexe, se rendit dans des Maisons devant la Place la plus proche de cet Hôtel. On y avoit preparé un Feu d'artifice qu'on fit jouër au bruit du Canon, &amp; d'une infinité de cris de Vive le Roy, après quoy on retourna dans le mesme Hostel, qu'on trouva illuminé par dedans &amp; par dehors, &amp; où cette illustre Compagnie fut regalée avec beaucoup de magnificence. On fit diverses décharges d'une grosse Artillerie, dans le temps qu'on but la santé du Roy &amp; celle de Monseigneur. On dansa après soupé, &amp; chacun sortit entierement satisfait des manieres obligeantes de M. le premier President. [...]</p>
         <p>Les mesmes actions de graces ont esté rendus en l'Abbaye de Gomer-Fontaine. Madame de Medavi de Grancey qui en est Abbesse, en avoit donné les ordres. Après le Te Deum il y eut des Prieres &amp; une Procession pour la santé &amp; prospérité du Roy &amp; de Monseigneur, ce qui fut fait avec beaucoup de devotion &amp; de piété. [...]</p>
       </div>
-
-<div xml:id="MG-1688-11a_297">
+      <div type="article" xml:id="MG-1688-11a_297" resp="mercure">
         <head>MG-1688-11a_297</head>
         <bibl>Mercure galant, novembre 1688, p. 297-312</bibl>
         <p>Affaire d'Angleterre.</p>
         <p/>
         <p>La Flote Hollandoise étant sur le point de faire voile en Angleterre, les Etats ordonnerent un jour de jeusne &amp; de prieres, pour le succés de cette entreprise. [...] Le Prince d'Orange qui devoit faire voile le 29. fit son adieu aux Etats. Il leur parla en Souverain de Hollande &amp; en futur Roy d'Angleterre ; [...] Tous les Navires portoient le Pavillon d'Angleterre, entrelassé des Armes du Prince &amp; de la Princesse d'Orange, au haut cette Devise, pro libertate &amp; Religione, &amp; au bas, Je maintiendray, qui est la Devise ordinaire des Princes d'Orange. Si-tost que le Prince fut monté sur son bord, on déploya le Pavillon qui estoit d'une grandeur surprenante. Les Trompettes, les Hautbois, &amp; les autres Instrumens de Guerre, commencerent à se faire entendre, &amp; aussi-tost on mit à la Voile. [...]</p>
       </div>
-
-<div xml:id="MG-1688-11a_332">
+      <div type="article" xml:id="MG-1688-11a_332" resp="mercure">
         <head>MG-1688-11a_332</head>
         <bibl>Mercure galant, novembre 1688, p. 332-334</bibl>
         <p>Troisiéme Article de Morts.</p>
         <p/>
         <p>Vendredy dernier 26. de ce mois, cette illustre Compagnie perdit Mr Quinault, l'un des 40. Academiciens qui la composent. Ses ouvrages font son Eloge, &amp; il n'y a personne qui ne demeure d'acord qu'il estoit tres-digne de la reputation qu'il s'est acquise. Il a laissé plusieurs Pieces de Theatre qui ont paru toutes avec beaucoup de succés, mais il s'estoit particulierement distingué dans les Opera. Son talent y estoit rare, &amp; si quelqu'un est assez heureux pour le pouvoir égaler dans ce genre de Poësie, ce qui paroist mal-aisé, on peut dire que jamais on ne le surpassera. Tous ses Vers sont naturels propres à chanter, &amp; si bien tournez qu'ils semblent avoir esté faits par les Muses mesmes. Mr Quinault n'estoit pas moins estimable du costé de l'ame que de celuy de l'esprit. Il a beaucoup de probité &amp; de droiture, &amp; on l'a toujours veu honneste, bien-faisant, &amp; d'une Societé aisée &amp; tres-agreable. Ainsi il est également regretté, &amp; à la Chambre des Comptes où il estoit Auditeur, &amp; à l'Academie Françoise.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

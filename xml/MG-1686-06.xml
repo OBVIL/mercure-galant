@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-06_001">
+      <div type="article" xml:id="MG-1686-06_001" resp="mercure">
         <head>MG-1686-06_001</head>
         <bibl>Mercure Galant, juin 1686, p. 1-2, 4-5</bibl>
         <p>Prières pour rendre grâces à Dieu du retour de la santé du Roy</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>Le Chapitre de S. Marcel donna des marques de son zèle sur la fin du mois passé, par un salut qui fut chanté en Musique dans cette Eglise. Elle estoit ornée ces jours-là des plus belles Tapisseries de la Manufacture Royale des Gobelins. Le S. Sacrement y fut exposé, &amp; Mr le Doyen le porta en Procession. Les Chanoines, Chapelains, &amp; Ecclésiastiques de la Communauté de ce Chapitre y assistèrent au nombre de quatre-vingt, tous en Chapes, &amp; la Cérémonie se termina par le Te Deum, en action de grâces de l'entier recouvrement d'une Santé si prétieuse en France. [...]</p>
       </div>
-
-<div xml:id="MG-1686-06_150">
+      <div type="article" xml:id="MG-1686-06_150" resp="mercure">
         <head>MG-1686-06_150</head>
         <bibl>Mercure Galant, juin 1686, p. 150-152, 163-165, 170</bibl>
         <p>Grande Feste donnée à Rome par M. le Cardinal d'Estrées</p>
@@ -73,8 +72,7 @@
         <p/>
         <p>[...] un peu après que l'Illumination eut paru, on entendit un Concert de Tambours &amp; de Trompettes. Il fut suivy d'un autre de Violons, après lequel divers instrumens firent une Symphonie très agréable, pendant qu'une des plus belles voix de Rome chantoit un Récit à la loüange du Roy. [...]</p>
       </div>
-
-<div xml:id="MG-1686-06_212">
+      <div type="article" xml:id="MG-1686-06_212" resp="mercure">
         <head>MG-1686-06_212</head>
         <bibl>Mercure Galant, juin 1686, p. 212-213</bibl>
         <p>Tout ce qui s'est passé à la Réception des quatre nouveaux Chevaliers de l'Ordre</p>
@@ -83,14 +81,13 @@
         <p/>
         <p>[...] Mr l'Archevesque de Paris, Prélat Commandeur de l'Ordre, estant arrivé, revestu de ses habits pontificaux, commença le Veni Creator, que la Musique du Roy continua. [...]</p>
       </div>
-
-<div xml:id="MG-1686-06_296">
+      <div type="article" xml:id="MG-1686-06_296" resp="mercure">
         <head>MG-1686-06_296</head>
         <bibl>Mercure Galant, juin 1686, p. 296-298</bibl>
         <p>Prières faites [...] aux Théatins à Paris, pour rendre grâces à Dieu du retour de la Santé du Roy.</p>
         <p/>
         <p>[...] Il s'est fait une grande Cérémonie [...] pour [le « rétablissement de la Santé du Roy »] à Paris [...] &amp; les Théatins de Sainte Anne la Royale célébrèrent le 24 de ce mois un Salut, où l'on chanta le Te Deum en Musique, de la composition de Mr Lorenzani, Maistre de Musique de la feu Reyne. Mr le Nonce du Pape y officia, &amp; donna la Bénédiction du S. Sacrement. Le bruit qui s'estoit répandu de cette Cérémonie, attira quantité de Personnes de la première qualité [...].</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

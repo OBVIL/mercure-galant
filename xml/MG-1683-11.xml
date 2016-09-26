@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-11_027">
+      <div type="article" xml:id="MG-1683-11_027" resp="mercure">
         <head>MG-1683-11_027</head>
         <bibl>Mercure Galant, novembre 1683, p. 27-29, 33-35</bibl>
         <p>Festes galantes données à Genéve</p>
@@ -60,6 +60,6 @@
         <p/>
         <p>Apres [un] magnifique Régale [...], on prit le plaisir de la Promenade, &amp; ce plaisir fut suivy du Bal, où Mr le Prince d'Anhald fit admirer son adresse. Mademoiselle de Dona, dont l'air grand &amp; noble se fait distinguer par tout, y parut d'une beauté achevée, en dançant le Menüet de l'Opéra de Phaëton. Le Bal finy, toute cette aimable Troupe monta en Carrosse, &amp; on vint au Manége de la Ville, où les Cavaliers donnerent aux Dames le divertissement d'une Course de Bague. [...] Apres [...], on accompagna la Comtesse de Dona, qui leur fit servir une tres-belle Collation. On dança encore une partie de la nuit, &amp; la Compagnie se sépara.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

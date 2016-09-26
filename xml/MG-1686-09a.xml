@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-09a_035">
+      <div type="article" xml:id="MG-1686-09a_035" resp="mercure">
         <head>MG-1686-09a_035</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 35-38</bibl>
         <p>Prélude sur l'établissement de la Maison de S. CIR</p>
@@ -62,8 +62,7 @@
         <p/>
         <p>Voulons &amp; nous plaist, qu'en considération de nostre présente Fondation Royale, ladite Communauté soit tenuë de faire célébrer une Messe haute, &amp; deux Messe basses tous les Dimanches &amp; Festes de l'année, &amp; deux Messes basses les jours ouvrables à l'intention qu'il plaise à Dieu de nous donner &amp; à nos Successeurs les lumières nécessaires pour gouverner nostre Etat selon les Règles de la Justice, &amp; pour augmenter son culte &amp; exalter son Eglise dans notre Royaume, Terres &amp; Seigneuries de notre Obeïssance, comme aussi à l'intention de remercier Dieu des grâces qu'il répand sur Nous, sur nostre Maison Royale &amp; sur nostre Etat. Nous voulons qu'à la Messe de la Communauté il soit chanté le Pseaume Exaudiat te Dominus, avec le Verset &amp; l'Oraison accoûtumée, &amp; à la fin de Vespres, le Domine salvum fac Regem ; Et comme nous mettons cette Maison sous la protection de la Sainte Vierge &amp; de Saint Loüis, VOULONS que l'une desdites Messes qui doivent estre dites chaque jour, soit célébrée pour le repos des Ames des Roys nos Prédécesseurs, &amp; de la feuë Reyne nostre Epouse, &amp; après qu'il aura plû à Dieu de disposer de nous, ladite Messe sera pareillement célébrée à nostre intention, &amp; seront lesdites Dames tenuës de dire à la fin de la Messe de la Communauté &amp; Salut les jours cy-dessus un De profundis pour le repos de nostre Ame.</p>
       </div>
-
-<div xml:id="MG-1686-09a_048">
+      <div type="article" xml:id="MG-1686-09a_048" resp="mercure">
         <head>MG-1686-09a_048</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 48, 54-56, 62-65</bibl>
         <p>Prières et réjouissances</p>
@@ -76,8 +75,7 @@
         <p>Peut-estre n'avez-vous pas sçeu jusqu'à présent que le 5 ce mois, jour de la naissance de Sa Majesté, on disoit tous les ans une Messe basse dans l'Eglise des Clercs Réguliers, dits Théatins, pour rendre grâce à Dieu du présent qu'il luy a plû de faire à la France en la personne de ce grand Monarque. C'est une Fondation de la Reine Mère. Le Père Alexis du Buc, Supérieur, qui n'oublie rien quand il s'agit de marquer son zèle pour LOUIS Le GRAND, a rendu cette année ce Remerciement plus solemnel en faisant chanter la Messe en Musique. Elle estoit de la composition de Mr Lorenzani, Maistre de Musique de la feuë Reyne. Tous ceux qui l'ont entenduë avoüent qu'on ne peut rien faire de plus beau. L'Exaudiat qui suivit la Messe, charma toute l'Assemblée. Elle ne fut pas moins illustre que nombreuse, puis que Mr le Nonce, &amp; plusieurs Evesques s'y trouvèrent.</p>
         <p>Le soir Mr le Marquis de la Feüillade, célébra le jour de cette heureuse Naissance, en faisant tirer quantité de Boëtes dans la Place des Victoires. [...] Ce n'estoit que feu autour de la Place, &amp; la Figure du Roy estoit environnée de Haut-bois, de Violons, &amp; de Flûtes douces. Tout un grand Peuple joüit de ce divertissement pendant trois heures entières, &amp; ne pouvoit se lasser de louer le zèle de Mr de la Feüillade, qui avoit déjà fait la memes chose le soir du jour de la Feste de S. Loüis. [...]</p>
       </div>
-
-<div xml:id="MG-1686-09a_164">
+      <div type="article" xml:id="MG-1686-09a_164" resp="mercure">
         <head>MG-1686-09a_164</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 164-165, 167, 169-171</bibl>
         <p>Carrousel fait à Florence</p>
@@ -88,8 +86,7 @@
         <p/>
         <p>[Le prince Ferdinand prit part au combat, et] défit les Monstres avec une adresse qui attira mille cris de joye des Spectateurs [...] les Trompetes &amp; les Timbales se firent entendre, &amp; un Choeur de Musique ayant suivy, ce jeune Prince s'avança jusqu'au milieu de la Place à la teste des Chevaliers de Pallas, pour faire le coup de Pistolet, avec ceux de la Quadrille de Mars qui luy estoit opposées [...] après quoy toutes les Quadrilles se disposèrent à un Combat général avec l'épée. Il ne fut pas si tost commencé que Mars &amp; Pallas rappelèrent leurs Chevaliers, &amp; les invitèrent à la Paix par divers Choeurs de Musique. [...] La Feste s'estant terminée par là, [les Chevaliers se rangèrent autour du prince Ferdinand et] défilèrent au bruit des Timbales &amp; des trompetes, ayant ce jeune Prince à leur teste.</p>
       </div>
-
-<div xml:id="MG-1686-09a_186">
+      <div type="article" xml:id="MG-1686-09a_186" resp="mercure">
         <head>MG-1686-09a_186</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 186-187, 191</bibl>
         <p>Arrivée à Rouen de M. Faucon de Ris</p>
@@ -98,8 +95,7 @@
         <p/>
         <p>[Il y reçut les différents Corps de la Ville ainsi que le Chapitre de la Cathédrale de Rouen qui le complimentèrent tant sur son habileté que sur] l'exactitude qu'il a à remplir tous les devoirs de sa Charge.</p>
       </div>
-
-<div xml:id="MG-1686-09a_213">
+      <div type="article" xml:id="MG-1686-09a_213" resp="mercure">
         <head>MG-1686-09a_213</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 213-215, 217-218, 220, 222-225, 228-229, 231, 233-234</bibl>
         <p>Galanterie espagnole</p>
@@ -120,16 +116,14 @@
         <p/>
         <p>Le 20 [le vice-roi] alla encore la visiter, suivy de tous les Gardes, tant Soldats que Cavalerie, &amp; après luy avoir fait quelques complimens il se retira. Comme elle avoit marqué ce jour là pour celuy de son départ, il retourna chez elle peu de temps après, &amp; luy donna le divertissement d'un Ballet. Lors qu'elle voulut partir, il la conduisit au Port, &amp; la fit monter avec toute sa suite dans la mesme Galère qui l'avoit amenée ; il y monta luy-mesme, &amp; l'ayant accompagnée à quatre milles sur Mer, il prit congé d'elle avec toutes les marques qu'elle pouvoit souhaiter de son estime [...]</p>
       </div>
-
-<div xml:id="MG-1686-09a_244">
+      <div type="article" xml:id="MG-1686-09a_244" resp="mercure">
         <head>MG-1686-09a_244</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 244-251</bibl>
         <p>Particularités touchant l'Accouchement de Madame la Dauphine</p>
         <p/>
         <p>Ce fut entre onze heures trois quarts &amp; Midy. Mr Clément dit aussi-tost tout bas à Sa Majesté que c'estoit un Prince [...] &amp; Sa Majesté dit tout haut, C'est un Duc de Berry.[...] Le Roy retourna au Conseil &amp; dit en y entrant, Loüons Dieu, Messieurs, de ce qu'il vient de nous donner encore un Prince. Le Conseil estant finy, Sa Majesté alla à la Chapelle rendre grâces à Dieu de l'heureux Accouchement de Madame la Dauphine. Le lendemain ce Monarque assista au Te Deum, qui fut chanté dans la mesme Chapelle, où se trouvèrent Mr le Nonce, &amp; toute la Cour. Le soir il y eut des Feux de joye, &amp; des Illuminations par toutes les ruës. Le Lundy 2 de ce mois on chanta le Te Deum dans l'Eglise de la Paroisse, &amp; le soir on continua les réjoüissances du jour précédent. Le mesme jour il s'en fit de grandes à Paris. [...] L'après-disnée on chanta le Te Deum dans l'Eglise de Nostre-Dame. [...] Il y eut un grand Repas &amp; Bal à l'Hostel de Ville, &amp; l'on n'y oublia rien pour marquer la joye que chacun en ressentoit. [...] Je remets au prochain mois les réjoüissances qui ont esté faites à Bourges, Capitale du Berry, pour la Naissance de ce Nouveau Prince.</p>
       </div>
-
-<div xml:id="MG-1686-09a_276">
+      <div type="article" xml:id="MG-1686-09a_276" resp="mercure">
         <head>MG-1686-09a_276</head>
         <bibl>Mercure Galant, septembre 1686, première partie, p. 276-283, 285-290, 292</bibl>
         <p>Journal de tout ce qui s'est passé à Anet pendant le séjour de Monseigneur le Dauphin</p>
@@ -153,6 +147,6 @@
         <p/>
         <p>Le Mercredy 17 Monseigneur entendit la Messe sur les sept heures, après quoy il monta à cheval pour retourner à Versailles, où il arriva à neuf ; ainsi il ne demeura pas deux heures à faire douze lieuës. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

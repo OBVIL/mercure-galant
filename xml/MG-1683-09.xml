@@ -51,14 +51,14 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="MG-1683-09_033b" corresp="MG-1683-09_033">
+      <div type="article" xml:id="MG-1683-09_033b" resp="mercure" corresp="MG-1683-09_033">
         <head>MG-1683-09_033</head>
         <bibl>Mercure Galant, septembre 1683, p. 33-34</bibl>
         <p>[Fête de Saint-Louis à l'Académie Française]</p>
         <p/>
         <p>Vous attendez le détail de ce qui se passa le jour de la Feste de S. Loüis à l'Académie Françoise, &amp; je vay vous satisfaire. Cette illustre &amp; sçavante Compagnie, regardant ce Saint comme le Patron de LOÜIS LE GRAND, en fait faire tous les ans le panégyrique. Il est précedé d'une Messe, celebrée dans la Chapelle du Louvre par Mr l'Abbé du Pont, qui en est le Chapelain. La Musique y est chantée par un grand nombre des plus belles Voix de France, &amp; jusques icy elle a toûjours esté de la composition de Mr Oudot. [...]</p>
       </div>   
-      <div xml:id="MG-1683-09_055">
+      <div type="article" xml:id="MG-1683-09_055" resp="mercure">
         <head>MG-1683-09_055</head>
         <bibl>Mercure Galant, septembre 1683, p. 55-57, 79-80</bibl>
         <p>[Relation de la fête célébrée à Asnières pour l'anniversaire de la naissance du duc de Bourgogne]</p>
@@ -72,7 +72,7 @@
         <p/>
         <p>[...] La Messe estant achevé, on chanta le Te Deum ; &amp; apres que la Benédiction eut esté donnée, on fit les Prieres solemnelles pour le Roy, &amp; pour toute la Maison Royale. Au sortir de l'Eglise, on se rendit chez Mademoiselle Martineau. Il y avoit dans toutes les Chambres plusieurs Tables si bien servies, que toute la Compagnie, quoy que tres-nombreuse, y trouva par tout un Dîné splendide. [...]</p>
       </div>  
-      <div xml:id="MG-1683-09_153">
+      <div type="article" xml:id="MG-1683-09_153" resp="mercure">
         <head>MG-1683-09_153</head>
         <bibl>Mercure Galant, septembre 1683, 153-156, 158-161</bibl>
         <p>[Etats de Bretagne]</p>
@@ -81,8 +81,7 @@
         <p/>
         <p>[Outre les séances des Etats, le] reste du jour fut employé à se divertir. Les Trompetes, les Hautbois, &amp; les Violons, se faisoient entendre par tout. Les Dames estoient dans leur plus magnifique ajustement, &amp; parmy elles on voyoit briller Madame de Lavardin, &amp; Madame la Marquise du bois de la Roche. Le Lendemain, les Etats s'assemblerent, &amp; les Tables estant ouvertes, il se trouva grande Compagnie au Dîné de Mr de Chaunes, qui fut servy au son des trompetes, &amp; des autres Instrumens. Chacun ne pensoit qu'à faire grand'chere, lors qu'une Lettre qu'on luy apporta le fit changer de visage. Tout le monde remarqua que cette Lettre luy apprenoit quelque chose de fâcheux. Ce Duc soûpira, &amp; dit tout haut ; Trompetes, hautbois, &amp; Violons, taisez-vous ; Messieurs, pleurez avec moy la perte que la France vient de faire par la mort de la plus grande, de la plus sage, &amp; de la plus pieuse Princesse, qu'elle ait jamais euë pour Reyne. On sortit de table, &amp; ce fut bientost dans toute la Ville une désolation genérale. Chacun prit le deüil, &amp; on congédia les Comédiens qui devoient faire ce jour-là l'ouverture de leur Théatre. Les Etats ont duré un mois, &amp; pendant ce temps on a travaillé aux Affaires de la Province. [...]</p>
       </div>
-      
-      <div xml:id="MG-1683-09_270">
+      <div type="article" xml:id="MG-1683-09_270" resp="mercure">
         <head>MG-1683-09_270</head>
         <bibl>Mercure Galant, septembre 1683, p. 270-271</bibl>
         <p>[Cérémonie funèbre à Saint-Denis]</p>

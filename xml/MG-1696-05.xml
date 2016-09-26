@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-05_077">
+      <div type="article" xml:id="MG-1696-05_077" resp="mercure">
         <head>MG-1696-05_077</head>
         <bibl>Mercure galant, mai 1696, p. 77-86</bibl>
         <p>[Cette romance et cette lettre en chanson sont insérées dans une lettre de Mademoiselle l'Heritier.]</p>
@@ -181,12 +181,11 @@
         <p/>
         <p>Cette Lettre en chansons, Madame, &amp; la Romance avoient fait voir les sentimens que j'ay sur la valeur. [...]</p>
       </div>
-
-<div xml:id="MG-1696-05_309">
+      <div type="article" xml:id="MG-1696-05_309" resp="mercure">
         <head>MG-1696-05_309</head>
         <bibl>Mercure galant, mai 1696, p. 309-310</bibl>
         <p>Il me reste à vous dire qu'il vaque une place à l'Académie Françoise par la mort de Mr de la Bruyere, si connu par son Livre des caracteres de Theophraste. Il avoit soupé avec un appetit extraordinaire, &amp; presque aussitost aprê, il tomba en Apoplexie. Il n'eut plus de connoissance, &amp; mourut à deux heures aprés minuit.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

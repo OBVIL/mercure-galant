@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-07_015">
+      <div type="article" xml:id="MG-1684-07_015" resp="mercure">
         <head>MG-1684-07_015</head>
         <bibl>Mercure galant, juillet 1684, p. 15-23</bibl>
         <p>Réception faite à M. le Landgrave de Hesse à la Cour de Hannovre</p>
         <p/>
         <p>Mr de Landgrave de Hesse est venu depuis peu de temps à Hanover, où il a passé huit jours avec Madame sa Femme, &amp; la Princesse de Curlande sa Soeur. Comme cette Cour est tres-galante, on n'y a rien oublié de ce qui pouvoit contribuer à les divertir. On leur fit une Entrée fort solemnelle, &amp; le lendemain il y eut Comédie, ce qui continua tous les jours, à l'exception du Dimanche. Il y eut aussi Bal souvent, &amp; le hazard fut cause que l'on en commença un dans la Chambre de Madame la Duchesse de Hanover, sans qu'on eust donné aucun ordre pour cela. Cette Princesse voulant faire voir à la Compagnie l'adresse que le jeune Baron de Platen avoit à la Dance, le fit appeller, &amp; il dança diverses Entrées avec l'applaudissement de tout ce qu'il y avoit de Spéctateurs ; apres quoy, il prit Mesdames les Princesses, qui en suite en prirent d'autres. Ainsi le Bal s'échauffant, on passa dans l'Antichambre, &amp; l'on y dança jusqu'à l'heure de la Comédie. Le Dimanche, Mr le Grand-Maréchal donna le Bal chez luy à toute cette Serénissime Assemblée, &amp; il s'y trouva plus de cent Cavaliers, &amp; autant de Dames. Apres que l'on eut dancé depuis six heures jusques à dix, on servit un magnifique Soupé ; &amp; l'on ne fut pas plutost sorty de table, qu'on recommença la Dance, qui dura la plus grande partie de la nuit. Le jour qui précéda celuy du depart de Mr le Landgrave, il y eut Wirtschaft, ou Mascarade. Le sort ayant décidé du déguisement, Mr le Landgrave y parut en Mars ; Madame sa Femme, en Déesse ; la Princesse de Curlande, en Indienne ; &amp; Monsieur le Duc de Hanover, en Arlequin. Madame la Duchesse avoit un Habit, comme les Dames de sa qualité le portoient il y a trois cens ans. Monsieur le Prince aîné estoit habillé en Scaramouche ; les deux Princesses, en Turques ; &amp; les autres Princes, chacun de diférente maniere. Mr le Grand-Maréchal estoit en Héraut-d'Armes ; Madame la Maréchale, en Avocat ; &amp; tous les autres avoient des Habillemens bizarres. Toute cette Troupe alla sur les cinq heures à Herrenhausen, Maison de plaisance de Monsieur le Duc de Hanover, les Cavaliers à cheval, &amp; les Dames en Carrosse. On y fit une espece de Jouste, ou de Carrousel. Les Cavaliers vestus d'Habits de Toile, garnis de Foin, &amp; montez sur des Chevaux sans Selles, coururent les uns contre les autres avec des Lances, qui avoient un rond de bois au bout. Ainsi le plus fort renversoit l'autre par terre, &amp; tomboit souvent en mesme temps. On alla en suite dans une grande Prairie, où les Carrosses &amp; les Masques firent plusieurs tours. Rien n'y parut plus grotesque que l'Habillement du Prince Auguste. Il estoit monté sur un Asne, &amp; portoit en croupe un Cavalier déguisé en Fille. Tous les Masques se mirent en Escadron, &amp; revinrent en cet ordre dans la Ville, devant le Carrosse de Monsieur le Duc de Hanover. Lors que l'on fut arrivé, le Bal commença, &amp; dura jusqu'au Soupé, qui fut tres-superbe. La Table de S.A.S. estoit de soixante &amp; douze Couverts. Le Bal recommença apres le Soupé, &amp; ne finit qu'à cinq heures du matin. L'apresdînée de ce mesme jour, on prit le divertissement de la Comédie, auquel on joignit celuy des Marionnetes ; &amp; sur le soir, Mr le Landgrave, dont le départ estoit résolu, sortit de la Ville avec la mesme cerémonie qu'il y estoit entré ; &amp; les Gentilhommes de la Cour qui se suivirent, eurent ordre de le traiter splendidement pendant tout le temps qu'il seroit sur les Terres de Monsieur le Duc de Hanover.</p>
       </div>
-
-<div xml:id="MG-1684-07_033">
+      <div type="article" xml:id="MG-1684-07_033" resp="mercure">
         <head>MG-1684-07_033</head>
         <bibl>Mercure galant, juillet 1684, p. 33, 48-56</bibl>
         <p>Extrait d'une Lettre de Venise</p>
@@ -80,8 +79,7 @@
         <p>Les plus agreables de ces Dances sont lors qu'il y a des Festes d'Eglise. Elles font mettre dans les Places plusieurs Bancs, &amp; laissent au milieu un grand Cercle vuide, où elles font de petits Bals. Les Artisans, &amp; autres petites Gens, qui veulent estre de la Feste, font venir un Clavecin avec des Violons ; &amp; l'on ne peut s'empescher de rire, de voir leur maniere de dancer sans régle ny mesure, chacun faisant les pas à sa fantaisie, &amp; de la maniere qu'il luy plaist, mais neanmoins d'une legéreté &amp; d'une vîtesse qui se se peut quasi-comprendre, pour des Gens aussi grossiers qu'ils le sont.</p>
         <p>Quand ces Festes se font dans quelques Isles hors de la Ville, le divertissement est encore tout autre. L'on couvre les Places de toile &amp; de verdure. Il y a des Barques de petites Symphonies, qui viennent des environs ; &amp; comme il semble que tout soit permis à la Campagne, &amp; que l'on y doive avoir une entiere liberté, on voit des jeunes Gentilshommes qui jettent bas leurs Vestes, se mettent de la Feste, &amp; prennent plaisir à dancer avec les autres au milieu de cette Troupe Champestre.</p>
       </div>
-
-<div xml:id="MG-1684-07_127">
+      <div type="article" xml:id="MG-1684-07_127" resp="mercure">
         <head>MG-1684-07_127</head>
         <bibl>Mercure galant, juillet 1684, p. 127-130</bibl>
         <p>Renouvellement de Nôces de deux Personnes qui ont cinquante tant Enfans que petits Enfans</p>
@@ -89,8 +87,7 @@
         <p>Mr le Bret, celébre dans le Négoce, se voyant dans la cinquantiéme année de son Mariage, se crût obligé de régaler toute sa Famille, &amp; il la fit assembler, tant en son nom, qu'en celuy de Madame le Bret sa Femme, pour une Feste qu'il commença par des Actions de graces à Dieu. Il est quelques Mariez de cinquante ans, quoy que peut-estre le nombre en soit fort petit ; mais il est rare de se trouver comme luy Pere de cinquante, tant Enfans, que Petits-enfans.[...]</p>
         <p>On chanta d'abord le Veni Creator en Musique, &amp; en suite l'aîné de trois Fils, qui sont tous trois Religieux, celébra la Messe. [...] Cette Messe fut suivie du Te Deum aussi en Musique, apres quoy on remena les Mariez avec les Violons. Leurs Petits enfans les obligérent de consentir à cette marque de réjoüissance.[...]</p>
       </div>
-
-<div xml:id="MG-1684-07_133">
+      <div type="article" xml:id="MG-1684-07_133" resp="mercure">
         <head>MG-1684-07_133</head>
         <bibl>Mercure galant, juillet 1684, p. 133-134, 136-137</bibl>
         <p>Procession de la Sainte Larme [à Vendôme]</p>
@@ -99,8 +96,7 @@
         <p/>
         <p>La Procession commença à neuf heures du matin, &amp; ne finit qu'à une heure apres midy. Il y avoit quantité d'Instrumens de Musique ; &amp; tout y fut tres-bien ordonné. La Cerémonie étant achevée, les Gens d'armes avec Mr le Bailly &amp; les autres Officiers, montérent au Château, devant lequel un Feu avoit esté préparé. On l'alluma apres que l'on eut chanté le Te Deum pour la Prise de Luxembourg, &amp; il s'y fit encore plusieurs Décharges.</p>
       </div>
-
-<div xml:id="MG-1684-07_137">
+      <div type="article" xml:id="MG-1684-07_137" resp="mercure">
         <head>MG-1684-07_137</head>
         <bibl>Mercure galant, juillet 1684, p. 137-138, 141-142</bibl>
         <p>Réjouissances faites au Havre, &amp; Statuë érigée à sa gloire</p>
@@ -109,8 +105,7 @@
         <p/>
         <p>On avoit dressé une Table de cinquante Couverts dans l'une des Salles de l'Hostel de Ville. Elle fut servie avec autant de magnificence que de propreté ; pendant que le Peuple, accouru de tous costez dans la mesme Place, poussoit des cris de joye, &amp; faisoit des voeux pour la prosperité de ce grand Monarque. A la fin du Repas ; où plusieurs Officiers de Marine &amp; de Troupes de terre avoient esté conviez, on fit voler par reprises un grand nombre de Fusées, au son des Trompetes, &amp; de plusieurs autres Instrumens. Les Troupes ne défilérent que bien avant dans la nuit ; [...]</p>
       </div>
-
-<div xml:id="MG-1684-07_197">
+      <div type="article" xml:id="MG-1684-07_197" resp="mercure">
         <head>MG-1684-07_197</head>
         <bibl>Mercure galant, juillet 1684, p. 197-199, 256-257</bibl>
         <p>Etat présent du Royaume d'Alger</p>
@@ -121,6 +116,6 @@
         <p/>
         <p>[... Les femmes turques et maures] sont magnifiquement meublées &amp; retenuës chez elles, &amp; chargées de Pierreries. Elles y dancent, ayant des mouchoirs travaillez en or de chaque main, au son d'un Instrument en forme de Violon, touché par des Esclaves negres. Il y a des Ecoles dans la Ville, où ces Esclaves apprennent à en joüer pour cela. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

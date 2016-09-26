@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,12 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1698-09_007">
+      <div type="article" xml:id="MG-1698-09_007" resp="mercure">
         <head>MG-1698-09_007</head>
         <bibl>Mercure galant, septembre 1698, p. 7-11</bibl>
         <p>L'EXCELLENT Portrait que je vous ferois du Roy, si je pouvois rapporter icy tout ce qui fut dit de ses grandes qualitez par ceux qui firent le Panegyrique de Saint Loüis, le jour qu'on en celebra la Feste. [...] Ce Panegyrique fut précedé d'une Messe que celebra Mr l'Abbé Boileau, Directeur presentement de l'Academie, &amp; pendant laquelle un tres grand Choeur de Musique chanta le Pseaume Super flumina Babylonis, de la composition de Mr de Bousset. Il y eut plusieurs endroits fort touchans, dont tout le monde témoigna estre charmé.</p>
       </div>
-
-<div xml:id="MG-1698-09_184">
+      <div type="article" xml:id="MG-1698-09_184" resp="mercure">
         <head>MG-1698-09_184</head>
         <bibl>Mercure galant, septembre 1698, p. 184-221</bibl>
         <p>Journal contenant tout ce qui s'est passé au Camp de Coudun.</p>
@@ -67,14 +66,13 @@
         <p>[Le mardi 9 les rois d'Angleterre et de France] montérent à cheval &amp; commencérent au pas la visite de l'Armée par la gauche de la seconde ligne, au bout de laquelle ils se trouvérent vis-à-vis de la teste de la premiere qu'ils achevérent de visiter. [...] Les Trompettes &amp; Timbaliers des Regimens Royaux ont la livrée du Roy, &amp; les autres celles des Colonels dont les Regimens portent les noms, les uns &amp; les autres enrichis d'or ou d'argent ; les Etendars en broderie d'or &amp; d'argent avec des Devises, &amp; les banderoles des Trompettes &amp; Tabliers des Timbales, sont pareillement brodez d'or &amp; d'argent. [...] Les Tambours des Regimens qui portent des noms de Provinces, ont la livrée du Roy, &amp; les autres celles des Colonels dont les Regimens portent les noms. [...]</p>
         <p>Le Jeudy 11. le Roy voulant faire voir à Monseigneur le Duc de Bourgogne, l'ordre d'un décampement d'Armée, les trois Princes partirent de Compiegne à six heures trois quarts du matin, &amp; se trouvérent à le teste du Camp. [...] Le bruit des Trompettes, des Timbales, des Hautbois, des Tambours, des Fifres, la beauté des Troupes, leur fierté, &amp; leur bel ordre, inspiroient un air de guerre à tous les spectateurs.</p>
       </div>
-
-<div xml:id="MG-1698-09_268">
+      <div type="article" xml:id="MG-1698-09_268" resp="mercure">
         <head>MG-1698-09_268</head>
         <bibl>Mercure galant, septembre 1698, p. 268-270</bibl>
         <p>Enregistrement au Parlement de Bordeaux, des Lettres patentes de Monsieur le Duc de Chevreuse, sur la survivance du Gouvernement de Guyenne.</p>
         <p/>
         <p>Le 28. du mois dernier Mr de l'Isle du Vigier, Mestre de Camp de Cavalerie, presenta au Parlement de Bordeaux les Lettres Patentes que Mr le Duc de Chevreuse a obtenuës, pour la survivance du Gouvernement de Guyenne, aprés la mort de Mr le duc de Chaulnes, lesquelles avoient esté remises à Mr du Vigier son Frere, Procureur General au Parlement pour y estre enregistrées. [...] Il y eut ensuite un repas magnifique chez Mr le Procureur General, où rien ne manquoit, tant pour la délicatesse que pour la propreté. Il fut accompagné d'une tres-belle Symphonie.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-10a_011">
+      <div type="article" xml:id="MG-1686-10a_011" resp="mercure">
         <head>MG-1686-10a_011</head>
         <bibl>Mercure Galant, octobre 1686, p. 11, 17-20, 25-27, 30-32, 34-45, 46-49</bibl>
         <p>Réjoüissances faites à Bourges pour la Naissance de Monseigneur le Duc de Berry</p>
@@ -92,8 +92,7 @@
         <p/>
         <p>Après que l'on eut joüy de tout ce Spectacle, on se rendit en un lieu, où cette galante troupe, avoit fait venir les Violons pour donner les Bal aux jeunes Demoiselles de la Ville. La Collation leur fut servie, &amp; rien ne fut oublié de tout ce qui pouvoit contribuer aux plaisirs de cette Feste.</p>
       </div>
-
-<div xml:id="MG-1686-10a_073">
+      <div type="article" xml:id="MG-1686-10a_073" resp="mercure">
         <head>MG-1686-10a_073</head>
         <bibl>Mercure Galant, octobre 1686, p. 73-78, 80-81</bibl>
         <p>Jeu de l'arquebuse</p>
@@ -102,16 +101,14 @@
         <p/>
         <p>Les Chevaliers de Provins se distinguèrent, &amp; l'on n'en sçauroit douter, puis que de quatre-vingt Prix, il en remportèrent vingt et un.</p>
       </div>
-
-<div xml:id="MG-1686-10a_216">
+      <div type="article" xml:id="MG-1686-10a_216" resp="mercure">
         <head>MG-1686-10a_216</head>
         <bibl>Mercure Galant, octobre 1686, p. 216-220</bibl>
         <p>Buste du Roy placé sur le Portail de l'Hostel de Ville de Grenoble, avec les Cérémonies observées en cette occasion</p>
         <p/>
         <p>Les Consuls de la Ville de Grenoble, impatiens de marquer leur zèle au Roy, ont fait travailler un Buste de Marbre blanc de Sa Majesté, pour le poser au dessus du grand Portail de l'Hostel de Ville, en attendant une Statuë en Equestre en Bronze, qu'on doit élever en la principale Place. Ce Buste estant fait, ils n'ont point voulu différer à la placer ; &amp; comme tout ce qui regarde le Roy doit estre toûjours accompagné de beaucoup d'éclat, ils firent assembler la Milice le 25 du dernier mois. Les onze Compagnies s'estoient renduës dans le milieu de la Place du Breüil sur les deux heures après midy, elle y furent rangées en Bataillon par les ordres de Mr le Comte de Marcieux, Gouverneur de la Ville. [...] A quatre heures les Consuls &amp; les Officiers de Ville partirent de leur Hostel qui est à la teste de la Place. Ils avoient leurs habits de Cérémonie, &amp; estoient précédez des Valets de Ville, &amp; de plusieurs Joüeurs d'Instrumens. Ils allèrent dans la Court des Dominicains, où ils trouvèrent ce Buste relevé sur un Char de triomphe attelé de six Chevaux blancs. Le Char qui fit le tour de la Place, le commença par l'aisle droite du Bataillon, &amp; l'ayant continué par la queuë, il le finit par l'aisle gauche jusques à l'Hostel de Ville. Les Consuls le suivirent au son des mesmes Instrumens, &amp; après que le Buste eut esté posé sur le Portail, toute la Milice fit une décharge, après quoy elle défila avec beaucoup d' ordre. [...] L'Hostel de Ville fut Illuminé le soir par plusieurs Fanaux &amp; autres lumières. Les Hautbois &amp; les Violons joüerent jusqu'à minuit, &amp; la Place se trouva remplie de tant de monde, qu'encore qu'elle soit fort spacieuse, il n'y parut aucun endroit vuide, ny qui ne fust propre à se promener.[...]</p>
       </div>
-
-<div xml:id="MG-1686-10a_221">
+      <div type="article" xml:id="MG-1686-10a_221" resp="mercure">
         <head>MG-1686-10a_221</head>
         <bibl>Mercure Galant, octobre 1686, p. 221-225</bibl>
         <p>Autres Réjoüissances</p>
@@ -119,8 +116,7 @@
         <p>On a célébré dans la mesme Ville l'heureuse Naissance de Monseigneur le Duc de Berry. Le jour qu'on avoit choisy pour cette Cérémonie estant arrivé, on fit fermer les Boutiques dès le matin. Sur les quatre heures du soir, la Milice ayant esté rangée sous les armes, se mit en haye devant la Place Saint-André jusqu'à celle de Nostre Dame. Le Parlement en robes rouges, &amp; la Chambre des Comptes avec ses habits de cérémonie, se rendirent dans l'Eglise Cathédrale à travers la Milice. Là Mr le Cardinal le Camus, Evesque de Grenoble, commença le Te Deum, qui fut chanté par le Chapitre de cette Eglise. Tout ce qu'il y avoit de Gens de qualité &amp; de mérite dans la Ville, y assistèrent avec une très grande affluence de Peuple. Lors qu'on eut eut finy le Te Deum, Mr le premier Président se rendit en son Hostel, où les Consuls &amp; les autres Officiers de l'Hostel de Ville, qui avoient aussi paru dans l'Eglise avec leurs robes, allèrent le prendre, précédez de plusieurs Joüeurs d'Instrumens. [La fin de la journée fut marquée par des réjouissances publiques, des fontaines de vin et des illuminations qui] ajoûtèrent de nouveaux charmes à ceux qu'on avoit déjà goûtez, &amp; les réjoüissances ne finirent que fort avant dans la nuit.</p>
         <p>J'ay oublié de vous dire que le jour que l'on fit à Bourges les mesmes réjoüissances, les Religieuses fondées par la Bienheureuse Jeanne, Duchesse de Berry, sous le Titre de l'Annonciation, signalèrent leur zèle par un Te Deum chanté en Musique, &amp; accompagné d'une Simphonie très agréable. [...]</p>
       </div>
-
-<div xml:id="MG-1686-10a_281">
+      <div type="article" xml:id="MG-1686-10a_281" resp="mercure">
         <head>MG-1686-10a_281</head>
         <bibl>Mercure Galant, octobre 1686, p. 281-284, 286, 290-293</bibl>
         <p>Réjoüissances faites par le Comte de Lobcovits</p>
@@ -131,22 +127,20 @@
         <p/>
         <p>Le Spectacle entier dura plus d'une heure, &amp; fut terminé par une décharge de cinquante Boëtes. Ces plaisirs estant finis avec un applaudissement général, on alla en prendre de nouveaux dans l'Hostel de Mr l'Envoyé Extraordinaire. [...] Les Appartemens estoient aussi richemens meubléz que bien éclairez. On y trouva un Concert charmant de Violons, de Basses, &amp; de Hautbois, qui fut écouté avec grand plaisir. [...] [Après quoi suivit un somptueux souper durant lequel les dames] furent servies par les Seigneurs &amp; les Gentilshommes qui estoient en si grand nombre que les gens de livrée ne purent entrer. [...] Une partie [de l'assemblée] se retira dans un Appartement où il avoit un Concert de Luts, &amp; les autres se rendirent dans une Salle qui avoit esté préparée pour le Bal. On y dança fort avant dans la nuit, &amp; toute la Feste se passa avec un ordre admirable.</p>
       </div>
-
-<div xml:id="MG-1686-10a_299">
+      <div type="article" xml:id="MG-1686-10a_299" resp="mercure">
         <head>MG-1686-10a_299</head>
         <bibl>Mercure Galant, octobre 1686, p. 299-302</bibl>
         <p>Réjoüissances faites [...] à Cavaillon, pour la Promotion de Mrs les Evesques de Grenoble &amp; de Come</p>
         <p/>
         <p>La Promotion de Mr de Ciceri Evesque de Come au Cardinalat, a [...] donné lieu à de grandes réjoüissances qui se sont faites à Cavaillon, Ville du Comté Venaisin [...] [La nouvelle de cette nomination fut rendue publique] en faisant élever dans une Place qui regarde le Palais Episcopal, trois grands feux entourez de Boëtes. [...] [Le nouveau cardinal illumna sa maison et offrit] deux fontaines de vin qu'il abandonna au Peuple. Les Consuls &amp; le Corps de Ville [...] voulurent honorer cette Feste de leur présence. Ainsi, ils partirent de l'Hostel de Ville à l'entrée de la nuit, précédez d'une partie de la Milice, au nombre de deux cens Mousquetaires, avec leurs Tambours, leurs Fifres &amp; leurs Drapeaux. On tira trois fois les Boëtes, ausquelles les Mousquetaires répondirent autant de fois. Les Fusées &amp; autres Feux d'artifice ne furent pas épargnez, &amp; on termina la Réjoüissance par une superbe Collation. [...]</p>
       </div>
-
-<div xml:id="MG-1686-10a_306">
+      <div type="article" xml:id="MG-1686-10a_306" resp="mercure">
         <head>MG-1686-10a_306</head>
         <bibl>Mercure Galant, octobre 1686, p. 306-307</bibl>
         <p>Conversions faites à Mets</p>
         <p/>
         <p>Toutes les Conversions ont esté enfin achevées à Mets [...] On en a rendu grâces à Dieu par un Te Deum au retour d'une Procession Générale. Mr l'Evesque de Mets l'entonna, &amp; il fut chanté par la Musique. Le Parlement &amp; les autres Corps y assistèrent avec tout l'Estat Major [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

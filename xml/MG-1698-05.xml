@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1698-05_182">
+      <div type="article" xml:id="MG-1698-05_182" resp="mercure">
         <head>MG-1698-05_182</head>
         <bibl>Mercure galant, mai 1698, p. 182-190</bibl>
         <p>Ceremonie faite à Marseille.</p>
         <p/>
         <p>Le Roy informé du merite de Madame d'Arcussia du Revest, Religieuse à Hyeres de l'Ordre de Cisteaux, luy ayant fait l'honneur de la nommer il y a deux ans, à l'Abbaye de Montsion de Marseille, du mesme Ordre, dont l'Abbesse avoit esté elective &amp; perpétuelle, cette Dame choisit un jour du mois passé, pour se faire benir. On fit la ceremonie dans l'Eglise des Peres Jesuites, qui des plus belles de Marseille, celle du Monastere n'estant pont assez spatieuse, pour recevoir tout le grand monde qui devoit s'y trouver. [...] Les Violons &amp; les Hautbois la regalerent à son entrée d'une piece qui sentoit la Feste, &amp; qui ne pouvoit qu'inspirer beaucoup de joye à toute la Compagnie. [...] Mr l'Evêque celébra ensuite la Messe qui fut chantée en Musique. [...] Ce Prélat l'estant allé prendre à la fin de la Messe, la mena au devant de l'Autel, la faisant asseoir dans son propre Fauteüil, où elle demeura pendant le Te Deum, qu'il entonna. Il fut chanté par la Musique de l'Opera, mêlée au son des Instruments.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

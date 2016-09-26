@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-10_057">
+      <div type="article" xml:id="MG-1699-10_057" resp="mercure">
         <head>MG-1699-10_057</head>
         <bibl>Mercure galant, octobre 1699, p. 57-64</bibl>
         <p>Relation d'une Feste donnée à Stokolm par le Roy de Suede.</p>
@@ -65,8 +65,7 @@
         <p>Le Roy se rendit à l'autre bout du Jardin, vis à vis de l'Orangerie, où l'on avoit dressé un Theatre, dont la décoration estoit formée de Vases, &amp; des caisses d'Orangers. Plusieurs Dames &amp; Cavaliers de la Cour danserent un Balet sur ce Theatre, &amp; receurent de tres-grands applaudissemens. Le Balet fini, toute l'Assemblée se dispersa de costé &amp; d'autre. Leurs Majestez, les Princes &amp; Princesses se retirerent les uns aprés les autres pour s'aller déguiser ; &amp; ce qui augmenta beaucoup le plaisir de ce divertissement, fut qu'au retour personne ne se connoissoit plus, tant les déguisemens estoient bizarres &amp; grotesques.</p>
         <p>Pendant ce temps-là le Bal commença dans l'Orangerie, &amp; continua jusques à quatre heures du matin.</p>
       </div>
-
-<div xml:id="MG-1699-10_098">
+      <div type="article" xml:id="MG-1699-10_098" resp="mercure">
         <head>MG-1699-10_098</head>
         <bibl>Mercure galant, octobre 1699, p. 98-104</bibl>
         <p>Chanson sur l'air de Joconde, sur toutes les Dames qui se sont trouvées aux Eaux de Bourbon.</p>
@@ -183,8 +182,7 @@
         <p>Helas, pour les foibles Mortels</p>
         <p>Ils ont trop redoutables.</p>
       </div>
-
-<div xml:id="MG-1699-10_122">
+      <div type="article" xml:id="MG-1699-10_122" resp="mercure">
         <head>MG-1699-10_122</head>
         <bibl>Mercure galant, octobre 1699, p. 122-141</bibl>
         <p>Iournal du Voyage de Fontainebleau.</p>
@@ -204,8 +202,7 @@
         <p>Le Vendredy 2. il y eut encore Chasse du Cerf, &amp; Appartement le soir. L'on y chanta le Prologue de Phaëton. [...]</p>
         <p>Le Jeudy 8. il y eut Chasse du Cerf, &amp; le soir la Comedie des Fées. Je vous donneray le reste de ce Journal avant que de fermer cette Lettre.</p>
       </div>
-
-<div xml:id="MG-1699-10_219">
+      <div type="article" xml:id="MG-1699-10_219" resp="mercure">
         <head>MG-1699-10_219</head>
         <bibl>Mercure galant, octobre 1699, p. 219-238</bibl>
         <p>Journal de Montargis.</p>
@@ -215,8 +212,7 @@
         <p>Le Lundy, Monseigneur arriva sur les quatre heures, &amp; avec luy Madame la Princesse de Conty Doüairiere, Monsieur le Prince de Conty, Mademoiselle de Lislebonne, Mesdames d'Utfé, de la Valliere, &amp; Marquise de Chatillon. Madame &amp; Mademoiselle d'Armagnac retournerent ce même jour à Fontainebleau. Monsieur, Monsieur le Duc de Chartres, &amp; toute leur Cour, allerent au devant de Monseigneur, qui fut receu au son de toutes les cloches, &amp; aux acclamations de tout le Peuple. [...]</p>
         <p>Le Jeudy il plut toute la matinée, ce qui n'interrompit point les plaisirs de ce beau lieu. Le Ciel se découvrit l'apresdisnée, &amp; l'on alla à la promenade. Le soir on recommença le jeu jusqu'au soupé, &amp; quand on fut hors de table, les Hauts-bois qui avoient joué à ce repas, inviterent la Compagnie a entrer dans la Grande Salle qui étoit éclairée par vingt-quatre Chandeliers à plusieurs branches. Monsieur permit que l'on dançast, &amp; il se fit une espece de petit Bal tres-agreable.</p>
       </div>
-
-<div xml:id="MG-1699-10_266">
+      <div type="article" xml:id="MG-1699-10_266" resp="mercure">
         <head>MG-1699-10_266</head>
         <bibl>Mercure galant, octobre 1699, p. 266-270</bibl>
         <p>Suite du Journal de Fontainebleau.</p>
@@ -236,6 +232,6 @@
         <p>Le Mercredy 21. le Roy alla tirer, &amp; Monseigneur courut le Loup. Le soir les Comediens representerent les Horaces &amp; le Medecin malgré luy.</p>
         <p>Le Jeudy 22. le Roy vint tout d'une traite de Fontainebleau à Versailles, ayant trois Relais. Ce même jour fut celuy de la consommation du Mariage de Monseigneur le Duc de Bourgogne.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,29 +51,27 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-02_001">
+      <div type="article" xml:id="MG-1685-02_001" resp="mercure">
         <head>MG-1685-02_001</head>
         <bibl>Mercure Galant, février 1685, p. 1-2</bibl>
         <p>Prélude</p>
         <p/>
         <p>On vous a dit vray, Madame. Ce sont tous les jours Divertissemens nouveaux à Versailles. Les Apartemens, le Bal, l'Opéra &amp; la Comédie, sont des plaisirs que l'on y fait succeder les uns aux autres, &amp; tout y est digne de la majesté du Lieu ; mais ce qui vous surprendra, c'est que pendant que toute la Cour se divertit, le Roy que les longs Conseils où il est incessamment devroient avoir rebuté, prend encore ce temps pour travailler en particulier, tant il a soin de répondre aux intentions du Ciel, qui ne l'a mis dans le Trône, qu'afin qu'en veillant au bien de ses Peuples, il portast la France dans le haut degré de gloire où nous la voyons. [...]</p>
       </div>
-
-<div xml:id="MG-1685-02_160">
+      <div type="article" xml:id="MG-1685-02_160" resp="mercure">
         <head>MG-1685-02_160</head>
         <bibl>Mercure Galant, février 1685, p. 160-163</bibl>
         <p>Arrivée de la Statuë du Roy au Havre</p>
         <p/>
         <p>Le Samedy 17 de ce mois, on déchargea au Havre de Grace la Statuë Equestre du Roy, faite par le Cavalier Bernin, dont je vous ay parlé plusieurs fois. Elle y a esté conduite de Civita Vecchia, par Mr Barbaut, Capitaine de Marine, sur la Flute du Roy, nommé le Tardif. On l'a mise dans un Smak Hollandois, qui doit la porter à Roüen, &amp; peut-estre jusqu'à Paris sans la décharger, ce qui ne s'estoit point encore vû ; mais rien n'est impossible aux François sous le Regne, &amp; pour le service de Loüis LE GRAND. Mr de Montmor, Intendant de Marine au Havre, a célébré l'heureuse arrivée de cette Statüe, par la décharge du Canon &amp; de la Mousqueterie, &amp; par le bruit des Bombes &amp; des Carcasses. Cela s'est passé en présence de tous les Officiers, &amp; des Dames mesme, dont beaucoup estoient venües des Environs, sur ce qu'elles avoient sçû que l'on a préparoit pour cette Cérémonie. Chacun à l'envy a marqué sa joye par des cris reïtérez de Vive le Roy, &amp; par quantité de Muids de Vin qui ont esté défoncez au bruit des Tambours &amp; des Trompetes. On peut reconnoistre par là combien nostre auguste Monarque est aimé de ses Sujets, puis qu'ils rendent à la Statüe les honneurs qu'on n'avoit accoûtumé de rendre qu'aux seules Personnes des Roys.</p>
       </div>
-
-<div xml:id="MG-1685-02_287">
+      <div type="article" xml:id="MG-1685-02_287" resp="mercure">
         <head>MG-1685-02_287</head>
         <bibl>Mercure Galant, février 1685, p. 287-289</bibl>
         <p>Etablissement d'un Opéra à Marseille</p>
         <p/>
         <p>L'établissement d'un Opera ayant réussy à Paris, Mr Gautier, dont la réputation est connue de tous ceux qui aiment la Musique, s'est accommodé avec Mr de Lully, pour avoir permission de faire le mesme établissement à Marseille, où il fit representer pour la premiere fois le 28. de Janvier, un Opera intitulé, Le Triomphe de la Paix. Les Habits furent trouvez magnifiques, les Machines justes, &amp; les Décorations tres-belles. La Dance y plut fort, la Simphonie encore davantage, &amp; toutes ces choses firent donner beaucoup de loüanges à Mr Gautier, qui a bien voulu prendre tant de peines, &amp; hazarder tant de frais pour le divertissement de la Province. On s'est rendu de tous costez à Marseille, pour voir ce spectacle que l'on y donne plusieurs fois chaque semaine.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

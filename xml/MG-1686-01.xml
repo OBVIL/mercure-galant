@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1686-01_104">
+      <div type="article" xml:id="MG-1686-01_104" resp="mercure">
         <head>MG-1686-01_104</head>
         <bibl>Mercure Galant, janvier 1686, p. 104-106</bibl>
         <p>Divertissement fait à Doüay</p>
         <p/>
         <p>Une indisposition survenüe à Mr le Duc d'Elbeuf l'ayant arresté icy, Mr le Prince d'Elbeuf son Fils alla le mois passé prendre possession du Gouvernement de Picardie, &amp; tenir en mesme temps les Etats d'Artois. Les Gouvernements des Villes voisines de Flandres le vinrent voir pendant son séjour. Mr le marquis de Pommereu Gouverneur de Doüay, qui s'acquita du mesme devoir, amena avec luy ses Violons &amp; quelques Chanteurs, ce qui donna lieu à Mr du Meny, si connu par la réputation qu'il s'est acquise sur le Théâtre de l'Académie de Musique, de faire chanter le dernier Opéra de Fontainebleau. Il estoit venu avec Mr le Prince d'Elbeuf aux Etats d'Artois, à son retour de ceux de Bretagne, où je vous ay mandé qu'il estoit, &amp; ce qu'il y fit. Il fut surpris des bonnes Voix des Chanteurs, que l'on avoit fait venir de vingt lieües aux environs ; &amp; comme les Instrumens répondoient parfaitement à ces belles Voix, ce Spectacle attira tout ce qui y avoit de Personnes de qualité dans la Province. L'affluence y fut telle, que quoyque la Salle de Mr le Comte de Nancré, Gouverneur d'Arras, soit très vaste, &amp; qu'on prist soin de n'y laisser entrer que des gens de marque, elle ne pût contenir tous ceux qui se présentèrent.</p>
       </div>
-
-<div xml:id="MG-1686-01_116">
+      <div type="article" xml:id="MG-1686-01_116" resp="mercure">
         <head>MG-1686-01_116</head>
         <bibl>Mercure Galant, janvier 1686, p. 116-124</bibl>
         <p>Lettre Historique</p>
@@ -99,30 +98,27 @@
         <p/>
         <p>[Le prince de Savoie rendit sa liberté à la jeune veuve et lui proposa de le suivre en France, ce qu'elle fit. Dans la suite de la Lettre, on s'applique à décrire le voyage pour la France d'Ismi et de sa nièce Fatmée, et à vanter leurs charmes.]</p>
       </div>
-
-<div xml:id="MG-1686-01_282">
+      <div type="article" xml:id="MG-1686-01_282" resp="mercure">
         <head>MG-1686-01_282</head>
         <bibl>Mercure Galant, janvier 1686, p. 282-283</bibl>
         <p>Alcibiade, Tragédie</p>
         <p/>
         <p>On a joüé la nouvelle Tragédie d'Alcibiade dont je vous parlay le mois passé &amp; elle a eu le succès que je vous ay marqué qu'on en esperoit. Alcibiade y conserve le Caractère qu'il a dans l'Histoire, &amp; l'Acteur qui le représente, soutient ce Personnage avec un tel agrément, &amp; d'une manière si naturelle, qu'on peut dire que c'est la première fois que la Comédie a esté joüée comme il la joüe. La Pièce est remplie de Vers aisez &amp; de fort bon goust, &amp; tout le monde voit la Représentation avec beaucoup de plaisir.</p>
       </div>
-
-<div xml:id="MG-1686-01_284">
+      <div type="article" xml:id="MG-1686-01_284" resp="mercure">
         <head>MG-1686-01_284</head>
         <bibl>Mercure Galant, janvier 1686, p. 284</bibl>
         <p>[Informations relatives aux Opéras de Lully]</p>
         <p/>
         <p>Mr du Meny, dont je vous ay parlé au commencement de cette Lettre [cf. MG-1686.01.01], est rentré à l'Académie de Musique, &amp; a joüé dans l'Opéra de Roland. Celuy d'Armide s'avance fort, &amp; l'on travaille avec un grand empressement à tout ce qui en regarde le Spectacle. Ainsi, l'on espère qu'on en donnera quelques Représentations à Paris sur la fin du Carnaval.</p>
       </div>
-
-<div xml:id="MG-1686-01_290">
+      <div type="article" xml:id="MG-1686-01_290" resp="mercure">
         <head>MG-1686-01_290</head>
         <bibl>Mercure Galant, janvier 1686, p. 290-291</bibl>
         <p>Le Ballet de la Jeunesse</p>
         <p/>
         <p>Le Ballet de la Jeunesse a esté dancé cette semaine à la Cour, pour la première fois ; mais n'en n'estant pas encore assez bien instruit pour vous en pouvoir parler à fond, je remets jusqu'au mois prochain à vous en apprendre les particularitez.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-02_038">
+      <div type="article" xml:id="MG-1699-02_038" resp="mercure">
         <head>MG-1699-02_038</head>
         <bibl>Mercure galant, février 1699, p. 38-40</bibl>
         <p>Entrée de M. L'Archevesque de Bordeaux à Bordeaux.</p>
@@ -59,8 +59,7 @@
         <p>[...]</p>
         <p>Le Dimanche 18. [du mois passé] ce Prelat [l'archevêque de Bordeaux] en Camail &amp; en Rochet, précedé de sa Croix &amp; de trente Seminaristes Clercs &amp; Sous-Diacres, destinez pour son service, alla prendre possession de l'Eglise Cathedrale, où Mr l'Abbé d'Orche, Doyen, à la teste de tout le Chapitre, vint le recevoir en Chape. L'ayant conduit dans la Nef, &amp; luy ayant donné la Croix à baiser, il entonna le Te Deum, aprés lequel ayant dit les versets &amp; l'oraison, selon la coutume qu'on observe en de semblables ceremonies, il luy presenta le Livre des Evangiles, sur lequel Mr l'Archevêque préta le serment. Estant ensuite monté sur son Trône, Mr le Doyen quitta la Chape, &amp; alla le premier ad amplexum, suivi des Chanoines &amp; des Jurats en robes de Damas rouge &amp; blanc. Mr l'Archevêque dit la Messe, pendant laquelle une nombreuse Musique de la composition de Mr Caseneuve, chanta un Motet à l'honneur de ce Prelat. Une multitude de peuple assista à cette ceremonie pour recevoir sa benediction. [...]</p>
       </div>
-
-<div xml:id="MG-1699-02_231">
+      <div type="article" xml:id="MG-1699-02_231" resp="mercure">
         <head>MG-1699-02_231</head>
         <bibl>Mercure galant, février 1699, p. 231, 238-252</bibl>
         <p>Journal concernant tout ce qui s'est passé touchant l'Ambassadeur de Maroc depuis son arrivée en France, &amp; le détail de la premiere Audience qu'il a euë du Roy.</p>
@@ -68,8 +67,7 @@
         <p>Je viens à l'article qui regarde l'Ambassadeur de l'Empereur de Maroc. Abdalla Ben-Aischa, Amiral &amp; Surintendant de toutes les affaires de la Mer de cet Empereur [qui arrive à Rennes.]</p>
         <p>M. l'Intendant vint aussi-tost le visiter, &amp; l'invita à souper chez luy. L'Ambassadeur l'accepta, &amp; le repas fut tres-magnifique, sa visite fut suivie de celle de M. de Molac, &amp; de celle de M. de la Faluere, Premier President, accompagné de M. son Fils, de M. le President de Brecquigny, &amp; de M. le Procureur General. On sejourna à Rennes, &amp; l'Ambassadeur alla voir le Palais, dont le dessein des Peintures est de feu M. le Brun. Il rendit à son retour la visite à M. le Premier President. Il estoit avec sa suite dans deux Carrosses de M. l'Intendant. Il alla l'apredinée voir M. le Marquis de Molac qui l'invita à la Comedie, à souper, &amp; au Bal qu'il donna exprés chez luy. [...] Cet Ambassadeur ne recût pas de moindres honneurs à Nantes. La Maréchaussée alla audevant de luy &amp; il entra dans la Ville au bruit du Canon, &amp; des Tambours de la Bourgeoisie, qui étoit sous les Armes en très-grand nombre. Le Maire, &amp; les Echevins le vinrent complimenter. [Arrivé à Paris, l'ambassadeur se rend à Versailles pour l'audience] Quatorze Valets de l'Ambassadeur marchoient à cheval devant le Carrosse. Les Laquais de M. le Baron de Breteüil bordoient la portiere droite, &amp; ceux de M. de S. Olon la gauche. En traversant la premiere Cour, on trouva les Gardes Françoises, &amp; Suisses en haye : mais se reposant sur leurs Armes &amp; sur leurs Tambours.</p>
       </div>
-
-<div xml:id="MG-1699-02_284">
+      <div type="article" xml:id="MG-1699-02_284" resp="mercure">
         <head>MG-1699-02_284</head>
         <bibl>Mercure galant, février 1699, p. 284-287</bibl>
         <p>Suite des divertissemens de Carnaval.</p>
@@ -77,6 +75,6 @@
         <p>La Cour s'est fort divertie à Marly pendant les trois derniers Voyages qu'elle y a faits ce Carnaval. Les divertissemens y ont toûjours esté en augmentant, &amp; fort magnifiques, quoy qu'en particulier, sans qu'il ait esté permis à personne de s'y trouver, de sorte que ceux qui estoient nommez ont seuls été spectateurs, &amp; acteurs. Mais on ne peut rien faire que de tres-eclatant à la Cour de France, lors même qu'on se propose de ne faire qu'une depense moderée. Il y a eu pendant les trois jours qu'a duré chaque voyage, plusieurs Mascarades chaque jour, qui toutes avoient un nom &amp; un sujet. Ainsi elles pouvoient passer pour de petites Comedies tres-ingenieuses &amp; representées seulement par des actions &amp; par des pas. Il y en a eu de toutes sortes de caracteres, &amp; ce divertissement a esté complet puis qu'outre ces Mascarades, il y a eu bal tous les jours, &amp; que rien n'a manqué de tout ce qui peut plaire aux yeux, flater l'oreille, &amp; satisfaire le goust.</p>
         <p>Mardy 24. de ce Mois, S. A. R. Monsieur donna à souper à Monseigneur le Dauphin. Il y eut grand Jeu ensuite, &amp; aprés le Jeu, grand Bal. Il y avoit des Violons, &amp; des Haut-bois dans la Galerie, &amp; dans les deux premieres pieces du grand Appartement de Monsieur. On y servit une grande Collation entre minuit &amp; une heure, &amp; on y vit plus de trois mille Masques. Il doit y avoir Lundy à Versailles un grand Bal, où les Dames seront parées.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

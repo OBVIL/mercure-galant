@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-03_068">
+      <div type="article" xml:id="MG-1699-03_068" resp="mercure">
         <head>MG-1699-03_068</head>
         <bibl>Mercure galant, mars 1699, p. 68-84</bibl>
         <p>Lettre touchant l'Hôpital General nouvellement establi dans la Ville de Grasse.</p>
@@ -62,8 +62,7 @@
         <p>Je n'ay aujourd'huy que de bonnes nouvelles à vous mander. On vient d'établir un Hôpital General dans nostre Ville, avec un succés qui fait plaisir à tout le monde. [...] On vit [...] plus de mille personnes, Mr de Villeneuve, Maire de la Ville, en teste, tenant une Enseigne, où estoit écrit ce mot, Charité, accompagné des Tambours, des Fifres &amp; des Violons, porter de grosses pierres sur la teste, ou sur l'épaule, ou les traîner sur des machines. [...]</p>
         <p>On détermina de benir &amp; de poser cette pierre fondamentale le jour de S. Ignace, 31. de Juillet, ce qui fut executé comme on l'avoit projetté. On porta en procession une grande Croix, qu'on plaça dans l'endroit où devoit estre le Maistre Autel de l'Eglise de l'Hôpital, &amp; le jour de Saint Ignace, sur les quatre heures du soir, tous les Corps de Ville Seculiers &amp; Reguliers, invitez à la Procession, s'assemblerent dans l'Eglise Cathedrale. Mrs les Consuls firent publier un ordre à tous les Habitans de fermer leurs Boutiques, pour assister à cette ceremonie. Une troupe d'Enfans portant chacun une Enseigne, où estoit écrit ce mot, La Charité, précedoit la Procession. Les deux compagnies des Penitens blancs &amp; noirs marchoient aprés. Ils estoient suivis par les Capucins ; aprés quoy venoient les Directeurs de l'Hôpital, tenant en main un grand flambeau allumé, la Musique, le Clergé &amp; Monseigneur l'Evêque, revestu de ses habits pontificaux. Cet ordre estoit suivi d'une foule extraordinaire de peuple. Sitost qu'on fut arrivé à l'emplacement, tous se rangerent autour de l'Autel qu'on avoit dressé. Un des Missionnaires fit un Discours fort touchant &amp; fort propre à enflâmer le zele des Habitans. La Musique chanta le Te Deum. Monseigneur descendit dans le fondement, profond de vingt-deux pans, large de six, &amp; long de trente-six cannes, benit la pierre fondamentale, sur laquelle plusieurs jetterent de l'argent, à l'exemple de Monseigneur. Les Boëtes tirerent ensuite en signe de réjoüissance, au bruit des Trompettes, des Tambours &amp; des acclamations de tout le peuple. [...]</p>
       </div>
-
-<div xml:id="MG-1699-03_126">
+      <div type="article" xml:id="MG-1699-03_126" resp="mercure">
         <head>MG-1699-03_126</head>
         <bibl>Mercure galant, mars 1699, p. 126-130</bibl>
         <p>Suite des divertissemens du Carnaval.</p>
@@ -71,8 +70,7 @@
         <p>Ma Lettre vous ayant esté envoyée le mois passé, trois jours avant le Carnaval, je n'ay pû vous parler du bal qui se donna le Lundy dans la Sale de la Musique du grand Appartement du Roy. [...] Toute la Maison Royale y assista, le nombre des Danseurs &amp; des Danseuses y fut tres-grand, &amp; les uns &amp; les autres estoient magnifiquement parez, &amp; sur tout les Dames, à cause de la quantité de pierreries dont leurs habits estoient enrichis, le deüil ayant esté quitté ce jour-là par ceux qui formoient le bal. Toute la jeunesse de la Cour de Monseigneur le Duc &amp; de Madame la Duchesse de Bourgogne fut de ce Bal, où le jeune Prince d'Ansbach se distingua. Le Bal commença à dix heures &amp; demie, &amp; finit à une heure.</p>
         <p>Le dernier jour du Carnaval, Madame la Duchesse de Bourgogne donna à souper à Messeigneurs les Princes, &amp; ses Dames, &amp; ne descendit qu'à minuit chez Monseigneur où estoit le Bal. On y dansa dans deux chambres ; il y avoit des violons dans l'une &amp; dans l'autre. On n'y entra que masqué, &amp; la foule y fut tres-grande. Les Masques y furent magnifiques, &amp; le Bal ne finit qu'à prés de trois heures.</p>
       </div>
-
-<div xml:id="MG-1699-03_151">
+      <div type="article" xml:id="MG-1699-03_151" resp="mercure">
         <head>MG-1699-03_151</head>
         <bibl>Mercure galant, mars 1699, p. 151-177</bibl>
         <p>Divertissemens du Carnaval de Lorraine.</p>
@@ -159,8 +157,7 @@
         <p>Mr Giovanelli marchoit à la teste de la Quadrille.</p>
         <p>Ce fut dans cette belle disposition que la Cavalcade sortit de la Cour. [...] La Mascarade ayant fait le tour de la Ville-neuve, revint à la Cour, où il y avoit dans la Galerie des Cerfs quatre tables préparées, &amp; magnifiquement servies. Les Dames &amp; les Gentilshommes de chaque Quadrille se mirent aux tables qui leur estoient destinées, &amp; qui estoient disposées de maniere, qu'ils pouvoient tous se voir les uns les autres. Les Valets de pied, ou Estafiers, servoient chacun la Nation dont ils portoient les Livrées, &amp; les quatre bandes de Joüeurs d'Instrumens, habillez aussi chacun selon sa Nation, estoient placées separément, &amp; joüoient successivement, en sorte que si-tost qu'une bande cessoit de joüer, l'autre commençoit à se faire entendre. Cette diversité de Musique continua pendant tout le repas, qui dura assez longtemps. Les Dames &amp; les Cavaliers estant sortis de table, on commença à danser, chacun suivant la maniere de sa Nation. Ensuite les quatre Nations se meslerent, &amp; le Bal ne finit que fort avant dans la nuit.</p>
       </div>
-
-<div xml:id="MG-1699-03_183">
+      <div type="article" xml:id="MG-1699-03_183" resp="mercure">
         <head>MG-1699-03_183</head>
         <bibl>Mercure galant, mars 1699, p. 183-245</bibl>
         <p>Journal des Ceremonies du mariage de la Reine des Romains.</p>
@@ -177,6 +174,6 @@
         <p>Ensuite venoient deux Trompettes du Roy, vingt-huit Mulets avec des couvertures de velours rouges brodés d'or &amp; d'argent, &amp; de grosses perles conduits par des Muletier de l'Ecurie du Roy. [...] Deux Trompettes &amp; deux Timbaliers de l'Empereur &amp; du Roy, suivoient, &amp; les Pages montez sur de tres beaux chevaux richement enharnachez. [...] On avoit élevé sur la place Braban, le Mont Parnasse avec des figures dorées, qui en representoient les Muses ; &amp; il sortoit d'un grand Aigle doré, avec les Armes de la Ville deux Fontaines de vin, l'un blanc &amp; l'autre rouge, pour le peuple qui y estoit accouru en foule ; &amp; sur le même Mont il y avoit un tres-beau Concert de Musique. [...] Cependant toute la marche, les Trompettes &amp; Timballes de la Cavalerie, les Tambours &amp; Fifres de l'Infanterie, &amp; ceux qui estoient aux Arcs de Triomphe avec divers Instrumens concerterent toûjours. [...]</p>
         <p>Quand ce grand Cortége fut passé devant l'Eglise des Peres Augustins Déchaussez, le Roy &amp; la Reine des Romains y descendirent, &amp; toute la Noblesse estant entrée dans l'Eglise par la porte du Convent, leurs Majestez Imperiales y arriverent avec le reste de la Cour. Elles avoient vû toute la marche des fenêtres du vieux Palais Imperial ; &amp; dans le temps qu'on chantoit en musique les Litanies dans la Chapelle de Lorette, le Roy &amp; l'Archiduc prirent d'autres habits dans une chambre du Convent. [...] Pendant qu'on chanta le Te Deum, on fit trois salves de toute l'Artillerie des remparts.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

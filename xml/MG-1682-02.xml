@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-02_042">
+      <div type="article" xml:id="MG-1682-02_042" resp="mercure">
         <head>MG-1682-02_042</head>
         <bibl>Mercure Galant, février 1682, p. 42-43, 46, 50-58</bibl>
         <p>Histoire.</p>
@@ -60,15 +60,15 @@
         <p>Le jour fut pris au Lundy prochain. On luy en laissoit trois ou quatre d'intervalle, &amp; c'estoit assez de temps pour préparer le Régal. Tous les Conviez promirent de venir prendre la Dame, afin d'aller tous ensemble chez le Cavalier. [...] [Le soir venu, la compagnie entre dans la demeure du cavalier en son absence]</p>
         <p>La Dame chez qui la Partie s'estoit noüée, ne balança point sur la résolution qu'elle devoit prendre. Elle ne montra aucune surprise de ne point trouver le Cavalier, &amp; dit seulement que l'on n'avoit pas besoin de luy pour voir sa Maison. [...] La Dame ordonna un Repas fort propre, soit pour l'entrée, soit pour le dessert, &amp; dit au Traiteur qu'elle répondoit de tout, si le Cavalier ne le payoit pas. La mesme chose pour les Violons qu'on alla chercher. On visita toute la Maison, dont on trouva les Ameublemens fort bien entendus, &amp; les Violons estant arrivez lors qu'on commençoit à servir sur table, on les fit joüer pendant le Soupé. La Santé du Cavalier fut beuë solemnellement, &amp; la Dame fit les honneurs de la Feste de la maniere du monde la plus galante, &amp; la plus spirituelle. Si-tost qu'on se fut levé de table, le Bal commença. On ne pouvoit donner quelques heures à un divertissement plus agreable, pour attendre sans ennuy le retour du Cavalier. Comme il estoit incertain, &amp; que les Montres marquoient entre minuit &amp; une heure, on désesperoit qu'il revinst ce mesme jour, lors qu'on entendit fraper à coups redoublez. La vieille Servante courut promptement ouvrir, &amp; un Carrosse estant entrée dans la Court, on connut par là que c'estoit le Maistre du Logis, &amp; l'on se fit une joye sensible de pouvoir joüir de sa surprise. Elle fut fort grande d'entendre des Violons, &amp; de voir sa Court pleine de Laquais &amp; de Carrosses. Il reconnut les Livrées, &amp; devina aussitost qu'on s'estoit vangé de son absence. Comme il avoit de l'esprit, il entendit raillerie, &amp; prit le party de ne se fâcher de rien. Les Violons ayant cessé de joüer lors qu'il entra dans la Salle, il dit à la Dame qui s'avançoit vers luy en riant, qu'il se souvenoit de la partie ; mais que le jour luy estant échapé, il s'estoit laissé occuper entierement d'une affaire embarrassante, pour laquelle il avoit esté contraint de se rendre à Saint Germain. La Dame l'interrompit sur ce qu'il s'offroit à reparer cet oubly involontaire, &amp; d'une maniere honneste, &amp; plaisante tout ensemble, elle luy apprit que connoissant le fond de son coeur, elle avoit tenu sa place, &amp; fait en son nom ce qu'elle sçavoit qu'il n'eust pas manqué de faire ; que son Traiteur qu'on luy avoit amené, avoit admirablement régalé la Compagnie, &amp; que tout le monde en estant fort satisfait, il ne restoit plus qu'à continuer le Bal. En mesme temps elle le prit pour dancer. Le Cavalier ne se déconcerta point. Il remercia la Dame avec toutes les marques possibles de joye, d'avoir si bien fait les honneurs de sa Maison, &amp; la pria de luy vouloir seulement accorder quelques momens, afin qu'il tâchast de reparer par une Collation un peu propre, ce que le voyage qu'il n'avoit pû se defendre de faire à la Cour, devoit avoir fait paroistre d'irrégulier dans les premiers apprests de la Feste. [...] Il mena dancer toutes les Dames, plein d'un enjoüement dont elles furent surprises ; &amp; quand à une heure apres minuit on apporta la Collation, il y joignit diverses Liqueurs qu'il alla prendre dans son Cabinet. Il en fit boire aux plus réservées, &amp; cette agreable interruption dura tres-longtemps. Chacun se trouvant de belle humeur, on recommença la Dance, &amp; elle ne fut finie qu'à quatre heures du matin. Tout le monde s'en alla fort satisfait, &amp; jamais Feste si mal preparée ne divertit tant une belle Compagnie. [...]</p>
       </div>
-
-<div xml:id="MG-1682-02_189">
+      
+      <div type="article" xml:id="MG-1682-02_189" resp="mercure">
         <head>MG-1682-02_189</head>
         <bibl>Mercure Galant, février 1682, p. 189-191</bibl>
         <p>[...]</p>
         <p>Il [Bacilly] promet encor un Livre d´Airs qui sera gravé pour le mois de Mars, &amp; qui fera connoistre au Public qu´il a toûjours le mesme génie pour le Chant, pour les Paroles, &amp; pour les seconds Couplets en diminution. Ce Livre sera intitulé, Second Mélange. Aucun des Airs qu´on y trouvera n´a encor paru, &amp; les Connoisseurs à qui il a bien voulu les faire entendre, assûrent qu´il n´a jamais rien fait de si beau. Il est également fécond pour les Airs Sérieux, pour les Spirituels, pour les Bachiques, &amp; les Chansonnetes. Son Livre de l´Art de Chanter est dans une estime genérale. Aussi le voit-on cité en divers endroits dans celuy que le Pere Menestrier a mis au jour, Des Représentations en Musique. Il a rendu justice par là à Mr de Bassilly, quoy qu´il ne luy soit connu que par son Ouvrage.</p>
       </div>
-
-<div xml:id="MG-1682-02_236">
+      
+      <div type="article" xml:id="MG-1682-02_236" resp="mercure">
         <head>MG-1682-02_236</head>
         <bibl>Mercure Galant, février 1682, p. 236-247</bibl>
         <p>Comédies nouvelles.</p>
@@ -78,14 +78,14 @@
         <p>Les Bals ont esté en fort grand nombre. Celuy qu'a donné le Fils de Mr Talon, qui dans son peu d'âge est un prodige d'esprit, méritoit bien l'illustre Assemblée qui s'y trouva. Mr le Duc de Bourbon luy fit l'honneur d'y venir, accompagné de Mr le Chevalier de Longueville, de Mr le Prince de Tingry, &amp; de Mr de S. Simon. Vous sçavez, Madame, que ce jeune Prince est aussi considérable par ses belles qualitez, que par la grandeur de sa naissance. C'est une merveille de voir dés ses premieres années, combien son discernement est juste sur le vray mérite. Comme il en connoist beaucoup dans le Fils de Mr Talon, il fut bien aise de luy marquer son estime dans l'occasion du Bal, dont j'ay commencé à vous parler. La plus belle Jeunesse de la Cour en partagea les plaisirs, ainsi que Mrs les Marquis de Poussé &amp; de Roussillon, &amp; Mrs de Chaillou &amp; de Miramion. On y vit Mesdames de Buffy, de Menillet, &amp; de Berulle. Mademoiselle de Seraucourt y parut avec éclat. On y admira Mademoiselle d'Acigné, &amp; tout le monde demeura surpris des charmes naissans de la jeune Mademoiselle Barentin. Le petit Mr Talon ayant dancé, mit un grand Carreau sur une Estrade &amp; y fit asseoir la Reyne du Bal, qu'il avoit choisie à peu prés de son mesme âge. Il luy débita cent choses galantes qui n'estoient point d'un Enfant. Aussi l'est-il moins qu'il ne paroist. [...]</p>
         <p>Monsieur avoit esté si content du premier Bal que luy donna Mr de Mannevillete, qu'il luy demanda une seconde Assemblée, à laquelle il ne manqua pas de se trouver. Tout ce qu'il y a de plus illustre à la Cour, s'y estant rendu exprés, y demeura jusques à quatre heures du matin. Tout s'y passa avec les mesmes apprests, &amp; la mesme affluence de Personnes du premier Rang, qu'on y avoit veuës la premiere fois, ce qui fait dire que cette Maison est le sejour de la joye &amp; de la magnificence. L'Opéra d'Atis, la Comédie Françoise, l'Italienne, &amp; le Bal, ont fait tour à tour les divertissemens de Leurs Majestez. Il y a eu quelques Bals où la Cour estoit parée, &amp; rien n'en peut exprimer l'éclat. On ne peut douter qu'il ne fust fort grand, les François estant toûjours si bien mis, &amp; ayant si bonne mine, que pour paroître beaucoup, ils n'ont pas besoin d'un ajustement extraordinaire.</p>
       </div>
-
-<div xml:id="MG-1682-02_295">
+      
+      <div type="article" xml:id="MG-1682-02_295" resp="mercure">
         <head>MG-1682-02_295</head>
         <bibl>Mercure Galant, février 1682, p. 295-296, 298, 300, 322-323, 330-332</bibl>
         <p>Suite de l'Article de l'Ambassadeur de Maroc.</p>
         <p/>
         <p>Je vous sçay bon gré, Madame, de ce que vous dites que si vous estiez icy, vous auriez peine à vous empescher de faire une déclaration d'amour à l'Ambassadeur de Maroc. Comment n'aimer pas un Homme qui a si bien sçeu connoistre ce qui rend le Roy le plus grand Prince du Monde ? [...] On le mena à Versailles au commencement de ce mois. Il y fut surpris de la beauté des Apartemens, &amp; sur tout d'y voir tant d'Argenterie. Apres qu'il en eut examiné le travail, on luy donna le plaisir des Eaux. [...] Cet Ambassadeur fut reconduit à Paris, apres avoir montré son esprit dans les galantes loüanges qu'il donna aux diférentes beautez de ce somptueux Palais. Le jour précedent, il avoit vû une seconde Représentation d'Atis, &amp; eu le matin son Audience de congé du Roy.[...] Il a veu la Foire, &amp; y remarquant tant de Richesses, il estoit surpris de ce que toutes les Boutiques de Paris ne laissoient pas d'estre ouvertes, comme si ceux qui en avoient à la Foire eussent dû faire fermer celles de la Ville. ll s'est extrémement diverty à la Comédie Italienne, qu'il a veu trois fois. Il entend la Langue, &amp; il estoit difficile que les excellens Acteurs qui composent cette Troupe ne luy donnassent beaucoup de plaisir. Un tres-habile Homme de mes amis, ayant dessiné pour son plaisir, luy, &amp; tous ceux de sa Suite, la premiere fois qu'il alla à la Comédie, m'a fait la grace de me donner leurs Portraits. Je vous les envoye. [...] La veille de son depart, il alla voir l'Opéra de Proserpine, que Mr de Lully voulut luy donner, afin de luy laisser en partant une grande idée des Divertissemens de France. Il est party fort charmé de toutes les choses qu'il y a veuës, mais sur tout de la Personne du Roy. Je dis de sa Personne, parce qu'il a sçeu la séparer de l'éclat de sa grandeur ; &amp; cette maniere de loüange doit plus satisfaire un Prince que toutes celles que luy attiré son rang. Sa Majesté le fait conduire, luy, &amp; tous ceux de sa Suite, jusques au lieu où ils doivent s'embarquer.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

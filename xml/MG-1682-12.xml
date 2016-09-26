@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1682-12_055">
+      <div xml:id="MG-1682-12_055" type="migration">
         <head>MG-1682-12_055</head>
         <bibl>Mercure Galant, décembre 1682, p. 55-57</bibl>
         <p>Description de la Galerie, du Sallon, &amp; du grand Apartement de Versailles, &amp; de tout ce qui s'y passe les jours de Jeu.</p>
         <p/>
         <p>[...] Jugez des plaisirs dont on joüit pendant quatre heures dans des Lieux destinez par un si grand Monarque pour les Divertissemens de sa Cour. Il y a plus ; &amp; si les vrais plaisirs sont d'en changer, puis qu'un plaisir trop continué devient moins sensible, on en change aussi souvent que l'on veut. Lors que l'on est las d'un Jeu, l'on jouë à un autre. On entend en suite la Symphonie, ou l'on voit dancer. On fait conversation ; on passe à la Chambre des Liqueurs, ou à celle de la Collation ; &amp; comme on y trouve en abondance tout ce qui peut satisfaire le goust, l'imagination n'a qu'à chercher ce qui luy plaist, les yeux à le regarder, &amp; la main à le prendre. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_193">
+      <div xml:id="MG-1682-12_193" type="migration">
         <head>MG-1682-12_193</head>
         <bibl>Mercure Galant, décembre 1682, p. 193-195, 197-202, 214-216</bibl>
         <p>Chastillon sur Seine.</p>
@@ -70,8 +69,7 @@
         <p/>
         <p>Le Mercredy 28. fut un jour extraordinaire, accordé par les Magistraux aux prieres de la Milice. On la vit paroistre ce jour-là au mesme nombre, &amp; dans le mesme ordre, mais beaucoup plus leste qu'auparavant. Un de ces zelez Soldats portoit la Renommée ; &amp; quatre autres des mieux faits, soûtenoient le Berceau de Monseigneur le Duc de Bourgogne. Ils passerent toute la journée dans cet appareil, &amp; promenerent ainsi par toutes les Ruës la Représentation du jeune Prince. Le soir ils se rendirent devant la Maison de Mr le Maire, avec les Violons, Hautbois, Fifres, &amp; Tambours. Ce Magistrat y avoit fait allumer un tres-grand Feu, &amp; apres qu'il eut fait boire toute la Milice, il l'invita à mettre les armes bas, &amp; à dancer avec luy autour de ce Feu. Les Dames se meslerent dans la Dance, &amp; elle dura jusques à minuit. Je ne vous dis rien des marques de joye que donnerent les Maisons Religieuses, &amp; entr'autres les Peres Feuïllans, par un beau Feu d'artifice allumé sur une Tour de leur Convent ; &amp; les Dames Ursulines, par un merveilleux Concert, où les Voix meslées avec les Instrumens, charmerent également tout le monde.</p>
       </div>
-
-<div xml:id="MG-1682-12_216">
+      <div xml:id="MG-1682-12_216" type="migration">
         <head>MG-1682-12_216</head>
         <bibl>Mercure Galant, décembre 1682, p. 216-217, 234-237</bibl>
         <p>Semur.</p>
@@ -80,8 +78,7 @@
         <p>[...]</p>
         <p>Le jour choisy pour la Feste estant arrivé, on ne vit par tout que marques de joye. Cinq cens Hommes, les mieux faits &amp; les plus propres de la Bourgeoisie, parurent en appareil militaire dans un tres-bon ordre. La Jeunesse de la Ville composa de son costé une Compagnie fort leste. Toute cette Milice marcha séparément au son des Fifres, Tambours, &amp; Hautbois, vers l'Eglise de Nostre-Dame, l'une des plus anciennes, &amp; de la plus rare Structure de Bourgogne. C'est un Ouvrage du premier Duc. On chanta le Te Deum. Le Corps du Bailliage, précedé du Vicebailly d'Auxois, &amp; de ses Archers, y assista &amp; prit sa place à la droite, au Choeur de l'Eglise. Le Corps de la Magistrature estoit à la gauche. On ne voyoit que Lumieres qui formoient des Fleurs-de-Lys. La Milice, par ses Fanfares &amp; par ses décharges, le Peuple par ses acclamations, les Clochers par leur son, &amp; les Canons par leur bruit, contribuerent également à la solemnité de cette Cerémonie. Sur les huit heures du soir, les Magistrats precedez d'un grand nombre de Pertuisaniers, de Tambours, de Violons, &amp; de Hautbois, sortirent de l'Hôtel de Ville, &amp; eurent peine à se rendre au travers d'une multitude de Peuple incroyable, dont les Ruës estoient remplies, jusques en la Place où le Feu d'artifice avoit esté préparé. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_306">
+      <div xml:id="MG-1682-12_306" type="migration">
         <head>MG-1682-12_306</head>
         <bibl>Mercure Galant, décembre 1682, p. 306-308, 317-320</bibl>
         <p>Tout ce qui s'est passé dans le Voyage de Madame la Dauphine à Paris, touchant l'accomplissement des Voeux que cette Princesse avoit faits.</p>
@@ -90,16 +87,14 @@
         <p/>
         <p>Au sortir de Nostre-Dame, elle vint à l'Abbaye de S. Germain des Prez, &amp; y fut reçeuë par les Religieux de cette Maison, avec tout le respect, &amp; toute la pompe possible. Dés qu'elle approcha du Fauxbourg, on sonna les grosses Cloches, qui sont les plus harmonieuses du Royaume. Les Religieux, au nombre de prés de quatre-vingts, estoient en haye depuis la Porte de l'Eglise jusqu'au Grand-Autel. Le Pere General de la Congrégation de S. Maur, revetu des plus riches Ornemens, accompagné d'un Diacre &amp; d'un Soudiacre, &amp; précedé par quatre Chantres, chacun avec une Chape, présenta la Croix à cette Princesse, qui la baisa, &amp; qui reçeut l'Eau-benite. Elle estoit à genoux sur un tres-beau Carreau, sous un Daiz de Broderie, porté par quatre Religieux, aussi revétus de Chapes. Apres cela, les Chantres entonnerent un Répons qu'on chante ordinairement lors qu'on reçoit des Princesses. L'Orgue le continua, &amp; on conduisit ainsi Madame la Dauphine, devant le Grand-Autel qu'on avoit paré avec beaucoup de magnificence, &amp; au bas duquel la Chasse de Saint Germain estoit exposée. Apres que l'on eut chanté quelques Prieres, pendant lesquelles elle se tint à genoux sur un Prié-Dieu ; toûjours sous le Daiz, on la conduisit dans le mesme ordre devant l'Autel de Sainte Marguerite, qui estoit aussi tres-superbement paré. On y chanta un Répons de la Sainte, dont on luy présenta la Relique, qu'elle baisa. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_321">
+      <div xml:id="MG-1682-12_321" type="migration">
         <head>MG-1682-12_321</head>
         <bibl>Mercure Galant, décembre 1682, p. 321-322</bibl>
         <p>Autre Voyage de la mesme Princesse à Paris.</p>
         <p/>
         <p>Quelques jour apres, cette Princesse revint à Paris avec Monseigneur le Dauphin, pour voir l'Opéra d'Alceste, dont ils furent tres-contens, tout ce qui regarde cette Représentation ayant esté d'une justesse admirable. Monseigneur le Dauphin, &amp; Madame la Dauphine, estoient placez sur l'Amphithéatre, où Son Altesse Royale leur fit porter une tres-belle Collation. Mr le Chevalier de Flamarin, reçeu depuis peu Premier Maistre d'Hôtel de Monsieur, eut l'honneur de les servir. Il s'en acquita tres-bien. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_322">
+      <div xml:id="MG-1682-12_322" type="migration">
         <head>MG-1682-12_322</head>
         <bibl>Mercure Galant, décembre 1682, p. 322-330, 333-334, 339</bibl>
         <p>Académie d'Arles.</p>
@@ -118,8 +113,7 @@
         <p/>
         <p>Mrs les Abbez de Verdier, &amp; du Port, Mr le Marquis de Chasteau-Renard, de Mejanes, &amp; de Gageron, Mr Cays, &amp; tous les autres, donnerent leurs petits soins avec beaucoup de zele &amp; d'application à l'ordre &amp; à la perfection de cette Feste, &amp; surtout de la Musique, laquelle sur la bonne foy des Connoisseurs, ne le cede qu'au seul Mr de Lully que vous aimez tant. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_349">
+      <div xml:id="MG-1682-12_349" type="migration">
         <head>MG-1682-12_349</head>
         <bibl>Mercure Galant, décembre 1682, p. 349-353, 360-363</bibl>
         <p>Limoux.</p>
@@ -130,22 +124,20 @@
         <p>Sur l'entrée de la nuit, les Peres Trinitaires se rendirent processionnellement au lieu où l'on devoit tirer le Feu d'artifice, &amp; ils y chanterent le Te Deum, en faisant le tour. La Cerémonie achevée, Mr le Procureur du Roy, accompagné de Mr le Lieutenant Principal, &amp; de Mrs les Consuls en Robes rouges, alluma ce Feu avec beaucoup de solemnité. [...]</p>
         <p>La Feste fut continuée le jour suivant 5. du mois, par une Messe que ce mesme Magistrat fit chanter avec Musique, dans l'Eglise des Peres Cordeliers de l'Observance ; par de nouvelles Illuminations ; par de nouveaux Feux de joye, &amp; enfin par un Repas beaucoup plus splendide que n'avoit esté celuy du jour précedent. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_363">
+      <div xml:id="MG-1682-12_363" type="migration">
         <head>MG-1682-12_363</head>
         <bibl>Mercure Galant, décembre 1682, p. 363-364</bibl>
         <p>Université de Caën.</p>
         <p/>
         <p>L'Université de Caën a fait aussi une Solemnité particuliere en l'honneur de la Naissance de Monseigneur le Duc de Bourgogne. Elle partit de chez les Peres Cordeliers, Eglise ordinaire où elle fait faire ses Services, précédée de ses cinq Massiers, des Prestres des Paroisses de la Ville, des Religieux des Abbayes du Voisinage, &amp; d'honnestes Gens de la Ville, &amp; mesme de Gentilhommes, qui tiennent à honneur d'y avoir des Charges. La Musique, qui est l'ame des plus belles Cerémonies, n'y manquoit pas, non plus qu'un tres-beau Feu d'artifice. [...]</p>
       </div>
-
-<div xml:id="MG-1682-12_372">
+      <div xml:id="MG-1682-12_372" type="migration">
         <head>MG-1682-12_372</head>
         <bibl>Mercure Galant, décembre 1682, p. 372-375</bibl>
         <p>M. de la Rapiniere.</p>
         <p/>
         <p>Les Comédiens François ont joüé depuis trois semaines une Piece de Théatre, intitulée, Monsieur de la Rapiniere. Il paroist que l'on ait eu dessein d'attaquer Mrs les Intéressez aux Fermes du Roy. Cependant en examinant cet Ouvrage avec quelque attention, on trouvera que tout ce qui le compose, sert à les justifier. On ne voit pendant trois Actes que des Gens qui mettent tout en usage, pour frauder les Droits établis, ce qui doit engager les Traitans à prendre de grandes précautions pour n'estre pas trompez. Il est vray que parmy les Commis il s'en rencontre de Fourbes, mais ce sont défauts attachez à la Personne, &amp; non à l'Employ. En effet, si ces défauts venoient de l'Employ, tous les Commis seroient aussi Fourbes les uns que les autres, ce qu'il seroit tres-injuste d'avancer. Il auroit esté à souhaiter que l'on eust fait quelque distinction dans la Piece, de ceux qui font des exactions, &amp; de ceux qui ne prennent que ce qui leur est deub par leurs Traitez. Celuy qui passe les volontez du Prince, doit estre en horreur ; &amp; celuy qui en demeure aux termes qu'on luy prescrit, ne sçauroit estre blâmé, puis qu'il ne leve qu'un droit que l'Eglise défend publiquement qu'on ne fraude. Si de pareils droits ont esté toûjours estimez justes, ils le font beaucoup davantage sous le Régne d'un Monarque, qui ne les leve que pour la gloire &amp; l'agrandissement de son Etat. Cette Comédie se soûtient par quantité de Portraits, dont il y en a beaucoup de fort bien touchez, &amp; tres-naturels. Elle est le coup d'essay de Mr Robe, qui a l'avantage de voir tout Paris courir en foule aux Représentations que l'on en donne.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

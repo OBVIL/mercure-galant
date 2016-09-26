@@ -61,7 +61,7 @@
   <text>
     <body>
       <head><hi rend="i">Le Mercure Galant</hi>, tome VI, 1673 [1674 sur la page de titre].</head>
-      <div xml:id="MG-1673-06_001">
+      <div type="article" xml:id="MG-1673-06_001" resp="mercure">
         <head>Le Mal de Mere. <hi rend="i">Nouvelle</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 1-12.</bibl>
         <label rend="center b">Le Mal de Mere.</label>
@@ -123,7 +123,7 @@
           pas qu’il l’ait oubliée, il s’en souviendra plus longtemps que s’il en avoit obtenu toutes
           les faveurs que son amour auroit pû desirer.</p>
       </div>
-      <div xml:id="MG-1673-06_018">
+      <div type="article" xml:id="MG-1673-06_018" resp="mercure">
         <head>[Chanson nouvelle de M. de la Cornuliere, dont l’Air a esté fait par M.
           Lambert]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 18-19.</bibl>
@@ -141,7 +141,7 @@
           <l>Ny sans amour de plaisir.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_020">
+      <div type="article" xml:id="MG-1673-06_020" resp="mercure">
         <head>[Impromptu de M. le Duc de R…. sur lequel Mes. Lambert &amp; le Camus ont fait chacun
           un Air]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 20.</bibl>
@@ -157,7 +157,7 @@
           <l>La plaisir qu’elle m’a donné.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_021">
+      <div type="article" xml:id="MG-1673-06_021" resp="mercure">
         <head>[Autres Paroles mises en chant par M. Lambert]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 21.</bibl>
         <p>Je croy que les paroles suivantes ne vous déplairont pas, du moins m’ont elles paru
@@ -172,7 +172,7 @@
           <l>Mais je les quitterois, Philis, pour un baiser.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_022a">
+      <div type="article" xml:id="MG-1673-06_022a" resp="mercure">
         <head>[Autre Chanson dont une Dame de Caën a fait l’Air &amp; les Paroles]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 22.</bibl>
         <p>Je croy que toutes les beautez de ces Chançons ne vous empescheront pas d’en trouver dans
@@ -188,7 +188,7 @@
           <l><space/>De mes Rivaux.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_022b">
+      <div type="article" xml:id="MG-1673-06_022b" resp="mercure">
         <head>[Paroles sur l’Air d’<hi rend="i">Aimable Jeunesse</hi>, faites par un grand Prince,
           contre la Vieillesse]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 22-25.</bibl>
@@ -212,7 +212,7 @@
           <l><space/>Les derniers soupirs.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_024">
+      <div type="article" xml:id="MG-1673-06_024" resp="mercure">
         <head>[Nouvelle Académie galante, qui s’assemble une fois la semaine, &amp; dont chaque
           Assemblée n’est ouverte que par un Discours qui regarde l’Amour]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 24-26.</bibl>
@@ -228,7 +228,7 @@
           <l>Et l’Amour a son heure aussi bien que la mort.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_026">
+      <div type="article" xml:id="MG-1673-06_026" resp="mercure">
         <head>[Plusieurs Sonnets de differents Autheurs sur la prise de Mastric]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 26-32.</bibl>
         <p>C’est assez parler de Galanterie, voyons si Messieurs les beaux Esprits ont excercé leur
@@ -305,7 +305,7 @@
           </lg>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_032">
+      <div type="article" xml:id="MG-1673-06_032" resp="mercure">
         <head>[Chanson sur la prise de Mastric]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 32-34.</bibl>
         <p>On n’a pas seulement fait des Sonnets sur la Conqueste de Mastric ; &amp; d’autres en
@@ -347,7 +347,7 @@
           </lg>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_035">
+      <div type="article" xml:id="MG-1673-06_035" resp="mercure">
         <head>[Dialogue d’un Berger &amp; d’une Bergere, mise en musique par M. Vignon]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 35-37.</bibl>
         <p>Cette Chanson me fait ressouvenir d’un Dialogue que vous serez peut-estre bien aise
@@ -387,7 +387,7 @@
           <l>Et vivons &amp; mourons ensemble.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_037">
+      <div type="article" xml:id="MG-1673-06_037" resp="mercure">
         <head>[Sonnet de M. de Corneille l’aisné, sur la prise de Mastric]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 37-39.</bibl>
         <p>On vient de m’apporter encor un Sonnet sur la prise de Mastric, que je croy, Madame, que
@@ -418,7 +418,7 @@
             <l>Dès que son vol jaloux ose tourner vers toy.</l>
           </lg></quote>
       </div>
-      <div xml:id="MG-1673-06_042">
+      <div type="article" xml:id="MG-1673-06_042" resp="mercure">
         <head>[Madrigal de Mad. De Scudery sur la prise de Mastric]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 42-43.</bibl>
         <p>En vous parlant des Vers qui ont esté faits sur la Prise de Mastric, j’ay oublié de vous
@@ -436,7 +436,7 @@
           <l>Que son Nom seulement vous va rendre imprenable.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_049">
+      <div type="article" xml:id="MG-1673-06_049" resp="mercure">
         <head>[Regale donné à S. Oüen à S. Altesse Royale &amp; toute sa Cour par M. de Boisfranc
           Surintendant des Finances de sa Maison]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 46-50.</bibl>
@@ -459,12 +459,12 @@
           souhaité, parce qu’il l’avoit déja veu, &amp; s’y estoit diverty, ainsi qu’à toutes celles
           de cet Autheur qui ont toûjours réüssy.</p>
       </div>
-      <div xml:id="MG-1673-06_052">
+      <div type="article" xml:id="MG-1673-06_052" resp="mercure">
         <head>[Description d’une Feste surprenante pour la prise de Mastric, faite pas M. le Marquis de Castres, Lieutenant de Roy en Languedoc]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 52-56. </bibl>
         <p>Les Réjoüissances qu’on a faites dans toutes les Villes de France pour la Prise de Mastric, ont esté extraordinaires, &amp; l’on n’a jamais tant veu de Musique accompagner de superbes Repas. Monsieur le Marquis de Castres, Lieutenant de Roy en Languedoc, &amp; Gouverneur de la Ville &amp; Citadelle de Montpellier, a fait en cette occasion, tout ce qu’un grand Seigneur peut faire. La Feste commença par un magnifique Disner, qu’il donna à la Noblesse qui s’estoit renduë aupres de luy pour l’accompagner au <hi rend="i">Te Deum</hi>. La mesme compagnie fut encor regalée à Souper avec plus de soixante Dames qualifiées qui s’estoient renduës chez Madame la Marquise de Castres. Cette chere dura depuis sept heures du soir jusques à neuf, que le Corps de Ville, &amp; les Sixains qu’on avoit mis sous les armes, vinrent prendre Monsieur le Marquis de Castres, pour le conduire en la Place de l’Hostel de Ville, dans laquelle on avoit dressé un Feu d’artifice. Je laisse tout ce qui s’y passa, pour vous dire que la compagnie l’ayant ramené en sa Maison, on la trouva éclairée d’un nombre infiny de lumieres dont les Portiques qui estoient aux deux bouts d’une Galerie estoient remplis, ainsi que le Frontispice de la Maison ; le dessus de la Ruë estot fermé d’un ciel, &amp; plusieurs Fontaines de Vin couloient à chaque costé des Portiques. Le Pavé de la principale Court estoit couvert de gazon, &amp; les places pour les Dames l’estoient aussi en forme d’Amphitheatre. Cette Court estoit pareillement contournée de Portiques de verdure, ainsi que son platfonds orné de quantité de Miroirs &amp; de Lustres. Le Bal fut commencé dans cette Salle, par Monsieur le Marquis de Castres le jeune, &amp; l’on y servit une Collation magnifique. Ce grand Divertissement finit par un Feu d’artifice qui estoit préparé dans une autre court. Le Peuple fut aussi regalé pendant toute la nuit sur des Tables dressées dans la Ruë couverte par laquelle on aborde en ce Logis.</p>
       </div>
-      <div xml:id="MG-1673-06_061">
+      <div type="article" xml:id="MG-1673-06_061" resp="mercure">
         <head>[Distribution des Prix de l’Académie Françoise le jour de la S. Louis […]]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 61-65.</bibl>
         <p>Pendant que les Troupes du Roy font de tous costez de si belles actions, voyons ce que
@@ -487,7 +487,7 @@
           &amp; du feu, &amp; la compagnie se separa en donnant mille loüanges à ces illustres
           Auhteurs.</p>
       </div>
-      <div xml:id="MG-1673-06_065">
+      <div type="article" xml:id="MG-1673-06_065" resp="mercure">
         <head>[Mort de M. l’Abbé d’Aubignac. Noms de ceux de son Academie qui en pouroient estre
           Directeurs]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 65-67.</bibl>
@@ -507,7 +507,7 @@
           lisant le chapitre de Modes, dont vous voulez que je vous entretienne chaque fois que j’ay
           l’honneur de vous écrire.</p>
       </div>
-      <div xml:id="MG-1673-06_078">
+      <div type="article" xml:id="MG-1673-06_078" resp="mercure">
         <head>[Elegie sur une joüissance, en songe]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 78-88.</bibl>
         <p>Vociy quelques Vers qui vous divertiront peut-estre davantage.</p>
@@ -609,7 +609,7 @@
         <p>Ces Vers ont plû à beaucoup de Gens, &amp; je croy que les Amans passionnez les doivent
           trouver à leur goust.</p>
       </div>
-      <div xml:id="MG-1673-06_088">
+      <div type="article" xml:id="MG-1673-06_088" resp="mercure">
         <head>[Vers sur l’Histoire du Moineau du cinquième Tome du Mercure Galant]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 88-91.</bibl>
         <p>En voicy d’autres qui ont esté faits sur l’anvanture du Moineau dont je vous ay déja
@@ -681,7 +681,7 @@
         <p>Je croy que ces Vers ne peuvent estre mieux accompagnez, que d’une Lettre qui m’est
           tombée entre les mains […].</p>
       </div>
-      <div xml:id="MG-1673-06_091">
+      <div type="article" xml:id="MG-1673-06_091" resp="mercure">
         <head>[Lettre à une Dame de Nimegue, touchant ce que l’Autheur pensoit de toutes les Femmes
           de Holande]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 91-100.</bibl>
@@ -734,7 +734,7 @@
             Pays les belles veritez que mes yeux en ont veües. Je suis, Madame, &amp;c.</p>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_100">
+      <div type="article" xml:id="MG-1673-06_100" resp="mercure">
         <head>L’Echange. <hi rend="i">Nouvelle</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 100-109.</bibl>
         <p>Voicy une Nouvelle que l’on me vient d’apprendre ; &amp; comme on m’a assuré qu’elle
@@ -787,7 +787,7 @@
           pour ravoir sa Femme. Le Procez est encor indécis, &amp; cette Cause sans doute divertira
           bien les Juges, &amp; leur poura tenir lieu de Comedie le jour qu’elle sera plaidée.</p>
       </div>
-      <div xml:id="MG-1673-06_109">
+      <div type="article" xml:id="MG-1673-06_109" resp="mercure">
         <head>[Eglogue de Celimene et d’Amarillis]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 109-123.</bibl>
         <p>Pour passer de la Prose au Vers, je vous envoye une Eglogue qui a esté icy estime de
@@ -931,7 +931,7 @@
           <l>Et prenne qui voudra le soin de mon Troupeau.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_123">
+      <div type="article" xml:id="MG-1673-06_123" resp="mercure">
         <head>Le Divorce de l’Amour &amp; de l’Hymenée</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 123-139.</bibl>
         <p>Puis que nous sommes sur le chapitre des Vers, je croy vous devoir faire part d’une Piece
@@ -1244,7 +1244,7 @@
           </lg>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_139">
+      <div type="article" xml:id="MG-1673-06_139" resp="mercure">
         <head>La Folie. <hi rend="i">Nouvelle singulière</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 139-164.</bibl>
         <p>Je viens d’apprendre une Histoire dont les Incidens sont si nouveaux, que je ne croy pas
@@ -1381,7 +1381,7 @@
           plus agreable que la Piece suivante. Comme elle est naturellement écrite, je croy que vous
           y trouverez beaucoup d’endroits qui vous plairont.</p>
       </div>
-      <div xml:id="MG-1673-06_164">
+      <div type="article" xml:id="MG-1673-06_164" resp="mercure">
         <head>Articles d’Union entre Licidas &amp; Arelise</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 164-176.</bibl>
         <p>Apres une Histoire si extraordinaire, je croy ne vous pouvoir rien envoyer qui vous soit
@@ -1550,7 +1550,7 @@
           <l>Que c’est le sort commun de toute chose humaine.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_188">
+      <div type="article" xml:id="MG-1673-06_188" resp="mercure">
         <head>[L’Academie Françoise vient faire compliment au Roy sur son heureux retour, la parole
           portée par M. Talement, Prieur de Saint Albin]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 188-189.</bibl>
@@ -1559,7 +1559,7 @@
           ordinaire. Vous sçavez qu’on ne peut avoir plus d’esprit &amp; de feu qu’il en a, &amp;
           que jamais personne n’a mieux loüé le Roy, ce que futur Abbé.</p>
       </div>
-      <div xml:id="MG-1673-06_189">
+      <div type="article" xml:id="MG-1673-06_189" resp="mercure">
         <head>[Distribution de trois Jettons d’argent qui se fait trois fois la semaine en ladite
           compagnie par l’ordre de Sa Majesté]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 189-190.</bibl>
@@ -1570,7 +1570,7 @@
           Jettons. Les absens n’ont point part à cette distribution, &amp; chaque jour d’Assemblée
           on donne aux presens les quarante Jettons, quand mesme ils ne seroient que douze.</p>
       </div>
-      <div xml:id="MG-1673-06_195">
+      <div type="article" xml:id="MG-1673-06_195" resp="mercure">
         <head>Avanture d’un bel Esprit</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 195-202.</bibl>
         <p>C’est assez parler de Nouvelles, parlons de quelque chose de plus divertissant, &amp;
@@ -1611,7 +1611,7 @@
           luy est arrivé n’empesche pas qu’il ne soit estimé de tous les Honnestes Gens de
           Paris.</p>
       </div>
-      <div xml:id="MG-1673-06_202">
+      <div type="article" xml:id="MG-1673-06_202" resp="mercure">
         <head>[<hi rend="i">Démarate</hi> de Claude Boyer] *</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 202-206.</bibl>
         <p>Puisque nous sommes sur le chapitre des beaux Esprits, je ne sçaurois trouver d’endroit
@@ -1640,7 +1640,7 @@
           le premier Vers de leur Piece, &amp; quelquefois mesme avant qu’ils en ayent trouvé le
           sujet.</p>
       </div>
-      <div xml:id="MG-1673-06_207">
+      <div type="article" xml:id="MG-1673-06_207" resp="mercure">
         <head>Les Femmes sont souvent cause de la perte des Hommes. <hi rend="i"
           >Nouvelle</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 207-248.</bibl>
@@ -1859,7 +1859,7 @@
           nouvelles ; mais puisqu’elle est écrite, vous souffrirez, s’il vous plaist, Madame,
           qu’elle tienne son rang parmy les autres.</p>
       </div>
-      <div xml:id="MG-1673-06_248">
+      <div type="article" xml:id="MG-1673-06_248" resp="mercure">
         <head>[La troupe du roy represente le Comedien Poëte, Comedie]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 248-250.</bibl>
         <p>La Compagnie estoit sur le poinct de se separer, lors que la conversation tourna sur le
@@ -1877,7 +1877,7 @@
           qui depuis son Etablissement avoient accompagné toutes ses Representations en estoient une
           marque infaillible.</p>
       </div>
-      <div xml:id="MG-1673-06_250">
+      <div type="article" xml:id="MG-1673-06_250" resp="mercure">
         <head>Les Assassinats. <hi rend="i">Nouvelle</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 250-267.</bibl>
         <p>On dit encor plusieurs autres choses, puis la compagnie se separa ; &amp; le soir de la
@@ -1970,7 +1970,7 @@
           des Personnages de l’histoire ; ce qui doit faire croire qu’elle ne peut avoir de
           suite.</p>
       </div>
-      <div xml:id="MG-1673-06_270">
+      <div type="article" xml:id="MG-1673-06_270" resp="mercure">
         <head>[Les manteaux à la Sylvie] *</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 270-272.</bibl>
         <p>Tous les Manteaux de Femmes que l’ont fait presentement ne sont plus plissez, &amp; sont
@@ -1982,7 +1982,7 @@
           Monsieur de Pourceaugnac l’est de Franges. J’en vis dernierment un noir tout couvert de
           Ferluches blanches, &amp; il sembloit de loin qu’il fut tout remply de nége.</p>
       </div>
-      <div xml:id="MG-1673-06_272">
+      <div type="article" xml:id="MG-1673-06_272" resp="mercure">
         <head>Stances</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 272-277.</bibl>
         <p>Passons à quelque chose de plus agreable, &amp; parlons encor de Vers. Je vous envoye des
@@ -2060,7 +2060,7 @@
         </quote>
         <p>Je ne sçay si vous avez trouvé quelque chose de bon dans ces Vers […].</p>
       </div>
-      <div xml:id="MG-1673-06_277">
+      <div type="article" xml:id="MG-1673-06_277" resp="mercure">
         <head>[Vers sur le secret des affaires du Roy]</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 277-279.</bibl>
         <p>Je ne sçay si vous avez trouvé quelque chose de bon dans ces Vers : En voicy d’autres qui
@@ -2088,7 +2088,7 @@
           <l><space/>On ne voit rien, &amp; tout se fait.</l>
         </quote>
       </div>
-      <div xml:id="MG-1673-06_279">
+      <div type="article" xml:id="MG-1673-06_279" resp="mercure">
         <head>Fable de la Jument &amp; de l’Asne</head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 279-283.</bibl>
         <p>Apres vous avoir envoyé des Sonnets, des Madrigaux, des Eglogues, des Elegies, des

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-12_004">
+      <div type="article" xml:id="MG-1685-12_004" resp="mercure">
         <head>MG-1685-12_004</head>
         <bibl>Mercure Galant, décembre 1685, p. 4-5, 6-7, 9</bibl>
         <p>Lettre de Rome</p>
@@ -66,16 +66,14 @@
         <p/>
         <p>Le 25 Aoust on celebra la Feste de Saint Loüis dans l'Eglise de ce Saint, qui est de la Nation Françoise. Il y eut une tres-belle Musique. M. l'Ambassadeur de France s'y rendit en grand cortege à douze à treize heures, qui sont sept &amp; huit heures du matin selon l'Horloge de France, pour recevoir Messieurs les Cardinaux qui y estoient invitez, il s'en trouva un fort grand nombre. [...]</p>
       </div>
-
-<div xml:id="MG-1685-12_082">
+      <div type="article" xml:id="MG-1685-12_082" resp="mercure">
         <head>MG-1685-12_082</head>
         <bibl>Mercure Galant, décembre 1685, p. 82-83</bibl>
         <p>Services faits pour feu Mr le Chancelier [Le Tellier] en plusieurs Communautez de Paris, &amp; en plusieurs Villes du Royaume, avec la Description de quelques Mausolées, &amp; la Lettre Circulaire des Capucins, sur le mesme sujet, où l'on voit l'Eloge de ce Ministre</p>
         <p/>
         <p>[...] On a [célébré] la mémoire de ce digne Chef de la Justice dans l'Abbaye de S. Arnoult de Mets. On y chanta la Messe en Musique, &amp; le service fut fait par les soins de Messieurs les Secretaires du Roy. [...]</p>
       </div>
-
-<div xml:id="MG-1685-12_186">
+      <div type="article" xml:id="MG-1685-12_186" resp="mercure">
         <head>MG-1685-12_186</head>
         <bibl>Mercure Galant, décembre 1685, p.186-187, 190-193, 232-237</bibl>
         <p>Ce qui s'est passé en plusieurs Villes du Royaume, touchant les affaires de la Religion, &amp; les Conversions qui se sont faites</p>
@@ -86,8 +84,7 @@
         <p/>
         <p>Il ne reste plus aucun Pretendu Reformé dans la Ville de Niort en Poitou, &amp; toutes ces Conversions sont deuës à Mr de Fontmort, President &amp; Lieutenant General, &amp; à Mr de la Teraudiere, Maire de la Ville. [...] Les Calvinistes ont esté instruits ; il sont esté convaincus ; ils ont vû clair dans les Misteres de la Foy, &amp; ils se sont convertis, sans que de plus de cinq mille personnes, il en soit resté une seule qui fasse encore Profession de la Religion Pretenduë Reformée. Mr le President de Fontmort a esté si pénetré du plaisir que ce changement luy a causé, qu'il a fait un feu de joye, où quatre jeunes Demoiselles mirent le feu à la teste de deux cens Filles converties, &amp; aux bruits des Tambours &amp; des Trompettes. Je ne vous décris point cette Feste, ny la Statuë du Roy que l'on avoit élevée exprés, &amp; autour de laquelle trois cens Mousquetaires firent de continuelles décharges, &amp; burent à la santé de Sa Majesté avec le vin de plusieurs Fontaines qui couloient aux dépens de ce génereux President, qui avoit chez luy une Table de soixante couverts pour les personnes les plus qualifiées de la Ville, sans celles qui se trouverent encore en plusieurs endroits de son logis. Cette réjoüissance se communiqua dans toute la Ville, de sorte que l'on peut dire que tous les Habitans burent ensemble ce soir là. [...]</p>
       </div>
-
-<div xml:id="MG-1685-12_278">
+      <div type="article" xml:id="MG-1685-12_278" resp="mercure">
         <head>MG-1685-12_278</head>
         <bibl>Mercure Galant, décembre 1685, p. 278-296</bibl>
         <p>Chapitre general de Cluny</p>
@@ -99,8 +96,7 @@
         <p/>
         <p>[Parmi les personnes ayant assistées à ce chapitre, figure Jean de Santeuil, chanoine de de l'abbaye de Saint-Victor, célèbre pour les hymnes qu'il composa pour le nouveau Bréviaire de Cluny [p. 295].</p>
       </div>
-
-<div xml:id="MG-1685-12_303">
+      <div type="article" xml:id="MG-1685-12_303" resp="mercure">
         <head>MG-1685-12_303</head>
         <bibl>Mercure Galant, décembre 1685, p. 303-306</bibl>
         <p>Comedies nouvelles</p>
@@ -108,6 +104,6 @@
         <p>La Troupe du Roy a donné plusieurs Representations d'une comedie intitulée, Les Façons du Temps. Comme on ne dit point le nom de l'Autheur, j'observeray là-dessus le silence que sa modestie veut qu'on garde. Elle est d'un Homme du monde, qui en sçait les manieres, &amp; de qui mesme des personnes de distinction &amp; de naissance, veulent bien recevoir des préceptes pour apprendre à vivre. Cette Piece a d'abord esté traitée comme le sont celles qu'on estime assez pour les critiquer ; car chacun sçait que l'on ne se donne pas la peine de censurer, ce que l'on trouve tout-à-fait méchant. Après avoir essuyé la critique de ceux que ne voyent les Ouvrages nouveaux que pour en chercher les endroits foibles, elle a esté joüée à la Cour, où elle a receu un accueil plus favorable, &amp; où parmy les suffrages illustres qu'elle a eus, elle en a merité de personnes reconnuës &amp; estimées, pour n'avoir jamais déguisé leurs sentimens. Le Public desinteressé l'a veuë ensuite. Il s'y est fort diverty, &amp; les Assemblées ont esté nombreuses. Comme elles font le plus grand succés des Pieces, on peut dire que celle-cy a eu beaucoup d'Approbateurs, puis qu'elle a toûjours eu des Auditeurs en tres-grand nombre.</p>
         <p>Je ne puis vous parler d'Alcibiade, Tragedie nouvelle de l'Autheur d'Andronie. Elle sera representée avant que ma Lettre parte, mais ma Lettre sera finie avant qu'on la jouë. Cependant je puis vous dire d'avance, que cette Piece qui a esté leuë à beaucoup de Connoisseurs, est tellement estimée qu'elle doit avoir un tres-grand succés.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

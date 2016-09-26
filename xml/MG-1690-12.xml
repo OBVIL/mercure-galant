@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,21 +51,20 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1690-12_198">
+      <div type="article" xml:id="MG-1690-12_198" resp="mercure">
         <head>MG-1690-12_198</head>
         <bibl>Mercure galant, décembre 1690, p. 198-199</bibl>
         <p>Lettre de Mr l'Abbé de la Trappe, avec plusieurs particularitez touchant cette Abbaye.</p>
         <p/>
         <p>Nous vismes [le roi d'Angleterre] s'approcher de la Sainte Table avec une pieté qui n'est pas ordinaire. Il pria Dieu pendant l'Office, &amp; la grande Messe toute entiere, sans interruption d'un instant. [...] Comme on luy donna la sainte Hostie, le Choeur chanta ce qu'on appelle la Communion de la Messe, qui ne pouvoit estre plus juste ny plus expresse, quand elle auroit esté faite à dessein.</p>
       </div>
-
-<div xml:id="MG-1690-12_272">
+      <div type="article" xml:id="MG-1690-12_272" resp="mercure">
         <head>MG-1690-12_272</head>
         <bibl>Mercure galant, décembre 1690, p. 272-274</bibl>
         <p>Prise de possession de l'abbaye des Ayes, en Dauphiné.</p>
         <p/>
         <p>Le Roy ayant donné l'Abbaye des Ayes en Dauphiné à Dame Esperance de Saint Paul de Preville, elle en prit possession le 21. du dernier mois, jour de la Presentation de la Vierge. [...] Le soir, tout le Monastere fut illuminé par les soins des Religieuses, &amp; le lendemain on chanta solemnellement une Messe du Saint Esprit avec concert &amp; simphonie.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

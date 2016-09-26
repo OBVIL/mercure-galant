@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1685-03e_176">
+      <div type="article" xml:id="MG-1685-03e_176" resp="mercure">
         <head>MG-1685-03e_176</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de janvier 1685, p. 176-181</bibl>
         <p>Billet de Madame de P***</p>
@@ -67,8 +67,7 @@
         <p/>
         <p>[...] Mademoiselle de C*** passoit pour une Personne fort bien faite ; on ne pouvoit luy contester cela. Bien des Gens trouvoient qu'elle avoit beaucoup d'exprit. Elle estoit libre, agréable &amp; fort enjouée. Elle avoit la voix fort belle ; elle écrivoit galamment, faisoit des Vers avec un tres-grand naturel. Avec cela les Connoisseurs ne luy trouvoient rien de reglé, si bien qu'ils ne pouvoient qu'à peine donner leur approbation à des qualitez qui éblouissoient les Personnes qui n'avoient point de goust, &amp; qu'ils trouvoient fort imparfaites. Elle avoit une Amie assez éclairée, &amp; de qui j'estois un peu inconnu, qui luy apprit les sentimens que les honnestes Gens avoient d'elle. Cette Amie luy fit comprendre qu'elle ne seroit jamais qu'une Personne fort médiocre, si elle ne s'attachoit à se perfectionner. Dans ce temps-là un Homme de son voisinage me mena chez elle. [...] Elle me témoigna qu'elle connoissoit assez le besoin qu'elle avoit, que quelqu'un luy donnast de bonnes leçons, &amp; qu'elle s'estimeroit heureuse de trouver un honneste Homme, qui fust assez charitable pour se charger de luy regler l'esprit &amp; la voix. [...] Vous pouvez juger, Madame, que je ne manquay point de luy offrir mon service autant que j'en estois capable. [...] Sa voix est devenue fort touchante, &amp; pour une Personne qui ne fait pas profession d'estre chanteuse, l'on ne sçaurait guere chanter plus proprement. Elle sçait autant de Musique qu'il luy en faut, pour sçavoir trouver la meilleure execution de toute sorte d'Airs ; &amp; son plus grand art dans le chant, c'est de le sçavoir cacher. [...]</p>
       </div>
-
-<div xml:id="MG-1685-03e_240">
+      <div type="article" xml:id="MG-1685-03e_240" resp="mercure">
         <head>MG-1685-03e_240</head>
         <bibl>Mercure Galant, Extraordinaire du quartier de janvier 1685, p. 240-241</bibl>
         <p>Epitaphe d'un Perroquet, par M. Diéreville</p>
@@ -114,6 +113,6 @@
         <p>Ce qu'il estoit pendant sa vie.</p>
         <p>DIEREVILLE</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

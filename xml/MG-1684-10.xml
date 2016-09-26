@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-10_007">
+      <div type="article" xml:id="MG-1684-10_007" resp="mercure">
         <head>MG-1684-10_007</head>
         <bibl>Mercure galant, octobre 1684, p. 7-15</bibl>
         <p>Cérémonies observées à la publication de la Paix</p>
@@ -59,8 +59,7 @@
         <p>La Tréve ayant esté signée à Chambord par Sa Majesté le 24. de Septembre, fut publiée à Paris le Jeudy 5. de ce mois. Ce jour-là sur les huit heures du matin, les Trompetes, les Tambours &amp; les Fifres de la Chambre du Roy, se rendirent à cheval à l'Hôtel du Sr le Liévre, Roy d'Armes de France au titre de Montjoye-Saint-Denys, où se trouvérent le Sr le Blanc de Bornat, le plus ancien &amp; le premier Hérault d'Armes de France au titre de Xaintonge, le Sr d'Aubiny Hérault d'Armes au titre de Charolois, le Sr le Roy Hérault d'Armes au titre de Touraine, &amp; le Sr Charpentier Hérault d'Armes au titre de Roussillon. Ils montérent à cheval, estant revestus de leurs Cotes d'Armes, &amp; ayant des Toques garnies de Plumes &amp; d'Aigretes, celles du Roy d'Armes, violetes &amp; blanches, &amp; celles des Héraults d'Armes, toutes blanches. Ils marchérent deux à deux avec leur Caducée à la main, le Roy d'Armes estant seul derriere avec son Sceptre, &amp; s'arrestérent devant l'Hôtel de Mr le Comte d'Armagnac leur Supérieur, où ils firent faire des Fanfares. Ce fut dans cet ordre qu'ils arrivérent à l'Hôtel de Ville. Mr de la Reynie, Lieutenant Genéral de Police, Mrs les Lieutenans Criminel &amp; Particulier, &amp; Mr Robert, Procureur du Roy au Chastelet, avec plusieurs Conseillers &amp; Commissaires, s'y rendirent aussi, précedez des Sergens à Verge, &amp; des Huissiers Audienciers à cheval. Mr de Fourcy, Président aux Enquestes, Prevost des Marchands, accompagné de Mrs Chauvin, Parque, Rousseau, &amp; Chupin, les reçût à la porte de la grande Salle de l'Hôtel de Ville, &amp; ils entrérent ensemble dans le Bureau. Mr de Saintot, Maistre des Cerémonies, donna au Roy d'Armes en leur présence la Lettre de Sa Majesté. Il y eut ensuite un magnifique Festin, où les Santez de ce grand Monarque, de Monseigneur le Dauphin, &amp; de Madame la Dauphine, furent beües au bruit des Trompetes, des Tambours &amp; des Fifres, &amp; des décharges du Canon de la Ville, rangé dans la Place de l'Hôtel de Ville.</p>
         <p>Apres le Festin, la Marche commença par la Compagnie des Archers du Guet. [...] Tous les Archers de la Ville suivoient aussi à pied, [...] Apres eux marchoient les Sergens à Verge du Chastelet, [...] Les Huissiers Audienciers du Chastelet suivoient à cheval à la droite, &amp; les Huissiers Audienciers de la Ville aussi à cheval alloient à la gauche, [...] Parmy eux estoient les Trompetes, les Tambours &amp; les Fifres de la Chambre du Roy, avec ceux de la Ville, tous à cheval. [...] On s'arresta devant le Palais Royal, où les Trompetes, Tambours &amp; Fifres firent des Fanfares pour saluer Monsieur. Apres qu'on fut arrivé devant la porte du Palais des Tuileries, le Sr d'Aubiny, Hérault d'Armes, y fit la premiere Publication de la Tréve, apres que les Trompetes, Tambours &amp; Fifres, eurent attiré le Peuple.</p>
       </div>
-
-<div xml:id="MG-1684-10_022">
+      <div type="article" xml:id="MG-1684-10_022" resp="mercure">
         <head>MG-1684-10_022</head>
         <bibl>Mercure galant, octobre 1684, p. 22-23, 26-31, 33-34</bibl>
         <p>Etablissement des Récollets François à Luxembourg, avec toutes les Cerémonies qui se sont faites en cette occasion</p>
@@ -71,16 +70,14 @@
         <p/>
         <p>Il y avoit trois Choeurs de Musique ; l'un de Violons &amp; de Basses de Violes ; l'autre de Hautbois, &amp; le dernier de tres-belles Voix. La Messe fut chantée avec beaucoup de solemnité ; [...] La Feste se termina le soir par un Te Deum, &amp; par un Salut qui fut continué toute l'Octave.</p>
       </div>
-
-<div xml:id="MG-1684-10_066">
+      <div type="article" xml:id="MG-1684-10_066" resp="mercure">
         <head>MG-1684-10_066</head>
         <bibl>Mercure galant, octobre 1684, p. 66-68</bibl>
         <p>[Mariage de Gilles Le Diacre de Martinbosc avec Mlle de Bordeaux]</p>
         <p/>
         <p>Messire Gilles le Diacre, Seigneur de Martinbosc, Lieutenant Genéral du Pontlevesque, &amp; de la Vicompté d'Auge en Normandie, épousa le 10. de ce mois Mademoiselle de Bordeaux, Fille de Mr de Bordeaux, Seigneur de la Mesengere, Vicomte d'Auge, qui exerce cette Charge depuis quarante ans avec une estime genérale. [...] Le soir il y eut un magnifique Repas, qui fut servy en deux Tables, &amp; où se trouvérent plus de soixante Personnes des plus considérables de la Province. Il faut suivy d'un Feu d'artifice, accompagné de Boëtes &amp; de Fusées, &amp; la Feste se termina par le Bal.</p>
       </div>
-
-<div xml:id="MG-1684-10_088">
+      <div type="article" xml:id="MG-1684-10_088" resp="mercure">
         <head>MG-1684-10_088</head>
         <bibl>Mercure galant, octobre 1684, p. 88-90, 99-105</bibl>
         <p>[Cérémonies faite à l'Abbaye de Farmonstier et à Saint-Germain des Près à la réception du Coeur de Madame la Princesse Palatine]</p>
@@ -89,26 +86,23 @@
         <p/>
         <p>Des choses si saintes &amp; si prétieuses ne devant pas estre transportées secretement, il fut jugé à propos de rendre cette Translation la plus solemnelle qu'on pourroit, afin d'exciter la devotion des Peuples. On choisit pour cela le Vendredy 29. du mois passé, jour de la Feste de S. Michel. Dés le Jeudy, les grosses Cloches de S. Germain des Prez avertirent tout Paris de cette Cerémonie ; &amp; le lendemain Mr le Curé de S. Sulpice, avec son Clergé, &amp; toutes les Communautez Religieuses du Faubourg, se rendirent sur les deux heures à l'Eglise de l'Abbaye, qu'on avoit ornée de riches Tapis, &amp; de quantité d'Argenterie. La Procession en partit une heure apres par la Porte Sainte Marguerite, &amp; alla dans l'ordre qui suit à l'Hostel de Madame la Princesse Palatine, où estoit le sacré Dépost qu'on alloit prendre. Les Peres de S. Dominique &amp; de S. Augustin, &amp; les Chanoines Réguliers de Prémonstré, marchoient selon leur rang, précedez de leurs Croix &amp; de leurs Acolites. Mrs de S. Sulpice suivoient ; &amp; les Religieux de l'Abbaye, au nombre de pres de cent, fermoient la Procession. Douze Chantres, avec des Chapes de Drap d'or &amp; de broderie, estoient au milieu de leur Corps, &amp; ils tenoient seuls le Choeur, pour éviter les détons que les voix trop éloignées auroient pû faire. Quand on fut arrivé à l'Hôtel, les Communautez Religieuses, &amp; le Clergé de S. Sulpice, se rangérent dans les deux Ruës autour de l'Eglise de la Paroisse. Mr l'Archevesque, qui s'estoit rendu à cet Hostel quelque temps auparavant, accompagné de ses Officiers, estoit à genoux devant les saintes Reliques, revestu de ses Habits Pontificaux. On les avoit mises chacune en son rang, sur un Brancard posé sur un Autel, qui estoit soûtenu d'une Estrade élevée, &amp; le tout estoit couvert de somptueux Ornemens, &amp; d'un riche Dais. Les douze Chantres commencerent un Respons à l'honneur de la Croix, apres lequel le Pere Genéral de la Congrégation présenta les Reliques à Mr l'Archevesque, en présence de Mrs les Abbez de Lamet, &amp; du Val, Exécuteurs du Testament de la Princesse, &amp; luy fit un Discours remply de la pieté solide dont il fait profession. Ce Prélat luy ayant répondu avec l'éloquence &amp; la grace qui luy sont si naturelles, encensa les Reliques ; &amp; quatre Religieux revestus de Tuniques, les porterent sur leurs épaules. Douze Flambeaux de cire blanche, aux Armes de la Princesse, les environnoient. Les Chantres entonnerent, &amp; continuérent les Hymnes de la Croix, &amp; la Procession retourna à l'Eglise dans le mesme ordre qu'elle estoit venuë. Dés qu'on y fut arrivé, on posa les saintes Reliques devant le Grand Autel, qui estoit magnifiquement paré, &amp; éclairé d'un tres-grand nombre de Cierges. On les mit sur une riche Crédence, élevée sur une Estrade de quatre degrez, qui estoit couverte de riches Tapis. Mr l'Archevesque les encensa de nouveau. On chanta quelques Antiennes, &amp; en suite ce Prélat entonna le Te Deum. Les Oraisons estant dites, les Religieux &amp; le Clergé de la Paroisse, allérent deux à deux baiser les saintes Reliques, &amp; chacun se retira. Quelques jours apres, les Religieux de l'Abbaye marquerent leur reconnoissance envers la Princesse, en faisant un Service solemnel pour le repos de son ame.</p>
       </div>
-
-<div xml:id="MG-1684-10_253">
+      <div type="article" xml:id="MG-1684-10_253" resp="mercure">
         <head>MG-1684-10_253</head>
         <bibl>Mercure galant, octobre 1684, p. 253, 257-260</bibl>
         <p>Description du Royaume &amp; de la Cour de Siam, avec les moeurs des Habitans de ce grand Etat</p>
         <p/>
-        
         <p/>
         <p>[...] Tout l'Etat est Monarchique, &amp; le Gouvernement assez bien reglé. Le Roy est fort absolu. [...]</p>
         <p/>
         <p>Lors qu'il se montre par terre, deux cens Eléphans paroissent d'abord. Ils portent chacun trois Hommes armez, &amp; sont suivis de Joüeurs d'Instrumens, de Trompetes, &amp; de mille Soldats à pied. Les grands Seigneurs du Païs viennent apres, &amp; il y en a quelques-uns qui ont 80. ou 100. Hommes à leur suite. En suite on voit deux cens Soldats du Japon, qui précedent ceux dont sa Garde est composée, puis ses Chevaux de main, &amp; ses Eléphans, &amp; apres les Officiers de sa Cour, portant tous des Fruits, ou quelqu'autre chose que l'on présente aux Idoles. Derriere eux marchent encore quelques grands Seigneurs avec des Couronnes sur leurs testes. L'un deux porte l'Etendard du Roy ; &amp; l'autre une Epée qui représente la Justice. Ce Prince paroist apres eux, porté sur un Eléphant dans une Tour toute éclatante de Pierreries. Cet Eléphant est environné de Gens qui luy portent des Parasols, &amp; suivy du Prince qui doit succeder. Les Femmes du Roy suivent aussi sur des Eléphans, mais dans de petits Cabinets fermez, qui ne les laissent point voir. Six cens Soldats ferment ce Cortége, qui est ordinairement de quinze ou seize mille Hommes. Le fruit qu'on remporte de ces Cerémonies, est de maintenir le Peuple dans la venération de la Majesté Royale. [...]</p>
       </div>
-
-<div xml:id="MG-1684-10_289">
+      <div type="article" xml:id="MG-1684-10_289" resp="mercure">
         <head>MG-1684-10_289</head>
         <bibl>Mercure galant, octobre 1684, p. 289-290</bibl>
         <p>Voyage du Roy à Chambord</p>
         <p/>
         <p>La maladie de Monsieur ayant fait reculer de quelques jours le Voyage de la Cour pour Chambord, il n'a pas esté si long qu'il devoit estre. [...] Le Roy s'est souvent diverty à tirer dans le Parc de Chambord. On y a couru le Cerf, &amp; forcé les Sangliers à la course sans Chiens. Les autres divertissemens ont esté les Apartemens, le Bal, le Jeu, &amp; la Comédie Françoise. Ils ont recommencé à Fontainebleau ; mais les plaisirs de la Comédie y ont esté plus fréquens, parce que les Comédiens Italiens ont eu ordre de s'y rendre. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

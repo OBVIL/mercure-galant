@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1697-12_107">
+      <div type="article" xml:id="MG-1697-12_107" resp="mercure">
         <head>MG-1697-12_107</head>
         <bibl>Mercure galant, décembre 1697, p. 107-110</bibl>
         <p>Réjoüssances pour la paix faites à Roüen.</p>
         <p/>
         <p>Le 28. du mois passé la paix fût publiée à Roüen, &amp; pour solemniser ce grand jour où la joie parut universelle par les Feux qui furent allumés dans toutes les Rües de cette Ville, Mr de Montholon, Premier President, donna un soupé à tout le Parlement avec une propreté &amp; une abondance à laquelle on ne peut rien ajouster. Il avoit fait preparer un feu d'Artifice devant son Hostel, &amp; il fut tiré au bruit de plusieurs instruments de Guerre, ausquels une excellente Musique répondoit alternativement.[...] Tout le monde applaudit au zele de cet Illustre Magistrat, qui dans toutes les occasions qui s'en sont offertes, n'a rien obmis de ce qui pouvoit contribüer à faire éclater la gloire du Roy.</p>
       </div>
-
-<div xml:id="MG-1697-12_146">
+      <div type="article" xml:id="MG-1697-12_146" resp="mercure">
         <head>MG-1697-12_146</head>
         <bibl>Mercure galant, décembre 1697, p. 146-167</bibl>
         <p>Pompe funebre de Mr. De Bourlemont Archevêque de Bordeaux.</p>
@@ -71,8 +70,7 @@
         <p>Après la Messe, Mr le Doyen avec quatre Chanoines &amp; Dignitaires, alla faire les absolutions accoutumées autour du corps, qui estoit exposé sous la Chapelle ardente ; après quoy les compagnies se retirerent. Le soir il fut inhumé à la porte du choeur, près le coeur de Mr le Cardinal de Sourdis. [...]</p>
         <p>[Suit l'évocation de la vie de feu Mr. De Bourlemont archevêque de Bordeaux.]</p>
       </div>
-
-<div xml:id="MG-1697-12_167">
+      <div type="article" xml:id="MG-1697-12_167" resp="mercure">
         <head>MG-1697-12_167</head>
         <bibl>Mercure galant, décembre 1697, p. 167-175</bibl>
         <p>Réjoüissances pour la Paix faites dans la mesme Ville.</p>
@@ -81,8 +79,7 @@
         <p>L'aprés-dinée, ils parcoururent tous les autres endroits de la Ville, &amp; se rendirent dans l'Eglise Cathedrale pour assister au Te Deum, où se trouverent Mrs du Parlement &amp; de la Cour des Aides en Robes Rouges [...] Mrs les Thresories de France en robes de satin noir, le Presidial &amp; Senechal, l'Election, l'Amirauté, les Avocats &amp; tous les Corps de la Ville. Mr le Marquis de Sourdis, Commandant de la province à la teste de la Noblesse, s'y rendit aussi, &amp; prit sceance dans le Parlement. [Le soir, à l'Hôtel de Ville, les Jurats] donnerent une magnifique Colation à Monsieur de Sourdis, &amp; à soupper à la Noblesse. Ensuite il y eut Bal pour les Dames. Pendant la nuit ce ne furent que rejouissances par toute la Ville, avec de tres belles Illuminations, dans les Hôtels principaux [...]</p>
         <p>Le Samedy 4. de ce mois, Mrs. Les Juge &amp; Consuls de la Bourse avec les anciens Bourgeois, firent mettre dés le matin sur toutes les Portes de leur Palais [...] le Portrait de sa Majesté, garny de trophées, devises &amp; autres ornements. [... Ils] firent mettre une batterie de trente Canons sur le Quay, qu'on nomme Bourgeois, dont on fit plusieurs decharges. Le soir il y eut Bal &amp; festin, pendant lequel on jetta un grand nombre de Fusées. [...]</p>
       </div>
-
-<div xml:id="MG-1697-12_205">
+      <div type="article" xml:id="MG-1697-12_205" resp="mercure">
         <head>MG-1697-12_205</head>
         <bibl>Mercure galant, décembre 1697, p. 205-259</bibl>
         <p>Relation de tout ce qui s'est passé au Mariage de monseigneur le Duc de Bourgogne &amp; de Madame la Princesse de Savoye, &amp; les jours suivans.</p>
@@ -95,20 +92,18 @@
         <p>Le Roy se rendit sur les sept heures dans la Chambre de Madame la Duchesse de Bourgogne, son habit étoit magnifique &amp; majestueux. [...] Le Roy et la Reine d'Angleterre arriverent peu de temps après. [...] L'on passa dans la Galerie, &amp; le Bal commença, Monseigneur le Duc de Bourgogne ouvrit la danse par le branle, menant Madame la Duchesse de Bourgogne, &amp; lors que le branle fut fini, ils danserent ensemble la premiere courante, &amp; tout le monde en fut charmé. Madame la Duchesse de Bourgogne prit Monseigneur le Duc d'Anjou, &amp; il prit Madame la Duchesse de Chartres, laquelle prit Monseigneur le Duc de Berry, qui prit Mademoiselle, &amp; le reste se passa dans l'ordre &amp; selon le rang. Comme le nombre des danseurs étoit fort grand, plusieurs de ceux qui avoient été nommez ne danserent point, faute de Dames qui se trouverent en plus petit nombre, Madame la Duchesse de Bourgogne se fit admirer dans le menuet &amp; le passepied. L'on dansa souvent le menuet a quatre, afin de faire danser plus de monde. Sur les huit heures le Roy demanda la Collation, qui fut apportée sur douze tables de formes inégales [...]. Elles furent portées dans l'enceinte du Bal, [...] Après la Collation qui fut entièrement pillée, l'on fit netoyer la place &amp; l'on continua le Bal jusqu'à dix heures &amp; demie. Lors qu'il fut fini, le Roy, &amp; leurs Majestez Britanniques entrerent dans le petit Appartement de Sa Majesté, où le Soupé étoit servi dans l'antichambre. [...] Après le Soupé le Roy &amp; la Reine d'Angleterre retournerent à Saint Germain, &amp; chacun se retira.</p>
         <p>Le Samedy suivant, il y eut encore un grand Bal qui commença plus tard que le precedent, parcequ'on ne soupa qu'après le Bal, &amp; qu'il y eut media noche. La foule des spectateurs avoit esté si grande au premier, qu'on trouva moyen d'accommoder le lieu où l'on dança, de maniere qu'il y eut encore plus de places pour les personnes de la premiere qualité. [...] Enfin à voir chaque habit en particulier, il sembloit que rien ne se pouvoit ajoûter à tous ceux des Princes, Princesses, Seigneurs &amp; Dames qui dançoient à ce bal, tant il estoient somptueux &amp; brillans ; en sorte que sans compter les pierreries, les habits seuls des deux Bals revenoient à plusieurs millions. [...] La Collation ne fut pas servie sur des tables comme la premiere, mais elle fut portée dans un nombre infini de corbeilles. Jamais il ne s'est rien vu de si brillant que ce Bal. Il y avoit tant dans la Galerie où l'on a dancé que dans les Apartemens des environs, quatre à cinq mille lumieres, ce qui faisoit beaucoup briller la richesse des habits &amp; la magnificence des Appartemens. Il y a eu à Trianon une representation de l'Opera d'Apollon &amp; d'Issé qui avoit esté préparé comme un des divertissemens qui devaient suivre le Mariage de Monseigneur le Duc de Bourgogne. Il estoit accompagné de tout le spectacle que peut permettre le lieu. L'Assemblée fut nombreuse, &amp; en sortit tres-satisfaite. Tous les habits de cet opera estoient neufs &amp; bien entendus, &amp; faits sur les desseins &amp; sous la conduite de Mr. Berrin.</p>
       </div>
-
-<div xml:id="MG-1697-12_272">
+      <div type="article" xml:id="MG-1697-12_272" resp="mercure">
         <head>MG-1697-12_272</head>
         <bibl>Mercure galant, décembre 1697, p. 272-273</bibl>
         <p>Sacre de Mr l'Evêque de Metz.</p>
         <p>Le dimanche vingt-deuxième de ce mois, Mr l'Abbé Coislin, premier Aumônier du Roy en survivance, fut sacré Evêque de Mets dans l'Eglise des Feüillans par Mr le Cardinal de Coislin son Oncle, assisté des Evêques de Verdun &amp; de Carcassonne. Il seroit fort mal-aisé de voir une Compagnie plus illustre &amp; plus nombreuse tout ensemble.[...] La Musique estoit de Mr Colasse, l'un des quatre Maîtres de Musique de la Chapelle du Roy, &amp; elle fut exécutée avec beaucoup de succés par une partie des Musiciens de S.M. &amp; par les meilleurs Musiciens de Paris. Il y eut ensuite un magnifique repas, que on donna en son Hôtel Mr le Cardinal de Coislin.</p>
       </div>
-
-<div xml:id="MG-1697-12_283">
+      <div type="article" xml:id="MG-1697-12_283" resp="mercure">
         <head>MG-1697-12_283</head>
         <bibl>Mercure galant, décembre 1697, p. 283</bibl>
         <p>Avis.</p>
         <p>Les Comediens du roy representent depuis trois semaines une Piece nouvelle, intitulée Pilade &amp; Oreste, qui fait grand honneur à son Auteur. Les situations en sont tres-heureuses, &amp; excitent des sentimens de pitié qui rendent cette Piece tres-agreable. Je suis, Madame, vostre, &amp;c.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

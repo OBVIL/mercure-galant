@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,23 +51,21 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-11_184">
+      <div type="article" xml:id="MG-1699-11_184" resp="mercure">
         <head>MG-1699-11_184</head>
         <bibl>Mercure galant, novembre 1699, p. 184-185</bibl>
         <p>Ouverture des Audiences du Parlement &amp; de la Cour des Aides &amp; Mercuriale faite en la grande Chambre.</p>
         <p/>
         <p>L'Ouverture du Parlement se fit le Jeudy 12. de ce mois. Elle commença par une Messe Solemnelle, qui fut celebrée par Mr l'Evesque Duc de Laon à la Chapelle de la Grande Salle du Palais accompagnée d'une excellente Musique de la composition de Mr Charpentier, Maistre de celle de la Sainte Chapelle.</p>
       </div>
-
-<div xml:id="MG-1699-11_222">
+      <div type="article" xml:id="MG-1699-11_222" resp="mercure">
         <head>MG-1699-11_222</head>
         <bibl>Mercure galant, novembre 1699, p. 222-225</bibl>
         <p>Retour à la santé de Mr le Begue.</p>
         <p/>
         <p>Je ne suis point étonné, Madame, que l'interest que vous avez toûjours pris aux personnes qui se sont distinguées dans quelque profession, vous ait donné de l'inquietude pour Mr le Begue, également recommandable par sa rare pieté &amp; par l'excellence son Art. Il est vray que souffrant de grandes douleurs depuis quelques mois, aprés une Consultation autentique, &amp; des prejugez qui ne laissoient point douter qu'elles ne luy fussent causées par la pierre, il s'est resolu à souffrir la taille. C'estoit beaucoup hazarder pour un homme qui a plus de soixante ans, mais Mr Colo, l'un des plus habiles &amp; des pus experimentez en ce genre d'Operation, qui ayent paru jusques à present, l'a faite si à propos, que le succés a répondu à tout ce qu'on s'estoit promis de son adresse. Ce fut au commencement du mois passé que Mr le Begue s'y exposa. Pendant toute l'operation, l'une des plus douloureuses qu'il y ait, il demeura ferme sans rien dire que ce que son coeur veritablement Chrétien luy inspiroit par des mouvemens &amp; des inspirations interieures. Enfin au bout de huit jours il se trouva hors de tout peril, &amp; il est presentement dans une santé parfaite, n'attendant plus que l'heureux moment de rentrer dans le servie de la Chapelle du Roy, dont il est l'un des quatre Organistes, aussi bien qu'il l'est de l'Eglise de Saint Mederic. Vous savez que Sa Majesté l'honore d'une estime particuliere, &amp; qu'il ne revient jamais de la Cour qu'il ne soit chargé d'applaudissemens.</p>
       </div>
-
-<div xml:id="MG-1699-11_271">
+      <div type="article" xml:id="MG-1699-11_271" resp="mercure">
         <head>MG-1699-11_271</head>
         <bibl>Mercure galant, novembre 1699, p. 271-288</bibl>
         <p>Journal de ce qui regarde Mr le Duc de Lorraine.</p>
@@ -77,6 +75,6 @@
         <p>Le Samedy, il alla voir les Ecuries, les Eaux &amp; les Jardins de Versailles, Trianon &amp; la Menagerie, &amp; au retour, ce Prince alla à l'Hostel des Comediens François où l'on joüa l'Athenaïs.</p>
         <p>Le Dimanche il alla à la Chasse au Loup. L'apresdînée il prit le divertissement d'un Opera nouveau, intitulé Martesie dont la Musique est de Mr Destouches, &amp; le soir, Mr le Comte de Marsan luy donna un magnifique soupé.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

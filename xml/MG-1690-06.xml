@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,29 +51,27 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1690-06_189">
+      <div type="article" xml:id="MG-1690-06_189" resp="mercure">
         <head>MG-1690-06_189</head>
         <bibl>Mercure galant, juin 1690, p. 189-197</bibl>
         <p>Prise de possession de l'abbaye de S. Germain des Prez, par M. le Cardinal de Furstemberg.</p>
         <p/>
         <p>Les Bulles estant arrivées &amp; fulminées, ce Cardinal fit avertir le Pere Dom Jean Barré, Celerier, qu'il viendroit prendre possession le Samedy 20. de May. [...] Son Eminence arriva sur les cinq heures du soir en Camail &amp; en Rochet, &amp; trouva la Communauté en Corps qui l'attendoit à la premiere porte du Monastere, où Mr Douceur, Prieur des Anciens, luy presenta l'Eau-benite, &amp; luy fit un compliment à la portiere de son Carrosse. On le conduisit au Chapitre pendant que toutes les cloches sonnoient. Ses Bulles y furent leuës, &amp; les Religieux s'estant ensuite assemblez capitulairement, donnerent leur consentement  la prise de possession. [...] On le conduisit de là à l'Eglise [...] &amp; aprés qu'on luy eut mis la Mitre en teste &amp; la Crosse en main, les Chantres entonnerent le Te Deum que le Choeur chanta alternativement avec l'Orgue. Pendant ce temps, on fit la Procession autour de l'Eglise, le Prelat marchant le dernier au milieu de ses Officiers, &amp; donnant des benedictions au Peuple.</p>
       </div>
-
-<div xml:id="MG-1690-06_202">
+      <div type="article" xml:id="MG-1690-06_202" resp="mercure">
         <head>MG-1690-06_202</head>
         <bibl>Mercure galant, juin 1690, p. 202-211</bibl>
         <p>Services faits pour Madame la Dauphine, à l'Abbaye de S. Denis, &amp; dans l'Eglise de N. D. de Paris.</p>
         <p/>
         <p>Le Lundy 5. de ce mois, on fit dans l'Eglise de l'Abbaye Royale de S Denis, le Service solemnel de Madame la Dauphine. [...] Mr l'Evesque de Meaux, premier Aumônier, assisté de Mrs les Evesques de Lodeve, de Poitiers, de Saintes, &amp; de Mende, celebra la Messe en habits Pontificaux. Elle fut chantée par la Musique du Roy. [...]</p>
       </div>
-
-<div xml:id="MG-1690-06_223">
+      <div type="article" xml:id="MG-1690-06_223" resp="mercure">
         <head>MG-1690-06_223</head>
         <bibl>Mercure galant, juin 1690, p. 223-225</bibl>
         <p>Détail curieux sur ce qui s'est passé à la défaite des Vaudois.</p>
         <p/>
         <p>La défaite entiere des Vaudois, qui viennent d'estre tous, ou tuez, ou chassez des retranchemens qu'ils avoient faits sur leurs montagnes, me donne lieu de vous parler de leur origine [...]. Ils ne vouloient souffrir aucunes Images, ny celebrer aucun jour de feste. Ils rejettoient les prieres des Saints, mesme l'Ave Maria, n'en voulant point d'autre que l'Oraison Dominicale, par le moyen de laquelle ils pretendoient pouvoir consacrer. Ils rejettoient aussi l'huile dans le Baptême, la Confirmation, la Confession auriculaire, l'Extrême Onction, la remission des pechez, le Purgatoire, les Prieres pour les Morts, la difference de l'Evesque &amp; du Prestre, l'obeissance aux Prelats, les miracles, &amp; le Chant de l'Eglise.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

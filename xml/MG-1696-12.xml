@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-12_084">
+      <div type="article" xml:id="MG-1696-12_084" resp="mercure">
         <head>MG-1696-12_084</head>
         <bibl>Mercure galant, décembre 1696, p. 84-95</bibl>
         <p>Eglogue.</p>
@@ -242,8 +242,7 @@
         <p>Qu'il enchaisne pour jamais</p>
         <p>Le démon de la guerre.</p>
       </div>
-
-<div xml:id="MG-1696-12_132">
+      <div type="article" xml:id="MG-1696-12_132" resp="mercure">
         <head>MG-1696-12_132</head>
         <bibl>Mercure galant, décembre 1696, p. 132-145</bibl>
         <p>Maniere de petit Opera.</p>
@@ -481,16 +480,14 @@
         <p>Tout le Choeur repete.</p>
         <p>Accordons-nous pour celebrer ensemble, &amp;c.</p>
       </div>
-
-<div xml:id="MG-1696-12_149">
+      <div type="article" xml:id="MG-1696-12_149" resp="mercure">
         <head>MG-1696-12_149</head>
         <bibl>Mercure galant, décembre 1696, p. 149-152</bibl>
         <p>Grande Messe celebrée par sept Freres.</p>
         <p/>
         <p>Il s'est passé une chose assez rare dans le Dioces de Châlons en Champagne, &amp; qui peut-estre ne se rencontrera pas dans aucune Famille de la France. Sept Freres nommez les Boucher, originaires de Châlons, bien unis ensemble, tous Prestres, tant Seculiers que Reguliers, se sont trouvez le jour de la Feste de Saint Martin, en la Paroisse de Saint Martin de Courrisolt, où l'un d'eux est Curé depuis vingt six à vingt sept ans, &amp;  là ils ont celebré solemnellement la Feste de ce glorieux Patron, à commencer par les premieres Vespres, &amp; Matines ensuite ; le lendemain les Laudes, l'Eau benite, la Procession &amp; la grande Messe, celebrée par l'aîné de ces sept Freres Religieux Benedictin, Prieur de l'Abbaye de S. Sauveur des Vertus, le Curé de cette Paroisse faisant l'office de Diacre, &amp; le plus jeune de tous, aussi Religieux Benedictin, &amp; Procureur du même Convent, celuy de Sous-Diacre, deux autres Freres, l'un Trinitiare du Convent de Châlons, l'autre Prémonstré du Convent de Sept-fontaines ; revestus d'Aubes, &amp; de Tuniques, faisant les ceremonies &amp; encensemens ; deux autres Freres, Chanoines de l'Eglise Collegiale de la Trinité de Châlons, faisant les Choristes. Le Panegyrique du Saint fut prononcé aprés Vespres par le même Prieur de Saint Sauveur des Vertus, ce qui fut suivi de la benediction du Saint Sacrement &amp; du Te Deum.</p>
       </div>
-
-<div xml:id="MG-1696-12_193">
+      <div type="article" xml:id="MG-1696-12_193" resp="mercure">
         <head>MG-1696-12_193</head>
         <bibl>Mercure galant, décembre 1696, p. 193-196</bibl>
         <p>Mr de Percy, Neveu de Mr Dupré Envoyé de Sa Majesté à Florence, est reçû Chevalier de S. Etienne.</p>
@@ -498,8 +495,7 @@
         <p>Mr Percy a esté receu à Florence dans l'Ordre des Chevaliers de Saint Etienne, [...]</p>
         <p>Cet Ordre fut estably par Cosme I. de Medicis, l'an 1560 en reconnoissance d'une fameuse Victoire qu'il emporta sur les Siennois le 2. Aoust, Feste de Saint Estienne Pape &amp; Martir, &amp; il fut approuvé le I. Février de l'année suivante par le Pape Pie V. On y observe la Regle de S. Benoist, chez les Religieux duquel tout Chevalier est obligé pendant six mois d'aller faire son Noviciat, qui consiste à entendre pendant ce temps la grande Messe &amp; les Vespres les Festes &amp; les Dimanches dans le Choeur de leur Eglise avec l'habit de Ceremonie. [...]</p>
       </div>
-
-<div xml:id="MG-1696-12_225">
+      <div type="article" xml:id="MG-1696-12_225" resp="mercure">
         <head>MG-1696-12_225</head>
         <bibl>Mercure galant, décembre 1696, p. 225-227</bibl>
         <p>Discours prononcé à Agen</p>
@@ -509,22 +505,20 @@
         <p/>
         <p>Nous avons remply l'air de nos feux &amp; de nos cris d'allegresse, &amp; le ciel, de nos actions de graces ; &amp; l'écho de ce qui se dit par tout m'engage à l'ouverture de cette Seance, d'en entretenir la Cour que de l'heureux succés de la paix de Savoye. Mais quelle étenduë de connoisssance ne faudroit-il point pour débroüiller depuis ce dernier Te Deum, les interests de tant de Princes, ou plutost quelle solidité de jugement ne faudroit-il point avoir, pour composer une action digne de cette honorable Audience ? [...]</p>
       </div>
-
-<div xml:id="MG-1696-12_277">
+      <div type="article" xml:id="MG-1696-12_277" resp="mercure">
         <head>MG-1696-12_277</head>
         <bibl>Mercure galant, décembre 1696, p. 277-279</bibl>
         <p>Morts.</p>
         <p/>
         <p>Mr Centeze, Prestre Chanoine de S. Aignan en l'Eglise de Paris, mort dans sa quatre-vingt-onzième année, estant né le 3. Avril 1606. Il avoit quatre-vingt-deux ans de service dans l'Eglise de Nostre-Dame, où il estoit entré Enfant de Choeur le 12. Decembre 1614. Aprés avoir passé par tous les degrez qui sont destinez aux Beneficiers, il fut éleu Chanoine le 3. Juin 1682 &amp; il deceda le 30. Octobre dernier. Comme cette Chanoinie-Semiprebende est une des deux que Mrs du Chapitre donnent pour récompense aux Beneficiers qui ont servy leur Eglise en qualité d'Enfans de Choeur ou de Chantres élevez &amp; nourris au chant &amp; aux ceremonies de cette Eglise, ils ont donné celle cy à Pierre Nicolle, Chanoine Prestre de S. Denis du Pas, âgé de soixante-treize ans, qui estoit le plus ancien de tous les Beneficiers Prestres, &amp; Officiers de Nostre-Dame, où il est entré en qualité de Chantre dés l'année 1646. &amp; a rendu ses services tant de jour que de nuit avec toute l'assiduité &amp; l'application possible. [...]</p>
       </div>
-
-<div xml:id="MG-1696-12_294">
+      <div type="article" xml:id="MG-1696-12_294" resp="mercure">
         <head>MG-1696-12_294</head>
         <bibl>Mercure galant, décembre 1696, p. 294-299</bibl>
         <p>Livres.</p>
         <p/>
         <p>On vient de donner au Public un Ouvrage qui doit plaire également aux personnes de pieté &amp; aux Sçavans. Il a pour titre, l'Esprit de l'Eglise dans l'usage des Pseaumes en forme de Priere ou d'Exhortation. Un des Amis de l'Auteur, mort depuis quelques années, qui estoit sans contredit un des plus beaux esprits de nostre siecle, en ayant recouvré heureusement une copie, a crû devoir faire part à tout le monde de cette admirable Paraphrase, qui non seulement n'a rien de commun avec celles qui ont paru jusques à present, mais qui sans s'écarter du sens litteral &amp; moral, donne aux Pseaumes les plus difficiles à entendre à cause de l'obscurité des Propheties &amp; des faits Historiques, ou par leur expression abstraite &amp; enigmatique, une explication si juste, si aisée, &amp; si pleine d'onction, que chacun selon l'intention de l'Eglise, qui propose à chaque fidelle la lecture de ces Pseaumes, en peut faire le sujet de ses prieres &amp; de ses meditations. L'Auteur dit dans sa Preface qu'ayant remarqué que ceux qui en expliquant ces Pseaumes se sont attachez au seul sens litteral, ont fait lire une simple Histoire à un Chrestien, lors que David mesme pretend luy avoir dicté une instruction pour ses moeurs, que ceux qui n'ont expliqué que le sens mystique nous ont fait parler en Prophetes, pour exciter de nous faire parler en Historiens ; &amp; enfin que ceux-là mesme qui n'ont pas negligé le sens moral, l'ont mêlé d'une telle maniere avec l'Histoire &amp; la Prophetie que la plupart des Pseaumes semblent moins des Prieres que des enigmes ; l'Auteur, dis-je, avertit ses Lecteurs dans sa preface que pour ne pas tomber dans ces inconveniens, il s'est proposé de faire servir également à nostre instruction, les differentes interpretations qu'on donne à ces mysterieux Cantiques, en sorte que sans rien negliger de ce qu'ont dit les Saints Personnages qui en sont les Auteurs, il a taché d'employer tous leurs sentimens dans sa paraphrase pour témoigner à Dieu nostre respect, nostre reconnoissance &amp; nôtre amour ; &amp; qu'afin d'entrer mieux dans leur pensée, &amp; de justifier, pour ainsi dire, l'usage que l'Eglise fait de ces Pseaumes, il a crû qu'il falloit les traduire &amp; les interpreter de telle sorte, que tous les Chrétiens en peussent faire leurs prieres &amp; leurs meditations ordinaires, sans estre rebutez par l'obscurité des Propheties qu'ils contiennent, par le recit des faits qu'ils décrivent, par la difference des personnes qui y parlent, par la contrarieté apparente des sens qu'ils renferment, par la sublimité de leurs expressions, ou par la simplicité de leurs paroles. Ce Livre est divisé en deux volumes, &amp; se vend chez le Sr Jean Guignard à l'entrée de la grande Salle du Palais, &amp; chez le sieur Jacques Robustel, ruë S. Jacques au Palmier.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

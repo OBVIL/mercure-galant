@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1695-02_236">
+      <div type="article" xml:id="MG-1695-02_236" resp="mercure">
         <head>MG-1695-02_236</head>
         <bibl>Mercure galant, février 1695, p. 236-276</bibl>
         <p>Les Vers appellez Irreguliers ne sont pas du goust de tout le monde, comme vous avez pû le remarquer par un Ouvragé dont je vous ay fait part dans quelqu'une de mes Lettres. Mr de la Fevrerie, Auteur de tant d'excellens Traitez que vous avez lûs dans mes Lettres extraordinaires y a répondu, &amp; vous ne serez pas fâchée de sçavoir ce qu'il en dit.</p>
@@ -78,6 +78,6 @@
         <p>Mais cette raison est frivole, &amp; ne me contente pas ; car la difference du stile ne consiste pas dans le mélange des Vers. Le sublime, le bas, &amp; le mediocre se trouvent dans les Vers libres, comme dans les Vers d'égale mesure ; &amp; pour les Chansons, la veritable raison de cette irregularité, c'est la note &amp; le chant qui y obligent toujours, soit que l'on compose les paroles devant ou aprés la Musique, parce qu'il est certain qu'il n'est presque point d'Air en Vers d'une mesme mesure qui ait un peu d'agrément. Mais enfin, d'où vient que dans les Poëmes il y a des repos ou des Stances, il faut absolument que ces Stances soient d'une même égalité de vers, d'un même nombre, &amp; d'une même étenduë ? Au contraire, il semble qu'un Poëme ainsi coupé, ne doit pas estre si égal &amp; si continu. Il y a plus d'affectation en cela que de regularité, sur tout quand le naturel y doit paroistre tout entier, comme dans les Stances qui servent à exprimer l'amour, qui est une passion si naturelle &amp; si ennemie de toute contrainte ; dont les mouvemens sont si vifs, si promps, si changeans, où tout est si en desordre &amp; si dérangé. Cela choque la vray-semblance ; &amp; si cette maniere n'est pas ridicule, du moins elle ne persuade guere. C'est l'usage, &amp; si cet usage est arbitraire &amp; défectueux, ne sera t-il pas permis de le changer ? C'est ce qu'on a voulu faire dans ce genre de Poësie, qui est libre dans estre irreguliere &amp; licentieuse. [...]</p>
         <p>Les Maistres du Theatre sont donc revenus avec raison à l'ancienne versification, &amp; ont conservé les grands Vers pour les Pieces regulieres, reservant les Vers libres pour les Balets &amp; les Opera ; où à cause de la Musique &amp; du Chant, il quadrent mieux que les autres par la diversité de leurs cadences &amp; de leurs mesures. On s'en sert encore fort à propos dans les Traductions des Comedies Italiennes, ainsi qu'on a fait pour l'Aminte, &amp; le Pastor Fido, qui ont beaucoup plus de grace en Vers libres qu'en grands Vers, parce que les Italiens composent leurs Pieces de Theatre en Vers irreguliers ; &amp; qu'estant remplies de quantité de pensées brillantes &amp; de descriptions fleuries, cette Poesie est plus propre à les exprimer ; mais de tous ceux qui les ont employez pour le Theatre, Mr Quinault en merite le prix, &amp; la gloire. Jamais Poëte n'a mieux manié cette sorte de versification que luy, &amp; Baptiste avoir raison de dire, qu'il estoit le seul qui pût l'accommoder, &amp; qui sçeut aussi bien varier les mesures &amp; les rimes dans la Poësie, qu'il sçavoit varier les tons, &amp; les cadences dans la Musique. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

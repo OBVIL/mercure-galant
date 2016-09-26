@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1683-02_017">
+      <div type="article" xml:id="MG-1683-02_017" resp="mercure">
         <head>MG-1683-02_017</head>
         <bibl>Mercure Galant, Février 1683, p. 17-19, 22</bibl>
         <p>Mission</p>
@@ -60,8 +60,7 @@
         <p/>
         <p>Après cela il fit une exhortation très touchante, entonna le Te Deum, &amp; la Procession estant entrée dans l'Eglise au son des Cloches, il y donna la Bénédiction. [...]</p>
       </div>
-
-<div xml:id="MG-1683-02_043">
+      <div type="article" xml:id="MG-1683-02_043" resp="mercure">
         <head>MG-1683-02_043</head>
         <bibl>Mercure Galant, Février 1683, p. 43-46, 49-51</bibl>
         <p>Feste de Morlaix, appellée Guignamée</p>
@@ -70,8 +69,7 @@
         <p/>
         <p>La Marche ayant commencé cette année par les Quays, Mr Fontblanche, qui a sa Maison à l'entrée fut l'un des premiers qui fit son présent. Il l'accompagna de quantité de Fusées volantes, qui formèrent diverses figures, &amp; toutes très agréables. On alla dans toutes les Ruës avec six chevaux de charge, qu'on vint décharger de temps en temps à l'Hôtel de Ville, où après cinq heures du matin, le Sindic donna la Collation à tout le Cortège. On se rassembla sur le midy dans le mesme Hôtel de Ville, pour y partager cette incroyable quantité de Viandes, entre l'Hôtel-Dieu, l'Hôpital Général, les Capucins, les Récolets, &amp; les autres Religieux. Le soir, le mesme Sindic donna aux Dames le plaisir d'un Bal. Elles y vinrent magnifiquement parées, &amp; après qu'elles eurent dancé une partie de la nuit, on leur servit des Oranges de la Chine &amp; des Confitures sèches avec une profusion extraordinaire.</p>
       </div>
-
-<div xml:id="MG-1683-02_051">
+      <div type="article" xml:id="MG-1683-02_051" resp="mercure">
         <head>MG-1683-02_051</head>
         <bibl>Mercure Galant, Février 1683, p. 51-60</bibl>
         <p>[Festivités organisées pour le mariage de Mr de la Tourrette]</p>
@@ -85,8 +83,7 @@
         <p/>
         <p>Madame de Fernier, faisoit la Profusion ; &amp; Madame la Lieutenante du Chaufour la Mère, faisoit la Joye. Ce qui établit la Félicité du Mariage, servoit de Sujet à la dernière de ces trois Entrées. La Douceur y estoit représentée par Madame la Lieutenante du Chaufour la jeune, la Fidelité conjugale, par Madame Fabrice ; la bonne Intelligence, par Madame de Clairville ; &amp; la Fécondité, par Madame Chausse. Ce Balet fut suivy d'une Collation magnifique, après laquelle on dança jusques au jour.</p>
       </div>
-
-<div xml:id="MG-1683-02_070">
+      <div type="article" xml:id="MG-1683-02_070" resp="mercure">
         <head>MG-1683-02_070</head>
         <bibl>Mercure Galant, Février 1683, p. 70-104</bibl>
         <p>« J'espère, Madame, que je pourray vous entretenir dans peu, de la magnificence des Opéra qu'on a représenté à Venise pendant tout le temps du Carnaval. Les Italiens les font paroistre avec de grands Ornemens &amp; comme ils occupent diférens Théâtres, chacun de ceux qui en prennent soin, tâche de l'emporter, ou par la beauté des Voix, ou par la somptuosité du Spectacle. Si vous avez envie de sçavoir ce qu'on doit penser de ces Opéra à l'égard des nostres, vous en trouverez la diférence dans un excellent Discours qui vient de tomber entre mes mains, &amp; dont voicy la Copie. Il est de l'Homme du monde qui a le goust le plus fin sur toutes choses, &amp; qui sçait rendre le plus de justice au mérite distingué. Vous le connoistrez par l'estime particulière qui'il fait de l'admirable génie de Mr Lully.</p>
@@ -129,8 +126,7 @@
         <p>J'admire Baptiste aussi-bien pour la direction des Dances, qu'en ce qui touche les voix &amp; les Instrumens ; mais la constitution de nos Opéra doit paroistre bien extravagante à ceux qui ont le bon goust du vray semblable, &amp; du merveilleux. Cependant on court hazard de se décrier par le bon goust, si on ose le faire paroistre, &amp; je conseille aux autres, quand on parle devant eux de l'Opéra, de se faire un secret de leurs lumières. Pour moy, qui ay passé l'âge &amp; le temps de me signaler dans le monde par l'esprit des modes, &amp; par le mérite des fantaisies, je me résous de prendre le party du bon sens, tout abandonné qu'il est, &amp; de suivre la raison dans sa disgrâce avec autant de détachement, que si elle avoit encore sa première considération.</p>
         <p>Ce qui me fâche le plus de l'entestement où l'on est pour l'Opéra, c'est qu'il va ruiner la plus belle chose que nous ayons, la plus propre à élever l'âme, &amp; la plus capable de former l'esprit. Concluons après un si long Discours, que la constitution de nos Opéra ne sçauroit guère estre plus défectueuse ; mais il faut avoüer en mesme temps, que personne ne travaillera jamais si bien que Baptiste sur un Sujet mal conceu, &amp; qu'il n'est pas aisé de faire mieux que Quinaut en ce qu'on exige de luy. »</p>
       </div>
-
-<div xml:id="MG-1683-02_253">
+      <div type="article" xml:id="MG-1683-02_253" resp="mercure">
         <head>MG-1683-02_253</head>
         <bibl>Mercure Galant, Février 1683, p. 253-254</bibl>
         <p>« Je vous envoye un fort joly Madrigal de Mr Quinaut. Il a fait icy beaucoup de bruit, &amp; vous estes de trop bon goust pour ne le pas lire avec plaisir. Le sujet s'explique assez luy-mesme. C'est ce qui m'empesche de vous en rien dire.</p>
@@ -152,6 +148,6 @@
         <p>O Ciel, peut-on jamais avoir</p>
         <p>Opéra plus fâcheux à faire ? »</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,19 +51,18 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1699-05_090">
+      <div type="article" xml:id="MG-1699-05_090" resp="mercure">
         <head>MG-1699-05_090</head>
         <bibl>Mercure galant, mai 1699, p. 90</bibl>
         <p>Suite du Journal concernant l'Ambassadeur de Maroc.</p>
         <p/>
         <p>Deux jours aprés, il [l'ambassadeur] alla voir l'Opera d'Amadis de Grece, &amp; parut étonné d'avoir toujours vû des choses qui l'avoient enchanté toutes les fois qu'on l'avoit mené à l'Opera.</p>
       </div>
-
-<div xml:id="MG-1699-05_260">
+      <div type="article" xml:id="MG-1699-05_260" resp="mercure">
         <head>MG-1699-05_260</head>
         <bibl>Mercure galant, mai 1699, p. 260-261</bibl>
         <p>On vient de donner au Public un recueïl d'Airs spirituels &amp; nouveaux à une, deux, &amp; trois parties ; composez dans le goust des Airs de l'Opera. Cet ouvrage est dedié à Mr l'Archevesque de Paris. L'Auteur donnera au commencement de chaque mois un Recüeil semblable, &amp; dans chacun, il y aura deux Airs choisis des Opera anciens &amp; nouveaux, sur des paroles de devotion. Ce recüeil se vend chez Claude Roussel, Graveur, ruë S. Jacques au Lion d'argent, prés les Mathurins.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

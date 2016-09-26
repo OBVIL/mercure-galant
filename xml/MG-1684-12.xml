@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-12_136">
+      <div type="article" xml:id="MG-1684-12_136" resp="mercure">
         <head>MG-1684-12_136</head>
         <bibl>Mercure galant, décembre 1684, p. 136, 138-139, 150-154, 158-173, 168-174, 180-181</bibl>
         <p>Détails des Cerémonies faites au Mariage de Mad. La Princesse de Hanover</p>
@@ -70,8 +70,7 @@
         <p/>
         <p>[...] j'ajoûteray le Portrait de Madame la Princesse de Hanover, Fille de Mr le Duc de Zell. [...] Elle dance parfaitement bien, jouë du Clavessin, &amp; chante de mesme. [...]</p>
       </div>
-
-<div xml:id="MG-1684-12_201">
+      <div type="article" xml:id="MG-1684-12_201" resp="mercure">
         <head>MG-1684-12_201</head>
         <bibl>Mercure galant, décembre 1684, p. 201-203, 210-213</bibl>
         <p>Mariage de Mr le Marquis de La Fare, &amp; de Mademoiselle de Vantelet</p>
@@ -80,22 +79,20 @@
         <p/>
         <p>Je viens à Mademoiselle de Vantelet, présentement Marquise de la Fare. Mais, Madame, que vous en diray-je, ou plutost que ne vous en diray-je pas ? Jamais aucune personne dans un âge si peu avancé, n'est entrée au monde avec une estime &amp; une approbation si genérale. [...] Elle sçait l'Italien, jouë fort bien du Clavessin, &amp; dance parfaitement, &amp; avec une grace merveilleuse. [...] Ceux qui la connoissent un peu particuliérement, luy trouvent une finesse d'esprit que l'on auroit peine à croire, de délicatesse de sentimens dont rien n'approche, &amp; une sagesse dans sa conduite qui dément son âge. [...]</p>
       </div>
-
-<div xml:id="MG-1684-12_228">
+      <div type="article" xml:id="MG-1684-12_228" resp="mercure">
         <head>MG-1684-12_228</head>
         <bibl>Mercure galant, décembre 1684, p. 228-234</bibl>
         <p>Prise-de-Possession de l'Abbaïe de Vauluisant pour l'Abbé le Tellier</p>
         <p/>
         <p>Le Vendredy 24. du dernier mois, Mr Boileau, Docteur de la Faculté &amp; Societé de Sorbonne, Doyen de l'Eglise Métropolitaine de Sens, assisté de Mr Vezou, Lieutenant Genéral de la mesme Ville, de Mr Jamard, Avocat au Parlement, &amp; de plusieurs Gentilshommes ; prit possession de l'Abbaïe de Nostre-Dame de Vauluisant, Diocese de Sens, pour Mr l'Abbé le Tellier, Fils de Mr le Marquis de Louvoys, Ministre d'Etat, pourvû par Sa Majesté de cette Abbaïe. Jamais Prise-de-possession n'avoit esté si solemnelle &amp; si magnifique, tous les Religieux de cette grande Abbaïe, l'une des plus belles de l'Ordre de S. Bernard, ayant voulu témoigner leur joye, d'avoir un Abbé d'un si grand nom. Le Pere Prieur estant averty de l'arrivée de Mr Boileau, alla en ses Habits de Cerémonie, le recevoit dans la Basse-Court, à la descente du Carrosse, &amp; le mena au pied du Grand Autel de l'Eglise, qui est tres-superbe. Toute la Communauté s'y estant rendüe, Mr Boileau, avec ceux qui l'accompagnoient, furent conduits à la grande Porte, où un Notaire Apostolique luy présenta les Bulles obtenües pour cette Abbaïe, &amp; la Procuration de Mr l'Abbé le Tellier, apres quoy le Pere Prieur s'estant avancé ; suivy de tous ses Religieux, Mr Boileau leur fit un petit Discours sur l'avantage qu'il avoit d'estre chargé de la Procuration de Mr leur Abbé, qui ne feroit pas moins d'honneur à leur Maison, que Mr le Chancelier son Ayeül, &amp; Mr de Louvoys son Pere, en faisoient à toute la France. Vous serez aisément persuadée qu'il ne dit rien qui ne fust remply d'esprit, si vous songez qu'il est Frere de Mr Despreaux, dont la réputation est si connüe. Le Pere Prieur, répondit pour toute la Communauté, [...] Le Notaire Apostolique ayant repris la Procuration &amp; les Bulles, présenta de l'Eau Beniste à Mr Boisleau, que l'on conduisit au grand Autel qu'il baisa. Ensuite il alla sonner la grosse Cloche, &amp; fut instalé dans toutes les Places de Mr l'Abbé. Il se mit à genoux dans la derniere, &amp; on chanta le Veni Creator, &amp; le Te Deum avec l'Orgue, &amp; au son de toutes les Cloches, ce qui fut suivy des Prieres pour le Roy. Cela fait, le Notaire Apostolique fit la lecture des Bulles &amp; de la Procuration, &amp; déclara à haute &amp; intelligible voix, qu'il installoit &amp; mettoit en possession de l'Abbaye de Nostre-Dame de Vauluisant, Messire Jacques Boisleau, pour &amp; au nom de Messire Camille le Tellier. La Cerémonie se termina par un Disné magnifique, que le Pere Prieur donna à Mr Boisleau, à Mr Vezou, Lieutenant Genéral, &amp; à plusieurs Gentilshommes, qui estoient venus de toutes parts pour en estre les témoins.</p>
       </div>
-
-<div xml:id="MG-1684-12_317">
+      <div type="article" xml:id="MG-1684-12_317" resp="mercure">
         <head>MG-1684-12_317</head>
         <bibl>Mercure galant, décembre 1684, p. 317-318</bibl>
         <p>Livres Nouveaux</p>
         <p/>
         <p>Le choix que le Roy a fait de Roland pour le sujet du nouvel Opéra que Mr de Lully prépare, a inspiré à Mademoiselle Girault le dessein de mettre l'Arioste dans un jour qui laisse voir tout ce qu'il a d'agreable, sans en découvrir les endroits trop libres. Ainsi puis que cet Opéra qu'on attend, va faire entrer l'Arioste dans le commerce du grand monde, il ne faut pas qu'il y paroisse en vieux Libertin ; il effaroucheroit les Dames, au lieu de les divertir. C'est ce qui a obligé Mademoiselle Girault d'adoucir ce qui luy a paru de trop outré, en conservant neanmoins le sens de l'Autheur, autant que la bienséance l'a pû permettre. Cette spirituelle Personne a crû aussi qu'on pouvoit suprimer les choses Saintes, &amp; leur donner un autre tour, ne les trouvant pas bien placées dans un Ouvrage d'un caractere si libre. Elle a retranché quelques endroits languissans &amp; ennuyeux, l'Arioste ayant dans sa Langue naturelle certaines beautez, qui passeroient dans la nostre pour de grands defauts. Cette nouvelle Traduction de Roland le furieux, que vos Amies seront peut-estre bien aises de voir, à l'occasion de l'Opéra, se trouve chez le Sr Guignard, à l'entrée de la grande Salle du Palais, à l'Image Saint Jean. [...]</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

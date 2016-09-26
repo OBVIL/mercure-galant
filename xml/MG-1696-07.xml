@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1696-07_038">
+      <div type="article" xml:id="MG-1696-07_038" resp="mercure">
         <head>MG-1696-07_038</head>
         <bibl>Mercure galant, juillet 1696, p. 38-64</bibl>
         <p>Reception de M. l'Evêque de Chalons</p>
@@ -61,8 +61,7 @@
         <p>Ce Prelat répondit fort doctement &amp; avec une grace qui fit sentir dans le coeur de tous ceux qui l'écoutérent, des mouvemens secrets d'estime &amp; d'inclination, en mesme temps qu'elle imprimoit un profond respect. Aprés cela il fut introduit &amp; installé par Mr le Doyen à la teste du Chapitre, dans la forme que l'on a coûtume d'observer en de pareilles occasions ; ensuite de quoy il entonna le Te Deum, qui fut chanté par la Musique. Il fut conduit dans son Palais Episcopal, par le Chapitre, au nom duquel Mr le Doyen luy fit encore un compliment. Il y reçut aussi ceux de tous les Corps de la Ville, de Mr de Vaugency, Lieutenant General du Presidial à la teste de sa Compagnie ; de Mr du Sorton, President des Tresoriers de France, de Messieurs les Elûs, de Mr de Letrées à la teste des Echevins &amp; Conseillers de la Ville. [...]</p>
         <p>Le 19. du même mois, Mr l'Evêque de Châlons alla au College des Jesuites, où il assista à la representation d'une Piece de Theatre, que l'on avoit préparée pour marquer la joye que toute la Ville ressentoit de ce que le Roy luy avoit donné la conduite de ce Diocese. Cette Piece estoit divisée en trois parties, avec autant de Concerts de Musique que l'on y avoit entremeslez. Le premier de ces Concerts exprimoit les regrets de plusieurs Bergers, sur l'absence d'un Sacificateur [sic] qu'on leur avoit enlevé. Le second faisoit parler ces mêmes Bergers à l'Echo, qui leur répondoit favorablement, &amp; le troisième estoit un Dialogue entre eux &amp; le Dieu Pan, qui leur accordoit un Protecteur. La Musique &amp; les Simphonies estoient de la composition de Mr Bouteiller, Parisien, Maistre de Musique de la Cathedrale de Chalons. Plusieurs Devises servoient à la décoration du Theatre, &amp; elles estoient disposées sur les deux faces. Dans l'une estoient celles qui regardoient les personnes de la Maison de Noailles les plus distinguées par leurs Dignitez Ecclesiastiques.</p>
       </div>
-
-<div xml:id="MG-1696-07_107">
+      <div type="article" xml:id="MG-1696-07_107" resp="mercure">
         <head>MG-1696-07_107</head>
         <bibl>Mercure galant, juillet 1696, p. 107-117</bibl>
         <p>Ceremonie faite en Sorbonne</p>
@@ -70,14 +69,13 @@
         <p>Le 28. du mois passé, jour de l'Octave de la Feste-Dieu, Mr l'Archevesque de Paris, Docteur de Sorbonne, porta le Saint Sacrement à la Procession de Sorbonne, qui ne se fait tous les ans que ce jour-là de l'octave, sans qu'elle se fasse le premier jour de la Feste. Comme c'est un usage étably depuis longtemps, que les Archeveques de Paris fassent cette fonction la premiere année qu'ils sont Archevesques, ce Prelat avoit esté invité à la faire par une députation de huit Docteurs. Ainsi ce jour-là, il se rendit dans l'Eglise de Sorbonne à six heures &amp; demie du matin, en habit &amp; en camail violet. Estant passé dans la Sacristie, il s'y revestit de ses habits Pontificaux, &amp; il en sortit pour commencer la grand'Messe. On devoit faire la Procession auparavant, mais le mauvais temps empescha que l'on ne sortist à l'heure marquée, &amp; Mr l'Archevêque la celebra pontificalement, ayant pour Diacre, &amp; Soudiacre, deux des plus anciens Docteurs. [description de la procession, précision des noms et fonctions]</p>
         <p>[...] La Procession passa devant le College de Harcourt, où il y avoit une grande Symphonie, &amp; mesme un concert de Trompettes. Il y en avoit aussi un magnifique au College du Plessis. Le zele &amp; l'air modeste de Mr l'Archevesque, qui ne manque point de se trouver à toutes les actions de pieté où il peut assister, quelque penibles qu'elles puissent estre, édifierent beaucoup en cette Procession, laquelle estant rentrée dans l'Eglise, ce Prelat donna la Benediction du S. Sacrement, &amp; chacun se retira.</p>
       </div>
-
-<div xml:id="MG-1696-07_283">
+      <div type="article" xml:id="MG-1696-07_283" resp="mercure">
         <head>MG-1696-07_283</head>
         <bibl>Mercure galant, juillet 1696, p. 283-284</bibl>
         <p>[Autre article de morts.]</p>
         <p/>
         <p>Michel Lambert, Maistre de la Musique de la chambre du Roy, dont les Airs &amp; les compositions sont recherchées avec tant d'empressement. Mademoiselle Lambert, sa fille unique, avoit épousé le fameux Baptiste Lully, Secretaire &amp; Surintendant de la Musique de S. M. Le Roy en donnant sa place à Mr Collasse, Maistre de la Musique de la Chapelle, a dit qu'il la lui donnoit comme au meilleur Musicien qu'il pust choisir. Il y a deux Maistres de Musique de la Chapelle. C'est Mr de la Lande qui a l'autre place.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

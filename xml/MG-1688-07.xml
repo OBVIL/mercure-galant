@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1688-07_011">
+      <div type="article" xml:id="MG-1688-07_011" resp="mercure">
         <head>MG-1688-07_011</head>
         <bibl>Mercure galant, juillet 1688, p. 11-19</bibl>
         <p>Discours qui fait voir le merite enfermé dans le titre de Grand.</p>
         <p/>
         <p>Jamais on n'a mieux marqué le merite que renferme ce titre de Grand, que fit Mr Corbet, Bachelier de Sorbonne &amp; Curé d'Erennes, dans une Feste qui fut celebrée le jour de S. Yves, par les soins de M. de S. Gervais, Procureur du Roy de la Ville de Falaise en Normandie. Il y avoit convié toute la Noblesse, &amp; tout ce qui se trouva de Personnes considerables aux environs. Toute la Justice y assista en robes, au nombre de soixante ou quatre-vingt, tant Officiers qu'Avocats, avec plus de cent Ecclesiastiques. La Ceremonie se fit dans l'Eglise de la Trinité, où l'on entendit une fort bonne Musique. Mr Corbet estant monté en Chaire, prit pour texte ces paroles de la Genese, Faisons l'Homme à nostre image &amp; ressemblance, [...]. [Suit le détail du discours.] Après que cette Ceremonie fut achevée, Mr le Procureur du Roy conduisit tout le Corps de Justice dans un appartement tendu de bleu parsemé de Fleurs de lys, où l'on servit un repas avec autant de magnificence que de propreté. Madame de Saint Gervais sa Femme, regala de son costé toutes les Dames chez elle, &amp; l'on n'entendit de toutes parts que des Violons meslez de cris de Vive le Roy.</p>
       </div>
-
-<div xml:id="MG-1688-07_033">
+      <div type="article" xml:id="MG-1688-07_033" resp="mercure">
         <head>MG-1688-07_033</head>
         <bibl>Mercure galant, juillet 1688, p. 33-65</bibl>
         <p>Description de la Feste de Livry.</p>
@@ -150,8 +149,7 @@
         <p>Ce divertissement qui parut tres bien imaginé, donna beaucoup de plaisir, &amp; on écouta la Musique avec grande attention, parce que le temps estoit si beau, qu'il sembloit avoir contribué à la Feste. L'Assemblée estoit choisie, &amp; n'estant point trop nombreuse, il n'y eut personne incommodé, quoy qu'on le soit fort souvent dans les divertissemens de cette nature, qui font presque toûjours essuyer plus de fatigue qu'on n'y goûte de plaisir.</p>
         <p>Toute la Compagnie s'estant levée, Monseigneur retourna par la mesme allée où estoit le Theatre, &amp; marcha au milieu de ce beau tapis de gazon, dont je vous ay déjà parlé, &amp; qu'on avoit bordé d'Orangers. [Le prince est conduit vers une allée illuminée jusqu'à une table dressée pour le dîner.] Tandis que Monseigneur estoit à table, &amp; que ses yeux estoient occupez par des palissades, &amp; par des morceaux d'architecture formez de lumieres, son odorat par les Fleurs qui remplissoient le lieu où il estoit, son goust par les mets qu'on luy servoit, tous ceux dont l'Orchestre avoit esté remply pendant la Comedie, ayant passé par un chemin plus court que celuy qu'on avoit fait prendre à Monseigneur, pour luy faire voir l'Illumination de l'Allée des Chevrefeüils, se trouverent placez avec tous leurs Instrumens, derriere la Table de ce Prince, lorsqu'il arriva pour souper. Ainsi il y eut pendant ce repas de quoy satisfaire en mesme temps, l'oüye, l'odorat, la veuë &amp; le goust. Mr de Livry avoit donné ordre qu'on servist des tables pour tous ceux qui surviendroient &amp; qui n'estoient pas attendus à cette Feste. On en servit aussi plusieurs pour tous ceux qui avoient esté employez dans le divertissement, &amp; il y en eut qui furent remplies de soixante personnes. Monseigneur alla encore à la Chasse le lendemain aux environs de Livry, &amp; revint disner dans le Chasteau, d'où il partit extrémement satisfait du divertissement que M. le Marquis de Livry luy avoit donné, après l'en avoir remercié avec cet air de bonté qui luy est ordinaire. Aussi peut-on dire qu'il ne manquoit rien à cette Feste. Elle estoit galante, magnifique, &amp; bien entenduë. Tout ce qui avoit esté projetté fut exécuté dans le temps, rien ne fit attendre, il n'y eut point de confusion, &amp; il parut que tout répondoit au zele de Mr de Livry, &amp; aux soins de Mr Berrin, Dessinateur ordinaire du Cabinet de Sa Majesté. Comme il a l'esprit fecond, il a beaucoup inventé pour cette Feste, ce qui n'est pas surprenant, puis qu'il nous a souvent fait voir de grandes choses en de pareilles occasions. Quelques jours après, la Comedie, le Prologue, &amp; les Intermedes qui avoient esté representez à Livry, servirent de divertissement à Marly, ce qui marque le plaisir qu'il avoit donné la premiere fois, puis qu'il ne fut demandé que sur le bien qu'en avoient dit ceux qui s'estoient trouvez à cette Feste.</p>
       </div>
-
-<div xml:id="MG-1688-07_183">
+      <div type="article" xml:id="MG-1688-07_183" resp="mercure">
         <head>MG-1688-07_183</head>
         <bibl>Mercure galant, juillet 1688, p. 183-201</bibl>
         <p>Ce qui s'est passé en Angleterre à la Naissance du Prince de Galles, &amp; les réjoüissances faites à Paris, &amp; en plusieurs Villes de France sur ce sujet.</p>
@@ -164,8 +162,7 @@
         <p>Le jour précedent, Mr Gorman, Superieur du Seminaire de Sainte Anne la Royale des Irlandois de la Ville de Bordeaux, avoit fait une grande Feste, pour rendre graces à Dieu de cette mesme naissance. Mr d'Allaire, Grand-Vicaire de la Cathedrale, celebra la grand'Messe, &amp; le Te Deum fut chanté ensuite par une tres-bonne Musique, au bruit de plusieurs salves de Canon. [...]</p>
         <p>Ce mesme jour, Mrs Patrice Lambert, &amp; Patrice Deans, Irlandois, marquerent leur joye par une grande Messe qu'ils firent chanter à Saint Malo dans l'Eglise de S. Servan, après quoy ils donnerent un grand regale à bord de la Fregate nommée, le Marchand. [...]</p>
       </div>
-
-<div xml:id="MG-1688-07_247">
+      <div type="article" xml:id="MG-1688-07_247" resp="mercure">
         <head>MG-1688-07_247</head>
         <bibl>Mercure galant, juillet 1688, p. 247-283</bibl>
         <p>Tout ce qui s'est passé au Mariage de Monsieur le Prince de Conty.</p>
@@ -492,8 +489,7 @@
         <p>Le Choeur repeta les deux derniers Vers, comme il en avoit repeté plusieurs autres en divers endroits que j'ay cru inutile de vous marquer.</p>
         <p>Ce divertissement estant finy, Monseigneur traversa le mesme Appartement par lequel il avoit déjà passé. [...]</p>
       </div>
-
-<div xml:id="MG-1688-07_301">
+      <div type="article" xml:id="MG-1688-07_301" resp="mercure">
         <head>MG-1688-07_301</head>
         <bibl>Mercure galant, juillet 1688, p. 301-319</bibl>
         <p>Autre article touchant les réjoüissances faites à Paris, pour la naissance du Prince de Galles.</p>
@@ -501,20 +497,18 @@
         <p>Quoy que vous ayez déjà veu dans cette Lettre un long article touchant la naissance du Prince de Galles, &amp; les réjoüissances qu'elle a fait faire en divers endroits, je dois vous donner icy une continuation de ce mesme article, dont je n'avois pas les particularitez lors que je l'ay commencé. Mr Skelton, au retour des Audiences qu'il eut à Versailles, donna les premieres marques de sa joye, en traitant tous les Anglois de qualité qui estoient à Paris, &amp; resolut de faire un Feu d'artifice afin que le Public y pust prendre part. Comme il sçavoit bien que toutes les Festes considerables qui se font en France estoient de l'invention de Mr Berrin, il le pria d'avoir soin de la Decoration de ce Feu, &amp; ne luy donna que fort peu de temps pour y faire travailler, quoy qu'il souhaitast quelque chose qui répondist à la grandeur de son zele. Le jour qu'il regala le Public de ce spectacle, il le fit annoncer dés six heures du matin, par un grand nombre de Boëtes. Elles recommencerent sur le midy, &amp; le Peuple en fut plus particulierement informé par deux Fontaines de vin qui coulerent ce jour là, &amp; pendant une grande partie de la nuit devant l'Hôtel de M. l'Envoyé. Un peu avant qu'on tirast le Feu, il fit servir une magnifique Collation aux Ministres des Princes Etrangers, à plusieurs Dames de qualité Angloises &amp; Françoises, &amp; generalement à tous ceux qui avoient esté conviez, dont le nombre montoit à prés de deux cens personnes. Tout estant prest pour tirer le feu, Mr Skelton qui demeure proche de l'Hostel de Conty, sçachant que Madame la Princesse de Conty y estoit avec Madame la Princesse, &amp; Madame la Duchesse, en usa d'une maniere fort honneste &amp; fort galante. Il leur envoya Mr Lochemont, son Ecuyer, pour sçavoir d'elles quand elles vouloient que l'on commençast à allumer. Elles répondirent fort obligemment à cette honnesteté dont elles le remercierent, &amp; dirent que puis qu'il vouloit bien avoir cette déference, elles luy demandoient encore une demy-heure. Pendant ce temps le Peuple qui remplissoit la Place où le Feu estoit dressé, se divertissoit à voir l'Illumination du Logis de Mr Skelton, ainsi qu'à entendre les Hautbois, les Timbales, &amp; les Trompettes. La demy-heure que les Princesses avoient demandée s'estant écoulée, on alluma, non pas l'Artifice suivant ce qui s'est toujours pratiqué, mais les lumieres dont l'architecture de cet édifice estoit toute profilée, de sorte que longtemps avant que l'Artifice joüast, cet édifice parut tout brillant, &amp; tout couvert d'un nombre infiny de lumieres, sans pourtant qu'aucun membre de l'architecture en fust caché. [...]</p>
         <p>Je vous envoye une Estampe du Feu, que j'ay fait graver beaucoup plus exacte &amp; mieux travaillée, que celle qui courut parmy le Peuple le jour du Spectacle. Lors qu'il fut finy, Mr Skelton fit continuer l'Illumination &amp; les Fontaines de vin tout le reste de la nuit, &amp; partit de Paris, avec tous ceux qu'il avoit conviez, pour se rendre au Chasteau de Montrouge. On y servi un magnifique Soupé sur quatre tables de quarante couverts chacune. Les plats furent portez par cent Suisses, au son des Violons &amp; des Hautbois, ausquels répondoient les Timbales, &amp; les Trompettes. Il y avoit cent Boëtes dans le Jardin. On en fit plusieurs décharges lors que l'on but la santé des deux Rois, &amp; des Maisons Royales. Toute la court du Chasteau estoit illuminée, &amp; il y avoit au milieu une piramide de lumieres, où estoient representées les Armes d'Angleterre, d'Ecosse, &amp; d'Irlande. [...] Cette grande Feste se termina par un Bal qui dura jusques à cinq heures du matin. Le soir suivant, Mr l'Envoyé regala plusieurs autres personnes qui n'avoient pu avoir place à ce grand repas, ce qui se fit encore avec beaucoup de magnificence, &amp; au bruit des Boëtes &amp; de plusieurs Instrumens. [...]</p>
       </div>
-
-<div xml:id="MG-1688-07_322">
+      <div type="article" xml:id="MG-1688-07_322" resp="mercure">
         <head>MG-1688-07_322</head>
         <bibl>Mercure galant, juillet 1688, p. 322-323</bibl>
         <p>Livres de Musique de M. Martin.</p>
         <p/>
         <p>Depuis qu'on imprime la Musique, personne ne s'estoit encore avisé de faire imprimer des Airs serieux &amp; Bachiques à deux ou trois Parties, mêlées de simphonies &amp; d'accompagnemens, de maniere qu'on puisse jouër tout un Livre de suite, sans trouver deux Airs d'une mesme modulation. C'est ce que vient de faire M. Martin, qui a donné au Public un Livre qu'il a composé exprés pour former un petit concert. Chaque récit ou Trio chantant est precedé d'une petite simphonie, comme Ouvertures, Chaconnes, Rondeaux, &amp; autres petites Pieces de caprice, propres pour les Violons &amp; pour les Flûtes avec des accompagnemens dans tous les Recits, &amp; afin de faciliter le concert, il les a fait imprimer en quatre Parties, &amp; a joint à la Basse continuë tous les Recits chantans en partition, pour plaire aux personnes qui peuvent s'accompagner elles-mesmes du Clavessin, du Theorbe, ou de la Basse de Viole. Ces Livres se debitent chez le Sieur Guerout. Court-neuve du Palais.</p>
       </div>
-
-<div xml:id="MG-1688-07_330">
+      <div type="article" xml:id="MG-1688-07_330" resp="mercure">
         <head>MG-1688-07_330</head>
         <bibl>Mercure galant, juillet 1688, p. 330-331</bibl>
         <p>Ces paroles &amp; cet Air [cf. MG-1688.07.02] sont du fameux M. de Bacilly, qui a fait graver depuis peu ses Airs Spirituels tout autrement qu'ils n'estoient, non seulement pour la graveure, mais pour quantité de changemens &amp; d'augmentations, dont il est parlé dans un discours qui est à la fin du Livre. Entre les Airs nouvellement ajoûtez, il y a un Recitatif à la maniere des Scenes des Opera. Quant aux Airs qui ont paru dans les Editions precedentes, ils sont tellement changez, tant pour les premiers que pour les seconds couplets qu'ils ne sont presque pas reconnoissables. Il n'y a point à douter qu'ils ne soient receus favorablement par tout, &amp; mesme dans les Monasteres de Religieuses, puis que le nom de M. l'Archevesque de Paris à qui ils sont dediez, leur y donnera l'entrée. Ce Livre se vend chez le Sieur Guerout, Cour-neuve du Palais.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

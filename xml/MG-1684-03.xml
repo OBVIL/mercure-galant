@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1684-03_078">
+      <div type="article" xml:id="MG-1684-03_078" resp="mercure">
         <head>MG-1684-03_078</head>
         <bibl>Mercure galant, mars 1684, p. 78-79</bibl>
         <p>Explication des Alliances Symboliques de Mr le Duc de S. Aignan</p>
         <p/>
         <p>[...] Il seroit difficile de trouver un esprit plus grand, plus heureux, &amp; plus étendu que celuy de Mr de S. Aignan, qui a paru tant de fois dans l'Académie Françoise, depuis l'année 1663. qu'il a esté reçeu dans cet illustre Corps. La Protection de l'Académie Royale d'Arles ; l'Invention de mille Divertissements spirituels, &amp; des Plaisirs de l'Isle Enchantée, rendront sa mémoire immortelle dans les Siecles à venir. [...]</p>
       </div>
-
-<div xml:id="MG-1684-03_186">
+      <div type="article" xml:id="MG-1684-03_186" resp="mercure">
         <head>MG-1684-03_186</head>
         <bibl>Mercure galant, mars 1684, p. 186-187, 191, 196</bibl>
         <p>Almanach Galant</p>
@@ -83,8 +82,7 @@
         <p/>
         <p>Ces Vers composent une Chanson qui est notée sur un feüillet séparé. [...]</p>
       </div>
-
-<div xml:id="MG-1684-03_218">
+      <div type="article" xml:id="MG-1684-03_218" resp="mercure">
         <head>MG-1684-03_218</head>
         <bibl>Mercure galant, mars 1684, p. 218-219, 220-223, 225</bibl>
         <p>Cérémonie faite à Grenoble</p>
@@ -95,14 +93,13 @@
         <p/>
         <p>Sur les huit heures du soir, Mr le Clerc, l'un des Capitaines de la Ville, voulant donner des marques de son affection envers l'Ordre, fit entendre quantité d'Instrumens, qui meslérent une fort agreable mélodie aux Feux d'artifice, dont l'air parut tout remply.</p>
       </div>
-
-<div xml:id="MG-1684-03_343">
+      <div type="article" xml:id="MG-1684-03_343" resp="mercure">
         <head>MG-1684-03_343</head>
         <bibl>Mercure galant, mars 1684, p. 343</bibl>
         <p>Procession nommée de la Réduction de Paris</p>
         <p/>
         <p>La Procession de la Reduction de Paris à l'obeïssance de Henry IV se fit icy le Mercredy 12. de ce mois, de l'Eglise Nostre-Dame à celle des grands Augustins, où le Parlement, la Chambre des Comptes, la Cour des Aydes, &amp; les Prevosts &amp; Echevins de la ville se trouverent, &amp; assistérent à la Messe que celébra Mr l'Abbé de la Motte, Archidiacre de Paris. Elle fut chantée par la Musique de la Cathédrale.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

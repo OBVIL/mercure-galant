@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1697-03_164">
+      <div type="article" xml:id="MG-1697-03_164" resp="mercure">
         <head>MG-1697-03_164</head>
         <bibl>Mercure galant, mars 1697, p. 164-167</bibl>
         <p>Airs de Mr de Gilliers.</p>
         <p/>
         <p>Mr Gillier, Ordinaire de la Musique de Monsieur, s'est enfin déterminé à donner ses Ouvrages au public, qui les souhaite depuis long-temps. Il a commencé par un Livre d'Airs &amp; de Simphonies avec les Basses continuës, qu'il a fait graver tres proprement, &amp; qu'il a dédié à Monsieur le Duc de Chartres. Il a pris soin d'y marquer les agrémens, &amp; il a disposé les pieces de maniere à pouvoir en faire commodement de petits Concerts de chambre. Ce recueil se vend chez l'Auteur, ruë de Berry au Marais, prés le petit Marché, &amp; chez le Sieur Foucaut, Marchand, ruë Saint Honoré, à la Regle d'or, prés le Cimetiere de Saint Innocent. Il sera suivi d'autres Recueils de differens caracteres, comme Motets, Leçons de Tenebres, Concerts détachez, &amp; Airs à boire, à voix seule &amp; à deux &amp; trois parties, mélez de simphonies. Le nom de Mr Gillier fait son éloge. On sçait combien il excelle en son art par l'harmonie &amp; la modulation naturelle de ses chants, par les accompagnements expressifs &amp; recherchez, &amp; par la belle metode, qui imite d'aussi prés qu'il se peut, celle de l'incomparable Lambert, sous lequel il a esté élevé Page de la Musique de la Chambre du Roy.</p>
       </div>
-
-<div xml:id="MG-1697-03_176">
+      <div type="article" xml:id="MG-1697-03_176" resp="mercure">
         <head>MG-1697-03_176</head>
         <bibl>Mercure galant, mars 1697, p. 176-179</bibl>
         <p>Voicy des Vers qui ont esté mis en air par un habile homme. Ils sont de Mr Dader de Toulouse, &amp; ils ont esté faits sur l'arrivée de Madame la Princesse de Savoye en France. Je vous envoye un quatrain noté, qui vous servira à chanter les autres.</p>
@@ -118,20 +117,18 @@
         <p>Quand j'auray pris haleine,</p>
         <p>Je m'en vais concerter.</p>
       </div>
-
-<div xml:id="MG-1697-03_188">
+      <div type="article" xml:id="MG-1697-03_188" resp="mercure">
         <head>MG-1697-03_188</head>
         <bibl>Mercure galant, mars 1697, p. 188-209</bibl>
         <p>Histoire.</p>
         <p/>
         <p>De quoy n'est-on point capable quand on aime veritablement ? Une jeune Demoiselle, plus touchante par les agrémens de sa personne, que par l'exacte regularité de ses traits, mais vive, &amp; d'un enjouëment qui faisoit plaisir à tout le monde, estoit recherchée dans tout son quartier, &amp; les societez les plus agreables paroissoient manquer de quelque chose quand on ne l'y voyoit pas. Elle avoit beaucoup de grace à toucher le Clavessin ; elle chantoit avec assez de metode, &amp; la penetration de son esprit qu'on ne pouvoit assez admirer, faisoit que la conversation ne languissoit jamais avec elle. [...] On luy apprit quelques airs nouveaux qui estoient fort à la mode. Elle les chantoit avec plaisir aussitost qu'on l'en prioit, &amp; en les chantant elle faisoit voir les plus belles dents de monde &amp; les mieux rangées. Si l'on applaudissoit à sa voix, on se récrioit  sur la beauté de ses dents, &amp; les loüanges qu'elle recevoit de ce côté là, luy estoient fort agreables. [...]</p>
       </div>
-
-<div xml:id="MG-1697-03_221">
+      <div type="article" xml:id="MG-1697-03_221" resp="mercure">
         <head>MG-1697-03_221</head>
         <bibl>Mercure galant, mars 1697, p. 221-223</bibl>
         <p>Mr Morant, premier President du Parlement de Toulouse, y arriva vers les derniers jours de Janvier. Quoy qu'on ne fasse à ces premiers Magistrats qu'une entrée de devoir la premiere fois qu'ils viennent prendre possession de leurs Charges, on luy en fit une d'inclination à ce dernier retour de Paris. Toutes les personnes de distinction allérent au-devant de luy avec leurs carrosses ou à cheval. Le Peuple y accourut en foule. Des Compagnies Bourgeoises se mirent sous les armes, avec des tambours, fiffres, &amp; haut-bois, &amp; lors qu'il entra ce furent des cris de joye de tout le Peuple. Comme il estoit tard, on mit des flambeaux aux fenestres, pour mieux marquer le plaisir que l'on se faisoit de son retour dans toute la Ville.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

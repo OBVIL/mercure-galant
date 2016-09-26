@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1698-07_085">
+      <div type="article" xml:id="MG-1698-07_085" resp="mercure">
         <head>MG-1698-07_085</head>
         <bibl>Mercure galant, juillet 1698, p. 85-87</bibl>
         <p>Feste solemnisée à Grenoble.</p>
         <p/>
         <p>La solemnité de le Canonisation de Saint Jean de Dieu, Fondateur de l'Ordre de la Charité, a esté faite à Grenoble avec beaucoup de magnificence. Elle commença le Dimanche huitiéme du mois passé, &amp; elle dura huit jours. [...] L'Etendart où estoit representé le Saint ayant esté beni dans la Cathedrale par Mr le Cardinal le Camus, on fit la Procession generale, où son Eminence assista. Tous les Corps Religieux s'y trouverent, &amp; pendant huit jours ce fut un concours surprenant de peuple que la devotion attiroit de tous costez. Huit differens Predicateurs firent l'Eloge du Saint, &amp; Mr le Cardinal, qui fit l'ouverture, se distingua à son ordinaire par son éloquence &amp; par son sçavoir. Tous les jours aux Offices divins une agréable Symphonie de Violons se faisoit entendre ; &amp; au Salut on tiroit du Canon à differentes reprises. [...]</p>
       </div>
-
-<div xml:id="MG-1698-07_196">
+      <div type="article" xml:id="MG-1698-07_196" resp="mercure">
         <head>MG-1698-07_196</head>
         <bibl>Mercure galant, juillet 1698, p. 196-212</bibl>
         <p>Relation de ce qui s'est passé à l'entrée de Mr l'Evesque de Chartres [sic pour Blois].</p>
@@ -68,6 +67,6 @@
         <p>Depuis l'Entrée de la Ville jusqu'à l'Eglise paroissiale de Saint Solemne, destinée pour estre la Cathedrale, toute la Bourgeoisie en armes formoit une double haye, afin d'empêcher autant qu'il se pourroit, que la foule du peuple, accouru de vingt lieuës à la ronde, ne rompist la marche. Le Clergé chantoit des Pseaumes &amp; des Hymnes qui avoient rapport à la ceremonie, &amp; le peuple l'accompagnoit d'acclamations &amp; de cris de Vive le Roy. [...]</p>
         <p>Il fut conduit par le Prieur à l'Autel, &amp; de là à son Trône, où il entonna le Te Deum, qui fut chanté par la Musique du Chapitre.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>

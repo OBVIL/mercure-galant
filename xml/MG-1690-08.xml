@@ -16,7 +16,7 @@
         <respStmt>
           <name>Anne Piéjus</name>
           <resp>Responsable éditorial</resp>
-          </respStmt>
+        </respStmt>
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>Informatique</resp>
@@ -51,15 +51,14 @@
   </teiHeader>
   <text>
     <body>
-<div xml:id="MG-1690-08_045">
+      <div type="article" xml:id="MG-1690-08_045" resp="mercure">
         <head>MG-1690-08_045</head>
         <bibl>Mercure galant, août 1690, p. 45-50</bibl>
         <p>Lettre contenant un détail de la reception faite à la Porte à M. de Chateauneuf, Ambassadeur de France.</p>
         <p/>
         <p>Le Samedy Saint 25. Mars, Mr l'Ambassadeur eut son audience publique du Grand Visir [...]. Aprés qu'il eut pris congé du Grand Visir, il s'en retourna à son Palais dans le mesme ordre qu'il estoit venu, &amp; il y trouva trente Joüeurs d'Instrumens de ce Ministre, Hautbois, Flûtes, Trompettes, Timbales, Psalterions, &amp; autres, qui s'accordoient tous si bien, que cette Musique nous parut fort agreable.</p>
       </div>
-
-<div xml:id="MG-1690-08_072">
+      <div type="article" xml:id="MG-1690-08_072" resp="mercure">
         <head>MG-1690-08_072</head>
         <bibl>Mercure galant, août 1690, p. 72-87</bibl>
         <p>Réjoüissances faites en plusieurs Villes du Royaume, pour les Victoires reportées sur terre &amp; sur mer par les Armées de Sa Majesté.</p>
@@ -70,8 +69,7 @@
         <p>On ne s'est pas montré moins zelé à Chalons en Champagne. Tous les Corps de la Ville se trouverent au Te Deum qui fut chanté par Mr l'Evesque dans l'Eglise Cathedrale ; aprés quoy celuy de Ville ayant ce Prelat à sa teste, se rendit dans la Place publique, &amp; mit le feu à un artifice que l'on y avoit dressé. Cela se fit au bruit des Hautbois &amp; des Trompettes, &amp; de la décharge generale de la Mousqueterie des Bourgeois. Ils firent des feux dans toutes les ruës, &amp; les fontaines de vin coulerent pendant tout le jour. [...]</p>
         <p>Les Communautez n'ont pas esté moins ardentes à faire voir la part qu'elles prennent à l'heureux succés des armes de Sa Majesté. Les Benedictins de Seez en Normandie, en ont donné un exemple. Ils chanterent le Te Deum le 25. de Juillet avec beaucoup de solemnité, &amp; cette feste fut annoncée le jour precedent par le bruit des Canons &amp; par le carrillon de toutes leurs cloches qui sont en grand nombre. [...] Aprés qu'on eut rendu graces à Dieu des avantages que nous avons remportez, on alla en procession allumer un feu dressé devant le parvis de l'Eglise. le bruit du Canon, des Tambours &amp; des Trompettes, répondoit aux Violons &amp; au carrillon des Cloches. La réjoüissance se termina par une Collation qu'on donna aux hommes dans le Monastere, &amp; aux Dames dans une Maison d'emprunt. On fit une grande distribution de pain &amp; de vin au peuple, &amp; les Pauvres ne furent point oubliez.</p>
       </div>
-
-<div xml:id="MG-1690-08_153">
+      <div type="article" xml:id="MG-1690-08_153" resp="mercure">
         <head>MG-1690-08_153</head>
         <bibl>Mercure galant, août 1690, p. 153-177</bibl>
         <p>Suites des réjoüissances faites pour les Victoires du Roy.</p>
@@ -79,28 +77,25 @@
         <p>Mr le Comte de Broglio, Lieutenant General [des armées du roi], &amp; Commandant en chef pour sa Majesté en Languedoc, envoya ses ordres dans toutes les Villes principales de cette Province, pour y faire faire des réjoüissances publiques, &amp; choisit le Dimanche 30. du mois passé pour le Feu de joye qui devoit se faire à Montpellier. [...]</p>
         <p>L'aprés-dinée du jour qu'on avoit choisy pour cette réjoüissance, les Compagnies de la Bourgeoisie de la Ville qui estoit sous les armes, &amp; qui faisoient un corps de douze cens hommes, marcherent dans les ruës, &amp; firent plusieurs décharges. Il y avoit aussi deux cens jeunes hommes à cheval tres-bien montez &amp; tres-propres, avec des timbales &amp; des trompettes de la livrée des Consuls de mer qui s'estoient mis à leur teste. Sur les cinq heures, Mr le Comte de Broglio partit de son Hôtel avec Mr de Baville, Intendant de la Province, pour se rendre en l'Eglise Cathedrale. [...] Il se plaça au milieu du Choeur sur un Prié-Dieu magnifique, &amp; l'on commença le TE DEUM qui fut chanté en Musique avec beaucoup de solemnité. [...] Sur les neuf heures du soir, il sortit de son Hostel dans l'ordre suivant pour aller à la Place de Peyrou. Six Pertuisaniers habillez de la livrée de la Ville, avec leurs pertuisanes, &amp; chacun un flambeau à la main, marchoient à la teste deux à deux, suivis de quatre Valets du Guet portant la mesme livrée. Aprés eux venoient les Tambours &amp; les Hautbois de la Ville ; ensuite six Esoudiers ou Massiers, avec des robes de la même livrée, &amp; chacun un flambeau de cire blanche. Ils precedoient le Capitaine du Guet, aprés lequel on voyoit paroistre la Compagnie des Gardes de Mr le Comte de Broglio, avec leurs Casaques, &amp; leurs Carabines sur l'épaule, ayant à leur teste des Hautbois &amp; d'excellens Violons. Douze laquais chacun avec un flambeau de cire blanche à la main, precedoient ce Comte. Le lieutenant de Roy de la Ville [...] fut receu au bruit des Timbales, des Trompettes, des Tambours, &amp; de la Mousqueterie, &amp; aprés qu'il eut mis le feu à un Bucher que l'on avoit élevé entre la porte de la Ville &amp; le Feu d'artifice dans le milieu de la Place, il se rendit sur le rempart qui regne tout le long du Palais, où on luy avoit preparé une place, ainsi que pour toutes les Dames, les Officiers, &amp; le Gentilshommes de sa Suite. Aprés que l'on eut joüy de ce divertissement, toute la Compagnie se rendit à l'Hostel de M. le Comte de Broglio, où l'on trouva une Feste des plus magnifiques. [...] Au dessus des palissades  on avoit dressé un Orchestre pour les Violons &amp; les Hautbois, &amp; des Amphitheatres pour le peuple, qui régnoient tout le long des palissades. [...] Le Bal succeda à ce superbe soupé, &amp; il dura jusques à deux heures aprés minuit. Les Dames y parurent extremement par leur danse, leur ajustement &amp; leur beauté, &amp; pour satisfaire tout le monde, il y avoit des tables de Jeu dans plusieurs Chambres, afin que ceux qui se lasseroient du Bal, eussent moyen de se divertir d'une autre maniere. Tous ceux qui se sont trouvez à cette Feste demeurent d'accord qu'on n'en sçauroit faire une plus galante ny mieux entenduë.</p>
       </div>
-
-<div xml:id="MG-1690-08_180">
+      <div type="article" xml:id="MG-1690-08_180" resp="mercure">
         <head>MG-1690-08_180</head>
         <bibl>Mercure galant, août 1690, p. 180-181</bibl>
         <p>Les Particuliers n'ont pas esté moins sensibles aux glorieux succés des Armes de Sa Majesté que les Communautez &amp; les Villes. Mr le Comte de Bouligneux en ayant eu la nouvelle à Bouligneux, y fit chanter le Te Deum, qui fut accompagné d'un Feu d'artifice, &amp; de la décharge de vingt pieces de Canon. On fit par son ordre une grande distribution d'argent, &amp; les Habitans ne se contentant pas de crier Vive le Roy, joignirent mille loüanges à ces cris de joye.</p>
       </div>
-
-<div xml:id="MG-1690-08_341">
+      <div type="article" xml:id="MG-1690-08_341" resp="mercure">
         <head>MG-1690-08_341</head>
         <bibl>Mercure galant, août 1690, p. 341-342</bibl>
         <p>Feste de S. Louis celebrée par l'Academie Françoise.</p>
         <p/>
         <p>Le 25. de ce mois, la Feste de Saint Loüis fut solemnisée à l'ordinaire par Mrs de l'Academie Françoise dans la Chapelle du Louvre. M. L'Abbé de la Vau, l'un des Academiciens, celebra la Messe, pendant laquelle, un fort grand Choeur de Musique chanta un Motet de la composition de M. Oudot, &amp; M. l'Abbé de Pezene prononça ensuite le Panégyrique du Saint.</p>
       </div>
-
-<div xml:id="MG-1690-08_379">
+      <div type="article" xml:id="MG-1690-08_379" resp="mercure">
         <head>MG-1690-08_379</head>
         <bibl>Mercure galant, août 1690, p. 379-380</bibl>
         <p>Nouvelles d'Irlande.</p>
         <p/>
         <p>En vous donnant lieu de conjecturer que le Prince d'Orange est vivant, je ne suis pas la plus commune opinion, mais je me conforme au sentiment de ceux qui doivent être le mieux instruits, ou qui se mettent le moins en peine de sa mort. En effet, qu'importe à la France, au milieu de ses triomphes, qu'elle ait un Ennemy de plus ou de moins ? Elle est protegée du Ciel, &amp; défend la cause de Dieu &amp; la gloire des Autels que ses Ennemis cherchent à détruire, puis qu'ils font rendre des actions de graces à Dieu pour les victoires remportées sur la Religion Catholique. C'est un fait qu'il a esté connu par les Te Deum qui se sont chantez pour la premiere victoire du Prince d'Orange en Irlande. On dira que ce Prince la permet dans ce Royaume-là, mais ce n'est que pour la détruire aussi-bien que dans toute l'Angleterre, quand il en sera paisible possesseur.</p>
       </div>
-</body>
+    </body>
   </text>
 </TEI>
