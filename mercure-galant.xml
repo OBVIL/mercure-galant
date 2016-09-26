@@ -40,20 +40,19 @@ field CDATA #REQUIRED
   <file href="xml/MG-1678-01.xml"/>
   <file href="xml/MG-1678-02.xml"/>
   <file href="xml/MG-1678-03.xml"/>
+  <file href="xml/MG-1678_03e.xml"/>
   <file href="xml/MG-1678-04.xml"/>
   <file href="xml/MG-1678-05.xml"/>
   <file href="xml/MG-1678-06.xml"/>
+  <file href="xml/MG-1678_06e.xml"/>
   <file href="xml/MG-1678-07.xml"/>
-  <file href="xml/MG-1678-07e.xml"/>
   <file href="xml/MG-1678-08.xml"/>
   <file href="xml/MG-1678-09.xml"/>
+  <file href="xml/MG-1678-09e.xml"/>
   <file href="xml/MG-1678-10.xml"/>
-  <file href="xml/MG-1678-10e.xml"/>
   <file href="xml/MG-1678-11.xml"/>
   <file href="xml/MG-1678-12.xml"/>
   <file href="xml/MG-1678-12e.xml"/>
-  <file href="xml/MG-1678_01e.xml"/>
-  <file href="xml/MG-1678_04e.xml"/>
   <file href="xml/MG-1679-01.xml"/>
   <file href="xml/MG-1679-02.xml"/>
   <file href="xml/MG-1679-03.xml"/>
@@ -82,4 +81,5 @@ field CDATA #REQUIRED
   <file href="xml/MG-1680-10.xml"/>
   <file href="xml/MG-1680-11.xml"/>
   <file href="xml/MG-1680-12.xml"/>
+  <file href="xml/MG-1680-12e.xml"/>
 </cat>
