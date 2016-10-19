@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1683-01" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +24,11 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2015"/>
+        <date when="2016"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1683-01/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
@@ -51,9 +51,123 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" xml:id="MG-1683-01_018" resp="mercure">
-        <head>MG-1683-01_018</head>
-        <bibl>Mercure Galant, janvier 1683, p. 18-44</bibl>
+      <head><hi rend="i">Mercure Galant</hi>, janvier [tome 1], 1683</head>
+      <div type="article" xml:id="MG-1683-01_001">
+        <head>[Prélude]*</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 1-3</bibl>
+        <p>J’ay presque toûjours commencé ma premiere Lettre de chaque Année, par un abregé des Eloges du Roy, répandus dans celles des onze derniers Mois de la précedente. Je m’en dispenseray celle-cy, non seulement parce que cet abregé demandant trop d’étenduë, occuperoit toute la place que doivent remplir les Nouvelles particulieres ; mais parce que toute la Terre ayant les yeux attachez sur ce grand Monarque, il n’y a point de lieu qui ne retentisse de ses loüanges. Les Souverains, qui le regardent comme un parfait Modelle des Roys, étudient ses actions, &amp; font à son imitation des Reglemens dans leurs Etats. Cependant, Madame, pour ne point quiter une matiere qui vous est si agreable, il faut vous faire entendre nos Muses. M<hi rend="sup">r</hi> Tavault, Avocat au Parlement, demeurant à Nuys en Bourgogne, les a fait parler d’une maniere si spirituelle sur les merveilleuses qualitez de Loüis <hi rend="sc">le Grand</hi>, que son Ouvrage a reçeu l’approbation des Connoisseurs les plus délicats. Vous demeurerez d’accord, apres l’avoir lû, qu’il est digne de la vostre.</p>
+      </div>
+      <div type="article" xml:id="MG-1683-01_004">
+        <head>Eloge du Roy</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 4-13</bibl>
+        <quote>
+          <label>ELOGE<lb />DU ROY.</label>
+          <lg>
+            <l rend="i">Puissant Roy des François,</l>
+            <l rend="i">Monarque incomparable,</l>
+            <l rend="i">A qui doivent céder les Héros de la Fable.</l>
+            <l rend="i">Les Hercules, fameux par cent Travaux divers,</l>
+            <l rend="i">Qui de Monstres cruels purgerent l’Univers ;</l>
+            <l rend="i">Achile si vanté par son noble courage,</l>
+            <l rend="i">Et qui reçeut des Dieux la valeur pour partage ;</l>
+            <l rend="i">Des Indes le Vainqueur, le celébre Bacchus,</l>
+            <l rend="i">Qui se fit adorer par cent Peuples vaincus ;</l>
+            <l rend="i">Le Prince des Troyens, le genéreux Enée,</l>
+            <l rend="i">Qui lassa de Junon la colere obstinée ;</l>
+            <l rend="i">Hector, Ulysse, Ajax, &amp; tous ces demy-Dieux,</l>
+            <l rend="i">Que les Peuples grossiers placerent dans les Cieux,</l>
+            <l rend="i">N’ont jamais possedé la véritable gloire,</l>
+            <l rend="i">Quand leur Roman flateur seroit mesme une Histoire.</l>
+            <l rend="i">Souvent on les y voit par le vice abbatus,</l>
+            <l rend="i">Et parmy cent défauts on lit peu de vertus.</l>
+            <l rend="i">Mais les Cieux, ô Grand Prince, à nos vœux si propices,</l>
+            <l rend="i">T’ont donné leurs Vertus exemptes de leurs vices,</l>
+            <l rend="i">Et rassemblé dans toy, par un secret nouveau,</l>
+            <l rend="i">Tout ce que ces Héros possedoient de plus beau.</l>
+            <l rend="i">L’Autheur de la Nature en formant ton visage,</l>
+            <l rend="i">A fait de ses Grandeurs la plus parfaite Image ;</l>
+            <l rend="i">Il a mis dans tes yeux une douce fierté,</l>
+            <l rend="i">Imprimé sur ton front un air de majesté,</l>
+            <l rend="i">Une mine charmante &amp; digne de l’Empire,</l>
+            <l rend="i">Qui te fait redouter dans le temps qu’on t’admire.</l>
+            <l rend="i">L’Esprit ne dément pas un si riche dehors,</l>
+            <l rend="i">Il renferme dans soy de précieux trésors.</l>
+            <l rend="i">Il est vaste, élevé, genéreux, magnanime,</l>
+            <l rend="i">Eclairé, penétrant, équitable, sublime,</l>
+            <l rend="i">Grand dans tous ses desseins, juste dans ses projets,</l>
+            <l rend="i">Travaillant sans relâche au bien de ses Sujets.</l>
+            <l rend="i">Les Jeux, les Carrousels, les Balets, les Spéctacles,</l>
+            <l rend="i">Du Théatre François ces surprenans miracles,</l>
+            <l rend="i">La Chasse, les Concerts, ces plaisirs innocens,</l>
+            <l rend="i">Qui peuvent d’un Monarque enchanter tous les sens,</l>
+            <l rend="i">Sembloient te délasser dans tes nobles fatigues ;</l>
+            <l rend="i">Mais l’esprit prévenu de ces puissantes Ligues,</l>
+            <l rend="i">Que formoient contre toy tes illustres Rivaux,</l>
+            <l rend="i">Tu méditois pour lors ces glorieux Travaux,</l>
+            <l rend="i">Qui t’ont rendu Vainqueur sur la Terre &amp; sur l’Onde,</l>
+            <l rend="i">Et porté de ton Nom, la gloire au nouveau Monde.</l>
+            <l rend="i">Tranquille en apparence au milieu du repos,</l>
+            <l rend="i">Nous faisant voir le Roy, tu cachois le Héros.</l>
+            <l rend="i">Tel est l’Astre du jour, cet Astre salutaire,</l>
+            <l rend="i">Si juste, si reglé, dans son cours circulaire.</l>
+            <l rend="i">Il peint l’émail des Fleurs dans la belle Saison,</l>
+            <l rend="i">Il meûrit le Raisin, il jaunit la Moisson,</l>
+            <l rend="i">Et du mesme rayon il tire de la Terre,</l>
+            <l rend="i">Les subtiles vapeurs dont il fait le Tonnerre.</l>
+            <l rend="i">Aucun Prince avant toy dans le métier de Mars,</l>
+            <l rend="i">N’a tant vû de dangers, ny tenté de bazards ;</l>
+            <l rend="i">Iamais on n’a tant fait de Marches surprenantes,</l>
+            <l rend="i">Ny jamais tant donné de Batailles sanglantes.</l>
+            <l rend="i">Tant d’Exploits diférens, tant de Siéges fameux,</l>
+            <l rend="i">Entrepris de nos jours, surprendront nos Neveux.</l>
+            <l rend="i">Quel autre Conquérant ose attaquer des Places,</l>
+            <l rend="i">Qui semblent à couvert par la neige &amp; les glaces ?</l>
+            <l rend="i">La fidelle Victoire attachée à tes pas,</l>
+            <l rend="i">A toûjours secondé la force de ton Bras.</l>
+            <l rend="i">Changeant en ta faveur sa nature changeante,</l>
+            <l rend="i">Elle a fixé pour toy son humeur inconstante.</l>
+            <l rend="i">Sans te faire éprouver aucun fâcheux revers,</l>
+            <l rend="i">Elle alloit sous tes Loix ranger tout l’Univers ;</l>
+            <l rend="i">Mais quand rien ne résiste au pouvoir de tes Armes,</l>
+            <l rend="i">On te voit tout d’un coup renoncer à ses charmes,</l>
+            <l rend="i">Et de tes Ennemis prévenant les souhaits,</l>
+            <l rend="i">Applanir les chemins qui tendoient à la Paix.</l>
+            <l rend="i">Aléxandre le Grand, ce démon de la Guerre,</l>
+            <l rend="i">Emporté d’un orgueil si funeste à la Terre,</l>
+            <l rend="i">Ne peut se contenir dans ses vastes Projets,</l>
+            <l rend="i">Pour luy le Monde entier a trop peu de Sujets.</l>
+            <l rend="i">César bannit la Paix de sa propre Famille,</l>
+            <l rend="i">Il ne voit qu’a regret le Mary de sa Fille</l>
+            <l rend="i">Partager avec luy le Souverain pouvoir,</l>
+            <l rend="i">Il veut tout posseder, ou bien ne rien avoir.</l>
+            <l rend="i">LOVIS, du Genre-Humain les nouvelles délices,</l>
+            <l rend="i">Sçait d’un cœur héroïque arrester les caprices.</l>
+            <l rend="i">Sa gloire n’a pour luy que de foibles appas,</l>
+            <l rend="i">Si le bien des Mortels ne s’y rencontre pas.</l>
+            <l rend="i">C’est le plus haut degré de la valeur supréme,</l>
+            <l rend="i">Quand on peut vaincre tout, de se vaincre soy-mesme.</l>
+            <l rend="i">D’une gloire nouvelle alors environné,</l>
+            <l rend="i">Grand Roy, je te connus pour le Roy Dieu donné,</l>
+            <l rend="i">En effet tes vertus, ta conduite divine,</l>
+            <l rend="i">Nous font voir que le Ciel est ta seule origine ;</l>
+            <l rend="i">L’ardeur dont tu soûtiens les droits de ses Autels,</l>
+            <l rend="i">Te fera mériter des honneurs immortels.</l>
+            <l rend="i">Doux Climat, beau Païs, agreable Contrée,</l>
+            <l rend="i">France, charmant sejour de la divine Astrée,</l>
+            <l rend="i">Tandis que tes Voisins au milieu des horreurs</l>
+            <l rend="i">Eprouvoient des Soldats les terribles fureurs,</l>
+            <l rend="i">Les Délices, les Jeux, les Festins &amp; la Dance,</l>
+            <l rend="i">Le tranquille repos, &amp; l’heureuse abondance.</l>
+            <l rend="i">Te faisoient ressentir leurs effets les plus doux,</l>
+            <l rend="i">Et rendoient de ton sort mille Peuples jaloux.</l>
+            <l rend="i">Dans cet heureux sejour où tout plaisir abonde,</l>
+            <l rend="i">Regne le GRAND LOVIS, la Merveille du Monde.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_018">
+        <head>[Conversation de Pomone, de Flore, &amp; Céres]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 18-44</bibl>
         <p>« Comme les ordres de faire des Réjoüissances publiques pour la Naissance de Monseigneur le Duc de Bourgogne, n'ont esté envoyez qu'aux plus considérables Villes de chaque Province il y en a plusieurs à qui l'exemple a servy de règle. Celles de Bourgogne ont prétendu qu'elles devoient avoir toutes un privilège particulier qui les distinguast des autres, &amp; c'est par là qu'une de ces Villes s'estant plainte de n'avoir point reçeu d'ordre, trois Divinitez qui président aux productions de la Terre, ont eu ensemble l'entretien qui suit.</p>
         <p/>
         <p>CONVERSATION DE POMONE,</p>
@@ -157,26 +271,236 @@
         <p>Le Berger de Flore qui oüit cet agréable entretien, &amp; qui en vit l'effet, comme il retournoit de la Ville de dans son Hameau, est celuy qui m'en a donné la connaissance ; mis quelque fécondité qu'il y ait dans les souhaits de ces Déesses champestres, il a trouvé qu'il manquoit encore quelque chose ; &amp; c'est que le jeune Prince, plus heureux que François II, que Charles le Sage, que Philippe le Bel, &amp; que S. Loüis, qui eurent le bonheur de voir les fameux Roys leurs Ayeux, mais seulement durant de petits espaces de temps, voye le sien pendant un grand nombre d'années, afin qu'il puisse apprendre à régler ses moeurs &amp; ses actions sur le veuë de celles du plus sage des Monarques, &amp; recevoir des Leçons de bien régner, du plus grand Maistre en cet Art qui fut jamais.</p>
         <p>Je croy en effet qu'on ne luy peut rien souhaiter de plus avantageux, quelques souhaits qu'on fasse à son avantage. »</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_044" resp="mercure">
-        <head>MG-1683-01_044</head>
-        <bibl>Mercure Galant, janvier 1683, p. 44-49</bibl>
-        <p>MALTE</p>
+      <div type="article" xml:id="MG-1683-01_044">
+        <head>[Malte]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 44-49</bibl>
         <p/>
         <p>Comme il faut du temps pour recevoir les Nouvelles des Lieux éloignez, je n'ay appris que depuis fort peu de jours ce qui s'est passé à Malte à l'occasion de cette mesme Naissance. On n'en fut pas plutost informé dans l'Isle, que Monsieur le Grand Maistre, de l'illustre Maison de Carasses, &amp; le sacré Conseil, ordonnèrent un Feu d'artifice, dont le dessein fut formé avec beaucoup d'art &amp; de soin, &amp; exécuté avec une entière magnificence, sous la conduite &amp; les ordres de Mr le Chevalier de Beaujeu d'Arles, Commandeur de l'Artillerie de la Religion, qui donna cette Feste publique le Dimanche 18 d'Octobre, avec la décharge de toute l'Artillerie. Le Clergé de la grande Eglise Conventuelle chanta le Te Deum en Pontificat, &amp; fit le mesme jour une Procession solemnelle, où toute la Religion assista. [...] Le lendemain 19 Monsieur le Grand Maistre fit son Feu particulier au Palais [...] On y permit tout le Dimanche, Lundy &amp; Mardy, la liberté de se déguiser en masque, &amp; les autres divertissemens du Carnaval. L'Auberge de Provence, comme la première, fit sa Feste particulière le Lundy donna une fontaine de Vin au Peuple. [...] Le Te Deum fut chanté à la Chapelle de Sainte Barbe, au son de toute l'Artillerie du premier Bastion de Provence. L'Auberge d'Auvergne, qui est la seconde en prééminence, fit la mesme chose le mardy, [...] Le Dimanche suivant, 25 du mesme mois, l'Auberge de France s'acquitta du mesme devoir avec grand éclat. [...] Les Galères de l'Ordre donnèrent aussi un Spectacle d'une Feste aux frais de l'Ordre. Il n'y avoit rien de plus beau à voir que le Feu qu'elle firent lors que la nuit commença. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_111" resp="mercure">
-        <head>MG-1683-01_111</head>
-        <bibl>Mercure Galant, janvier 1683, p. 111-126</bibl>
-        <p>Histoire</p>
+      <div type="article" xml:id="MG-1683-01_078">
+        <head>Beau dit d’une Servante d’Hôtellerie</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 78-81</bibl>
+        <p>Les Vers qui suivent sur divers sujets, sont tous de M<hi rend="sup">r</hi> Daubaine. Vous sçavez, Madame, qu’il conte agreablement, &amp; que son nom est un éloge fort grand pour tous les Ouvrages qui le portent.</p>
+        <quote>
+          <label>BEAU DIT D’UNE<lb />Servante d’Hôtellerie.</label>
+          <lg>
+            <l rend="i">Je logeay l’autre jour dans une Hôtellerie,</l>
+            <l rend="i">Où je trouvay bon Vin, &amp; Servante jolie ;</l>
+            <l rend="i"> Le giste n’estoit pas mauvais.</l>
+            <l rend="i">Attendant le Soupé, je gobe deux œufs frais,</l>
+            <l rend="i">Et je bois quatre coups. Là-dessus Claudinete</l>
+            <l>(<hi rend="i">C’est la Servante</hi>) <hi rend="i">estant dans la Chambre où j’estois,</hi></l>
+            <l rend="i">J’entre en hameur, je pousse la fleurete.</l>
+            <l rend="i"> De l’air dont je la debitois,</l>
+            <l rend="i"> J’aurois fort avancé l’affaire ;</l>
+            <l rend="i"> Mais nous estions en présence de Gens</l>
+            <l rend="i">Qui ne nous auroient pas peut-estre laissé faire.</l>
+            <l rend="i">Je résous donc de prendre mieux mon temps.</l>
+            <l rend="i"> Tout-à-propos, dans l’entrefaite,</l>
+            <l rend="i">Claudinete sortit, &amp; s’en alla seulete</l>
+            <l rend="i">Dans le Grenier à foin. Ie la suis pas-à-pas,</l>
+            <l rend="i"> Croyant déja que c’estoit Ville prise.</l>
+            <l rend="i"> Vrayment, vrayment, je ne la tenois pas.</l>
+            <l rend="i">Mon procedé l’offence, elle s’en formalise.</l>
+            <l rend="i">I’ay beau luy protester que ses charmans appas</l>
+            <l rend="i"> Me font tout-de-bon Ça conqueste ;</l>
+            <l>De mon honneur j’eus toûjours un grand soin,</l>
+            <l rend="i">Me dit-elle, en prenant un gros bouchon de Foin,</l>
+            <l>Avancez seulement, je vous casse la teste.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_081">
+        <head>Paroles du Poëte Anaxagoras</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 81-82</bibl>
+        <quote>
+          <label>PAROLES DU POETE<lb />Anaxagoras.</label>
+          <lg>
+            <l rend="i">Antigonus campé, vit Anaxagoras</l>
+            <l rend="i"> Fricasser à grands tours de bras</l>
+            <l rend="i">Des Congres, &amp; d’abord s’avisa de luy dire ;</l>
+            <l> Crois-tu qu’Homere éternisoit le nom</l>
+            <l>  Du grand Agamennon,</l>
+            <l> En tenant une Poële à frire ?</l>
+            <l>Non, <hi rend="i">répondit le Poete, en se prenant à rire ;</hi></l>
+            <l>Mais, <hi rend="i">dit-il à son tour,</hi> Antigonus, sçais-tu</l>
+            <l>Que ce Roy dont le cœur &amp; la grande vertu</l>
+            <l>Répondirent si bien à sa noble origine,</l>
+            <l>  Visitoit son Camp pour sçavoir</l>
+            <l> Si le Soldat y faisoit son devoir,</l>
+            <l>Et non pour critiquer Homere en sa Cuisine.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Anaxagoras eut raison ;</l>
+            <l rend="i">Ce qu’il dit est une Leçon</l>
+            <l rend="i">Que tout Censeur devroit apprendre,</l>
+            <l rend="i">Et que Censeur jamais n’apprit.</l>
+            <l rend="i">Tel qui se mesle de reprendre,</l>
+            <l rend="i">Mériteroit souvent qu’on le reprist.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_083">
+        <head>Etreines</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 83-84</bibl>
+        <quote>
+          <label>ETREINES.</label>
+          <lg>
+            <l rend="i">Vous le sçavez, Iris. Iadis à tout moment,</l>
+            <l>  (<hi rend="i">Mais principalement Dans le temps des Etreines</hi>)</l>
+            <l rend="i">Ie vous faisois Vers, Chansons, Billets doux,</l>
+            <l rend="i"> Le tout, sans de fort grandes peines ;</l>
+            <l rend="i"> Et la raison, c’est que pour vous</l>
+            <l rend="i"> L’amour me donnoit du génie.</l>
+            <l rend="i"> Sur vostre teint, sur vos cheveux,</l>
+            <l rend="i"> Sur vostre bouche, sur vos yeux,</l>
+            <l rend="i"> Ie trouvois matiere infinie,</l>
+            <l rend="i"> Et j’estois toûjours bien-disant.</l>
+            <l rend="i"> Ce n’est pas de mesme à présent ;</l>
+            <l rend="i">Depuis que vous avez cessé d’estre fidelle,</l>
+            <l rend="i">Ie fais pour vous loüer des efforts superflus.</l>
+            <l rend="i">Ma Muse me soûtient que vous n’estes point belle,</l>
+            <l rend="i">Et je pense qu’enfin je ne vous aime plus.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_096">
+        <head>[Lettre curieuse]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 96-105</bibl>
+        <p>Je vous ay parlé de plusieurs Enfans nez doubles en divers lieux. Ce que je vous en ay écrit, a donné lieu à la Lettre que vous allez voir.</p>
+        <quote>
+          <label>A M<hi rend="sup">r</hi> DE CHAMBON.</label>
+          <p><hi rend="i">Je doute fort, Monsieur, si enfin je ne me lasseray point d’estre de vos Amis. Vous me demandez trop, &amp; à trop bon marché, pour garder entre nous quelque espece de justice. Quand vous m’avez demandé ce que je pense du monstrueux Enfant de Gramat, dont il est parlé dans l’un des Mercures, il falloit me prévenir, en m’apprenant quel est vostre sentiment sur cette naissance. Mais il est trop tard de me plaindre. Vous estes en possession d’en user de mesme, &amp; je devrois avoir contracte l’habitude de vous donner toûjours sans intérest. J’avouë avec Messieurs de Medecine, que leurs anciens Autheurs ne font mention d’aucun Enfant qui ressemble à celuy-cy par toutes ses parties ; mais il faut aussi reconnoistre que ce n’est pas un prodige tout-à-fait inoüy. Les Chirurgiens modernes, qui ont écrit les monstrueuses naissances arrivées de leur temps, en rapportent quelques-unes à peu prés semblables ; ou du moins on trouveroit en plusieurs les diférentes parties du nouveau né.</hi></p>
+          <p><hi rend="i">Au mois de Juillet 1676. à Breteüil en Normandie, Loüise de Fontaines, Femme de Guillaume Prestrel Boucher, accoucha d’un Enfant parfaitement semblable, au moins pour ce qui regarde les parties exterieures, avec la diférence du sexe. C’estoient deux Filles bien formées, continuës depuis le Sternum jusqu’à l’Ombilic. L’accouchement en fut difficile, parce que la Sage-Femme n’estoit pas accoûtumée à de pareilles avantures ; si bien qu’un de ces Enfans souffrit contortion aux parties principales, &amp; cela fit que la vie de tous les deux ne fut pas de longue durée. Ils vécurent trois jours entiers &amp; une nuit. Le Baptesme fut conferé à chacun d’eux en particulier, &amp; on leur donna les noms d’Anne &amp; de Madelaine. Celle qui avoit esté blessée en naissant, ne prit aucune nourriture. Anne estoit vigoureuse, usoit tous les alimens qu’on luy faisoit prendre, &amp; toutes deux avoient un mouvement fort vivant dans toutes leurs parties, sinon que Madelaine estoit languissante. La curiosité m’engagea à les voir, &amp; je remarquay avec tous ceux qui s’y trouverent, au nombre de plus de cent cinquinte, à divers temps ; que quand la petite Anne avoit pris le lait qu’on luy faisoit teter par le moyen d’un petit Vase, que les Nourrices du Païs appellent un Biberon, Madelaine revenoit aussi-tost de sa langueur, mais si foiblement qu’on jugea bien dés-lors que ses jours ne seroient pas fort longs ; elle changea bien-tost de couleur, &amp; on la crût morte dés le deuxiéme jour de sa naissance. Cependant elle vivoit de la vie de sa Sœur, &amp; elle luy survécut d’un petit soûpir. Les Chirurgiens du lieu assez expérimentez dans leur Profession, s’offrirent d’en faire l’ouverture, mais la Mere ne voulut pas le permettre. Ainsi on ne peut en juger que par l’exterieur. Ces deux Enfan ; n’avoient qu’un nombril, comme ceux d’aujourd’huy ; mais il est sans contestation que n’étant unis qu’au Sternum, ils avoient chacun un cœur. On ne hesita point à croire que ce double corps avoit deux ames. Le principe d’Aristote, quand il seroit vray, ne répugne point à ce jugement, puis qu’il y avoit deux cœurs. Si vous voulez que je vous découvre icy mon sentiment, je vous avoüray que l’axiome de ce Philosophe ne passe pas chez moy pour infaillible. Je ne trouve point d’absurdité qu’un cœur suffise à deux corps informez chacun d’une ame. J’attens que vous me tiriez de cette erreur, si c’en est une.</hi></p>
+          <p><hi rend="i">Si le sentiment de M<hi rend="sup">r</hi> Descartes estoit suivy, ma pensée ne souffriroit pas de difficulté. Vous sçavez ce qu’il a crû de la partie où l’ame fait immédiatement ses fonctions, &amp; qu’il luy donne pour siege principal la petite glandule que le cerveau renferme au milieu de sa substance, au dessus du canal par où les esprits des cavitez anterieures ont communication avec ceux de la posterieure ; d’où il s’ensuivroit que l’Enfant de Gramat ayant deux testes &amp; deux cerveaux bien formez, auroit eu necessairement deux ames, parce qu’une ame ne peut pas faire ses opérations immediates en deux endroits. Par exemple, s’il avoit vécu jusqu’à un âge de discernement, &amp; que ses deux testes se fussent à la fois diféremment appliquées aux exercices de leurs sens extérieurs, comment une seule ame auroit-elle pû former nettement les appréhensions des divers objets, dont elle auroit reçeu les images diférentes, confuses, opposées, &amp; peut-estre incompatibles. Mais laissons cette matiere aux Sçavans, qui ne manqueront pas de raisonner sur ces nouveaux prodiges. Je suis vôtre, &amp;c.</hi></p>
+          <p><hi rend="sc">du Moulin.</hi></p>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_111">
+        <head>[Histoire]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 111-126</bibl>
         <p/>
         <p>Il y a des momens inévitables pour aimer, &amp; en vain chercheroit on la raison pourquoy ces momens ont plus de forces que d'autres. Un Homme qui avoit déjà passé trente années de sa vie dans le Monde, sans y prendre aucune passion bien vive, se lève un matin sort de sa Chambre, &amp; ne s'attend pas qu'il n'y rentrera qu'avec de l'amour. En passant par une Gallerie, il voit dans une chambre d'une Maison voisine, dont la Fenestre estoit ouverte, une jeune Personne qui joüoit du Clavessin. [...] Ses mains voloient sur le Clavessin avec beaucoup de vitesse &amp; de grâce. Elle accompagnoit de quelques petits mouvemens de teste tout ce qu'elle joüoit ; &amp; à voir ces mouvemens, on pouvoit juger que l'air estoit languissant &amp; tendre. Aussi c'est ce que crût le Cavalier, car il estoit trop éloigné pour entendre l'Air. L'agrément qu'avait la Demoiselle à joüer du Clavessin, la propreté de l'équipage où elle estoit, sa taille qui luy paroissoit jolie, ses bras qu'il croyoit beaux quoy que de loin, l'idée qu'il conçeut qu'elle s'estoit levée matin pour jouer quelque chose de doux, &amp; de conforme à ses pensées, &amp; pour rêver avec son Clavessin ; enfin la fatalité du moment, tout cela fit son effet sur le Cavalier. Il ne la voyoit que de costé, &amp; de sorte qu'il ne découvroit rien de son visage. Cependant il se figura qu'elle estoit belle, &amp; souhaita mille fois qu'elle se détournast vers luy ; mais elle estoit trop appliquée à ce qu'elle faisoit. Cet air d'application le confirma dans sa pensée qu'elle rêvoit tendrement, &amp; sur cela il se l'imaginoit encore plus aimable. Il eust déjà souhaité estre celuy à qui elle pensoit ; cet air de Clavessin joüé pour luy, luy auroit paru d'un grand prix. Il s'arrestoit à la regarder sans pouvoir lever les yeux de dessus elle, toûjours dans l'espérance qu'elle se détourneroit. Il se sentoit déjà une certaine émotion qui annonce l'amour, ou qui est l'amour elle-mesme, &amp; la veüe des plus aimables Personnes ne luy avoit rien inspiré de si tendre, que le Clavessin, &amp; les mains, &amp; l'air d'une Personne qu'il ne voyoit point. Eust-elle crû que dans le moment qu'elle estoit seule dans sa Chambre, à ne s'occuper que de ce qu'elle joüoit, elle faisoit une conqueste ? Enfin elle sortit sans que le Cavalier eust vû son visage. Il demeura quelque temps dans la Gallerie, tout remply d'elle. [...] Il ne sçavoit point du tout qui elle estoit. Il y avoit peu de temps qu'il logeoit dans la Maison qu'il occupoit alors, &amp;, ainsi qu'il arrive souvent à Paris, il ne connoissoit point son voisinage. Il s'en informa, &amp; apprit que la Maison où il avoit vü l'aimable Joüeuse de Clavessin, estoit tenue par un Gentilhomme qui avoit trois Filles, &amp; qui vivoit à Paris après s'estre retiré du service. Le Cavalier alla voir à droit de Voisin. Il en fut fort bien reçeu, &amp; vit les Trois Demoiselles, qui sans estre des beautez régulières, estoient toutes fort agréables. Il y avoit entre elles peu de diférence d'agrément. [...] Cette égalité de mérite embarrassa le Cavalier. Il s'estoit tenu bien sûr que celle qu'il amoit estoit la plus aimable, &amp; qu'à cette marque il ne manqueroit pas de la reconnoistre ; mais par malheur les trois Soeurs s'entrevaloient bien. Il est vray qu'il n'avoit qu'à laisser parler son coeur ; mais il avoit peur que son coeur ne se méprist, &amp; ne choisit pas juste celle qui avoit joüé du Clavessin, car c'estoit absolument à celle-là qu'il en vouloit. [...] Il crût qu'il avoit un moyen infaillible de le sçavoir, en s'informant si elle joüoit du Clavessin , mais il ne put s'en éclaircir à la première visite, &amp; il partit bien sûr qu'il aimoit l'une des trois, sans sçavoir pourtant laquelle, mais souhaitant que ce fust la Cadette. Peu de jour après, il retourna chez ses aimables Voisines, &amp; il rencontra heureusement cette cadette dans la Chambre où estoit le Clavessin. Il ne manqua de luy dire qu'il n'y avoit pas d'apparence qu'elle laissast cet Instrument inutile. Elle en convint, &amp; aussi-tost, comme il crut que c'estoit elle qu'il avoit veuë, il se détermina à l'aimer. Les deux autres Soeurs entrèrent, &amp; il les trouva beaucoup moins belles. Il estoit trop plein de la Cadette, &amp; de son Clavessin, pour ne la prier pas d'en joüer. Elle s'en défendit fort modestement, &amp; là-dessus l'Aînée dit que sa Soeur, par les façons qu'elle faisoit, donneroit lieu de croire qu'elle estoit bonne Joueüse de Clavessin, &amp; que cependant la vérité estoit qu'elles n'en joüoit pas assez bien toutes trois pour se faire prier. Cette déclaration embarrasse de nouveau le Cavalier. C'estoit trop que trois Soeurs qui joüaussent du Clavessin. Il ne pouvoit distinguer celle qu'il aimoit qu'à une seule marque, je veux dire, à la Robe de Chambre qu'il luy avoit veuë. Il se souvenoit qu'elle estoit bleuë, car l'idée de toute son avanture luy estoit demeurée bien vive, &amp; il n'espéra plus qu'en cette robe de chambre. Il conta à ces Demoiselles que de sa Gallerie il en avoit vû une joüer du Clavessin, &amp; qu'il avoit bien envie de sçavoir laquelle c'estoit. Il leur nomma le jour, mais elles ne s'en souvinrent point. Enfin, il leur demanda laquelle avoit une Robe de Chambre bleuë. Il se trouva qu'elle estoit à la Cadette, mais que les deux autres ne laissoit pas [de] la prendre quelques fois. Ainsi, il ne sortoit point d'embarras. Clavessin, Robe de Chambre, tout estoit commun aux trois Soeurs. Ce n'est pas qu'il ne se sentist plus de panchant pour la Cadette, &amp; qu'il ne fust déjà en état de l'aimer , quand mesme ce n'eust pas esté elle qu'il eust vû joüer ; mais enfin il auroit bien voulu que ç'eust esté elle, &amp; peut-estre c'estoit parce plus qu'il ne pensoit, qu'il avoit envie de luy pouvoir appliquer l'agréable idée qu'il avoit conçeuë de la petite joüeuse de Clavessin. Cependant il n'y avoit plus de moyen de la démêler. [...] Il fut réduit à aimer la Cadette, sans avoir bien éclaircy la chose. Enfin, il en vint au point de ne douter plus que ce n'eust esté elle pour qui son coeur avoit si fortement parlé, &amp; les sentimens qu'il conçeut l'assurèrent que ceux qu'il avoit conçeus auparavant ne pouvoient regarder qu'elle. Il la demanda à son Père, &amp; l'obtint sans peine ; &amp; cette aimable Personne, depuis qu'elle fut mariée, ne négligea pas le Clavessin, qui avoit fait pour elle les commencemens d'une Conquête assez agréable.</p>
       </div>
+      <div type="article" xml:id="MG-1683-01_127">
+        <head>Sonnet</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 127-129</bibl>
+        <p>On m’a fait part d’un Sonnet que vous serez bien-aise de voir. Il est de M<hi rend="sup">r</hi> de Maupertuis, Gentilhomme de Normandie, qui l’envoya le premier jour de l’Année à M<hi rend="sup">r</hi> Berthelot, Secretaire des Commandemens de Madame la Dauphine.</p>
+        <quote>
+          <label>SONNET.</label>
+          <lg>
+            <l rend="i">Dans ce jour où par tout on commence l’Année</l>
+            <l rend="i">Par des vœux établis sous de communes Loix,</l>
+            <l rend="i">Soufrez que jusqu’à vous j’ose porter ma voix,</l>
+            <l rend="i">Pour vous la souhaiter tranquile &amp; fortunée.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Du plus rare bonheur vostre vie est ornée,</l>
+            <l rend="i">Tout abonde chez vous, la Faveur, les Emplois,</l>
+            <l rend="i">L’Autorité, l’Estime ; &amp; le plus grand des Roys</l>
+            <l rend="i">Donne un œil favorable à vostre destinée.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Mais ces titres d’honneur suivis de tant d’éclat,</l>
+            <l rend="i">Cette belle fortune, &amp; ce rang dans l’Etat,</l>
+            <l rend="i">N’ont jamais eu pour vous des appas veritables.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Le seul bien qui vous touche, &amp; qui vous semble doux,</l>
+            <l rend="i">C’est lors que vous jettez des regards favorables</l>
+            <l rend="i">Sur mille Malheureux qui périroient sans vous.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_129">
+        <head>Iris à Lisandre. Madrigal</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 129-130</bibl>
+        <p>Voicy d’autres Vers de M<hi rend="sup">r</hi> Petit de Roüen, que vous trouverez fort agreables.</p>
+        <quote>
+          <label>IRIS A LISANDRE.<lb />MADRIGAL.</label>
+          <lg>
+            <l rend="i"> Je vous vois d’un œil assez doux,</l>
+            <l rend="i"> Ie me plais fort à vous entendre,</l>
+            <l rend="i"> Que veut dire cela, Lisandre ?</l>
+            <l rend="i"> Aurois-je de l’amour pour vous ?</l>
+            <l rend="i"> Puis qu’enfin Caliste est partie,</l>
+            <l rend="i"> Puis-je profiter du moment,</l>
+            <l rend="i"> Et luy dérobant un Amant,</l>
+            <l rend="i"> Surprendre vostre sympathie ?</l>
+            <l rend="i">Tout semble autoriser cette nouvelle ardeur.</l>
+            <l rend="i">Caliste est éloignée ; &amp; moy, je suis présente.</l>
+            <l rend="i"> Tandis que la place est vacante,</l>
+            <l rend="i">Parlez, la pourroit-on remplir dans vostre cœur ?</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_131">
+        <head>Réponse</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 131</bibl>
+        <quote>
+          <label>REPONSE.</label>
+          <lg>
+            <l rend="i"> Vous pouvez tout, aimable Iris,</l>
+            <l rend="i"> Le plaisir de vous voir m’enchante ;</l>
+            <l rend="i"> Si mon cœur n’est pas déja pris,</l>
+            <l rend="i"> Je sens qu’il n’en perd que l’attente.</l>
+            <l rend="i"> Tandis que Caliste est absente,</l>
+            <l rend="i"> De qui le puis-je mieux remplir</l>
+            <l rend="i">Que d’un Objet d’une beauté charmante ?</l>
+            <l rend="i">Il a déja pour vous poussé plus d’un soûpir.</l>
+            <l rend="i"> Ie vous parle sans artifice.</l>
+            <l rend="i">Entrez, entrez-y donc, pour jamais n’en sortir,</l>
+            <l rend="i"> Il est fort à vostre service.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_132">
+        <head>Réplique sur les mesmes Rimes</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 132</bibl>
+        <quote>
+          <label>REPLIQUE<lb />Sur les mesmes Rimes.</label>
+          <lg>
+            <l rend="i"> Le beau Régale pour Iris,</l>
+            <l rend="i">S’il est vray qu’elle vous enchante,</l>
+            <l rend="i">De ne voir vostre cœur encor qu’à demy pris,</l>
+            <l rend="i">Et de languir dans cette vaine attente !</l>
+            <l> Tandis que Caliste est absente,</l>
+            <l> Dequoy le puis-je mieux remplir,</l>
+            <l rend="i">Dites-vous ? En effet, la fleurete est charmante !</l>
+            <l><hi rend="i">Lisandre, ce</hi> Tandis <hi rend="i">ne vaut pas un soûpir.</hi></l>
+            <l rend="i"> C’est me dire sans artifice,</l>
+            <l rend="i"> Qu’à son retour vous m’en ferez sortir,</l>
+            <l rend="i">Et que le pis-aller est fort à mon service.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_133a">
+        <head>Réponse à la Replique</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 133</bibl>
+        <quote>
+          <label><hi rend="sc">Reponse a la Replique.</hi></label>
+          <lg>
+            <l rend="i">Iris, mon cœur n’est pas de ces cœurs du vulgaire,</l>
+            <l rend="i"> Qui n’ont qu’un seul apartement ;</l>
+            <l rend="i"> Plus d’une agreable Bergere</l>
+            <l rend="i"> Y peut loger commodément.</l>
+            <l rend="i"> Entrez-y donc, &amp; hardiment.</l>
+            <l rend="i">Que si vous prétendez estre sa seule Hostesse,</l>
+            <l rend="i"> Ie le veux bien ; mais en ce cas,</l>
+            <l rend="i">Que le vostre à son tour jamais ne s’intéresse</l>
+            <l rend="i"> Pour Tircis, ny pour Lycidas.</l>
+          </lg>
+        </quote>
+      </div>
       <div xml:id="MG-1683-01_133b" corresp="MG-1683-01_133">
-        <head>MG-1683-01_133</head>
-        <bibl>Mercure Galant, janvier 1683, p. 133-147</bibl>
-        <p>« Quoy que beaucoup de Parties soient nécessaires à un Parfait Orateur, il y en a deux qui contribuent ordinairement plus que les autres à luy attirer ces nombreuses Assemblées, qui mettent en réputation ceux qui parlent en Public. Il en est traité dans le Discours dont je vous envoye une Copie. L'Autheur nous cache son nom, mais il ne peut cacher son esprit. Lisez, Madame, &amp; vous serez de son sentiment. »</p>
+        <head>De l'Art Oratoire</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 133-147</bibl>
+        <p>Quoy que beaucoup de Parties soient nécessaires à un Parfait Orateur, il y en a deux qui contribuent ordinairement plus que les autres à luy attirer ces nombreuses Assemblées, qui mettent en réputation ceux qui parlent en Public. Il en est traité dans le Discours dont je vous envoye une Copie. L'Autheur nous cache son nom, mais il ne peut cacher son esprit. Lisez, Madame, &amp; vous serez de son sentiment.</p>
         <p/>
-        <p>DE L'ART ORATOIRE</p>
         <p>Ce n'est pas assez qu'un Orateur ait de l'esprit pour raisonner judicieusement, &amp; pour raisonner avec politesse ; qu'il ait de la mémoire, pour prononcer un Discours ; il faut plus qu'il ait un extérieur agréable, afin de persuader, &amp; de plaire à mesme temps. Nos sens sont les premiers Juges qui connoissent d'une Oraison. On ne peut gagner ces Juges que par l'action &amp; par la parole. C'est pourquoy l'on veut bien traiter icy de l'une &amp; de l'autre, mais d'une manière nouvelle, qui ne sera peut-estre pas au dessous de l'Eloquence moderne.</p>
         <p>La Parole n'a jamais plus de charme, que quand elle plaist aux oreilles, ce qui dépend principalement de la voix ; &amp; comme rien n'apprend mieux à conduire la voix, que la Musique, on ne fait pas difficulté d'avancer que la Musique seroit nécessaire à un Orateur. La proposition n'est pas si hardie, qu'on ne puisse bien la soûtenir.</p>
         <p>Pour que l'Action, comme sa beauté dépend du geste, &amp; que le geste ne se règle que par les diverses situations du Corps, on peut dire que pour avoir des gestes bien composez, il faut avoir appris à danser.</p>
@@ -185,10 +509,89 @@
         <p>La Dance est utile à une Personne qui doit parler en public, non seulement pour luy fortifier les organes de la voix (comme nous apprend Démostène qui commençoit souvent un Discours à haute voix en montant avec violence sur une haute Montagne) mais encore pour luy former une action qui n'ait rien de géné ny de contraint, d'où vient qu'anciennement les Orateurs parloient sur des Galeries, &amp; à leur exemple en Italie les Prédicateurs preschent encore dans de grandes Chaires, où ils peuvent facilement se promener, &amp; avoir une action libre. On ne voudroit pourtant pas donner un Orateur Italien pour modelle à un François. Un Italien seroit plus propre à former un Bouffon de Théâtre, qu'à faire l'ornement d'une Chaire. Il faut de la modération &amp; de la retenuë dans l'action. C'est pourquoy l'action Françoise est si agréable. Elle n'est point contrainte ; elle est libre, hardie ; elle s'accommode au Discours, &amp; n'a que des mouvemens naturels. On ne doute pas que les gestes ne soient quelquefois aussi éloquens que les paroles. Pour marque de cela, l'inquisition d'Espagne a esté obligée de défendre la Sarabande, à cause qu'elle excitoit trop les passions. On peut dire que le geste est proprement l'ame de l'action. En effet, Cicéron ne fit pas de difficulté (pour perfectionner son geste) de consulter longtemps les Comédiens, comme des Gens qui font profession de plaire par là. Il n'y a que la Dance qui puisse faire acquérir cette perfection de geste, qui est si propre à persuader, qu'on tient que Socrate n'apprit à dancer sur la fin de ses jours, qu'afin de pouvoir professer la Philosophie avec une action plus libre &amp; plus insinuante.</p>
         <p>Cependant pour tirer quelque fruit de ce Discours, il faut remarquer qu'on n'entend pas imposer icy aux Orateurs une nécessité absolue de chanter, &amp; de dancer. On prétend seulement leur faire connoistre combien le Chant &amp; la Dance pourraient leur estre utiles pour gagner un Auditoire, s'ils en sçavaient faire un bon usage ; la Musique servant à parler d'un ton propre à persuader, soit en fléchissant la voix dans les différentes passions, soit en l'accommodant aux parties du discours, aux Auditeurs, &amp; au Lieu où l'on parle ; &amp; la Dance servant à fortifier le geste, à donner une situation naturelle au Corps, à enhardir l'Orateur, à le faire parler de bonne grâce, &amp; d'une manière agréable ; de sorte qu'il est à présumer qu'avec une voix &amp; une action réglées par la Musique &amp; par la Dance, on auroit acquis deux belles dispositions à persuader &amp; à plaire dans l'Art Oratoire. »</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_200" resp="mercure">
-        <head>MG-1683-01_200</head>
-        <bibl>Mercure Galant, janvier 1683, p. 200, 208-211, 214</bibl>
-        <p>Eloge, Mort &amp; Convoy de M. le Comte de Véxin</p>
+      <div type="article" xml:id="MG-1683-01_161">
+        <head>Sur un Torrent. Sonnet</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 161-164</bibl>
+        <p>Madame des Marais, Fille de M<hi rend="sup">r</hi> Berrier, Secretaire du Conseil, &amp; Femme de M<hi rend="sup">r</hi> Huraut, Comte des Marais, est aussi morte depuis peu de jours. Elle n’avoit que 32. ans. De pareilles morts nous font tous les jours connoistre, que nous n’avons point de jours assurez, &amp; qu’il n’y a rien qui passe si viste. C’est une pensée que vous trouverez exprimée d’une maniere fort spirituelle dans le Sonnet que vous allez voir. Il est fait sur le sujet d’un Torrent, qui a esté proposé dans quelqu’une de mes Lettres.</p>
+        <quote>
+          <label>SUR UN TORRENT.<lb /><hi rend="sc">Sonnet</hi>.</label>
+          <lg>
+            <l rend="i">Miroir vaste &amp; pompeux des plus belles journées,</l>
+            <l rend="i">Tu me fais concevoir par ce rapide cours,</l>
+            <l rend="i">Que comme tu te perds apres ces grands détours,</l>
+            <l rend="i">Un cours presque insensible emporte mes années.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">A peiné les reçois-je, elles sont terminées.</l>
+            <l rend="i">L’instant de leur croissant m’en marque le décours ;</l>
+            <l rend="i">Enfin, comme tes eaux, elles sont tous les jours</l>
+            <l rend="i">Rapides, sans retour, orageuses, bornées.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Mais tu m’instruis de plus par ta rapidité,</l>
+            <l rend="i">Que je cours dans le sein de la Divinité,</l>
+            <l rend="i">Si j’ay le cœur exempt d’attache criminelle ;</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Que suivant les moyens qui doivent m’y mener,</l>
+            <l rend="i">Je dispose mon cours à la Source eternelle,</l>
+            <l rend="i">Puis qu’en estant sorty, je dois y retourner.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_187">
+        <head>Sonnet</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 187-189</bibl>
+        <quote>
+          <label>SONNET.</label>
+          <lg>
+            <l rend="i">Elle n’est plus au monde, &amp; le Ciel l’a ravie ;</l>
+            <l rend="i">De ce coup imprévû, Passans, versez des pleurs.</l>
+            <l rend="i">La mort, dont on ne peut éviter les rigueurs,</l>
+            <l rend="i">Triomphe impunément des beaux jours de Sylvie.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Elle estoit de son Sexe, &amp; la gloire, &amp; l’envie,</l>
+            <l rend="i">Ses vertus la faisoient régner sur tous les cœurs ;</l>
+            <l rend="i">Et ses appas estoient suivis d’Adorateurs,</l>
+            <l rend="i">Quand la Parque coupa la trame de sa vie.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">D’un trépas si cruel, tout l’Univers en deüil,</l>
+            <l rend="i">Par des regrets publics honore son Cercüeil ;</l>
+            <l rend="i">Mais moy qui luy jurois une ardeur toute entiere,</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Qui ne trouvois qu’en elle un veritable bien,</l>
+            <l rend="i">Puis je voir ses beaux yeux privez de la lumiere,</l>
+            <l rend="i">Et diférer d’unir mon triste sort au sien ?</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_189">
+        <head>Au Roy</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 189-193</bibl>
+        <p>Le Roy qui parmy tant de Sujets d’admiration qu’il donne de jour en jour, conserve une modestie qui n’a jamais eu d’égale, entendant parler à son retour d’une Chasse, ceux qui avoient l’honneur d’estre auprés de luy, de quelques Places que l’on assiegea pendant la guerre de Flandre, &amp; leur imposant toûjours silence sur ce qui le regardoit personnellement ; quelqu’un ne laissa pas de prendre la liberté de le faire souvenir, que le voyant monter sur la Tranchée au Siege de Tournay, il avoit osé luy prendre les jambes pour le faire rentrer dans la Tranchée, tandis qu’un autre luy ostoit son chapeau couvert de Plumes blanches. Sa Majesté s’adressa à M<hi rend="sup">r</hi> le Duc de S. Aignan, &amp; luy dit que c’estoit tout ce qu’il auroit pû faire ; à quoy ce Duc répondit, que ceux qui se trouvoient de sa suite dans ces sortes d’occasions, étoient trop heureux, puis qu’au moins ils se voyoient le soir hors d’inquiétude pour les périls ausquels Sa Majesté s’estoit exposée le jour ; &amp; le matin, pour les dangers qu’Elle avoit courus la nuit ; mais que pour luy qui passoit presque tout ce temps-là aux soins qu’il devoit au gouvernement du Havre, il n’avoit point de veritable repos, connoissant le courage du Roy, &amp; le mépris qu’il faisoit des dangers. Cette conversation finit par les loüanges qui furent données à ces quatre Vers, que ce Duc fit Inpromptu.</p>
+        <quote>
+          <label>AU ROY.</label>
+          <lg>
+            <l rend="i">Grand Roy, dont tout le monde admire la valeur,</l>
+            <l rend="i">Je dois me consoler de n’avoir pû vous suivre.</l>
+            <l rend="i">La crainte de vous voir avec tant de chaleur</l>
+            <l rend="i">En danger de mourir, m’eust fait cesser de vivre.</l>
+          </lg>
+        </quote>
+        <p>Il est aisé de voir par ces Vers, que quelque protestation que M<hi rend="sup">r</hi> le Duc de Saint Aignan ait faire de n’en faire plus, il luy sera difficile de s’en empescher, quand il s’agira de la gloire de Sa Majesté.</p>
+      </div>
+      <div type="article" xml:id="MG-1683-01_200">
+        <head>[Eloge, Mort &amp; Convoy de M. le Comte de Véxin]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 200, 208-211, 214</bibl>
         <p/>
         <p>Loüis-César de Bourbon, Comte de Véxin, Légitimé de France, est mort le Dimanche 10 de ce mois, fort regretté de tous ceux qui l'ont connu. Il n'avait que dix ans, &amp; quoy qu'il eust passé les premiers jours de sa vie dans des incommoditez continuelles, il avoit avec un esprit extraordinaire &amp; une capacité fort au dessus de son âge. [...]</p>
         <p/>
@@ -197,10 +600,10 @@
         <p/>
         <p>Mr le Curé de Saint Germain l'Auxerrois présenta le Corps du Prince, &amp; fit une Harangue en Latin avec beaucoup d'éloquence. Le Père Général, qui le reçeut, luy répondit en la mesme Langue. Les quatre Chantres commencèrent l'Antienne accoûtumée Subvenite, &amp; l'on porta le Corps sur la Représentation. Les Religieux précédoient en ordre. Six d'entre eux portoient le Corps, &amp; quatre Aumôniers soûtenoient les quatre coins du Drap mortuaire. On chantant ensuite les Vespres des Morts &amp; à la fin on fit l'Inhumation avec les Cérémonies &amp; les Prières accoûtumées. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_219" resp="mercure">
-        <head>MG-1683-01_219</head>
-        <bibl>Mercure Galant, janvier 1683, p. 219-231</bibl>
-        <p>« Comme jamais la Gloire d'un Souverain n'a esté dans une si haute élévation que l'est aujourd'huy celle du Roy, jamais les événemens heureux des autres Monarques n'ont causé une si sensible joye, que ce qui arrive à Sa Majesté. C'est par là que toute la France a fait des Réjoüissances si extraordinaires pour la Naissance de Monseigneur le Duc de Bourgogne. Les Particuliers qui se sont distinguez dans le monde par leur esprit, après avoir contribué à l'allégresse publique par leurs Feux, &amp; par les autres démonstrations de joye, ont travaillé sur cet auguste Sujet. Mr Perrault, si connu dans l'Empire des Beaux-arts &amp; des Belles Lettres, est un de ceux qui a témoigné le plus de zèle de toutes manières dans cette importante occasion. Il a fait paroître partout un Ouvrage d'une invention très particulière, combien il s'intéressoit dans le bonheur de la France. Je ne puis vous le donner entier, parce qu'il occuperoit trop de place dans ma Lettre. Je vous diray seulement qu'il l'a intitulé, Le Banquet des Dieux pour la Naissance de Monseigneur le Duc de Bourgogne. Il fit que sur la fin de ce Céleste Repas, une Symphonie de toutes sortes d'Instrumens, la plus grave &amp; la plus majestueuse qui fut jamais, surprit agréablement l'assemblée, &amp; après qu'elle eut duré quelque temps, elle cessa pour faire place à une autre Symphonie moins forte, mais qui n'estoit pas moins agréable, &amp; sur laquelle Jupiter chanta ces Vers.</p>
+      <div type="article" xml:id="MG-1683-01_219">
+        <head>[Ouvrage galant, &amp; plein d'invention, remply de Prose, &amp; de Vers]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 219-231</bibl>
+        <p>Comme jamais la Gloire d'un Souverain n'a esté dans une si haute élévation que l'est aujourd'huy celle du Roy, jamais les événemens heureux des autres Monarques n'ont causé une si sensible joye, que ce qui arrive à Sa Majesté. C'est par là que toute la France a fait des Réjoüissances si extraordinaires pour la Naissance de Monseigneur le Duc de Bourgogne. Les Particuliers qui se sont distinguez dans le monde par leur esprit, après avoir contribué à l'allégresse publique par leurs Feux, &amp; par les autres démonstrations de joye, ont travaillé sur cet auguste Sujet. Mr Perrault, si connu dans l'Empire des Beaux-arts &amp; des Belles Lettres, est un de ceux qui a témoigné le plus de zèle de toutes manières dans cette importante occasion. Il a fait paroître partout un Ouvrage d'une invention très particulière, combien il s'intéressoit dans le bonheur de la France. Je ne puis vous le donner entier, parce qu'il occuperoit trop de place dans ma Lettre. Je vous diray seulement qu'il l'a intitulé, Le Banquet des Dieux pour la Naissance de Monseigneur le Duc de Bourgogne. Il fit que sur la fin de ce Céleste Repas, une Symphonie de toutes sortes d'Instrumens, la plus grave &amp; la plus majestueuse qui fut jamais, surprit agréablement l'assemblée, &amp; après qu'elle eut duré quelque temps, elle cessa pour faire place à une autre Symphonie moins forte, mais qui n'estoit pas moins agréable, &amp; sur laquelle Jupiter chanta ces Vers.</p>
         <p/>
         <p>Vous avez sçeu, Troupe immortelle,</p>
         <p>L'agréable nouvelle</p>
@@ -323,43 +726,237 @@
         <p>Et parmy les Plaisirs, les Jeux &amp; les Festins,</p>
         <p>Nous reposer sur eux de l'Empire du Monde.</p>
         <p/>
-        <p>Tous ces Vers ont esté mis en Musique par Mr Oudot, &amp; chantez à la Cour, où ils ont reçeu beaucoup d'aplaudissemens. »</p>
+        <p>Tous ces Vers ont esté mis en Musique par Mr Oudot, &amp; chantez à la Cour, où ils ont reçeu beaucoup d'aplaudissemens.</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_237" resp="mercure">
-        <head>MG-1683-01_237</head>
-        <bibl>Mercure Galant, janvier 1683, p. 237-239</bibl>
-        <p>[Réjouissances faites à Nîmes pour célébrer la naissance du Duc de Bourgogne]</p>
+      <div type="article" xml:id="MG-1683-01_237">
+        <head>[Nismes]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 237-239</bibl>
         <p/>
         <p>Parmy les diverses Festes que l'on a faites à Nismes [pour célébrer la naissance du Duc de Bourgogne], Mrs du Présidial se sont extrêmement distinguez. Après avoir donné à souper aux Prisonniers, &amp; fait chanter le Te Deum dans la Chapelle de leur Palais, ils en sortirent en Corps, &amp; en habit de cérémonie, précedez par la Basoche, qui faisoit une Compagnie de trois cens Clercs, ou Praticiens, tous fort lestes, &amp; qui avoient des Tambours, des Trompetes, des Hautbois, &amp; des Violons à la teste de leur Drapeau. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_248" resp="mercure">
-        <head>MG-1683-01_248</head>
-        <bibl>Mercure Galant, janvier 1683, p. 248-249</bibl>
-        <p>Cet habile Maistre [Mr Gallot] est revenu d´un long Voyage qu´il estoit allé faire &amp; qui a privé Paris des concerts qu´il donnoit tous les Samedis au Public. Il les doit recommencer dans peu de temps, &amp; l´on aura le plaisir d´entendre cet excellent Homme qui réüssit si bien, tant pour la finesse du Jeu, que pour la position des doigts &amp; la propreté.</p>
+      <div type="article" xml:id="MG-1683-01_247">
+        <head>[Madrigal] A Madame la Dauphine</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 247-248</bibl>
+        <p>Plusieurs autres Souverains ont envoyé aux Ambassadeurs, &amp; aux Envoyez qu’ils ont icy, des Lettres de congratulation sur la Naissance de Monseigneur le Duc de Bourgogne. Voicy un Madrigal que cette Naissance a fait faire à M<hi rend="sup">r</hi> Daubaine.</p>
+        <quote>
+          <label>A MADAME<lb />LA DAUPHINE.</label>
+          <lg>
+            <l rend="i">En nous donnant un Prince, adorable Princesse,</l>
+            <l rend="i">Pendant tout l’an passé vous nous fistes joyeux.</l>
+            <l rend="i">Dieu veuille en celuy-cy que pleine d’allégresse</l>
+            <l rend="i"> La France puisse en compter deux.</l>
+            <l rend="i">Non, nous ne sommes-pas au comble de nos vœux.</l>
+            <l rend="i"> Si par autant de Victoires gagnées</l>
+            <l rend="i">De l’auguste LOV IS nous comptons les journées,</l>
+            <l rend="i">  Nous voudrions que dans cent ans,</l>
+            <l rend="i">  Luy mesme comptast ses années</l>
+            <l rend="i">  Par autant de ses Descendans.</l>
+          </lg>
+        </quote>
       </div>
-      <div type="article" xml:id="MG-1683-01_272" resp="mercure">
-        <head>MG-1683-01_272</head>
-        <bibl>Mercure Galant, janvier 1683, p. 272-278</bibl>
-        <p>Bénédiction des Drapeaux</p>
+      <div type="article" xml:id="MG-1683-01_248">
+        <head>[Retour de M. Gallot et reprise de ses concerts]*</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 248-249</bibl>
+        <p>Comme je sçay que vous estimez beaucoup M<hi rend="sup">r</hi> Gallot, je vous envoye une de ses Pieces de Lut, qui m'est tombée entre les mains, &amp; que j'ay fait graver. Cet habile Maistre est revenu d´un long Voyage qu´il estoit allé faire &amp; qui a privé Paris des concerts qu´il donnoit tous les Samedis au Public. Il les doit recommencer dans peu de temps, &amp; l´on aura le plaisir d´entendre cet excellent Homme qui réüssit si bien, tant pour la finesse du Jeu, que pour la position des doigts &amp; la propreté.</p>
+      </div>
+      <div type="article" xml:id="MG-1683-01_258">
+        <head>[Devise des jetons de cette année]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 258-272</bibl>
+        <p>Je viens à l’Article des Jetons que l’on fait batre pour estre distribuez le premier Jour de l’An, &amp; dont je vous envoye toûjours une Planche gravée dans ma Lettre de Janvier.</p>
+        <quote>
+          <label>I.</label>
+          <p><hi rend="i">Le Trésor Royal.</hi> Cette Devise représente une Urne, sur laquelle un Dieu de Fleuve est appuyé, &amp; d’où sortent des eaux en abondance, qui forment une Riviere, avec ces mots de Virgile,</p>
+          <quote>
+            <lg>
+              <l rend="i">Semperque recentes.</l>
+            </lg>
+          </quote>
+          <p>Cette Urne est l’image du Trésor Royal, d’où les Finances de Sa Majesté, toûjours inépuisables, &amp; toûjours nouvelles, coulent incessamment pour porter l’abondance dans le Royaume. Le Dieu du Fleuve appuyé sur l’Urne, marque qu’il y a quelque chose de plus qu’humain dans l’ordre merveilleux qui est étably dans les Finances. Cette Devise est de M<hi rend="sup">r</hi> Quinaut, &amp; du nombre des cinq que M<hi rend="sup">r</hi> Colbert choisit, &amp; qu’il distribuë aux Graveurs qu’il juge les plus habiles. M<hi rend="sup">r</hi> Chéron a eu cette année le Trésor Royal. Il a pour son droit deux mille cinq cens livres. Les cinq Devises que M<hi rend="sup">r</hi> Colbert prend soin de choisir tous les ans entre plusieurs que l’on luy présente, sont</p>
+          <quote>
+            <lg>
+              <l rend="i">Le Trésor Royal,</l>
+              <l rend="i">Les Bâtimens,</l>
+              <l rend="i">Les Revenus Casuels,</l>
+              <l rend="i">L’Admirauté,</l>
+              <l rend="i">Et les Galeres.</l>
+            </lg>
+          </quote>
+          <p>Il faut pour le Trésor Royal huit cens Jetons d’or, &amp; deux mille six cens d’argent. Ces Jetons sont distribuez par le Garde du Trésor Royal en année. Vous sçavez, Madame, que ce grand Employ est remply par deux Personnes qui servent alternativement, qui sont M<hi rend="sup">rs</hi> de Bertillac, &amp; du Metz. M<hi rend="sup">r</hi> du Metz est entré en exercice cette année. Cet Employ n’est pas le seul dans lequel il sert le Roy avec un zele &amp; une fidelité éprouvées depuis fort longtemps.</p>
+        </quote>
+        <quote>
+          <label>II.</label>
+          <p>Ce Jeton est pour la Reyne. Il en faut six mille cent d’argent. M<hi rend="sup">r</hi> du Vaux qui les distribuë, est Trésorier de la Maison de cette Princesse.</p>
+          <p>La Devise est un Lys épanoüy, sur lequel des goutes de Lait tombent du Ciel. Elle a esté trouvée par M<hi rend="sup">r</hi> Vielle, Premier Commis de M<hi rend="sup">r</hi> Berrier.</p>
+          <p>Les Poëtes disent que Junon ayant épanché quelques goutes de Lait de ses mamelles, des Lys en sortirent. Ce Jeton a esté gravé par M<hi rend="sup">r</hi> Chéron.</p>
+        </quote>
+        <quote>
+          <label>III.</label>
+          <p><hi rend="i">Les Revenus Casuels.</hi> C’est un Port de Mer, où l’on voit quelques Vaisseaux, avec ces mots,</p>
+          <quote>
+            <lg>
+              <l rend="i">Tuti quos recipit.</l>
+            </lg>
+          </quote>
+          <p>Un Port de Mer est une image parfaite des Parties Casuelles, où les Officiers qui ont esté reçeus, sont dans une entiere seûreté, &amp; cessent d’estre exposez au péril de perdre leurs Charges. La Devise est de M<hi rend="sup">r</hi> Quinaut. Ce Jeton a esté gravé par M<hi rend="sup">r</hi> le Ferme. Il en faut cent d’or, &amp; trois mille cinq cens d’argent. M<hi rend="sup">r</hi> Testu est Trésorier.</p>
+        </quote>
+        <quote>
+          <label>IV.</label>
+          <p><hi rend="i">L’Admirauté.</hi> Une Bombe, &amp; un Port de Mer. Cette Devise est de M<hi rend="sup">r</hi> Charpentier de l’Académie Françoise, &amp; a esté gravée par M<hi rend="sup">r</hi> Rottier. Il faut quatre mille cinq cens Jetons d’argent. M<hi rend="sup">r</hi> Lubert est Trésorier de la Marine.</p>
+        </quote>
+        <quote>
+          <label>V.</label>
+          <p><hi rend="i">Les Galeres.</hi> La Foudre, avec ces mots,</p>
+          <quote>
+            <lg>
+              <l rend="i">Obluctantia quærit.</l>
+            </lg>
+          </quote>
+          <p>Comme c’est le propre de la Foudre, de chercher de la résistance, c’est aussi ce que le Roy veut que ses Galeres entreprennent, en attaquant tout ce qu’il y a de plus redoutable &amp; de plus grand. La Devise est de M<hi rend="sup">r</hi> Quinaut, &amp; le Jeton gravé par M<hi rend="sup">r</hi> Loir. Il en faut deux mille huit cens d’argent. M<hi rend="sup">r</hi> Henry est Trésorier des Galeres.</p>
+        </quote>
+        <quote>
+          <label>VI.</label>
+          <p><hi rend="i">L’Artillerie.</hi> Ce Jeton est gravé par M<hi rend="sup">r</hi> Aury.</p>
+        </quote>
+        <quote>
+          <label>VII.</label>
+          <p><hi rend="i">Les Bâtimens.</hi> Un Apollon debout, appuyant sa Lyre sur un Pilastre, pendant qu’il ordonne à des Ouvriers d’élever un Palais,</p>
+          <quote>
+            <lg>
+              <l rend="i">Nec cessat lustrare orbem.</l>
+            </lg>
+          </quote>
+          <p>Quoy que le Soleil, ou Apollon qui représente le Roy, donne ses soins à faire bâtir, il ne laisse pas d’éclairer le Monde. On croit que cette belle Devise a esté faite par M<hi rend="sup">r</hi> Colbert. Elle a esté gravée par M<hi rend="sup">r</hi> Bernard. Il faut seize cens Jettons d’argent pour les Bâtimens. M<hi rend="sup">r</hi> de la Planche en estoit Trésorier, mais il a depuis peu vendu sa Charge à M<hi rend="sup">r</hi> Manessier, qui entre cette année en exercice.</p>
+          <p>Voicy des Vers qui ont esté faits pour la Devise des Bâtimens de cette année.</p>
+          <quote>
+            <lg>
+              <l rend="i">Dans le temps qu’il construit de pompeux Bâtimens,</l>
+              <l rend="i">De son noble loisir legers amusemens,</l>
+              <l rend="i">Mais chef-d’œuvres parfaits d’éternelle mémoire,</l>
+              <l rend="i">Il ne cesse, occupé de mille emplois divers,</l>
+              <l rend="i">De porter ses soins &amp; sa gloire</l>
+              <l rend="i">Dans tous les coins de l’Univers.</l>
+            </lg>
+          </quote>
+        </quote>
+        <quote>
+          <label>VIII.</label>
+          <p><hi rend="i">Ordinaire des Guerres.</hi> Cette Devise représente un Grénadier,</p>
+          <quote>
+            <lg>
+              <l rend="i">Dat Fructus, datque coronas.</l>
+            </lg>
+          </quote>
+          <p>Rien n’est plus intelligible. M<hi rend="sup">r</hi> Paparel en est, Trésorier. Le Jeton a esté gravé par M<hi rend="sup">r</hi> Chéron.</p>
+        </quote>
+        <quote>
+          <label>IX.</label>
+          <p><hi rend="i">Extraordinaire des Guerres.</hi> Un Trophée d’Armes gravé par le mesme M<hi rend="sup">r</hi> Chéron.</p>
+        </quote>
+        <quote>
+          <label>X.</label>
+          <p><hi rend="i">La Chambre aux Deniers.</hi> Un Autel, sur lequel il y a des Epis de Bled, des Fruits, &amp; des Raisins,</p>
+          <quote>
+            <lg>
+              <l rend="i">Primitiæ superis.</l>
+            </lg>
+          </quote>
+          <p>Cette Devise est du Pere Menestrier Jesuite. Le Jeton est encor gravé par M<hi rend="sup">r</hi> Chéron, ainsi que celuy qui suit.</p>
+        </quote>
+        <quote>
+          <label>XI.</label>
+          <p><hi rend="i">Les Ponts &amp; Chaussées.</hi> La Devise a ces paroles pour ame,</p>
+          <quote>
+            <lg>
+              <l rend="i">Vicit Iter durum.</l>
+            </lg>
+          </quote>
+        </quote>
+        <quote>
+          <label>XII.</label>
+          <p><hi rend="i">La Ville de Paris.</hi> Un Lys, avec deux Rejetons,</p>
+          <quote>
+            <lg>
+              <l rend="i">Et ab uno flore quid ambo ?</l>
+            </lg>
+          </quote>
+          <p>Cette Devise est de M<hi rend="sup">r</hi> de Santeüil. Elle est gravée par M<hi rend="sup">r</hi> Aury.</p>
+        </quote>
+        <quote>
+          <label>XIII.</label>
+          <p><hi rend="i">Pour les Notaires.</hi> Cette Devise est sur le sujet de la Naissance de Monseigneur le Duc de Bourgogne,</p>
+          <quote>
+            <lg>
+              <l rend="i">Quieta tempora damus.</l>
+            </lg>
+          </quote>
+          <p>Elle est gravée par M<hi rend="sup">r</hi> Rottier.</p>
+        </quote>
+        <quote>
+          <label>XIV.</label>
+          <p><hi rend="i">Pour les Gardes &amp; Marchands de Vin.</hi> Sept Vaisseaux, &amp; une Grape de Raisin, qui sont les Armes de la Compagnie, avec une Coupe sur un Autel,</p>
+          <quote>
+            <lg>
+              <l rend="i">Regum mensis, arisque Deorum.</l>
+            </lg>
+          </quote>
+          <p>La Devise est de M<hi rend="sup">r</hi> de Santeüil, &amp; le Jeton gravé par M<hi rend="sup">r</hi> Rottier.</p>
+        </quote>
+        <quote>
+          <label>XV.</label>
+          <p><hi rend="i">Huissiers du Conseil.</hi></p>
+        </quote>
+        <quote>
+          <label>XVI.</label>
+          <p><hi rend="i">Pour les Etats de Bourgogne.</hi></p>
+          <p>Le Signe du Belier sur le Zodiaque, avec ces mots,</p>
+          <quote>
+            <lg>
+              <l rend="i">Nostrum uni ex superis nomen.</l>
+            </lg>
+          </quote>
+          <p>Le Belier qui portoit une Toison d’or, donna le nom à la premiere Maison du Soleil. Ainsi la Duché de Bourgogne, où l’Ordre de la Toison a esté institué, a eu l’honneur de voir donner son nom au Petit-Fils <hi rend="sc">Loüis le Grand</hi>, dont le Soleil est le Symbole. Cette Devise est de M<hi rend="sup">r</hi> l’Abbé Tallemant Intendant des Devises. Elle est gravée par M<hi rend="sup">r</hi> Chéron.</p>
+          <p>J’ay reçeu si-tard le Jeton de Madame la Dauphine, que je suis obligé de le réserver pour le mois prochain.</p>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1683-01_272">
+        <head>[Bénédiction des Drapeaux]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 272-278</bibl>
         <p/>
         <p>Le Mardy 19 de ce mois, on fit la Cérémonie de la Bénédiction des trente Drapeaux du Régiment des Gardes. On avoit fait un détachement de dix Mousquetaires par Compagnie, qui font trois cens Hommes, dont trente furent postez avec trois Sergens, aux trois Portes du Choeur de Notre Dame, pour empescher la confusion ; &amp; les deux cens soixante &amp; dix autres Mousquetaires firent une haye dans la Ruë, des deux costez, à commencer depuis la Porte de l'Eglise autant que l'on put s'entendre. La marche des trente Drapeaux se fit de cette manière.</p>
         <p>Le Tambour Major [...] sortit des Tuileries pour aller à Notre Dame, suivy de soixante Tambours battans [...] On voyait les Armes du Roy sur leurs Caisses. En suite paroissoit Mr d'Artagnan Major, à cheval, suivy de Mrs de Montgeorge, &amp; de Vitry, Aydes Major, &amp; de Mrs de Luzancy, Vauroüy, Candot, &amp; Clisson, Sous-Aydes Major, tous à cheval. Soixante Sergens à pied, six de front, marchoient après eux, armez de leurs Hallebardes. [...] Les trente Enseignes suivoient à cheval, portant chacun leur Drapeau. Ils alloient quatre de front, &amp; précédoient quatre Sergens [...], &amp; suivis de soixante autres Tambours. Quand ils arrivèrent prés de Notre Dame, Mr le Major, ses Aydes, &amp; les Enseignes, mirent pied à terre, &amp; entrèrent dans la Nef, ou les Sergens &amp; les Tambours se mirent en haye à droite &amp; à gauche. Les Enseignes &amp; les Drapeaux occupèrent le milieu. Un peu après, Mr le Major &amp; ses Aydes, avec trente Enseignes &amp; leurs Drapeaux, furent reçeus dans le Choeur, où se trouva Monsieur l'Archevesque assis dans un Fauteüil au pied des Marches du Maistre Autel. Ce fut là qu'il fit la Cérémonie. Le Drapeau blanc qui est pour la Colonelle, estoit le premier. Il y avoit cinq Couronnes peintes en or dans ce Drapeau. Les vingt-neuf autres estoient de Taffetas bleu Fleurdelisé aussi en or, avec une croix blanche où estoient les cinq Couronnes. L'Enseigne qui portoit ce premier Drapeau, se mit à genoux aux pieds de Mr l'Archevesque, &amp; se releva après avoir reçeu l'Eau-bénite. La mesme chose se fit pour les autres Drapeaux. En suite Mr l'Archevesque se leva, &amp; s'alla mettre dans la Chasse Archiépiscopale, où il dit des Oraisons, avec la Musique. On y chanta le Veni Creator, &amp; cela fait, on sortit dans le mesme ordre qu'on estoit entré. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_319" resp="mercure">
-        <head>MG-1683-01_319</head>
-        <bibl>Mercure Galant, janvier 1683, p. 319-322</bibl>
-        <p>Divertissemens de la Cour</p>
+      <div type="article" xml:id="MG-1683-01_319">
+        <head>[Divertissemens de la Cour]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 319-322</bibl>
         <p/>
         <p>La Cour de France, qui est non seulement la plus grande &amp; la plus galante de l'Europe, mais encore la plus florissante &amp; la plus tranquille, continuë à prendre part aux plaisirs que le Roy a la bonté de luy procurer. Il y en a de marquez pour chaque jour de la semaine. Le Lundy, le Mercredy, &amp; le Vendredy, sont destinez pour le Jeu ; &amp; ces trois jours là sont toûjours nommez Jours d'Apartement. Je vous en fis, il y a un mois une assez longue description pour ne vous en point parler davantage. Le Dimanche, le Mardy &amp; le Jeudy, sont marquez. Il y a Bal &amp; Comédie Françoise ou Italienne. L'Opéra est le divertissement du Samedy. Celuy qu'on y représente, est intitulé Phaëton. Les Vers sont de Mr Quinaut, Auditeur des Comptes ; &amp; la Musique, de Mr de Lully. On assure qu'il n'y a rien de plus beau que celle de cette Pièce, &amp; que la Symphonie en est admirable. Comme il n'y a point encore d'assez grande Salle à Versailles pour y faire des Machines, il n'y en a point dans cet Opéra ; de sorte que la grandeur du Spectacle dépend des Habits. Mr Berrin, Dessinateur ordinaire du Cabinet du Roy, n'en a pas seulement fait les Desseins, mais il a aussi pris soin de les faire exécuter. On les a trouvez très-bien entendus, &amp; d'une façon toute singulière.</p>
       </div>
-      <div type="article" xml:id="MG-1683-01_326" resp="mercure">
-        <head>MG-1683-01_326</head>
-        <bibl>Mercure Galant, janvier 1683, p. 326-327</bibl>
-        <p>Recueïl des Sonnets sur les Bouts-rimez de Pan &amp; Guenuche</p>
+      <div type="article" xml:id="MG-1683-01_324">
+        <head>[Vers à M. de Fourcy]*</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 324-326</bibl>
+        <p>Le Roy ayant nommé M<hi rend="sup">r</hi> le Président de Fourcy pour remplir la place de Prevost des Marchands, apres M<hi rend="sup">r</hi> de Pomereu, ce Président reçeut le jour mesme un Paquet où estoient ces quatre Vers.</p>
+        <quote>
+          <lg>
+            <l rend="i">La Fortune aujourd’huy vous rend une visite,</l>
+            <l rend="i">Jalouse de montrer envers vous son devoir ;</l>
+            <l rend="i">Mais elle pourra bien épuiser son pouvoir,</l>
+            <l rend="i">Sans qu’elle égale encor vostre rare mérite.</l>
+          </lg>
+        </quote>
+        <p>M<hi rend="sup">r</hi> le Président de Fourcy est genéralement estimé. Il est tres-habile, &amp; tres-honneste Homme, &amp; d’une naissance illustre.</p>
+      </div>
+      <div type="article" xml:id="MG-1683-01_326">
+        <head>[Recueïl des Sonnets sur les Bouts-rimez de Pan &amp; Guenuche]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 326-327</bibl>
         <p/>
         <p>Vous souvenez vous, Madame, que Mr Mignon, Maistre de Musique de l'Eglise de Paris, proposa il y a quelques mois, des Bouts-rimez remplis à la loüange du Roy, sur les Rimes de Pan &amp; Guenuche, &amp; promit la Médaille de Sa Majesté à celuy qui feroit le plus beau sonnet. Celuy qui a remporté le Prix commence par,</p>
         <p>Joins un courage d'Aigle à la fierté d'un Pan.</p>
         <p>On le trouvera à la teste d'un Recueïl, que le Sr Quinet Libraire, dans la Gal[erie] des Prisonniers, a fait imprimer. [...]</p>
+      </div>
+      <div type="article" xml:id="MG-1683-01_330">
+        <head>[Nouveaux Dialogues des Morts]</head>
+        <bibl><title>Mercure Galant</title>, janvier [tome 1], 1683, p. 330-332</bibl>
+        <p>Vostre impatience pour <hi rend="i">les Dialogues des Morts</hi>, dont je vous parlay la derniere fois, sera satisfaite au premier jour. Les Sieurs Blageart &amp; Quinet, Libraires, commenceront à les debiter cette semaine. Ils sont dédiez à Lucien, qui a fourny à l’Autheur l’idée de faire parler des Morts. Le Volume contient dix-huit Dialogues, six de Morts anciens, six de Morts anciens avec des modernes, &amp; six autres de Morts modernes. Vous y trouverez par tout un tour fin &amp; délicat, qui vous en rendra la Morale tres-agreable ; &amp; je suis persuadé que les Dialogues de Socrate avec Montagne, &amp; d’Anacreon avec Aristote, quoy que sur des matieres sérieuses, ne seront pas moins de vostre goust, que ceux d’Aléxandre avec Phriné, &amp; de Sapho avec Laure, dont les sujets sont galans. Vous m’en ferez sçavoir vostre sentiment. Comme il n’est point d’Ouvrage parfait, l’Autheur qui a beaucoup d’estime pour vous, vous demande une Critique.</p>
       </div>
     </body>
   </text>
