@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
+<?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -52,6 +52,7 @@
   <text>
     <body>
       <div type="article" xml:id="MG-1686-10_151" resp="mercure">
+        <!-- repris dans 10a -> la pagination est modifiée : on supprime ce fichier ? -->
         <head>MG-1686-10_151</head>
         <bibl>Mercure Galant, octobre 1686, p. 151-152</bibl>
         <p>Prise de Napoli en Romanie</p>
