@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../../teipub/xsl/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1687-04" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +24,11 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2015"/>
+        <date when="2016"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1687-04/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
@@ -51,10 +51,235 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" xml:id="MG-1687-04_074" resp="mercure">
-        <head>MG-1687-04_074</head>
-        <bibl>Mercure Galant, avril 1687, p. 74-162</bibl>
-        <p>Nouvelles réjoüissances faites en plusieurs Villes, &amp; autres lieux, pour le retour de la santé du Roy.</p>
+      <head><hi rend="i">Mercure Galant</hi>, avril [tome 6], 1687</head>
+      <div type="article" xml:id="MG-1687-04_000">
+        <head>Avis du Libraire au Lecteur de la Campagne</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. I-II</bibl>
+        <quote>
+          <label>AVIS DU LIBRAIRE<lb />AU LECTEUR<lb />de la Campagne.</label>
+          <p><hi rend="i">La longue maladie de celuy qui vendoit le Mercure avant moy, en ayant souvent fait retarder le debit depuis une année, &amp; reculé sur tout les Envoys qui se faisoient à la Campagne, j’avertis tous ceux qui souhaiteront l’avoir, que non seulement je tâcheray de restablir les choses par mes soins, en sorte que le Mercure se trouvera imprimé au commence-les Libraires qui les vendront. Quand il se rencontrera qu’on demandera ces Livres à la fin du mois, on les joindra au Mercure, afin de les envoyer dans le mesme paquet. Tout cela sera executé avec une exactitude dont on aura tout lieu d’estre content. Je prie seulement qu’on ait soin d’affranchir les Lettres de port, &amp; de le faire marquer sur lesdites Lettres.</hi></p>
+          <p><hi rend="i">Je debiteray au premier jour le Voyage de M. le Chevalier Chardin, enrichy de quantité de Figures.</hi></p>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_007">
+        <head>Priere de la France à Dieu</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 7-9</bibl>
+        <p>Dans le haut degré de gloire où le Roy a mis la France, peut-elle faire une priere moins ardente pour la conservation de ce Monarque, que celle qui est contenuë dans ce Sonnet de M<hi rend="sup">r</hi> Mignot de Bussi, de l’Academie de Villeneuve ?</p>
+        <quote>
+          <label>PRIERE DE LA FRANCE<lb /><hi rend="sc">a Dieu.</hi></label>
+          <lg>
+            <l rend="i">Ta bonté, Dieu puissant, est la source feconde</l>
+            <l rend="i">De la gloire &amp; des biens que par tout je reçoy,</l>
+            <l rend="i">Mais LOVIS est la main qui les répand sur moy ;</l>
+            <l rend="i">A regner, à donner tu veux qu’il te seconde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Avec éclat en luy ta sagesse profonde</l>
+            <l rend="i">Joint le bras d’un Heros &amp; le cœur d’un saint Roy.</l>
+            <l rend="i">Si l’un par sa puissance impose à tous la loy,</l>
+            <l rend="i">L’autre est par sa vertu les delices du monde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> De ses rares bienfaits n’arreste point le cours,</l>
+            <l rend="i">Oblige la Nature à respecter les jours</l>
+            <l rend="i">De celuy qu’elle voit forcer tous les obstacles.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Tu l’as mis au dessus du reste des Mortels,</l>
+            <l rend="i">Tu fais que tous ses pas sont autant de miracles.</l>
+            <l rend="i">Ah ! grand Dieu, fais-en un qui les rende éternels.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_010">
+        <head>Devise</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 10</bibl>
+        <p>La Devise que j’ajoûte à ce Sonnet, est de M<hi rend="sup">r</hi> Rault, de Roüen. Elle a pour corps le Soleil, qui perce les nuages &amp; dissipe les ombres dont il estoit environné pendant la nuit. Ces mots en font l’ame, <hi rend="i">Clarior è tenebris.</hi></p>
+        <quote>
+          <lg>
+            <l rend="i"> Tel que malgré leurs voiles sombres</l>
+            <l rend="i"> L’Astre qui ramene le jour,</l>
+            <l rend="i"> Chasse &amp; dissipe à son retour</l>
+            <l rend="i"> L’horreur de la nuit, &amp; les ombres :</l>
+            <l rend="i"> LOVIS, ce Heros sans pareil,</l>
+            <l rend="i"> Attaqué de douleurs aiguës,</l>
+            <l rend="i"> Malgré leurs pointes continuës,</l>
+            <l rend="i">En triomphe, aussi-bien que l’on voit le Soleil</l>
+            <l rend="i">Par ses premiers rayons mettre en fuite les nuës.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_011">
+        <head>[Vers de M<hi rend="sup">e</hi> des Houllieres]</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 11-14</bibl>
+        <p>Voicy d’autres Vers faits pour le Roy. Ils sont de l’illustre Madame des Houlieres, qui pour faire voir la fecondité de son genie, a voulu s’assujetir dans tous les Vers feminins à la seule rime en <hi rend="i">oüille.</hi></p>
+        <quote>
+          <lg>
+            <l rend="i">Amoureux Rossignol, de qui la voix chatoüille</l>
+            <l rend="i"> L’oreille &amp; le cœur à la fois ;</l>
+            <l rend="i">Zephirs, qui murmurez dans le fond de ce Bois,</l>
+            <l rend="i"> Ruisseaux, de qui l’onde gazoüille,</l>
+            <l rend="i">Taisez vous, laissez-moy dans un profond repos</l>
+            <l rend="i">Resver quelques momens au plus grand des Heros.</l>
+            <l rend="i">Jamais d’une Campagne il n’est sorty bredoüille ;</l>
+            <l rend="i">Dés que ses Ennemis ont osé l’irriter,</l>
+            <l rend="i"> Sur eux on l’a veu remporter</l>
+            <l rend="i">Plut d’une glorieuse &amp; superbe dépoüille.</l>
+            <l rend="i"> Rien ne resiste à sa valeur,</l>
+            <l rend="i">Tout rit à ses desirs ; malheur, trois fois malheur</l>
+            <l rend="i"> A quiconque avec luy se broüille.</l>
+            <l rend="i">Bien qu’un calme profond regne dans ses Etats,</l>
+            <l rend="i">Ses Guerriers toutefois ne se reposent pas.</l>
+            <l rend="i">De peur que dans la Paix leur vertu ne se roüille,</l>
+            <l rend="i">Tantost le fier Soldat par sa veuë animé</l>
+            <l rend="i"> S’exerce dans la plaine d’Oüille ;</l>
+            <l rend="i">Et tantost dans un Camp pour six mois renfermé</l>
+            <l rend="i"> Il fait sentinelle &amp; patroüille.</l>
+            <l rend="i">L’Etat ne souffre point de ses grands mouvemens,</l>
+            <l rend="i">En pleine seureté prés de ses nombreux Camps</l>
+            <l rend="i">Meurit le doux raisin, &amp; grossit la citroüille,</l>
+            <l rend="i">La Vache y paist l’herbage, &amp; la Canne y farfoüille.</l>
+            <l rend="i">L’avare Laboureur y moissonne ses champs,</l>
+            <l rend="i">Sa fille sans danger y file sa quenoüille,</l>
+            <l rend="i">Et jamais il ne voit sans de prompts payemens</l>
+            <l rend="i"> Emporter le lard &amp; l’andoüille,</l>
+            <l rend="i">De son chetif foyer uniques ornemens.</l>
+            <l rend="i"> En vain dans le vieux temps je foüille</l>
+            <l rend="i">Pour pouvoir comparer ses faits à d’autres faits ;</l>
+            <l rend="i">Les antiques Heros ont toûjours quelque mais,</l>
+            <l rend="i"> Ou quelque si qui les barboüille,</l>
+            <l rend="i">Et chez LOVIS LE GRAND on n’en trouve jamais.</l>
+            <l rend="i">Dans les travaux de Mars, dans le sein de la Paix</l>
+            <l rend="i">Par nul déreglement sa gloire ne se soüille.</l>
+            <l rend="i"> Puisse-t-il triompher toûjours,</l>
+            <l rend="i">Poisse-t-il ne passer que d’agreables jours !</l>
+            <l rend="i"> Que jamais de pleurs on ne moüille</l>
+            <l rend="i">Les Autels pour un Roy si grand, si fortuné ;</l>
+            <l rend="i"> Devant eux qu’on ne s’agenoülle</l>
+            <l rend="i">Que pour benir le Ciel de nous l’avoir donné.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_056">
+        <head>Epithalame de Madame la Comtesse de Guiche</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 56-67</bibl>
+        <p>Je vous parlay il y a un mois du mariage de M<hi rend="sup">r</hi> le Comte de Guiche, &amp; de Mademoiselle de Noailles. Voicy un Epithalame que M<hi rend="sup">r</hi> Malemant de Messange a fait sur ce sujet. Vous sçavez, Madame, que c’est un esprit universel. Bien qu’il paroisse tout occupé des sciences les plus relevées, il ne laisse pas de reussir toûjours dans les Ouvrages Galans.</p>
+        <quote>
+          <label>EPITHALAM<lb />DE MADAME<lb />LA COMTESSE<lb />DE GUICHE.</label>
+          <lg>
+            <l rend="i">Un jour l’Amour folâtre &amp; d’une humeur volage,</l>
+            <l rend="i">Par un caprice heureux, voulut devenir sage,</l>
+            <l rend="i">Et dans ces bons momens, chez luy rares &amp; courts,</l>
+            <l rend="i">Alla trouver l’Hymen, &amp; luy tint ce discours.</l>
+            <l rend="i"> Regnez en paix, mon frere, au bonheur de la Terre,</l>
+            <l rend="i">Je ne viens point icy pour vous faire la guerre.</l>
+            <l rend="i">Des Amans criminels j’ay trop servy les feux,</l>
+            <l rend="i">Je veux rendre un Epoux parfaitement heureux.</l>
+            <l rend="i"> A son abord, l’Hymen, qu’il ne visite guere,</l>
+            <l rend="i">Surpris de voir l’Amour, &amp; de le voir sincere,</l>
+            <l rend="i">Demande en l’embrassant, quels sont les heureux Cœurs,</l>
+            <l rend="i">Qui se sont pû trouver dignes de ses faveurs.</l>
+            <l rend="i"> A la superbe Cour du plus grand Roy du monde,</l>
+            <l rend="i">Aprés avoir en vain couru la Terre &amp; l’Onde,</l>
+            <l rend="i">J’ay trouvé, dit l’Amour, deux Cœurs les plus parfaits,</l>
+            <l rend="i">Qui jamais icy-bas puissent sentir mes traits :</l>
+            <l rend="i">Tous deux nobles &amp; grands, tous deux prudens &amp; sages,</l>
+            <l rend="i">Tous deux à peine entrez au printemps de leurs âges,</l>
+            <l rend="i">Tous deux sortis d’un sang, dont l’éclat glorieux</l>
+            <l rend="i">Pourroit le disputer avec celuy des Dieux.</l>
+            <l rend="i"> Le Heros, dans sa taille, &amp; dans son air, exprime</l>
+            <l rend="i">Les traits vifs &amp; brillans d’un Heros magnanime,</l>
+            <l rend="i">Qui sans estre amolly par les tendres desirs,</l>
+            <l rend="i">Sçaura mêler la Gloire avecque les Plaisirs,</l>
+            <l rend="i">Tel, par les qualitez qu’en luy seul il rassemble,</l>
+            <l rend="i">Que vous penseriez voir Mars &amp; l’Amour ensemble.</l>
+            <l rend="i">Déja sa noble ardeur excitant mon couroux,</l>
+            <l rend="i">Il m’a presque rendu de Bellone jaloux.</l>
+            <l rend="i">Souffrez, jeune Guerrier, que l’Amour vous arreste,</l>
+            <l rend="i">Ménagez ces beaux feux pour une autre Conqueste,</l>
+            <l rend="i">La Victoire avec moy n’aura pas moins d’appas,</l>
+            <l rend="i">Que d’aller avec Mars signaler vôtre bras.</l>
+            <l rend="i">Christine a pour charmer une blancheur brillante,</l>
+            <l rend="i">On air plein de grandeur, une douceur touchante.</l>
+            <l rend="i">Que de cœurs, sans oser déclarer leur tourment,</l>
+            <l rend="i">Pour l’éclat de ses yeux ont brûlé vainement !</l>
+            <l rend="i">De l’Etoile d’Amour l’agreable lumiere,</l>
+            <l rend="i">Qui la premiere éclate, &amp; brille la derniere,</l>
+            <l rend="i">Attire le matin moins de Bergers aux champs,</l>
+            <l rend="i">Et le soir à la Ville assemble moins d’Amans.</l>
+            <l rend="i"> Par dessus tant d’attraits de cette Nymphe heureuse,</l>
+            <l rend="i">Sa main docte à pincer la corde harmonieuse,</l>
+            <l rend="i">Exprimant les accors des tons mélodieux,</l>
+            <l rend="i">Enchante également &amp; l’oreille &amp; les yeux.</l>
+            <l rend="i">Sa Voix mesme pourroit, sans estre témeraire,</l>
+            <l rend="i">Au défaut de la Main se promettre de plaire.</l>
+            <l rend="i"> Faut-il joindre la Danse au doux bruit des Concerts ;</l>
+            <l rend="i">Sa grace met au jour cent miracles divers,</l>
+            <l rend="i">Et sçait d’une justesse à nulle autre pareille,</l>
+            <l rend="i">Faire sentir aux yeux le plaisir de l’oreille.</l>
+            <l rend="i">Qu’avec tant d’agrémens l’Hymen seroit heureux,</l>
+            <l rend="i">Si le Destin jaloux n’en traversoit les vœux !</l>
+            <l rend="i">Mais helas, jeunes Cœurs, à peine vos caresses</l>
+            <l rend="i">Vous auront exprimé vos naissantes tendresses,</l>
+            <l rend="i">Que par un coup fatal, qu’on ne sçauroit parer,</l>
+            <l rend="i">La Gloire pour un temps viendra vous separer.</l>
+            <l rend="i">A l’aimable Christine, à sa vaine priere</l>
+            <l rend="i">Il faudra préferer cette Rivale fiere.</l>
+            <l rend="i">En vain, tendre Héros, vôtre cœur sentira</l>
+            <l rend="i">Les peines que sans vous Christine souffrira ;</l>
+            <l rend="i">Vous serez malgré vous invincible à ses larmes.</l>
+            <l rend="i"> Alors, pour consoler ses mortelles alarmes,</l>
+            <l rend="i">Sçavante dans cét Art si vaste &amp; si profond,</l>
+            <l rend="i">Qui reduit l’Vnivers en un fragile Rond,</l>
+            <l rend="i">Sur l’exact abregé de la Terre tracée</l>
+            <l rend="i">Elle suivra vos pas de Contrée en Contrée,</l>
+            <l rend="i">Et ne pensant qu’à vous, essaira chaque jour,</l>
+            <l rend="i">Par cet amusement, de trompe son Amour.</l>
+            <l rend="i">Elle n’a point vécu jusqu’icy nonchalante,</l>
+            <l rend="i">Dans une oisiveté tranquille &amp; languissante.</l>
+            <l rend="i">Pallas, pour l’élever, dans le Berceau la prit :</l>
+            <l rend="i">De ses dons precieux Apollon l’enrichit,</l>
+            <l rend="i">Et tous deux, par leurs soins, à l’envy l’ont conduite</l>
+            <l rend="i">Dans leurs secrets divins, dont on la voit instruite.</l>
+            <l rend="i"> Durant les tristes jours de vôtre éloignement,</l>
+            <l rend="i">Loin de prester l’oreille aux discours d’un Amant,</l>
+            <l rend="i">Nouvelle Pénélope à l’ouvrage attachée,</l>
+            <l rend="i">Et d’un aimable Epoux uniquement touchée,</l>
+            <l rend="i">Sur un Métier brillant, l’adresse de ses Doits</l>
+            <l rend="i">Avec des traits dorez tracera vos Exploits :</l>
+            <l rend="i">Et lorsque du retour l’agreable nouvelle</l>
+            <l rend="i">Viendra d’un doux plaisir combler son cœur fidelle,</l>
+            <l rend="i">Lorsque loin des dangers elle vous reverra,</l>
+            <l rend="i">Dans les dangers encore elle vous montrera ;</l>
+            <l rend="i">Et sçaura vous nommer les Héros de l’Histoîre,</l>
+            <l rend="i">Dont vous aurez passé la Valeur &amp; la Gloire.</l>
+            <l rend="i"> Enfin, poursuit l’Amour, pour quoy differons nous ?</l>
+            <l rend="i">On ne sçauroit trop tost serrer des nœuds si doux.</l>
+            <l rend="i"> L’Hymen y consentit, &amp; la Terre charmée</l>
+            <l rend="i">En témoigna sa joye en son air exprimée.</l>
+            <l rend="i">Les Bois &amp; les Valons en parurent plus beaux.</l>
+            <l rend="i">On entend redoubler les concerts des Oiseaux</l>
+            <l rend="i">Les Bergers, les Sylvains, les Faunes, les Dryades,</l>
+            <l rend="i">Pour danser sur les fleurs, se joignent aux Naïades.</l>
+            <l rend="i">Tout en est animé ; tout se sent du beau jour,</l>
+            <l rend="i">Où l’Hymen de nouveau s’accorde avec l’Amour.</l>
+            <l rend="i"> Vivez, heureux Epoux, vivez, Nymphe charmante.</l>
+            <l rend="i">Qu’à jamais de ce jour la douceur vous enchante.</l>
+            <l rend="i">Qu’une Posterité digne de vos Ayeux,</l>
+            <l rend="i">Fasse éclater son rang &amp; sa gloire à vos yeux.</l>
+            <l rend="i">En sa faveur le Ciel fera plus d’un Miracle.</l>
+            <l rend="i"> Mais à nos vœux icy nous sommes un obstacle.</l>
+            <l rend="i">Le secret, pour en voir le succés s’assurer,</l>
+            <l rend="i">C’est de vous laisser seuls ; il faut se retirer.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_074">
+        <head>[Nouvelles réjoüissances faites en plusieurs Villes, &amp; autres lieux, pour le retour de la santé du Roy]</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 74-162</bibl>
         <p/>
         <p>Le 16. Février ayant esté choisi par ce Corps pour rendre des Actions de Graces à Dieu du retour de la santé de nostre Auguste Monarque, les quatre Prud'hommes, accompagnez de leurs anciens Collegues, d'un grand nombre de Patrons Pescheurs &amp; de leur Secretaire, se rendirent en bel ordre à dix heures du matin dans l'Eglise Paroissiale de saint Laurens, où ils assisterent à une grand'Messe qui fut celebrée par le Prieur, &amp; à laquelle ils communierent tous. L'apresdînée ils firent assembler 350 petits Enfans servant à la Pesche, dans la Chapelle des Penitens de sainte Catherine. Ils estoient tous habillez d'un petit Capot, &amp; portoient chacun une Banderole d'Armoisin bleu, semée de Fleurs de Lys d'or. Aprés que le Secretaire de cette Communauté leur eut fait en Provençal un petit discours sur le sujet de la Feste, ils firent quelques Prieres &amp; sortirent de la Chapelle avec des cris &amp; des acclamations qui attiroient les larmes de tout les Peuple. Lors qu'ils furent devant la Maison Commune des Prud'hommes, où s'estoit aussi rendu un nombre incroyable de Pescheurs, ils se mirent en marche deux à deux, precedez de six Tambours &amp; de six Fifres, criant sans cesse, Vive le Roy. Six Trompettes les suivoient, &amp; marchoient devant les quatre Anciens Prud'hommes, vétus de Drap noir, la Toque de velours noir sur la teste, &amp; la fraize au col fort proprement mise. Chacun deux portoit un grand &amp; long Espadon à deux mains élevé sur leurs épaules, qui est la marque de la Jurisdiction Souveraine, que plusieurs Lettres Patentes leur ont attribuée sur la Pesche. Ces quatre Anciens Prud'hommes estoient suivis des six Filles Orphelines appellées les Filles grises, parce qu'elles sont habillées de Drap gris. Elles sont nées de pauvres Patrons Pescheurs. Les Prud'hommes les font élever aux dépens de la Communauté, &amp; les marient ensuite, leur en substituant d'autres pour remplir le même nombre. Ces Filles qui avoient aussi communié le matin, tenoient des Banderoles pareilles à celles des petits Enfans. Quatre jeunes hommes portant un Guidon d'Armoisin, fleurdelizé, &amp; fort proprement vétus, suivoient les six Filles grises, &amp; aprés eux venoient les nouveaux Prud'hommes dans le mesme habit que les Anciens. Ils étoient precedez de la grande Bande de Violons, &amp; suivis d'un grand nombre de Patrons Pescheurs de tous âges. Cette Troupe ayant passé par toutes les principales ruës de la Ville, alla se rendre dans l'Eglise de saint Laurens, où l'on chanta le Te Deum &amp; des Motets en musique. Lors que l'on donna la Benediction les Prud'hommes leverent leurs Espadons au bruit des Violons &amp; des Trompetes. Quantité de Boëtes se firent entendre, &amp; ce fut ensuite un cry continuel de Vive le Roy. Aprés la Ceremonie, les quatre Prud'hommes en charge distribuerent des aumosnes aux Pauvres Patrons Pescheurs, qui n'avoient pas de quoy faire subsister leurs familles à cause de la sterilité de la Pesche. La nuit venuë, ils marcherent vers la Place de saint Jean à la clarté de plusieurs Flambeaux de cire blanche, &amp; ils y allumerent un grand Feu de Joye. En même temps on vit paroistre plus de trois cens Bateaux illuminez. Les Maisons de tous les Patrons Pescheurs parurent aussi toutes en feu, ainsi que la Maison Commune des Prud'hommes, devant laquelle il y eut un tres-beau Feu d'Artifice representant le gros Poisson qu'on appelle Ton. Ce feu reussit admirablement. J'ajoute des Vers Provençaux qui ont esté faits sur cette Feste. Ceux qui connoissent le genie de ce langage, y admireront tous les termes de la Pesche qui s'y trouvent heureusement appliquez. Aussi peut-on dire que c'est un Portrait des manieres &amp; de l'inclination de ces Pescheurs.</p>
         <p/>
@@ -123,16 +348,72 @@
         <p/>
         <p>M. Doré, Maistre de la Musique de la Cathedrale d'Arras &amp; tous les autres Musiciens de la Ville, aprés avoir prêté leurs voix dans toutes les Eglises, pour rendre graces à Dieu de la parfaite santé du Roy, ont voulu faire connoître qu'ils ne cedoient en zele à aucun Corps. Leur Feste se fit dans l'Eglise des Jesuites, où toute la Ville fut invitée. M. le Févre, Prevost de la Cathedrale, qu'ils avoient prié de faire l'Office, y fit transporter, du consentement du Chapitre, les beaux Ornemens de velours bleu, semez de Fleurs de Lys d'or, dont Louis XI. leur fit autrefois present, afin que la veuë des Lys donnast à tout  monde une forte idée de l'auguste Prince qui les fait aujourd'huy fleurir avec tant de gloire par toute la terre. Les Voix, les Concerts, les Instrumens, tout fut d'un accord qui charma tous ceux qui pûrent avoir place à cette Ceremonie, Le canon si fit entendre pendant qu'on chanta le Te Deum, &amp; M. Doré, de la composition de qui la Musique estoit, ainsi que la Symphonie, receut de grandes loüanges.</p>
       </div>
-      <div type="article" xml:id="MG-1687-04_297" resp="mercure">
-        <head>MG-1687-04_297</head>
-        <bibl>Mercure Galant, avril 1687, p. 297-312</bibl>
-        <p>Suites &amp; conclusion des Réjoüissances faites pour la santé du Roy.</p>
+      <div type="article" xml:id="MG-1687-04_165">
+        <head>[Vers de Madame la Viguière du mesme lieu<note resp="editor">Albi.</note>]</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 165-167</bibl>
+        <p>Ce petit détail d’une grande Journée a esté écrit à M. l’Abbé de la Roque par Madame de Saliez, Viguiere d’Alby, qui le jour mesme fit les Vers suivans sur l’arrivée de son nouveau Prelat.</p>
+        <quote>
+          <lg>
+            <l rend="i">Sous des Astres benins cette aimable Contrée</l>
+            <l rend="i">Surpassoit en beauté le plus heureux climat,</l>
+            <l rend="i">Nous goûtions en repos une paix assurée,</l>
+            <l rend="i">Saintement gouvernez par un charmant Prelat.</l>
+            <l rend="i">Son absence devint la source de nos peines,</l>
+            <l rend="i">Elle nous présagea la colere des Cieux,</l>
+            <l rend="i">L’air devenu poison, tout changea dans ces lieux,</l>
+            <l rend="i">Vn dangereux venin se glissa dans nos veines.</l>
+            <l rend="i">Ces signes trop certains du plus grand des malheurs,</l>
+            <l rend="i">Précederent la mort du meilleur des Pasteurs.</l>
+            <l rend="i">Du Ciel ce saint Prelat qui nous plaint, qui nous aime,</l>
+            <l rend="i">A son triste Troupeau donne un autre luy-mesme,</l>
+            <l rend="i">Tout va reprendre icy ses premiers agrémens,</l>
+            <l rend="i">Le Ciel change en amour les marques de sa haine.</l>
+            <l rend="i">Peuple, un nouveau Pasteur en ce jour te rameine</l>
+            <l rend="i">La joye &amp; les plaisirs, la santé, le printemps ;</l>
+            <l rend="i">A ta felicité rien ne peut faire obstacle,</l>
+            <l rend="i">Tes pressantes langueurs demandoient un miracle ;</l>
+            <l rend="i">Viens voir ce grand Prelat, &amp; reverer ses loix,</l>
+            <l rend="i">Viens voir mille vertus briller sur son visage,</l>
+            <l rend="i">Et ton bonheur certain dans l’auguste assemblage</l>
+            <l rend="i"> De cent miracles à la fois.</l>
+          </lg>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1687-04_170">
+        <head>[Mort de Louis le Févre de Caumartin]*</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 170-171</bibl>
+        <p>Il avoit épousé en premieres Noces Urbaine de Sainte Marthe, d’une ancienne Famille, qui a donné plusieurs illustres Autheurs sur l’Histoire de France, &amp; dans les belles Lettres, qui ont fait part de leurs Ouvrages au Public ;</p>
+      </div>
+      <div type="article" xml:id="MG-1687-04_272">
+        <head>[Mort de Jean Boyer]*</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 272-273</bibl>
+        <p>L’Abbaye de Blanchelande, Ordre de Premonstré, Diocese de Constance, vacante par la mort de Messire Jean Boyer, autrefois Capitaine aux Gardes &amp; ensuite premier Maistre d’Hostel de Monsieur, à M. l’Abbé de Cognée, qui a paru dans la Chaire avec succés, en un âge fort peu avancé. Il est fils de M. le Marquis de Cognée, du nom de le Vasseur, Maison considerable dans le Maine. La premiere femme de ce Marquis, fille de M. du Plessis-Mornay, dont est venu M. le Comte de Beaumont, estoit tante maternelle de M<hi rend="sup">r</hi> le Marquis de Dangeau.</p>
+      </div>
+      <div type="article" xml:id="MG-1687-04_280">
+        <head>[Oraison Funebre de feu Monsieur le Prince, prononcée en Latin au College Loüis le Grand]</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 280-284</bibl>
+        <p>Le 15. de ce mois le P. de la Baune Jesuite, ancien Professeur de Rhetorique, fit une Oraison Funebre de Monsieur le Prince en Latin, en presence de Monsieur le Prince, de Monsieur le Duc, de Monsieur le Prince de Conty, &amp; d’un tres-grand nombre de gens de la premiere qualité. Le lieu où cette Oraison fut prononcée estoit tout tendu noir, éclairé d’une tres grande quantité de lustres, &amp; orné d’un fort beau Mausolée, qui tenoit depuis le haut de la sale jusques au bas. Toutes les batailles données par M<hi rend="sup">r</hi> le Prince estoient peintes dans des Tableaux faits exprés. Il y avoit des trophées d’armes de tous costez, &amp; des inscriptions fort choisies tirées des anciens Autheurs pour representer les Vertus de ce grand Prince. Tout cela estoit fermé par deux bandes de velours noir, chargées des armes du Prince, &amp; de larmes d’argent qui regnoient autour de la sale.</p>
+        <p>Le dessein de l’Orateur estoit de representer M. le Prince sous l’idée d’un parfait Heros ; soit qu’on le regardast dans la guerre, soit qu’on l’envisageast dans toutes les autres parties de la vie civile. Son plan estoit pris du Magnanime d’Aristote. Il dit, <hi rend="i">qu’on avoit vû de grands Hommes dans la guerre, mais qui hors de-là estoient peu de choses, &amp; qu’au contraire on en avoit vû d’admirables dans tous les devoirs de la vie civile, &amp; qui dans la guerre n’estoient rien moins que cela ; mais qu’un vray Heros devoit estre toûjours égal à luy-mesme, dans quelque estat, dans quelque circonstance de la vie qu’il se trouvast, dans la paix, dans la guerre, dans le jour, dans la retraite, dans le public, ou dans le particulier</hi>. Ce fut ce qui luy donna lieu de parcourir toute la vie de M. le Prince : il conclut tout ce par sa mort chrétienne, sur laquelle il dit des choses fort tendres &amp; fort touchantes. Il fit un compliment à tous les Princes, &amp; dit plusieurs choses du Roy fort à propos. Cette action a esté approuvée generalement de tout le monde, &amp; on ne pût s’empescher de se récrier en bien des endroits. Ce Pere a déja fait plusieurs actions publiques, comme l’Eloge du Parlement de Paris, où toute cette auguste Compagnie se trouva en Corps il y a deux ans. Il a fait outre cela, une Harangue sur le Roy &amp; sur Monsieur le Duc, qui ont esté imprimées aussi-bien que plusieurs de ses ouvrages.</p>
+      </div>
+      <div type="article" xml:id="MG-1687-04_297">
+        <head>[Suites &amp; conclusion des Réjoüissances faites pour la santé du Roy]</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 297-312</bibl>
         <p/>
         <p>Il faut vous faire part des nouvelles Relations de Festes que je viens de recevoir. Mr le Marquis de Mirepoix, naturellement fort magnifique, ne l'est jamais tant que dans les ceremonies qui ont quelque rapport au service ou aux interests de Sa Majesté. C'est ce qui a paru le jour qu'il a fait chanter le Te Deum dans la Cathedrale de Pamiers, laquelle estoit superbement ornée, &amp; dés l'entrée de la nuit, on vit une Illumination tres-bien entenduë dans tous les dehors de sa maison. Les apartemens en furent ouverts à tout ce qu'il y avoit d'honnestes gens dans la Ville, &amp; les concerts qui divertirent les Personnes distinguées, furent suivis d'une collation où rien ne manqua. Il y eut un feu d'artifice avant le soupé, &amp; d'autres divertissemens occuperent agreablement les Conviez, pendant que quatre Fontaines de vin couloient pour le Peuple.</p>
         <p>Mr l'Evesque de Grasse, n'eust pas si tost eu la premiere nouvelle de la convalescence du Roy, qu'il en fit rendre des actions de graces à Dieu par un Te Deum chanté en Musique. Quinze jours aprés, cette nouvelle s'estant confirmée, on s'assembla à l'Hostel de Ville. M Gourdon, premier Consul, Gentilhomme d'un grand merite &amp; d'une noblesse distinguée, &amp; fils du Lieutenant general de Grasse, fit connoistre l'obligation où la Ville estoit de marquer sa joye pour le rétablissement d'une santé si precieuse à l'Etat. [...]</p>
         <p>Le lendemain les Magistrats firent leur ceremonie Il y eut une Messe solemnelle &amp; un Te Deum en Musique, avec une aumône generale. [...]</p>
         <p>Les Gentilshommes se sont aussi signalez. Ils s'assemblerent au nombre de vingt-cinq, tous Habitans de la Ville, &amp; des maisons les plus quafiées de la Province, chez M. de Villeneuve, Senéchal, &amp; aprés avoir  fait chanter une Messe solemnelle, &amp; un Te Deum dans la Cathedrale, ils firent tirer un feu d'artifice qui eut un fort grand succés, &amp; qui fut accompagné d'un bruit extraordinaire de Boëtes. Ils avoient été tous chez M. l'Evesque, pour le prier d'honorer leur Feste de sa presence, &amp; l'avoient conduit en ceremonie chez M. le Senéchal, où il fut placé commodement. Ces honneurs extraordinaires ne sont pas tant des marques de la veneration qu'on a pour le caractere de ce Prelat, que de l'attachement particulier que ses grandes qualitez font avoir pour sa personne. Il fut agréablement surpris, aprés que ces Gentilshommes eurent allumé le feu, de leur voir danser la Moresque l'épée à la main, comme pour faire connnoistre qu'ils seroient prêts en tout temps de la tirer pour le service du Roy. Cette danse  prend son nom &amp; son origine des Mores, qui on esté les maistres de cette Province durant deux Siecles,  &amp; approche fort de la Pirrhique des anciens Grecs, où les Soldats dansoient armez, pour conserver une image de la guerre dans le plaisir mesme. Lors que le feu eut esté tiré, ces Gentilshommes reconduisirent Mr l'Evesque dans le mesme ordre, &amp; souperent ensemble dans la Maison de Ville, où la santé du Roy fut beuë plusieurs fois. [...]</p>
         <p>Mrs du Presidial de Riom ont assisté a un Te Deum chanté solemnellement, au sortir duquel, M. de Combes, Lieutenant general, Neveu de feu M. de St Sandoux, regala tous ceux de sa Compagnie.</p>
+      </div>
+      <div type="article" xml:id="MG-1687-04_323">
+        <head>[Sur le livre Maximes, Sentences, &amp; Reflexions Morales &amp; Politiques]*</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 323-324</bibl>
+        <p>Je vous envoye deux Livres nouveaux. Comme vous aimez les Reflexions, le Tiltre de l’un qui est, <hi rend="i">Maximes, Sentences, &amp; Reflexions Morales &amp; Politiques</hi>, vous promet une lecture agréable. Il y a beaucoup d’esprit dans ce Livre qui se vend chez le sieur du Castin, Libraire au Palais.</p>
+      </div>
+      <div type="article" xml:id="MG-1687-04_324">
+        <head>[Sur le livre La cinquiéme partie de l’Histoire des Troubles de Hongrie]*</head>
+        <bibl><title>Mercure Galant</title>, avril [tome 6], 1687, p. 324-325</bibl>
+        <p>L’autre est, <hi rend="i">La cinquiéme partie de l’Histoire des Troubles de Hongrie</hi>, contenant tout ce qui s’est passé pendant toute la Campagne de 1686. Si vos amis la veulent avoir, ils la trouveront chez le sieur de Luyne à la Justice, &amp; chez le sieur Guerout, Court neuve du Palais, qui debitent les quatre autres Volumes de la mesme Histoire. Je suis, Madame, Vostre, &amp;c.</p>
       </div>
     </body>
   </text>
