@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="apllication/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-03" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, mars 1682</title>
+        <title>Mercure Galant, mars 1682 [tome 3]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>mars 1682</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>mars 1682</date> [<biblScope unit="volume">tome 3</biblScope>].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, mars [tome 3], 1682</head>
       <div type="article" xml:id="MG-1682-03_008">
         <head>[Reception de M. l'Evesque de Meaux dans la Ville de ce nom, avec toutes les Harangues &amp; les Réponses]</head>
         <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 8-9, 12-15, 36, 40-41, 43-44.</bibl>
