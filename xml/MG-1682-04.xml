@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, avril 1682</title>
+        <title>Mercure Galant, avril 1682 [tome 4]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>avril 1682</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>avril 1682</date> [<biblScope unit="volume">tome 4</biblScope>].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, avril [tome 4], 1682</head>
       <div type="article" xml:id="MG-1682-04_008">
         <head>[M. Laurenzani, Maistre de Musique de la Reyne, fait chanter dans la Chapelle du Roy un Pseaume de sa composition]</head>
         <bibl><title>Mercure Galant</title>, avril [tome 4], 1682, p. 8-12.</bibl>
