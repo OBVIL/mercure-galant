@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, juillet 1684</title>
+        <title>Mercure Galant, juillet 1684 [tome 9]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>juillet 1684</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1684</date> [tome 9].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, juillet [tome 9], 1684</head>
       <div type="article" xml:id="MG-1684-07_005">
         <head>Vers pour apprendre aisément les Fortifications</head>
         <bibl><title>Mercure Galant</title>, juillet [tome 9], 1684, p. 5-15</bibl>
