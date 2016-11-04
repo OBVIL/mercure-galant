@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, décembre, seconde partie, 1688</title>
+        <title>Mercure Galant, décembre 1688, seconde partie [tome 17]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, décembre, seconde partie, <date>1688</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1688</date>, seconde partie [tome 17], troisième partie des affaires du temps.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -50,8 +50,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body type="tome" xml:id="MG-1688-12b">
-      <head><hi rend="i">Mercure Galant, Troisième partie des affaires du temps</hi> [tome 3], décembre, seconde partie, 1688</head>
+    <body>
       <div type="article" xml:id="MG-1688-12b_000">
         <head>Avis</head>
         <bibl><title>Mercure Galant, Troisième partie des affaires du temps</title>, décembre, seconde partie, 1688, p. I-II</bibl>

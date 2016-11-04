@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, mai, deuxième partie, 1688</title>
+        <title>Mercure Galant, mai 1688, deuxième partie [tome 7]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, mai, deuxième partie, <date>1688</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>mai 1688</date>, deuxième partie [tome 7], suite de l’histoire de Mahomet IV depossedé.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant, Suite de l’histoire de Mahomet IV depossedé</hi>, mai, seconde partie [tome 7], 1688</head>
       <div type="article" xml:id="MG-1688-05b_000">
         <head>[A Madame la Duchesse de Noailles]*</head>
         <bibl><title>Mercure Galant, Suite de l’histoire de Mahomet IV depossedé</title>, mai, seconde partie, 1688, p. I-VIII</bibl>
