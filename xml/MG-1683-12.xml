@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, décembre 1683</title>
+        <title>Mercure Galant, décembre 1683 [tome 14]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>décembre 1683</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1683</date> [tome 14].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, décembre [tome 14], 1683</head>
       <div type="article" xml:id="MG-1683-12_003">
         <head>Pour le Roy. Sonnet</head>
         <bibl><title>Mercure Galant</title>, décembre [tome 14], 1683, p. 3-4</bibl>
