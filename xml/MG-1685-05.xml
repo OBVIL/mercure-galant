@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, mai 1685</title>
+        <title>Mercure Galant, mai 1685 [tome 5]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>mai 1685</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>mai 1685</date> [tome 5].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,8 +51,7 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, mai [tome 5], 1685</head>
-      <div type="article" xml:id="MG-1685-05_008" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_008">
         <head>[Sur le livre Paralelle de Louis le Grand avec les autres Princes qui ont esté surnommé Grands et le Dictionnaire historique des Conquestes]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 8-11</bibl>
         <p>Il ne faut pas s’étonner si une suite si continuelle d’Actions qui sont audessus de toutes sortes d’éloges, en attire tant tous les jours au Roy, non seulement de ses Sujets, mais encore des Nations les plus éloignées, où le bruit de sa grandeur s’est répandu. On ne la peut mieux connoistre que par le Livre intitulé <hi rend="i">Paralelle de LOVIS LE GRAND avec les autres Princes qui ont esté surnommez Grands</hi>. Cet Ouvrage est de M<hi rend="sup">r</hi> de Vertron de l’Académie Royale d’Arles. Il fait voir que le Roy a toutes leurs vertus, sans avoir aucun de leurs defauts, &amp; l’on y trouve les plus beaux traits de l’Histoire universelle. Il finit avec ces paroles divines, qui font l’ame d’une Devise qui a le Soleil pour corps.</p>
@@ -63,7 +62,7 @@
         </quote>
         <p>Rien ne pouvoit mieux finir un Livre dont le but est de prouver que le Roy est audessus de tout ce qui a jamais porté le nom de Grand. Le mesme jour que M<hi rend="sup">r</hi> de Vertron présenta ce Paralelle à Sa Majesté, il eut l’honneur de luy donner en mesme temps un Dictionnaire Historique de ses Conquestes depuis 1643. jusques en 1679. Je ne sçay si celles de toutes les Puissances du Monde mises ensemble depuis un siécle, composeroient un Volume qui approchast de la grosseur de celuy dont je vous parle. Ce Dictionnaire n’est encore qu’en manuscrit. Je ne vous dis point de quelle maniere le Roy le receut. Il a toûjours beaucoup de retenuë sur ce qui le loüe ; &amp; l’on sçait qu’un de nos plus illustres Autheurs luy ayant présenté un Ouvrage qui renfermoit son Eloge, &amp; qui avoit esté recité en Public avec de grands applaudissemens, ce Prince luy dit, <hi rend="i">Qu’il le loüeroit davantage, s’il y estoit moins loüé</hi>.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_011" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_011">
         <head>[Inscription de M<hi rend="sup">r</hi> Verton pour le château de Versailles]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 11-13</bibl>
         <p>Ce Monarque pouvoit dire la mesme chose à M<hi rend="sup">r</hi> de Vertron. C’est encore luy qui a fait l’Inscription suivante pour le Palais de Versailles.</p>
@@ -88,7 +87,7 @@
         </quote>
         <p>On n’a point encore choisy les Inscriptions qu’on doit mettre au Louvre &amp; à Versailles. La beauté de la matiere, le desir de la gloire, &amp; sur tout l’envie de faire quelque chose qui puisse plaire à Sa Majesté, ont engagé quantité de beaux Esprits à travailler sur ces grands sujets.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_013" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_013">
         <head>[Inscription pour le Louvre]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 13</bibl>
         <p>Voicy une Inscription pour le Louvre, faite par un Autheur qui m’est inconnu. On suppose une Renommée au-dessus de ce grand Portail. Elle doit tenir le Portrait du Roy d’une main, &amp; de l’autre sa Trompette, avec ces Vers dans la Banderole.</p>
@@ -101,12 +100,12 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_023" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_023">
         <head>[Paris Ancien &amp; Nouveau]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 23-27</bibl>
         <p>Si par ces Estampes on voit ce que le Roy a fait pour l’agrandissement &amp; pour l’embellissement de son Royaume, on apprend ce que Paris luy doit dans un Livre qui se vend depuis peu de jours chez le Sieur Girard à l’Enseigne de l’Envie au Palais. Il est divisé en trois Volumes, &amp; porte pour Titre <hi rend="i">Paris Ancien &amp; Nouveau</hi>. On y voit <hi rend="i">la fondation, les accroissemens, le nombre des Habitans, &amp; des Maisons de cette grande Ville, avec une Description nouvelle de ce qu’il y a de plus remarquable dans toutes les Eglises, Communautez &amp; Colléges, dans les Palais, Hostels &amp; Maisons des Particuliers, dans les Ruës &amp; dans les Places publiques</hi>, &amp; ce qu’il y a de surprenant, c’est qu’il s’est fait plus d’Edifices nouveaux, &amp; plus d’embellissemens à Paris, depuis le glorieux Regne de Sa Majesté, qu’il ne s’y en estoit fait auparavant en plusieurs Siecles. Les grandes actions de ce Monarque ont esté cause qu’on a rebâty presque toutes les Portes de cette superbe Ville, afin de les y marquer, &amp; la beauté de ces Portes a donné lieu de travailler à l’embellissement des Ramparts, &amp; à l’élargissement des Ruës. On a fait en mesme temps des Fontaines nouvelles, &amp; l’on a relevé des Quays. On a fait des Hôpitaux pour les Pauvres Mandians, &amp; le Roy a pris le soin de tout ce qui a regardé le logement &amp; la subsistance des Invalides. Tout cela se voit dans ces trois Volumes, qui font un éloge d’autant plus grand de ce Prince, sans luy donner pourtant aucune loüange, que les choses par lesquelles on auroit pû le loüer parlent elles mesmes, &amp; n’ont pas besoin que l’on ajoûte qu’elles sont autant d’effets de sa bonté pour ses Peuples, &amp; de sa magnificence.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_027" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_027">
         <head>Lettre à l’Autheur du Mercure Galant, concernant le Temple de Grenoble</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 27-37</bibl>
         <p>J’aurois dequoy faire plusieurs Volumes ce mois cy, en ne parlant seulement que de ce qu’il fait à l’avantage de la veritable Religion, si je voulois entrer dans toutes les particularitez où ce grand Monarque veut bien se donner la peine de descendre, en faveur de ses Sujets aveuglez par une fatale obstination. Voicy ce qui m’a esté envoyé imprimé, sur un de ces Articles de Religion.</p>
@@ -126,7 +125,7 @@
           <p>A Grenoble ce 7. d’Avril 1685.</p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_037" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_037">
         <head>Lettre sur le Pronostic du Sr de la Riviere [...] touchant la Religion protestante en France</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 37-53</bibl>
         <p>Le mesme M<hi rend="sup">r</hi> Allard m’a fait encore l’honneur de m’adresser la Lettre suivante, &amp; la Copie que j’en ay receuë estoit aussi imprimée.</p>
@@ -139,12 +138,12 @@
           <p><hi rend="i">Des quatre Autheurs qui ont recüeilly les Mémoires de M<hi rend="sup">r</hi> de Sully, quelques-uns témoignent en plusieurs endroits, qu’ils estoient de la R.P.R. Cependant ils parlent de ce Pronostic fort naturellement. M<hi rend="sup">r</hi> de Sully l’estoit aussi, le Livre a esté imprimé en une Ville Protestante, &amp; par conséquent il en doit paroistre moins suspect. Que dites-vous, Monsieur, de celuy qui l’a fait ? Trouvez-vous qu’il ait deviné ? Ces assistances données par Henry IV. aux Huguenots, ont-elles esté de quelque considération sous son Successeur ? N’a-t-on pas veu que Loüis XIII. a bien sceu déménager les ménagemens de son Pere, &amp; par l’abatement d’un nombre infiny de Temples, par des Conversions continuelles, &amp; par la décadence des Affaires des Huguenots ? Le S<hi rend="sup">r</hi> de la Riviere n’a-t-il pas bien jugé que LOUIS XIV. en feroit plus que son Prédecesseur, &amp; que sous la lignée de celuy-cy les choses des Huguenots empireroient. Nos Prétendus auront beau chercher quelque détour &amp; quelque explication à cet Entretien, qui leur soit favorable ; je croy qu’ils y reüssiront aussi mal, qu’ils ont reüssy à trouver dans la Sainte Ecriture leurs Dogmes &amp; leurs Erreurs. Il y a apparence que si le S<hi rend="sup">r</hi> de la Riviere avoit voulu s’expliquer, il auroit prédit de grands événemens là-dessus ; mais comme il estoit mutiné de ce que sa science luy en avoit trop apris, &amp; qu’il lisoit trop bien dans l’avenir que la ruine de sa Religion estoit reservée aux pieux desseins du Roy, il aima mieux se taire, que de se trouver obligé de dire des choses qui le chagrinoient, qui auroient étonné ceux de son temps, &amp; préparé tout le monde à voir reüssir ce qu’il avoit préveu. Je voudrois bien, Monsieur, que nos Sçavans voulussent un peu raisonner sur la Science des Horoscopes, &amp; apprendre au Public par vostre moyen, si elle est asseurée ou non. Je suis persuadé avec bien des Gens, que les Constellations qui régnent au temps des naissances, peuvent inspirer des inclinations particulieres, &amp; former la bonne ou la mauvaise fortune ; mais que sur des Figures tracées, que sur l’examen d’une Etoile, que sur l’influence d’un Signe, on puisse fonder quelque certitude pour les actions futures des Enfans de celuy qui naist, c’est ce qui me passe. Cependant le S<hi rend="sup">r</hi> de la Riviere, en faisant l’Horoscope de Loüis le Juste, a fait connoistre ce que</hi> <hi rend="sc">Loüis le Grand</hi> <hi rend="i">son Fils devoit faire apres luy ; &amp; non content d’avoir appris à Henry IV. que son Fils attaqueroit l’Herésie, il a fait connoistre qu’elle seroit aux abois sous le Régne de son Petit-fils. Pour moy, je crois que pour tout autre que pour le Roy, de semblables Propheties seroient impossibles ; mais il faut que pour un Prince extraordinaire, tout ce qui le regarde soit extraordinaire. Je suis, &amp;c.</hi></p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_058" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_058">
         <head>[Controverses du Père Alexis du Buc]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 58-60</bibl>
         <p>Cet Arrest, &amp; plusieurs autres de mesme nature, confirment bien ce que le Pere Alexis du Buc, Theatin, a dit à la loüange du Roy dans une de ses Controverses. <hi rend="i">On ne dira pas de ce grand Monarque, comme d’Aza Roy d’Israël</hi>, Verumtamen non abstulit excelsa. <hi rend="i">Aza estoit pieux ; il avoit du zéle pour le culte du vray Dieu</hi>. Fecit Aza, <hi rend="i">dit l’Ecriture</hi>, rectum ante conspectum Domini. <hi rend="i">Mais quelque grand que fust son zéle pour exterminer l’Idolatrie</hi>, non abstulit excelsa, <hi rend="i">il n’abatit pas les Temples que Salomon avoit fait bastir aux Idoles. Henry le Grand, dans un temps fâcheux, &amp; dans l’impossibilité de se vanger des outrages de ceux de la Religion Prétenduë Reformée, signa en leur faveur l’Edit de Nantes, &amp; leur accorda le Temple de Charenton, qui est contraire à l’Article 14. de cet Edit, qui défend de faire aucun Exercice public de la Religion, plus prés de Paris que quatre lieuës. Loüis le Juste, à qui Dieu avoit presté son Bras pour ôter la Rochelle aux Prétendus Reformez, n’abatit pas les Temples qu’ils y avoient</hi>, verumtamen non abstulit excelsa ; <hi rend="i">mais</hi> <hi rend="sc">Loüis le Grand</hi> <hi rend="i">imitant la pieté &amp; le zéle du Saint Roy Josias, qui ôta les Autels des faux Dieux, &amp; chassa les faux Prophetes, fait démolir les Presches par tout son Royaume, détruit les Colléges où l’on enseignoit l’Herésie, dans tous les endroits où l’on n’a point de droit d’en avoir, &amp; employe sa puissance à exterminer ce Monstre du sein de ses Etats</hi>.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_067" resp="mercure">
+      <div type="article" xml:id="MG-1685-05_067">
         <head>[Article touchant la Démolition du Temple de Montelimart]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 67-73, 75-77</bibl>
         <p/>
@@ -152,7 +151,7 @@
         <p/>
         <p>[A son arrivé, l'évêque de Valence fut harangué et complimenté, puis] M<hi rend="sup">r</hi> de Valence revestu de ses Habits Pontificaux, précedé de tous les Corps Religieux &amp; du Chapitre, partit en Procession pour aller à la Place du Temple ; pendant que la nouvelle Cloche &amp; les anciennes sonnoient à la fois. [...] La Benediction faite avec les Cerémonies ordinaires, M<hi rend="sup">r</hi> de Valence receut au pied de la Croix l'Abjuration d'une Femme. Il avoit auparavant receu celle d'un Gentilhomme dans un autre lieu. Aprés qu'il luy eut fait faire sa Profession de Foy, il retourna à l'Eglise dans le mesme ordre qu'il estoit party. La Musique qu'on avoit fait venir des Villes voisines, entonna le <hi rend="i">Te Deum</hi>, &amp; la Benédiction du Saint Sacrement fut donnée par M<hi rend="sup">r</hi> l'Evesque, qui fut ramené chez luy par M<hi rend="sup">rs</hi> du Chapitre, &amp; par tous les Corps Religieux. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_078" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_078">
         <head>[Sonnet]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 78-80</bibl>
         <p>La Démolition du Temple de Montelimard a donné lieu à ce Sonnet de M<hi rend="sup">r</hi> l’Abbé du Claux, Chanoine de Sainte Croix de Montelimard. C’est un digne Frere du Président dont je viens de vous parler. Vous vous souviendrez que le nom de M<hi rend="sup">r</hi> l’Evesque de Valence est Daniel.</p>
@@ -184,7 +183,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_080" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_080">
         <head>A Monsieur l’Evesque de Valence, sur son zéle pour la Religion</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 80-83</bibl>
         <p>Les Vers qui suivent sont du jeune Gentilhomme dont je vous envoyay dans ma Lettre du dernier mois l’Ouvrage galant qui vous a tant pleu, sur ce qu’Iris en mourant avoit ordonné à Damon d’aimer Celimene. Vous ne l’approuverez peut-estre pas moins dans le sérieux que dans l’enjoüé.</p>
@@ -214,7 +213,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_083" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_083">
         <head>[Vers aux réformés, sur la démolition de leur temple]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 83-85</bibl>
         <p>Le mesme adresse ces autres Vers aux Prétendus Reformez, sur la démolition de leur Temple.</p>
@@ -241,7 +240,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_085" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_085">
         <head>[Autres vers aux réformés, sur la démolition de leur temple]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 85-86</bibl>
         <p>Un Illustre, connu &amp; estimé de toute la France par ses Ouvrages galans, a fait ce qui suit sur la Démolition de ce mesme Temple.</p>
@@ -280,7 +279,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_086" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_086">
         <head>[Madrigal sur la religion réformée]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 86-89</bibl>
         <p>Je ne sçaurois finir cet Article sans vous faire part d’un Madrigal qui enferme une Réponse aussi juste que spirituelle, faite par un Ministre de la Religion Prétenduë Reformée dans le Païs des Sevenes, Homme fort estimé parmy ceux de son Party, mais qui a fait voir une fidélité particuliere pour son Prince en toutes sortes d’occasions, quelque préoccupation qu’il ait pour la Religion qu’il professe. Le Madrigal explique le Fait.</p>
@@ -307,7 +306,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_089" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_089">
         <head>Bouts-rimez pour Madame de R…</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 89-91</bibl>
         <p>Tout le monde est si fort charmé du Roy, que ceux mesme qui ne s’occupoient qu’à des Vers galans, semblent n’en pouvoir plus faire que pour luy. Ce Sonnet de M<hi rend="sup">r</hi> de Grammont de Richelieu en est une preuve. Il est sur des Bouts-rimez, envoyez par la Dame mesme à qui il s’adresse.</p>
@@ -340,7 +339,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_091" resp="mercure">
+      <div type="article" xml:id="MG-1685-05_091">
         <head>[Jeux Floraux, &amp; leur origine, avec plusieurs Piéces faïtes sur ce sujet]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 91-97, 104-106, 126-127</bibl>
         <p/>
@@ -353,7 +352,7 @@
         <p/>
         <p>Je ne doute point, Madame, que toutes ces Piéces ne vous donnent une estime particuliere pour les Muses Toulousaines. Il y a beaucoup de feu, &amp; un tout fort naturel, dans ce qui part d'elles ; &amp; j'espere que de temps en temps je pourray vous procurer le plaisir de voir leurs productions.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_157" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_157">
         <head>Plainte pour un Mouton à sa Bergere</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 157-161</bibl>
         <p>Quoy que les Moutons soient doux, ils se plaignent quelquefois. Les Vers qui suivent nous le font connoître. Ils sont de M<hi rend="sup">r</hi> Vignier de Richelieu.</p>
@@ -429,7 +428,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1685-05_161" resp="wordpro" copyOf="JLB_MG-1685-05_188">
+      <div type="article" xml:id="MG-1685-05_161" copyOf="JLB_MG-1685-05_188">
         <head>Des Choses difficiles à croire. Dialogue troisiéme</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 161-194</bibl>
         <p>Voicy un troisiéme Entretien de M<hi rend="sup">r</hi> B. Vous y trouverez tant de choses curieuses, que je suis seur qu’il ne vous plaira pas moins que les deux premiers que vous avez veus.</p>
@@ -477,7 +476,7 @@
         </quote>
       </div>
       
-      <div type="article" xml:id="MG-1685-05_197" resp="mercure">
+      <div type="article" xml:id="MG-1685-05_197">
         <head>[Couronnement du Roy d'Angleterre, contenant plusieurs particularitez qui n'ont point encore esté sceuës]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 197, 205-206, 213-218, 245-247, 249-251, 255-257, 259-267, 270-272, 275</bibl>
         <p/>
@@ -498,12 +497,12 @@
         <p/>
         <p>Après le Festin leurs Majestez revinrent à Witheal aux acclamations du Peuple.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_275" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_275">
         <head>[Panégyrique du Roy, prononcé par M. le Recteur]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 275-283</bibl>
         <p>La Ville de Paris passa l’année derniere un Contract avec l’Université, par lequel sous de certaines conditions, elle fonda à perpetuité un Eloge public du Roy, qui doit estre prononcé le 15. de May de chaque année, jour de l’Avenement de Sa Majesté à la Couronne, par le Recteur qui se trouvera alors en Charge. Cela fut executé le Mardy 15. de ce mois par M<hi rend="sup">r</hi> Berthe, qui avoit esté nommé Recteur dés celuy d’Octobre, quoy qu’il fust alors Prieur de la Maison &amp; Societé de Sorbonne. Aucun de cette Maison n’avoit possedé tout à la fois ces deux qualitez depuis long temps, quoy qu’elle soit composée de quantité de Personnes d’un profond sçavoir, &amp; d’un merite extraordinaire. La dignité de Prieur de Sorbonne l’engageoit à deux grands Discours publics qui se font à l’ouverture de la premiere &amp; derniere Sorbonique, &amp; à plus de soixante Eloges particuliers qu’il luy a fallu faire suivant le nombre des Sorboniques qu’il a toutes faites par luy mesme, ce que personne avant luy n’avoit fait, lors que ces Actes estoient en si grand nombre. Il prononça le Panégyrique du Roy le jour que je viens de vous marquer, dans l’Ecole extérieure de Sorbonne, en presence d’un grand nombre de Prélats, entre lesquels estoient M<hi rend="sup">r</hi> l’Archevesque de Paris, &amp; M<hi rend="sup">rs</hi> les Evesques de Meaux, de Troye, &amp; du Mans. Plusieurs Genéraux d’Ordre s’y trouverent, avec quantité d’Abbez qualifiez, &amp; de Religieux. Il y avoit aussi grand nombre de Présidents, Conseillers d’Etat, du Parlement, &amp; M<hi rend="sup">rs</hi> les Procureur Genéral, &amp; Avocats Genéraux. M<hi rend="sup">rs</hi> de Ville, revestus de leurs Habits de Satin, s’y rendirent avec un cortege de quinze ou seize Carrosses, précedez de soixante Archers de Ville, dont ils avoient envoyé un pareil nombre pour garder les portes &amp; les places. Vis à vis la Chaire de l’Orateur estoit le Portrait du Roy sous un Dais, &amp; au costé droit de la Salle, par rapport au mesme Orateur, un Buste de Varin d’une tres-grande beauté, estoit posé sur un pied d’estal de Marbre. Autour du Recteur, sur une Estrade élevée de part &amp; d’autre, estoient les principaux Officiers de l’Université, au nombre de quatorze, dans leurs Habits de Cerémonie. Le reste de l’Université, c’est à dire plus de deux cens Docteurs en Théologie, les Docteurs de Medecine &amp; de Droit, les Bacheliers, les Regents &amp; autres, se placerent comme ils purent. M<hi rend="sup">r</hi> Berthe exposa dans son Exorde le dessein &amp; les causes du Panégyrique qu’il faisoit. Il loüa la Ville du moyen ingénieux qu’elle avoit trouvé d’immortaliser le Roy d’une façon singuliere, en confiant un si illustre dépost à un Corps qui ne périroit jamais, &amp; dont le zele pour la gloire de ses Princes, avoit mérité que ce fust dans son sein qu’on élevast un Autel au mérite incomparable de nostre auguste Monarque. Il entreprit dans la suite de justifier les deux Titres que toute la Terre donne au Roy, celuy de Grand, &amp; celuy de Tres-Chrétien Il s’attacha à établir d’abord la grandeur du Roy sur une idée genérale de tout ce qui avoit jamais manqué aux Princes qui ont eu le nom de Grand, &amp; fit voir que rien de tout cela n’avoit manqué à Sa Majesté, qui réünissoit en sa Personne tout ce qui avoit mérité ce mesme Titre de Grand, &amp; qui possedoit sans aucun defaut, tout ce qu’il y a, &amp; tout ce qu’il peut y avoir d’extraordinaire dans la vraye Grandeur. Il montra ensuite que le Roy estoit en effet Tres-Chrétien, qu’il avoit fait, &amp; qu’il faisoit encore tous les jours pour l’Eglise, plus qu’aucun des Princes qui l’ont précedé. Il entra dans ce détail non pas en Historien, mais en habile Orateur, &amp; finit par des vœux au Ciel pour la conservation de la Personne sacrée de Sa Majesté.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_324" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_324">
         <head>[Discours en italien du Doge de Venise et traduction]*</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 324-336</bibl>
         <p>Voicy le Discours du Doge en Italien, dans les mesmes termes qu’il a esté prononcé.</p>
@@ -523,7 +522,7 @@
         </quote>
         <p>Vous observerez que toutes les fois que le nom de Sa Majesté se trouva dans ce Discours, le Doge se découvrit, que le Roy en fit de mesme, &amp; que tous les Princes se découvrirent aussi, ce qui arriva plusieurs fois. Le Roy répondit au Doge, <hi rend="i">Qu’il estoit content des soumissions que luy faisoit faire la République de Genes ; que comme il avoit esté fâché d’avoir eu sujet de faire éclater son ressentiment contre elle, il estoit bien aise de voir les choses au point où elles estoient, parce qu’il croyoit qu’à l’avenir il y auroit une tres-bonne correspondance ; qu’il vouloit se la promettre de la bonne conduite de la République tiendroit, &amp; que l’estimant beaucoup il luy donneroit dans toutes les occasions des marques du retour de sa bien-veillance</hi>. A l’égard du Doge, Sa Majesté parla de son merite personnel avec beaucoup de bonté, luy faisant connoistre qu’Elle luy donneroit avec plaisir des témoignages de l’estime particuliere qu’Elle en faisoit.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_362" resp="mercure">
+      <div type="article" xml:id="MG-1685-05_362">
         <head>[Tout ce qui s'est passé depuis l'arrivée du Doge jusques à son départ]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 362-363, 367-372</bibl>
         <p/>
@@ -536,13 +535,13 @@
         <p><hi rend="sc"><hi rend="i">Sire</hi></hi>,</p>
         <p><hi rend="i">Les graces qu’il a pleu à V. M. de faire à ma République, tant en ma Personne qu’en celle de ces quatre Senateurs, sont si abondantes, &amp; si singulieres, qu’elles surpassent de beaucoup les esperances qu’elle en avoit conceuës. La genérosité &amp; la magnanimité, comme toutes les autres vertus heroïques qui éclatent en V. M. estant au dessus de tout ce qui s’en peut imaginer, ce n’est pas une chose surprenante que je ne puisse trouver des termes pour en exprimer la grandeur. Tout ce que j’en pourray representer à ma République, quelque effort que j’y employe, n’en sera qu’une tres-foible partie. Elle sera cependant plus que suffisante pour l’obliger perpetuellement à se signaler entre les autres Princes dans le respect qui est deu à V. M. &amp; à s’appliquer avec soin à conserver l’avantage glorieux de ses bonnes graces, qu’Elle a bien voulu luy accorder avec tant de marques de bonté. Quoy que la possession de tout ce que nous avons au monde de plus prétieux, soit toûjours mêlée de quelque inquiete crainte de le perdre, ma République, se tenant fort asseurée de ne rien faire jamais qui puisse luy attirer une si fâcheuse disgrace, elle n’auroit autre chose à craindre sinon que ses droites intentions, &amp; ses actions les plus sinceres, ne parussent autres par l’éloignement des lieux qu’elles ne sont en elles mesmes, si elle n’estoit asseurée que l’Oeil tres-perçant de V. M. dissipera avec ses vifs rayons toutes les ombres étrangeres qui pourroient s’opposer à sa clarté. Sur cette confiance j’augure à V. M. la possession du bonheur, &amp; de la gloire qu’Elle s’est si justement acquise par le cours continuel de ses merveilleuses actions</hi>.</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_378" resp="mercure">
+      <div type="article" xml:id="MG-1685-05_378">
         <head>[Sermon en Grec par M. l'Abbé Barentin]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 378-379</bibl>
         <p/>
         <p>Je ne vous ay point encore parlé d'un Sermon extraordinaire qui se fait tous les ans aux Cordeliers le Dimanche de Quasimodo. La Confrairie des Pélerins de Jérusalem, établie dans l'Eglise de ces Peres, y fait dire ce jour-là une grande Messe que l'on chante en Grec, au milieu de laquelle on presche en la même Langue. L'usage est depuis long temps de choisir pour cet employ de jeu des Ecoliers de qualité, distinguez par les progres qu'ils ont faits dans leurs Etudes. [...] Messieurs de Lamoignon &amp; Talon l'ont fait dans leur temps, &amp; M<hi rend="sup">r</hi> l'Abbé Barentin, Fils de M<hi rend="sup">r</hi> Barentin Premier Président du Grand Conseil, a esté choisy cette année pour ce mesme employ. On ne peut s'en acquiter avec plus de grace qu'il a fait, soit pour le geste &amp; les flexions de voix, soit pour les autres talens qui sont propres à la Chaire. Il y avoit une tres nombreuse Assemblée de Gens de marque, qui en sortirent charmez. [...]</p>
       </div>
-      <div type="article" xml:id="MG-1685-05_380" resp="wordpro">
+      <div type="article" xml:id="MG-1685-05_380">
         <head>[Traduction nouvelle de la seconde Philippique de Cicéron]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 5], 1685, p. 380</bibl>
         <p>Je vous envoye une <hi rend="i">Traduction nouvelle de la seconde Philippique de Ciceron</hi>, faite par M<hi rend="sup">r</hi> Gillet Avocat au Parlement. Il a conservé toutes les beautez de l’Original ; &amp; ce n’est pas une petite gloire pour luy, puis que cette Piéce passe pour le Chef-d’œuvre de ce grand Maistre de l’Eloquence. Je suis, Madame, vostre, &amp;c.</p>

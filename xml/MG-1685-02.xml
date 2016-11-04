@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, février 1685</title>
+        <title>Mercure Galant, février 1685 [tome 2]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>février 1685</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>février 1685</date> [tome 2].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, février [tome 2], 1685</head>
       <div type="article" xml:id="MG-1685-02_001">
         <head>[Prélude]</head>
         <bibl><title>Mercure Galant</title>, février [tome 2], 1685, p. 1-2</bibl>

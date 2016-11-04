@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, janvier 1685</title>
+        <title>Mercure Galant, janvier 1685 [tome 1]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>janvier 1685</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1685</date> [tome 1].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, janvier [tome 1], 1685</head>
       <div type="article" xml:id="MG-1685-01_007">
         <head>Etrenne de Quatorze Louis à Louis le Grand. Sonnet</head>
         <bibl><title>Mercure Galant</title>, janvier [tome 1], 1685, p. 7-9</bibl>
