@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, avril 1686</title>
+        <title>Mercure Galant, avril 1686 [tome 5]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>avril 1686</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>avril 1686</date> [tome 5].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, avril [tome 5], 1686</head>
       <div type="article" xml:id="MG-1686-04_001">
         <head>[Madrigal de Mademoiselle de Scudery]</head>
         <bibl><title>Mercure Galant</title>, avril [tome 5], 1686, p. 1-4</bibl>

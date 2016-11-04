@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, décembre, première partie, 1686</title>
+        <title>Mercure Galant, décembre 1686, première partie [tome 17]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, décembre, première partie, <date>1686</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>décembre 1686</date>, première partie [tome 17].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, décembre, première partie [tome 17], 1686</head>
       <div type="article" xml:id="MG-1686-12a_010">
         <head>[Discours prononcé par le Pere Loüis de Nazareth]</head>
         <bibl><title>Mercure Galant</title>, décembre, première partie [tome 17], 1686, p. 10-30</bibl>
