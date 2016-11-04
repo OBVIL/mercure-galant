@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, septembre 1685</title>
+        <title>Mercure Galant, septembre 1685 [tome 9]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>septembre 1685</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1685</date> [tome 9].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, septembre [tome 9], 1685</head>
       <div type="article" xml:id="MG-1685-09_001">
         <head>[Harangue faite au Roy, par M<hi rend="sup">r</hi> le Coadjuteur de Rouen]</head>
         <bibl><title>Mercure Galant</title>, septembre [tome 9], 1685, p. 1-22</bibl>
