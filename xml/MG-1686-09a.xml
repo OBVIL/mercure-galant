@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, septembre, première partie, 1686</title>
+        <title>Mercure Galant, septembre 1686, première partie [tome 11]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, septembre, première partie, <date>1686</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>septembre 1686</date>, première partie [tome 11].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, septembre, première partie [tome 11], 1686</head>
       <div type="article" xml:id="MG-1686-09a_001" copyOf="JLB_MG-1686-09a_035">
         <head>[Prélude sur l’établissement de la Maison de S. Cir]</head>
         <bibl><title>Mercure Galant</title>, septembre, première partie [tome 11], 1686, p. 1-39</bibl>

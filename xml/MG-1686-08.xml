@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, août 1686</title>
+        <title>Mercure Galant, août 1686 [tome 10]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>août 1686</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>août 1686</date> [tome 10].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, août [tome 10], 1686</head>
       <div type="article" xml:id="MG-1686-08_006">
         <head>[Lettre d’une nouvelle Convertie]</head>
         <bibl><title>Mercure Galant</title>, août [tome 10], 1686, p. 6-18</bibl>

@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, mai 1686</title>
+        <title>Mercure Galant, mai 1686 [tome 6]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>mai 1686</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>mai 1686</date> [tome 6].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, mai [tome 6], 1686</head>
       <div type="article" xml:id="MG-1686-05_012">
         <head>[Nouvelle Réponse à la Lettre Pastorale du Ministre Claude]</head>
         <bibl><title>Mercure Galant</title>, mai [tome 6], 1686, p. 12-51</bibl>
