@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, juillet 1683</title>
+        <title>Mercure Galant, juillet 1683 [tome 7]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>juillet 1683</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>juillet 1683</date> [tome 7].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, juillet [tome 7], 1683</head>
       <div type="article" xml:id="MG-1683-07_002">
         <head>Au Roy, sur la Conversion des Herétiques</head>
         <bibl><title>Mercure Galant</title>, juillet [tome 7], 1683, p. 2-9</bibl>

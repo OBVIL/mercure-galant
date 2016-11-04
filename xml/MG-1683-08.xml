@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, août 1683</title>
+        <title>Mercure Galant, août 1683 [tome 9]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>août 1683</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>août 1683</date> [tome 9].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure Galant</hi>, août [tome 9], 1683</head>
       <div type="article" xml:id="MG-1683-08_013">
         <head>[Anagrammes sur le voyage du roi]*</head>
         <bibl><title>Mercure Galant</title>, août [tome 9], 1683, p. 13-14</bibl>

@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, Quartier d’octobre 1683</title>
+        <title>Extraordinaire du Mercure Galant, quartier d’octobre 1683 [tome 24]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, Quartier d’<date>octobre 1683</date>.</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’octobre <date>1683</date> [tome 24].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Extraordinaire du Mercure Galant</hi>, quartier d’octobre [tome 24], 1683</head>
       <div type="article" xml:id="MG-1683-12e_003">
         <head>Conversation académique, dans lequelle il est traité des bonnes, &amp; des mauvaises qualitez de l’Air</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’octobre [tome 24], 1683, p. 3-32</bibl>
