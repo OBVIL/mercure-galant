@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, juin, deuxième partie, 1687</title>
+        <title>Mercure Galant, juin 1687, deuxième partie [tome 9]</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, juin, deuxième partie, <date>1687</date>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>juin 1687</date>, deuxième partie [tome 9], Journal du voyage de Sa Majesté à Luxembourg.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,7 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <head><hi rend="i">Mercure galant, Journal du voyage de Sa Majesté à Luxembourg</hi>, juin, seconde partie [tome 9], 1687</head>
       <div type="article" xml:id="MG-1687-06b_000">
         <head>Au Roy</head>
         <bibl><title>Mercure galant, Journal du voyage de Sa Majesté à Luxembourg</title>, juin, seconde partie [tome 9], 1687, p. I-XVI</bibl>
