@@ -132,18 +132,18 @@
             <l rend="i">Quand le Ciel veut donner un Héros à la Terre,</l>
             <l rend="i">Souvent il le prédit par des Signes divers.</l>
             <l rend="i">Alcide fut conçeu dans le bruit du Tonnerre,</l>
-            <l><hi rend="i">Et le Juste <seg>(1) [ce (1) est l'appel de note]1. Loüis le Juste. [ceci est la note]</seg> nâquit au milieu des Eclairs.</hi></l>
+            <l><hi rend="i">Et le Juste<note resp="author">Loüis le Juste.</note> nâquit au milieu des Eclairs.</hi></l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Nostre auguste Monarque entrant dans l’Univers,</l>
-            <l><hi rend="i">Y vint parmy les feux <seg>(2)[ce (2) est l'appel de note] 2. Tout estoit alors en guerre. [ceci est la note]</seg> &amp; le bruit de la Guerre ;</hi></l>
-            <l><hi rend="i">Et ce Thébain <seg>(3)[ce (3) est l'appel de note] 3. Pelopidas. [ceci est la note]</seg> qui mit ses Tyrans dans les fers,</hi></l>
+            <l><hi rend="i">Y vint parmy les feux<note resp="author">Tout estoit alors en guerre</note> &amp; le bruit de la Guerre ;</hi></l>
+            <l><hi rend="i">Et ce Thébain<note resp="author">Pelopidas.</note> qui mit ses Tyrans dans les fers,</hi></l>
             <l rend="i">Apporta sur sa cuisse un brillant Cimeterre.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l><hi rend="i">Quand Tullus <seg>(4) [ce (4) est l'appel de note] 4. Servius. [ceci est la note]</seg> vint au monde, un Prodige fameux</hi></l>
+            <l><hi rend="i">Quand Tullus<note resp="author">Servius.</note> vint au monde, un Prodige fameux</hi></l>
             <l rend="i">Présagea sa grandeur par les celestes feux</l>
             <l rend="i">Dont sa teste en naissant parut environnée ;</l>
           </lg>
@@ -239,13 +239,12 @@
           </lg>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
-            <l rend="i">Ma Baudufo * ey tabé facho au tour &amp; courdado,</l>
+            <l rend="i">Ma Baudufo<note resp="author">Toupie.</note> ey tabé facho au tour &amp; courdado,</l>
             <l rend="i">E, ma Dessubré tou, so que yaimé lou may,</l>
             <l rend="i">Ey mon bravé Fleijeou, que toûjour tamay vay,</l>
             <l rend="i">Me ser per fa dansa la Filla deou Villagé,</l>
             <l rend="i">Et las accoutuma à notre badinagé.</l>
           </lg>
-          <note><p>* Toupie.</p></note>
           <label type="speaker">FRONTOU.</label>
           <lg>
             <l rend="i">Li dario per mingea deou Perou Jargouneou,</l>
@@ -284,7 +283,7 @@
             <l rend="i">Per na en tey naqu aqueou tan brave Efan.</l>
             <l rend="i">Mon joly Passerau que révé en voulan,</l>
             <l rend="i">You ly voudrio pourta qu’auquaré may enquero,</l>
-            <l rend="i">Un Eychirpeou * tout niau qu’ay fa de Nouzilliero.</l>
+            <l rend="i">Un Eychirpeou<note resp="author">C’est une Invention dont les Bergers se servent pour prendre les petits Oyseaux.</note> tout niau qu’ay fa de Nouzilliero.</l>
             <l rend="i">A perpau d’Eychirpeou, disen que notre Rey,</l>
             <l rend="i">Lou Gran-Pay del Efan, que Diœu donné bon sey,</l>
             <l rend="i">Lou so tendré per tou, &amp; que s’ey grando peno,</l>
@@ -292,7 +291,6 @@
             <l rend="i">Anen vité, parten, beleou di cauquey jour</l>
             <l rend="i">Nou sirian sou Valey, au lio d’estre Pastour.</l>
           </lg>
-          <note><p>* C’est une Invention dont les Bergers se servent pour prendre les petits Oyseaux.</p></note>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
             <l rend="i">Effan, aquo-ey trop loin per poudey si conduiré ;</l>
