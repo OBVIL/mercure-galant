@@ -44,6 +44,10 @@ application.host=obvil-dev.paris-sorbonne.fr/webprotege
 *** ce paramétrage dans webprotege.properties empêche la connexion à la base...
 *******************************************************************************
 
+Compte Webprotege
+Vincent Jolivet
+passwd : obvilProtege
+
 
 =====================
 Quelques liens utiles
