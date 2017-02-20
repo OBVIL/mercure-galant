@@ -4095,7 +4095,7 @@
             <ab type="ornament">***</ab>
             <lg>          
               <l>Les jours passent comme un moment</l>
-              <l>Avec l'Ambassadrice  :</l>
+              <l>Avec l'Ambassadrice*  :</l>
               <l>Chacun à son esprit charmant</l>
               <l>A l'envi rend justice.</l>
               <l>Les Jeux, les Plaisirs empressez</l>
@@ -4105,7 +4105,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>          
-              <l>Charmante Abbesse, en ce sejour</l>
+              <l>Charmante Abbesse**, en ce sejour</l>
               <l>Quand chacun vous revere,</l>
               <l>Croyez-moy, l'on cache l'amour,</l>
               <l>Sous ce respect sincere.</l>
@@ -4119,7 +4119,7 @@
               <l>Vous avez pour nous enflâmer</l>
               <l>Un droit trop legitime :</l>
               <l>Vous voir, &amp; ne vous pas aimer,</l>
-              <l>Comtesse , c'est un crime.</l>
+              <l>Comtesse***, c'est un crime.</l>
               <l>Mais aussi-tost qu'on voit vos yeux,</l>
               <l>Un certain trouble aimable</l>
               <l>Nous fait trop sentir qu'en ces lieux</l>
@@ -4156,12 +4156,12 @@
               <l>Un esprit amusant &amp; doux,</l>
               <l>Une beauté touchante.</l>
               <l>Ces traits font reconnoistre à tous</l>
-              <l>L'aimable Lieutenante.</l>
+              <l>L'aimable Lieutenante****.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
               <l>Ah, que l'on goûte de douceur</l>
-              <l>Lorsque l'on vous écoute  !</l>
+              <l>Lorsque l'on vous****** écoute  !</l>
               <l>Que vostre voix de notre coeur</l>
               <l>Découvre bien la route !</l>
               <l>Mais vous consacrez aux Autels</l>
@@ -4169,13 +4169,18 @@
               <l>Helas, pour les foibles Mortels</l>
               <l>Ils ont trop redoutables.</l>
             </lg>
+            <note><p>* <hi rend="i">Me de Meyercron, Danoise.</hi></p></note>
+            <note><p>** <hi rend="i">Me de Frontevaux.</hi></p></note>
+            <note><p>*** <hi rend="i">Me de Sors.</hi></p></note>
+            <note><p>**** <hi rend="i">Me Pasquier, Lieutenante Particuliere du Chastelet.</hi></p></note>
+            <note><p>***** <hi rend="i">Me Rafard, Religieuse de Vernou, dont la voix est admirable.</hi></p></note>
           </quote>
         </div>
         <div type="article" xml:id="MG-1699-10_105" resp="wordpro">
           <head>[Chanson sur toutes les Dames qui se sont trouvées aux Eaux de Bourbon]*</head>
           <bibl><title>Mercure Galant</title>, octobre 1699 [tome 10], p. 105-111.</bibl>
           <quote>
-            <label><hi rend="i">Pour Madame la Duchesse de Monfort,</hi><lb /><hi rend="i">VOEU A LA NIMPHE</hi><lb /><hi rend="i">qui préside à la Fontaine de Bourbon.</hi></label>
+          <label><hi rend="i">Pour Madame la Duchesse de Monfort,</hi><lb /><hi rend="i">VOEU A LA NIMPHE</hi><lb /><hi rend="i">qui préside à la Fontaine de Bourbon.</hi></label>
             <lg>
               <l>Otoy, qui des Mortels es le plus seur recours,</l>
               <l>Toy qui sçais de leurs maux calmer la violence,</l>
