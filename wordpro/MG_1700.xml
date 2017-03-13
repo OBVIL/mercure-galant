@@ -393,7 +393,7 @@
             <lg>
               <l rend="i">Vos Canaux agrandis, dans toutes les Saisons,</l>
               <l rend="i">Porteront à nos yeux de flotantes maisons,</l>
-              <l><hi rend="i">Dijon sera fameux du Midy jusqu’à l’Ourse ;</hi></l>
+              <l rend="i">Dijon sera fameux du Midy jusqu’à l’Ourse ;</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -2491,7 +2491,7 @@
               <l>Souffrez qu’en ce moment il sorte du secret,</l>
               <l>Son silence trop long est un poids qui m’accable,</l>
               <l>En parle qui voudra, vous estes toute aimable.</l>
-              <l><hi rend="i">Ergo,</hi> sans en rougir mon cœur peut vous aimer.</l>
+              <l rend="i">Ergo, sans en rougir mon cœur peut vous aimer.</l>
               <l> Si vostre cœur est équitable</l>
               <l>Il doit comme le mien se laisser enflamer,</l>
               <l> Nostre sort doit estre semblable,</l>
@@ -2506,7 +2506,7 @@
               <l>Si vous voulez, Cloris, m’écouter un moment.</l>
               <l>Je n’ay pas oublié mes regles de Logique,</l>
               <l> Ny la forme Sillogistique,</l>
-              <l> Soit <hi rend="i">Baroco</hi> soit <hi rend="i">Barbara</hi></l>
+              <l> Soit <hi rend="i">Baroco</hi> soit <hi rend="i">Barbara</hi>hi></l>
               <l>Vous choisirez, Cloris, celle qu’il vous plaira.</l>
               <l> Pour moy ce n’est pas une peine,</l>
               <l>Et je vous prouveray de toutes les façons</l>
@@ -3302,7 +3302,7 @@
             <lg>
               <l rend="i">De ce petit Heros la naissance est heureuse,</l>
               <l rend="i"> La fortune en est amoureuse,</l>
-              <l> <hi rend="i">Et si Bosquillon n’eust écrit,</hi></l>
+              <l rend="i">Et si Bosquillon n’eust écrit,</l>
               <l rend="i"> J’eusse pû rimer quelque chose,</l>
               <l rend="i"> Mais dans ses Vers il amis tant d’esprit.</l>
               <l rend="i"> Que je n’ose parler qu’en Prose.</l>
@@ -3334,7 +3334,7 @@
               <l rend="i">Pere de ses Sujets, plus vaillant que ces Dieux.</l>
               <l rend="i">Défenseur de la Foy, Heros sage, Pieux.</l>
               <l rend="i">Il s’est acquis une gloire immortelle,</l>
-              <l> <hi rend="i">Qui rejallit jusques aux Cieux.</hi></l>
+              <l rend="i">Qui rejallit jusques aux Cieux.</l>
             </lg>
           </quote>
         </div>
@@ -3493,8 +3493,8 @@
           <quote>
             <label>RÉPONSE.</label>
             <lg>
-              <l><hi rend="i">Quel changement de goust ! l’auroit-on cru
-                possible ?</hi></l>
+              <l rend="i">Quel changement de goust ! l’auroit-on cru
+                possible ?</l>
               <l rend="i">Ton pinceau gracieux est devenu terrible.</l>
               <l rend="i">Ah ! cache par pitié de trop sombres couleurs,</l>
               <l rend="i"> Qui m’ont déja cousté des pleurs.</l>
@@ -3958,7 +3958,7 @@
             <lg>
               <l rend="i">Vostre cœur, Cidalise, instruit à se contraindre</l>
               <l rend="i">Arme en vain contre moy vos vieillissans appas ;</l>
-              <l> <hi rend="i">Je ne puis me resoudre à feindre</hi></l>
+              <l rend="i">Je ne puis me resoudre à feindre</l>
               <l rend="i"> Vn Amour que je ne sens pas.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -3994,7 +3994,7 @@
               <l rend="i">Croyez-moy, renoncez à cette humeur coquette</l>
               <l rend="i">Qu’on pardonne avec peine a de jeunes beautez.</l>
               <l rend="i"> A vostre âge aimer la fleurette ;</l>
-              <l> <hi rend="i">Cidalise, vous radottez.</hi></l>
+              <l rend="i">Cidalise, vous radottez.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -4102,16 +4102,16 @@
               <l rend="i">Qui de l’Art de prescher soûtiens l’auguste poids,</l>
               <l rend="i">Et fais craindre aux Pécheurs ta menaçante voix.</l>
               <l rend="i">Toy, qui par les efforts d’une vive éloquence,</l>
-              <l><hi rend="i">Consolas un grand Roy</hi> * <hi rend="i">que protege la
+              <l> <hi rend="i">Consolas un grand Roy</hi> * <hi rend="i">que protege la
                 France,</hi></l>
               <l rend="i">Et d’un Saint Potentat luy traçant les malheurs,</l>
               <l rend="i">Sçeus adoucir les siens, &amp; calmer ses douleurs.</l>
               <l><hi rend="sc">Begault</hi>, <hi rend="i">qui t’es acquis par ta rare
                 sagesse,</hi></l>
-              <l><hi rend="i">D’un illustre Prelat</hi> † <hi rend="i">l’estime &amp; la
+              <l rend="i"><hi rend="i">’un illustre Prelat</hi> † <hi rend="i">l’estime &amp; la
                   tendresse,</hi></l>
               <l rend="i">Toy, qui par des sentiers jusqu’icy peu battus,</l>
-              <l><hi rend="i">T’éleves chaque jour aux sublimes vertus,</hi></l>
+              <l rend="i">T’éleves chaque jour aux sublimes vertus,</l>
               <l rend="i">Et gagnant sur toy-même une entiére victoire,</l>
               <l rend="i">Marches d’un pas égal dans la solide gloire ;</l>
               <l rend="i">Toy, qui par tes discours &amp; ton urbanité</l>
@@ -4156,7 +4156,7 @@
               <l rend="i">Dissipe les erreurs de leur Secte rebelle ;</l>
               <l rend="i">Que malgré leurs efforts tu gueris leur raison</l>
               <l rend="i">Des vices qu’apporta ce funeste poison ;</l>
-              <l><hi rend="i">Et sçais déveloper avec tant d’énergie</hi></l>
+              <l rend="i">Et sçais déveloper avec tant d’énergie</l>
               <l rend="i">Les misteres profonds de la Theologie,</l>
               <l rend="i">Moy rempli de mépris pour le monde trompeur,</l>
               <l rend="i">De sa corruption je gueriray mon cœur.</l>
@@ -4337,7 +4337,7 @@
                 <l rend="i"> Vn juste effort fait un rebelle,</l>
                 <l rend="i">D’un sujet qui vit malheureux.</l>
                 <l rend="i"> Insensiblement l’on s’ennuye</l>
-                <l><hi rend="i">D’étaller vainement une fausse langueur,</hi></l>
+                <l rend="i">D’étaller vainement une fausse langueur,</l>
                 <l rend="i"> Qu’on ne ressent point dans son cœur,</l>
                 <l rend="i"> Si bien que sans ceremonie</l>
                 <l rend="i">L’on se fausse à tous deux aisément compagnie.</l>
@@ -4361,8 +4361,7 @@
               <lg>
                 <l rend="i">Mais vôtre ame Uranie, &amp; grande &amp; magnanime,</l>
                 <l rend="i">D’un foible mouvement ne sent point les effets :</l>
-                <l><hi rend="i">Si vous plaigniez les maux que vos beaux yeux ont
-                    faits,</hi></l>
+                <l rend="i">Si vous plaigniez les maux que vos beaux yeux ont faits,</l>
                 <l rend="i">Vous vous reprocheriez d’avoir commis un crime.</l>
                 <l rend="i"> Pour vous autres Divinitez,</l>
                 <l rend="i"> Dans l’estat heureux où vous estes,</l>
@@ -4420,9 +4419,9 @@
           <quote>
             <label>CONTRE LES IMPIES.</label>
             <lg>
-              <l><hi rend="i">Quel objet me frape &amp; m’enchante ?</hi></l>
+              <l rend="i">Quel objet me frape &amp; m’enchante ?</l>
               <l rend="i">Quel feu m’emporte loin de moy ?</l>
-              <l><hi rend="i">Divinité que j’apperçoi,</hi></l>
+              <l rend="i">Divinité que j’apperçoi,</l>
               <l rend="i">Viens soûtenir ma voix tremblante.</l>
               <l rend="i">Portez sur les ailes des vents</l>
               <l rend="i">Déja mes concerts éclatans</l>
@@ -4439,7 +4438,7 @@
               <l rend="i">Les Flots respectent leur rivage.</l>
               <l rend="i">Des Cieux il forma les ressorts ;</l>
               <l rend="i">Les Vents tirez de ses tresors</l>
-              <l><hi rend="i">Le benissent par leur murmure :</hi></l>
+              <l rend="i">Le benissent par leur murmure :</l>
               <l rend="i">Seul insensé blasphemateur</l>
               <l rend="i">L’Impie, horreur de la nature,</l>
               <l rend="i">Ne connoist point son Createur.</l>
@@ -4464,7 +4463,7 @@
               <l rend="i">Tout parle dans cet Vnivers ;</l>
               <l rend="i">L’Enfer, les feux se font entendre.</l>
               <l rend="i">Pleins de justes ressentimens</l>
-              <l><hi rend="i">Je voi le Ciel, les Elemens</hi></l>
+              <l rend="i">Je voi le Ciel, les Elemens</l>
               <l rend="i">S’armer de parole &amp; de vie.</l>
               <l rend="i">Seigneur, anime leur ardeur,</l>
               <l rend="i">Et fais desormais que l’Impie</l>
@@ -4520,9 +4519,7 @@
               <l rend="i">Et se montrent pour disparoistre :</l>
               <l rend="i">La Nature par tant de traits</l>
               <l rend="i">S’empresse à nous faire connoistre</l>
-              <l><hi rend="i">Vn</hi>
-                <hi rend="sc">Dieu</hi>
-                <hi rend="i">qui ne change jamais.</hi></l>
+              <l rend="i"><hi rend="i">Vn</hi><hi rend="sc">Dieu</hi><hi rend="i">qui ne change jamais.</hi></l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -4966,9 +4963,7 @@
               <l rend="i">De son bec il fournit un jet intarissable,</l>
               <l rend="i">Qui mêle en ce Salon l’utile à l’agreable.</l>
               <l rend="i"> C’est icy, qu’étonné d’un si hardi dessein,</l>
-              <l><hi rend="i">Ie t’invite,</hi>
-                <hi rend="sc">Brunet,</hi>
-                <hi rend="i">â conduire ma main.</hi></l>
+              <l><hi rend ="i">Ie t’invite,</hi> <hi rend="sc">Brunet,</hi> <hi rend="i">â conduire ma main.</hi></l>
               <l rend="i">L’ordre qu’en tes Iardins toy-même as sçu répandre</l>
               <l rend="i">A mon esprit charmé déja se fait entendre.</l>
               <l rend="i">Ie te suis, &amp; par toy guidé dans ces beaux lieux,</l>
@@ -5046,8 +5041,7 @@
               <l rend="i">Forment le même aspect, &amp; le même murmure !</l>
               <l rend="i">Parmi le tendre émail de differentes fleurs</l>
               <l rend="i">Dont l’éclat du gazon anime les couleurs,</l>
-              <l><hi rend="i">Au fond d’un grand bassin brille une eau</hi> (d) <hi rend="i">pure
-                  &amp; belle,</hi></l>
+              <l><hi rend="i">Au fond d’un grand bassin brille une eau</hi> (d) <hi rend="i">pure &amp; belle,</hi></l>
               <l rend="i">Qui sert à ta maison, d’une glace fidelle.</l>
               <l rend="i">Qu’on suspende le cours qu’elle prend dans les airs,</l>
               <l rend="i">L’œil au fond du bassin voit cent objets divers.</l>
@@ -5057,10 +5051,10 @@
               <l rend="i">Peignent sur son cristal leurs mobiles tableaux.</l>
               <l rend="i"> Parcourons les costez du Iardin que j’admire.</l>
               <l rend="i">Chaque objet different m’invite à le décrire.</l>
-              <l><hi rend="i">A ma droite il paroist deux berceaux gracieux,</hi></l>
+              <l rend="i">A ma droite il paroist deux berceaux gracieux,</l>
               <l rend="i">Où n’approche jamais l’Aquilon furieux.</l>
               <l rend="i">Là, le Dieu des Festins suivi de l’abondance,</l>
-              <l><hi rend="i">Fait regner les plaisirs &amp; la magnificence,</hi></l>
+              <l rend="i">Fait regner les plaisirs &amp; la magnificence,</l>
               <l rend="i">Et mêle à ce spectacle agreable &amp; charmant,</l>
               <l rend="i">De ses mets delicats le doux assortiment.</l>
               <l rend="i">Nymphes de ces beaux lieux, quelle en fut l’allegresse,</l>
@@ -5075,7 +5069,7 @@
               <l rend="i">M’invite de passer dans ce sombre bocage ?</l>
               <l rend="i">Le chant melodieux des differens oiseaux,</l>
               <l rend="i">Qui se meslent au bruit des jaillissantes eaux ;</l>
-              <l><hi rend="i">Ce Rocher</hi> (e) <hi rend="i">découvert, où nappes &amp;
+              <l> <hi rend="i">Ce Rocher</hi> (e) <hi rend="i">découvert, où nappes &amp;
                   cascades</hi></l>
               <l rend="i">Au fond de cette allée attirent les Naiades,</l>
               <l rend="i">Promettent à l’esprit mille agrémens divers.</l>
@@ -5143,7 +5137,7 @@
               <l><hi rend="i">J’apperçois une Grote</hi> (m) <hi rend="i">où la fraîcheur
                   des eaux</hi></l>
               <l rend="i">Ne souffre point l’ardeur des Etez les plus chauds.</l>
-              <l><hi rend="i">Là, le Dieu des Amours qui badine sans cesse,</hi></l>
+              <l rend="i">Là, le Dieu des Amours qui badine sans cesse,</l>
               <l rend="i">Prend plaisir d’inventer quelque tour de souplesse.</l>
               <l rend="i">Caché dans cette Grote, à peine on veut de prés</l>
               <l rend="i">D’un ouvrage si beau contempler les attraits,</l>
@@ -5169,7 +5163,7 @@
               <l rend="i">Se montrent deux Dauphins artistement formez.</l>
               <l rend="i">Quel cizeau delicat en a d’aprés nature</l>
               <l rend="i">Exprimé noblement les traits &amp; la figure !</l>
-              <l><hi rend="i">Observez cet objet, qui paroît au milieu,</hi></l>
+              <l rend="i">Observez cet objet, qui paroît au milieu,</l>
               <l rend="i">Et qui semble effrayer dans ce paisible lieu,</l>
               <l rend="i">Ces yeux estincelans, cette effroyable bouche,</l>
               <l rend="i">D’un Satyre en couroux marquent l’humeur farouche.</l>
@@ -5605,7 +5599,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l rend="i"> Quel objet, ô Ciel ! se presente ?</l>
-              <l><hi rend="i">Que de foiblesse j’entrevoi !</hi></l>
+              <l rend="i">Que de foiblesse j’entrevoi !</l>
               <l rend="i">Vne masse informe, naissante,</l>
               <l rend="i">Vil joüet d’une austere loy.</l>
               <l rend="i">Sans yeux, sans mains, sans avantage</l>
@@ -6156,8 +6150,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l rend="i"> Passe encor si l’on me prisoit</l>
-              <l><hi rend="i">Tout autant que je vaux ; mais sçachez, je vous
-                prie,</hi></l>
+              <l rend="i">Tout autant que je vaux ; mais sçachez, je vous prie,</l>
               <l rend="i"> Ce que vostre Marquis disoit,</l>
               <l rend="i">En me voyant manger l’avoine à l’écurie.</l>
             </lg>
@@ -6385,14 +6378,13 @@
               <l rend="i">De ce brillant amas d’estimables tresors</l>
               <l rend="i">Dont le ciel enrichit &amp; son ame &amp; son corps.</l>
               <l rend="i">Par l’éclat du Soleil cette legere image</l>
-              <l><hi rend="i">Agreable à mes sens, passe comme un nuage.</hi></l>
+              <l rend="i">Agreable à mes sens, passe comme un nuage.</l>
               <l rend="i">Par le reveil renduë à mes gemissemens,</l>
               <l rend="i">Qu’estes-vous devenus trop precieux momens,</l>
               <l rend="i">M’écriay-je, où s’enfuit l’Ombre de mon amie ?</l>
               <l rend="i">Que ne suis-je aujourd’huy pour toûjours endormie,</l>
               <l rend="i">Sommeil delicieux, favorable repos</l>
-              <l><hi rend="i">Quels plaisirs m’ont donné vos tranquiles
-                pavots ?</hi></l>
+              <l rend="i">Quels plaisirs m’ont donné vos tranquiles pavots ?</l>
               <l rend="i"> Orante à ces discours meslez de tendres plaintes</l>
               <l rend="i">D’un nouveau desespoir éprouve les atteintes.</l>
               <l rend="i">Ses douloureux accens font retentir les bois,</l>
@@ -6461,7 +6453,7 @@
               <l rend="i">Du trépas de Tournel son ame desolée</l>
               <l rend="i">Arrose de ses pleurs ce Triste Mausolée,</l>
               <l rend="i">Jusqu’à ce que du Ciel la suprême bonté</l>
-              <l><hi rend="i">Daigne finir le cours de sa douleur amere,</hi></l>
+              <l rend="i">Daigne finir le cours de sa douleur amere,</l>
               <l rend="i">En luy faisant revoir une Epouse si chere</l>
               <l rend="i"> Dans le sein de l’éternité.</l>
             </lg>
@@ -6530,7 +6522,7 @@
             <lg>
               <l rend="i">Grossi par un tribut immense,</l>
               <l rend="i">Cet élement impetueux</l>
-              <l><hi rend="i">S’enfle avec plus de vigilence,</hi></l>
+              <l rend="i">S’enfle avec plus de vigilence,</l>
               <l rend="i">Et montre un tombeau plus affreux.</l>
               <l rend="i">Il ne connoît point les limites</l>
               <l rend="i">Qu’une loy suprême a prescrites</l>
@@ -6969,7 +6961,7 @@
               <l rend="i"> LOVIS, tu ne dois pas attendre</l>
               <l rend="i">Que je fasse un détail de tes nombreux Exploits,</l>
               <l rend="i">Je craindrois d’échouër, ou de trop entreprendre.</l>
-              <l><hi rend="i">Pour faire ton éloge il ne faut que deux mots :</hi></l>
+              <l rend="i">Pour faire ton éloge il ne faut que deux mots :</l>
               <l rend="i">L’on trouve en toy Cesar, Annibal, Alexandre,</l>
               <l rend="i"> Mais on les trouve sans defauts.</l>
             </lg>
@@ -7109,7 +7101,7 @@
               <l rend="i"> Vos Vers sont au dessus des autres.</l>
               <l rend="i"> Cheri du divin Apollon</l>
               <l rend="i">Pour vous rien n’est caché dans le sacré Vallon,</l>
-              <l> <hi rend="i">Et vous pouvez sans péril &amp; sans peine</hi></l>
+              <l rend="i">Et vous pouvez sans péril &amp; sans peine</l>
               <l rend="i">  Puiser de l’eau de l’Hippocrene,</l>
               <l rend="i">  Tandis que les sçavantes Sœurs</l>
               <l rend="i">Repoussent ce fatras de Versificateurs.</l>
@@ -7148,7 +7140,7 @@
               <l rend="i">Honteux de tes forfaits, plein d’horreur pour le vice,</l>
               <l rend="i"> Reviens de tes égaremens ;</l>
               <l rend="i">De ton divin Sauveur, suy les Commandemens,</l>
-              <l><hi rend="i">Et pour te dérober aux coups de sa justice,</hi></l>
+              <l rend="i">Et pour te dérober aux coups de sa justice,</l>
               <l rend="i"> Te confiant en sa sainte bonté,</l>
               <l rend="i">Ne regle tes desseins que par sa volonté.</l>
               <l rend="i">Par aucun fol espoir ne te laisse séduire,</l>
@@ -7166,7 +7158,7 @@
           <quote>
             <lg>
               <l rend="i">Certain Maistre à chanter, sans souliers &amp; sans bas,</l>
-              <l><hi rend="i">Sans culote, surtout, on voyoit son derriere.</hi></l>
+              <l rend="i">Sans culote, surtout, on voyoit son derriere.</l>
               <l> (<hi rend="i">Cette remarque est necessaire.</hi>)</l>
               <l rend="i"> Or ce Quidam, que je ne nomme pas,</l>
               <l><hi rend="i">Vint un jour à</hi>
@@ -8187,7 +8179,7 @@
             Madrigal qu’il luy envoya tint lieu de Bouquet.</p>
           <quote>
             <lg>
-              <l><hi rend="i">Que les Amans versez dans les tendres misteres.</hi></l>
+              <l rend="i">Que les Amans versez dans les tendres misteres.</l>
               <l rend="i">Pour consacrer les noms &amp; d’Aminte &amp; d’Iris,</l>
               <l rend="i">Leur offrent des œillets, des roses &amp; des lis ;</l>
               <l rend="i"> Ces fleurs ne sont que passageres.</l>
@@ -8311,7 +8303,7 @@
               <l rend="i">L’amour de toutes parts entra dedans mon cœur,</l>
               <l rend="i">Et la tranquillité fit place à la langueur.</l>
               <l rend="i">Le Dieu qui fait aimer résolut ma défaite,</l>
-              <l><hi rend="i">Son Empire s’étend du Sceptre à la Houlette.</hi></l>
+              <l rend="i">Son Empire s’étend du Sceptre à la Houlette.</l>
               <l rend="i">Le plus sauvage lieu, la plus pompeuse Cour</l>
               <l rend="i">Est soumise au pouvoir absolu de l’amour ;</l>
               <l rend="i">De ce divin enfant on ne peut se défendre ;</l>
@@ -8867,7 +8859,7 @@
             <quote>
               <lg>
                 <l rend="i">Rarement un jeune courage</l>
-                <l><hi rend="i">Suit une metode aussi sage.</hi></l>
+                <l rend="i">Suit une metode aussi sage.</l>
               </lg>
             </quote>
             <p>Elle n’en aime pas moins tout ce qui peut contribuer à la joye. Elle philosophe avec
@@ -8933,7 +8925,7 @@
               <ab type="ornament">***</ab>
               <lg>
                 <l rend="i">Telle que je dépeins, la sage Leontine,</l>
-                <l><hi rend="i">Telle vous a-t-on veuë à la Ville, à la Cour,</hi></l>
+                <l rend="i">Telle vous a-t-on veuë à la Ville, à la Cour,</l>
                 <l rend="i"> Avec une ardeur assassine,</l>
                 <l rend="i">Par mille traits sanglans insulter à l’amour.</l>
                 <l rend="i">Mais qui me répondra, peut-être je devine,</l>
@@ -9155,12 +9147,12 @@
           <quote>
             <label><hi rend="i">ODE.</hi></label>
             <lg>
-              <l><hi rend="i"><seg>Quel</seg> est ce Conquerant semblable au Dieu de Trace,</hi></l>
+              <l rend="i">Quel est ce Conquerant semblable au Dieu de Trace,</l>
               <l rend="i"> Qui sur ce Coursier plein d’audace</l>
               <l rend="i">Se presente à mes yeux fierement élevé ?</l>
               <l rend="i">Cesar, n’est-ce point vous, de qui l’Aigle fatale</l>
               <l rend="i">S’excitoit au combat, quand le champ de Pharsale</l>
-              <l><hi rend="i">Du sang des Legions alloit estre <seg>abreuvé ?</seg></hi></l>
+              <l rend="i">Du sang des Legions alloit estre abreuvé ?</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -9200,7 +9192,7 @@
               <l rend="i"> Et plus craint que le Dieu qui tonne,</l>
               <l rend="i">Du geste &amp; de la voix animer le Soldat ?</l>
               <l rend="i">Qui ne croiroit le voir conduit par la Victoire,</l>
-              <l><hi rend="i">Affrontant mille traits à luy <seg>seul</seg> addressez,</hi></l>
+              <l rend="i">Affrontant mille traits à luy seul addressez,</l>
               <l rend="i"> Se faire un passage à la Gloire</l>
               <l rend="i"> Sur les Bataillons renversez ?</l>
             </lg>
@@ -9287,7 +9279,7 @@
               <l rend="i">Ce n’est point de Pallas l’offrande frauduleuse ;</l>
               <l rend="i">Il n’en doit point sortir de guerrier inhumain,</l>
               <l rend="i"> Qui vienne la flame à la main,</l>
-              <l><hi rend="i"><seg>Rappeler</seg> d’Ilion l’histoire douloureuse.</hi></l>
+              <l rend="i">Rappeller d’Ilion l’histoire douloureuse.</l>
               <l rend="i">Sous un meilleur auspice il offre à vos souhaits</l>
               <l rend="i">Vn Monarque attentif au bien de ses Sujets,</l>
               <l rend="i">Qui prest de s’assurer une entiere Victoire</l>
@@ -9317,8 +9309,7 @@
             Ode.</p>
           <quote>
             <lg>
-              <l><hi rend="i"><seg>Que</seg> doit faire un grand Prince issu du sang des
-                Rois,</hi></l>
+              <l rend="i">Que doit faire un grand Prince issu du sang des Rois,</l>
               <l rend="i"> Pour se voir à la fois</l>
               <l rend="i">Aimé, craint, reveré, sur la Terre &amp; sur l’Onde ;</l>
               <l rend="i">Et s’immortaliser par cent faits inoüis ?</l>
@@ -9356,8 +9347,7 @@
                 <l rend="i">Et vous, Nymphes des eaux, &amp; vous, Nymphes des bois,</l>
                 <l rend="i">Animez mon esprit, &amp; soûtenez ma voix.</l>
                 <l rend="i">Le genereux Alcandre aujourd’huy vous l’ordonne ;</l>
-                <l><hi rend="i">Qu’aux plus charmans transports vostre cœur
-                    <seg>s’abandonne.</seg></hi></l>
+                <l rend="i">Qu’aux plus charmans transports vostre cœur s’abandonne.</l>
                 <l rend="i">Celebrez par vos airs tendres &amp; delicats</l>
                 <l rend="i">Bellefont, l’ornement de ces heureux climats.</l>
                 <l rend="i">D’autres de son grand nom, dans leur fureur divine,</l>
@@ -9390,10 +9380,10 @@
               occupations heroïques luy laissoient, aux plaisirs les plus innocens, &amp; les plus
               dignes d’un Heros, à Fontainebleau ou à Versailles, que toutes les Nations de la terre
               regardent déja comme la huitiéme merveille du monde.</p>
-            <p>Commençons donc par un Plan de <seg>la</seg> maison que M<hi rend="sup">r</hi> le
+            <p>Commençons donc par un Plan de la maison que M<hi rend="sup">r</hi> le
               Marquis de Tornac a fait bâtir pour sa commodité, comme pour le plaisir d’estre dans
               la Plaine auprés des Eaux &amp; des Prairies, aprés avoir quitté l’ancien Chasteau de
-              Tornac, situé sur une montagne voisine de <seg>Bellefont,</seg> qui pour la regularité
+              Tornac, situé sur une montagne voisine de Bellefond, qui pour la regularité
               &amp; la beauté de ses appartemens, est un des plus considerables de ceux qui nous
               restent des siecles précedens.</p>
             <quote>
@@ -9418,7 +9408,7 @@
                 <l rend="i">A deux Appartemens on voit qu’il communique.</l>
                 <l rend="i">De là, par un degré surmonté d’un Balcon,</l>
                 <l rend="i">Aprés trois reposoirs l’on arrive au Salon,</l>
-                <l><hi rend="i">Dont le double <seg>Plafonds</seg> en double Imperiale</hi></l>
+                <l rend="i">Dont le double Plafons en double Imperiale</l>
                 <l rend="i">Tous les traits les plus beaux de la Sculpture étale.</l>
                 <l rend="i">Au dedans on a peint les endroits curieux</l>
                 <l rend="i">Qui prés de Bellefont se presentent aux yeux.</l>
@@ -9461,7 +9451,7 @@
                 <l rend="i">Pinçons, vous y montrez que vous estes jaloux</l>
                 <l rend="i">Que s’ils n’aiment pas mieux, ils chantent mieux que vous.</l>
                 <l rend="i">On découvre au Couchant un Canal d’eau courante,</l>
-                <l><hi rend="i">Qui depuis sa naissance en des tuyaux <seg>errantes</seg></hi></l>
+                <l rend="i">Qui depuis sa naissance en des tuyaux errantes</l>
                 <l rend="i">Vient enfin rafraîchir grand nombre de poissons,</l>
                 <l rend="i">Qu’on n’expose jamais à de faux hameçons.</l>
                 <l rend="i">Alcandre de sa main en tout temps liberale,</l>
@@ -9495,13 +9485,13 @@
               petits berceaux en mille endroits, &amp; ne laisse pas d’estre aussi agréable, que
               sil’on avoit pris les plus grands soins à les planter &amp; à les cultiver, Depuis le
               Rondeau du milieu de cette Terrasse, qui est, pour ainsi dire, le point d’où il faut
-              voir tout le Jardin, on découvre d’abord par une <seg>patte</seg> d’Oye, trois allées,
+              voir tout le Jardin, on découvre d’abord par une pate d’Oye, trois allées,
               dont celle du milieu fait une perspective des plus belles, formant une grande route
               qui perce au travers des bois, dont la campagne est couverte, &amp; qui ne se termine
               que par la Riviere, &amp; ensuite par une colline, qui est à plus de quatre lieuës au
               de là. L’on y descend par un double rempart autour d’un large degré de gazons, à
-              plusieurs marches, qui forment un <seg>amphitheatre</seg> de verdure des plus
-              agreables qu’on puisse voir. Au bas de cet <seg>amphitheatre</seg> s’éleve un Jet
+              plusieurs marches, qui forment un amphiteatre de verdure des plus
+              agreables qu’on puisse voir. Au bas de cet amphiteatre s’éleve un Jet
               d’eau, d’une hauteur &amp; d’une force qui n’est pas ordinaire, &amp; de part &amp;
               d’autre sont deux Canaux, d’où sortent douze Jets d’eau, rangez si bien en égale
               distance, &amp; sur la même ligne, que par leur disposition, leur abondance, &amp; la
@@ -9622,7 +9612,7 @@
                 <l rend="i">Et ce qui fait au fond mon charme dans ce lieu,</l>
                 <l rend="i">C’est que plus aisément j’y puis servir mon Dieu,</l>
                 <l rend="i">Obéïr à ses loix, suivre sa providence,</l>
-                <l><hi rend="i">Mediter sur la mort, conserver <seg>l’innocence,</seg></hi></l>
+                <l rend="i">Mediter sur la mort, conserver l’innocence,</l>
                 <l rend="i">Joüir tranquillement d’une felicité</l>
                 <l rend="i">Qui traîne avecque soy l’aimable liberté,</l>
                 <l rend="i">L’agréable repos, les douceurs d’une vie</l>
@@ -9648,10 +9638,10 @@
               ce Jardin, &amp; vous dire que sa figure est un grand Quarré regulier partagé en
               quatre, qui se divisent en seize compartimens égaux, par où sont distinguez les
               parterres &amp; les vergers, &amp; dont le tout est terminé par le canal d’un
-              ruisseau, qu’une haye vive de buis <seg>taillez</seg> en plate bande de hauteur
+              ruisseau, qu’une haye vive de buis taillez en plate bande de hauteur
               d’appuy, borde tout du long, &amp; par une allée de Laurieteins, taillez en
               pallissade, avec des Cabinets de verdure aux coins, couverts de
-                <seg>Chevrefeüilles,</seg> &amp; ornez au de dans de banquettes &amp; de lits de
+              Chevres feüils, &amp; ornez au de dans de banquettes &amp; de lits de
               gazons. De ces carrez plusieurs differentes allées &amp; contre-allées, en font le
               partage, de sorte que dans les cinq endroits principaux, où elles se croisent, il y a
               autant de jets d’eau avec leurs bassins, outre trois autres qui sont d’une hauteur
@@ -9672,7 +9662,7 @@
                 <l rend="i">Et c’est où chacun va rêver le plus souvent.</l>
               </lg>
             </quote>
-            <p>A travers les eaux jaillissantes dans <seg>l’entre-deux</seg> des coquilles, l’on a
+            <p>A travers les eaux jaillissantes dans l’entre-deux des coquilles, l’on a
               encore le plaisir de trouver quatre points de veuë fort étendus, bien alignez, &amp;
               tres-agreables pour la grande varieté des objets.</p>
             <quote>
@@ -9701,9 +9691,8 @@
                 <l rend="i">Et ne troubla jamais leur douce solitude ;</l>
                 <l rend="i">Heureuses mille sois, si le destin jaloux</l>
                 <l rend="i">Contr’elles n’eust enfin déployé son courroux.</l>
-                <l><hi rend="i">Mais pendant qu’en repos <seg>dans</seg> ce charmant azile</hi></l>
-                <l><hi rend="i">Leurs beaux jours s’écouloient <seg>d’une</seg> course
-                    tranquille,</hi></l>
+                <l rend="i">Mais pendant qu’en repos dans ce charmant azile</l>
+                <l rend="i">Leurs beaux jours s’écouloient d’une course tranquille,</l>
                 <l rend="i">Le grand Dieu du Gardon, surpris de leurs appas,</l>
                 <l rend="i">Vn jour de ce costé precipita ses pas.</l>
                 <l rend="i">Leur pudeur s’allarma de l’approche fatale</l>
@@ -9782,7 +9771,7 @@
                 <l rend="i">Et que sans élever leurs branches au hazard,</l>
                 <l rend="i">Ils puissent se soûmettre à tous les soins de l’Art ?</l>
                 <l rend="i">Ouy, les uns seulement plantez depuis trois lustres,</l>
-                <l><hi rend="i">Sont <seg>metamorphoses</seg> en autant de balustres.</hi></l>
+                <l rend="i">Sont metamorphosez en autant de balustres.</l>
                 <l rend="i">Les autres avec art en coquilles taillez,</l>
                 <l rend="i">Et de petites fleurs en Hiver émaillez,</l>
                 <l rend="i">Au plus bruslant Esté presentent à toute heure</l>
@@ -9792,7 +9781,7 @@
               </lg>
             </quote>
             <p>Entre les Ciprés qui sont tenus bas, ainsi taillez &amp; figurez en forme de
-              balustre, &amp; separez en égale <seg>distance,</seg> regne une petite bordure de
+              balustre, &amp; separez en égale distance, regne une petite bordure de
               buis, taillée aussi d’une figure agréable, qui les joint d’un pied à l’autre. Ces
               sortes de bordures ont esté inconnuës aux Anciens dans leurs Jardins, où tout estoit
               confondu sans ordre &amp; sans distinction, &amp; c’est ce qui a donné occasion à la
@@ -9823,7 +9812,7 @@
                 <l rend="i">Flottoient negligemment sur son sein &amp; ses bras,</l>
                 <l rend="i">Et l’on n’y voyoit rien d’une grande Déesse,</l>
                 <l rend="i">Que l’extrême douceur de ses tendres appas.</l>
-                <l><hi rend="i">A son premier abord les Faunes &amp; <seg>Silenes,</seg></hi></l>
+                <l rend="i">A son premier abord les Faunes &amp; Silene,</l>
                 <l rend="i"> Avec un sourire affecté,</l>
                 <l rend="i"> Et d’une maniere inhumaine,</l>
                 <l rend="i"> Railloient de sa simplicité.</l>
@@ -9868,7 +9857,7 @@
               la magnificence du Maistre.</p>
             <quote>
               <lg>
-                <l><hi rend="i"><seg>Que</seg> je suis content, cher Amy,</hi></l>
+                <l rend="i">Que je suis content, cher Amy,</l>
                 <l rend="i">Dans cette agreable retraite !</l>
                 <l rend="i">A la Ville, à la Cour, on ne vit qu’à demy ;</l>
                 <l rend="i">On n’y gouste jamais une douceur parfaite.</l>
@@ -9892,7 +9881,7 @@
                 <l rend="i"> Entre la crainte &amp; l’esperance.</l>
                 <l rend="i">L’Yvrogne un peu trop tard sortant du Cabaret,</l>
                 <l rend="i">Rencontre en son chemin la Patroüille ou le Guet,</l>
-                <l><hi rend="i">Qui le mene cuver à <seg>coups</seg> de Hallebarde,</hi></l>
+                <l rend="i">Qui le mene cuver à coups de Hallebarde,</l>
                 <l rend="i"> Le vin qu’il a pris au Buffet,</l>
                 <l rend="i"> Sur les planches d’un Corps de garde.</l>
                 <l rend="i"> Le Joüeur est toûjours chagrin ;</l>
@@ -9911,7 +9900,7 @@
                 <l rend="i"> Ceux dont le Ciel l’avoit pourvuë,</l>
                 <l rend="i"> Et dégoûtent ses partisans ;</l>
                 <l rend="i"> Au lieu d’accroistre la cohuë.</l>
-                <l> <hi rend="i">Il <seg>n’est</seg> pas jusqu’aux Artisans</hi></l>
+                <l rend="i">Il n’est pas jusqu’aux Artisans</l>
                 <l rend="i"> Que dans Alés le trouble n’accompagne ;</l>
                 <l rend="i">Et moy je vis heureux dans la belle campagne,</l>
                 <l rend="i">D’un genereux Marquis, que son illustre sang,</l>
@@ -9919,7 +9908,7 @@
                 <l rend="i"> Ont mis au premier rang,</l>
                 <l rend="i"> Des Seigneurs de nostre Province.</l>
                 <l rend="i"> C’est dans ce paisible sejour</l>
-                <l> <hi rend="i">Que sans <seg>m’informer</seg> de Sylvie,</hi></l>
+                <l rend="i">Que sans m’informer de Sylvie,</l>
                 <l rend="i"> Je passe doucement la vie,</l>
                 <l rend="i">Libre d’ambition &amp; rebelle à l’Amour.</l>
                 <l rend="i"> Tantost couché sur un lit de verdure,</l>
@@ -9954,7 +9943,7 @@
                 <l rend="i">Dans ces Prez par ces eaux tranquilles,</l>
                 <l rend="i"> Paroistre de nouveaux attraits.</l>
                 <l rend="i"> Enfin dans cette solitude,</l>
-                <l><hi rend="i">Je gouste des plaisirs qui m’estoient <seg>inconnus,</seg></hi></l>
+                <l rend="i">Je gouste des plaisirs qui m’estoient inconnus,</l>
                 <l rend="i"> Et que je ne pouvois connoistre ;</l>
                 <l rend="i"> Mais, cher Ami, pour te dire encor plus,</l>
                 <l rend="i">Si je n’y suis heureux, pour le moins je crois l’estre.</l>
@@ -10005,7 +9994,7 @@
             toutes les formes. Il trouva à un quart de lieuë en deça de la Ville un Corps de Troupes
             en bon ordre, qui le saluerent de plusieurs décharges de Mousqueterie ; ce qui fut
             suivi, lors qu’il s’approcha de Zug, de soixante coups de Canon, &amp; d’un fort grand
-            nombre de Mortiers. La foule estoit grande de tous les costez. Il ne fut <seg>pas</seg>
+            nombre de Mortiers. La foule estoit grande de tous les costez. Il ne fut pas
             plûtost arrivé chez luy, que tous les Seigneurs du grand &amp; petit Conseil le vinrent
             complimenter, ce que le Clergé fit à son tour, sans que les presens de Vin fussent
             oubliez. La nuit venuë, on le regala d’un fort beau feu d’artifice, qui fut tiré sur le
@@ -10022,8 +10011,7 @@
           <quote>
             <label><hi rend="i">ELEGIE.</hi></label>
             <lg>
-              <l><hi rend="i"><seg>Sur</seg> le bord d’un ruisseau dont l’onde vive &amp;
-                pure,</hi></l>
+              <l rend="i">Sur le bord d’un ruisseau dont l’onde vive &amp; pure,</l>
               <l rend="i">Dans de riants côteaux erroit à l’avanture,</l>
               <l rend="i">L’infortuné Tircis, tendrement agité</l>
               <l rend="i">Du triste souvenir d’une ingrate Beauté,</l>
@@ -10249,7 +10237,7 @@
             chacun d’eux, ils prétendoient tous avoir le premier rang dans son cœur. Le Genie de la
             Maison de Tonnerre vint les accorder, en leur faisant entendre qu’ils luy avoient tous
             également obligation, &amp; que dans un jour où tout conspiroit à loüer la magnificence
-            de cet auguste Prelat, il leur si <seg>étoit</seg> mal de disputer entre-eux, &amp; de
+            de cet auguste Prelat, il leur si siéioit mal de disputer entre-eux, &amp; de
             troubler une si agreable Feste.</p>
           <p>Comme ces sortes de Tragedies sont toûjours accompagnées d’un Ballet, celuy qui fut
             dansé au College Royal des Jesuites de Compiegne, avoit pour titre <hi rend="i">le
@@ -10267,7 +10255,7 @@
           <p>Je ne vous puis dire qui est l’Auteur de l’Eglogue que je vous envoye. Vous y trouverez
             des choses qui ne vous déplairont pas.</p>
           <quote>
-            <label>A<lb/>MADAME LA MARQUISE<lb/>DE <seg>MONTELUS.</seg></label>
+            <label>A<lb/>MADAME LA MARQUISE<lb/>DE MONTELUS.</label>
             <lg>
               <l rend="i">O Vous qui des vertus avez l’heureux partage,</l>
               <l rend="i"> Vous qui jugez des plus beaux airs ;</l>
@@ -10372,7 +10360,7 @@
         <div type="article" xml:id="MG-1700-09_182" resp="wordpro">
           <head>[Sonnet]</head>
           <bibl><title>Mercure Galant</title>, septembre 1700 [tome 9], p. 182-186.</bibl>
-          <p>Messire Louis Bazin de Bezons, Conseiller d’Etat ordinaire, Intendant <seg>de</seg>
+          <p>Messire Louis Bazin de Bezons, Conseiller d’Etat ordinaire, Intendant de
             Guienne, &amp; auparavant à Orleans, mourut à Bordeaux le Jeudi 9. de ce mois à trois
             heures du matin, regretté universellement par la haute estime qu’il s’estoit acquise. Il
             a esté enterré dans l’Eglise de Puypaulin, sa Paroisse, comme il l’avoit ordonné. Sa
@@ -10499,7 +10487,7 @@
             tout ce qu’il fait. Il avoit assemblé chez luy M<hi rend="sup">r</hi> le Nonce, &amp; un
             de ses Parens qu’il a icy ; M<hi rend="sup">r</hi> le Prince &amp; Madame la Princesse
             de Nassau, Madame la Princesse de Furstemberg, M<hi rend="sup">r</hi> le Comte de
-            Zintendorf, <seg>Envoyé</seg> de l’Empereur, &amp; Madame la Comtesse sa Femme,
+            Zintendorf, Envoyé de l’Empereur, &amp; Madame la Comtesse sa Femme,
             Mademoiselle de Pessouïs, Dame de qualité Allemande, M<hi rend="sup">r</hi>
             l’Ambassadeur de Venise, M<hi rend="sup">r</hi> le Prince d’Aquaviva, M<hi rend="sup"
               >r</hi> le Comte &amp; Madame la Comtesse de Sor, &amp; Mademoiselle leur Fille, &amp;
@@ -10514,7 +10502,7 @@
         <div type="article" xml:id="MG-1700-09_213" resp="wordpro">
           <head>[Theophraste, ou nouveaux Caracteres des Mœurs]</head>
           <bibl><title>Mercure Galant</title>, septembre 1700 [tome 9], p. 213-217.</bibl>
-          <p>Il paroist depuis peu une nouvelle Edition du <seg><hi rend="i">Theophraste</hi></seg>,
+          <p>Il paroist depuis peu une nouvelle Edition du <hi rend="i">Theophraste</hi>,
             ou <hi rend="i">nouveaux caracteres des mœurs</hi>. Ce Livre se debite chez Michel
             Brunet, dans la grande Salle du Palais, au Mercure Galant. Il me seroit difficile de
             vous en parler mieux qu’il en parle dans l’Avis qu’on trouve au commencement de cet
@@ -10524,7 +10512,7 @@
               eu le bonheur de plaire, quelque résolution qu’on eust prise de ne rien admirer dans
               ce genre d’écrire. La nouvelle Edition que j’ay esté obligé d’en faire trois mois
               aprés la premiere, justifie le merite de cet Ouvrage. Il a depuis acquis une
-              perfection qu’il ne <seg>seroit</seg> pas à l’Auteur de vanter, mais que je serois
+              perfection qu’il ne sieroit pas à l’Auteur de vanter, mais que je serois
               ingrat de ne pas loüer, puis que le grand &amp; prompt debit du Livre est l’heureuse
               preuve que j’en ay. On verra dans cette Edition prés de deux cens caracteres ajoûtez.
               Les sujets en sont si nouveaux, qu’on n’accusera pas l’Auteur de n’estre que son
@@ -10533,7 +10521,7 @@
               ne se lassent point de demander ce que l’on peut dire aprés M<hi rend="sup">r</hi> de
               la Bruiere, le connoistront, s’ils veulent donner un peu de temps à la lecture de cet
               Ouvrage. Le monde n’a pas laissé de changer de face depuis le peu de temps que cet
-              illustre Ecrivain en est séparé. Autre <seg>Siecle,</seg> autres mœurs, par consequent
+              illustre Ecrivain en est séparé. Autre Siecle, autres mœurs, par consequent
               autres caracteres. Il ne m’appartient pas de combattre la prévention des hommes, j’en
               laisse le soin aux Auteurs ; mon partage est de faire valoir leurs Ecrits. La chose
               n’est pas embarassante, quand on imprime d’aussi bons Livres que celuy qui vous
@@ -10563,7 +10551,7 @@
             <lg>
               <l rend="i">Rome à peine eut senti l’effet de ta presence,</l>
               <l rend="i">Qu’on vit par tout la joye accompagner tes pas,</l>
-              <l><hi rend="i">Aux champs Ausoniens <seg>renaistre</seg> l’abondance,</hi></l>
+              <l rend="i">Aux champs Ausoniens renaistre l’abondance,</l>
               <l rend="i">Et les Maux conjurez fuir en d’autres climats.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -10693,8 +10681,8 @@
             <p>Le Silence est une suspension de discours, qu’on ne peut representer par des paroles,
               &amp; qui cesse d’estre au moment qu’on veut dire ce qu’il est. On le peint un doigt
               sur la bouche, pour nous apprendre que c’est en se taisant qu’on doit faire son
-              Portrait. Mais <seg>comme</seg> l’écriture est muette aussi-bien que luy
-                <seg>j’espere</seg> qu’elle exprimera parfaitement son Image sur ce Papier, &amp;
+              Portrait. Mais comme l’écriture est muette aussi-bien que luy
+              j’espere qu’elle exprimera parfaitement son Image sur ce Papier, &amp;
               que l’Ecrivain &amp; le Peintre auront le même privilege. Les traits noirs &amp;
               sombres de l’écriture ordinaire luy conviennent encore mieux, que les couleurs vives
               &amp; brillantes de la Peinture ; &amp; il va paroistre dans ces ligues, comme dans
@@ -10718,7 +10706,7 @@
               paroissoit sur son visage, rendoit son éloquence presque inutile. Ovide peint ainsi
               Germanicus, quand il écoute &amp; garde le Silence. Sa posture, son air, son visage,
               ont quelque chose de spirituel &amp; d’éloquent. Il n’y a pas,
-                <seg>continue-t-il,</seg> jusqu’à son habit propre &amp; modeste, qui ne fasse
+              continue t il, jusqu’à son habit propre &amp; modeste, qui ne fasse
               attendre de luy un discours plein de politesse, &amp; de bon sens. Voilà une éloquence
               muette jusque dans les habits.</p>
             <p>Le Silence donne même de la grace à la personne, &amp; les femmes qui se piquent de
@@ -10731,7 +10719,7 @@
               pour un qui aura bon air en parlant, il y en a mille que la parole défigure. Pour ne
               rien dire de l’accent &amp; du son de la voix qui gâtent souvent les plus belles
               choses, &amp; qui donnent même du mépris pour la personne qu’on estimoit auparavant.
-              Mais ce silence doit estre judicieux, naturel, &amp; sans <seg>affectation ;</seg>
+              Mais ce silence doit estre judicieux, naturel, &amp; sans affectation ;
               autrement il est stupide, méprisant, &amp; ridicule. On déplaist, &amp; on fatigue
               quelquefois autant les gens en ne disant rien, qu’en parlant trop.</p>
             <p>Si l’on en croit Salomon, le sage &amp; le fou sont semblables dans le Silence ;
@@ -10881,7 +10869,7 @@
               préside à la science de se taire, &amp; à l’art de bien écouter. Le Silence, dit
               agreablement un sçavant homme, est une chose si divine, qu’il merite bien qu’il y ait
               une Muse qui en fasse les honneurs. Ce fut avec raison que Numa Pompilius obligea les
-              Romains à adorer <seg>cette</seg> Muse muette &amp; silencieuse, puis qu’il tenoit
+              Romains à adorer cette Muse muette &amp; silencieuse, puis qu’il tenoit
               d’elle la pluspart des enseignemens qu’il leur avoit donnez. En effet, que ne doit on
               point au Silence ? C’est le Pere de la Meditation, &amp; la Meditation a mis au jour
               les Loix, les Reglemens, les Maximes, la Politique, &amp; toute la conduite des
@@ -10901,7 +10889,7 @@
             <p>La Nature agit sans éclat, &amp; sans bruit dans ses plus admirables productions,
               &amp; garde toujours un grand silence dans tout ce qu’elle fait ; ce qui devroit bien
               nous apprendre qu’on penetre plutost ses misteres par la meditation que par la parole.
-              Aussi nous <seg>a-t-elle</seg> donné de doubles organes pour les découvrir, &amp; ne
+              Aussi nous a-t-elle donné de doubles organes pour les découvrir, &amp; ne
               nous a donné qu’une seule langue pour les expliquer. Nous avons deux yeux, &amp; deux
               oreilles, &amp; nous n’avons qu’une langue. C’est pourquoy l’étude du Sage qui suit
               les ordres de la Nature n’est qu’un perpetuel silence, qu’il observe même dans le
@@ -10921,7 +10909,7 @@
             <p>dit Horace dans quelqu’une de ses Odes. Il y avoit dans la Vile d’Erithrez un Temple
               de Minerve, dont la Prestresse estoit nommée <hi rend="i">Hesichia</hi>, c’est à dire,
               qui demeure en repos, &amp; qui est tranquille.</p>
-            <p>Ce culte <seg>silencieux</seg> convient tres-bien à la Divinité, puisque le Silence
+            <p>Ce culte silentieux convient tres-bien à la Divinité, puisque le Silence
               est en quelque façon, le Temple, &amp; le Tabernacle de Dieu même, si l’on considere
               l’impenetrabilité de son essence, &amp; de sa nature ; ou le Secret universel de
               toutes les choses qu’il a créées, &amp; dont il s’est reservé la connoissance. Rien
@@ -11040,7 +11028,7 @@
               <l rend="i"> Il a, dit-on, mille talens heureux,</l>
               <l rend="i"> On le cherit, on l’embrasse, on l’encense,</l>
               <l rend="i">  Le lendemain en son absence,</l>
-              <l>  <hi rend="i">On en fait un portrait <seg>affreux.</seg></hi></l>
+              <l rend="i">On en fait un portrait affreux.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -11140,7 +11128,7 @@
               <l rend="i">La terre devenuë une barbare mere,</l>
               <l rend="i">Sourde aux plaintifs accens d’une longue misere,</l>
               <l rend="i">Avoit pour ses enfans des entrailles d’airain,</l>
-              <l><hi rend="i">Et l’ingrate <seg>étouffoit</seg> leur substance en son sein.</hi></l>
+              <l rend="i">Et l’ingrate étoufoit leur substance en son sein.</l>
               <l rend="i">Mais le Ciel est sensible à la voix de vos larmes,</l>
               <l rend="i">Vos soupirs de ses mains ont fait tomber les armes.</l>
               <l rend="i">Jusqu’au Trône divin vos plaintes ont monté,</l>
@@ -11171,7 +11159,7 @@
               <l rend="i">Reparent les dégasts de quatre-vingt-dix-huit.</l>
               <l rend="i">Vous ne voguerez plus sur la mer de misere,</l>
               <l rend="i">Et des vents &amp; des flots la fureur se tempere.</l>
-              <l><hi rend="i">On n’aura plus sujet de se <seg>plaindre</seg> du sort,</hi></l>
+              <l rend="i">On n’aura plus sujet de se plaindre du sort,</l>
               <l rend="i">A l’abry de tous maux les Troyens sont au port.</l>
               <l rend="i">Le vin va rendre l’ame à nos foibles Squeletes.</l>
               <l rend="i">De cuves &amp; de muids nos Bourgeois font empletes.</l>
@@ -11208,8 +11196,7 @@
               <l rend="i">Joyeux de sa victoire au fort de vos entrailles</l>
               <l rend="i">De ce monstre étouffé chanter les funerailles.</l>
               <l rend="i">Calmez, Troyens, calmez, vos troubles infinis,</l>
-              <l><hi rend="i">Vos vergers, vos costeaux, &amp; vos champs <seg>sont</seg>
-                  benis.</hi></l>
+              <l rend="i">Vos vergers, vos costeaux, &amp; vos champs sont benis.</l>
               <l rend="i">Ce beau commencement pour la saison prochaine,</l>
               <l rend="i">Vous promet de tous biens une mesure pleine,</l>
               <l rend="i">Et tout ce que Piquay vous a pronostiqué,</l>
@@ -11227,7 +11214,7 @@
               <l rend="i">Cerés a fait place à Pomonne,</l>
               <l rend="i">Le Raisin est prest à cueillir.</l>
               <l rend="i">C’a, chers Amis, vuidons la tonne,</l>
-              <l><hi rend="i">Nous aurons <seg>de quoy</seg> la remplir.</hi></l>
+              <l rend="i">Nous aurons dequoy la remplir.</l>
             </lg>
           </quote>
           <p>Le même M<hi rend="sup">r</hi> de la Blanchere a fait le Rondeau que je vous
@@ -11288,7 +11275,7 @@
               <l rend="i"> Je crois qu’Apollon m’applaudit.</l>
             </lg>
           </quote>
-          <p>Ce même Abbé ayant obtenu de Sa Majesté une <seg>Pension</seg> de mille livres, M<hi
+          <p>Ce même Abbé ayant obtenu de Sa Majesté une Pension de mille livres, M<hi
               rend="sup">r</hi> Moreau de Mautour luy en a marqué sa joye par cet autre
             Madrigal.</p>
           <quote>
@@ -11395,7 +11382,7 @@
               <l rend="i">Dois-tu pas cette Charge à ta brigue importune ?</l>
               <l rend="i">Eus-tu d’autres motifs que ceux de la fortune ?</l>
               <l rend="i">Et ne la pris tu pas, animé du plaisir</l>
-              <l><hi rend="i">D’avoir mieux <seg>de quoy</seg> vivre, avec plus de loisir.</hi></l>
+              <l rend="i">D’avoir mieux dequoy vivre, avec plus de loisir.</l>
               <l rend="i">Les biens &amp; les emplois que dans l’Eglise on trouve</l>
               <l rend="i">Sont pris injustement, si le Ciel ne l’approuve.</l>
               <l rend="i">Il faut qu’il nous appelle, &amp; que sa sainte voix</l>
@@ -11466,7 +11453,7 @@
             faire, &amp; le plaisir qu’elle prenoit à le voir, ne fut pas caché à son Amant. Il se
             nomma cent fois malheureux de n’avoir pû meriter par ses longs services, ce qu’il voyoit
             que le Cavalier avoit obtenu en un moment. Elle ne déguisa point qu’il luy plaisoit ;
-            &amp; <seg>rejetta</seg> sur la destinée l’inégalité de sentimens qui se trouvoit dans
+            &amp; rejetta sur la destinée l’inégalité de sentimens qui se trouvoit dans
             son cœur pour l’un &amp; pour l’autre. Cette sincere déclaration l’obligea de se
             retirer, pour s’épargner le chagrin d’estre témoin d’une si injuste préference ; mais il
             ne le fit qu’en assurant la Belle qu’il l’aimeroit éternellement, &amp; que l’injustice
@@ -11486,14 +11473,14 @@
             accepter pour Gendre. Du moins il luy paroissoit que son refus ne le touchoit pas assez,
             &amp; qu’il souffroit avec trop de patience le retardement qu’elle estoit contrainte
             d’apporter à la satisfaction de ses desirs. On luy dit même quelque temps aprés, qu’on
-            avoit <seg>tasté</seg> pour luy l’esprit d’une riche Vieille, qui luy eust donné
+            avoit tasté pour luy l’esprit d’une riche Vieille, qui luy eust donné
             beaucoup de bien, si elle eust voulu penser à un second mariage. Il luy protesta avec de
             fort grands sermens qu’il n’avoit aucune part à la chose ; &amp; comme on croit tout ce
             qu’on souhaite quand on est frapé au cœur, il n’eut pas de peine à la persuader de son
             innocence. Un peu aprés que ce petit differend fut arrivé, la Belle perdit une Tante qui
             avoit beaucoup de bien, &amp; qui ne laissoit aucuns Enfans. Elle se trouva sur son
             testament pour une somme, qui ajoûta beaucoup à ce que son Pere luy pouvoit donner en
-            mariage. L’Amant dédaigné, qui la <seg>voyoit</seg> encore quelquefois, lors qu’il
+            mariage. L’Amant dédaigné, qui la voïoit encore quelquefois, lors qu’il
             s’offroit une occasion de bienseance, luy en fit ses complimens, mais sans luy rien dire
             de sa passion, &amp; il n’en usa de cette sorte, que par un simple office d’Ami. La
             Belle fut ravie de faire paroistre au Cavalier qu’elle l’aimoit pour luy seul, en
@@ -11600,7 +11587,7 @@
                 par les Hermites de Saint Louis &amp; de Franchard, qui sont des Prieurez dépendans
                 des Religieux Trinitaires, dits Mathurins, fondez au Chasteau de Fontainebleau. Les
                 Religieux en surplis, au nombre de vingt-deux, &amp; le Pere General de l’Ordre,
-                suivoient. Des <seg>Trompettes</seg> &amp; des Timbales du Roy, au nombre de douze,
+                suivoient. Des Trompettes &amp; des Timbales du Roy, au nombre de douze,
                 furent postez ensuite à la teste des Captifs, qui estoient suivis des quatre
                 Religieux qui les avoient rachetez, tenant une palme à la main. Quatre Captifs
                 portoient chacun un Etendart ; marchant dans des distances proportionnées, &amp; ce
@@ -11617,7 +11604,7 @@
                 Messeigneurs les Ducs d’Anjou &amp; de Berry, Monsieur, tous les Princes &amp; les
                 Princesses du Sang, M<hi rend="sup">r</hi> le Chancelier, &amp; tous les Grands de
                 l’un &amp; de l’autre Sexe, honorerent cette Procession de leur presence. Elle passa
-                ensuite <seg>dans</seg> la cour des Fontaines, où le Roy &amp; la Reine
+                ensuite dans la cour des Fontaines, où le Roy &amp; la Reine
                 d’Angleterre, &amp; toute leur suite, la virent. Dans cet ordre on se rendit à la
                 Chapelle du Roy, où l’on chanta à l’alternative des voix &amp; des Trompettes, une
                 Antienne à l’honneur de la Sainte Trinité. La Procession fut continuée par la cour
@@ -11704,8 +11691,8 @@
             <p>Comme vous avez la bonté, Monsieur, de m’apprendre des choses que je ne sçaurois
               jamais sans vous, je veux vous en apprendre par reconnoissance que vous ne sçauriez
               peut estre jamais sans moy. Vous me fistes l’honneur de m’écrire par la voye du
-              Mercure une fort belle Lettre sur les Lotteries de Paris ; <seg>je</seg> vous écris
-              aujourd’huy sur un sujet bien plus <seg>précieux</seg> que tout l’or des Lotteries,
+              Mercure une fort belle Lettre sur les Lotteries de Paris ; je vous écris
+              aujourd’huy sur un sujet bien plus prétieux que tout l’or des Lotteries,
               &amp; que celuy du Perou. Vous en tomberez d’accord, quand je vous auray dit que c’est
               sur les Reliques d’un Saint, transportées &amp; élevées magnifiquement dans Alby, par
               les soins de nostre illustre Archevêque, mais avant que de vous apprendre combien la
@@ -11748,7 +11735,7 @@
               la politesse &amp; de la bonne foy dans le Commerce. Ils n’ont rien à souhaiter pour
               la situation de leur Ville, pour la pureté de son air, pour la beauté de ses
               promenades, &amp; de ses édifices. La fameuse Eglise de Sainte Cecile est sans doute
-              son plus grand ornement ; sa structure, sa <seg>peinture,</seg> l’or &amp; l’azur
+              son plus grand ornement ; sa structure, sa peinture, l’or &amp; l’azur
               prodiguez, la rendent une des merveilles du monde. Le Palais Archiepiscopal, dont
               l’ancienne figure donne de la veneration, contient au dedans tout ce que l’art a
               inventé de nouveau, &amp; nostre illustre Archevêque, par une dépense digne de son
@@ -11773,7 +11760,7 @@
               marque des bontez de Dieu pour luy, qu’aucun de nos Evesques depuis tant de siécles,
               n’ait eu la pensée de faire ce qu’il fait aujourd’huy ? Quatorze ont esté Cardinaux,
               ceux des Maisons de Lorraine, d’Amboise, de Strozzi, de Rodolphe, de Medicis, ne
-              manquoient ny de zele ny de credit. Les uns élevérent le corps de S. <seg>Salvy,</seg>
+              manquoient ny de zele ny de credit. Les uns élevérent le corps de S. Salvy,
               Evesque de ce lieu, d’autres ceux de S. Eugene, de Saint Amaran, de Sainte Marciane,
               &amp; d’autres Saints de ce Diocese. Le grand Saint Clair restoit ignoré, parce qu’il
               n’avoit laissé dans ce Pays aucun vestige de luy. Nostre Prelat seul a paru digne aux
@@ -11789,7 +11776,7 @@
               </lg>
             </quote>
             <p>Comme il est encore plus convaincu que moi de la grace qu’il reçoit du Ciel, il s’est
-                <seg>appliqué</seg> à regler tout ce qui pouvoit rendre pompeuse &amp; agréable, la
+              apliqué à regler tout ce qui pouvoit rendre pompeuse &amp; agréable, la
               Translation de cette Relique. Pour cet effet, aprés qu’il l’eut déposée le
               22. Septembre dernier chez les Peres Cordeliers, à cent pas de l’une des portes de
               cette Ville, la Procession generale partit de l’Eglise Metropolitaine de Sainte
@@ -11818,7 +11805,7 @@
               Chapitre de l’Eglise Collegia le de Saint Salvy, avec de riches Chapes, dons precieux
               de plusieurs de nos Evêques enterrez dans leur ancienne Eglise. Le Chapitre de
               l’Eglise Metropolitaine de Sainte Cecile, venoit aprés eux. Tout y estoit magnifique.
-              Les Chapes sont <seg>d’étoffes</seg> fort anciennes, d’une broderie tres fine &amp;
+              Les Chapes sont d’étofes fort anciennes, d’une broderie tres fine &amp;
               tres-délicate. Il y a tant d’or &amp; tant de perles, qu’on ne peut rien voir de plus
               riche, &amp; de plus beau. Aussi ce Chapitre est-il un des plus considerables du
               Royaume, sur tout par le merite de ceux qui le composent. Un Dais fort magnifique se
@@ -11826,7 +11813,7 @@
                 rend="sup">r</hi> le Maire, &amp; par M<hi rend="sup">re</hi> les Consuls. Sous ce
               Dais quatre Chanoines de Sainte Cecile portoient la Relique de Saint Clair, qu’on
               voyoit au travers des glaces, dans une Chasse couverte de Damas rouge, brodé d’or
-              &amp; bordé de grandes nattes d’or, sur un brancard de pareille <seg>étoffe</seg>
+              &amp; bordé de grandes nattes d’or, sur un brancard de pareille étofe
               brodé &amp; bordé de même. Le Couronnement estoit de fleurs &amp; de pierreries, qui
               faisoient un effet admirable, en attendant qu’une magnifique Chasse d’argent que M<hi
                 rend="sup">r</hi> l’Archevesque fait faire, soit achevée. Ce Prelat suivoit ce Dais
@@ -11861,7 +11848,7 @@
               posture qui marquoit sa pieté. L’on entra par la porte appellée du Vigan. Les ruës
               étoient ornées de belles tapisseries de haute lice, les fenestres de beaux tapis,
               &amp; de chaque costé des ruës le peuple avoit fait une espece
-                <seg>d’Amphitheatre</seg> qui servoit à contenir huit ou dix mille Etrangers
+              d’Amphiteatre qui servoit à contenir huit ou dix mille Etrangers
               accourus à cette Feste. Ce qu’il y eut de merveilleux, c’est que nul accident ne
               troubla la marche. On reveroit la ceremonie, &amp; un pieux silence regnoit. Cette
               belle Procession trouva divers Reposoirs, elle passa sous divers Arcs de triomphe,
@@ -11959,8 +11946,7 @@
               muraille.</hi></p>
             <p>Sur la porte du Vigan, par où la Procession rentra dans la Ville. <hi rend="i"
                 >Pacificus ne est ingressus tuus ? Pacificus</hi>. 1. Reg. 16. <hi rend="i">Venez
-                vous en esprit de paix</hi><seg>)</seg>
-              <hi rend="i">Je viens en esprit de paix.</hi></p>
+                vous en esprit de paix ? Je viens en esprit de paix.</hi></p>
             <p>Sur la porte de l’Hôpital General, dit la Charité, où la Procession fit une Station.
                 <hi rend="i">Visitator, &amp; adjutor est loci illius</hi>. 2. Machab. 3. <hi
                 rend="i">Il visite cette Maison, &amp; il en est le Protecteur.</hi></p>
@@ -11997,7 +11983,7 @@
             à Petibourg, chez M<hi rend="sup">r</hi> le Marquis d’Antin, y dînerent le Jeudy, &amp;
             arriverent à Fontainebleau peu de temps aprés Sa Majesté. Monsieur, Madame, &amp;
             Monsieur le Duc de Chartres qui avoient couché le Mecredy à Fravont chez M<hi rend="sup"
-              >r</hi> le Prince de Lorraine, dînérent le Jeudy à <seg>Monceaux,</seg> chez Madame la
+              >r</hi> le Prince de Lorraine, dînérent le Jeudy à Monceaux, chez Madame la
             Duchesse de Portsmouth, &amp; arrivérent à six heures &amp; demie.</p>
           <p>Monseigneur &amp; Madame la Duchesse de Bourgogne, Madame la Duchesse, &amp; Madame la
             Duchesse du Lude, vinrent dans le Carosse de Sa Majesté.</p>
@@ -12138,7 +12124,7 @@
             éternellement. C’est ce qui m’oblige à vous envoyer le Sonnet qui suit.</p>
           <quote>
             <lg>
-              <l><hi rend="i"><seg>Tu</seg> calmes l’Vnivers en bornant tes Exploits,</hi></l>
+              <l rend="i">Tu calmes l’Vnivers en bornant tes Exploits,</l>
               <l rend="i">Prince aussi moderé que Heros invincible,</l>
               <l rend="i">Et ta grande Ame trouve un plaisir plus sensible</l>
               <l rend="i">A le pacifier qu’à luy donner des Loix.</l>
@@ -12198,7 +12184,7 @@
             qui conduisoit au lieu souterrain où il se retiroit ; qu’il sortoit par la porte du
             jardin pour traiter avec les hommes, &amp; que personne n’entroit avec luy dans sa
             caverne ; qu’il y avoit à costé de ce jardin des Femmes de mauvaise vie, &amp; toutes
-            sortes de débouchez &amp; de déterminez. <seg>Qu’il</seg> a publié de luy même qu’il <hi
+            sortes de débouchez &amp; de déterminez. Qu’il a publié de luy même qu’il <hi
               rend="i">estoit un Dieu incarné</hi> ; que la Divinité du Tres-haut avoit résidé en
             luy, &amp; <hi rend="i">qu’il estoit le Dieu Eternel</hi> ; qu’il a traité tous les
             autres Prophetes d’ignorans &amp; de bestes ; qu’il parcouroit l’Egypte ; qu’il
@@ -12248,7 +12234,7 @@
             détruisirent ce lieu, &amp; ils y trouvérent une grotte fort spacieuse, tenduë de tapis,
             dans laquelle il y avoit un coffre de cuivre jaune, qu’ils rompirent. Dans ce coffre
             estoit la figure d’un homme en argent, ayant sur sa teste une couronne d’or. Il estoit
-            assis sur un Trône d’argent. Le Bacha fit rompre <seg>cette Figure.</seg> Il y avoit
+            assis sur un Trône d’argent. Le Bacha fit rompre cette Figure. Il y avoit
             encore dans la muraille de cette grotte un sac pendu, dans lequel estoient ces trois
             Livres, qui furent confiez au Sieur Nasrallah, qui sçavoit l’Arabe, afin de leur en lire
             quelque chose. Ils connurent qu’ils n’estoient remplis que d’impietez, ce qui fit que le
@@ -12263,17 +12249,17 @@
             Ils descendoient dans les maisons pendant la nuit, &amp; volérent par tout pendant
             l’espace d’un an &amp; demy. Enfin les Gens de la Ville les ayant pris, n’en épargnéront
             aucun. Ce fut de cette maniére que le Sieur Nasrallah devint maistre de ces Livres, qui
-            estoient gardez si <seg>secretement</seg> qu’il n’estoit permis qu’aux seuls Docteurs de
+            estoient gardez si secrettement qu’il n’estoit permis qu’aux seuls Docteurs de
             les lire en presence de ceux qui estoient déja confirmez dans leur foy, ainsi qu’il leur
             est commandé dans ces mêmes Livres.</p>
           <p>Le même Sieur Nasrallah a presenté au Roy un rouleau de cuir, sur lequel est écrit tout
             le Pentateuque en Hebreu ; il est long de cinquante aulnes &amp; large de trois pieds.
-            Les Juifs <seg>croyent</seg> que cet exemplaire du Pentatheuque est si sacré que si
+            Les Juifs croïent que cet exemplaire du Pentatheuque est si sacré que si
             quelqu’un faisoit serment sur ce Livre, ou s’il le lisoit seulement, il seroit profané,
             &amp; qu’il arriveroit necessairement un malheur terrible à celuy qui auroit osé le
             profaner. En consequence de cette fausse persuasion, ils l’enfermérent dans un lieu
             élevé d’un mur qu’ils fermérent d’une fenestre qu’ils cadenacérent, &amp; le laissant en
-            cet estat, ils mirent une lampe devant. C’estoit au Bourg de Joubar, <seg>situé</seg> à
+            cet estat, ils mirent une lampe devant. C’estoit au Bourg de Joubar, situé à
             deux lieuës de Damas, dans la maison du Prophete Eliacha, disciple de Saint Elie.</p>
           <p>Les Mahometans estant possesseurs de ce Bourg, trouverent que les Juifs avoient fait
             une Synagogue de cette maison, &amp; voyant le lieu où estoit ce rouleau, ayant une
@@ -12312,9 +12298,9 @@
               <l rend="i">Cette auguste Cité, cette sainte Sion</l>
               <l rend="i"> Où l’on celebroit ton grand nom,</l>
               <l rend="i">Où tu fis élever le Temple de ta gloire,</l>
-              <l><hi rend="i">Où nos Peres jadis <seg>t’ont offert</seg> de l’encens,</hi></l>
-              <l><hi rend="i">N’est plus <seg>qu’un</seg> lieu desert qui retrace à nos
-                sens</hi></l>
+              <l rend="i">Où nos Peres jadis t’ont offert de l’encens,</l>
+              <l rend="i">N’est plus qu’un lieu desert qui retrace à nos
+                sens</l>
               <l rend="i"> Latriste &amp; douloureuse histoire</l>
               <l rend="i">De sa grandeur passée, &amp; de nos maux presens.</l>
             </lg>
@@ -12323,7 +12309,7 @@
               <l rend="i"> Il est vray, nous avons peché.</l>
               <l rend="i"> Loin d’écouter les voix celestes,</l>
               <l rend="i">Nous nous sommes livrez à nos panchans funestes,</l>
-              <l><hi rend="i">A violer ta loy chacun s’est <seg>attaché.</seg></hi></l>
+              <l rend="i">A violer ta loy chacun s’est ataché.</l>
               <l rend="i">Mais que nous payons cher tous ces crimes énormes !</l>
               <l rend="i"> Comme on voit les feüilles des Ormes</l>
               <l rend="i">Sur la fin des beaux jours tomber dans les deserts,</l>
@@ -12365,7 +12351,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i"><seg>Lieux</seg> élevez qu’habite le Seigneur ;</hi></l>
+              <l rend="i">Lieux élevez qu’habite le Seigneur ;</l>
               <l rend="i"> Brillant sejour, voûte azurée,</l>
               <l rend="i">Tout gemit icy bas, la terre est alterée.</l>
               <l rend="i"> Nous cedons à nostre langueur.</l>
@@ -12379,7 +12365,7 @@
           <head>[Priere]</head>
           <bibl><title>Mercure Galant</title>, novembre 1700 [tome 11], p. 33-35.</bibl>
           <p>La Priere que j’ajoûte à celle-cy, est du même Auteur, qui n’a voulu se faire
-              <seg>connoistre</seg> que sous le nom de Clidamon.</p>
+             connoistre que sous le nom de Clidamon.</p>
           <quote>
             <label>SUR S. ESTIENNE.</label>
             <lg>
@@ -12398,7 +12384,7 @@
               <l rend="i"> Et leur pardonner tous ses maux,</l>
               <l rend="i"> C’est l’effort d’une ame Chrestienne,</l>
               <l rend="i"> Et c’est ce qu’a fait S. Estienne,</l>
-              <l><hi rend="i">Pour <seg>meriter</seg> au Ciel un éternel repos.</hi></l>
+              <l rend="i">Pour meriter au Ciel un éternel repos.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -12409,14 +12395,14 @@
               <l rend="i">Toy qui veux bien ceder au torrent qui t’emporte ;</l>
               <l rend="i"> Toy, qui ne pardonnes jamais,</l>
               <l rend="i"> Si Dieu te traitoit de la sorte,</l>
-              <l> <hi rend="i"><seg>Pecheur,</seg> pourrois-tu vivre en paix ?</hi></l>
+              <l rend="i">Pecheur, pourrois-tu vivre en paix ?</l>
             </lg>
           </quote>
         </div>
         <div type="article" xml:id="MG-1700-11_048" resp="wordpro">
           <head>[Poëme]</head>
           <bibl><title>Mercure Galant</title>, novembre 1700 [tome 11], p. 48-65.</bibl>
-          <p>Il n’y a rien qui soit plus connu que le differend que <seg>fit</seg> naistre la Pomme
+          <p>Il n’y a rien qui soit plus connu que le differend que fit naistre la Pomme
             d’or entre Junon, Pallas &amp; Venus. Voicy comment cette matiere a esté traitée par
               M<hi rend="sup">r</hi> Cassan.</p>
           <quote>
@@ -12433,16 +12419,16 @@
               <l rend="i">Puis s’élevant en l’air elle prend son essor</l>
               <l rend="i">Vers l’aimable contrée où sont les Pommes d’or.</l>
               <l rend="i">Aprés avoir passé sur les plaines liquides,</l>
-              <l><hi rend="i">Elle voit <seg>les</seg> Jardins des Nimphes Hesperides,</hi></l>
+              <l rend="i">Elle voit les Jardins des Nimphes Hesperides,</l>
               <l rend="i">Dont l’agreable aspect vient offrir à ses yeux,</l>
               <l rend="i">Mille fruits destinez pour la table des Dieux,</l>
               <l rend="i">Et c’est là qu’elle prend cette Pomme admirable,</l>
               <l rend="i">Qui rendit à Paris Venus si favorable.</l>
               <l rend="i">De retour sur le Mont, se couvrant d’un buisson,</l>
-              <l><hi rend="i">Elle jette ce fruit <seg>ainsi</seg> qu’un hameçon,</hi></l>
+              <l rend="i">Elle jette ce fruit ainsi qu’un hameçon,</l>
               <l rend="i">Les Déesses d’abord courent toutes en foule ;</l>
-              <l><hi rend="i">Mais la <seg>Discorde</seg> ayant écrit sur cette boule,</hi></l>
-              <l>Je suis pour la plus belle, <hi rend="i">à <seg>contester</seg> ce don</hi></l>
+              <l rend="i">Mais la Discorde ayant écrit sur cette boule,</l>
+              <l>Je suis pour la plus belle, <hi rend="i">a contester ce don</hi></l>
               <l rend="i">Il n’en parut que trois, Venus, Pallas, Junon.</l>
               <l rend="i">Chacune de ceder ne pouvant se résoudre,</l>
               <l rend="i">On remit cette Pomme au Maistre de la foudre,</l>
@@ -12453,7 +12439,7 @@
               <l rend="i">Au jugement d’un tiers, &amp; leur fait ce discours.</l>
               <l rend="i">Du haut du Firmament je vis un de ces jours</l>
               <l rend="i">Combattre deux Taureaux auprés d’une Genisse,</l>
-              <l><hi rend="i">Qui <seg>passoit</seg> sans songer quel estoit leur caprice.</hi></l>
+              <l rend="i">Qui passoit sans songer quel estoit leur caprice.</l>
               <l rend="i">Vn Berger, spectateur d’un si rude debat,</l>
               <l rend="i">Sembloit s’estre arresté pour juger du combat.</l>
               <l rend="i">A la fin le plus lâche abandonnant la place,</l>
@@ -12463,7 +12449,7 @@
               <l rend="i">D’avoir cedé le champ par son peu de courage,</l>
               <l rend="i">Va mugir à l’écart de furie &amp; de rage.</l>
               <l rend="i">Cet Acte d’équité me plut dans ce Berger,</l>
-              <l><hi rend="i">Dès lors je l’estimay <seg>capable</seg> de juger,</hi></l>
+              <l rend="i">Dès lors je l’estimay capable de juger,</l>
               <l rend="i">Et sans plus differer je luy donne le titre</l>
               <l rend="i">Sur vostre démeslé, de souverain Arbitre,</l>
               <l rend="i">Allez, dit Jupiter. A ce commandement</l>
@@ -12485,7 +12471,7 @@
               <l rend="i">Quoy, dit-il, Jupiter voudroit-il obliger</l>
               <l rend="i">Vn habitant des bois, un rustique Berger,</l>
               <l rend="i">A porté jugement sur le choix de trois Roses,</l>
-              <l><hi rend="i">Au lever du <seg>Soleil</seg> également écloses ?</hi></l>
+              <l rend="i">Au lever du Soleil également écloses ?</l>
               <l rend="i">Encore si c’estoit pour juger d’un troupeau,</l>
               <l rend="i">Ou bien de mes moutons lequel est le plus beau,</l>
               <l rend="i">Je pourrois me fonder sur quelque experience,</l>
@@ -12495,7 +12481,7 @@
               <l rend="i">Et de même que luy chaque Dieu se recuse ;</l>
               <l rend="i">Mais enfin sur ce point vous n’avez pas d’excuse ;</l>
               <l rend="i">Je parts, obeissez, &amp; l’ordre en est précis,</l>
-              <l><hi rend="i">Ecoutez leurs <seg>raisons.</seg> Paris s’estant assis,</hi></l>
+              <l rend="i">Ecoutez leurs raisons. Paris s’estant assis,</l>
               <l rend="i">La Déesse Junon s’avança la premiere.</l>
               <l rend="i">Son front n’est plus superbe, &amp; son humeur altiere</l>
               <l rend="i">Fait place à la douceur, qui vient à son secours,</l>
@@ -12505,25 +12491,25 @@
               <l rend="i">Et je n’aurois jamais rempli parmy les Dieux</l>
               <l rend="i">Le Trône souverain de la Reine des Cieux.</l>
               <l rend="i">Jupiter qui m’a fait compagne de sa couche,</l>
-              <l><hi rend="i"><seg>S’explique</seg> par son choix au defaut de sa bouche,</hi></l>
+              <l rend="i">S’explique par son choix au defaut de sa bouche,</l>
               <l rend="i">Et ce choix qu’il a fait vous est un préjugé,</l>
               <l rend="i">Pour confirmer un point qu’il a déja jugé.</l>
               <l rend="i">Prononcez hardiment sans craindre mes Rivales,</l>
-              <l><hi rend="i">Leur haine ne <seg>sçauroit</seg> vous les rendre fatales,</hi></l>
+              <l rend="i">Leur haine ne sçauroit vous les rendre fatales,</l>
               <l rend="i">Et Junon en tout temps sçaura vous proteger.</l>
               <l rend="i">Si leur dépit alloit jusqu’à vous outrager.</l>
               <l rend="i">Je puis vous en promettre une pleine assurance,</l>
-              <l><hi rend="i">Et vous <seg>donner</seg> encor des biens en abondance ;</hi></l>
+              <l rend="i">Et vous donner encor des biens en abondance ;</l>
               <l rend="i">Et Venus &amp; Pallas ne sçauroient vous offrir</l>
-              <l><hi rend="i">Qu’un bien <seg>accompagné</seg> de quelque déplaisir.</hi></l>
-              <l><hi rend="i">A l’estat de Berger vous <seg>donnez</seg> trop de lustre ;</hi></l>
+              <l rend="i">Qu’un bien accompagné de quelque déplaisir.</l>
+              <l rend="i">A l’estat de Berger vous donnez trop de lustre ;</l>
               <l rend="i">Paris, apprenez donc qu’une naissance illustre</l>
               <l rend="i">Dans un Palais Royal vous a donné le jour.</l>
-              <l><hi rend="i">Vn songe vous avoit <seg>éloigné</seg> de la Cour.</hi></l>
+              <l rend="i">Vn songe vous avoit éloigné de la Cour.</l>
               <l rend="i">Allez-y promptement vous faire reconnoistre</l>
               <l rend="i">Prince, c’est de Priam que vous receustes l’estre.</l>
-              <l><hi rend="i"><seg>Junon</seg> ayant parle, Pallas dit à son tour,</hi></l>
-              <l><hi rend="i"><seg>Arbitre</seg> délegué par la <seg>celeste</seg> Cour,</hi></l>
+              <l rend="i">Junon ayant parle, Pallas dit à son tour,</l>
+              <l rend="i">Arbitre délegué par la celeste Cour,</l>
               <l rend="i">L’honneur du mont Ida, Berger incomparable,</l>
               <l rend="i">Les Dieux vous ont choisi comme un Iuge équitable,</l>
               <l rend="i">Et Paris a l’honneur par son integrité,</l>
@@ -12531,15 +12517,13 @@
               <l rend="i">S’il aime la vertu, c’est Pallas qui l’inspire,</l>
               <l rend="i">C’est par là qu’il me doit l’honneur que je desire ;</l>
               <l rend="i">Et puis que rien ne-peut égaler la vertu,</l>
-              <l><hi rend="i">Son <seg>esprit</seg> ne sçauroit se trouver combattu.</hi></l>
-              <l><hi rend="i">Elle est de tous les biens le plus <seg>considerable.</seg></hi></l>
+              <l rend="i">Son esprit ne sçauroit se trouver combattu.</l>
+              <l rend="i">Elle est de tous les biens le plus considerable.</l>
               <l rend="i">Sans doute il fera choix d’une beauté durable.</l>
-              <l><hi rend="i">Il <seg>s’agit</seg> d’établir vostre felicité.</hi></l>
+              <l rend="i">Il s’agit d’établir vostre felicité.</l>
               <l rend="i">Mesme aux dépens des biens &amp; de la volupté.</l>
-              <l><hi rend="i">Si par de vains <seg>presens</seg> Iunon veut vous
-                surprendre,</hi></l>
-              <l><hi rend="i">Que peut-elle donner que vous ne puissiez
-                <seg>prendre ?</seg></hi></l>
+              <l rend="i">Si par de vains presens Iunon veut vous surprendre,</l>
+              <l rend="i">Que peut-elle donner que vous ne puissiez prendre ?</l>
               <l rend="i">Vous estes Fils d’un Roy, qui par les droits du sang,</l>
               <l rend="i">Vous doit auprés de luy redonner vostre rang.</l>
               <l rend="i">Aux charmes de Venus ne soyez pas sensible,</l>
@@ -12553,20 +12537,19 @@
               <l rend="i">Qu’une masle vigueur vous donne l’assurance</l>
               <l rend="i">Pour juger sainement sur cette préference,</l>
               <l rend="i">Et balançant la cause au poids de l’équité,</l>
-              <l><hi rend="i">Offrez à la vertu ce qu’elle a <seg>merité.</seg></hi></l>
+              <l rend="i">Offrez à la vertu ce qu’elle a merité.</l>
               <l rend="i">Par les raisons de l’une &amp; de l’autre Déesse,</l>
               <l rend="i">Son esprit en suspens tomboit dans la foiblesse.</l>
               <l rend="i">Quand Venus souriant dit d’un air gracieux,</l>
               <l rend="i">Voila mon tour venu, Berger, ouvrez les yeux.</l>
-              <l><hi rend="i">La <seg>beauté</seg> toute seule attend vostre Sentence,</hi></l>
+              <l rend="i">La beauté toute seule attend vostre Sentence,</l>
               <l rend="i">C’est pour elle qu’icy vous avez pris séance.</l>
               <l rend="i">On a beau vous parler de vertu, de tresor,</l>
               <l rend="i">Lisez l’inscription de cette pomme d’or,</l>
-              <l><hi rend="i">Vous verrez <seg>qu’elle</seg> dit, Ie suis pour la plus
-                belle.</hi></l>
+              <l rend="i">Vous verrez qu’elle dit, Ie suis pour la plus belle.</l>
               <l rend="i">C’est là l’unique point qui fait nostre querelle.</l>
               <l rend="i">Aprés cela, Berger, jugez de nos attraits,</l>
-              <l><hi rend="i">De chacune de nous examinez les <seg>traits.</seg></hi></l>
+              <l rend="i">De chacune de nous examinez les traits.</l>
               <l rend="i">Le coloris vermeil dont mes joüës sont teintes,</l>
               <l rend="i">Donne à leur vanité de funestes atteintes,</l>
               <l rend="i">Et Paris ne sçauroit, sans me faire un affront,</l>
@@ -12586,24 +12569,23 @@
               <l rend="i">Paris, sans differer quittez ce lieu champestre,</l>
               <l rend="i">Allez chez les Parens de qui vous tenez l’estre,</l>
               <l rend="i">Et pour vous rendre heureux le reste de vos jours,</l>
-              <l><hi rend="i">Faites d’un digne <seg>choix</seg> l’objet de vos amours.</hi></l>
+              <l rend="i">Faites d’un digne choix l’objet de vos amours.</l>
               <l rend="i">Helene est aujourd’huy le Soleil de la Grece,</l>
               <l rend="i">Ie la rendray pour vous sensible à la tendresse.</l>
-              <l><hi rend="i">Tentez <seg>l’occasion,</seg> &amp; <seg>secondant</seg> vos
-                  vœux,</hi></l>
+              <l rend="i">Tentez l’occasion, &amp; secondant vos vœux,</l>
               <l rend="i">Ie sçauray l’enflamer d’un desir amoureux.</l>
               <l rend="i">Tandis que sur un fait de cette consequence,</l>
               <l rend="i">Les Déesses tenoient leur Arbitre en balance,</l>
               <l rend="i">Il voulut pour juger avec plus d’équité,</l>
               <l rend="i">Parcourir avec soin les traits de leur beauté.</l>
               <l rend="i">Iunon y consentit, &amp; Pallas avec crainte.</l>
-              <l><hi rend="i">Venus seule parut obeir sans <seg>contrainte.</seg></hi></l>
+              <l rend="i">Venus seule parut obeir sans contrainte.</l>
               <l rend="i">Enfin aprés avoir longtemps consideré,</l>
               <l rend="i">Venus receut le prix qu’elle avoit desiré.</l>
-              <l><hi rend="i">La Déesse <seg>Iunon</seg> abandonne la place,</hi></l>
+              <l rend="i">La Déesse Iunon abandonne la place,</l>
               <l rend="i">En regardant Paris d’un œil plein de menace,</l>
               <l rend="i">Et Pallas qui perdoit l’avantage du Prix,</l>
-              <l><hi rend="i">Le regarde en partant d’un air plein de <seg>mépris.</seg></hi></l>
+              <l rend="i">Le regarde en partant d’un air plein de mépris.</l>
             </lg>
           </quote>
         </div>
@@ -12615,19 +12597,19 @@
             &amp; particulier de cette Lettre, &amp; le brillant dont elle est remplie, vous en
             doivent faire connoistre l’Auteur. Il n’est pas permis à tout le monde d’écrire aussi
             finement, &amp; comme il est des plus distinguez, c’est assez vous en dire, pour vous
-            apprendre de qui elle <seg>vient.</seg></p>
+            apprendre de qui elle vient.</p>
           <quote>
             <label><hi rend="i">A la Belle &amp; Spirituelle<lb/>MADAME DAMOND,<lb/>Sur la mort de
                 Moufle, son Doguin.</hi></label>
             <p>Je ne prétens pas, Madame, essuyer vos larmes ; vous les croyez trop justes, &amp; la
-              Philosophie n’a <seg>point</seg> encore imaginé de consolations pour un malheur comme
+              Philosophie n’a point encore imaginé de consolations pour un malheur comme
               le vostre. Il ressemble à ces maladies extraordinaires, dont les causes sont si
               bizarres, que tout l’art de la Medecine n’a pû les prévoir, &amp; pour lesquelles par
               consequent elle n’a pû donner de remedes.</p>
             <quote>
               <lg>
-                <l><hi rend="i">Pleurez, pleurez, <seg>Madame,</seg> &amp; fondez-vous en
-                  eau,</hi></l>
+                <l rend="i">Pleurez, pleurez, Madame, &amp; fondez-vous en
+                  eau,</l>
                 <l rend="i">La Parque inexorable a mis Moufle au tombeau ;</l>
                 <l rend="i"> Et ne vous laisse plus aprés ce coup funeste,</l>
                 <l rend="i">Qu’un dégoust éternel pour tout ce qui vous reste.</l>
@@ -12641,7 +12623,7 @@
               que la santé ? Un bien dont la possession ne se fait presque pas sentir, &amp; dont la
               perte nous desespere. Qu’est-ce que la beauté ? Un avantage d’un moment, qui met la
               vertu en grand danger, qui fait la tentation de tous les hommes, &amp; la jalousie de
-              toutes les femmes. Qu’est ce que des Amans ? Des <seg>importuns</seg> qui demandent ce
+              toutes les femmes. Qu’est ce que des Amans ? Des importuns qui demandent ce
               qu’on ne veut pas leur donner ; ou des ingrats qui se lassent de ce qu’on leur donne.
               Qu’est-ce que les richesses ? Une chose tres-difficile à acquerir, aussi malaisée à
               conserver, &amp; dont presque personne ne sçait faire un bon usage. Enfin, qu’est-ce
@@ -12696,24 +12678,22 @@
           <quote>
             <label>POLLION.</label>
             <lg>
-              <l><hi rend="i"><seg>Muses</seg> de la Sicile, élevez vostre <seg>voix</seg></hi></l>
+              <l rend="i">Muses de la Sicile, élevez vostre voix</l>
               <l rend="i">A des sujets plus hauts que nos champs &amp; nos bois,</l>
               <l rend="i">Les humbles arbrisseaux à tous ne sçauroient plaire ?</l>
-              <l><hi rend="i">Si pourtant des <seg>forests</seg> nous ne sçaurions nous
-                taire,</hi></l>
-              <l><hi rend="i">Chantons <seg>d’un</seg> ton si <seg>haut</seg> &amp; les bois &amp;
-                  les champs,</hi></l>
+              <l rend="i">Si pourtant des forests nous ne sçaurions nous taire,</l>
+              <l rend="i">Chantons d’un ton si haut &amp; les bois &amp;les champs,</l>
               <l rend="i">Qu’un Consul des Romains daigne entendre nos chants.</l>
               <l rend="i"> Enfin, voicy cet âge en mille biens fertile,</l>
-              <l><hi rend="i">Que nous <seg>avoient</seg> promis les Vers de la Sibile,</hi></l>
+              <l rend="i">Que nous avoient promis les Vers de la Sibile,</l>
               <l rend="i">Où dans un long repos les siecles écoulez,</l>
-              <l><hi rend="i">Vont pour nostre bonheur estre <seg>renouvelez.</seg></hi></l>
+              <l rend="i">Vont pour nostre bonheur estre renouvellez.</l>
               <l rend="i">Le retour attendu de la divine Astrée</l>
               <l rend="i">Nous ramene le temps de Saturne &amp; de Rhée.</l>
               <l rend="i">Le Fils de Pollion vient de naistre en ces lieux,</l>
-              <l><hi rend="i">Dont la race immortelle est <seg>un</seg> present des Cieux.</hi></l>
+              <l rend="i">Dont la race immortelle est un present des Cieux.</l>
               <l rend="i">Soudain le sage Enfant terminera la guerre,</l>
-              <l><hi rend="i">Et l’heureux siecle d’or regnera sur la <seg>terre.</seg></hi></l>
+              <l rend="i">Et l’heureux siecle d’or regnera sur la terre.</l>
               <l rend="i">Lucine, sois propice à ce Heros naissant,</l>
               <l rend="i">Déja cet Apollon est icy tout-puissant.</l>
               <l rend="i"> Pendant ton Consulat, on a cet avantage,</l>
@@ -12723,38 +12703,37 @@
               <l rend="i">Sous toy si de la guerre ou voit encor des restes,</l>
               <l rend="i">On ne craindra plus rien de ses suites funestes ;</l>
               <l rend="i">Il vivra comme un Dieu, cet Enfant glorieux,</l>
-              <l><hi rend="i">Il <seg>verra</seg> les Heros meslez avec les Dieux ;</hi></l>
+              <l rend="i">Il verra les Heros meslez avec les Dieux ;</l>
               <l rend="i">Il en sera vû même, &amp; dans la paix profonde,</l>
               <l rend="i">Plein des vertus du pere il regira le monde.</l>
               <l rend="i"> La terre, Enfant divin, soudain vous fera part</l>
               <l rend="i">De ses petits presens sans façon &amp; sans art,</l>
-              <l><hi rend="i">Du lierre tortu dont la <seg>tige</seg> est rampante,</hi></l>
+              <l rend="i">Du lierre tortu dont la tige est rampante,</l>
               <l rend="i">Et du baccar, de peur que l’on ne vous enchante,</l>
-              <l><hi rend="i">De la feve <seg>d’Egypte</seg> à l’éclat verdoyant,</hi></l>
+              <l rend="i">De la feve d’Egipte à l’éclat verdoyant,</l>
               <l rend="i">Et de la branche ursine, au feuillage riant ;</l>
               <l rend="i">Les chevres aux hameaux le soir s’estant rendues,</l>
-              <l><hi rend="i">Y porteront de lait <seg>des</seg> mamelles tendues,</hi></l>
+              <l rend="i">Y porteront de lait des mamelles tendues,</l>
               <l rend="i">Les taureaux, les haras en liberté paissans,</l>
               <l rend="i">Ne craindront plus l’assaut des lions rugissans,</l>
               <l rend="i">Et même vostre couche eu fleurs toujours feconde,</l>
               <l rend="i">En produira pour vous les plus belles du monde.</l>
-              <l><hi rend="i">Tous serpens periront, tous simples <seg>venimeux,</seg></hi></l>
+              <l rend="i">Tous serpens periront, tous simples veneneux,</l>
               <l rend="i">Prompts à nous recevoir, periront avec eux ;</l>
               <l rend="i">L’Amone d’Assirie, &amp; sa plus douce essence</l>
               <l rend="i">Parfumera nos champs, par tout prendra naissance.</l>
-              <l> <hi rend="i">Mais <seg>quand</seg> de vostre pere &amp; de vos grands
-                ayeux</hi></l>
+              <l rend="i">Mais quand de vostre pere &amp; de vos grands ayeux</l>
               <l rend="i">Vous pourrez voir écrits les exploits glorieux,</l>
               <l rend="i">Et que vous sentirez cette divine flâme</l>
               <l rend="i">Que l’amour des vertus allume dans une ame,</l>
-              <l><hi rend="i">Les champs <seg>seront</seg> jaunis du bel or des moissons,</hi></l>
+              <l rend="i">Les champs seront jaunis du bel or des moissons,</l>
               <l rend="i">Le noir raisin pendra des incultes buissons.</l>
               <l rend="i">Le miel même à travers la dureté des chesnes,</l>
               <l rend="i">Ainsi qu’une sueur, coulera de leurs veines,</l>
               <l rend="i">Quelques restes legers de nos premiers defauts,</l>
               <l rend="i">Nous pousseront encore à voguer sur les eaux.</l>
               <l rend="i">Thetis verra des Nefs sur ses plaines mobiles,</l>
-              <l><hi rend="i"><seg>Encore</seg> on donnera des murailles aux Villes ;</hi></l>
+              <l rend="i">Encore on donnera des murailles aux Villes ;</l>
               <l rend="i">Encor le soc armé de ses coutres tranchans,</l>
               <l rend="i">Suivi du Laboureur sillonnera les champs.</l>
               <l rend="i">Alors d’autres Tifis sur le sein d’Amphitrite,</l>
@@ -12769,7 +12748,7 @@
               <l rend="i">La terre en tous endroits se trouvera feconde,</l>
               <l rend="i">Le coutre n’ira plus lui déchirer le sein,</l>
               <l rend="i">La vigne sans travail fera naistre le vin,</l>
-              <l><hi rend="i">Le bouvier aux taureaux ôtant leur <seg>attelage,</seg></hi></l>
+              <l rend="i">Le bouvier aux taureaux ôtant leur atelage,</l>
               <l rend="i">Les laissera courir libres de labourage,</l>
               <l rend="i">Et l’on ne verra plus, sur la laine éclater,</l>
               <l rend="i">Ces couleurs que de l’art on luy voit emprunter.</l>
@@ -12782,7 +12761,7 @@
               <l rend="i"> Race de Jupiter, enfant si cher aux Dieux,</l>
               <l rend="i">Il est temps d’accepter vos emplois glorieux,</l>
               <l rend="i">Voyez cet univers que le poids de ses crimes</l>
-              <l><hi rend="i">Alloit precipiter dans le <seg>fonds</seg> des abîmes,</hi></l>
+              <l rend="i">Alloit precipiter dans le fonds des abîmes,</l>
               <l rend="i">D’aise cet Univers ne peut se contenir,</l>
               <l rend="i">Et tout se réjoüit de ce siecle à venir.</l>
               <l rend="i"> Le Ciel contentera pleinement mon envie,</l>
@@ -12790,9 +12769,9 @@
               <l rend="i">Et si j’ay dans ce temps encore assez de voix,</l>
               <l rend="i">Pour chanter dignement vos glorieux exploits.</l>
               <l rend="i">Je ne crains point qu’alors le Chantre de la Trace,</l>
-              <l><hi rend="i">Ce Fils de <seg>Calliope</seg> en beaux Vers me surpasse,</hi></l>
+              <l rend="i">Ce Fils de Caliope en beaux Vers me surpasse,</l>
               <l rend="i">Ny que le grand Linus, Fils du bel Apollon,</l>
-              <l><hi rend="i">Sur un si <seg>haut</seg> sujet obscurcisse mon nom.</hi></l>
+              <l rend="i">Sur un si haut sujet obscurcisse mon nom.</l>
               <l rend="i">Si pour me surmonter dans ce noble exercice,</l>
               <l rend="i">Le Dieu Pan contre moy vouloit entrer en lice,</l>
               <l rend="i">Quand même l’Arcadie en devroit décider,</l>
@@ -12803,7 +12782,7 @@
               <l rend="i">Les maux qu’en sa grossesse elle a soufferts pour vous.</l>
               <l rend="i">Faites que cet air tendre un souris vous attire.</l>
               <l rend="i">Ceux à qui les parens ne daignent point sourire.</l>
-              <l><hi rend="i">Jupiter de sa table à <seg>jamais</seg> les bannit,</hi></l>
+              <l rend="i">Jupiter de sa table à jamais les bannit,</l>
               <l rend="i">Et Pallas pour toujours leur refuse son lit.</l>
             </lg>
           </quote>
@@ -12834,7 +12813,7 @@
               <l rend="i">Sans goust pour le sçavoir, sans goust pour les vertus,</l>
               <l rend="i"> Il donna la Pomme à Venus.</l>
               <l rend="i">Damon de qui l’esprit, les beaux vers, la science,</l>
-              <l> <hi rend="i">Sont cheris de <seg>toute</seg> la France,</hi></l>
+              <l rend="i">Sont cheris de toute la France,</l>
               <l rend="i">N’imite point Paris, &amp; sçait choisir bien mieux</l>
               <l rend="i"> Maistre de la destinée</l>
               <l rend="i"> De l’Orange couronnée,</l>
@@ -12968,7 +12947,7 @@
             les Princes se trouverent &amp; le soir il y eut des Appartemens chez Monseigneur.</p>
           <p>Le Vendredi 22. l’on chanta à la Messe du Roy le Motet du sieur Bernier, qui fut fort
             applaudi de sa Majesté. Monseigneur, &amp; Monseigneur le Duc de Bourgogne coururent le
-            Loup, &amp; le Roy alla tirer aprés son dîné. Le <seg>soir</seg> à six heures, il y eut
+            Loup, &amp; le Roy alla tirer aprés son dîné. Le soir à six heures, il y eut
             dans a Galerie des Cerfs une répetition des trois derniers Actes de l’Opera d’Hercule
             &amp; d’Omphale, du sieur Destouches.</p>
           <p>Le Samedi 23. le Roy entendit à sa Messe pour la seconde fois le Motet du jour
@@ -12991,8 +12970,8 @@
             de l’Opera d’Hercule &amp; d’Omphale, à laquelle Madame la Princesse de Conty
             assista.</p>
           <p>Le Mecredi 27. le Roy accompagné de Monseigneur &amp; des Princes, courut un
-              <seg>Chevreüil</seg> avec les Chiens de M<hi rend="sup">r</hi> le Comte de
-              <seg>Toulouse.</seg> Le soir les Comédiens representerent la Tragedie des Horaces de
+              Chevreüil avec les Chiens de M<hi rend="sup">r</hi> le Comte de
+              Toulouze. Le soir les Comédiens representerent la Tragedie des Horaces de
               M<hi rend="sup">r</hi> Corneille l’Aîné, &amp; l’Eté des Coquettes du sieur
             d’Ancourt.</p>
           <p>Le Jeudi 28. Monseigneur &amp; Monseigneur le Duc de Bourgogne coururent le Loup. Le
@@ -13011,15 +12990,15 @@
             divertissement de leur façon.</p>
           <p>Le Dimanche 31. il n’y eut ny chasse ny autre divertissement, le Roy entendit les
             premieres Vespres de la Feste de de tous les Saints dans la Chapelle en bas. Il avoit
-            donné le matin avant la Messe, <seg>Audience</seg> à M<hi rend="sup">r</hi> Zinzendorf
+            donné le matin avant la Messe, Audiance à M<hi rend="sup">r</hi> Zinzendorf
             Envoyé de l’Empereur.</p>
           <p>Le Lundy premier Novembre, Feste de tous les Saints, le Roy fit ses devotions à neuf
             heures &amp; demie dans la Chapelle des Mathurins, &amp; toucha ensuite grand nombre de
             Malades. Il retourna à onze heures à la grand’ Messe, &amp; dîna à son grand Couvert. Il
-            entendit <seg>l’apresdînée</seg> le Sermon du Pere Maure, Prestre de l’Oratoire, &amp;
+            entendit l’apresdînée le Sermon du Pere Maure, Prestre de l’Oratoire, &amp;
             les Vespres chantées par la Musique de Sa Majesté, qui furent suivies de celles des
             Morts. Il nomma ensuite aux Benefices vacans, &amp; donna l’Evêché de Bayonne à M<hi
-              rend="sup">r</hi> l’Abbé du Rivau de <seg>Beauvau,</seg> Neveu &amp; Grand-Vicaire de
+              rend="sup">r</hi> l’Abbé du Rivau de Beauzau, Neveu &amp; Grand-Vicaire de
               M<hi rend="sup">r</hi> l’Evêque de Sarlat, qui a travaillé avec un grand succés à la
             conversion des nouveaux Catholiques.</p>
           <p>L’Abbaye de Bonnefons, Diocese de Cominge à M<hi rend="sup">r</hi> l’Abbé de Candeau,
@@ -13078,7 +13057,7 @@
           <p>Les Exilez furent rappellez aprés la mort du Roy, suivant l’usage étably en Espagne de
             les rappeller aprés la mort des Rois.</p>
           <p>Il est à remarquer que Charles II est le sixiéme Roy, d’Espagne mort au mois de Nov.
-            &amp; que le 21. Octobre il parut sur Madrid à midy une grande <seg>Etoile</seg> fort
+            &amp; que le 21. Octobre il parut sur Madrid à midy une grande Etoille fort
             brillante du côté de France, dans le tems que le Soleil estoit encore en sa force, &amp;
             fort lumineux.</p>
           <p>Si tost que le Roy apprit la mort de ce Monarque, il envoya chercher Monseigneur le
@@ -13131,7 +13110,7 @@
             ce Monarque, ils estoient tout occupez de leur douleur, &amp; des affaires pressantes
             qui demandent beaucoup de soins dans ces funestes momens, ils ne croyoient pas avoir
             assez marqué à Sa Majesté avec combien d’ardeur ils souhaitoient qu’elle leur accordast
-            Monseigneur le Duc d’Anjou pour Roy, ny l’avoir <seg>assez</seg> instamment priée de
+            Monseigneur le Duc d’Anjou pour Roy, ny l’avoir assés instamment priée de
             leur envoyer ce Prince, ce qui les obligeoit à redoubler leurs instances pour le
             demander à Sa Majesté.</p>
           <p>Le Mardi 16. le Roy estant entré dans son Cabinet aprés son lever, fit appeller
@@ -13148,7 +13127,7 @@
             leur declara que Monseigneur le Duc d’Anjou étoit Roy d’Espagne, &amp; fit appeller pour
             la seconde fois l’Ambassadeur, qui entra suivi de son Fils aîné &amp; de plusieurs
             Espagnols. Le Roy luy dit, en luy montrant Monseigneur le Duc d’Anjou, <hi rend="i"
-              >Monsieur, saluez vostre Roy</hi> ; Aussi tost <seg>l’Ambassadeur</seg> se jetta à ses
+              >Monsieur, saluez vostre Roy</hi> ; Aussi tost l’Ambassadeur se jetta à ses
             pieds, &amp; luy baisa la main, les yeux remplis de larmes de joye, &amp; s’estant
             relevé, il fit avancer son fils, &amp; les Espagnols de sa suite qui en firent autant.
             Il s’écria alors, <hi rend="i">Quelle joye ! il n’y a plus de Pirenées, elles sont
@@ -13173,13 +13152,13 @@
             Cour à la descente du Carrosse, &amp; le conduisit dans son Appartement. Il le
             reconduisit a son Carrosse, &amp; ne rentra point qu’il ne fust parti ; en allant &amp;
             en revenant les Gardes Françoises &amp; Suisses estoient sous les armes dans
-              <seg>l’avancourt,</seg> &amp; les tambours battoient aux Champs. Le Roy d’Espagne à
-            son <seg>retour</seg> à Versailles, rendit visite a Madame la Duchesse de Bourgogne,
+            l’avancour, &amp; les tambours battoient aux Champs. Le Roy d’Espagne à
+            son retour à Versailles, rendit visite a Madame la Duchesse de Bourgogne,
             &amp; se retira jusqu’au souper dans son Appartement. A dix heures lorsque le Maistre
             d’Hôtel eut averti le Roy que la viande étoit sur table, Sa M. envoya avertir le Roy
             d’Espagne, &amp; l’attendit à la porte de la Galerie, le conduisit à la table, le fit
             asseoir à sa droite dans un fauteüil, &amp; aprés le souper ils rentrerent dans le
-              <seg>salon,</seg> &amp; le Roy le reconduisit jusqu’à la sortie de sa chambre. Le Roy
+            sallon, &amp; le Roy le reconduisit jusqu’à la sortie de sa chambre. Le Roy
             d’Espagne fit donner le bougeoir à son coucher à son Ambassadeur.</p>
           <p>Le 17. au matin, Monseigneur le Dauphin vint de Meudon, ce Prince rendit visite au Roy
             d’Espagne dans son Cabinet. Il entendit la Messe avec les deux Rois, &amp; retourna
@@ -13220,7 +13199,7 @@
             Roy, &amp; le Roy d’Espagne allerent ensemble à la Messe, la queuë de S.M.C. traînant
             d’une aune &amp; demie, fut portée par M<hi rend="sup">r</hi> le Duc d’Aumont qui sert
             auprés de ce Prince en qualité de premier Gentilhomme de la Chambre du Roy, jusqu’à
-              <seg>l’entrée</seg> de la Salle des Gardes, où il la remit entre les mains de M<hi
+            l’antrée de la Salle des Gardes, où il la remit entre les mains de M<hi
               rend="sup">r</hi> le Comte de Druy, Lieutenant des Gardes du Corps qui sert auprés de
             Sa Majesté Catholique. Ce Comte la porta jusques dans la Tribune. Ce qui se passa de la
             même maniere au retour de la Messe.</p>
@@ -13282,7 +13261,7 @@
             Maistre des Ceremonies. le Roy d’Espagne les reçût en Manteau assis, &amp; couvert.
             Derriere le fauteüil de sa Majesté Catholique, étoit M<hi rend="sup">r</hi> le Duc de
             Beauvilliers Premier Gentil homme de la Chambre du Roy, en Manteau long, &amp; à sa
-            gauche M<hi rend="sup">r</hi> le Marquis de <seg>Chaseron,</seg> Lieutenant des Gardes
+            gauche M<hi rend="sup">r</hi> le Marquis de Chasseron, Lieutenant des Gardes
             du Corps.</p>
           <p>M<hi rend="sup">r</hi> de Harlay premier President, porta la parole au nom du
             Parlement. Son discours fut admiré. Il estoit de cette énergie &amp; de cette éloquence
@@ -13322,7 +13301,7 @@
             l’honneur à M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne de le faire monter dans son
             Carosse en y allant, &amp; à son retour.</p>
           <p>Le grand Conseil en Corps &amp; en Robes de Ceremonies la harangua
-              <seg>l’aprésdisnée</seg> de ce mesme jour, M<hi rend="sup">r</hi> de Verthamon premier
+            l’aprésdisnée de ce mesme jour, M<hi rend="sup">r</hi> de Verthamon premier
             President de ce Corps porta la parole, &amp; l’Academie Françoise eut ensuite le même
             honneur. Ils furent presentez par le Grand Maistre, &amp; le Maistre des Ceremonies.
               M<hi rend="sup">r</hi> de la Chapelle Receveur General des Finances de la Rochelle,
@@ -13330,7 +13309,7 @@
             d’Espagne avoit plus de Royaumes que d’années. Il fut fort applaudi.</p>
           <p>Sur les quatre heures du soir le Roy d’Espagne alla à Saint Germain en Laye rendre
             visite au Roy, &amp; à la Reine de la Grande Bretagne, &amp; à Monsieur le Prince de
-            Galles. Sa Majesté <seg>Britannique</seg> reçût sa Majesté Catholique à la porte de la
+            Galles. Sa Majesté Britanique reçût sa Majesté Catholique à la porte de la
             Salle des Gardes sur le Grand Escalier, &amp; la conduisit à son Appartement où il y
             avoit deux Fauteüils ; le Roy d’Espagne occupa celuy de la droite, &amp; le Roy de la
             Grande Bretagne reconduisit Sa Majesté Catholique à l’endroit où elle l’avoit reçûë ;
@@ -13350,7 +13329,7 @@
             porte de l’antichambre de Monsieur. La visite se passa debout, ensuite de laquelle, le
             Roy d’Espagne ayant pris congé de Madame qui rentra chez elle, alla chez Monsieur le Duc
             de Chartres, &amp; chez Madame la Duchesse de Chartres. Les visites se passérent aussi
-            debout, &amp; leurs Altesses Royales reconduisirent Sa <seg>Majesté</seg> Catholique à
+            debout, &amp; leurs Altesses Royales reconduisirent Sa Majesté Catholique à
             son carosse, &amp; la virent partir. Le Peuple cria, <hi rend="i">Vive le Roy
               d’Espagne</hi>, dans toutes les ruës de Paris, par lesquelles Sa Majesté Catholique
             passa. Elle alla coucher à Marly, où le Roi estoit. Il ne se passa rien de remarquable
@@ -13551,7 +13530,7 @@
                 aussi quelques Prieres particulieres pour les mêmes motifs. Nous recommandons à tous
                 les Fidelles d’assister à toutes celles qui se feront dans les Paroisses &amp;
                 ailleurs, avec l’assiduité &amp; la ferveur que nous attendons de leur pieté, &amp;
-                nous <seg>ordonnons</seg> que le present Mandement soit publié Dimanche prochain aux
+                nous ordonnons que le present Mandement soit publié Dimanche prochain aux
                 Prônes de toutes les Paroisses de cette Ville. Donné à Troyes dans nostre Palais
                 Episcopal ce</hi> 15. <hi rend="i">Oct.</hi> 1700.</p>
             <p>La Ceremonie se passa comme elle avoit esté marquée. J’ajoûteray seulement quelques
@@ -13595,7 +13574,7 @@
             <lg>
               <l rend="i">Vous, François, qui sçavez seurement son trépas,</l>
               <l rend="i">Prenez un triste deüil en prenant ses Etats,</l>
-              <l><hi rend="i">Qui vous sont devolus par un droit <seg>authentique.</seg></hi></l>
+              <l rend="i">Qui vous sont devolus par un droit autentique.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -13727,7 +13706,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l rend="i">Les Maures sous ses loix quitteront les erreurs</l>
-              <l><hi rend="i">Dont un Roy de son Sang <seg>combattit</seg> les horreurs</hi></l>
+              <l rend="i">Dont un Roy de son Sang combatit les horreurs</l>
               <l rend="i">Delà les vastes flots qui frappent la Libye.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -13817,7 +13796,7 @@
         <div type="article" xml:id="MG-1700-12_112" resp="wordpro">
           <head>[Programe]</head>
           <bibl><title>Mercure Galant</title>, décembre 1700 [tome 12], p. 112-117.</bibl>
-          <p>Je vous envoye le <seg>Programme</seg> que M<hi rend="sup">rs</hi> de l’Academie
+          <p>Je vous envoye le Programe que M<hi rend="sup">rs</hi> de l’Academie
             Françoise ont fait publier pour les Prix d’Eloquence &amp; de Poësie, qu’ils donnent
             tous les deux ans.</p>
           <p>L’Academie Françoise fait sçavoir au Public que l’année prochaine 1701. le
@@ -13828,14 +13807,14 @@
               >Qui spernit modica paulatim decidet</hi>. Et il faudra que le Discours ne soit que de
             demi-heure de lecture tout au plus, &amp; qu’il finisse par une courte Priere à
             Jesus-Christ.</p>
-          <p>On ne recevra aucun Discours sans Approbation, signée de deux <seg>Docteurs</seg> de la
+          <p>On ne recevra aucun Discours sans Approbation, signée de deux Docteurs de la
             Faculté de Theologie de Paris, &amp; y résidant actuellement.</p>
           <p>Le même jour elle donnera le Prix de Poësie fondé par M<hi rend="sup">r</hi> de
             Clermont de Tonnerre, Evêque &amp; Comte de Noyon, Pair de France, &amp; l’un des
             Quarante de l’Académie. Le sujet sera, <hi rend="i">Que le Roy n’est pas moins distingué
               par les vertus qui font l’honneste homme, que par celles qui font les grands
             Rois</hi>. Il sera permis d’y joindre tel autre sujet de loüange que chacun voudra, sur
-            quelques actions <seg>particulieres</seg> de Sa Majesté, ou sur toutes ensemble, pourveu
+            quelques actions particuliéres de Sa Majesté, ou sur toutes ensemble, pourveu
             qu’on n’excede point cent vers ; &amp; on y ajoûtera une courte Priere à Dieu pour le
             Roy, separée du corps de l’Ouvrage, &amp; de telle mesure de vers qu’on voudra.</p>
           <p>Toutes personnes seront reçeuës à composer pour ces deux Prix, horsmis les Quarante de
@@ -13930,7 +13909,7 @@
             &amp; trouva toutes choses en bon ordre. Il remarqua avec beaucoup d’attention la
             dépense que le Principal &amp; les Aggregez du Collége ont faite, tant de leur
             patrimoine que de leurs travaux, qui se monte à dix mille livres pour les reparations
-            &amp; <seg>l’ornement</seg> de cette Eglise, sans que les Bourgeois &amp; Habitans de
+            &amp; l’ornement de cette Eglise, sans que les Bourgeois &amp; Habitans de
             Thoissey y ayent contribué d’aucune chose, quoique l’Eglise du Collége soit l’Eglise
             Paroissiale de Thoissei. L’apresdinée, le Prelat retourna à l’Eglise, où avec une
             patience édifiante, il administra le Sacrement de Confirmation jusqu’à huit heures du
@@ -14043,12 +14022,12 @@
           <p>Le Sonnet que vous allez lire est de M<hi rend="sup">r</hi> Bellocq, dont les Ouvrages
             se sont toujours attiré une estime generale. Il seroit à souhaiter qu’il travaillât plus
             souvent, &amp; que sa modestie ne l’empêchât pas de donner au Public, ce qu’il ne fait
-            voir qu’à ses amis <seg>particuliers.</seg></p>
+            voir qu’à ses amis particuliers.</p>
           <quote>
             <label>A MONSEIGNEUR.</label>
             <lg>
-              <l><hi rend="i"><seg>Qu’il</seg> est beau, qu’il est grand cet excés de
-                courage</hi></l>
+              <l rend="i">Qu’il est beau, qu’il est grand cet excés de
+                courage</l>
               <l rend="i">Qui vous fait négliger vostre propre grandeur,</l>
               <l rend="i">Et qu’il mérite bien que la Seine &amp; le Tage</l>
               <l rend="i">A le solemniser excitent leur ardeur !</l>
@@ -14094,7 +14073,7 @@
             de toutes les Compagnies, le transporta dans l’Eglise Cathedrale, où le Service fut
             celebré en Musique, auquel toutes les Dames assistérent. A l’ouverture du cercueil son
             corps se trouva tout entier, quoiqu’il y ait prés de sept ans qu’il est mort. Cela
-              <seg>toucha</seg> tellement le Peuple que tout le monde vint en foule luy baiser les
+            toucha tellement le Peuple que tout le monde vint en foule luy baiser les
             pieds, &amp; il y a eu depuis ce temps là un concours extraordinaire de Peuple, &amp; de
             toute sorte de personnes de consideration, qui viennent de tous costez. Tous ces devoirs
             font assez connoître combien ce Prelat estoit aimé &amp; honoré dans cette Province,
@@ -14120,7 +14099,7 @@
           <p>Il vient de paroistre un Livre nouveau, intitulé <hi rend="i">Sentimens Critiques sur
               les Caracteres</hi>. C’est un Ouvrage qui renferme plusieurs Lettres, dans lesquelles
             l’Auteur examine tantost des endroits de Theophraste, dont le sieur Brunet, Libraire au
-            Palais, chez qui ces Sentimens Critiques se vendent, vient de faire <seg>une</seg>
+            Palais, chez qui ces Sentimens Critiques se vendent, vient de faire une
             seconde édition avec de grandes augmentations, ce qui fait connoistre combien
             favorablement le Theophraste Moderne a esté receu du Public. Cette Critique est tournée
             d’une maniere, qui ne donne aucune atteinte à la reputation que ces deux Ouvrages se
@@ -14140,7 +14119,7 @@
             Oratoire, composé par le sieur Melani, dont la Musique &amp; la Symphonie estoient
             tres-belles. Il donna ensuite à souper à tous les Cardinaux François, &amp; à M<hi
               rend="sup">r</hi> Ottobon, avec une magnificence qui répondoit à celle qu’il a
-            toûjours <seg>faire</seg> paroître.</p>
+            toûjours faire paroître.</p>
         </div>
         <div type="article" xml:id="MG-1700-12_191b" resp="wordpro">
           <head>[Suite du Journal de la Cour]*</head>
@@ -14150,7 +14129,7 @@
             regarde les affaires d’Espagne, &amp; de Sa Majesté Catholique. Quoy que vous soyez déja
             informée de la plus grande partie de ce que j’ay à vous dire, vous ne laisserez pas de
             trouver de nouvelles particularitez dans quelques articles. Le 27. de Novembre la Cour
-            revint de Marly. Le Roy d’Espagne ne <seg>fut</seg> pas plûtost de retour à Versailles,
+            revint de Marly. Le Roy d’Espagne ne fut pas plûtost de retour à Versailles,
             qu’il demanda M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne, pour sçavoir de luy
             comment il se trouvoit de la petite incommodité qui l’avoit fait revenir de Marly le
             jour precedent.</p>
@@ -14164,7 +14143,7 @@
             cette Couronne communiqua à leurs Majestez la Lettre de ce Prince aussi-tost qu’il l’eut
             reçûë.</p>
           <p>Le 28. M<hi rend="sup">r</hi> de Bedmar eut encore à Versailles une Audience
-              <seg>secrete</seg> du Roy. Il passa ensuite dans l’Appartement de Sa Majesté
+            secrette du Roy. Il passa ensuite dans l’Appartement de Sa Majesté
             Catholique, &amp; dés qu’il en fut sorti, on y fit entrer les Espagnols qui estoient
             venus avec luy de Bruxelles, &amp; ils eurent l’honneur de baiser la main du Roy leur
             Maître, ce qu’ils firent un genoüil à terre.</p>
@@ -14194,7 +14173,7 @@
             qui témoignoit, en son particulier, l’extrême joye qu’elle ressentoit d’avoir
             Monseigneur le Duc d’Anjou pour Maistre. Cette même Ville supplioit son Excellence
             d’obtenir de Sa M. Cath. de se laisser peindre, afin que sur son Portrait, elle pust
-            faire <seg>travailler</seg> à une statuë de marbre qu’elle desiroit faire élever. Le
+            faire travailler à une statuë de marbre qu’elle desiroit faire élever. Le
             Sculpteur qu’elle avoit nommé fut presenté à Sa Majesté.</p>
           <p>Le 30. M<hi rend="sup">r</hi> l’Ambassadeur de Savoye, eut Audience particuliere du
             Roy, &amp; Sa Majesté en parut tres satisfaite. Il mena ensuite M<hi rend="sup">r</hi>
@@ -14244,7 +14223,7 @@
             le suivre jusqu’à Madrid, Sa Majesté la luy accorda. M<hi rend="sup">r</hi> de
             Valdefuentes prit congé de Sa Majesté Catholique, &amp; partit pour se rendre où son
             employ l’appeloit.</p>
-          <p>M<hi rend="sup">r</hi> le Comte de <seg>Monasterol,</seg> Envoyé extraordinaire de M<hi
+          <p>M<hi rend="sup">r</hi> le Comte de Monastereol, Envoyé extraordinaire de M<hi
               rend="sup">r</hi> l’Electeur de Baviere prés du Roy d’Espagne, eut audience publique
             de Sa Majesté Catholique, de laquelle il prit congé. Il fut conduit par M<hi rend="sup"
               >r</hi> de Saintot, Introducteur des Ambassadeurs.</p>
@@ -14282,17 +14261,17 @@
             meslez de douleur &amp; de joye, on avoit bien jugé que le plus grand spectacle devoit
             estre reservé pour ce lieu-là. Il ne peut manquer d’estre celebre à jamais par cette
             grande circonstance, &amp; Monsieur le Duc du Maine paroist avoir esté
-              <seg>particulierement</seg> destiné pour y ajoûter un nouvel éclat. Ce Prince venoit
+            particulierement destiné pour y ajoûter un nouvel éclat. Ce Prince venoit
             d’acheter cette belle Maison de Seaux, &amp; ravi de la voir servir en une rencontre si
             heureuse, &amp; si extraordinaire, il sçut profiter de cette favorable occasion d’y
             montrer son zele &amp; sa magnificence. Madame la Duchesse du Maine, si
-              <seg>propre</seg> à entrer dans ses desseins, &amp; à les seconder, se rendit à Seaux
+            propre à entrer dans ses desseins, &amp; à les seconder, se rendit à Seaux
             dés la veille sur les cinq heures du soir, accompagnée de Madame la Duchesse de la
             Ferté, de Madame la Duchesse de Lauzun, de Madame de Manneville, &amp; de M<hi
               rend="sup">r</hi> Lassé. Elle vit la disposition des lieux, &amp; donna les ordres
             necessaires. Monsieur le Duc y vint sur les sept heures. Monsieur le Duc du Maine ;
             &amp; Monsieur le Comte de Toulouse y arrivérent à une heure aprés minuit.</p>
-          <p>Madame la Princesse <seg>d’Harcourt,</seg> qui y avoit esté conviée par Madame la
+          <p>Madame la Princesse d’Harcour, qui y avoit esté conviée par Madame la
             Duchesse du Maine, pour luy aider à faire les honneurs de Seaux, s’y rendit sur les onze
             heures du matin. Madame la Duchesse, Mademoiselle d’Anguien, Madame la Princesse de
             Furstemberg, Madame la Duchesse de Humieres, Madame de Courtenvaux, &amp; M<hi
@@ -14320,7 +14299,7 @@
             felicité de tout le reste de l’Europe, en cas que sa tranquillité fust troublée pour
             quelque temps.</p>
           <p>Aprés cette conversation particuliere, le Roy vint à la porte, &amp; appella
-            Monseigneur le Dauphin seul. Quelque temps aprés <seg>il</seg> fit entrer Monseigneur le
+            Monseigneur le Dauphin seul. Quelque temps aprés il fit entrer Monseigneur le
             Dauphin seul. Demi-quart d’heure aprés il appella M<hi rend="sup">r</hi> l’Ambassadeur
             d’Espagne, qui aprés avoit pris congé de Sa Majesté, retourna dans le Salon.</p>
           <p>Aprés quelque intervalle Sa Majesté appella Monseigneur le Duc &amp; Madame la Duchesse
@@ -14335,15 +14314,15 @@
             suivi de toute la Cour reconduisit Sa Majesté Catholique hors des Apartemens, &amp;
             s’estant avancé quelques pas dans le Peristile, l’embrassa avec tendresse. Sa Majesté
             embrassa de même Monsieur le Duc de Bourgogne &amp; Monsieur le Duc de Berry, qui
-            partoient avec le <seg>nouveau</seg> Roy, pour l’accompagner jusques aux limites des
+            partoient avec le nouveau Roy, pour l’accompagner jusques aux limites des
             deux Etats ; aprés quoy Elle embrassa une seconde fois le Roy d’Espagne. Les larmes qui
             couloient des yeux des spectateurs les empêcherent de bien voir l’estat où la
             sensibilité des cœurs de ces deux Monarques les avoit mis : &amp; il est à présumer que
             par la même raison ces deux Monarques ne le voyoient pas eux-mêmes ; ce qui leur faisoit
             sentir plus vivement les douleurs dont ils estoient penetrez.</p>
           <p>Le Roy vit monter le Roy d’Espagne en Carosse pour aller coucher à Châtres. Il avoit à
-            sa gauche Monseigneur le Duc de Bourgogne. Monseigneur le Duc de <seg>Berry</seg> estoit
-            au devant avec M<hi rend="sup">r</hi> le Maréchal <seg>Duc</seg> de Noailles, &amp; aux
+            sa gauche Monseigneur le Duc de Bourgogne. Monseigneur le Duc de Berry estoit
+            au devant avec M<hi rend="sup">r</hi> le Maréchal Duc de Noailles, &amp; aux
             portieres estoient Mrs les Marquis de Seignelay &amp; de Razilly, Sou-Gouverneur des
             Enfans de France.</p>
           <p>Aussitost que le Roy d’Espagne fut party, Monseigneur monta en Carrosse pour aller au
@@ -14359,7 +14338,7 @@
             des rafraîchissemens à tous ceux qui se presentoient, ainsi qu’à tout ce qui composoit
             la Garde du Roy, &amp; des Princes, &amp; à toute la suite de la Cour. Les Spectateurs
             nombreux que la curiosité avoit attirez estoient tous invitez de s’arrester. On leur
-            fournissoit abondamment <seg>de quoy</seg> manger, &amp; loin qu’on refusast personne,
+            fournissoit abondamment dequoy manger, &amp; loin qu’on refusast personne,
             on prevenoit les gens, afin de leur oster la peine de rien demander ; on ne voyoit que
             des bouteilles de vin, des pains, des pastez froids de poisson ; on voyoit même un seul
             valet avoir pour sa part plusieurs bouteilles de vin, &amp; en effet il en fut distribué
@@ -14372,12 +14351,12 @@
             feste ; cette Princesse fit mettre à table avec elle, Madame la Duchesse, Madame la
             Duchesse du Maine, Mademoiselle d’Anguien, &amp; les Dames qui avoient eu l’honneur de
             la suivre.</p>
-          <p>Le premier service estoit de plus de quatre vingt plats, ou <seg>assiettes,</seg> &amp;
+          <p>Le premier service estoit de plus de quatre vingt plats, ou assietes, &amp;
             deux autres d’une pareille magnificence étoient prests à le relever. On ne peut trop
             loüer les Officiers de Monsieur le Duc du Maine, de leurs soins, &amp; de leur habileté
             pour suffire à tant de choses. Tous les domestiques depuis le moindre jusqu’aux
             Gentilshommes étoient employez. Leur zéle n’oublia rien pour répondre aux intentions de
-            leur Maître, &amp; M<hi rend="sup">r</hi> de <seg>Malezieu</seg> qui avoit agi, &amp;
+            leur Maître, &amp; M<hi rend="sup">r</hi> de Malezieu qui avoit agi, &amp;
             donné la vûë à tout, sans aucun relâche, en fut récompensé par l’honneur qu’il eut de
             servir Madame la Duchesse de Bourgogne pendant ce repas. L’empressement que cette
             Princesse avoit d’aller rejoindre le Roy, fut cause qu’elle ne demeura pas longtemps à
@@ -14415,12 +14394,12 @@
             Majesté, &amp; Messeigneurs les Princes proche de Sa Majesté Catholique. Ce Monarque
             soupa seul chez luy, &amp; Messeigneurs les Princes mangerent ensemble chez Monseigneur
             le Duc de Bourgogne. Sa Majesté alla les voir joüer aprés souper, &amp; y resta jusques
-            à <seg>neuf</seg> heures &amp; demie. Ils s’assirent tous trois sur des plians, &amp; en
+            à neuf heures &amp; demie. Ils s’assirent tous trois sur des plians, &amp; en
             ont usé de cette maniere tous les jours suivans.</p>
           <p>Le Dimanche 5. le Roy d’Espagne alla à la Messe à la Paroisse à huit heures &amp;
             demie. Messeigneurs les Princes en estoient de retour ; ce qui s’est passé de la même
             sorte dans toute la suite du Voyage. La Musique que M<hi rend="sup">r</hi> le Comte
-            d’Ayen a menée au Voyage, chanta à l’une &amp; à <seg>l’autre</seg> Messe. Voicy en quoy
+            d’Ayen a menée au Voyage, chanta à l’une &amp; à l’autre Messe. Voicy en quoy
             consiste cette Musique.</p>
           <quote>
             <p>Mrs Gaye,</p>
@@ -14435,7 +14414,7 @@
             <p>Robel, Violon.</p>
           </quote>
           <p>Outre cela M<hi rend="sup">r</hi> le Comte d’Ayen a mené vingt autres Joüeurs
-            d’Instrumens ; sçavoir de Hautsbois &amp; Basson, de <seg>Flûte,</seg> de Basse Viole
+            d’Instrumens ; sçavoir de Hautsbois &amp; Basson, de Flûte, de Basse Viole
             &amp; de Theorbe.</p>
           <p>Le Roy d’Espagne dîna seul, ce qu’il a toujours fait, hormis dans le Carosse en
             certains jours de longue &amp; penible marche. Messeigneurs les Princes dînerent
@@ -14480,7 +14459,7 @@
             ordinaire, &amp; se coucherent à dix heures.</p>
           <p>Le Lundy S.M.C. &amp; Messeigneurs les Princes, aprés avoir entendu la Messe à l’heure
             ordinaire, partirent pour aller à Toury. Les chemins se trouverent sablez depuis
-            Estampes jusques à Toury. Le Curé du lieu <seg>harangua</seg> Sa Majesté aprés la Messe.
+            Estampes jusques à Toury. Le Curé du lieu harangua Sa Majesté aprés la Messe.
             Ce fut à Toury qu’elle apprit par un Courier extraordinaire, la proclamation faite à
             Madrid, ce qui s’y passa de cette maniere.</p>
           <p>Si-tost que la Jonte Royale establie par le feu Roy pour le Gouvernement des Espagnes,
@@ -14513,7 +14492,7 @@
             rendez vous sur le midi, avec autant de pompe qu’ils purent. A la même heure, quantité
             de Seigneurs, de Grands, Titrez &amp; Gentilshommes de la premiere Noblesse, tous
             couverts de pierreries, se rendirent chez M<hi rend="sup">r</hi> le Marquis de
-            Franqueville, <seg>Alferez</seg> Mayor, ou Porte-Enseigne hereditaire de la Ville de
+            Franqueville, Alferrez Mayor, ou Porte-Enseigne hereditaire de la Ville de
             Madrid, qui par sa charge a le droit de porter l’Etendard Royal, &amp; de faire des
             proclamations. La ils montérent tous sur des chevaux noirs, enharnachez de blanc &amp;
             noir, &amp; l’accompagnérent par la grande ruë, jusqu’à la Maison de Ville, l’Alferez
@@ -14528,11 +14507,11 @@
             maniere suivante.</p>
           <p>Les Gardes du Roy Allemans &amp; Espagnols, avec leurs Hallebardes, marchoient les
             premiers, &amp; ensuite les Timbaliers, les Joüeurs de Hautsbois, &amp; les Trompettes à
-            cheval, ayant des habits de <seg>toile</seg> d’or galonnez, &amp; des chevaux
-            caparaçonnez de blanc, qui est leur couleur en de semblables <seg>occasions.</seg> Les
+            cheval, ayant des habits de toille d’or galonnez, &amp; des chevaux
+            caparaçonnez de blanc, qui est leur couleur en de semblables occasions. Les
             Ministres de Justice venoient ensuite à cheval, avec quantité de grands Seigneurs, puis
             six Massiers habillez de rouge avec des bonnets rouges, &amp; des Masses d’argent doré,
-            quatre <seg>Herauts</seg> d’armes, &amp; ensuite Mrs de Ville, le Corregidor, &amp;
+            quatre Herauts d’armes, &amp; ensuite Mrs de Ville, le Corregidor, &amp;
             l’Alferez. On arriva de cette sorte à la Place Mayor, &amp; à mesure que ceux qui
             composoient cette marche arrivoient, ils se rangeoient par ordre auprés d’un Théatre que
             l’on y avoit dressé, avec le Portrait du nouveau Roy sous un dais entouré de festons de
@@ -14562,7 +14541,7 @@
             nombre de flambeaux pour éclairer le retour de cette marche, &amp; cette illumination
             fut suivie de celle qui dura toute la nuit dans toute la Ville de Madrid. Il y eut une
             foule incroyable de Peuple dans toutes les ruës où se fit la marche. Les Balcons
-            estoient magnifiquement ornez de Tapisserie &amp; de riches <seg>étoffes</seg> à fond
+            estoient magnifiquement ornez de Tapisserie &amp; de riches étofes à fond
             d’or, &amp; la Ville fit allumer devant l’Hostel de M<hi rend="sup">r</hi> de Blecourt,
             Envoyé Extraordinaire de France, des pots à feu, qui éclairérent toute la ruë bien avant
             dans la nuit au bruit des Tambours &amp; des Trompettes.</p>
@@ -14571,12 +14550,12 @@
             Gamerau, Prevost Particulier, vinrent chacun avec leur Compagnie jusqu’à Cercotte, à
             trois lieuës de la Ville au devant de Sa Majesté. M. de Bouville, Intendant d’Orleans,
             estoit venu la veille à Toury saluer S.M.C. Depuis l’entrée du Fauxbourg, qui a prés de
-            demi lieuë jusqu’à l’Evêché, où Sa <seg>Majesté</seg> &amp; les Princes logerent, il y
+            demi lieuë jusqu’à l’Evêché, où Sa Majesté &amp; les Princes logerent, il y
             avoit une double haye de Bourgeois sous les armes. Les ruës se trouverent sablées &amp;
             tapissées, avec des échaffaux remplis de Dames. Les Armes du Roy, celles du Roy
             d’Espagne, de Monseigneur le Dauphin, de Messeigneurs les Princes, &amp; de la Ville,
             entourées de festons sur des tapisseries de haute lisse, estoient sur la porte Banieres,
-            par où l’on entra. Le Maire &amp; les Echevins reçurent Sa <seg>Majesté</seg> à cette
+            par où l’on entra. Le Maire &amp; les Echevins reçurent Sa Majesté à cette
             porte, accompagnez de leurs Officiers &amp; de leurs Archers. Ils la haranguerent, &amp;
             luy presenterent le Dais, qu’elle refusa. Ces Magistrats le porterent à la teste des
             Corps, qui marcherent devant le Carosse du Roy jusqu’à l’Evêché. On vit paroistre à la
@@ -14586,7 +14565,7 @@
             Lors que le Roy fut arrivé à l’Evêché, le Chapitre de Sainte Croix &amp; celuy de Saint
             Aignan, le Presidial, l’Université, l’Election, la Faculté de Droit, &amp; les
             Tresoriers de France, firent leurs complimens au Roy, qui reçut aussi les Presens de la
-            Ville. Toutes les Compagnies <seg>complimenterent</seg> aussi Monseigneur le Duc de
+            Ville. Toutes les Compagnies complimenterent aussi Monseigneur le Duc de
             Bourgogne, &amp; Monseigneur le Duc de Berry, ayant été presentez par M<hi rend="sup"
               >r</hi> Desgranges, Maistre des Ceremonies. Le Roy resta dans son Cabinet avec
             Messeigneurs les Princes jusqu’à l’heure du souper. Monseigneur le Duc de Bourgogne tint
@@ -14613,7 +14592,7 @@
             la plus belle chose du monde, ayant la riviere pour aspect à droite &amp; à gauche. Ils
             revinrent à l’Evêché où ils passerent la soirée ainsi que les precedentes.</p>
           <p>Le Jeudy 9. le Roy d’Espagne, &amp; Messeigneurs les Princes partirent d’Orleans à
-            l’heure ordinaire, aprés <seg>avoir</seg> entendu la Messe, pour aller coucher à Saint
+            l’heure ordinaire, aprés avoir entendu la Messe, pour aller coucher à Saint
             Laurent des Eaux. A leur sortie, les ruës se trouverent tapissées comme elles l’avoient
             esté à leur entrée, &amp; les Bourgeois sous les armes. En passant à Nostre-Dame de
             Clery ils descendirent à l’Eglise, &amp; y firent leurs prieres, aprés quoy ils
@@ -14659,7 +14638,7 @@
               de nouveaux, &amp; distribuë à qui il luy plaist les Sceptres &amp; les
             Couronnes</hi>. L’application qu’il fit de ces paroles convenoit parfaitement à tout ce
             qui est arrivé sur la fin de ce Siécle, &amp; fust extrêmement applaudi. Il y eut une
-            excellente Musique pendant la Messe du Roy, qui fut <seg>ramené</seg> jusqu’à son
+            excellente Musique pendant la Messe du Roy, qui fut remené jusqu’à son
             carrosse.</p>
           <p>Ce même jour 11. il arriva un autre Courier de la Reine d’Espagne, qui écrivoit au Roy
             en François, pour le prier de luy mander combien il faisoit de lieuës par jour, &amp;
@@ -14709,18 +14688,18 @@
             chapeau. Il se jetta d’abord à deux genoux aux pieds du Roy son Maistre, dont il ne se
             releva point qu’il ne luy eust donné sa main qu’il baisa. Les autres eurent ensuite le
             même honneur, &amp; M<hi rend="sup">r</hi> le Comte d’Ursel qui parle François, servit
-            d’Interprete. M<hi rend="sup">r</hi> le Duc de <seg>Beauvilliers</seg> luy demanda s’ils
+            d’Interprete. M<hi rend="sup">r</hi> le Duc de Beauvillers luy demanda s’ils
             avoient le portrait du Roy. Il répondit qu’ils l’avoient, mais qu’il leur manquoit de
             bon Peintres pour en fournir des copies à tous ceux qui souhaitoient de l’avoir. Cet
             Espagnol assura que jamais joye n’avoit esté si grande &amp; si universelle en Espagne
             que lorsque la proclamation s’estoit faite ; &amp; M<hi rend="sup">r</hi> le Duc de
-              <seg>Beauvilliers</seg> luy ayant dit, que la joye avoit encore augmenté lorsqu’on
+            Beauvillers luy ayant dit, que la joye avoit encore augmenté lorsqu’on
             avoit vû par ce Portrait que Sa Majesté portoit ses propres cheveux, l’Espagnol repliqua
             aussitost qu’ils n’avoient égard qu’à l’auguste Sang dont il sortoit, &amp; que cela
             seul faisoit leur joye. Il ajouta qu’il falloit que le Ciel se fust ouvert pour faire
             une union si heureuse &amp; si souhaitable. M<hi rend="sup">r</hi> le Duc de
             Beauvilliers ayant ordonné que M<hi rend="sup">r</hi> le Duc d’Ossune &amp; les autres
-            qui l’accompagnoient fussent logez, les reconduisit jusqu’à la <seg>derniere</seg> porte
+            qui l’accompagnoient fussent logez, les reconduisit jusqu’à la derniere porte
             de l’Antichambre de S.M. Catholique, leur donnant la main, &amp; M<hi rend="sup"
             >r</hi> Desgranges jusqu’au bas du Chasteau, M<hi rend="sup">r</hi> de Beauvilliers leur
             donna à dîner, &amp; M<hi rend="sup">r</hi> le Maréchal de Noailles à souper, l’un &amp;
@@ -14783,7 +14762,7 @@
           <p>Je suis obligé de finir ici ce Journal, quoy qu’il me reste une infinité de choses
             curieuses à vous dire, mais je le reprendray le mois prochain à l’endroit où je le
             quitte, &amp; le commenceray plutost afin de vous le donner entier. Je ne
-              <seg>croyois</seg> pas lorsque je l’ai commencé, qu’il seroit rempli de tant de
+            croïois pas lorsque je l’ai commencé, qu’il seroit rempli de tant de
             particularitez historiques, &amp; curieuses, que vous n’avez pû trouver ensemble dans
             aucune Relation, le Journal que je vous envoye estant tiré de huit ou dix Relations.</p>
           <p>Je ne vous envoye point le Testament du feu Roy d’Espagne. Il se vend chez le sieur
