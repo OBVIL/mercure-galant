@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -501,7 +501,7 @@
               Nouvelle-Angleterre.</hi></p>
             <p><hi rend="i">Le</hi> 14. <hi rend="i">Aoust, la petite armée de la Nouvelle-France
                 arriva proche la mer par une espece de marais, duquel on découvrit un grand
-                Vaisseau. Vn Abnaki de l’armée estoit allé la nuit précedente, avertir les autres
+                Vaisseau. Un Abnaki de l’armée estoit allé la nuit précedente, avertir les autres
                 Sauvages Abnakis, nos amis, de l’arrivée du François<note resp="author"> Stile Sauvage, 
                 le singulier pour le pluriel.</note>, &amp; voicy ce qu’il rapporta des choses qui furent dites dans
                 l’assemblée desdits Abnakis avec deux autres Sauvages. Qu’ils donnoient avis de
@@ -988,7 +988,7 @@
               <l> <hi rend="i">Des tristes regrets des neuf Sœurs</hi></l>
               <l> <hi rend="i">Leurs antres Sacrez retentissent.</hi></l>
               <l> <hi rend="i">Qui sçût dés ses plus jeunes ans</hi></l>
-              <l> <hi rend="i">Vnir tant de rares Talens ?</hi></l>
+              <l> <hi rend="i">Unir tant de rares Talens ?</hi></l>
               <l> <hi rend="i">Rival ingenieux d’Ovide,</hi></l>
               <l> <hi rend="i">S’il vouloit flechir une Iris,</hi></l>
               <l> <hi rend="i">Les Graces dictoient ses écrits,</hi></l>
@@ -1266,7 +1266,7 @@
                 ils n’avoient pas lieu de s’attendre.</hi></p>
             <p><hi rend="i">La Batterie de la Contrescarpe ne tirera que demain, à cause qu’ils y
                 avoient mis le feu avec des Fascines goudronées qu’on a éteint pendant
-                la nuit. Vn Trompette de Monsieur de Savoye vient de nous apprendre que Mr de
+                la nuit. Un Trompette de Monsieur de Savoye vient de nous apprendre que Mr de
                 Chartogne qui commandoit la Tranchée, &amp; dont on n’avoit nulle nouvelle, est
                 blessé legerement &amp; fait prisonier avec</hi> 7. <hi rend="i">ou</hi>
               8. <hi rend="i">Officiers. Mr d’Imecourt, qui venoit d’estre fait Mareschal de Camp, a
@@ -1300,7 +1300,7 @@
                 hauteurs que nous avons ouvert la Tranchée &amp; établi nos premieres &amp; nos
                 secondes Batteries. Le plus gros de l’Infanterie des Ennemis coulant le long de la
                 gauche de nostre attaque, marcha droit à la hauteur de Guerbignan, &amp; se rendit
-                Maistre de nos Batteries. Vn autre Corps montant par le glacis, &amp; se joignant à
+                Maistre de nos Batteries. Un autre Corps montant par le glacis, &amp; se joignant à
                 ceux qui sortoient par le chemin Couvert, attaqua la Tranchée par le front &amp; par
                 le flanc. Mr de Chartogne détacha Mr de Maulevrier avec</hi> 100. <hi rend="i"
                 >hommes pour fortifier la garde des Batteries, &amp; prit le parti d’arrester les
@@ -2506,9 +2506,9 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">L’Vnivers me respecte, &amp; mon nom reveré</hi></l>
+              <l><hi rend="i">L’Univers me respecte, &amp; mon nom reveré</hi></l>
               <l><hi rend="i">Même aux Thrônes des Rois se trouve preferé.</hi></l>
-              <l><hi rend="i">Vne marque d’Opprobre est de gloire suivie :</hi></l>
+              <l><hi rend="i">Une marque d’Opprobre est de gloire suivie :</hi></l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -2904,7 +2904,7 @@
           <quote>
             <label><hi rend="i">LE NOUVELISTE BOSSU.</hi><lb/>MADRIGAL.</label>
             <lg>
-              <l> <hi rend="i">Vn petit bossu pointilleux.</hi></l>
+              <l> <hi rend="i">Un petit bossu pointilleux.</hi></l>
               <l> <hi rend="i">Voulant se railler d’un boiteux,</hi></l>
               <l> <hi rend="i">Luy demanda, quelles nouvelles,</hi></l>
               <l><hi rend="i">Vous qui marchez d’un &amp; d’autre costé ?</hi></l>
@@ -3292,7 +3292,7 @@
             <lg>
               <l><hi rend="i">Que vois-je ! &amp; quel Heros represente ce</hi>
                 Buste :</l>
-              <l><hi rend="i">Vn Prince, qui de l’Inde au climat des</hi> glaçons</l>
+              <l><hi rend="i">Un Prince, qui de l’Inde au climat des</hi> glaçons</l>
               <l><hi rend="i">De lauriers immortels fera plus de</hi> moissons,</l>
               <l><hi rend="i">Que celuy que la Fable a dépeint si</hi> robuste.</l>
             </lg>
@@ -3673,7 +3673,7 @@
                 mesme de nos assemblées, tout cela exigera de moy que j’entretienne nostre Academie
                 des vertus du Roy vostre auguste Protecteur. Et combien me sera-t-il difficile de
                 trouver des expressions qui répondent à la dignité du sujet.</hi></p>
-            <p><hi rend="i">Vne seule chose me rassure, c’est que bien que quand on parle de ce
+            <p><hi rend="i">Une seule chose me rassure, c’est que bien que quand on parle de ce
                 Prince, ce qu’on en dit soit toûjours infiniment au dessous de ce qu’on en devroit
                 dire ; cela même neantmoins est toûjours infiniment au dessus de tout ce qu’on peut
                 dire des autres hommes.</hi></p>
@@ -3706,7 +3706,7 @@
                 Sujets des jours heureux &amp; tranquilles.</hi></p>
             <p><hi rend="i">Et que n’a-t-il point fait jusques icy, ce Prince pieux, pour porter ses
                 ennemis à recevoir la Paix à des conditions raisonnables ? Que n’est-il pas prest de
-                faire encore ! Vn succés imprévû peut-estre les flatte &amp; les enorguëillit :
+                faire encore ! Un succés imprévû peut-estre les flatte &amp; les enorguëillit :
                 c’est une sorte de joye qu’ils n’avoient pas encore goûtée, elle a pour eux tout le
                 charme de la nouveauté, ils s’y abandonnent sans mesure. Mais cette épée redoutable,
                 qui jusqu’icy n’avoit porté que des coups certains, pensent-ils qu’elle soit
@@ -3751,7 +3751,7 @@
           <quote>
             <p><hi rend="i">Que si cette liaison est toûjours necessaire entre toutes les personnes
                 d’un mesme Corps, de quelle indispensable necessité n’est-elle point entre tous les
-                membres d’une Compagnie, qui a LOVIS le Grand pour Chef, &amp; pour Protecteur ;
+                membres d’une Compagnie, qui a LOUIS le Grand pour Chef, &amp; pour Protecteur ;
                 &amp; qui par des titres si glorieux pour elle, a l’avantage de tenir à luy d’une
                 façon plus particuliere que tout le reste de ses Sujets.</hi></p>
             <p><hi rend="i">N’oublions jamais, Messieurs, à quoy une Protection si singuliere nous
@@ -3765,13 +3765,13 @@
                 avoir sur le passé ; ce seroit toujours une gloire qui luy seroit commune avec
                 d’autres Princes &amp; d’autres Heros ; &amp; du moins il en devroit une partie à la
                 bonté de ses Officiers &amp; de ses Troupes.</hi></p>
-            <p><hi rend="i">Vne gloire plus grande, plus pure, &amp; qu’il n’auroit à partager avec
+            <p><hi rend="i">Une gloire plus grande, plus pure, &amp; qu’il n’auroit à partager avec
                 personne ; mais qu’on ne devroit pas moins justement se promettre de tant de grandes
                 qualitez que le Ciel a rassemblées en luy ; de cet esprit de sagesse &amp; d’équité
                 qui regne dans tous ses sentiments, &amp; dans toutes ses paroles ; enfin de cet air
                 de douceur &amp; de Majesté qui est répandu dans toute sa personne qui luy a
                 toujours concilié l’amour &amp; la veneration de tout ce qui est jamais venu à sa
-                Cour de tous les endroits de l’Vnivers ; c’est que pour mettre ses Ennemis de son
+                Cour de tous les endroits de l’Univers ; c’est que pour mettre ses Ennemis de son
                 parti, il n’auroit pas mesme besoin d’estre suivi de ses Troupes, toujours fidelles
                 sous luy à la Victoire.</hi></p>
             <p><hi rend="i">On a dit autrefois que la Vertu se feroit aimer de tous les hommes, si
@@ -3967,7 +3967,7 @@
                 triste tombeau ?</hi></p>
             <p><hi rend="i">Elle la rendit sa grande ame au milieu de toute sa famille entre les
                 bras d’une mere, de deux freres, &amp; d’un oncle, qui se trouvoient tous à la Cour
-                d’Hanover, dont elle ne faisoit pas moins les delices que de la sienne. Vne courte
+                d’Hanover, dont elle ne faisoit pas moins les delices que de la sienne. Une courte
                 maladie l’emporta le troisiéme jour qu’elle se fust mise au lit, &amp; changea tous
                 les jours de feste en des jours du plus profond &amp; du plus veritable deüil qui
                 fust jamais. Elle seule, pendant que ceux qui estoient dans sa chambre, fondoient en
@@ -4023,7 +4023,7 @@
             <p><hi rend="i">Ce fut là que le Grand Maréchal de Sa Majesté, avec deux Chambellans
                 &amp; une grande suite de Gentilshommes de sa Cour, vint recevoir le Corps. Les
                 Trompettes &amp; les Tymbales suivoient dans un appareil convenable à cette lugubre
-                Ceremonie ; les Pages &amp; les Valets de pied venoient ensuite. Vn Escadron des
+                Ceremonie ; les Pages &amp; les Valets de pied venoient ensuite. Un Escadron des
                 Gardes du Corps de six-vingts Maistres marchoient aprés, menez par le General
                 Major : &amp; ils estoient suivis de la Noblesse de Magdebourg &amp; des Maistres
                 des Chasses du Pays, accompagnez de tous leurs Chasseurs.</hi></p>
@@ -5308,7 +5308,7 @@
           <quote>
             <label>AIR NOUVEAU.</label>
             <lg>
-              <l> <hi rend="i">Vn petit bossu pointilleux</hi></l>
+              <l> <hi rend="i">Un petit bossu pointilleux</hi></l>
               <l> <hi rend="i">Voulant se railler d’un boiteux</hi></l>
               <l> <hi rend="i">Luy demanda, quelles nouvelles !</hi></l>
               <l> <hi rend="i">Vous qui marchez d’un &amp; d’autre costé ?</hi></l>
@@ -5866,7 +5866,7 @@
               <l><hi rend="i">Orgüeilleux ennemis, quel sujet vous engage</hi></l>
               <l><hi rend="i">A liguer contre nous tant de peuples divers,</hi></l>
               <l><hi rend="i">Et troubler une paix qu’un Roy vaillant &amp; sage</hi></l>
-              <l><hi rend="i">Avoit par sa bonté donnée à l’Vnivers !</hi></l>
+              <l><hi rend="i">Avoit par sa bonté donnée à l’Univers !</hi></l>
               <l><hi rend="i">Tous vos puissans efforts vont le combler de gloire,</hi></l>
               <l><hi rend="i">D’un triomphe achevé tout l’assure aujourd’huy ;</hi></l>
               <l><hi rend="i">Rien ne peut à ce Prince enlever la Victoire ;</hi></l>
@@ -6192,7 +6192,7 @@
           <quote>
             <label>MADRIGAL.</label>
             <lg>
-              <l><hi rend="i">Pars, grand Prince, &amp; soûtiens la gloire de LOVIS ;</hi></l>
+              <l><hi rend="i">Pars, grand Prince, &amp; soûtiens la gloire de LOUIS ;</hi></l>
               <l><hi rend="i">Poursuis, en l’imitant, tes Exploits inoüis ;</hi></l>
               <l><hi rend="i">Les borde de l’Iberie &amp; le rivage Môre</hi></l>
               <l> <hi rend="i">De tes hauts faits seront témoins encore.</hi></l>
@@ -6594,11 +6594,11 @@
               <l><hi rend="i">Exposez vostre femme à perdre l’innocence,</hi></l>
               <l><hi rend="i">Chassez tous ces Galans, qui viennent l’obseder.</hi></l>
               <l><hi rend="i">Plus un tresor est grand, mieux on doit le garder.</hi></l>
-              <l><hi rend="i">Vn Pilote seroit blâmé de tout le monde,</hi></l>
+              <l><hi rend="i">Un Pilote seroit blâmé de tout le monde,</hi></l>
               <l><hi rend="i">S’il quittoit le timon lorsque l’orage gronde,</hi></l>
               <l><hi rend="i">Et si se confiant à de vains Matelots,</hi></l>
               <l><hi rend="i">Il exposoit sa barque à la mercy des flots.</hi></l>
-              <l><hi rend="i">Vn Berger prévoyant ne doit jamais attendre,</hi></l>
+              <l><hi rend="i">Un Berger prévoyant ne doit jamais attendre,</hi></l>
               <l><hi rend="i">A garder sa brebi quand le loup la veut prendre ;</hi></l>
               <l><hi rend="i">L’observant avec soin, il la doit retirer</hi></l>
               <l><hi rend="i">Loin des lieux où les loups la pourroient devorer.</hi></l>
@@ -7658,7 +7658,7 @@
               <l><hi rend="i">La France vous invoque, &amp; joint ses vœux aux miens,</hi></l>
               <l><hi rend="i">Pour son Roy, le plus grand qui fut jamais au monde.</hi></l>
               <l><hi rend="i">Que nos justes desirs, grand Dieu, soient écoutez !</hi></l>
-              <l><hi rend="i">Conservez en LOVIS vostre plus vive Image ;</hi></l>
+              <l><hi rend="i">Conservez en LOUIS vostre plus vive Image ;</hi></l>
               <l> <hi rend="i">Et laissez-nous long-temps un gage,</hi></l>
               <l><hi rend="i">Qui nous répond luy seul de toutes vos bontez.</hi></l>
             </lg>
@@ -8220,7 +8220,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l> <hi rend="i">Vn même lien les assemble,</hi></l>
+              <l> <hi rend="i">Un même lien les assemble,</hi></l>
               <l><hi rend="i">Sans pourtant les laisser s’approcher de trop prés ;</hi></l>
               <l><hi rend="i">Ordre qu’il faut garder, en les mettant ensemble :</hi></l>
               <l><hi rend="i">Autrement l’on n’en peut esperer de succés.</hi></l>
@@ -9037,7 +9037,7 @@
                 à son Thrône. Sept Dames de la premiere qualité porterent sa queuë, &amp; toutes les
                 plus distinguées se rangerent autour de Sa Majesté.</hi></p>
             <p><hi rend="i">Cela fini, on chanta le</hi> Te Deum, <hi rend="i">pendant qu’on faisoit
-                trois salves du canon du Château, &amp; de la mousqueterie. Vn des Evesques porta
+                trois salves du canon du Château, &amp; de la mousqueterie. Un des Evesques porta
                 l’Evangile aux Throsnes pour estre baisé par leurs Majestez ; aprés quoy deux
                 Evêques les ramenerent à l’Autel pour y faire leurs offrandes. Elles baiserent
                 derechef l’anneau de l’Evesque &amp; quelques Saintes Reliques, &amp; se mirent
@@ -9196,7 +9196,7 @@
                 de naissance ; il eut pour Précepteur, un Jesuite, qui passoit pour Japonois comme
                 luy, &amp; par consequent pour Payen. Cette pieuse fraude ne luy servit de rien,
                 &amp; quoy qu’il eust engagé le Disciple à passer en Europe, il ne put l’attirer à
-                sa Communion. Vn Ministre Anglican fut plus heureux ; il gagna le jeune Japonois,
+                sa Communion. Un Ministre Anglican fut plus heureux ; il gagna le jeune Japonois,
                 dans un voyage qu’il fit en Angleterre.</hi></p>
             <p><hi rend="i">La Relation est bien écrite. On trouve dans le</hi> 33<hi rend="sup"
                 >e</hi>
@@ -9239,7 +9239,7 @@
                 rachat &amp; le soulagement des Captifs. L’Auteur la fait remonter, cette Tradition,
                 jusqu’à Abraham, qui délivra Loth son neveu, qui avoit esté fait prisonnier. C’est
                 prendre la chose d’un peu loin.</hi></p>
-            <p><hi rend="i">Vn Philosophe Anonyme a publié dans le monde, des</hi> Reflexions sur la
+            <p><hi rend="i">Un Philosophe Anonyme a publié dans le monde, des</hi> Reflexions sur la
               transmutation des Metaux. <hi rend="i">Il dit sur ce sujet des choses fort curieuses ;
                 &amp; il démontre l’impossibilité de cette transmutation, par l’impossibilité qu’il
                 y a, par exemple, de faire meurir le Plomb, comme quelques Philosophes prétendent
@@ -9399,7 +9399,7 @@
               celebre Colonne de marbre Granit Oriental, nouvellement découverte en une des Maisons
               des Missionnaires de la même Ville.</label>
             <p><hi rend="i">Rome, dont les antiquitez ont de tout temps fait l’attention de tout
-                l’Vnivers, vient de faire la nôtre en ce même genre, dans cette Maison. Le mesme
+                l’Univers, vient de faire la nôtre en ce même genre, dans cette Maison. Le mesme
                 jour que je vous envoyay la Bulle du Pape, que je ne pûs accompagner d’un mot de
                 Lettre, on a fait dans le Jardin de cette Maison, une des plus belles fonctions en
                 matiere de Statique, qu’on ait fait en Europe depuis l’érection de l’Obelisque de
