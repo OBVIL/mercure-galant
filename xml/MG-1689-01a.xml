@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mercure Galant, janvier, première partie, 1689</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL/IReMuS</edition>
+        <respStmt>
+          <name>Nathalie Berton-Blivet</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anne Piéjus</name>
+          <resp>Responsable éditorial</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1689-01a/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Mercure Galant</title>, janvier, première partie, <date>1689</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1689-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article" xml:id="MG-1689-01a_025" resp="mercure">
+        <head>MG-1689-01a_025</head>
+        <bibl>Mercure galant, janvier 1689, p. 25-30</bibl>
+        <p>Festes Publiques.</p>
+        <p/>
+        <p>[...]	Les Magistrats de Luzy ont fait aussi de grandes réjoüissances. On avoit dressé dans la principale Place de la Ville, un piedestal haut &amp; large de dix pieds en chaque quarré, &amp; sur ce piedestal estoit une pyramide de quinze pieds de hauteur, terminée par un Soleil d'or, dont les rayons illuminoient la place de tous les costez. On avoit mis deux Lions à deux des coins de la piramide sur le piedestal, l'un peint de gueules au champ d'or, &amp; l'autre d'or au champ d'azur, pour representer les deux plus considerables Provinces des Pays-Bas. Ils paroissoient expirans, &amp; on lisoit au bas ces paroles, Nos pudeat sine Sole mori. Deux Aigles qu'on voyoit sur les deux autres coins, sembloient s'élever vers le Soleil. Ces mots estoient au dessous, Quantum distamus ab illo. Monseigneur le Dauphin estoit peint en Generalissime autour de la pyramide avec Mr le Maréchal de Duras, &amp; ses Lieutenans Generaux, ausquels il montroit avec un baston de commandement, l'inutile effort des Aigles, avec ces paroles, Tolluntur in altum, ut lapsu graviore ruant. Toute la pyramide estoit garnie de feux d'artifice, de fusées, &amp; de grenades. Mrs Repous, Ballard, Miraut, &amp; Coujar, ayant fait mettre les Habitans sous les armes, allerent au logis de Mr Nault, Chastelain, premier Magistrat de la Ville, chez qui tous les autres s'estoient assemblez. Ils firent faire une décharge de Mousqueterie, &amp; les conduisirent en tres-bel ordre à la Place, où après qu'ils en eurent fait trois fois le tour au bruit de tambours, des Fifres, des Hautbois, &amp; des Musettes, le Chastelain précedé des Sergens de Ville, ayant chacun un flambeau à la main, mit le feu à la droite, &amp; les autres Magistrats le mirent aprés luy aux autres endroits. Pendant que les grenades &amp; les fusées faisoient leur effet, le Soleil qui estoit à la pointe de la pyramide parut tout en feu, mais sans brûler, &amp; l'on fut surpris de voir au milieu trois Fleurs de Lys aussi en feu, &amp; ces mots en lettres d'or, Fraterno &amp; simili candore coruscant. Les Lions &amp; les Aigles ayant esté consumez, le Soleil demeura encore tout lumineux plus de deux heures, sans qu'il fust endommagé par les flâmes. Les Magistrats furent reconduits chez le Chastelain, qui leur donna un magnifique repas, aussi bien qu'à la Noblesse. Il fut suivy d'un grand Bal, où toutes les Dames avoient esté invitées. Le lendemain on chanta le Te Deum dans l'Eglise principale, où assisterent les Magistrats, conduits encore par les Habitans en armes. [...]</p>
+      </div>
+      <div type="article" xml:id="MG-1689-01a_053" resp="mercure">
+        <head>MG-1689-01a_053</head>
+        <bibl>Mercure galant, janvier 1689, p. 53-83</bibl>
+        <p>Balet dancé à Trianon</p>
+        <p/>
+        <p>Le Roy pour marquer l'extrême satisfaction qu'il a receuë du retour de Monseigneur le Dauphin aprés ses glorieuses conquestes, a fait danser un Balet dans l'agreable Palais de Trianon, que l'on a tant de raison d'appeler le Palais de Flore. C'est aussi le nom qu'a eu ce Balet qui fut dansé le 5. de ce mois. Le theatre ne pouvoit avoir de plus superbe décoration que Trianon mesme. L'éclat des marbres, &amp; des beautez de l'architecture attachent d'abord la veuë sur cette grande façade appellée le Peristile, &amp; le plaisir redouble lors que par l'ouverture de ses arcades entre plusieurs rangs de riches colomnes [sic], on découvre ces fontaines, ces jardins, &amp; ces Parterres toujours remplis de toutes sortes de fleurs. C'est alors que l'on oublie qu'on est au milieu de l'hyver, ou bien l'on croit avoir esté transporté tout d'un coup en d'autres climats, quand on voit ces delicieux objets qui marquent si agreablement la demeure de Flore.</p>
+        <p>La premiere Entrée estoit de Naiades &amp; de Silvains, qui venoient se réjoüir du retour de Monseigneur le Dauphin. Mademoiselle Brion qui representoit une Naiade, parut d'abord en chantant ces Vers.</p>
+        <p/>
+        <p>C'est l'ordre de LOUIS, signalons nostre zele.</p>
+        <p>Au retour du Heros que son amour rappelle.</p>
+        <p/>
+        <p>Le Choeur des Naiades &amp; des Silvains répondit.</p>
+        <p/>
+        <p>O doux momens ! ô favorable jour !</p>
+        <p>Du Dauphin triomphant celebrons le retour.</p>
+        <p/>
+        <p>Après une danse des Silvains. Le Choeur reprit.</p>
+        <p/>
+        <p>Chantons, dansons,</p>
+        <p>Que l'Echo réponde</p>
+        <p>A nos chansons,</p>
+        <p>Que l'onde</p>
+        <p>S'élance dans les airs ;</p>
+        <p>Que son bruit réponde</p>
+        <p>A nos concerts.</p>
+        <p/>
+        <p>Alors on entendit un Choeur chantant derriere le Theatre.</p>
+        <p/>
+        <p>Victoire, victoire, victoire.</p>
+        <p/>
+        <p>&amp; la Renommée representée par Mademoiselle Varango, parut, &amp; chanta les Vers qui suivent.</p>
+        <p/>
+        <p>J'ay franchy les monts &amp; les mers,</p>
+        <p>Je viens d'apprendre à l'Univers</p>
+        <p>Des succés qu'il ne pouvoit croire.</p>
+        <p>L'Auguste Heros des François</p>
+        <p>Trouve un Imitateur de ses fameux exploits.</p>
+        <p/>
+        <p>Le Choeur ayant repeté, Victoire, Victoire, la Renommée continua.</p>
+        <p/>
+        <p>Sur ces bords où LOUIS triompha mille fois,</p>
+        <p>Son Fils suit aujourd'huy les traces de sa gloire.</p>
+        <p/>
+        <p>Le Choeur repeta ces derniers Vers, &amp; ensuite on  vit entrer Minerve &amp; Bellone ; la premiere representée par Mademoiselle de la Lande, &amp; l'autre par Mademoiselle Rebel. Voicy le recit que fit Minerve.</p>
+        <p/>
+        <p>Flore tient icy son Empire,</p>
+        <p>Ses dons precieux</p>
+        <p>Y charment les yeux</p>
+        <p>Et parfument l'air qu'on respire.</p>
+        <p>Nostre jeune Heros dans ces lieux favoris</p>
+        <p>De ses heureux exploits va recevoir le prix.</p>
+        <p>Réposons-nous, fiere Bellonne,</p>
+        <p>Le Nekre &amp; le Rhin sont soumis.</p>
+        <p>Que LOUIS parle, qu'il ordonne,</p>
+        <p>On voit tomber les Ramparts Ennemis,</p>
+        <p>Mais le plus grand plaisir que ce succés luy donne,</p>
+        <p>C'est de voir triompher son Fils.</p>
+        <p/>
+        <p>Bellonne luy répondit ce qui suit.</p>
+        <p/>
+        <p>Minerve, vos soins fidelles,</p>
+        <p>Ont guidé ce jeune Vainqueur</p>
+        <p>Vous imprimez dans son coeur</p>
+        <p>De l'Auteur de ses jours les vertus immortelles.</p>
+        <p/>
+        <p>Toutes deux chanterent ensuite.</p>
+        <p/>
+        <p>Ah, quel bonheur pour ce Fils genereux</p>
+        <p>D'avoir ce parfait modelle !</p>
+        <p>O Pere trop heureux</p>
+        <p>D'en voir une Image fidelle !</p>
+        <p>Ah, quel bonheur pour ce Fils genereux !</p>
+        <p>O Pere trop heureux !</p>
+        <p/>
+        <p>Ces deux derniers Vers ayant esté repetez par le Choeur, Minerve poursuivit de cette sorte.</p>
+        <p/>
+        <p>Pour faire à l'Univers connoistre un Fils qu'il aime,</p>
+        <p>Pour ls [sic] rendre à son tour &amp; craint &amp; renommé,</p>
+        <p>LOUIS retient ce bras à vaincre accoutumé,</p>
+        <p>Et s'est privé de triompher luy-mesme.</p>
+        <p>Il donne à ce cher Fils son sort victorieux,</p>
+        <p>Sa puissance suprême,</p>
+        <p>Ses conseils, son esprit, son exemple, &amp; ses Dieux.</p>
+        <p/>
+        <p>Bellone reprit, &amp; chanta ces autres Vers.</p>
+        <p/>
+        <p>Au seul nom de LOUIS toute la terre tremble ;</p>
+        <p>Et que feront encor cent Peuples étonnez</p>
+        <p>De voir un Fils qui luy ressemble ?</p>
+        <p>Nous les verrons tous deux, nous les verrons ensemble,</p>
+        <p>Vainqueurs fortunez,</p>
+        <p>Au bout du monde couronnez.</p>
+        <p/>
+        <p>Les Nymphes de Flore &amp; les Zephirs parurent icy estant appellez par ces Vers que chanta Minerve.</p>
+        <p/>
+        <p>Vous, Nymphes de Flore,</p>
+        <p>Vous, agreables Zephirs,</p>
+        <p>Parez, ornez ces lieux ; qu'ils soient plus beaux encore ;</p>
+        <p>De ce grand Roy secondez les desirs.</p>
+        <p/>
+        <p>Une Nymphe de Flore representée par Mademoiselle Guignard, finit cette Entrée en chantant ces Vers.</p>
+        <p/>
+        <p>Sejour pompeux &amp; tranquille,</p>
+        <p>Où nous passons les jours ainsi que des momens,</p>
+        <p>Fontaines, Jardins, Peristile,</p>
+        <p>Palais plein d'agremens,</p>
+        <p>Dsns [sic] la royale main à qui tout est facile</p>
+        <p>Dans ses nobles délassemens,</p>
+        <p>A tracé les ornemens,</p>
+        <p>Montrez tous vos attraits charmans.</p>
+        <p/>
+        <p>Flore, representée par Mademoiselle de Blois, &amp; accompagnée de deux de ses Nymphes qui estoient Mademoiselle d'Armagnac &amp; Mademoiselle de la Vrillere, ouvrit la seconde Entrée. Quatre Zephirs dançans les suivoient. Mademoiselle Guignard, Nymphe, &amp; Mr Matos, Zephir, chanterent d'abord ces Vers.</p>
+        <p/>
+        <p>A l'aspect de Flore</p>
+        <p>Hastez-vous d'éclore.</p>
+        <p>Venez en ses belles mains,</p>
+        <p>Moissons odorantes,</p>
+        <p>Richesses riantes</p>
+        <p>Roses, jasmins</p>
+        <p>Anemones, Amarantes,</p>
+        <p>Aimables fleurs, venez orner</p>
+        <p>Le front victorieux qu'elle veut couronner.</p>
+        <p/>
+        <p>Mademoiselle Chappe, autre Nymphe de Flore, continua par les vers qui suivent.</p>
+        <p/>
+        <p>Tout fleurit sur nos rivages,</p>
+        <p>Nos Jardins sont toujours verds.</p>
+        <p>Jamais des tristes Hyvers</p>
+        <p>Nous ne sentons les outrages</p>
+        <p>Nostre Printemps dure toujours,</p>
+        <p>Nous n'avons que de beaux jours.</p>
+        <p/>
+        <p>Ces autres Vers furent chantez par Mademoiselle Guignard seule.</p>
+        <p/>
+        <p>Que l'ame est icy contente !</p>
+        <p>Tout nous rit, tout nous enchante,</p>
+        <p>Le Ciel répand sur nous</p>
+        <p>Ce qu'il a de plus doux.</p>
+        <p/>
+        <p>Dans ces retraites aimables</p>
+        <p>Les biens sont purs &amp; durables.</p>
+        <p>Le Ciel répand sur nous</p>
+        <p>Ce qu'il a de plus doux.</p>
+        <p/>
+        <p>Le Choeur de Nymphes &amp; de Zephirs repeta, A l'aspect de Flore, &amp;c. &amp; cela finit la seconde Entrée.</p>
+        <p>La troisième estoit composée de Diane que representoit Madame la Princesse de Conty accompagnée de ses Nymphes &amp; d'un grand nombre de Chasseurs chantans &amp; dançans. Endimion, Chasseur, chanta le premier, &amp; fit entendre ces Vers.</p>
+        <p/>
+        <p>Jamais du haut de sa carriere</p>
+        <p>Sur ce Trône d'argent dont se parent les Cieux,</p>
+        <p>Diane n'avoit à nos yeux</p>
+        <p>Répandu tant de lumiere.</p>
+        <p/>
+        <p>Jamais, quand de la nuit perçant les sombres voiles</p>
+        <p>Elle regne entre les Etoiles,</p>
+        <p>Elle ne tint mieux à son tour</p>
+        <p>La place de l'Astre du jour.</p>
+        <p/>
+        <p>Deux Nymphes de Diane poursuivirent par ceux-cy.</p>
+        <p/>
+        <p>Sur les Autels</p>
+        <p>Qu'Ephese nous vante,</p>
+        <p>A-t-elle ainsi ravy tous les Mortels ?</p>
+        <p>O vous Delos, vous Bois d'Erimante,</p>
+        <p>Avez-vous pu la voir si charmante ?</p>
+        <p>Sur les Autels</p>
+        <p>Qu'Ephese nous vante,</p>
+        <p>A-t-elle ainsi ravy tous les Mortels ?</p>
+        <p/>
+        <p>Une autre Nymphe de la suite de Diane, representée par Mademoiselle de la Lande, chanta ce qui suit, en s'adressant aux Nymphes &amp; aux Chasseurs.</p>
+        <p/>
+        <p>Nymphes diligentes</p>
+        <p>Qui suivez les loix</p>
+        <p>De la Deesse des Bois,</p>
+        <p>Renouvellons les Chasses triomphantes,</p>
+        <p>Où de ses attraits</p>
+        <p>Diane embellit nos Forests,</p>
+        <p>Renouvellons nos Festes éclatantes.</p>
+        <p/>
+        <p>Et vous qui du repos dédaignez la douceur,</p>
+        <p>Chasseurs tant celebrez, venez sur ce rivage</p>
+        <p>Voir l'heroique Chasseur</p>
+        <p>A qui vous devez vostre hommage.</p>
+        <p>Loin des affreux dangers occupez son loisir.</p>
+        <p>Par un noble plaisir.</p>
+        <p/>
+        <p>Cephale parut aussi-tost avec Hippolite, &amp; chanta ces Vers.</p>
+        <p/>
+        <p>Le Dain timide &amp; la Biche sauvage</p>
+        <p>N'évitoient jamais</p>
+        <p>L'atteinte de mes traits ;</p>
+        <p>Mais de ses dards il fait un autre usage,</p>
+        <p>Il abat sous ses coups fameux</p>
+        <p>Des Peuples belliqueux.</p>
+        <p/>
+        <p>Voicy ceux qui furent chantez par Hippolite.</p>
+        <p/>
+        <p>J'exerçois comme luy dans les bois solitaires</p>
+        <p>Ces vertus sinceres</p>
+        <p>Qui regnent parmy les Silvains,</p>
+        <p>Loin du commerce des Humains,</p>
+        <p>Mais je n'ay point appris, en cet estat paisible,</p>
+        <p>A forcer des ramparts,</p>
+        <p>J'ignorois les vertus que son coeur invincible</p>
+        <p>Exerce aux champs de Mars.</p>
+        <p/>
+        <p>Le chant de ces deux illustres Chasseurs fut suivy d'un Choeur qui repeta ces paroles.</p>
+        <p/>
+        <p>Renouvellons les Chasses triomphantes,</p>
+        <p>Où de ses attraits</p>
+        <p>Diane embellit nos Forests ;</p>
+        <p>Renouvellons nos Festes éclatantes,</p>
+        <p>De ce jeune Heros occupons le loisir</p>
+        <p>Par un noble plaisir.</p>
+        <p/>
+        <p>La quatriéme Entrée estoit celle de la Gloire, reprensentée par Madame la Duchesse. Madame de Valentinois, Madame de Florensac, &amp; Mademoiselle d'Usez l'accompagnoient en qualité d'Amazones. Il y en avoit plusieurs autres, qui estoient des Amazones chantantes, &amp; parmy elles Mesdemoiselles la Lande &amp; Varango, representoient Pentesilée &amp; Antiope. Il y avoit aussi plusieurs Heros chantans &amp; dansans, &amp; parmy eux Ulysse &amp; Cyrus, l'un representé par Mr Morel, &amp; l'autre par Mr Cebret. Pentesilée chanta la premiere en s'adressant à la Gloire.</p>
+        <p/>
+        <p>Reine des grandes ames,</p>
+        <p>Unique objet des plus nobles Vainqueurs,</p>
+        <p>Gloire, qui de tes belles flâmes</p>
+        <p>Brûles sans cesse leurs coeurs ;</p>
+        <p>Toy qui leur fais trouver une vie immortelle,</p>
+        <p>Toy du plus grand des Rois la compagne fidelle,</p>
+        <p>Et qui l'as couronné de tes plus nobles prix,</p>
+        <p>Dans ce parfait Heros tu vois un tendre Pere,</p>
+        <p>Tu luy deviens encor plus chere</p>
+        <p>Lors que tu couronnes son Fils.</p>
+        <p/>
+        <p>Le Choeur ajoûta.</p>
+        <p/>
+        <p>O Gloire éclatante !</p>
+        <p>Gloire brillante !</p>
+        <p>Nous suivrons toujours tes pas.</p>
+        <p>O Gloire charmante !</p>
+        <p>Nous suivrons jusqu'au trépas</p>
+        <p>Tes triomphans appas.</p>
+        <p/>
+        <p>Aprés cela Pentesilée &amp; Antiope chanterent ensemble.</p>
+        <p/>
+        <p>Prince heureux, le Dauphin t'imite.</p>
+        <p>Tes premiers Sujets</p>
+        <p>Sont ceux qu'un plus beau zele excite</p>
+        <p>A suivre tes nobles projets.</p>
+        <p>Ces Princes brillans de ta gloire,</p>
+        <p>Ces Heros formez de ton sang,</p>
+        <p>Comme auprés de ton Trône, au Temple de Memoire</p>
+        <p>Tiennent le premier rang.</p>
+        <p/>
+        <p>Pentesilée chanta seule ensuite, &amp; appella ainsi les Heros.</p>
+        <p/>
+        <p>Vous que la Gloire a jadis couronnez,</p>
+        <p>Venez, Heros, venez.</p>
+        <p>Voyez pour nos Guerriers quel triomphe s'appreste,</p>
+        <p>Voyez dans cette heureuse Feste</p>
+        <p>Les biens qui leur sont destinez.</p>
+        <p/>
+        <p>Ulisse s'avança, &amp; se fit connoistre en chantant les Vers suivans.</p>
+        <p/>
+        <p>Quel doux transport, ô grand Roy,</p>
+        <p>De voir un Fils digne de toy !</p>
+        <p>Que Telemaque ainsi pour mes yeux eut de charmes !</p>
+        <p>Que je versay de douces larmes !</p>
+        <p>Quel doux transport, ô grand Roy</p>
+        <p>De voir un Fils digne de toy !</p>
+        <p/>
+        <p>Cyrus continua par ces Vers.</p>
+        <p/>
+        <p>Un silence profond couvrit ma noble audace,</p>
+        <p>Dauphin, ainsi que vous dans les sombres Forests,</p>
+        <p>En s'occupant à la Chasse,</p>
+        <p>Cyrus d'un grand dessein déguisa les apprests.</p>
+        <p>Remply de ce beau feu dont l'ardeur vous inspire</p>
+        <p>Je partis du fond des Bois,</p>
+        <p>Pour courir aux plus grands exploits,</p>
+        <p>Et renverser un Empire.</p>
+        <p/>
+        <p>Après que l'un &amp; l'?autre eut chanté, Pentesilée ajoûta.</p>
+        <p/>
+        <p>Ces Heros, Gloire immortelle,</p>
+        <p>Qui s'immolerent pour vous,</p>
+        <p>Ne vous virent point si belle</p>
+        <p>Que vous l'estes parmy nous.</p>
+        <p>S'ils ont bravé tant d'alarmes</p>
+        <p>Pour vostre nom glorieux,</p>
+        <p>Qu'eussent-ils fait pour les charmes</p>
+        <p>Que vous montrez à nos yeux ?</p>
+        <p/>
+        <p>Le Choeur chanta ensuite.</p>
+        <p/>
+        <p>O Gloire éclatante,</p>
+        <p>Gloire brillante,</p>
+        <p>Nous suivrons toûjours tes pas.</p>
+        <p>O Gloire charmante,</p>
+        <p>Nous suivrons jusqu'au trépas</p>
+        <p>Tes triomphans appas.</p>
+        <p/>
+        <p>La fureur sanglante</p>
+        <p>Des cruels Combats,</p>
+        <p>La chaleur brûlante</p>
+        <p>La froideur glaçante</p>
+        <p>Des plus affreux climats,</p>
+        <p>De Bellonne tonnante,</p>
+        <p>De la foudre devorante</p>
+        <p>Les bruyans éclats,</p>
+        <p>De la terre tremblante</p>
+        <p>L'horrible fracas,</p>
+        <p>Ne nous empescheront pas</p>
+        <p>De suivre ses pas.</p>
+        <p/>
+        <p>O Gloire brillante,</p>
+        <p>Gloire charmante,</p>
+        <p>Nous suivrons jusqu'au trépas</p>
+        <p>Tes triomphans appas.</p>
+        <p/>
+        <p>La joye accompagnée des Plaisirs, faisoit la cinquiéme Entrée, &amp; chanta d'abord ces Vers.</p>
+        <p/>
+        <p>La Joye &amp; les Plaisirs</p>
+        <p>Viennent en ce beau jour combler tous vos desirs.</p>
+        <p>Les Grandeurs, les Festes pompeuses</p>
+        <p>Jamais sans nous ne seroient heureuses.</p>
+        <p>C'est nous qui dans les Cieux</p>
+        <p>Presidons aux Festes des Dieux.</p>
+        <p/>
+        <p>Trois Plaisirs firent ensuite entendre ces Vers.</p>
+        <p/>
+        <p>Rien n'est égal aux douceurs</p>
+        <p>Des Plaisirs qui suivent la Gloire,</p>
+        <p>Rien n'est égal aux douceurs</p>
+        <p>Que la Victoire</p>
+        <p>Met dans les nobles coeurs.</p>
+        <p/>
+        <p>Aprés que ces trois Plaisirs eurent chanté, un autre Plaisir representé par Mr du Four, chanta seul ces autres Vers.</p>
+        <p/>
+        <p>Fameux Heros,</p>
+        <p>Au plaisir l'honneur vous mene,</p>
+        <p>Un doux repos</p>
+        <p>Suit le danger &amp; la peine.</p>
+        <p>Les plaisirs les plus doux,</p>
+        <p>Nobles Coeurs, sont pour vous.</p>
+        <p/>
+        <p>Voicy le jour, ô divine Princesse,</p>
+        <p>Que demandoit vostre juste tendresse.</p>
+        <p>Que de plaisir sent vostre coeur</p>
+        <p>De revoir ce Vainqueur !</p>
+        <p/>
+        <p>Le Choeur ayant ajoûté,</p>
+        <p/>
+        <p>Qu'il doit plaire à vos yeux</p>
+        <p>Ce Vainqueur glorieux !</p>
+        <p/>
+        <p>Un Trio répeta.</p>
+        <p/>
+        <p>Ce Heros glorieux,</p>
+        <p>Qu'il doit plaire à vos yeux !</p>
+        <p/>
+        <p>La Joye &amp; un Plaisir fermoient cette Entrée par les Vers suivans.</p>
+        <p/>
+        <p>Dans sa crainte un veritable amour</p>
+        <p>Répand des larmes ;</p>
+        <p>Mais ensuite un heureux retour</p>
+        <p>A plus de charmes.</p>
+        <p>Aprés qu'on a pleuré dans ses tendres douleurs,</p>
+        <p>De Joye &amp; de plaisir on verse aussi des pleurs.</p>
+        <p/>
+        <p>La sixiéme &amp; derniere Entrée estoit generale, c'est à dire, composée de Flore, de Diane, de la Gloire, &amp; de leur suite. Le Choeur chanta d'abord.</p>
+        <p/>
+        <p>La Joye &amp; les Plaisirs</p>
+        <p>Viennent en ce beau jour combler tous vos desirs.</p>
+        <p>Les plaisirs les plus doux,</p>
+        <p>Nobles Coeurs, sont pour vous.</p>
+        <p/>
+        <p>Et un grand Choeur ajoûta.</p>
+        <p/>
+        <p>Vous, grand Roy, vous, Dauphin,</p>
+        <p>Digne Fils d'un tel Pere,</p>
+        <p>Vivez toujours heureux, &amp; triomphez toujours.</p>
+        <p>Que le Ciel constant à vous plaire</p>
+        <p>Jamais ne change le cours</p>
+        <p>De ces beaux jours,</p>
+        <p>Vivez, triomphez toujours.</p>
+        <p/>
+        <p>Que vos Heros naissans, que l'Auguste Princesse</p>
+        <p>Qui les donne à vostre tendresse,</p>
+        <p>Possedent avec vous ce bonheur plein d'attraits.</p>
+        <p>Qu'une Felicité si douce &amp; si charmante</p>
+        <p>Tous les jours s'augmente,</p>
+        <p>Qu'elle ne finisse jamais.</p>
+        <p/>
+        <p>La Musique des Vers de ce Balet a esté faite par Mr de la Lande, l'un des quatre Maistres de Musique de la Chapelle du Roy. Il doit estre d'un merite fort reconnu, puis que Sa Majesté luy vient de donner la Surintendance de Sa Musique qu'avoit le jeune Mr de Lully qui est mort sur la fin du mois passé. Les Entrées du mesme Ballet sont de Mr de Beauchamp, qui depuis un tres-grand nombre d'années a esté toûjours employé à travailler aux Balets du Roy.</p>
+      </div>
+      <div type="article" xml:id="MG-1689-01a_258" resp="mercure">
+        <head>MG-1689-01a_258</head>
+        <bibl>Mercure galant, janvier 1689, p. 258-262</bibl>
+        <p>Opera nouveau.</p>
+        <p/>
+        <p>Le 11. de ce mois, on donna icy la premiere representation d'un Opera nouveau, intitulé Thetis &amp; Pelée. Il est de Mr de Fontenelle. Il y a tant de delicatesse d'esprit dans tous ses Ouvrages, qu'on se promettoit beaucoup de celuy-cy, &amp; je puis dire que la beauté de ses Vers a remply l'attente de tout le monde. Les plus tendres sentimens du coeur y sont exprimez naturellement, quoy que d'une maniere tres-noble, &amp; l'approbation generale du public parle assez en sa faveur, pour me dispenser de luy donner toutes les loüanges qu'il merite. Quant au spectacle de cet Opera, il ne peut estre que grand, puis que Jupiter &amp; Neptune qui y sont Rivaux, peuvent remuer à leur gré le Ciel, la Mer &amp; la Terre. Ainsi on n'y voit rien de forcé. Les habits répondent au spectacle &amp; sont magnifiques, bien entendus, &amp; convenables aux personnages. Le tout a esté fait sur les desseins de Mr Berrin, Dessignateur ordinaire du Cabinet du Roy. Je vous ay parlé de luy en plusieurs occasions. La Musique est de Mr Colasse, l'un des quatre Maistres de Musique de Sa Majesté. On sçait que le merite a donné ces places, &amp; que ceux qui y aspiroient ont esté enfermez pour composer. Les habiles Connoisseurs asseurent que les endroits qui demandent une belle Musique dans cet Opera, sont si bien poussez, qu'il est impossible de faire mieux. Le reste est traité comme il doit l'estre dans les Ouvrages de cette nature, &amp; il seroit assez difficile de faire autrement. Pour la Simphonie, elle me paroist extremment applaudie, par tous ceux qui jugent de bonne foy, &amp; sans preoccupation. Quand je vous envoye de pareils articles, &amp; que je vous parle de choses dont je ne puis juger par moy-mesme, vous devez estre persuadée que je vous mande le sentiment le plus general.</p>
+      </div>
+      <div type="article" xml:id="MG-1689-01a_301" resp="mercure">
+        <head>MG-1689-01a_301</head>
+        <bibl>Mercure galant, janvier 1689, p. 301-303</bibl>
+        <p>Suite des affaires d'Angleterre</p>
+        <p/>
+        <p>[...] Cette Princesse [la Reine d'Angleterre] coucha à Poix le 2. de ce mois, &amp; arriva le lendemain à Beauvais sur les quatre heures aprés midy. Les Bourgeois estoient sous les armes, &amp; formoient une double haye dans tous les lieux où elle passa. Mr l'Evesque de Beauvais en habit d'Eglise, &amp; accompagné des anciens du Chapitre, la receut à la descente de son Carosse. Le reste du Chapitre s'estoit mis en haye pour l'attendre dans la Salle du Palais Episcopal. Mrs du Presidial, &amp; Mrs de Ville s'y trouverent aussi ; ces derniers firent les presens accoutumez. Le 4. la Reine aprés avoir entendu la Messe dans son appartement, où elle fut celebrée par son Confesseur, vint dans la Cathedrale entendre une seconde Messe basse, qui fut neanmoins accompagnée de quelques motets chantez par la Musique de cette Eglise. On avoit resolu de la haranguer, &amp; de luy faire les mesmes ceremonies que lors qu'on receut la Reine Mere d'Angleterre en 1650. mais comme elle refusa ces honneurs, elle fut seulement receuë par Mr de Beauvais qui luy presenta de l'eau benite à la teste de son Clergé. M. le Premier luy donna la main jusques à son Prie-Dieu, où elle adora la vraye Croix qui luy fut presentée par M. l'Evesque. Elle fut reconduite en marche de Procession, comme elle avoit esté amenée. [...]</p>
+      </div>
+      <div type="article" xml:id="MG-1689-01a_377" resp="mercure">
+        <head>MG-1689-01a_377</head>
+        <bibl>Mercure galant, janvier 1689, p. 377-382</bibl>
+        <p>Tragedie representee à S. Cir.</p>
+        <p/>
+        <p>Il y a des temps &amp; des raisons pour toutes choses, &amp; elles sont souvent blâmées ou estimées, suivant qu'on a égard à l'un &amp; à l'autre dans ce que l'on fait, &amp; qu'on se sert de tout ce qui en peut faire valoir l'execution. Tout cela se rencontre dans la Tragedie d'Ester, qui a esté representée depuis peu de jours à S. Cir. On voit dans cette Maison trois cens jeunes Filles, toutes de qualité ; il faut que la jeunesse se divertisse, &amp; particulierement quand elle n'a pas renoncé au monde, comme la plupart de ces jeunes Demoiselles. Ceux qui en sont entierement retirez, dont l'âge est fort avancé, &amp; qui font mesme profession de mener une vie toute sainte, ont des heures pour leur recreation. Il ne suffisoit pas d'en donner à cette jeunesse toute vive, les personnes meures en font un bon usage. La jeunesse, &amp; sur tout quand elle est en si grand nombre, les employe à des choses differentes mais quand le nombre est si grand, il est malaisé que tant de personnes s'en servent toujours également bien. Il y a de la prudence, &amp; de l'esprit à trouver une chose generale, qui les occupe toutes, &amp; longtemps, &amp; particulierement dans un Carnaval, parce que l'usage ayant autorisé les plaisirs dans cette saison, on n'en peut refuser à la jeunesse. C'est ce qui a obligé l'illustre Personne à qui toute la Noblesse de France a de si grandes obligations du soin qu'elle prend de l'éducation &amp; de la fortune de tant de jeunes personnes, de faire faire une Tragedie pour estre representée à S. Cir pendant le Carnaval, par une partie de cette jeunesse. Cela s'est fait depuis plusieurs siecles, &amp; se fait encore dans des Convents tres-austeres, où les Pensionnaires representent des Tragedies saintes. Quoy que ces Pieces ne soient representées que peu de fois, &amp; qu'elles durent peu d'heures, on s'occupe à en parler pendant plusieurs mois, on se divertit aux repétitions, on s'attache à la representation, &amp; quand on est ainsi tout remply d'une chose sainte &amp; morale qui instruit en divertissant, &amp; qui entre dans l'esprit parce qu'on s'y plaist, on ne l'a point occupé par d'autres choses, qui non seulement pourroient n'estre d'aucune utilité, mais ausquelles mesme il seroit mieux de ne le point appliquer. Le sujet de la Tragedie qu'on vient de representer à S. Cir, est Esther, &amp; elle a esté faite par Mr Racine. On peut juger par la sainteté du sujet, des effets qu'il peut produire dans les coeurs, &amp; de la beauté de la Piece par le nom de son Auteur. Aussi le Roy qui l'a honorée plusieurs fois de sa presence, y a t-il pris tout le plaisir qu'il a toujours ressenty en voyant les Ouvrages de Mr Racine. Il y a des Choeurs dans cette Piece de vingt quatre Filles de S. Cir, faits par Mr Moreau, qui sont d'une grande beauté, &amp; fort utiles à celles qui prennent le party de la Religion, puis qu'elles apprennent par là à chanter, ce qui est tres-necessaire dans les Convents.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
