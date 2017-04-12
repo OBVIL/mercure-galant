@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-03" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1682-03">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, mars 1682 [tome 3]</title>
+        <title>Mercure Galant, janvier 1681</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -18,26 +18,30 @@
           <resp>Responsable éditorial</resp>
         </respStmt>
         <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
           <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
+          <resp>Informatique éditoriale</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1682-03/</idno>
+        <date when="2017"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1682-03</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>mars 1682</date> [<biblScope unit="volume">tome 3</biblScope>].</bibl>
+        <bibl><title>Mercure Galant</title>, <date>janvier 1681</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -51,63 +55,64 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" xml:id="MG-1682-03_008">
-        <head>[Reception de M. l'Evesque de Meaux dans la Ville de ce nom, avec toutes les Harangues &amp; les Réponses]</head>
-        <bibl><title>Mercure Galant</title>, <date>mars 1682</date> [<biblScope unit="volume">tome 3</biblScope>], <biblScope unit="page">p. 8-9, 12-15, 36, 40-41, 43-44</biblScope>.</bibl>
-        <p/>
-        <p>Je vous ay marqué le temps où Messire Jacques-Benigne Bossuet, ancien Evesque de Condom, cy-devant Précepteur de Monseigneur le Dauphin, &amp; présentement Premier Aumônier de Madame la Dauphine, a esté nommé à l'Evesché de Meaux, vacant par la mort de Messire Dominique de Ligny. Les grands Emplois qu'a eus ce Prélat dans le Clergé, qui l'avoit choisy pour faire l'ouverture de l'Assemblée, &amp; pour traiter le Point le plus important de ceux qui en faisoient le sujet, ayant privé quelque temps ses Diocesains de l'avantage de le posseder, on apprit à Meaux avec une joye extraordinaire, qu'il y devoit arriver le Samedy 7. du dernier mois. Tous les Bourgeois prirent aussitost les armes, &amp; se mirent dans le plus leste équipage qu'il leur fut possible. [...]</p>
-        <p>Si-tost qu'on eut sçeu que Mr l'Evesque de Meaux approchoit, la Campagne fut couverte d'une infinité de Gens de la Ville de l'un &amp; de l'autre Sexe, que l'impatience de luy rendre leurs respects fit aller à sa rencontre. Ce Prélat parut sur les cinq heures du soir, accompagné de Mr l'Evesque de Tournay, de Mr l'Abbé de Quincé, &amp; de Bossuet Maistre des Requestes son Frere, avec sa Famille, &amp; entr'autres Mr l'Abbé Bossuet, qui fait connoistre par de glorieux commencemens, qu'il marchera sur les vestiges de Mr son Oncle. Cette Compagnie estoit dans plusieurs Carrosses à six &amp; à huit Chevaux, ayant pour escorte la Maréchaussée qui avoit esté au devant d'elle jusques à Claye, premier lieu du Diocese. Elle estoit en tres bon ordre, les Officiers magnifiquement vétus, les Archers couverts de Casaques neuves des couleurs du Roy, &amp; tous bien montez. Les Trompetes qui les précedoient, meslerent agreablement leurs fanfares au bruit des Tambours &amp; des Fifres des Compagnies, &amp; aux cris de joye de tout le Peuple.</p>
-        <p>A l'entrée de Meaux, on tira le Canon &amp; les Boëtes, qui annoncerent avec le son &amp; le carillon des Cloches de toutes les Eglises de la Ville au nombre de vingt-deux, que Mr l'Evesque arrivoit. [...]</p>
-        <p>Le lendemain huitiéme du mois, le Chapitre, dont les Dignitez estoient revestus de Chapes, précedé de tout le Clergé Séculier &amp; Régulier alla prendre ce Prélat dans la grande Salle de l'Evesché. [...]</p>
-        <p>Cela estant fait, on le conduisit la Mitre en teste, &amp; sa Crosse estant portée devant luy, entre deux Hayes de Bourgeois, que Mr Tenier, Capitaine de la Colonelle, avoit placez aux avenuës de la Court de l'Evesché, &amp; sur le Parvis de la Cathédrale, pour empescher le desordre. Les décharges de cette Milice, jointes au bruit des Tambours, des Fifres, des Trompetes, &amp; des Cloches, se firent entendre jusqu'à ce qu'on fut arrivé au grand Portail de l'Eglise. [...] [L'évêque fait alors le serment pour la conservation des droits, immunités et franchises du chapitre, puis une autre harangue.]</p>
-        <p>Apres cette Cerémonie, il entra processionnellement dans l'Eglise au bruit des Tambours &amp; des Fifres, au son des Orgues, &amp; au chant de la Musique. On le conduisit au Grand Autel, qu'on luy fit baiser. Il alla de là à sa Chaise, où il s'assit, &amp; en suite à son Trône, d'où il revint au pied de l'Autel. En mesme temps on chanta le Te Deum, dont la Musique fut admirée. [...]</p>
-      </div> 
-      <div type="article" xml:id="MG-1682-03_082">
-        <head>[Honneurs rendus à M. le Duc &amp; à Madame la Duchesse de Hanover, dans les Etats de M. l'Electeur de Brandebourg, &amp; à la Cour de ce Prince]</head>
-        <bibl><title>Mercure Galant</title>, <date>mars 1682</date> [<biblScope unit="volume">tome 3</biblScope>], <biblScope unit="page">p. 82-85, 87, 89-90, 92-93, 97-101</biblScope>.</bibl>
-        <p/>
-        <p>Je vous ay fait part l'Eté dernier, des grands &amp; superbes Divertissemens de la Cour de Hanover, &amp; vous avez admiré la maniere toute ingénieuse &amp; toute galante dont le Duc de ce nom, Frere de la Reyne Mere de Dannemark, régala cette Princesse. [...] Cette mesme Cour de Hanover a voulu voir à son tour quels honneurs on rend aux Souverains, qui vont visiter les autres Princes dans leurs Etats. Monsieur l'Electeur de Brandebourg est celuy qui a reçeu ces illustres Hostes. Quoy que la magnificence soit naturelle à cet Electeur, il semble qu'il ait encor recherché à la faire doublement paroistre, sçachant qu'il avoit à recevoir un Prince qui avoit mérité si justement le surnom de Magnifique. Voicy ce qui en a esté écrit icy d'Allemagne, par une Personne interessée à la gloire de Leurs Altesses de Hanover, &amp; qui leur est toute dévoüée.</p>
-        <p/>
-        <p>A MONSIEUR DE ***</p>
-        <p>A Hanover le 15. Fevrier 1682.</p>
-        <p/>
-        <p>Je continuë, comme vous le souhaitez, à vous faire part de ce qui arrive de plus remarquable dans cette Cour. Monsieur le Duc &amp; Madame la Duchesse de Hanover ayant fait dessein de rendre visite à Monsieur l'Electeur de brandebourg, arriverent le 23. de Janvier à Garleben, premiere Ville par où ils devoient entrer dans ses Etats. [...]</p>
-        <p>Le lendemain 23. on arriva à Rathnau, lieu rendu célebre par la gloire dont la défaite de toute une Armée ennemie y a couvert Son Altesse Electorale. [...]</p>
-        <p>Le matin du jour suivant qui estoit le 24. de Janvier, Monsieur le Duc de Hanover envoya Mr de Klenke, premier Gentilhomme de sa Chambre ; &amp; Madame la Duchesse, Mr Sante son Chevalier d'Honneur, pour faire leurs complimens à Monsieur l'Electeur, &amp; luy témoigner avec quel empressement ils souhaitoient l'honneur de le voir. [...]</p>
-        <p>A une heure apres midy, Monsieur l'Electeur sortit accompagné de toute sa Cour une bonne lieuë de France hors de la Ville, pour aller à la rencontre de Monsieur le Duc de Hanover. Il y avoit environ trois quarts-d'heure que l'on attendoit ce Prince, lorqu'il arriva avec toute sa Suite. Apres les complimens faits de part &amp; d'autre, ces deux Souverains avec Madame la Duchesse de Hanover, &amp; Madame l'Electrice, monterent dans le Carrosse destinée à leur triomphe, &amp; la marche pour l'Entrée commença dans l'ordre qui suit.</p>
-        <p>Le Regiment des Gardes à cheval au nombre de six cens Hommes tous en Livrée bleuë, galonnée d'or &amp; d'argent à doubles rangs, marcha avec grande pompe, ayant à sa teste Mr le Lieutenant General d'Espanse, précedé de ses Trompetes &amp; de ses Timbales. [...]</p>
-        <p>Dans ce superbe Carrosse estoient Madame la Duchesse &amp; Mr le Duc de Hanover, Mr l'Electrice &amp; Mr l'Electeur. [...] Une Compagnie de trois cens Trébans en Livrée bleuë, toute couverte d'or &amp; d'argent, environnoit ce Carrosse. Ils marchoient armez de leurs grandes Pertuisanes à la Macédonienne. Quatre Valets de pied de mesme parure, faisoient une somptueuse &amp; tres-agreable confusion, mêlez avec ces Hallebardiers autour de cette triomphante Machine, qui estoit précedée de vingt Trompetes, &amp; de deux Timbaliers, dans la plus éclatante Livrée &amp; dans le plus brillant équipage qu'on puisse employer en de pareilles solemnitez.</p>
-        <p>Apres ce grand Carrosse suivoit celuy de Madame la Princesse Electorale, où estoit aussi Madame la Marquise de Brandebourg, Fille unique du feu Prince Radzevil, Heritiere de quatre Principautez, &amp; mariée depuis peu au Prince Loüis, second Fils de Mr l'Electeur, sans que le mariage ait esté encor consommé. Elle donnoit la place d'honneur à Madame la Princesse de Hanover. Madame la Duchesse d'Holstein, la seule qui reste de la Maison des Princes de Brick, estoit avec elles dans ce Carrosse. Il estoit suivy de plusieurs autres de Princes &amp; des Princesses ; &amp; enfin un Regiment de Cavalerie ayant à la teste ses Timbales &amp; ses Trompetes, fermoit cette marche. [...] A mesure qu'on avançoit dans la Ville, dont les Ruës estoient bordées de la Bourgeoisie en haye &amp; sous les armes, il se faisoit une Salve continuelle de tous ces Bourgeois qui s'estoient parez à l'avantage ; &amp; aussitost qu'on entra dans la Porte du Chasteau, les Gardes à pied firent une triple Salve de neuf mille coups de Mousquets. On descendit de Carrosse au bruit de cette mousqueterie &amp; des fanfares des Trompetes &amp; Timbales. [...]</p>
-      </div>
-      <div type="article" xml:id="MG-1682-03_283">
-        <head>Bouts rimez sur l'Opéra d'Atys</head>
-        <bibl><title>Mercure Galant</title>, <date>mars 1682</date> [<biblScope unit="volume">tome 3</biblScope>], <biblScope unit="page">p. 283-285</biblScope>.</bibl>
-        <p>« BOUTS-RIMEZ</p>
-        <p>sur l'Opéra d'Atys</p>
-        <p/>
-        <p>On attaque Mr le Duc de S. Aignan, &amp; l'on luy donne seulement une heure pour faire ce Sonnet.</p>
-        <p>Voicy de quelle maniere il remplit ces Bouts-rimez.</p>
-        <p/>
-        <p>SONNET.</p>
-        <p/>
-        <p>L'Opéra nous apprend qu'Atys fuyoit Cybelle,</p>
-        <p>Et qu'il ne voulut point qu'elle le fist Papa ;</p>
-        <p>Mais s'il avoit esté sage comme Agrippa,</p>
-        <p>Il auroit bien mieux fait de quitter sa Donzelle.</p>
-        <p/>
-        <p>Il est vray qu'Alecton nous parut trop cruelle,</p>
-        <p>Quand de rage en volant, la Vieille le frapa ;</p>
-        <p>Mais aussi devoit-il tirer son Alumelle ?</p>
-        <p>S'il estoit trop en feu, que n'alloit-il à Spa ?</p>
-        <p/>
-        <p>J'en aime cependant les Vers &amp; la Musique</p>
-        <p>Leur bruit va jusqu'aux bords de la Mer Atlantique ;</p>
-        <p>Cet Opéra ne peut estre veu trop souvent.</p>
-        <p/>
-        <p>La Rose m'en plaist fort, mais j'en crains les épines ;</p>
-        <p>Et si l'on le voyoit sans frais &amp; sans machines,</p>
-        <p>Je l'aurois dans ma Salle avec un Paravent. »</p>
-      </div>
-    </body>
+        <head><hi rend="i">Mercure Galant</hi>, mars [tome 3], 1682</head>
+        <div type="article" xml:id="MG-1682-03_008" resp="mercure">
+          <head>[Reception de M. l'Evesque de Meaux dans la Ville de ce nom, avec toutes les Harangues &amp; les Réponses]</head>
+          <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 8-9, 12-15, 36, 40-41, 43-44.</bibl>
+          <p/>
+          <p>Je vous ay marqué le temps où Messire Jacques-Benigne Bossuet, ancien Evesque de Condom, cy-devant Précepteur de Monseigneur le Dauphin, &amp; présentement Premier Aumônier de Madame la Dauphine, a esté nommé à l'Evesché de Meaux, vacant par la mort de Messire Dominique de Ligny. Les grands Emplois qu'a eus ce Prélat dans le Clergé, qui l'avoit choisy pour faire l'ouverture de l'Assemblée, &amp; pour traiter le Point le plus important de ceux qui en faisoient le sujet, ayant privé quelque temps ses Diocesains de l'avantage de le posseder, on apprit à Meaux avec une joye extraordinaire, qu'il y devoit arriver le Samedy 7. du dernier mois. Tous les Bourgeois prirent aussitost les armes, &amp; se mirent dans le plus leste équipage qu'il leur fut possible. [...]</p>
+          <p>Si-tost qu'on eut sçeu que Mr l'Evesque de Meaux approchoit, la Campagne fut couverte d'une infinité de Gens de la Ville de l'un &amp; de l'autre Sexe, que l'impatience de luy rendre leurs respects fit aller à sa rencontre. Ce Prélat parut sur les cinq heures du soir, accompagné de Mr l'Evesque de Tournay, de Mr l'Abbé de Quincé, &amp; de Bossuet Maistre des Requestes son Frere, avec sa Famille, &amp; entr'autres Mr l'Abbé Bossuet, qui fait connoistre par de glorieux commencemens, qu'il marchera sur les vestiges de Mr son Oncle. Cette Compagnie estoit dans plusieurs Carrosses à six &amp; à huit Chevaux, ayant pour escorte la Maréchaussée qui avoit esté au devant d'elle jusques à Claye, premier lieu du Diocese. Elle estoit en tres bon ordre, les Officiers magnifiquement vétus, les Archers couverts de Casaques neuves des couleurs du Roy, &amp; tous bien montez. Les Trompetes qui les précedoient, meslerent agreablement leurs fanfares au bruit des Tambours &amp; des Fifres des Compagnies, &amp; aux cris de joye de tout le Peuple.</p>
+          <p>A l'entrée de Meaux, on tira le Canon &amp; les Boëtes, qui annoncerent avec le son &amp; le carillon des Cloches de toutes les Eglises de la Ville au nombre de vingt-deux, que Mr l'Evesque arrivoit. Il trouva sur sa marche un Arc de triomphe à l'entrée de la grande Place, orné ainsi que la Porte de l'Evesché, des Armes du Roy, de la Reyne, de Monseigneur le Dauphin, &amp; de Madame la Dauphine. [...]</p>
+          <p>Le lendemain huitiéme du mois, le Chapitre, dont les Dignitez estoient revestus de Chapes, précedé de tout le Clergé Séculier &amp; Régulier alla prendre ce Prélat dans la grande Salle de l'Evesché. [...]</p>
+          <p>Cela estant fait, on le conduisit la Mitre en teste, &amp; sa Crosse estant portée devant luy, entre deux Hayes de Bourgeois, que Mr Tenier, Capitaine de la Colonelle, avoit placez aux avenuës de la Court de l'Evesché, &amp; sur le Parvis de la Cathédrale, pour empescher le desordre. Les décharges de cette Milice, jointes au bruit des Tambours, des Fifres, des Trompetes, &amp; des Cloches, se firent entendre jusqu'à ce qu'on fut arrivé au grand Portail de l'Eglise. [...] [L'évêque fait alors le serment pour la conservation des droits, immunités et franchises du chapitre, puis une autre harangue.]</p>
+          <p>Apres cette Cerémonie, il entra processionnellement dans l'Eglise au bruit des Tambours &amp; des Fifres, au son des Orgues, &amp; au chant de la Musique. On le conduisit au Grand Autel, qu'on luy fit baiser. Il alla de là à sa Chaise, où il s'assit, &amp; en suite à son Trône, d'où il revint au pied de l'Autel. En mesme temps on chanta le <hi rend="i">Te Deum</hi>, dont la Musique fut admirée. [...]</p>
+        </div> 
+        <div type="article" xml:id="MG-1682-03_082" resp="mercure">
+          <head>[Honneurs rendus à M. le Duc &amp; à Madame la Duchesse de Hanover, dans les Etats de M. l'Electeur de Brandebourg, &amp; à la Cour de ce Prince]</head>
+          <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 82-85, 87, 89-90, 92-93, 97-101.</bibl>
+          <p/>
+          <p>Je vous ay fait part l'Eté dernier, des grands &amp; superbes Divertissemens de la Cour de Hanover, &amp; vous avez admiré la maniere toute ingénieuse &amp; toute galante dont le Duc de ce nom, Frere de la Reyne Mere de Dannemark, régala cette Princesse. Le bruit de ces magnifiques Festes s'est répandu dans toute l'Europe; &amp; puis qu'elles ont esté estimées en France, elles ont dû estre du goust de toutes les Nations. Cette mesme Cour de Hanover a voulu voir à son tour quels honneurs on rend aux Souverains, qui vont visiter les autres Princes dans leurs Etats. Monsieur l'Electeur de Brandebourg est celuy qui a reçeu ces illustres Hostes. Quoy que la magnificence soit naturelle à cet Electeur, il semble qu'il ait encor recherché à la faire doublement paroistre, sçachant qu'il avoit à recevoir un Prince qui avoit mérité si justement le surnom de Magnifique. Voicy ce qui en a esté écrit icy d'Allemagne, par une Personne interessée à la gloire de Leurs Altesses de Hanover, &amp; qui leur est toute dévoüée.</p>
+          <p/>
+          <p>A MONSIEUR DE ***</p>
+          <p>A Hanover le 15. Fevrier 1682.</p>
+          <p/>
+          <p><hi rend="i">Je continuë, comme vous le souhaitez, à vous faire part de ce qui arrive de plus remarquable dans cette Cour. Monsieur le Duc &amp; Madame la Duchesse de Hanover ayant fait dessein de rendre visite à Monsieur l'Electeur de brandebourg, arriverent le 23. de Janvier à Garleben, premiere Ville par où ils devoient entrer dans ses Etats.</hi> [...]</p>
+          <p><hi rend="i">Le lendemain 23. on arriva à Rathnau, lieu rendu célebre par la gloire dont la défaite de toute une Armée ennemie y a couvert Son Altesse Electorale.</hi> [...]</p>
+          <p><hi rend="i">Le matin du jour suivant qui estoit le 24. de Janvier, Monsieur le Duc de Hanover envoya Mr de Klenke, premier Gentilhomme de sa Chambre ; &amp; Madame la Duchesse, Mr Sante son Chevalier d'Honneur, pour faire leurs complimens à Monsieur l'Electeur, &amp; luy témoigner avec quel empressement ils souhaitoient l'honneur de le voir.</hi> [...]</p>
+          <p><hi rend="i">A une heure apres midy, Monsieur l'Electeur sortit accompagné de toute sa Cour une bonne lieuë de France hors de la Ville, pour aller à la rencontre de Monsieur le Duc de Hanover. Il y avoit environ trois quarts-d'heure que l'on attendoit ce Prince, lorqu'il arriva avec toute sa Suite. Apres les complimens faits de part &amp; d'autre, ces deux Souverains avec Madame la Duchesse de Hanover, &amp; Madame l'Electrice, monterent dans le Carrosse destinée à leur triomphe, &amp; la marche pour l'Entrée commença dans l'ordre qui suit.</hi></p>
+          <p><hi rend="i">Le Regiment des Gardes à cheval au nombre de six cens Hommes tous en Livrée bleuë, galonnée d'or &amp; d'argent à doubles rangs, marcha avec grande pompe, ayant à sa teste Mr le Lieutenant General d'Espanse, précedé de ses Trompetes &amp; de ses Timbales.</hi> [...]</p>
+          <p><hi rend="i">Dans ce superbe Carrosse estoient Madame la Duchesse &amp; Mr le Duc de Hanover, Mr l'Electrice &amp; Mr l'Electeur. Il estoit tiré par six Chevaux isabelles les plus beaux du monde. Une Compagnie de trois cens Trébans en Livrée bleuë, toute couverte d'or &amp; d'argent, environnoit ce Carrosse. Ils marchoient armez de leurs grandes Pertuisanes à la Macédonienne. Quatre Valets de pied de mesme parure, faisoient une somptueuse &amp; tres-agreable confusion, mêlez avec ces Hallebardiers autour de cette triomphante Machine, qui estoit précedée de vingt Trompetes, &amp; de deux Timbaliers, dans la plus éclatante Livrée &amp; dans le plus brillant équipage qu'on puisse employer en de pareilles solemnitez.</hi></p>
+          <p><hi rend="i">Apres ce grand Carrosse suivoit celuy de Madame la Princesse Electorale, où estoit aussi Madame la Marquise de Brandebourg, Fille unique du feu Prince Radzevil, Heritiere de quatre Principautez, &amp; mariée depuis peu au Prince Loüis, second Fils de Mr l'Electeur, sans que le mariage ait esté encor consommé. Elle donnoit la place d'honneur à Madame la Princesse de Hanover. Madame la Duchesse d'Holstein, la seule qui reste de la Maison des Princes de Brick, estoit avec elles dans ce Carrosse. Il estoit suivy de plusieurs autres de Princes &amp; des Princesses ; &amp; enfin un Regiment de Cavalerie ayant à la teste ses Timbales &amp; ses Trompetes, fermoit cette marche. Quoy que tout cela fist une prodigieuse quantité d'Hommes &amp; de Chevaux, il n'y eut pourtant aucune confusion. A l'entrée de la porte de la Ville, cent Canons qui bordoient le Rampart, firent trois fois leur décharge. Ainsi Leurs Altesses furent salüées de trois cent volées de Canon. A mesure qu'on avançoit dans la Ville, dont les Ruës estoient bordées de la Bourgeoisie en haye &amp; sous les armes, il se faisoit une Salve continuelle de tous ces Bourgeois qui s'estoient parez à l'avantage ; &amp; aussitost qu'on entra dans la Porte du Chasteau, les Gardes à pied firent une triple Salve de neuf mille coups de Mousquets. On descendit de Carrosse au bruit de cette mousqueterie &amp; des fanfares des Trompetes &amp; Timbales.</hi> [...]</p>
+        </div>
+        <div type="article" xml:id="MG-1682-03_283" resp="mercure">
+          <head>Bouts rimez sur l'Opéra d'Atys</head>
+          <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 283-285.</bibl>
+          <p><hi rend="i">« BOUTS-RIMEZ</hi></p>
+          <p><hi rend="i">sur l'Opéra d'Atys.</hi></p>
+          <p/>
+          <p>On attaque Mr le Duc de S. Aignan, &amp; l'on luy donne seulement une heure pour faire ce Sonnet.</p>
+          <p>Voicy de quelle maniere il remplit ces Bouts-rimez.</p>
+          <p/>
+          <p>SONNET.</p>
+          <p/>
+          <p><hi rend="i">L'Opéra nous apprend qu'Atys fuyoit</hi> Cybelle,</p>
+          <p><hi rend="i">Et qu'il ne voulut point qu'elle le fist</hi> Papa ;</p>
+          <p><hi rend="i">Mais s'il avoit esté sage comme</hi> Agrippa,</p>
+          <p><hi rend="i">Il auroit bien mieux fait de quitter sa</hi> Donzelle.</p>
+          <p/>
+          <p><hi rend="i">Il est vray qu'Alecton nous parut trop</hi> cruelle,</p>
+          <p><hi rend="i">Quand de rage en volant, la Vieille le</hi> frapa ;</p>
+          <p><hi rend="i">Mais aussi devoit-il tirer son</hi> Alumelle ?</p>
+          <p><hi rend="i">S'il estoit trop en feu, que n'alloit-il à</hi> Spa ?</p>
+          <p/>
+          <p><hi rend="i">J'en aime cependant les Vers &amp; la</hi> Musique</p>
+          <p><hi rend="i">Leur bruit va jusqu'aux bords de la Mer</hi> Atlantique ;</p>
+          <p><hi rend="i">Cet Opéra ne peut estre veu trop</hi> souvent.</p>
+          <p/>
+          <p><hi rend="i">La Rose m'en plaist fort, mais j'en crains les</hi> épines ;</p>
+          <p><hi rend="i">Et si l'on le voyoit sans frais &amp; sans</hi> machines,</p>
+          <p><hi rend="i">Je l'aurois dans ma Salle avec un</hi> Paravent. »</p>
+        </div>
+      </body>
   </text>
 </TEI>
