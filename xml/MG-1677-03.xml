@@ -2,7 +2,7 @@
 <!--<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1677-03" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1677-03" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
