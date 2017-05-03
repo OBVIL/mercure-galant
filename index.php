@@ -1,153 +1,108 @@
 <?php
 ini_set('display_errors', '1');
 error_reporting(-1);
-// prendre le pot
-include (dirname(__FILE__).'/../teipot/Teipot.php');
-// mettre le sachet SQLite dans le pot
-$pot=new Teipot(dirname(__FILE__).'/mercure-galant.sqlite', 'fr');
-// classe mercure pour gestion de l’indexation
-if (file_exists(dirname(__FILE__).'/Mercure.php')) {
-  include (dirname(__FILE__).'/Mercure.php');
-  $mercure = new Mercure();
-}
-// est-ce qu’un fichier statique (ex: epub) est attendu pour ce chemin ? 
-// Si oui, l’envoyer maintenant depuis la base avant d’avoir écrit la moindre ligne
-$pot->file($pot->path);
-$teipot = $pot->basehref() . '../teipot/';
-$theme = $pot->basehref() . '../theme/';
-// Si un document correspond à ce chemin, charger un tableau avec différents composants (body, head, breadcrumb…)
-$doc=$pot->doc($pot->path);
-// pas de body trouvé, charger des résultats en mémoire
-if (!isset($doc['body'])) {
-  $timeStart=microtime(true);
-  $pot->search();
-}
+$conf = include( dirname(__FILE__)."/conf.php" );
+include( dirname(dirname(__FILE__))."/Teinte/Web.php" );
+include( dirname(dirname(__FILE__))."/Teinte/Base.php" );
+$base = new Teinte_Base( $conf['sqlite'] );
+$path = Teinte_Web::pathinfo(); // document demandé
+$basehref = Teinte_Web::basehref(); //
+$teinte = $basehref."../Teinte/";
+
+// chercher le doc dans la base
+$docid = current( explode( '/', $path ) );
+$q = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
+$q->execute( array( $docid ) );
+$doc = $q->fetch();
+
 ?><!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
-    <?php 
-if(isset($doc['head'])) echo $doc['head']; 
-else echo '
-<title>OBVIL, Mercure Galant</title>
-';
+    <title><?php
+if( $doc ) echo $doc['title'].' — ';
+echo 'Mercure Galant, OBVIL';
+    ?></title>
+    <link rel="stylesheet" type="text/css" href="<?= $teinte ?>tei2html.css" />
+    <link rel="stylesheet" type="text/css" href="<?= $basehref ?>../theme/obvil.css"/>
+    <?php
+// <link rel="stylesheet" type="text/css" href="semantic/theme/semantic.css" />
     ?>
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $pot->basehref; ?>mercure-galant.css"/>
-    <style type="text/css">
-      div.snip a.bookmark { display: none; }
-      figure img {width: 650px;}
+    <style>
     </style>
   </head>
   <body>
     <div id="center">
       <header id="header">
-        <h1>
-          <a href="<?php echo $pot->basehref() . $pot->qsa(null, null, '?'); ?>">OBVIL, Mercure Galant</a>
-        </h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/corpus/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
+        <h1><?php
+          if ( !$path ) echo '<a href="//obvil.paris-sorbonne.fr/projets/mercure-galant">Projet : Mercure galant</a>';
+          else echo '<a href="'.$basehref.'">Mercure Galant</a>';
+        ?></h1>
+        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
-      <div id="contenu"><div id="contenu2">
+      <div id="contenu">
         <aside id="aside">
           <?php
-// les concordances peuvent être très lourdes, placer la nav sans attendre
-// livre
-if (isset($doc['bookrowid'])) {
-  if (isset($doc['download'])) echo $doc['download'];
+if ( $doc ) {
+  // if (isset($doc['download'])) echo $doc['download'];
   // auteur, titre, date
   echo "\n".'<header>';
-  if ($doc['end']) echo "\n".'<div class="date">'.$doc['end'] .'</div>';
-  if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
-  echo "\n".'<a class="title" href="' . $pot->basehref() . $doc['bookname'] . '/">' . $doc['title'] . '</a>';
+  echo "\n".'<a class="title" href="' . $basehref . $doc['code'] . '/">';
+  echo $doc['title'].'</a>';
   echo "\n".'</header>';
-  // rechercher dans ce livre
-  echo '
-  <form action=".#conc" name="searchbook" id="searchbook">
-    <input name="q" id="q" onclick="this.select()" class="search" size="20" placeholder="Dans ce volume" title="Dans ce volume" value="'. str_replace('"', '&quot;', $pot->q) .'"/>
-    <input type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
-  </form>
-  ';
-  // table des matières
-  echo $doc['toc'];
+  // table des matières, quand il y en a une
+   if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
 }
 // accueil ? formulaire de recherche général
 else {
+  /*
   echo'
     <form action="">
       <input name="q" class="text" placeholder="Rechercher" value="'.str_replace('"', '&quot;', $pot->q).'"/>
       <div><label>De <input placeholder="année" name="start" class="year" value="'.$pot->start.'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'. $pot->end .'"/></label></div>
-      '.$pot->bylist().'
       <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
       <button type="submit">Rechercher</button>
     </form>
   ';
+  */
 }
           ?>
         </aside>
         <div id="main">
           <nav id="toolbar">
             <?php
-if (isset($doc['prevnext'])) echo $doc['prevnext'];    
             ?>
           </nav>
-          <div id="article">
+          <div id="article" class="<?php echo $doc['class']; ?>">
             <?php
-if (isset($doc['body'])) {
-  //sortir les tags (false pour ne pas sortir les articles connexes)
-  if (isset($mercure)) $mercure->printTags(true);
-  echo $doc['body'];
-  // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
-  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
+if ( $doc ) {
+  readfile( "article/".$doc['code']."_art.html" );
 }
-elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='persons') {
-  $mercure->printPersonIndex();
-}
-elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='topics') {
-  //$mercure->printTagsIndex("Topic");
-  $thesaurus = new Chtimel('doc/topics.html');
-  echo $thesaurus->body('');
-}
-elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='places') {
-  //$mercure->printTagsIndex("Place");
-  $thesaurus = new Chtimel('doc/places.html');
-  echo $thesaurus->body('');
-}
-elseif (!$pot->q && basename($_SERVER['REQUEST_URI'])==='corporations') {
-  //$mercure->printTagsIndex("Corporation");
-  $thesaurus = new Chtimel('doc/corporations.html');
-  echo $thesaurus->body('');
-}
-
 // pas de livre demandé, montrer un rapport général
 else {
-  // présentation du corpus
-  if (!$pot->q) {
-    $presentation = new Chtimel('doc/presentation.html');
-    echo $presentation->body('');
-    }
+  readfile('doc/presentation.html');
+  $base->biblio();
+  /*
+  TODO search
   // nombre de résultats
   echo $pot->report();
   // présentation chronologique des résultats
   echo $pot->chrono();
   // présentation bibliographique des résultats
-  echo $pot->biblio(array('date', 'title', 'occs'));
+  echo $pot->biblio(array('date', 'byline', 'title', 'occs'));
   // concordance s’il y a recherche plein texte
   echo $pot->concByBook();
+  */
 }
             ?>
           </div>
         </div>
-      </div></div>
-      <?php 
+      </div>
+      <?php
 // footer
       ?>
     </div>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Form.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
-    <script type="text/javascript"><?php if (isset($doc['js']))echo $doc['js']; ?></script>  
+    <script type="text/javascript" src="<?= $teinte ?>Tree.js">//</script>
+    <script type="text/javascript" src="<?= $teinte ?>Sortable.js">//</script>
   </body>
 </html>
