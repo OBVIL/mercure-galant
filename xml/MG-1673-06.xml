@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  -->
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-06" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-06" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1641,8 +1639,7 @@
           sujet.</p>
       </div>
       <div type="article" xml:id="MG-1673-06_207" resp="mercure">
-        <head>Les Femmes sont souvent cause de la perte des Hommes. <hi rend="i"
-          >Nouvelle</hi></head>
+        <head>Les Femmes sont souvent cause de la perte des Hommes. <hi rend="i">Nouvelle</hi></head>
         <bibl><title>Le Mercure Galant</title>, tome VI, 1673, p. 207-248.</bibl>
         <p>M'estant dernierement rencontré dans une Ruelle assez bien remplie, il s’y trouva quatre
           Femmes moins jeunes que les autres, puis qu’elles quatre, elles pouvoient compter un

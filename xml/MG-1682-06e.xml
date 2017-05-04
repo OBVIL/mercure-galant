@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-06e" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-06e" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +58,7 @@
         <head>Reponces à toutes les Questions du XVII. Extraordinaire</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 4-8</biblScope>.</bibl>
         <quote>
-          <label><hi rend="i">REPONCES A TOUTES</hi><lb /><hi rend="i">les Questions du XVII.</hi><lb /><hi rend="i">Extraordinaire.</hi></label>
+          <label><hi rend="i">REPONCES A TOUTES</hi><lb/><hi rend="i">les Questions du XVII.</hi><lb/><hi rend="i">Extraordinaire.</hi></label>
           <label>Si on peut estimer une Personne sans qu’on l’aime ; ou si au contraire on peut aimer une Personne sans qu’on l’estime.</label>
           <lg>
             <l rend="i">  J’estime sans aimer,</l>
@@ -127,7 +125,7 @@
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 8-148</biblScope>.</bibl>
         <p><hi rend="i">En vous envoyant dans le dernier Extraordinaire le Discours que vous y avez veu touchant l’origine de la Pourpre, j’oubliay de vous dire que M<hi rend="sup">r</hi> Rault de Roüen en estoit l’Autheur. Celuy que vous allez voir sur cette mesme matiere, est de M<hi rend="sup">r</hi> Germain de Caën.</hi></p>
         <quote>
-          <label>TRAITÉ DE<lb />LA POURPRE.</label>
+          <label>TRAITÉ DE<lb/>LA POURPRE.</label>
           <p>Pour rapporter avec quelque sorte de méthode ce que j’ay leu de la Pourpre dans divers Autheurs, je m’arresteray à considerer son origine, sa composition, sa diversité, son excellence, &amp; son usage. Son origine fera voir par qui, &amp; à quelle occasion elle a esté inventée. Sa composition montrera dequoy, &amp; en quelle maniere on en faisoit la confection. Sa diversité décrira ses diférentes especes. Son excellence apprendra quel estoit son prix &amp; sa valeur ; Et enfin son usage déclarera quelles personnes avoient le privilege de la porter.</p>
           <p>Jules Pollux dans son Onomasticon, attribuë à Hercule la premiere invention de cette exquise teinture. Elle luy est aussi attribuée par Ange Politien dans son Livre <hi rend="i">De Re vestiar. c. 3</hi>. &amp; autres, mais sur tout par le Poëte Nonnus dans le 40. Livre de ses Dionysiaques. Voicy à peu prés ce qu’il en dit.</p>
           <quote>
@@ -393,7 +391,7 @@
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 216-223</biblScope>.</bibl>
         <p><hi rend="i">M<hi rend="sup">r</hi> Daubaine, dont vous connoissez l’heureux talent à faire des Vers, nous a expliqué en quoy consiste la veritable Amitié, par une Fable employée dans le dernier Extraordinaire. En voicy une autre de sa façon, qui ne vous paroîtra pas moins ingénieuse, sur l’aveuglement que l’amour nous cause.</hi></p>
         <quote>
-          <label>SUR LA QUESTION,<lb />A quelles marques un veritable<lb />Amant peut estre connu.<lb /><hi rend="i">LE LYON AMOVREVX.</hi><lb />FABLE.</label>
+          <label>SUR LA QUESTION,<lb/>A quelles marques un veritable<lb/>Amant peut estre connu.<lb/><hi rend="i">LE LYON AMOVREVX.</hi><lb/>FABLE.</label>
           <lg>
             <l rend="i">Si dans une premiere Fable</l>
             <l rend="i"> Jay tâché de rendre éclaircy</l>
@@ -526,7 +524,7 @@
         <head>[Sonnet en Bouts-rimez, de M. d’Artigues Chapelain de Lescun]</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 224-225</biblScope>.</bibl>
         <quote>
-          <label>BOUTS-RIMEZ.<lb />Sonnet à la loüange du Roy.</label>
+          <label>BOUTS-RIMEZ.<lb/>Sonnet à la loüange du Roy.</label>
           <lg>
             <l><hi rend="i">Plus heureux mille fois, &amp; plus chéry que</hi> Pan,</l>
             <l><hi rend="i">Méprisant l’Ennemy bien plus qu’une</hi> Guenuche,</l>
@@ -552,7 +550,7 @@
             <l><hi rend="i">Et pense que celuy, qui la Flandre dé</hi>-friche,</l>
             <l><hi rend="i">Peut cueillir des Lauriers au delà du Né</hi>-car.</l>
           </lg>
-          <p><hi rend="sc">D’Artigues</hi>, Chapelain de Lescun, de Coudures en<lb />Cascogne.</p>
+          <p><hi rend="sc">D’Artigues</hi>, Chapelain de Lescun, de Coudures en<lb/>Cascogne.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1682-06e_225">
@@ -649,7 +647,7 @@
           </lg>
         </quote>
         <quote>
-          <label>Contre un fort laid Homme,<lb />prest à épouser une Belle.</label>
+          <label>Contre un fort laid Homme,<lb/>prest à épouser une Belle.</label>
           <lg>
             <l><hi rend="i">Un certain grand Benest, plus mal basty que</hi> Pan,</l>
             <l><hi rend="i">Et qui de l’Homme tient moins que de la</hi> Guenuche,</l>
@@ -768,7 +766,7 @@
         <head>[Sentimens en Vers de M. du Rozier, sur toutes les Questions du XVI. Extraordinaire]</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 283-289</biblScope>.</bibl>
         <quote>
-          <label>SI ON PEUT ESTIMER<lb />une Personne sans qu’on l’aime,<lb />ou l’aimer sans qu’on l’estime.</label>
+          <label>SI ON PEUT ESTIMER<lb/>une Personne sans qu’on l’aime,<lb/>ou l’aimer sans qu’on l’estime.</label>
           <lg>
             <l rend="i">Helas ! qu’un Homme a d’embarras,</l>
             <l rend="i">Lors que la passion, ou la raison, l’entraîne !</l>
@@ -895,7 +893,7 @@
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 314-317</biblScope>.</bibl>
         <label><hi rend="i">Réponse à cinq Questions du XVII. Extraordinaire</hi>.</label>
         <quote>
-          <label>Si on peut estimer une Personne<lb />sans qu’on l’aime, &amp;c.</label>
+          <label>Si on peut estimer une Personne<lb/>sans qu’on l’aime, &amp;c.</label>
           <lg>
             <l rend="i">L’estime ayant l’appuy d’un solide mérite,</l>
             <l rend="i">Et le mérite estant aimable infiniment,</l>
@@ -967,7 +965,7 @@
         <head>[Madrigal de M. Daubaine, sur ce qu’on a demandé le Portrait d’un parfait Amant]</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 398</biblScope>.</bibl>
         <quote>
-          <label>Sur ce qu’on a demandé la peinture<lb />d’un parfait Amant.<lb /><hi rend="sc">Madrigal.</hi></label>
+          <label>Sur ce qu’on a demandé la peinture<lb/>d’un parfait Amant.<lb/><hi rend="sc">Madrigal.</hi></label>
           <lg>
             <l rend="i">Mercure demande aujourd’huy</l>
             <l rend="i">Vne peinture naturelle</l>
@@ -985,7 +983,7 @@
         <head>Questions à décider</head>
         <bibl><title>Extraordinaire du Mercure Galant</title>, quartier d’avril <date>1682</date> [<biblScope unit="volume">tome 18</biblScope>], <biblScope unit="page">p. 398-400</biblScope>.</bibl>
         <quote>
-          <label>QUESTIONS<lb />A DÉCIDER.</label>
+          <label>QUESTIONS<lb/>A DÉCIDER.</label>
           <label>I.</label>
           <p>Quel choix doit faire un Homme, qui ayant le cœur sensible à l’esprit &amp; à la beauté, n’est point assez riche pour vivre sans chagrin avec une Personne qui ne luy apporteroit aucun bien. On luy propose trois Partys pour le Mariage ; une Fille tres-riche, mais tres-laide, &amp; n’ayant aucun esprit ; une autre parfaitement belle, d’une sagesse reconnuë, d’une humeur tres-douce, mais sans bien ; &amp; enfin une troisiéme, qui par son esprit se fait admirer de tout le monde, mais qui n’a ny bien, ny beauté.</p>
           <label>II.</label>

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1703-11b">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1703-11b">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure Galant, janvier 1681</title>
+        <title>Journal du siège de Brisac réduit sous l’obéissance du roi par Mgr le duc de Bourgogne…, novembre 1703 [tome 11].</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -41,7 +39,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure Galant</title>, <date>janvier 1681</date>.</bibl>
+        <bibl><title>Journal du siège de Brisac réduit sous l’obéissance du roi par Mgr le duc
+            de Bourgogne…</title>, novembre 1703 [tome 11].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

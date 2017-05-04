@@ -81,7 +81,7 @@ if ( $doc ) {
 // pas de livre demandé, montrer un rapport général
 else {
   readfile('doc/presentation.html');
-  $base->biblio();
+  $base->biblio( array( "no", "date", "title" ) );
   /*
   TODO search
   // nombre de résultats

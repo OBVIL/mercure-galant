@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09b" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09b" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -289,7 +287,7 @@
         <head>Madrigal sur celui de M<hi rend="sup">r</hi> l’Abbé de Testu</head>
         <bibl><title>Mercure Galant</title>, <date>septembre 1682</date>, seconde partie [<biblScope unit="volume">tome 10</biblScope>], <biblScope unit="page">p. 87-88</biblScope>.</bibl>
         <quote>
-          <label>MADRIGAL<lb />Sur celuy de M<hi rend="sup">r</hi> l’Abbé Testu.</label>
+          <label>MADRIGAL<lb/>Sur celuy de M<hi rend="sup">r</hi> l’Abbé Testu.</label>
           <lg>
             <l rend="i">Il faut une adresse divine</l>
             <l rend="i">Pour loüer en un Madrigal,</l>
@@ -335,7 +333,7 @@
         <p/>
         <p>Vous avez trouvé dans ma Lettre d’Aoust, une ample description de la grande Feste que les Jesuites de la Ruë S. Jacques ont faite, pour celebrer la Naissance du jeune Prince. Elle a donné lieu à cet Ouvrage de M<hi rend="sup">r</hi> Philibert d’Antibe.</p>
         <quote>
-          <label>LA FESTE<lb />DU PARNASSE,<lb /><hi rend="i">Celebrée dans le College<lb />de Clermont</hi>.</label>
+          <label>LA FESTE<lb/>DU PARNASSE,<lb/><hi rend="i">Celebrée dans le College<lb/>de Clermont</hi>.</label>
           <lg>
             <l>Quoy ! ce n’est qu’en buvant coup sur coup du Nectar,</l>
             <l><hi rend="i">Dit Apollon aux Dieux,</hi> qu’on celebre une Feste ?</l>
@@ -475,7 +473,7 @@
           </lg>
         </quote>
         <quote>
-          <label>SUR UNE LUMIERE extraordinaire qui parut à la Naissance de Monseigneur le Duc de Bourgogne.<lb /><hi rend="sc">Sonnet.</hi></label>
+          <label>SUR UNE LUMIERE extraordinaire qui parut à la Naissance de Monseigneur le Duc de Bourgogne.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
             <l rend="i">Prince, dés que tes yeux ouvrirent la paupiere,</l>
             <l rend="i">Dans l’ombre de la nuit, le jour parut si beau,</l>
@@ -837,7 +835,7 @@
         <p/>
         <p>Depuis que j’ay achevé la premiere Partie de cette Lettre, dans laquelle je vous parle du Char de Triomphe, où le jour de S. Loüis l’on vit paroistre à Dijon un jeune Enfant représentant Monseigneur le Duc de Bourgogne, au milieu des quatre derniers Ducs de ce nom, on m’a fait part des Devises qui ornoient ce Char. Je vous les envoye expliquées en Vers. On avoit mis ces paroles au dessous de l’Enfant, que la France couronnoit.</p>
         <quote>
-          <label><hi rend="sc">Nascente hoc cuncta</hi><lb /><hi rend="sc">moventur</hi>.</label>
+          <label><hi rend="sc">Nascente hoc cuncta</hi><lb/><hi rend="sc">moventur</hi>.</label>
           <lg>
             <l rend="i"> Il sort du sein de la Victoire,</l>
             <l rend="i">Dans un temps où la Paix tient tout calme icy bas.</l>
@@ -883,7 +881,7 @@
         <p/>
         <p>La Bourgogne répondoit.</p>
         <quote>
-          <label><hi rend="sc">Dignam me Lilia</hi><lb /><hi rend="sc">monstrant</hi>.</label>
+          <label><hi rend="sc">Dignam me Lilia</hi><lb/><hi rend="sc">monstrant</hi>.</label>
           <lg>
             <l rend="i">Cet honneur est bien grand, mais enfin, quoy qu’insigne,</l>
             <l rend="i"> S’il pouvoit estre merité,</l>
@@ -894,7 +892,7 @@
         <p/>
         <p>Autour du Theatre il y auoit quatre Emblêmes. Le premier estoit un Dauphin sur la Mer, &amp; un dans le Ciel, avec ce Vers.</p>
         <quote>
-          <label><hi rend="sc">Imperium Oceano</hi><lb /><hi rend="sc">famam qui terminet</hi><lb /><hi rend="sc">astris</hi>.</label>
+          <label><hi rend="sc">Imperium Oceano</hi><lb/><hi rend="sc">famam qui terminet</hi><lb/><hi rend="sc">astris</hi>.</label>
           <lg>
             <l rend="i">Ce Prince imitera l’invincible LOUIS ;</l>
             <l rend="i">Il fera comme luy des exploits inoüis,</l>
@@ -918,7 +916,7 @@
         <p/>
         <p>Le troisiéme, un Grénadier chargé de ses Fleurs couronnées, avec cette Devise,</p>
         <quote>
-          <label><hi rend="sc">A ciascun’ la sua</hi><lb /><hi rend="sc">corona</hi>.</label>
+          <label><hi rend="sc">A ciascun’ la sua</hi><lb/><hi rend="sc">corona</hi>.</label>
           <lg>
             <l rend="i">Cette Tige paroisten Couronnes féconde ;</l>
             <l rend="i">J’y vois celle du Roy, du Dauphin, de son Fils,</l>
@@ -929,7 +927,7 @@
         <p/>
         <p>Le quatriéme, un Soleil regardant un Tournesol naissant, avec ces mots,</p>
         <quote>
-          <label><hi rend="sc">Sub tanto sidere</hi><lb /><hi rend="sc">crescam</hi>.</label>
+          <label><hi rend="sc">Sub tanto sidere</hi><lb/><hi rend="sc">crescam</hi>.</label>
           <lg>
             <l rend="i">Cet Astre souverain qui regne sur la France</l>
             <l rend="i"> Présidoit quand je pris naissance ;</l>

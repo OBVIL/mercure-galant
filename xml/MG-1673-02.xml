@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-02" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-02" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,8 +62,7 @@
         <head>Préface</head>
         <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673,
           p. I-XI.</bibl>
-        <p>Le succés du premier Volume <hi rend="i"
-            >du Mercure Galant</hi>, ayant esté beaucoup plus
+        <p>Le succés du premier Volume <hi rend="i">du Mercure Galant</hi>, ayant esté beaucoup plus
           grand que j’en avoit osé souhaiter, &amp; la suite en ayant esté demandée avec tout
           l’empressement imaginable, j’ay crû que pour satisfaire l’obligeante curiosité du Public,
           j’en devois donner deux Volumes à la fois, afin que l’on y pût voir en mesme temps tout ce
@@ -133,17 +129,12 @@
           pas devoir dire beaucoup de choses, encore qu’il y en ait un nombre considerable ; les
           Lecteurs d’esprit les connoistront bien, &amp; je me mets peu en peine de ce qu’en
           penseront les Ignorans. Je ne puis toutefois m’empescher de dire qu’à la page 307. du
-          premier Volume, il faut lire, <hi
-            rend="i">il n’a vescut qu’une heure apres sa
-            blessure</hi>, au lieu de <hi
-            rend="i"
-            >il a vescu une heure apres sa blessure.</hi> Le
+          premier Volume, il faut lire, <hi rend="i">il n’a vescut qu’une heure apres sa
+            blessure</hi>, au lieu de <hi rend="i">il a vescu une heure apres sa blessure.</hi> Le
           Lecteur est aussi prié de se souvenir que dans la Narration de la prise de Grave, page
           138. on a mis que le Gouverneur y estoit retourné avec deux mille huit cens Hommes, quoy
           qu’il n’y fut rentré qu’avec deux cens quatre-vingts. On doit encore lire à la page 343.
-          au lieu de, <hi
-            rend="i"
-            >&amp; l’on doit toûjours croire qu’ils ont raison, (&amp; chacun
+          au lieu de, <hi rend="i">&amp; l’on doit toûjours croire qu’ils ont raison, (&amp; chacun
             sçait qu’ils ont toûjours raison.)</hi> Je finirois cette Preface, si dans la
           Description du fameux Passage deTolhüys, je n’avois oublié à parler de Monsieur de la
           Salle S. Pe, Ayde de Camp de Monsieur de M. de Purnon ; Premier Maistre d’Hostel de
@@ -741,9 +732,7 @@
               Abyssains, des Animaux appellez Chevaux de Riviere : Il en garde un dans un Etang ; On
               va dessus aussi vite que si l’on voloit ; mais il faut avoir des Bottes de cuir
               boüilly : Ils sont presque semblables aux Poissons volans des grandes Indes, dont il
-              est parlé dans le Livre intitulé <hi
-                rend="i"
-              >les Delices de la Hollande</hi>. Il peut
+              est parlé dans le Livre intitulé <hi rend="i">les Delices de la Hollande</hi>. Il peut
               faire avoir des Enfans aux Filles de huit ans.</p>
           </quote>
           <p>Toutes les Meres Coquettes s’en plaindroient, interrompit un Homme de la Compagnie ;
@@ -1158,9 +1147,7 @@
         <div type="article" xml:id="MG-1672-02_247" resp="mercure">
           <head>[L’Entrée de Monsieur le Nonce à Paris]</head>
           <bibl><title>Le Mercure Galant</title>, tome II [mai-juillet 1672], 1673, p. 247-249.</bibl>
-          <p>On passa de ces Nouvelles à celles de l’Entrée publique du Nonce de Sa Sainteté, que Monsieur le Duc de Verneüil avoit esté prendre dans le Carosse de la Reyne ; &amp; quoy que cette Entrée ne pût estre mise qu’au nombre de ces choses qui arrivent tous les jours, on y remarqua un particularité, qui fut qu’il avoit fait son Entrée dans un Carosse de la Reyne, &amp; non dans un de ceux du Roy ; &amp; qu’ainsi cette Princesse l’avoit reçeu comme Regente. Cette remarque donna occasion de parler du merite de la Personne de Monsieur le Nonce, dont le Roy fait une estime toute particuliere ; &amp; les marques qu’il en a données en le choisissant entre trois que Sa Sainteté avoit nommez, en sont des preuves incontestables. On parla encor ce jour-là du <hi
-              rend="i"
-            >Te Deum</hi>, chanté en l’Eglise de Nostre-Dame, pour la Rédition de toutes les Places conquises, où ce Nonce assista.</p>
+          <p>On passa de ces Nouvelles à celles de l’Entrée publique du Nonce de Sa Sainteté, que Monsieur le Duc de Verneüil avoit esté prendre dans le Carosse de la Reyne ; &amp; quoy que cette Entrée ne pût estre mise qu’au nombre de ces choses qui arrivent tous les jours, on y remarqua un particularité, qui fut qu’il avoit fait son Entrée dans un Carosse de la Reyne, &amp; non dans un de ceux du Roy ; &amp; qu’ainsi cette Princesse l’avoit reçeu comme Regente. Cette remarque donna occasion de parler du merite de la Personne de Monsieur le Nonce, dont le Roy fait une estime toute particuliere ; &amp; les marques qu’il en a données en le choisissant entre trois que Sa Sainteté avoit nommez, en sont des preuves incontestables. On parla encor ce jour-là du <hi rend="i">Te Deum</hi>, chanté en l’Eglise de Nostre-Dame, pour la Rédition de toutes les Places conquises, où ce Nonce assista.</p>
         </div>
       </div>
       <div>
@@ -1178,8 +1165,7 @@
         </div>
       </div>
       <div>
-        <head>IX. Semaine. <hi rend="i"
-            >Nouvelles du 25. de Juin jusques au 2 de
+        <head>IX. Semaine. <hi rend="i">Nouvelles du 25. de Juin jusques au 2 de
           Juillet.</hi></head>
         <div type="article" xml:id="MG-1673-02_314" resp="mercure">
           <head>[L’Académie Françoise prend possession d’une des Salles du Louvre, pour y tenir

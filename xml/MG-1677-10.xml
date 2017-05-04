@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>-->
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1677-10" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1677-10" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -919,8 +917,7 @@
       <div type="article" xml:id="MG-1677-10_242" resp="mercure">
         <head>[Tout ce qui s’est passé à Fontainebleau pendant le séjour que Leurs Majestez y ont fait…]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, octobre, tome VIII, 1677, p. 242-243.</bibl>
-        <p>Mais ma Lettre est si longue que je passe au <hi rend="i">Te Deum</hi> de M<hi rend="sup"
-            >r</hi> Lully, qui peut estre compté parmy les Plaisirs de Fontainebleau. Il le fit chanter devant le Roy le jour que Sa Majesté luy fit l’honneur de nommer son Fils. Toutes sortes d’Instrumens l’accompagnerent ; les Tymbales &amp; les Trompetes n’y furent point oubliez. Il estoit de monsieur Lully, c’est tout dire. Ce qu’on y admira particulierement, c’est que chaque Couplet estoit de diférente Musique. Le Roy le trouva si beau, qu’il voulut l’entendre plus d’une fois.</p>
+        <p>Mais ma Lettre est si longue que je passe au <hi rend="i">Te Deum</hi> de M<hi rend="sup">r</hi> Lully, qui peut estre compté parmy les Plaisirs de Fontainebleau. Il le fit chanter devant le Roy le jour que Sa Majesté luy fit l’honneur de nommer son Fils. Toutes sortes d’Instrumens l’accompagnerent ; les Tymbales &amp; les Trompetes n’y furent point oubliez. Il estoit de monsieur Lully, c’est tout dire. Ce qu’on y admira particulierement, c’est que chaque Couplet estoit de diférente Musique. Le Roy le trouva si beau, qu’il voulut l’entendre plus d’une fois.</p>
       </div>
       <div type="article" xml:id="MG-1677-10_250" resp="mercure">
         <head>[Reception faite à Essone à Monsieur le Duc de Vermandois, &amp; à Mademoiselle de Blois, par M. du Pin]</head>

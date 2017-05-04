@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-03" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1673-03" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +66,7 @@
           <head>[Suite de la Comedie contre les Nouvellistes]</head>
           <bibl><title>Le Mercure Galant</title>, tome III [juillet-août 1672], 1673,
             p. 1-13.</bibl>
-          <p><hi rend="sc"
-            >J’Estois</hi> dans la Ruë S. Honoré, lors que je rencontray le
+          <p><hi rend="sc">J’Estois</hi> dans la Ruë S. Honoré, lors que je rencontray le
             Nouvelliste Autheur. Il fut ravy de m’avoir trouvé seul, car il y avoit longtemps qu’il
             ne m’avoit recité de Vers de sa Piece contre les Nouvellistes. Il m’entraîna dans le
             Mail du Palais Royal, où l’on ne joüoit point encore, à cause qu’il avoit plu, ayant
@@ -256,13 +252,9 @@
               Distributeur des Eaux d’Hippocrene, &amp;c. À nos amez &amp; feaux Sujets les Gens
               tenans les Biliotheques &amp; les Cabinets de la Societé des beaux Esprits, Intendans
               des jolis Vers, Tresoriers des Pieces galantes, &amp; à tous autres qu’il
-              appartiendra ; <hi
-                rend="sc"
-                >Salut</hi>. Pendant que tous les Potentats songent à leur
+              appartiendra ; <hi rend="sc">Salut</hi>. Pendant que tous les Potentats songent à leur
               seureté dans la conjoncture des affaires presentes de l’Europe, &amp; que les Rois
-              sont surpris des Conquestes surprenantes du Grand <hi
-                rend="sc"
-              >Loüis</hi>, Empereur
+              sont surpris des Conquestes surprenantes du Grand <hi rend="sc">Loüis</hi>, Empereur
               des François, il fait que nous songions tous à nos propres interests.</p>
             <lg>
               <l><space/>Pendant que ce puissant Heros</l>
@@ -440,12 +432,8 @@
               que ces Presentes soient registrées dans nos Archives, Cassettes &amp; Porte-feüilles,
               &amp; quelles soient lues &amp; publiées dans tous les Cercles, Ruelles, Academies
               &amp; Assemblées des Poëtes, afin que personne n’en pretende cause d’ignorance ; Car
-              tel est nostre plaisir. <hi
-                rend="sc"
-                >Donné</hi> au Mont Parnasse lez-Hippocrene, l’an
-              de Miracles de Loüis XIV. Signé <hi
-                rend="sc">Apollon</hi>. Et plus bas <hi rend="sc"
-              >Mnémosyne</hi> Secretaire du Parnasse.</p>
+              tel est nostre plaisir. <hi rend="sc">Donné</hi> au Mont Parnasse lez-Hippocrene, l’an
+              de Miracles de Loüis XIV. Signé <hi rend="sc">Apollon</hi>. Et plus bas <hi rend="sc">Mnémosyne</hi> Secretaire du Parnasse.</p>
           </quote>
           <p>Cette Piece plut fort à l’Assemblée […].</p>
         </div>
@@ -927,8 +915,7 @@
             <p rend="i">Numisma Hoc. </p>
             <p rend="i">Numisma Hoc. </p>
           </quote>
-          <p>Ne signifiroit en François que <hi rend="i"
-            >cette Medaille</hi>, &amp; cela ne voudroit
+          <p>Ne signifiroit en François que <hi rend="i">cette Medaille</hi>, &amp; cela ne voudroit
             rien dire, &amp; ne seroit pas seulement entendu ; mais il signifie bien autre chose en
             Latin, &amp; ce</p>
           <quote>
@@ -967,45 +954,22 @@
             d’un coup, que les Lettres qui estoient au bas des Medailles, ou d’autres Ouvrages
             semblables, vouloient toûjours parler de ceux au nom desquels ces choses estoient
             faites ; &amp; cela me fit croire que celles dont il estoit question, regardoient la
-            Republique de Hollande ; comme <hi
-              rend="i"
-              >S.P.Q.R.</hi> regardoit la Republique
+            Republique de Hollande ; comme <hi rend="i">S.P.Q.R.</hi> regardoit la Republique
             Romaine. Je dis aussi-tost ma pensée à la Compagnie, &amp; j’ajoûtay en méme temps que
-            je croyois que la premiere Lettre qui estoit une <hi
-              rend="i">S.</hi> vouloit dire <hi rend="i"
-              >STATUS.</hi> Vous avez raison, reprit Periandre. <hi rend="i"
-              >STATUS, Les
-              Estats.</hi> Je tiens <hi rend="i"
-              >F.</hi> poursuivit-il, &amp; cet <hi rend="i">F.</hi> veut dire <hi rend="i"
-              >FOEDERATI. FOEDERATI, Unis, Liguez. STATUS FOEDERATI,
-              Les Estats Confédérez.</hi> Il faut donc, repliqua un troisiéme, que le <hi
-              rend="i">B</hi>. veuille dire <hi rend="i"
-              >BELGII. BELGII, Les Estats-Unis de Hollande</hi>.
+            je croyois que la premiere Lettre qui estoit une <hi rend="i">S.</hi> vouloit dire <hi rend="i">STATUS.</hi> Vous avez raison, reprit Periandre. <hi rend="i">STATUS, Les
+              Estats.</hi> Je tiens <hi rend="i">F.</hi> poursuivit-il, &amp; cet <hi rend="i">F.</hi> veut dire <hi rend="i">FOEDERATI. FOEDERATI, Unis, Liguez. STATUS FOEDERATI,
+              Les Estats Confédérez.</hi> Il faut donc, repliqua un troisiéme, que le <hi rend="i">B</hi>. veuille dire <hi rend="i">BELGII. BELGII, Les Estats-Unis de Hollande</hi>.
             Cette explication, leur dis-je, me paroist assez juste, &amp; pourveu que nous
-            expliquions aussi heureusement le <hi
-              rend="i">C.</hi> &amp; le <hi rend="i"
-              >F.</hi> qui
-            restent, je croy qu’elle sera assez juste. Le <hi rend="i"
-              >C.</hi> nous arresta
+            expliquions aussi heureusement le <hi rend="i">C.</hi> &amp; le <hi rend="i">F.</hi> qui
+            restent, je croy qu’elle sera assez juste. Le <hi rend="i">C.</hi> nous arresta
             longtemps, &amp; nous estions sur le point de nous rendre sans l’expliquer, lors qu’une
-            Personne de la Compagnie, que nous en croyons la moins capable, s’écria. <hi
-              rend="i">Je
-              le tiens</hi>, &amp; <hi rend="i"
-              >c’est assurement COMMUNES.</hi> C’est <hi rend="i"
-              >COMMUNES</hi>, sans doute, luy repartis-je, &amp; l’on n’en doit point douter. <hi
-              rend="i"
-              >STATUS FOEDERATI BELGII COMMUNES FECERUNT. Les Estats-Unis d’Hollande, d’un
+            Personne de la Compagnie, que nous en croyons la moins capable, s’écria. <hi rend="i">Je
+              le tiens</hi>, &amp; <hi rend="i">c’est assurement COMMUNES.</hi> C’est <hi rend="i">COMMUNES</hi>, sans doute, luy repartis-je, &amp; l’on n’en doit point douter. <hi rend="i">STATUS FOEDERATI BELGII COMMUNES FECERUNT. Les Estats-Unis d’Hollande, d’un
               commun consentement, ont fait ou fait faire cette Médaille</hi>, Vous avez raison,
-            nous dit Periandre, <hi
-              rend="i"
-              >COMMUNES. Tous ensemble, d’une commune voix, d’un
-              commun consentement.</hi> C’est bien expliquer <hi
-              rend="i"
-              >COMMUNES</hi> ! Mais,
+            nous dit Periandre, <hi rend="i">COMMUNES. Tous ensemble, d’une commune voix, d’un
+              commun consentement.</hi> C’est bien expliquer <hi rend="i">COMMUNES</hi> ! Mais,
             poursuivit-il, en s’adressant à moy, vous avez plus fait que vous ne pensiez ; car vous
-            avez en mesme temps expliqué la derniere <hi
-              rend="i"
-              >F.</hi> qui nous auroit peut-estre
+            avez en mesme temps expliqué la derniere <hi rend="i">F.</hi> qui nous auroit peut-estre
             arresté longtemps. Il faut donc demeurer d’accord apres cette explication, dis-je alors
             à la Compagnie, que les Estats de Hollande ont fait faire cette Médaille. Puis que
             chacun est de ce sentiment, reprit celuy qui avoit aporté la
@@ -1022,9 +986,7 @@
             une grand’pratique des affaires du Monde ; car depuis soixante ans que je vois le jour,
             je n’en ay pas veu un qui ait menty. Quel Proverbe, luy repartit-on, appliquez-vous à
             l’affaire de Monsieur le Prince d’Orange ? Celuy qui doit, nous repliqua-t-il
-            aussi-tost, que <hi
-              rend="i"
-            >Personne ne pert qu’un autre n’y gagne</hi>. Cette
+            aussi-tost, que <hi rend="i">Personne ne pert qu’un autre n’y gagne</hi>. Cette
             explication n’est-elle pas juste, poursuivit-il ? &amp; quand les Hollandois perdent la
             plus grande partie de leurs Estats, Monsieur le Prince d’Orange ne gagne-t-il pas tout à
             coup ; ce qu’il n’a jamais pû obtenir pendant qu’ils se croyoient les Arbitres de tous

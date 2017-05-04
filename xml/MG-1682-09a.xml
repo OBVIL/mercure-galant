@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09a" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09a" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +85,7 @@
         <p/>
         <p>Vos Amies voudront bien me pardonner deux Vers Latins que je vous envoye. Ils ont esté faits par M<hi rend="sup">r</hi> Richou, Chanoine de Bar-sur-Aube, pour une Inscription du mesme Versailles. Les Triomphes de Sa Majesté peints dans ce superbe Chasteau, &amp; le Secours qu’elle preste à ceux qui sont oppressez, mesme aux Princes &amp; aux Roys, font assez connoistre le sens que renferme cette Inscription. La voicy avec son Titre.</p>
         <quote>
-          <label>LUDOVICO MAGNO,<lb />REGI<lb />CHRISTIANISSIMO,<lb /><hi rend="sc">Versaliæ</hi>.</label>
+          <label>LUDOVICO MAGNO,<lb/>REGI<lb/>CHRISTIANISSIMO,<lb/><hi rend="sc">Versaliæ</hi>.</label>
           <lg>
             <l><hi rend="i">Regia sum</hi> Phœbi, <hi rend="i">sublimibus ampla triumphis,</hi></l>
             <l><hi rend="i">Qui fert auxilium</hi> <hi rend="sc">Læsis</hi>, Nec pluribus impar.</l>
@@ -115,7 +113,7 @@
       <div type="article" xml:id="MG-1682-09a_035">
         <head>[Mariage de M. le Marquis de Blainville, &amp; de Mademoiselle de Tonnécharante]</head>
         <bibl><title>Mercure Galant</title>, <date>septembre 1682</date>, première partie [<biblScope unit="volume">tome 9</biblScope>], <biblScope unit="page">p. 35-37</biblScope>.</bibl>
-        <p></p>
+        <p/>
         <p/>
         <p>Le 25. du dernier mois, Mademoiselle de Tonnécharante, de la Maison de Rochechoüart, Fille de feu M<hi rend="sup">r</hi> le Comte de Tonnécharante, Colonel du Régiment de la Marine, &amp; de Dame Marie de Phelypeaux, Fille de feu M<hi rend="sup">r</hi> de la Vrilliere Secrétaire d'Etat, épousa le troisiéme Fils de M<hi rend="sup">r</hi> Colbert, que l'on appelle aujourd'huy M<hi rend="sup">r</hi> le Marquis de Blainville. La Nôce se fit à l'Hostel de la Vrilliere par M<hi rend="sup">r</hi> le Marquis de Chasteauneuf, Ministre &amp; Secrétaire d'Etat, Oncle de la Mariée. M<hi rend="sup">r</hi> l'Archevesque de Bourges, Frere de M<hi rend="sup">r</hi> de Chasteauneuf, fit la cerémonie des Epousailles dans l'Eglise S. Eustache. Le lendemain, les Parens de part &amp; d'autre furent conviez par M<hi rend="sup">r</hi> Colbert d'aller en sa Maison de Sceaux. Le Divertissement commença par la promenade sur le grand Bassin, où il y avoit un Concert de Flûtes. Au retour de la promenade, on trouva dans les Apartemens des Concerts d'Instrumens &amp; de Voix. Ils furent suivis d'un magnifique Soupé sur trois diférentes Tables. [...]</p>
       </div>
@@ -196,7 +194,7 @@
         <p/>
         <p>Les Festes galantes n’ont pas esté oubliées parmy ces Réjoüissances. Des Demoiselles bien faites &amp; spirituelles, ont représenté à S. Cloud une Comédie en Musique, composée sur des Avantures qui s’y sont passées. Elle avoit pour titre, <hi rend="i">l’Automne de Saint Cloud</hi>, &amp; estoit ornée de Balets, de Machines, &amp; de changemens de Theatre. Le Prologue estoit sur la Naissance de Monseigneur le Duc de Bourgogne. Je vous l’envoye. On dit que M<hi rend="sup">r</hi> Compoint le jeune en a fait les Vers. Leur lecture vous fera juger de leur bonté. Il doit donner dans peu un Livre au Public sous le nom de <hi rend="i">la Philosophie des Dames</hi>. La Décoration de ce Prologue représentoit dans les costez du Theatre, des Bois &amp; des Plaines, &amp; dans l’enfoncement, un magnifique Palais plein de Feux &amp; d’artifice, &amp; environné de Fontaines de Vin jalissantes. La Nymphe de Versailles, &amp; la Nymphe de S. Cloud, parurent sur ce Theatre, &amp; chanterent le Dialogue qui suit.</p>
         <quote>
-          <label>LA NYMPHE<lb />de Versailles.</label>
+          <label>LA NYMPHE<lb/>de Versailles.</label>
           <lg>
             <l rend="i">Fuyez, cruels transports de ma douleur profonde,</l>
             <l rend="i">Succedez à mes cris, Jeux &amp; Plaisirs charmans,</l>
@@ -362,7 +360,7 @@
         <p/>
         <p>Toutes les Communautez, &amp; tous les Corps, ayant témoigné leur zele en faisant chanter le <hi rend="i">Te Deum</hi>, M<hi rend="sup">rs</hi> de l’Académie Françoise, qui ont l’honneur d’avoir le Roy pour Protecteur de leur Compagnie, en ont fait chanter un en Musique dans la Chapelle du Louvre. Il estoit de la composition de M<hi rend="sup">r</hi> Oudot, dont je vous ay déja parlé plusieurs fois, &amp; il fut exécuté par plus de soixante Personnes, Joüeurs d’Instrumens, &amp; Musiciens. La plûpart de ces Messieurs se sont distinguez en cette occasion par leurs Ouvrages.</p>
       </div>
-      <div type="article" xml:id="MG-1682-09a_069"  copyOf="JLB_MG-1682-09a_067">
+      <div type="article" xml:id="MG-1682-09a_069" copyOf="JLB_MG-1682-09a_067">
         <head>Sonnet</head>
         <bibl><title>Mercure Galant</title>, <date>septembre 1682</date>, première partie [<biblScope unit="volume">tome 9</biblScope>], <biblScope unit="page">p. 69-70</biblScope>.</bibl>
         <quote>
@@ -432,7 +430,7 @@
         <p/>
         <p>Je joins à ces deux Sonnets, l’Idille de Madame des Houlieres, dont le bruit doit estre allé jusqu’à vous, par les applaudissemens qu’il a reçeus à la Cour &amp; à Paris. Il y a tant de délicatesse, de bon goust, &amp; de bon sens, dans tout ce qui part de cette illustre Personne, que si l’usage estoit que les Femmes fussent reçeuës à l’Académie, on préviendroit ses souhaits, pour luy offrir place dans cette celebre Compagnie.</p>
         <quote>
-          <label>POUR<lb />LA NAISSANCE<lb /><hi rend="sc">de Monseigneur</hi><lb />LE DUC<lb />DE BOURGOGNE.<lb />IDILLE.</label>
+          <label>POUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE BOURGOGNE.<lb/>IDILLE.</label>
           <lg>
             <l rend="i">L’Amour pressé d’une douleur amere,</l>
             <l rend="i">Eteint son Flambeau, rompt ses Traits,</l>
@@ -561,7 +559,7 @@
       <div type="article" xml:id="MG-1682-09a_087">
         <head>[L'Université de Paris. Cet Article est remply de Remarques curieuses, &amp; de Harangues]</head>
         <bibl><title>Mercure Galant</title>, <date>septembre 1682</date>, première partie [<biblScope unit="volume">tome 9</biblScope>], <biblScope unit="page">p. 87-91, 93-94, 96-101</biblScope>.</bibl>
-        <p></p>
+        <p/>
         <p/>
         <p>L'Université de cette Ville ayant esté la premiere de toutes les Compagnies à donner des marques publiques de sa joye pour la Naissance de Monseigneur le Duc de Bourgogne, ne s'est pas contentée de faire cesser pendant trois jours l'Exercice des Classes dans tous les Colleges, &amp; d'y ordonner des Prieres &amp; des Feux, dés qu'elle eut appris cette nouvelle. Elle a crû qu'en qualité de Fille aînée des Roys de France, &amp; par conséquent de LOÜIS LE GRAND, elle estoit obligée d'entrer plus particulierement dans les sentimens de la Famille Royale. Ainsi s'estant assemblée par ses Députez chez M<hi rend="sup">r</hi> Tavernier son Recteur, au College de Navarre, elle ordonna que pour terminer par quelque chose de singulier les Réjoüissances &amp; les Prieres qu'elle avoit faites pendant un mois, on feroit une Procession extraordinaire en l'Eglise de N. Dame, Protectrice de nos Roys, &amp; de tout le Royaume, &amp; que pour cela on choisiroit le Samedy 5. de Septembre, afin d'honorer en mesme temps le jour de la Naissance de Sa Majesté, qui est la source de tous les bonheurs dont joüit la France. La chose fut exécutée de cette maniere par les soins de M<hi rend="sup">r</hi> de Lenglet, Syndic de ce sçavant Corps, qui fut chargé de l'ordre de toute la Cerémonie.</p>
         <p>M<hi rend="sup">r</hi> Tavernier Recteur, apres avoir fait agréer à M<hi rend="sup">r</hi> l'Archevesque de Paris que l'Université fit chanter un <hi rend="i">Te Deum</hi>, &amp; à M<hi rend="sup">rs</hi> les Doyen &amp; Chapitre qu'elle allast processionnellement à leur Eglise le jour que je viens de vous marquer, envoya dés le Jeudy 3. du mesme mois son Mandement aux Doyens des Facultez, aux Procureurs des Nations, aux Principaux des Colleges, à tous les Supérieurs des Ordres Réguliers qui sont du Corps de l'Université, &amp; à tous les Officiers &amp; autre Membres qui en dépendent, portant ordre de se rendre le Samedy suivant à huit heures du matin, au Cloistre des Maturins, Lieu ordinaire de leurs Assemblées genérales, où s'estant rendu luy mesme à l'heure assignée, il prononça un fort beau Discours Latin, [...].</p>
@@ -593,7 +591,7 @@
         <p/>
         <p>Je vous envoye des Vers qui ont esté faits sur les avantages de la Liberté, par une Personne de vostre Sexe. Ce qui vous paroistra presque incroyable, à voir &amp; leur netteté &amp; le tour aisé qu’ils ont, c’est que la Dame qui les a faits, ne s’est apperçeuë que depuis six mois qu’elle estoit née pour en faire. Elle a fort peu de commerce avec le monde, passe sa vie dans son domestique, &amp; se donnant toute entiere aux soins &amp; aux occupations de son ménage, elle prend ce temps pour s’abandonner à la resverie qui est necessaire à ceux que favorisent les Muses. Jugez, Madame, si on ne peut pas assurer avec verité ce que je croy vous avoir déja marqué en plusieurs occasions, que ce n’est ny par art ny par étude que l’on devient Poëte, mais par ce beau feu qui est inspiré de la Nature.</p>
         <quote>
-          <label>REFLEXIONS<lb />SUR LA LIBERTÉ.</label>
+          <label>REFLEXIONS<lb/>SUR LA LIBERTÉ.</label>
           <lg>
             <l rend="i">Aimable Liberté, doux charme de nos sens,</l>
             <l rend="i">Qui méritez si bien nos vœux &amp; nostre encens,</l>
@@ -750,7 +748,7 @@
         <p/>
         <p>Quoy que le secours de la Raison soit d’un grand usage contre beaucoup de malheurs, elle est pourtant bien souvent l’ennemie de nos plaisirs. Voicy ce que luy fait dire M<hi rend="sup">r</hi> de Vin, Substitut de M<hi rend="sup">r</hi> le Procureur du Roy au Chastelet, par un Amant qui la trouve trop severe. C’est celuy dont je vous envoyay il y a six mois la galante Piece qui a pour titre, <hi rend="i">L’Amour devenu aveugle</hi>. Si l’exemple de Caton vous fait peine en celle-cy, parce qu’on l’y voit Amant de sa Femme, &amp; que d’ordinaire l’amour d’un Mary n’est pas violent, songez qu’il dut aimer beaucoup Martia, puis que l’ayant cedée à Hortensius son Amy intime, il se fit un bonheur de la reprendre apres la mort de ce mesme Hortensius.</p>
         <quote>
-          <label>L’AMANT<lb />A SA RAISON<lb />TROP SEVERE.</label>
+          <label>L’AMANT<lb/>A SA RAISON<lb/>TROP SEVERE.</label>
           <lg>
             <l rend="i">Raison, tes beaux discours sont icy superflus,</l>
             <l rend="i">Je suis las d’endurer tes mépris pour Elvire ;</l>
@@ -1011,7 +1009,7 @@
         <p/>
         <p>L’heureuse naissance de Monseigneur le Duc de Bourgogne a donné à tout le monde un empressement extraordinaire de marquer sa joye. L’Ouvrage qui suit a esté un des premiers qu’on ait présentez au Roy. C’est un Impromptu que l’impatience de montrer son zele n’a pû donner le temps de polir. Vous m’en manderez vostre sentiment. L’Autheur est de vos Amis. C’est tout ce que je vous en diray pour vous le faire connoistre.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb />DE M<hi rend="sup">r</hi> LE DUC<lb />DE BOURGOGNE.</label>
+          <label>SUR LA NAISSANCE<lb/>DE M<hi rend="sup">r</hi> LE DUC<lb/>DE BOURGOGNE.</label>
           <p/>
           <p><hi rend="i">La Gloire qui n’abandonne jamais le Roy, ayant accompagné ce Monarque dans la Chambre de Madame la Dauphine, pendant que cette Princesse estoit dans les douleurs de l’enfantement, voulut voir des premieres l’auguste Enfant qui faisoit l’attente de tous les François, afin qu’au premier instant de sa naissance elle pust faire passer dans son cœur tous les sentimens de grandeur &amp; de justice qui ont rendu LOUIS LE GRAND l’admiration &amp; l’étonnement de toutes les Nations. Monseigneur le Duc de Bourgogne eut à peine vû le jour, que la Gloire ayant executé ce qu’elle avoit résolu, demanda où estoit la Renommée. Elle s’étonna de son absence, &amp; s’en plaignit assez hautement pour estre entenduë. Le monde fournit-il à present, dit-elle, quelque nouvelle assez grande pour donner de l’employ à la Renommée ? Est-il une Cour sur la Terre, qu’elle doive préferer à celle du Monarque des François, &amp; n’y trouve-t-elle pas d’assez illustres Matieres pour l’occuper entierement ? Elle n’eut pas sitost achevé ces mots, qu’elle vit paroître la Renommée, mais toute lasse &amp; toute abatuë. D’où vous vient cette paresse, luy dit-elle, &amp; pourquoy cet air remply de langueur, quand vous ne devez avoir que de la joye ? La Renommée ne demeura pas sans réponse, &amp; voicy de quelle façon elles se parlerent.</hi></p>
           <label>LA RENOMMÉE.</label>
@@ -1044,7 +1042,7 @@
         <p/>
         <p>La nouvelle Fable que je vous envoye, est de la façon de M<hi rend="sup">r</hi> Daubaine.</p>
         <quote>
-          <label>LE CHAT,<lb />ET LE COQ.<lb />FABLE.</label>
+          <label>LE CHAT,<lb/>ET LE COQ.<lb/>FABLE.</label>
           <lg>
             <l rend="i">Un Chat parmy les Chats tranchant du necessaire,</l>
             <l rend="i"> Faisoit le Rominagrobis.</l>
@@ -1154,7 +1152,7 @@
         <p/>
         <p>L’Ode &amp; le Sonnet que vous allez voir, sont de M<hi rend="sup">r</hi> Robinet de S. Jean. Je vous ay parlé plusieurs fois de luy, &amp; je sçay que son mérite vous est aussi connu que son nom. Il entend tres-bien la Langue ; &amp; ce stile aisé qui paroist dans les Nouvelles qu’on donne au Public depuis un grand nombre d’années, en est une preuve, qu’on ne sçauroit contester. Elles sont écrites avec beaucoup de pureté, &amp; ce n’est pas sans raison que tous les honnestes Gens en parlent avec éloge.</p>
         <quote>
-          <label>SUR<lb />LA NAISSANCE<lb /><hi rend="sc">de Monseigneur</hi><lb />LE DUC<lb />DE BOURGOGNE.<lb />Ode en Vers irréguliers.</label>
+          <label>SUR<lb/>LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC<lb/>DE BOURGOGNE.<lb/>Ode en Vers irréguliers.</label>
           <lg>
             <l rend="i">Dans un Palais égal à celuy du Soleil,</l>
             <l rend="i"> Ou l’Art &amp; la Nature</l>
@@ -1268,7 +1266,7 @@
           </lg>
         </quote>
         <quote>
-          <label>A LA GLOIRE DU ROY,<lb />Sur la Naissance de Monseigneur le Duc de Bourgogne.<lb /><hi rend="sc">Sonnet</hi>.</label>
+          <label>A LA GLOIRE DU ROY,<lb/>Sur la Naissance de Monseigneur le Duc de Bourgogne.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
             <l rend="i">Qui de tous les Héros est semblable à LOUIS ?</l>
             <l rend="i">Quoy qu’en dise de grand la fabuleuse Histoire,</l>

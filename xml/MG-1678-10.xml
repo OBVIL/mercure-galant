@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-10" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-10" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -73,7 +70,7 @@
         <head>A Monseigneur le Dauphin</head>
         <bibl><title>Mercure galant</title>, octobre [tome 10], 1678, non paginé.</bibl>
         <quote>
-          <lg><l><space></space>Puis que Loüis finit la Guerre,</l>
+          <lg><l><space/>Puis que Loüis finit la Guerre,</l>
           <l>Et qu’il veut qu’aujourd’huy la Paix regne en tous lieux,</l>
           <l><space/>Les Peuples doivent sur la Terre</l>
           <l>S’applaudir à l’envy d’un don si prétieux</l>
