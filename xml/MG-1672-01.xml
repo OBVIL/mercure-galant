@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1672-01" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1672-01" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,8 +83,7 @@
           &amp; non comme un Ouvrage achevé. Ceux qui auront quelques Galanteries, &amp; quelque
           chose de curieux, qui méritera d’estre sçeu, pourront me l’apporter, &amp; je feray en
           sorte que l’Autheur en entretienne la Personne à qui il s’adresse dans ses Lettres. Je
-          crois estre encor obligé de vous avertir que ce Livre n’a rien qui ressemble au <hi
-            rend="i">Journal des Sçavans</hi> : Il ne parle que des Livres de Sciences qu’on
+          crois estre encor obligé de vous avertir que ce Livre n’a rien qui ressemble au <hi rend="i">Journal des Sçavans</hi> : Il ne parle que des Livres de Sciences qu’on
           imprime ; &amp; l’on en parle icy que d’Histoires amoureuses, &amp; que du mérite des
           Personnes qui en ont beaucoup, quand mesme leur plume ne produiroit aucun Ouvrage. Il
           n’est pas toûjours necessaire d’écrire pour avoir de l’esprit, &amp; l’on a souvent veu
@@ -943,8 +940,7 @@
           dans tous les Lieux où ils ont passé. La vivacité de leur esprit est une chose
           incroyable ; &amp; ils font des Vers avec tant de justesse, qu’ils donneroient de la
           jalousie aux plus grands Autheurs, s’ils estoient d’une qualité à en faire souvent.
-          Monsieur le Cardinal Patron fit avancer pour eux la representation d’un <hi rend="i"
-            >Opera</hi>, afin de leur en donner le divertissement. Jugez par là, Madame, combien les
+          Monsieur le Cardinal Patron fit avancer pour eux la representation d’un <hi rend="i">Opera</hi>, afin de leur en donner le divertissement. Jugez par là, Madame, combien les
             <hi rend="i">Opera</hi> sont considérables, puis que de tels Gens s’en meslent, &amp;
           les honorent de leur présence.</p>
       </div>
@@ -1142,8 +1138,7 @@
           Corneille l’aisne prestoit aussi. Je ne puis rien dire de celuy-là qui ne soit au dessous
           de luy ; c’est le seul de qui on peut louer les Ouvrages sans les avoir veûs, &amp; de qui
           malgré le grand âge on doit toûjours attendre des Pieces achevées comme on trouvera sans
-          doute sa dernière Tragédie qui paroistra l’hyver prochain sous le nom de <hi rend="i"
-            >Pulcherie</hi>, &amp; qui ne peut manquer de plaire à tous ceux qui ont le cœur &amp;
+          doute sa dernière Tragédie qui paroistra l’hyver prochain sous le nom de <hi rend="i">Pulcherie</hi>, &amp; qui ne peut manquer de plaire à tous ceux qui ont le cœur &amp;
           l’esprit bien fait comme elle a déjà plû à ceux qui ont eu le bonheur de luy entendre
           lire. On vit dans cette celebre Compagnie les deux Abbez Tallemant ; l’un premier
           Aumosnier de Madame, dont le mérite est hors de doute ; &amp; qui a fait avec tant de
@@ -1376,8 +1371,7 @@
           à parler.</p>
       </div>
       <div type="article" xml:id="MG-1672-01_310" resp="mercure">
-        <head>[Noms de tous les Autheurs citez par Monsieur Ménage dans son Livre intitulé, <hi
-            rend="i">Observations sur la Langue Françoise</hi>]</head>
+        <head>[Noms de tous les Autheurs citez par Monsieur Ménage dans son Livre intitulé, <hi rend="i">Observations sur la Langue Françoise</hi>]</head>
         <bibl><title>Le Mercure Galant</title>, [tome I, janvier-avril], 1672,
           p. 310-313.</bibl>
         <p>Voicy une partie des Autheurs qu’il cite. Monsieur de Vaugelas, qu’il approuve et
@@ -1403,8 +1397,7 @@
           parle fort d’une chose, qu’elle sera approuvée, qu’elle plaira, &amp;c. on dit, on parle
           de cela <hi rend="i">par toute terre</hi>, cela plaira <hi rend="i">par toute terre</hi>,
           cela sera approuvé <hi rend="i">par toute terre</hi>. Les Gens du bel air ne disent pas
-          présentement cinquante paroles, qu’ils ne disent dix fois, aussi bien que le mot de <hi
-            rend="i">violant</hi> qu’on applique bien plus mal à tout ce qu’on dit ; car pour dire
+          présentement cinquante paroles, qu’ils ne disent dix fois, aussi bien que le mot de <hi rend="i">violant</hi> qu’on applique bien plus mal à tout ce qu’on dit ; car pour dire
           cela est fâcheux, on dit cela est <hi rend="i">violant</hi> ; pour dire il a tort, on le
           dit de mesme, &amp; il semble qu’on affecte de s’en servir pour exprimer toutes les choses
           avec lesquelles il ne convient pas. Je croy, Madame, que vous n’avez jamais oüy parler de

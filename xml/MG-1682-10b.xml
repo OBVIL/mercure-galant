@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-10b" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-10b" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -82,7 +80,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 3-6</biblScope>.</bibl>
         <p>Cette Anagramme qu’il a présentée à Sa Majesté, aussi bien que la premiere, luy a donné lieu de faire ces autres Vers. Ils vous plairont d’autant plus, qu’ils loüent ce grand Prince sur la qualité que vous admirez davantage en luy ; je veux dire sur ce zele ardent qu’il fait sans cesse éclater pour l’intérest de l’Eglise.</p>
         <quote>
-          <label>AU ROY.<lb />LE JOUR DE S. LOUIS.<lb /><hi rend="sc">Epistre</hi>.</label>
+          <label>AU ROY.<lb/>LE JOUR DE S. LOUIS.<lb/><hi rend="sc">Epistre</hi>.</label>
           <lg>
             <l rend="i">Heritier le plus grand du plus saint Roy du monde,</l>
             <l rend="i">LOUIS de qui la main en miracles féconde</l>
@@ -279,7 +277,7 @@
         <head>Madrigal</head>
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 63-64</biblScope>.</bibl>
         <quote>
-          <label>A M<hi rend="sup">me</hi> LA DAUPHINE.<lb /><hi rend="sc">Madrigal</hi>.</label>
+          <label>A M<hi rend="sup">me</hi> LA DAUPHINE.<lb/><hi rend="sc">Madrigal</hi>.</label>
           <lg>
             <l rend="i">Princesse, enfin le Ciel a remply tous nos vœux ;</l>
             <l rend="i">Vous nous donnez un Fils dont l’heureuse Naissance</l>
@@ -324,7 +322,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 86-92</biblScope>.</bibl>
         <p>Je vous envoye une Lettre qui porte sa recommandation par les Noms sous lesquels elle est écrite. Ils vous sont connus, &amp; je n’ay rien plus à vous dire, pour vous préparer à une lecture agréable.</p>
         <quote>
-          <label>LETTRE<lb />DU BERGER<lb />FLEURISTE,<lb /><hi rend="sc">A la Nymphe des Bruyeres</hi>,<lb />En luy envoyant une Discretion<lb />qu’il luy devoit.</label>
+          <label>LETTRE<lb/>DU BERGER<lb/>FLEURISTE,<lb/><hi rend="sc">A la Nymphe des Bruyeres</hi>,<lb/>En luy envoyant une Discretion<lb/>qu’il luy devoit.</label>
           <p><hi rend="i">Apres avoir bien pensé, belle Nymphe, à ce que je devois vous donner pour demeurer quitte de la discretion que vous m’avez gagnée</hi>,</p>
           <quote>
             <lg>
@@ -501,7 +499,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 116-119</biblScope>.</bibl>
         <p>Je ne puis poursuivre cette matiere, sans vous dire que les Destins ont esté consultez sur la Naissance du Prince qui donna lieu à toutes ces Festes. Je vous envoye la Demande &amp; la Réponse. L’une &amp; l’autre est d’un Autheur qui n’a voulu se faire connoistre que sous le nom de l’Inconnu de la Ruë S. Jean de Latran.</p>
         <quote>
-          <label>DEMANDE<lb />AUX DIEUX.</label>
+          <label>DEMANDE<lb/>AUX DIEUX.</label>
           <lg>
             <l rend="i">Adorables Destins, dont les Arrests suprémes</l>
             <l rend="i">Etendent leur pouvoir jusques aux Diadémes,</l>
@@ -565,7 +563,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 128-132</biblScope>.</bibl>
         <p>La Fable qui suit ne doit pas déplaire à vostre beau Sexe. La moralité en est tout-à-fait à son avantage.</p>
         <quote>
-          <label>LE ROSSIGNOL,<lb />FABLE.</label>
+          <label>LE ROSSIGNOL,<lb/>FABLE.</label>
           <lg>
             <l rend="i">Dans ce Climat heureux, où l’Hyver le plus rude</l>
             <l rend="i">Ne fit jamais ressentir ses glaçons ;</l>
@@ -689,7 +687,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 199-209</biblScope>.</bibl>
         <p>Tout le monde sçait qu’Arion fut sauvé par un Dauphin, qui le porta sur son dos jusques au Rivage ; mais on ne sçait par que ce Dauphin estoit une Nymphe métamorphosée. Vous l’apprendrez en lisant la Fable que je vous envoye.</p>
         <quote>
-          <label>ARION,<lb />FABLE.</label>
+          <label>ARION,<lb/>FABLE.</label>
           <lg>
             <l rend="i">Un Chantre renommé, dont la voix douce &amp; belle</l>
             <l rend="i"> Avoit charmé tout le Païs Latin,</l>
@@ -893,7 +891,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 209-219</biblScope>.</bibl>
         <p>Je ne puis vous les apprendre d’une maniere plus agreable, qu’en vous faisant part de ce qu’il en a écrit à une Veuve de qualité, qui fait son sejour à la Campagne.</p>
         <quote>
-          <label>A MADAME<lb />LA MARQUISE DE ***<lb />A Poitiers ce 23. Aoust.</label>
+          <label>A MADAME<lb/>LA MARQUISE DE ***<lb/>A Poitiers ce 23. Aoust.</label>
           <p><hi rend="i">Avoüez, Madame, que quoy que dans un temps où vous estes peu disposée à la joye, vous n’avez pû apprendre qu’avec une extréme plaisir l’heureuse Naissance de Monseigneur le Duc de Bourgogne. Je ne doute pas mesme que je ne vous en donne beaucoup, en vous mandant de quelle maniere on l’a celébrée icy. Vous reconnoistrez en tout ce que je vous diray le zele de M<hi rend="sup">r</hi> de Baville-Lamoignon, qui remplit si bien la Charge d’Intendant par l’application qu’il a au service du Roy, &amp; au bien des Peuples, &amp; qui fait mesme plus qu’un Intendant, puis qu’il a déja ramené à l’Eglise plus de quinze cens Personnes. Le Dimanche 16. de ce mois, jour marqué par M<hi rend="sup">r</hi> l’Evesque pour chanter le</hi> Te Deum <hi rend="i">, M<hi rend="sup">r</hi> le Lieutenant General alla au devant de M<hi rend="sup">r</hi> l’Intendant. Ils monterent au Palais, où s’estoient assemblez Messieurs du Présidial, &amp; de là allerent en Robes rouges à la Cathédrale, eu M<hi rend="sup">r</hi> l’Evesque en Habits pontificaux entonna le Te Deum. <hi rend="i">Il fut chanté en Musique au bruit de tout le Canon. Au sortir de là, M<hi rend="sup">r</hi> l’Evesque donna à dîner à quantité de Personnes, &amp; M<hi rend="sup">r</hi> l’Intendant fit une fort grande Feste. Le petit Peuple, attiré par deux Fontaines de Vin qui coulerent tout le jour devant son Hostel, la commença. Vous pouvez juger comment. Ce fut une vraye Bacchanale. La plûpart de ceux qui s’estoient assemblez pour salüer la santé du Roy, bûrent avec excés, &amp; courant les Ruës, celébrerent par les plus grotesques Dances la Naissance du jeune Prince. Lors que le jour commença à finir, on alluma dans toutes les Courts des Lanternes qui estoient attachées aux Murailles de deux pieds en deux pieds, &amp; à doubles rangs. Elles estoient peintes de diférentes couleurs, &amp; ornées des Armes de France, de Baviere, &amp; de Bourgogne. La Maison de M<hi rend="sup">r</hi> l’Intendant a en veuë une Montagne, qui est environ deux mille pas au dela des Murailles de la Ville. Entre la Maison &amp; cette Montagne, sont en terrasse une Court, un Jardin, un Bois planté en Allées, &amp; en suite un Pré. Dans ce Pré estoit une Baterie de douze Pieces de Canon. Les Allées du Jardin estoient éclairées de plusieurs Flambeaux, &amp; de petits Chandeliers pendus à chaque Arbre, &amp; dans le milieu du petit Bois on vit grand nombre de Chandeliers à six branches ; mais ce qui fit le plus bel effet, ce furent quinze grands Buchers disposez en triangle sur la Montagne, qui parut toute en feu lors qu’on les eut allumez. Pendant que ces Feux brûloient, une infinité de Fusées volantes que l’œil avoit peine à suivre, s’élançoient de toutes parts. Il y eut en suite un Feu d’artifice dans le Jardin, avec un nombre prodigieux d’autres Fusées volantes, de Serpenteaux, &amp; de Pots à feu. Tout cela joint à la quantité des Lumieres, qui éclairoient les Courts, le Jardin, le Bois, &amp; enfin la Maison entiere, faisoit un fort bel effet.</hi>
           <quote>
             <lg>
@@ -961,7 +959,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 233-238</biblScope>.</bibl>
         <p>La Lettre qui suit vous instruira des Réjoüissances de Nogent le Roy. Elle est de M<hi rend="sup">r</hi> Bouchet, qui en est l’ancien Curé.</p>
         <quote>
-          <label>A MONSIEUR DE C.…<lb />A Nogent le Roy ce 24. Aoust.</label>
+          <label>A MONSIEUR DE C.…<lb/>A Nogent le Roy ce 24. Aoust.</label>
           <p><hi rend="i">Je vous rends compte, Monsieur, comme vous le souhaitez, de ce qui s’est fait icy pour la Naissance de Monseigneur le Duc de Bourgogne. M<hi rend="sup">r</hi> le Marquis de Cœuvres, Gouverneur de l’Isle de France, nous ayant informé des intentions de Sa Majesté, nous chantâmes solemnellement le</hi> Te Deum <hi rend="i">dans nostre Eglise le Samedy 15. de ce mois avec les plus belles &amp; plus délicates Voix de Paris. Pendant ce temps, on tira du Chasteau vingt-deux coups de Canon ; &amp; toute nostre Jeunesse sous les armes, qui composoit un gros Bataillon d’Infanterie, sit sa décharge à diférentes reprises dans le Carfour de la Ville. En suite, Tambour batant, Enseignes déployées, Méches allumées, au son des Fifres &amp; des Flûtes-douces, qui joüoient de cadence avec les Tambours, on alla en bel ordre dans l’Hipodrome du Chasteau, qui est un lieu fort spatieux &amp; fort régulier, élevé en Terrasse propre à courir la Bague, &amp; à faire le Manége. Là, proche d’un superbe Perron à double rampant, qui fait la face &amp; l’entrée du Chasteau, le petit M<hi rend="sup">r</hi> le Marquis de Belsuns, Neveu de Madame la Comtesse de Nogent, accompagné de M<hi rend="sup">r</hi> Graffart, Bailly de ce Comté, alluma le Feu que l’on avoit préparé. On se servit de ce temps pour faire l’Exercice du Drapeau, de la Pique, &amp; du Mousquet, dont nos Bourgeois s’acquiterent avec beaucoup de grace &amp; d’adresse. Apres cela, du haut d’une seconde Terrasse, qui domine toutes les Vallées, &amp; dont la veuë est tres-agreable, on tira plusieurs coups de Canon, dont les embrazures estoient pratiquées dans des toufes de Buis, de Rosiers, &amp; de Cyprés, qui comme de petits Murs d’appuy, servent à border un magnifique Parterre, qui aboutit à une belle Galerie toute peinte ; &amp; comme en ce beau jour la joye estoit universelle, elle se répandit aussi sur le Clergé. Le jeune Curé de la Ville, &amp; moy, nous mîmes des premiers le feu aux Canons. Ce sont de grosses Pieces de Baterie qui ont esté prises autrefois sur l’Empereur Charles-Quint, &amp; qui sont marquées à ses Armes. Les principaux Officiers du Chasteau, &amp; quelques considérables Bourgeois, firent la mesme chose apres nous, &amp; mirent le feu aux autres Pieces d’Artillerie. Cela fait, toute nostre brave Infanterie fit paroistre encor sa joye par de nouvelles décharges. Le soir on fit des Feux par toute la Ville. Ce ne furent que Festins ; &amp; comme on y bût à rouge bord, on fit force Chansons inpromptu, dont le refrain estoit,</hi></p>
           <quote>
             <lg>
@@ -1040,7 +1038,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 259-261</biblScope>.</bibl>
         <p>Je vous envoye deux nouveaux Sonnets sur la Naissance du jeune Prince. Le premier nous fait entendre qu’il assemblera dans sa personne les diverses qualitez de quatre Fils de France qui ont esté Ducs de Bourgogne, Philippe le Hardy, Jean sans peur, Philippe le Bon, &amp; Charles le Belliqueux.</p>
         <quote>
-          <label>POUR MADAME<lb />LA DAUPHINE,<lb />MARIE-ANNE-VICTOIRE.<lb /><hi rend="sc">Sonnet</hi>.</label>
+          <label>POUR MADAME<lb/>LA DAUPHINE,<lb/>MARIE-ANNE-VICTOIRE.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
             <l rend="i">Peintres, de qui la main ne conduit le Pinceau</l>
             <l rend="i">Que pour peindre LOUIS, la Merveille du Monde,</l>
@@ -1225,7 +1223,7 @@
         <head>[Balade Madame des Houlieres, à M. de Poincty]</head>
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 309-312</biblScope>.</bibl>
         <p>Vous venez de voir dans cette Seconde Partie de ma Lettre une Relation de M<hi rend="sup">r</hi> de Poincti, touchant ce qui s’est passé devant Alger. Cette Relation estoit adressée à Mademoiselle des Houlieres. C’est une Fille qui a beaucoup d’esprit, &amp; de bon goust, &amp; qui écrit aussi bien en Prose que Madame sa Mere écrit en Vers. C’est beaucoup dire ; mais des Personnes tres-éclairées en parlent de cette maniere, &amp; on peut les croire sur leur parole. Si sa modestie ne s’opposoit pas au dessein de ses Amis, qui voudroient bien donner des Copies de ses Ouvrages, ils serviroient d’un grand ornement à mes Lettres. Madame des Houlieres a régalé de cette Balade celuy qui avoit envoyé la Relation d’Alger à Mademoiselle sa Fille.</p>
-        <label>A M<hi rend="sup">r</hi> DE POINCTY,<lb />Commandant dans une des<lb />Galiotes du Roy, nommée<lb /><hi rend="i">la Cruelle</hi>.<lb />BALADE.</label>
+        <label>A M<hi rend="sup">r</hi> DE POINCTY,<lb/>Commandant dans une des<lb/>Galiotes du Roy, nommée<lb/><hi rend="i">la Cruelle</hi>.<lb/>BALADE.</label>
         <quote>
           <lg>
             <l rend="i">Preux Chevalier, sage, &amp; de bon alloy,</l>
@@ -1281,7 +1279,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, seconde partie [<biblScope unit="volume">tome 12</biblScope>], <biblScope unit="page">p. 313-314</biblScope>.</bibl>
         <p>Voicy un Sonnet qu’on fit sur les Bouts-rimez de Pan, dans le temps que les Vaisseaux partoient pour Alger. Il est de M<hi rend="sup">r</hi> Gasquer, Vignier de Lorgues en Provence.</p>
         <quote>
-          <label>SUR LA GUERRE<lb /><hi rend="sc">d’Alger</hi>.</label>
+          <label>SUR LA GUERRE<lb/><hi rend="sc">d’Alger</hi>.</label>
           <lg>
             <l><hi rend="i">Renoncez, Africains, à la fierté du</hi> Pan,</l>
             <l><hi rend="i">On vous fera sauter ainsi que la</hi> Guenuche ;</l>

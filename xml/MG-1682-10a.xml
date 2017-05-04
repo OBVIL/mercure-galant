@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-10a" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-10a" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -761,7 +759,7 @@
         <p/>
         <p>On ne doit pas s’étonner si tous les Peuples s’intéressent à l’envy à celébrer la Naissance de Monseigneur le Duc du Bourgogne. Le Ciel ne pouvoit faire un plus grand don à la France sous le Regne d’un Monarque dont les glorieux exemples sont les plus nobles leçons qui puissent estre données dans l’Art de régner, aux Princes qui naissent de son Sang auguste. La Ballade que je vous envoye, vous marquera d’une maniere plus agreable que je ne fais, combien ce don nous doit estre cher. L’Autheur m’en est inconnu. Quel qu’il puisse estre, il mérite beaucoup de loüanges pour un si galant Ouvrage.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb />de M<hi rend="sup">r</hi> le Duc de Bourgogne.<lb /><hi rend="sc">Ballade.</hi></label>
+          <label>SUR LA NAISSANCE<lb/>de M<hi rend="sup">r</hi> le Duc de Bourgogne.<lb/><hi rend="sc">Ballade.</hi></label>
           <lg>
             <l rend="i">Or est venu dedans nostre Univers</l>
             <l rend="i">Cet Heritier d’un assez bel Empire,</l>
@@ -800,7 +798,7 @@
           </lg>
         </quote>
         <quote>
-          <label>ENVOY<lb />A Madame la Dauphine.</label>
+          <label>ENVOY<lb/>A Madame la Dauphine.</label>
           <lg>
             <l rend="i">Princesse aimable, &amp; d’esprit gratieux,</l>
             <l rend="i">Regardez bien ce qui s’est fait de mieux</l>
@@ -1036,7 +1034,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, première partie [<biblScope unit="volume">tome 11</biblScope>], <biblScope unit="page">p. 153-156</biblScope>.</bibl>
         <p>M<hi rend="sup">r</hi> Amoreux de Digne, Avocat au Parlement d’Aix, a fait les Stances que j’ajoûte à ce Sonnet.</p>
         <quote>
-          <label>A MONSEIGNEUR<lb />LE DUC<lb />DE BOURGOGNE.<lb /><hi rend="sc">Stances</hi>.</label>
+          <label>A MONSEIGNEUR<lb/>LE DUC<lb/>DE BOURGOGNE.<lb/><hi rend="sc">Stances</hi>.</label>
           <lg>
             <l rend="i"> Heureux Rejeton de nos Roys,</l>
             <l rend="i"> Issu de deux illustres Tiges,</l>
@@ -1115,7 +1113,7 @@
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, première partie [<biblScope unit="volume">tome 11</biblScope>], <biblScope unit="page">p. 164-167</biblScope>.</bibl>
         <p>Vous sçavez que Madame la Duchesse de S. Aignan est heureusement accouchée d’un Garçon. Ce jeune Seigneur est d’une Maison où l’esprit brille dés le Berceau. En voicy des marques.</p>
         <quote>
-          <label>COMPLIMENT DU<lb />Comte de S. Aignan, âgé de<lb />deux jours, A Monseigneur<lb />le Duc de Bourgogne, âgé de deux mois.</label>
+          <label>COMPLIMENT DU<lb/>Comte de S. Aignan, âgé de<lb/>deux jours, A Monseigneur<lb/>le Duc de Bourgogne, âgé de deux mois.</label>
           <lg>
             <l rend="i">Auguste Petit-Fils du plus grand Roy du Monde,</l>
             <l rend="i">Je viens de voir le jour pour me donner à vous.</l>
@@ -1252,7 +1250,7 @@
         <p/>
         <p>Il est bon de se faire des Amis de toutes sortes. On tombe quelquefois dans des malheurs, où les moins considérables sont d’un utile secours. M<hi rend="sup">r</hi> Daubaine nous le fait connoistre agreablement par une Fable qu’il a faite depuis peu. Je vous en envoye une Copie.</p>
         <quote>
-          <label>LE LION,<lb />ET LE RAT.<lb />FABLE.</label>
+          <label>LE LION,<lb/>ET LE RAT.<lb/>FABLE.</label>
           <lg>
             <l rend="i"> Au grand plaisir de tout le voisinage,</l>
             <l rend="i"> Sur un tas d’herbe &amp; de feüillage,</l>

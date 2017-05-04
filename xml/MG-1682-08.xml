@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-08" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-08" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -216,7 +214,7 @@
         <bibl><title>Mercure Galant</title>, <date>août 1682</date> [<biblScope unit="volume">tome 8</biblScope>], 1682, <biblScope unit="page">p. 163-165</biblScope>.</bibl>
         <p>[...] Cette Naissance a fait faire quantité de Vers. Je vous en envoye quelques-uns. En voicy de l’illustre Mademoiselle de Scudéry.</p>
         <quote>
-          <label><hi rend="sc">A Monseigneur</hi><lb />LE DUC DE BOURGOGNE.</label>
+          <label><hi rend="sc">A Monseigneur</hi><lb/>LE DUC DE BOURGOGNE.</label>
           <lg>
             <l rend="i">Venez, heureux Enfant, venez à la lumiere,</l>
             <l rend="i">Vous allez commencer une illustre carriere,</l>
@@ -247,7 +245,7 @@
         <p/>
         <p>Les deux Sonnets que vous allez voir, sont de deux Autheurs, à qui leurs Ouvrages ont acquis beaucoup de gloire. Le premier est de M<hi rend="sup">r</hi> Boyer, &amp; le second de M<hi rend="sup">r</hi> le Clerc, tous deux de l’Académie Françoise.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb /><hi rend="sc">de Monseigneur</hi><lb />LE DUC DE BOURGOGNE.<lb /><hi rend="sc">Sonnet.</hi></label>
+          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE BOURGOGNE.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
             <l rend="i">Quel éclat surprenant, quelle clarté nouvelle</l>
             <l rend="i">Se répand aujourd’huy sur l’Empire François !</l>
@@ -275,7 +273,7 @@
           </lg>
         </quote>
         <quote>
-          <label>A MONSEIGNEUR<lb />ET A MADAME<lb />LA DAUPHINE.<lb />SONNET.</label>
+          <label>A MONSEIGNEUR<lb/>ET A MADAME<lb/>LA DAUPHINE.<lb/>SONNET.</label>
           <lg>
             <l rend="i">Prince chery du Ciel, Fils du plus grand des Roys,</l>
             <l rend="i">Qui ne voit que par Luy sa puissance bornée ;</l>
@@ -512,7 +510,7 @@
         <p/>
         <p>M<hi rend="sup">r</hi> Boursault a fait le premier des deux Sonnets que je vous envoye encor sur cette Naissance. Le second est de M<hi rend="sup">r</hi> Richebourg.</p>
         <quote>
-          <label>AU ROY,<lb />Sur la Naissance de Monseigneur<lb />le Duc de Bourgogne.<lb />SONNET.</label>
+          <label>AU ROY,<lb/>Sur la Naissance de Monseigneur<lb/>le Duc de Bourgogne.<lb/>SONNET.</label>
           <lg>
             <l rend="i">Grand Roy, sur qui le Ciel répand grace sur grace,</l>
             <l rend="i">Il ne manque plus rien à ta félicité ;</l>
@@ -540,7 +538,7 @@
           </lg>
         </quote>
         <quote>
-          <label>A MADAME<lb />LA DAUPHINE.<lb /><hi rend="sc">Sonnet.</hi></label>
+          <label>A MADAME<lb/>LA DAUPHINE.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
             <l rend="i">Merveille de nos jours, adorable VICTOIRE,</l>
             <l rend="i">Dont la fécondité fait l’espoir des François ;</l>
@@ -574,7 +572,7 @@
         <p/>
         <p>Je réserve pour une autre fois un fort grand nombre de Vers qui m’ont esté envoyez sur le mesme sujet, &amp; vous n’aurez plus que ce Madrigal dans cette Relation.</p>
         <quote>
-          <label>SUR L’HEUREUX<lb /><hi rend="sc">accouchement de Madame</hi><lb />LA DAUPHINE.</label>
+          <label>SUR L’HEUREUX<lb/><hi rend="sc">accouchement de Madame</hi><lb/>LA DAUPHINE.</label>
           <lg>
             <l rend="i">Ce Prince plus beau que le jour,</l>
             <l rend="i">Qui selon nos vœux vient de naître,</l>

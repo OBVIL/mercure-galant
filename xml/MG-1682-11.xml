@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-11" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-11" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +54,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 1-4</biblScope>.</bibl>
         <p>Si je ne commence point aujourd’huy ma Lettre par un Eloge du Roy, je croy, Madame, que vous serez aisément persuadée que ce n’est point la matiere qui me manque. Je ne vous écris que tous les mois ; &amp; ce que ce grand Monarque fait chaque jour, donne de nouveaux sujets de le loüer ; mais le moyen d’oser l’entreprendre, quand on a l’esprit remply du Sonnet que vous allez lire ? Il est de M<hi rend="sup">r</hi> Magnin, Conseiller au Bailliage &amp; Siege Présidial de Mâcon.</p>
         <quote>
-          <label>SONNET<lb />Sur ce qu’on ne peut loüer<lb />dignement le Roy.</label>
+          <label>SONNET<lb/>Sur ce qu’on ne peut loüer<lb/>dignement le Roy.</label>
           <lg>
             <l rend="i">Pour chanter dignement le plus grand des Humains,</l>
             <l rend="i">Cessez d’importuner les Filles de Mémoire.</l>
@@ -127,7 +125,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 49-51</biblScope>.</bibl>
         <p>Des deux Sonnets que j’adjoûte à cette Relation, M<hi rend="sup">r</hi> Vignier de Richelieu a fait le second sur des Boutsrimez qu’on luy donna sitost qu’on sçeut que Madame la Dauphine estoit accouchée d’un Prince.</p>
         <quote>
-          <label>SUR LA LUMIERE QUI<lb />parut en l’air la nuit que Monseigneur<lb />le Duc de Bourgogne vint au monde.<lb /><hi rend="sc">Sonnet</hi>.</label>
+          <label>SUR LA LUMIERE QUI<lb/>parut en l’air la nuit que Monseigneur<lb/>le Duc de Bourgogne vint au monde.<lb/><hi rend="sc">Sonnet</hi>.</label>
           <lg>
             <l rend="i">Quand le Ciel veut donner un Héros à la Terre,</l>
             <l rend="i">Souvent il le prédit par des Signes divers.</l>
@@ -159,7 +157,7 @@
         <head>[Autre Sonnet]</head>
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 52-53</biblScope>.</bibl>
         <quote>
-          <label>HOROSCOPE<lb />DE MONSEIGNEUR<lb />le Duc de Bourgogne.</label>
+          <label>HOROSCOPE<lb/>DE MONSEIGNEUR<lb/>le Duc de Bourgogne.</label>
           <lg>
             <l><hi rend="i">Tu seras plus aimé que l’on n’aima</hi> Titus,</l>
             <l><hi rend="i">Tes vertus prévaudront sur celles de</hi> Socrate ;</l>
@@ -192,7 +190,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 53-63</biblScope>.</bibl>
         <p>Chacun tâche d’épurer son stile, &amp; d’élever ses pensées, en parlant du Roy &amp; de la Maison Royale. Cependant il y a des manieres de loüer en langage du Païs, qui ne manquent pas de graces, &amp; on trouve quelquefois autant d’agrément à ce stile naturel, qu’aux expressions les plus relevées. Voicy un Dialogue Périgordin, qui a donné beaucoup de plaisir à une fort grande Compagnie. Il fut recité dans la Tragédie que les Ecoliers du College des Jesuites de Périgueux représenterent dans le temps qu’on y celébra la Naissance du jeune Prince.</p>
         <quote>
-          <label>DIALOGUÉ<lb />DE TREI BARGIÉ<lb /><hi rend="sc">Perigourdi</hi>,<lb />Nomna <hi rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb />Sur là Coucha de Madamo lo Daufino,<lb />d’un Fir que s’apello Monseigneur<lb />lou Du de Bourgoüigno.</label>
+          <label>DIALOGUÉ<lb/>DE TREI BARGIÉ<lb/><hi rend="sc">Perigourdi</hi>,<lb/>Nomna <hi rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb/>Sur là Coucha de Madamo lo Daufino,<lb/>d’un Fir que s’apello Monseigneur<lb/>lou Du de Bourgoüigno.</label>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
             <l rend="i">Vautrey, qué dizé-vou ? que dizey-tu, Frontou,</l>
@@ -268,7 +266,7 @@
             <l rend="i">Un parey de Pouley, &amp; dedi un Panié</l>
             <l rend="i">Dougé Froumagey gras quello gardo au Granié.</l>
           </lg>
-          <label type="speaker">FRANCEY. Il fort le<lb />dernier.</label>
+          <label type="speaker">FRANCEY. Il fort le<lb/>dernier.</label>
           <lg>
             <l rend="i">Guillaumé, &amp; tu Frontou, vautrey m’avé lo mino</l>
             <l rend="i">De parla del Efan de lo Dame Daufino.</l>
@@ -324,7 +322,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 76-80</biblScope>.</bibl>
         <p>On vient de me donner un Rondeau, dont je vous fais part dans le mesme instant. Il est d’un Autheur qui a eu raison de le faire en vieux langage, par complaisance pour un vieux Parent. Ce Parent estoit un Homme d’un caractere aussi extraordinaire qu’on en puisse voir. L’antiquité luy plaisoit en toutes choses, jusques là qu’il ne s’aima jamais tant que lors qu’il se vit la barbe grise. Ses Habits, ses Meubles, tout sentoit le temps de François I. Il se mesloit de rimer, &amp; les Poësies de Baïf estoient son modele. Sa Bibliotheque aussi singuliere que son esprit, estoit composée de tout ce qu’il avoit pû trouver de vieux Romanciers. Il avoit Marot &amp; du Bartas, quoy qu’il les trouvast un peu modernes, sans oublier Ronsard, qu’il réveroit particulierement comme le Prince des Poetes François. Il avoit aussi les Oeuvres de Sarazin &amp; de Voiture ; mais il ne les estimoit qu’à cause des Rondeaux &amp; des Ballades qu’ils avoient meslez parmy leurs Ouvrages. Il traitoit les belles Lettres du dernier de bagatelles, propres seulement pour amuser les jeunes Esprits ; mais il admiroit les Lettres Gauloises que le mesme Autheur a écrites au Comte Guicheüs, au Chevalier de l’Isle invisible. Le bon Homme qui n’a point démenty cette belle inclination tant qu’il a vécu, l’a conservée encor en mourant, puis qu’il a legué par son Testament une somme considérable à l’Autheur du Rondeau que je vous envoye, à la charge qu’il en feroit un certain nombre en stile Gaulois, ou de Ballades. Si les Ballades estoient de son goust, il seroit blâmable, si estant son Légataire, il négligeoit d’accomplir ses dernieres volontez.</p>
         <quote>
-          <label>RONDEAU<lb />en vieux Langage.</label>
+          <label>RONDEAU<lb/>en vieux Langage.</label>
           <lg>
             <l rend="i">Le voudrois moult que ma mignarde Ocelle</l>
             <l rend="i">Voulust s’ébatre és Behours, és Tournois ;</l>
@@ -355,7 +353,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 80-83</biblScope>.</bibl>
         <p>Voicy d’autres Vers que vous trouverez fort agreables. Vous sçavez, Madame, que selon les Poëtes, chaque Fontaine a sa Nymphe. Vous serez peut estre bien aise d’en entendre parler une à une Personne aussi distinguée par son mérite que par sa naissance.</p>
         <quote>
-          <label>LA NYMPHE<lb />DE BOURBON,<lb />A M<hi rend="sup">me</hi> la Duchesse de Nevers.</label>
+          <label>LA NYMPHE<lb/>DE BOURBON,<lb/>A M<hi rend="sup">me</hi> la Duchesse de Nevers.</label>
           <lg>
             <l rend="i">Depuis que je fournis du secours aux Humains,</l>
             <l rend="i"> Et que je verse à pleines mains</l>
@@ -397,7 +395,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 84-86</biblScope>.</bibl>
         <p>Le nom de Mademoiselle de Castille vous est connu par beaucoup de jolis Vers que je vous ay envoyez de sa façon dans plusieurs de mes Lettres. Elle revenoit il y a quelque temps d’Arnouvillé à Paris en fort bonne compagnie, &amp; fut priée de donner un Inpromptu sur deux Papillons qui se poursuivoient dans la Campagne, en tournant l’un sur l’autre. Voicy le Madrigal qu’elle fit.</p>
         <quote>
-          <label>MADRIGAL<lb />A LYSETE.</label>
+          <label>MADRIGAL<lb/>A LYSETE.</label>
           <lg>
             <l rend="i">Voy ces deux Papillons se fuir &amp; se poursuivre,</l>
             <l rend="i">Et l’un sur l’autre en l’air faisant mille retours,</l>
@@ -440,7 +438,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 95-98</biblScope>.</bibl>
         <p>Rien ne peut mieux suivre ces Réjoüissances, que les Vers que vous allez lire. Ils ont esté faits par M<hi rend="sup">r</hi> Rault de Roüen, dont vous estimez les Ouvrages.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb /><hi rend="sc">de Monseigneur</hi><lb />LE DUC DE BOURGOGNE<lb />Ab Jove Principium.</label>
+          <label>SUR LA NAISSANCE<lb/><hi rend="sc">de Monseigneur</hi><lb/>LE DUC DE BOURGOGNE<lb/>Ab Jove Principium.</label>
           <lg>
             <l rend="i">France, cet heureux jour, qui doit marquer ta joye,</l>
             <l rend="i">Est celuy du bonheur qu’un Astre heureux i’envoye,</l>
@@ -474,7 +472,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 98-99</biblScope>.</bibl>
         <p>Ce qui suit est encor de M<hi rend="sup">r</hi> Rault.</p>
         <quote>
-          <label>SUR LA MESME<lb /><hi rend="sc">Naissance</hi>.</label>
+          <label>SUR LA MESME<lb/><hi rend="sc">Naissance</hi>.</label>
           <lg>
             <l>Principe jam nato jactet se Gallia ; nam se</l>
             <l>Hic Patre Delphino, Regéque jactat avo.</l>
@@ -535,7 +533,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 136-139</biblScope>.</bibl>
         <p>Voicy un Sonnet que j’ay reçeu sur le sujet de la Haye d’Epines que je proposay il y a quelques mois dans une de mes Lettres. Je n’ay pû vous l’envoyer plutost, à cause d’un grand nombre d’Articles ausquels il m’a falu donner place.</p>
         <quote>
-          <label>SONNET<lb />Sur une Haye d’Epines.</label>
+          <label>SONNET<lb/>Sur une Haye d’Epines.</label>
           <lg>
             <l rend="i">Trop injuste Chasseur, où vous emportez-vous ?</l>
             <l rend="i">Je garantis mon Champ, mes Moutons, &amp; mes Pailles ;</l>
@@ -569,7 +567,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 155-162</biblScope>.</bibl>
         <p>Voicy une Fable nouvelle. Elle est de M<hi rend="sup">r</hi> du Ruisseau. Vous n’avez point encore oüy parler de cet Autheur, mais son esprit vous le fera bientost connoistre.</p>
         <quote>
-          <label>LES ARBRES<lb />CHOISIS<lb />PAR LES DIEUX.<lb />FABLE.</label>
+          <label>LES ARBRES<lb/>CHOISIS<lb/>PAR LES DIEUX.<lb/>FABLE.</label>
           <lg>
             <l rend="i">Les Arbres autrefois des Hommes se plaignirent.</l>
             <l rend="i">Ce fut à Jupiter ; &amp; voicy ce qu’ils dirent.</l>
@@ -831,7 +829,7 @@
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 356-358</biblScope>.</bibl>
         <p>J’avois commencé la description de ces brillantes Soirées, &amp; je desesperois d’en bien faire la peinture, lors qu’il m’est tombé entre les mains des Vers de M<hi rend="sup">r</hi> le Duc de Saint Aignan sur ce sujet. J’en ay esté tellement frapé, que je n’ay pas crû que ma Prose pust avoir aupres de ces Vers, d’autre agrément que celuy de la matiere. Ainsi je reserve pour le mois prochain, la description que j’avois résolu d’en donner à ma maniere. Comme M<hi rend="sup">r</hi> de S. Aignan envoya ses Vers à Madame de Maintenon, aussi-tost qu’il les eut faits, je ne doute point que vous ne soyez bien aise de voir la Lettre dont il les accompagna.</p>
         <quote>
-          <label>A MADAME<lb />LA MARQUISE<lb />DE MAINTENON.</label>
+          <label>A MADAME<lb/>LA MARQUISE<lb/>DE MAINTENON.</label>
           <p><hi rend="sc"><hi rend="i">Madame</hi></hi>,</p>
           <p><hi rend="i">Quoy que vous soyez fort genéreuse, je ne laisse pas d’avoir lieu de craindre que vous n’approuviez pas la liberté que je prens aujourd’huy ; &amp; je n’ay pas moins de sujet d’appréhender la délicatesse de vostre esprit pour ce que j’ose vous envoyer. Ainsi vous voyez, MADAME, que j’ay besoin de vostre indulgence en plus d’une maniere. Je n’ay pû me résoudre à donner au Roy les Vers que je viens de faire sur ce que je vis hyer avec admiration. Je ne crains pourtant pas, Madame, qu’ils puissent faire tort à ma gloire, puis que leur but est celle de Sa Majesté. Ménagez, s’il vous plaist, la premiere en faveur de l’autre ; &amp; soyez persuadée que j’en trouveray toûjours beaucoup à vous témoigner en toutes occasions que je suis avec une parfaite estime &amp; un veritable respect</hi>,</p>
           <p><hi rend="i">MADAME</hi>,</p>
@@ -842,7 +840,7 @@
         <head>Sur la Beauté des Apartemens du Roy à Versailles […]</head>
         <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 359-368</biblScope>.</bibl>
         <quote>
-          <label>SUR LA BEAUTÉ DES<lb />Apartemens du Roy à Versailles,<lb />&amp; sur les Divertissemens<lb />que Sa Majesté y donne<lb />à toute sa Cour.</label>
+          <label>SUR LA BEAUTÉ DES<lb/>Apartemens du Roy à Versailles,<lb/>&amp; sur les Divertissemens<lb/>que Sa Majesté y donne<lb/>à toute sa Cour.</label>
           <lg>
             <l rend="i">Nous sçavions que LOVIS s’estoit couvert de gloire</l>
             <l rend="i">Par mille grands Exploits d’éternelle mémoire,</l>
