@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-10a" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xml:id="MG-1682-10a" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,7 +32,7 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -72,7 +74,7 @@
         <quote>
           <lg>
             <l rend="i">Sufficit hic terris.</l>
-        </lg>
+          </lg>
         </quote>
         <p/>
         <p>Ces deux Hemistiches sont tirez d’un Panégyrique de Sidonius Apollinaris. M<hi rend="sup">r</hi> Bompart le Cadet, a donné l’explication de cette Devise par ce Madrigal.</p>
@@ -91,7 +93,10 @@
             <l rend="i">Et si tout cede enfin au Bras victorieux</l>
             <l rend="i">  De ce Foudre de guerre,</l>
             <l rend="i">Soleil, n’éclaire plus désormais que les Cieux,</l>
-            <l><hi rend="sc">Loüis le Grand</hi> <hi rend="i">suffit pour éclairer la Terre.</hi></l>
+            <l>
+              <hi rend="sc">Loüis le Grand</hi>
+              <hi rend="i">suffit pour éclairer la Terre.</hi>
+            </l>
           </lg>
         </quote>
       </div>
@@ -142,21 +147,51 @@
         <p>Le soir on fit joüer le Feu d’artifice. C’étoit une Pyramide quadrangulaire que les Magistrats avoient fait dresser, parce que selon l’usage des Anciens, cette sorte de monument estant consacré au Soleil, ils avoient occasion d’y faire éclater le Symbole du Roy. Cette Pyramide estoit élevée sur un Perron orné d’une Balustrade, &amp; soûtenuë sur une Base d’onze ou douze pieds de haut. Elle portoit sur quatre Dauphins, qui des quatre coins de la Pyramide devoient jetter une pluye d’or, &amp; elle estoit surmontée d’un Globe semé de Fleurs-de-Lys, sur lequel estoit posé un Soleil, représentant le Roy avec sa Devise. Sa hauteur depuis la Base, alloit à plus de soixante pieds. Cette Base estoit chargée de Devises, dont les mots Latins estoient expliquez par des Vers François. Le haut de la premiere Face avoit cette Inscription,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Serenissimo</hi></l>
-            <l><hi rend="sc">Burgundiæ Duci,</hi></l>
-            <l><hi rend="sc">Ludovici Magni</hi></l>
-            <l><hi rend="sc">Et Theresiæ Austriacæ</hi></l>
-            <l><hi rend="sc">Nepoti,</hi></l>
-            <l><hi rend="sc">Ludovici Galliarum Delphini</hi></l>
-            <l><hi rend="sc">Et Mariæ Bavariæ</hi></l>
-            <l><hi rend="sc">Filio,</hi></l>
-            <l><hi rend="sc">Hanc Pyramidem,</hi></l>
-            <l><hi rend="sc">Perituram quidem ignibus,</hi></l>
-            <l><hi rend="sc">Pignus tamen suæ in Regem</hi></l>
-            <l><hi rend="sc">optimum</hi></l>
-            <l><hi rend="sc">Fidei numquam perituræ,</hi></l>
-            <l><hi rend="sc">MagIstratVs DoLanVs et CIVes</hi></l>
-            <l><hi rend="sc">EreXerVnt.</hi></l>
+            <l>
+              <hi rend="sc">Serenissimo</hi>
+            </l>
+            <l>
+              <hi rend="sc">Burgundiæ Duci,</hi>
+            </l>
+            <l>
+              <hi rend="sc">Ludovici Magni</hi>
+            </l>
+            <l>
+              <hi rend="sc">Et Theresiæ Austriacæ</hi>
+            </l>
+            <l>
+              <hi rend="sc">Nepoti,</hi>
+            </l>
+            <l>
+              <hi rend="sc">Ludovici Galliarum Delphini</hi>
+            </l>
+            <l>
+              <hi rend="sc">Et Mariæ Bavariæ</hi>
+            </l>
+            <l>
+              <hi rend="sc">Filio,</hi>
+            </l>
+            <l>
+              <hi rend="sc">Hanc Pyramidem,</hi>
+            </l>
+            <l>
+              <hi rend="sc">Perituram quidem ignibus,</hi>
+            </l>
+            <l>
+              <hi rend="sc">Pignus tamen suæ in Regem</hi>
+            </l>
+            <l>
+              <hi rend="sc">optimum</hi>
+            </l>
+            <l>
+              <hi rend="sc">Fidei numquam perituræ,</hi>
+            </l>
+            <l>
+              <hi rend="sc">MagIstratVs DoLanVs et CIVes</hi>
+            </l>
+            <l>
+              <hi rend="sc">EreXerVnt.</hi>
+            </l>
           </lg>
         </quote>
         <p/>
@@ -199,7 +234,9 @@
         <p>La premiere Face estoit dédiée au Roy, &amp; avoit pour titre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Ludovicus Magnus</hi></l>
+            <l>
+              <hi rend="sc">Ludovicus Magnus</hi>
+            </l>
             <l> <hi rend="sc">Sol splendidissimus.</hi></l>
           </lg>
         </quote>
@@ -208,7 +245,9 @@
         <p>Le premier Emblême, qui représentoit l’ordre admirable du Gouvernement du Roy, estoit un Apollon sur son Char, traîné par quatre Chevaux, &amp; parcourant les Signes du Zodiaque,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Æquus moderatur habenas.</hi></l>
+            <l>
+              <hi rend="sc">Æquus moderatur habenas.</hi>
+            </l>
             <l rend="i">Toûjours avec justesse il gouverne son Char.</l>
           </lg>
         </quote>
@@ -216,7 +255,9 @@
         <p>La premiere Devise, un Soleil élevé sur l’horison,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Videt omnia primus.</hi></l>
+            <l>
+              <hi rend="sc">Videt omnia primus.</hi>
+            </l>
             <l rend="i">Il voit tout le premier, rien n’échape à ses yeux.</l>
           </lg>
         </quote>
@@ -224,7 +265,9 @@
         <p>La seconde, une Cassolete où brûloit de l’Encens,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Aris fundit opes.</hi></l>
+            <l>
+              <hi rend="sc">Aris fundit opes.</hi>
+            </l>
             <l rend="i">Pour l’honneur des Autels, je répans mes richesses.</l>
           </lg>
         </quote>
@@ -233,7 +276,9 @@
         <p>La troisiéme, un grand Laurier, d’où sortent deux Rejetons, l’un plus grand que l’autre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Honos duplex adnascitur.</hi></l>
+            <l>
+              <hi rend="sc">Honos duplex adnascitur.</hi>
+            </l>
             <l rend="i">D’un double Rejetton il augmente sa gloire.</l>
           </lg>
         </quote>
@@ -242,7 +287,9 @@
         <p>La quatriéme, une Main qui tient une Balance dans un juste équilibre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Examine librat.</hi></l>
+            <l>
+              <hi rend="sc">Examine librat.</hi>
+            </l>
             <l rend="i">C’est par moy qu’on connoît ce que vaut chaque chose.</l>
           </lg>
         </quote>
@@ -264,7 +311,9 @@
         <p>La premiere Devise, un Fleuve, dont les Eaux se sont grossies, &amp; qui estant devenu plus grand, plus on luy a opposé de Dignes, a eu ensuite un cours plus rapide,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Auxere repagula vires.</hi></l>
+            <l>
+              <hi rend="sc">Auxere repagula vires.</hi>
+            </l>
             <l rend="i">La résistance accroist son cours impétueux.</l>
           </lg>
         </quote>
@@ -272,7 +321,9 @@
         <p>La seconde, une Lionne accompagnée de ses Petits, qu’elle regarde d’un œil doux, sans perdre sa fierté,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Fortior ex prole.</hi></l>
+            <l>
+              <hi rend="sc">Fortior ex prole.</hi>
+            </l>
             <l rend="i">En voyant mes Petits, je sens croistre ma force.</l>
           </lg>
         </quote>
@@ -280,7 +331,9 @@
         <p>La troisiéme, une Aigle, attaquée de plusieurs Oyseaux moindres qu’elle,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Nec pluribus impar.</hi></l>
+            <l>
+              <hi rend="sc">Nec pluribus impar.</hi>
+            </l>
             <l rend="i">Je les vaux tous, unis ensemble.</l>
           </lg>
         </quote>
@@ -288,7 +341,9 @@
         <p>La quatriéme, un Foudre qui frape &amp; abat le sommet d’une Montagne,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">In culmina sævit.</hi></l>
+            <l>
+              <hi rend="sc">In culmina sævit.</hi>
+            </l>
             <l rend="i">Il tombe avec éclat sur les Monts orgueilleux.</l>
           </lg>
         </quote>
@@ -297,16 +352,24 @@
         <p>La troisiéme Face qui estoit pour Monseigneur le Dauphin, avoit ce titre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Primum parhelium</hi></l>
-            <l><hi rend="sc">Ludovicus Galliæ</hi></l>
-            <l><hi rend="sc">Delphinus.</hi></l>
+            <l>
+              <hi rend="sc">Primum parhelium</hi>
+            </l>
+            <l>
+              <hi rend="sc">Ludovicus Galliæ</hi>
+            </l>
+            <l>
+              <hi rend="sc">Delphinus.</hi>
+            </l>
           </lg>
         </quote>
         <p/>
         <p>Le premier Emblême estoit le Soleil instruisant son Fils Phaéton, de la maniere dont il faloit gouverner son Char.</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Medio tutissimus ibis.</hi></l>
+            <l>
+              <hi rend="sc">Medio tutissimus ibis.</hi>
+            </l>
             <l rend="i">En tenant le milieu, vous irez seûrement.</l>
           </lg>
         </quote>
@@ -315,7 +378,9 @@
         <p>La premiere Devise, une de ces Fleurs qui portent des lettres sur leurs feüilles,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">A teneris.</hi></l>
+            <l>
+              <hi rend="sc">A teneris.</hi>
+            </l>
             <l rend="i">Les beaux Arts furent ses amours</l>
             <l rend="i">Dés sa jeunesse la plus tendre.</l>
           </lg>
@@ -324,7 +389,9 @@
         <p>La seconde, une Couronne de Laurier,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Principis hæc decus est.</hi></l>
+            <l>
+              <hi rend="sc">Principis hæc decus est.</hi>
+            </l>
             <l rend="i"> Qu’on la prenne sur le Parnasse,</l>
             <l rend="i"> Qu’on la porte comme Guerrier,</l>
             <l rend="i"> Une Couronne de Laurier</l>
@@ -335,7 +402,9 @@
         <p>La troisiéme, trois Dards liez,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Rumpere difficile est.</hi></l>
+            <l>
+              <hi rend="sc">Rumpere difficile est.</hi>
+            </l>
             <l rend="i">Ils sont trop bien unis ; qui peut les séparer ?</l>
           </lg>
         </quote>
@@ -343,7 +412,9 @@
         <p>La quatriéme, un Oyseau de Paradis, qui prend son essor vers le Ciel,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Quo non ascendet.</hi></l>
+            <l>
+              <hi rend="sc">Quo non ascendet.</hi>
+            </l>
             <l rend="i">Par son vol genéreux, où n’atteindra-t-il pas ?</l>
           </lg>
         </quote>
@@ -352,7 +423,9 @@
         <p>Le second Emblême estoit un Aiglon, victorieux de quelques Dragons, &amp; regardant le Soleil fixement,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Se probat obtutu.</hi></l>
+            <l>
+              <hi rend="sc">Se probat obtutu.</hi>
+            </l>
             <l rend="i">Par ses hardis regards, cet Aigle nous exprime</l>
             <l rend="i">Que des Monstres vaincus dans ses premiers essais,</l>
             <l rend="i">Pres de l’Astre du Jour luy donnent libre accés,</l>
@@ -364,7 +437,9 @@
         <p>La premiere Devise est pour Madame la Dauphine. Un Arbre chargé de Fruits,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Gratior ob fructum.</hi></l>
+            <l>
+              <hi rend="sc">Gratior ob fructum.</hi>
+            </l>
             <l rend="i">S’il se charge de Fruits, il en devient plus beau.</l>
           </lg>
         </quote>
@@ -372,14 +447,18 @@
         <p>La seconde, encor pour cette Princesse. Un Grénadier chargé de Grénades,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">C’est mon fruit qui me couronne.</hi></l>
+            <l>
+              <hi rend="sc">C’est mon fruit qui me couronne.</hi>
+            </l>
           </lg>
         </quote>
         <p/>
         <p>La troisiéme, un Miroir exposé au Soleil, qui recevant tous ses rayons, va former un autre Soleil dans un autre Miroir,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Acceptum reddit.</hi></l>
+            <l>
+              <hi rend="sc">Acceptum reddit.</hi>
+            </l>
             <l rend="i">Ce qu’il rend est égal à ce qu’il a reçeu.</l>
           </lg>
         </quote>
@@ -387,7 +466,9 @@
         <p>La quatrieme, un Dauphin qui s’élance dans les eaux, si-tost qu’il a entendu le son d’un Lut,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Simul ac audivit.</hi></l>
+            <l>
+              <hi rend="sc">Simul ac audivit.</hi>
+            </l>
             <l rend="i">A ce son agreable il tressaille de joye.</l>
           </lg>
         </quote>
@@ -396,15 +477,21 @@
         <p>La quatriéme Face, pour Monseigneur le Duc de Bourgogne, avec ce titre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Secundum parhelium</hi></l>
-            <l><hi rend="sc">Serenissimus Dux Burgundiæ</hi></l>
+            <l>
+              <hi rend="sc">Secundum parhelium</hi>
+            </l>
+            <l>
+              <hi rend="sc">Serenissimus Dux Burgundiæ</hi>
+            </l>
           </lg>
         </quote>
         <p/>
         <p>Le premier Emblême. Les deux Bourgognes, figurées par leurs Blasons, &amp; se tenant par la main, portoient au Berceau du Prince les Lauriers des anciens Ducs de Bourgogne, &amp; se dévoüoient à son service,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Claro cognomine gaudent.</hi></l>
+            <l>
+              <hi rend="sc">Claro cognomine gaudent.</hi>
+            </l>
             <l rend="i">Leur nom qu’on fait porter au Prince nouveau né,</l>
             <l rend="i">Les comble d’un plaisir extréme.</l>
           </lg>
@@ -413,7 +500,9 @@
         <p>La premiere Devise, un Fleuve qui retourne à la Mer,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Huc redit unde ortvm est.</hi></l>
+            <l>
+              <hi rend="sc">Huc redit unde ortvm est.</hi>
+            </l>
             <l rend="i">On le voit à la fin retourner à sa source.</l>
           </lg>
         </quote>
@@ -422,7 +511,9 @@
         <p>La seconde, un Miroir ardent, qui refléchit plus de lumieres qu’il ne paroist en avoir receu,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Splendorem reddet et addet.</hi></l>
+            <l>
+              <hi rend="sc">Splendorem reddet et addet.</hi>
+            </l>
             <l rend="i">Tout l’éclat qu’il reçoit, il le rend, &amp; l’augmente.</l>
           </lg>
         </quote>
@@ -431,7 +522,9 @@
         <p>La troisiéme, deux Tulipes, qui ayant esté fermées pendant la nuit, se r’ouvrent au lever du Soleil,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Reddita forma prior.</hi></l>
+            <l>
+              <hi rend="sc">Reddita forma prior.</hi>
+            </l>
             <l rend="i">Nous recouvrons enfin nostre ancien éclat.</l>
           </lg>
         </quote>
@@ -440,7 +533,9 @@
         <p>La quatriéme la Toison d’or, suspenduë à un Arbre, &amp; brillant dans l’air,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Fulget alumno.</hi></l>
+            <l>
+              <hi rend="sc">Fulget alumno.</hi>
+            </l>
             <l rend="i">Je brille pour celuy qui pour moy vient de naître.</l>
           </lg>
         </quote>
@@ -448,7 +543,9 @@
         <p>Le second Emblême représentoit des Persans, qui adoroient le Soleil levant,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Jam quantus in ortu est.</hi></l>
+            <l>
+              <hi rend="sc">Jam quantus in ortu est.</hi>
+            </l>
             <l rend="i"> Quelle sera vostre beauté,</l>
             <l rend="i">Astre dont le lever faisoit nostre espérance !</l>
             <l rend="i">Si vos premiers regards ont tant de majesté,</l>
@@ -460,7 +557,9 @@
         <p>La premiere Devise, des Fleurs épanoüyes au lever du Soleil,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Vt sensere.</hi></l>
+            <l>
+              <hi rend="sc">Vt sensere.</hi>
+            </l>
             <l rend="i">Il se montre, &amp; l’on voit que tout s’épanoüit.</l>
           </lg>
         </quote>
@@ -468,7 +567,9 @@
         <p>La seconde, un Fleuve au commencement de sa source.</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Crescet eundo.</hi></l>
+            <l>
+              <hi rend="sc">Crescet eundo.</hi>
+            </l>
             <l rend="i">On verra dans son court sa grandeur augmentée.</l>
           </lg>
         </quote>
@@ -476,7 +577,9 @@
         <p>La troisiéme, un Girasol, qui panche du costé du Soleil,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Quo cunque sequar.</hi></l>
+            <l>
+              <hi rend="sc">Quo cunque sequar.</hi>
+            </l>
             <l rend="i">Je vous suivray par tout où je pourray vous voir.</l>
           </lg>
         </quote>
@@ -484,7 +587,9 @@
         <p>La quatriéme, une Colomne.</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Columenque decusque.</hi></l>
+            <l>
+              <hi rend="sc">Columenque decusque.</hi>
+            </l>
             <l rend="i">Et je sers d’ornement, &amp; je sers de soûtien.</l>
           </lg>
         </quote>
@@ -608,7 +713,9 @@
         <p>Le reste de la Pyramide, enrichy de divers agrémens de Peinture, se faisoit aussi admirer par quantité d’Inscriptions Chronographiques. En voicy une, qui aussi bien que les dernieres paroles de la grande Inscription que j’ay rapportée d’abord, signifioit en fort peu de mots l’année qui donne à la France un Prince qu’elle souhaitoit avec tant d’ardeur.</p>
         <quote>
           <lg>
-            <l><hi rend="sc">LVDoVICVs MagnVs fit aVVus.</hi></l>
+            <l>
+              <hi rend="sc">LVDoVICVs MagnVs fit aVVus.</hi>
+            </l>
           </lg>
         </quote>
         <p/>
@@ -656,7 +763,9 @@
         <p>La premiere avoit pour corps trois Fleurs-de-Lys, qui représentoient le Roy, Monseigneur le Dauphin, &amp; le jeune Prince. Ces paroles luy servoient d’ame,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Numero Deus impare gaudet.</hi></l>
+            <l>
+              <hi rend="sc">Numero Deus impare gaudet.</hi>
+            </l>
             <l rend="i">Le nombre de nos Lys &amp; de nos Demy-Dieux,</l>
             <l rend="i"> Est un nombre agreable aux Cieux.</l>
           </lg>
@@ -665,7 +774,9 @@
         <p>La seconde, un Amour avec une Fleche à la main, &amp; ces mots Italiens,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Non e’ il minore de gli Dei.</hi></l>
+            <l>
+              <hi rend="sc">Non e’ il minore de gli Dei.</hi>
+            </l>
             <l rend="i"> Ce n’est pas le moindre des Dieux,</l>
             <l rend="i">Ce petit Dieu d’Amour, qui ne vient que de naître.</l>
             <l rend="i">Déja l’on reconnoît sa grandeur en tous lieux.</l>
@@ -677,7 +788,9 @@
         <p>La troisiéme, un Jet d’eau au pied des Montagnes,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">E montibus altior exit.</hi></l>
+            <l>
+              <hi rend="sc">E montibus altior exit.</hi>
+            </l>
             <l rend="i">Ce Jet d’eau dans ces lieux si longtemps attendu,</l>
             <l rend="i">Au sommet de ces Monts a sa source féconde.</l>
             <l rend="i">Il montera bien haut, s’il éleve son onde</l>
@@ -688,7 +801,9 @@
         <p>La quatriéme, un Soleil, &amp; deux Planetes,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Obscurantur qua luce micant.</hi></l>
+            <l>
+              <hi rend="sc">Obscurantur qua luce micant.</hi>
+            </l>
             <l rend="i">Ces Planetes un jour dans le plus haut des Cieux</l>
             <l rend="i"> Pourront éclater à nos yeux,</l>
             <l rend="i"> Et prendre soin de nous conduire.</l>
@@ -701,7 +816,9 @@
         <p>La cinquiéme, un Aigle en l’air, portant la Foudre en son bec, &amp; deux Aiglons à terre qui le regardent, &amp; semblent commencer à voler,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Ex me discite pacem quærere.</hi></l>
+            <l>
+              <hi rend="sc">Ex me discite pacem quærere.</hi>
+            </l>
             <l rend="i"> Aiglons, qui sçavez par mes faits</l>
             <l rend="i">Avec combien d’honneurs j’ay porté le Tonnerre,</l>
             <l rend="i"> Ne vous servez de la Guerre</l>
@@ -712,7 +829,9 @@
         <p>La sixiéme, une Perle dans sa Coquille au bord de la Mer,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">No ay origen mayor.</hi></l>
+            <l>
+              <hi rend="sc">No ay origen mayor.</hi>
+            </l>
             <l rend="i"> Est-il rien de plus prétieux,</l>
             <l rend="i">Et qui soit comparable à la haute origine</l>
             <l rend="i">De ce riche Bijou, de la Perle divine,</l>
@@ -728,7 +847,9 @@
         <p>La septiéme, un Lys soûtenu de sa Tige, d’où sort un Lys à demy épanoüy, &amp; plus bas un Bouton,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Quomodo crescunt.</hi></l>
+            <l>
+              <hi rend="sc">Quomodo crescunt.</hi>
+            </l>
             <l rend="i">Ce Lys incomparable, appuyé sur sa Tige,</l>
             <l rend="i">Est du siecle présent la gloire &amp; le prodige.</l>
             <l rend="i"> Le beau Lys qu’il a mis au jour</l>
@@ -743,7 +864,9 @@
         <p>La huitiéme, un Soleil qui en forme deux autres dans les nuages ; &amp; au dessous, le Globe de la Terre,</p>
         <quote>
           <lg>
-            <l><hi rend="sc">Orbis non sufficit unus.</hi></l>
+            <l>
+              <hi rend="sc">Orbis non sufficit unus.</hi>
+            </l>
             <l rend="i">De ces nouveaux Soleils veus sur nostre horizon,</l>
             <l rend="i">En mille biens déja la lumiere est féconde.</l>
             <l rend="i">Comme le grand Soleil est sans comparaison,</l>
@@ -855,7 +978,9 @@
         <p>Je vous envoye une Lettre écrite par une Dame de qualité à une grande Princesse. Ce seroit retarder vostre plaisir, que perdre du temps à vous la vanter. Lisez. La matiere est noble, &amp; auroit pour vous un tres-grand charme, quand elle seroit traitée avec moins d’esprit.</p>
         <quote>
           <label>A MADAME ***</label>
-          <p><hi rend="i">La bonté que vous avez euë, Madame, en me faisant l’honneur de me témoigner que ce que j’écris ne vous déplaist pas, &amp; l’envie que j’ay de vous marquer ma respectueuse reconnoissance, m’ont fait penser que vous agréerez que j’aye cherché à vous divertir quelques momens, par le recit de ce qui m’est arrivé dans un Voyage que j’ay fait à Versailles depuis peu. Je n’y avois nulle affaire, &amp; rien ne m’y menoit que le dessein de faire ma Cour, &amp; sur tout de voir pour la premiere fois cet illustre Enfant, dont la naissance allume des Feux de joye par toute l’Europe. L’heureuse Etoile qui présida à ce Voyage, &amp; qui voulut me le rendre agreable dés son commencement, fit que je m’embarquay avec Madame la Comtesse de Brégy, dont la charmante conversation pourroit empescher de sentir la fatigue d’un chemin beaucoup plus long &amp; plus pénible. J’arrivay, Madame, un peu plus tard que je ne pensois, car j’avois compté que je pourrois avoir le loisir de voir Monseigneur le Duc de Bourgogne avant le Dîné du Roy ; cependant j’entray seulement comme Sa Majesté s’alloit mettre à table. J’aurois pû aller faire un tour, &amp; revenir avant que le Roy eust achevé de dîner ; mais par l’effet d’un charme qui attache à sa personne si-tost qu’on a l’honneur de le voir, je ne pensay plus à autre chose.</hi></p>
+          <p>
+            <hi rend="i">La bonté que vous avez euë, Madame, en me faisant l’honneur de me témoigner que ce que j’écris ne vous déplaist pas, &amp; l’envie que j’ay de vous marquer ma respectueuse reconnoissance, m’ont fait penser que vous agréerez que j’aye cherché à vous divertir quelques momens, par le recit de ce qui m’est arrivé dans un Voyage que j’ay fait à Versailles depuis peu. Je n’y avois nulle affaire, &amp; rien ne m’y menoit que le dessein de faire ma Cour, &amp; sur tout de voir pour la premiere fois cet illustre Enfant, dont la naissance allume des Feux de joye par toute l’Europe. L’heureuse Etoile qui présida à ce Voyage, &amp; qui voulut me le rendre agreable dés son commencement, fit que je m’embarquay avec Madame la Comtesse de Brégy, dont la charmante conversation pourroit empescher de sentir la fatigue d’un chemin beaucoup plus long &amp; plus pénible. J’arrivay, Madame, un peu plus tard que je ne pensois, car j’avois compté que je pourrois avoir le loisir de voir Monseigneur le Duc de Bourgogne avant le Dîné du Roy ; cependant j’entray seulement comme Sa Majesté s’alloit mettre à table. J’aurois pû aller faire un tour, &amp; revenir avant que le Roy eust achevé de dîner ; mais par l’effet d’un charme qui attache à sa personne si-tost qu’on a l’honneur de le voir, je ne pensay plus à autre chose.</hi>
+          </p>
           <quote>
             <lg>
               <l>Sa présence suspend tous les autres desirs,</l>
@@ -863,7 +988,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Je demeuray donc au Dîné tant qu’il dura. C’estoit, Madame, le jour de la Naissance du Roy ; &amp; quoy que sa bonne mine éclate, &amp; le distingue toûjours, quelque Habit qu’il puisse avoir, il en avoit un si magnifique ce jour-là, que de cette parure, jointe au grand air qui fait si bien voir qu’il est le Maistre, il résultoit quelque chose qui m’enchantoit. Mais quand il tournoit par hazard les yeux du costé où j’estois, il me sembloit aussitost que je voyois ouvrir une source de félicitez, &amp; que le moindre de ses regards jettez à l’avanture, alloit me rendre heureuse. Il faut, Madame, que j’avouë que dans ces momens-là je ne pouvois m’empescher de porter envie à Madame de Brégy, qui non seulement estoit regardée avec préference de ce Grand Monarque, mais encor qui l’entretenoit avec beaucoup d’agrément, aussi-bien que la Reyne. Cette illustre Princesse que je trouve toûjours belle, me la parut ce jour-là plus qu’à l’ordinaire. Elle avoit, Madame, le plus riche &amp; le plus agreable Habit que j’aye jamais veu, &amp; elle estoit toute éclatante de Pierreries.</hi></p>
+          <p>
+            <hi rend="i">Je demeuray donc au Dîné tant qu’il dura. C’estoit, Madame, le jour de la Naissance du Roy ; &amp; quoy que sa bonne mine éclate, &amp; le distingue toûjours, quelque Habit qu’il puisse avoir, il en avoit un si magnifique ce jour-là, que de cette parure, jointe au grand air qui fait si bien voir qu’il est le Maistre, il résultoit quelque chose qui m’enchantoit. Mais quand il tournoit par hazard les yeux du costé où j’estois, il me sembloit aussitost que je voyois ouvrir une source de félicitez, &amp; que le moindre de ses regards jettez à l’avanture, alloit me rendre heureuse. Il faut, Madame, que j’avouë que dans ces momens-là je ne pouvois m’empescher de porter envie à Madame de Brégy, qui non seulement estoit regardée avec préference de ce Grand Monarque, mais encor qui l’entretenoit avec beaucoup d’agrément, aussi-bien que la Reyne. Cette illustre Princesse que je trouve toûjours belle, me la parut ce jour-là plus qu’à l’ordinaire. Elle avoit, Madame, le plus riche &amp; le plus agreable Habit que j’aye jamais veu, &amp; elle estoit toute éclatante de Pierreries.</hi>
+          </p>
           <quote>
             <lg>
               <l>A l’éclat des Vertus l’auguste Majesté</l>
@@ -873,7 +1000,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Madame la Grand’ Duchesse, &amp; Madame de Guise, extrémement parées aussi, remplissoient &amp; ornoient parfaitement la place qu’elles tenoient dans cette Royale Compagnie, où j’eus beaucoup de regret de ne pas voir Monseigneur le Dauphin, qui estoit à la Chasse, non plus que Monsieur &amp; Madame qui estoient à S. Clou. J’eus aussi le malheur de ne point voir Madame la Dauphine, dont la Porte ne s’ouvroit pas encor à tout le monde, &amp; j’en fus bien fâchée, car j’ay pour le mérite &amp; les vertus de cette charmante Princesse une admiration, &amp; si j’ose prendre la liberté de parler ainsi, une respectueuse inclination, que je ne puis bien exprimer. Je trouve dans tout ce qu’elle dit &amp; tout ce qu’elle fait, de la grandeur &amp; de l’agrément, qui luy attirent en mesme temps le respect qu’on luy doit, &amp; l’attachement du cœur.</hi></p>
+          <p>
+            <hi rend="i">Madame la Grand’ Duchesse, &amp; Madame de Guise, extrémement parées aussi, remplissoient &amp; ornoient parfaitement la place qu’elles tenoient dans cette Royale Compagnie, où j’eus beaucoup de regret de ne pas voir Monseigneur le Dauphin, qui estoit à la Chasse, non plus que Monsieur &amp; Madame qui estoient à S. Clou. J’eus aussi le malheur de ne point voir Madame la Dauphine, dont la Porte ne s’ouvroit pas encor à tout le monde, &amp; j’en fus bien fâchée, car j’ay pour le mérite &amp; les vertus de cette charmante Princesse une admiration, &amp; si j’ose prendre la liberté de parler ainsi, une respectueuse inclination, que je ne puis bien exprimer. Je trouve dans tout ce qu’elle dit &amp; tout ce qu’elle fait, de la grandeur &amp; de l’agrément, qui luy attirent en mesme temps le respect qu’on luy doit, &amp; l’attachement du cœur.</hi>
+          </p>
           <quote>
             <lg>
               <l>Du plus sublime esprit, d’une aimable bonté,</l>
@@ -883,7 +1012,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Il faut donc demeurer d’accord, Madame, que lors qu’on voit toute la Famille Royale, on voit ce que la grandeur &amp; le mérite peuvent montrer de plus digne d’estre admiré. Mais je n’eus pas ce plaisir entier pour cette fois, &amp; enfin je pris le chemin de l’Apartement de Monseigneur le Duc de Bourgogne. Je trouvay dans sa Chambre Madame la Maréchale de la Mothe, qui non seulement remplit dignement sa Charge à l’égard du Prince, mais encor qui charme toutes les Personnes qui vont pour avoir l’honneur de le voir, par une civilité tout-à-fait engeante, &amp; qui m’alloit arrester aupres d’elle, si elle-mesme devinant bien l’envie que j’avois de voir le Prince, n’eust eu la bonté de me faire approcher du Lit où il estoit entre les bras de sa Nourrice ; &amp; ne le voyant pas tout-à-fait à mon aise, pendant que Madame la Maréchale entretenoit Madame de Brégy aupres des Fenestres, je m’appuyay dans un coin, attendant qu’on le changeast de place ; &amp; comme je resvois à l’heureuse destinée de cet illustre Fils de tant de Héros, j’entendis pres de moy prononcer ces paroles, par la plus agreable Voix qui ait jamais frapé mes oreilles.</hi></p>
+          <p>
+            <hi rend="i">Il faut donc demeurer d’accord, Madame, que lors qu’on voit toute la Famille Royale, on voit ce que la grandeur &amp; le mérite peuvent montrer de plus digne d’estre admiré. Mais je n’eus pas ce plaisir entier pour cette fois, &amp; enfin je pris le chemin de l’Apartement de Monseigneur le Duc de Bourgogne. Je trouvay dans sa Chambre Madame la Maréchale de la Mothe, qui non seulement remplit dignement sa Charge à l’égard du Prince, mais encor qui charme toutes les Personnes qui vont pour avoir l’honneur de le voir, par une civilité tout-à-fait engeante, &amp; qui m’alloit arrester aupres d’elle, si elle-mesme devinant bien l’envie que j’avois de voir le Prince, n’eust eu la bonté de me faire approcher du Lit où il estoit entre les bras de sa Nourrice ; &amp; ne le voyant pas tout-à-fait à mon aise, pendant que Madame la Maréchale entretenoit Madame de Brégy aupres des Fenestres, je m’appuyay dans un coin, attendant qu’on le changeast de place ; &amp; comme je resvois à l’heureuse destinée de cet illustre Fils de tant de Héros, j’entendis pres de moy prononcer ces paroles, par la plus agreable Voix qui ait jamais frapé mes oreilles.</hi>
+          </p>
           <quote>
             <lg>
               <l>Que de gloire le Ciel destine à cet Enfant,</l>
@@ -893,7 +1024,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Dans ce moment-là, Madame, en remit le Prince dans son Berceau. Je crûs que c’estoit quelqu’un de l’autre costé du Lit qui avoit commencé ces Vers, &amp; n’entendant plus rien, sans autre refléxion, je m’attachay à regarder ce Royal Enfant.</hi></p>
+          <p>
+            <hi rend="i">Dans ce moment-là, Madame, en remit le Prince dans son Berceau. Je crûs que c’estoit quelqu’un de l’autre costé du Lit qui avoit commencé ces Vers, &amp; n’entendant plus rien, sans autre refléxion, je m’attachay à regarder ce Royal Enfant.</hi>
+          </p>
           <quote>
             <lg>
               <l> Tout charme en luy, tout y surprend,</l>
@@ -903,7 +1036,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Apres que je fus sortie de sa Chambre, Madame, pendant que Madame de Brégy alloit faire quelques autres visites, je proposay à une Dame de mes Amies qui estoit aussi venuë avec nous, d’aller faire un tour de promenade.</hi></p>
+          <p>
+            <hi rend="i">Apres que je fus sortie de sa Chambre, Madame, pendant que Madame de Brégy alloit faire quelques autres visites, je proposay à une Dame de mes Amies qui estoit aussi venuë avec nous, d’aller faire un tour de promenade.</hi>
+          </p>
           <quote>
             <lg>
               <l> Dans ces Jardins délicieux,</l>
@@ -935,7 +1070,9 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Si j’avois esté surprise, Madame, au commencement de la conversation, je fus si ravie en cet endroit-là, que ne pouvant plus me contenir, je courus du costé que cette divine Compagnie s’entretenoit de ces grandes choses, espérant que je pourrois la voir ; mais je perdis mes pas, &amp; quand je fus au bout de l’Allée, je ne vis &amp; n’entendis plus rien que mon Amie qui m’appelloit pour me dire qu’on m’attendoit pour partir. Je luy parus toute préoccupée, &amp; sans luy en dire le sujet, je la suivis hors du Parc ; mais avant que de m’en aller, je montay un moment à l’Apartement des Filles d’honneur de Madame la Dauphine, parmy lesquelles j’ay l’honneur d’avoir trois Parentes, qui sont Mesdemoiselles de Biron &amp; de Jarnac. Ie les trouvay toutes parées des Pierreries que le Roy leur a données ; &amp; par ce brillant éclat, joint à celuy de leurs charmes, elles vouloient embellir le jour de la Naissance de ce Grand Monarque ; &amp; en effet, elles me parurent si aimables, que je me trouvay toute consolée de n’avoir pas veules Nymphis de Versailles, car toutes immortelles qu’elles sont, je ne puis m’imaginer qu’elles soient plus agreables à voir que ces charmantes Filles. Il falut pourtant les quitter, &amp; je revins à Paris, Madame, sans rien dire de tout ce que j’avois oüy, craignant qu’on ne m’accusast d’avoir resvé. Cependant apres y avoir bien pensé, si c’est un songe, il est si vray sur tout ce que nous voyons dans le présent, &amp; si vray-semblable pour l’avenir, que je me suis résoluë de n’en faire plus un secret ; &amp; j’en trouveray, Madame, dés aujourd’huy l’effet bien agreable pour moy, si j’ay pû vous divertir quelques instans, &amp; vous témoigner au moins par mes bonnes intentions le profond respect que j’ay pour vous, Madame, &amp; la passion &amp;c.</hi></p>
+          <p>
+            <hi rend="i">Si j’avois esté surprise, Madame, au commencement de la conversation, je fus si ravie en cet endroit-là, que ne pouvant plus me contenir, je courus du costé que cette divine Compagnie s’entretenoit de ces grandes choses, espérant que je pourrois la voir ; mais je perdis mes pas, &amp; quand je fus au bout de l’Allée, je ne vis &amp; n’entendis plus rien que mon Amie qui m’appelloit pour me dire qu’on m’attendoit pour partir. Je luy parus toute préoccupée, &amp; sans luy en dire le sujet, je la suivis hors du Parc ; mais avant que de m’en aller, je montay un moment à l’Apartement des Filles d’honneur de Madame la Dauphine, parmy lesquelles j’ay l’honneur d’avoir trois Parentes, qui sont Mesdemoiselles de Biron &amp; de Jarnac. Ie les trouvay toutes parées des Pierreries que le Roy leur a données ; &amp; par ce brillant éclat, joint à celuy de leurs charmes, elles vouloient embellir le jour de la Naissance de ce Grand Monarque ; &amp; en effet, elles me parurent si aimables, que je me trouvay toute consolée de n’avoir pas veules Nymphis de Versailles, car toutes immortelles qu’elles sont, je ne puis m’imaginer qu’elles soient plus agreables à voir que ces charmantes Filles. Il falut pourtant les quitter, &amp; je revins à Paris, Madame, sans rien dire de tout ce que j’avois oüy, craignant qu’on ne m’accusast d’avoir resvé. Cependant apres y avoir bien pensé, si c’est un songe, il est si vray sur tout ce que nous voyons dans le présent, &amp; si vray-semblable pour l’avenir, que je me suis résoluë de n’en faire plus un secret ; &amp; j’en trouveray, Madame, dés aujourd’huy l’effet bien agreable pour moy, si j’ay pû vous divertir quelques instans, &amp; vous témoigner au moins par mes bonnes intentions le profond respect que j’ay pour vous, Madame, &amp; la passion &amp;c.</hi>
+          </p>
           <p>Cette Fiction du Génie de la France, &amp; ses Nymphes de Versailles, ne pouvoit estre tournée plus galamment, ny sur un augure plus favorable que celuy qu’on peut tirer de l’empressement des Peuples à celébrer l’heureuse Naissance du Jeune Prince,</p>
         </quote>
       </div>
@@ -966,14 +1103,17 @@
             </lg>
           </quote>
           <p/>
-          <p><hi rend="i">Si cette Devise a eu l’approbation de quelques Personnes de mérite, je sçay qu’elle n’a pas échapé à la Critique de quelques autres ; mais n’en déplaise à M *** elle est tres-avantageuse au Roy. I’ay Philon Iuif pour garand de ce que j’avance. Cet habile Historien, &amp; tout ensemble cet excellent Orateur, apres avoir prouvé avec son éloquence ordinaire, que le Royaume électif est de beaucoup inférieur au Royaume heréditaire, conclud que les Peuples qui vivent sous la Monarchie, doivent souhaiter à leur Souverain un grand nombre d’Enfans mâles ; &amp; la raison qu’il en donne, c’est qu’ils sont l’appuy &amp; la force de l’Etat. Vous voyez bien que le raport est fort juste. Ie souhaiterois qu’il y en eust entre vous &amp; moy, comme il y en a dans nos Armes, car de vostre Rocher &amp; de ma Flâme, il en résulte un Mont Etna. I’y adjoûte pour ame ces mots,</hi></p>
+          <p>
+            <hi rend="i">Si cette Devise a eu l’approbation de quelques Personnes de mérite, je sçay qu’elle n’a pas échapé à la Critique de quelques autres ; mais n’en déplaise à M *** elle est tres-avantageuse au Roy. I’ay Philon Iuif pour garand de ce que j’avance. Cet habile Historien, &amp; tout ensemble cet excellent Orateur, apres avoir prouvé avec son éloquence ordinaire, que le Royaume électif est de beaucoup inférieur au Royaume heréditaire, conclud que les Peuples qui vivent sous la Monarchie, doivent souhaiter à leur Souverain un grand nombre d’Enfans mâles ; &amp; la raison qu’il en donne, c’est qu’ils sont l’appuy &amp; la force de l’Etat. Vous voyez bien que le raport est fort juste. Ie souhaiterois qu’il y en eust entre vous &amp; moy, comme il y en a dans nos Armes, car de vostre Rocher &amp; de ma Flâme, il en résulte un Mont Etna. I’y adjoûte pour ame ces mots,</hi>
+          </p>
           <quote>
-            <lg>
-              <p/>
-              <l><hi rend="sc">Sa durée est la Mienne.</hi></l>
-            </lg>
+            <l>
+              <hi rend="sc">Sa durée est la Mienne.</hi>
+            </l>
           </quote>
-          <p><hi rend="i">Cela veut dire, que comme les charmes de vostre beauté &amp; de vostre esprit sont en seûreté, de mesme j’auray toute ma vie des sentimens d’estime &amp; a’amour pour vostre aimable Personne, &amp; que je me dis avec beaucoup de respect vostre tres &amp;c.</hi></p>
+          <p>
+            <hi rend="i">Cela veut dire, que comme les charmes de vostre beauté &amp; de vostre esprit sont en seûreté, de mesme j’auray toute ma vie des sentimens d’estime &amp; a’amour pour vostre aimable Personne, &amp; que je me dis avec beaucoup de respect vostre tres &amp;c.</hi>
+          </p>
           <p><hi rend="sc">De Granville</hi>.</p>
           <p>A Riom, 1. Oct.</p>
         </quote>
@@ -1018,7 +1158,11 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Brûlons donc ce Laurier, n’épargnons point la Palme,</l>
-            <l><hi rend="i">Tout sous</hi> <hi rend="sc">Loüis le Grand</hi> <hi rend="i">est en paix, tout est calme,</hi></l>
+            <l>
+              <hi rend="i">Tout sous</hi>
+              <hi rend="sc">Loüis le Grand</hi>
+              <hi rend="i">est en paix, tout est calme,</hi>
+            </l>
             <l rend="i">Chez les Roys éloignez il prendra des Lauriers.</l>
           </lg>
           <ab type="ornament">***</ab>
@@ -1058,7 +1202,11 @@
             <l rend="i">La fierté, la douceur de ton aimable Pere ;</l>
             <l rend="i">Tous ses traits de grandeur sont en toy répandus ;</l>
             <l rend="i"> Et parmy tous ceux de ta Mere,</l>
-            <l><hi rend="i">Ceux de</hi> <hi rend="sc">Loüis le Grand</hi> <hi rend="i">s’y trouvent confondus.</hi></l>
+            <l>
+              <hi rend="i">Ceux de</hi>
+              <hi rend="sc">Loüis le Grand</hi>
+              <hi rend="i">s’y trouvent confondus.</hi>
+            </l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
@@ -1366,9 +1514,10 @@
       </div>
       <div type="article" xml:id="MG-1682-10a_209">
         <head>[Toulouse]</head>
-        <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, première partie [<biblScope unit="volume">tome 11</biblScope>], <biblScope unit="page">p. 209-218, 220, 227-228, 230-233, 235-236, 238-240,  242-251</biblScope>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, première partie [<biblScope unit="volume">tome 11</biblScope>], <biblScope unit="page">p. 209-218, 220, 227-228, 230-233, 235-236, 238-240, 242-251</biblScope>.</bibl>
         <p/>
-        <p>Il me faudroit un Volume pour vous rapporter tout ce qui s'est passé à Toulouse. Chacun s'y est empressé à faire éclater sa joye, &amp; il n'y a point eu de Communauté, ny de Compagnie, qui n'ait signalé son zele par des Réjoüissances particulieres. La Nouvelle de la Naissance du Prince, y ayant esté portée le Samedy 15. Aoust par le Courrier ordinaire, les Capitouls firent aussitost monter sur le Donjon de l'Hostel de Ville plusieurs Pieces d'Artillerie, qui par des décharges réïterées la firent sçavoir à tout le monde. Le jour ayant commencé à disparoistre, ils firent illuminer ce mesme Donjon, &amp; toutes les Fenestres de l'Hostel de Ville. La grosse Cloche de l'Eglise Metropolitaine de S. Etienne sonna, aussi-bien que celle du Palais ; &amp; leur son ayant esté suivy des carrillons de toutes les autres, toute la Ville fut éclairée par les Feux qu'on alluma dans toutes les Ruës, &amp; par une infinité de Lumieres qu'on mit par tout aux Fenestres. Le Chapitre de S. Saturnin, que le vulgaire a nommé S. Sernin, fut le premier à donner des marques publiques de la joye qu'il ressentoit de cette Naissance. Ce Chapitre est si illustre par la sainteté de son Eglise, par le nombre des Corps Saints qui y reposent, parmy lesquels sept Apostres sont comptez, par l'ancienneté de sa Fondation, par la protection de nos Roys, par les Privileges qui luy ont este accordez, &amp; par la forme mesme de son Temple, dans lequel on ne peut entrer sans se sentir touché de repect, qu'il seroit bien difficile de trouver ailleurs un assemblage pareil qui pust rendre une Eglise venérable. Le carrillon de toutes ses Cloches se fit entendre d'abord. Toutes les Pieces de Canon, qu'on a disposées depuis longtemps sur la Voûte de ce Temple pour la garde de tant de prétieux Dépôsts, tirerent depuis midy jusqu'au soir; &amp; la nuit estant venuë, on fut agreablement surpris de voir tout le dehors de l'Eglise &amp; au Clocher éclairé d'un nombre presque infiny de Lumieres qui brillerent jusqu'au jour. Le lendemain Dimanche 16. du mois, les Chanoines, apres avoir fait une Procession particuliere, chanterent solemnellement le <hi rend="i">Te Deum</hi>. Cependant les Capitouls ayant assemblé un Conseil de Ville, où deux Commissaires du Parlement présiderent, on y résolut trois jours de Feste, qui commenceroient le Samedy 29. pendant lequel jour, &amp; le Lundy suivant, toutes les Boutiques seroient fermées. On mit sur pied un Corps d'Infanterie tiré des Corps des Métiers, sous le commandement de Messieurs de la Guarrigue &amp; d'Espagne, Capitouls d'épée. Le Sr Rivats Architecte de la Ville, fut chargé de la conduite d'un Feu d'artifice qu'on luy fit dresser sur la Garonne. Le Samedy, jour du <hi rend="i">Te Deum</hi>, les Métiers, au nombre de quatre mille Hommes, tous fort proprement vestus, s'estant rendus dans la Place de S. George, y furent mis en bataille par les deux Capitouls qui les commandoient ; &amp; sur les dix heures du matin, le Parlement sortit du Palais en Robes rouges, pour aller à l'Eglise de S. Estienne, où les autres Compagnies se trouverent. Dans le mesme temps, les Chanoines de S. Sernin sortirent de leur Eglise, devant laquelle, les Métiers partis de la Place de S. George, les deux Capitouls en teste, allerent faire une Salve. En suite ils se rangerent en haye des deux costez des Ruës par où la Procession devoit passer ; &amp; les Chanoines de S. Sernin se rendirent à S. Etienne, précedez des Religieux de tous les Ordres, qui estoient venus dans leur Eglise, tant pour accompagner les Reliques des Saints, qui devoient faire la plus belle partie de la solemnité de ce jour, que pour les porter selon leur coutume. La Procession se fit, les Religieux marchant les premiers sous leurs Croix, les Paroisses apres eux, puis toutes les Châsses des Corps Saints, portez sous de riches Poëles par des Religieux de divers Ordres, &amp; en suite le Chapitre de S. Sernin, avec le prétieux Reliquaire de la Sainte Epine, que quatre Religieux de S. Dominique portoient. Les Capitouls en Manteau de cerémonie environnoient la Relique, &amp; estoient suivis de leurs Anciens. La Procession estant rentrée, M<hi rend="sup">r</hi> l'Archevesque commença le <hi rend="i">Te Deum</hi>, &amp; la Musique le continua au bruit du Canon, &amp; des décharges de l'Infanterie que l'on avoit rangée dans la Place. Messieurs les Evesques de Comeinge &amp; de Beziers assisterent à cette Cerémonie. L'apresdînée, les Capitouls précedez des Trompetes &amp; des Hautbois, &amp; suivis de plusieurs de leurs Anciens, se rendirent à la Place de S. Etienne, où M<hi rend="sup">r</hi> Reynal, Capitoul de ce Quartier, alluma le Feu de joye. L'Infanterie rangée en bataille sur cette Place, fit plusieurs salves, qui répondirent au bruit de dix-huit Pieces de Canon que l'on avoit amenée sur les Ramparts. Tous les Tuyaux de la Fontaine de la mesme Place, jetterent du Vin pendant tout le jour. On fit couler de pareilles Fontaines de Vin les deux jours suivans, deux le Dimanche à l'entrée de la Place du Pont, &amp; deux autres le Lundy aux deux costez du grand Portail de l'Hostel de Ville. Le mesme jour, M<hi rend="sup">r</hi> l'Archevesque, apres une grande distribution de Pain &amp; de Vin, fit dresser des Tables dans la Court de l'Archevesché, où ses Officiers servirent tous ceux qui se présenterent. Lors que la nuit fut venuë, il fit jouer un Feu d'artifice, dont la décoration estoit superbe. On l'avoit dressé dans l'Avancourt de son Palais. Elle estoit tenduë de riches Tapisseries, avec des Portiques tout autour, ornez de Devises à l'honneur du Roy &amp; de toute la Maison Royale. Sur le haut de ces Portiques, &amp; dans toute leur étenduë, estoient rangées les pieces du Feu d'artifice; &amp; au milieu de la Court, on avoit planté une Girandole de Fusées sans nombre. A l'entrée de la Place, tout proche la Porte de l'Eglise Métropolitaine, il y avoit trois Arcs de Triomphe embellis des Armes de Sa Majesté, de Monseigneur le Dauphin, &amp; du Jeune Prince. Toutes les Devises estoient de Peinture Fine rehaussée d'or &amp; d'argent. Les Hautbois &amp; les Trompetes s'estant fait entendre tour à tour des Fenestres de l'Archevesché, un Dauphin qui descendit d'une Tour, porta le feu à un Angle de la Place, &amp; tout l'artifice joüa avec un ordre admirable. Ensuite la Girandole fut allumée. Il en sortit tout à coup un nombre infiny de Fusées volantes, qui formerent en l'air une Fleur de Lys, que les Habitans des Villages voisins distinguerent. Je passe les Illuminations de toutes les Places, qui furent un spéctacle fort brillant. La Maison Royale de la Trésorerie se distingua. [...]</p>
+        <p>Il me faudroit un Volume pour vous rapporter tout ce qui s'est passé à Toulouse. Chacun s'y est empressé à faire éclater sa joye, &amp; il n'y a point eu de Communauté, ny de Compagnie, qui n'ait signalé son zele par des Réjoüissances particulieres. La Nouvelle de la Naissance du Prince, y ayant esté portée le Samedy 15. Aoust par le Courrier ordinaire, les Capitouls firent aussitost monter sur le Donjon de l'Hostel de Ville plusieurs Pieces d'Artillerie, qui par des décharges réïterées la firent sçavoir à tout le monde. Le jour ayant commencé à disparoistre, ils firent illuminer ce mesme Donjon, &amp; toutes les Fenestres de l'Hostel de Ville. La grosse Cloche de l'Eglise Metropolitaine de S. Etienne sonna, aussi-bien que celle du Palais ; &amp; leur son ayant esté suivy des carrillons de toutes les autres, toute la Ville fut éclairée par les Feux qu'on alluma dans toutes les Ruës, &amp; par une infinité de Lumieres qu'on mit par tout aux Fenestres. Le Chapitre de S. Saturnin, que le vulgaire a nommé S. Sernin, fut le premier à donner des marques publiques de la joye qu'il ressentoit de cette Naissance. Ce Chapitre est si illustre par la sainteté de son Eglise, par le nombre des Corps Saints qui y reposent, parmy lesquels sept Apostres sont comptez, par l'ancienneté de sa Fondation, par la protection de nos Roys, par les Privileges qui luy ont este accordez, &amp; par la forme mesme de son Temple, dans lequel on ne peut entrer sans se sentir touché de repect, qu'il seroit bien difficile de trouver ailleurs un assemblage pareil qui pust rendre une Eglise venérable. Le carrillon de toutes ses Cloches se fit entendre d'abord. Toutes les Pieces de Canon, qu'on a disposées depuis longtemps sur la Voûte de ce Temple pour la garde de tant de prétieux Dépôsts, tirerent depuis midy jusqu'au soir; &amp; la nuit estant venuë, on fut agreablement surpris de voir tout le dehors de l'Eglise &amp; au Clocher éclairé d'un nombre presque infiny de Lumieres qui brillerent jusqu'au jour. Le lendemain Dimanche 16. du mois, les Chanoines, apres avoir fait une Procession particuliere, chanterent solemnellement le <hi rend="i">Te Deum</hi>. Cependant les Capitouls ayant assemblé un Conseil de Ville, où deux Commissaires du Parlement présiderent, on y résolut trois jours de Feste, qui commenceroient le Samedy 29. pendant lequel jour, &amp; le Lundy suivant, toutes les Boutiques seroient fermées. On mit sur pied un Corps d'Infanterie tiré des Corps des Métiers, sous le commandement de Messieurs de la Guarrigue &amp; d'Espagne, Capitouls d'épée. Le Sr Rivats Architecte de la Ville, fut chargé de la conduite d'un Feu d'artifice qu'on luy fit dresser sur la Garonne. Le Samedy, jour du <hi rend="i">Te Deum</hi>, les Métiers, au nombre de quatre mille Hommes, tous fort proprement vestus, s'estant rendus dans la Place de S. George, y furent mis en bataille par les deux Capitouls qui les commandoient ; &amp; sur les dix heures du matin, le Parlement sortit du Palais en Robes rouges, pour aller à l'Eglise de S. Estienne, où les autres Compagnies se trouverent. Dans le mesme temps, les Chanoines de S. Sernin sortirent de leur Eglise, devant laquelle, les Métiers partis de la Place de S. George, les deux Capitouls en teste, allerent faire une Salve. En suite ils se rangerent en haye des deux costez des Ruës par où la Procession devoit passer ; &amp; les Chanoines de S. Sernin se rendirent à S. Etienne, précedez des Religieux de tous les Ordres, qui estoient venus dans leur Eglise, tant pour accompagner les Reliques des Saints, qui devoient faire la plus belle partie de la solemnité de ce jour, que pour les porter selon leur coutume. La Procession se fit, les Religieux marchant les premiers sous leurs Croix, les Paroisses apres eux, puis toutes les Châsses des Corps Saints, portez sous de riches Poëles par des Religieux de divers Ordres, &amp; en suite le Chapitre de S. Sernin, avec le prétieux Reliquaire de la Sainte Epine, que quatre Religieux de S. Dominique portoient. Les Capitouls en Manteau de cerémonie environnoient la Relique, &amp; estoient suivis de leurs Anciens. La Procession estant rentrée, M<hi rend="sup">r</hi> l'Archevesque commença le <hi rend="i">Te Deum</hi>, &amp; la Musique le continua au bruit du Canon, &amp; des décharges de l'Infanterie que l'on avoit rangée dans la Place. Messieurs les Evesques de Comeinge &amp; de Beziers assisterent à cette Cerémonie. L'apresdînée, les Capitouls précedez des Trompetes &amp; des Hautbois, &amp; suivis de plusieurs de leurs Anciens, se rendirent à la Place de S. Etienne, où M<hi rend="sup">r</hi> Reynal, Capitoul de ce Quartier, alluma le Feu de joye. L'Infanterie rangée en bataille sur cette Place, fit plusieurs salves, qui répondirent au bruit de dix-huit Pieces de Canon que l'on avoit amenée sur les Ramparts. Tous les Tuyaux de la Fontaine de la mesme Place, jetterent du Vin pendant tout le jour. On fit couler de pareilles Fontaines de Vin les deux jours suivans, deux
+          le Dimanche à l'entrée de la Place du Pont, &amp; deux autres le Lundy aux deux costez du grand Portail de l'Hostel de Ville. Le mesme jour, M<hi rend="sup">r</hi> l'Archevesque, apres une grande distribution de Pain &amp; de Vin, fit dresser des Tables dans la Court de l'Archevesché, où ses Officiers servirent tous ceux qui se présenterent. Lors que la nuit fut venuë, il fit jouer un Feu d'artifice, dont la décoration estoit superbe. On l'avoit dressé dans l'Avancourt de son Palais. Elle estoit tenduë de riches Tapisseries, avec des Portiques tout autour, ornez de Devises à l'honneur du Roy &amp; de toute la Maison Royale. Sur le haut de ces Portiques, &amp; dans toute leur étenduë, estoient rangées les pieces du Feu d'artifice; &amp; au milieu de la Court, on avoit planté une Girandole de Fusées sans nombre. A l'entrée de la Place, tout proche la Porte de l'Eglise Métropolitaine, il y avoit trois Arcs de Triomphe embellis des Armes de Sa Majesté, de Monseigneur le Dauphin, &amp; du Jeune Prince. Toutes les Devises estoient de Peinture Fine rehaussée d'or &amp; d'argent. Les Hautbois &amp; les Trompetes s'estant fait entendre tour à tour des Fenestres de l'Archevesché, un Dauphin qui descendit d'une Tour, porta le feu à un Angle de la Place, &amp; tout l'artifice joüa avec un ordre admirable. Ensuite la Girandole fut allumée. Il en sortit tout à coup un nombre infiny de Fusées volantes, qui formerent en l'air une Fleur de Lys, que les Habitans des Villages voisins distinguerent. Je passe les Illuminations de toutes les Places, qui furent un spéctacle fort brillant. La Maison Royale de la Trésorerie se distingua. [...]</p>
         <p>M<hi rend="sup">r</hi> le Premier Président fit distribuer le Samedy quantité de Pain &amp; plusieurs tonneaux de Vin. Le lendemain il donna une magnifique Collation aux Personnes les plus qualifiées de l'un &amp; de l'autre Sexe, avec un Concert de Voix mêlé de Symphonie ; &amp; le Lundy il fit joüer dans sa grande Court un Feu d'artifice, orné de Figures de relief. M<hi rend="sup">r</hi> le Procureur General, apres une parcille distribution de Pain et de Vin, donna dans sa Court un grand Dîner au Public. [...]</p>
         <p>M<hi rend="sup">r</hi> le Grand Prieur de Toulouse prit part à la joye publique avec beaucoup de distinction. Le <hi rend="i">Te Deum</hi> ayant esté chanté par les Prestres de son Eglise de S. Jean apres la grande Messe, les Officiers de l'Hostel Prioral firent plusieurs décharges de Mousqueterie qui retentissoient dans le grand Vestibule, comme si on eut tiré du Canon. On avoit mis un gros Tonneau d'un tres-bon Vin à chaque Piédestal de la grande Porte, sur lesquels on doit poser les Colomnes de Marbre, &amp; on prenoit soin de les remplir à mesure que le Peuple en venoit prendre, ce qu'on luy laissoit faire à discretion. [...]</p>
         <p>Toutes les Communautez Religieuses ont marqué leur zele pendant ces trois jours, non seulement par des <hi rend="i">Te Deum</hi> chantez avec beaucoup de solemnité, mais par des Feux &amp; par des Lumieres mises par tout en grand nombre à leurs Clochers &amp; à leurs Fenestres. Les Benédictins du Monastere de la Daurade, dont la Maison qui a veuë sur la Riviere, est d'une grande étenduë, l'avoient toute illuminée; &amp; cette grande clarté, jointe à la décharge de plusieurs Pieces de Campagne qu'ils avoient fait mettre sur leur Plate-forme, leur attira les loüanges de toute la Ville.</p>
@@ -1377,15 +1526,15 @@
         <p>Les Religieux du Grand Convent de l'Observance de S. François, apres les réjoüissances des trois jours, en firent encor de particulieres le Mercredy 2. de Septembre. Ce jour-là, M<hi rend="sup">r</hi> Baladier, Capitoul, donna un magnifique Soupé dans ce Convent à Messieurs les Capitouls, qui en sont les particuliers Protecteurs, &amp; à toute la Communauté, composée de cent Religieux. Pendant ce Repas, on n'entendit que Tambours, Trompetes, Hautbois, &amp; bruit de Mousqueterie, &amp; en mesme temps on vit leur Clocher, &amp; le tour de leur Eglise, illuminez par un tres-grand nombre de Lustres, rangez de distance en distance, &amp; de diverses couleurs. Apres le Soupé, ces Peres allerent chanter un second <hi rend="i">Te Deum</hi> dans leur Eglise, qui estoit éclairée d'un tres-grand nombre de Cierges &amp; de Lampes. Le concours de monde y fut surprenant. [...]</p>
         <p>Le Seminaire des Irlandois, quoy que pauvre, a crû devoir surpasser ses forces. Pendant les trois jours des réjoüissances publiques, il y eut devant leur Porte un grand Feu de joye ; &amp; sur une Galerie qui répond à la Ruë, estoit un Concert de Harpes, Guitarres, Flageolets, &amp; Flûtes douces, le tout accompagné de quelques Voix, qui, quoy qu'Etrangeres, ne laissoient pas de former une harmonie agreable, qui duroit jusqu'à minuit. Toutes les Fenestres des Salles &amp; des Chambres estoient éclairées, &amp; comme dans ce Seminaire il n'y a point encor de Clocher, on en bâtit promptement un de bois, qui environné d'un fort grand nombre de Lampes, parut singulier à toute la Ville. Ce qui fut encor tres-particulier, c'est qu'un Irlandois tomba du haut de ce Clocher, où il préparoit quelques Lanternes, &amp; cria tout haut en tombant, comme si sa chûte eust dût estre sans danger, <hi rend="i">Vive Monseigneur le Duc de Bourgogne</hi>.</p>
         <p>Les Capucins firent suivre le Feu qu'ils allumerent dans leur Jardin, de la décharge de plusieurs Pieces de Campagne d'une invention nouvelle. C'estoient de gros Troncs d'Arbres, dans lesquels ils avoient fait faire des trous qu'on avoit remplis de Poudre. Le bruit en fut entendu de toute la Ville. Leur joye ne se borna point aux trois jours choisis. Ils la firent encor paroistre le Mercredy 2. de Septembre, par un beau Feu d'artifice dressé devant la Porte de leur Convent, &amp; accompagné de Fusées volantes. Les Capitouls leur presterent six Coulevrines, outre lesquelles ils eurent quatre Bateries de Petards, &amp; cinquante Mousquetaires, qui firent cinq salves au son des Hautbois. [...]</p>
-        <p>La mesme Feste de S. Loüis fut celebrée avec des solemnitez extraordinaires dans l'Eglise des Jesuites de la Maison Professe. Sur les quatre heures après midy de la veille de ce jour, on entendit tout à coup sonner toutes les Cloches, &amp; en mesme temps on fit plusieurs salves de Mousqueterie au Belvéder de l'Eglise dans la Court de la Maison, &amp; dans les Ruës voisines, accompagnées du son des Tambours, des Fifres, des Hautbois, &amp; des Trompetes. A ce bruit, une foule prodigieuse de monde se rendit de toutes parts dans l'Eglise. Elle estoit tenduë d'une double Tenture de Tapisserie, &amp; tres-éclairée. On avoit placé au fonds l'Image de S. Loüis, &amp; au dessous, les Portraits du Roy &amp; de toute la Maison Royale. Le devant de l'Eglise estoit tout tapissé au dehors, avec les Armes de France, soûtenuës par deux Anges sur le grand Portail; &amp; proche le grand Autel, magnifiquement paré, il y avoit plus de cent cinquante Jesuites des trois Maisons qu'ils ont à Toulouse, tout en Bonnets quarré &amp; en Manteau. Un Concert de Trompetes, de Hautbois &amp; de Violons, commença les Vespres, qui furent chantées par une excellente Musique, composée de toutes les belles Voix des deux Chapitres, &amp; de la Ville. On fit plusieurs décharges des Fauconneaux que l'on avoit placez sur l'Eglise. Le Belvéder, tout le dessus de l'Eglise, le Clocher, &amp; toutes les Fenestres de la Maison, furent éclairées le soir d'une infinité de lumieres, &amp; les salves de Mousqueterie recommencerent au bruit des Trompetes &amp; des Tambours, qui pour estre entendus de plus loin, s'estoient mis au Belveder. Ce qu'on admira le plus, fut une Machine en forme de Rouë, remplie de mille petits Globes tout en feu. Elle estoit placée au dessus du Toit de l'Eglise, &amp; on la promenoit de tous costez. Le lendemain Feste de S. Loüis, M<hi rend="sup">r</hi> l'Abbé de Glattens, Fils d'un Conseiller du Parlement, prononça le Panégyrique du Saint, &amp; fit l'Eloge du Roy avec beaucoup d'éloquence. La solemnité fust continuée les deux jours suivans, &amp; finit par le <hi rend="i">Te Deum</hi> chanté en Musique, &amp; suivy d'une Illumination plus belle que la premiere. 
+        <p>La mesme Feste de S. Loüis fut celebrée avec des solemnitez extraordinaires dans l'Eglise des Jesuites de la Maison Professe. Sur les quatre heures après midy de la veille de ce jour, on entendit tout à coup sonner toutes les Cloches, &amp; en mesme temps on fit plusieurs salves de Mousqueterie au Belvéder de l'Eglise dans la Court de la Maison, &amp; dans les Ruës voisines, accompagnées du son des Tambours, des Fifres, des Hautbois, &amp; des Trompetes. A ce bruit, une foule prodigieuse de monde se rendit de toutes parts dans l'Eglise. Elle estoit tenduë d'une double Tenture de Tapisserie, &amp; tres-éclairée. On avoit placé au fonds l'Image de S. Loüis, &amp; au dessous, les Portraits du Roy &amp; de toute la Maison Royale. Le devant de l'Eglise estoit tout tapissé au dehors, avec les Armes de France, soûtenuës par deux Anges sur le grand Portail; &amp; proche le grand Autel, magnifiquement paré, il y avoit plus de cent cinquante Jesuites des trois Maisons qu'ils ont à Toulouse, tout en Bonnets quarré &amp; en Manteau. Un Concert de Trompetes, de Hautbois &amp; de Violons, commença les Vespres, qui furent chantées par une excellente Musique, composée de toutes les belles Voix des deux Chapitres, &amp; de la Ville. On fit plusieurs décharges des Fauconneaux que l'on avoit placez sur l'Eglise. Le Belvéder, tout le dessus de l'Eglise, le Clocher, &amp; toutes les Fenestres de la Maison, furent éclairées le soir d'une infinité de lumieres, &amp; les salves de Mousqueterie recommencerent au bruit des Trompetes &amp; des Tambours, qui pour estre entendus de plus loin, s'estoient mis au Belveder. Ce qu'on admira le plus, fut une Machine en forme de Rouë, remplie de mille petits Globes tout en feu. Elle estoit placée au dessus du Toit de l'Eglise, &amp; on la promenoit de tous costez. Le lendemain Feste de S. Loüis, M<hi rend="sup">r</hi> l'Abbé de Glattens, Fils d'un Conseiller du Parlement, prononça le Panégyrique du Saint, &amp; fit l'Eloge du Roy avec beaucoup d'éloquence. La solemnité fust continuée les deux jours suivans, &amp; finit par le <hi rend="i">Te Deum</hi> chanté en Musique, &amp; suivy d'une Illumination plus belle que la premiere.</p>
         <p>Les Jesuites du College ne furent pas moins zelez que ceux de la Maison Professe. Ils firent dresser au milieu de leur Basse-court un tres-beau Feu d'Artifice, dont le dessein estoit un Apollon qui invitoit les Neuf Muses à célebrer la Naissance du jeune prince. Quantité de Devises servoient d'ornement à la Décoration. Toutes les Fenestres de la Bassecourt remplies de Flambeaux, faisoient un Spectacle tres-brillant. On y avoit peint dans des Figures régulieres les Armes du Roy, de Monseigneur le Dauphin, de Madame la Dauphine, &amp; de Monseigneur le Duc de Bourgogne, &amp; les Bougies disposées derriere les faisoit paroître dans un éclat suprenant. Sur les neuf heures un Dauphin mit le feu à la Machine. La Tour estoit illuminée d'un infinité de Lumieres, qui faisoient voir à toute la Ville un Globe qui rouloit incessamment. Une couronne de France estoit au dessus.</p>
-        <p>Les Dames Chanoinesses de S. Pantaleon, après de tres-grandes Illuminations faites au dehors &amp; au dedans de leur Convent les deux premiers jours, chanterent le <hi rend="i">Te Deum</hi>, qui fut commencé par Madame de Lahas de Lamezan leur Abbesse, Parente de Messieurs les Archevesques de Sens &amp; de Toulouse. Elle estoit revestuë de son Surplis, la Crosse à la main, comme dans leurs plus grandes Solemnitez. Les Hautbois &amp; les Trompetes placez dans le Ravelin de leur Eglise, faisoient un agréable Concert. Cependant M<hi rend="sup">r</hi> de la Garrigue Capitoul, qui estoit en marche avec la Compagnie, fit faire une Décharge de Mousqueterie devant leur Eglise, où il passoit pour aller à l'Hostel de Ville. Le <hi rend="i">Te Deum</hi> finy, elles firent allumer un grand Feu par leur Directeur, qui estoit en Chasuble, &amp; accompagné d'un grand nombre d'Ecclésiastiques tous en Surplis. Le soir, elles redoublerent leurs Illuminations. Les Lumieres qu'elles avoient fait mettre dans des Lanternes de plusieurs couleurs sur la plate forme de leur Clocher, estoient disposées de telle sorte qu'elles représentoient admirablement une Couronne Royale. On tira quantité de Fusées volantes de la Plate forme, que couvroit entierement cette Couronne.
+        <p>Les Dames Chanoinesses de S. Pantaleon, après de tres-grandes Illuminations faites au dehors &amp; au dedans de leur Convent les deux premiers jours, chanterent le <hi rend="i">Te Deum</hi>, qui fut commencé par Madame de Lahas de Lamezan leur Abbesse, Parente de Messieurs les Archevesques de Sens &amp; de Toulouse. Elle estoit revestuë de son Surplis, la Crosse à la main, comme dans leurs plus grandes Solemnitez. Les Hautbois &amp; les Trompetes placez dans le Ravelin de leur Eglise, faisoient un agréable Concert. Cependant M<hi rend="sup">r</hi> de la Garrigue Capitoul, qui estoit en marche avec la Compagnie, fit faire une Décharge de Mousqueterie devant leur Eglise, où il passoit pour aller à l'Hostel de Ville. Le <hi rend="i">Te Deum</hi> finy, elles firent allumer un grand Feu par leur Directeur, qui estoit en Chasuble, &amp; accompagné d'un grand nombre d'Ecclésiastiques tous en Surplis. Le soir, elles redoublerent leurs Illuminations. Les Lumieres qu'elles avoient fait mettre dans des Lanternes de plusieurs couleurs sur la plate forme de leur Clocher, estoient disposées de telle sorte qu'elles représentoient admirablement une Couronne Royale. On tira quantité de Fusées volantes de la Plate forme, que couvroit entierement cette Couronne.</p>
         <p>Les Religieuses de Sainte Claire du Salin firent un Feu d'Artifice au Dôme de leur Eglise. On y vit une Couronne Royale fort illuminée, qui avoit un mouvement continüel. La Tour des Religieuses de Sainte Ursule estoit aussi éclairée d'une maniere, que les Flambeaux qui l'illuminoient, y formoient une Couronne.</p>
         <p>Le Jeudy 3. de Septembre, les Dames Maltoises, apres une grande distribution de Pain, de Vin, &amp; de Viande, finirent leur Feste par un beau Feu d'Artifice au son des Trompetes, des Hautbois, &amp; des Violons.</p>
         <p>Le Lundy 7. du mesme mois, Messieurs les Collegials du Collége de Foix, de Fondation Royale, firent chanter une <hi rend="i">Te Deum</hi> en Musique dans leur Chapelle au bruit des Boëtes &amp; des Fauconneaux ; &amp; le lendemain ils dresserent une Table devant leur Portail, avec une Fontaine de Vin à chaque costé. [...]</p>
-          <p>Ce mesme jour, Feste de la Nativité, les jeunes Marchands firent chanter le <hi rend="i">Te Deum</hi> dans l'Eglise des Jacobins du Grand Convent, en présence des Capitouls qui s'y trouvérent en Robes de Cerémonie. L'apresdînée ils formérent une Compagnie de Cavalerie; &amp; au nombre de deux cens, tous lestes &amp; tres-bien montez, ils marchérent par toute la Ville, le Sabre à la main. M<hi rend="sup">r</hi> le Perat, Fils d'un ancien Capitoul de ce nom, estoit à leur teste. Le soir ils firent joüer un Feu d'Artifice dressé sur un Terrain élevé en Plate forme, qui est hors la Porte de Montolieu.</p>
+        <p>Ce mesme jour, Feste de la Nativité, les jeunes Marchands firent chanter le <hi rend="i">Te Deum</hi> dans l'Eglise des Jacobins du Grand Convent, en présence des Capitouls qui s'y trouvérent en Robes de Cerémonie. L'apresdînée ils formérent une Compagnie de Cavalerie; &amp; au nombre de deux cens, tous lestes &amp; tres-bien montez, ils marchérent par toute la Ville, le Sabre à la main. M<hi rend="sup">r</hi> le Perat, Fils d'un ancien Capitoul de ce nom, estoit à leur teste. Le soir ils firent joüer un Feu d'Artifice dressé sur un Terrain élevé en Plate forme, qui est hors la Porte de Montolieu.</p>
         <p>Le Mercredy 9. M<hi rend="sup">r</hi> Costecaude, Prieur du Collége de Magueronne, accompagné de plusieurs Collegials, alluma un grand Feu devant la grande Porte du Collége, au bruit des Fifres, des Tambours, &amp; des Mousquets. Toutes les Fenestres &amp; tous les Créneaux de la grande Tour estoient éclairez, &amp; il y eut distribution de Vin à tous ceux qui en voulurent.</p>
-      </p>
+      </div>
       <div type="article" xml:id="MG-1682-10a_251">
         <head>[Avanture]</head>
         <bibl><title>Mercure Galant</title>, <date>octobre 1682</date>, première partie [<biblScope unit="volume">tome 11</biblScope>], <biblScope unit="page">p. 251-257</biblScope>.</bibl>
@@ -1464,11 +1613,9 @@
             <l rend="i">Si vous voulez en tout faire florés,</l>
             <l rend="i">Qu’avec Beauté grosse dot soit donnée,</l>
             <l>L’Amour languit sans Bacchus &amp; Cerés.</l>
-           </lg>
-      </quote>
-     </div>
-    </p>
-   </div>
-  </body>
- </text>
+          </lg>
+        </quote>
+      </div>
+    </body>
+  </text>
 </TEI>
