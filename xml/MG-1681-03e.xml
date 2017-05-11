@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-01e">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-03e">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-01e</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-03e</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -45,7 +45,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1681-01e"/>
+        <date when="1681-03e"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -56,7 +56,7 @@
     <body>
     <head><hi rend="i">Extraordinaire du Mercure Galant</hi>, janvier 1681, Quartier de janvier, XIII,
      [tome 2]</head>
-    <div type="article" xml:id="MG-1681-01e_1">
+    <div type="article" xml:id="MG-1681-03e_1">
      <head>[Avant-propos]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 1-2.</bibl>
@@ -72,7 +72,7 @@
        l’onziéme Extraordinaire ; &amp; comme sa Lettre finit par un Article où vous avez interest,
        il sera bon que vous la voyiez entiere. C’est par elle que je commence la mienne.</hi></p>
     </div>
-    <div type="article" xml:id="MG-1681-01e_3">
+    <div type="article" xml:id="MG-1681-03e_3">
      <head>[Lettre de réponses aux questions du dernier extraordinaire]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 3-13.</bibl>
@@ -164,7 +164,7 @@
       <p><hi rend="sc">La Solitaria del Monte Pinceno.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_14">
+    <div type="article" xml:id="MG-1681-03e_14">
      <head>Sentimens sur tout ce qui est proposé dans le dernier Extraordinaire</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 14-29.</bibl>
@@ -399,7 +399,7 @@
       <p><hi rend="sc">Seguiniere-Poignant.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_30">
+    <div type="article" xml:id="MG-1681-03e_30">
      <head>Avanture tragique d’un Singe</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 30-33.</bibl>
@@ -431,7 +431,7 @@
        embrassant, que je suis de tout mon cœur, vostre, &amp;c.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_89">
+    <div type="article" xml:id="MG-1681-03e_89">
      <head>[Madrigaux sur les énigmes précédentes]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 89-91.</bibl>
@@ -483,7 +483,7 @@
       <p>M. ou le Poulet perdu recouvert de la Belle Mouton d’Alençon.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_92">
+    <div type="article" xml:id="MG-1681-03e_92">
      <head>Elegie</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 92-96.</bibl>
@@ -546,7 +546,7 @@
       <p><hi rend="sc">Balamier</hi>, de la Ville d’Usés.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_108">
+    <div type="article" xml:id="MG-1681-03e_108">
      <head>Réponses aux trois premières Questions du dernier Extraordinaire</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 108-120.</bibl>
@@ -661,7 +661,7 @@
       <p><hi rend="i">Le Rat du Parnasse, du C.S. Mederic.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_121">
+    <div type="article" xml:id="MG-1681-03e_121">
      <head>[Lettre de De Lignières à Madame ***]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 121-125.</bibl>
@@ -711,7 +711,7 @@
       vous est deû, Madame, vostre tres-humble &amp; tres-obeïssant Serviteur,</p>
      <p><hi rend="sc">De Lignieres.</hi></p>
     </div>
-    <div type="article" xml:id="MG-1681-01e_165">
+    <div type="article" xml:id="MG-1681-03e_165">
      <head>A un Amy, qui peignoit merveilleusement bien des Fleurs en miniature, &amp; qui faisoit
       mal des Vers</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
@@ -762,7 +762,7 @@
       <p><hi rend="sc">Delongis</hi>, Avocat à Lyon.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_167a">
+    <div type="article" xml:id="MG-1681-03e_167a">
      <head>L’Amant aveugle. Madrigal</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 167.</bibl>
@@ -785,7 +785,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_167b">
+    <div type="article" xml:id="MG-1681-03e_167b">
      <head>De la Chasse</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 167-259.</bibl>
@@ -1624,7 +1624,7 @@
        volontiers agreé d’estre condamné à demeurer toûjours dans les Bois.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_259">
+    <div type="article" xml:id="MG-1681-03e_259">
      <head>[Explications en vers des énigmes précédentes]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 259-268.</bibl>
@@ -1848,7 +1848,7 @@
       <p>L’Amant de la charmante Mad. la Grange de Roüen.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_286">
+    <div type="article" xml:id="MG-1681-03e_286">
      <head>Sentimens sur les Questions du dernier Extraordinaire</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 286-295.</bibl>
@@ -2026,7 +2026,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_296">
+    <div type="article" xml:id="MG-1681-03e_296">
      <head>[Clé d’une lettre codée]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 296-307.</bibl>
@@ -2124,7 +2124,7 @@
       <p><hi rend="sc">Le Berger des Rives du Tarn.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_307">
+    <div type="article" xml:id="MG-1681-03e_307">
      <head>Lettre dans laquelle un sens parfait est caché sous un autre sens parfait</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 307-317.</bibl>
@@ -2225,7 +2225,7 @@
        80 <hi rend="i">ne vaut que huit</hi> ; 2700 <hi rend="i">que vingt-vingt-sept</hi> ; 500 <hi rend="i">que cinq, &amp; ainsi du reste. Il faut excepter le chifre</hi> 50, <hi rend="i">qui vaut effectivement cinquante, &amp; non pas cinq.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_317">
+    <div type="article" xml:id="MG-1681-03e_317">
      <head>[Explication de l’histoire énigmatique]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 317-322.</bibl>
@@ -2309,7 +2309,7 @@
         sur Saône.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_322">
+    <div type="article" xml:id="MG-1681-03e_322">
      <head>Enigme en prose</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 322-325.</bibl>
@@ -2345,7 +2345,7 @@
        Devin que tu sois.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_326">
+    <div type="article" xml:id="MG-1681-03e_326">
      <head>[Sur les question de l’Extraordinaire d’Octobre 1680]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 326-336.</bibl>
@@ -2430,7 +2430,7 @@
        de faire venir du mérite à celuy qui n’a point encor sçeu en faire une bonne provision.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_336">
+    <div type="article" xml:id="MG-1681-03e_336">
      <head>Fiction sur l’Origine des Bagues</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 336-350.</bibl>
@@ -2542,7 +2542,7 @@
       <p><hi rend="sc">Gardien.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_350">
+    <div type="article" xml:id="MG-1681-03e_350">
      <head>[Explications en vers des énigmes précédentes]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 350-381.</bibl>
@@ -3330,7 +3330,7 @@
       <p>Le Bon Clerc de Châlons sur Saône.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-01e_381">
+    <div type="article" xml:id="MG-1681-03e_381">
      <head>[Explication de l’énigme en figure de février]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, janvier 1681, Quartier de janvier, XIII [tome 2],
       p. 381-382.</bibl>

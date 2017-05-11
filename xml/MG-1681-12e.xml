@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-10e">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-12e">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-10e</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-12e</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -44,7 +44,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1681-10e"/>
+        <date when="1681-12e"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -54,7 +54,7 @@
   <text>
     <body>
     <head><hi rend="i">Extraordinaire du Mercure Galant</hi>, octobre 1681, Quartier d'octobre, XVI [tome 14]</head>
-    <div type="article" xml:id="MG-1681-10e_1">
+    <div type="article" xml:id="MG-1681-12e_1">
      <head>[Réponses de M. de Simprou aux Questions proposées dans le XIV. Extraordinaire]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 1-49.</bibl>
@@ -438,7 +438,7 @@
        surpassent le faux brillant des attraits, que le fard peut prester.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_50">
+    <div type="article" xml:id="MG-1681-12e_50">
      <head>De l’Origine des Bagues. Fable</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 50-74.</bibl>
@@ -883,7 +883,7 @@
       <p><hi rend="sc">Richebourg</hi>, Avocat au Parlement de Toulouse.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_97">
+    <div type="article" xml:id="MG-1681-12e_97">
      <head>[Sentimens en Vers de M. du Rosier sur toutes les Questions du XIV.
       Extraordinaire]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -1057,7 +1057,7 @@
       <p><hi rend="sc">Du Rosier.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_106">
+    <div type="article" xml:id="MG-1681-12e_106">
      <head>Origine de la Migraine d’Iris</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 106-114.</bibl>
@@ -1130,7 +1130,7 @@
       <p>L.C.D.S.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_115">
+    <div type="article" xml:id="MG-1681-12e_115">
      <head>Billets galans</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 115-121.</bibl>
@@ -1188,7 +1188,7 @@
        que vous avez pour la Personne du monde qui vous aime le plus ardemment.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_122">
+    <div type="article" xml:id="MG-1681-12e_122">
      <head>Si le Mary doit estre plus grand Maistre que la Femme. Sonnet</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 122.</bibl>
@@ -1222,7 +1222,7 @@
       <p><hi rend="sc">Bardou</hi>, de Poitiers.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_123">
+    <div type="article" xml:id="MG-1681-12e_123">
      <head>Réponse à quatre Questions du dernier Extraordinaire</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 123-125.</bibl>
@@ -1248,7 +1248,7 @@
        &amp; ses bornes.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_125">
+    <div type="article" xml:id="MG-1681-12e_125">
      <head>[Madrigaux sur les Enigmes de Septembre, qui estoient toutes deux sur la Beauté]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 125-131.</bibl>
@@ -1392,7 +1392,7 @@
       <p><hi rend="sc">Alcidor</hi>, du Havre.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_132">
+    <div type="article" xml:id="MG-1681-12e_132">
      <head>Traité sur les Vendanges, et sur l’Origine du Vin</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 132-148.</bibl>
@@ -1527,7 +1527,7 @@
       <p><hi rend="sc">La Selve</hi>, <hi rend="i">de Nismes.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_148">
+    <div type="article" xml:id="MG-1681-12e_148">
      <head>[Sentimens en Vers de Mr Bouchet, ancien Curé de Nogent le Roy, sur les Questions du XV.
       Extraordinaire]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -1641,7 +1641,7 @@
        vous en ay déja envoyées. En voicy une nouvelle qui vous offrira la Veuë d’un des Cloistres
        de cette superbe Maison.</hi></p>
     </div>
-    <div type="article" xml:id="MG-1681-10e_155">
+    <div type="article" xml:id="MG-1681-12e_155">
      <head>De la Medecine</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 155-266.</bibl>
@@ -2554,7 +2554,7 @@
       <p><hi rend="sc">Germain</hi>, <hi rend="i">de Caën.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_266">
+    <div type="article" xml:id="MG-1681-12e_266">
      <head>[Madrigaux sur les Enigmes du mois d’Octobre, dont les Mots estoient les Yeux &amp; le Pain
       de Sucre]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -2822,7 +2822,7 @@
       <p>Le Poëte nouveau-né.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_276">
+    <div type="article" xml:id="MG-1681-12e_276">
      <head>[Ouverture du Secret de l’Ecriture &amp; de la Langue Universelle, inventée par Monsieur
       de Vienne-Plancy]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -3247,7 +3247,7 @@
       <p><hi rend="sc">De Vienne-Plancy.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_331">
+    <div type="article" xml:id="MG-1681-12e_331">
      <head>Si on peut aimer sans le sçavoir</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 331-332.</bibl>
@@ -3274,7 +3274,7 @@
       <p><hi rend="sc">Bardou</hi>, de Poitiers.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_332">
+    <div type="article" xml:id="MG-1681-12e_332">
      <head>[Réponse de la Belle Guillot du Quartier de S. Hilaire de Poitiers […]]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 332-333.</bibl>
@@ -3296,7 +3296,7 @@
       <p><hi rend="sc">La Belle Guillot</hi>, du Quartier de S. Hilaire de Poitiers.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_333">
+    <div type="article" xml:id="MG-1681-12e_333">
      <head>[Réponse de M. Girardot de Moulins, à la Question, En quoy consiste la veritable
       Sagesse]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -3320,7 +3320,7 @@
       <p><hi rend="sc">Girardot</hi>, de Moulins.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_334">
+    <div type="article" xml:id="MG-1681-12e_334">
      <head>[Explication du Billet Enigmatique]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 334-335.</bibl>
@@ -3339,7 +3339,7 @@
        Chifres, dont je n’employe aujourd’huy aucun, par la crainte qu’on n’y prenne pas toûjours
        plaisir.</hi></p>
     </div>
-    <div type="article" xml:id="MG-1681-10e_335">
+    <div type="article" xml:id="MG-1681-12e_335">
      <head>[Madrigaux sur les Enigmes de Novembre, dont le Mot estoit La Palatine]</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 335-351.</bibl>
@@ -3728,7 +3728,7 @@
       <p><hi rend="sc">Gyges</hi>, du Havre.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_357">
+    <div type="article" xml:id="MG-1681-12e_357">
      <head>Reponse aux Larmes de Daphnis, sur la mort de la Femme, qui ont paru dans le dernier
       Extraordinaire</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
@@ -3766,7 +3766,7 @@
       <p><hi rend="sc">L’Abbé de S. Marc</hi>, d’Aix en Provence.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-10e_360">
+    <div type="article" xml:id="MG-1681-12e_360">
      <head>[Annonce du prochain Extraordinaire]*</head>
      <bibl><title>Extraordinaire du Mercure Galant</title>, octobre 1681, Quartier d'octobre, XVI [tome 14],
       p. 360.</bibl>
