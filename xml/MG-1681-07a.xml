@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-07A">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1681-07a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-07A</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mercure-galant/MG-1681-07a</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -44,7 +44,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1681-07A"/>
+        <date when="1681-07a"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -54,7 +54,7 @@
   <text>
     <body>
     <head><hi rend="i">Mercure Galant</hi>, juillet 1681, première partie [tome 9]</head>
-    <div type="article" xml:id="MG-1681-07A_1">
+    <div type="article" xml:id="MG-1681-07a_1">
      <head>[Avant-propos]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 1-13.</bibl>
      <p>I’ay bien de la joye, Madame, que quelque longue que soit la Relation que je vous ay envoyée
@@ -119,7 +119,7 @@
       n’entreray point aujourd’huy dans ce détail, dont l’occasion s’offrira peut-estre une autre
       fois.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_13">
+    <div type="article" xml:id="MG-1681-07a_13">
      <head>[Stances sur la Jonction des deux Mers]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 13-17.</bibl>
      <p>Elle ne peut estre plus favorable pour vous faire voir des Stances irrégulieres qui ont esté
@@ -183,7 +183,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_17">
+    <div type="article" xml:id="MG-1681-07a_17">
      <head>[Sonnet sur le mesme sujet]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 17-19.</bibl>
      <p>J’ajoûte un Sonnet à l’avantage de la Nymphe d’Orb. Vous vous souviendrez que c’est la
@@ -216,7 +216,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_19">
+    <div type="article" xml:id="MG-1681-07a_19">
      <head>[Avanture]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 19-22.</bibl>
      <p>J’ay veu depuis peu une Lettre de Marseille du 10. de Juin, par laquelle on donne avis qu’il
@@ -239,7 +239,7 @@
       quart-d’heure. Ce jeune François estoit aux Infirmeries de Marseille à faire sa quarantaine,
       lors qu’on a écrit ce que je vous viens d’apprendre.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_22">
+    <div type="article" xml:id="MG-1681-07a_22">
      <head>Projet pour une nouvelle Secte de Philosophes, en faveur des Dames</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 22-39.</bibl>
      <p>Vous me demandez si je n’ay plus de nouvelles de Madame de Saliez, Viguiere d’Alby, dans le
@@ -358,7 +358,7 @@
       <p><hi rend="sc">La Viguiere d’Albi.</hi></p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_52">
+    <div type="article" xml:id="MG-1681-07a_52">
      <head>[Suite de la Description de la Salle d’Amour de Cléranton]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 52-73.</bibl>
      <p>Je finis l’Article, pour venir à nostre Amy qui a fait un second Voyage aux Bords de la
@@ -650,7 +650,7 @@
       </quote>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_73">
+    <div type="article" xml:id="MG-1681-07a_73">
      <head>Air nouveau</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 73-74.</bibl>
      <p>Tant de jolis Madrigaux employez par tout dans cette Description, n’empescheront point
@@ -669,7 +669,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_78">
+    <div type="article" xml:id="MG-1681-07a_78">
      <head>[Histoire]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 78-112.</bibl>
      <p>On m’a conté depuis peu les circonstances d’un autre Mariage dont je croy devoir vous faire
@@ -848,7 +848,7 @@
       réünir les cœurs les plus divisez, &amp; qui vient à bout de ses entreprises par des moyens
       qu’il peut seul imaginer.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_112">
+    <div type="article" xml:id="MG-1681-07a_112">
      <head>[M. d’Ormoy fait honneur à Messieurs de l’Académie des Sciences de la visiter […]]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 112-132.</bibl>
      <p>J’oubliay à vous dire le dernier mois, que M<hi rend="sup">r</hi> d’Ormoy, tres-digne Fils
@@ -980,7 +980,7 @@
       longtemps. Cela doit faire admirer le pouvoir, les bontez, &amp; la magnificence du Roy,
       aussi-bien que les soins de ses vigilans Ministres.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_132">
+    <div type="article" xml:id="MG-1681-07a_132">
      <head>[Reponses sur une Explication demandée dans le dernier Extraordinaire]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 132-141.</bibl>
      <p>Voicy deux Réponses, l’une en Prose, &amp; l’autre en Vers, sur l’explication qu’une Dame a
@@ -1071,7 +1071,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_141">
+    <div type="article" xml:id="MG-1681-07a_141" copyOf="JLB-MG-1681-07_141">
      <head>[Réception faite à la Reyne Mere de Dannemark à la Cour de Hanover]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 141-155.</bibl>
      <p>Le 25. du dernier mois, sur l’avis qu’on eut que la Reyne Mere de Dannemark estoit partie de
@@ -1148,7 +1148,7 @@
       l’une sérieuse, &amp; l’autre comique ; &amp; le jour suivant, cette Princesse traversa la
       Ville pour aller à Pyrmont, où elle arriva le 29. de l’autre mois.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_155">
+    <div type="article" xml:id="MG-1681-07a_155">
      <head>[Lettre en Proverbes]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 155-163.</bibl>
      <p>On continuë de prendre plaisir à écrire des Lettres en Proverbes. En voicy encor une
@@ -1201,7 +1201,7 @@
       <p><hi rend="sc">Le Jeune Sans soucy</hi>, de Guise.</p>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_166">
+    <div type="article" xml:id="MG-1681-07a_166">
      <head>Avanture</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 166-169.</bibl>
      <p>Le triste accident dont je vay vous faire part, a bien fait verser des larmes. Un
@@ -1221,7 +1221,7 @@
       sa blessure. Les sentimens de détachement &amp; de pieté qu’elle fit paroistre dans ce peu de
       temps, ne se peuvent concevoir. Jugez du désespoir de ses deux Amans.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_169">
+    <div type="article" xml:id="MG-1681-07a_169">
      <head>Narcisse. Fable</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 169-173.</bibl>
      <p>Autre accident qui n’est pas commun. Une Belle est morte par excés d’amour. Je ne vous puis
@@ -1279,7 +1279,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_256">
+    <div type="article" xml:id="MG-1681-07a_256" copyOf="JLB-1681-07_256">
      <head>[Tout ce qui s’est passé au transport du Corps de feu M. le Duc de Lesdiguieres en
       Dauphiné, &amp; les Honneurs funebres qui luy ont esté rendus en cette Province]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 256-278.</bibl>
@@ -1399,7 +1399,7 @@
       ses Auditeurs. Les Boutiques de la Ville furent fermées pendant tout ce jour, &amp; le
       Parlement ne donna point d’Audience.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_281">
+    <div type="article" xml:id="MG-1681-07a_281">
      <head>Le Berger Fleuriste, à la Nymphe des Bruyeres</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 281-288.</bibl>
      <p>Je vous ay déja parlé bien des fois du Berger Fleuriste, &amp; la délicatesse de son esprit
@@ -1494,7 +1494,7 @@
       </quote>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_289">
+    <div type="article" xml:id="MG-1681-07a_289">
      <head>Chanson à boire</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 289.</bibl>
      <p>Apres tous les Airs d’amour que je vous ay envoyez depuis plusieurs mois, vous serez
@@ -1513,7 +1513,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_290">
+    <div type="article" xml:id="MG-1681-07a_290">
      <head>[Explications en Vers des deux Enigmes du dernier Mois]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 290-291.</bibl>
      <p>La seconde Enigme du dernier Mois, n’a pas seulement trompé vos Amies, mais plusieurs autres
@@ -1531,7 +1531,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_297">
+    <div type="article" xml:id="MG-1681-07a_297">
      <head>[Explication d’une précédente énigme]*</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 297-298.</bibl>
      <p>On a expliqué la seconde sur <hi rend="i">le Vin, l’Eau, le Tonnerre, le Charbon de
@@ -1539,7 +1539,7 @@
       Avocat au Parlement de Paris ; &amp; le Solitaire du Parnasse de Rheims, ces deux derniers en
       Vers.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_298">
+    <div type="article" xml:id="MG-1681-07a_298">
      <head>Enigme</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 298-300.</bibl>
      <p>Le Berger Fleuriste a fait la premiere des deux nouvelles Enigmes que je vous envoye. Le
@@ -1577,7 +1577,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_300">
+    <div type="article" xml:id="MG-1681-07a_300">
      <head>Autre Enigme</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 300-301.</bibl>
      <quote>
@@ -1599,7 +1599,7 @@
       </lg>
      </quote>
     </div>
-    <div type="article" xml:id="MG-1681-07A_301">
+    <div type="article" xml:id="MG-1681-07a_301">
      <head>[Histoire]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 301-307.</bibl>
      <p>L’Amour est le Dieu des Avantures, &amp; il en fait naître tous les jours qui nous
@@ -1634,7 +1634,7 @@
       toute la Ville, où la Belle est présentement reconnuë pour Bellemere de sa Sœur aînée, &amp;
       son vieil Epoux pour Beaupere &amp; Beaufrere de sa Bellefille.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_316">
+    <div type="article" xml:id="MG-1681-07a_316">
      <head>[Sur une tournure stylistique du Mercure galant]*</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 316-320.</bibl>
      <p>Encor une fois, Madame, (car je me souviens de vous en avoir déja priée) je vous conjure
@@ -1655,7 +1655,7 @@
       Ouvrages font voir, que l’heureux talent de dire aisément les choses luy a toûjours esté
       naturel.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_320">
+    <div type="article" xml:id="MG-1681-07a_320">
      <head>[Daumalinde, Princesse de Lusitanie]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 320-321.</bibl>
      <p>Aussi sont-ils recherchez avec un empressement extraordinaire, &amp; c’est ce que nous
@@ -1664,7 +1664,7 @@
       vous dire tout, que vous la nommer. Il ne faut rien davantage, pour en donner une idée
       parfaite à ceux qui connoissent comme vous les Personnes distinguées.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_321">
+    <div type="article" xml:id="MG-1681-07a_321">
      <head>[Le Circé, Livre en Dialogues]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 321.</bibl>
      <p>Le S<hi rend="sup">r</hi> de Luyne, Libraire au Palais, débite un autre Livre nouveau, que
@@ -1673,7 +1673,7 @@
       Dialogues tres-curieux, qu’on ne peut lire avec application sans en tirer beaucoup
       d’avantages, pour se connoistre soy-mesme.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_337">
+    <div type="article" xml:id="MG-1681-07a_337">
      <head>[Régal fait à la Reyne, par M. de Louvoys, dans le Chasteau de Meudon]</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 337-339.</bibl>
      <p>Monseigneur le Dauphin estant dans une entiere santé, &amp; Madame la Dauphine presque tout
@@ -1687,7 +1687,7 @@
       dés le lendemain. Vous jugez-bien que l’on y prendra tous les divertissemens du Lieu &amp; de
       la Saison. La Cour peut se divertir, quand le Monarque travaille sans cesse.</p>
     </div>
-    <div type="article" xml:id="MG-1681-07A_341">
+    <div type="article" xml:id="MG-1681-07a_341">
      <head>[Avis sur la division du Mercure en deux parties]*</head>
      <bibl><title>Mercure Galant</title>, juillet 1681, première partie [tome 9], p. 341.</bibl>
      <p><hi rend="i">Le Mercure de ce Mois est divisé en deux Parties, qui se vendent trente sols
