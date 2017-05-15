@@ -755,13 +755,13 @@
       </div>
       <div type="article" xml:id="MG-1678-02_218" resp="mercure">
         <head>Air Nouveau</head>
-        <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 218-219. cf. 
-          <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_218/">Doux habitans de ces bois, janvier 1678</ref>,
-          <hi>in</hi>
-          <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></bibl>
+        <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 218-219.</bibl>
         <p>Il n’est pas juste de vous parler de Musique, à vous qui l’aimez avec tant de passion, sans vous donner moyen de chanter. Lisez ces Paroles d’un troisiéme air, avant que de vous attacher à la Note. [Air gravé anonyme pour une voix et BC, inséré entre les pages 218 et 219.]</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.</label>
+          <label rend="center">Air nouveau<note resp="editor" place="margin">cf. 
+            <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_218/"><hi rend="i">Doux habitans de ces bois</hi></ref>, février 1678,
+            <hi>in</hi>
+            <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note>.</label>
           <l>Doux Habitans de ces Bois,</l>
           <l>Que vostre amoureux ramage</l>
           <l>S’accorde bien à ma voix !</l>
@@ -913,13 +913,11 @@
       </div>
       <div type="article" xml:id="MG-1678-02_315b" resp="mercure">
         <head>[Air de M. Sicard]</head>
-        <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 315-316. cf. 
-          <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_315/">Vous qui d'un tendre amour, janvier 1678</ref>,
-          <hi>in</hi>
-          <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></bibl>
+        <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 315-316.</bibl>
         <p>Jugez cependant du soin que je prens de vos plaisirs. Un quatriéme Air m’est tombé entre les mains, &amp; je vous en fais part. je le tiens d’une Dame qui m’a assuré qu’il n’avait point encor esté veu. Il est de M<hi rend="sup">r</hi> Sicard, qui chante, qui montre, &amp; qui compose tres-bien. En voicy les Paroles &amp; les Notes. [Air gravé pour une voix et BC, inséré entre les pages 316 et 317.]</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.</label>
+          <label rend="center">Air nouveau <note resp="editor" place="margin">cf. 
+            <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_315/"><hi rend="i">Vous qui d'un tendre amour</hi></ref>, février 1678, <hi>in</hi> <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note>.</label>
           <p>Vous qui d’un tendre amour avez le cœur capable,</p>
           <p>Ne vous laissez jamais charmer.</p>
           <p>Vous serez toûjours miserable</p>
