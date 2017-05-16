@@ -11,9 +11,12 @@ $teinte = $basehref."../Teinte/";
 
 // chercher le doc dans la base
 $docid = current( explode( '/', $path ) );
-$q = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
-$q->execute( array( $docid ) );
-$doc = $q->fetch();
+$query = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
+$query->execute( array( $docid ) );
+$doc = $query->fetch();
+
+$q = null;
+if ( isset($_REQUEST['q']) ) $q=$_REQUEST['q'];
 
 ?><!DOCTYPE html>
 <html>
@@ -31,12 +34,14 @@ echo 'Mercure Galant, OBVIL';
     <style>
     </style>
   </head>
-  <body>
+  <body id="top">
     <div id="center">
       <header id="header">
         <h1><?php
           if ( !$path ) echo '<a href="//obvil.paris-sorbonne.fr/projets/mercure-galant">Projet : Mercure galant</a>';
-          else echo '<a href="'.$basehref.'">Mercure Galant</a>';
+          else {
+            echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">Mercure Galant</a>';
+          }
         ?></h1>
         <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
@@ -46,25 +51,29 @@ echo 'Mercure Galant, OBVIL';
 if ( $doc ) {
   // if (isset($doc['download'])) echo $doc['download'];
   // auteur, titre, date
-  echo "\n".'<header>';
-  echo "\n".'<a class="title" href="' . $basehref . $doc['code'] . '/">';
-  echo $doc['title'].'</a>';
-  echo "\n".'</header>';
+  echo '
+<header>
+  <a class="title" href="' . $basehref . $doc['code'] . '">'.$doc['title'].'</a>
+</header>
+<form action="#mark1">
+  <a title="Retour aux résultats" href="'.$basehref.'?'.$_COOKIE['lastsearch'].'"><img src="'.$basehref.'../theme/img/fleche-retour-corpus.png" alt="←"/></a> 
+  <input name="q" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/><button type="submit">▶</button>
+</form>
+';
+
   // table des matières, quand il y en a une
    if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
 }
 // accueil ? formulaire de recherche général
 else {
-  /*
   echo'
-    <form action="">
-      <input name="q" class="text" placeholder="Rechercher" value="'.str_replace('"', '&quot;', $pot->q).'"/>
-      <div><label>De <input placeholder="année" name="start" class="year" value="'.$pot->start.'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'. $pot->end .'"/></label></div>
-      <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
-      <button type="submit">Rechercher</button>
-    </form>
+<form action="">
+  <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/>
+  <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
+  <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
+  <button type="submit" style="float: right; ">Rechercher</button>
+</form>
   ';
-  */
 }
           ?>
         </aside>
@@ -76,7 +85,12 @@ else {
           <div id="article" class="<?php echo $doc['class']; ?>">
             <?php
 if ( $doc ) {
-  readfile( "article/".$doc['code']."_art.html" );
+  $html = file_get_contents( "article/".$doc['code']."_art.html" );
+  if ( $q ) echo $base->hilite( $doc['id'], $q, $html );
+  else echo $html;
+}
+else if ( $base->search ) {
+  $base->biblio( array( "no", "date", "title", "occs" ), "SEARCH" );
 }
 // pas de livre demandé, montrer un rapport général
 else {
@@ -95,13 +109,12 @@ else {
   */
 }
             ?>
+            <a id="gotop" href="#top">▲</a>
           </div>
         </div>
       </div>
-      <?php
-// footer
-      ?>
     </div>
+    <script type="text/javascript" src="<?= $teinte ?>Teinte.js">//</script>
     <script type="text/javascript" src="<?= $teinte ?>Tree.js">//</script>
     <script type="text/javascript" src="<?= $teinte ?>Sortable.js">//</script>
   </body>
