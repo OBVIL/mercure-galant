@@ -62,139 +62,184 @@
   </teiHeader>
   <text>
     <body>
-      <pb/>
       <head><hi rend="i">Le Nouveau Mercure Galant</hi>, septembre, tome VII, 1677.</head>
       <div type="article" xml:id="MG-1677-09_001" resp="mercure">
-        <head>[Critique du Mercure galant] *</head>
+        <head>[Critique de l'auteur du Mercure galant]*</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, septembre, tome VII, 1677, p. 1-4.</bibl>
         <p>Prenez-y garde, Madame. Il n’y a rien de si propre à me gaster, que les loüanges, &amp; vous m’en donnez de si flateuses, qu’insensiblement je pourray en estre séduit. Si cela arrive, vous n’y trouverez pas vostre compte. J’entreray dans une présomption que vous aurez peine à vaincre, &amp; il vous en coustera tout au moins des prieres pour ces Lettres dont vous me témoignez faire tant de cas. Je veux croire que vous en estes contente, parce que vous avez de la bonté pour moy ; mais quelque vanité que vostre approbation me donne, je conserve assez de raison pour voir que vous cherchez à me payer du soin que je prens de vous envoyer tous les Mois avec les Nouvelles ordinaires, ce que je puis recouvrer de plus curieux. Je ne me pique point de les assaisonner de ce tour fin &amp; délicat qui redouble le prix des choses, &amp; vous perdez vos obligeantes exagerations, si vous croyez me persuader. Demeurons donc, s’il vous plaist, dans les termes dont nous sommes convenus. Laissez-moy vous écrire toûjours sans façon, &amp; ne cherchez dans tout ce que vous recevez de moy, que les témoignages d’un zele qui me rend plus sensible à l’avantage de vous satisfaire, qu’à l’esperance de m’acquerir la réputation de bel Esprit. Il est dangereux de l’avoir. Elle engage à une trop severe exactitude, pour ne laisser rien paroistre où l’on ait mis la derniere main, &amp; cette sujetion seroit fâcheuse pour moy que la méditation embarrasse, &amp; qui prens toûjours la voye la plus aisée pour sortir d’affaires.</p>
       </div>
       <div type="article" xml:id="MG-1677-09_004" resp="mercure">
         <head>L’Amour Commode</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, septembre, tome VII, 1677, p. 4-15.</bibl>
-        <p>Je ne sçay si c’est estre de mauvais goust, mais ce qui est commode me semble si souhaitable par tout, que je ne puis condamner ceux qui veulent de la commodité dans l’Amour mesme. Il s’est fait une petite Piece là dessus qui me met encore davantage dans leurs sentimens. Je ne vous puis dire de qui elle est. Elle m’a esté envoyé de Roüen, avec priere de ne me point informer du nom de l’Autheur. Le terroir est bon pour les Vers, &amp; il n’en vient guere de méchans de ce Païs-là. Voyez si je me trompe, en croyant ceux-cy assez agreablement tournez pour vous plaire.</p>
-        <quote rend="border">
-          <label rend="center">L’Amour Commode.</label>
+        <p>Je ne sçay si c’est estre de mauvais goust, mais ce qui est commode me semble si souhaitable par tout, que je ne puis condamner ceux qui veulent de la commodité dans l’Amour mesme. Il s’est fait une petite Piece là dessus qui me met encore davantage dans leurs sentimens. Je ne vous puis dire de qui elle est. Elle m’a esté envoyée de Roüen, avec priere de ne me point informer du nom de l’Autheur. Le terroir est bon pour les Vers, &amp; il n’en vient guere de méchans de ce Païs-là. Voyez si je me trompe, en croyant ceux-cy assez agreablement tournez pour vous plaire.</p>
+        <quote>
+          <label>L’AMOUR <lb/>COMMODE.</label>
           <lg>
-            <l>Hé bien, mon cœur facile &amp; qui par tout se rend,</l>
-            <l>Pour quatre ou cinq Beautez en mesme temps soûpire.</l>
-            <l>Entre nous, belle Iris, est ce un crime si grand</l>
-            <l><space/>Qu’il faille y trouver tant à dire !</l>
-          </lg><lg>
-            <l><space/>Si j’ay dequoy vous engager,</l>
-            <l>Parce que j’aime ailleurs en dois-je moins vous plaire,</l>
-            <l>Et pour quelques douceurs qu’on me voit partager,</l>
-            <l><space/>Ne sçaurois-je estre vôtre affaire ?</l>
-          </lg><lg>
-            <l>Rendez plus de justice à ma sincerité,</l>
-            <l>Si j’en conte en tous lieux, c’est sans estre volage,</l>
-            <l>J’aime tant que l’on m’aime, &amp; cette fermeté</l>
-            <l><space/>Vaut bien qu’avec moy l’on s’engage.</l>
-          </lg><lg>
-            <l><space/>Il est vray qu’absent de beaux yeux</l>
-            <l>Dont mon ame charmée adore la lumiere,</l>
-            <l><space/>Pour finir des jours ennuyeux</l>
-            <l><space/>Je n’ay pas la main meurtriere.</l>
-          </lg><lg>
-            <l>Je vous où je prétens qu’on se plaise à me voir,</l>
-            <l><space/>Je ris, je chante, je folâtre,</l>
-            <l><space/>Et regarde le Desespoir</l>
-            <l><space/>Comme une vertu de Theatre.</l>
-          </lg><lg>
-            <l>C’est estre, je l’avoüe, Amant peu regulier,</l>
-            <l>Mais je fuis tous les maux que le chagrin fait naistre,</l>
-            <l><space/>Et si c’est là n’aimer qu’en Ecolier,</l>
-            <l><space/>Dieu me garde d’aimer en Maistre.</l>
-          </lg><lg>
-            <l>Apres tout, le repos estant un bien si doux,</l>
-            <l><space/>Aime-t-on afin qu’on enrage,</l>
-            <l>Et pour sécher d’ennuy d’estre éloigné de vous,</l>
-            <l><space/>Vous en verray-je davantage ?</l>
-          </lg><lg>
-            <l>Les plaintes, les langueurs, les soûpirs, les sanglots,</l>
-            <l>Me rendront-ils ce que m’oste l’absence,</l>
-            <l><space/>Et n’est-il pas plus à propos</l>
-            <l>Qu’apres l’avoir perdu je prenne patience ?</l>
-          </lg><lg>
-            <l>L’Amour de tous les maux est le plus dangereux,</l>
-            <l>Quand trop d’attachement nous livre à son caprice,</l>
-            <l>Et je ne sçache point d’employ si malheureux,</l>
-            <l><space/>Que de se faire Amant d’office.</l>
-          </lg><lg>
-            <l>À chaque occasion il faut avec transport</l>
-            <l>S’arracher les cheveux, se battre la poitrine,</l>
-            <l>Estre tout prest de courir à la mort</l>
-            <l><space/>Ou du moins en avoir la mine.</l>
-          </lg><lg>
-            <l>Franchement, ce mestier est des plus fatigans,</l>
-            <l>Il a mille chagrins qui rarement s’appaisent,</l>
-            <l>Et ce n’est pas à tort qu’on nomme extravagans</l>
-            <l><space/>Les pauvres Dupes qui s’y plaisent.</l>
-          </lg><lg>
-            <l><space/>Aime par regles qui voudra,</l>
-            <l><space/>Jamais ce ne fut ma methode,</l>
-            <l>Je m’offre, &amp; sans songer comme le tout ira,</l>
-            <l><space/>Je prens d’abord du plus comode.</l>
-          </lg><lg>
-            <l><space/>Mes vœux n’ayant pour tout objet</l>
-            <l><space/>Que de rendre heureux ce que j’aime,</l>
-            <l><space/>Pour réüssir dans ce projet</l>
-            <l>Je croy devoir toûjours commencer par moy-mesme.</l>
-          </lg><lg>
-            <l>Ainsi, charmante Iris, si mon humeur vous plaist,</l>
-            <l><space/>N’examiner rien autre chose,</l>
-            <l><space/>Aimez-moy sans prendre interest</l>
-            <l>Si de mon cœur quelqu’autre ainsi que vous dispose.</l>
-          </lg><lg>
-            <l>Tant que je vous verray, je seray tout à vous,</l>
-            <l><space/>Point de souvenir des Absentes,</l>
-            <l>Vous allumerez seule en des momens si doux</l>
-            <l><space/>Mes passions les plus ardentes.</l>
-          </lg><lg>
-            <l>Dans quelque passe-temps que vous vüeillez donner,</l>
-            <l><space/>J’y donneray sans le combatre ;</l>
-            <l><space/>Et si vous voulez badiner,</l>
-            <l><space/>Je seray badin comme quatre.</l>
-          </lg><lg>
-            <l>Je ne dis pas, quand vous m’aurez quité,</l>
-            <l><space/>Qu’attendant que je vous revoye,</l>
-            <l><space/>Je n’aille d’un autre costé</l>
-            <l><space/>Faire un nouvel amas de joye.</l>
-          </lg><lg>
-            <l>Mais ces egaremens facheux aux cœurs jaloux,</l>
-            <l><space/>Ne peuvent estre à vostre honte ;</l>
-            <l><space/>Ce que je feray loin de vous,</l>
-            <l><space/>Ne sera point sur vostre compte.</l>
-          </lg><lg>
-            <l>Dans le temps où tous deux nous ne nous verrons pas,</l>
-            <l>Comme d’aucun plaisir je ne veux me defendre,</l>
-            <l><space/>Ne vous faites point d’embarras</l>
-            <l><space/>De tous ceux que vous pourrez prendre.</l>
-          </lg><lg>
-            <l>Recevez des Amans, écoutez leurs douceurs,</l>
-            <l>Et quand de nous revoir l’heure sera venuë,</l>
-            <l>Prenons ce que chacun nous aurons fait ailleurs,</l>
-            <l><space/>Comme chose non avenuë.</l>
-          </lg><lg>
-            <l><space/>Sans nous inquieter de rien,</l>
-            <l><space/>Faisons-nous le mesme visage,</l>
-            <l><space/>Que si vostre cœur &amp; le mien</l>
-            <l><space/>Estoient demeurez sans partage.</l>
-          </lg><lg>
-            <l><space/>Comme d’amour tout transporté,</l>
-            <l><space/>Je vous feray mille caresses,</l>
-            <l>Vous pourrez y répondre en toute seureté</l>
-            <l><space/>Par vos plus flateuses tendresses.</l>
-          </lg><lg>
-            <l>Me faire des faveurs, c’est ne rien hazarder,</l>
-            <l>Je suis discret, &amp; recevant des vostres,</l>
-            <l><space/>Vous aurez beau m’en accorder,</l>
-            <l><space/>Je n’en parleray point aux autres.</l>
-          </lg><lg>
-            <l>À ces conditions si je suis vostre fait,</l>
-            <l><space/>Belle Iris, vous n’avez qu’à dire,</l>
-            <l>Cherchons en nous aimant l’amour le plus parfait,</l>
-            <l><space/>Mais n’aimons jamais que pour rire.</l>
+            <l rend="i">Hé bien, mon cœur facile &amp; qui par tout se rend,</l>
+            <l rend="i">Pour quatre ou cinq Beautez en mesme temps soûpire.</l>
+            <l rend="i">Entre nous, belle Iris, est ce un crime si grand</l>
+            <l rend="i"> Qu’il faille y trouver tant à dire ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Si j’ay dequoy vous engager,</l>
+            <l rend="i">Parce que j’aime ailleurs en dois-je moins vous plaire,</l>
+            <l rend="i">Et pour quelques douceurs qu’on me voit partager,</l>
+            <l rend="i"> Ne sçaurois-je estre vôtre affaire ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Rendez plus de justice à ma sincerité,</l>
+            <l rend="i">Si j’en conte en tous lieux, c’est sans estre volage,</l>
+            <l rend="i">J’aime tant que l’on m’aime, &amp; cette fermeté</l>
+            <l rend="i"> Vaut bien qu’avec moy l’on s’engage.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Il est vray qu’absent des beaux yeux</l>
+            <l rend="i">Dont mon ame charmée adore la lumiere,</l>
+            <l rend="i"> Pour finir des jours ennuyeux</l>
+            <l rend="i"> Je n’ay pas la main meurtriere.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Je cours où je prétens qu’on se plaise à me voir,</l>
+            <l rend="i"> Je ris, je chante, je folâtre,</l>
+            <l rend="i"> Et regarde le Desespoir</l>
+            <l rend="i"> Comme une vertu de Theatre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">C’est estre, je l’avoüe, Amant peu regulier,</l>
+            <l rend="i">Mais je fuis tous les maux que le chagrin fait naistre,</l>
+            <l rend="i"> Et si c’est là n’aimer qu’en Ecolier,</l>
+            <l rend="i"> Dieu me garde d’aimer en Maistre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Apres tout, le repos estant un bien si doux,</l>
+            <l rend="i"> Aime-t-on afin qu’on enrage,</l>
+            <l rend="i">Et pour sécher d’ennuy d’estre éloigné de vous,</l>
+            <l rend="i"> Vous en verray-je davantage ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Les plaintes, les langueurs, les soûpirs, les sanglots,</l>
+            <l rend="i">Me rendront-ils ce que m’oste l’absence,</l>
+            <l rend="i"> Et n’est-il pas plus à propos</l>
+            <l rend="i">Qu’apres l’avoir perdu je prenne patience ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">L’Amour de tous les maux est le plus dangereux,</l>
+            <l rend="i">Quand trop d’attachement nous livre à son caprice,</l>
+            <l rend="i">Et je ne sçache point d’employ si malheureux,</l>
+            <l rend="i"> Que de se faire Amant d’office.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">A chaque occasion il faut avec transport</l>
+            <l rend="i">S’arracher les cheveux, se battre la poitrine,</l>
+            <l rend="i">Estre tout prest de courir à la mort</l>
+            <l rend="i"> Ou du moins en avoir la mine.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Franchement, ce mestier est des plus fatigans,</l>
+            <l rend="i">Il a mille chagrins qui rarement s’appaisent,</l>
+            <l rend="i">Et ce n’est pas à tort qu’on nomme extravagans</l>
+            <l rend="i"> Les pauvres Dupes qui s’y plaisent.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Aime par regles qui voudra,</l>
+            <l rend="i"> Jamais ce ne fut ma methode,</l>
+            <l rend="i">Je m’offre, &amp; sans songer comme le tout ira,</l>
+            <l rend="i"> Je prens d’abord du plus comode.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Mes vœux n’ayant pour tout objet</l>
+            <l rend="i"> Que de rendre heureux ce que j’aime,</l>
+            <l rend="i"> Pour réüssir dans ce projet</l>
+            <l rend="i">Je croy devoir toûjours commencer par moy-mesme.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Ainsi, charmante Iris, si mon humeur vous plaist,</l>
+            <l rend="i"> N’examinez rien autre chose,</l>
+            <l rend="i"> Aimez-moy sans prendre interest</l>
+            <l rend="i">Si de mon cœur quelqu’autre ainsi que vous dispose.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Tant que je vous verray, je seray tout à vous,</l>
+            <l rend="i"> Point de souvenir des Absentes,</l>
+            <l rend="i">Vous allumerez seule en des momens si doux</l>
+            <l rend="i"> Mes passions les plus ardentes.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Dans quelque passe-temps que vous vüeilliez donner,</l>
+            <l rend="i"> J’y donneray sans le combatre ;</l>
+            <l rend="i"> Et si vous voulez badiner,</l>
+            <l rend="i"> Je seray badin comme quatre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Je ne dis pas, quand vous m’aurez quité,</l>
+            <l rend="i"> Qu’attendant que je vous revoye,</l>
+            <l rend="i"> Je n’aille d’un autre costé</l>
+            <l rend="i"> Faire un nouvel amas de joye.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Mais ces égaremens facheux aux cœurs jaloux,</l>
+            <l rend="i"> Ne peuvent estre à vostre honte ;</l>
+            <l rend="i"> Ce que je feray loin de vous,</l>
+            <l rend="i"> Ne sera point sur vostre compte.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Dans le temps où tous deux nous ne nous verrons pas,</l>
+            <l rend="i">Comme d’aucun plaisir je ne veux me defendre,</l>
+            <l rend="i"> Ne vous faites point d’embarras</l>
+            <l rend="i"> De tous ceux que vous pourrez prendre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Recevez des Amans, écoutez leurs douceurs,</l>
+            <l rend="i">Et quand de nous revoir l’heure sera venuë,</l>
+            <l rend="i">Prenons ce que chacun nous aurons fait ailleurs,</l>
+            <l rend="i"> Comme chose non avenuë.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Sans nous inquieter de rien,</l>
+            <l rend="i"> Faisons-nous le mesme visage</l>
+            <l rend="i"> Que si vostre cœur &amp; le mien</l>
+            <l rend="i"> Estoient demeurez sans partage.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i"> Comme d’amour tout transporté,</l>
+            <l rend="i"> Je vous feray mille caresses,</l>
+            <l rend="i">Vous pourrez y répondre en toute seureté</l>
+            <l rend="i"> Par vos plus flateuses tendresses.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Me faire des faveurs, c’est ne rien hazarder,</l>
+            <l rend="i">Je suis discret, &amp; recevant des vostres,</l>
+            <l rend="i"> Vous aurez beau m’en accorder,</l>
+            <l rend="i"> Je n’en parleray point aux autres.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">A ces conditions si je suis vostre fait,</l>
+            <l rend="i"> Belle Iris, vous n’avez qu’à dire,</l>
+            <l rend="i">Cherchons en nous aimant l’amour le plus parfait,</l>
+            <l rend="i"> Mais n’aimons jamais que pour rire.</l>
           </lg>
         </quote>
         <p>Si tout le monde suivoit ces Maximes, l’Amour ne causeroit pas tant de malheurs, &amp; l’emportement inconsideré d’un Jaloux n’auroit pas donné lieu à l’Avanture que vous allez entendre.</p>
@@ -202,7 +247,7 @@
       <div type="article" xml:id="MG-1677-09_015" resp="mercure">
         <head>[Histoire de la fausse Provençale]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, septembre, tome VII, 1677, p. 15-43.</bibl>
-        <p>Une Dame bien faite, jolie, spirituelle, enjoüée, vertueuse dans le fond, mais ayant l’air du monde, &amp; trouvant un plaisir sensible à s’entendre conter des douceurs, ne pût s’empescher de s’abandonner à son panchant pendant l’absence de son Mary, que d’importantes affaires avoient appellé pour quelques mois dans le Languedoc. Il aimoit sa Femme, &amp; elle meritoit bien qu’il l’aimast ; mais soit jalousie, soit délicatesse trop scrupuleuse sur le point-d’honneur, il estoit severe pour ce qui regardoit sa conduite, &amp; il l’obligeoit à vivre dans une régularité un peu éloignée des innocentes libertez qu’elle auroit crû pouvoir s’accorder. Ainsi il ne faut pas estre surpris, si se voyant maistresse de ses actions par son depart, elle n’eust pas tous les scrupules qu’il avoit tâché de luy donner. Elle estoit née pour la joye, l’occasion estoit favorable, &amp; elle crût qu’il luy devoit estre permis de s’en servir. Elle eut pourtant soin d’éviter l’éclat, &amp; ne voulut recevoir aucune visite chez elle ; mais elle avoit des Amies, ces Amies voyoient le beau monde, &amp; l’enjoûment de son humeur joint aux agrémens de sa Personne, fit bientost l’effet qu’elle souhaitoit. On la vit, elle plût, on luy dit qu’elle estoit belle, sans qu’elle témoignast s’en fâcher ; les tendres déclarations suivirent, elle les reçeut en Femme d’esprit qui veut en profiter sans se commettre ; &amp; là-dessus, grands desseins de s’en faire aimer. Promenades, Comédies, Opéra, Festes galantes, tout est mis en usage, &amp; c’est tous les jours quelque nouveau Divertissement. Cette maniere de vie aussi agreable que commode, avoit pour elle une douceur merveilleuse, &amp; jamais Femme ne s’accomoda mieux de l’absence de son Mary. Les plus éclairez pourtant en fait de Galanterie, s’apperçeurent bientost qu’il n’y avoit que des paroles à esperer d’elle. Ils l’en estimerent davantage, &amp; n’en eurent pas moins d’empressement à se rendre où ils croyoient la devoir trouver. Jusque-là, tout le monde alloit le mieux du monde ; mais ce qui gasta tout, ce fut un de ces messieurs du bel air, qui sotement amoureux d’eux-mesmes sur leurs propres complaisances, s’imaginent qu’il n’y a point de Femmes à l’épreuve de leurs douceurs, quand ils daignent se donner la peine d’en conter. Celuy-cy, dont une Perruque blonde, des Rubans bien compassez, &amp; force Point de France répandu par tout, faisoient le merite le plus éclatant, se tenoit si fort assuré des faveurs de la Belle dont il s’agit, sur quelques Réponses enjoüées qu’il n’avoit pas eu l’esprit de comprendre, qu’il se hazarda un jour à pousser les affaires un peu trop loin. La Dame le regarda fierement, changea de stile, rit son sérieux, &amp; rabatit tellement sa vanité, qu’il en demeura inconsolable. Il se croyoit beau, &amp; trop plein du ridicule entêtement qu’il avoit pour luy, il ne trouvoit pas vray-semblable qu’il se fust offert sans qu’on eust accepté le Party. Il examina de plus pres les manieres de la Dame, la vit de belle humeur avec ceux qu’il regardoit comme les Rivaux ; sans songer qu’ils ne luy avoient pas donné les mesmes sujets de plainte que luy, imputant à quelque préoccupation de cœur qui n’estoit qu’un effet de sa vertu, il prit conseil de sa jalousie, &amp; ne chercha plus qu’à se vanger de l’aveuglement qu’elle avoit de faire des Heureux à son préjudice. Il en trouva l’occasion &amp; plus prompte &amp; toute autre qu’il ne l’esperoit. La Dame estoit allée à une Partie de Campagne pour quelques jours avec une Amie. Par malheur pour elle, son Mary revint inopinément de Languedoc le lendemain de cette Partie. Il fut surpris de ne la point rencontrer en arrivant. Celle qui l’avoit emmenée hors de Paris estoit un peu en réputation de Coquete. Le chagrin le prit. Il forma des soupçons, &amp; il y fut confirmé par l’Amant jaloux, qui ayant sçeu son retour, fut des premiers à le voir. Comme ils avoient toûjours vescu ensemble avec assez de familiarité, le Mary ne luy cacha point la mauvaise humeur où le mettoit l’imprudente Promenade de sa Femme. Cet infidelle Amy qui ne cherchoit qu’à se vanger d’elle, crût qu’ïl ne pouvoit prendre mieux son temps. Il la justifie en apparence, &amp; entrant dans le détail de toutes les Connoissances qu’elle a faites depuis son depart, pour prévenir, dit-il, les méchans contes que d’indiscrets Zélez luy en pourroient faire, il les excuse d’une maniere qui la rend coupable de tout ce qu’il feint de vouloir qu’il croye innocent. Le Mary prend feu. Quelques petites railleries que d’autres luy font, &amp; qui ont du raport avec cette premiere accusation achevent de le blesser jusqu’au vif. Il s’emporte, il fulmine, &amp; il auroit pris quelque résolution violente, si ses veritables Amis n’eussent détourné le coup. Tout ce qu’ils peuvent gagner pourtant, c’est qu’en attendant qu’il soit éclaircy des prétenduës galanteries de sa Femme, elle ira se mettre dans un Couvent qu’il leur nomme à douze ou quinze lieuës de Paris. Deux Parentes des plus prudes se chargent de luy porter l’ordre, &amp; de le faire executer. La Dame qui connoissoit la severité de son Mary, ne balance point à faire ce qu’il souhaite. La voila dans le Couvent, dont heureusement pour elle l’Abbesse estoit Sœur de ceux qui luy en avoient le plus conté, quoy que ce commerce fust demeuré inconnu à l’Amant jaloux. Ainsi elle ne manqua pas de Lettres de faveur pour tous les Privileges qui pouvoient luy estre accordez. Elle n’avoit pas trop besoin d’une recommandation particuliere. Ses manieres engageantes &amp; flateuses en estoient une tres-forte pour elle, &amp; il ne falloit rien davantage pour la faire aimer de tout le Couvent. C’estoit une necessité pour elle d’y passer quelque temps, elle aimoit les plaisirs, &amp; elle s’en fit de tout ce qui en peut donner dans la retraite. Elle noüa sur tout une amitié avec une jeune Veuve Provençale, Pensionnaire du Couvent comme elle. Son langage la charma tellement (il n’y en a point de plus agreable pour les Dames) qu’elle s’attacha à l’étudier ; &amp; comme il ne faut que vouloir fortement les choses pour y réüssir, elle s’y rendit si sçavante en trois mois, qu’on l’eut prise pour une Provençale originaire. Cependant il y en avoit déja six qu’elle estoit recluse. Sa prison l’ennuyoit, &amp; elle succomba à la tentation de venir à Paris <hi rend="i">incognito</hi> passer quinze jours avec ses Amies. L’Abbesse, quoy qu’avec un peu de peine, luy accorda ce congé à l’instante sollicitation de son Frere, à qui elle devoit ce qu’elle estoit. Elle se précautionne pour n’estre point découverte. Une Amie avec qui elle concerte son dessein, &amp; qui se charge de luy faire donner un Apartement en lieu où elle ne soit connuë d’aucun Domestique, la va prendre à deux lieuës de Paris, &amp; la mene chez la Femme d’un vieux Conseiller, qui ne l’ayant jamais veuë, la reçoit comme une Dame qui arrive nouvellement de Provence. Grande amitié qui se lie entr’elles. Il n’est parlé que de la belle Provençale, c’est sous ce nom qu’on songe à la divertir &amp; elle jouë si bien son personnage, que ne voyant que trois ou quatre de ses plus particuliers Amis qui sont avertis de tout, il est impossible qu’on la soupçonne de n’estre pas ce qu’elle se dit. Tout contribuë à mettre son secret en assurance. Le quartier où elle loge est fort éloigné de son Mary, elle ne sort jamais que masquée avec la Femme du Conseiller ; &amp; quand elle fait quelque Partie de promenade avec son Amie, ce sont tous Gens choisis qui en sont, &amp; leur indiscretion n’est point à craindre pour elle. Trois semaines se passent de cette sorte. Elle prend ses mesures pour toutes les choses qui peuvent obliger son Mary à la rapeler aupres de luy, &amp; feignant tout-à-coup d’avoir reçeu des nouvelles qui la pressent de se rendre en Provence, elle se dispose à s’aller renfermer dans le Couvent. Le jour est pris pour cela. Elle doit aller coucher avec son Amie à cinq ou six lieuës de Paris, &amp; les adieux sont déja à demy-faits sans qu’on ait rien découvert ce qu’elle a interest à tenir caché. Dans cette disposition qui eust pû prévoir ce qui luy arrive ? Son Mary avoit un Procés, le Conseiller qui la loge est nommé Raporteur ; il cherche accés aupres de luy, &amp; s’adresse à un Gentilhomme avec qui il a fait connoissance en Languedoc, &amp; qu’il sçait estre le tout-puissant dans cette Maison. Le Gentilhomme prend volontiers cette occasion de faire valoir son credit, &amp; ils vont ensemble chez le Conseiller le jour mesme que la fausse Provençale doit partir. Le Conseiller s’estoit enfermé dans son Cabinet au retour du Palais pour une Affaire qu’il falloit necessairement qu’il examinast sur l’heure. Il estoit question d’attendre. Le Gentilhomme pour mieux servir son Amy, le mene à l’Apartement de madame qu’il veut mettre dans ses interests. Comme il y entroit sans façon à toutes les heures du jour, il y monte sans qu’elle en soit avertie, &amp; il la surprend avec la fausse Provençale, qui ne s’attendoit à rien moins qu’à une visite de son Mary. Jugez de la surprise de l’un &amp; de l’autre. Le Mary ne sçait où il en est. Il regarde, reconnoist sa Femme, &amp; troublée d’une rencontre si inopinée, il oublie son Procès, &amp; n’écoute presque point ce que son Amy dit en sa faveur. La Dame n’est pas moins embarassée de son costé ; mais comme elle voit le pas dangereux pour elle, si elle n’y remedie par son esprit, elle ne se déconcerte point, &amp; parlant Provençal au Gentilhomme qu’elle a déja veu plusieurs fois, elle luy dit cent plaisanteries qui mettent le Mary dans un embarras nouveau. Il demande tout bas à son Amy qui elle est, &amp; il luy répond de si bonne foy (comme il le croit) que c’est une Dame de Provence venuë à Paris pour affaires, que son langage servant à confirmer ce qu’il luy dit, il commence à croire que la ressemblance des traits a pû le tromper, &amp; il ne s’en faut guére mesme qu’ils ne luy ont paru d’abord. Il s’approcher d’elle, l’examine, luy parle, &amp; le Gentilhomme luy ayant dit qu’il falloit qu’elle sollicitast pour son Amy, elle promet de s’y employer comme si c’estoit son affaire propre. Elle tient parole, &amp; le Conseiller entrant, c’est elle qui commence la sollicitation ; mais elle le fait avec tant de grace &amp; avec une telle liberté d’esprit, que son Mary ne peut croire que si elle estoit sa Femme, elle eust pû se posseder assez pour pousser le déguisement jusque-là. Il sort tres-satisfait du Conseiller ; &amp; pour n’avoir aucun scrupule d’estre la Dupe de cette rencontre, il se résout d’aller dés le lendemain trouver sa Femme au Couvent. Elle y met ordre par la promptitude de son retour, &amp; devinant ce qu’il est capable de faire pour s’éclaircir, au lieu d’aller coucher où son Amie la devoit mener, elle marche toute la nuit, &amp; arrive de tres-grand matin au Couvent. L’Abbesse à qui elle rend compte de tout, instruit la Touriere de ce qu’elle doit dire, si quelqu’un la vient demander. Son Mary fait diligence, &amp; arrive six heures apres elle. Il vient au Parloir. On luy dit que sa Femme n’a presque point quité le Lit depuis huit jours, à cause d’une legere indisposition, &amp; elle paroît un quart-d’heure apres en coifure de Convalescence. La fatigue du voyage, &amp; le manque de dormir pendant toute la nuit passée, l’avoient un peu abatuë. Cela vint le plus à propos du monde. Comme son Mary ne luy trouva ny les mesmes ajustemens, ny la mesme vivacité de teint qui l’avoit ébloüy le jour précedent dans la provençale, il fut aisément persuadé qu’il y avoit eu de l’erreur dans ce qu’il s’en estoit figuré d’abord. Cependant il avoit remarqué tant de merite dans cette prétenduë Provençale, &amp; il en estoit tellement touché, que se tenant trop heureux de posséder une Personne qui luy ressembloit, &amp; estant d’ailleurs convaincu qu’il y avoit eu plus d’imprudence que de crime dans la conduite de sa Femme, il luy dit les choses les plus touchantes pour luy faire oubleir ce que six mois de clôture luy avoient pû causer de chagrin. Elle garde quelque temps son sérieux avec luy, luy fait ses plaintes en bon accent François se son injurieux procedé, &amp; apres quelques feints refus de luy pardonner si-tost un outrage qui avoit fait tant de tort à la reputation, elle se rend aux pressans témoginages de sa tendresse, &amp; retourne avec luy le lendemain à Paris. Il luy conte l’Avanture de la Provençale qu’il promet de luy faire voir, &amp; il demeure un peu interdit, quand l’estant allé demander chez le Conseiller, il apprend que ses affaires l’avoient rapelée en Provence. Je ne sçay si un depart si prompt luy a fait soupçonner quelque chose, mais il en use tres-bien avec sa Femme, &amp; il luy laisse mesme plus de liberté qu’il ne luy en soufroit avant son voyage de Languedoc.</p>
+        <p>Une Dame bien faite, jolie, spirituelle, enjoüée, vertueuse dans le fond, mais ayant l’air du monde, &amp; trouvant un plaisir sensible à s’entendre conter des douceurs, ne pût s’empescher de s’abandonner à son panchant pendant l’absence de son Mary, que d’importantes affaires avoient appellé pour quelques mois dans le Languedoc. Il aimoit sa Femme, &amp; elle meritoit bien qu’il l’aimast ; mais soit jalousie, soit délicatesse trop scrupuleuse sur le point-d’honneur, il estoit severe pour ce qui regardoit sa conduite, &amp; il l’obligeoit à vivre dans une régularité un peu éloignée des innocentes libertez qu’elle auroit crû pouvoir s’accorder. Ainsi il ne faut pas estre surpris, si se voyant maistresse de ses actions par son depart, elle n’eust pas tous les scrupules qu’il avoit tâché de luy donner. Elle estoit née pour la joye, l’occasion estoit favorable, &amp; elle crût qu’il luy devoit estre permis de s’en servir. Elle eut pourtant soin d’éviter l’éclat, &amp; ne voulut recevoir aucune visite chez elle ; mais elle avoit des Amies, ces Amies voyoient le beau monde, &amp; l’enjoûment de son humeur joint aux agrémens de sa Personne, fit bientost l’effet qu’elle souhaitoit. On la vit, elle plût, on luy dit qu’elle estoit belle, sans qu’elle témoignast s’en fâcher ; les tendres déclarations suivirent, elle les reçeut en Femme d’esprit qui veut en profiter sans se commettre ; &amp; là-dessus, grands desseins de s’en faire aimer. Promenades, Comédies, Opéra, Festes galantes, tout est mis en usage, &amp; c’est tous les jours quelque nouveau Divertissement. Cette maniere de vie aussi agreable que commode, avoit pour elle une douceur merveilleuse, &amp; jamais Femme ne s’accommoda mieux de l’absence de son Mary. Les plus éclairez pourtant en fait de Galanterie, s’apperçeurent bientost qu’il n’y avoit que des paroles à esperer d’elle. Ils l’en estimerent davantage, &amp; n’en eurent pas moins d’empressement à se rendre où ils croyoient la devoir trouver. Jusque-là, tout alloit le mieux du monde ; mais ce qui gasta tout, ce fut un de ces Messieurs du bel air, qui sotement amoureux d’eux-mesmes sur leurs propres complaisances, s’imaginent qu’il n’y a point de Femmes à l’épreuve de leurs douceurs, quand ils daignent se donner la peine d’en conter. Celuy-cy, dont une Perruque blonde, des Rubans bien compassez, &amp; force Point de France répandu par tout, faisoient le merite le plus éclatant, se tenoit si fort assuré des faveurs de la Belle dont il s’agit, sur quelques Réponses enjoüées qu’il n’avoit pas eu l’esprit de comprendre, qu’il se hazarda un jour à pousser les affaires un peu trop loin. La Dame le regarda fierement, changea de stile, prit son sérieux, &amp; rabatit tellement sa vanité, qu’il en demeura inconsolable. Il se croyoit beau, &amp; trop plein du ridicule entêtement qu’il avoit pour luy, il ne trouvoit pas vray-semblable qu’il se fust offert sans qu’on eust accepté le Party. Il examina de plus pres les manieres de la Dame, la vit de belle humeur avec ceux qu’il regardoit comme les Rivaux ; sans songer qu’ils ne luy avoient pas donné les mesmes sujets de plainte que luy, imputant à quelque préoccupation de cœur qui n’estoit qu’un effet de sa vertu, il prit conseil de sa jalousie, &amp; ne chercha plus qu’à se vanger de l’aveuglement qu’elle avoit de faire des Heureux à son préjudice. Il en trouva l’occasion &amp; plus prompte &amp; toute autre qu’il ne l’esperoit. La Dame estoit allée à une Partie de Campagne pour quelques jours avec une Amie. Par malheur pour elle, son Mary revint inopinément de Languedoc le lendemain de cette Partie. Il fut surpris de ne la point rencontrer en arrivant. Celle qui l’avoit emmenée hors de Paris estoit un peu en réputation de Coquete. Le chagrin le prit. Il forma des soupçons, &amp; il y fut confirmé par l’Amant jaloux, qui ayant sçeu son retour, fut des premiers à le voir. Comme ils avoient toûjours vescu ensemble avec assez de familiarité, le Mary ne luy cacha point la mauvaise humeur où le mettoit l’imprudente Promenade de sa Femme. Cet infidelle Amy qui ne cherchoit qu’à se vanger d’elle, crût qu’il ne pouvoit prendre mieux son temps. Il la justifie en apparence, &amp; entrant dans le détail de toutes les Connoissances qu’elle a faites depuis son depart, pour prévenir, dit-il, les méchans contes que d’indiscrets Zélez luy en pourroient faire, il les excuse d’une maniere qui la rend coupable de tout ce qu’il feint de vouloir qu’il croye innocent. Le Mary prend feu. Quelques petites railleries que d’autres luy font, &amp; qui ont du raport avec cette premiere accusation, achevent de le blesser jusqu’au vif. Il s’emporte, il fulmine, &amp; il auroit pris quelque résolution violente, si ses veritables Amis n’eussent détourné le coup. Tout ce qu’ils peuvent gagner pourtant, c’est qu’en attendant qu’il soit éclaircy des prétenduës galanteries de sa Femme, elle ira se mettre dans un Couvent qu’il leur nomme à douze ou quinze lieuës de Paris. Deux Parentes des plus prudes se chargent de luy porter l’ordre, &amp; de le faire executer. La Dame qui connoissoit la severité de son Mary, ne balance point à faire ce qu’il souhaite. La voila dans le Couvent, dont heureusement pour elle l’Abbesse estoit Sœur d’un de ceux qui luy en avoient le plus conté, quoy que ce commerce fust demeuré inconnu à l’Amant jaloux. Ainsi elle ne manqua pas de Lettres de faveur pour tous les Privileges qui pouvoient luy estre accordez. Elle n’avoit pas trop besoin d’une recommandation particuliere. Ses manieres engageantes &amp; flateuses en estoient une tres-forte pour elle, &amp; il ne falloit rien davantage pour la faire aimer de tout le Couvent. C’estoit une necessité pour elle d’y passer quelque temps, elle aimoit les plaisirs, &amp; elle s’en fit de tout ce qui en peut donner dans la retraite. Elle noüa sur tout amitié avec une jeune Veuve Provençale, Pensionnaire du Couvent comme elle. Son langage la charma tellement (il n’y en a point de plus agreable pour les Dames) qu’elle s’attacha à l’étudier ; &amp; comme il ne faut que vouloir fortement les choses pour y réüssir, elle s’y rendit si sçavante en trois mois, qu’on l’eut prise pour une Provençale originaire. Cependant il y en avoit déja six qu’elle estoit recluse. Sa prison l’ennuyoit, &amp; elle succomba à la tentation de venir à Paris <hi rend="i">incognito</hi> passer quinze jours avec ses Amies. L’Abbesse, quoy qu’avec un peu de peine, luy accorda ce congé à l’instante sollicitation de son Frere, à qui elle devoit ce qu’elle estoit. Elle se précautionne pour n’estre point découverte. Une Amie avec qui elle concerte son dessein, &amp; qui se charge de luy faire donner un Apartement en lieu où elle ne soit connuë d’aucun Domestique, la va prendre à deux lieuës de Paris, &amp; la mene chez la Femme d’un vieux Conseiller, qui ne l’ayant jamais veuë, la reçoit comme une Dame qui arrive nouvellement de Provence. Grande amitié qui se lie entr’elles. Il n’est parlé que de la belle Provençale, c’est sous ce nom qu’on songe à la divertir &amp; elle jouë si bien son personnage, que ne voyant que trois ou quatre de ses plus particuliers Amis qui sont avertis de tout, il est impossible qu’on la soupçonne de n’estre pas ce qu’elle se dit. Tout contribuë à mettre son secret en assurance. Le quartier où elle loge est fort éloigné de son Mary, elle ne sort jamais que masquée avec la Femme du Conseiller ; &amp; quand elle fait quelque Partie de promenade avec son Amie, ce sont tous Gens choisis qui en sont, &amp; leur indiscretion n’est point à craindre pour elle. Trois semaines se passent de cette sorte. Elle prend ses mesures pour toutes les choses qui peuvent obliger son Mary à la rapeler aupres de luy, &amp; feignant tout-à-coup d’avoir reçeu des nouvelles qui la pressent de se rendre en Provence, elle se dispose à s’aller renfermer dans le Couvent. Le jour est pris pour cela. Elle doit aller coucher avec son Amie à cinq ou six lieuës de Paris, &amp; les adieux sont déja à demy-faits sans qu’on ait rien découvert ce qu’elle a interest à tenir caché. Dans cette disposition qui eust pû prévoir ce qui luy arrive ? Son Mary avoit un Procés, le Conseiller qui la loge est nommé Raporteur ; il cherche accés aupres de luy, &amp; s’adresse à un Gentilhomme avec qui il a fait connoissance en Languedoc, &amp; qu’il sçait estre le tout-puissant dans cette Maison. Le Gentilhomme prend volontiers cette occasion de faire valoir son credit, &amp; ils vont ensemble chez le Conseiller le jour mesme que la fausse Provençale doit partir. Le Conseiller s’estoit enfermé dans son Cabinet au retour du Palais pour une Affaire qu’il falloit necessairement qu’il examinast sur l’heure. Il estoit question d’attendre. Le Gentilhomme pour mieux servir son Amy, le mene à l’Apartement de Madame qu’il veut mettre dans ses interests. Comme il y entroit sans façon à toutes les heures du jour, il y monte sans qu’elle en soit avertie, &amp; il la surprend avec la fausse Provençale, qui ne s’attendoit à rien moins qu’à une visite de son Mary. Jugez de la surprise de l’un &amp; de l’autre. Le Mary ne sçait où il en est. Il regarde, reconnoist sa Femme, &amp; troublé d’une rencontre si inopinée, il oublie son Procés, &amp; n’écoute presque point ce que son Amy dit en sa faveur. La Dame n’est pas moins embarassée de son costé ; mais comme elle voit le pas dangereux pour elle, si elle n’y remedie par son esprit, elle ne se déconcerte point, &amp; parlant Provençal au Gentilhomme qu’elle a déja veu plusieurs fois, elle luy dit cent plaisanteries qui mettent le Mary dans un embarras nouveau. Il demande tout bas à son Amy qui elle est, &amp; il luy répond de si bonne foy (comme il le croit) que c’est une Dame de Provence venuë à Paris pour affaires, que son langage servant à confirmer ce qu’il luy dit, il commence à croire que la ressemblance des traits a pû le tromper, &amp; il ne s’en faut guére mesme qu’il ne les trouve moins ressemblans qu’ils ne luy ont paru d’abord. Il s’approche d’elle, l’examine, luy parle, &amp; le Gentilhomme luy ayant dit qu’il falloit qu’elle sollicitast pour son Amy, elle promet de s’y employer comme si c’estoit son affaire propre. Elle tient parole, &amp; le Conseiller entrant, c’est elle qui commence la sollicitation ; mais elle le fait avec tant de grace &amp; avec une telle liberté d’esprit, que son Mary ne peut croire que si elle estoit sa Femme, elle eust pû se posseder assez pour pousser le déguisement jusque-là. Il sort tres-satisfait du Conseiller ; &amp; pour n’avoir aucun scrupule d’estre la Dupe de cette rencontre, il se résout d’aller dés le lendemain trouver sa Femme au Couvent. Elle y met ordre par la promptitude de son retour, &amp; devinant ce qu’il est capable de faire pour s’éclaircir, au lieu d’aller coucher où son Amie la devoit mener, elle marche toute la nuit, &amp; arrive de tres-grand matin au Couvent. L’Abbesse à qui elle rend compte de tout, instruit la Touriere de ce qu’elle doit dire, si quelqu’un la vient demander. Son Mary fait diligence, &amp; arrive six heures apres elle. Il vient au Parloir. On luy dit que sa Femme n’a presque point quité le Lit depuis huit jours, à cause d’une legere indisposition, &amp; elle paroît un quart-d’heure apres en coifure de Convalescence. La fatigue du voyage, &amp; le manque de dormir pendant toute la nuit passée, l’avoient un peu abatuë. Cela vint le plus à propos du monde. Comme son Mary ne luy trouva ny les mesmes ajustemens, ny la mesme vivacité de teint qui l’avoit ébloüy le jour précedent dans la provençale, il fut aisément persuadé qu’il y avoit eu de l’erreur dans ce qu’il s’en estoit figuré d’abord. Cependant il avoit remarqué tant de merite dans cette prétenduë Provençale, &amp; il en estoit tellement touché, que se tenant trop heureux de posséder une Personne qui luy ressembloit, &amp; estant d’ailleurs convaincu qu’il y avoit eu plus d’imprudence que de crime dans la conduite de sa Femme, il luy dit les choses les plus touchantes pour luy faire oubleir ce que six mois de clôture luy avoient pû causer de chagrin. Elle garde quelque temps son sérieux avec luy, luy fait ses plaintes en bon accent François se son injurieux procedé, &amp; apres quelques feints refus de luy pardonner si-tost un outrage qui avoit fait tant de tort à la reputation, elle se rend aux pressans témoginages de sa tendresse, &amp; retourne avec luy le lendemain à Paris. Il luy conte l’Avanture de la Provençale qu’il promet de luy faire voir, &amp; il demeure un peu interdit, quand l’estant allé demander chez le Conseiller, il apprend que ses affaires l’avoient rapelée en Provence. Je ne sçay si un depart si prompt luy a fait soupçonner quelque chose, mais il en use tres-bien avec sa Femme, &amp; il luy laisse mesme plus de liberté qu’il ne luy en soufroit avant son voyage de Languedoc.</p>
       </div>
       <div type="article" xml:id="MG-1677-09_054" resp="mercure">
         <head>[Histoire de l’Enfant Ours]</head>
