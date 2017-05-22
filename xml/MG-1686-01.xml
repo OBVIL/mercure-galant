@@ -131,7 +131,7 @@
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 22-24</bibl>
           <p>Voicy trois Sonnets qui ont esté adressez au Roy sur cette mesme matiere. Le premier est de M<hi rend="sup">r</hi> Boyer, le second de M<hi rend="sup">r</hi> le Clerc, tous deux de l’Academie Françoise, &amp; le troisiéme de Mademoiselle de Rasilly.</p>
           <quote>
-            <label>POVR LE ROY.<lb/>SONNET.</label>
+            <label>POUR LE ROY.<lb/>SONNET.</label>
             <lg>
               <l rend="i">De quels sacrez lauriers se va-t-il couronner</l>
               <l rend="i">Ce grand Roy, qui laissant reposer sa vaillance,</l>
@@ -288,7 +288,7 @@
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 34-78</bibl>
           <p>Je vous envoye un nouveau Dialogue des Choses difficiles à croire. Vous serez surprise du grand nombre des Divinations differentes dont les Anciens se sont servis.</p>
           <quote>
-            <label>DES CHOSES<lb/>DIFFICILES A CROIRE.<lb/><hi rend="i">DIALOGVE SEPTIEME</hi>.<lb/>BELOROND, PHILONTE.</label>
+            <label>DES CHOSES<lb/>DIFFICILES A CROIRE.<lb/><hi rend="i">DIALOGUE SEPTIEME</hi>.<lb/>BELOROND, PHILONTE.</label>
             <label><hi rend="sc">Philonte.</hi></label>
             <p>La matiere qui fit le sujet de nostre dernier entretien, m’a excité à vous en proposer une autre pour celuy d’aujourd’huy, qui a beaucoup de rapport à celle-là. C’est sur les Divinations &amp; les Devins, matiere que bien des gens, aussi-bien que du temps d’Horace, mettent au nombre des Choses difficiles à croire.</p>
             <quote>
@@ -395,9 +395,11 @@
             <p><hi rend="i">Thurifume</hi>. Divination par la fumée de l’Encens mis au feu.</p>
             <p><hi rend="i">Tiromancie</hi>. Espece de <hi rend="i">Critomancie.</hi></p>
             <label><hi rend="sc">Belorond.</hi></label>
+            <p/>
             <p>Ce sont-la les Divinations que j’ay remarquées. Avoüez que la lecture que je viens de vous en faire vous a ennuyé ; pour moy je me repens d’avoir abusé si long-temps de vostre patience, &amp; de vous avoir osté le temps de m’apprendre ce que vous sçavez sur cette matiere.</p>
             <label><hi rend="sc">Philonte.</hi></label>
-            <p>Vous m’avez fait plaisir ; vos Remarques m’ont si peu ennuyé, que je vous prie de me les prêter pour les lire moy-mesme, afin que je fasse quelques Reflexions dessus pour accompagner les vostres dont j’espere que vous me ferez part dans nostre premier Entretien ; car en voila assez pour aujourd’huy.</p>
+            <p/>
+            <p>Vous m’avez fait plaisir ; vos Remarques m’ont si peu ennuyé, que je vous prie de me les prêter pour les lire moy-mesme, afin que je fasse quelques Reflexions dessus pour accompagner les vostres dont j’espere que vous me ferez part dans nostre premier Entretien ; car en voila assez pour aujourd’huy. [...]</p>
           </quote>
         </div>
         <div type="article" xml:id="MG-1686-01_104" resp="mercure">
@@ -409,6 +411,7 @@
         <div type="article" xml:id="MG-1686-01_115" resp="wordpro">
           <head>Air nouveau</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 115-116</bibl>
+          <p/>
           <p>Parmy les Airs nouveaux qui se chantent, j’ay toûjours soin de choisir les plus estimez, dont je vous fais part. En voicy un qui ne vous déplaira pas.</p>
           <quote>
             <label>AIR NOUVEAU.</label>
@@ -462,6 +465,7 @@
         <div type="article" xml:id="MG-1686-01_146" resp="wordpro">
           <head>[Anagramme et devises]</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 146-149</bibl>
+          <p/>
           <p>Je ne sçaurois finir cet Article, sans ajoûter que M<hi rend="sup">r</hi> le Chancelier continuë de rendre la Justice avec toute la bonté &amp; toute l’exactitude possible. Il a fait beaucoup de choses pour le soulagement des Parties, &amp; voulant leur épargner les frais des voyages à Versailles, il tient le Sceau à Paris une fois chaque semaine. Voicy une Anagramme faite sur son Nom par M<hi rend="sup">r</hi> Chopin Chanoine de Gournay. Elle ne pouvoit estre plus heureuse ny plus juste.</p>
           <quote>
             <lg>
@@ -469,6 +473,7 @@
               <l><hi rend="sc">Est la Bouche du Roy.</hi></l>
             </lg>
           </quote>
+          <p/>
           <p>J’ajoûte trois Devises sur le choix que le Roy a fait de luy, pour l’élever à la Dignité de Chancelier. La premiere est de M<hi rend="sup">r</hi> Magnin, &amp; est faite particulierement sur ce que M<hi rend="sup">r</hi> de Boucherat succede à feu M<hi rend="sup">r</hi> le Tellier. Elle a pour corps un Cadran Solaire, élevé sur un Pilier, au prés duquel on voit un autre Cadran de marbre brisé par terre, le Soleil paroissant dans les Cieux. Ces mots en sont l’ame.</p>
           <quote>
             <lg>
@@ -483,6 +488,7 @@
               <l rend="i">Sous les mesmes rayons c’est la mesme droiture.</l>
             </lg>
           </quote>
+          <p/>
           <p>Les deux autres sont de M<hi rend="sup">r</hi> de Vertron de l’Academie Royale d’Arles. L’une a pour corps deux masses d’or en sautoir, avec ce mot, <hi rend="i">Et onus &amp; honos.</hi></p>
           <quote>
             <lg>
@@ -499,6 +505,7 @@
         <div type="article" xml:id="MG-1686-01_149" resp="wordpro">
           <head>A Monsieur le Chancelier</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 149-151</bibl>
+          <p/>
           <p>Les Vers qui suivent ont esté adressez à M<hi rend="sup">r</hi> Boucherat, par M<hi rend="sup">r</hi> Salbray, Valet de Chambre de Sa Majesté.</p>
           <quote>
             <label>A MONSIEUR<lb/>LE CHANCELIER.</label>
@@ -519,6 +526,7 @@
         <div type="article" xml:id="MG-1686-01_179" resp="wordpro">
           <head>Aux Nouveaux Convertis. Ode</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 179-191</bibl>
+          <p/>
           <p>Le nombre de ceux qui se convertissent augmente de jour en jour, &amp; il va fournir encore un long Article à ma Lettre. Il doit d’autant plus vous plaire, que tous les faits que je vous rapporte, sont faits veritables, &amp; qu’on ne sçauroit douter que les Conversions dont je vous parle, ne soient sinceres, puis qu’elles ne se font qu’aprés des Disputes, à la fin desquelles les Calvinistes les plus obstinez avoüent qu’ils sont convaincus de leurs Erreurs. Comme la Poësie insinuë la verité d’une maniere agreable, il seroit à souhaiter qu’ils voulussent lire attentivement les Vers suivans. Ils serviroient à leur faire voir qu’il est dangereux de consulter sa raison sur des Mysteres, où l’on n’a besoin que du secours de la Foy.</p>
           <quote>
             <label>AUX NOUVAUX<lb/>CONVERTIS.<lb/><hi rend="i">ODE.</hi></label>
@@ -710,22 +718,25 @@
         <div type="article" xml:id="MG-1686-01_191" resp="wordpro">
           <head>[Sur le livre Saint Paulin Evesque de Nole]*</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 191-192</bibl>
-          <p>Cette mesme pieté paroist dans un Poëme de six Chants, qu’il a donné depuis peu au Public sous le Titre de <hi rend="i">Saint Paulin Evesque de Nole</hi>. Il a fait connoistre en le publiant que les Ornemens de la Poësie ne sont pas incompatibles avec des Sujets de Devotion. L’Action de Saint Paulin, qu’il a euë pour son principal objet, est soûtenuë d’un tour de Vers si aisé. &amp; les Descriptions qu’il y a mêlées sont si naturelles &amp; si vives, qu’on peut dire que l’Esprit est satisfait en mesme temps que le cœur se sent touché. Cet Ouvrage a eu l’approbation des Connoisseurs les plus delicats, &amp; tout le monde convient qu’il est du nombre de ceux en qui l’on ne sçait ce que l’on doit le plus admirer, ou la beauté de la forme, ou la dignité de la matiere.</p>
+          <p>[...] Cette mesme pieté paroist dans un Poëme de six Chants, qu’il a donné depuis peu au Public sous le Titre de <hi rend="i">Saint Paulin Evesque de Nole</hi>. Il a fait connoistre en le publiant que les Ornemens de la Poësie ne sont pas incompatibles avec des Sujets de Devotion. L’Action de Saint Paulin, qu’il a euë pour son principal objet, est soûtenuë d’un tour de Vers si aisé. &amp; les Descriptions qu’il y a mêlées sont si naturelles &amp; si vives, qu’on peut dire que l’Esprit est satisfait en mesme temps que le cœur se sent touché. Cet Ouvrage a eu l’approbation des Connoisseurs les plus delicats, &amp; tout le monde convient qu’il est du nombre de ceux en qui l’on ne sçait ce que l’on doit le plus admirer, ou la beauté de la forme, ou la dignité de la matiere.</p>
         </div>
         <div type="article" xml:id="MG-1686-01_192" resp="wordpro">
           <head>[Lettre qui a servy à la Conversion de plusieurs Calvinistes]</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 192-208</bibl>
+          <p/>
           <p>Voicy une Lettre qui est de saison, quoy qu’il y ait déja quelque temps qu’elle est écrite. On asseure qu’elle a contribué à plusieurs Conversions, &amp; je n’ay pas de peine à le croire. Les raisons que l’Autheur employe sont assez persuasives pour ne laisser rien à repliquer. C’est ainsi que le Roy est cause du salut des ames, puisque chacun y travaille à son exemple. On peut voir par cette Lettre, que les armes qui font rendre les Religionnaires, sont tirées de la seule force de la Verité, qui fournit des argumens invincibles contre leurs erreurs.</p>
           <quote>
             <label>A MONSIEUR<lb/>DE LA GATELINIERE.</label>
             <p><hi rend="i">MONSIEUR,</hi></p>
             <p><hi rend="i">Il y a des coups de hazard qui sont heureux, &amp; je croy tel celuy qui me procura l’honneur de vous voir ces derniers jours en un lieu où nous ne songions ny vous ny moy à lier ensemble aucun entretien. I’en ay remercié la Providence, devant qui les rencontres qui nous paroissent fortuites sont prémeditées, &amp; j’espere que la nostre aura quelque rapport avec celle de ce grand Officier de Candace, qui trouva l’Apostre Saint Philippes dans son chemin. Cet Officier avoit comme vous, Monsieur, la Bible entre les mains. Il fondoit sa Foy sur les Ecritures, mais il ne pouvoit en entendre le vray sens. Il s’adressa donc à l’Eglise en la personne de Saint Philippes, qui luy expliqua le Sacrifice du Fils de Dieu sur la Croix. I’eus l’honneur de vous entretenir à peu prés du mesme Mystere ; car celuy de l’Eucharistie est un Memorial de celuy de la Croix, &amp; nous parlasmes beaucoup de ce Mystere adorable. Je me souviens que nous entrasmes en matiere par l’Ecriture sainte, qui fonde uniquement la Foy selon nous. Je pris la liberté de vous remontrer que vous combattiez ce principe de l’Eucharistie, puisque vous y appelliez figure ce que le Sauveur du monde y appelle Corps. Ainsi, ajoûtay-je, le Fils de Dieu asseure ce que vous niez. Il dit</hi> Cecy est mon Corps, <hi rend="i">&amp; vous dites que ce ne l’est pas. Vous ne fondez donc pas vostre Foy sur sa Parole. Aprés avoir eu la bonté de m’écouter, vous me répondites que le Fils de Dieu avoit dit ailleurs</hi>. Je suis une Vigne, <hi rend="i">&amp; que pourtant ny vous ny moy ne croyons pas qu’il soit une Vigne. Là-dessus je vous priay de distinguer les occasions. Dans celle où N. Seigneur se disoit une Vigne, il n’établissoit pas un Sacrement, ny par consequent un Article de Foy, ainsi il pouvoit user de Paraboles ; mais en instituant l’Eucharistie, le Sauveur du monde formoit un Article de Foy essenciel, &amp; il établissoit un Sacrement ; par consequent il y parloit à la lettre, comme il y a parlé quand il a institué le Baptesme. Tout de mesme donc que quand il a dit</hi>, Baptisez au Nom du Pere, &amp; du Fils, &amp; du Saint Esprit, <hi rend="i">il nous a fait un Article de Foy litteral d’une Trinité réelle, de mesme quand il a dit</hi>, Cecy est mon Corps, &amp; faites cecy en memoire de moy, <hi rend="i">il nous a expressément proposé la realité de son Corps, sous les apparences du Pain. Vous n’oubliastes pas dans cet endroit celuy des Capharnaïtes, &amp; voicy ce que j’eus l’avantage de vous repliquer. Je dis donc, Monsieur, que le Fils de Dieu avoit confirmé sa Presence corporelle, quand il remontra à ses Auditeurs</hi>, Que sa Chair ne profite de rien, &amp; que c’est l’esprit qui vivifie. <hi rend="i">Je vous fis remarquer, que nostre Seigneur en separant ces deux choses, témoignoit que l’on pouvoit recevoir l’une sans l’autre, &amp; par consequent que sa Chair prise sans son Esprit, c’est à dire sans sa Grace, faisoit ce que nous appellons une Communion indigne ; d’où il resulte que le Sauveur du Monde établissoit réellement &amp; localement sa Chair dans l’Eucharistie ; autrement, continuay-je, ce qu’il dit ensuite du scandale de ses Auditeurs, seroit un pur galimatias, dont le Fils de Dieu n’est pas capable</hi>. Quoy, <hi rend="i">dit-il</hi>, cela vous scandalise ? Et que sera-ce donc quand vous verrez le Fils de l’Homme remonter où il estoit auparavant ? <hi rend="i">De bonne foy, Monsieur, quels rapports à cette Parole avec celles qui la precedent ? Estoit-il question icy de l’Ascension du Fils de Dieu ? Non ; mais il estoit question d’instruire des Peuples qui s’effrayoient de manger réellement le Sauveur du Monde, &amp; il leur dit</hi> : Si vous estes scandalisez de me manger pendant que je suis sur la Terre, que sera-ce donc quand vous me mangerez encore aprés que je seray monté au Ciel ? <hi rend="i">Je vous défie, avec tout le respect que je vous dois, de tirer une autre consequence de ces Paroles, à moins de leur donner la torture, &amp; de faire tomber le Fils de Dieu dans des disparates indignes de luy. Cette reflexion vous surprit, &amp; là-dessus vous me témoignastes par modestie que vous n’estiez pas d’une profession à Controverse. J’eus l’honneur de vous répondre, Monsieur, que la verité estoit de toutes les professions chez les Chrétiens. Vous me repliquastes que vous la chercheriez, &amp; que pour cela vous aviez beaucoup de Livres. Je pris la liberté de vous dire, que le meilleur de tous les Livres estoit le cœur ; qu’il falloit à Livre ouvert y recevoir la verité, la demander à Dieu, qui ne la refuse jamais à ceux qui la cherchent avec bonté &amp; simplicité de cœur. J’opinay bien du vostre dans cette rencontre, où vous me parlastes avec beaucoup de probité. Vous y loüastes la mienne, &amp; ce que j’ajoûtay vous en parut plein. Ce fut quand je vous exposay la Communion des Apostres, &amp; que je vous prouvay qu’elle eust esté illusoire s’ils n’avoient communié que par la Foy ; car enfin, la Foy est un argument des choses qui ne paroissent point, &amp; tout paroissoit aux Apostres, d’un costé le Corps du Sauveur, de l’autre du Pain tout pur selon vous. Où pouvoient-ils donc exercer leur foy selon nous ? Ils l’exerçoient en croyant le Corps du Sauveur du Monde, comme nous le croyons placé sous les apparences du Pain. Quoy que cette raison demeurast sans une seule replique, je la confirmay par ces paroles de S. Paul, qui attribuent les mauvaises Communions</hi>, à ce qu’on n’y discerne pas le Corps du Seigneur. <hi rend="i">Nous tombasmes d’accord que ce discernement se faisoit par la Foy, &amp; j’en tiray cette consequence ; donc la Foy suppose la presence réelle du Fils de Dieu dans la Cene, comme mon œil suppose les couleurs dans les objets ; car enfin, si la Foy discerne le Corps du Fils de Dieu dans la Cene, il y est donc, puis qu’on ne discerne pas des choses qui ne sont point, &amp; nous finismes nostre Conversation par des marques d’une mutuelle estime. I’en ay pour vous, Monsieur, une tres-particuliere, &amp; je souhaite que mon Entretien ait avec vous le mesme succés qu’il a eu dans Chasteaudun, avec une Veuve de vostre Religion, qui a professé la nostre. Il n’est pas honteux à un homme d’estre touché par les raisonnemens qui touchent certaines Femmes. Vous sçavez que les ames n’ont point de sexe, &amp; que ce n’est pas la difference des corps, mais des cœurs &amp; des esprits, qui nous fait valoir auprés de Dieu. Il a répandu son Esprit autrefois sur Anne, sur Holda, &amp; sur Debora, qui prophetiserent à l’exclusion des Hommes, &amp; dernierement encore Madame de la Ferté acheva ce que plusieurs Ecclesiastiques &amp; moy n’avions pû finir avec Madame Maillot, qu’elle a envoyée à Chartres pour se convertir. Vous connoissez sans doute Madame de la Ferté, qui a des Freres chez Monsieur le Prince &amp; chez Madame la Princesse de Brunsvvic, qui tiennent les premieres Charges, comme vous avez des Proches qui tiennent les premiers rangs dans la Maison du Roy ; &amp; M<hi rend="sup">r</hi> de la Ferté a l’honneur d’appartenir à Madame la Mareschale de Castelnau, comme vous appartenez à M<hi rend="sup">r</hi> le Marquis de Dangeau, dont les lumieres vous garantissent l’exemple. Suivez-le, je vous en conjure, sous le Regne de LOUIS le Grand, qui a le cœur d’un Pere, &amp; la teste d’un Roy. Son cœur est aussi grand que son nom, &amp; sa teste fait honneur à sa Couronne. Fiez vous-en à ses connoissances, qui l’empeschent de se tromper, &amp; à sa probité, qui l’empesche de tromper les autres. Je ne vous trompe point moy-mesme, quand je vous asseure que je suis avec un respect tendre &amp; sincere, vôtre, &amp;c.</hi></p>
           </quote>
+          <p/>
           <p>Cette Lettre ne sçauroit estre que d’un tres-grand poids pour tous ceux, qui sans se laisser préoccuper, examineront de bonne foy le raisonnement dont l’Autheur se sert pour combattre la fausse Doctrine des Calvinistes ; mais si les uns contribuent aux Conversions en écrivant, les autres à qui leur rang donne le pouvoir d’agir, ont des succés tres-avantageux des soins qu’ils prennent à détruire l’Heresie.</p>
         </div>
         <div type="article" xml:id="MG-1686-01_277" resp="wordpro">
           <head>[Explications des énigmes précédentes]</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 277</bibl>
+          <p/>
           <p>Le vray mot de la premiere Enigme du dernier mois, estoit <hi rend="i">le Four</hi>, &amp; il a esté trouvé par M<hi rend="sup">r</hi> Fournier, Prestre &amp; Promoteur du Chapitre d’Amiens, &amp; par Mesdemoiselles Marion Bariban, &amp; Catho du Boquet de Chartres.</p>
           <p>Ceux qui ont expliqué la seconde Enigme sur <hi rend="i">les Manchetes</hi> qui en estoit le vray sens.</p>
         </div>
@@ -775,21 +786,25 @@
         <div type="article" xml:id="MG-1686-01_282b" resp="nbb">
           <head>[Alcibiade tragédie]</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 282-283</bibl>
+          <p/>
           <p>On a joüé la nouvelle Tragedie d’<hi rend="i">Alcibiade</hi> dont je vous parlay le mois passé, &amp; elle a eu le succés que je vous ay marqué qu’on en esperoit. Alcibiade y conserve le Caractere qu’il a dans l’Histoire, &amp; l’Acteur qui le represente, soutient ce Personnage avec un tel agrément, &amp; d’une maniere si naturelle, qu’on peut dire que c’est la premiere fois que la Comedie a esté joüée comme il la joüe. La Piece est remplie de Vers aisez &amp; de fort bon goust, &amp; tout le monde en voir la Representation avec beaucoup de plaisir.</p>
         </div>
         <div type="article" xml:id="MG-1686-01_284a" resp="nbb">
           <head>[Sur l’opéra Roland]*</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 284</bibl>
+          <p/>
           <p>M<hi rend="sup">r</hi> du Meny, dont je vous ay parlé au commencement de cette Lettre, est rentré à l’Academie de Musique, &amp; a joüé dans l’Opera de <hi rend="i">Roland</hi>. Celuy d’Armide s’avance fort, &amp; l’on travaille avec grand empressement à tout ce qui en regarde le Spectacle. Ainsi l’on espere qu’on en donnera quelques Representations à Paris sur la fin du Carnaval.</p>
         </div>
         <div type="article" xml:id="MG-1686-01_284b" resp="wordpro">
           <head>[Entretiens sur la pluralité des Mondes]</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 284-288</bibl>
+          <p/>
           <p>Vous vous fachez il y a long-temps de ce que l’Autheur <hi rend="i">des Dialogues des Morts</hi> vous a mise en goust pour ses Ouvrages, &amp; que vous ne voyez plus rien de luy. Cessez de vous plaindre. Il fait imprimer un Livre nouveau, qui quoy qu’il soit de Philosophie, est tourné si galamment que la matiere n’a rien de sauvage. Ainsi non seulement vous le trouverez fort agreable, vous qui estes née pour toutes les belles Connoissances ; mais je puis vous asseurer que vos Amies entreront sans peine dans tout son raisonnement. L’approbation qu’il a déja euë dans quelques lectures particulieres, fait connoistre que s’il l’a fait attendre longtemps, c’est parce qu’il n’a rien voulu hasarder qui ne répondist en quelque sorte à la reputation que ses Dialogues luy ont acquise. Ce Livre est Intitulé, <hi rend="i">Entretiens sur la pluralité des Mondes</hi>. Le dessein en est extremément singulier. La Phisique y est amenée à la portée de toutes les Dames, sans exception, quand mesme elles n’en auroient jamais entendu parler. Elle y est soûtenuë de toutes les reflexions morales que le sujet peut produire ; elle y est ornée de traits d’Histoire, &amp; égayée par tous les agrémens, mesme de galanterie, qui peuvent naistre dans la conversation d’un homme &amp; d’une homme d’esprit. Enfin, c’est de la Philosophie déguisée, qui avec la verité qu’elle doit toûjours avoir à des graces qu’elle n’a pas ordinairement. Le but de l’Auteur est de vous donner une idée generale &amp; fort claire de l’arrangement &amp; de la construction de tout ce grand Univers. Il vous le fait voir d’une maniere assez differenté de celle dont la pluspart des gens le voyent ; mais en mesme temps il vous donne un spectacle tres-pompeux &amp; tres-magnifique, &amp; qui merite bien que tout ce qu’il y a de gens d’esprit s’arrestent à le considerer. J’auray soin de vous envoyer cet Ouvrage, dés que la Veuve Blageart aura achevé de l’imprimer. Elle espere en commencer le debit dans quinze jours.</p>
         </div>
         <div type="article" xml:id="MG-1686-01_290" resp="nbb">
           <head>[Balet de la Jeunesse]*</head>
           <bibl><title>Mercure Galant</title>, janvier [tome 1], 1686, p. 290-291</bibl>
+          <p/>
           <p>Le Balet <hi rend="i">de la Jeunesse</hi> a esté dancé cette semaine à la Cour, pour la premiere fois, mais n’en estant pas encore assez bien instruit pour vous en pouvoir parler à fond, je remets jusqu’au mois prochain à vous en apprendre les particularitez. Je suis, Madame, Vostre, &amp;c.</p>
         </div>
       </body>
