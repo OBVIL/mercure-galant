@@ -62,112 +62,145 @@
   </teiHeader>
   <text>
     <body>
-      <pb/>
       <head><hi rend="i">Le Nouveau Mercure Galant</hi>, novembre, tome IX, 1677.</head>
       <div type="article" xml:id="MG-1677-11_003" resp="mercure">
-        <head>[Retour sur l’adieu aux Muses &amp; sur les Flèches d’Amour] *</head>
+        <head>[Retour sur l’adieu aux Muses &amp; sur les Flèches d’Amour]*</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 3-6.</bibl>
-        <p>Parmy beaucoup de choses que vous me dites qui vous ont plû dans ma Lettre du Mois passé, je suis bien aisé, Madame, que vous approuviez <hi rend="i">l’Adieu aux Muses</hi>. On l’a tellement estimé icy, que j’aurois esté fâché si vous ne m’en eussiez rien dit, &amp; je ne sçay si je n’aurois point eu peine à ne vous pas traiter de Provinciale, vous qui avez le goust si fin pour toutes choses, &amp; qui dans vostre Retraite décidez avec tant d’esprit de ce qui est veritablement bon ou mauvais. Quoy que l’Autheur de cette ingénieuse Satyre me soit encor inconnu, je me réjoüis d’autant plus de la justice qu’on luy rend, que les loüanges qu’elle luy fait recevoir de tous costez, l’engageront malgré luy (si pourtant il est aussi fâché qu’il le fait paroistre) à n’abandonner pas si-tost un genre d’écrire, aimé particulierement de tout le monde, &amp; qui mesle plus qu’aucun autre l’utile avec l’agreable, puis qu’il est mal-aisé d’entendre blâmer des defauts qu’on se reproche à soy-mesme, sans faire effort pour s’en corriger. Quant à vos Amies qui trouvent mauvais que dans <hi rend="i">les Fléches de l’Amour</hi> on ait pretendu que l’Or eust une vertu infaillible pour adoucir la fierté des Belles, voicy une declaration qui leur fera connoistre qu’on ne se sert pas toûjours des mesmes moyens pour réüssir.</p>
+        <p>Parmy beaucoup de choses que vous me dites qui vous ont plû dans ma Lettre du Mois passé, je suis bien aise, Madame, que vous approuviez <hi rend="i">l’Adieu aux Muses</hi>. On l’a tellement estimé icy, que j’aurois esté fâché si vous ne m’en eussiez rien dit, &amp; je ne sçay si je n’aurois point eu peine à ne vous pas traiter de Provinciale, vous qui avez le goust si fin pour toutes choses, &amp; qui dans vostre Retraite décidez avec tant d’esprit de ce qui est veritablement bon ou mauvais. Quoy que l’Autheur de cette ingénieuse Satyre me soit encor inconnu, je me réjoüis d’autant plus de la justice qu’on luy rend, que les loüanges qu’elle luy fait recevoir de tous costez, l’engageront malgré luy (si pourtant il est aussi fâché qu’il le fait paroistre) à n’abandonner pas si-tost un genre d’écrire, aimé particulierement de tout le monde, &amp; qui mesle plus qu’aucun autre l’utile avec l’agreable, puis qu’il est mal-aisé d’entendre blâmer des defauts qu’on se reproche à soy-mesme, sans faire effort pour s’en corriger. Quant à vos Amies qui trouvent mauvais que dans <hi rend="i">les Fléches de l’Amour</hi> on ait pretendu que l’Or eust une vertu infaillible pour adoucir la fierté des Belles, voicy une declaration en forme qui leur fera connoistre qu’on ne se sert pas toûjours des mesmes moyens pour réüssir.</p>
       </div>
       <div type="article" xml:id="MG-1677-11_006" resp="mercure">
         <head>[Declaration d’amour d’un Ruisseau à une Prairie]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 6-16.</bibl>
-        <p>Elle est d’un Amant qui pour gagner les bonnes graces de sa Maistresse, ne trouve que de l’eau à luy offrir. Comme l’offre est fort extraordinaire, le genre d’Amant l’est de mesme. C’est un Ruisseau qui est devenu amoureux d’une Prairie. Un peu d’audiance, je vous conjure. Tout froid qu’il est (car les Ruisseaux le sont naturellement) il debite ses raisons d’assez bonne grace pour meriter que vous l’écoutiez. Si quelqu’un dans vostre Province est embarrassé de l’Allégorie, dites-luy qu’elle ne luy doit faire aucune peine, &amp; que par ces Torrens qui font du fracas &amp; dont les eaux se tarissent incontinent, il est aisé d’entendre ces Amans qui font d’abord de si ardentes protestations, &amp; qui ne sçavent ce que c’est que d’aimer avec constance.</p>
-        <quote rend="border">
-          <label rend="center">Le Ruisseau Amant, à la Prairie.</label>
+        <p>Elle est d’un Amant qui pour gagner les bonnes graces de sa Maîtresse, ne trouve que de l’eau à luy offrir. Comme l’offre est fort extraordinaire, le genre d’Amant l’est de mesme. C’est un Ruisseau qui est devenu amoureux d’une Prairie. Un peu d’audiance, je vous conjure. Tout froid qu’il est (car les Ruisseaux le sont naturellement) il debite ses raisons d’assez bonne grace pour meriter que vous l’écoutiez. Si quelqu’un dans vostre Province est embarrassé de l’Allégorie, dites-luy qu’elle ne luy doit faire aucune peine, &amp; que par ces Torrens qui font du fracas &amp; dont les eaux se tarissent incontinent, il est aisé d’entendre ces Amans qui font d’abord de si ardentes protestations, &amp; qui ne sçavent ce que c’est que d’aimer avec constance.</p>
+        <quote>
+          <label>LE RUISSEAU AMANT, <lb/>A LA PRAIRIE.</label>
           <lg>
-            <l>J’ay fait pour vous trouver un assez long voyage,</l>
-            <l>Mon aimable Prairie, enfin je viens à vous,</l>
-            <l>Recevez un Ruisseau dont le sort le plus doux</l>
-            <l>Sera de voir ses eaux couler pour vostre usage.</l>
-          </lg><lg>
-            <l>C’est dans ce seul espoir que sans aucun repos,</l>
-            <l><space/>Depuis que j’ai quité ma Source,</l>
-            <l>J’ay toûjours jusqu’icy continué ma course,</l>
-            <l><space/>Toûjours roulé mes petits flots.</l>
-          </lg><lg>
-            <l>D’un cours précipité j’ay passé des Prairies</l>
-            <l>Où tout autre Ruisseau n’amuse avec plaisir ;</l>
-            <l>Je n’ay point serpenté dans les Routes fleuries,</l>
-            <l><space/>Je n’en avois pas le loisir.</l>
-          </lg><lg>
-            <l>Tel que vous me voyez, sçachez, ne vous déplaise,</l>
-            <l><space/>(Car il est bon de se faire valoir)</l>
-            <l>Que d’une Prairie auroit esté bien-aise</l>
-            <l>De me donner passage &amp; de me recevoir.</l>
-          </lg><lg>
-            <l><space/>Mais ce n’est pas là mon compte,</l>
-            <l>J’en fuse un peu plus tard arrivé dans ce Lieu,</l>
-            <l><space/>Et par une fuite assez prompte,</l>
-            <l>Gazoüillant fierement, je leur disois adieu.</l>
-          </lg><lg>
-            <l>Il faut vous dire tout, la feinte est inutile,</l>
-            <l>J’en trouvois la plûpart dignes de mes refus ;</l>
-            <l>Les unes, entre nous, sont d’accés si facile,</l>
-            <l>Que tous Ruisseaux y sont les bien venus.</l>
-          </lg><lg>
-            <l>Elles veulent toûjours en avoir un grand nombre,</l>
-            <l>Et moy dans le grand nombre aussitost je me pers ;</l>
-            <l>D’autres sont dans des lieux un peu trop découverts,</l>
-            <l><space/>Et moy j’aime à couler à l’ombre.</l>
-          </lg><lg>
-            <l>J’estois bien inspiré de me garder pour vous ;</l>
-            <l>Vous estes bien mon fait, je suis assez le vostre ;</l>
-            <l>Mais aussi, moy reçeu, n’en recevez point d’autre,</l>
-            <l><space/>Car je suis un Ruisseau jaloux.</l>
-          </lg><lg>
-            <l>À cela pres, qui n’est pas un grande vice,</l>
-            <l><space/>J’ay d’assez bonnes qualités.</l>
-            <l>Ne craignez pas que jamais je tarisse,</l>
-            <l><space/>Je puis défier les Etez.</l>
-          </lg><lg>
-            <l><space/>Je sçay que certaines Prairies</l>
-            <l>D’un Ruisseau comme moy ne s’accommodent pas ;</l>
-            <l>Il leur faut ces Torrens qu font tant de fracas,</l>
-            <l>Mais fort souvent on voit leurs eaux taries.</l>
-          </lg><lg>
-            <l><space/>Mon cours en tout temps est égal,</l>
-            <l>Je suis tranquille &amp; doux, ne fais point de ravage ;</l>
-            <l><space/>De plus, je viens vous faire hommage</l>
-            <l><space/>D’une eau pure comme cristal.</l>
-          </lg><lg>
-            <l>Il est telle Prairie, &amp; peut estre assez belle,</l>
-            <l><space/>À qui le plus petit Ruisseau,</l>
-            <l><space/>Suivant sa pente naturelle,</l>
-            <l><space/>N’iroit jamais porter deux goutes d’eau,</l>
-            <l>À moins que détourné par un chemin nouveau,</l>
-            <l>Elle n’en amenast quelqu’un jusque chez elle.</l>
-          </lg><lg>
-            <l><space/>Mais pour vous, sans vous mettre en frais,</l>
-            <l><space/>Sans vous servir d’un pareil artifice,</l>
-            <l>Vous voyez des Ruisseaux qui viennent tout exprès</l>
-            <l><space/>Vous faire offre de leur service,</l>
-            <l><space/>Et le tout pour vos interests.</l>
-          </lg><lg>
-            <l>À present, je l’avoûe, on vous trouve agreable,</l>
-            <l><space/>Vous donnez du plaisir aux yeux ;</l>
-            <l>Mais avec un Ruisseau, rien n’est plus veritable,</l>
-            <l><space/>Que vous en vaudrez beaucoup mieux.</l>
-          </lg><lg>
-            <l>De cent Fleurs qui naistront vous vous verrez ornée,</l>
-            <l>Je vous enrichiray de ces nouveaux Trésors,</l>
-            <l><space/>Et vous tenant environnée,</l>
-            <l><space/>Avec mes eaux je muniray vos bords.</l>
-          </lg><lg>
-            <l>Reposez-vous sur moy du soin de les défendre ;</l>
-            <l>À quoy plus fortement puis-je m’intéresser ?</l>
-            <l>Déja mesme en deux Bras je m’apreste à me fendre,</l>
-            <l><space/>Pour tâcher de vous embrasser.</l>
-          </lg><lg>
-            <l>Mes ondes lentement de toutes parts errantes</l>
-            <l>Ne pourront de ce Lieu se résoudre à partir ;</l>
-            <l>Et quand j’auray formé cent Routes diférentes,</l>
-            <l>Je me perdray chez vous, plutost que d’en sortir.</l>
-          </lg><lg>
-            <l>Je sens, je sens mes eaux qui boüillonnent de joye,</l>
-            <l>De les tant retenir à la fin je suis las,</l>
-            <l>Elles vont se répandre, &amp; se faire une voye,</l>
-            <l>Il n’est plus temps à vous de n’y consentir pas.</l>
+            <l rend="i">J’ay fait pour vous trouver un assez long voyage,</l>
+            <l rend="i">Mon aimable Prairie, enfin je viens à vous,</l>
+            <l rend="i">Recevez un Ruisseau dont le sort le plus doux</l>
+            <l rend="i">Sera de voir ses eaux couler pour vostre usage.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">C’est dans ce seul espoir que sans aucun repos,</l>
+            <l rend="i"> Depuis que j’ai quité ma Source,</l>
+            <l rend="i">J’ay toûjours jusqu’icy continué ma course,</l>
+            <l rend="i"> Toûjours roulé mes petits flots.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">D’un cours précipité j’ay passé des Prairies</l>
+            <l rend="i">Où tout autre Ruisseau n’amuse avec plaisir ;</l>
+            <l rend="i">Je n’ay point serpenté dans les Routes fleuries,</l>
+            <l rend="i"> Je n’en avois pas le loisir.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Tel que vous me voyez, sçachez, ne vous déplaise,</l>
+            <l rend="i"> (Car il est bon de se faire valoir)</l>
+            <l rend="i">Que plus d’une Prairie auroit esté bien-aise</l>
+            <l rend="i">De me donner passage, &amp; de me recevoir.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i"> Mais ce n’estoit pas là mon compte,</l>
+             <l rend="i">J’en fusse un peu plus tard arrivé dans ce Lieu,</l>
+             <l rend="i"> Et par une fuite assez prompte,</l>
+             <l rend="i">Gazoüillant fierement, je leur disois adieu.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Il faut vous dire tout, la feinte est inutile,</l>
+             <l rend="i">J’en trouvois la plûpart dignes de mes refus ;</l>
+             <l rend="i">Les unes, entre nous, sont d’accés si facile,</l>
+             <l rend="i">Que tous Ruisseaux y sont les bien venus.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Elles veulent toûjours en avoir un grand nombre,</l>
+             <l rend="i">Et moy dans le grand nombre aussitost je me pers ;</l>
+             <l rend="i">D’autres sont dans des lieux un peu trop découverts,</l>
+             <l rend="i"> Et moy j’aime à couler à l’ombre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">J’estois bien inspiré de me garder pour vous ;</l>
+             <l rend="i">Vous estes bien mon fait, je suis assez le vostre ;</l>
+             <l rend="i">Mais aussi, moy reçeu, n’en recevez point d’autre,</l>
+             <l rend="i"> Car je suis un Ruisseau jaloux.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">A cela pres, qui n’est pas un grande vice,</l>
+             <l rend="i"> J’ay d’assez bonnes qualite</l>
+             <l rend="i">Ne craignez pas que jamais je tarisse,</l>
+             <l rend="i"> Je puis défier les Etez.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i"> Je sçay que certaines Prairies</l>
+             <l rend="i">D’un Ruisseau comme moy ne s’accommodent pas ;</l>
+             <l rend="i">Il leur faut ces Torrens qui font tant de fracas,</l>
+             <l rend="i">Mais fort souvent on voit leurs eaux taries.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i"> Mon cours en tout temps est égal,</l>
+             <l rend="i">Je suis tranquille &amp; doux, ne fais point de ravage ;</l>
+             <l rend="i"> De plus, je viens vous faire hommage</l>
+             <l rend="i"> D’une eau pure comme cristal.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Il est telle Prairie, &amp; peut estre assez belle,</l>
+             <l rend="i"> A qui le plus petit Ruisseau,</l>
+             <l rend="i"> Suivant sa pente naturelle,</l>
+             <l rend="i"> N’iroit jamais porter deux goutes d’eau,</l>
+             <l rend="i">A moins que détourné par un chemin nouveau,</l>
+             <l rend="i">Elle n’en amenast quelqu’un jusque chez elle.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i"> Mais pour vous, sans vous mettre en frais,</l>
+             <l rend="i"> Sans vous servir d’un pareil artifice,</l>
+             <l rend="i">Vous voyez des Ruisseaux qui viennent tout exprés</l>
+             <l rend="i"> Vous faire ofre de leur service,</l>
+             <l rend="i"> Et le tout pour vos intérests.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">A present, je l’avouë, on vous trouve agreable,</l>
+             <l rend="i"> Vous donnez du plaisir aux yeux ;</l>
+             <l rend="i">Mais avec un Ruisseau, rien n’est plus véritable,</l>
+             <l rend="i"> Que vous en vaudrez beaucoup mieux.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">De cent Fleurs qui naistront vous vous verrez ornée,</l>
+             <l rend="i">Je vous enrichiray de ces nouveaux Trésors,</l>
+             <l rend="i"> Et vous tenant environnée,</l>
+             <l rend="i"> Avec mes eaux je muniray vos bords.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Reposez-vous sur moy du soin de les défendre ;</l>
+             <l rend="i">A quoy plus fortement puis-je m’intéresser ?</l>
+             <l rend="i">Déja mesme en deux Bras je m’apreste à me fendre,</l>
+             <l rend="i"> Pour tâcher de vous embrasser.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Mes ondes lentement de toutes parts errantes</l>
+             <l rend="i">Ne pourront de ce Lieu se résoudre à partir ;</l>
+             <l rend="i">Et quand j’auray formé cent Routes diférentes,</l>
+             <l rend="i">Je me perdray chez vous, plutost que d’en sortir.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Je sens, je sens mes eaux qui boüillonnent de joye,</l>
+             <l rend="i">De les tant retenir à la fin je suis las,</l>
+             <l rend="i">Elles vont se répandre, &amp; se faire une voye,</l>
+             <l rend="i">Il n’est plus temps à vous de n’y consentir pas.</l>
           </lg>
         </quote>
         <p>Le Génie de M<hi rend="sup">r</hi> de Fontenelle paroist si fort dans toute cette Piece, qu’il n’est pas besoin de vous dire qu’il en est l’Autheur. Il a cela de particulier, que presque dans toutes les choses qu’il fait, il joint la nouveauté de la matiere à l’agrément de ses Vers ; &amp; comme personne avant luy n’avoit songé à comparer un petit Chien à l’Amour, il est le premier qui ait donné à un Ruisseau de la sensibilité pour une Prairie.</p>
@@ -175,101 +208,109 @@
       <div type="article" xml:id="MG-1677-11_016" resp="mercure">
         <head>[Histoire de Roüen]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 16-40.</bibl>
-        <p>Il faudroit n’estre pas Homme pour ne point en [de la sensibilité] avoir ; mais elle a quelquefois des effets bien dangereux, &amp; vous l’allez voir par ce qui est arrivé depuis peu de temps à une aimable Heritiere d’une des meilleures Familles de Roüen. Elle avoit pris de la tendresse pour une jeune Chevalier qui l’aimoit avec passion. Soit pour la naissance, soit pour le bien, ils estoient assez le fait l’un de l’autre ; &amp; comme l’Amour s’en mesloit, il n’auroit pas esté difficile au Chevalier de se rendre heureux, si l’employ qu’il avoit à l’Armée ne l’eust obligé d’attendre à demander l’agrément de ses Parens au retour de la Campagne, qu’il ne se pouvoit dispenser de faire. Il servoit en Allemagne sous Monsieur le Marsechal de Créquy, &amp; ayant esté commandé dans une occasion où nous perdîmes quelque monde, il fut emporté au nombre des Morts. La nouvelle s’en répandit dans la Province. Elle vint aux oreilles de la Demoiselle qui en fut inconsolable. Elle pleura, soûpira, parla continuellement de ses bonnes qualitez, &amp; se le mit si fortement dans l’esprit, qu’elle croyoit le voir paroistre devant elle à tous momens. Pour divertir un peu sa douleur, on l’envoya chez une Dame de ses Parentes qui avoit un Chasteau au Païs de Caux. C’estoit une Veuve d’un esprit fort agreable. &amp; qui ayant encor de la jeunesse &amp; de la beauté, aittroit chez elle tout ce qu’il y avoit d’honnestes Gens dans son voisinage. La belle Affligée y trouva quelque soulagement à ses déplaisirs, mais elle n’en pût oublier la cause, &amp; elle se déroboit tous les jours pour venir resver solitairement dans le Jardin à la perte qu’elle avoit faite. Cependant le Chevalier n’estoit pas si bien mort, qu’il ne fit connoistre presque aussi tost qu’il avoit encor part à la vie. On visita ses Blessures. Elles furent trouvées dangereuses, mais non pas de telle sorte qu’il n’en pust guerir. On en prit soin, &amp; il fut en estat de quiter l’Armée dans le temps que les Troupes entroient en Quartier d’Hyver. Il revient en Normandie. Grande joye pour ses Amis qui l’ont pleuré mort. Il s’informe de sa Maistresse. On luy apprend où elle est, &amp; à quelles extremitez sa douleur l’avoit portée. Son amour redouble par la connoissance qu’on luy donne de ses déplaisirs. Il meurt d’impatience de la revoir, &amp; luy veut porter luy-mesme la nouvelle de son retour à la vie. Comme il s’en connoist fortement aimé, il se fait une joye sensible de l’agreable surprise que sa veuë luy doit causer, &amp; sans la faire tirer de l’erreur où le bruit l’a mise, il part de Roüen avec un Conseiller &amp; un Abbé de ses Amis. Aucun d’eux ne connoissoit la Dame chez qui elle estoit, &amp; cela facilité le dessein qu’ils ont de faire passer pour une rencontre du hazard ce qui est une occasion recherché. Il pouvoit estre onze heures du soir. Ils arrivent au Chasteau, feignent d’ignorer à qui il est, le demandent au Portier qui leur vient ouvrir ; &amp; sur sa réponse, ils le priënt de faire dire à la Dame, qu’un Conseiller du Parlement qui s’est égaré en allant à Dieppe, la supplie de luy vouloir donner une Chambre à luy &amp; deux de ses Amis, pour y attendre le jour. La Dame avoit un procés, &amp; le credit d’un Conseiller qui peut ou estre son juge, ou solliciter pour elle, luy paroist un secours envoyé du Ciel. Elle leur fait faire excuse de ce qu’estant déja couchée, elle est contrainte d’attendre jusqu’au lendemain à les voir. Cependant les ordres se donnent, &amp; on n’oublie rien pour les recevoir obligeament. La nuit se passe. Ils demandent à quelle heure ils pourront remercier la Dame de ses bontez. On leur répond qu’elle s’habille ; &amp; pendant ce temps, le Conseiller &amp; l’Abbé descendent à l’Ecurie pour sçavoir si on a eu soin de leurs Chevaux. Le Chevalier qui ne songe qu’à son amour, observe la situation des lieux qui sont habitez, &amp; ayant pris garde qu’ils donnent sur le Jardin, il y entre dans l’esperance que sa Maistresse paroistra à quelque fenestre. Il n’y a pas fait trente pas qu’il la voit sortir d’une Allée couverte. Elle y estoit venuë comme elle avoit accoustumé de le faire tous les matins, &amp; dans ce moment elle essuyoit quelques larmes qu’elle avoit encor données au souvenir de sa mort. Il s’avance. Elle l’apperçoit ; &amp; comme elle en avoit l’imagination, toute remplie, elle le prend pour son Phantosme, fait des cris épouvantables, &amp; s’enfuit vers une Salle qu’elle avoit laissée ouverte. Il court apres elle pour tascher de l’arrester, mais sa diligence est vaine. Elle redouble ses cris, &amp; a plutost fermé la Porte qu’il ne l’a pû joindre. Cette action est remarquée d’un Domestique qui entroit dans le Jardin. Il en va donner avis à la Dame. Elle descend dans la Salle, trouve sa belle Parente évanoüie ; &amp; comme elle estoit Heritiere, &amp; qu’on avoit déja fait courir le bruit de quelque projet pour l’enlever, elle ne doute point qu’on n’ait voulu en venir à l’execution, &amp; ce qu’on luy est venu dire le jour precedent du Conseiller égaré, n’ait esté un artifice pour donner une entrée aux Ravisseurs. Tout la confirme dans cette croyance. On a veau courir un Homme apres la Demoiselle qui ne ’en est sauvée qu’en s’enfermant, &amp; on la trouve évanoüie de frayeur. Ses deux Amis qui s’arrestent à voir leurs Chevaux, semblent avoir eu dessein de se tenir prests à fuir quand il seroit venu à bout de son entreprise, &amp; il n’y a rien autre chose à penser de ce qui s’est fait. Tandis qu’on prend soin de la belle Evanoüie, la Dame envoye chercher du Secours, fait armer ses Gens, &amp; en moins de rien vingt Hommes, avec des Mousquetons &amp; des Halebardes vont à l’Ecurie, où le Chevalier estoit venu rendre compte à ses deux Amis de la rencontre qu’il avoit faite. Ils sont surpris de se voir coucher en jouë, &amp; d’entendre dire qu’il n’y a point de quartier pour eux s’ils ne se laissent conduire dans un Cabinet grillé où la Dame a donné ordre qu’on les enferme. Ils ont beau demander la cause de l’insulte qu’on leur fait, &amp; se plaindre du peu de respect qu’on a pour un Conseiller. Ce nom de Conseiller qui avoit fait de si grands effets quand ils arriverent, n’est plus d’aucune consideration, &amp; ils sont à peine dans le Cabinet où cette Troupe mutine les garde, que la Dame leur vient dire qu’apres les avoir fait recevoir chez elle de la maniere la plus obligeante, elle n’auroit jamais creu qu’ils eussent voulu luy faire l’outrage dont elle prétend reparation. Le Conseiller prend la parole, &amp; s’estant plaint sans trop d’aigreur de la violence qu’on luy a faite, il adjoûte qu’il ne voit pas de quel mauvais dessein on a pû le tenir suspect, quand il vient avec un Abbé dont le caractere le doit faire croire incapable d’y prester la main. La Dame répond que la partie estoit tellement bien faite, &amp; qu’on ne vouloit pas aller loin sans mettre les choses en estat de se pacifier par le Mariage. Cette réponse &amp; quelques autres paroles luy font comprendre qu’on les soupçonne de n’estre venus au Chasteau que pour enlever sa Parente. Le Chevalier qui ne devine point pourquoy on leur impute ce dessein sur la frayeur qu’il sçait que sa veuë a causée à sa Maistresse, dit qu’il est vray qu’une Demoiselle a pris la fuite toute effrayée de l’avoir trouvée dans le Jardin, mais qu’on la luy fasse voir, &amp; qu’il est fort assuré qu’elle ne le reconnoistra point pour un Ravisseur. Il conjure la Dame avec tant d’instance de luy accorder cette grace, qu’elle les quitte pour aller sçavoir si sa Parente est en estat de venir. Elle la trouve revenuë de son Evanoüissement, mais si interdite de ce qu’elle a veu, que le trouble de son ame paroist encor peint dans ses regards. Cette belle Personne la prévient, &amp; d’abord qu’elle la voit entrer elle luy dit qu’elle ne sçait comme elle est demeurée vivante apres que l’ombre du Chevalier qu’elle a tant aimé luy est apparuë. La Dame persuadée que la frayeur qu’elle a euë de la poursuite d’un Ravisseur a fait égarer sa raison, la prie de la suivre, &amp; l’assure qu’elle luy fera faire entiere satisfaction de l’injure qu’elle a reçeuë. Elle entre dans le Cabinet sans sçavoir pourquoy sa presence y est necessaire, &amp; elle n’a pas plutost jetté les yeux sur le Chevalier, qu’elle pousse de nouveaux cris, &amp; retombe presque dans le mesme estat d’où elle vient d’estre retirée. Le Chevalier s’approche, &amp; se plaint d’une maniere si tendre du malheur qu’il a de ne pouvoir paroistre devant elle sans l’éfrayer, qu’enfin quoy qu’avec beaucoup de peine, elle trouve assez de voix pour luy demander s’il peut estre vray qu’il ne soit pas mort. Il répond qu’il ne sçait si elle a donné un ordre absolu de le tuer à ceux qui l’ont amené dans le Cabinet avec des Halebardes &amp; des Mousquetons, mais que si elle veut bien consentir qu’il vive, il vivra tout à elle comme il a fait jusque là, &amp; toûjours dans les sentimens passionnez qu’elle ne condamnoit pas avant qu’il la quittât pour l’Armée. Il n’en fallut pas davantage pour faire connoistre à la Dame ce qu’elle n’avoit pû démesler d’abord. Jugez de sa surprise. Elle entend nommer le Chevalier, &amp; voyant la joye éclater sur le visage de sa Parente, elle tombe dans une confusion dont elle ne sort que par les choses agreables que le Conseiller commence à luy dire sur cette méprise. Elle luy en fait mille excuses, &amp; se sert pour cela de termes si obligeans, que comme elle estoit tres-bien faite de sa personne, le Conseiller s’en laisse toucher. Elle le prie de remettre son Voyage de Dieppe, &amp; de demeurer quelques jours chez elle pour luy donner lieu de reparer ce que son inconsiderée précipitation luy avoit fait faire d’injuste. Outre que c’estoit ce que le Chevalier avoit pretendu, il trouvoit tant d’esprit &amp; d’agrément dans l’aimable Veuve, qu’il ne fut pas fâché de faire pour elle ce qu’un commencement d’amour luy faisoit déja secrettement souhaiter. Il passa donc trois ou quatre jours dans le Chasteau, &amp; l’entretien de cette aimable Personne eut de si doux charmes pour luy, qu’il n’y paroissoit pas moins attaché que le Chevalier l’estoit à renouveller à sa Maistresse les protestations du plus tendre amour. L’Abbé s’aperçeut de l’engagement que le Conseiller prenoit pour la Dame ; &amp; comme il ne pouvoit se mettre de la conversation d’aucun costé sans troubler un teste-à-teste, il leur dit enfin en riant qu’il s’ennuyoit d’estre sans employ, tandis qu’il les voyoit tous quatre si agreablement occupez. Je ne sçay si cet avis donna lieu au Conseiller de s’expliquer serieusement, mais l’intelligence continua, les affaires se conclurent, &amp; l’Abbé fut appellé quelque temps apres pour la Ceremonie des deux Mariages. Le grand <hi rend="i">Oüy</hi> qu’il a fait prononcer à ces quatre Amans, les a mis dans un estat si heureux, que pour l’en réocmpenser ils luy souhaitent tous les jours une Mitre. Comme il a tout le merite qu’îl faut pour la porter dignement, on doit croire que son temps viendra, comme il est venu depuis quelques jours pour M<hi rend="sup">r</hi> l’Abbé Poudens, que le Roy a fait Evesque de Tarbes.</p>
+        <p>Il faudroit n’estre pas Homme pour n'en point avoir ; mais elle a quelquefois des effets bien dangereux, &amp; vous l’allez voir par ce qui est arrivé depuis peu de temps à une aimable Heritiere d’une des meilleures Familles de Roüen. Elle avoit pris de la tendresse pour une jeune Chevalier qui l’aimoit avec passion. Soit pour la naissance, soit pour le bien, ils estoient assez le fait l’un de l’autre ; &amp; comme l’Amour s’en mesloit, il n’auroit pas esté difficile au Chevalier de se rendre heureux, si l’employ qu’il avoit à l’Armée ne l’eust obligé d’attendre à demander l’agrément de ses Parens au retour de la Campagne, qu’il ne se pouvoit dispenser de faire. Il servoit en Allemagne sous Monsieur le Marsechal de Créquy, &amp; ayant esté commandé dans une occasion où nous perdîmes quelque monde, il fut emporté au nombre des Morts. La nouvelle s’en répandit dans la Province. Elle vint aux oreilles de la Demoiselle qui en fut inconsolable. Elle pleura, soûpira, parla continuellement de ses bonnes qualitez, &amp; se le mit si fortement dans l’esprit, qu’elle croyoit le voir paroistre devant elle à tous momens. Pour divertir un peu sa douleur, on l’envoya chez une Dame de ses Parentes qui avoit un Chasteau au Païs de Caux. C’estoit une Veuve d’un esprit fort agreable. &amp; qui ayant encor de la jeunesse &amp; de la beauté, aittroit chez elle tout ce qu’il y avoit d’honnestes Gens dans son voisinage. La belle Affligée y trouva quelque soulagement à ses déplaisirs, mais elle n’en pût oublier la cause, &amp; elle se déroboit tous les jours pour venir resver solitairement dans le Jardin à la perte qu’elle avoit faite. Cependant le Chevalier n’estoit pas si bien mort, qu’il ne fit connoistre presque aussi tost qu’il avoit encor part à la vie. On visita ses Blessures. Elles furent trouvées dangereuses, mais non pas de telle sorte qu’il n’en pust guerir. On en prit soin, &amp; il fut en estat de quiter l’Armée dans le temps que les Troupes entroient en Quartier d’Hyver. Il revient en Normandie. Grande joye pour ses Amis qui l’ont pleuré mort. Il s’informe de sa Maistresse. On luy apprend où elle est, &amp; à quelles extremitez sa douleur l’avoit portée. Son amour redouble par la connoissance qu’on luy donne de ses déplaisirs. Il meurt d’impatience de la revoir, &amp; luy veut porter luy-mesme la nouvelle de son retour à la vie. Comme il s’en connoist fortement aimé, il se fait une joye sensible de l’agreable surprise que sa veuë luy doit causer, &amp; sans la faire tirer de l’erreur où le bruit de la fausse mort l’a mise, il part de Roüen avec un Conseiller &amp; un Abbé de ses Amis. Aucun d’eux ne connoissoit la Dame chez qui elle estoit, &amp; cela facilite le dessein qu’ils ont de faire passer pour une rencontre du hazard ce qui est une occasion recherchée. Il pouvoit estre onze heures du soir. Ils arrivent au Chasteau, feignent d’ignorer à qui il est, le demandent au Portier qui leur vient ouvrir ; &amp; sur sa réponse, ils le priënt de faire dire à la Dame, qu’un Conseiller du Parlement qui s’est égaré en allant à Dieppe, la supplie de luy vouloir donner une Chambre à luy &amp; à deux de ses Amis, pour y attendre le jour. La Dame avoit un procés, &amp; le credit d’un Conseiller qui peut ou estre son juge, ou solliciter pour elle, luy paroist un secours envoyé du Ciel. Elle leur fait faire excuse de ce qu’estant déja couchée, elle est contrainte d’attendre jusqu’au lendemain à les voir. Cependant les ordres se donnent, &amp; on n’oublie rien pour les recevoir obligeament. La nuit se passe. Ils demandent à quelle heure ils pourront remercier la Dame de ses bontez. On leur répond qu’elle s’habille ; &amp; pendant ce temps, le Conseiller &amp; l’Abbé descendent à l’Ecurie pour sçavoir si on a eu soin de leurs Chevaux. Le Chevalier qui ne songe qu’à son amour, observe la situation des lieux qui sont habitez, &amp; ayant pris garde qu’ils donnent sur le Jardin, il y entre dans l’esperance que sa Maistresse paroistra à quelque fenestre. Il n’y a pas fait trente pas qu’il la voit sortir d’une Allée couverte. Elle y estoit venuë comme elle avoit accoustumé de le faire tous les matins, &amp; dans ce moment elle essuyoit quelques larmes qu’elle avoit encor données au souvenir de sa mort. Il s’avance. Elle l’apperçoit ; &amp; comme elle en avoit l’imagination toute remplie, elle le prend pour son Phantosme, fait des cris épouvantables, &amp; s’enfuit vers une Salle qu’elle avoit laissée ouverte. Il court apres elle pour tascher de l’arrester, mais sa diligence est vaine. Elle redouble ses cris, &amp; a plutost fermé la Porte qu’il ne l’a pû joindre. Cette action est remarquée d’un Domestique qui entroit dans le Jardin. Il en va donner avis à la Dame. Elle descend dans la Salle, trouve sa belle Parente évanoüie ; &amp; comme elle estoit Heritiere, &amp; qu’on avoit déja fait courir le bruit de quelque projet pour l’enlever, elle ne doute point qu’on n’ait voulu en venir à l’execution, &amp; que ce qu’on luy est venu dire le jour precedent du Conseiller égaré, n’ait esté un artifice pour donner une entrée aux Ravisseurs. Tout la confirme dans cette croyance. On a veu courir un Homme apres la Demoiselle qui ne s’en est sauvée qu’en s’enfermant, &amp; on la trouve évanoüie de frayeur. Ses deux Amis qui s’arrestent à voir leurs Chevaux, semblent avoir eu dessein de se tenir prests à fuir quand il seroit venu à bout de son entreprise, &amp; il n’y a rien autre chose à penser de ce qui s’est fait. Tandis qu’on prend soin de la belle Evanoüie, la Dame envoye chercher du Secours, fait armer ses Gens, &amp; en moins de rien vingt Hommes, avec des Mousquetons &amp; des Halebardes vont à l’Ecurie, où le Chevalier estoit venu rendre compte à ses deux Amis de la rencontre qu’il avoit faite. Ils sont surpris de se voir coucher en jouë, &amp; d’entendre dire qu’il n’y a point de quartier pour eux s’ils ne se laissent conduire dans un Cabinet grillé où la Dame a donné ordre qu’on les enferme. Ils ont beau demander la cause de l’insulte qu’on leur fait, &amp; se plaindre du peu de respect qu’on a pour un Conseiller. Ce nom de Conseiller qui avoit fait de si grands effets quand ils arriverent, n’est plus d’aucune consideration, &amp; ils sont à peine dans le Cabinet où cette Troupe mutine les garde, que la Dame leur vient dire qu’apres les avoir fait recevoir chez elle de la maniere la plus obligeante, elle n’auroit jamais creu qu’ils eussent voulu luy faire l’outrage dont elle prétend reparation. Le Conseiller prend la parole, &amp; s’estant plaint sans trop d’aigreur de la violence qu’on luy a faite, il adjoûte qu’il ne voit pas de quel mauvais dessein on a pû le tenir suspect, quand il vient avec un Abbé dont le caractere le doit faire croire incapable d’y prester la main. La Dame répond que la partie estoit bien faite, &amp; qu’on ne vouloit pas aller loin sans mettre les choses en estat de se pacifier par le Mariage. Cette réponse &amp; quelques autres paroles luy font comprendre qu’on les soupçonne de n’estre venus au Chasteau que pour enlever sa Parente. Le Chevalier qui ne devine point pourquoy on leur impute ce dessein sur la frayeur qu’il sçait que sa veuë a causée à sa Maistresse, dit qu’il est vray qu’une Demoiselle a pris la fuite toute effrayée de l’avoir trouvé dans le Jardin, mais qu’on la luy fasse voir, &amp; qu’il est fort assuré qu’elle ne le reconnoistra point pour un Ravisseur. Il conjure la Dame avec tant d’instance de luy accorder cette grace, qu’elle les quitte pour aller sçavoir si sa Parente est en estat de venir. Elle la trouve revenuë de son Evanoüissement, mais si interdite de ce qu’elle a veu, que le trouble de son ame paroist encor peint dans ses regards. Cette belle Personne la prévient, &amp; d’abord qu’elle la voit entrer elle luy dit qu’elle ne sçait comme elle est demeurée vivante apres que l’Ombre du Chevalier qu’elle a tant aimé luy est apparuë. La Dame persuadée que la frayeur qu’elle a euë de la poursuite d’un Ravisseur a fait égarer sa raison, la prie de la suivre, &amp; l’assure qu’elle luy fera faire entiere satisfaction de l’injure qu’elle a reçeuë. Elle entre dans le Cabinet sans sçavoir pourquoy sa presence y est necessaire, &amp; elle n’a pas plutost jetté les yeux sur le Chevalier, qu’elle pousse de nouveaux cris, &amp; retombe presque dans le mesme estat d’où elle vient d’estre retirée. Le Chevalier s’approche, &amp; se plaint d’une maniere si tendre du malheur qu’il a de ne pouvoir paroistre devant elle sans l’éfrayer, qu’enfin quoy qu’avec beaucoup de peine, elle trouve assez de voix pour luy demander s’il peut estre vray qu’il ne soit pas mort. Il répond qu’il ne sçait si elle a donné un ordre absolu de le tuer à ceux qui l’ont amené dans le Cabinet avec des Halebardes &amp; des Mousquetons, mais que si elle veut bien consentir qu’il vive, il vivra tout à elle comme il a fait jusque là, &amp; toûjours dans les sentimens passionnez qu’elle ne condamnoit pas avant qu’il la quittât pour l’Armée. Il n’en fallut pas davantage pour faire connoistre à la Dame ce qu’elle n’avoit pû démesler d’abord. Jugez de sa surprise. Elle entend nommer le Chevalier, &amp; voyant la joye éclater sur le visage de sa Parente, elle tombe dans une confusion dont elle ne sort que par les choses agreables que le Conseiller commence à luy dire sur cette méprise. Elle luy en fait mille excuses, &amp; se sert pour cela de termes si obligeans, que comme elle estoit tres-bien faite de sa personne, le Conseiller s’en laisse toucher. Elle le prie de remettre son Voyage de Dieppe, &amp; de demeurer quelques jours chez elle pour luy donner lieu de reparer ce que son inconsiderée précipitation luy avoit fait faire d’injuste. Outre que c’estoit ce que le Chevalier avoit pretendu, il trouvoit tant d’esprit &amp; d’agrément dans l’aimable Veuve, qu’il ne fut pas fâché de faire pour elle ce qu’un commencement d’amour luy faisoit déja secrettement souhaiter. Il passa donc trois ou quatre jours dans le Chasteau, &amp; l’entretien de cette aimable Personne eut de si doux charmes pour luy, qu’il n’y paroissoit pas moins attaché que le Chevalier l’estoit à renouveller à sa Maistresse les protestations du plus tendre amour. L’Abbé s’aperçeut de l’engagement que le Conseiller prenoit pour la Dame ; &amp; comme il ne pouvoit se mettre de la conversation d’aucun costé sans troubler un teste-à-teste, il leur dit enfin en riant qu’il s’ennuyoit d’estre sans employ, tandis qu’il les voyoit tous quatre si agreablement occupez. Je ne sçay si cet avis donna lieu au Conseiller de s’expliquer serieusement, mais l’intelligence continua, les affaires se conclurent, &amp; l’Abbé fut appellé quelque temps apres pour la Ceremonie des deux Mariages. Le grand <hi rend="i">Oüy</hi> qu’il a fait prononcer à ces quatre Amans, les a mis dans un estat si heureux, que pour l’en récompenser ils luy souhaitent tous les jours une Mitre. Comme il a tout le merite qu’îl faut pour la porter dignement, on doit croire que son temps viendra, comme il est venu depuis quelques jours pour M<hi rend="sup">r</hi> l’Abbé Poudens, que le Roy a fait Evesque de Tarbes.</p>
       </div>
       <div type="article" xml:id="MG-1677-11_044" resp="mercure">
         <head>[Epistre en Vers à Monsieur le Duc de S. Aignan]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 44-50.</bibl>
         <p>Comme les Charges &amp; les grands Emplois font plutost honte qu’honneur si on ne les soûtient par le merite, heureux qui en est liberalement partagé. Je sçay bien que la Cour est un grand Theatre où il paroist avec beaucoup plus d’éclat qu’ailleurs ; mais il n’y est pas si fort renfermé qu’il ne se répande dans les Provinces, &amp; vous conviendrez de celuy de M<hi rend="sup">r</hi> Petit, quand vous aurez leu ce que je vous envoye de sa façon. C’est une Epistre enjoüée qu’il adresse à Monsieur le Duc de S. Aignan, qui a pour luy une estime tres-particuliere. Le stile en est libre, &amp; vous y trouverez un tour aisé qui vous persuadera aisément de ce que j’ay à vous dire à l’avantage de son Autheur.</p>
-        <quote rend="border">
-          <label rend="center">À Monsieur le Duc de S. Aignan.</label>
+        <quote>
+          <label>A MONSIEUR <lb/>LE DUC DE S. AIGNAN.</label>
           <lg>
-            <l>N’est-il point fait cet Armement</l>
-            <l>Qui depuis long temps vous occupe ?</l>
-            <l>Apollon s’en plaint hautement,</l>
-            <l>Ainsi qu’Amour le Dieu charmant ;</l>
-            <l>Et le beau Sexe porte jupe,</l>
-            <l>Quoy, Seigneur, ne parlera-t-on</l>
-            <l>En ce Siecle que de Canon,</l>
-            <l>Que de prendre d’assaut des Villes,</l>
-            <l>Que de punir les Ennemis</l>
-            <l>De leurs manieres inciviles</l>
-            <l>D’oser se frotter à <hi rend="sc">Loüis</hi>,</l>
-            <l>Le premier Héros de la Terre,</l>
-            <l>Sçavant au noble Art de la Guerre,</l>
-            <l>Tout comme celuy qui le fit,</l>
-            <l>Et donc la gloire retentit</l>
-            <l>Mieux que le bruit de son Tonnerre ?</l>
-          </lg><lg>
-            <l>Notre Parnasse est sans Laurier,</l>
-            <l>Mais qui pourroit à ce Guerrier</l>
-            <l>En fournir assez pour la teste ?</l>
-            <l>Les Muses mesmes sont à bout ;</l>
-            <l>Elles pensent avoit dit tout,</l>
-            <l>Et leur Chant sur une Conqueste</l>
-            <l>Vient à grand’ peine de cesser,</l>
-            <l>Que la surprenante nouvelle</l>
-            <l>D’une autre &amp; plus grande &amp; plus belle,</l>
-            <l>Les oblige à recommencer.</l>
-          </lg><lg>
-            <l>Enfin ce Conquerant terrible</l>
-            <l>Lasse Muses, Chefs &amp; Soldats,</l>
-            <l>Et pare qu’il est Invincible,</l>
-            <l>Il ne se trouve jamais las.</l>
-            <l>Mais tandis qu’il tient dans la Plaine</l>
-            <l>Ses braves Héros en haleine,</l>
-            <l>Apres bien de tristes helas,</l>
-            <l>Mille Belles disent en larmes,</l>
-            <l>Ah, maudite gloire des Armes,</l>
-            <l>Maudits Assauts, maudits Combats,</l>
-            <l>Que vous nous causez de tristesse !</l>
-            <l>Que nous perdons de doux ébats,</l>
-            <l>Et que tant de belle Noblesse</l>
-            <l>Seroit bien mieux entre nos bras !</l>
-            <l>Mais que voulez-vous davantage ?</l>
-            <l>Grand Monarque, vos Ennemis</l>
-            <l>Ne Sont-ils pas vaincus, soûmis :</l>
-            <l>De tous costez pliant bagage ?</l>
-            <l>Laissez donc Mars avec sa rage,</l>
-            <l>Et rendant à l’Amour hommage,</l>
-            <l>Daignez nous rendre nos Amis.</l>
-            <l>Vous n’y perdrez rien, digne Prince,</l>
-            <l>Non, Grand Roy, vous n’y perdrez rien,</l>
-            <l>Nos amours dans chaque Province</l>
-            <l>Feront naistre des Gens de bien.</l>
-            <l>Ce seront des Sujets fidelles</l>
-            <l>Dont se peuplera vostre Cour,</l>
-            <l>Masles bien faits, belles Femelles,</l>
-            <l>Tous Enfans de Mars &amp; d’Amour.</l>
-          </lg><lg>
-            <l>N’ont-elles pas raison, ces Belles ?</l>
-            <l>Je veux vous en prendre à témoin,</l>
-            <l>Vous, qui toûjours avec grand soin</l>
-            <l>Fistes mille choses pour elles.</l>
-            <l>L’Amour n’est-il pas plus plaisant</l>
-            <l>Que la Guerre, dont la furie</l>
-            <l>Jamais n’agit qu’en détruisant</l>
-            <l>Le tresor des tresors, la vie ?</l>
-            <l>Oüy, tout compté, tout rebatu,</l>
-            <l>Seigneur, l’amoureuse vertu</l>
-            <l>Vaut mieux que la vertu guerriere.</l>
-            <l>Cela ne se peut contester,</l>
-            <l>Car enfin donner la lumiere</l>
-            <l>Est plus noble que de l’oster.</l>
-          </lg><lg>
-            <l>Quoy qu’il en soit, pour satisfaire</l>
-            <l>Aux justes plaintes de ces Dieux,</l>
-            <l>Et pour apaiser la colere</l>
-            <l>De mille Dames aux beaux yeux ;</l>
-            <l>De ces Rimes qui sçavent plaire</l>
-            <l>Reprenez l’agreable employ,</l>
-            <l>Et surtout vostre charmante Lyre</l>
-            <l>Dont par tous les tons on admire,</l>
-            <l>Chantez <hi rend="sc">Loüis</hi>, nostre Grand Roy,</l>
-            <l>Ensuite, chantez les tendresses</l>
-            <l>De l’Amour le Dieu des douceurs,</l>
-            <l>Et ces vingt ou trente Maistresses</l>
-            <l>Dont vous avez gagné les cœurs.</l>
+             <l rend="i">N’est-il point fait cet Armement</l>
+             <l rend="i">Qui depuis long temps vous occupe ?</l>
+             <l rend="i">Apollon s’en plaint hautement,</l>
+             <l rend="i">Ainsi qu’Amour le Dieu charmant ;</l>
+             <l rend="i">Et le beau Sexe porte jupe,</l>
+             <l rend="i">Quoy, Seigneur, ne parlera-t-on</l>
+             <l rend="i">En ce Siecle que de Canon,</l>
+             <l rend="i">Que de prendre d’assaut des Villes,</l>
+             <l rend="i">Que de punir les Ennemis</l>
+             <l rend="i">De leurs manieres inciviles</l>
+             <l><hi rend="i">D’oser se frotter à</hi> <hi rend="sc">Loüis</hi>,</l>
+             <l rend="i">Le premier Héros de la Terre,</l>
+             <l rend="i">Sçavant au noble Art de la Guerre,</l>
+             <l rend="i">Tout comme celuy qui le fit,</l>
+             <l rend="i">Et donc la gloire retentit</l>
+             <l rend="i">Mieux que le bruit de son Tonnerre ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Nostre Parnasse est sans Laurier ;</l>
+             <l rend="i">Mais qui pourroit à ce Guerrier</l>
+             <l rend="i">En fournir assez pour sa teste ?</l>
+             <l rend="i">Les Muses mesmes sont à bout ;</l>
+             <l rend="i">Elles pensent avoit dit tout,</l>
+             <l rend="i">Et leur Chant sur une Conqueste</l>
+             <l rend="i">Vient à grand’ peine de cesser,</l>
+             <l rend="i">Que la surprenante nouvelle</l>
+             <l rend="i">D’une autre &amp; plus grande &amp; plus belle,</l>
+             <l rend="i">Les oblige à recommencer.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Enfin ce Conquerant terrible</l>
+             <l rend="i">Lasse Muses, Chefs &amp; Soldats,</l>
+             <l rend="i">Et pare qu’il est Invincible,</l>
+             <l rend="i">Il ne se trouve jamais las.</l>
+             <l rend="i">Mais tandis qu’il tient dans la Plaine</l>
+             <l rend="i">Ses braves Héros en haleine,</l>
+             <l rend="i">Apres bien de tristes helas,</l>
+             <l rend="i">Mille Belles disent en larmes,</l>
+             <l rend="i">Ah, maudite gloire des Armes,</l>
+             <l rend="i">Maudits Assauts, maudits Combats,</l>
+             <l rend="i">Que vous nous causez de tristesse !</l>
+             <l rend="i">Que nous perdons de doux ébats,</l>
+             <l rend="i">Et que tant de belle Noblesse</l>
+             <l rend="i">Seroit bien mieux entre nos bras !</l>
+             <l rend="i">Mais que voulez-vous davantage ?</l>
+             <l rend="i">Grand Monarque, vos Ennemis</l>
+             <l rend="i">Ne sont-ils pas vaincus, soûmis :</l>
+             <l rend="i">De tous costez pliant bagage ?</l>
+             <l rend="i">Laissez donc Mars avec sa rage,</l>
+             <l rend="i">Et rendant à l’Amour hommage,</l>
+             <l rend="i">Daignez nous rendre nos Amis.</l>
+             <l rend="i">Vous n’y perdrez rien, digne Prince,</l>
+             <l rend="i">Non, Grand Roy, vous n’y perdrez rien,</l>
+             <l rend="i">Nos amours dans chaque Province</l>
+             <l rend="i">Feront naistre des Gens de bien.</l>
+             <l rend="i">Ce seront des Sujets fidelles</l>
+             <l rend="i">Dont se peuplera vostre Cour,</l>
+             <l rend="i">Masles bien faits, belles Femelles,</l>
+             <l rend="i">Tous Enfans de Mars &amp; d’Amour.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">N’ont-elles pas raison, ces Belles ?</l>
+             <l rend="i">Je veux vous en prendre à témoin,</l>
+             <l rend="i">Vous, qui toûjours avec grand soin</l>
+             <l rend="i">Fistes mille choses pour elles.</l>
+             <l rend="i">L’Amour n’est-il pas plus plaisant</l>
+             <l rend="i">Que la Guerre, dont la furie</l>
+             <l rend="i">Jamais n’agit qu’en détruisant</l>
+             <l rend="i">Le tresor des tresors, la vie ?</l>
+             <l rend="i">Oüy, tout compté, tout rabatu,</l>
+             <l rend="i">Seigneur, l’amoureuse vertu</l>
+             <l rend="i">Vaut mieux que la vertu guerriere.</l>
+             <l rend="i">Cela ne se peut contester,</l>
+             <l rend="i">Car enfin donner la lumiere</l>
+             <l rend="i">Est plus noble que de l’oster.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+             <l rend="i">Quoy qu’il en soit, pour satisfaire</l>
+             <l rend="i">Aux justes plaintes de ces Dieux,</l>
+             <l rend="i">Et pour appaiser la colere</l>
+             <l rend="i">De mille Dames aux beaux yeux ;</l>
+             <l rend="i">De ces Rimes qui sçavent plaire</l>
+             <l rend="i">Reprenez l’agreable employ,</l>
+             <l rend="i">Et sur vostre charmante Lyre</l>
+             <l rend="i">Dont par tout les tons on admire,</l>
+             <l><hi rend="i">Chantez</hi> <hi rend="sc">Loüis</hi><hi rend="i">, nostre Grand Roy,</hi></l>
+             <l rend="i">Ensuite, chantez les tendresses</l>
+             <l rend="i">De l’Amour le Dieu des douceurs,</l>
+             <l rend="i">Et ces vingt ou trente Maistresses</l>
+             <l rend="i">Dont vous avez gagné les cœurs.</l>
           </lg>
         </quote>
       </div>
@@ -277,140 +318,160 @@
         <head>[Lettre en Vers &amp; en prose en forme de Legende de Bourbon]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 64-80.</bibl>
         <p>Je vous ay mandé les Honneurs que Monsieur le Duc du Mayne y avoit reçeus en allant aux Eaux de Barrége. Il en est revenu, &amp; vous ne sçauriez croire combien la Cour a montré de joye du rétablissement de sa Santé. Ce jeune Prince soûtient sa naissance par tant d’esprit &amp; par de si grandes qualitez, qu’il est rare de les faire éclater aussi avantageusement qu’il fait dans un âge si peu avancé. Si les Eaux de Barrége luy ont esté salutaires, celles de Bourbon ne l’ont pas moins esté à quantité de Belles qu’on y a veuës. Cette Lettre qui m’est tombée entre les mains, vous en fera sçavoir le merite. Je vous l’envoye telle qu’on vient de me la donner.</p>
-        <quote rend="border">
-          <label rend="center">Lettre de M. le Marquis de *** à Madame de ***</label>
-          <p>Je suis à Bourbon-l’Archambault, Madame ; &amp; sans aucun préambule, je vay vous rendre compte de ce qui s’y passe, comme vous me l’avez ordonné. La premiere chose que je fis en arrivant, ce fut de m’informer du genre des Maladies qui avoient attiré le beau Monde qu’on dit qu’y s’y trouvoit, &amp; l’on m’apprit qu’à l’exception de quelques Paralisies mal formées, Hommes &amp; Femmes s’y plaignoient presque de Vapeurs.</p>
+        <quote>
+          <label>LETTRE <lb/>DE M. LE MARQUIS DE *** <lb/>A MADAME DE ***</label>
+          <p><hi rend="i">Je suis à Bourbon-l’Archambaut, Madame ; &amp; sans aucun préambule, je vay vous rendre compte de ce qui s’y passe, comme vous me l’avez ordonné. La premiere chose que je fis en arrivant, ce fut de m’informer du genre des Maladies qui avoient attiré le beau Monde qu’on dit qu’y s’y trouvoit, &amp; l’on m’apprit qu’à l’exception de quelques Paralisies mal formées, Hommes &amp; Femmes s’y plaignoient presque tous de Vapeurs.</hi></p>
           <lg>
             <l>Ce Mal de tous les Maux, Mal le plus incommode,</l>
             <l>Pour les Hommes jadis n’estoit point à la mode ;</l>
-            <l>Mais on sçait aujourd’huy ce qu’il nous fait sourrir,</l>
-            <l><space/>Comme à toute heure il nous accable,</l>
-            <l><space/>Jusqu’à nous voir prests d’en mourir,</l>
+            <l>Mais on sçait aujourd’huy ce qu’il nous fait souffrir,</l>
+            <l> Comme à toute heure il nous accable,</l>
+            <l> Jusqu’à nous voir prests d’en mourir,</l>
             <l>Si vostre Sexe estoit un peu plus charitable,</l>
             <l>Nous n’irions pas si loin essayer d’en guerir.</l>
           </lg>
-          <p>Je ne manqueray pas (&amp; par vostre ordre, madame,) de demander d’abord des nouvelles de nostre Illustre Mareschal. Je sçeus que les eaux ne luy avoient fait que médiocrement du bien cette année, mais qu’en récompense Mr Amiot son Medecin, Homme qu’une capacité depuis long-temps éprouvée, rend digne de tout le bien qu’on en dit, en avoit pris des soins si particuliers, que ses Amis pouvoient esperer de le revoir avec toute la santé qu’ils luy avoient souhaitée en partant : l’agreable vie qu’on mene icy, aura sans doute contribué à la rétablir. Le Jeu, la Promenade, la Conversation, &amp; tout ce qui peut lier une aimable société, sont des plaisirs qui n’y manquent presque jamais, &amp; la belle Compagnie qui s’y trouve ordinairement seroit seule capable de guerir les Maux les plus obstinez. Tout ce qui m’y paroist fâcheux,</p>
+          <p><hi rend="i">Je ne manqueray pas (&amp; par vostre ordre, Madame,) de demander d’abord des nouvelles de nostre Illustre Mareschal. Je sçeus que les Eaux ne luy avoient fait que médiocrement du bien cette année, mais qu’en récompense M<hi rend="sup">r</hi> Amiot son Medecin, Homme qu’une capacité depuis long-temps éprouvée, rend digne de tout le bien qu’on en dit, en avoit pris des soins si particuliers, que ses Amis pouvoient esperer de le revoir avec toute la santé qu’ils luy avoient souhaitée en partant : l’agreable vie qu’on mene icy, aura sans doute contribué à la rétablir. Le Jeu, la Promenade, la Conversation, &amp; tout ce qui peut lier une aimable société, sont des plaisirs qui n’y manquent presque jamais, &amp; la belle Compagnie qui s’y trouve ordinairement seroit seule capable de guerir les Maux les plus obstinez. Tout ce qui m’y paroist fâcheux,</hi></p>
           <lg>
-            <l><space/><space/>C’est qu’on voit là de tres-saines Malades,</l>
-            <l><space/>Qui fieres de mille Beautez,</l>
-            <l><space/>Font de frequentes incartades</l>
-            <l><space/>À d’innocentes Libertez.</l>
+            <l> C’est qu’on voit là de tres-saines Malades,</l>
+            <l>  Qui fieres de mille Beautez,</l>
+            <l> Font de frequentes incartades</l>
+            <l> A d’innocentes Libertez.</l>
             <l>Au plaisir de les voir le meilleur temps s’employe.</l>
-            <l>Comme le charme est grand, on s’en donne à cœur oye,</l>
+            <l>Comme le charme est grand, on s’en donne à cœur joye,</l>
             <l>On regarde, on admire, on demeure enchanté.</l>
             <l>Alors aux Maux divers, dont boire est le Remede,</l>
             <l>Se mesle un certain trouble à qui la raison cede,</l>
-            <l><space/>Et mal sur mal n’est pas santé.</l>
+            <l> Et mal sur mal n’est pas santé.</l>
           </lg>
-          <p>Je m’en sauve comme je puis, &amp; je vous avouë que ce n’est pas sans peine, car si on évite un guet-à-pend d’un costé, on le rencontre de l’autre. Par exemple</p>
+          <p><hi rend="i">Je m’en sauve comme je puis, &amp; je vous avouë que ce n’est pas sans peine, car si on évite un guet-à-pend d’un costé, on le rencontre de l’autre. Par exemple</hi></p>
           <lg>
-            <l><space/>Avez-vous fuy les dangereux attraits</l>
-            <l><space/>Qui coûtent tant à regarder de pres,</l>
-            <l><space/>Lors qu’à vos yeux charmez de sa rencontre,</l>
-            <l><space/>L’aimable Fortia se montre ;</l>
+            <l> Avez-vous fuy les dangereux attraits</l>
+            <l> Qui coûtent tant à regarder de pres,</l>
+            <l> Lors qu’à vos yeux charmez de sa rencontre,</l>
+            <l> L’aimable Fortia se montre ;</l>
             <l>Ailleurs où le hazard vous aura pû mener,</l>
             <l>La belle Marcillac vous vient assassiner.</l>
             <l>Que de cœurs tous les jours ses charmes luy font prendre,</l>
             <l>Sans que jamais elle songe à les rendre.</l>
             <l>Il n’estoit pas besoin qu’elle quitât la Cour</l>
-            <l><space/>Pour leur faire un si méchant tour.</l>
-            <l>Je n’ose en dire rien, c’est sur la conscience ;</l>
+            <l> Pour leur faire un si méchant tour.</l>
+            <l>Je n’ose en dire rien, c’est sur sa conscience ;</l>
             <l>Mais qu’elle craigne enfin qu’on ne la pousse à bout,</l>
             <l>On peut prendre son temps, la trouver sans defense,</l>
             <l>Et quiconque à voler comme elle se résout,</l>
             <l>Doit croire que malgré toute sa resistance,</l>
-            <l><space/>Un coup viendra qui payera le tout.</l>
+            <l> Un coup viendra qui payera tout.</l>
           </lg>
-          <p>Vous auriez peine à vous imaginer combien la belle Madame Dubal fait envier le bonheur de son Epoux qui est venu aux eaux avec elle. Ce sont deux moitiez tres-bien assorties, &amp; si la Femme a un merite extraordinaire, on ne peut parler trop avantageusement du Mary. Il est bienfait, agreable, &amp; fort consideré dans la Maison de Monsieur le Prince. Je passe aux autres Beautez qu’on voit icy ; &amp; pour m’empescher d’y penser trop en vous parlant, vous trouverez bon, s’il vous plaist, que je ne vous en fasse le Portrait qu’en racourcy.</p>
+          <p><hi rend="i">Vous auriez peine à vous imaginer combien la belle Madame Dubal fait envier le bonheur de son Epoux qui est venu aux Eaux avec elle. Ce sont deux moitiez tres-bien assorties, &amp; si la Femme a un merite extraordinaire, on ne peut parler trop avantageusement du Mary. Il est bienfait, agreable, &amp; fort consideré dans la Maison de Monsieur le Prince. Je passe aux autres Beautez qu’on voit icy ; &amp; pour m’empescher d’y penser trop en vous parlant, vous trouverez bon, s’il vous plaist, que je ne vous en fasse le Portrait qu’en racourcy.</hi></p>
           <lg>
             <l>L’incomparable Bourdenois</l>
-            <l><space/>Dont la gorge toute charmante</l>
-            <l><space/>Surprend, ébloüit, touche, enchante,</l>
+            <l> Dont la gorge toute charmante</l>
+            <l> Surprend, ébloüit, touche, enchante,</l>
             <l>De l’Amour à toute heure épuise le Carquois.</l>
             <l>Heureux qui vit sous si belles Loix,</l>
-            <l><space/>Mais plus heureux qui s’en exempte.</l>
-          </lg><lg>
+            <l> Mais plus heureux qui s’en exempte.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
             <l>De Vallecour &amp; son aimable Sœur,</l>
             <l>Des plus brillans attraits l’une &amp; l’autre pourveuë,</l>
-            <l><space/>Ont bien dequoy plaire à la veuë,</l>
+            <l> Ont bien dequoy plaire à la veuë,</l>
             <l>Mais ce n’est pas sans qu’il en couste au cœur.</l>
-          </lg><lg>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
             <l>Beauregard &amp; Bessay par l’éclat de leurs charmes,</l>
-            <l><space/>Font aux plus fiers rendre les armes.</l>
-          </lg><lg>
-            <l><space/>Du Frétoy comme Riberpré</l>
+            <l> Font aux plus fiers rendre les armes.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l> Du Frétoy comme Riberpré</l>
             <l>Quand vous les regardez sont fort à vostre gré,</l>
             <l>Mais mal en prend, quoy qu’on y prenne garde,</l>
-            <l>ùA qui trop souvent les regarde.</l>
-          </lg><lg>
-            <l><space/>Morin, Phelipeaux &amp; de Ris,</l>
+            <l> A qui trop souvent les regarde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l> Morin, Phelipeaux &amp; de Ris,</l>
             <l>Par leur propre merite à peu d’autres semblables,</l>
-            <l><space/>Ont toutes des Filles aimables</l>
-            <l>Que suivent la Jeunesse &amp; les jeux &amp; les Ris.</l>
-            <l>On est charmé de se voir avec elles,</l>
+            <l> Ont toutes des Filles aimables</l>
+            <l>Que suivent la Jeunesse &amp; les Jeux &amp; les Ris.</l>
+            <l> On est charmé de se voir avec elles,</l>
             <l>Mais comme de soy-mesme on doit se défier,</l>
             <l>Ce n’est pas tout que de les trouver Belles,</l>
-            <l><space/>L’importance est de l’oublier.</l>
-          </lg><lg>
+            <l> L’importance est de l’oublier.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
             <l>Joignez à ces Beautez deux Illustres Amies,</l>
-            <l><space/>Dont il faut vous dire le nom.</l>
-            <l><space/>L’une est Saint-Clair, l’autre Burgon,</l>
+            <l> Dont il faut vous dire le nom.</l>
+            <l> L’une est Saint-Clair, l’autre Burgon,</l>
             <l>Ce sont dans l’amitié deux ames affermies,</l>
             <l>Et qui font concevoir à qui veut s’enflâmer,</l>
-            <l><space/>Qu’il n’est rien de si doux qu’aimer.</l>
-          </lg><lg>
+            <l> Qu’il n’est rien de si doux qu’aimer.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
             <l>Pour la belle Damon qu’accompagnent les Graces,</l>
             <l>Et dont en la voyant chacun demeure épris,</l>
-            <l><space/>On ne doit point estre surpris</l>
-            <l><space/>Si l’Amour marche sur ses traces.</l>
+            <l> On ne doit point estre surpris</l>
+            <l> Si l’Amour marche sur ses traces.</l>
             <l>Quel assez ample, assez riche Marc d’or</l>
             <l>A pû payer ce prétieux Trésor ?</l>
-          </lg><lg>
-            <l><space/>Il faut encore rendre ustice</l>
-            <l><space/>Au merite des quatre Sœurs.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l> Il faut encore rendre justice</l>
+            <l> Au merite des quatre Sœurs.</l>
             <l>Marpon l’aînée est Veuve, &amp; (je croy) peu novice</l>
-            <l><space/>Dans l’art d’assujettir les cœurs.</l>
+            <l> Dans l’art d’assujettir les cœurs.</l>
             <l>Elle est bienfaite, aimable, &amp; fort spirituelle.</l>
             <l>De Villedo sa Sœur se fait aimer comme elle ;</l>
-            <l><space/>Et dans l’agreable Becuau</l>
+            <l> Et dans l’agreable Becuau</l>
             <l>On ne voit rien que de bon &amp; de beau.</l>
             <l>Mignon, la plus jeune des quatre</l>
-            <l>À des attraits dangereux à combatre,</l>
+            <l>A des attraits dangereux à combatre,</l>
             <l>Et qui veut tenir contre, éprouve à ses despens</l>
-            <l><space/>Qu’il perd la franchise &amp; son temps.</l>
+            <l> Qu’il perd sa franchise &amp; son temps.</l>
           </lg>
         </quote>
-        <p>Apres vous avoir parlé des Belles, j’aurois un long article à vous faire, si je voulois vous entretenir de tous les Hommes de merite qui boivent icy des Eaux. Nous y voyons M<hi rend="sup">r</hi> le Marquis de Vardes, dont on croit que le plus grand mal soit le chagrin d’estre toûjours éloigné de la plus Auguste Personne du Monde. M<hi rend="sup">r</hi> de Pomereüil, &amp; M<hi rend="sup">r</hi> Pique, y sont aussi avec M<hi rend="sup">r</hi> le Comte de Bouligneux qui est un Homme tres-bien fait, &amp; fort estimé. Mais ce qu’on peut appeler le Charme de nos plus belles Compagnies, c’est un jeune Milord petit-Fils du Duc d’Ormond Viceroy d’Irlande. Il donne la Comedie aux Dames, &amp; on ne peut rien voir de plus galant à son âge. Ses belles qualitez ne surprennent point quand on les voit cultivées par M<hi rend="sup">r</hi> de Montmiral son Gouverneur. C’est un Gentilhomme tres-accomply, &amp; fort digne du choix qu’on a fait de luy pour la conduite du jeune Seigneur dont je vous parle. Vous serez peut-estre surprise de ce que je ne vous dis rien de Madame la Comtesse de Dona, ny de quantité d’autres belles Dames qui sont venuës cette année boire des Eaux à Bourbon. Souvenez-vous, je vous prie, que je vous ay seulement promis de vous rendre compte de celles que j’y trouverois. Je vous tiens parole, &amp; suis vostre, &amp;c.</p>
+        <p><hi rend="i">Apres vous avoir parlé des Belles, j’aurois un long article à vous faire, si je voulois vous entretenir de tous les Hommes de merite qui boivent icy des Eaux. Nous y voyons M<hi rend="sup">r</hi> le Marquis de Vardes, dont on croit que le plus grand mal soit le chagrin d’estre toûjours éloigné de la plus Auguste Personne du Monde. M<hi rend="sup">r</hi> de Pomereüil, &amp; M<hi rend="sup">r</hi> Pique, y sont aussi avec M<hi rend="sup">r</hi> le Comte de Bouligneux qui est un Homme tres-bien fait, &amp; fort estimé. Mais ce qu’on peut appeller le Charme de nos plus belles Compagnies, c’est un jeune Milord petit-Fils du Duc d’Ormond Viceroy d’Irlande. Il donne la Comedie aux Dames, &amp; on ne peut rien voir de plus galant à son âge. Ses belles qualitez ne surprennent point quand on les voit cultivées par M<hi rend="sup">r</hi> de Montmiral son Gouverneur. C’est un Gentilhomme tres-accomply, &amp; fort digne du choix qu’on a fait de luy pour la conduite du jeune Seigneur dont je vous parle. Vous serez peut-estre surprise de ce que je ne vous dis rien de Madame la Comtesse de Dona, ny de quantité d’autres belles Dames qui sont venuës cette année boire des Eaux à Bourbon. Souvenez-vous, je vous prie, que je vous ay seulement promis de vous rendre compte de celles que j’y trouverois. Je vous tiens parole, &amp; suis vostre, &amp;c.</hi></p>
       </div>
       <div type="article" xml:id="MG-1677-11_081" resp="mercure">
         <head>[Concert donné à Nimégue chez Monsieur le Mareschal d’Estrades, avec quelques intrumens nouveaux]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 81-84.</bibl>
-        <p>Si les Maux dont on a esté chercher le remede dans les lieux où l’on boit des Eaux, n’ont point empesché qu’on ne s’y soit agreablement diverty, il en est de mesme des grandes Affaires qu’on traite à Nimégue, &amp; qui n’en ont point banny les Plaisirs. Monsieur le mareschal d’Estrades ayant reçeu chez luy avec sa politesse ordinaire, des Dames Hollandoises que la curiosité de voir l’Assemblée avoit attirées de la Haye, les a régalées d’un excellent Concert, composé de Luths, de Clavessins, &amp; de quelques Instrumens nouvellement inventez, &amp; qui ressemblent à un Dessus de Violon, mais qui sont infiniment plus propres à accompagner le Luth, parce que leur son qui imite celuy de la Flute douce, fait beaucoup moins de bruit que celuy du Violon, de sorte qu’il ne couvre pas le jeu du Luth, &amp; n’a rien qui crie ny qui soit aigre comme le son de la Poche. Peut-estre que ces sortes d’Instrumens paroîtront bientost en France. Le Concert avoit esté composé &amp; soûtenu par M<hi rend="sup">r</hi> de Soleyzel. C’est un jeune Gentilhomme qui a fait le Voyage de Nimégue avec M<hi rend="sup">r</hi> d’Avaux, &amp; qui parmy cent belles qualitez, a celles d’estre fort bon Musicien &amp; fort bon Homme de cheval. Il est Fils de M<hi rend="sup">r</hi> de Soleyzel, qui est un des Chefs de l’Académie Royale proche de l’Hostel de Condé, &amp; qui a mis au jour plusieurs Livres sur les Matieres qui regardent sa Profession.</p>
+        <p>Si les Maux dont on a esté chercher le remede dans les lieux où l’on boit des Eaux, n’ont point empesché qu’on ne s’y soit agreablement diverty, il en est de mesme des grandes Affaires qu’on traite à Nimégue, &amp; qui n’en ont point banny les Plaisirs. Monsieur le Mareschal d’Estrades ayant reçeu chez luy avec sa politesse ordinaire, des Dames Hollandoises que la curiosité de voir l’Assemblée avoit attirées de la Haye, les a régalées d’un excellent Concert, composé de Luths, de Clavessins, &amp; de quelques Instrumens nouvellement inventez, &amp; qui ressemblent à un Dessus de Violon, mais qui sont infiniment plus propres à accompagner le Luth, parce que leur son qui imite celuy de la Flute douce, fait beaucoup moins de bruit que celuy du Violon, de sorte qu’il ne couvre pas le jeu du Luth, &amp; n’a rien qui crie ny qui soit aigre comme le son de la Poche. Peut-estre que ces sortes d’Instrumens paroîtront bientost en France. Le Concert avoit esté composé &amp; soûtenu par M<hi rend="sup">r</hi> de Soleyzel. C’est un jeune Gentilhomme qui a fait le Voyage de Nimégue avec M<hi rend="sup">r</hi> d’Avaux, &amp; qui parmy cent belles qualitez, a celles d’estre fort bon Musicien &amp; fort bon Homme de cheval. Il est Fils de M<hi rend="sup">r</hi> de Soleyzel, qui est un des Chefs de l’Académie Royale proche de l’Hostel de Condé, &amp; qui a mis au jour plusieurs Livres sur les Matieres qui regardent sa Profession.</p>
       </div>
       <div type="article" xml:id="MG-1677-11_084" resp="mercure">
         <head>[Sonnet contre le Mercure Galant]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 84-86.</bibl>
         <p>Si ce qui regarde la part que j’ay au Mercure, pouvoit estre suprimé sans faire injustice aux Spirituels Inconnus qui m’envoyent leurs Pieces sans se nommer, la crainte de me faire accuser de vanité m’empescheroit de vous faire voir le Sonnet qui suit, mais il est trop agreablement tourné pour ne luy pas donner place icy. Il m’est venu de Caën. Vous sçavez comme tout le monde y est poly, &amp; vous ne serez peut-estre pas fâchée de connoistre qu’on y estime les Lettres que je vous écris.</p>
-        <quote rend="border">
-          <label rend="center">Sonnet.</label>
+        <quote>
+          <label>SONNET.</label>
           <lg>
-            <l>Digne &amp; galant Autheur du celebre Mercure,</l>
-            <l>De nos Belles de Caën redoutez le couroux ;</l>
-            <l>Elles brûlent ce Livre en pestant contre Vous,</l>
-            <l>Pour les maux qu’a produits sa fatale lecture.</l>
-          </lg><lg>
-            <l>De la Guerre, dit-on, vous faites la peinture,</l>
-            <l>Avec de certains traits si charmans &amp; si doux,</l>
-            <l>Que l’on y voit courir les Amans, les Epoux ;</l>
-            <l>Et c’est là le sujet qui cause le murmure.</l>
-          </lg><lg>
-            <l>Quoy, direz-vous, j’y mets tant de Traitez d’Amour,</l>
-            <l>Des Madrigaux galans, les Festes de la Cour !</l>
-            <l>Tout cela ne fait rien pour sauver vostre Livre.</l>
-          </lg><lg>
-            <l>Car quand un Brave y trouve un Roy d’un si grand Cœur,</l>
-            <l>Il a honte d’aimer, il a honte de vivre,</l>
-            <l>S’il n’accompagne pas cet Auguste Vainqueur.</l>
+            <l rend="i">Digne &amp; galant Autheur du celebre Mercure,</l>
+            <l rend="i">De nos Belles de Caën redoutez le couroux ;</l>
+            <l rend="i">Elles brûlent ce Livre en pestant contre Vous,</l>
+            <l rend="i">Pour les maux qu’a produits sa fatale lecture.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">De la Guerre, dit-on, vous faites la peinture,</l>
+            <l rend="i">Avec de certains traits si charmans &amp; si doux,</l>
+            <l rend="i">Que l’on y voit courir les Amans, les Epoux ;</l>
+            <l rend="i">Et c’est là le sujet qui cause le murmure.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Quoy, direz-vous, j’y mets tant de Traitez d’Amour,</l>
+            <l rend="i">Des Madrigaux galans, les Festes de la Cour !</l>
+            <l rend="i">Tout cela ne fait rien pour sauver vostre Livre.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Car quand un Brave y trouve un Roy d’un si grand Cœur,</l>
+            <l rend="i">Il a honte d’aimer, il a honte de vivre,</l>
+            <l rend="i">S’il n’accompagne pas cet Auguste Vainqueur.</l>
           </lg>
         </quote>
       </div>
@@ -418,8 +479,10 @@
         <head>[Lettre écrite d’un Desert prés de Grenoble]</head>
         <bibl><title>Le Nouveau Mercure Galant</title>, novembre, tome IX, 1677, p. 87-93.</bibl>
         <p>Trouvez bon que j’ajoûte à ce Sonnet la Lettre d’un Solitaire qui ne s’est pas défait de l’habitude de bien écrire, en se défaisant de la pratique du Monde. Elle a esté envoyée depuis peu à un de mes Amis, &amp; je croy que vous verrez avec plaisir la justice qu’on y rend à M<hi rend="sup">r</hi> le Pays, pour qui je sçay que vous avez une estime particuliere.</p>
-        <p rend="i">De mon Desert prés de grenoble le 27. d’Octobre 1677. </p>
-        <p>Il faut avoüer, Monsieur, que tout le monde est obligé à l’Autheur du Mercure Galant ; mais les Solitaires comme moy luy ont une obligation particuliere. Ne sont ils pas heureux de pouvoir apprendre les Affaires de la Guerre &amp; du Grand Monde jusques au fonds de leur Desert ; de pouvoir pour ainsi dire estre de la Cour sans sortir de leur Village ? Depuis sept mois qu’il me donne tant de plaisirs differens, je cherche en mon esprit les moyens de l’en remercier. Mais comme e n’ay pas l’avantage de le connoistre, je ne puis, Monsieur, m’adresser qu’à vous qui estes de ses Amis, pour vous prier de luy faire mon Compliment, &amp; de luy envoyer mon Pacquet. Il y trouvera deux petites Pieces qui ne luy seront peut-estre pas inutiles. Son dessein est si beau &amp; son entreprise si loüable, que chacun doit contribuer de son costé à la faire durer. J’ay dans cette Province deux illustres Amis dont j’ay soin de recüeillir les Vers &amp; les Lettres, &amp; ce sont des Ouvrages qui pourroient de temps en temps enrichir le Mercure Galant. Monsieur l’Abbé de S.F** &amp; monsieur le Pays, son assez connus dans le Royaume. Quoy que le premier n’ait jamais pû se résoudre à faire imprimer ses Oeuvres, on a veu de luy mille Galanteries manuscrites qui font connoistre jusques où va la force &amp; la délicatesse de son Esprit. Pour Monsieur le Pays, ses Amitiez, Amours &amp; Amourettes, ont tant fait de bruit dans le monde, que son Nom est connu de tous ceux qui sçavent lire. Neantmoins quand on ne le connoist que par là, on ignore la plus grande partie de son merite. Je croy que je puis dire sans l’offencer, qu’il vaut encore mieux que ses Livres, &amp; que tout ce qu’il a imprimé est malgré son succés bien éloigné de la justesse de ce qu’il écrit aujourd’huy. L’Autheur du Mercure Galant en pourra juger par les deux Lettres que luy envoye. J’en ay encore quelques autres que je luy fourniray si je vois paroistre celles-cy dans le premier Volume du Mercure, parce que de là je concluray qu’on les a trouvées agreables. Cela m’obligera mesmes à presser Monsieur le Pays de me faire copier quelques-uns de ses Vers, &amp; peut-estre que je réveilleray sa Muse qui semble dormir pendant qu’il travaille aux Affaires d’un grand Employ qui ne luy donne gueres le loisir de penser aux Bagatelles poëtiques.</p>
+        <quote>
+        <label>De mon Desert prés de Grenoble le 27. d’Octobre 1677.</label>
+          <p><hi rend="i">Il faut avoüer, Monsieur, que tout le monde est obligé à l’Autheur du Mercure Galant ; mais les Solitaires comme moy luy ont une obligation particuliere. Ne sont ils pas heureux de pouvoir apprendre les Affaires de la Guerre &amp; du Grand Monde jusques au fonds de leur Desert ; de pouvoir pour ainsi dire estre de la Cour sans sortir de leur Village ? Depuis sept mois qu’il me donne tant de plaisirs differens, je cherche en mon esprit les moyens de l’en remercier. Mais comme je n’ay pas l’avantage de le connoistre, je ne puis, Monsieur, m’adresser qu’à vous qui estes de ses Amis, pour vous prier de luy faire mon Compliment, &amp; de luy envoyer mon Pacquet. Il y trouvera deux petites Pieces qui ne luy seront peut-estre pas inutiles. Son dessein est si beau &amp; son entreprise si loüable, que chacun doit contribuer de son costé à la faire durer. J’ay dans cette Province deux illustres Amis dont j’ay soin de recüeillir les Vers &amp; les Lettres, &amp; ce sont des Ouvrages qui pourroient de temps en temps enrichir le Mercure Galant. Monsieur l’Abbé de S. F** &amp; Monsieur le Pays, son assez connus dans le Royaume. Quoy que le premier n’ait jamais pû se résoudre à faire imprimer ses Oeuvres, on a veu de luy mille Galanteries manuscrites qui font connoistre jusques où va la force &amp; la délicatesse de son Esprit. Pour Monsieur le Pays, ses Amitiez, Amours &amp; Amourettes, ont tant fait de bruit dans le monde, que son Nom est connu de tous ceux qui sçavent lire. Neantmoins quand on ne le connoist que par là, on ignore la plus grande partie de son merite. Je croy que je puis dire sans l’offencer, qu’il vaut encore mieux que ses Livres, &amp; que tout ce qu’il a imprimé est malgré son succés bien éloigné de la justesse de ce qu’il écrit aujourd’huy. L’Autheur du Mercure Galant en pourra juger par les deux Lettres que luy envoye. J’en ay encore quelques autres que je luy fourniray si je vois paroistre celles-cy dans le premier Volume du Mercure, parce que de là je concluray qu’on les a trouvées agreables. Cela m’obligera mesmes à presser Monsieur le Pays de me faire copier quelques-uns de ses Vers, &amp; peut-estre que je réveilleray sa Muse qui semble dormir pendant qu’il travaille aux Affaires d’un grand Employ qui ne luy donne gueres le loisir de penser aux Bagatelles poëtiques.</hi></p>
+        </quote>
       </div>
       <div type="article" xml:id="MG-1677-11_093" resp="mercure">
         <head>Le Perroquet &amp; la Guenuche. Fable</head>
@@ -430,50 +493,50 @@
           <p>Il nous arriva hier de Lisbonne une Barque chargée de Singes &amp; de Perroquets. Vous jugez bien, Mademoiselle, que je n’ay pas perdu une si belle occasion de vous tenir parole. J’ay choisi parmy ce grand nombre un perroquet d’un plumage tres-particulier, &amp; une Guenuche d’une petitesse fort rare. Ce qu’il y a de fâcheux, c’est que le Perroquet ne parle point François, que la Guenuche ne sçait point danser, &amp; que mesme elle est encore habillée à la Portugaise ; mais vous serez peut-estre bien aise d’estre leur Maistresse en toutes façons. Vos Leçons leur apprendront la belle maniere. Tous les autres Perroquets ne sçavent prononcer que des injures grossieres, &amp; quand vous aurez instruit le vostre, il sçaura dire des malices ingenieuses. À vostre Ecole la Guenuche apprendra bientost la Bourrée &amp; le Menüet, &amp; si vous avez soin de l’habiller à la mode &amp; de vostre main, je gage qu’on la trouvera plus propre de meilleur air que vostre petite laide Voisine. Cependant comme vous n’entendrez point d’abord le jargon ny de la Guenuche ny du Perroquet, je me crois obligé en vous les envoyant, d’estre aupres de vous l’Interprete. Sans sçavoir la Langue de leur Pays, j’ay bientost compris leurs discours, parce qu’ils estoient tendres &amp; amoureux.</p>
           <lg>
             <l>Entendre à demy mot fut toûjours mon partage ;</l>
-            <l><space/>Si-tost que l’on parle d’amour,</l>
-            <l><space/>Il n’est point pour moy de langage</l>
-            <l><space/>Qui ne soit clair comme le jour.</l>
-            <l><space/>Pour vous, ma jeune Demoiselle,</l>
+            <l> Si-tost que l’on parle d’amour,</l>
+            <l> Il n’est point pour moy de langage</l>
+            <l> Qui ne soit clair comme le jour.</l>
+            <l> Pour vous, ma jeune Demoiselle,</l>
             <l>Quand mesmes en François l’amour sert d’entretien,</l>
             <l>Malgré tout vostre Esprit, vous ne répondez rien,</l>
             <l>Et vous n’entendez pas la langue maternelle ;</l>
             <l>Vous voila cependant dans la belle saison,</l>
             <l>Vous avez quatorze ans, à cet âge, ma Belle,</l>
             <l>N’entendre pas l’Amour, ma foy cela s’appelle</l>
-            <l><space/>N’entendre pas raison.</l>
+            <l> N’entendre pas raison.</l>
           </lg>
           <p>Je veux aujourd’huy tâcher de vous rendre raisonnable, en vous faisant comprendre l’Histoire amoureuse de vostre Guenuche &amp; de vostre Perroquet.</p>
           <p>Aussi-tost que ces deux petits Animaux furent entre mes mains, ils parlerent entr’eux certain jargon Morsque, &amp; j’entendis que le Perroquet reprochoit à la Guenuche ses singeries, &amp; la Guenuche luy reprochoit son caquet. Comme leurs discours me semblerent assez plaisans, j’entray dans leur conversation. Ils en furent d’abord surpris, mais enfin nous devinsmes familiers, &amp; fûmes bien-tost si grands Amis, que je les obligeay à me conter leur Histoire. Le perroquet, comme le plus grand Causeur, voulut estre l’Historien ; &amp; voicy en François à peu pres comme il s’expliqua en Moresque.</p>
           <lg>
-            <l><space/>Ma Mere me donna le jour</l>
-            <l><space/>Dans un Climat de la Guinée,</l>
-            <l><space/>Où le Soleil se joint à l’Amour,</l>
-            <l><space/>Enflâme tout toute l’année.</l>
-            <l><space/>L’on n’y voit point de Cœur glacé,</l>
-            <l><space/>Ny de bergere indiferente ;</l>
-            <l><space/>Quand un Berger est empressé</l>
-            <l><space/>La Bergere se montre ardente.</l>
+            <l> Ma Mere me donna le jour</l>
+            <l> Dans un Climat de la Guinée,</l>
+            <l> Où le Soleil se joint à l’Amour,</l>
+            <l> Enflâme tout toute l’année.</l>
+            <l> L’on n’y voit point de Cœur glacé,</l>
+            <l> Ny de bergere indiferente ;</l>
+            <l> Quand un Berger est empressé</l>
+            <l> La Bergere se montre ardente.</l>
             <l>Là je vivois jadis en Berger fort coquet,</l>
-            <l><space/>Aujourd’huy je suis Perroquet,</l>
-            <l><space/>Car, helas ! ma Coqueterie,</l>
-            <l><space/>Que je nommois Galanterie,</l>
-            <l><space/>Choqua le cruel Cupidon,</l>
-            <l><space/>Qui sans m’accorder de pardon,</l>
-            <l><space/>Fit de moy la Métamorphose,</l>
-            <l><space/>Que je vais vous conter en Prose.</l>
+            <l> Aujourd’huy je suis Perroquet,</l>
+            <l> Car, helas ! ma Coqueterie,</l>
+            <l> Que je nommois Galanterie,</l>
+            <l> Choqua le cruel Cupidon,</l>
+            <l> Qui sans m’accorder de pardon,</l>
+            <l> Fit de moy la Métamorphose,</l>
+            <l> Que je vais vous conter en Prose.</l>
           </lg>
           <p>Sur les bords du Fleuve Niger on ne fait pas l’amour ainsi que sur les bords de la Seine ou du Rhône. On m’a dit qu’icy la constance passe pour une vertu, &amp; là elle passeroit pour un vice : En France un Amant bien reglé n’a besoin que d’une Amante, &amp; souvent en ayant une, il en a trop ; mais en Ethiopie les Galans ont besoin de diverses Maistresses, &amp; nostre miserable Roy qui mourut il y a quelque temps dans ce Royaume, pourroit estre un témoin de cette verité. Estant Berger je voyois suivant nostre coustume diverses Bergeres, &amp; je témoignois à toutes beaucoup d’amour, mais à la verité je n’en ressentois gueres. Dans ma conversation, dans mes Chansons &amp; dans mes Billets, je paroissois l’Amant du monde le plus ardent, &amp; dans mon cœur je me sentois fort tranquille ; enfin tout mon amour n’estoit que du caquet. Mais helas ! depuis ce temps j’y bien appris que Cupidon est un Dieu qui punit cruellement le mensonge. Pour commencer à se vanger de moy, il me fit devenir trop veritablement amoureux d’une petite Laide, plus volage &amp; plus coquette que je n’estois, &amp; c’est justement Dame Guenuche que vous voyez là, qui a esté Bergere dans le temps que j’estois Berger. Apres avoir trompé tant de Personnes par mes faux Sermens, je ne pûs pas mesme persuader ma petite Laide par des veritez constantes. Cependant pour me faire mieux enrager, au commencement elle fit mine de m’aimer, elle affecta toutes les petites manieres d’une Personne fort passionée, &amp; quand elle me vit bien sensiblement touché, elle me fit cent malices &amp; me quitta enfin pour un autre Berger aussi laid qu’un vieux Singe.</p>
           <lg>
-            <l><space/>Dieux ! qu’un Berger vivroit content</l>
+            <l> Dieux ! qu’un Berger vivroit content</l>
             <l>S’il changeoit aussi-tost que change son Amante !</l>
             <l>Mais, helas ! que de maux nous cause une Inconstante,</l>
-            <l><space/>Quand on ne peut être inconstant.</l>
+            <l> Quand on ne peut être inconstant.</l>
           </lg>
           <p>L’amour que je sentois pour ma petite Ingrate, &amp; la haine que j’avois pour mon laid Rival, me mirent dans un tel desespoir, que je quitay mes Moutons, &amp; la societé des autres bergers. Je m’en allay comme un furieux, errant dans les Deserts : je dechiray mes habits, je me couvris de feüilles d’arbres, &amp; enfin je devins tout-à-fait insensé. L’Amour alors me voyant dans une Forest en estat de mourir, voulut me sauver la vie, &amp; je ne sçay si ce fut par pitié ou par vengeance. Il changea ma peau &amp; mon habit en plumes de la couleur des feüilles qui me couvroient, ma bouche en bec, mes bras en cuisses, &amp; ainsi du reste de mon Corps. Voila comme je me trouvay Perroquet, &amp; je vous jure que je n’en ay point conservé de regret.</p>
           <lg>
-            <l><space/>Ne haïssant plus mon Rival,</l>
-            <l><space/>Et n’aimant plus mon Inconstante</l>
-            <l><space/>Je sens mon Ame plus contente,</l>
+            <l> Ne haïssant plus mon Rival,</l>
+            <l> Et n’aimant plus mon Inconstante</l>
+            <l> Je sens mon Ame plus contente,</l>
             <l>D’animer pour toûjours le Corps d’un Animal.</l>
             <l>Que celuy d’un Berger, quand l’Amour le tourmente.</l>
           </lg>
@@ -511,38 +574,38 @@
         <quote rend="border">
           <p>Je pars pour Marseille, &amp; je vous jure, Madame, que j’y vais malgré moy. Vous me fistes hier un portrait que j’emporte dans le cœur, &amp; j’ay peur que ce soit un trait empoisonné que j’emporte.</p>
           <lg>
-            <l><space/>Mais dites-moy, ce beau Portrait,</l>
-            <l><space/>L’avez-vous fait d’apres nature ?</l>
-            <l><space/>N’avez-vous point feint quelque trait,</l>
-            <l><space/>Pour embellir vostre peinture ?</l>
-            <l><space/>Ce teint blanc, &amp; ces blonds cheveux,</l>
-            <l><space/>Cette main, ce bras, cette taille,</l>
-            <l><space/>Ces Esprit tel que je le veux,</l>
-            <l><space/>Qui surprend, qui brille, qui raille,</l>
-            <l><space/>Enfin cet amas sans égal</l>
+            <l> Mais dites-moy, ce beau Portrait,</l>
+            <l> L’avez-vous fait d’apres nature ?</l>
+            <l> N’avez-vous point feint quelque trait,</l>
+            <l> Pour embellir vostre peinture ?</l>
+            <l> Ce teint blanc, &amp; ces blonds cheveux,</l>
+            <l> Cette main, ce bras, cette taille,</l>
+            <l> Ces Esprit tel que je le veux,</l>
+            <l> Qui surprend, qui brille, qui raille,</l>
+            <l> Enfin cet amas sans égal</l>
             <l>De belles qualitez, dont mon ame est ravie,</l>
-            <l><space/>Seroit-elle dans l’Original,</l>
-            <l><space/>Tel qu’il est dans vostre Copie ?</l>
+            <l> Seroit-elle dans l’Original,</l>
+            <l> Tel qu’il est dans vostre Copie ?</l>
           </lg>
           <p>Si cela est, Madame, pour mon repos je ne dois jamais revenir à Aix ; ou plutost j’y dois bientsot revenir, car je m’imagine qu’il est doux de perdre son repos pour la Belle dont vous m’avez donné une si riche idée.</p>
           <lg>
-            <l><space/>Par tout ce que vous m’avez dit</l>
-            <l><space/>Vous avez charmé mon Esprit ;</l>
-            <l><space/>Vostre Comtesse est adorable :</l>
+            <l> Par tout ce que vous m’avez dit</l>
+            <l> Vous avez charmé mon Esprit ;</l>
+            <l> Vostre Comtesse est adorable :</l>
             <l>Mais malgré les appas dont vous m’avez charmé,</l>
-            <l><space/>Si bientost je n’en suis aimé,</l>
+            <l> Si bientost je n’en suis aimé,</l>
             <l>Je declare d’abord qu’elle n’est point aimable.</l>
           </lg>
           <p>Je suis d’un Mestier, où l’on n’aime pas à perdre son temps. Vous sçavez, Madame, que nous autres Gens d’Affaires nous sommes fort interessez, &amp; que jamais nous ne faisons d’avances si nous ne voyons un profit prompt &amp; assuré.</p>
           <lg>
-            <l><space/>Jamais à la grosse avanture</l>
-            <l><space/>Nous ne mettons soins ny soûpirs ;</l>
+            <l> Jamais à la grosse avanture</l>
+            <l> Nous ne mettons soins ny soûpirs ;</l>
             <l>Nous voulons seureté mesme dans nostre usure,</l>
             <l>Et pretendons gagner cent pour cent en plaisirs.</l>
-            <l><space/>Sans nul scrupule en Gens fort sages,</l>
+            <l> Sans nul scrupule en Gens fort sages,</l>
             <l>Nous nous faisons payer l’interest d’un seul jour,</l>
-            <l><space/>Et comme un Juif nostre amour</l>
-            <l><space/>Ne preste que sur bons gages.</l>
+            <l> Et comme un Juif nostre amour</l>
+            <l> Ne preste que sur bons gages.</l>
           </lg>
           <p>Il est bon, Madame, de donner cet avis à vostre aimable Comtesse, afin qu’elle examine si mon commerce la peut accommoder. Je reviendray en cette Ville dans quelques jours, &amp; si elle me veut recevoir malgré mes usures amoureuses, j’iray chez elle étalier ma marchandise.</p>
         </quote>
@@ -566,56 +629,56 @@
         <quote rend="border">
           <label rend="center">Les Fleurs,</label>
           <label rend="center">Idylle.</label>
-          <l><space/><space/>Que vostre éclat est peu durable,</l>
-          <l><space/>Charmantes Fleurs, honneur de nos Jardins !</l>
+          <l>  Que vostre éclat est peu durable,</l>
+          <l> Charmantes Fleurs, honneur de nos Jardins !</l>
           <l>Souvent un jour commence &amp; finit vos destins,</l>
-          <l><space/><space/>Et le sort le plus favorable</l>
+          <l>  Et le sort le plus favorable</l>
           <l>Ne vous laisse briller que deux ou trois matins.</l>
           <l>Ah, consolez-vous-en, Jonquilles, Tubereuses,</l>
           <l>Vous vivez peu de jours, mais vous vivez heureuses,</l>
-          <l><space/><space/>Les Médisans ny les Jaloux</l>
-          <l><space/>Ne gesnent point l’innocente tendresse</l>
+          <l>  Les Médisans ny les Jaloux</l>
+          <l> Ne gesnent point l’innocente tendresse</l>
           <l>Que le Printemps fait naistre entre Zéphire &amp; vous.</l>
-          <l><space/><space/>Jamais trop de délicatesse</l>
+          <l>  Jamais trop de délicatesse</l>
           <l>Ne mesle d’amertume à vos plus doux plaisirs.</l>
           <l>Que pour d’autres que vous il pousse des soûpirs,</l>
-          <l><space/>Que loin de vous il folâtre sans cesse</l>
+          <l> Que loin de vous il folâtre sans cesse</l>
           <l>Vous ne ressentez point la mortelle tristesse</l>
-          <l><space/><space/>Qui devore les tendres cœurs,</l>
-          <l><space/><space/>Lors que plein d’une ardeur extréme</l>
-          <l><space/><space/>On voit l’ingrat Objet qu’on aime,</l>
+          <l>  Qui devore les tendres cœurs,</l>
+          <l>  Lors que plein d’une ardeur extréme</l>
+          <l>  On voit l’ingrat Objet qu’on aime,</l>
           <l>Manquer d’empressement, ou s’engager ailleurs.</l>
           <l>Pour vous plaire vous n’avez seulement qu’à paroistre,</l>
           <l>Plus heureuse que nous, ce n’est que le trépas</l>
-          <l><space/><space/>Qui vous fait perdre vos appas ;</l>
+          <l>  Qui vous fait perdre vos appas ;</l>
           <l>Plus heureuses que nous, vous mourez pour renaistre.</l>
           <l>Tristes reflections ! inutiles souhaits !</l>
-          <l><space/><space/>Quand une fois nous cessons d’estre,</l>
-          <l><space/><space/>Aimables Fleurs, c’est pour jamais.</l>
+          <l>  Quand une fois nous cessons d’estre,</l>
+          <l>  Aimables Fleurs, c’est pour jamais.</l>
           <l>Un redoutable instant nous détruit sans réserve,</l>
           <l>On ne voit au dela qu’un obscur Avenir ;</l>
           <l>À peine de nos noms un leger souvenir</l>
-          <l><space/><space/>Parmy les Hommes se conserve.</l>
+          <l>  Parmy les Hommes se conserve.</l>
           <l>Nous rentrons pour toûjours dans le profond repos</l>
-          <l><space/><space/>D’où nous a tirez la Nature,</l>
+          <l>  D’où nous a tirez la Nature,</l>
           <l>Dans cette affreuse nuit qui confond le Héros</l>
-          <l><space/><space/>Avec le Lâche &amp; le Parjure,</l>
+          <l>  Avec le Lâche &amp; le Parjure,</l>
           <l>Et dont de fiers Destins par de cruelles Loix</l>
-          <l><space/><space/>Ne laissent sortir qu’une fois.</l>
-          <l><space/><space/>Mais hélas ! pour vouloir revivre</l>
-          <l><space/><space/>La vie est-elle un bien si doux ?</l>
-          <l><space/><space/>Quand nous l’aimons tant, songeons-nous</l>
+          <l>  Ne laissent sortir qu’une fois.</l>
+          <l>  Mais hélas ! pour vouloir revivre</l>
+          <l>  La vie est-elle un bien si doux ?</l>
+          <l>  Quand nous l’aimons tant, songeons-nous</l>
           <l>De combien de chagrins sa perte nous délivre ?</l>
           <l>Elle n’est qu’un amas de craintes, de douleurs,</l>
-          <l><space/><space/>De travaux, de soucis, de gesnes.</l>
+          <l>  De travaux, de soucis, de gesnes.</l>
           <l>Si nous voulons gouster ce qu’elle a de douceurs,</l>
-          <l><space/><space/>De nos plaisirs on fait nos peines.</l>
-          <l><space/>Pour qui connoit les miseres humaines,</l>
-          <l><space/>Mourir n’est pas le plus grand des malheurs.</l>
-          <l><space/><space/>Cependant, agreables Fleurs,</l>
+          <l>  De nos plaisirs on fait nos peines.</l>
+          <l> Pour qui connoit les miseres humaines,</l>
+          <l> Mourir n’est pas le plus grand des malheurs.</l>
+          <l>  Cependant, agreables Fleurs,</l>
           <l>Par des liens honteux attachez à la vie,</l>
-          <l><space/><space/>Elle fait seule tous nos soins,</l>
-          <l><space/><space/>Et nous ne vous portons envie</l>
+          <l>  Elle fait seule tous nos soins,</l>
+          <l>  Et nous ne vous portons envie</l>
           <l>Que par où l’on devroit vous envier le moins.</l>
         </quote>
       </div>
@@ -713,22 +776,22 @@
           <label rend="center">Enigme.</label>
           <lg>
             <l>Je suis un vaste Corps, composé de Parties</l>
-            <l><space/><space/>Inégalement assorties.</l>
-            <l><space/><space/>Avant que j’en fusse formé</l>
+            <l>  Inégalement assorties.</l>
+            <l>  Avant que j’en fusse formé</l>
             <l>Toutes separément avoient esté formées,</l>
-            <l><space/><space/>Et e ne me trouve animé</l>
+            <l>  Et e ne me trouve animé</l>
             <l>Que de ce qui sans moy les tenoit animées.</l>
             <l>Mes membres ont esté sans nul ordre construits,</l>
             <l>Point de Teste en mon Corps ; pour des bras j’en fourmille,</l>
-            <l><space/><space/>Par eux je fais ce que je puis,</l>
-            <l><space/>Et pour la naissance, je suis</l>
+            <l>  Par eux je fais ce que je puis,</l>
+            <l> Et pour la naissance, je suis</l>
             <l>D’illustre tout ensemble &amp; de basse Famille.</l>
           </lg><lg>
             <l>Je fais tous mes efforts chaque jour pour grossir,</l>
-            <l><space/><space/>Croyant me rendre formidable ;</l>
+            <l>  Croyant me rendre formidable ;</l>
             <l>Mais si pour la grosseur on me voit réüssir,</l>
-            <l><space/><space/>Bien loin d’en estre redoutable,</l>
-            <l><space/>Plus je parois énorme en épaisseur,</l>
+            <l>  Bien loin d’en estre redoutable,</l>
+            <l> Plus je parois énorme en épaisseur,</l>
             <l>Plus je me montre foible, &amp; fais voir que j’ay peur.</l>
           </lg><lg>
             <l>Outre qu’avec le temps mes Membres s’agrandissent,</l>
@@ -740,19 +803,19 @@
             <l>Et qu’en les rassemblant je cherche à me nourrir,</l>
             <l>Je suis si malheureux dans ma disette extréme,</l>
             <l>Que je ne puis trouver dequoy me secourir,</l>
-            <l><space/><space/>Qu’en me batant contre moy-mesme.</l>
+            <l>  Qu’en me batant contre moy-mesme.</l>
           </lg><lg>
             <l>En certain temps je suis seur d’expirer.</l>
             <l>Mais si je m’entends bien avec chaque Partie</l>
             <l>Qui compose mon Corps &amp; me fait respirer,</l>
-            <l><space/><space/>Je puis me racheter la vie.</l>
+            <l>  Je puis me racheter la vie.</l>
           </lg><lg>
             <l>Quelques soins que j’employe à conserver ce Corps,</l>
-            <l><space/><space/>Quelquefois malgré mes efforts</l>
+            <l>  Quelquefois malgré mes efforts</l>
             <l>À s’entredéchirer mes Membres se hazardent.</l>
             <l>Le grand éclat me blesse, &amp; jamais du Soleil</l>
             <l>Les trop brillans rayons contre moy ne se dardent,</l>
-            <l><space/>Que je n’en souffre un tourment sans pareil.</l>
+            <l> Que je n’en souffre un tourment sans pareil.</l>
           </lg>
         </quote>
       </div>
