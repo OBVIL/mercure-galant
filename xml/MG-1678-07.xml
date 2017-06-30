@@ -180,17 +180,17 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 26-28.</bibl>
         <p>Les belles choses ne viennent jamais trop tard. Quoyqu’il y ait déja plus de quatre mois que la prise de Gand &amp; d’Ypres a terminé la Campagne de Sa Majesté, vous ne serez pas fâchée de voir les Vers qui suivent.</p>
         <quote>
-          <label>SUR LA CAMPAGNE du Roy, Faite avant le Printemps. Madrigal.</label>
+          <label>SUR LA CAMPAGNE <lb/><hi rend="sc">du Roy</hi>, <lb/>Faite avant le Printemps. <lb/><hi rend="sc">Madrigal</hi>.</label>
           <lg>
-          <l>Vous revenez bien tard, Oyseaux, dans ce Bocage,</l>
-          <l><hi rend="sc">Loüis</hi> a déja fait de glorieux Exploits.</l>
-          <l>Que ne vous pressiez vous pour avoir l’avantage</l>
-          <l>De mesler à nos Chants vostre charmante voix,</l>
-          <l> En l’honneur du plus grand des Rois ?</l>
-          <l>Autrefois le Printemps, &amp; vous, &amp; la Victoire,</l>
-          <l> Vous paroissiez tous à la fois ;</l>
-          <l> Maintenant <hi rend="sc">Loüis</hi> a la gloire</l>
-          <l>De ranger en tout temps la Victoire à ses Loix.</l>
+            <l rend="i">Vous revenez bien tard, Oyseaux, dans ce Bocage,</l>
+            <l><hi rend="sc">Loüis</hi> <hi rend="i">a déja fait de glorieux Exploits.</hi></l>
+            <l rend="i">Que ne vous pressiez vous pour avoir l’avantage</l>
+            <l rend="i">De mesler à nos Chants vostre charmante voix,</l>
+            <l rend="i"> En l’honneur du plus grand des Rois ?</l>
+            <l rend="i">Autrefois le Printemps, &amp; vous, &amp; la Victoire,</l>
+            <l rend="i"> Vous paroissiez tous à la fois ;</l>
+            <l><hi rend="i">Maintenant</hi> <hi rend="sc">Loüis</hi> <hi rend="i">a la gloire</hi></l>
+            <l rend="i">De ranger en tout temps la Victoire à ses Loix.</l>
           </lg>
         </quote>
       </div>
@@ -199,26 +199,31 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 28-32.</bibl>
         <p>Ce Madrigal est de Mademoiselle de la Charce, Fille de feu M<hi rend="sup">r</hi> le Marquis de la Charce de Dauphiné, de l’Illustre Maison de la Tour d’Auvergne, &amp; digne Sœur du brave &amp; spirituel Comte de la Charce qui mourut dans nos premieres Campagnes contre les Hollandois.</p>
         <quote>
-          <label>Sur la Paix offerte</label>
-          <label>par le Roy aux Hollandois.</label>
-          <label>Sonnet.</label>
-          <lg><l>Les Eclairs dans les yeux &amp; la foudre à la main,</l>
-            <l><hi rend="sc">Loüis le Grand</hi> paroist au milieu d’une Armée</l>
-            <l>Fatale aux Ennemis, à vaincre accoustumée,</l>
-            <l>À qui tout l’Univers s’opposeroit en vain.</l>
-          </lg><lg>
-            <l>Nos plus vaillans Guerriers suivent leur Souverain,</l>
-            <l>Sur son exemple leur conduite est formée,</l>
-            <l>À chaque pas qu’il fait la Flandre est allarmée,</l>
-            <l>Tout tremble sur l’Escaut, sur la Meuse &amp; le Rhin,</l>
-          </lg><lg>
-            <l>Miracle de Valeur ! mais, ô bonté plus grande !</l>
-            <l><hi rend="sc">Loüis</hi> calme l’orage, &amp; sauve la Holande</l>
-            <l>D’un deluge de maux qui l’alloient inonder.</l>
-          </lg><lg>
-            <l>Quand l’orgueil des Titans tomba sous le Tonnerre,</l>
-            <l>Ainsi le Roy des Dieux fit gloire d’accorder</l>
-            <l>Le retour de la Paix aux besoins de la Terre.</l></lg>
+          <label>SUR LA PAIX OFERTE <lb/>par le Roy aux Hollandois. <lb/>SONNET.</label>
+          <lg>
+            <l rend="i">Les Eclairs dans les yeux &amp; la foudre à la main,</l>
+            <l><hi rend="sc">Loüis le Grand</hi> <hi rend="i">paroist au milieu d’une Armée</hi></l>
+            <l rend="i">Fatale aux Ennemis, à vaincre accoustumée,</l>
+            <l rend="i">A qui tout l’Univers s’opposeroit en vain.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Nos plus vaillans Guerriers suivent leur Souverain,</l>
+            <l rend="i">Sur son exemple seul leur conduite est formée,</l>
+            <l rend="i">A chaque pas qu’il fait la Flandre est allarmée,</l>
+            <l rend="i">Tout tremble sur l’Escaut, sur la Meuse &amp; le Rhin,</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Miracle de Valeur ! mais, ô bonté plus grande !</l>
+            <l><hi rend="sc">Loüis</hi> <hi rend="i">calme l’orage, &amp; sauve la Holande</hi></l>
+            <l rend="i">D’un deluge de maux qui l’alloient inonder.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l rend="i">Quand l’orgueil des Titans tomba sous le Tonnerre,</l>
+            <l rend="i">Ainsi le Roy des Dieux fit gloire d’accorder</l>
+            <l rend="i">Le retour de la Paix aux besoins de la Terre.</l></lg>
         </quote>
         <p>M<hi rend="sup">r</hi> l’Abbé Cotin a fait ce Sonnet. Il fut tres-bien reçeu du Roy, quand il eut l’honneur de le presenter. Je ne vous dis point, Madame, que M<hi rend="sup">r</hi> Cotin a fait quantité de beaux Ouvrages, comme l’<hi rend="i">Immortalité de l’Ame, le Recüeil des Enigmes, les Lettres Galantes aux Dames de la Cour, la Pastorale Sacrée, ou le Cantique des Cantiques</hi>, que les Hebreux ne lisoient qu’à quarante ans, à cause de son stile mal entendu par les sensuels du monde ; je vous dis plus que tout cela, en vous disant qu’il est de l’Illustre Corps de l’Académie Françoise.</p>
       </div>
@@ -227,29 +232,31 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 32-33.</bibl>
         <p>Voicy un Sonnet de M<hi rend="sup">r</hi> Perry de S. Quentin, sur la Remise que sa Majesté a faite à son Peuple sur les Tailles.</p>
         <quote>
-          <label>Sonnet.</label>
-          <label>Au Roy.</label>
+          <label>SONNET. <lb/>AU ROY.</label>
           <lg>
-            <l>Tu travailles sans cesse au repos de la France,</l>
-            <l>Grand Roy, soit dans ton Louvre, ou soit au champ de Mars ;</l>
-            <l>Et Rome qui par tout étendoit sa puissance,</l>
-            <l>Devoit moins de bonheur au premier des Cesars.</l>
+            <l rend="i">Tu travailles sans cesse au repos de la France,</l>
+            <l rend="i">Grand Roy, soit dans ton Louvre, ou soit au champ de Mars ;</l>
+            <l rend="i">Et Rome qui par tout étendoit sa puissance,</l>
+            <l rend="i">Devoit moins de bonheur au premier des Cesars.</l>
           </lg>
+          <ab type="ornament">***</ab>
           <lg>
-            <l>Quand les Peuples soûmis admirent ta clemence,</l>
-            <l>Et qu’on voit ta grandeur briller de toutes parts,</l>
-            <l>Tu nous remets tes droits, tu nous rends ta presence,</l>
-            <l>Et ton Estat ressent l’effet de tes regards.</l>
+            <l rend="i">Quand les Peuples soûmis admirent ta clemence,</l>
+            <l rend="i">Et qu’on voit ta grandeur briller de toutes parts,</l>
+            <l rend="i">Tu nous remets tes droits, tu nous rends ta presence,</l>
+            <l rend="i">Et ton Estat ressent l’effet de tes regards.</l>
           </lg>
+          <ab type="ornament">***</ab>
           <lg>
-            <l>Il est vray qu’à nos cœurs ta gloire est toujours chere ;</l>
-            <l>Mais aussi nous montrant la tendresse d’un Pere,</l>
-            <l>Pourrois-tu mieux payer nostre fidelité ?</l>
+            <l rend="i">Il est vray qu’à nos cœurs ta gloire est toûjours chere ;</l>
+            <l rend="i">Mais aussi nous montrant la tendresse d’un Pere,</l>
+            <l rend="i">Pourrois-tu mieux payer nostre fidelité ?</l>
           </lg>
+          <ab type="ornament">***</ab>
           <lg>
-            <l>Non, Grand, Roy, cet exemple est trop doux à la terre,</l>
-            <l>Pour luy donner tes Loix il ne faut plus de Guerre,</l>
-            <l>C’est assez desormais de ta seule bonté.</l>
+            <l rend="i">Non, Grand Roy, cet exemple est trop doux à la terre,</l>
+            <l rend="i">Pour luy donner tes Loix il ne faut plus de Guerre,</l>
+            <l rend="i">C’est assez desormais de ta seule bonté.</l>
           </lg>
         </quote>
       </div>
@@ -258,32 +265,28 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 34-35.</bibl>
         <p>Les Paroles de la Chanson que vous allez voir, sont du Solitaire de Pontoise, &amp; l’Air, de M<hi rend="sup">r</hi> de Montigny du Havre. [Air imprimé pour une voix et BC, inséré entre les pages 34 et 35.]</p>
         <quote>
-          <label>Air nouveau.</label>
-          <l>Amour, cruel Amour, laisse-moy vivre en paix,</l>
-          <l>Amour ne trouble plus les beaux jours de ma vie.</l>
-          <l> Ne me parle plus d’Uranie,</l>
-          <l> Je l’abandonne pour jamais,</l>
-          <l>Amour, cruel Amour, laisse-moy vivre en paix.</l>
-          <l>Je renonce aux langueurs, à la melancolie,</l>
-          <l> La tendresse est une folie,</l>
-          <l>L’indiference seule a pour moy des attraits,</l>
-          <l>Amour, cruel Amour, laisse-moy vivre en paix.</l>
+          <label>AIR NOUVEAU.</label>
+          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix,</l>
+          <l rend="i">Amour ne trouble plus les beaux jours de ma vie.</l>
+          <l rend="i"> Ne me parle plus d’Uranie,</l>
+          <l rend="i"> Je l’abandonne pour jamais,</l>
+          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix.</l>
+          <l rend="i">Je renonce aux langueurs, à la melancolie,</l>
+          <l rend="i"> La tendresse est une folie,</l>
+          <l rend="i">L’indiference seule a pour moy des attraits,</l>
+          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix.</l>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-07_035" resp="mercure">
         <head>[Nouvel Etablissement de l’Ordre des chevaliers du Bon temps]</head>
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 35-75.</bibl>
-        <p>Il y a plusieurs ordres de Chevalerie en France, ils vous sont connus, mais je doute que ayez jamais entendu parler de celuy dont ce qui suit vous va apprendre l’Institution &amp; les Statuts. Tout y est galant, &amp; vous conviendrez qu’il n’y avoit que des Personnes de Qualité capables de renfermer la joye dans des bornes aussi honnestes que celles que vous allez trouver. Cette Galanterie est de la Noblesse de Champagne.</p>
+        <p>Il y a plusieurs Ordres de Chevalerie en France, ils vous sont connus, mais je doute que vous ayez jamais entendu parler de celuy dont ce qui suit vous va apprendre l’Institution &amp; les Statuts. Tout y est galant, &amp; vous conviendrez qu’il n’y avoit que des Personnes de Qualité capables de renfermer la joye dans des bornes aussi honnestes que celles que vous allez trouver. Cette Galanterie est de la Noblesse de Champagne.</p>
         <quote>
-          <label>L’Ordre des </label>
-          <label>Chevaliers</label>
-          <label>du Bon-temps,</label>
-          <p rend="i">Etably à P. le 22. de Fevrier, jour </p>
-          <p rend="i">du Mardy gras de l’année 1678. </p>
-          <p rend="i">&amp; mis sous la protection de </p>
-          <p rend="i">Cupidon &amp; de Bacchus, Divinitez </p>
-          <p rend="i">de l’Ordre. </p>
-          <p>Par Messieurs</p>
+          <label>L’ORDRE DES <lb/>CHEVALIERS <lb/>DU BON-TEMPS,</label>
+          <label><hi rend="i">Etably à P. le 22. de Fevrier, jour <lb/>du Mardy gras de l’année 1678.<lb/>&amp; mis sous la protection de<lb/>Cupidon &amp; de Bacchus, Divinitez<lb/>de l’Ordre.</hi></label>
+        </quote>
+        <quote>
+          <label>PAR MESSIEURS</label>
           <p>Le Comte Dar. son Eminentissime Grand-Maistre.</p>
           <p>Le Vicomte Dup. son Grand Seneschal.</p>
           <p>De V. son Grand Commandeur.</p>
@@ -293,59 +296,69 @@
           <p>De. Grand-Croix.</p>
           <p>De M. Secretaire de son commun Tresor.</p>
           <p>De G. son Vice-Chancelier.</p>
-          <p>Du. son Historiographe. D’O. de M. Grand Prieur de son Temple.</p>
+          <p>Du. son Historiographe.</p>  
+          <p>D’O. de M. Grand Prieur de son Temple.</p>
+        </quote>
+        <quote>
+        <label><hi rend="i">Invocation à l’Amour &amp; à <lb/>Bacchus, Divinitez de <lb/>l’Ordre.</hi></label>
+          <p>C‘est avec transport, Dieux Tutelaires de nostre Ordre, qu’on vous reclame icy ; venez échauffer nos imaginations, &amp; réjoüir nos esprits par les entousiasmes dont vous avez accoustumé de favoriser ceux qui vous honorent. Nous, Chevaliers cy-dessous nommez, reconnoissons que vous n’estes pas moins necessaires à la vie, que les Elemens qui l’entretiennent, &amp; que vous sçavez mesme temperer les combats que nous livrent ceux dont nous sommes composez. Oüy, petit Cupidon, aimable Enfant, nous serions tous terrestes, si vostre feu ne nous subtilisoit ; mais aussi le trop grand feu de l’Amour pouroit nous abatre, si nous n’avions recours à vous, divin Bacchus, pour conserver nos forces par la communication de cette incomparable liqueur qui nous releve &amp; nous anime à de nouvelles entreprises. Permettez donc que nous nous unissions toûjours, &amp; que dans tous les hommages qui vous seront rendus, il y ait une si grande égalité, que nous ne donnions jamais plus à Bacchus qu’à l’Amour, ny plus à l’Amour, que nous donnerons à Bacchus.</p></quote>
+        <quote>
+          <label><hi rend="i">Regles des Chevaliers de<lb/>l’Ordre du Bon-temps.</hi></label>
           <p/>
-          <p rend="i">Invocation à l’Amour &amp; à </p>
-          <p rend="i">Bacchus, Divinitez de </p>
-          <p rend="i">l’Ordre. </p>
-          <p>C‘est avec transport, Dieux Tutelaires de nostre Ordre, qu’on vous reclame icy ; venez échauffer nos imaginations, &amp; réjoüir nos esprits par les entousiasmes dont vous avez accoustumé de favoriser ceux qui vous honorent. Nous, Chevaliers cy-dessous nommez, reconnoissons que vous n’estes pas moins necessaires à la vie, que les Elemens qui l’entretiennent, &amp; que vous sçavez mesmes temperer les combats que nous livrent ceux dont nous sommes composez. Oüy, petit Cupidon, aimable Enfant, nous serions tous terrestes, si vostre feu ne nous subtilisoit ; mais aussi le trop grand feu de l’Amour pouroit nous abatre, si nous n’avions recours à vous, divin Bacchus, pour conserver nos forces par la communication de cette incomparable liqueur qui nous releve &amp; nous anime à de nouvelles entreprises. Permettez donc que nous nous unissions toûjours, &amp; que dans tous les hommages qui vous serons rendus, il y ait une si grande égalité, que nous ne donnions jamais plus à Bacchus qu’à l’Amour, ny plus à l’Amour, que nous donnerons à Bacchus.</p>
-          <p rend="i">Regles des Chevaliers de </p>
-          <p rend="i">l’Ordre du Bon-temps. </p>
-          <p>I. Les Chevaliers seront si étroitement unis d’amitié entr-’eux, qu’ils exployeront dans l’occasion leurs personnes, leur honneur, leurs biens, &amp; tout ce qu’ils ont de plus cher au monde, pour le service de leurs Confreres.</p>
+          <p>I. Les Chevaliers seront si étroitement unis d’amitié entr’eux, qu’ils employeront dans l’occasion leurs personnes, leur honneur, leurs biens, &amp; tout ce qu’ils ont de plus cher au monde, pour le service de leurs Confreres.</p>
           <p>II. Les Chevaliers ne souffriront point qu’on parle mal de quelqu’un de leurs Confreres en son absence, mais ils prendront fortement son party contre tous ceux qui oseront l’attaquer.</p>
           <p>III. Si quelque Chevalier de l’Ordre reçoit une insulte, &amp; se trouve embarassé dans quelque affaire, tous les Chevaliers en seront la leur propre, &amp; se déclareront hautement pour luy.</p>
           <p>IV. Les Chevaliers seront obligez en toute occasion d’honorer les Dames, de défendre leurs interests, &amp; de leur marquer leur zele par toutes sortes de services.</p>
           <p>V. Les Chevaliers apostropheront à chaque repas Cupidon &amp; Bacchus, les deux Divinitez de leur Ordre, &amp; ils le feront en ces termes,</p>
-          <l>Sans un peu de Vin dans le verre,</l>
-          <l>Sans un peu d’amour dans le cœur,</l>
-          <l>Que peut-on faire sur la terre,</l>
-          <l>Que passer sa vie en langueur ?</l>
-          <p>VI. S’il arrive que dans la conversation les Chevaliers se sentent avoir leur petit quart-d’heure de resverie, ils se retireront à l’écart pour le passer, afin que leurs Confreres n’en soufrent point, &amp; que rien ne diminuë leur gayeté.</p>
+          <lg>
+          <l rend="i">Sans un peu de Vin dans le verre,</l>
+          <l rend="i">Sans un peu d’amour dans le cœur,</l>
+          <l rend="i">Que peut-on faire sur la terre,</l>
+          <l rend="i">Que passer sa vie en langueur ?</l>
+          </lg>
+          <p/>
+          <p>VI. S’il arrive que dans la conversation les Chevaliers se sentent avoir leur petit quart-d’heure de resverie, ils se retireront à l’écart pour le passer, afin que leurs Confreres n’en souffrent point, &amp; que rien ne diminuë leur gayeté.</p>
           <p>VII. Les Chevaliers se régaleront une fois à leur tour pour entretenir commerce, &amp; pour conferer ensemble de leurs affaires, &amp; des desseins de plaisirs qu’ils auront imaginez.</p>
           <p>VIII. Dans les Repas qui se donneront, les Chevaliers ne se contenteront pas de presenter du Vin de leur crû, mais ils seront obligez d’en chercher du meilleur, qu’ils feront accompagner des Liqueurs les plus exquises &amp; les plus délicates qui se boiront dans la saison ; &amp; si c’est l’Esté, on aura soin que la Glace &amp; les Melons s’y trouvent en abondance.</p>
           <p>IX. Les Chevaliers auront à table une honneste liberté de boire &amp; de manger, chantant &amp; riant sans contrainte, &amp; faisant éclater la joye à qui mieux mieux. Comme leur Institution les rend partisans de Cupidon &amp; de Bacchus, ils auront dans leurs Repas la Musique &amp; le Concert des Instrumens qui serviront à divertir les Dames, qu’on ne prétend point qui soient bannies de la Societé de l’Ordre.</p>
           <p>X. Les Chevaliers seront obligez de donner quelquefois des Festes aux Dames, &amp; d’accompagner presque toûjours leurs Cadeaux de Violons pour joüer de temps en temps pendant le Repas &amp; pour les faire danser apres la Collation.</p>
           <p>XI. Il y aura un jour marqué pour celebrer tous les ans la Feste. Les Chevaliers feront des Chevalieres dans ce jour, à la maniere des <hi rend="i">Valentins</hi> &amp; des <hi rend="i">Valentines</hi> de Loraine. Le sort décidera de la destinée des unes &amp; des autres par le plus jeune des Chevaliers qui mettra dans une Boëte les Noms des Officiers &amp; des Chevaliers de l’Ordre. Les Dames auront la bonté d’en tirer un les unes apres les autres, &amp; chaque Chevalier sera obligé de servir la Dame que le sort luy aura donnée, à laquelle il rendra mille petits soins galans, sans que personne y puisse trouver à redire. Si par hazard, une Dame tiroit son Parent, il luy sera permis de changer sous le bon plaisir du Chevalier, avec une autre qui auroit eu la mesme fortune, pour en estre plus galamment servie ; ce qui ne se poura faire qu’une fois, &amp; avec un seulement.</p>
-          <p>XII. Les Chevaliers s’assembleront tous les ans, le Mardy gras, chez l’Eminentissime Grand-Maistre, pour celébrer la Feste de l’Institution de l’Ordre qui arrive ce jour-là. Le lendemain matin, comme il sera jeusne, on tiendra Chapitre avant le Disner, pour voir si les Officiers &amp; les Chevaliers auront bien fait les choses pendant le Carnaval, &amp; s’il y a eu rien à dire à leur maniere de traiter avec le beau Sexe ; &amp; en cas que l’on s’en plaigne, ils seront condamnez de satisfaire la Dame sur tout ce qu’elle desirera, &amp; de donner quelque suplément pendant le Caresme, c’est à dire, une bonne Collation poru les mettre à couvert du reproche. En suite on déliberera sur les moyens de passer doucement le Caresme, &amp; d’écouler sans ennuy ce temps de rabajoye, &amp; apres le Disner chacun s’en retournera chez luy.</p>
+          <p>XII. Les Chevaliers s’assembleront tous les ans, le Mardy gras, chez l’Eminentissime Grand-Maistre, pour celébrer la Feste de l’Institution de l’Ordre qui arrive ce jour-là. Le lendemain matin, comme il sera jeusne, on tiendra Chapitre avant le Disner, pour voir si les Officiers &amp; les Chevaliers auront bien fait les choses pendant le Carnaval, &amp; s’il y a eu rien à dire à leur maniere de traiter avec le beau Sexe ; &amp; en cas que l’on s’en plaigne, ils seront condamnez de satisfaire la Dame sur tout ce qu’elle desirera, &amp; de donner quelque suplément pendant le Caresme, c’est à dire, une bonne Collation pour les mettre à couvert du reproche. En suite on déliberera sur les moyens de passer doucement le Caresme, &amp; d’écouler sans ennuy ce temps de rabajoye, &amp; apres le Disner chacun s’en retournera chez luy.</p>
           <p>XIII. Les Chevaliers rendront dans leurs Assemblées tous les honneurs &amp; les déferences possibles à l’Eminnentissime Grand-Maistre, laissant toûjours à table deux ou trois places entre luy &amp; eux. Les Chevaliers ne s’y mettront point, que les Officiers ne soient placez, &amp; leur rendront aussi en toutes sortes d’occasions l’honnesteté qu’ils leur doivent.</p>
           <p>XIV. Les Chevaliers n’admettront dans leur Ordre que des gentilshommes ou autres Personnes vivant noblement.</p>
-          <p>XV. Les Chevaliers qui voudront estre reçeus dans l’Ordre, s’adresseront à l’Eminentissime Grand-Maistre, lequel fera une information de leur vie &amp; mœurs ; sçavoir, s’ils ont toutes les qualitez necessaires ; comme s’ils sont braves, discrets, libéraux, honnestes, galans, spirituels, aimant la bonne chere, sans estre goindres ; &amp; ces qualitez se rencontrant en la personne du Postulant, la reception s’en fera à ses despens le plus honorablement qu’il sera possible, &amp; tout le Chapitre s’assemblera dans sa Maison pour ce sujet.</p>
+          <p>XV. Les Chevaliers qui voudront estre reçeus dans l’Ordre, s’adresseront à l’Eminentissime Grand-Maistre, lequel fera une information de leur vie &amp; mœurs ; sçavoir, s’ils ont toutes les qualitez necessaires ; comme s’ils sont braves, discrets, libéraux, honnestes, galans, spirituels, aimant la bonne chere, sans estre goinfres ; &amp; ces qualitez se rencontrant en la personne du Postulant, la reception s’en fera à ses despens le plus honorablement qu’il sera possible, &amp; tout le Chapitre s’assemblera dans sa Maison pour ce sujet.</p>
           <p>XVI. Les Chevaliers seront indispensablement obligez d’écrire aux Dames, &amp; de leur envoyer des Billets doux quand ils ne pouront les aller voir en personne. Il auront aussi le soin d’entretenir parmy eux un petit commerce de Lettres, sur l’envelope desquelles ils mettront <hi rend="i">Bon-temps</hi>, afin que cette Lettre soit la premiere leuë, pour partager plutost la joye ou le chagrin du Confrere, &amp; faire sans retardement ce qu’il pourroit exiger des Chevaliers.</p>
           <p>XVII. Quand quelqu’un des Officiers de l’Ordre, ou des Chevaliers, se mariëra, on envoyera complimenter sa nouvelle Epouse par un Ambassadeur ; si c’est un Officier, &amp; si c’est un Chevalier, par un Envoyé extraordinaire ; &amp; le nouveau Marié pour reconnoistre la civilité de Messieurs de l’Ordre, les priëra tous de luy faire l’honneur de venir chez luy prendre le plus magnifique Repas qu’il pourra donner, comme aussi d’assister au Baptesme de son premier Enfant sous les mesmes conditions.</p>
-          <p>XVIII. Quand il surviendra quelque division parmy les Chevaliers, l’Eminentissime Grand-Maistre députera des officiers de l’Ordre pour terminer leurs diférens ; &amp; si quelqu’un refusoit l’accommodement, il le privera de porter la Médaille pendant tout le temps qu’il jugera à propos.</p>
+          <p>XVIII. Quand il surviendra quelque division parmy les Chevaliers, l’Eminentissime Grand-Maistre députera des Officiers de l’Ordre pour terminer leurs diférens ; &amp; si quelqu’un refusoit l’accommodement, il le privera de porter la Médaille pendant tout le temps qu’il jugera à propos.</p>
           <p>XIX. Quand il surviendra quelques affaires dans l’Ordre, le Secretaire du commun Trésor sera obligé d’en écrire au Chancelier, pour en communiquer à l’Eminentissime Grand-Maistre.</p>
           <p>XX. Les Officiers de l’Ordre porteront un large Ruban jaune, à la maniere des Chevaliers du S. Esprit, au bout duquel pendra la Médaille de l’Ordre, où seront gravez deux petits Dieux, dont l’un representera le Dieu de l’Amour, &amp; l’autre le Dieu Bacchus. L’un &amp; l’autre aura les marques de sa Divinité pour ornement, c’est à dire, Cupidon, une Couronne de Myrthe, son Arc, &amp; ses Fléches ; &amp; Bacchus, une Couronne &amp; une Ceinture de Pampre, avec une bouteille à la main. Ils s’embrasseront pour marque de leur étroite union, avec cette Devise gravée autour de la Médaille en maniere de Cartouche, <hi rend="i">Nous unissons les Plaisirs</hi>, &amp; au dessus à la Banderolle, <hi rend="i">Bon-temps</hi>.</p>
-          <p>XXI. Ces mesmes Officiers porteront leur Médaille d’or, à la diférence des Chevaliers, qui ne l’auront que d’argent ; avec défenses de paroistre dans les Assemblées de l’Ordre, ou chez un des officiers, &amp; mesme un de leurs Confreres, qu’ils n’ayent cette Médaille, à peine d’estre interdits.</p>
-          <p>XXII. Quand les Officiers de l’Ordre iront rendre visite à l’Eminentissime Grand-Maistre, ou à quelques autres Officiers leurs Confreres, ils seront obligez à l’imitation du Grand-Maistre, de porter une Médaille en Bandoliere ; ce qu’ils pourront ne point faire lors qu’ils iront voir les simples Chevaliers, mais seulement la porteront comme eux attache au Juste-à-corps avec un Ruban satiné jaune, large de quatre doigts.</p>
-          <p rend="i">Exercices de la Journée pour </p>
-          <p><hi rend="i">les Chevaliers du Bon</hi>-
-          </p>
-          <p rend="i">temps. </p>
+          <p>XXI. Ces mesmes Officiers porteront leur Médaille d’or, à la diférence des Chevaliers, qui ne l’auront que d’argent ; avec défenses de paroistre dans les Assemblées de l’Ordre, ou chez un des Officiers, &amp; mesme un de leurs Confreres, qu’ils n’ayent cette Médaille, à peine d’estre interdits.</p>
+          <p>XXII. Quand les Officiers de l’Ordre iront rendre visite à l’Eminentissime Grand-Maistre, ou à quelques autres Officiers leurs Confreres, ils seront obligez à l’imitation du Grand-Maistre, de porter une Médaille en Bandoliere ; ce qu’ils pourront ne point faire lors qu’ils iront voir les simples Chevaliers, mais seulement la porteront comme eux attachée au Juste-à-corps avec un Ruban satiné jaune, large de quatre doigts.</p>
+        </quote>
+        <quote>
+          <label><hi rend="i">Exercices de la Journée pour <lb/>les Chevaliers du Bon temps</hi></label>
+          <p/>
           <p>Celuy des Chevaliers qui se levera le premier, aura soin de faire faire silence dans toutes les avenuës des Apartemens des Dames, pour les laisser reposer la grasse matinée.</p>
           <p>Quand les Chevaliers seront habillez, ils iront se donner le bonjour les uns aux autres, &amp; s’embrasser dans leur Chambre.</p>
-          <p>Les Chevaliers apres s’estre entretenus quelque demy-heure ensemble, iront faire un tour de jardin, pour chercher de l’appétit, &amp; de là s’en retourneront déjeuner à l’Office.</p>
+          <p>Les Chevaliers apres s’estre entretenus quelque demy-heure ensemble, iront faire un tour de Jardin, pour chercher de l’appétit, &amp; de là s’en retourneront déjeuner à l’Office.</p>
           <p>L’heure du lever des Dames estant venuë, les Chevaliers iront grater à la Porte, &amp; leur donneront le bon jour, si elles leur veulent permettre d’entrer ; autrement ils attendront qu’elles soient habillées pour leur rendre ce devoir.</p>
           <p>Les Chevaliers iront ofrir tous les matins leurs services aux Dames, quand elles seront en état de paroistre, &amp; leur apporteront à déjeuner dans leurs Chambres.</p>
           <p>Le Déjeuner estant finy, les Chevaliers presenteront la main aux Dames pour faire quelques tours de promenade, au retour de laquelle ils s’appliqueront à diférens exercices, les uns au Billard, aux Cartes, ou à la Paume ; &amp; les autres à la Chasse, à la Danse, ou à la Conqueste du beau Sexe, suivant l’inclination de chaque particulier.</p>
-          <p>L’heure du Disner estant venuë, les Chevaliers feront placer les Dames à table, &amp; se placeront apres sans aucunes cerémonies, chacun suivant son rang. Ils s’appliqueront de leurs mieux à défaire les viandes, &amp; à servir leurs Voisines. La Belle humeur &amp; la gayeté feront l’assaisonnement du Repas, &amp; tous les Chevaliers donneront des preuves de la bonté &amp; de la délicatesse du Vin de leur Hoste, par les heureuses rencontres &amp; les pointes d’Esprit qu’il leur fournira.</p>
+          <p>L’heure du Disner estant venuë, les Chevaliers feront placer les Dames à table, &amp; se placeront apres sans aucunes cerémonies, chacun suivant son rang. Ils s’appliqueront de leurs mieux à défaire les viandes, &amp; à servir leurs Voisines. La belle humeur &amp; la gayeté feront l’assaisonnement du Repas, &amp; tous les Chevaliers donneront des preuves de la bonté &amp; de la délicatesse du Vin de leur Hoste, par les heureuses rencontres &amp; les pointes d’Esprit qu’il leur fournira.</p>
           <p>Le Disner estant achevé, les Chevaliers reprendront les mesmes exercices du matin, chacun suivant son inclination &amp; son humeur.</p>
           <p>Les Chevaliers feront Collation entre quatre &amp; cinq heures, &amp; s’amuseront à plaisanter en suite, &amp; à joüer à de petits jeux galans jusques au Souper.</p>
-          <p>Les Chevaliers souperont l’Hyver à sept heures, &amp; l’Eté à six &amp; demie ; &amp; feront ce Repas un peu plus long que les autres, à cause que la soirée est ordinairement à nous, &amp; que l’on peut disposer de soy-mesme en ce temps plus qu’en aucun autre. Les Chevaliers se souviendront de faire pendant le Souper un perpétuel carillon de Verres &amp; d’agreables symphonies de Chansons. Les Chevaliers iront apres le Souper goûter le frais avec les Dames, &amp; chercheront autant que faire se poura le teste-à-teste, pour avoir le moyen de pousser des sentimens tendres. Si c’est l’Hyver, ils causeront chacun aupres de leur chacune, &amp; inventeront des jeux en commun pour se divertir.</p>
+          <p>Les Chevaliers souperont l’Hyver à sept heures, &amp; l’Eté à six &amp; demie ; &amp; feront ce Repas un peu plus long que les autres, à cause que la soirée est ordinairement à nous, &amp; que l’on peut disposer de soy-mesme en ce temps plus qu’en aucun autre. Les Chevaliers se souviendront de faire pendant le Souper un perpétuel carillon de Verres &amp; d’agreables symphonies de Chansons.</p> 
+          <p>Les Chevaliers iront apres le Souper goûter le frais avec les Dames, &amp; chercheront autant que faire se poura le teste-à-teste, pour avoir le moyen de pousser des sentimens tendres. Si c’est l’Hyver, ils causeront chacun aupres de leur chacune, &amp; inventeront des jeux en commun pour se divertir.</p>
           <p>L’heure du Coucher arrivant, les Chevaliers iront conduire les Dames dans leur Chambre, &amp; leur chanteront mille petits Airs galans, apres quoy ils se retireront sans aucun bruit, &amp; iront chercher leur Lit avec toute l’honnesteté possible, se souhaitant les uns aux autres un repos qui ne soit troublé d’aucun mauvais songe.</p>
-          <p rend="i">Vœux des Chevaliers quand </p>
-          <p rend="i">ils sont reçeus. </p>
+        </quote>
+        <quote>
+          <label><hi rend="i">Vœux des Chevaliers quand<lb/>ils sont reçeus.</hi></label>
+          <p/>
           <p>Je fais vœu de conserver toûjours la belle humeur &amp; la gayeté ; d’avoir toute ma vie un grand fond d’honnesteté pour les Dames ; &amp; de faire à l’égard de mes Confreres &amp; de mes Amis, tout ce que l’honneur, l’amitié, &amp; la conscience, pouront exiger de moy.</p>
-          <p rend="i">Noms des Chevaliers. </p>
+        </quote>
+        <quote>
+          <label><hi rend="i">Noms des Chevaliers.</hi></label>
+          <p/>
           <p>M<hi rend="sup">r</hi> de… <hi rend="i">Ch. Ardant.</hi></p>
           <p>M<hi rend="sup">r</hi> D… <hi rend="i">Ch. De mille fleurs.</hi></p>
           <p>M<hi rend="sup">r</hi> le Comte d… <hi rend="i">Ch. Sans reproche.</hi></p>
@@ -378,17 +391,17 @@
           <p>M<hi rend="sup">r</hi> de L… <hi rend="i">Ch. Pensif.</hi></p>
           <p>M<hi rend="sup">r</hi>… <hi rend="i">Ch. Conquérant.</hi></p>
           <p>M<hi rend="sup">r</hi> de… <hi rend="i">Ch. De Reverence.</hi></p>
-          <p rend="i">Licences &amp; Privileges des </p>
-          <p rend="i">Chevaliers de l’ordre </p>
-          <p rend="i">du Bon-temps. </p>
-          <p>À tous passez, présens, &amp; à venir ; De la part de Monsieur l’Eminentissime Grand-Maistre, Comte D. Amy de la Liberté &amp; de la Joye, Protecteur des Dames, &amp; Amateur de la Bonne Chere : À nos amez &amp; feaux bons Amis, Officiers &amp; Chevaliers de nostre Ordre du Bon-temps, Gens de belle humeur, donnans Cadeaux, Violons, &amp; autres divertissemens aux Dames ; Salut en celuy qui se plaist d’estre parmy les Enfans des Hommes. Nous vous mandons &amp; commandons tres-expressement par ces Présentes, qu’aussitost incontinent, &amp; sans aucun delay, vous receviez &amp; introduisiez en nostre Compagnie nostre cher  bien-aimé N… du mérite &amp; de la galanterie duquel nous avons fait preuves suivant les Statuts de nostre Ordre ; &amp; apres avoir reconnu qu’il est fort enjoüé aupres des Dames, prest à rendre service à ses Amis, &amp; d’une tres-bonne humeur à table, voulons qu’il joüisse des honnestes plaisirs que l’on gouste dans ces trois occasions ; faisons défenses d’autrement le traiter, sur les peines reservées en nostre Chapitre, &amp; d’amende arbitraire : Car tel est nostre vouloir, le souhaitant &amp; desirant ainsy. En foy dequoy nous avons signé ces Présentes, &amp; à icelles fait apposer le Scel de nostre Ordre. Donné à P.… en nostre Cercle d’Union &amp; de Franchise, le.… de l’année.….</p>
+          <p/>
+          <p>  <hi rend="i">Licences &amp; Privileges des</hi></p>
+          <p>   <hi rend="i">Chevaliers de l’ordre</hi></p>
+          <p>    <hi rend="i">du Bon-temps.</hi></p>
+          <p>    A tous passez, présens, &amp; à venir ; De la part de Monsieur l’Eminentissime Grand-Maistre, Comte D. Amy de la Liberté &amp; de la Joye, Protecteur des Dames, &amp; Amateur de la Bonne Chere : A nos amez &amp; feaux bons Amis, Officiers &amp; Chevaliers de nostre Ordre du Bon-temps, Gens de belle humeur, donnans Cadeaux, Violons, &amp; autres divertissemens aux Dames ; Salut en celuy qui se plaist d’estre parmy les Enfans des Hommes. Nous vous mandons &amp; commandons tres-expressement par ces Présentes, qu’aussitost incontinent, &amp; sans aucun delay, vous receviez &amp; introduisiez en nostre Compagnie nostre cher &amp; bien-aimé N… du mérite &amp; de la galanterie duquel nous avons fait preuves suivant les Statuts de nostre Ordre ; &amp; apres avoir reconnu qu’il est fort enjoüé aupres des Dames, prest à rendre service à ses Amis, &amp; d’une tres-bonne humeur à table, voulons qu’il joüisse des honnestes plaisirs que l’on gouste dans ces trois occasions ; faisons défenses d’autrement le traiter, sur les peines reservées en nostre Chapitre, &amp; d’amende arbitraire : Car tel est nostre vouloir, le souhaitant &amp; desirant ainsy. En foy dequoy nous avons signé ces Présentes, &amp; à icelles fait apposer le Scel de nostre Ordre. Donné à P.… en nostre Cercle d’Union &amp; de Franchise, le.… de l’année.….</p>
           <p>Signé D........ Grand-Maistre de l’Ordre du Bon-temps, Protecteur des Dames, &amp; Amy de la Liberté.</p>
-          <p rend="i">Collationné à l’original par </p>
-          <p rend="i">Moy Secretaire du commun </p>
-          <p rend="i">Trésor de l’Ordre, De M… </p>
-          <p><hi rend="i">Seigneur de Belle-humeur</hi>, 
-          </p>
-          <p rend="i">&amp; Ennemy capital du Chagrin. </p>
+          <p>   <hi rend="i">Collationné à l’Original par</hi></p>
+          <p>        <hi rend="i">moy Secretaire du commun</hi></p>
+          <p>        <hi rend="i">Trésor de l’Ordre, De M…</hi></p>
+          <p>        <hi rend="i">Seigneur de Belle-humeur,</hi></p> 
+          <p>        <hi rend="i">&amp; Ennemy capital du Chagrin.</hi></p>
         </quote>
         <p>Une pareille Institution d’Ordre donneroit lieu à une agreable vie, si les Statuts en estoient inviolablement gardez ; mais il n’y a rien de si bien étably qui ne dégenere avec le temps, comme il n’y a rien de si extraordinaire, sans en excepter le Prodige, que ce mesme temps ne fasse paroistre.</p>
       </div>
