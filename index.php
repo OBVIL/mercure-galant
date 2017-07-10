@@ -32,6 +32,8 @@ echo 'Mercure Galant, OBVIL';
 // <link rel="stylesheet" type="text/css" href="semantic/theme/semantic.css" />
     ?>
     <style>
+section.article { border-bottom: 2px white solid; margin-top: 0; padding-top: 2rem; }
+section.article h2  { margin-top: 0;  }
     </style>
   </head>
   <body id="top">
