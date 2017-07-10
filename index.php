@@ -40,7 +40,12 @@ section.article h2  { margin-top: 0;  }
     <div id="center">
       <header id="header">
         <h1><?php
-          if ( !$path ) echo '<a href="//obvil.paris-sorbonne.fr/projets/mercure-galant">Projet : Mercure galant</a>';
+          if ( !$path && $base->search ) {
+            echo '<a href="'.$basehref.'">Mercure Galant</a>';
+          }
+          else if ( !$path ) {
+            echo '<a href="//obvil.paris-sorbonne.fr/projets/mercure-galant">Projet : Mercure galant</a>';
+          }
           else {
             echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">Mercure Galant</a>';
           }
