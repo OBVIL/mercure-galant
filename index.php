@@ -101,19 +101,8 @@ else if ( $base->search ) {
 }
 // pas de livre demandé, montrer un rapport général
 else {
-  readfile('doc/presentation.html');
+  readfile('presentation.html');
   $base->biblio( array( "no", "date", "title" ) );
-  /*
-  TODO search
-  // nombre de résultats
-  echo $pot->report();
-  // présentation chronologique des résultats
-  echo $pot->chrono();
-  // présentation bibliographique des résultats
-  echo $pot->biblio(array('date', 'byline', 'title', 'occs'));
-  // concordance s’il y a recherche plein texte
-  echo $pot->concByBook();
-  */
 }
             ?>
             <a id="gotop" href="#top">▲</a>

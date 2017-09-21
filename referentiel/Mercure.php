@@ -1,8 +1,13 @@
 <?php
+/*
+ [2017-09] glorieux-f
+ A été utilisé pour relier la publicaiton à une ontologie de métadonnées.
+ Laissé pour mémoire, n'est plus branché à rien.
+*/
 //ini_set("display_errors",0);
 error_reporting(E_ALL);
 //error_reporting(0);
-include_once (dirname(__FILE__).'/../teipot/Web.php');// déjà appelé dans teipot... ici seulement pour le client ligne de commande
+commande
 // cli usage
 set_time_limit(-1);
 if (php_sapi_name() == "cli") Mercure::doCli();
@@ -12,25 +17,20 @@ class Mercure {
   private static $pdo;
   private $reader; //analyseur XML (XMLReader)
   const OBUL = 67; // ontology base URL length (http://www.semanticweb.org/mercure-galant/ontologie/mercure-galant#)
-  
+
   function __construct($path="") {
-    // TODO: voir avec Fréd ce mécanisme..
-    // inutile de faire include de Web.php ???
-    if(!$path) $path = Web::pathinfo();
-    $this->basehref = Web::basehref($path);
-    
     $this->reader = new XMLReader();
   }
-  
-  
-  private function connect($sqlFile) {      
+
+
+  private function connect($sqlFile) {
     if (!file_exists($sqlFile)) exit($sqlFile." doesn’t exist!\n");
     else {
       self::$pdo=new PDO("sqlite:".$sqlFile);
       self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
     }
   }
-  
+
   // Imprimer l’index des personnes
   public function printPersonIndex() {
     self::connect('./mercure-galant.sqlite');
@@ -58,8 +58,8 @@ class Mercure {
       echo "</ul>";
     }
   }
-  
-  
+
+
   /*
    * string printTagsIndex($classe, $full)
    * imprimer les thesaurus (corporation, place, topic)
@@ -99,7 +99,7 @@ class Mercure {
     self::tagsTree($tags, $parent);
     print '</ul>';
   }
-  
+
   //quick and dirty: méthode ligne de commande pour sortir les thesaurus dans des fichiers HTML (./doc/)
   //http://stackoverflow.com/questions/937627/how-to-redirect-stdout-to-a-file-in-php
   private function thesaurusFile($classe) {
@@ -121,7 +121,7 @@ class Mercure {
     fwrite($STDOUT, $footer);
     fclose($STDOUT);
   }
-  
+
   /*
    * string tagsTree($allTags, $parent)
    * méthode récursive pour produire l’arbre des tags
@@ -141,7 +141,7 @@ class Mercure {
     print "</li>";
     }
   }
-  
+
   /*
    * array() tagChilds($tags, $parent)
    * ramasser tous les tags qui ont le même papa
@@ -149,7 +149,7 @@ class Mercure {
   private function tagChilds($tags, $parent) {
     return array_filter($tags, function($tag) use($parent) {if($tag['parent']==$parent) return $tag;});
   }
-  
+
   /* Afficher en tête d’article les tags attachés */
   public function printTags($related=true) {
     $article_id = basename($_SERVER['REQUEST_URI']);
@@ -179,7 +179,7 @@ class Mercure {
       }
     }
   }
-  
+
   /*
    * afficher la liste formatée des articles pour un tag
    */
@@ -204,7 +204,7 @@ class Mercure {
     $htmlList .= "</ul>";
     return $htmlList;
   }
-  
+
   //$currentArt id de l’article contexte (ne pas sortir l’id de l’article courant)
   //$tag = liste de tags en tableau
   public function relatedDoc($tagSet, $currentArt, $threshold=6) {
@@ -285,6 +285,6 @@ class Mercure {
 
 
 
-  
+
 }
 ?>
