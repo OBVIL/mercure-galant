@@ -67,7 +67,7 @@
           <head>[De la manière de faire des louanges du Roi]*</head>
           <bibl><title>Mercure Galant</title>, avril 1691 [tome 4], p. 7-10.</bibl>
           <p/>
-          <p>Comme l’homme est naturellement envieux du merite d’autruy, &amp; qu’il n’en sçauroit entendre parler sans peine, rien n’est si suspect ny si fatiguant que les loüanges, pour ceux qui n’y prennent point de part. Si elles sont peu aimées, il faut demeurer d’accord que rarement elles sont dignes de l’estre. Combien de fois est-on obligé de repeter les mesmes choses, pour donner de l’encens à ceux que l’interest ou la politique engage à loüer, &amp; combien de lieux communs sont mis en usage, qui peuvent estre également appliquez à differentes personnes ! Je croy, Madame, que vous serez de mon sentiment, &amp; que vous approuverez que j’ose dire qu’il n’y a que ceux qui travaillent à la gloire de Sa Majesté, qui soient à couvert de ces inconveniens. Il est difficile de loüer les autres sans les loüer trop, &amp; quand on entreprend de loüer le Roy, on ne sçauroit le loüer assez. L’abondance de ce que l’on trouve à dire embarasse dans le choix. Les pensées naissent en trop grand nombre pour pouvoir les mettre toutes dans leur jour ; &amp; il n’y a point d’expressions assez fortes pour répondre à la grandeur d’une si noble matiere. On ne peut dire qu’elle ne soit pas nouvelle, &amp; qu’il soit besoin, pour loüer ce Prince, de le comparer aux Alexandres &amp; aux Cesars. Ce seroit oster beaucoup à sa gloire. Ces Conquerans, quelque renommez qu’ils soient, n’ont jamais vû tant de Puissances liguées contre l’élevation où ils estoient parvenus.</p>
+          <p>COMME l’homme est naturellement envieux du merite d’autruy, &amp; qu’il n’en sçauroit entendre parler sans peine, rien n’est si suspect ny si fatiguant que les loüanges, pour ceux qui n’y prennent point de part. Si elles sont peu aimées, il faut demeurer d’accord que rarement elles sont dignes de l’estre. Combien de fois est-on obligé de repeter les mesmes choses, pour donner de l’encens à ceux que l’interest ou la politique engage à loüer, &amp; combien de lieux communs sont mis en usage, qui peuvent estre également appliquez à differentes personnes ! Je croy, Madame, que vous serez de mon sentiment, &amp; que vous approuverez que j’ose dire qu’il n’y a que ceux qui travaillent à la gloire de Sa Majesté, qui soient à couvert de ces inconveniens. Il est difficile de loüer les autres sans les loüer trop, &amp; quand on entreprend de loüer le Roy, on ne sçauroit le loüer assez. L’abondance de ce que l’on trouve à dire embarasse dans le choix. Les pensées naissent en trop grand nombre pour pouvoir les mettre toutes dans leur jour ; &amp; il n’y a point d’expressions assez fortes pour répondre à la grandeur d’une si noble matiere. On ne peut dire qu’elle ne soit pas nouvelle, &amp; qu’il soit besoin, pour loüer ce Prince, de le comparer aux Alexandres &amp; aux Cesars. Ce seroit oster beaucoup à sa gloire. Ces Conquerans, quelque renommez qu’ils soient, n’ont jamais vû tant de Puissances liguées contre l’élevation où ils estoient parvenus.</p>
         </div>
         <div type="article" xml:id="MG-1691-04_038" resp="wordpro">
           <head>Sur le depart du Roy</head>
@@ -97,24 +97,27 @@
           <bibl><title>Mercure Galant</title>, avril 1691 [tome 4], p. 40-57.</bibl>
           <p/>
           <p>Voicy une maniere de petit Opera, que l'Auteur intitule <hi rend="i">La Feste universelle à l'honneur de LOUIS LE GRAND</hi>. Vous reconnoistrez en le lisant qu'il n'est pas indigne de vostre approbation.</p>
-          <p/>
-          <p>MOMUS.</p>
-          <p>C'est en ce jour que l'amour nous fait voir</p>
-          <p>Que tout reconnoist son pouvoir.</p>
+          <quote>
+          <label type="speaker">MOMUS.</label>
+            <lg>
+          <l rend="i">C'est en ce jour que l'amour nous fait voir</l>
+          <l>Que tout reconnoist son pouvoir.</l>
           <p>Les Dieux reverent son empire,</p>
           <p>Il tient Jupiter dans les fers ;</p>
           <p>Pluton dans ses prisons soupire ;</p>
           <p>Neptune brûle dans les mers.</p>
+          </lg>
+          <label type="speaker">LISIS.</label>
           <p>D'où vient que depuis quelques jours</p>
           <p>Je sens je ne sçay quoy qui me fait de la peine ?</p>
           <p>Sans esperer aucun secours,</p>
-          <p>Par tout je suis Climene,</p>
+          <p> Par tout je suis Climene,</p>
           <p>Je m'éloigne de nos hameaux,</p>
           <p>Et mesme il faut que mes Troupeaux</p>
           <p>Se joignent au troupeau de la belle inhumaine</p>
           <p>S'ils pretendent que je les mene.</p>
           <p/>
-          <p>CLIMENE.</p>
+            <label type="speaker">CLIMENE.</label>
           <p>Ainsi, Berger, vous les défendrez tous</p>
           <p>Des attaques des Loups ;</p>
           <p>Je consens qu'ils paissent ensemble.</p>
@@ -125,17 +128,17 @@
           <p>Le Choeur des Bergers repete les trois derniers Vers.</p>
           <p>Allons, &amp;c.</p>
           <p/>
-          <p>DEUX BERGERS.</p>
+            <label type="speaker">DEUX BERGERS.</label>
           <p>Quel moyen de se défendre</p>
           <p>Des caresses de l'amour ?</p>
-          <p>Il faut à la fin de rendre,</p>
-          <p>On doit aimer quelque jours ;</p>
+          <p>Il faut à la fin se rendre,</p>
+          <p>On doit aimer quelque jour ;</p>
           <p>La Beauté qui cherche à prendre</p>
           <p>Se trouve prise à son tour.</p>
           <p>Quel moyen de se défendre</p>
           <p>Des caresses de l'amour ?</p>
           <p/>
-          <p>DEUX BERGERES.</p>
+            <label type="speaker">DEUX BERGERES.</label>
           <p>On ne perd rien pour attendre</p>
           <p>Dans cet aimable sejour.</p>
           <p>Suivons le chemin de tendre,</p>
@@ -143,20 +146,22 @@
           <p>Un Amant peut tout pretendre,</p>
           <p>Quand il sçait faire sa cour.</p>
           <p/>
-          <p>Choeur de Bergers.</p>
+            <label type="speaker">CHOEUR DE BERGERS.</label>
           <p>On ne perd rien pour attendre, &amp;c.</p>
+          <p/>
+            <label type="speaker">LISIS.</label>
           <p>Quand une Beauté nous enchaine,</p>
           <p>Q'elle nous fait sentir la douceur de ses coups,</p>
           <p>On se laisse mener sans peine ;</p>
-          <p>La liberté n'a rien qui soit si doux,</p>
+          <p>La liberté n'a rien qui soit si doux.</p>
           <p/>
-          <p>CLIMENE,</p>
+              <label type="speaker">CLIMENE.</label>
           <p>Qu'on marche avec assurance</p>
           <p>Quand le sort remplit nôtre espoir,</p>
           <p>Quand le coeur suit l'obeissance,</p>
           <p>Quand l'amour prévient le devoir !</p>
           <p/>
-          <p>Choeur de Bergers.</p>
+            <label type="speaker">CHEOUR DE BERGERS.</label>
           <p>Jeunes Amans,</p>
           <p>Que vos plaisirs seront charmans !</p>
           <p>La tendresse</p>
@@ -164,55 +169,55 @@
           <p>Vous fait paroistre les momens</p>
           <p>De longs retardemens.</p>
           <p/>
-          <p>LISIS &amp; CLIMENE.</p>
+            <label type="speaker">LISIS &amp; CLIMENE.</label>
           <p>Qu'on rie, qu'on chante, qu'on danse</p>
-          <p>Dans cet heureux jours ;</p>
+          <p>Dans cet heureux jour ;</p>
           <p>Que la joye augmente ;</p>
           <p>Que tout se ressente</p>
-          <p>Des bienfaits de l?amour.</p>
+          <p>Des bienfaits de l'amour.</p>
           <p/>
-          <p>CALLIOPE.</p>
+            <label type="speaker">CALLIOPE.</label>
           <p>On voit, lors qu'à l'amour on se laisse engager,</p>
           <p>Que la flâme la plus belle</p>
           <p>Devient à la fin mortelle ;</p>
           <p>Evitez sagement un si cruel danger.</p>
           <p/>
-          <p>PAN.</p>
+            <label type="speaker">PAN.</label>
           <p>Fuyons sa surprise,</p>
           <p>Ses charmes, ses fers ;</p>
           <p>Manquer de franchise,</p>
           <p>C'est estre aux enfers.</p>
           <p/>
-          <p>URANIE.</p>
+            <label type="speaker">URANIE.</label>
           <p>Un Amant n'est guere sage,</p>
           <p>Il s'estime malheureux</p>
           <p>Si l'on méprise ses feux ;</p>
           <p>Mais il l'est bien davantage</p>
           <p>Quand on répond à ses voeux.</p>
           <p/>
-          <p>MELPOMENE.</p>
+            <label type="speaker">MELPOMENE.</label>
           <p>Craignez, imprudente Jeunesse,</p>
           <p>Gardez pour la vertu toute vostre tendresse.</p>
           <p/>
-          <p>Choeur de Bergers.</p>
+            <label type="speaker">CHOEUR DE BERGERS.</label>
           <p>La vertu seroit farouche,</p>
           <p>S'il n'estoit permis d'aimer ;</p>
           <p>Un objet aimable touche,</p>
           <p>Il a droit de nous charmer.</p>
           <p/>
-          <p>PAN.</p>
+            <label type="speaker">PAN.</label>
           <p>Ce Sexe volage</p>
           <p>Jamais ne s'engage</p>
           <p>Que pour un moment,</p>
           <p>Comme il se dégage</p>
           <p>Sans sçavoir comment.</p>
           <p/>
-          <p>CALLIOPE.</p>
+            <label type="speaker">CALLIOPE.</label>
           <p>Mettrons-nous en oubly les Arts les plus parfaits</p>
           <p>Qui prestent à l'amour d'inévitables traits ?</p>
           <p>On captive les coeurs par les vers d'Uranie.</p>
           <p/>
-          <p>URANIE.</p>
+            <label type="speaker">URANIE.</label>
           <p>La Musique sur tout par ses puissans accords</p>
           <p>Charme les Immortels, les Vivans, &amp; les Morts.</p>
           <p>La rage cede à l'harmonie,</p>
@@ -220,48 +225,48 @@
           <p>Et l'on voit que la simphonie</p>
           <p>Suspend les plus grandes douleurs.</p>
           <p/>
-          <p>MELPOMENE.</p>
+            <label type="speaker">MELPOMENE.</label>
           <p>Il n'est rien que l'on n'enchante</p>
           <p>Par les charmes de la voix,</p>
           <p>Et la Lire est bien plus puissante</p>
           <p>Que le Sceptre des plus grands Rois.</p>
           <p/>
-          <p>LES MUSES s'adressant à la Renommée qui survient, précédée par des Trompettes &amp; des Hautbois.</p>
+            <label type="speaker">LES MUSES s'adressant à la Renommée qui survient, précédée par des Trompettes &amp; des Hautbois.</label>
           <p>Vous venez à propos, joignons-nous,</p>
           <p>Le concert en sera plus doux.</p>
           <p/>
-          <p>LE Choeur.</p>
+            <label type="speaker">LE CHOEUR.</label>
           <p>Celebrons cette Feste,</p>
           <p>Et que chacun s'apreste</p>
           <p>A chanter tour à tour</p>
           <p>La merveille des Arts, &amp; celles de l'amour.</p>
           <p/>
-          <p>LA RENOMMÉE.</p>
+            <label type="speaker">LA RENOMMÉE.</label>
           <p>Que deviendroient ces Arts dans le siecle où nous sommes,</p>
           <p>Si le plus grand des Rois,</p>
           <p>Si le plus grand des hommes</p>
           <p>Ne les faisoit fleurir ? Consacrons-luy nos voix.</p>
           <p/>
-          <p>SUIVANS de la Renommée.</p>
+            <label type="speaker">SUIVANS DE LA RENOMMEE.</label>
           <p>Publions à l'envy son éclatante gloire,</p>
           <p>Traçons de ses hauts faits la memorable histoire ;</p>
           <p>Leur nombre étonnera les siecles à venir,</p>
           <p>Et bien loin de ne les pas croire,</p>
           <p>Ils en conserveront toujours le souvenir.</p>
           <p/>
-          <p>DEUX FAUNES.</p>
+            <label type="speaker">DEUX FAUNES.</label>
           <p>Dans l'horreur des combats ceux qui l'ont osé suivre,</p>
           <p>L'ont veu cent fois en danger de perir ;</p>
           <p>Mais celuy qui montre à bien vivre</p>
           <p>Ne doit jamais mourir.</p>
           <p/>
-          <p>DEUX NIMPHES.</p>
+            <label type="speaker">DEUX NIMPHES.</label>
           <p>Des monstres infernaux il a vaincu la rage</p>
           <p>Lorsque dans ses Etats il a détruit l'erreur ;</p>
           <p>Des combats singuliers il a banny l'usage,</p>
           <p>On n'entend plus parler d'une telle fureur.</p>
           <p/>
-          <p>NEPTUNE.</p>
+            <label type="speaker">NEPTUNE.</label>
           <p>Je luy vois faire des miracles</p>
           <p>Pour relever l'éclat d'un Trône renversé,</p>
           <p>En vain un fier Tiran y forme des obstacles,</p>
@@ -269,9 +274,9 @@
           <p>Il sera contraint de descendre,</p>
           <p>L'imprudent court à son trépas ;</p>
           <p>Si son crime a pû nous surprendre,</p>
-          <p>Sa fin ne nous surprendra pas..</p>
+          <p>Sa fin ne nous surprendra pas.</p>
           <p/>
-          <p>Troupe d'Irlandois.</p>
+            <label type="speaker">TROUPE D'IRLANDOIS.</label>
           <p>Que la foudre</p>
           <p>Le reduise en poudre</p>
           <p>Pour punir sa fureur.</p>
@@ -279,34 +284,34 @@
           <p>Le reduise en poudre</p>
           <p>Pour soulager nostre douleur.</p>
           <p/>
-          <p>Deux François.</p>
+            <label type="speaker">DEUX FRANÇOIS.</label>
           <p>Que le Ciel en colere</p>
           <p>L'accable de malheur,</p>
           <p>Et que bientost Cerbere</p>
           <p>Luy devore le coeur.</p>
           <p/>
-          <p>Troupe d'Irlandois,</p>
+            <label type="speaker">TROUPE D'IRLANDOIS.</label>
           <p>Qu'il meure, qu'il perisse.</p>
           <p/>
-          <p>Choeur de François.</p>
+            <label type="speaker">CHOEUR DE FRANÇOIS.</label>
           <p>Que le Ciel punisse</p>
           <p>Ce coeur inhumain.</p>
           <p/>
-          <p>Troupe d'Irlandois.</p>
+            <label type="speaker">TROUPE D'IRLANDOIS.</label>
           <p>Qu'il meure, qu'il perisse.</p>
           <p/>
-          <p>Troupe de François.</p>
+            <label type="speaker">TROUPE DE FRANÇOIS.</label>
           <p>Il perira de nostre main.</p>
           <p/>
-          <p>Un Irlandois.</p>
+            <label type="speaker">UN IRLANDOIS.</label>
           <p>Le Peuple d'Albion son Monarque abandonne.</p>
           <p>Dans un triste sort quel sera son appuy ?</p>
           <p>Il perd en un moment une triple couronne.</p>
           <p/>
-          <p>Choeur de François.</p>
+            <label type="speaker">CHOEUR DE FRANÇOIS.</label>
           <p>Non, non, il ne perd rien, LOUIS sera pour luy.</p>
           <p/>
-          <p>MOMUS</p>
+            <label type="speaker">MOMUS</label>
           <p>Moy qui trouve tout à redire,</p>
           <p>Qui ne trouve rien de parfait,</p>
           <p>Je me sens obligé de dire</p>
@@ -318,49 +323,46 @@
           <p>Son Etat par ses soins en delices abonde ;</p>
           <p>On parlera de luy jusqu'à la fin du monde.</p>
           <p/>
-          <p>LE CHOEUR,</p>
+            <label type="speaker">LE CHOEUR,</label>
           <p>Il est heureux, pieux, &amp; juste,</p>
           <p>Et la victoire suit son Char.</p>
           <p>Il n'est pas moins sage qu'Auguste,</p>
           <p>Il est plus vaillant que Cesar.</p>
           <p/>
-          <p>LA RENOMÉE</p>
+            <label type="speaker">LA RENOMÉE.</label>
           <p>Que son nom vole</p>
           <p>Plus viste qu'Eole</p>
           <p>Par tout l'Univers.</p>
           <p/>
-          <p>Suivans de la Renommée.</p>
+            <label type="speaker">SUIVANS DE LA RENOMMEE.</label>
           <p>Que son nom vole</p>
           <p>De l'un à l'autre Pole :</p>
           <p>Qu'à son honneur on chante mille Vers.</p>
           <p/>
-          <p>CALLIOPE.</p>
-          <p>Nostre Parnasse,</p>
-          <p/>
-          <p>CIBELE</p>
-          <p>Nos campagnes.</p>
-          <p/>
-          <p>UNE DRUIDE.</p>
-          <p>Nos forests,</p>
-          <p/>
-          <p>UNE NAYADE.</p>
-          <p>Nos Eaux,</p>
-          <p/>
-          <p>UNE OREADE.</p>
-          <p>Nos Montagnes.</p>
-          <p/>
-          <p>Choeur de Muses et de Nimphes.</p>
+            <label type="speaker">CALLIOPE.</label>
+            <lg>
+          <l rend="i" part="I">Nostre Parnasse,</l>
+              <label type="speaker">CIBELE</label>
+          <l rend="i" part="F">Nos campagnes.</l>
+              <label type="speaker">UNE DRUIDE.</label>
+          <l rend="i" part="I">Nos forests,</l>
+              <label type="speaker">UNE NAYADE.</label>
+          <l rend="i" part="M">Nos Eaux,</l>
+              <label type="speaker">UNE OREADE.</label>
+          <l rend="i" part="F">Nos Montagnes.</l>
+            </lg>
+              <label type="speaker">CHOEUR DE MUSES ET DE NIMPHES.</label>
           <p>Retentissent toujours du bruit de ses exploits,</p>
           <p>Il est plus Roy que tous les autres Rois.</p>
           <p/>
-          <p>LE CHOEUR.</p>
+              <label type="speaker">LE CHOEUR.</label>
           <p>Il est plus Roy que tous les autres Rois.</p>
-          <p>Sa grandeur n'a point de Seconde,</p>
+          <p>Sa grandeur n'a point de seconde,</p>
           <p>Et nous défions le Soleil,</p>
           <p>Luy qui fait tout le tour du monde,</p>
           <p>De voir jamais rien de pareil.</p>
           <p/>
-          <p>Deux François.</p>
+              <label type="speaker">DEUX FRANÇOIS.</label>
           <p>Mars sur nos Ennemis fait tomber son tonnerre,</p>
           <p>Il les confond, il les détruit,</p>
           <p>Et cependant dans nostre terre</p>
@@ -368,19 +370,19 @@
           <p>Sans quitter son Palais il gagne des Batailles.</p>
           <p>Hollandois, Allemans, appaisez son couroux,</p>
           <p>Tous vos Camps sont par luy remplis de funérailles.</p>
-          <p>Que ne fera-t'il pas t'il [sic] s'approche de vous ?</p>
+          <p>Que ne fera-t'il pas s'il s'approche de vous ?</p>
           <p>Mais un jeune Heros doit terminer l'affaire,</p>
           <p>Si Louis faisoit tout, qu'auroit son Fils à faire ?</p>
           <p>Ce Prince nous fait voir en signalant son bras,</p>
           <p>Qu'il suit bien ses leçons, qu'il marche sur ses pas.</p>
           <p/>
-          <p>MERCURE,</p>
+              <label type="speaker">MERCURE,</label>
           <p>Il est prest à partir suivy de la fortune,</p>
           <p>Je viens de luy porter</p>
           <p>Le Trident de Neptune,</p>
           <p>Et le foudre de Jupiter.</p>
           <p/>
-          <p>CHOEUR.</p>
+              <label type="speaker">CHOEUR.</label>
           <p>Grand Prince, si le Ciel daigne exaucer nos voeux,</p>
           <p>Tu jouïras d'un sort encore plus heureux,</p>
           <p>Le bonheur te suivra dans la paix, dans la guerre ;</p>
@@ -392,14 +394,14 @@
           <p>Que jamais la cruelle Parque</p>
           <p>N'en puisse interrompre le cours.</p>
           <p/>
-          <p>BACCUS.</p>
+              <label type="speaker">BACCUS.</label>
           <p>Quoy, sans Bachus fait-on des Festes</p>
           <p>Et celebre-t-on de LOUIS</p>
           <p>Les hauts faits inouis ?</p>
           <p>Mars ny l'Amour sans moy ne font point de conquestes,</p>
           <p>Pour les Guerriers il faut du vin.</p>
           <p/>
-          <p>SILENE.</p>
+          <label type="speaker">SILENE.</label>
           <p>Beuvons sans fin</p>
           <p>De ce nectar divin.</p>
           <p>Que chacun s'enyvre,</p>
@@ -407,24 +409,25 @@
           <p>Ce Dieu de pampre couronné,</p>
           <p>Qui s'enyvra dés qu'il fut né.</p>
           <p/>
-          <p>BACCUS &amp; SILENE.</p>
+          <label typer="speaker">BACCUS &amp; SILENE.</label>
           <p>Beuvons, chantons, vuidons les pots,</p>
-          <p>Pour boire à la Santé plus de grand Heros.</p>
+          <p>Pour boire à la santé du plus grand des Heros.</p>
           <p/>
-          <p>CHOEUR.</p>
+           <label typer="speaker">CHOEUR.</label>
           <p>Prions les Immortels de nous donner la paix ;</p>
           <p>Que le bruit des Canons, des Mousquets, des Trompettes</p>
           <p>Fasse place aux Balets, aux Chansons, aux Musettes.</p>
           <p/>
-          <p>UN FRANÇOIS.</p>
+          <label type="speaker">UN FRANÇOIS.</label>
           <p>Ah, quand viendra ce temps avec tous ses attraits !</p>
           <p/>
-          <p>CHOEUR.</p>
+          <label speaker="speaker">CHOEUR.</label>
           <p>Il va rendre bien-tost nos desirs satisfaits.</p>
           <p>Le siecle d'or qu'on vit sous le regne d'Auguste,</p>
           <p>Va regner sous le Fils du Roy Louis le Juste ;</p>
           <p>Nos lauriers produiront les Mirthes de la paix,</p>
           <p>Pour ne secher jamais.</p>
+          </quote>
         </div>
         <div type="article" xml:id="MG-1691-04_057" resp="wordpro">
           <head>Le Hollandois dans la Barque de Caron. Dialogue</head>
