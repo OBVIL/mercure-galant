@@ -61,14 +61,14 @@
           <quote>
             <label>EPITRE<lb/>AU ROY.</label>
             <lg>
-              <l><hi rend="i">Quand tu braves la mort dans les plaines de Flandre,</hi></l>
+              <l rend="i">Quand tu braves la mort dans les plaines de Flandre,</l>
               <l rend="i">Et que chacun t’égale au fameux Alexandre,</l>
               <l rend="i">Je n’ay garde, Grand Roy, de vanter des exploits,</l>
               <l rend="i">Qui peuvent tant couter de larmes aux François.</l>
               <l rend="i">Dés l’enfance ébloüy de ta brillante gloire,</l>
               <l rend="i">Pour elle j’invoquay les Filles de Memoire ;</l>
               <l rend="i">Et si depuis deux ans j’erre sur l’Helicon,</l>
-              <l><hi rend="i">Ça n’est que pour apprendre à celebrer ton nom.</hi></l>
+              <l rend="i">Ça n’est que pour apprendre à celebrer ton nom.</l>
               <l rend="i">Mais tes derniers exploits, qui passent mon attente,</l>
               <l rend="i">Ont imposé silence à ma Muse tremblante.</l>
               <l rend="i">Quoy, de Mons, de Namur attaquant les remparts,</l>
@@ -93,16 +93,16 @@
               <l rend="i">Retracent des douleurs par le temps effacées ?</l>
               <l rend="i">Quand les Dieux irritez pour punir nos forfaits,</l>
               <l rend="i">Sembloient de nos Voisins exaucer les souhaits,</l>
-              <l rend="i">Et nous menaçant tous d’une pert-funeste,</l>
+              <l rend="i">Et nous menaçant tous d’une perte funeste,</l>
               <l rend="i">Vouloient te rappeller dans leur troupe celeste,</l>
               <l rend="i">Quels furent nos sanglots, nos plaintes, nostre deuil,</l>
-              <l><hi rend="i">Voyant l’honneur des Lis pancher vers le cercueil !</hi></l>
-              <l><hi rend="i">Et cependant alors l’inconsolable Franc.</hi></l>
+              <l rend="i">Voyant l’honneur des Lis pancher vers le cercueil !</l>
+              <l rend="i">Et cependant alors l’inconsolable France</l>
               <l rend="i">Pouvoit mettre en ton Fils sa seconde esperance,</l>
               <l rend="i">Prompt &amp; puissant secours dans un si grand malheur.</l>
               <l rend="i">Mais aujourd’huy, grand Roy, qu’un excés de valeur,</l>
               <l rend="i">Autour de ces remparts, où mille morts sont prêtes,</l>
-              <l rend="i">Expose également vos precieuses têtes.</l>
+              <l rend="i">Expose également vos precieuses têtes,</l>
               <l rend="i">Qui de nos justes pleurs arresteroit le cours,</l>
               <l rend="i">Si quelque coup fatal mettoit fin à vos jours ?</l>
               <l rend="i">Dans ce triste revers quelle assez forte digue</l>
@@ -126,11 +126,11 @@
               <l rend="i">Et toy, qui sceus jadis par tes divins appas</l>
               <l rend="i">Captiver ce grand Cœur avide de Combats,</l>
               <l rend="i">Si parmy les plaisirs de la voûte azurée,</l>
-              <l><hi rend="i">Therese, il te souvient de ta France éplorée,</hi></l>
+              <l rend="i">Therese, il te souvient de ta France éplorée,</l>
               <l rend="i">Si tu cheris encor l’honneur des Fleurs de Lis,</l>
               <l rend="i">Eloigne des dangers ton Epoux &amp; ton Fils.</l>
               <l rend="i">Un soir, quand la nuit sombre aura tendu ses voiles,</l>
-              <l rend="i">Descens-seule &amp; sans bruit du sejour des Etoiles ;</l>
+              <l rend="i">Descens seule &amp; sans bruit du sejour des Etoiles ;</l>
               <l rend="i">Parois à ce Monarque avec cette beauté</l>
               <l rend="i">Qui triompha jadis de son cœur indompté,</l>
               <l rend="i">Lors que pour nostre gloire au pied des Pirenées</l>
@@ -165,7 +165,7 @@
               <l rend="i">Que jamais de son cœur mon Sexe se défasse ;</l>
               <l rend="i">Et d’ailleurs, dans le train où vous a mis la Grace,</l>
               <l rend="i"> Train, qui chez vous n’est point un jeu,</l>
-              <l> <hi rend="i">Le present d’un cœur embarasse.</hi></l>
+              <l rend="i">Le present d’un cœur embarasse.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -200,9 +200,9 @@
               <l rend="i">Tâchons par des souhaits à nous tirer d’affaire.</l>
               <l rend="i"> Je sçay que c’est ne donner guere,</l>
               <l rend="i">Mais ceux que la Nature a formez comme nous,</l>
-              <l><hi rend="i">D’un limon moins grossier que le limon vulgaire,</hi></l>
+              <l rend="i">D’un limon moins grossier que le limon vulgaire,</l>
               <l rend="i"> Trouvent des charmes aussi doux</l>
-              <l> <hi rend="i">Dans les souhaits d’un cœur sincere,</hi></l>
+              <l rend="i">Dans les souhaits d’un cœur sincere,</l>
               <l rend="i"> Que dans les plus riches Bijoux.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -241,62 +241,65 @@
         <div type="article" xml:id="MG-1692-09_119" resp="mercure">
           <head>[Réjouissances faites à Dijon]</head>
           <bibl><title>Mercure galant</title>, septembre 1692 [tome 9], p. 119-133.</bibl>
-          <p>.</p>
-          <p/>
           <p>Vous sçavez, Madame, que le 18. de l'autre mois, Madame la Duchesse accoucha d'un Prince, qu'on appelle Duc d'Anguien. La joye en a esté grande à Dijon, &amp; la Relation que je vous envoye vous l'apprendra. Je la laisse dans les mesme termes que je l'ay receuë,</p>
-          <p>Parmy toutes les réjoüissances qu'on a fait paroistre dans Dijon, pour l'heureuse naissance de Monsieur le Duc d'Anguein, celles qui se sont faites au Chasteau n'ont cedé en rien à celles de la Ville. Mr Durand de Fontenay, Major de cette Place, Gentilhomme de merite connu pas ses services dans les Troupes, &amp; qui ayant esté choisi de S. A. S. Monsieur le Prince pour un de ses Aides de Camp au Siege de Namur, s'est acquitté de cet employ avec beaucoup d'honneur, voulant donner des marques publiques de sa reconnoissance pour les bontez de ce grand Prince, eut à peine appris l'accouchement de Madame la Duchesse, qu'il donna les ordres pour faire lendemain une Feste dans le Chasteau, qui fut d'autant plus agreable qu'elle fut prompte, &amp; exécutée avec autant d'ordre &amp; de diversité, que si l'on eust employé beaucoup de temps à la préparer.</p>
+          <p>Parmy toutes les réjoüissances qu'on a fait paroistre dans Dijon, pour l'heureuse naissance de Monsieur le Duc d'Anguien, celles qui se sont faites au Chasteau n'ont cedé en rien à celles de la Ville. M<hi rend="sup">r</hi> Durand de Fontenay, Major de cette Place, Gentilhomme de merite connu par ses services dans les Troupes, &amp; qui ayant esté choisi de S. A. S. Monsieur le Prince pour un de ses Aides de Camp au Siege de Namur, s'est acquitté de cet employ avec beaucoup d'honneur, voulant donner des marques publiques de sa reconnoissance pour les bontez de ce grand Prince, eut à peine appris l'accouchement de Madame la Duchesse, qu'il donna les ordres pour faire le lendemain une Feste dans le Chasteau, qui fut d'autant plus agreable qu'elle fut prompte, &amp; exécutée avec autant d'ordre &amp; de diversité, que si l'on eust employé beaucoup de temps à la préparer.</p>
           <p>Il fit orner la grande Salle de l'appartement du Gouverneur, de tapisseries fort magnifiques, avec quantité de Lustres pour la rendre plus éclairée. On exposa sous un Dais le Portrait de Son Altesse Serenissime Monsieur le Prince, &amp; celuy de Monsieur le Duc, au bas duquel étoient ces Vers.</p>
-          <p>Plein d'esprit &amp; d'ardeur, né pour vaincre &amp; pour plaire ;</p>
-          <p>Charmant par mes vertus, estimé de mon Roy ;</p>
-          <p>C'est par là qu'on me voit digne Fils de mon Pere,</p>
-          <p>Et qu'un jour on verra mon Fils digne de moy.</p>
-          <p>Au dessous de ces Portraits on mit deux riches fauteüils, élevez sur deux marches couvertes de tapis, pour marquer la place de ces deux Princes. Le soir sur les huit à neuf heures, toutes les personnes de consideration de la Ville, de l'un &amp; de l'autre Sexe, qui avoient esté invitées, s'assemblerent dans cette Salle avec la parure la plus propre à augmenter la beauté des Dames ; de sorte qu'il sembloit que le Dieu d'Amour pour lors ne commandoit pas moins dans cette Place, que celuy de la Guerre. Madame de Fontenay, qui a beaucoup d'agrémens dans sa personne &amp; dans ses manieres, eut le soin de faire placer les Dames, tandis que Mr de Fontenay prenoit celuy de recevoir les hommes les plus qualifiez qui s'y rendirent. Lors que chacun fut placé, sans que le grand nombre causast de confusion, les Vers &amp; les Instrumens commencerent l'Opera du Triomphe de l'Amour, que l'on avoit choisi pour estre le plus convenable au sujet de cette réjoüissance. Cet Opera fut précedé d'un Prologue qui répondoit à la gloire que Monsieur le Duc vient nouvellement d'acquerir au Combat donné en Flandre &amp; à la joye qu'il a de se voir Pere d'un Fils souhaité avec tant d'empressement. Les Vers &amp; le Chant furent faits le même jour, de cette maniere.</p>
-          <p/>
-          <p>PROLOGUE.</p>
-          <p>PREMIER RECIT</p>
-          <p>Chers Habitans de la Cité des Dieux,</p>
-          <p>Préparez une Feste, &amp; marquez vostre zele,</p>
-          <p>Pour un Prince brillant d'une gloire nouvelle,</p>
-          <p>Et qui doit faire un jour le bonheur de ces lieux.</p>
-          <p/>
-          <p>SECOND RECIT.</p>
-          <p>Marchant sur les pas glorieux</p>
-          <p>De son Pere &amp; de ses Ayeux,</p>
-          <p>Du plus grand Roy du monde il a rempli l'attente,</p>
-          <p>Par les faits surprenans qu'a produit son grand coeur,</p>
-          <p>Dans cette Bataille sanglante</p>
-          <p>Dont il revient vainqueur.</p>
-          <p/>
-          <p>TROISIEME RECIT.</p>
-          <p>Aprés une illustre victoire,</p>
-          <p>Ce Heros de retour,</p>
-          <p>Goûte les premiers fruits de sa nouvelle gloire,</p>
-          <p>Et ceux de son amour.</p>
-          <p>Une Princesse aimable &amp; belle,</p>
-          <p>Qui charme seule &amp; son coeur &amp; ses yeux ;</p>
-          <p>Luy donne dans un Fils, digne present des Cieux,</p>
-          <p>Un gage précieux</p>
-          <p>De son amour tendre &amp; fidelle.</p>
-          <p>Chers Habitans de la Cité des Dieux,</p>
-          <p>Préparez tous une Feste nouvelle.</p>
-          <p/>
-          <p>CHOEUR.</p>
-          <p>Chers Habitans de la Cité des Dieux,</p>
-          <p>Que chacun de vous en ces lieux</p>
-          <p>A la joye, un plaisir aujourd'huy s'abandonne.</p>
-          <p>Unissons nos coeurs &amp; nos voix,</p>
-          <p>Pour ce jeune Heros, fameux par ses exploits,</p>
-          <p>Et chantons mille &amp; mille fois</p>
-          <p>Le gage précieux que son amour luy donne.</p>
-          <p/>
-          <p>Ce Prologue fini, on commença incontinent l'Opera du Triomphe de l'Amour. Ce Dieu en effet ne triomphe-t-il pas en ce rencontre, &amp; ne merite-t-il pas beaucoup de gloire d'avoir donné un successeur à un des plus grands Princes de la premiere Cour du monde ? Cet Opera fut executé avec beaucoup de justesse, &amp; la Symphonie en fut admirable. Les Dames allérent ensuite respirer la fraischeur de l?air dans la place d?Armes, où le bruit des Canons succedant à l'harmonie des voix &amp; des instrumens, redoubla la joie que l'on ressentoit. Aprés plusieurs décharges coup sur coup réïterées, on fut agréablement surpris de voir le sommet des tours couronné de lanternes, à travers lesquelles on découvroit des noeuds d'amour, &amp; des Chiffes qui marquoient les noms de leurs Altesses Serenissimes ; mais le plaisir de la surprise augmenta merveilleusement, lors qu'on apperçut sur les mesmes tours, des feux d'artifices qui les bordoient, &amp; que l'on en vit partir une infinité de lances à feu, &amp; de fusées volantes entremêles de grenades, qui de toutes parts s'élevant dans l'air, répandirent par tout l'éclat &amp; la lumiere, avec une diversité de figures, &amp; un nombre infini d'étoiles brillantes, qui paroissant dans l'eau du fossé, sembloient faire l'alliance de deux élemens ennemis, &amp; on eût dit que du fond des eaux &amp; du haut des airs, il sortoit de differens feux qui faisoient un nouveau jour au milieu de la nuit la plus sombre. Tout le peuple de la Ville estoit accouru au bruit de cette Feste, &amp; bordoit les fossez du Chateau en foule, avec tant de cris &amp; d'acclamations que le son confus des voix se mêlant au bruit de l'artifice, ce mélange donnoit autant de plaisir dans sa confusion que la Musique en avoit donné par son harmonie. Le Feu d'artifice estant fini, &amp; la grande foule du peuple écoulée, les Dames demeurerent au Chasteau, &amp; elles eurent envie d'aller sur le sommet d'une des Tours, où elles trouverent un nouveau plaisir. Mr de Fontenay y avoit fait trouver les violons qui joüerent les Pieces les plus belles &amp; les plus sçavantes des Maîtres les plus habiles. Cela dura jusques à une heure aprés minuit, que chacun se retira content du plaisir qu'il avoit eu dans cette Feste, si bien ordonnée, &amp; executée avec tant de propreté &amp; d'agrément ; mais</p>
-          <p>En vain l'amour avec ses charmes,</p>
-          <p>Et le Dieu Mars avec ses armes,</p>
-          <p>Se joignent en un mesme temps</p>
-          <p>Pour rendre une Feste assortie ;</p>
-          <p>Tous leurs plaisirs sont languissans</p>
-          <p>Si Bacchus n'est de la partie.</p>
-          <p>En effet, tandis que le concert &amp; les feux d'artifices occupoient ceux qui estoient invitez, &amp; qui avoient accouru à cette Feste, les vin animoit les uns &amp; les autres, &amp; fournissoit à la Garnison de quoy prendre part au plaisir. Mr de Fontenay fit largesse du meilleur de sa cave aux Soldats qui saluérent la santé du Roy &amp; de leurs Altesses Serenissimes, &amp; répondirent assez bien de leur part, à tout ce qu'on fit d'ailleurs pour remplir cette Feste, à laquelle succedérent le repos &amp; le sommeil.</p>
+          <quote>
+            <lg>
+          <l rend="i">Plein d'esprit &amp; d'ardeur, né pour vaincre &amp; pour plaire ;</l>
+          <l rend="i">Charmant par mes vertus, estimé de mon Roy ;</l>
+          <l rend="i">C'est par là qu'on me voit digne Fils de mon Pere,</l>
+          <l rend="i">Et qu'un jour on verra mon Fils digne de moy.</l>
+            </lg>
+          </quote>
+          <p>Au dessous de ces Portraits on mit deux riches fauteüils, élevez sur deux marches couvertes de tapis, pour marquer la place de ces deux Princes. Le soir sur les huit à neuf heures, toutes les personnes de consideration de la Ville, de l'un &amp; de l'autre Sexe, qui avoient esté invitées, s'assemblerent dans cette Salle avec la parure la plus propre à augmenter la beauté des Dames ; de sorte qu'il sembloit que le Dieu d'Amour pour lors ne commandoit pas moins dans cette Place, que celuy de la Guerre. Madame de Fontenay, qui a beaucoup d'agrémens dans sa personne &amp; dans ses manieres, eut le soin de faire placer les Dames, tandis que M<hi rend="sup">r</hi> de Fontenay prenoit celuy de recevoir les hommes les plus qualifiez qui s'y rendirent. Lors que chacun fut placé, sans que le grand nombre causast de confusion, les Vers &amp; les Instrumens commencerent l'Opera du Triomphe de l'Amour, que l'on avoit choisi pour estre le plus convenable au sujet de cette réjoüissance. Cet Opera fut précedé d'un Prologue qui répondoit à la gloire que Monsieur le Duc vient nouvellement d'acquerir au Combat donné en Flandre &amp; à la joye qu'il a de se voir Pere d'un Fils souhaité avec tant d'empressement. Les Vers &amp; le Chant furent faits le même jour, de cette maniere.</p>
+          <quote>
+            <lg>
+          <label>PROLOGUE.</label>
+          <label type="head"><hi rend="i">PREMIER RECIT.</hi></label>
+          <l rend="i"> Chers Habitans de la Cité des Dieux,</l>
+          <l rend="i">Préparez une Feste, &amp; marquez vostre zele,</l>
+          <l rend="i">Pour un Prince brillant d'une gloire nouvelle,</l>
+          <l rend="i">Et qui doit faire un jour le bonheur de ces lieux.</l>
+          <label type="head"><hi rend="i">SECOND RECIT.</hi></label>
+          <l rend="i"> Marchant sur les pas glorieux</l>
+          <l rend="i"> De son Pere &amp; de ses Ayeux,</l>
+          <l rend="i">Du plus grand Roy du monde il a rempli l'attente,</l>
+          <l rend="i">Par les faits surprenans qu'a produit son grand coeur,</l>
+          <l rend="i"> Dans cette Bataille sanglante</l>
+          <l rend="i"> Dont il revient vainqueur.</l>
+          <label type="head"><hi rend="i">TROISIEME RECIT.</hi></label>
+          <l rend="i"> Aprés une illustre victoire,</l>
+          <l rend="i"> Ce Heros de retour,</l>
+          <l rend="i">Goûte les premiers fruits de sa nouvelle gloire,</l>
+          <l rend="i"> Et ceux de son amour.</l>
+          <l rend="i"> Une Princesse aimable &amp; belle,</l>
+          <l rend="i"> Qui charme seule &amp; son coeur &amp; ses yeux ;</l>
+          <l rend="i">Luy donne dans un Fils, digne present des Cieux,</l>
+          <l rend="i"> Un gage précieux</l>
+          <l rend="i"> De son amour tendre &amp; fidelle.</l>
+          <l rend="i"> Chers Habitans de la Cité des Dieux,</l>
+          <l rend="i"> Préparez tous une Feste nouvelle.</l>
+          <label type="head"><hi rend="i">CHOEUR.</hi></label>
+          <l rend="i"> Chers Habitans de la Cité des Dieux,</l>
+          <l rend="i"> Que chacun de vous en ces lieux</l>
+          <l rend="i">A la joye, an plaisir aujourd'huy s'abandonne.</l>
+          <l rend="i"> Unissons nos coeurs &amp; nos voix,</l>
+          <l rend="i">Pour ce jeune Heros, fameux par ses exploits,</l>
+          <l rend="i"> Et chantons mille &amp; mille fois</l>
+          <l rend="i">Le gage précieux que son amour luy donne.</l>
+          </lg>
+          </quote>
+          <p>Ce Prologue fini, on commença incontinent l'Opera du Triomphe de l'Amour. Ce Dieu en effet ne triomphe-t-il pas en ce rencontre, &amp; ne merite-t-il pas beaucoup de gloire d'avoir donné un successeur à un des plus grands Princes de la premiere Cour du monde ? Cet Opera fut executé avec beaucoup de justesse, &amp; la Symphonie en fut admirable. Les Dames allérent ensuite respirer la fraischeur de l'air dans la place d'Armes, où le bruit des Canons succedant à l'harmonie des voix &amp; des instrumens, redoubla la joie que l'on ressentoit. Aprés plusieurs décharges coup sur coup réïterées, on fut agréablement surpris de voir le sommet des tours couronné de lanternes, à travers lesquelles on découvroit des noeuds d'amour, &amp; des Chiffes qui marquoient les noms de leurs Altesses Serenissimes ; mais le plaisir de la surprise augmenta merveilleusement, lors qu'on apperçut sur les mesmes tours, des feux d'artifices qui les bordoient, &amp; que l'on en vit partir une infinité de lances à feu, &amp; de fusées volantes entremêlées de grenades, qui de toutes parts s'élevant dans l'air, répandirent par tout l'éclat &amp; la lumiere, avec une diversité de figures, &amp; un nombre infini d'étoiles brillantes, qui paroissant dans l'eau du fossé, sembloient faire l'alliance de deux élemens ennemis, &amp; on eût dit que du fond des eaux &amp; du haut des airs, il sortoit de differens feux qui faisoient un nouveau jour au milieu de la nuit la plus sombre. Tout le peuple de la Ville estoit accouru au bruit de cette Feste, &amp; bordoit les fossez du Chateau en foule, avec tant de cris &amp; d'acclamations que le son confus des voix se mêlant au bruit de l'artifice, ce mélange donnoit autant de plaisir dans sa confusion que la Musique en avoit donné par son harmonie. Le Feu d'artifice estant fini, &amp; la grande foule du peuple écoulée, les Dames demeurerent au Chasteau, &amp; elles eurent envie d'aller sur le sommet d'une des Tours, où elles trouverent un nouveau plaisir. M<hi rend="sup">r</hi> de Fontenay y avoit fait trouver les violons qui joüerent les Pieces les plus belles &amp; les plus sçavantes des Maîtres les plus habiles. Cela dura jusques à une heure aprés minuit, que chacun se retira content du plaisir qu'il avoit eu dans cette Feste, si bien ordonnée, &amp; executée avec tant de propreté &amp; d'agrément ; mais</p>
+          <quote>
+          <l>En vain l'amour avec ses charmes,</l>
+          <l>Et le Dieu Mars avec ses armes,</l>
+          <l>Se joignent en un mesme temps</l>
+          <l>Pour rendre une Feste assortie ;</l>
+          <l>Tous leurs plaisirs sont languissans</l>
+          <l>Si Bacchus n'est de la partie.</l>
+          </quote>
+          <p>En effet, tandis que le concert &amp; les feux d'artifices occupoient ceux qui estoient invitez, &amp; qui avoient accouru à cette Feste, les vin animoit les uns &amp; les autres, &amp; fournissoit à la Garnison de quoy prendre part au plaisir. M<hi rend="sup">r</hi> de Fontenay fit largesse du meilleur de sa cave aux Soldats qui saluérent la santé du Roy &amp; de leurs Altesses Serenissimes, &amp; répondirent assez bien de leur part, à tout ce qu'on fit d'ailleurs pour remplir cette Feste, à laquelle succedérent le repos &amp; le sommeil.</p>
         </div>
         <div type="article" xml:id="MG-1692-09_145" resp="wordpro">
           <head>[Diogène et Mausole, Dialogue]</head>
@@ -305,12 +308,10 @@
           <quote>
             <label>DIOGENE, MAUSOLE.</label>
             <lg>
-              <label><hi rend="i">DIOGENE.</hi></label>
+              <label type="speaker"><hi rend="i">DIOGENE.</hi></label>
               <l rend="i">Mausole, d’où te vient l’orgueil qui te possede ?</l>
               <l rend="i">Tu veux que parmy nous tout le monde te cede.</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">MAUSOLE.</hi></label>
+              <label type="speaker"><hi rend="i">MAUSOLE.</hi></label>
               <l rend="i">De la Carie entiere on sçait que j’estois Roy,</l>
               <l rend="i">C’est de moy qu’en Lydie on recevoit la Loy ;</l>
               <l rend="i">Plus d’une Isle se vit par mon bras asservie,</l>
@@ -323,19 +324,13 @@
               <l rend="i">Ny les Palais des Rois, ny les Temples des Dieux,</l>
               <l rend="i">Et sous une si riche &amp; noble architecture,</l>
               <l rend="i">Un peu d’orgueil sied bien jusqu’en la sepulture.</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">DIOGENE.</hi></label>
+              <label type="speaker"><hi rend="i">DIOGENE.</hi></label>
               <l rend="i">Voicy donc tes raisons, ta valeur, ta beauté,</l>
               <l rend="i">Ton Empire, &amp; sur tout ton Tombeau si vanté ?</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">MAUSOLE.</hi></label>
-              <l rend="i">Ouy, voila mes raisons.</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">DIOGENE.</hi></label>
-              <l rend="i"> O mon pauvre Mausole,</l>
+              <label type="speaker"><hi rend="i">MAUSOLE.</hi></label>
+              <l rend="i" part="I"> Ouy, voila mes raisons.</l>
+              <label type="speaker"><hi rend="i">DIOGENE.</hi></label>
+              <l rend="i" part="F">O mon pauvre Mausole,</l>
               <l rend="i">Peux-tu dans ce lieu sombre avoir l’ame si folle ?</l>
               <l rend="i">Il ne te reste plus de forces, ny d’attraits.</l>
               <l rend="i">Qu’un Juge, si tu veux, examine nos traits,</l>
@@ -345,18 +340,14 @@
               <l rend="i">Mais quoy, ton Mausolée étonne les passans !</l>
               <l rend="i">Que l’Univers l’admire avec Halicarnasse,</l>
               <l rend="i">Ce n’est pour t’opprimer qu’une pesante masse.</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">MAUSOLE.</hi></label>
+              <label type="speaker"><hi rend="i">MAUSOLE.</hi></label>
               <l rend="i">Tout cela n’est donc rien, &amp; nous sommes égaux ?</l>
-            </lg>
-            <lg>
-              <label><hi rend="i">DIOGENE.</hi></label>
+              <label type="speaker"><hi rend="i">DIOGENE.</hi></label>
               <l rend="i">Ne le croy pas ; pour toy, je prevois mille maux</l>
               <l rend="i">Du souvenir cruel de tes frêles delices,</l>
               <l rend="i">Tandis que je riray de tes justes supplices.</l>
               <l rend="i">Artemise qui fut ton Epouse &amp; ta Sœur,</l>
-              <l><hi rend="i">D’un superbe Tombeau t’a rendu possesseur ;</hi></l>
+              <l rend="i">D’un superbe Tombeau t’a rendu possesseur ;</l>
               <l rend="i">Et moy, qui sceus d’un Muid jadis me faire un Louvre,</l>
               <l rend="i">Je ne m’informe point si la terre me couvre.</l>
               <l rend="i">Pour dire plus enfin ; ton Tombeau doit perir,</l>
@@ -373,7 +364,7 @@
               <l rend="i"> A l’oreille il vient nous apprendre</l>
               <l rend="i"> Ce que prône le bruit commun ;</l>
               <l rend="i"> Mesme il vient vous dire à l’oreille</l>
-              <l rend="i">Que du vaste Univers LOVIS est la merveille.</l>
+              <l rend="i">Que du vaste Univers LOUIS est la merveille.</l>
             </lg>
           </quote>
         </div>
@@ -384,7 +375,7 @@
           <quote>
             <label>LA BEAUCE.<lb/><hi rend="i">ELEGIE.</hi></label>
             <lg>
-              <l><hi rend="i">D’un funeste cyprés tristement couronnée,</hi></l>
+              <l rend="i">D’un funeste cyprés tristement couronnée,</l>
               <l rend="i">A mes ennuis mortels en proye abandonnée,</l>
               <l rend="i">Je pleurois mon Pasteur que la Parque en couroux,</l>
               <l rend="i">Enlevoit aux dépens de mes vœux les plus doux.</l>
@@ -406,7 +397,7 @@
               <l rend="i">Il estoit digne, helas ! de ne jamais mourir.</l>
               <l rend="i">De la juste douleur dont je suis possedée,</l>
               <l rend="i">Quel Successeur pourra détourner mon idée ?</l>
-              <l rend="i">Mais LOVIS devenu sensible à mes malheurs,</l>
+              <l rend="i">Mais LOUIS devenu sensible à mes malheurs,</l>
               <l rend="i">A calmé mes ennuis, a desseché mes pleurs ;</l>
               <l rend="i">Il arrache au repos d’une sainte retraite</l>
               <l rend="i">Un digne Successeur, dont la vertu parfaite</l>
@@ -415,10 +406,10 @@
               <l rend="i">Animé du beau feu d’une foy pure &amp; vive,</l>
               <l rend="i">Joüissoit des douceurs de la vie unitive.</l>
               <l rend="i">Mais inutilement il se vouloit cacher,</l>
-              <l rend="i">LOVIS l’a découvert, il l’est allé chercher,</l>
+              <l rend="i">LOUIS l’a découvert, il l’est allé chercher,</l>
               <l rend="i">Et par un juste choix à nos souhaits propice,</l>
               <l rend="i">Luy fait voir qu’au merite il sçait rendre justice.</l>
-              <l><hi rend="i">Quoy que l’illustre sang de ses nobles Ayeux</hi></l>
+              <l rend="i">Quoy que l’illustre sang de ses nobles Ayeux</l>
               <l rend="i">Le pust faire monter à ce rang glorieux,</l>
               <l rend="i">Sur tous ses Concurrens il a la préference,</l>
               <l rend="i">C’est la seule vertu que Loüis récompense.</l>
@@ -461,7 +452,7 @@
               <l rend="i">Heureuse de joüir d’un bien si precieux</l>
               <l rend="i">Mon cœur n’aspire plus qu’à le voir en ces lieux.</l>
               <l rend="i">Momens, qui prolongez trop long-temps son absence,</l>
-              <l><hi rend="i">Que vous paroissez longs à mon impatience !</hi></l>
+              <l rend="i">Que vous paroissez longs à mon impatience !</l>
               <l rend="i">Déja mes Habitans courent de tous costez</l>
               <l rend="i">Et témoignent l’ardeur dont ils sont transportez.</l>
               <l rend="i">Ciel, de nostre destin ne troublez pas les charmes.</l>
@@ -478,7 +469,7 @@
           <quote>
             <label>SUR LA MORT<lb/>De M<hi rend="sup">r</hi> Brulart, Premier President<lb/>de Dijon.<lb/><hi rend="i">IDILLE.</hi></label>
             <lg>
-              <l><hi rend="i">Quel son triste &amp; fatal vient de fraper les airs ?</hi></l>
+              <l rend="i">Quel son triste &amp; fatal vient de fraper les airs ?</l>
               <l rend="i">Helas ! est-ce vous que je perds ?</l>
               <l rend="i"> Brulart, la Parque inexorable</l>
               <l rend="i">Vient-elle de trancher des jours si précieux,</l>
@@ -507,7 +498,7 @@
               <l rend="i"> D’une machine chancelante,</l>
               <l rend="i"> Les Arrests du Ciel sont trop forts.</l>
               <l rend="i">Par de profonds soupirs qu’un zele ardent enflâme,</l>
-              <l><hi rend="i">Les vœux qu’elle faisoit pour le salut du corps,</hi></l>
+              <l rend="i">Les vœux qu’elle faisoit pour le salut du corps,</l>
               <l rend="i"> Sont donnez au salut de l’ame.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -536,11 +527,11 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Leurs soins toujours actifs l’arrachent au trépas,</hi></l>
+              <l rend="i">Leurs soins toujours actifs l’arrachent au trépas,</l>
               <l rend="i">Mais sa vive douleur ne se modere pas ;</l>
               <l rend="i">Elle semble au contraire estre plus violente.</l>
               <l rend="i">Quels pleurs &amp; quels sanglots ! quelle plainte touchante !</l>
-              <l rend="i">Mais eu vain ses soupirs voudroient vous rappeller,</l>
+              <l rend="i">Mais en vain ses soupirs voudroient vous rappeller,</l>
               <l rend="i">En d’éternels ennuis elle se voit plongée.</l>
               <l rend="i"> O Ciel, qui l’avez affligée,</l>
               <l rend="i"> Vous pouvez seul la consoler.</l>
@@ -551,7 +542,7 @@
               <l rend="i"> Enfans d’un si pur sang produits,</l>
               <l rend="i">Meditez vostre Pere &amp; les jours &amp; les nuits,</l>
               <l rend="i"> C’est pour vous un parfait modelle,</l>
-              <l><hi rend="i">Tous vos pas seront seurs par ce Guide conduits.</hi></l>
+              <l rend="i">Tous vos pas seront seurs par ce Guide conduits.</l>
               <l rend="i"> Il vous dira que la noblesse,</l>
               <l rend="i">Que ce que la fortune a de pompeux dehors,</l>
               <l rend="i"> Que les grandeurs, que la richesse</l>
@@ -591,7 +582,7 @@
               <l rend="i"> Mais de quelque vaste esperance</l>
               <l rend="i">Qu’il ait pû nous combler dans son aimable enfance</l>
               <l rend="i">Il la surpasse bien encor.</l>
-              <l rend="i">Toûjours a la vertu propice,</l>
+              <l rend="i">Toûjours à la vertu propice,</l>
               <l rend="i">Par sa bonté, par sa justice,</l>
               <l rend="i">Il ramene le Siecle d’or.</l>
             </lg>
@@ -603,7 +594,7 @@
               <l rend="i"> Prétendoient luy servir d’obstacles ;</l>
               <l rend="i">Il donne à l’Univers les merveilleux spectacles</l>
               <l rend="i"> De mille augustes actions.</l>
-              <l rend="i">En vain l’Vsurpateur qui fit naistre la Ligue,</l>
+              <l rend="i">En vain l’Usurpateur qui fit naistre la Ligue,</l>
               <l rend="i">Oppose à ce Vainqueur &amp; la force &amp; la brigue.</l>
               <l rend="i"> Nostre grand Roy seul contre tous,</l>
               <l rend="i">Accable ce Tyran par d’intrepides coups.</l>
@@ -639,7 +630,7 @@
         <div type="article" xml:id="MG-1692-09_238" resp="wordpro">
           <head>[Histoire]</head>
           <bibl><title>Mercure Galant</title>, septembre 1692 [tome 9], p. 238-263.</bibl>
-          <p>Les belles personnes ne sont pas toûjours les plus aimables, &amp; ce que je vais vous dire vous convaincra qu’il est quelquefois dangereux pour elles de se prévaloir trop de cet avantage. Un Cavalier assez délicat dans ses sentimens, &amp; fort estimé par son esprit &amp; par sa naissance, s’estant un jour rencontré à l’Opera auprés d’une jeune blonde dont les yeux estoient fort vifs, fut comme éblouy tout à coup de sa beauté. Il la regarda attentivement, &amp; les évenemens de la Piece qu’on representoit luy donnant sujet de l’entretenir, il s’y attacha d’une maniere qui fit connoistre à la Belle les impressions qu’elle faisoit sur son cœur. C’estoit un de ces visages que l’on peut dire avoir esté faits au tour. Elle avoit le teint uny, &amp; d’un éclat à surprendre, &amp; le brillant répondoit à la regularité des traits. Il ne se passa rien dans tout l’Opera qui ne leur fournist quelque matiere de dire des choses agreables, &amp; jamais temps ne coula si viste. La Belle se fit un plaisir de paroistre aimable au Cavalier, &amp; le Cavalier ceda malgré luy au charme qui l’entraisnoit. Avant que de la quitter il sceut qu’elle demeuroit avec une Tante, qui prenant soin de la divertir l’avoit amenée à l’Opera, Il les conduisit à leur Carrosse, &amp; ayant obtenu permission de les voir chez elles, il y alla dés le lendemain. La Belle de son costé, qui le vit parler à quelques personnes qu’elle connoissoit, fut informée de son nom, &amp; le receut comme un homme qui ne pouvoit que luy faire honneur par ses visites. Elle eut pour luy des airs d’agrément, &amp; de complaisance, qui le rendirent en fort peu de temps le plus amoureux de tous les hommes. La Belle n’avoit qu’à se ménager pour assujettir entierement le Cavalier à ses volontez. Le party estoit tres-avantageux pour elle, &amp; elle avoit une Amie qui luy donnoit là-dessus de fort bons conseils. C’estoit une Fille d’un fort grand merite, &amp; qui par la bonté de son cœur, &amp; par la droiture de ses sentimens l’emportoit sur la pluspart des personnes de son Sexe ; mais elle avoit un defaut qui s’opposoit à l’estime que l’on auroit euë pour ses belles qualitez, si on eust voulu les examiner. Elle estoit fort laide, &amp; cette laideur, causée en partie par la petite Verole qui l’avoit fort maltraitée, empêchoit qu’on n’eust envie de s’attacher à connoistre ce qu’elle valoit. Le Cavalier qui les rencontroit fort souvent ensemble, disoit à la Belle en plaisantant, aprés qu’elle estoit partie, qu’elle avoit grand tort de se défier de sa beauté ; que les avantages qu’elle avoit receus de la Nature estoient assez grands pour n’avoir pas besoin d’estre relevez par une opposition si desagreable, &amp; qu’en leur donnant un semblable relief, elle oublioit qu’elle ne laissoit goûter qu’à demy l’extrême plaisir qu’il y avoit à la voir. La Belle luy répondoit sur le mesme ton, que quand on avoit quelque agrément capable de plaire, on estoit contraint de se retrancher sur quelque laide personne, si on vouloit avoir une Amie, parce que la jalousie estoit si commune entre toutes celles qui se piquoient de beauté, qu’elles alloient quelquefois jusqu’à la haine, ce qui les portoit le plus souvent à se déchirer les unes les autres. Cependant le Cavalier n’avoit jamais à souffrir long-temps de la veuë de son Amie. Comme il se contentoit de la saluër en arrivant, elle se retiroit presque aussitost de la même sorte, sans se vouloir mettre de leur conversation, &amp; il se faisoit un petit triomphe de ce qu’il voyoit que sa presence l’obligeoit à fuir. Si le plaisir qu’il sentoit à estre auprés de la Belle n’estoit point troublé de ce costé-là, il eut d’autres peines qui luy furent plus sensibles. Elle ne se fut pas plûtost apperceuë de l’entier pouvoir qu’elle avoit sur luy, que cessant de se contraindre, &amp; negligeant les avis de son Amie, elle n’eut plus aucun soin de déguiser les defauts qui luy estoient naturels. C’estoit la personne du monde la plus inégale, &amp; qui s’abandonnoit le plus au caprice. Le Cavalier estoit quelquefois surpris de la trouver dans une froideur pour luy qui approchoit de l’indifference ; &amp; quand il luy demandoit en quoy il pouvoit luy avoit déplu, elle luy répondoit d’un ton aigre, qu’elle ne comprenoit pas pourquoy il vouloit se plaindre d’elle, puis qu’elle agissoit toujours de la mesme sorte, &amp; que si cela luy paroissoit autrement, il falloit qu’il eust quelque chose dans la teste qui le dérangeoit, &amp; dont elle n’avoir pas envie de se rendre responsable. Un procedé si bizarre ayant obligé le Cavalier à la vouloir mieux connoistre avant que d’aller plus loin sur les propositions de mariage qu’il avoir déja commencé à faire, il luy fut aisé de remarquer qu’il n’y avoit rien de reglé dans son esprit, &amp; que la beauté de son visage luy faisoit prendre un orgueil mal digeré qui luy laissoit croire que tour luy devoit estre permis. Pendant ce temps, un jeune étourdy luy rendit quelques devoirs, &amp; le plaisir qu’elle eut de s’entendre dire des douceurs par une nouvelle bouche, le fit recevoir assez agréablement. Le Cavalier se plaignit à elle des visites trop assiduës qu’elle luy souffroit, &amp; la Belle persuadée qu’il y alloit de ses avantages de l’accoutumer à la laisser maistresse de ses volontez, luy dit fierement que le commerce des honnestes gens n’avoit jamais esté défendu, &amp; qu’elle ne croyoit pas qu’il la voulust épouser pour l’assujettir à ne voir personne. Des réponses si contraires à ce qu’il pouvoit attendre d’elle, luy firent connoistre qu’il risquoit beaucoup s’il s’obstinoit dans sa passion. Il se fit un combat fort violent dans son ame, &amp; pour calmer l’agitation qu’il y sentit, il alla chez son Amie, &amp; luy expliqua tous ses chagrins, en luy avoüant que ses manieres luy donnoient un tel dégoust, qu’il ne sçavoit pas si tout l’amour qu’il avoit pour elle, seroit assez fort pour l’emporter sur ce que l’inégalité de son humeur luy faisoit craindre. Son Amie, sage &amp; judicieuse, luy representa toutes les raisons qui le devoient engager à ne pas rompre l’engagement où il se trouvoit. Elle luy fit voir qu’il estoit fort naturel à une jeune personne, flatée, &amp; par sa beauté, &amp; par les douceurs qu’on luy disoit, de n’estre pas toujours sur ses gardes pour observer s’il n’entroit point un peu de présomption dans les sentimens qu’elle avoit de son merite, qu’il falloit toujours luy pardonner quelque chose en faveur des avantages dont la nature avoit pris plaisir à la combler, mais qu’aprés tout elle répondoit du cœur de la Belle qu’elle sçavoit estre tout à luy, &amp; qu’il verroit le profit qu’elle tireroit de ses leçons, quand il seroit tout à fait en droit de luy en donner. Elle parla avec une éloquence admirable, &amp; en prenant le party de son Amie, elle affoiblit avec tant d’adresse les sujets qu’il croyoit avoir de n’en estre pas content, qu’aprés un entretien de deux heures, il sortit plus affermy que jamais dans le dessein de l’aimer toujours. Cependant elle crut ne pouvoit servir plus utilement la Belle qu’en luy rendant compte de ce qui s’estoit passé. Ce qu’elle luy dit fut accompagné de remontrances sur ce qu’elle hazardoit à manquer de complaisance pour le Cavalier, que trop de fierté pouvoit rebuter, &amp; de qui la jalousie estoit obligeante, puis que l’ombre d’un Rival alarmoit toujours quand on aimoit veritablement. La Belle luy répondit qu’elle prenoit des inquietudes inutiles ; que le Cavalier estoit trop bien pris pour pouvoir rompre ses chaînes ; qu’il estoit-bon de mettre les choses sur un certain pied, dont on pust tirer ses avantages, &amp; que trop de complaisance ne pouvoit servir qu’à gaster les hommes. Pleine de ces sentimens que sa vanité luy inspiroit, non seulement elle negligea de se corriger de ses defauts, mais ne diminuant rien de ses fantaisies bizarres, elle plaisanta le Cavalier sur le regale qu’il s’estoit donné par sa visite, en contemplant à loisir les laideurs de son Amie. La plaisanterie fut poussée si loin, qu’il ne put enfin s’empêcher de dire, que si son Amie n’estoit pas belle, elle réparoit avec beaucoup d’avantage par une humeur douce &amp; par un esprit solide, l’injustice que la nature luy avoit faite, &amp; que c’estoit peu de chose que les yeux ne fussent pas tout-à fait contens quand on estoit auprés d’elle, puis que l’agrément de sa conversation, &amp; la beauté de son ame avoient de quoy suppléer à ce qui manquoit à leur plaisir. Comme ces loüanges étoient autant de reproches pour la Belle, qui estoit bien éloignée de luy ressembler par l’humeur &amp; par l’esprit, elle s’en fit une offense qu’elle sentit vivement, de sorte que son Amie, à qui le Cavalier estoit allé faire de nouvelles plaintes, estant venuë l’avertir une autre fois du peril qu’elle couroit de le perdre par son obstination à le chagriner, elle la menaça fierement de rompre avec elle, si elle continuoit à recevoir ses visites. Le Cavalier, qui luy ayant reconnu un merite singulier, prenoit plaisir à l’entretenir, ne manqua pas de luy en rendre encore une peu de jours aprés, &amp; fut fort surpris de la priere qu’elle luy fit de ne la plus voir, parce que c’estoit la broüiller avec la Belle, à qui elle ne vouloit point donner sujet, s’ils avoient ensemble quelque differend, de l’accuser d’en estre la cause. Elle ajousta que quelque grand qu’il pust estre, l’amour prendroit soin de le terminer, &amp; qu’il n’y avoit aucune necessité qu’elle se meslast plus long temps de leurs affaires. Le Cavalier répondit que malgré les deffenses de la Belle, il la verroit comme il avoit commencé, &amp; que si les marques d’estime qu’il estoit ravy de luy donner, luy faisoient perdre une Amie, il luy offroit en luy un Amy parfait qui pourroit luy donner lieu de ne la pas regretter. Les instances qu’elle fit pour l’obliger à suspendre jusqu’aprés son mariage les témoignages d’amitié dont il la flatoit, furent inutiles. Il s’obstina à la voir, &amp; luy fit toûjours paroistre un grand dégoust pour la Belle, en faveur de qui elle ne cessa de luy parler. Cette intelligence qui ne pouvoit aller qu’à son avantage, la blessa mortellement &amp; non-seulement elle traita son Amie avec beaucoup de froideur, mais elle railla le Cavalier sur son bon goût, en luy disant qu’elle voyoit bien qu’il avoit pris de l’amour pour cette Amie, &amp; qu’elle ne pouvoit que luy applaudir d’avoir eu d’assez bons yeux pour faire un si digne choix. Toutes ces choses ne firent qu’aigrir le Cavalier, qui admirant tous les jours de plus en plus la droite raison de cette Fille, &amp; l’égalité qu’elle avoit en tout, en fut enfin tellement touché qu’il crut qu’ayant à prendre un engagement qui devoit durer toute sa vie, il ne pouvoit rien faire de mieux que de l’épouser. Insensiblement il s’estoit accoûtumé à sa laideur qui ne luy paroissoit plus avoir rien de dégoutant. Elle avoit la taille fine, la gorge belle, de belles mains, de beaux bras, &amp; ce qui estoit beaucoup plus considerable, il ne luy manquoit rien du costé de l’ame de ce qui pouvoit rendre un homme heureux. Ainsi il luy declara la pensée où il estoit &amp; elle en fut si surprise que l’imputant à un desir de vangeance mal examiné, &amp; qui seroit infailliblement suivy d’un prompt repentir, elle le pria de considerer la difference qu’il y avoit d’elle à la charmante personne qu’il vouloit quitter. Il l’asseura qu’il avoit fait de longues reflexions sur ce qu’il luy proposoit &amp; que c’estoit aprés un serieux examen, &amp; sans nul dessein de se vanger, qu’il en vouloit à son cœur. Il eut beau pourtant luy donner cette asseurance, elle demanda un mois pour luy répondre, &amp; voulut pendant ce temps qu’il s’éprouvast auprés de la Belle afin de voir si ses charmes ne le rappelleroient point. C’estoit beaucoup hazarder, &amp; une autre qu’elle eust pressé les choses au lieu de les reculer. Une conduite si sage redoublant l’estime du Cavalier, il ne cacha point ce qu’il avoit resolu de faire, &amp; la Belle écouta d’abord l’avis qu’on luy en donna comme une plaisanterie qui ne devoit point luy causer d’alarmes ; mais quand elle apprit avec certitude que le Mariage étoit arresté, le chagrin de voir qu’une aussi laide personne que son Amie eust esté capable de la supplanter, luy fit tout mettre en usage pour se garantir de cette espece d’affront. Elle offrit au Cavalier de bannir tous ceux qui luy déplairoient, &amp; d’étudier si bien tout ce qui pourroit luy faire plaisir, que les sentimens regleroient toûjours les siens, mais il fut inexorable. Il voyoit trop bien qu’elle ne vouloit que le dérober à son Amie, &amp; le solide l’emporta sur le brillant. Le Mariage se fit, &amp; trois jours auparavant, la Belle qui ne pouvoit soûtenir ce qu’on luy disoit de tous costez, alla s’enfermer dans un Convent. Quelques-uns veulent que son dessein soit de s’y consacrer à Dieu, mais elle est trop inégale pour prendre avec force une résolution de cette nature.</p>
+          <p>Les belles personnes ne sont pas toûjours les plus aimables, &amp; ce que je vais vous dire vous convaincra qu’il est quelquefois dangereux pour elles de se prévaloir trop de cet avantage. Un Cavalier assez délicat dans ses sentimens, &amp; fort estimé par son esprit &amp; par sa naissance, s’estant un jour rencontré à l’Opera auprés d’une jeune blonde dont les yeux estoient fort vifs, fut comme éblouy tout à coup de sa beauté. Il la regarda attentivement, &amp; les évenemens de la Piece qu’on representoit luy donnant sujet de l’entretenir, il s’y attacha d’une maniere qui fit connoistre à la Belle les impressions qu’elle faisoit sur son cœur. C’estoit un de ces visages que l’on peut dire avoir esté faits au tour. Elle avoit le teint uny, &amp; d’un éclat à surprendre, &amp; le brillant répondoit à la regularité des traits. Il ne se passa rien dans tout l’Opera qui ne leur fournist quelque matiere de dire des choses agreables, &amp; jamais temps ne coula si viste. La Belle se fit un plaisir de paroistre aimable au Cavalier, &amp; le Cavalier ceda malgré luy au charme qui l’entraisnoit. Avant que de la quitter il sceut qu’elle demeuroit avec une Tante, qui prenant soin de la divertir l’avoit amenée à l’Opera. Il les conduisit à leur Carrosse, &amp; ayant obtenu permission de les voir chez elles, il y alla dés le lendemain. La Belle de son costé, qui le vit parler à quelques personnes qu’elle connoissoit, fut informée de son nom, &amp; le receut comme un homme qui ne pouvoit que luy faire honneur par ses visites. Elle eut pour luy des airs d’agrément, &amp; de complaisance, qui le rendirent en fort peu de temps le plus amoureux de tous les hommes. La Belle n’avoit qu’à se ménager pour assujettir entierement le Cavalier à ses volontez. Le party estoit tres-avantageux pour elle, &amp; elle avoit une Amie qui luy donnoit là-dessus de fort bons conseils. C’estoit une Fille d’un fort grand merite, &amp; qui par la bonté de son cœur, &amp; par la droiture de ses sentimens l’emportoit sur la pluspart des personnes de son Sexe ; mais elle avoit un defaut qui s’opposoit à l’estime que l’on auroit euë pour ses belles qualitez, si on eust voulu les examiner. Elle estoit fort laide, &amp; cette laideur, causée en partie par la petite Verole qui l’avoit fort maltraitée, empêchoit qu’on n’eust envie de s’attacher à connoistre ce qu’elle valoit. Le Cavalier qui les rencontroit fort souvent ensemble, disoit à la Belle en plaisantant, aprés qu’elle estoit partie, qu’elle avoit grand tort de se défier de sa beauté ; que les avantages qu’elle avoit receus de la Nature estoient assez grands pour n’avoir pas besoin d’estre relevez par une opposition si desagreable, &amp; qu’en leur donnant un semblable relief, elle oublioit qu’elle ne laissoit goûter qu’à demy l’extrême plaisir qu’il y avoit à la voir. La Belle luy répondoit sur le mesme ton, que quand on avoit quelque agrément capable de plaire, on estoit contraint de se retrancher sur quelque laide personne, si on vouloit avoir une Amie, parce que la jalousie estoit si commune entre toutes celles qui se piquoient de beauté, qu’elles alloient quelquefois jusqu’à la haine, ce qui les portoit le plus souvent à se déchirer les unes les autres. Cependant le Cavalier n’avoit jamais à souffrir long-temps de la veuë de son Amie. Comme il se contentoit de la saluër en arrivant, elle se retiroit presque aussitost de la même sorte, sans se vouloir mettre de leur conversation, &amp; il se faisoit un petit triomphe de ce qu’il voyoit que sa presence l’obligeoit à fuir. Si le plaisir qu’il sentoit à estre auprés de la Belle n’estoit point troublé de ce costé-là, il eut d’autres peines qui luy furent plus sensibles. Elle ne se fut pas plûtost apperceuë de l’entier pouvoir qu’elle avoit sur luy, que cessant de se contraindre, &amp; negligeant les avis de son Amie, elle n’eut plus aucun soin de déguiser les defauts qui luy estoient naturels. C’estoit la personne du monde la plus inégale, &amp; qui s’abandonnoit le plus au caprice. Le Cavalier estoit quelquefois surpris de la trouver dans une froideur pour luy qui approchoit de l’indifference ; &amp; quand il luy demandoit en quoy il pouvoit luy avoit déplu, elle luy répondoit d’un ton aigre, qu’elle ne comprenoit pas pourquoy il vouloit se plaindre d’elle, puis qu’elle agissoit toujours de la mesme sorte, &amp; que si cela luy paroissoit autrement, il falloit qu’il eust quelque chose dans la teste qui le dérangeoit, &amp; dont elle n’avoir pas envie de se rendre responsable. Un procedé si bizarre ayant obligé le Cavalier à la vouloir mieux connoistre avant que d’aller plus loin sur les propositions de mariage qu’il avoir déja commencé à faire, il luy fut aisé de remarquer qu’il n’y avoit rien de reglé dans son esprit, &amp; que la beauté de son visage luy faisoit prendre un orgueil mal digeré qui luy laissoit croire que tout luy devoit estre permis. Pendant ce temps, un jeune étourdy luy rendit quelques devoirs, &amp; le plaisir qu’elle eut de s’entendre dire des douceurs par une nouvelle bouche, le fit recevoir assez agréablement. Le Cavalier se plaignit à elle des visites trop assiduës qu’elle luy souffroit, &amp; la Belle persuadée qu’il y alloit de ses avantages de l’accoutumer à la laisser maistresse de ses volontez, luy dit fierement que le commerce des honnestes gens n’avoit jamais esté défendu, &amp; qu’elle ne croyoit pas qu’il la voulust épouser pour l’assujettir à ne voir personne. Des réponses si contraires à ce qu’il pouvoit attendre d’elle, luy firent connoistre qu’il risquoit beaucoup s’il s’obstinoit dans sa passion. Il se fit un combat fort violent dans son ame, &amp; pour calmer l’agitation qu’il y sentit, il alla chez son Amie, &amp; luy expliqua tous ses chagrins, en luy avoüant que ses manieres luy donnoient un tel dégoust, qu’il ne sçavoit pas si tout l’amour qu’il avoit pour elle, seroit assez fort pour l’emporter sur ce que l’inégalité de son humeur luy faisoit craindre. Son Amie, sage &amp; judicieuse, luy representa toutes les raisons qui le devoient engager à ne pas rompre l’engagement où il se trouvoit. Elle luy fit voir qu’il estoit fort naturel à une jeune personne, flatée, &amp; par sa beauté, &amp; par les douceurs qu’on luy disoit, de n’estre pas toujours sur ses gardes pour observer s’il n’entroit point un peu de présomption dans les sentimens qu’elle avoit de son merite, qu’il falloit toujours luy pardonner quelque chose en faveur des avantages dont la nature avoit pris plaisir à la combler, mais qu’aprés tout elle répondoit du cœur de la Belle qu’elle sçavoit estre tout à luy, &amp; qu’il verroit le profit qu’elle tireroit de ses leçons, quand il seroit tout à fait en droit de luy en donner. Elle parla avec une éloquence admirable, &amp; en prenant le party de son Amie, elle affoiblit avec tant d’adresse les sujets qu’il croyoit avoir de n’en estre pas content, qu’aprés un entretien de deux heures, il sortit plus affermy que jamais dans le dessein de l’aimer toujours. Cependant elle crut ne pouvoit servir plus utilement la Belle qu’en luy rendant compte de ce qui s’estoit passé. Ce qu’elle luy dit fut accompagné de remontrances sur ce qu’elle hazardoit à manquer de complaisance pour le Cavalier, que trop de fierté pouvoit rebuter, &amp; de qui la jalousie estoit obligeante, puis que l’ombre d’un Rival alarmoit toujours quand on aimoit veritablement. La Belle luy répondit qu’elle prenoit des inquietudes inutiles ; que le Cavalier estoit trop bien pris pour pouvoir rompre ses chaînes ; qu’il estoit-bon de mettre les choses sur un certain pied, dont on pust tirer ses avantages, &amp; que trop de complaisance ne pouvoit servir qu’à gaster les hommes. Pleine de ces sentimens que sa vanité luy inspiroit, non seulement elle negligea de se corriger de ses defauts, mais ne diminuant rien de ses fantaisies bizarres, elle plaisanta le Cavalier sur le regale qu’il s’estoit donné par sa visite, en contemplant à loisir les laideurs de son Amie. La plaisanterie fut poussée si loin, qu’il ne put enfin s’empêcher de dire, que si son Amie n’estoit pas belle, elle réparoit avec beaucoup d’avantage par une humeur douce &amp; par un esprit solide, l’injustice que la nature luy avoit faite, &amp; que c’estoit peu de chose que les yeux ne fussent pas tout-à fait contens quand on estoit auprés d’elle, puis que l’agrément de sa conversation, &amp; la beauté de son ame avoient de quoy suppléer à ce qui manquoit à leur plaisir. Comme ces loüanges étoient autant de reproches pour la Belle, qui estoit bien éloignée de luy ressembler par l’humeur &amp; par l’esprit, elle s’en fit une offense qu’elle sentit vivement, de sorte que son Amie, à qui le Cavalier estoit allé faire de nouvelles plaintes, estant venuë l’avertir une autre fois du peril qu’elle couroit de le perdre par son obstination à le chagriner, elle la menaça fierement de rompre avec elle, si elle continuoit à recevoir ses visites. Le Cavalier, qui luy ayant reconnu un merite singulier, prenoit plaisir à l’entretenir, ne manqua pas de luy en rendre encore une peu de jours aprés, &amp; fut fort surpris de la priere qu’elle luy fit de ne la plus voir, parce que c’estoit la broüiller avec la Belle, à qui elle ne vouloit point donner sujet, s’ils avoient ensemble quelque differend, de l’accuser d’en estre la cause. Elle ajousta que quelque grand qu’il pust estre, l’amour prendroit soin de le terminer, &amp; qu’il n’y avoit aucune necessité qu’elle se meslast plus long temps de leurs affaires. Le Cavalier répondit que malgré les deffenses de la Belle, il la verroit comme il avoit commencé, &amp; que si les marques d’estime qu’il estoit ravy de luy donner, luy faisoient perdre une Amie, il luy offroit en luy un Amy parfait qui pourroit luy donner lieu de ne la pas regretter. Les instances qu’elle fit pour l’obliger à suspendre jusqu’aprés son mariage les témoignages d’amitié dont il la flatoit, furent inutiles. Il s’obstina à la voir, &amp; luy fit toûjours paroistre un grand dégoust pour la Belle, en faveur de qui elle ne cessa de luy parler. Cette intelligence qui ne pouvoit aller qu’à son avantage, la blessa mortellement &amp; non-seulement elle traita son Amie avec beaucoup de froideur, mais elle railla le Cavalier sur son bon goût, en luy disant qu’elle voyoit bien qu’il avoit pris de l’amour pour cette Amie, &amp; qu’elle ne pouvoit que luy applaudir d’avoir eu d’assez bons yeux pour faire un si digne choix. Toutes ces choses ne firent qu’aigrir le Cavalier, qui admirant tous les jours de plus en plus la droite raison de cette Fille, &amp; l’égalité qu’elle avoit en tout, en fut enfin tellement touché qu’il crut qu’ayant à prendre un engagement qui devoit durer toute sa vie, il ne pouvoit rien faire de mieux que de l’épouser. Insensiblement il s’estoit accoûtumé à sa laideur qui ne luy paroissoit plus avoir rien de dégoutant. Elle avoit la taille fine, la gorge belle, de belles mains, de beaux bras, &amp; ce qui estoit beaucoup plus considerable, il ne luy manquoit rien du costé de l’ame de ce qui pouvoit rendre un homme heureux. Ainsi il luy declara la pensée où il estoit &amp; elle en fut si surprise que l’imputant à un desir de vangeance mal examiné, &amp; qui seroit infailliblement suivy d’un prompt repentir, elle le pria de considerer la difference qu’il y avoit d’elle à la charmante personne qu’il vouloit quitter. Il l’asseura qu’il avoit fait de longues reflexions sur ce qu’il luy proposoit &amp; que c’estoit aprés un serieux examen, &amp; sans nul dessein de se vanger, qu’il en vouloit à son cœur. Il eut beau pourtant luy donner cette asseurance, elle demanda un mois pour luy répondre, &amp; voulut pendant ce temps qu’il s’éprouvast auprés de la Belle afin de voir si ses charmes ne le rappelleroient point. C’estoit beaucoup hazarder, &amp; une autre qu’elle eust pressé les choses au lieu de les reculer. Une conduite si sage redoublant l’estime du Cavalier, il ne cacha point ce qu’il avoit resolu de faire, &amp; la Belle écouta d’abord l’avis qu’on luy en donna comme une plaisanterie qui ne devoit point luy causer d’alarmes ; mais quand elle apprit avec certitude que le Mariage étoit arresté, le chagrin de voir qu’une aussi laide personne que son Amie eust esté capable de la supplanter, luy fit tout mettre en usage pour se garantir de cette espece d’affront. Elle offrit au Cavalier de bannir tous ceux qui luy déplairoient, &amp; d’étudier si bien tout ce qui pourroit luy faire plaisir, que ses sentimens regleroient toûjours les siens, mais il fut inexorable. Il voyoit trop bien qu’elle ne vouloit que le dérober à son Amie, &amp; le solide l’emporta sur le brillant. Le Mariage se fit, &amp; trois jours auparavant, la Belle qui ne pouvoit soûtenir ce qu’on luy disoit de tous costez, alla s’enfermer dans un Convent. Quelques-uns veulent que son dessein soit de s’y consacrer à Dieu, mais elle est trop inégale pour prendre avec force une résolution de cette nature.</p>
         </div>
       </body>
   </text>
