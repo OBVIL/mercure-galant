@@ -103,8 +103,7 @@
         <div type="article" xml:id="MG-1692-05_016" resp="mercure">
           <head>[Marques de zele des fidelles Sujets de Sa Majesté]</head>
           <bibl><title>Mercure Galant</title>, mai 1692 [tome 5], p. 16-19.</bibl>
-          <p/>
-          <p>Entre tous ceux qui ont ce zele sincere &amp; empressé pour le Roy, il n’y a personne qui en donne plus de marques que Mr le Comte de Fontaine-Berenger, Capitaine au Regiment de Bouflers, qui outre toutes les réjoüissances qu’il a faites pour chaque avantage particulier qu’ont remporté les François, a voulu encore consacrer deux jours de chaque année par deux Festes solemnelles, pour demander à Dieu qu’il luy plaise de benir tous les projets de Sa Majesté. L’une de ces Festes se celebre le premier jour d’Octobre, Feste de Saint Remy, dans sa Terre de Fontaine-Berenger prés Trun, Diocese de Sez, &amp; l’autre le Mardy de la semaine de Pasques, dans sa Terre d’Herengerville, Diocese de Coutance. La ceremonie de cette derniere Feste se fit le 8. du mois passé avec beaucoup de magnificence. Mr Vincent, Prieur de l’Hôpital de Coutance, prêcha le matin sur la Charité, &amp; fit l’Eloge du Roy avec une entiere satisfaction de son Auditoire. Mr Marqs, dont l’éloquence est connuë par tant de Sermons, où il s’est fait admirer dans les meilleures Chaires du Royaume, fit l’aprés-dînée un nouveau Panegyrique de ce grand Monarque, &amp; on chanta l’<hi rend="i">Exaudiat</hi> en Musique, avec les autres Prieres que l’Eglise ordonne en pareille occasion.</p>
+          <p>Entre tous ceux qui ont ce zele sincere &amp; empressé pour le Roy, il n’y a personne qui en donne plus de marques que M<hi rend="sup">r</hi> le Comte de Fontaine-Berenger, Capitaine au Regiment de Bouflers, qui outre toutes les réjoüissances qu’il a faites pour chaque avantage particulier qu’ont remporté les François, a voulu encore consacrer deux jours de chaque année par deux Festes solemnelles, pour demander à Dieu qu’il luy plaise de benir tous les projets de Sa Majesté. L’une de ces Festes se celebre le premier jour d’Octobre, Feste de Saint Remy, dans sa Terre de Fontaine-Berenger prés Trun, Diocese de Sez, &amp; l’autre le Mardy de la semaine de Pasques, dans sa Terre d’Herengerville, Diocese de Coutance. La ceremonie de cette derniere Feste se fit le 8. du mois passé avec beaucoup de magnificence. M<hi rend="sup">r</hi> Vincent, Prieur de l’Hôpital de Coutance, prêcha le matin sur la Charité, &amp; fit l’Eloge du Roy avec une entiere satisfaction de son Auditoire. M<hi rend="sup">r</hi> Marqs, dont l’éloquence est connuë par tant de Sermons, où il s’est fait admirer dans les meilleures Chaires du Royaume, fit l’aprés-dînée un nouveau Panegyrique de ce grand Monarque, &amp; on chanta l’<hi rend="i">Exaudiat</hi> en Musique, avec les autres Prieres que l’Eglise ordonne en pareille occasion.</p>
         </div>
         <div type="article" xml:id="MG-1692-05_024" resp="wordpro">
           <head>[L’Hymen, l’Amour, &amp; la Raison, Dialogue]</head>
@@ -113,7 +112,7 @@
           <quote>
             <label>L’HYMEN, L’AMOUR,<lb/>ET<lb/>LA RAISON.</label>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Mon Frere, jusqu’icy j’ay gardé le silence.</l>
               <l rend="i"> Jusqu’icy poussé vivement,</l>
               <l rend="i"> Mon cœur de son ressentiment</l>
@@ -139,7 +138,7 @@
               <l rend="i"> Joüisse de son apanage ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">L’éloquence pour vous, mon Frere, n’est qu’un jeu.</l>
               <l rend="i">De ces moralitez où tant de bon sens brille,</l>
               <l rend="i"> L’hiver au coin de vostre feu,</l>
@@ -160,7 +159,7 @@
               <l rend="i"> Je m’y soumets pour cette fois.</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Vous m’avez outragé par plus d’une entreprise,</l>
               <l rend="i">Je n’en réveille point le souvenir cuisant ;</l>
               <l rend="i">Mais du moins rendez-moy Céphise,</l>
@@ -249,7 +248,7 @@
               <l rend="i">Amour, n’est-ce point vous qui me la ravissez ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i"> O la surprenante avanture,</l>
               <l rend="i">Qu’en pleine joüissance on finisse d’aimer !</l>
               <l rend="i"> A vous entendre déclamer,</l>
@@ -271,55 +270,55 @@
               <l rend="i"> N’est-elle point un peu plus lente ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Et le moyen, suis-je de fer ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">Dans la tranquillité de vostre joüissance,</l>
               <l rend="i"> Du desir de plaire occupé,</l>
               <l rend="i">En faites-vous toujours vostre soin d’importance ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Les affaires m’ont dissipé.</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">Avez-vous bien eu l’industrie</l>
               <l rend="i">De vous montrer toujours par le plus beau costé</l>
               <l rend="i"> Dont on use en galanterie ?</l>
               <l rend="i">Quelques defauts choquans n’ont-ils point éclaté ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Quelle contrainte severe</l>
               <l rend="i">Aux cœurs pour toujours unis !</l>
               <l rend="i">Je suis nud, je suis sincere.</l>
               <l rend="i">On me voit tel que je suis.</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">Fort bien. Qu’avez-vous fait de l’importune foule</l>
               <l rend="i">De langueurs, de dégoûts, de murmures, d’ennuis,</l>
               <l rend="i">Qui par tout aprés vous dans les maisons se coule ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Ils m’obsedent les jours, ils m’occupent les nuits.</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">Et la cruelle jalousie</l>
               <l rend="i">A-t-elle encor suivi vos pas ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">J’en ay toujours l’ame saisie,</l>
               <l rend="i">Nous ne nous desunissons pas.</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i"> Et vous voulez qu’on vous cherisse,</l>
               <l rend="i">Negligent, endormy, soupçonneux, dissipé,</l>
               <l rend="i"> Ralenty dans vostre exercice,</l>
@@ -330,7 +329,7 @@
               <l rend="i"> Reine, prononcez nostre Arrest.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA RAISON.</hi></label>
+              <label type="speaker"><hi rend="i">LA RAISON.</hi></label>
               <l rend="i">De ses conclusions Hymen est debouté,</l>
               <l rend="i">Faute d’avoir produit ardeur &amp; nouveauté ;</l>
               <l rend="i">Nous avons, declarant l’instance criminelle,</l>
@@ -339,7 +338,7 @@
               <l rend="i">Et nous le condamnons aux dépens de l’Amour ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’HYMEN.</hi></label>
+              <label type="speaker"><hi rend="i">L’HYMEN.</hi></label>
               <l rend="i">Quoy, perfide Raison, quand je vous croyois preste</l>
               <l rend="i"> A soutenir la verité,</l>
               <l rend="i"> Les appas de la volupté</l>
@@ -348,7 +347,7 @@
               <l rend="i"> Vous me voyez chercher refuge…</l>
             </lg>
             <lg>
-              <label><hi rend="i">L’AMOUR.</hi></label>
+              <label type="speaker"><hi rend="i">L’AMOUR.</hi></label>
               <l rend="i">Courage, Hymen, poussez. Les loix donnent un jour</l>
               <l rend="i"> Pour déclamer contre son Juge.</l>
             </lg>
