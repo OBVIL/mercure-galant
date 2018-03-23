@@ -61,11 +61,11 @@
           <quote>
             <label>DIALOGUE<lb/>De la Sambre &amp; de la Meuse sur la prise de Namur.</label>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">C’en est donc fait, ma Sœur.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">  Ouy, voilà Namur pris.</l>
               <l rend="i">Qui pouvoit empêcher qu’il ne fust la conqueste</l>
               <l rend="i">D’un Heros par qui rien n’est jamais entrepris,</l>
@@ -73,7 +73,7 @@
               <l><hi rend="i">A mettre des Lauriers sur son auguste teste ?</hi></l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Mons, il est vray, peut assez nous prouver</l>
               <l rend="i"> Qu’où LOUIS se trouve en Personne,</l>
               <l rend="i"> Il a pour luy Mars &amp; Bellonne.</l>
@@ -84,32 +84,32 @@
               <l rend="i">Et la mettre à couvert des plus rudes assauts ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">D’accord, mais de Loüis la valeur invincible</l>
               <l rend="i"> Fait tout ceder à son grand cœur,</l>
               <l rend="i"> Et rien ne se trouve impossible</l>
               <l rend="i">Pour luy donner par tout le titre de Vainqueur.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Il le faut avouër, il n’est Combat ny Siege,</l>
               <l rend="i"> Où de vaincre il ne soit certain.</l>
               <l rend="i"> Le Ciel à son heureux destin</l>
               <l rend="i">Semble avoir attaché ce rare privilege.</l>
             </lg>
             <lg>
-              <label>LA MEUSE,</label>
+              <label type="speaker"><hi rend="i">LA MEUSE,</hi></label>
               <l rend="i">Ses Foudres tonnent sur un ton</l>
               <l rend="i">Qui prédit toujours la victoire.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i"> Il ne faut qu’oüir son Canon.</l>
               <l rend="i">Aussi-tost qu’on l’entend on a sujet de croire</l>
               <l rend="i"> Qu’on va voir augmenter sa gloire.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i"> Jusqu’où ne va pas son grand Nom !</l>
               <l rend="i">En vain les Elemens sont quelquefois contraires</l>
               <l rend="i">A l’execution de ses justes projets.</l>
@@ -119,7 +119,7 @@
               <l rend="i">Dont le bruit se répand dans les deux Hemispheres.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Luy-mesme, ce Heros, veut les difficultez.</l>
               <l rend="i"> Sa gloire en brille davantage.</l>
               <l rend="i">Il sçait que ses pareils y sont par là montez,</l>
@@ -130,52 +130,52 @@
               <l rend="i">N’a-t’on pas veu toujours la Gloire estre le prix ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i"> Qu’il répand d’honneur sur nos rives,</l>
               <l rend="i"> Par ses merveilleux exploits !</l>
               <l rend="i"> Helas ! qu’elles estoient chetives,</l>
               <l rend="i">Sans ce fameux Vainqueur, sans ce plus grand des Rois !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Hé ! quels autres Heros nous donnoient quelque gloire ?</l>
               <l rend="i"> Est-ce Baviere ? Est-ce Orange, ou Valdec ?</l>
               <l rend="i"> O Dieux ! que leur courage est sec !</l>
               <l rend="i">A leur suite jamais a-t-on vû la Victoire ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Ils ne sont tout au plus que de fameux Témoins</l>
               <l rend="i"> Des Conquestes du grand Monarque ;</l>
               <l rend="i"> C’est à quoy se bornent leurs soins,</l>
               <l rend="i">Et c’est de leur valeur tout ce que l’on remarque.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Mais n’admirez vous pas le lâche Usurpateur,</l>
               <l rend="i"> Plus digne Roy d’une honteuse Ligue,</l>
               <l rend="i"> Dont il est le Fabricateur,</l>
               <l rend="i">Que des Etats qu’il doit à sa coupable intrigue ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Et de quoy l’admirer, ma Sœur ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i"> D’estre l’Homme le plus habile,</l>
               <l rend="i"> Et du plus intrepide cœur,</l>
               <l rend="i">Lors qu’il s’agit de voir prendre une Ville.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i"> Je l’avoûray, c’est son grand Art.</l>
               <l rend="i">Luy peut-on du Lion imputer le courage ?</l>
               <l rend="i"> Il n’a que l’esprit du Renard,</l>
               <l rend="i">Dont il ne fait qu’un criminel usage.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i"> Mais, dites-moy, les Alliez,</l>
               <l rend="i">Que dans ses interests il a si bien liez,</l>
               <l rend="i"> Sont-ils contens de son manége ?</l>
@@ -183,18 +183,18 @@
               <l rend="i">De les tenir toujours abattus à ses pieds ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Qu’en luy peu sagement ils se sont confiez !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Voilà, sur tout, le Batave &amp; l’Ibere</l>
               <l rend="i"> Bien étonnez à cette fois.</l>
               <l rend="i">Vainement chacun d’eux s’agite &amp; delibere,</l>
               <l rend="i">La Flandre va passer enfin sous d’autres loix.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Ah ! qu’au plûtost cela se fasse.</l>
               <l rend="i">Quand nous aurons pour Maistre ce Heros,</l>
               <l rend="i"> Qui tous les autres efface,</l>
@@ -202,14 +202,14 @@
               <l rend="i"> De troubler nostre repos.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Nous joüirons du bonheur de la Seine.</l>
               <l rend="i">Les Jeux, les Ris y regnent pleinement.</l>
               <l rend="i"> Aucun fâcheux évenement.</l>
               <l rend="i"> N’en rend la fortune incertaine.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Les Peuples qu’elle arrose ont sans cesse un doux sort,</l>
               <l rend="i"> Les Ennemis n’y portent point la guerre,</l>
               <l rend="i"> Et Loüis toujours le plus fort,</l>
@@ -218,64 +218,64 @@
               <l rend="i"> Et les punit de leur témerité.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Que sa grandeur me paroist legitime !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Qu’il a l’air de Heros &amp; de grand Potentat !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Que de majesté ! que d’éclat !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Par combien de vertus gagne-t-il nostre estime !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Que de crainte &amp; d’amour dans les cœurs il imprime !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Quel Prince est fait comme Loüis !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Il est doüé d’un merite suprême.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Tous ses Faits sont Faits inoüis.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Il doit de l’Univers porter le Diadême,</l>
               <l rend="i"> Et voir par tout les Lis épanoüis.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Je suis de vostre avis, ma Sœur, &amp; je souhaite</l>
               <l rend="i">Que promptement chez nous il soit par tout le Roy.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i">Nostre felicité seroit alors parfaite.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i">Qu’heureux sont ceux qui vivent sous sa loy !</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAMBRE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAMBRE.</hi></label>
               <l rend="i"> Sus, que nos ondes fugitives</l>
               <l rend="i"> S’allant mêler aux maritimes flots,</l>
               <l rend="i">  Fassent retentir leurs rives</l>
               <l rend="i">Du recit des exploits de ce charmant Heros.</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA MEUSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA MEUSE.</hi></label>
               <l rend="i"> Sus, qu’en leur course elles se précipitent.</l>
               <l rend="i">On ne peut se presser assez dans ce beau soin,</l>
               <l rend="i"> Combien de Fleuves s’en acquittent</l>
@@ -591,9 +591,10 @@
           <bibl><title>Mercure Galant</title>, juillet 1692 [tome 7], p. 198-220.</bibl>
           <p/>
           <p>Je ne doute point que la prise de Namur ne donne lieu à beaucoup de Festes. Il s'en fit une le 8. de ce mois dans l'Academie de M<hi rend="sup">rs</hi> de Vandeüil, de Rochefort, &amp; Dauricour. Ces Ecuyers, dont tout le monde connoist la capacité &amp; le merite, voulurent donner par une maniere de Carrousel des marques de la joye qu'ils ressentoient de la prise de cette Place. La beauté de leur Manege, l'adresse &amp; la magnificence des Gentilshommes, &amp; le bon ordre qu'ils y firent observer, remplirent d'admiration une tres-grande quantité de Dames d'un rang distingué, qu'on voit placées dans des fauteüils sous le grand Manege couvert. (...) On fit une marche autour du Manege découvert, qui est bordé de chaque costé de trois rangées d'arbres qui forment une Perspective fort agréable. Ils avoient à leur teste un Timbalier &amp; quatre Trompettes, suivis par M<hi rend="sup">r</hi> Dauricour qui montoit un tres beau Cheval, qu'il ne retenoit qu'avec un simple ruban. Les Gentilshommes estoient ensuite sur des Chevaux d'Ecole dont les crins estoient ornez de rubans de toutes sortes de couleurs. M<hi rend="sup">r</hi> de Vandeüil finissoit la Marche. Ils entrerent dans le Manege découvert en gardant toujours le mesme ordre, &amp; M<hi rend="sup">r</hi> de Vandeüil commença par une Galopade, dont les airs satisfirent les Connoisseurs. M<hi rend="sup">r</hi> Dauricour parut aprés. Lorsque l'on vit qu'il faisoit manier son Cheval de si bonne grace avec un simple ruban, on tomba d'accord qu'il estoit en mesme temps bel &amp; bon homme de cheval. Ce Manege fit connoistre aux Spectateurs que les Gentilshommes qui apprennent sous d'aussy sçavans Maistres ne pouvoient manquer de se signaler. En effet, douze des plus Anciens firent des merveillles dans les Galopades, dont les caprioles &amp; les changemens de main furent tres-bien executez. Celuy qui avoit remporté le prix monta quelque temps un Sauteur par le droit en liberté, pendant que deux autres Gentilshommes faisoient paroistre leur fermeté sur deux autres Sauteurs entre les piliers. Leurs sauts estoient si prodigieux, que les Dames ne se pouvoient empescher de plaindre ceux qui estoient dessus. Cette diversité de Manege donna le temps aux autres de changer encore une fois de Chevaux, &amp; de sortir des Ecuries avec plus d'éclat que les deux premieres. Ils estoient au nombre de neuf, montez sur des Chevaux garnis d'Aigrettes de Plumes, &amp; de Housses caparaçonnées tres-riches &amp; fort bien ajustées. Trois se placerent au milieu, deux dans les côtez, &amp; les quatre autres dans les coins. Ils commencerent au pas leur Manege au bruit des Timbales &amp; des Trompettes, &amp; un moment aprés M<hi rend="sup">rs</hi> de Vandeüil &amp; Dauricour les firent partir tous en mesme temps ; sçavoir, les trois du milieu sur les voltes, &amp; les six autres sur les demy-voltes, avec tant d'ordre, &amp; si peu de confusion, que tout le monde souhaitoit que la derniere des trois reprises qu'ils firent de cette maniere durast éternellement ; mais cela ne se pouvoit. Les jeunes Gentilshommes avoient trop d'empressement de faire voir leur adresse dans d'autres exercices. En effet, la grande confusion de monde qui estoit accouru de toutes-parts pour voir ce Carouzel, ne fut pas plustost dissipée, que les Dames entrerent dans une Salle magnifique, ornée d'une grande quantité de Lustres, où celuy qui avoit remporté le prix commença un Bal, qui fut interrompu cinq ou six fois par des collations composées de liqueurs, &amp; d'autres rafraischissemens qu'on servit aux Dames. Les gentilshommes danserent chacun à leur rang ; les divertissemens finirent à onze heures du soir, &amp; chacun s'en retourna tres-satisfait de la Feste.</p>
-          <p>Le 12. de ce mois, le Te Deum fut chanté icy dans l'Eglise Cathedrale, suivant les ordres portez dans la Lettre du Roy à Mr l'Archevesque de Paris, dont voicy les termes.</p>
+          <p>Le 12. de ce mois, le <hi rend="i">Te Deum</hi> fut chanté icy dans l'Eglise Cathedrale, suivant les ordres portez dans la Lettre du Roy à M<hi rend="sup">r</hi> l'Archevesque de Paris, dont voicy les termes.</p>
           <p><hi rend="i">MON Cousin. Mes Ennemis s'estoient persuadé, qu'ayant assemblé toutes leurs forces dans les Pays-Bas, ils arresteroient le cours de mes conquestes ; cependant, je n'ay pas laissé d'entreprendre en Personne le Siege de la Ville &amp; du Chasteau de Namur, dont ils croyoient la prise impossible. Ils sont accourus au nombre de plus de cent mille hommes, pour m'obliger d'en lever le Siege, mais ils se sont contentez d'en estre les Spectateurs pendant trois semaines, &amp; d'assister à la reduction de la Place que j'ay entierement soumise le 30. du mois dernier, aprés trente jours de tranchée ouverte. Si quelque chose me flate dans une Conqueste aussi importante, c'est bien moins la gloire qui la suit, ou l'agrandissement des mes Etats, que l'esperance qu'elle me donne que mes Ennemis lassez de leurs pertes, souscriront enfin aux offres que je leur fais depuis longtemps de finir la Guerre. C'est aussi cette esperance qui m'oblige particulierement de redoubler envers le Ciel mes actions de graces, &amp; de protester en mesme temps devant celuy qui connoist les sentimens de mon coeur, que je n'ay point de desir plus ardent que de mettre tous mes Peuples en estat de le glorifier en paix. Je vous écris à cet effet, pour vous dire que mon intention est, que vous fassiez chanter le</hi> Te Deum <hi rend="i">dans l'Eglise Cathedrale de ma bonne Ville de Paris, au jour &amp; à l'heure que le Grand Maistre, ou le Maistre de mes Ceremonies vous dira de ma part, &amp; je donne ordre à mes Cours d'y assister en la maniere accoutumée. Sur ce, je prie Dieu qu'il vous ait, Mon Cousin, en sa sainte &amp; digne garde. Ecrit à Mariembourg le sixiéme Juillet 1692</hi>. Signé, LOUIS. <hi rend="i">Et plus bas</hi>, PHELYPEAUX.</p>
-          <p>Toutes les Cours Superieures assisterent à ce <hi rend="i">Te Deum</hi>, avec leurs habits de ceremonie, &amp; le soir il y eut un fort beau Feu d'artifice devant l'Hostel de Ville. (...) Il y eut un fort grand Regale à l'Hôtel de Ville ; &amp; aprés que l'on eut tiré le Feu, la Feste fut generale. Ce ne furent que des feux par tout, &amp; il y en eut plus de cent considerables en divers quartiers. Les uns marquerent leur zele par des Illuminations, des fusées volantes, des Repas, des Concerts &amp; des Bals, &amp; d'autres s'unirent ensemble pour faire de grandes Festes. Ce qu'il y a de certain, c'est que l'on peut dire que ce jour-là les yeux, l'oüie &amp; le goust, tout fut content. M<hi rend="sup">r</hi> le Cardinal de Furstemberg fit l'Office dés le matin dans l'Eglise de S. Germain des Prez. L'aprésdînée il chanta le <hi rend="i">Te Deum</hi>, pendant lequel il y eut des Canons tirez. Il fit une fort grande dépense en feux d'artifice, &amp; à regaler tous ceux qui voulurent estre témoins de la Feste. [...]</p>
+          <p/>
+          <p>Toutes les Cours Superieures assisterent à ce <hi rend="i">Te Deum</hi>, avec leurs habits de ceremonie, &amp; le soir il y eut un fort beau Feu d'artifice devant l'Hostel de Ville. [...] Il y eut un fort grand Regale à l'Hôtel de Ville ; &amp; aprés que l'on eut tiré le Feu, la Feste fut generale. Ce ne furent que des feux par tout, &amp; il y en eut plus de cent considerables en divers quartiers. Les uns marquerent leur zele par des Illuminations, des fusées volantes, des Repas, des Concerts &amp; des Bals, &amp; d'autres s'unirent ensemble pour faire de grandes Festes. Ce qu'il y a de certain, c'est que l'on peut dire que ce jour-là les yeux, l'oüie &amp; le goust, tout fut content. M<hi rend="sup">r</hi> le Cardinal de Furstemberg fit l'Office dés le matin dans l'Eglise de S. Germain des Prez. L'aprésdînée il chanta le <hi rend="i">Te Deum</hi>, pendant lequel il y eut des Canons tirez. Il fit une fort grande dépense en feux d'artifice, &amp; à regaler tous ceux qui voulurent estre témoins de la Feste. [...]</p>
           <p>Le Jeudy 17. les Augustins Déchaussez de la Place des Victoires, d'autant plus ardens à se distinguer lors qu'il s'agit de la gloire de Sa Majesté, que leur Maison est de Fondation Royale, &amp; que leur Eglise, dédiée à Nostre-Dame des Victoires, semble destinée pour rendre incessament graces à Dieu de celles du Roy, firent chanter le <hi rend="i">Te Deum</hi> en Musique au bruit de deux décharges de Boëtes. Il s'y trouva un concours extraordinaire de personnes de qualité &amp; de Peuple.</p>
         </div>
         <div type="article" xml:id="MG-1692-07a_230" resp="wordpro">
@@ -813,7 +814,7 @@
           <head>[Journal de ce qui s'est passé à l'Armée de M. de Luxembourg]</head>
           <bibl><title>Mercure Galant</title>, juillet 1692 [tome 7], p. 295-296.</bibl>
           <p/>
-          <p>Le Mardy, premier de ce mois, Mr l'Abbé de Riqueti dit la Messe dans l'Eglise des Chanoinesses de Moustier, où assisterent tous les Princes &amp; Officiers Generaux, aprés quoy ce mesme Abbé entonna le <hi rend="i">Te Deum</hi>. Ce jour-là, Sa Majesté vint à l'Abbaye du Floref, Ordre de Prémonstré, où l'Abbé la reçut en habits Pontificaux à la porte de l'Eglise avec la Communauté. M<hi rend="sup">r</hi> de Luxembourg, &amp; les Officiers Generaux qui n'étoient pas de jour s'y trouverent, &amp; on tint Conseil de Guerre. Il y fut déliberé d'envoyer des Troupes de l'Armée du Roy en Allemagne, &amp; on y détermina celles que l'on devoit détacher, &amp; celles qui demeureroient dans l'Armée de M<hi rend="sup">r</hi> de Luxembourg. Le Roy alla coucher de là à Dinant.</p>
+          <p>Le Mardy, premier de ce mois, M<hi rend="sup">r</hi> l'Abbé de Riqueti dit la Messe dans l'Eglise des Chanoinesses de Moustier, où assisterent tous les Princes &amp; Officiers Generaux, aprés quoy ce mesme Abbé entonna le <hi rend="i">Te Deum</hi>. Ce jour-là, Sa Majesté vint à l'Abbaye du Floref, Ordre de Prémonstré, où l'Abbé la reçut en habits Pontificaux à la porte de l'Eglise avec la Communauté. M<hi rend="sup">r</hi> de Luxembourg, &amp; les Officiers Generaux qui n'étoient pas de jour s'y trouverent, &amp; on tint Conseil de Guerre. Il y fut déliberé d'envoyer des Troupes de l'Armée du Roy en Allemagne, &amp; on y détermina celles que l'on devoit détacher, &amp; celles qui demeureroient dans l'Armée de M<hi rend="sup">r</hi> de Luxembourg. Le Roy alla coucher de là à Dinant.</p>
         </div>
       </body>
   </text>
