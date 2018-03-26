@@ -129,7 +129,7 @@
           <quote>
             <label><hi rend="i">EGLOGUE.</hi><lb/>DAPHNIS, Berger de Savoye. ACANTHE, Berger de Bourgogne.</label>
             <lg>
-              <label><hi rend="i">DAPHNIS.</hi></label>
+              <label rend="speaker"><hi rend="i">DAPHNIS.</hi></label>
               <l rend="i"> Dieux de ces Bois, tutelaires Genies,</l>
               <l rend="i"> Rivage heureux par les Graces orné,</l>
               <l rend="i"> Prez émaillez de couleurs infinies,</l>
@@ -143,7 +143,7 @@
               <l rend="i">Né trois siecles devant, du gland qu’il a planté.</l>
             </lg>
             <lg>
-              <label><hi rend="i">ACANTHE.</hi></label>
+              <label rend="speaker"><hi rend="i">ACANTHE.</hi></label>
               <l rend="i">Je prens part aux ennuis, qui sur vostre visage</l>
               <l rend="i"> Ont peint leurs traits les plus touchans :</l>
               <l rend="i"> Nos cœurs simples sont le partage</l>
@@ -171,7 +171,7 @@
               <l rend="i">Le secours impuissant de ma compassion.</l>
             </lg>
             <lg>
-              <label><hi rend="i">DAPHNIS.</hi></label>
+              <label rend="speaker"><hi rend="i">DAPHNIS.</hi></label>
               <l rend="i">Je fuis, heureux Berger, je fuis de la Savoye,</l>
               <l rend="i"> D’où l’Amant cruel de Venus,</l>
               <l rend="i">Les armes à la main vient de bannir la joye :</l>
@@ -252,7 +252,7 @@
               <l rend="i">Expirer par l’excés d’une juste douleur.</l>
             </lg>
             <lg>
-              <label><hi rend="i">ACANTHE.</hi></label>
+              <label rend="speaker"><hi rend="i">ACANTHE.</hi></label>
               <l rend="i"> De vos maux par la renommée</l>
               <l rend="i"> Cette Province est informée ;</l>
               <l rend="i"> N’en doutez point, nous vous plaignons.</l>
@@ -335,7 +335,7 @@
               <l rend="i"> Que les yeux vainqueurs de Climene.</l>
             </lg>
             <lg>
-              <label><hi rend="i">DAPHNIS.</hi></label>
+              <label rend="speaker"><hi rend="i">DAPHNIS.</hi></label>
               <l rend="i"> Vous pourriez me persuader,</l>
               <l rend="i"> Ma douleur seroit sans replique</l>
               <l rend="i">Si mon fidelle amour se pouvoit accorder</l>
@@ -360,7 +360,7 @@
               <l rend="i">Et le bruit des combats met le timide en fuite.</l>
             </lg>
             <lg>
-              <label><hi rend="i">ACANTHE.</hi></label>
+              <label rend="speaker"><hi rend="i">ACANTHE.</hi></label>
               <l rend="i"> Des malheurs que vous redoutez</l>
               <l rend="i"> Ne craignez point la violence,</l>
               <l rend="i">La sagesse des Chefs dans les Troupes de France</l>
@@ -385,7 +385,7 @@
               <l rend="i"> Des Compagnons de mon malheur.</l>
             </lg>
             <lg>
-              <label><hi rend="i">DAPHNIS.</hi></label>
+              <label rend="speaker"><hi rend="i">DAPHNIS.</hi></label>
               <l rend="i"> Fust-elle mille fois plus belle,</l>
               <l rend="i"> De ses coups je suis garanti ;</l>
               <l rend="i"> Dans nos Climats on naist fidelle,</l>
@@ -398,7 +398,7 @@
               <l rend="i"> Conserver la fecondité.</l>
             </lg>
             <lg>
-              <label><hi rend="i">ACANTHE.</hi></label>
+              <label rend="speaker"><hi rend="i">ACANTHE.</hi></label>
               <l rend="i">Allons : nos gais troupeaux ont quitté les campagnes ;</l>
               <l rend="i">Déja dans nos Hameaux on allume du feu,</l>
               <l rend="i"> Et les grandes ombres dans peu</l>
@@ -668,9 +668,8 @@
           <head>[Nouvelle église de S. Leu]*</head>
           <bibl><title>Mercure Galant</title>, janvier 1691 [tome 1], p. 237-241.</bibl>
           <p/>
-          <p>L’ancienne Eglise du Village de S. Leu lez Taverny dans le Duché d’Anguien, autrefois de Montmorency, estant fort éloignée du Village &amp; par là extrémement incommode aux Habitans sur tout en Hyver, a esté demolie, &amp; on en a édifié une nouvelle au milieu de ce Village. La premiere Pierre en fut posée le 4. d’Avril de l’année derniere par l’ordre de S. A. S.  Monsieur le Prince, qui a bien voulu contribuer au bien &amp; à l’utilité des Habitans de son Duché. Ce fut son Bailly d’Anguien qui la posa [...]. La Ceremonie se fit avec beaucoup de solemnité, au son des Tambours &amp; des Boëtes, &amp; la libéralité ordinaire de Son altesse se répandit abondamment sur les Ouvriers par une distribution d’argent qu’il fit faire. Lors que la nouvelle Eglise fut achevée de bastir, Mr l’Archevesque de Paris en ayant permis la Dedicace, Mr l’Evesque de Bethléem en commença la Ceremonie le 6. de Novembre dernier par la préparation des Reliques pour passer sous les Autels, &amp; le lendemain elle fut continuée à sept heures du matin, &amp; suivie d’une grande Messe celebrée Pontificalement par ce Prelat. Les Pains benits de Son Altesse Serenissime y furent presentez par le bailly d’Anguien, qui avoit fait distribuer tout ce qui pouvoit être necessaire pour rendre ce jour des plus solemnels. Il étoit accompagné des Gardes du Duché qui firent leur décharge au son des Trompettes &amp; des Tambours. Il y eut l’apresdinée Predication par Mr l’Abbé Chaussau, &amp; cette Feste finit par une Procession où Mr l’Evesque de Bethleem porta le Saint Sacrement. Le concours de peuples qui sont venus visiter cette Eglise de toutes-parts, tant que l’Octave a duré, est quelque chose d’extraordinaire. Pendant tout ce temps il s’est fait de nouvelles distributions d’argent par l’ordre de Monsieur le Prince, &amp; tous les Curez des Villages des environs y sont venus en Procession.</p>
+          <p>L’ancienne Eglise du Village de S. Leu lez Taverny dans le Duché d’Anguien, autrefois de Montmorency, estant fort éloignée du Village &amp; par là extrémement incommode aux Habitans sur tout en Hyver, a esté demolie, &amp; on en a édifié une nouvelle au milieu de ce Village. La premiere Pierre en fut posée le 4. d’Avril de l’année derniere par l’ordre de S. A. S.  Monsieur le Prince, qui a bien voulu contribuer au bien &amp; à l’utilité des Habitans de son Duché. Ce fut son Bailly d’Anguien qui la posa, &amp; les Armes &amp; toutes les qualitez de Son Altesse Serenissime furent gravées sur une feüille de cuivre, afin d'en conserver la memoire. La Ceremonie se fit avec beaucoup de solemnité, au son des Tambours &amp; des Boëtes, &amp; la libéralité ordinaire de Son altesse se répandit abondamment sur les Ouvriers par une distribution d’argent qu’il fit faire. Lors que la nouvelle Eglise fut achevée de bastir, M<hi rend="sup">r</hi> l’Archevesque de Paris en ayant permis la Dedicace, M<hi rend="sup">r</hi> l’Evesque de Bethléem en commença la Ceremonie le 6. de Novembre dernier par la préparation des Reliques pour passer sous les Autels, &amp; le lendemain elle fut continuée à sept heures du matin, &amp; suivie d’une grande Messe celebrée Pontificalement par ce Prelat. Les Pains benits de Son Altesse Serenissime y furent presentez par le bailly d’Anguien, qui avoit fait distribuer tout ce qui pouvoit être necessaire pour rendre ce jour des plus solemnels. Il étoit accompagné des Gardes du Duché qui firent leur décharge au son des Trompettes &amp; des Tambours. Il y eut l’apresdinée Predication par M<hi rend="sup">r</hi> l’Abbé Chaussau, &amp; cette Feste finit par une Procession où M<hi rend="sup">r</hi> l’Evesque de Bethleem porta le Saint Sacrement. Le concours de peuples qui sont venus visiter cette Eglise de toutes-parts, tant que l’Octave a duré, est quelque chose d’extraordinaire. Pendant tout ce temps il s’est fait de nouvelles distributions d’argent par l’ordre de Monsieur le Prince, &amp; tous les Curez des Villages des environs y sont venus en Procession.</p>
         </div>
-        
         <div type="article" xml:id="MG-1691-01_242" resp="wordpro">
           <head>[Election d’un nouveau doyen au Chapitre de Saint-Thomas du Louvre]*</head>
           <bibl><title>Mercure Galant</title>, janvier 1691 [tome 1], p. 242-252.</bibl>
@@ -688,7 +687,7 @@
           <head>[Relation de Canada]</head>
           <bibl><title>Mercure Galant</title>, janvier 1691 [tome 1], p. 282-322 [extrait p. 320-322].</bibl>
           <p/>
-          <p>Le Dimanche 29, les rejoüissances furent faites à Quebec avec beaucoup d’appareil. Le grand Pavillon de l’Amiral, &amp; un autre que Mr de Porneuf avoit pris à l’Acadie, furent portez à l’Eglise au son des Tambours. Mr l’Evesque y chanta le Te Deum, &amp; l’on fit ensuite une Procession solemnelle en l’honneur de la Vierge, Patronne du Pays. Toutes les troupes estoient sous les armes. On a institué à perpetuité une Feste sous le nom de Nostre-Dame des Victoires, &amp; l’Eglise que l’on a commencée à la Basse-Ville est dediée sous ce même nom, pour estre une marque éternelle de la protection que les François ont receuë du Ciel dans cette attaque. Le Feu de joye fut allumé à l’entrée de la nuit par M<hi rend="sup">r</hi> le Gouverneur, au bruit de plusieurs decharges du Canon &amp; de la Mousqueterie, &amp; l’on n’oublia pas à faire tirer plusieurs fois les Pieces qui avoient esté prises sur les Ennemis. Le 12. Novembre on aprit que les trois Navires François qui avoient paru à l’Isle aux Coudres, estoient entrez dans le Saguenay ; qu’aprés avoir veu passer devant eux la Flotte ennemie, ils estoient sortis de ce Fleuve, &amp; qu’ils n’estoient pas loin de Quebec. Le Sieur François de Xavier y vint moüiller le 15. la Fregate nommée la Fleur de May, le 16. &amp; le 17. le Glorieux. Toutes ces nouvelles ont esté apportées par M<hi rend="sup">r</hi> de Villebon, que M<hi rend="sup">r</hi> le Comte de Frontenac a depesché à la Cour. Il est venu dans un petit Bastiment qui a fait la traverse en cinquante-cinq jours, &amp; qui arriva au Port Loüis le 19. de ce mois.</p>
+          <p>Le Dimanche 29, les rejoüissances furent faites à Quebec avec beaucoup d’appareil. Le grand Pavillon de l’Amiral, &amp; un autre que Mr de Porneuf avoit pris à l’Acadie, furent portez à l’Eglise au son des Tambours. M<hi rend="sup">r</hi> l’Evesque y chanta le <hi rend="i">Te Deum</hi>, &amp; l’on fit ensuite une Procession solemnelle en l’honneur de la Vierge, Patronne du Pays. Toutes les troupes estoient sous les armes. On a institué à perpetuité une Feste sous le nom de Nostre-Dame des Victoires, &amp; l’Eglise que l’on a commencée à la Basse-Ville est dediée sous ce même nom, pour estre une marque éternelle de la protection que les François ont receuë du Ciel dans cette attaque. Le Feu de joye fut allumé à l’entrée de la nuit par M<hi rend="sup">r</hi> le Gouverneur, au bruit de plusieurs decharges du Canon &amp; de la Mousqueterie, &amp; l’on n’oublia pas à faire tirer plusieurs fois les Pieces qui avoient esté prises sur les Ennemis. Le 12. Novembre on aprit que les trois Navires François qui avoient paru à l’Isle aux Coudres, estoient entrez dans le Saguenay ; qu’aprés avoir veu passer devant eux la Flotte ennemie, ils estoient sortis de ce Fleuve, &amp; qu’ils n’estoient pas loin de Quebec. Le Sieur François de Xavier y vint moüiller le 15. la Fregate nommée la Fleur de May, le 16. &amp; le 17. le Glorieux. Toutes ces nouvelles ont esté apportées par M<hi rend="sup">r</hi> de Villebon, que M<hi rend="sup">r</hi> le Comte de Frontenac a depesché à la Cour. Il est venu dans un petit Bastiment qui a fait la traverse en cinquante-cinq jours, &amp; qui arriva au Port Loüis le 19. de ce mois.</p>
         </div>
         <div type="article" xml:id="MG-1691-01_335" resp="wordpro">
           <head>[Traduction des Offices de Cicéron par Philippe Goibaud-Dubois]*</head>
