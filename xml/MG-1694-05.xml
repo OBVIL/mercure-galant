@@ -94,7 +94,7 @@
           <quote>
             <label>AU ROY,</label>
             <lg>
-              <l><hi rend="i">Tu te trouves, grand Prince, au sommet de la gloire,</hi></l>
+              <l rend="i">Tu te trouves, grand Prince, au sommet de la gloire,</l>
               <l rend="i">L’état où tu te vois est le plus élevé</l>
               <l rend="i">Où jamais icy-bas Mortel soit arrivé,</l>
               <l rend="i">Et cependant tu cours sans cesse à la Victoire.</l>
@@ -103,7 +103,7 @@
             <lg>
               <l rend="i">Veux-tu que sur les murs du Temple de Memoire</l>
               <l rend="i">Autre nom que le tien ne puisse estre gravé ?</l>
-              <l><hi rend="i">Quoy, pour ton cher Dauphin n’aurois tu reservé</hi></l>
+              <l rend="i">Quoy, pour ton cher Dauphin n’aurois tu reservé</l>
               <l rend="i">Que l’unique plaisir de lire ton Histoire ?</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -123,9 +123,8 @@
         <div type="article" xml:id="MG-1694-05_041" resp="mercure">
           <head>[Premiere Messe dite à Strasbourg par Mr l’Abbé d’Auvergne, avec plusieurs particularitez tres-curieuses]</head>
           <bibl><title>Mercure Galant</title>, mai 1694 [tome 5], p. 41-46.</bibl>
-          <p/>
-          <p>Si la devotion porte toujours les vrais Fidelles à se trouver aux Ceremonies ordinaires de la Religion Catholique, la curiosité y attire assez souvent ceux mesmes qui en professent une contraire, quand la nouveauté les accompagne. C’est ce qui est arrivé depuis peu dans la celebration de la premiere Messe de Mr l’Abbé d’Auvergne, dont vous allez lire le détail. Je l’ay tiré d’une Lettre écrite par un Bourgeois de Strasbourg, à un de ses Amis de Paris. Il la finit par ces termes.</p>
-          <p>Je profite du reste de mon papier, pour vous apprendre un nouvelle. Le 25. de Mars, jour de l’Annonciation de la Vierge, Mr le Prince Henry d’Auvergne, Chanoine Capitulaire de la Cathedrale de cette Ville, celebra sa premiere Messe avec un grand éclat. Messieurs de l’Estat Major, &amp; du Magistrat y assisterent, aussi-bien que tout ce qu’il y avoit de plus distingué dans la Ville &amp; dans la Garnison. L’on ne se souvient pas d’avoir jamais vû un concours si prodigieux, bien des gens y estant venus de dehors, &amp; beaucoup de Lutheriens s’estant joints aux Catholiques pour voir une Ceremonie qui n’avoit point esté pratiquée depuis fort longtemps ; car j’ay oüy dire qu’il y avoit plus de deux cens ans que la Messe n’avoit esté dite par aucun de Mrs les Grands Chanoines de la Cathedrale, &amp; Mr le Prince Henry est encore le seul Prestre aujourd’huy dans le Chapitre. Il passe pour estre fort regulier dans sa conduite, &amp; fort liberal envers toute sorte de Pauvres. A la fin de sa Messe, qui fut chantée par une tres belle Musique, accompagnée de symphonie, Madame la Princesse de Feldens, Palatine nouvellement convertie, &amp; Madame la Marquise de Chamilly, Gouvernante de la Place, communierent, ainsi que beaucoup d’autres Personnes de consideration de l’un &amp; de l’autre Sexe, sans compter tous les Seminaristes. Ce Prince officia avec la mesme modestie le reste du jour, la Semaine sainte, &amp; les Festes. Il a sous sa conduite le Prince Frederic son Frere, qui n’a pas plus de douze ans, &amp; qui promet beaucoup. Ce jeune Prince ayant esté élû Chanoine Domiciliaire de la mesme Eglise Cathedrale de Strasbourg le 25 de Février, fut mis en possession de son Canonicat par Mr le Grand Doyen, en presence des principaux Officiers de la Ville. Je suis, Monsieur, vostre, &amp;c. A Strasbourg le 25. Avril 1694.</p>
+          <p>Si la devotion porte toujours les vrais Fidelles à se trouver aux Ceremonies ordinaires de la Religion Catholique, la curiosité y attire assez souvent ceux mesmes qui en professent une contraire, quand la nouveauté les accompagne. C’est ce qui est arrivé depuis peu dans la celebration de la premiere Messe de M<hi rend="sup">r</hi> l’Abbé d’Auvergne, dont vous allez lire le détail. Je l’ay tiré d’une Lettre écrite par un Bourgeois de Strasbourg, à un de ses Amis de Paris. Il la finit par ces termes.</p>
+          <p rend="i">Je profite du reste de mon papier, pour vous apprendre un nouvelle. Le 25. de Mars, jour de l’Annonciation de la Vierge, M<hi rend="sup">r</hi> le Prince Henry d’Auvergne, Chanoine Capitulaire de la Cathedrale de cette Ville, celebra sa premiere Messe avec un grand éclat. Messieurs de l’Estat Major, &amp; du Magistrat y assisterent, aussi-bien que tout ce qu’il y avoit de plus distingué dans la Ville &amp; dans la Garnison. L’on ne se souvient pas d’avoir jamais vû un concours si prodigieux, bien des gens y estant venus de dehors, &amp; beaucoup de Lutheriens s’estant joints aux Catholiques pour voir une Ceremonie qui n’avoit point esté pratiquée depuis fort longtemps ; car j’ay oüy dire qu’il y avoit plus de deux cens ans que la Messe n’avoit esté dite par aucun de M<hi rend="sup">rs</hi> les Grands Chanoines de la Cathedrale, &amp; M<hi rend="sup">r</hi> le Prince Henry est encore le seul Prestre aujourd’huy dans le Chapitre. Il passe pour estre fort regulier dans sa conduite, &amp; fort liberal envers toute sorte de Pauvres. A la fin de sa Messe, qui fut chantée par une tres belle Musique, accompagnée de symphonie, Madame la Princesse de Feldens, Palatine nouvellement convertie, &amp; Madame la Marquise de Chamilly, Gouvernante de la Place, communierent, ainsi que beaucoup d’autres Personnes de consideration de l’un &amp; de l’autre Sexe, sans compter tous les Seminaristes. Ce Prince officia avec la mesme modestie le reste du jour, la Semaine sainte, &amp; les Festes. Il a sous sa conduite le Prince Frederic son Frere, qui n’a pas plus de douze ans, &amp; qui promet beaucoup. Ce jeune Prince ayant esté élû Chanoine Domiciliaire de la mesme Eglise Cathedrale de Strasbourg le 25 de Février, fut mis en possession de son Canonicat par M<hi rend="sup">r</hi> le Grand Doyen, en presence des principaux Officiers de la Ville. Je suis, Monsieur, vostre, &amp;c. A Strasbourg le 15. Avril 1694.</p>
         </div>
         <div type="article" xml:id="MG-1694-05_051" resp="wordpro">
           <head>A Monsieur. Satyre</head>
@@ -151,10 +150,10 @@
               <l rend="i">La Déesse admirant toutes tes qualitez,</l>
               <l rend="i">Un jour fera sur toy pleuvoir ses dignitez.</l>
               <l rend="i">Un jour des Orphelins tu seras le refuge ;</l>
-              <l rend="i">On trouve en ta personne un veritable Iuge.</l>
+              <l rend="i">On trouve en ta personne un veritable Juge.</l>
               <l rend="i">La prudence, l’esprit, la probité, la foy,</l>
               <l rend="i">L’équité, la douceur, tout se rencontre en toy.</l>
-              <l rend="i">Tu n’imiteras point ce Iuge mercenaire,</l>
+              <l rend="i">Tu n’imiteras point ce Juge mercenaire,</l>
               <l rend="i">Que l’or par son éclat rend facile ou severe ;</l>
               <l rend="i">Qu’un regard amoureux a toujours desarmé,</l>
               <l rend="i">Par qui le Pauvre enfin est toujours opprimé.</l>
@@ -162,10 +161,10 @@
               <l rend="i">En tout temps, en tout lieu tu prendras sa défense.</l>
               <l rend="i">Poursuis donc, cher Damon, poursuis sans balancer.</l>
               <l rend="i">C’est là le seul party que tu dois embrasser.</l>
-              <l><hi rend="i">Les uns sont pour la Paix, les autres pour la guerre.</hi></l>
+              <l rend="i">Les uns sont pour la Paix, les autres pour la guerre.</l>
               <l rend="i">Luxembourg de Louis peut porter le tonnerre.</l>
               <l rend="i">Talon, dans le Palais le digne appuy des Loix,</l>
-              <l rend="i">Peut aux Iuges charmez faire entendre sa voix.</l>
+              <l rend="i">Peut aux Juges charmez faire entendre sa voix.</l>
               <l rend="i">Quintin, à qui le sang &amp; l’amitié t’engage,</l>
               <l rend="i">Lors que quelques Printemps auront meury son âge,</l>
               <l rend="i">Pourra le fer en main, comme tous ses Ayeux,</l>
@@ -196,7 +195,7 @@
               <l rend="i">Eut du Fils de Thetis frapé l’endroit mortel,</l>
               <l rend="i">Thersite ne vint pas, sans cœur, sans éloquence,</l>
               <l rend="i">Sur le vaillant Ajax briguer la préference,</l>
-              <l rend="i">Et demander un prix qu’Vlisse chancelant</l>
+              <l rend="i">Et demander un prix qu’Ulisse chancelant</l>
               <l rend="i">N’osoit aux yeux des Grecs demander qu’en tremblant.</l>
               <l rend="i">L’un prétend aux Chrestiens annoncer l’Evangile,</l>
               <l rend="i">Et leur tracer du Ciel la route difficile.</l>
@@ -215,7 +214,7 @@
               <l rend="i">Peut-il se distinguer de ces Grimaux glacez,</l>
               <l rend="i">Qui dans leurs Plaidoyers toujours embarassez,</l>
               <l rend="i">Sans expliquer le fait vont battre la campagne,</l>
-              <l rend="i">Tantost dans le Iapon, tantost dans l’Allemagne ?</l>
+              <l rend="i">Tantost dans le Japon, tantost dans l’Allemagne ?</l>
               <l rend="i">Ne le verrons-nous pas encor aprés vingt ans,</l>
               <l rend="i">Se cacher inconnu parmy les écoutans ?</l>
               <l rend="i">D’où vient qu’on entreprend plus qu’on ne devroit faire ?</l>
@@ -247,11 +246,11 @@
               <l rend="i">Pense-t-on que mes Vers n’auront pas de Lecteurs ?</l>
               <l rend="i">Nous voyons tous les jours mille méchans Auteurs,</l>
               <l rend="i">Aprés quelques Sonnets siflez sur le Parnasse,</l>
-              <l rend="i">Iusques au Poëme Epique élever leur audace,</l>
+              <l rend="i">Jusques au Poëme Epique élever leur audace,</l>
               <l rend="i">Et qui sçachant à peine ébaucher quelques traits,</l>
               <l rend="i">Se flatent d’égaler les plus hardis Portraits.</l>
               <l rend="i">Un jour dans un employ quand tu seras tranquille,</l>
-              <l><hi rend="i">Tu m’as chez toy, Damon, promis un doux azile</hi></l>
+              <l rend="i">Tu m’as chez toy, Damon, promis un doux azile</l>
               <l rend="i">Là sans ambition, &amp; sans craindre la faim,</l>
               <l rend="i">Sur les Peintres fameux je formeray ma main.</l>
               <l rend="i">Tantost pour te loüer je poliray mes rimes,</l>
@@ -295,7 +294,7 @@
               <l><hi rend="i">Avec ces beaux talens boufi de vaine gloire,</hi></l>
               <l rend="i"> Il se croyoit un esprit sans pareil,</l>
               <l rend="i">Le plus sçavant qu’eust vû le rivage de Loire,</l>
-              <l rend="i"> Depuis qu’y lui soit le Soleil.</l>
+              <l rend="i"> Depuis qu’y luisoit le Soleil.</l>
               <l rend="i">Le Curé de son Bourg, homme d’un vray merite,</l>
               <l rend="i">  Docteur de l’Université,</l>
               <l rend="i">  Plein de vertus, de probité,</l>
@@ -340,14 +339,14 @@
               <l rend="i">Vous voyez ce que c’est de parler, ou d’écrire,</l>
               <l rend="i"> Reprit alors le bon Pasteur.</l>
               <l rend="i"> Je vous parois assez bon Orateur,</l>
-              <l rend="i">Et je suis pour Gros-Iean un sujet de Satyre.</l>
+              <l rend="i">Et je suis pour Gros-Jean un sujet de Satyre.</l>
               <l rend="i"> Dés qu’au public on s’est livré,</l>
               <l rend="i">  On s’expose à la censure.</l>
               <l rend="i">  Tel merite estre admiré,</l>
               <l rend="i">  Qui d’abord reçoit injure</l>
               <l rend="i">  D’un ignorant averé.</l>
               <l rend="i">  Ce n’est nouvelle avanture</l>
-              <l rend="i">De trouver que Gros-Iean remontre à son Curé.</l>
+              <l rend="i">De trouver que Gros-Jean remontre à son Curé.</l>
             </lg>
           </quote>
         </div>
