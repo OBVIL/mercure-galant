@@ -62,7 +62,7 @@
           <quote>
             <label>AU ROY,<lb/>Sur la Victoire de Piedmont</label>
             <lg>
-              <l><hi rend="i">Quel spectacle pompeux attire nos regards ?</hi></l>
+              <l rend="i">Quel spectacle pompeux attire nos regards ?</l>
               <l rend="i">Quel amas de Drapeaux ! quel nombre d’Etendars !</l>
               <l rend="i"> Est-ce la Paix, ou la Victoire,</l>
               <l rend="i">Qui conduit ce Trophée au Temple de Memoire ?</l>
@@ -115,7 +115,7 @@
               <l rend="i">Un Heros triomphant dans la prosperité,</l>
               <l rend="i">Fait taire sa valeur, ses droits, sa politique,</l>
               <l rend="i">Et soumet ses exploits dans leur rapidité,</l>
-              <l rend="i"> A la tranquillité publique.</l>
+              <l rend="i"> À la tranquillité publique.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -156,7 +156,7 @@
           <p/>
           <p>S’il estoit permis de se servir d’un Proverbe, je dirois, Madame, que toute cette grande &amp; importante entreprise que les Anglois avoient formée sur la Martinique &amp; sur d’autres lieux, s’en est allée en eau de boudin. Cette expression viendra pourtant assez à propos, ayant à vous faire part d’une Historiette, dont un morceau de Boudin a fourny la matiere à un excellent Ouvrier. Vous avez leu quantité d’ouvrages de M<hi rend="sup">r</hi> Perrault de l’Academie Françoise, qui vous on fait voir la beauté de son genie dans les Sujets serieux. En voicy un, dont la lecture vous fera connoistre qu’il sçait badiner agreablement quand il luy plaist.</p>
           <quote>
-            <label>LES SOUHAITS<lb/>RIDICULES.<lb/><hi rend="i">CONTE.</hi><lb/>A Mademoiselle de la C.</label>
+            <label>LES SOUHAITS<lb/>RIDICULES.<lb/><hi rend="i">CONTE.</hi><lb/>À Mademoiselle de la C.</label>
             <lg>
               <l rend="i"> Si vous estiez moins raisonnable,</l>
               <l rend="i">Je me garderois bien de venir vous conter</l>
@@ -195,8 +195,8 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Un jour que dans le bois il se mit à se plaindre,</hi></l>
-              <l rend="i">A luy la foudre en main Jupiter s’apparut.</l>
+              <l rend="i">Un jour que dans le bois il se mit à se plaindre,</l>
+              <l rend="i">À luy la foudre en main Jupiter s’apparut.</l>
               <l rend="i"> On auroit peine à bien dépeindre</l>
               <l rend="i"> La peur que le bon homme en eut.</l>
               <l rend="i">Je ne veux rien, dit-il, en se jettant par terre,</l>
@@ -216,27 +216,27 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l rend="i">A ces mots Jupiter dans les Cieux remonta,</l>
-              <l><hi rend="i">Et le gay Bucheron embrassant sa falourde,</hi></l>
+              <l rend="i">À ces mots Jupiter dans les Cieux remonta,</l>
+              <l rend="i">Et le gay Bucheron embrassant sa falourde,</l>
               <l rend="i">Pour retourner chez luy sur son dos la jetta.</l>
               <l rend="i">Cette charge jamais ne luy parut moins lourde.</l>
-              <l> <hi rend="i">Il ne faut pas, disoit-il en trotant,</hi></l>
+              <l rend="i"> Il ne faut pas, disoit-il en trotant,</hi></l>
               <l rend="i"> De tout cecy rien faire à la legere.</l>
               <l rend="i"> Il faut, le cas est important,</l>
               <l rend="i"> En prendre avis de nostre Menagere.</l>
-              <l rend="i">C’a, dit-il en entrant sous son toit de feugere,</l>
+              <l rend="i">Ç’a, dit-il en entrant sous son toit de feugere,</l>
               <l rend="i"> Faisons, Fanchon, grand feu, grand’ chere,</l>
               <l rend="i"> Nous sommes riches desormais,</l>
               <l rend="i"> Et nous n’avons qu’à faire des souhaits.</l>
               <l rend="i">Là-dessus fort au long tout le fait il luy conte.</l>
-              <l rend="i"> A ce recit, l’Epouse vive &amp; prompte,</l>
+              <l rend="i"> À ce recit, l’Epouse vive &amp; prompte,</l>
               <l rend="i">Forma dans son esprit mille vastes projets,</l>
               <l rend="i"> Mais considerant l’importance</l>
               <l rend="i"> De s’y conduire avec prudence,</l>
               <l rend="i">Blaise, mon cher Amy, dit-elle à son Epoux,</l>
               <l rend="i"> Ne gastons rien par nostre impatience,</l>
               <l rend="i"> Examinons bien entre nous</l>
-              <l> <hi rend="i">Ce qu’il faut faire en pareille occurence.</hi></l>
+              <l rend="i"> Ce qu’il faut faire en pareille occurence.</l>
               <l rend="i">Remettons à demain nostre premier souhait,</l>
               <l rend="i"> Et consultons nostre chevet.</l>
               <l rend="i">Je l’entens bien ainsi, dit le bon homme Blaise,</l>
@@ -305,7 +305,7 @@
               <l rend="i"> De l’aller placer sur un Trône</l>
               <l rend="i"> Avec un nez plus long qu’une aune.</l>
               <l rend="i"> Il faut l’écouter sur cela ;</l>
-              <l><hi rend="i">Et qu’elle-mesme elle soit la Maistresse</hi></l>
+              <l rend="i">Et qu’elle-mesme elle soit la Maistresse<</l>
               <l rend="i">De devenir une grande Princesse,</l>
               <l rend="i">En conservant l’horrible nez qu’elle a,</l>
               <l rend="i"> Ou de demeurer Bucheronne,</l>
@@ -324,9 +324,9 @@
               <l rend="i">Ainsi le Bucheron ne changea point d’estat ;</l>
               <l rend="i"> Il ne devint point Potentat,</l>
               <l rend="i"> D’écus il n’emplit point sa Bourse,</l>
-              <l><hi rend="i">Trop heureux d’employer le desir qui restoit,</hi></l>
+              <l rend="i">Trop heureux d’employer le desir qui restoit,</l>
               <l rend="i"> Fraisle bonheur, pauvre ressource,</l>
-              <l rend="i">A remettre sa Femme en l’estat qu’elle estoit ;</l>
+              <l rend="i">À remettre sa Femme en l’estat qu’elle estoit ;</l>
               <l rend="i"> Tant il est vray qu’aux hommes miserables,</l>
               <l rend="i">Aveugles, imprudens, inquiets, variables,</l>
               <l rend="i"> Pas n’appartient de faire des souhaits,</l>
@@ -343,7 +343,7 @@
           <quote>
             <label>REFLEXIONS MORALES<lb/>DE MADAME<lb/>DES HOULIERRES<lb/>Sur l’envie immoderée de faire passer son Nom à la Posterité.</label>
             <lg>
-              <l rend="i">La sçavante CHERON par son divin pinceau</l>
+              <l rend="i">La sçavante CHERON par son divin pinçeau</l>
               <l rend="i"> Me redonne un éclat nouveau.</l>
               <l rend="i"> Elle force aujourd’huy les Graces,</l>
               <l rend="i">Dont mes cruels ennuis &amp; mes longues douleurs,</l>
@@ -383,17 +383,17 @@
               <l rend="i">Pour obtenir qu’un jour nostre nom y parvienne,</l>
               <l rend="i">Et pour nous l’assurer durable &amp; glorieux,</l>
               <l rend="i">Nous perdons le present, ce temps si precieux,</l>
-              <l> <hi rend="i">Le seul bien qui nous appartienent</hi></l>
+              <l rend="i"> Le seul bien qui nous appartienent</hi></l>
               <l rend="i">Et qui tel qu’un éclair disparoist à nos yeux.</l>
               <l rend="i">Au bonheur des Humains leurs chimeres s’opposent.</l>
               <l rend="i"> Victimes de leur vanité,</l>
               <l rend="i">Il n’est chagrin, travail, danger, adversité,</l>
-              <l rend="i"> A quoy les mortels ne s’exposent</l>
+              <l rend="i"> À quoy les mortels ne s’exposent</l>
               <l rend="i">Pour transmettre leurs noms à la posterité !</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l rend="i"> A quel dessein, dans quelles vuës,</l>
+              <l rend="i"> À quel dessein, dans quelles vuës,</l>
               <l rend="i"> Tant d’obelisques, de portraits,</l>
               <l rend="i"> D’Arcs, de Medailles, de Statuës,</l>
               <l rend="i">De Villes, de Tombeaux, de Temples, de Palais,</l>
@@ -427,7 +427,7 @@
             <lg>
               <l rend="i"> Je sçay que la gloire est trop belle</l>
               <l rend="i">Pour ne pas inspirer de violens desirs.</l>
-              <l> <hi rend="i">Chercher, l’acquerir, &amp; pouvoir joüir d’elle,</hi></l>
+              <l rend="i">Chercher, l’acquerir, &amp; pouvoir joüir d’elle,</l>
               <l rend="i"> Est le plus parfait des plaisirs.</l>
               <l rend="i">Oüy, ce bonheur pour l’Homme est le bonheur suprême,</l>
               <l rend="i"> Mais c’est là qu’il faut s’arrester.</l>
@@ -538,7 +538,7 @@
               <l rend="i">Et pour détruire en luy ce fond de vanité</l>
               <l rend="i">Qui ne luy peut laisser aucuns momens tranquilles ?</l>
               <l rend="i"> Non, mais un esprit d’équité</l>
-              <l rend="i">A combattre le faux incessamment m’attache,</l>
+              <l rend="i">À combattre le faux incessamment m’attache,</l>
               <l rend="i">Et fait qu’à tout hazard j’écris ce que m’arrache</l>
               <l rend="i"> La force de la verité.</l>
             </lg>
@@ -548,7 +548,7 @@
               <l rend="i">De guerir les mortels de cette vieille erreur,</l>
               <l rend="i"> Qu’ils aiment jusqu’à la fureur,</l>
               <l rend="i">Si moy qui la condamne ay peine à m’en deffendre ?</l>
-              <l><hi rend="i">Ce portrait dont Appelle auroit esté jaloux</hi></l>
+              <l rend="i">Ce portrait dont Appelle auroit esté jaloux</l>
               <l rend="i">Me remplit malgré moy de la flateuse attente</l>
               <l rend="i">Que je ne sçaurois voir dans autruy sans couroux.</l>
               <l rend="i"> Foible raison que l’Homme vante,</l>
@@ -585,7 +585,7 @@
           <quote>
             <label>L’ENVIE.</label>
             <lg>
-              <l> <hi rend="i">Qu’entens-je, cruelle Ennemie ?</hi></l>
+              <l rend="i"> Qu’entens-je, cruelle Ennemie ?</l>
               <l rend="i">Quel bruit fatal viens-tu répandre dans ces lieux ?</l>
               <l rend="i"> Quoy, Louis est victorieux,</l>
               <l rend="i"> Malgré l’Enfer, malgré l’Envie.</l>
@@ -623,9 +623,9 @@
             </lg>
           </quote>
           <quote>
-            <label>AU DUC DE CROY,<lb/>sur la levée du Siege de Belgrade.</label>
+            <label>AU DUC DE CROY,<lb/>sur la levée du Siege<lb/>de Belgrade.</label>
             <lg>
-              <l><hi rend="i">Quoy ! tu viens de lever le Siege de Belgrade ?</hi></l>
+              <l rend="i">Quoy ! tu viens de lever le Siege de Belgrade ?</l>
               <l rend="i"> C’est mal débusé, Duc de Croy,</l>
               <l rend="i">Les Turcs se prévaudront d’une telle cacade,</l>
               <l rend="i">Ta valeur dans leurs cœurs causera peu d’effroy ;</l>
@@ -645,17 +645,17 @@
           <p>Je vous ay déja parlé des quatre parties des Forces de l’Europe, qui ont esté données au Public La cinquiéme vient de paroistre. On trouve d’abord une Table divisée en huit colomnes, dont les cinq premieres contiennent les noms des Plans qui y sont entrez. Ceux de la cinquiéme partie que l’on vient de mettre au jour, sont le Plan de Paris, trois feüilles du Canal de Maintenon, Lisle, Liege, Luxembourg, le Sas de Gand, Arras, les Forts de la Kenoque, François, &amp; Loüis, les environs de Francfort, Heydelberg, Hailbron, Rheinfels, le Plan de Fribourg, la veuë de Fribourg, Basle, le Combat de Leuze &amp; celuy de Steinkerke ; la Bataille de Neerwinde, Quebec assiegé par les Anglois, &amp; Charleroy. Le Plan de Paris, qui se trouve à la teste de cette mesme partie, quoy que petit, ne laisse pas d’estre aussi correct que le grand, &amp; il n’y manque ny ruës, ny ruelles, ny Culs de sac. Il est de la plus belle graveure qui ait jamais paru pour un Plan. Ces cinq parties se vendent à Paris chez l’Auteur, dans l’Isle du Palais, sur le Quay de l’Horloge, à la Sphere Royale. Il donnera d’année en année les trois parties qui restent pour achever ce grand Ouvrage.</p>
         </div>
         <div type="article" xml:id="MG-1693-11_147" resp="wordpro">
-          <head>[Tout ce qui s’est passé à l’Academie Françoise, le jour de la reception de Mr du Bois]</head>
+          <head>[Tout ce qui s’est passé à l’Academie Françoise, le jour de la reception de M<hi rend="sup">r</hi> du Bois]</head>
           <bibl><title>Mercure Galant</title>, novembre 1693 [tome 14], p. 147-174.</bibl>
           <p/>
           <p>Le Jeudy 12. de ce mois, M<hi rend="sup">r</hi> du Bois, celebre par les excellentes Traductions qu’il nous a données des Lettres de Saint Augustin, &amp; de plusieurs Traitez de Ciceron, avec des Notes aussi curieuses que sçavantes, fut receu en l’Academie Françoise, à la place de feu M<hi rend="sup">r</hi> de Novion, premiere President au Parlement de Paris. Son Discours receut de grands applaudissemens, &amp; il en estoit tres digne. Aprés avoir marqué avec beaucoup d’éloquence qu’il connoissoit tout le prix de l’honneur qu’on luy faisoit en l’admettant dans une Compagnie illustrée par les plus éminentes Dignitez de l’Eglise &amp; de l’Etat, receuë dés sa naissance dans le sein du grand Cardinal de Richelieu, dont elle avoit partagé les soins &amp; l’application, recueilie aprés sa mort par un Chancelier, d’un merite égal à sa dignité, &amp; enfin adoptée par le Roy mesme, qui a bien voulu s’en declarer le Protecteur, &amp; en établir le Siege jusque dans le Sanctuaire de la Majesté Royale, il dit que cet honneur estoit encore rehaussé par la place où il avoit peine à soutenir de se voir, quand il pensoit qu’on l’avoit veuë remplie par un Magistrat d’un merite qui l’avoit élevé jusqu’au faiste du plus auguste Tribunal de la Justice, d’un nom en possession des plus hautes dignitez de l’Epée aussi-bien que de la Robe, d’une fidelité hereditaire &amp; inviolable pour son Roy, dans les temps les plus difficiles ; d’un esprit aisé ; d’une éloquence vive &amp; concise ; &amp; d’une capacité proportionnée à la grandeur de ses emplois, &amp; dont les changemens de fortune n’avoient servi qu’à faire connoistre qu’il possedoit également, &amp; les vertus de la vie privée, &amp; celles de la Magistrature. Il ajoûta, en parlant de ce que Messieurs de l’Academie ont fait pour la Langue, en la fixant par le Dictionnaire qui est prest à voir le jour, que ce n’estoit que la moindre partie de ce que l’Eloquence leur devoit ; qu’ils en avoient banny ces affectations pueriles, qui estoient comme ses joüets dans l’enfance où ils l’avoient trouvée, &amp; tout ce faste d’érudition, qui n’estoit qu’un supplement à la disette des pensées ; qu’ils luy avoient osté cette vaine parure de grands mots qui entretenoient la fausse idée qu’on s’en estoit faite au commencement de ce Siecle, &amp; qu’ils l’avoient reduite à cette noble simplicité, qui sure de son prix &amp; de son merite, dédaigne tous les ornemens étrangers ; qu’enfin ils avoient appris au Public, que pour parler éloquemment il ne faut que sçavoir la Langue, &amp; bien penser, &amp; que le discours le plus parfait est celuy où la sublimité &amp; la continuité des pensées laisse le moins faire d’attention aux paroles, &amp; que la seule necessité de passer par les sens pour aller à l’esprit, rend different du langage des Anges. Il passa de là à l’Eloge de nostre Auguste Monarque, &amp; dit que bien loin de chercher à relever l’éclat de ses actions par les secours de l’Eloquence, on n’estoit en peine que de le temperer jusqu’à la portée de nos yeux. Et quels yeux, continua-t-il, ne seroient ébloüis de ce que le zele &amp; l’amour de la Religion, autant que le soin de sa gloire &amp; de son Estat, luy font faire pour rompre les efforts d’une Ligue, qui par une espece d’enchantement, a sceu réunir tant d’interests opposez, &amp; de Religions differentes, &amp; soulever contre luy presque toutes les Puissances de l’Europe ? Mais à quoy a-t-elle servi, qu’à tirer la valeur du Roy de la contrainte où sa moderation la tenoit depuis long-temps, &amp; à faire voir par les Conquestes qu’il fait sur tant d’Ennemis assemblez, ce qu’il pourroit contre chacun ? Combien de succez sur terre &amp; sur mer dans cette derniere Campagne ! Combien de Villes conquises ! Combien de Batailles gagnées ! Et quelle Victoire plus glorieuse &amp; plus complette que celle que le Roy vient de remporter en Piedmont ? En quel estat reduit-elle un Prince, qui fier d’une Puissance empruntée, a osé se mesurer à celle de nostre Maistre ? Heureux, si ses disgraces pouvoient luy faire comprendre qu’il n’y a de salut pour luy, que dans les bonnes graces du Roy ! Toute la vie de ce grand Monarque est pleine de pareils Miracles, mais j’ose dire que ce qui fait la gloire des autres Princes nuit à la sienne, &amp; qu’il y a toûjours à perdre pour luy, lors que par le bruit de ses Exploits, il détourna nostre attention de ses Vertus interieures. Quel spectacle offrent-elles aux yeux de l’esprit ? Quel prodige, que l’Alliance qu’il a sceu faire dés ses premieres années du Souverain pouvoir, &amp; de la souveraine moderation ! Quel spectacle encore une fois, qu’un pouvoir sans bornes sous le joug de la raison, &amp; si parfaitement assujetti aux Loix les plus severes, je ne dis pas de l’humanité, mais de l’honnesteté mesme &amp; de la politesse, que dans toute la vie du Roy, il ne luy est pas échapé une seule parole qui pust contrister le moindre de ceux qui ont l’honneur de l’approcher ! Voila ce qui acheve dans le Roy, le caractere d’un veritable Heros, &amp; qui le distingue si noblement de ces faux Heros, dont toute la vertu n’est que hauteur &amp; ferocité. Si l’on tient compte aux autres hommes de ce qu’il paroist de moderation en eux, quoy que ce ne soit dans la plus part que l’effet de leur foiblesse &amp; de leur impuissance, qui peut jamais assez admirer celle d’un Prince qui n’a qu’à vouloir, &amp; en qui elle n’a point d’autre frein que sa Sagesse ? Quelle autre Vertu se soûtiendroit si elle estoit mise à une telle épreuve, &amp; qui est ce qui ne succomberoit pas quelquefois à l’envie trop naturelle de faire sentir, aux dépens mesme de l’humanité, qu’on est le Maistre ? M<hi rend="sup">r</hi> du Bois finit en disant à M<hi rend="sup">rs</hi> de l’Academie, qu’ils devoient à la posterité, le Portrait de cette grande Ame, &amp; que c’estoit à eux à luy transmettre pour l’instruction des Rois, ce que nous admirons le plus dans le nostre.</p>
           <p>M<hi rend="sup">r</hi> l’Abbé Testu de Mauroy, ancien Aumosnier de Madame, &amp; alors Directeur de l’Academie, répondit à ce discours d’une maniere qui fit connoistre qu’il estoit tres digne de l’avantage qu’il avoit de parler au nom de la Compagnie. Il dit d’abord à M<hi rend="sup">r</hi> du Bois, que l’Academie Françoise, également sensible à la perte &amp; à l’acquisition des Sujets qui la composent, ouvroit ce jour-là ses Portes, pour témoigner publiquement sa joye &amp; sa douleur, asseurée que soit qu’elle celebrast le merite du Défunt Illustre dont il remplissoit la place, soit qu’elle couronnast le sien, elle trouveroit autant d’approbateurs, qu’il y avoit de personnes distinguées dans la Republique des Lettres. Il ajoûta au Portrait qui avoit esté déja fait des rares qualitez de feu M<hi rend="sup">r</hi> de Novion, l’Eloge qui estoit deu à la sagesse qui l’avoit fait descendre du haut degré où l’avoit élevé son merite, en le mettant à la teste du plus auguste Senat du monde. Il n’est pas ordinaire, dit-il, de trouver des personnes capables des grands Emplois. Il l’est moins encore de leur voir garder une juste moderation, lors qu’ils y sont une fois établis, mais il est surprenant qu’ils renoncent à l’autorité, aprés en avoir goûté les charmes. Le poids des années a beau survenir à celuy des grandes Affaires ; ils traînent les Liens d’Or &amp; de Pourpre qui les attachent, sans avoir la force de les rompre, &amp; si par un bonheur qui n’arrive presque jamais, ils entrevoyent l’Innocence &amp; la douceur de la vie privée, c’est toûjours si inutilement &amp; si tard, que la seduction de cette même autorité qui leur a fait tout entreprendre, ne leur sçauroit permettre de la quitter. Il passa de là à l’avantage que M<hi rend="sup">r</hi> du Bois avoit eu d’être Gouverneur de-feu M<hi rend="sup">r</hi> le Duc de Guise, Neveu de Mademoiselle de Guise, qui avoit bien voulu se servir de ses Conseils en toutes sortes d’occasions, &amp; en parlant des productions de son genie, il dit qu’elles n’estoient plus entierement à luy, &amp; que ces fidelles Traductions des Lettres, des Confessions, &amp; des autres Ouvrages de Saint Augustin que le Public a receus avec tant d’applaudissement, les Offices de Ciceron, ses beaux Traitez de l’Amitié, de la Vieillesse, &amp; des Paradoxes si ingenieusement enrichis de Remarques également pieuses &amp; sçavantes, estoient un bien que l’Academie avoit droit de partager avec luy. Il ajousta qu’il la trouveroit appliquée à composer une Grammaire de nostre Langue, &amp; sur le point de publier son Dictionnaire, mais que ce qui l’occupoit davantage, estoit le soin de travailler à la gloire du plus grand Roy du monde. Que le Prince ambitieux, poursuivit-il, qui a déja seduit la plus grande partie des Puissances de l’Europe, acheve de multiplier les forces de ses Alliez, Loüis le Grand a trois Puissances avec quoy il reduira toutes celles de la terre, sa Teste, le Bras de ses Generaux, &amp; le Cœur de ses Peuples. Avec cela, point de Conseils qu’il ne dissipe point de Forteresse qu’il ne foudroye, point de Victoire qu’il ne remporte. Roches escarpées que la situation rend audacieuses, vous n’estes plus imprenables Fameuses journées de Staffarde, de Steinkerque, de Neerwinde, de la Marsaille, vous serez éternellement memorables par la honte &amp; par la défaite entiere de ses Ennemis. Voiles innombrables, qui occupiez tout l’Ocean pendant cette derniere Campagne, &amp; qui menaçiez si fierement nos Costes, fuyez, rentrez dans vos Ports, le Frere de Loüis le Grand est trop prés de vous. Il finit en disant à M<hi rend="sup">r</hi> du Bois, qu’il devoit se souvenir qu’un Academicien est un homme consacré à la Gloire du Roy, &amp; que si ceux qui sont témoins de ses grandes Actions ont tant de peine à publier dignement le prodiges de son Regne, la Posterité n’en aura pas moins à les croire.</p>
           <p>Ces deux Discours ayant esté prononcez, M<hi rend="sup">r</hi> l’Abbé Tallemant leut une suite du Poëme de la Creation du monde de M<hi rend="sup">r</hi> Perraut. C’estoit l’endroit du Deluge. On y trouva des descriptions tres-vives. Il leut ensuite les Vers que je vous envoye. Ils sont de M<hi rend="sup">r</hi> Boyer, &amp; furent extremement applaudis.</p>
           <quote>
-            <label>A M<hi rend="sup">r</hi> LE MARESCHAL<lb/>DE CATINAT.</label>
+            <label>À M<hi rend="sup">r</hi> LE MARESCHAL<lb/>DE CATINAT.</label>
             <lg>
               <l rend="i"> Trop foible pour pouvoir suffire</l>
-              <l rend="i"> A chanter les fameux Exploits,</l>
+              <l rend="i"> À chanter les fameux Exploits,</l>
               <l rend="i"> Par qui le Roy, vangeur des Rois,</l>
               <l rend="i">Voit croistre tous les jours son Nom &amp; son Empire,</l>
               <l rend="i">Ma Muse fatiguée estoit presque aux abois ;</l>
@@ -676,7 +676,7 @@
               <l rend="i"> Gemir sous un joug inhumain ;</l>
               <l rend="i"> Et voit avec indifference,</l>
               <l rend="i">Tous ses Voisins en proye à l’injuste licence,</l>
-              <l rend="i">A toutes les fureurs du barbare Germain.</l>
+              <l rend="i">À toutes les fureurs du barbare Germain.</l>
               <l rend="i">LOUIS qui des Tirans aime à purger la terre,</l>
               <l rend="i">Choisit sans balancer, &amp; trouve en luy la main</l>
               <l rend="i">Qui pouvoit sagement gouverner son Tonnerre.</l>
@@ -732,7 +732,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Elle est entre tes mains juste, modeste, sage,</hi></l>
+              <l rend="i">Elle est entre tes mains juste, modeste, sage,</l>
               <l rend="i"> Et de tant d’Ennemis défaits,</l>
               <l rend="i"> Ne veut tirer autre avantage,</l>
               <l rend="i"> Que d’estre enfin l’heureux passage</l>
@@ -742,7 +742,7 @@
             <lg>
               <l rend="i">Pour remplir de Louis le destin heroïque,</l>
               <l rend="i">Songe qu’estre à la fois Roy, Conquerant, Vainqueur,</l>
-              <l><hi rend="i">Que tout ce que ces noms ont de plus magnifiques,</hi></l>
+              <l rend="i">Que tout ce que ces noms ont de plus magnifiques,</l>
               <l rend="i">N’égale point le nom de Pacificateur.</l>
               <l rend="i">Pour répondre à ses vœux ose tout entreprendre,</l>
               <l rend="i"> Il faut que ta teste ou ton bras</l>
@@ -750,7 +750,7 @@
               <l rend="i">Que sa perte, ou la Paix, finissent nos Combats.</l>
               <l rend="i">Acheve, si l’ingrat ose encor se défendre,</l>
               <l rend="i"> La Paix se prépare à descendre.</l>
-              <l><hi rend="i">Que l’Ennemy la voye, &amp; n’en joüisse pas.</hi></l>
+              <l rend="i">Que l’Ennemy la voye, &amp; n’en joüisse pas.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -789,8 +789,17 @@
           <head>[Etat des Regimens de Carabiniers]</head>
           <bibl><title>Mercure Galant</title>, novembre 1693 [tome 14], p. 255-261.</bibl>
           <p/>
-          <p>Vous ne serez pas fachée d’apprendre ce qui suit touchant les Carabiniers du Roy, dont je vous ay déjà parlé. Le Régiment est composé de cent Compagnies de Carabiniers, de trente Maistres chaune, faisant en tout trois mille Carabiniers &amp; quatre cens Officiers, y compris le Mestre de Camp en pied, les cinq Mestres de Camp sous luy les cinq Lieutenans Colonels, les cinq Majors, &amp; les cinq Aides Majors. Ils feront vingt Escadrons de cinq Compagnies chacun, dont il y en aura deux des vieux Regimens &amp; trois des nouveaux .[...]</p>
-          <p>A chaque quatre Escadrons il y aura un Timbalier à la Compagnie du Mestre de Camp, habillé de la Livrée du Roy, sans or ny argent, aussi-bien que les Trompettes de toutes les Compagnies.</p>
+          <p>Vous ne serez pas fachée d’apprendre ce qui suit touchant les Carabiniers du Roy, dont je vous ay déjà parlé. Le Régiment est composé de cent Compagnies de Carabiniers, de trente Maistres chacune, faisant en tout trois mille Carabiniers &amp; quatre cens Officiers, y compris le Mestre de Camp en pied, les cinq Mestres de Camp sous luy les cinq Lieutenans Colonels, les cinq Majors, &amp; les cinq Aides Majors. Ils feront vingt Escadrons de cinq Compagnies chacun, dont il y en aura deux des vieux Regimens &amp; trois des nouveaux .</p>
+          <p>le Mestre de Camp en pied aura l'inspection sur tout le Regiment, &amp; les autres l'auront seulement sur vingt Compagnies faisant quatre Escadrons, &amp; cela par police &amp; pour la commodité du service, car ils auront aussi autorité sur tout également selon leurs emplois &amp; leur ancienneté, aussi bien que les Lieutenans Colonels, le Majors &amp; les Aides Majors.</p>
+          <p>Quand on separera le Regiment dans differentes armées, on mettra toujours un Mestre de Camp pour commander les differens Corps, &amp; les autres Officiers de l'Estat Major à proportion.</p>
+          <p>Le service se fera comme les Carabiniers l'ont fait jusques à present, tant pour les Gardes que pour les détachemens.</p>
+          <p>Les Compagnies seront entretenuës par tous les Regimens François de Cavalerie qui fourniront à tour de Rôle les Recruës necessaires, tant pour les Officiers que pour les Cavaliers à moins que le Roy n'en ordonnast autrement.</p>
+          <p>Le Regiment sera habillé de bleu doublé de rouge, les Cavaliers d'un bon drap uny, &amp; les Officiers de mesme, à la reserve des Boutons d'argent filé qu'ils auront, &amp; un galon d'argent sur les manches, &amp; au Colet des manteaux qui seront bleus comme ceux des Cavaliers.</p>
+          <p>Le Chapeau sea bordé d'un Galon d'argent plus large que celuy des Cavaliers.</p>
+          <p>Les Housses des Cavaliers bleuës, toutes unies, bordées d'un galon de soye blanche, &amp; les Bourses de Pistolets tout de mesme ; leur Ceinturon de Buffle avec un bord de cuir blanc &amp; la Bandouliere de mesme ; les Gands &amp; des Cravates noires. Les Officiers en auront aussi, excepté que ce qui est blanc aux Cavaliers ils l'auront d'argent, Les estrieres des Chevaux propres &amp; toutes unies ; des Bossettes dorées toutes unies aussi ; des Epées de mesme longueur &amp; largeur, des Carabines rayées pareilles, &amp; tout ce qu'il faut pour les charger, observant d'avoir des bales de deux Calibres, les unes pour entrer à force avec le marteau &amp; la baguette de fer, &amp; les autres plus petites pour recharger plus promptement si on en a besoin.</p>
+          <p>Les Pistolets les meilleurs qu'on pourra trouver de quinze pouces de longueur.</p>
+          <p>Les Chevaux tous de mesme taille, à longue queuë, &amp; l'ayant retroussée de mesme, sans rubans ny trousse-queuë.</p>
+          <p>À chaque quatre Escadrons il y aura un Timbalier à la Compagnie du Mestre de Camp, habillé de la Livrée du Roy, sans or ny argent, aussi-bien que les Trompettes de toutes les Compagnies.</p>
         </div>
         <div type="article" xml:id="MG-1693-11_268" resp="wordpro">
           <head>[Caracteres des Femmes du Siecle]</head>
