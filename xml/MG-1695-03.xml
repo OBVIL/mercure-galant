@@ -121,7 +121,7 @@
               <l rend="i"> Vostre amitié va trop loin ; croyez moy,</l>
               <l rend="i"> Faisons tous deux de nostre vie,</l>
               <l rend="i"> Que nous devons à nostre Roy,</l>
-              <l rend="i"> Vn meilleur &amp; plus sage employ,</l>
+              <l rend="i"> Un meilleur &amp; plus sage employ,</l>
               <l rend="i">La risquer sans son ordre est &amp; crime &amp; folie ;</l>
               <l rend="i">Luy seul a droit sur elle, &amp; sans en jeunes sots</l>
               <l rend="i"> La prodiguer mal à propos,</l>
@@ -134,9 +134,9 @@
               <l rend="i">Dépend-il aprés tout de son peu de pudeur ?</l>
               <l rend="i"> Non, ses tours de coquetterie</l>
               <l><hi rend="i">Ne peuvent me donner vos sentimens boüillans ;</hi></l>
-              <l rend="i">Carde me battre enfin contre tous ses Galans,</l>
+              <l rend="i">Car de me battre enfin contre tous ses Galans,</l>
               <l rend="i"> Trop forte seroit la partie,</l>
-              <l rend="i">Es bien-tost sur ! es bras j’aurois assurément</l>
+              <l rend="i">Et bien-tost sur les bras j’aurois assurément</l>
               <l rend="i"> La moitié de mon Regiment.</l>
             </lg>
           </quote>
@@ -144,69 +144,67 @@
       <div type="article" xml:id="MG-1695-03_068" resp="mercure">
         <head>[Le retour des Plaisirs, Ballet dansé à S. Malo]</head>
         <bibl><title>Mercure Galant</title>, mars 1695 [tome 3], p. 68-90.</bibl>
-        <p/>
         <p>Les divertissemens ont esté grands ce dernier Carnaval à Saint Malo. Les Habitans se sont souvenus avec plaisir du peu d’effet qu’avoit eu le Bombardement tenté il y a quelques mois par les Ennemis ; ce qui est cause qu’on y a dansé un Balet entremêlé de paroles, dont la Musique a esté faite par Mr le Batteux, Maistre de Musique de la Cathedrale de la mesme Ville. Je vous en envoye les paroles.</p>
-        <p/>
-        <p>LE RETOUR</p>
-        <p>DES PLAISIRS.</p>
-        <p>BALLET.</p>
-        <p>Premiere Entrée.</p>
-        <p>La France, les Plaisirs, Choeur</p>
-        <p>de François.</p>
-        <p/>
-        <p>LA FRANCE.</p>
-        <p>Le calme répond à nos voeux.</p>
-        <p>Venez, Plaisirs, venez, Ris, venez, Ieux,</p>
-        <p>Achever de nous rendre heureux.</p>
-        <p/>
-        <p>Choeur de François.</p>
+        <quote>
+        <label>LE RETOUR DES PLAISIRS.</label>
+          <label>BALLET.<lb/><hi rend="i">Premiere Entrée.</hi></label>
+        <label type="stage">La France, les Plaisirs, Choeur de François.</label>
+        <label type="speaker">LA FRANCE.</label>
+          <lg>
+            <l><hi rend="i">Le calme répond à nos voeux.</hi></l>
+            <l><hi rend="i">Venez, Plaisirs, venez, Ris, venez, Ieux,</hi></l>
+            <l><hi rend="i">Achever de nous rendre heureux.</hi></l>
+        </lg>
+          <label type="speaker">Choeur de François.</label>
+          <lg>
+            <l><hi rend="i">Le calme, &amp;c.</hi></l>
+        </lg>
+          <label type="speaker">LA FRANCE.</label>
+          <lg>
+            <l><hi rend="i">Assez longtemps une cruelle absence</hi></l>
+            <l><hi rend="i">Nous a privez des momens precieux,</hi></l>
+            <l><hi rend="i">Qu’autrefois dans ces mesmes lieux</hi></l>
+            <l><hi rend="i">Nous procuroit vostre aimable presence.</hi></l>
+            <l><hi rend="i">Il est temps, doux Plaisirs, de paroistre à nos yeux.</hi></l>
+            <l><hi rend="i">Contentez nostre impatience</hi></l>
+            <l><hi rend="i">Dans ce sejour delicieux,</hi></l>
+            <l><hi rend="i">Tout vous invite à rompre le silence.</hi></l>
+            <l><hi rend="i">Le calme répond, &amp;c.</hi></l>
+        </lg>
+          <label type="speaker">Choeur de François.</label>
         <p>Le calme, &amp;c.</p>
         <p/>
-        <p>LA FRANCE.</p>
-        <p>Assez longtemps une cruelle absence</p>
-        <p>Nous a privez des momens precieux,</p>
-        <p>Qu’autrefois dans ces mesmes lieux</p>
-        <p>Nous procuroit vostre aimable presence.</p>
-        <p>Il est temps, doux Plaisirs, de paroistre à nos yeux.</p>
-        <p>Contentez nostre impatience</p>
-        <p>Dans ce sejour delicieux,</p>
-        <p>Tout vous invite à rompre le silence.</p>
-        <p>Le calme répond, &amp;c.</p>
-        <p/>
-        <p>Choeur de François.</p>
-        <p>Le calme, &amp;c.</p>
-        <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>Evitons, évitons le bruit affreux des armes.</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Revenez, Plaisirs, revenez.</p>
         <p/>
-        <p>LES PLAISIRS ;</p>
+          <label  type="speaker">LES PLAISIRS ;</label>
         <p>Evitons, évitons le bruit affreux des armes.</p>
         <p>On n’entend plus icy qu’alarmes,</p>
         <p>Quittons des lieux qui leur sont destinez.</p>
         <p>Evitons, évitons le bruit affreux des armes.</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label  type="speaker">LA FRANCE.</label>
         <p>Revenez, Plaisirs, revenez.</p>
         <p>Où desormais trouverez-vous des charmes,</p>
         <p>Si ces lieux sont pour vous des lieux infortunez ?</p>
         <p>Revenez, Plaisirs, revenez.</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label  type="speaker">LES PLAISIRS.</label>
         <p>Evitons, évitons le bruit affreux des armes.</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Revenez, Plaisirs, revenez.</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>C’est la France qui nous appelle,</p>
         <p>Courons, volons, rangeons-nous auprés d’elle,</p>
         <p>Et que les Ieux &amp; les Ris desormais</p>
         <p>Ne songent plus qu’à remplir ses souhaits.</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Plaisirs volages,</p>
         <p>Où fuyez vous ?</p>
         <p>Revenez tous</p>
@@ -220,13 +218,13 @@
         <p>Plaisirs volages,</p>
         <p>Revenez tous.</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>Nous vous suivons, Déesse aimable,</p>
         <p>Où voulez-vous que nous portions nos pas ?</p>
         <p>Sont-ce icy les heureux climats,</p>
         <p>Où nous devons gouster ce repos agreable ?</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Ouy, vous pouvez en seureté</p>
         <p>Iouir dans ces beaux lieux de la douceur charmante</p>
         <p>Qu’un heureux sort vous y presente :</p>
@@ -234,13 +232,13 @@
         <p>Loin d’y trouver des sujets d’épouvante,</p>
         <p>Vous y serez surpris de leur tranquillité.</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>Aprés de cruels orages,</p>
         <p>Quand le calme est de retour ;</p>
         <p>Qu’un pur &amp; tranquille jour</p>
         <p>A de charmans avantages !</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Que le repos a d’attraits.</p>
         <p>Lors qu’au bruit affreux des armes,</p>
         <p>On voit succeder la Paix !</p>
@@ -250,30 +248,30 @@
         <p>Lors qu’à de vives alarmes</p>
         <p>On voit succeder la Paix !</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>Apprenez-nous quels Dieux à nos malheurs sensibles,</p>
         <p>Nous donnent des jours si paisibles,</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Le Dieu des eaux touché de nostre déplaisir,</p>
         <p>Nous a procuré ce loisir.</p>
         <p/>
-        <p>Choeur de François.</p>
+          <label type="speaker">Choeur de François.</label>
         <p>Le Dieu des eaux, &amp;c.</p>
         <p/>
-        <p>LES PLAISIRS.</p>
+          <label type="speaker">LES PLAISIRS.</label>
         <p>Qu’on n’entende donc plus de plaintes</p>
         <p>Puis que ce Dieu puissant s’interesse pour nous.</p>
         <p>Commençons aprés tant de craintes,</p>
         <p>A jouir d’un destin plus doux.</p>
         <p/>
-        <p>LA FRANCE.</p>
+          <label type="speaker">LA FRANCE.</label>
         <p>Accourez, que chacun se presse</p>
         <p>De satisfaire à nos desirs.</p>
         <p>Que tous vos pas inspirent l’allegresse :</p>
         <p>Qu’on n’entende que chants aprés tant de soupirs.</p>
         <p/>
-        <p>CHOEUR.</p>
+          <label type="speaker">CHOEUR.</label>
         <p>Accourons, que chacun se presse,</p>
         <p>De satisfaire à vos desirs ;</p>
         <p>Que tous nos pas inspirent l’allegresse,</p>
@@ -283,7 +281,7 @@
         <p>Neptune, premier Maloüin, second</p>
         <p>Maloüin, Choeur de Maloüins.</p>
         <p/>
-        <p>NEPTUNE.</p>
+          <label type="speaker">NEPTUNE.</label>
         <p>Partez, allez, volez, soufles impetueux,</p>
         <p>Le Dieu de la Mer vous l’ordonne</p>
         <p>Que rien ne trouble icy les plaisirs &amp; les jeux ;</p>
@@ -297,29 +295,29 @@
         <p>Iouissez du bonheur</p>
         <p>Que mon bras vous presente.</p>
         <p/>
-        <p>Choeur de Maloüins.</p>
+          <label type="speaker">Choeur de Maloüins.</label>
         <p>Desormais sur ces bords vivons sans épouvante,</p>
         <p>Neptune a de l’Anglois repoussé la fureur.</p>
         <p>Iouissons du bonheur</p>
         <p>Que ce Dieu nous presente.</p>
         <p/>
-        <p>Premier Malouïn.</p>
+          <label type="speaker">Premier Malouïn.</label>
         <p>Nous avons vû par luy tomber l’audacieux</p>
         <p>Sous une montagne brûlante.</p>
         <p>C’est par luy que couvert d’un deluge de feux,</p>
         <p>Nous l’avons vû contraint de voir à nos yeux</p>
         <p>Les restes enflammez de sa rage mourante.</p>
         <p/>
-        <p>Second Maloüin.</p>
+          <label type="speaker">Second Maloüin.</label>
         <p>C’est par luy qu’une paix charmante</p>
         <p>Est de retour dans ces climats heureux,</p>
         <p>Et c’est de sa main bienfaisante</p>
         <p>Que nous tenons un bien qui comble tous nos voeux.</p>
         <p/>
-        <p>Choeur de Maloüins.</p>
+          <label type="speaker">Choeur de Maloüins.</label>
         <p>Desormais sur ces bords, &amp;c.</p>
         <p/>
-        <p>Premier Maloüin.</p>
+          <label type="speaker">Premier Maloüin.</label>
         <p>Ne songeons qu’à jouir de la tranquillité</p>
         <p>Qu’il assure à ces lieux par son bras invincible.</p>
         <p>On ne peut estre plus sensible</p>
@@ -328,41 +326,41 @@
         <p>L’amour qu’il a pour nous de jour en jour s’augmente,</p>
         <p>Et n’a jamais tant éclaté.</p>
         <p/>
-        <p>Second Maloüin.</p>
+          <label type="speaker">Second Maloüin.</label>
         <p>Neptune favorable !</p>
         <p>Qu’un aussi doux repos soit à jamais durable.</p>
         <p/>
-        <p>Premier Maloüin.</p>
+          <label type="speaker">Premier Maloüin.</label>
         <p>Vous qui de nos malheurs avez finy le cours.</p>
         <p/>
-        <p>Second Malouin.</p>
+          <label type="speaker">Second Malouin.</label>
         <p>Vous par qui nous goûtons de si tranquilles jours.</p>
         <p/>
-        <p>Toux deux.</p>
+          <label type="speaker">Toux deux.</label>
         <p>Neptune favorable !</p>
         <p>Protegez-nous toujours</p>
         <p/>
-        <p>NEPTUNE,</p>
+          <label type="speaker">NEPTUNE,</label>
         <p>Goustez, goustez en assurance</p>
         <p>Les doux momens que vous offre mon bras ;</p>
         <p>Vivez en paix, vivez sans embarras :</p>
         <p>Neptune prend vostre défense.</p>
         <p/>
-        <p>Premier Malouin.</p>
+          <label type="speaker">Premier Malouin.</label>
         <p>Que rien ne trouble plus des lieux si pleins d’appas.</p>
         <p/>
-        <p>Second Malouin.</p>
+          <label type="speaker">Second Malouin.</label>
         <p>Que les plaisirs icy suivent par tout nos pas.</p>
         <p/>
-        <p>Tous deux.</p>
+          <label type="speaker">Tous deux.</label>
         <p>Que par vostre faveur puissante</p>
         <p>Une felicité charmante</p>
         <p>Regne toujours dans ces climats.</p>
         <p/>
-        <p>NEPTUNE.</p>
+          <label type="speaker">NEPTUNE.</label>
         <p>Goustez, goustez en assurance, &amp;c.</p>
         <p/>
-        <p>Choeur de Malouins.</p>
+          <label type="speaker">Choeur de Malouins.</label>
         <p>Vivons en paix, vivons sans embarras,</p>
         <p>Neptune prend notre défense.</p>
         <p>Goûtons, goûtons en assurance</p>
@@ -372,26 +370,26 @@
         <p>Qu’un mesme zele nous anime.</p>
         <p>Il est digne de nos concerts.</p>
         <p/>
-        <p>Premier Malouin,</p>
+          <label type="speaker">Premier Malouin,</label>
         <p>Faisons de ses bienfaits retentir ces rivages.</p>
         <p/>
-        <p>Second Malouin.</p>
+          <label type="speaker">Second Malouin.</label>
         <p>Préparons luy des jeux nouveaux :</p>
         <p>Que nos chants les plus beaux</p>
         <p>Luy marquent nos justes hommages,</p>
         <p>Pensons qu’il a puny nos injustes rivaux.</p>
         <p/>
-        <p>Choeur.</p>
+          <label type="speaker">Choeur.</label>
         <p>Honorons à jamais un Dieu si magnanime,</p>
         <p>Que nos chants redoublez resonnent dans les airs,</p>
         <p>Qu’un mesme zele nous anime,</p>
         <p>Il est digne de nos concerts.</p>
         <p/>
-        <p>TROISIEME ENTREE.</p>
+          <label type="speaker">TROISIEME ENTREE.</label>
         <p>Neptune, la France, les Malouins,</p>
         <p>Choeur de François &amp; de Malouins.</p>
         <p/>
-        <p>NEPTUNE.</p>
+          <label type="speaker">NEPTUNE.</label>
         <p>Si Neptune vous est propice,</p>
         <p>Ses soins sont trop recompensez.</p>
         <p>Pour prix de mes travaux ce me doit estre assez</p>
@@ -399,7 +397,7 @@
         <p>Ie fais le plus doux de mes voeux</p>
         <p>De le rendre à jamais heureux.</p>
         <p/>
-        <p>La France,</p>
+          <label type="speaker">La France,</label>
         <p>Au milieu de la paix, au milieu de la guerre,</p>
         <p>Une grande Divinité</p>
         <p>Doit faire sa felicité,</p>
@@ -407,13 +405,13 @@
         <p>Mais celuy d’un Heros favorisé des Cieux,</p>
         <p>Fait le plus doux plaisir des Dieux.</p>
         <p/>
-        <p>Neptune.</p>
+          <label type="speaker">Neptune.</label>
         <p>A servir ce grand Roy l’on verra ma confiance</p>
         <p>Contre un monde d’audacieux :</p>
         <p>Contre mille &amp; mille envieux.</p>
         <p>Neptune prendra sa défense.</p>
         <p/>
-        <p>La France.</p>
+          <label type="speaker">La France.</label>
         <p>Quand j’ay vû des Anglois la jalouse fureur</p>
         <p>Armer sur l’Empire de l’onde,</p>
         <p>Contre le plus grand Roy du monde,</p>
@@ -429,7 +427,7 @@
         <p>Qu’on ne peut craindre sans foiblesse,</p>
         <p>Pour le plus grand de tous le Rois.</p>
         <p/>
-        <p>Neptune.</p>
+          <label type="speaker">Neptune.</label>
         <p>Quel sujet aviez-vous de craindre,</p>
         <p>Puis que le Dieu des eaux s’interressoit pour luy ?</p>
         <p>L’Anglois est beaucoup moins à redouter qu’à plaindre,</p>
@@ -451,13 +449,13 @@
         <p>Et mes flots par leur violence</p>
         <p>Porteroient en tous lieux le desordre &amp; l’horreur.</p>
         <p/>
-        <p>La France.</p>
+          <label type="speaker">La France.</label>
         <p>Quelle assez digne récompense</p>
         <p>Peut jamais égaler des soins aussi parfaits ;</p>
         <p>Et par quelle reconnoissance</p>
         <p>Pouvons-nous payer tes bienfaits ?</p>
         <p/>
-        <p>Neptune.</p>
+          <label type="speaker">Neptune.</label>
         <p>Je vous l’ay déjà dit, je borne mes souhaits,</p>
         <p>A servir Louis &amp; la France :</p>
         <p>Ce qui fait ma plus grande ardeur,</p>
@@ -478,20 +476,20 @@
         <p>Que vous avez d’attraits !</p>
         <p>Non, vous ne finirez jamais.</p>
         <p/>
-        <p>La France.</p>
+          <label type="speaker">La France.</label>
         <p>Promettez de nouveau,</p>
         <p/>
-        <p>Neptune.</p>
+          <label type="speaker">Neptune.</label>
         <p>De nouveau je promets,</p>
         <p>Que Louis le Grand, &amp; la France,</p>
         <p>Seront toûjours l’objet de mes bienfaits.</p>
         <p/>
-        <p>Choeur.</p>
+          <label type="speaker">Choeur.</label>
         <p>Heureuse intelligence,</p>
         <p>Que vous avez d’attraits !</p>
         <p>Non, vous ne finirez jamais.</p>
         <p/>
-        <p>Neptune.</p>
+          <label type="speaker">Neptune.</label>
         <p>Sacré Fleuve du Styx c’est par vous que je jure.</p>
         <p>Retenez, retenez les sermens que je fais.</p>
         <p>Ie promets par vos eaux, par vostre sourd murmure,</p>
@@ -499,7 +497,7 @@
         <p>Sacré fleuve du Styx, c’est par vous que je jure,</p>
         <p>Retenez, retenez les sermens que je faits.</p>
         <p/>
-        <p>Choeur.</p>
+          <label type="speaker">Choeur.</label>
         <p>Heureuse intelligence,</p>
         <p>Que vous avez d’attraits !</p>
         <p>Non, vous ne finirez jamais.</p>
@@ -508,6 +506,7 @@
         <p>Heureuse intelligence,</p>
         <p>Que vous avez d’attraits !</p>
         <p>Non, vous ne finirez jamais.</p>
+        </quote>
       </div>
         <div type="article" xml:id="MG-1695-03_188" resp="wordpro">
           <head>[Epistre à Mr le Duc de Vendosme]</head>
