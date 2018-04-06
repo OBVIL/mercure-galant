@@ -69,8 +69,8 @@
               <l rend="i">Et d’un feu doux &amp; pur vient embraser le monde.</l>
               <l rend="i"> Ceux-là ne comptent que vos ans.</l>
               <l rend="i">Et sous le nom d’Hebé vous offrent leur encens.</l>
-              <l rend="i">A vostre teint fleuri, tel vous prend pour l’Aurore ;</l>
-              <l rend="i">A la noble fierté qui brille dans vos yeux,</l>
+              <l rend="i">À vostre teint fleuri, tel vous prend pour l’Aurore ;</l>
+              <l rend="i">À la noble fierté qui brille dans vos yeux,</l>
               <l rend="i"> Tel autre, qui se trompe encore,</l>
               <l rend="i">En vous nommant Pallas croit vous deviner mieux.</l>
               <l rend="i"> Mais d’où vient, Princesse adorable,</l>
@@ -85,190 +85,241 @@
         <bibl><title>Mercure Galant</title>, décembre 1696 [tome 12], p. 84-95.</bibl>
         <p/>
         <p>Voicy une Eglogue qui a esté chantée deux fois à Fontainebleau, au Soupé du Roy, où elle a receu de grands applaudissemens. Les Vers sont de Madame de Xaintonge, dont tout le monde connoist l'excellent genie. Les Airs ont esté faits par Mr Marchand, de la Musique du Roy.</p>
+        <quote><p/>
+          <label>EGLOGUE.</label>
+        <stage>Un jeune Berger joüe de la Basse.</stage>
+        <stage>Deux Satyres &amp; deux Dryades s'avancent.</stage>
+         
+        <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">Qu'entens-je ? Ô Dieux ? quels agreables sons ?</l>
+        </lg>
         <p/>
-        <p>EGLOGUE.</p>
+          <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Quelle douce harmonie ?</l>
+        </lg>
         <p/>
-        <p>Un jeune Berger joüe de la Basse.</p>
-        <p>Deux Satyres &amp; deux Dryades s'avancent.</p>
+          <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">Ecoutons !</l>
+        </lg>
         <p/>
-        <p>I. Satyre.</p>
-        <p>Qu'entens-je ? O Dieux ? quels agreables sons ?</p>
+        <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Ecoutons.</l>
+        </lg>
         <p/>
-        <p>II. Satyre.</p>
-        <p>Quelle douce harmonie ?</p>
+        <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">Ah, je ne puis me deffendre</l>
+          <l rend="i">Des mouvemens jaloux qui viennent me surprendre.</l>
+          <l rend="i">Quand le Heros qui fait tous nos desirs</l>
+          <l rend="i">Revient dans nos climats, c'est à nous seuls à prendre</l>
+          <l rend="i">Le soin de ses Plaisirs.</l>
+          <l rend="i">Ah ! je ne puis me deffendre</l>
+          <l rend="i">Des mouvemens jaloux qui viennent me surprendre.</l>
+          <l rend="i">Un jeune audacieux</l>
+          <l rend="i">Oseroit-il prétendre</l>
+          <l rend="i">De partager nostre sors glorieux ?</l>
+          <l rend="i">Ah ! je ne puis me deffendre</l>
+          <l rend="i">Des mouvemens jaloux qui viennent me surprendre.</l>
+        </lg>
         <p/>
-        <p>I. Satyre.</p>
-        <p>Ecoutons !</p>
+        <label type="speaker">I. Dryade.</label>
+        <lg>
+          <l rend="i">Le respect doit calmer</l>
+          <l rend="i">Le violent dépit qui vient vous animer.</l>
+          <l rend="i">C'est le zele qui le fait naistre ;</l>
+          <l rend="i">Mais devant nostre auguste Maistre</l>
+          <l rend="i">Le respect doit le calmer.</l>
+        </lg>
         <p/>
-        <p>II. Satyre.</p>
-        <p>Ecoutons.</p>
+        <label type="speaker">II. Dryade &amp; les deux Satyres.</label>
+        <lg>
+          <l rend="i">Etouffez vostre/nostre jalousie,</l>
+          <l rend="i">Pour plaire au plus puissant des Rois :</l>
+          <l rend="i">Qu'un même destin vous/nous lie ;</l>
+          <l rend="i">Accordez/Accordons vos voix</l>
+          <l rend="i">À cette douce harmonie.</l>
+        </lg>
         <p/>
-        <p>I. Satyre.</p>
-        <p>Ah, je ne puis me deffendre</p>
-        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
-        <p>Quand le Heros qui fait tous nos desirs</p>
-        <p>Revient dans nos climats, c'est à nous seuls à prendre</p>
-        <p>Le soin de ses Plaisirs.</p>
-        <p>Ah ! je ne puis me deffendre</p>
-        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
-        <p>Un jeune audacieux</p>
-        <p>Oseroit-il prétendre</p>
-        <p>De partager nostre sors glorieux ?</p>
-        <p>Ah ! je ne puis me deffendre</p>
-        <p>Des mouvemens jaloux qui viennent me surprendre.</p>
+        <label type="speaker">I. Dryade.</label>
+        <lg>
+          <l rend="i">Trop heureux d'habiter ces aimables climats</l>
+          <l rend="i">Où son penchant le ramene,</l>
+          <l rend="i">Plus heureux mille fois qui suit toujours ses pas.</l>
+          <l rend="i">La plus cruelle peine</l>
+          <l rend="i">Est de ne le voir pas.</l>
+        </lg>
         <p/>
-        <p>I. Dryade.</p>
-        <p>Le respect doit calmer</p>
-        <p>Le violent dépit qui vient vous animer.</p>
-        <p>C'est le zele qui le fait naistre ;</p>
-        <p>Mais devant nostre auguste Maistre</p>
-        <p>Le respect doit le calmer.</p>
+        <label type="speaker">Les deux Satyres.</label>
+        <lg>
+          <l rend="i">Que l'Automne est pour nous une</l>
+          <l rend="i">Saison charmante !</l>
+          <l rend="i">Chantons ses douceurs ;</l>
+          <l rend="i">Elle est plus riante</l>
+          <l rend="i">Que la saison des fleurs.</l>
+          <l rend="i">Son jus est delectable,</l>
+          <l rend="i">Mais c'est moins par ce jus divin</l>
+          <l rend="i">Qu'elle bannit nostre chagrin,</l>
+          <l rend="i">Qu'en ramenant icy ce Heros redoutable.</l>
+        </lg>
         <p/>
-        <p>II. Dryade &amp; les deux Satyres.</p>
-        <p>Etouffez vostre}jalousie,</p>
-        <p>Etouffons nostre}</p>
-        <p>Pour plaire au plus puissant des Rois :</p>
-        <p>Qu'un même destin vous/nous lie ;</p>
-        <p>Accordez/Accordons vos voix</p>
-        <p>A cette douce harmonie.</p>
+        <label type="speaker">Les deux Satyres &amp; les deux Dryades.</label>
+        <lg>
+          <l rend="i">Profitons d'un temps précieux ;</l>
+          <l rend="i">Que nos concerts volent jusques aux Cieux !</l>
+          <l rend="i">Repetons mille fois dans nostre ardeur fidelle,</l>
+          <l rend="i">De toutes les saisons l'Automne est la plus belle.</l>
+        </lg>
         <p/>
-        <p>I. Dryade.</p>
-        <p>Trop heureux d'habiter ces aimables climats</p>
-        <p>Où son penchant le ramene,</p>
-        <p>Plus heureux mille fois qui suit toujours ses pas.</p>
-        <p>La plus cruelle peine</p>
-        <p>Est de ne le voir pas.</p>
+        <label type="speaker">I. Dryade.</label>
+        <lg>
+         <l rend="i">Dans ces lieux charmans</l>
+         <l rend="i">L'Amour est sans allarmes.</l>
+         <l rend="i">On aime assez pour goûter tous ses charmes,</l>
+         <l rend="i">On n'aime pas assez pour souffrir ses tourmens.</l>
+        </lg>
         <p/>
-        <p>Les deux Satyres.</p>
-        <p>Que l'Automne est pour nous une</p>
-        <p>Saison charmante !</p>
-        <p>Chantons ses douceurs ;</p>
-        <p>Elle est plus riante</p>
-        <p>Que la saison des fleurs.</p>
-        <p>Son jus est delectable,</p>
-        <p>Mais c'est moins par ce jus divin</p>
-        <p>Qu'elle bannit nostre chagrin,</p>
-        <p>Qu'en ramenant icy ce Heros redoutable.</p>
+        <label type="speaker">II. Dryade.</label>
+        <lg>
+         <l rend="i">Quand l'Amour veut toujours toucher notre Ame,</l>
+         <l rend="i">Il faut s'abandonner à toutes ses langueurs.</l>
+         <l rend="i">Plus on est penetré de l'ardeur de sa flame</l>
+         <l rend="i">Et plus on ressent ses douceurs.</l>
+        </lg>
+        <ab type="ornament">***</ab>
+        <lg>
+        <l rend="i">D'aimables chaisnes</l>
+        <l rend="i">Doivent couster des soins &amp; des soupirs ;</l>
+        <l rend="i">L'Amant n'a point de vrais plaisirs</l>
+        <l rend="i">Pour les Amans qui s'exemptent des peines.</l>
+        </lg>
         <p/>
-        <p>Les deux Satyres &amp; les deux Dryades.</p>
-        <p>Profitons d'un temps précieux ;</p>
-        <p>Que nos concerts volent jusques aux Cieux !</p>
-        <p>Repetons mille fois dans nostre ardeur fidelle,</p>
-        <p>De toutes les saisons l'Automne est la plus belle.</p>
+        <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Chacun dans cet heureux sejour,</l>
+          <l rend="i">Goûte à son gré les plaisirs de la vie,</l>
+          <l rend="i">Sans contraindre son envie</l>
+          <l rend="i">On suit Bacchus ou l'Amour :</l>
+          <l rend="i">Souvent on se fait une gloire</l>
+          <l rend="i">D'estre Buveur sans cesser d'estre Amant.</l>
+          <l rend="i">Pour moy qui ne sçait que boire</l>
+          <l rend="i">Je bois incessamment.</l>
+        </lg>
+        <ab type="ornament">***</ab>
+        <lg>
+          <l rend="i">Pour les plus beaux yeux du monde</l>
+          <l rend="i">Je ne quitterois pas ma bouteille un moment :</l>
+          <l rend="i">Je goûte une paix profonde,</l>
+          <l rend="i">Je suis sans soins, je ris, je dors tranquillement.</l>
+          <l rend="i">Je ne quitterois pas ma bouteille un moment</l>
+          <l rend="i">Pour les plus beaux yeux du monde.</l>
+        </lg>
         <p/>
-        <p>I. Dryade.</p>
-        <p>Dans ces lieux charmans</p>
-        <p>L'Amour est sans allarmes.</p>
-        <p>On aime assez pour goûter tous ses charmes,</p>
-        <p>On n'aime pas assez pour souffrir ses tourmens.</p>
+        <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">Pour le doux jus de la treille</l>
+          <l rend="i">Je ne quitterois pas ma Bergere un moment :</l>
+          <l rend="i">Je briserois ma bouteille</l>
+          <l rend="i">Si Bacchus m'arrachoit à cet objet charmant ;</l>
+          <l rend="i">Je ne quitterois pas ma Bergere un moment</l>
+          <l rend="i">Pour le doux jus de la treille.</l>
+        </lg>
         <p/>
-        <p>II. Dryade.</p>
-        <p>Quand l'Amour veut toujours toucher notre Ame,</p>
-        <p>Il faut s'abandonner à toutes ses langueurs.</p>
-        <p>Plus on est penetré de l'ardeur de sa flame</p>
-        <p>Et plus on ressent ses douceurs.</p>
+        <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Bacchus seul remplit tous mes voeux,</l>
+          <l rend="i">Pour goûter ses plaisirs, jamais on ne soupire ;</l>
+          <l rend="i">Ce n'est pas l'employ d'un satyre</l>
+          <l rend="i">De faire le langoureux.</l>
+        </lg>
         <p/>
-        <p>D'aimables chaisnes</p>
-        <p>Doivent couster des soins &amp; des soupirs ;</p>
-        <p>L'Amant n'a point de vrais plaisirs</p>
-        <p>Pour les Amans qui s'exemptent des peines.</p>
+        <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">Le vin fait toute ta gloire</l>
+          <l rend="i">Luy seul a droit de s'enflamer :</l>
+          <l rend="i">Tu n'as que le plaisir de boire,</l>
+          <l rend="i">Et moy, j'ay le plaisir &amp; de boire &amp; d'aimer.</l>
+        </lg>
         <p/>
-        <p>II. Satyre.</p>
-        <p>Chacun dans cet heureux sejour,</p>
-        <p>Goûte à son gré les plaisirs de la vie,</p>
-        <p>Sans contraindre son envie</p>
-        <p>On suit Bacchus ou l'Amour :</p>
-        <p>Souvent on se fait une gloire</p>
-        <p>D'estre Buveur sans cesser d'estre Amant.</p>
-        <p>Pour moy qui ne sçait que boire</p>
-        <p>Je bois incessamment.</p>
+        <label type="speaker">I. Dryade.</label>
+        <lg>
+          <l rend="i">En vain tout plaist, tout enchante</l>
+          <l rend="i">Dans cet aimable sejour ;</l>
+          <l rend="i">Si l'on en bannissoit l'Amour</l>
+          <l rend="i">Y pourroit-on donner une feste galante ?</l>
+          <l rend="i">Bacchus mesme ne suffit pas</l>
+          <l rend="i">Pour les plaisirs de la table,</l>
+          <l rend="i">Lorsque l'Amour se mêle d'un repas</l>
+          <l rend="i">Il est cent fois plus agreable.</l>
+        </lg>
         <p/>
-        <p>Pour les plus beaux yeux du monde</p>
-        <p>Je ne quitterois pas ma bouteille un moment :</p>
-        <p>Je goûte une paix profonde,</p>
-        <p>Je suis sans soins, je ris, je dors tranquillement.</p>
-        <p>Je ne quitterois pas ma bouteille un moment</p>
-        <p>Pour les plus beaux yeux du monde.</p>
+        <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Ah, que les Buveurs sont heureux</l>
+          <l rend="i">Sous les loix du Dieu de la treille !</l>
+          <l rend="i">Il endort, il reveille,</l>
+          <l rend="i">Il chasse les chagrins, il rassemble les Jeux.</l>
+          <l rend="i">Ah, que les Buveurs sont heureux</l>
+          <l rend="i">Sous les loix du Dieu de la treille !</l>
+          <l rend="i">Les plus tendres Amans pour animer leurs feux</l>
+          <l rend="i">Devroient courir à la bouteille.</l>
+          <l rend="i">Ah, que les Buveurs sont heureux</l>
+          <l rend="i">Sous les loix du Dieu de la treille !</l>
+        </lg>
         <p/>
-        <p>I. Satyre.</p>
-        <p>Pour le doux jus de la treille</p>
-        <p>Je ne quitterois pas ma Bergere un moment :</p>
-        <p>Je briserois ma bouteille</p>
-        <p>Si Bacchus m'arrachoit à cet objet charmant ;</p>
-        <p>Je ne quitterois pas ma Bergere un moment</p>
-        <p>Pour le doux jus de la treille.</p>
+        <label type="speaker">II. Dryade.</label>
+        <lg>
+          <l rend="i">Sans le secours du vin l'Amour  a des douceurs</l>
+          <l rend="i">Qui sont toûjours nouvelles</l>
+          <l rend="i">Pour les tendres coeurs.</l>
+          <l rend="i">Amans fidelles,</l>
+          <l rend="i">Gardez-vous bien d'estre buveurs,</l>
+          <l rend="i">L'Amour veut du mistere,</l>
+          <l rend="i">Et lorsque de Bacchus on ressent les ardeurs,</l>
+          <l rend="i">Le plus discret ne peut se taire.</l>
+        </lg>
         <p/>
-        <p>II. Satyre.</p>
-        <p>Bacchus seul remplit tous mes voeux,</p>
-        <p>Pour goûter ses plaisirs, jamais on ne soupire ;</p>
-        <p>Ce n'est pas l'employ d'un satyre</p>
-        <p>De faire le langoureux.</p>
+        <label type="speaker">II. Satyre.</label>
+        <lg>
+          <l rend="i">Lors qu'un Amant touche le coeur</l>
+          <l rend="i">D'une inhumaine,</l>
+          <l rend="i">L'Amour veut le contraindre à cacher son bonheur,</l>
+          <l rend="i">Ah quelle gêne !</l>
+          <l rend="i">Bacchus nous fait un plus heureux destin,</l>
+          <l rend="i">La liberté regne dans son Empire,</l>
+          <l rend="i">Et lors qu"on a bû de bon vin</l>
+          <l rend="i">Il est permis de la dire.</l>
+        </lg>
         <p/>
-        <p>I. Satyre.</p>
-        <p>Le vin fait toute ta gloire</p>
-        <p>Luy seul a droit de s'enflamer :</p>
-        <p>Tu n'as que le plaisir de boire,</p>
-        <p>Et moy, j'ay le plaisir &amp; de boire &amp; d'aimer.</p>
+        <label type="speaker">I. Dryade.</label>
+        <lg>
+          <l rend="i">C'est trop parler d'aimer !</l>
+        </lg>
         <p/>
-        <p>I. Dryade.</p>
-        <p>En vain tout plaist, tout enchante</p>
-        <p>Dans cet aimable sejour ;</p>
-        <p>Si l'on en bannissoit l'Amour</p>
-        <p>Y pourroit-on donner une feste galante ?</p>
-        <p>Bacchus mesme ne suffit pas</p>
-        <p>Pour les plaisirs de la table,</p>
-        <p>Lorsque l'Amour se mêle d'un repas</p>
-        <p>Il est cent fois plus agreable.</p>
+        <label type="speaker">I. Satyre.</label>
+        <lg>
+          <l rend="i">C'est trop parler de boire !</l>
+        </lg>
         <p/>
-        <p>II. Satyre.</p>
-        <p>Ah, que les Buveurs sont heureux</p>
-        <p>Sous les loix du Dieu de la treille !</p>
-        <p>Il endort, il reveille,</p>
-        <p>Il chasse les chagrins, il rassemble les Jeux.</p>
-        <p>Ah, que les Buveurs sont heureux</p>
-        <p>Sous les loix du Dieu de la treille !</p>
-        <p>Les plus tendres Amans pour animer leurs feux</p>
-        <p>Devroient courir à la bouteille.</p>
-        <p>Ah, que les Buveurs sont heureux</p>
-        <p>Sous les loix du Dieu de la treille !</p>
+        <label type="speaker">Ensemble.</label>
+        <lg>
+          <l rend="i">Rien ne peut nous charmer</l>
+          <l rend="i">Que la brillante gloire</l>
+          <l rend="i">Du plus grand des Vainqueurs ;</l>
+          <l rend="i">Luy seul vient d'animer &amp; nos voix &amp; nos coeurs.</l>
+        </lg>
         <p/>
-        <p>II. Dryade.</p>
-        <p>Sans le secours du vin l'Amour  a des douceurs</p>
-        <p>Qui sont toûjours nouvelles</p>
-        <p>Pour les tendres coeurs.</p>
-        <p>Amans fidelles,</p>
-        <p>Gardez-vous bien d'estre buveurs,</p>
-        <p>L'Amour veut du mistere,</p>
-        <p>Et lorsque de Bacchus on ressent les ardeurs,</p>
-        <p>Le plus discret ne peut se taire.</p>
-        <p/>
-        <p>II. Satyre.</p>
-        <p>Lors qu'un Amant touche le coeur</p>
-        <p>D'une inhumaine,</p>
-        <p>L'Amour veut le contraindre à cacher son bonheur,</p>
-        <p>Ah quelle gêne !</p>
-        <p>Bacchus nous fait un plus heureux destin,</p>
-        <p>La liberté regne dans son Empire,</p>
-        <p>Et lors qu"on a bû de bon vin</p>
-        <p>Il est permis de la dire.</p>
-        <p/>
-        <p>I. Dryade.</p>
-        <p>C'est trop parler d'aimer !</p>
-        <p/>
-        <p>I. Satyre.</p>
-        <p>C'est trop parler de boire !</p>
-        <p/>
-        <p>Ensemble.</p>
-        <p>Rien ne peut nous charmer</p>
-        <p>Que la brillante gloire</p>
-        <p>Du plus grand des Vainqueurs ;</p>
-        <p>Luy seul vient d'animer &amp; nos voix &amp; nos coeurs.</p>
-        <p/>
-        <p>Les deux Satyres &amp; les deux Dryades.</p>
-        <p>Que ce Heros calme toute la terre.</p>
-        <p>Qu'il fasse triompher la Paix.</p>
-        <p>Qu'il enchaisne pour jamais</p>
-        <p>Le démon de la guerre.</p>
+        <label type="speaker">Les deux Satyres &amp; les deux Dryades.</label>
+        <lg>
+          <l rend="i">Que ce Heros calme toute la terre.</l>
+          <l rend="i">Qu'il fasse triompher la Paix.</l>
+          <l rend="i">Qu'il enchaisne pour jamais</l>
+          <l rend="i">Le démon de la guerre.</l>
+        </lg>
+        </quote>
       </div>
       <div type="article" xml:id="MG-1696-12_132" resp="mercure">
         <head>[Maniere de petit Opera]</head>
@@ -276,34 +327,34 @@
         <p/>
         <p>Je croy ne pouvoir vous obliger davantage qu'en vous faisant part d'un Ouvrage qui s'est fait sur la Paix de Savoye, en maniere d'Opera. Il paroist d'abord un grand nombre de Combattans &amp; de Guerries, divisez en deux troupes, l'une de François, l'autre d'Alliez. La Scene est surs les confins du Piedmont.</p>
         <p/>
-        <p>CHOEUR D'ALLIEZ.</p>
+        <label type="speaker">CHOEUR D'ALLIEZ.</label>
         <p>Frapons, perçons, soyons impitoyables,</p>
         <p>Accablons les François sous l'effort de nos coups.</p>
         <p>Que nos plaisirs les plus doux</p>
         <p>Soient de faire des miserables.</p>
         <p/>
-        <p>CHOEUR DE FRANÇOIS.</p>
+        <label type="speaker">CHOEUR DE FRANÇOIS.</label>
         <p>Vos efforts unis contre nous</p>
         <p>N'en sont pas plus redoutables.</p>
         <p>Nos coups sont inévitables,</p>
         <p>Vous allez périr tous.</p>
         <p/>
-        <p>Mercure paroissant sur un nuage.</p>
+        <label type="speaker">Mercure</label> <stage>paroissant sur un nuage.</stage>
         <p/>
         <p>Fiers Peuples que séduit la discorde insensée,</p>
         <p>Qui remplissez ces lieux de carnage &amp; d'horreur,</p>
         <p>Eprouvez de mon Caducée,</p>
         <p>Les appas &amp; la douceur.</p>
         <p/>
-        <p>Deux François.</p>
+        <label type="speaker">Deux François.</label>
         <p>Quel charme subit nous arreste,</p>
         <p>Et rend nos esprits étonnez ?</p>
         <p/>
-        <p>Deux Alliez.</p>
+        <label type="speaker">Deux Alliez.</label>
         <p>Nos coeurs à la guerre obstinez</p>
         <p>D'un tranquile repos deviennent la conqueste.</p>
         <p/>
-        <p>Mercure.</p>
+        <label type="speaker">Mercure.</label>
         <p>Le Maistre Souverain qui regit l'Univers</p>
         <p>Lassé de voir ces aimables Provinces</p>
         <p>Succomber sous le poids de mille maux divers,</p>
