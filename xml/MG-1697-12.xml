@@ -57,7 +57,6 @@
         <div type="article" xml:id="MG-1697-12_007" resp="wordpro">
           <head>Au Roy. Sur la Paix</head>
           <bibl><title>Mercure Galant</title>, décembre 1697 [tome 12], p. 7-14.</bibl>
-          <p/>
           <p>Je ne puis donner un commencement plus noble à cette Lettre, ny vous faire prendre une idée plus juste des merveilleuses qualitez de nôtre Auguste Monarque, qu’en vous faisant part des Vers que vous allez lire.</p>
           <quote>
             <label>AU ROY<lb/><hi rend="i">SUR LA PAIX.</hi></label>
@@ -115,7 +114,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l> La Victoire en vain vous apprête</l>
-              <l>Un encens qui n’est que pourvous :</l>
+              <l>Un encens qui n’est que pour vous :</l>
               <l>Vous trouvez un parfum plus doux</l>
               <l>Dans les fleurs dont la Paix couronne vôtre Tête.</l>
               <l> Touché du sort de tant de malheureux</l>
@@ -123,7 +122,7 @@
               <l>Vous voulez arrêter en Vainqueur genereux</l>
               <l> Des torrens de sang &amp; de larmes.</l>
               <l>Que de beaux jours couleront desormais !</l>
-              <l> Vous changerez la face de le terre</l>
+              <l> Vous changerez la face de la terre</l>
               <l> Par vos soins &amp; par vos bienfaits,</l>
               <l>Et pour faire oublier tous les maux de la guerre</l>
               <l>Vous répandrez par tout les douceurs de la Paix.</l>
@@ -162,7 +161,6 @@
         <div type="article" xml:id="MG-1697-12_014" resp="wordpro">
           <head>[Madrigal sur le mesme sujet]</head>
           <bibl><title>Mercure Galant</title>, décembre 1697 [tome 12], p. 14-16.</bibl>
-          <p/>
           <p>Voicy d’autres Vers sur la mesme matiere. Ils sont de M<hi rend="sup">r</hi> Diereville, dont le merite vous est connu, ainsi que le nom.</p>
           <quote>
             <lg>
@@ -197,12 +195,11 @@
         <div type="article" xml:id="MG-1697-12_101" resp="wordpro">
           <head>[Couronne de Fleurs parlantes]</head>
           <bibl><title>Mercure Galant</title>, décembre 1697 [tome 12], p. 101-107.</bibl>
-          <p/>
-          <p>Vous voudrez bien entendre parler des Fleurs. Elles se sont empressées a l’envy a faire une Couronne à Madame de Chaulnes, Prieure perpetuelle du Monastere Royal de Poissi, le jour de S. Charles son Patron, &amp; luy ont fait d’abord ce compliment toutes ensemble. Ce petit Ouvrage est de M<hi rend="sup">r</hi> Marcel.</p>
+          <p>Vous voudrez bien entendre parler des Fleurs. Elles se sont empressées à l’envy à faire une Couronne à Madame de Chaulnes, Prieure perpetuelle du Monastere Royal de Poissi, le jour de S. Charles son Patron, &amp; luy ont fait d’abord ce compliment toutes ensemble. Ce petit Ouvrage est de M<hi rend="sup">r</hi> Marcel.</p>
           <quote>
             <lg>
               <l> Dans ce jour où l’Eglise honore</l>
-              <l> Charle, Piélat de grand renom,</l>
+              <l> Charle, Prélat de grand renom,</l>
               <l> Que vous faites, portant son Nom,</l>
               <l> Par vos vertus revivre encore,</l>
               <l> Agréez que nous autres Fleurs,</l>
@@ -212,7 +209,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La Violette parle pour l’humilité.</hi></label>
+              <l rend="i">La Violette parle pour l’humilité.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l>La plus petite fleur, suivant l’humilité,</l>
               <l> Commence ici vostre couronne.</l>
               <l>Ce pouvoir, sur vos Sœurs saintement limité,</l>
@@ -221,7 +221,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">Le Lis parle pour la chasteté.</hi></label>
+              <l rend="i">Le Lis parle pour la chasteté.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Je suis une fleur pure, &amp; marque l’innocence,</l>
               <l>Mon odeur, ma blancheur ont des attraits bien doux.</l>
               <l> L’une &amp; l’autre par avance,</l>
@@ -230,7 +233,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La Pensée parle pour la contemplation.</hi></label>
+              <l rend="i">La Pensée parle pour la contemplation.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Faites tout ce que vous voudrez</l>
               <l> Sans que vostre ame en soit embarassée.</l>
               <l>Dans le chemin du Ciel vos pas sont assurez,</l>
@@ -238,7 +244,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La Rose parle pour la mortification</hi></label>
+              <l rend="i">La Rose parle pour la mortification</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Vous estes, comme moy, d’épines entourée</l>
               <l> Et vous souffrez les plus rudes travaux,</l>
               <l>Mais pour me rejetter vostre ardeur éclairée,</l>
@@ -247,7 +256,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La fleur de Grenade parle pour l’Amour Divin.</hi></label>
+              <l rend="i">La fleur de Grenade parle pour l’Amour Divin.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Je marque l’amour en tout lieu,</l>
               <l> Et j’en suis le vif caractere.</l>
               <l>Je ne sçaurois pourtant, quoique je puisse faire,</l>
@@ -255,7 +267,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La Tubereuse parle pour le bon exemple.</hi></label>
+              <l rend="i">La Tubereuse parle pour le bon exemple.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Plus l’on m’enferme, &amp; plus ma bonne odeur est forte,</l>
               <l>Elle perce les murs, &amp; va s’étendre au loin.</l>
               <l>Donner un bon exemple est vostre plus grand soin.</l>
@@ -264,7 +279,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">La fleur de souci parle pour le soin du salut.</hi></label>
+              <l rend="i">La fleur de souci parle pour le soin du salut.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l>On voit fort rarement dans un beau jour de feste</l>
               <l>Qu’un bouquet de Souci vienne orner une teste,</l>
               <l> Mais quand on cherche à remplir son devoir,</l>
@@ -274,7 +292,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <label><hi rend="i">L’Immortelle parle pour l’éternité bien-heureuse.</hi></label>
+              <l rend="i">L’Immortelle parle pour l’éternité bien-heureuse.</l>
+            </lg>
+            <ab type="ornament">***</ab>
+            <lg>
               <l> Je me joins à toutes les fleurs,</l>
               <l>Et viens former vostre Couronne.</l>
               <l> Que puissiez vous, par vos saintes rigueurs,</l>
@@ -289,7 +310,6 @@
         <div type="article" xml:id="MG-1697-12_107" resp="mercure">
           <head>[Réjoüissances pour la Paix faites à Roüen]</head>
           <bibl><title>Mercure Galant</title>, décembre 1697 [tome 12], p. 107-110.</bibl>
-          <p/>
           <p>Le 28. du mois passé la paix fût publiée à Roüen, &amp; pour solemniser ce grand jour où la joie parut universelle par les Feux qui furent allumez dans toutes les Rües de cette Ville, M<hi rend="i">r</hi>. de Montholon, Premier President, donna un soupé à tout le Parlement avec une propreté &amp; une abondance à laquelle on ne peut rien ajouster. Il avoit fait preparer un feu d’Artifice devant son Hostel, &amp; il fut tiré au bruit de plusieurs instruments de Guerre, ausquels une excellente Musique répondoit alternativement. Cinq cens Fusées remplirent l’Air d’une clarté merveilleuse, &amp; rien ne manqua pour l’entier succés du Feu. Le tout fut accompagné d’une tres-belle &amp; tres-grande Illumination, tant dans les deux Cours que dans la place de Saint Ouën. Il y avoit à la premiere &amp; à la seconde porte de M<hi rend="sup">r</hi>. le Premier President cent Flambeaux de poing de cire blanche, &amp; sur la prémiere estoit un Tapis de Velours bleu, semé de fleurs de lis d’or, où estoit posé un Portrait du Roy. Tout le monde applaudit au zele de cet Illustre Magistrat, qui dans toutes les occasions qui s’en sont offertes, n’a rien obmis de ce qui pouvoit contribüer à faire éclater la gloire du Roy.</p>
         </div>
         <div type="article" xml:id="MG-1697-12_110" resp="wordpro">
