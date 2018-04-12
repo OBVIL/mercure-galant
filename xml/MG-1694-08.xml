@@ -61,7 +61,7 @@
           <quote>
             <label>SONNET AU ROY.</label>
             <lg>
-              <l><hi rend="i">Quel Heros est égal au Monarque des Lis ?</hi></l>
+              <l rend="i">Quel Heros est égal au Monarque des Lis ?</l>
               <l rend="i">Il dispose du Sort, il fixe la Victoire,</l>
               <l rend="i">Et ses travaux guerriers avec soin recueïllis</l>
               <l rend="i">D’un éclat éternel orneront son Histoire.</l>
@@ -107,7 +107,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Ennemi de tout temps du faste &amp; de l</hi>’orgueil,</l>
+              <l><hi rend="i">Ennemi de tout temps du faste &amp; de l'</hi>orgueil,</l>
               <l><hi rend="i">Il fait à tous venans un favorable</hi> accueil,</l>
               <l><hi rend="i">Et ne connut jamais que la raison pour</hi> digue.</l>
             </lg>
@@ -128,7 +128,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Tes triomphes nouveaux seroient dignes d</hi>’Auguste.</l>
+              <l><hi rend="i">Tes triomphes nouveaux seroient dignes d'</hi>Auguste.</l>
               <l><hi rend="i">Donne aux Enfans de Mars souvent de ces</hi> leçons,</l>
               <l><hi rend="i">Il n’est plus qu’Apollon par ses Vers, ses</hi> chansons,</l>
               <l><hi rend="i">Qui tes faits éclatans puisse nous peindre au</hi> juste.</l>
@@ -190,9 +190,9 @@
               <l rend="i">Quel grand évenement cause tous ces transports,</l>
               <l rend="i">Où pour se signaler chacun fait des efforts ?</l>
               <l rend="i">On parle de Bataille &amp; de Place gagnée.</l>
-              <l><hi rend="i">Ah ! ce sont les exploits d’un Duc digne d’amour,</hi></l>
-              <l><hi rend="i">Qu’encor tout de nouveau l’on celebre en ce jour,</hi></l>
-              <l><hi rend="i">Et dont jusqu’à Madrid l’Espagne est consternée.</hi></l>
+              <l rend="i">Ah ! ce sont les exploits d’un Duc digne d’amour,</l>
+              <l rend="i">Qu’encor tout de nouveau l’on celebre en ce jour,</l>
+              <l rend="i">Et dont jusqu’à Madrid l’Espagne est consternée.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -204,7 +204,7 @@
               <l rend="i">Mais au Vainqueur de Rose, à ce Duc genereux,</l>
               <l rend="i">Les destins de Louis assuroient la Victoire.</l>
               <l rend="i">Vainement le Ter s’enfle, &amp; forme de ses bords</l>
-              <l rend="i">Vne double barriere à ses heureux efforts :</l>
+              <l rend="i">Une double barriere à ses heureux efforts :</l>
               <l rend="i">Plus il trouve d’obstacle, &amp; plus il a de gloire.</l>
             </lg>
             <ab type="ornament">***</ab>
@@ -265,7 +265,7 @@
               <l rend="i"> Que les Ennemis elle étonne !</l>
               <l rend="i">En moins d’un mois, ce Duc vainqueur jusqu’à trois fois,</l>
               <l rend="i">A l’Empire des Lis soumet encor Gironne,</l>
-              <l rend="i">Gironne, devant qui deux fameux Generaux.</l>
+              <l rend="i">Gironne, devant qui deux fameux Generaux</l>
               <l rend="i">Ont d’un Siege chacun fait en vain les travaux.</l>
               <l rend="i">A quel point aujourd’huy voit on monter sa gloire ?</l>
               <l rend="i">Gagner une Bataille, &amp; forcer les remparts</l>
@@ -307,7 +307,7 @@
               <l rend="i">Il est prest ce Heros par tout victorieux,</l>
               <l rend="i">Aprés tant de succés si grands, si glorieux,</l>
               <l rend="i">De la faire pour vous du Ciel encor descendre.</l>
-              <l rend="i">Cessez, cessez de suivre un Prince Vsurpateur :</l>
+              <l rend="i">Cessez, cessez de suivre un Prince Usurpateur :</l>
               <l rend="i">Et d’un Roy triomphant recherchez la faveur.</l>
               <l rend="i">Quel plus digne parti pouvez-vous jamais prendre ?</l>
             </lg>
@@ -315,7 +315,7 @@
             <lg>
               <l rend="i">Quoy, ne pouvez-vous rompre un foible enchaînement !</l>
               <l rend="i"> Quels sont les puissans caracteres,</l>
-              <l><hi rend="i">Par qui cet Enchanteur fait vostre entestement ?</hi></l>
+              <l rend="i">Par qui cet Enchanteur fait vostre entestement ?</l>
               <l rend="i">Est-ce que vous aimez les pompeuses chimeres ?</l>
               <l rend="i">A quoy bon vous nourrir de belles fictions ?</l>
               <l rend="i">Gagne-t-il vostre estime avec des visions ?</l>
@@ -350,7 +350,7 @@
               <l rend="i">Et l’on sçait qu’une bonne ou mauvaise influence</l>
               <l rend="i"> Produit sur toutes les Citez,</l>
               <l rend="i"> Ces differentes qualitez,</l>
-              <l rend="i"> Qui des le point de leur naissance</l>
+              <l rend="i"> Qui dès le point de leur naissance</l>
               <l rend="i">Font de leurs Citoyens la honte ou l’excellence.</l>
               <l rend="i">A leurs Astres malins Beaune doit tous ses Sots,</l>
               <l rend="i">Les Poissarts leur orgueil, les Langrois leur folie,</l>
@@ -360,7 +360,7 @@
               <l rend="i">Peut-estre qu’on pourroit faire un plaisant recit,</l>
               <l rend="i"> Mais cela seroit inutile,</l>
               <l rend="i"> Et ce peu que j’en dis suffit.</l>
-              <l rend="i"> Reprenons Beaune. Vn tres-grand Prince,</l>
+              <l rend="i"> Reprenons Beaune. Un tres-grand Prince,</l>
               <l rend="i">Dont la gloire &amp; le nom ne periront jamais,</l>
               <l rend="i">Condé, des Bourguignons visitant la Province,</l>
               <l rend="i">Y fut disner un jour, &amp; par deux ou trois traits</l>
@@ -373,14 +373,14 @@
               <l rend="i"> Que le Vin qu’ils luy presenterent.</l>
               <l rend="i">Ce grand Prince en sçavoit la réputation ;</l>
               <l rend="i"> Et comme il le trouva fort bon,</l>
-              <l rend="i">Vn d’eux qui pensoit estre habile autant que noble,</l>
+              <l rend="i">Un d’eux qui pensoit estre habile autant que noble,</l>
               <l rend="i">Et par là faire honneur à leur heureux Vignoble,</l>
               <l rend="i"> Luy répondit, Ah ! Monseigneur,</l>
               <l rend="i"> Nous en avons bien de meilleur.</l>
-              <l rend="i"> Ie n’ay pas de peine à le croire,</l>
+              <l rend="i"> Je n’ay pas de peine à le croire,</l>
               <l rend="i">Reprit en souriant ce Vainqueur de Rocroy,</l>
               <l rend="i"> Mais vous attendez pour le boire</l>
-              <l rend="i"> Vn plus honneste homme que moy.</l>
+              <l rend="i"> Un plus honneste homme que moy.</l>
               <l rend="i"> C’est en user avec prudence,</l>
               <l rend="i"> Et je vois bien par ce bon sens</l>
               <l rend="i"> Que vous estes d’habiles gens.</l>
@@ -415,12 +415,12 @@
               <l rend="i">Si plûtost on eust sceu son fortuné destin,</l>
               <l rend="i">Mais à vous l’apporter on a fait diligence,</l>
               <l rend="i">Si-tost qu’on nous en a donné la connoissance.</l>
-              <l> <hi rend="i">Ah ! vous avez raison, Messieurs,</hi></l>
+              <l rend="i">Ah ! vous avez raison, Messieurs,</l>
               <l rend="i">S’écria Son Altesse, &amp; rien n’est plus honneste</l>
               <l rend="i">Que de m’offrir dequoy rabattre ses vapeurs.</l>
-              <l rend="i"> I’en aurois eu mal à la teste,</l>
+              <l rend="i"> J’en aurois eu mal à la teste,</l>
               <l rend="i">Et cette eau ne pouvoit venir plus à propos.</l>
-              <l rend="i">Il est vray que la doze a lieu de me sur prendre ;</l>
+              <l rend="i">Il est vray que la doze a lieu de me surprendre ;</l>
               <l rend="i">Mais tant mieux, si la soif s’avise de nous prendre,</l>
               <l rend="i">Nous n’en manquerons point, ny moy, ny mes chevaux.</l>
             </lg>
@@ -438,16 +438,16 @@
               <l rend="i"> L’un des plus justes de nos Rois</l>
               <l rend="i"> Curieux de voir son Royaume</l>
               <l rend="i">Passa chez eux. Hé-bien, leur dit-il en disnant,</l>
-              <l rend="i"> Verrons-nous vostre Ieu de Paume</l>
+              <l rend="i"> Verrons-nous vostre Jeu de Paume</l>
               <l rend="i">Dont vous parliez tantost, &amp; que vous vantiez tant ?</l>
               <l rend="i">Dés qu’il vous plaira, Sire. Allez, qu’on le prépare ;</l>
-              <l rend="i"> Ie veux avant que de partir</l>
+              <l rend="i"> Je veux avant que de partir</l>
               <l rend="i"> M’exercer &amp; m’y divertir.</l>
               <l rend="i">Ravis qu’ils en estoient leur troupe se separe,</l>
               <l rend="i"> Et chacun va de son costé</l>
               <l rend="i"> Détendre sa tapisserie.</l>
               <l rend="i">Pour quoy faire ? Ah ! Lecteur, t’en serois-tu douté ?</l>
-              <l rend="i"> Iusqu’à ceux de la galerie</l>
+              <l rend="i"> Jusqu’à ceux de la galerie</l>
               <l rend="i">Les murs de ce Tripot en furent tapissez,</l>
               <l rend="i">Et quand le Roy, venu pour joüer sa partie,</l>
               <l rend="i"> S’informa de ces insensez</l>
@@ -456,10 +456,10 @@
               <l rend="i"> Répond leur impertinent Maire,</l>
               <l rend="i"> Mais par là nous avons cru faire</l>
               <l rend="i"> Honneur à vostre Majesté.</l>
-              <l rend="i">Ie vous suis obligé, reprit ce Roy si sage</l>
+              <l rend="i">Je vous suis obligé, reprit ce Roy si sage</l>
               <l rend="i"> Et qu’on ne peut assez loüer.</l>
-              <l rend="i">Ie vous l’aurois esté cependant davantage</l>
-              <l rend="i">Si ce Ieu n’estoit pas hors d’estat d’y joüer.</l>
+              <l rend="i">Je vous l’aurois esté cependant davantage</l>
+              <l rend="i">Si ce lieu n’estoit pas hors d’estat d’y joüer.</l>
               <l rend="i">A ces mots plus confus qu’un Souffleur ne peut l’estre</l>
               <l rend="i">Quand il voit en vapeurs son espoir disparoistre,</l>
               <l rend="i"> Nos pauvres Beaunois toujours sots,</l>
@@ -476,7 +476,7 @@
           <quote>
             <label>MADRIGAL.</label>
             <lg>
-              <l><hi rend="i">Quand le sage Louis remplissant nostre attente,</hi></l>
+              <l rend="i">Quand le sage Louis remplissant nostre attente,</l>
               <l rend="i"> Vous confia cette Eglise importante,</l>
               <l rend="i">On crut qu’au seul merite il vouloit faire honneur ;</l>
               <l rend="i"> Détrompons-nous, c’est une erreur.</l>
@@ -528,7 +528,7 @@
             <lg>
               <l rend="i">Cette Ville autrefois si chere à vostre enfance</l>
               <l rend="i">Cultiva pour les Arts vostre heureuse naissance,</l>
-              <l><hi rend="i">Et vous fit d’Appollon goûter le doux repos.</hi></l>
+              <l rend="i">Et vous fit d’Appollon goûter le doux repos.</l>
               <l rend="i">Elle compte à present avec quelque apparence,</l>
               <l rend="i">D’avoir bien plus de droit qu’aucune autre de France,</l>
               <l rend="i"> De profiter de vos travaux.</l>
@@ -591,11 +591,11 @@
               <l rend="i">Voilà ce que de vous par tout on entend dire.</l>
               <l rend="i">N’en déplaise au Public, pour qui j’ay grand respect.</l>
               <l rend="i">Contre son témoignage en faux j’ose m’inscrire.</l>
-              <l rend="i"> Vn tel discours m’est fort suspect.</l>
-              <l rend="i"> Ie puis nommer plus de vingt choses</l>
+              <l rend="i"> Un tel discours m’est fort suspect.</l>
+              <l rend="i"> Je puis nommer plus de vingt choses</l>
               <l rend="i">Qui sont pour vous des lettres closes,</l>
               <l rend="i"> Et sans craindre de m’abuser,</l>
-              <l rend="i">Ie gage cent contre un qu’avec vostre science,</l>
+              <l rend="i">Je gage cent contre un qu’avec vostre science,</l>
               <l rend="i">Vous ignorez autant &amp; plus qu’homme de France,</l>
               <l rend="i">L’art de se contrefaire, &amp; de se déguiser,</l>
               <l rend="i"> De donner tout à l’apparence,</l>
@@ -609,14 +609,14 @@
               <l rend="i"> Mais sans qu’icy je vous fatigue</l>
               <l rend="i"> Par un long &amp; fâcheux amas</l>
               <l rend="i"> De ce que vous ne sçavez pas,</l>
-              <l rend="i">I’ose du moins dire avec assurance</l>
+              <l rend="i">J’ose du moins dire avec assurance</l>
               <l rend="i">Quels que soient les talens en quoy vous excellez,</l>
               <l rend="i">Que vous ne sçavez pas deux choses d’importance :</l>
               <l rend="i">C’est combien on vous aime, &amp; combien vous valez.</l>
               <l rend="i"> Malgré vostre vaste genie,</l>
               <l rend="i">Qui penetre, qui creuse avec tant de clartez</l>
               <l rend="i"> Les plus grandes difficultez,</l>
-              <l rend="i">Ie vous donne aujourd’huy vingt ans de vostre vie,</l>
+              <l rend="i">Je vous donne aujourd’huy vingt ans de vostre vie,</l>
               <l rend="i"> Pour sçavoir ces deux veritez.</l>
             </lg>
           </quote>
@@ -624,10 +624,9 @@
         <div type="article" xml:id="MG-1694-08_147" resp="mercure">
           <head>[Nouvelles de Touraine]</head>
           <bibl><title>Mercure Galant</title>, août 1694 [tome 8], p. 147-154.</bibl>
-          <p/>
-          <p>Soit que le Roy inspire à ceux qui l’approchent les sentimens de bonté qu’il a pour son Peuple, soit qu’ils se fassent une gloire de les suivre, il est ordinaire, &amp; comme naturel aux personnes de qualité qui sont à la Cour, de faire du bien par tout où elles vont. Ce qui s’est passé il n’y a pas longtemps en Touraine en est une preuve. Mr le Marquis de Dangeau, Gouverneur de cette Province, s’y rendit au mois de Juin avec Madame la Marquise de Dangeau, Madame la Duchesse de Montfort, Mr le Prince de Morbac, Frere de Madame de Dangeau, &amp; Mr l’Abbé de Dangeau, dont vous connoissez le rare merite. A peine y fut-il arrivé dans sa belle maison de la Bourdaisiere, qu’il y ordonna des ouvrages, afin que les pauvres Paysans pussent gagner de quoy vivre. Le 20. Juin il vint à Tours aux acclamations du Peuple, pour faire chanter en differens jours le Te Deum, pour la nouvelle Victoire de Catalogne, dans les deux grandes Eglises de S. Gatien &amp; de S. Martin, &amp; il y assista avec sa compagnie, &amp; les Corps de la Ville. Il visita l’Hostel-Dieu &amp; l’Hôpital General, qu’il combla d’aumônes &amp; de liberalitez, &amp; peu de jours aprés estant allé voir le Chasteau des Ducs de Luines, qui est sur la coste de la Loire, la charité le poussa plus loin, &amp; c’estant fait rendre compte de ravages que font au-delà de la petite Ville de Langeais plusieurs bestes farouches, qui depuis dix-huit mois y ont dévoré plus de trois cens personnes, il consola les Habitans du Pays ; &amp; depuis il leur a procuré les Equipages de Monseigneur pour la Chasse du Loup.</p>
-          <p>Vous sçavez le nouvel Edit du Roy touchant la creation des Charges de Maire. La Cour ayant à remplir celle de Maire de Tours, a jetté le yeux sur Mr Desloges, ancien Echevin de la Ville, &amp; Frere d’un fameux Avocat au Parlement. Comme il pouvoit y avoir quelques difficultez touchant le lieu de prestation du serment, que les Maires de Tours, depuis leur premier établissement, ont coutume de faire dans les Galeries de l’ancienne Eglise de Saint Martin, ce qui fut mesme confirmé par un Arrest contradictoire que le Roy Henry le Grand rendit sur ce sujet dans son Conseil le 23. Mars de l’année 1607. Mr l’Abbé Milon, Chanoine &amp; Prevost d’Oé, dans cette celebre Eglise, fit connoistre le droit &amp; la possession où elle est à cet égard, à Mr le Marquis de Dangeau, qui en ayant informé la Cour, dés qu’il en eut receu les ordres, se rendit le matin du 8. Juillet à S. Martin pour y faire la ceremonie de prendre le  nouveau serment.</p>
-          <p>Les Députez du Chapitre, qui est tres-nombreux, le receurent à la porte de l’Eglise, &amp; Mr l’Abbé de Galliezon, Grand Chantre, le complimenta. Tous ensuite le conduisirent au lieu du serment, où en presence du Presidial, du Corps de Ville, &amp; d’un tres-grand concours de peuple, Mr Desloges prêta le serment accoutumé entre les mains de Mr le Marquis de Dangeau ; &amp; ayant fait un Discours tres respectueux, Mr de Dangeau y répondit en des termes charmans, pleins de soumission aux ordres du Roy, de bonté pour le peuple de Tours, &amp; d’estime pour le nouveau Maire. La ceremonie estant faite, ce Marquis, toujours conduit par les Députez du Chapitre, vint avec toute sa compagnie devant le grand Autel entendre la grande Messe, qui fut chantée par la Musique. Le Corps y assisterent selon la coutume. A la fin les mesmes Députez le conduisirent à ses Carosses, où aprés leur avoir témoigné son zele pour l’honneur de leur Eglise, il s’en retourna à la Bourdaisiere, &amp; de là en Cour.</p>
+          <p>Soit que le Roy inspire à ceux qui l’approchent les sentimens de bonté qu’il a pour son Peuple, soit qu’ils se fassent une gloire de les suivre, il est ordinaire, &amp; comme naturel aux personnes de qualité qui sont à la Cour, de faire du bien par tout où elles vont. Ce qui s’est passé il n’y a pas long-temps en Touraine en est une preuve. M<hi rend="sup">r</hi> le Marquis de Dangeau, Gouverneur de cette Province, s’y rendit au mois de Juin avec Madame la Marquise de Dangeau, Madame la Duchesse de Montfort, M<hi rend="sup">r</hi> le Prince de Morbac, Frere de Madame de Dangeau, &amp; M<hi rend="sup">r</hi> l’Abbé de Dangeau, dont vous connoissez le rare merite. A peine y fut-il arrivé dans sa belle maison de la Bourdaisiere, qu’il y ordonna des ouvrages, afin que les pauvres Paysans pussent gagner de quoy vivre. Le 20. Juin il vint à Tours aux acclamations du Peuple, pour faire chanter en differens jours le <hi rend="i">Te Deum</hi>, pour la nouvelle Victoire de Catalogne, dans les deux grandes Eglises de S. Gatien &amp; de S. Martin, &amp; il y assista avec sa compagnie, &amp; les Corps de la Ville. Il visita l’Hostel-Dieu &amp; l’Hôpital General, qu’il combla d’aumônes &amp; de liberalitez, &amp; peu de jours aprés estant allé voir le Chasteau des Ducs de Luines, qui est sur la coste de la Loire, la charité le poussa plus loin, &amp; s’estant fait rendre compte de ravages que font au-delà de la petite Ville de Langeais plusieurs bestes farouches, qui depuis dix-huit mois y ont dévoré plus de trois cens personnes, il consola les Habitans du Pays ; &amp; depuis il leur a procuré les Equipages de Monseigneur pour la Chasse du Loup.</p>
+          <p>Vous sçavez le nouvel Edit du Roy touchant la creation des Charges de Maire. La Cour ayant à remplir celle de Maire de Tours, a jetté les yeux sur M<hi rend="sup">r</hi> Desloges, ancien Echevin de la Ville, &amp; Frere d’un fameux Avocat au Parlement. Comme il pouvoit y avoir quelques difficultez touchant le lieu de prestation du serment, que les Maires de Tours, depuis leur premier établissement, ont coutume de faire dans les Galeries de l’ancienne Eglise de Saint Martin, ce qui fut mesme confirmé par un Arrest contradictoire que le Roy Henry le Grand rendit sur ce sujet dans son Conseil le 23. Mars de l’année 1607. M<hi rend="sup">r</hi> l’Abbé Milon, Chanoine &amp; Prevost d’Oé, dans cette celebre Eglise, fit connoistre le droit &amp; la possession où elle est à cet égard, à M<hi rend="sup">r</hi> le Marquis de Dangeau, qui en ayant informé la Cour, dés qu’il en eut receu les ordres, se rendit le matin du 8. Juillet à S. Martin pour y faire la ceremonie de prendre le nouveau serment.</p>
+          <p>Les Députez du Chapitre, qui est tres-nombreux, le receurent à la porte de l’Eglise, &amp; M<hi rend="sup">r</hi> l’Abbé de Galliezon, Grand Chantre, le complimenta. Tous ensuite le conduisirent au lieu du serment, où en presence du Presidial, du Corps de Ville, &amp; d’un tres-grand concours de peuple, M<hi rend="sup">r</hi> Desloges prêta le serment accoutumé entre les mains de M<hi rend="sup">r</hi> le Marquis de Dangeau ; &amp; ayant fait un Discours tres respectueux, M<hi rend="sup">r</hi> de Dangeau y répondit en des termes charmans, pleins de soumission aux ordres du Roy, de bonté pour le peuple de Tours, &amp; d’estime pour le nouveau Maire. La ceremonie estant faite, ce Marquis, toujours conduit par les Députez du Chapitre, vint avec toute sa compagnie devant le grand Autel entendre la grande Messe, qui fut chantée par la Musique. Les Corps y assisterent selon la coutume. A la fin les mesmes Députez le conduisirent à ses Carosses, où aprés leur avoir témoigné son zele pour l’honneur de leur Eglise, il s’en retourna à la Bourdaisiere, &amp; de là en Cour.</p>
         </div>
         <div type="article" xml:id="MG-1694-08_167" resp="wordpro">
           <head>Conseil à l’Espagne d’accepter la Paix</head>
@@ -707,7 +706,7 @@
           <quote>
             <label>SONNET.</label>
             <lg>
-              <l><hi rend="i">A Titre de Vainqueur devenu Viceroy,</hi></l>
+              <l rend="i">A Titre de Vainqueur devenu Viceroy,</l>
               <l rend="i">Ton triomphe est complet sur le Duc d’Escalone,</l>
               <l rend="i">Noailles, il t’évite, &amp; couvre Barcelone,</l>
               <l rend="i">Tandis qu’à Palamos tu vas porter l’effroy.</l>
@@ -721,7 +720,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">Combattant pour Louis la fortune te guide,</hi></l>
+              <l rend="i">Combattant pour Louis la fortune te guide,</l>
               <l rend="i">Le cours de tes progrés n’est guere moins rapide,</l>
               <l rend="i">L’Espagne a cru le voir foudroyer ses rampars.</l>
             </lg>
@@ -738,14 +737,14 @@
               <l rend="i">Tant qu’un zele pieux arma vos Escadrons,</l>
               <l rend="i">Les Moucherons pour vous furent des gens de guerre ;</l>
               <l rend="i">Mais lors que vous servez le Tyran d’Angleterre,</l>
-              <l> <hi rend="i">Vos Gueriers sont des Moucherons.</hi></l>
+              <l rend="i">Vos Gueriers sont des Moucherons.</l>
             </lg>
           </quote>
         </div>
         <div type="article" xml:id="MG-1694-08_175" resp="wordpro">
           <head>[Histoire]</head>
           <bibl><title>Mercure Galant</title>, août 1694 [tome 8], p. 175-200.</bibl>
-          <p>L’avanture que je vais vous raconter a des circonstances assez singulieres pour meriter que je vous en fasse le détail. Une Dame, demeurée Veuve dans un âge où les conquestes sont encore aisées à faire, faisoit son plaisir d’avoir une grosse Cour. Le merite de sa personne pouvoit avoir part aux soins qu’on s’empressoit à luy rendre, mais une raison plus forte luy attiroit un fort grand nombre d’Amans. Elle avoit beaucoup de bien, &amp; pourvû qu’on eust l’adresse de ménager son esprit, elle estoit capable de se laisser prendre, &amp; de renoncer à l’heureux estat d’indépendance où l’avoit mise la mort de son Mary, dont elle s’estoit consolée en peu de temps. Deux ou trois de ceux qui s’attacherent le plus à gagner son cœur, réussirent successivement à le toucher, &amp; elle entra avec eux dans des engagemens assez forts pour leur donner lieu de croire que le mariage dont elle arrestoit les conditions auroit son effet, mais ils ne songerent pas que la passion qu’ils luy inspiroient estant violente, estoit sujette à n’estre pas de durée, &amp; faute de la presser de conclurre si-tost qu’elle avoit promis, ils luy laisserent le temps de se dégoûter, &amp; de se défaire des sentimens favorables dont elle avoit esté prévenuë d’abord pour eux. Ces experiences ayant rebuté la pluspart de ses Amans, elle commençoit à se trouver seule, &amp; à se faire une honte de ne plus avoir d’adorateurs. Ses prétendus Heritiers se réjoüissoient de son caractere, qui sembloit les assurer que jamais elle ne succomberoit à la dangereuse tentation de prendre un second Mary, lors qu’un jour elle vint prier une Dame de ses Parentes, de venir passer huit jours avec elle à une Terre qu’elle avoit à douze lieuës de Paris. La Dame estoit toute pleine d’agrémens, avoit une vivacité d’esprit merveilleuse, &amp; faisoit la joye de toutes les societez qui la recherchoient. Comme elle joignoit une grande complaisance à mille autres qualitez qui la rendoient estimable, elle consentit à ce que voulut la Veuve, &amp; se laissa emmener dans le mesme instant, parce qu’on vouloit l’entretenir à loisir d’un fort important secret, qu’on ne vouloit confier qu’à elle seule. Elle arriva chez la Veuve, dont le premier soin fut de prendre un habit fort magnifique, &amp; de se parer d’une maniere extraordinaire. La joye qu’elle vit d’ailleurs briller dans ses yeux, luy fit demander la cause de tout cet ajustement, &amp; la Veuve répondit qu’elle l’avoit amenée pour signer à son Traité de mariage, que le Notaire avoit ordre de dresser suivant les articles qu’on luy avoit mis entre les les mains ; qu’elle devoit épouser le lendemain de fort grand matin, un Cavalier tres-bien fait, qu’elle avoit rendu éperdûment amoureux, &amp; qu’incontinent aprés ils partiroient tous pour la Campagne. La Dame qui se trouvoit de noces lors qu’elle y pensoit le moins, luy fit quantité de questions sur le Cavalier, &amp; apprit d’elle qu’il n’y avoit que huit jours qu’ils se connoissoient, &amp; qu’un nomme sage qu’elle verroit avec luy, avoit conduit cette affaire. La Dame luy dit en riant qu’elle voyoit bien que le Cavalier avoit de l’esprit puis qu’il l’avoit obligée à conclure promptement, &amp; qu’elle n’avoit rien à luy conseiller, les choses estant trop avancées pour y vouloir apporter du retardement. La Veuve l’ayant asseurée qu’elle approuveroit son choix, &amp; qu’elle n’avoit rien fait qu’avec une attention tres-serieuse sur l’importance de l’engagement qu’elle avoit pris, elle applaudit à ses sentimens &amp; ne voulut point combattre inutilement une passion qui luy paroissoit tres-vive. Peu de temps aprés entrerent le Cavalier &amp; l’Entremetteur, accompagnez du Notaire qui avoit esté chargé du Traité de mariage. Le Cavalier que la Veuve presenta d’abord à sa Parente, n’avoit pas plus de trente ans, il estoit assez bien fait, &amp; à n’en juger que par la mine, il pouvoit n’estre pas indigne qu’on l’aimast. Le contrat fut lû, &amp; comme il portoit tous les avantages que l’on peut faire à un homme, la Parente de la Veuve dit au Cavalier, qu’un procedé si honneste &amp; si genereux, devoit l’engager à une éternelle reconnoissance. Il ne répondit qu’en prenant la main de la Veuve, qu’il baisa avec beaucoup de respect, &amp; le Notaire ayant presenté la plume, les interessez signerent, ainsi que la Parente &amp; l’Entremetteur qui servirent de témoins. On soupa bientost aprés, &amp; la Parente qui ne connut pas un fort grand genie dans le Cavalier, le déconcerta par son enjoûment, en luy disant cent choses plaisantes où souvent il ne sçavoit que répondre. Pour le consoler de son desordre, elle prétendoit que ce fust la marque d’un cœur tout remply d’amour, qui estant entierement occupé de son objet, n’aimoit point à s’en distraire. On se separa aprés avoir donné l’heure pour le lendemain de tres-grand matin. Cependant la Veuve estant demeurée seule avec sa Parente, luy demanda ce qu’elle pensoit de son Amant, à quoy elle répondit qu’il n’estoit pas surprenant qu’un excés d’amour luy eust étouffé l’esprit, &amp; qu’ainsi elle n’en pouvoit rien dire, puisqu’il n’estoit pas dans son estat naturel. Elles coucherent ensemble, &amp; continuerent d’en parler, jusqu’à ce que la Dame se fut endormie. Son sommeil ne dura pas fort longtemps. La Veuve fit reflexion sur le peu d’esprit qu’avoit fait voir son Amant devant sa Parente, &amp; aprés plusieurs choses agitées en elle mesme, elle commença à dire tout haut qu’il ne devoit point prétendre qu’une femme aussi riche &amp; aussi bien faite qu’elle estoit, se resolust à estre la femme d’un malheureux qui estoit sans aucun bien, &amp; qui ne pouvoit que luy faire honte. La Dame éveillée par son soliloque, luy demanda s’il estoit temps de se repentir, &amp; si elle croyoit pouvoir rompre un Contrat signé, sans s’exposer à payer de gros interests. Cette legere opposition à ses sentimens ne fit que l’affermir davantage dans la resolution de ne se pas marier. Elle se fit un portrait hideux de son Amant, &amp; il commença à luy paroistre le plus méprisable de tous les hommes. Son idée se remplissant des mauvaises qualitez qu’elle luy donnoit, elle ne pouvoit se pardonner son aveuglement, de s’estre caché ses deffauts pendant huit jours. Quatre heures sonnerent dans le temps qu’elle disputoit avec sa Parente ; &amp; le Cavalier attentif à l’heure donnée pour le mariage, vint presque aussitost. Il luy rendit compte de sa diligence à tenir tout prest dans l’Eglise, où celuy qui lés devoit marier les attendoit. La Veuve luy répondit fierement qu’elle ignoroit ce qui luy donnoit la liberté d’entrer dans sa chambre tandis qu’elle estoit encore au lit ; qu’elle avoit bien d’autres choses dans la teste que de songer à se marier ; &amp; que s’il avoit tant d’impatience d’avoir une Femme, rien ne l’empêchoit de l’aller chercher ailleurs. Un changement si peu attendu mit le Cavalier dans une surprise qui le rendit quelque temps muet. Il voulut sçavoir son crime, &amp; plus il parla en Amant soumis, plus il fut traité desobligeamment. L’Entremetteur qui l’accompagnoit toujours, ne put s’empêcher de dire, qu’aprés les mesures qu’elle avoit souffert qu’on prist, un semblable procedé estoit trop injurieux pour le souffrir sans s’en plaindre, &amp; ces paroles luy en attirerent de si aigres, qu’il fut obligé de se retirer dans l’antichambre, où le Cavalier &amp; luy tinrent conseil. Les Dames les entendirent raisonner longtemps, &amp; par une sorte de dispute qu’ils eurent ensemble, elles comprirent que le Cavalier s’opposoit à ce que l’Entremetteur avoit resolu de faire. La Parente priée par la Veuve, sortit du lit promptement, &amp; à demy habillée elle alla leur dire, qu’il leur estoit inutile de prétendre qu’on luy fist perdre si-tost le dégoust où elle estoit ; que certaines choses qui luy avoient passé par l’esprit dans le moment qu’elle estoit le plus resoluë au mariage, luy en faisoient apprehender l’embarras, &amp; qu’il n’y avoit que des manieres honnestes &amp; un peu de temps qui la pûssent ramener. L’Entremetteur, aprés plusieurs plaintes sur l’affront qu’alloit recevoir le Cavalier, à qui elle n’avoit jamais demandé le secret sur cette affaire, s’échapa à dire qu’il auroit au moins sujet de se consoler par mille pistoles qu’il faudroit qu’elle payast, si elle vouloit manquer à l’engagement qu’elle avoit pris. Il n’avança rien sans le prouver. La Dame fut fort surprise de voir un Dédit signé par la Veuve, à qui elle alla demander sur l’heure pourquoy elle maltraitoit des gens qui pouvoient agir contre elle pour mille pistoles. Elle expliqua cette Enigme, &amp; en luy parlant du Billet signé qu’elle avoit vû, elle la mit dans une colere qui ne se peut exprimer. La Veuve se souvint d’avoir mis son nom au bas d’une Lettre qu’on luy avoit presentée, comme une réponse qu’elle faisoit à un compliment de civilité qu’elle avoit receu sur son mariage, d’un Parent du Cavalier. Elle avoit signé sans lire, suivant sa maniere brusque de faire beaucoup de choses, &amp; l’Entremetteur qu’on avoit instruit de son peu de fermeté dans ses resolutions, avoit cru venir à bout de fixer son inconstance en se servant de cette surprise pour luy faire signer un dédit. Elle se leva fort promptement pour aller deliberer sur ce qu’elle avoit à faire, &amp; trouvant dans l’antichambre ceux qui estoient saisis du Billet, elle en demanda une lecture. Elle luy fut refusée, &amp; ce refus excita la plus piquante dispute qui soit jamais arrivée. Ce qui se dit de facheux &amp; de cruel ne finit que par la fuite de l’Entremetteur, qui se lassant d’estre maltraité, s’échapa sans plus répondre. La Veuve sortit presque en même temps, &amp; laissa le Cavalier, qui avoit tâché inutilement de l’adoucir, dans une espece d’évanoüissement qui luy fit avoir besoin du secours que luy presterent ses gens. La perte d’une fortune qu’il avoit cruë assurée le mit dans un saisissement de douleur inconcevable. Il poussa de longs soupirs, &amp; il les poussa si haut, que la Parente, demeurée au lit pour prendre un peu de repos, aprés une nuit entiere passée sans dormir, le pria le plus honnestement qu’il luy fut possible, de moderer ses chagrins, ou s’il vouloit s’y abandonner, de vouloir au moins soupirer un peu plus bas. Cela luy donna lieu d’entrer dans sa chambre. Il luy peignit en des termes fort touchans l’indigne maniere d’agir de la Veuve, fit des lamentations tres-pitoyables, &amp; aprés qu’il l’eut assurée plus d’une fois qu’il sentoit bien qu’il mourroit de cette affaire, la Dame luy dit qu’elle ne luy conseilloit de mourir que dans la derniere necessité ; mais que si c’estoit une chose qu’il fust absolument resolu de faire, il l’obligeroit tres-fort d’aller mourir en quelque autre lieu, parce que c’estoit un spectacle qui n’estoit point du tout de son goust. Il sortit enfin, &amp; de sa chambre &amp; de la maison. Elle s’endormit, &amp; ne s’éveilla que quand la Veuve revint. Ceux qu’elle avoit consultez trouvoient son affaire tres-facheuse, s’il estoit vray qu’elle eust signé un dédit, &amp; pour chercher les moyens de l’en tirer, il falloit attendre qu’on luy eust communiqué le Billet. Elle se resolvoit quelquefois à épouser le Cavalier, pour ne point payer les mille pistoles, &amp; en mesme temps elle protestoit que ce seroit pour le rendre le plus malheureux de tous les hommes. Six jours se passerent sans qu’elle entendist parler de rien ; &amp; enfin on luy vint dire que le Cavalier estoit à l’extrémité, &amp; qu’il n’y avoit aucune esperance qu’il en échapast. Un si rare excés d’amour renversa tous les desseins de vangeance qu’elle avoit formez. Elle en fut touchée, &amp; obligea sa Parente d’aller luy dire, que s’il vouloit travailler à sa guerison, elle acheveroit le mariage. La Parente eut de la peine à se charger de cette parole, mais elle songea qu’elle sauveroit peut-estre la vie au Cavalier par cette nouvelle. Elle la donna trop tard, &amp; la joye mêlée d’agitation qu’il en fit paroistre en la recevant, ne fit peut-estre qu’avancer sa mort, qui arriva trois heures aprés. Ainsi la Veuve n’eut point de procés à essuyer, &amp; ce luy fut un grand sujet de triomphe d’avoir réduit un Amant à mourir d’amour pour elle.</p>
+          <p>L’avanture que je vais vous raconter a des circonstances assez singulieres pour meriter que je vous en fasse le détail. Une Dame, demeurée Veuve dans un âge où les conquestes sont encore aisées à faire, faisoit son plaisir d’avoir une grosse Cour. Le merite de sa personne pouvoit avoir part aux soins qu’on s’empressoit à luy rendre, mais une raison plus forte luy attiroit un fort grand nombre d’Amans. Elle avoit beaucoup de bien, &amp; pourvû qu’on eust l’adresse de ménager son esprit, elle estoit capable de se laisser prendre, &amp; de renoncer à l’heureux estat d’indépendance où l’avoit mise la mort de son Mary, dont elle s’estoit consolée en peu de temps. Deux ou trois de ceux qui s’attacherent le plus à gagner son cœur, réussirent successivement à le toucher, &amp; elle entra avec eux dans des engagemens assez forts pour leur donner lieu de croire que le mariage dont elle arrestoit les conditions auroit son effet, mais ils ne songerent pas que la passion qu’ils luy inspiroient estant violente, estoit sujette à n’estre pas de durée, &amp; faute de la presser de conclurre si-tost qu’elle avoit promis, ils luy laisserent le temps de se dégoûter, &amp; de se défaire des sentimens favorables dont elle avoit esté prévenuë d’abord pour eux. Ces experiences ayant rebuté la pluspart de ses Amans, elle commençoit à se trouver seule, &amp; à se faire une honte de ne plus avoir d’adorateurs. Ses prétendus Heritiers se réjoüissoient de son caractere, qui sembloit les assurer que jamais elle ne succomberoit à la dangereuse tentation de prendre un second Mary, lors qu’un jour elle vint prier une Dame de ses Parentes, de venir passer huit jours avec elle à une Terre qu’elle avoit à douze lieuës de Paris. La Dame estoit toute pleine d’agrémens, avoit une vivacité d’esprit merveilleuse, &amp; faisoit la joye de toutes les societez qui la recherchoient. Comme elle joignoit une grande complaisance à mille autres qualitez qui la rendoient estimable, elle consentit à ce que voulut la Veuve, &amp; se laissa emmener dans le mesme instant, parce qu’on vouloit l’entretenir à loisir d’un fort important secret, qu’on ne vouloit confier qu’à elle seule. Elle arriva chez la Veuve, dont le premier soin fut de prendre un habit fort magnifique, &amp; de se parer d’une maniere extraordinaire. La joye qu’elle vit d’ailleurs briller dans ses yeux, luy fit demander la cause de tout cet ajustement, &amp; la Veuve répondit qu’elle l’avoit amenée pour signer à son Traité de mariage, que le Notaire avoit ordre de dresser suivant les articles qu’on luy avoit mis entre les les mains ; qu’elle devoit épouser le lendemain de fort grand matin, un Cavalier tres-bien fait, qu’elle avoit rendu éperdûment amoureux, &amp; qu’incontinent aprés ils partiroient tous pour la Campagne. La Dame qui se trouvoit de noces lors qu’elle y pensoit le moins, luy fit quantité de questions sur le Cavalier, &amp; apprit d’elle qu’il n’y avoit que huit jours qu’ils se connoissoient, &amp; qu’un homme sage qu’elle verroit avec luy, avoit conduit cette affaire. La Dame luy dit en riant qu’elle voyoit bien que le Cavalier avoit de l’esprit puis qu’il l’avoit obligée à conclure promptement, &amp; qu’elle n’avoit rien à luy conseiller, les choses estant trop avancées pour y vouloir apporter du retardement. La Veuve l’ayant asseurée qu’elle approuveroit son choix, &amp; qu’elle n’avoit rien fait qu’avec une attention tres-serieuse sur l’importance de l’engagement qu’elle avoit pris, elle applaudit à ses sentimens &amp; ne voulut point combattre inutilement une passion qui luy paroissoit tres-vive. Peu de temps aprés entrerent le Cavalier &amp; l’Entremetteur, accompagnez du Notaire qui avoit esté chargé du Traité de mariage. Le Cavalier que la Veuve presenta d’abord à sa Parente, n’avoit pas plus de trente ans, il estoit assez bien fait, &amp; à n’en juger que par la mine, il pouvoit n’estre pas indigne qu’on l’aimast. Le contrat fut lû, &amp; comme il portoit tous les avantages que l’on peut faire à un homme, la Parente de la Veuve dit au Cavalier, qu’un procedé si honneste &amp; si genereux, devoit l’engager à une éternelle reconnoissance. Il ne répondit qu’en prenant la main de la Veuve, qu’il baisa avec beaucoup de respect, &amp; le Notaire ayant presenté la plume, les interessez signerent, ainsi que la Parente &amp; l’Entremetteur qui servirent de témoins. On soupa bientost aprés, &amp; la Parente qui ne connut pas un fort grand genie dans le Cavalier, le déconcerta par son enjoûment, en luy disant cent choses plaisantes où souvent il ne sçavoit que répondre. Pour le consoler de son desordre, elle prétendoit que ce fust la marque d’un cœur tout remply d’amour, qui estant entierement occupé de son objet, n’aimoit point à s’en distraire. On se separa aprés avoir donné l’heure pour le lendemain de tres-grand matin. Cependant la Veuve estant demeurée seule avec sa Parente, luy demanda ce qu’elle pensoit de son Amant, à quoy elle répondit qu’il n’estoit pas surprenant qu’un excés d’amour luy eust étouffé l’esprit, &amp; qu’ainsi elle n’en pouvoit rien dire, puisqu’il n’estoit pas dans son estat naturel. Elles coucherent ensemble, &amp; continuerent d’en parler, jusqu’à ce que la Dame se fut endormie. Son sommeil ne dura pas fort longtemps. La Veuve fit reflexion sur le peu d’esprit qu’avoit fait voir son Amant devant sa Parente, &amp; aprés plusieurs choses agitées en elle mesme, elle commença à dire tout haut qu’il ne devoit point prétendre qu’une femme aussi riche &amp; aussi bien faite qu’elle estoit, se resolust à estre la femme d’un malheureux qui estoit sans aucun bien, &amp; qui ne pouvoit que luy faire honte. La Dame éveillée par son soliloque, luy demanda s’il estoit temps de se repentir, &amp; si elle croyoit pouvoir rompre un Contrat signé, sans s’exposer à payer de gros interests. Cette legere opposition à ses sentimens ne fit que l’affermir davantage dans la resolution de ne se pas marier. Elle se fit un portrait hideux de son Amant, &amp; il commença à luy paroistre le plus méprisable de tous les hommes. Son idée se remplissant des mauvaises qualitez qu’elle luy donnoit, elle ne pouvoit se pardonner son aveuglement, de s’estre caché ses deffauts pendant huit jours. Quatre heures sonnerent dans le temps qu’elle disputoit avec sa Parente ; &amp; le Cavalier attentif à l’heure donnée pour le mariage, vint presque aussitost. Il luy rendit compte de sa diligence à tenir tout prest dans l’Eglise, où celuy qui les devoit marier les attendoit. La Veuve luy répondit fierement qu’elle ignoroit ce qui luy donnoit la liberté d’entrer dans sa chambre tandis qu’elle estoit encore au lit ; qu’elle avoit bien d’autres choses dans la teste que de songer à se marier ; &amp; que s’il avoit tant d’impatience d’avoir une Femme, rien ne l’empêchoit de l’aller chercher ailleurs. Un changement si peu attendu mit le Cavalier dans une surprise qui le rendit quelque temps muet. Il voulut sçavoir son crime, &amp; plus il parla en Amant soumis, plus il fut traité desobligeamment. L’Entremetteur qui l’accompagnoit toujours, ne put s’empêcher de dire, qu’aprés les mesures qu’elle avoit souffert qu’on prist, un semblable procedé estoit trop injurieux pour le souffrir sans s’en plaindre, &amp; ces paroles luy en attirerent de si aigres, qu’il fut obligé de se retirer dans l’antichambre, où le Cavalier &amp; luy tinrent conseil. Les Dames les entendirent raisonner longtemps, &amp; par une sorte de dispute qu’ils eurent ensemble, elles comprirent que le Cavalier s’opposoit à ce que l’Entremetteur avoit resolu de faire. La Parente priée par la Veuve, sortit du lit promptement, &amp; à demy habillée elle alla leur dire, qu’il leur estoit inutile de prétendre qu’on luy fist perdre si-tost le dégoust où elle estoit ; que certaines choses qui luy avoient passé par l’esprit dans le moment qu’elle estoit le plus resoluë au mariage, luy en faisoient apprehender l’embarras, &amp; qu’il n’y avoit que des manieres honnestes &amp; un peu de temps qui la pûssent ramener. L’Entremetteur, aprés plusieurs plaintes sur l’affront qu’alloit recevoir le Cavalier, à qui elle n’avoit jamais demandé le secret sur cette affaire, s’échapa à dire qu’il auroit au moins sujet de se consoler par mille pistoles qu’il faudroit qu’elle payast, si elle vouloit manquer à l’engagement qu’elle avoit pris. Il n’avança rien sans le prouver. La Dame fut fort surprise de voir un Dédit signé par la Veuve, à qui elle alla demander sur l’heure pourquoy elle maltraitoit des gens qui pouvoient agir contre elle pour mille pistoles. Elle expliqua cette Enigme, &amp; en luy parlant du Billet signé qu’elle avoit vû, elle la mit dans une colere qui ne se peut exprimer. La Veuve se souvint d’avoir mis son nom au bas d’une Lettre qu’on luy avoit presentée, comme une réponse qu’elle faisoit à un compliment de civilité qu’elle avoit receu sur son mariage, d’un Parent du Cavalier. Elle avoit signé sans lire, suivant sa maniere brusque de faire beaucoup de choses, &amp; l’Entremetteur qu’on avoit instruit de son peu de fermeté dans ses resolutions, avoit cru venir à bout de fixer son inconstance en se servant de cette surprise pour luy faire signer un dédit. Elle se leva fort promptement pour aller deliberer sur ce qu’elle avoit à faire, &amp; trouvant dans l’antichambre ceux qui estoient saisis du Billet, elle en demanda une lecture. Elle luy fut refusée, &amp; ce refus excita la plus piquante dispute qui soit jamais arrivée. Ce qui se dit de facheux &amp; de cruel ne finit que par la fuite de l’Entremetteur, qui se lassant d’estre maltraité, s’échapa sans plus répondre. La Veuve sortit presque en même temps, &amp; laissa le Cavalier, qui avoit tâché inutilement de l’adoucir, dans une espece d’évanoüissement qui luy fit avoir besoin du secours que luy presterent ses gens. La perte d’une fortune qu’il avoit cruë assurée le mit dans un saisissement de douleur inconcevable. Il poussa de longs soupirs, &amp; il les poussa si haut, que la Parente, demeurée au lit pour prendre un peu de repos, aprés une nuit entiere passée sans dormir, le pria le plus honnestement qu’il luy fut possible, de moderer ses chagrins, ou s’il vouloit s’y abandonner, de vouloir au moins soupirer un peu plus bas. Cela luy donna lieu d’entrer dans sa chambre. Il luy peignit en des termes fort touchans l’indigne maniere d’agir de la Veuve, fit des lamentations tres-pitoyables, &amp; aprés qu’il l’eut assurée plus d’une fois qu’il sentoit bien qu’il mourroit de cette affaire, la Dame luy dit qu’elle ne luy conseilloit de mourir que dans la derniere necessité ; mais que si c’estoit une chose qu’il fust absolument resolu de faire, il l’obligeroit tres-fort d’aller mourir en quelque autre lieu, parce que c’estoit un spectacle qui n’estoit point du tout de son goust. Il sortit enfin, &amp; de sa chambre &amp; de la maison. Elle s’endormit, &amp; ne s’éveilla que quand la Veuve revint. Ceux qu’elle avoit consultez trouvoient son affaire tres-facheuse, s’il estoit vray qu’elle eust signé un dédit, &amp; pour chercher les moyens de l’en tirer, il falloit attendre qu’on luy eust communiqué le Billet. Elle se resolvoit quelquefois à épouser le Cavalier, pour ne point payer les mille pistoles, &amp; en mesme temps elle protestoit que ce seroit pour le rendre le plus malheureux de tous les hommes. Six jours se passerent sans qu’elle entendist parler de rien ; &amp; enfin on luy vint dire que le Cavalier estoit à l’extrémité, &amp; qu’il n’y avoit aucune esperance qu’il en échapast. Un si rare excés d’amour renversa tous les desseins de vangeance qu’elle avoit formez. Elle en fut touchée, &amp; obligea sa Parente d’aller luy dire, que s’il vouloit travailler à sa guerison, elle acheveroit le mariage. La Parente eut de la peine à se charger de cette parole, mais elle songea qu’elle sauveroit peut-estre la vie au Cavalier par cette nouvelle. Elle la donna trop tard, &amp; la joye mêlée d’agitation qu’il en fit paroistre en la recevant, ne fit peut-estre qu’avancer sa mort, qui arriva trois heures aprés. Ainsi la Veuve n’eut point de procés à essuyer, &amp; ce luy fut un grand sujet de triomphe d’avoir réduit un Amant à mourir d’amour pour elle.</p>
         </div>
         <div type="article" xml:id="MG-1694-08_200" resp="wordpro">
           <head>Rondeau</head>
@@ -764,7 +763,8 @@
             <lg>
               <l rend="i">Pegase est fier ; quand un beau feu l’anime,</l>
               <l rend="i">Du seul caprice il reconnoist les loix,</l>
-              <l rend="i">Et veut monter à l’espace sublime En liberté.</l>
+              <l rend="i">Et veut monter à l’espace sublime</l>
+              <l rend="i"> En liberté.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -772,7 +772,8 @@
               <l rend="i">Les fers aux pieds je coure aprés l’estime.</l>
               <l rend="i">Chantons Loüis avec art, avec choix.</l>
               <l rend="i">Ce grand nom seul est un assez grand poids ;</l>
-              <l rend="i">A ce Heros offrons nostre victime En liberté</l>
+              <l rend="i">A ce Heros offrons nostre victime</l>
+              <l rend="i"> En liberté</l>
             </lg>
           </quote>
         </div>
@@ -790,10 +791,10 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l><hi rend="i">I’aime mieux les concerts des Amans d’une</hi> Chatte,</l>
-              <l><hi rend="i">Ou le chant de la Poule aprés qu’elle a fait l</hi>’œuf.</l>
+              <l><hi rend="i">J’aime mieux les concerts des Amans d’une</hi> Chatte,</l>
+              <l><hi rend="i">Ou le chant de la Poule aprés qu’elle a fait l'</hi>œuf.</l>
               <l><hi rend="i">Le François par cet art va devenir</hi> Sarmate,</l>
-              <l><hi rend="i">Sa Muse est expirante, &amp; son Parnasse</hi> Veus.</l>
+              <l><hi rend="i">Sa Muse est expirante, &amp; son Parnasse</hi> Veuf.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -812,9 +813,7 @@
         <div type="article" xml:id="MG-1694-08_227" resp="mercure">
           <head>[Ceremonies faites à la reception des nouveaux Chevaliers de l’Ordre de l’Elephant]</head>
           <bibl><title>Mercure Galant</title>, août 1694 [tome 8], p. 227-239.</bibl>
-          <p>.</p>
-          <p/>
-          <p>Le Roy de Danemarck a fait de nouveaux Chevaliers de l’Ordre de l’Elephant, &amp; j’ay à vous apprendre les Ceremonies que l’on y a observées. [...] La Ceremonie des nouveaux Chevaliers fut commencée le 14. du mois passé par une excellente Musique, qui se fit entendre dés le grand matin. Le Docteur Petri fit une Predication sur ces paroles du Pseaume 15. Je prens mon plaisir aux Saints &amp; aux Vertueux qui sont sur la terre. Pendant ce Sermon, le Roy de Danemarck estoit assis dans le large espace qui est devant l’Autel, &amp; qu’on avoit préparé pour l’Assemblée des Chevaliers. [...] Le Sermon estant finy, la Musique recommença, aprés quoy le Sr Marc Gioé l’un des Chevaliers, fit sa harangue tres éloquente en la langue du pays, &amp; s’étendit simplement sur tout ce qui regardoit la gloire de Sa Majesté Danoise, sur les grandes actions des Rois ses Predecesseurs, sur l’origine de l’Ordre de l’Elephant, &amp; sur le merite de tous ceux qu’on y avoit reçus Chevaliers. Aprés ce Discours qui dura deux heures, un Secretaire &amp; le Maître des Ceremonies de l’Ordre qui avoient tous deux de longs manteaux d’écarlate, s’avancerent vis-à-vis du Trône du Roy, &amp; se tenant debout, ils firent lecture des Statuts, parlant à haute voix, &amp; prononçant distinctement les noms &amp; les qualitez de tous les membre de l’Ordre. Cela fait, on entendit un grand bruit de Trompettes &amp; de Tymbales, aprés quoy Sa Majesté sortit de l’Eglise, &amp; alla se mettre à table, où Elle fut conduite par un Heraut &amp; par deux Maistres des Ceremonies. La table où le Roy traita tous les Chevaliers presens, estoit dressée dans la grande Salle des Balets, en forme de demy-lune. Il y eut six vingt plats portez à chaque service, &amp; les Trompettes &amp; les Timbales ne cesserent point de se faire entendre pendant le festin, sur tout aux santez qui furent buës &amp; portées. Ce fut ainsi que se termina le premier jour de cette solemnité. Le lendemain 15. deux Herauts &amp; douze Trompettes à cheval, &amp; le Timbalier du Roy avec trois Carrosses de Sa Majesté, chacun attelé de six chevaux, s’en allérent à la Ville pour amener les Chevaliers qui s’y trouvoient, &amp; les Procureurs de ceux qui devoient recevoir cet Ordre par Deputez. Comme c’estoient des Princes Etrangers, leurs Procureurs furent reçus au bas de l’Escalier par deux Maistres des Ceremonies, &amp; conduits jusque dans l’Eglise, vis-à-vis du Trône du Roy, au bruit des Trompettes &amp; des Timbales. Ils reçûrent l’Ordre des mains de Sa Majesté au nom du Duc de Saxe Cotha, du Duc de Holstein-Bek, du Landgrave de Hesse-Darmstadt, du Prince Philippe de Hesse-Cassel, second Frere de la Reine de Danemark, du Prince d’Ostvriestant, &amp; des deux Ducs de Wirtemberg. Ceux qui reçurent cet Ordre en personne furent le Comte de Revenklaw, le Sr Walter, le Baron de  Geirzmeyer, &amp; le Grand Maistre de la Maison de la Reine de Danemark. Ils furent ensuite magnifiquement traitez par les autres Chevaliers dans leur grande Salle, ayant alors leurs habits de ceremonie.</p>
+          <p>Le Roy de Danemarck a fait de nouveaux Chevaliers de l’Ordre de l’Elephant, &amp; j’ay à vous apprendre les Ceremonies que l’on y a observées. [...] La Ceremonie des nouveaux Chevaliers fut commencée le 14. du mois passé par une excellente Musique, qui se fit entendre dés le grand matin. Le Docteur Petri fit une Predication sur ces paroles du Pseaume 15. <hi rend="i">Je prens mon plaisir aux Saints &amp; aux Vertueux qui sont sur la terre.</hi> Pendant ce Sermon, le Roy de Danemarck estoit assis dans le large espace qui est devant l’Autel, &amp; qu’on avoit préparé pour l’Assemblée des Chevaliers. [...] Le Sermon estant finy, la Musique recommença, aprés quoy le S<hi rend="sup">r</hi> Marc Gioé l’un des Chevaliers, fit sa harangue tres éloquente en la langue du pays, &amp; s’étendit simplement sur tout ce qui regardoit la gloire de Sa Majesté Danoise, sur les grandes actions des Rois ses Predecesseurs, sur l’origine de l’Ordre de l’Elephant, &amp; sur le merite de tous ceux qu’on y avoit reçus Chevaliers. Aprés ce Discours qui dura deux heures, un Secretaire &amp; le Maître des Ceremonies de l’Ordre qui avoient tous deux de longs manteaux d’écarlate, s’avancerent vis-à-vis du Trône du Roy, &amp; se tenant debout, ils firent lecture des Statuts, parlant à haute voix, &amp; prononçant distinctement les noms &amp; les qualitez de tous les membre de l’Ordre. Cela fait, on entendit un grand bruit de Trompettes &amp; de Tymbales, aprés quoy Sa Majesté sortit de l’Eglise, &amp; alla se mettre à table, où Elle fut conduite par un Heraut &amp; par deux Maistres des Ceremonies. La table où le Roy traita tous les Chevaliers presens, estoit dressée dans la grande Salle des Balets, en forme de demy-lune. Il y eut six vingt plats portez à chaque service, &amp; les Trompettes &amp; les Timbales ne cesserent point de se faire entendre pendant le festin, sur tout aux santez qui furent buës &amp; portées. Ce fut ainsi que se termina le premier jour de cette solemnité. Le lendemain 15. deux Herauts &amp; douze Trompettes à cheval, &amp; le Timbalier du Roy avec trois Carrosses de Sa Majesté, chacun attelé de six chevaux, s’en allérent à la Ville pour amener les Chevaliers qui s’y trouvoient, &amp; les Procureurs de ceux qui devoient recevoir cet Ordre par Deputez. Comme c’estoient des Princes Etrangers, leurs Procureurs furent reçus au bas de l’Escalier par deux Maistres des Ceremonies, &amp; conduits jusque dans l’Eglise, vis-à-vis du Trône du Roy, au bruit des Trompettes &amp; des Timbales. Ils reçûrent l’Ordre des mains de Sa Majesté au nom du Duc de Saxe Cotha, du Duc de Holstein-Bek, du Landgrave de Hesse-Darmstadt, du Prince Philippe de Hesse-Cassel, second Frere de la Reine de Danemark, du Prince d’Ostvriestant, &amp; des deux Ducs de Wirtemberg. Ceux qui reçurent cet Ordre en personne furent le Comte de Revenklaw, le S<hi rend="sup">r</hi> Walter, le Baron de  Geirzmeyer, &amp; le Grand Maistre de la Maison de la Reine de Danemark. Ils furent ensuite magnifiquement traitez par les autres Chevaliers dans leur grande Salle, ayant alors leurs habits de ceremonie.</p>
         </div>
         <div type="article" xml:id="MG-1694-08_289" resp="wordpro">
           <head>[Reception de Mr l’Abbé Boileau à l’Académie Françoise]</head>
@@ -825,13 +824,12 @@
         <div type="article" xml:id="MG-1694-08_294" resp="mercure">
           <head>[Ce qui s’est passé à l’Academie Françoise le jour de Saint Louis]</head>
           <bibl><title>Mercure Galant</title>, août 1694 [tome 8], p. 294-295.</bibl>
-          <p/>
-          <p>Le 25. jour de la Feste de S. Loüis, l’Academie Françoise la solemnisa, selon sa coutume, dans la Chapelle du Louvre. Mr l’Abbé Testu de Mauroy, ancien Aumônier ordinaire de Madame, &amp; l’un des quarante Academiciens, celebra la Messe, pendant laquelle une excellente Musique chanta un Motet qu’avoit composé Mr Oudot, &amp; qui fut trouvé tres-digne de luy. Vous sçavez ce que valent ses Ouvrages, &amp; la réputation qu’il s’est acquise par les Choeurs de Jephté &amp; de Judith, dont il a fait la Musique. Mr Boyer est l’Auteur de ces deux Pieces.</p>
+          <p>Le 25. jour de la Feste de S. Loüis, l’Academie Françoise la solemnisa, selon sa coutume, dans la Chapelle du Louvre. M<hi rend="sup">r</hi> l’Abbé Testu de Mauroy, ancien Aumônier ordinaire de Madame, &amp; l’un des quarante Academiciens, celebra la Messe, pendant laquelle une excellente Musique chanta un Motet qu’avoit composé M<hi rend="sup">r</hi> Oudot, &amp; qui fut trouvé tres-digne de luy. Vous sçavez ce que valent ses Ouvrages, &amp; la réputation qu’il s’est acquise par les Choeurs de Jephté &amp; de Judith, dont il a fait la Musique. M<hi rend="sup">r</hi> Boyer est l’Auteur de ces deux Pieces.</p>
         </div>
         <div type="article" xml:id="MG-1694-08_296" resp="wordpro">
           <head>[Dictionnaire de la mesme Academie présenté au Roy]</head>
           <bibl><title>Mercure Galant</title>, août 1694 [tome 8], p. 296-301.</bibl>
-          <p>Enfin, Madame, toute la France va estre contente. Cette Academie qui travaille depuis tant d’années à un Dictionnaire, attendu &amp; souhaité de toutes parts, est prête à le publier, &amp; vous n’en douterez point quand je vous auray dit qu’elle eut l’honneur de le presenter au Roy le 24. de ce mois, jour de la Feste de S. Barthelemy, &amp; veille de celle de S. Loüis. C’est un Livre <hi rend="i">in folio</hi>, divisé en deux volumes. Sa Majesté qui avoit voulu qu’il n’y eust qu’un petit nombre d’Academiciens qui accompagnassent M<hi rend="sup">r</hi> de Tourreil, Directeur, qui devoit le presenter, leur avoit donné l’heure pour cela au sortir de son Prie-Dieu. Ils ne manquerent pas de s’y rendre. M<hi rend="sup">r</hi> le Duc de Coislin qui s’y rencontra, prit parmy eux sa place de Sous-Doyen de la Compagnie. Si-tost que le Roy les vit, M<hi rend="sup">r</hi> de Tourreil commençant à s’avancer pour luy faire son complimens, Sa Majesté leur dit dit avec cet air de bonté &amp; d’honnesteté qui luy est particulier, qu’Elle les recevroit mieux dans son Cabinet. Ils y entrerent, &amp; alors M. de Tourreil dit au Roy, que l’Ouvrage que Sa Majesté vouloit bien leur permettre de luy presenter, avoit esté achevé dans son Palais, par son ordre, &amp; sous sa protection ; à quoy il ajoûta. Pourrions-nous, Sire, n’avoir pas réussi ? Nous avions pour gage du succés le zele attentif qu’inspire l’ambition de vous satisfaire, &amp; la gloire de vous obéïr. Il nous est donc permis de nous flater que nostre Ouvrage explique les termes, develope les beautez, découvre les delicatesses que vous doit une Langue qui se perfectionne autant de fois que vous la parlez, ou qu’elle parle de Vous. Le reste du Compliment renfermoit des sentimens pleins d’un respect affectueux &amp; tendre pour la Personne de Sa Majesté.</p>
+          <p>Enfin, Madame, toute la France va estre contente. Cette Academie qui travaille depuis tant d’années à un Dictionnaire, attendu &amp; souhaité de toutes parts, est prête à le publier, &amp; vous n’en douterez point quand je vous auray dit qu’elle eut l’honneur de le presenter au Roy le 24. de ce mois, jour de la Feste de S. Barthelemy, &amp; veille de celle de S. Loüis. C’est un Livre <hi rend="i">in folio</hi>, divisé en deux volumes. Sa Majesté qui avoit voulu qu’il n’y eust qu’un petit nombre d’Academiciens qui accompagnassent M<hi rend="sup">r</hi> de Tourreil, Directeur, qui devoit le presenter, leur avoit donné l’heure pour cela au sortir de son Prie-Dieu. Ils ne manquerent pas de s’y rendre. M<hi rend="sup">r</hi> le Duc de Coislin qui s’y rencontra, prit parmy eux sa place de Sous-Doyen de la Compagnie. Si-tost que le Roy les vit, M<hi rend="sup">r</hi> de Tourreil commençant à s’avancer pour luy faire son complimens, Sa Majesté leur dit avec cet air de bonté &amp; d’honnesteté qui luy est particulier, qu’Elle les recevroit mieux dans son Cabinet. Ils y entrerent, &amp; alors M. de Tourreil dit au Roy, que l’Ouvrage que Sa Majesté vouloit bien leur permettre de luy presenter, avoit esté achevé dans son Palais, par son ordre, &amp; sous sa protection ; à quoy il ajoûta. Pourrions-nous, Sire, n’avoir pas réussi ? Nous avions pour gage du succés le zele attentif qu’inspire l’ambition de vous satisfaire, &amp; la gloire de vous obéïr. Il nous est donc permis de nous flater que nostre Ouvrage explique les termes, develope les beautez, découvre les delicatesses que vous doit une Langue qui se perfectionne autant de fois que vous la parlez, ou qu’elle parle de Vous. Le reste du Compliment renfermoit des sentimens pleins d’un respect affectueux &amp; tendre pour la Personne de Sa Majesté.</p>
           <p>Le Roy ayant écouté ce compliment, répondit tout haut en ces propres termes. <hi rend="i">Messieurs, voicy un Ouvrage attendu depuis longtemps. Puis que tant d’habiles gens y ont travaillé, je ne doute point qu’il ne soit tres-beau &amp; fort utile pour la Langue. Je le reçois agreablement ; je le liray à mes heures de loisir, &amp; je tâcheray d’en profiter</hi>. Des paroles si obligeantes furent un prix glorieux de leur travail. Le S<hi rend="sup">r</hi> Coignard, Libraire de l’Academie, ne s’occupe maintenant qu’à faire relier un grand nombre d’exemplaires de cet excellent Dictionnaire, que tout le monde s’empresse à luy venir demander, &amp; qu’il commencera à debiter dans les premiers jours du mois prochain.</p>
         </div>
         <div type="article" xml:id="MG-1694-08_301" resp="wordpro">
