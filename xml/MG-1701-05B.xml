@@ -57,10 +57,11 @@
         <div type="article" xml:id="MG-1701-05B_003" resp="wordpro">
           <head>L’Alliance de la Sagesse avec la Jeunesse</head>
           <bibl><title>Mercure Galant</title>, mai 1701 [tome 7], p. 3-23.</bibl>
-          <p>Comme je ne me suis pas seulement engagé à vous donner la suite de ce qui s’est passé dans le Voyage de Messeigneurs les Princes, mais même à vous envoyer quantité de Pieces, qui ne m’ont pas esté renduës assez à temps, pour estre placées dans l’ordre où elles auroient dû l’estre, si je les avois receuës plûtost, je commence par un Idille qui a esté chanté devant Messeigneurs les Princes à Toulouse. Cet Ouvrage est du Pere Capistron, Je suite, Frere de M<hi rend="sup">r</hi> de Capistron, Secretaire des Galeres, &amp; de M<hi rend="sup">r</hi> le Duc de Vendôme, &amp; dont les Ouvrages de Theatre ont eu un si grand succés, qu’ils luy ont fait meriter une place à l’Academie Françoise. Vous verrez par cet Idille que [l’en]tousiasme qui fait les bons Poëtes, regne dans cette Famille.</p>
+          <p>Comme je ne me suis pas seulement engagé à vous donner la suite de ce qui s’est passé dans le Voyage de Messeigneurs les Princes, mais même à vous envoyer quantité de Pieces, qui ne m’ont pas esté renduës assez à temps, pour estre placées dans l’ordre où elles auroient dû l’estre, si je les avois receuës plûtost, je commence par un Idille qui a esté chanté devant Messeigneurs les Princes à Toulouse. Cet Ouvrage est du Pere Capistron, Jesuite, Frere de M<hi rend="sup">r</hi> de Capistron, Secretaire des Galeres, &amp; de M<hi rend="sup">r</hi> le Duc de Vendôme, &amp; dont les Ouvrages de Theatre ont eu un si grand succés, qu’ils luy ont fait meriter une place à l’Academie Françoise. Vous verrez par cet Idille que l’entousiasme qui fait les bons Poëtes, regne dans cette Famille.</p>
           <quote>
-            <label>L’ALLIANCE<lb/>DE LA SAGESSE<lb/>AVEC<lb/>LA JEUNESSE.<lb/><hi rend="i">HEBÉ, ou la Déesse de la<lb/>Jeunesse.</hi></label>
+            <label>L’ALLIANCE<lb/>DE LA SAGESSE<lb/>AVEC<lb/>LA JEUNESSE.<lb/></label>
             <lg>
+            <label type="speaker"><hi rend="i">HEBÉ, ou la Déesse de la<lb/>Jeunesse.</hi></label>
               <l>Fuyez, sombres Chagrins, accablante Tristesse,</l>
               <l>Soins fâcheux, importuns Soupirs,</l>
               <l>Laissez regner les Jeux, les Ris &amp; les Plaisirs</l>
@@ -69,11 +70,11 @@
               <l> Soins fâcheux, importuns Soupirs,</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l>Fuyez, sombres Chagrins, &amp;c.</l>
             </lg>
             <lg>
-              <label><hi rend="i">HEBÉ.</hi></label>
+              <label type="speaker"><hi rend="i">HEBÉ.</hi></label>
               <l> J’exerce une douce puissance,</l>
               <l> L’Univers doit a mes bienfaits</l>
               <l>Ses plus beaux ornemens, ses plus charmans attraits.</l>
@@ -84,46 +85,46 @@
               <l>  De mon absence.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un Suivant de la Jeunesse.</hi></label>
+              <label type="speaker"><hi rend="i">Un Suivant de la Jeunesse.</hi></label>
               <l>Hebé, charmante Hebé, que vôtre empire est doux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l>Hebé, charmante Hebé, que vôtre empire est doux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un autre Suivant.</hi></label>
+              <label type="speaker"><hi rend="i">Un autre Suivant.</hi></label>
               <l>Les Graces, les Plaisirs, les Jeux sont avec vous :</l>
               <l>Hebé, charmante Hebé, que vôtre empire est doux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l> Que ceux qu’un destin favorable</l>
               <l> Soumet à cet empire aimable,</l>
               <l>Se joignent à nos voix, &amp; disent avec nous,</l>
               <l>Hebé, charmante Hebé, que vôtre empire est doux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le second.</hi></label>
+              <label type="speaker"><hi rend="i">Le second.</hi></label>
               <l> Le Printems au retour de Flore</l>
               <l>Fait naître dans les prez les plus vives couleurs ;</l>
               <l> Mais rien n’est comparable aux fleurs</l>
               <l> Que la Jeunesse fait éclore.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l> De quel éclat brille l’Aurore,</l>
               <l>Quand sur un doux nuage elle-même se peint ?</l>
               <l> Mais la Jeunesse sur un teint</l>
               <l> Brille de plus d’éclat encore.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l>  Chantons tous,</l>
               <l>Hebé, charmante Hebé, que vôtre empire est doux.</l>
             </lg>
             <lg>
-              <label><hi rend="i">HEBÉ.</hi></label>
+              <label type="speaker"><hi rend="i">HEBÉ.</hi></label>
               <l> Non non, adressez cet hommage</l>
               <l>Aux deux jeunes Heros qu’on honore en ces lieux ;</l>
               <l> J’ay fait sur eux l’agreable assemblage</l>
@@ -137,50 +138,50 @@
               <l>Me font connoître mon pouvoir.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un Suivant.</hi></label>
+              <label type="speaker"><hi rend="i">Un Suivant.</hi></label>
               <l>Ah ! quelle douceur, quelle grace</l>
               <l>Tempere l’éclat de leurs yeux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un autre.</hi></label>
+              <label type="speaker"><hi rend="i">Un autre.</hi></label>
               <l>Ah ! quel feu, quelle noble audace.</l>
               <l>Anime l’éclat de leurs yeux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l> Ah ! quelle douceur, quelle grace</l>
               <l>Perce le cœur d’un trait victorieux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le second.</hi></label>
+              <label type="speaker"><hi rend="i">Le second.</hi></label>
               <l> Ah ! quel feu, quelle noble audace</l>
               <l>Porte l’effroy chez les audacieux !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Tous deux.</hi></label>
+              <label type="speaker"><hi rend="i">Tous deux.</hi></label>
               <l>Ah ! quelle douceur, quelle grace,</l>
               <l>Ah ! quel feu, quelle noble audace</l>
               <l>Tempere / Anime l’éclat de leurs yeux.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l> En eux tout nous retrace</l>
               <l>Le vif portrait de leurs Ayeux.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le second.</hi></label>
+              <label type="speaker"><hi rend="i">Le second.</hi></label>
               <l> En eux tout nous retrace</l>
               <l>Le vif portrait du Heros glorieux,</l>
               <l>Qu’à leur âge autrefois on a vû dans ces lieux.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Tous deux.</hi></label>
+              <label type="speaker"><hi rend="i">Tous deux.</hi></label>
               <l>Ah ! quelle douceur, quelle grace,</l>
               <l>Ah ! quel feu, quelle noble audace,</l>
               <l>Tempere / Anime l’éclat de leurs yeux.</l>
             </lg>
             <lg>
-              <label><hi rend="i">HEBÉ<lb/>La Sagesse paroît.</hi></label>
+              <label type="speaker"><hi rend="i">HEBÉ<lb/>La Sagesse paroît.</hi></label>
               <l>Qui vient troubler nôtre alégresse ?</l>
               <l>Ah ! que vois-je : C’est vous, helas !</l>
               <l>  Importune Sagesse,</l>
@@ -189,7 +190,7 @@
               <l>De fuir de<note resp="editor">"De fuir des" dans le texte original.</note> mes plaisirs les innocens apas ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">LA SAGESSE.</hi></label>
+              <label type="speaker"><hi rend="i">LA SAGESSE.</hi></label>
               <l>Est-ce à moy qu’il faut vous en prendre ?</l>
               <l>Ils quittent volontiers vos Jeux &amp; vos Chansons</l>
               <l>Pour écouter mes utiles leçons.</l>
@@ -202,70 +203,70 @@
               <l>De cet heureux empressement ?</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un suivant de la Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">Un suivant de la Sagesse.</hi></label>
               <l>  O divine Sagesse,</l>
               <l>Suivez pour ces Heros le zele qui vous presse.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l>  O divine Sagesse,</l>
               <l>Suivez pour ces Heros le zele qui vous presse.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Un autre Suivant.</hi></label>
+              <label type="speaker"><hi rend="i">Un autre Suivant.</hi></label>
               <l>C’est à vous d’éclairer les aveugles humains,</l>
               <l>Sans vous ils languiroient dans une nuit profonde.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l>Il n’est point d’injustes desseins</l>
               <l>Que vostre pouvoir ne confonde.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le second.</hi></label>
+              <label type="speaker"><hi rend="i">Le second.</hi></label>
               <l>Les efforts des Mortels sont vain</l>
               <l>Si vostre appuy ne les seconde.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l>Vous estes necessaire à tous les Souverains,</l>
               <l>Comme l’Astre du jour est necessaire au monde ;</l>
               <l>C’est à vous d’éclairer les aveugles humains.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l> O divine Sagesse,</l>
               <l>Suivez pour ces Heros le zele qui vous presse.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l> Soit dans la Paix, soit dans la Guerre,</l>
-              <l>A vos sages conseils on doit avoir recours.</l>
+              <l>À vos sages conseils on doit avoir recours.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le second.</hi></label>
+              <label type="speaker"><hi rend="i">Le second.</hi></label>
               <l>Qu’on seroit heureux sur la terre</l>
               <l>Si l’on vous consultoit toujours !</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le premier.</hi></label>
+              <label type="speaker"><hi rend="i">Le premier.</hi></label>
               <l>Le Maistre même du tonnerre</l>
               <l>A besoin de vostre secours.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l>  O divine Sagesse,</l>
               <l>Suivez pour ces Heros le zele qui vous presse.</l>
             </lg>
             <lg>
-              <label><hi rend="i">La Sagesse, à Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">La Sagesse, à Hebé.</hi></label>
               <l>Pour rendre hommage au rang où le Ciel vous fit naistre.</l>
               <l>Réunissez sur eux vos plus riches presens ;</l>
               <l>  Mais je dois estre</l>
               <l> La Maistresse de leur temps.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Hebé.</hi></label>
               <l>Nous ne sçaurions regner ensemble l’un &amp; l’autre,</l>
               <l> Regnons chacun à nostre tour.</l>
               <l> C’est mon temps, vous aurez le vostre,</l>
@@ -274,14 +275,14 @@
               <l>Nous ne sçaurions regner ensemble l’un &amp; l’autre.</l>
             </lg>
             <lg>
-              <label><hi rend="i">La Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">La Sagesse.</hi></label>
               <l>Vous ne connoissez pas de quel prix sont leurs jours,</l>
               <l> J’en dois rendre compte à l’Histoire,</l>
               <l>Ah ! ces jours précieux ne seront que trop courts,</l>
               <l>Il ne faut pas qu’un seul échape à la memoire.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Hebé.</hi></label>
               <l> Vous voulez usurper mes droits,</l>
               <l>Quoy ! n’est-ce pas pour vous une assez grande gloire</l>
               <l>D’avoir fait de LOUIS le plus sage des Rois ?</l>
@@ -298,14 +299,14 @@
               <l>Qui ne fuit que trop tost, &amp; qui ne revient plus.</l>
             </lg>
             <lg>
-              <label><hi rend="i">La Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">La Sagesse.</hi></label>
               <l>Vous pouvez amuser les premieres années.</l>
               <l>Des Princes amoureux d’un indigne repos ;</l>
               <l>Mais je dois me hâter de former des Heros</l>
               <l>  Dont l’Univers attend ses destinées.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Hebé.</hi></label>
               <l> Pour un si glorieux dessein</l>
               <l>Vostre secours paroist peu necessaire ;</l>
               <l>Le beau feu que leur Sang allume dans leur sein,</l>
@@ -313,17 +314,17 @@
               <l> Vous laissent peu de chose à faire.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur d’Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur d’Hebé.</hi></label>
               <l>Hebé, charmante Hebé, que vôtre empire est doux !</l>
               <l>Les Graces, les Plaisirs, les Jeux sont avec vous.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Chœur de la Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">Chœur de la Sagesse.</hi></label>
               <l>  O divine Sagesse,</l>
               <l>Suivez pour ces Héros le zele qui vous presse.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Hebé.</hi></label>
               <l> Non, vôtre zele vous séduit.</l>
               <l>Vos soins précipitez, qu’ont-ils enfin produit ?</l>
               <l>Et que sert aux François vôtre ardeur empressée ?</l>
@@ -335,7 +336,7 @@
               <l> Non, vôtre zele vous seduit.</l>
             </lg>
             <lg>
-              <label><hi rend="i">La Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">La Sagesse.</hi></label>
               <l>Ah ! Déesse, quittez cette injuste pensée ;</l>
               <l> Ah ! Déesse, détrompez-vous ;</l>
               <l>Ces Peuples n’auront plus de mouvemens jaloux,</l>
@@ -351,31 +352,31 @@
               <l> Dans ses avantages sur Elle.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Hebé.</hi></label>
+              <label type="speaker"><hi rend="i">Hebé.</hi></label>
               <l> Nous ne pouvons nous accorder ;</l>
               <l> Mais la Sagesse</l>
               <l>  Doit ceder</l>
-              <l> A la jeunesse :</l>
+              <l> À la jeunesse :</l>
               <l>Il est aisé de décider.</l>
             </lg>
             <lg>
-              <label><hi rend="i">La Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">La Sagesse.</hi></label>
               <l>Nous ne pouvons nous accorder ;</l>
               <l> Mais la Jeunesse</l>
               <l>  Doit ceder</l>
-              <l> A la Sagesse :</l>
+              <l> À la Sagesse :</l>
               <l>Il est aisé de décider.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Chœurs d’Hebé &amp; de la Sagesse.</hi></label>
+              <label type="speaker"><hi rend="i">Chœurs d’Hebé &amp; de la Sagesse.</hi></label>
               <l>Vous ne pouvez vous accorder ;</l>
               <l> Mais la Sagesse / Jeunesse</l>
               <l>  Doit ceder</l>
-              <l> A la Jeunesse / Sagesse</l>
+              <l> À la Jeunesse / Sagesse</l>
               <l>Il est aisé de décider.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Jupiter.</hi></label>
+              <label type="speaker"><hi rend="i">Jupiter.</hi></label>
               <l>Au sujet des Héros dont le sort m’interesse,</l>
               <l>Je veux qu’à l’avenir l’une &amp; l’autre Déesse</l>
               <l>Se fassent un devoir de ne les quitter pas.</l>
@@ -389,7 +390,7 @@
               <l> Et vous, Sagesse, dans leur cœur.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Le Chœur.</hi></label>
+              <label type="speaker"><hi rend="i">Le Chœur.</hi></label>
               <l> Unissons-nous / Unissez-vous en leur faveur :</l>
               <l> Regnons / Regnez toûjours,</l>
               <l>Jupiter nous / vous l’ordonne,</l>
@@ -467,7 +468,7 @@
           <quote>
             <label>AU ROY D’ESPAGNE,<lb/>Sur son avenement à la Couronne.</label>
             <lg>
-              <l rend="i">L’espagne jusqu’icy mille fois étonnée</l>
+              <l rend="i">L’Espagne jusqu’icy mille fois étonnée</l>
               <l rend="i">Des projets, des vertus, des miracles divers,</l>
               <l><hi rend="i">Dont</hi> <hi rend="sc">Louis</hi> <hi rend="i">pour toujours a rempli l’Univers,</hi></l>
               <l rend="i">Envioit des François l’heureuse destinée.</l>
@@ -504,15 +505,15 @@
             <lg>
               <l rend="i">Quel Chef-d’œuvre plus prompt ! par une longue attente</l>
               <l rend="i">Des siecles preparoient les Heros d’autrefois ;</l>
-              <l><hi rend="i">A l’égard de</hi> <hi rend="sc">Louis</hi> <hi rend="i">cette voye est trop lente ;</hi></l>
+              <l><hi rend="i">À l’égard de</hi> <hi rend="sc">Louis</hi> <hi rend="i">cette voye est trop lente ;</hi></l>
               <l rend="i">Son exemple &amp; son sang font d’abord de grands Rois !</l>
             </lg>
           </quote>
           <quote>
-            <label>A MONSEIGNEUR<lb/>LE DAUPHIN.</label>
+            <label>À MONSEIGNEUR<lb/>LE DAUPHIN.</label>
             <lg>
               <l rend="i">Fils d’un grand Roy, Pere d’un grand Monarque,</l>
-              <l rend="i">  A cette marque,</l>
+              <l rend="i">  À cette marque,</l>
               <l><hi rend="sc">Prince</hi>, <hi rend="i">qui ne connoist l’excés de ton bonheur,</hi></l>
               <l rend="i"> Et tout l’éclat de ta grandeur ?</l>
               <l rend="i">La naissance t’a mis au-dessus des Couronnes</l>
@@ -521,7 +522,7 @@
               <l rend="i">  Que par celles que tu reçois.</l>
               <l rend="i">Heritier reconnu des plus grands Rois du monde,</l>
               <l rend="i"> Tu pouvois imposer des loix</l>
-              <l rend="i">A cent Peuples fameux sur la terre &amp; sur l’onde.</l>
+              <l rend="i">À cent Peuples fameux sur la terre &amp; sur l’onde.</l>
               <l rend="i">Si tu n’avois cede la moitie de tes droits ;</l>
               <l rend="i">Qui t’auroit disputé cette éclatante gloire ?</l>
               <l rend="i">Le Batave jaloux, le terrible Germain ?</l>
@@ -530,10 +531,10 @@
               <l rend="i"> Ils ont éprouvé ta valeur ;</l>
               <l rend="i"> Ils ne sçauroient revenir de leur peur,</l>
               <l rend="i">S’ils te voyoient encor, l’air grand, la mine fiere,</l>
-              <l rend="i"> A la teste de nos guerriers</l>
+              <l rend="i"> À la teste de nos guerriers</l>
               <l rend="i">Insulter leurs Remparts &amp; les mettre en poussiere,</l>
               <l rend="i">Et couronner ton front par de nouveaux lauriers.</l>
-              <l> <hi rend="i">Non ce n’est point par faute de courage,</hi></l>
+              <l rend="i"> Non ce n’est point par faute de courage,</l>
               <l rend="i">Que tu veux renoncer à l’Empire du Tage ;</l>
               <l rend="i">De deux peuples soumis favorisant les vœux,</l>
               <l rend="i"> Et partageant un double Diadême,</l>
@@ -543,7 +544,7 @@
             </lg>
           </quote>
           <quote>
-            <label>A MONSEIGNEUR<lb/>LE DAUPHIN,<lb/>Sur ce qu’il a cedé le Royaume d’Espagne.<lb/><hi rend="i">SONNET.</hi></label>
+            <label>À MONSEIGNEUR<lb/>LE DAUPHIN,<lb/>Sur ce qu’il a cedé le Royaume d’Espagne.<lb/><hi rend="i">SONNET.</hi></label>
             <lg>
               <l rend="i">Pouvoir orner son front d’un brillant Diadême,</l>
               <l rend="i">Et ne gardant pour soy que le nom de Heros,</l>
@@ -571,13 +572,13 @@
             </lg>
           </quote>
           <quote>
-            <label>A MONSEIGNEUR<lb/>LE DUC DE BERRY.</label>
+            <label>À MONSEIGNEUR<lb/>LE DUC DE BERRY.</label>
             <lg>
               <l rend="i">Heritier presomptif d’une riche Couronne,</l>
               <l rend="i"> Fils du grand Prince qui la donne :</l>
-              <l><hi rend="i">Que peus-tu desirer pour comble de bonheur ?</hi></l>
+              <l rend="i">Que peus-tu desirer pour comble de bonheur ?</l>
               <l rend="i"> Est-ce un Royaume, est-ce un Empire ?</l>
-              <l rend="i">  A ce nouvel honneur</l>
+              <l rend="i">  À ce nouvel honneur</l>
               <l rend="i">  Si ton courage aspire :</l>
               <l rend="i">Charles, nomme l’Etat que tu veux posseder.</l>
               <l rend="i"> Que l’ambition, ny le vice,</l>
@@ -595,7 +596,7 @@
               <l rend="i">Ces Villes te rendront leurs superbes Rempars.</l>
               <l rend="i">  Et sous tes Etendars,</l>
               <l rend="i">S’il te guide au chemin qui conduit à la Gloire ;</l>
-              <l><hi rend="i">Tu verras constament se ranger la Victoire,</hi></l>
+              <l rend="i">Tu verras constament se ranger la Victoire,</l>
               <l rend="i"> Suis ses conseils, égale ses Exploits,</l>
               <l rend="i"> Tu deviendras égal au plus grands Rois.</l>
             </lg>
@@ -611,16 +612,16 @@
               <l rend="i">De ce Roc éminent la cime inaccessible,</l>
               <l rend="i">Est du plus grand des Rois une image sensible.</l>
               <l rend="i">Au faite de la gloire, il a sceu s’élever,</l>
-              <l> <hi rend="i">Nul mortel n’y peut arriver.</hi></l>
+              <l rend="i"> Nul mortel n’y peut arriver.</l>
               <l rend="i">L’Espagne, de la France implacable ennemie,</l>
-              <l> <hi rend="i">A ses Loix est assujetie :</hi></l>
+              <l rend="i"> À ses Loix est assujetie :</l>
               <l rend="i">Il en est conquerant au milieu de la paix.</l>
               <l rend="i"> Souverains, jaloux de sa gloire,</l>
               <l rend="i">Admirez de ces faits la veritable Histoire,</l>
               <l rend="i">Mais ne pretendez pas de l’égaler jamais.</l>
             </lg>
           </quote>
-          <p>Le second miracle est la Fontaine qui brûle. Cette merveilleuse Fontaine estoit déja fameuse du temps de S. Augustin, qui dit dans le Livre 21. de la Cité de Dieu Chapitre 7. qu’il y a auprés de Grenoble, une Fontaine qui allume les flambeaux éteints, &amp; qui éteint ceux qui sont allumez, <hi rend="i">faces accenduntur ardentes, &amp; extinguntur accensæ</hi>. Cette Fontaine est éloignée de trois lieuës de Grenoble auprés d’une montagne. Ces eaux sont froides naturellement, mais quand on détourne son Ruisseau pour le faire passer sur un champ voisin de son Canal, on voit des flames sur ses eaux. Ce qu’il y a d’admirable, c’est que cette eau continue d’estre froide tandis qu’elle coule, quoy qu’elle soit couverte de flames, mais si on arreste le cours du Ruisseau avec des gazons de terre, alors cet eau se trouble, s’épaissit, &amp; s’échauffe, on croit qu’il y a sous ce Champ des feux souterrains, d’où il s’éleve des exalaisons qui produisent les effets merveilleux qu’on admire dans cette Fontaine.</p>
+          <p>Le second miracle est la Fontaine qui brûle. Cette merveilleuse Fontaine estoit déja fameuse du temps de S. Augustin, qui dit dans le Livre 21. de la Cité de Dieu Chapitre 7. qu’il y a auprés de Grenoble, une Fontaine qui allume les flambeaux éteints, &amp; qui éteint ceux qui sont allumez, <hi rend="i">faces accenduntur ardentes, &amp; extinguntur accensæ</hi>. Cette Fontaine est éloignée de trois lieuës de Grenoble auprés d’une montagne. Ces eaux sont froides naturellement, mais quand on détourne son Ruisseau pour le faire passer sur un champ voisin de son Canal, on voit des flames sur ses eaux. Ce qu’il y a d’admirable, c’est que cette eau continue d’estre froide tandis qu’elle coule, quoy qu’elle soit couverte de flames, mais si on arreste le cours du Ruisseau avec des gazons de terre, alors cette eau se trouble, s’épaissit, &amp; s’échauffe, on croit qu’il y a sous ce Champ des feux souterrains, d’où il s’éleve des exalaisons qui produisent les effets merveilleux qu’on admire dans cette Fontaine.</p>
           <p>Les mêmes Jesuites ont fait une devise de cette Fontaine à la loüange de Monseigneur le Dauphin ; &amp; luy ont donné pour ame, <hi rend="i">&amp; placet, &amp; terret</hi>. Voicy comment ils s’expliquent.</p>
           <quote>
             <lg>
@@ -658,7 +659,7 @@
               <l rend="i"> Soûtient ce Trône chancelant</l>
               <l> <hi rend="sc">Philippe</hi> <hi rend="i">en a pris la défense ;</hi></l>
               <l rend="i"> Le Ciel le ravit à la France</l>
-              <l rend="i"> A qui le Ciel l’avoit donné ?</l>
+              <l rend="i"> À qui le Ciel l’avoit donné ?</l>
               <l rend="i"> Regnez, Monarque fortuné,</l>
               <l rend="i"> Mais dans l’éclat qui vous couronne,</l>
               <l rend="i">N’oubliez pas que c’est la France qui vous donne.</l>
@@ -681,7 +682,7 @@
               <l rend="i"> Mais, ô Dieu, quelle difference</l>
               <l rend="i">Du Soleil ordinaire à celuy de la France ?</l>
               <l rend="i"> Il penetre dans tous les lieux</l>
-              <l><hi rend="i">Rien ne peut échaper à l’éclat de ses yeux,</hi></l>
+              <l rend="i">Rien ne peut échaper à l’éclat de ses yeux,</l>
               <l rend="i"> Il porte par tout sa lumiere.</l>
               <l rend="i"> Renfermez dans vos Cabinets,</l>
               <l rend="i"> Politiques, tous vos secrets,</l>
@@ -707,7 +708,7 @@
               <l rend="i">  Plus versé que Melusine</l>
               <l rend="i">  J’ose sur elle encherir.</l>
               <l rend="i">  Elle borne sa connoissance</l>
-              <l rend="i">A donner d’une année une heureuse abondance,</l>
+              <l rend="i">À donner d’une année une heureuse abondance,</l>
               <l rend="i">De la seule Province elle ouvre les tresors</l>
               <l rend="i"> Mais, Grands Princes, vostre presence</l>
               <l rend="i"> Nous fait concevoir l’esperance</l>
@@ -744,7 +745,7 @@
               <l rend="i">C’est d’un Roy trop puissant l’invincible sagesse</l>
               <l rend="i"> Qui vous fait soulever le cœur ;</l>
               <l rend="i"> Son merite vous importune,</l>
-              <l rend="i">Cependant malgré vous, au bout de l’Vnivers,</l>
+              <l rend="i">Cependant malgré vous, au bout de l’Univers,</l>
               <l rend="i"> On dit en Prose comme en Vers</l>
               <l><hi rend="i">La vertu de</hi> <hi rend="sc">Louis</hi> <hi rend="i">surpasse sa fortune.</hi></l>
             </lg>
@@ -807,7 +808,7 @@
           <bibl><title>Mercure Galant</title>, mai 1701 [tome 7], p. 79-86.</bibl>
           <p>Je vous envoye une Ode qui a esté trouvée parfaitement bonne, &amp; qui a reçu de grands applaudissemens. Elle fut presentée à Avignon à Messeigneurs les Princes, par M<hi rend="sup">r</hi> Limoion de S. Didier, Neveu de feu M<hi rend="sup">r</hi> le Chevalier de S. Didier, connu par l’Histoire de Venise, par le Traité de Paix de Nimegue, &amp; par un Traité de Chimie qu’il a mis au jour.</p>
           <quote>
-            <label>A MESSEIGNEURS<lb/>LES DUCS<lb/>DE BOURGOGNE<lb/>ET DE BERRY.</label>
+            <label>À MESSEIGNEURS<lb/>LES DUCS<lb/>DE BOURGOGNE<lb/>ET DE BERRY.</label>
             <lg>
               <l rend="i">Venez, jeunes Dieux de la Seine,</l>
               <l rend="i">Vous faites nos vœux les plus doux,</l>
@@ -849,7 +850,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l rend="i">Qui pourroit refuser ses veilles</l>
-              <l rend="i">A mon Roy, l’exemple des Rois ?</l>
+              <l rend="i">À mon Roy, l’exemple des Rois ?</l>
               <l rend="i">Ses jours sont tissus de merveilles,</l>
               <l rend="i">La justice dicte ses Loix</l>
               <l rend="i">Le Ciel à ses vœux favorable,</l>
@@ -922,7 +923,7 @@
               <l rend="i">Du soin des Terres &amp; des Mers ;</l>
               <l rend="i">Volant de la Tamise au Gange,</l>
               <l rend="i">J’iray du bruit de sa loüange</l>
-              <l rend="i">Repaistre l’avide Vnivers.</l>
+              <l rend="i">Repaistre l’avide Univers.</l>
             </lg>
           </quote>
         </div>
@@ -934,7 +935,7 @@
           <p>Comme Messeigneurs les Princes avoient dîné en chemin dans leur carrosse &amp; de fort bonne heure, ils firent collation dés qu’ils furent arrivez. Ils furent à peine sortie de table que M<hi rend="sup">rs</hi> de Mænville &amp; de Vallorges firent défiler toute la milice Bourgeoise sous leurs fenêtres. Outre les sept mille hommes dont elle estoit composée, &amp; qui formoient les trente-cinq compagnies, il y envoit deux de plus de cent hommes chacune, leurs habits où l’or se faisoit remarquer estoient gris-blanc &amp; uniformes ; la premiere estoit armée d’arcs &amp; de fleches, &amp; la seconde d’arquebuses. Ces Compagnies devoient servir au divertissemens des Princes. Aprés qu’ils eurent admiré la magnificence des Troupes qui passerent sous leurs Fenestres, &amp; ausquelles ils donnerent beaucoup de loüanges, il reçûrent les presens de la Ville, qui leur furent presentez par M<hi rend="sup">r</hi> Prost de Grange blanche, Avocat de la Ville, &amp; par M<hi rend="sup">r</hi> Perrichon le fils, Secretaire de la même Ville. Ces presens parurent d’un fort bon goust, &amp; galamment arrangez.</p>
           <p>Messeigneurs les Princes parurent ensuite quelque temps aux fenestres du Palais, pour voit la prodigieuse multitude de gens qui remplissoient la place de Bellecourt. Ils s’en retirerent pour entrer dans leur cabinet, où ils demeurerent enfermez assez long-temps. Lorsqu’ils en furent sortis, le Consulat leur presenta à chacun un Livre, magnifiquement relié avec leurs armes relevées en broderie, &amp; fit distribüer à toute leur Cour un grand nombre d’exemplaires de ce même ouvrage. C’estoient les principales antiquitez &amp; singularitez les plus remarquables de la Ville de Lyon, receüillies par le Pere de Colonia Jesuite, &amp; accompagnées de plusieurs applications à l’honneur des Princes.</p>
           <p>Sur les cinq heures du soir, ils allerent en chaise à l’Opera de Phaeton. La porte de la Salle estoit gardé par le Chevalier du Guet à la teste de sa Compagnie, toute en habits uniformes. On avoit ménagé pour eux un Escalier dérobé qui écarta d’eux la foule. Leur loge estoit tapissée d’un velours cramoisi avec des crespines d’or. Il estoit venu plusieurs Musiciens de Marseille pour rendre ce divertissement plus agréable. Les principales Dames de la Ville s’y trouverent moins pour en joüir, que pour avoir l’avantage de voir des Princes si accomplis. L’Opera fini, ils retournerent au Palais où ils souperent. Ce fut pendant leur soupé qu’on tira tout le Canon de la Ville, avec un fort grand nombre de Boëtes. Leur complaisances pour les Dames leur avoit fait ordonner qu’on remist à ce temps-là cette marque de joye publique, afin de leur épargner la frayeur qu’ils auroient pû avoir, si on avoit tiré le Canon tandis que leurs Carosses passoient sur les ponts du Rhône. Il y eut le soir de grandes illuminations par toute la Ville, &amp; chacun chercha à se distinguer, soit par l’arrangement des lumieres, soit par le grand nombre de figures &amp; de devises transparentes à la gloire du Roy, &amp; de Messeigneurs les Princes.</p>
-          <p>Le 10. au matin trois Députez de Geneve eurent audience. Ils haranguerent les Princes chacun en particulier, &amp; leurs discours furent trouvez tres-beaux. Ils les prierent de leur accorder leur protection auprés de Sa Majesté. A dix heures &amp; demie ils allerent à la Messe à saint Jean, Cathedrale de Lion. M. l’Archevêque en Chappe &amp; en Mitre, accompagné de tout son Chapitre les reçut à la porte de l’Eglise, &amp; leur fit un discours plein d’éloquence &amp; de pieté. Ce Discours fini, les Princes suivirent l’Archevêque &amp; le Clergé dans le Chœur, &amp; furent conduits dans les places de l’Archidiacre &amp; du Maistre du Chœur, sur chacune desquelles on avoit élevé un dais. Aprés les ceremonies ordinaires, M. l’Archevêque alla s’habiller au Trésor de l’Eglise, &amp; vint celebrer la Messe avec la même solemnité qui s’observe aux Festes de Noël, de Pâques &amp; de la Pentecoste. Il étoit assisté de sept Acolytes, de sept Soudiacres, de sept Diacres, de sept Prêtres revêtus de leurs Chasubles, du nombre desquels il estoit, &amp; de sept autres Prêtres revêtus de Chapes. Tous ces Officiers, les Comtes en Mitres, &amp; les autres découverts entrerent dans un tres-bel ordre par la grande porte du Chœur, &amp; saluërent les Princes en passant. La Messe fut entonnée par M. le Comte de saint George, Précenteur, &amp; chantée en plein chant par le Clergé. On fit l’Administration, c’est-à-dire l’essai du pain &amp; du vin qui se fait par le plus ancien des Perpetuels en presence de tous les Diacres &amp; soudiacres. Ils sortent tous du Chœur pour cela, &amp; se rendent à la Chapelle de Nôtre-Dame, où M. le Prieur de la Platiére est obligé d’apporter du pain &amp; du vin, dont on choisit le meilleur pour le saint Sacrifice ; &amp; aprés l’avoir choisi on le porte sur la credence avec beaucoup de solemnité. Cette ceremonie est fort ancienne, &amp; ne se pratique dans cette Eglise que lors que l’Archevêque y Officie. On y voit deux colomnes de cuivre avec des chapiteaux Corinthiens, sur lesquels est un espece d’entablement, au-dessus duquel il y avoit sept Chandeliers garnis de sept cierges. Il y avoit aussi sept Enfans de Chœur qui s’arrêtoient aux colomnes, &amp; y posoient leurs Chandeliers. Le Prêtre Officiant, le Diacre &amp; le Soudiacre avoient tous trois la Mitre en tête, &amp; ne l’ôtoient qu’en certains temps de la Messe. Derriere l’Autel qui est isolé comme celui de sainte Geneviéve de Paris, estoit un siége Pontifical avec sept gradins, &amp; au-dessus un dais de velours, sous lequel l’Archevêque se plaçoit avant &amp; aprés le Sacrifice. A ses pieds sur les gradins étoient quatre des sept Chappiers. Deux tenoient sa Croix &amp; sa Crosse, l’autre tenoit le Missel ; &amp; le dernier tenoit sa Mitre en certains temps. A droite &amp; à gauche de ce Siége, le Clergé estoit assis, &amp; formoit un demi-cercle.</p>
+          <p>Le 10. au matin trois Députez de Geneve eurent audience. Ils haranguerent les Princes chacun en particulier, &amp; leurs discours furent trouvez tres-beaux. Ils les prierent de leur accorder leur protection auprés de Sa Majesté. À dix heures &amp; demie ils allerent à la Messe à saint Jean, Cathedrale de Lion. M. l’Archevêque en Chappe &amp; en Mitre, accompagné de tout son Chapitre les reçut à la porte de l’Eglise, &amp; leur fit un discours plein d’éloquence &amp; de pieté. Ce Discours fini, les Princes suivirent l’Archevêque &amp; le Clergé dans le Chœur, &amp; furent conduits dans les places de l’Archidiacre &amp; du Maistre du Chœur, sur chacune desquelles on avoit élevé un dais. Aprés les ceremonies ordinaires, M. l’Archevêque alla s’habiller au Trésor de l’Eglise, &amp; vint celebrer la Messe avec la même solemnité qui s’observe aux Festes de Noël, de Pâques &amp; de la Pentecoste. Il étoit assisté de sept Acolytes, de sept Soudiacres, de sept Diacres, de sept Prêtres revêtus de leurs Chasubles, du nombre desquels il estoit, &amp; de sept autres Prêtres revêtus de Chapes. Tous ces Officiers, les Comtes en Mitres, &amp; les autres découverts entrerent dans un tres-bel ordre par la grande porte du Chœur, &amp; saluërent les Princes en passant. La Messe fut entonnée par M. le Comte de saint George, Précenteur, &amp; chantée en plein chant par le Clergé. On fit l’Administration, c’est-à-dire l’essai du pain &amp; du vin qui se fait par le plus ancien des Perpetuels en presence de tous les Diacres &amp; soudiacres. Ils sortent tous du Chœur pour cela, &amp; se rendent à la Chapelle de Nôtre-Dame, où M. le Prieur de la Platiére est obligé d’apporter du pain &amp; du vin, dont on choisit le meilleur pour le saint Sacrifice ; &amp; aprés l’avoir choisi on le porte sur la credence avec beaucoup de solemnité. Cette ceremonie est fort ancienne, &amp; ne se pratique dans cette Eglise que lors que l’Archevêque y Officie. On y voit deux colomnes de cuivre avec des chapiteaux Corinthiens, sur lesquels est un espece d’entablement, au-dessus duquel il y avoit sept Chandeliers garnis de sept cierges. Il y avoit aussi sept Enfans de Chœur qui s’arrêtoient aux colomnes, &amp; y posoient leurs Chandeliers. Le Prêtre Officiant, le Diacre &amp; le Soudiacre avoient tous trois la Mitre en tête, &amp; ne l’ôtoient qu’en certains temps de la Messe. Derriere l’Autel qui est isolé comme celui de sainte Geneviéve de Paris, estoit un siége Pontifical avec sept gradins, &amp; au-dessus un dais de velours, sous lequel l’Archevêque se plaçoit avant &amp; aprés le Sacrifice. A ses pieds sur les gradins étoient quatre des sept Chappiers. Deux tenoient sa Croix &amp; sa Crosse, l’autre tenoit le Missel ; &amp; le dernier tenoit sa Mitre en certains temps. A droite &amp; à gauche de ce Siége, le Clergé estoit assis, &amp; formoit un demi-cercle.</p>
           <p>Voicy quelle fut la disposition des Officians. M<hi rend="sup">r</hi> l’Archevêque estoit avec deux Chappiers à la face de l’Autel. Dans ses retours à droite &amp; à gauche estoient les six autres Prêtres avec leurs Chasubles, trois d’un côté, &amp; trois de l’autre. Immediatement à l’entrée de la face de la Balustrade qui est quarrée, les cinq autres Chappiers estoient placez. Celui du milieu tenoit la Mitre &amp; deux autres la Croix &amp; la Crosse. Derriere eux estoient les sept Diacres, &amp; derriere les Diacres les sept Soudiacres. L’Officiant estoit placé au milieu, ainsi que je l’ay déja marqué. M. l’Evêque de saint Flour, de la Maison d’Estaing, qui estoit venu à Lion pour saluër Messeigneurs les Princes, assista à toute cette ceremonie, avec les Comtes de Lyon du nombre desquels il a autrefois esté.</p>
           <p>Les Princes étant retournez dans le lieu qui leur servoit de Palais, donnerent audience aux Chanoines Comtes de saint Jean, &amp; furent complimentez par M. de Damas de Marillac, Doyen de cet illustre Chapitre. Le Presidial &amp; l’Election eurent ensuite audience. M. de Seve, Baron de saint André, Lieutenant General, parla pour le premier de ces Corps, &amp; M. Dernieux President en l’Election, porta la parole pour l’autre.</p>
           <p>Messeigneurs les Princes allerent l’aprédînée entendre Vêpres à l’Abbaye d’Aisnay dont l’Eglise est tres-ancienne. Aprés que les Vêpres furent dites ils s’arrêterent quelque temps à considerer un Monument antique qui se voit dans cette Eglise. Ce sont les deux colomnes du celébre Temple d’Auguste, que les soixante Nations des Gaules qui négocioient à Lyon, firent bâtir à son honneur. Il y a plus de dix-sept siecles au confluent du Rhône &amp; de la Saone. Ces Colomnes qui ont esté depuis partagées en quatre soutiennent aujourd’huy la voûte du Chœur de l’Eglise d’Aisnay.</p>
