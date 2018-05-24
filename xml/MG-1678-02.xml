@@ -128,7 +128,6 @@
         <head>[Paroles de M. Vaumorieres notées par M. Charpentier]</head>
         <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 16-19.</bibl>
         <p>Vous avez raison de me dire que le premier des deux<note resp="author"><p>Airs nouveaux envoyés le mois précédent.</p></note> que je vous ay déja envoyez ne l’estoit pas. J’en avois crû ceux qui me l’avoient donné pour nouveau. Je n’y seray plus surpris, &amp; je puis répondre avec certitude que celuy que vous allez trouver icy noté n’a encor esté veu de personne. Je vous laisse juger des Paroles. L’Air est de M<hi rend="sup">r</hi> Charpentier, dont vous me dites que les Ouvrages sont si estimez dans vostre Province.</p>
-        <p>%[Air gravé pour une voix et BC, inséré entre les p. 18 et 19.]</p>
         <quote>
           <label>AIR.<note resp="editor" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_016/"><hi rend="i">En vain rivaux assidus</hi></ref>, février 1678,
@@ -143,6 +142,8 @@
           <l>C’est plutost que la Cruelle</l>
           <l>N’aimera ny vous ny moy.</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La premiere Chanson qui commence par En vain Rivaux assidus, doit regarder la page 19.</p>
       </div>
       <div type="article" xml:id="MG-1678-02_019" resp="mercure">
         <head>[Mascarade Galante]</head>
@@ -486,7 +487,7 @@
       <div type="article" xml:id="MG-1678-02_163" resp="mercure">
         <head>[Paroles de Madame Deshoulieres, notées par M. de la Tour]</head>
         <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 163-165.  </bibl>
-        <p>Apres le bruit des armes que la Relation qui vient de vous occuper, vous doit avoir fait entendre, il est bon d’en faire suivre un plus doux, la Musique me le fournira, &amp; vous pourrez vous délasser agreablement de la Guerre, en chantant ce que je vous envoye. C’est un grand Air de la composition de M<hi rend="sup">r</hi> de la Tour. Vous sçavez dans quelle estime il est parmy tous les Connoisseurs ; mais avant que de vous attacher à la Note, examinez les Paroles sur lesquelles il a travaillé. Elles sont d’une Personne qui est au dessus de toute sorte de loüanges. Le nom de Madame des Houlieres vous en fera demeurer d’accord. [Air gravé pour une voix et BC, inséré entre les pages 164 et 165.]</p>
+        <p>Apres le bruit des armes que la Relation qui vient de vous occuper, vous doit avoir fait entendre, il est bon d’en faire suivre un plus doux, la Musique me le fournira, &amp; vous pourrez vous délasser agreablement de la Guerre, en chantant ce que je vous envoye. C’est un grand Air de la composition de M<hi rend="sup">r</hi> de la Tour. Vous sçavez dans quelle estime il est parmy tous les Connoisseurs ; mais avant que de vous attacher à la Note, examinez les Paroles sur lesquelles il a travaillé. Elles sont d’une Personne qui est au dessus de toute sorte de loüanges. Le nom de Madame des Houlieres vous en fera demeurer d’accord.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.<note resp="editor" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_163/"><hi rend="i">Ton troupeau Sylvie</hi></ref>, février 1678,
@@ -503,6 +504,8 @@
           <l>Helas ! cruel Amour que je méprisois tant,</l>
           <l>Ces maux ne sont-ils point l’effet de ta vengeance ?</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La seconde Chanson qui commence par Ah que je sens d’inquietude, doit regarder la Page 164.</p>
       </div>
       <div type="article" xml:id="MG-1678-02_165" resp="mercure">
         <head>[Sonnet]</head>
@@ -756,7 +759,7 @@
       <div type="article" xml:id="MG-1678-02_218" resp="mercure">
         <head>Air Nouveau</head>
         <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 218-219.</bibl>
-        <p>Il n’est pas juste de vous parler de Musique, à vous qui l’aimez avec tant de passion, sans vous donner moyen de chanter. Lisez ces Paroles d’un troisiéme air, avant que de vous attacher à la Note. [Air gravé anonyme pour une voix et BC, inséré entre les pages 218 et 219.]</p>
+        <p>Il n’est pas juste de vous parler de Musique, à vous qui l’aimez avec tant de passion, sans vous donner moyen de chanter. Lisez ces Paroles d’un troisiéme air, avant que de vous attacher à la Note.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.<note resp="editor" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_218/"><hi rend="i">Doux habitans de ces bois</hi></ref>, février 1678,
@@ -772,6 +775,10 @@
           <l>Que ma Bergere n’entend pas.</l>
         </quote>
         <p>Cet Air vous est marqué comme estant nouveau, &amp; je vous assure qu’il l’est. Je puis mesme vous dire qu’il doit estre bon, puis qu’il est de celuy-mesme dont je vous en ay envoyé un d’abord que tout le monde sçavoit. Il n’auroit pas tant couru, si son Autheur avoit moins de talent pour la Musique.</p>
+        <p></p>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La troisiéme Chanson qui commence par Doux Habitans de ces Bois, doit regarder la Page 218.</p>
+        
       </div>
       <div type="article" xml:id="MG-1678-02_236" resp="mercure">
         <head>L’Hyver, au Roy sur son Départ</head>
@@ -914,7 +921,7 @@
       <div type="article" xml:id="MG-1678-02_315b" resp="mercure">
         <head>[Air de M. Sicard]</head>
         <bibl><title>Mercure galant</title>, février [tome 2], 1678, p. 315-316.</bibl>
-        <p>Jugez cependant du soin que je prens de vos plaisirs. Un quatriéme Air m’est tombé entre les mains, &amp; je vous en fais part. je le tiens d’une Dame qui m’a assuré qu’il n’avait point encor esté veu. Il est de M<hi rend="sup">r</hi> Sicard, qui chante, qui montre, &amp; qui compose tres-bien. En voicy les Paroles &amp; les Notes. [Air gravé pour une voix et BC, inséré entre les pages 316 et 317.]</p>
+        <p>Jugez cependant du soin que je prens de vos plaisirs. Un quatriéme Air m’est tombé entre les mains, &amp; je vous en fais part. je le tiens d’une Dame qui m’a assuré qu’il n’avait point encor esté veu. Il est de M<hi rend="sup">r</hi> Sicard, qui chante, qui montre, &amp; qui compose tres-bien. En voicy les Paroles &amp; les Notes.</p>
         <quote rend="border">
           <label rend="center">Air nouveau.<note resp="editor" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_315/"><hi rend="i">Vous qui d'un tendre amour</hi></ref>, février 1678, <hi>in</hi> <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
@@ -923,6 +930,8 @@
           <p>Vous serez toûjours miserable</p>
           <p>Pour peu que vous vouliez aimer.</p>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La quatriéme Chanson qui commence par Vous qui d’un tendre amour avez le cœur capable, doit regarder la Page 316.</p>
       </div>
       <div type="article" xml:id="MG-1678-02_317" resp="mercure">
         <head>[Explication en Vers de l’Enigme du Mois de Janvier]</head>
