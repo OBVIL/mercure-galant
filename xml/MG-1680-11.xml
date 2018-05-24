@@ -65,24 +65,26 @@
         <head>Chanson</head>
         <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 45-47.</bibl>
         <p>Les agreables Parties ne se peuvent faire sans le beau Sexe. Ainsi on ne doit pas s’étonner si l’éloignement des Belles bannit le plaisir des Lieux qu’elles ont quitez. Voyez les plaintes qu’en fait la Chanson qui suit. C’est la seconde que je vous envoye, notée par Mademoiselle d’O. La premiere que vous vistes d’elle il y a deux ou trois mois<note resp="editor">Voir l'<ref target="#MG-1680-09a_340">Air nouveau</ref> du mois de septembre.</note>, vous a déjà fait connoistre le rare génie qu’elle a pour la Musique.</p>
-        <p>%[chanson gravée à une voix et BC, insérée entre les pages 46 et 47]</p>
         <quote>
-          <label>Chanson.</label>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Nos Bergers, nos Troupeaux, ces lieux,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Tout seche éloigné de vox yeux,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Nos Plaines ne sont plus fleuries.</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>L’on<note resp="editor">« On » dans la source musicale.</note> entend plus parler d’amour ;</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Et quand vous serez de retour,</l>
-          <l>Vous ne verrez ny Fleurs, ny Boutons, ny Prairies<note resp="editor">« Vous ne verrez plus ny mouttons ny prairies » dans la source musicale.</note>.</l>
+          <label>CHANSON.</label>
+          <lg><l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Nos Bergers, nos Troupeaux, ces lieux,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Tout seche éloigné de vox yeux,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Nos Plaines ne sont plus fleuries.</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>L’on<note resp="editor">« On » dans la source musicale.</note> entend plus parler d’amour ;</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Et quand vous serez de retour,</l>
+          <l rend="i">Vous ne verrez ny Fleurs, ny Boutons, ny Prairies<note resp="editor">« Vous ne verrez plus ny mouttons ny prairies » dans la source musicale.</note>.</l>
           <l/>
-          <l><space rend="tab">    </space><space rend="tab">    </space>L’air enflâmé de nos soúpirs</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>A fait négliger aux Zéphirs</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Le foin de nos tristes Campagnes.</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Venez par des charmes nouveaux</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Donner le calme à nos Hameaux,</l>
-          <l>Si vous voulez encor y trouver des Compagnes.</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>L’air enflâmé de nos soúpirs</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>A fait négliger aux Zéphirs</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Le foin de nos tristes Campagnes.</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Venez par des charmes nouveaux</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Donner le calme à nos Hameaux,</l></lg>
+          <l rend="i">Si vous voulez encor y trouver des Compagnes.</l>
         </quote>
         <p>Ces Vers ont un tour aisé, qui me feroit dire que c’est la Nature mesme qui les a dictez, si M<hi rend="sup">r</hi> de Linieres ne soûtenoit qu’on en peut faire sans Art.</p>
+        <p></p>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La Chanson qui commence par <hi rend="i">Nos Bergers, nos Troupeaux, ces lieux</hi>, doit regarder la page 46.</p>
       </div>
       <div type="article" xml:id="MG-1680-11_065" resp="mercure">
         <head>[Ce qui s’est passé par les Académistes de l’Académie de Bernardi, touchant le Fort qu’ils attaquent tous les ans.]</head>
@@ -112,16 +114,17 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, novembre [tome 14], 1680, p. 234-235.</bibl>
         <p>Voicy une nouvelle Chanson de M<hi rend="sup">r</hi> de Bassilly, dont je vous en envoye tous les mois depuis un an. Son nom est un grand éloge pour tous ses Ouvrages.</p>
-        <p>%[air gravé à une voix et BC, inséré entre les pages 234 et 235]</p>
         <quote>
           <label> AIR NOUVEAU.</label>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Chacun dit dans le Village,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Que la Bergere qui m’engage,</l>
-          <l>De toute autre Beauté surpasse les appas ;</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Mais en vain ce discours me flate,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>C’est bien la plus aimable, helas !</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais c’est la plus ingrate.</l>
+          <lg><l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Chacun dit dans le Village,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Que la Bergere qui m’engage,</l>
+          <l rend="i">De toute autre Beauté surpasse les appas ;</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Mais en vain ce discours me flate,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>C’est bien la plus aimable, helas !</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais c’est la plus ingrate.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La Chanson qui commence par <hi rend="i">Chacun dit dans le Village</hi>, doit regarder la page 234.</p>
       </div>
       <div type="article" xml:id="MG-1680-11_235" resp="mercure">
         <head>[Réjoüissances faites à Hanover, à l’occasion du Serment de fidélité que les Etats du Païs ont presté au Duc de ce nom]</head>

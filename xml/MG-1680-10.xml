@@ -58,26 +58,27 @@
         <head>Air Nouveau</head>
         <bibl><title>Mercure galant</title>, octobre [tome 13], 1680, p. 189-190.</bibl>
         <p>L’air de la nouvelle Chanson que je vous envoye est de M<hi rend="sup">r</hi> Charpentier.</p>
-        <p><space rend="tab">    </space>%[air gravé à une voix sans BC, inséré entre les pages 188 et 189]</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <l><space rend="tab">    </space>Consolez-vous, chers Enfans de Bacchus,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>A quoy bon ce chagrin étrange,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>En voyant nostre<note resp="editor">« vostre » dans la source musicale.</note> Vendange</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Couler avec si<note resp="editor">« avec » manque dans la source musicale.</note> peu de jus ?</l>
-          <l><space rend="tab">    </space>Nous n’en aurons pas en abondance,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais en récompense</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Nostre Vin nouveau</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Vendangé sans eau,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Sera si fin,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si divin,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si fort, si puissant,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si bon, si charmant,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si brillant,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si petillant,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Qu’un seul Verre dans un Ecot,</l>
-          <l>Fera plus de fracas que n’auroit fait un Pot.</l>
+          <lg><l rend="i"><space rend="tab">    </space>Consolez-vous, chers Enfans de Bacchus,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>A quoy bon ce chagrin étrange,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>En voyant nostre<note resp="editor">« vostre » dans la source musicale.</note> Vendange</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Couler avec si<note resp="editor">« avec » manque dans la source musicale.</note> peu de jus ?</l>
+          <l rend="i"><space rend="tab">    </space>Nous n’en aurons pas en abondance,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais en récompense</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Nostre Vin nouveau</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Vendangé sans eau,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Sera si fin,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si divin,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si fort, si puissant,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si bon, si charmant,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si brillant,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si petillant,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Qu’un seul Verre dans un Ecot,</l>
+          <l rend="i">Fera plus de fracas que n’auroit fait un Pot.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Consolez-vous, chers Enfans de Bacchus</hi>, doit regarder la page 189.</p>
       </div>
       <div type="article" xml:id="MG-1680-10_190" resp="mercure">
         <head>[Magnificences faites à la Reception d’un Medecin de Montpellier]</head>
@@ -106,33 +107,34 @@
         <head>Le Bavolet</head>
         <bibl><title>Mercure galant</title>, octobre [tome 13], 1680, p. 333-335.</bibl>
         <p>Voicy le Bavolet de M<hi rend="sup">r</hi> Charpentier, que vous avez tant d’envie de voir noté, &amp; que la Troupe de Guenegaud adjoûta dés l’année derniere à la galante Piece de <hi rend="i">l’Inconnu</hi>. Comme on en doit donner quelques Représentations incontinent apres la Toussaints, ceux de vostre Province qui s’y trouveront, pourront vous dire combien cette agreable Chanson est aimée.</p>
-        <p>%[air gravé à une voix et BC, insérée entre les pages 334 et 335]</p>
         <quote>
           <label>LE BAVOLET.</label>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Ne fripez poan mon Bavolet,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>C’est aujordy Dimanche.</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Je vous le dis tout net,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>J’ay des éplingues sur ma manche,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Ma main peze autant qu’al est blanche,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Et vous gagnerez un souflet,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Ne fripez poan mon Bavolet,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>C’est aujordy Dimanche.</l>
+          <lg><l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Ne fripez poan mon Bavolet,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>C’est aujordy Dimanche.</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Je vous le dis tout net,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>J’ay des éplingues sur ma manche,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Ma main peze autant qu’al est blanche,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Et vous gagnerez un souflet,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Ne fripez poan mon Bavolet,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>C’est aujordy Dimanche.</l>
           <l/>
-          <l>Attendez à demain que je vaze à la Ville,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>J’auray mes vieux habits,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Et les Lundis,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Je ne sis pas dificile ;</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais à présent, tout franc,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si vous faites l’impartinent ;</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si vous gastez mon linge blanc ;</l>
-          <l>Je vous barray comme il faut de la haste,</l>
-          <l>Je vous bateray, pinceray, piqueray,</l>
-          <l>Je vous moudray, grugeray, pilleray,</l>
-          <l>Menu, menu, menu, comme la chair en paste ;</l>
-          <l>Hom, voyez-vous, j’avon une tarrible taste,</l>
-          <l><space rend="tab">    </space>Que je cachon sous not bonnet ;</l>
-          <l><space rend="tab">    </space>Ne fripez poan mon Bavolet, &amp;c.</l>
+          <l rend="i">Attendez à demain que je vaze à la Ville,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>J’auray mes vieux habits,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Et les Lundis,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Je ne sis pas dificile ;</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Mais à présent, tout franc,</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si vous faites l’impartinent ;</l>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Si vous gastez mon linge blanc ;</l>
+          <l rend="i">Je vous barray comme il faut de la haste,</l>
+          <l rend="i">Je vous bateray, pinceray, piqueray,</l>
+          <l rend="i">Je vous moudray, grugeray, pilleray,</l>
+          <l rend="i">Menu, menu, menu, comme la chair en paste ;</l>
+          <l rend="i">Hom, voyez-vous, j’avon une tarrible taste,</l>
+          <l rend="i"><space rend="tab">    </space>Que je cachon sous not bonnet ;</l>
+          <l rend="i"><space rend="tab">    </space>Ne fripez poan mon Bavolet, &amp;c.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Ne fripez poan mon Bavolet</hi>, doit regarder la page 334.</p>
       </div>
       <div type="article" xml:id="MG-1680-10_335" resp="mercure">
         <head>[Tragédie nouvelle]</head>

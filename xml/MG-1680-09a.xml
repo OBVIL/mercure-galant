@@ -71,16 +71,17 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, septembre, première partie [tome 11], 1680, p. 215.</bibl>
         <p>La Chanson nouvelle que j’adjoûte icy, est de l’Illustre qui m’en donne tous les mois.</p>
-        <p><space rend="tab">    </space>%[air gravé, à une voix et BC, inséré entre les pages 214 et 215]</p>
         <quote>
           <label>Air nouveau</label>
-          <l>Beaux Lieux frais &amp; charmans, où le chant des Oyseaux</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Se mesle au murmure des Eaux,</l>
-          <l>Pardonnez si je suis vostre aimable présence.</l>
-          <l><space rend="tab">    </space>Ah, je craindrois, par vos charmes surpris,</l>
-          <l>De soulager les maux que me cause l’absence</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>De mon aimable Iris.</l>
+          <lg><l rend="i">Beaux Lieux frais &amp; charmans, où le chant des Oyseaux</l>
+            <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Se mesle au murmure des Eaux,</l>
+            <l rend="i">Pardonnez si je suis vostre aimable présence.</l>
+            <l rend="i"><space rend="tab">    </space>Ah, je craindrois, par vos charmes surpris,</l>
+            <l rend="i">De soulager les maux que me cause l’absence</l>
+            <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>De mon aimable Iris.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Beaux Lieux frais &amp; charmans</hi>, doit regarder la page 215.</p>
       </div>
       <div type="article" xml:id="MG-1680-09a_219" resp="mercure">
         <head>[Mort de trois Musiciens du Roy, d’un Musicien de l’Opéra]</head>
@@ -124,15 +125,17 @@
       </div>
       <div type="article" xml:id="MG-1680-09a_340" copyOf="JLB-MG-1680-09a_341" resp="angele">
         <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, septembre, première partie [tome 11], 1680, p. 341.</bibl>
-        <p>Quoi qu’en disent les Amans, il y a un remede contre l’Amour, quand on est d’humeur à s’en servir. Vous le trouverez marqué dans les Paroles qui suivent. Outre que la pensée en est agreable, &amp; l’expression heureuse, vous devez d’autant plus les estimer, qu’elles ont esté mises en Air par une jeune Personne de vostre Sexe. On l’appelle Mademoiselle d’O. Elle est du Quartier S. Paul, dont elle fait un des plus beaux ornemens, &amp; tres-digne Fille d’une Mere qui ayant esté dans son Printemps la plus aimable du monde, conserve dans son Eté tous les agrémens que peuvent avoir celles de son âge. %[air gravé à une voix et BC, inséré entre les pages 340 et 341]</p>
+        <bibl><title>Mercure galant</title>, septembre, première partie [tome 11], 1680, p. 340-341.</bibl>
+        <p>Quoi qu’en disent les Amans, il y a un remede contre l’Amour, quand on est d’humeur à s’en servir. Vous le trouverez marqué dans les Paroles qui suivent. Outre que la pensée en est agreable, &amp; l’expression heureuse, vous devez d’autant plus les estimer, qu’elles ont esté mises en Air par une jeune Personne de vostre Sexe. On l’appelle Mademoiselle d’O. Elle est du Quartier S. Paul, dont elle fait un des plus beaux ornemens, &amp; tres-digne Fille d’une Mere qui ayant esté dans son Printemps la plus aimable du monde, conserve dans son Eté tous les agrémens que peuvent avoir celles de son âge.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <l>Le moment de l’absence est un moment heureux,</l>
-          <l>Pour qui veut surmonter un panchant dangereux.</l>
-          <l>N’allez pas négliger un temps si favorable,</l>
-          <l><space rend="tab">    </space><space rend="tab">    </space>Tircis peut revenir aimable.</l>
+          <lg><l rend="i">Le moment de l’absence est un moment heureux,</l>
+            <l rend="i">Pour qui veut surmonter un panchant dangereux.</l>
+            <l rend="i">N’allez pas négliger un temps si favorable,</l>
+            <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Tircis peut revenir aimable.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Le moment de l’absence</hi>, doit regarder la page 341.</p>
       </div>
       <div type="article" xml:id="MG-1680-09a_346" resp="mercure">
         <head>[Divertissements] *</head>

@@ -58,19 +58,22 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, février [tome 3], 1680, p. 56-57.</bibl>
         <p>Apres vous avoir menée en Voyage, il est bon, Madame, de vous délasser par quelque chose de touchant pour vous. L’avantage que vous avez de bien chanter, vous fait aimer les beaux Airs. En voicy un noté qui ne vous déplaira pas.</p>
-        <p>%[Air gravé à une voix et BC, inséré entre les pages 56 et 57.]</p>
         <quote>
-          <label>Air nouveau.</label>
-          <l>Ah, que j’aime l’horreur de ces tristes Forests,</l>
-          <l>D’où l’Hyver a banny la riante verdure !</l>
-          <l>Je ne gémis plus seul dans leurs Antres secrets,</l>
-          <l>Tout gémit avec moy dans une nuit obscure.</l>
-          <l>Mais hélas ! à quoy sert que toute la Nature</l>
-          <l><seg type="tab">    </seg>S’intéresse dans mes regrets,</l>
-          <l><seg type="tab">    </seg>Si l’Ingrate qui fait ma peine</l>
-          <l><seg type="tab">    </seg>N’en est pas moins inhumaine ?</l>
+          <label>AIR NOUVEAU.</label>
+          <lg>
+            <l rend="i">Ah, que j’aime l’horreur de ces tristes Forests,</l>
+            <l rend="i">D’où l’Hyver a banny la riante verdure !</l>
+            <l rend="i">Je ne gémis plus seul dans leurs Antres secrets,</l>
+            <l rend="i">Tout gémit avec moy dans une nuit obscure.</l>
+            <l rend="i">Mais hélas ! à quoy sert que toute la Nature</l>
+            <l rend="i"><seg type="tab">    </seg>S’intéresse dans mes regrets,</l>
+            <l rend="i"><seg type="tab">    </seg>Si l’Ingrate qui fait ma peine</l>
+            <l rend="i"><seg type="tab">    </seg>N’en est pas moins inhumaine ?</l>
+          </lg>
         </quote>
-        <p><seg type="tab">    </seg>Les Paroles de cet Air sont de M<hi rend="sup">r</hi> l’Abbé Mallement de Messange, dont vous avez déjà veu beaucoup de Vers. </p>
+        <p>Les Paroles de cet Air sont de M<hi rend="sup">r</hi> l’Abbé Mallement de Messange, dont vous avez déjà veu beaucoup de Vers.</p>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Ah que j’aime l’horreur de ces tristes Forests!</hi> doit regarder la page 57.</p>
       </div>
       <div type="article" xml:id="MG-1680-02_062" resp="mercure">
         <head>[Entrée de M. Fourbin, Evesque &amp; Comte de Beauvais, dans la Ville de ce nom]</head>
@@ -178,18 +181,19 @@
         <head>Air</head>
         <bibl><title>Mercure galant</title>, janvier [tome 3], 1680, p. 283-285.</bibl>
         <p>Je me souviens que vous m’avez fort vanté les Paroles de deux Chansons, que vous avez trouvées parmy beaucoup d’autres dans les Journaux de l’illustre Autheur, qui me fait la grace de m’en donner depuis quelque temps pour toutes mes Lettres. Ces Paroles commencent par <hi rend="i">Croyez-moy, croyez-moy, mon cœur, &amp;c. Sortez, petits Oyseaux. &amp;c.</hi> J’ay découvert qu’elles sont de Mademoiselle de Saint Jean de Saint Malo, &amp; comme il m’en est tombé entre les mains de nouvelles de sa façon, que le mesme Autheur a mises en Air, je ne doute point que je ne vous fasse plaisir de vous les donner notées. Vous ne pouvez rien apprendre qui soit plus nouveau.</p>
-        <p>%[Air gravé à une voix et BC, inséré entre les pages 284 et 285.]</p>
         <quote>
           <label>AIR.</label>
-          <l>Que je crains de Tircis le respect dangereux !</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et que ses regards amoureux</l>
-          <l><seg type="tab">    </seg>Avec son cœur toûjours d’intelligence,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Me font redouter son silence !</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Par ce langage ingénieux,</l>
-          <l>Amour cause à mon cœur de secretes alarmes ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Helas ! je me défendrois mieux</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Contre les soupirs &amp; les larmes.</l>
+          <lg><l rend="i">Que je crains de Tircis le respect dangereux !</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Et que ses regards amoureux</l>
+            <l rend="i"><seg type="tab">    </seg>Avec son cœur toûjours d’intelligence,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Me font redouter son silence !</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Par ce langage ingénieux,</l>
+            <l rend="i">Amour cause à mon cœur de secretes alarmes ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Helas ! je me défendrois mieux</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Contre les soupirs &amp; les larmes.</l></lg>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Que je crains de Tircis le respect dangereux</hi>, doit regarder la page 285.</p>
       </div>
       <div type="article" xml:id="MG-1680-02_343" resp="mercure">
         <head>[Divertissemens de Paris]</head>

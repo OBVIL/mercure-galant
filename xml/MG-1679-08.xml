@@ -407,7 +407,6 @@ Modifier index (écrit préalablement valiene) (corrigé)
         <head>Air nouveau.</head>
         <bibl><title>Mercure galant</title>, août [tome 8], 1679, p. 184-185.</bibl>
         <p>Vous avez trop estimé la maniere naturelle dont M<hi rend="sup">r</hi> Labbé, Maistre de Musique de Caën, compose, pour ne vous pas faire part d’une Chanson nouvelle de sa façon qu’on m’a envoyée.</p>
-        <p>%[Air gravé à trois voix, inséré entre les pages 184 et 185.]</p>
         <quote>
           <label type="head">Air nouveau.</label>
           <l><seg type="tab">    </seg>Si Tirsis est un inconstant,</l>
@@ -417,6 +416,8 @@ Modifier index (écrit préalablement valiene) (corrigé)
           <l><seg type="tab">    </seg>On quitte bientost sa Maistresse,</l>
           <l><seg type="tab">    </seg>Quand on n’a rien à desirer.</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">Si Tircis est un inconstant</hi>, doit regarder la page 184.</p>
       </div>
       <div type="article" xml:id="MG-1679-08_185" resp="mercure">
         <head>[Divers Couplets sur la Chanson de Lysete]</head>
@@ -698,10 +699,9 @@ Modifier index (écrit préalablement valiene) (corrigé)
         <head>Chanson à boire</head>
         <bibl><title>Mercure galant</title>, août [tome 8], 1679, p. 362-363.</bibl>
         <p>Voicy un second Air que j’oubliois à vous envoyer. Les Paroles sont de M. Pageau Avocat au Parlement, &amp; elles ont esté notées par M<hi rend="sup">r</hi> Labbé cy-devant Maistre de Musique de S. Jacques de Dieppe.</p>
-        <p>%[Air gravé à deux voix et bc, inséré entre les pages 364 et 365.]</p>
         <quote>
           <label type="head">Chanson à boire.</label>
-          <l><seg type="tab">    </seg>Décoiffe moy cette Bouteille,</l>
+          <l><seg type="tab">    </seg>Decoiffe-moy cette Bouteille,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Je vais entamer ce Jambon ;</l>
           <l><seg type="tab">    </seg>Ah que la chair en est vermeille !</l>
           <l><seg type="tab">    </seg>Ah que ce Vin clairet est bon !</l>
@@ -710,6 +710,8 @@ Modifier index (écrit préalablement valiene) (corrigé)
           <l><seg type="tab">    </seg>Et quand je boy, l’ardeur qui me transporte,</l>
           <l>Craint plus un Importun qu’un Rival en amour.</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>La Chanson qui commence par <hi rend="i">Décoiffe-moy cette Bouteille</hi>, doit regarder la page 364.</p>
       </div>
       <div type="article" xml:id="MG-1679-08_363" resp="mercure">
         <head>[Conclusion]</head>

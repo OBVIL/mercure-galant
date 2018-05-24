@@ -1362,7 +1362,6 @@
         <head>Air en Recit</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 300-302.</bibl>
         <p>Je vous envoye un grand Air qui louë le Roy de ce qu’il a bien voulu nous donner la Paix. Il est de M<hi rend="sup">t</hi> Furdaulx Maitre de Musique de la Cathédrale de Mets &amp; trop du temps, pour ne vous en pas régaler extraordinairement.</p>
-        <p>[Air imprimé pour une voix, inséré entre les pages 300 et 301.]</p>
         <quote rend="border">
           <label rend="center">AIR EN RECIT.</label>
           <p>Heros, dont les grands Noms embellissoient l’Histoire,</p>
@@ -1380,7 +1379,8 @@
           <p>Pour donner à la terre un plus digne Spectacle,</p>
           <p>D’une seule parole il calme l’Univers.</p>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> : L’Air qui commence par, <hi rend="i">Heros, dont les grands Noms embellissoient l’Histoire</hi>, doit regarder la page 301.</p>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par, <hi rend="i">Heros, dont les grands Noms embellissoient l’Histoire</hi>, doit regarder la page 301.</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_302" resp="mercure">
         <head>Fiction sur les Mouches</head>
@@ -1641,17 +1641,18 @@
       <div type="article" xml:id="MG-1678-09e_351" resp="mercure">
         <head>Air Nouveau</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 351-352.</bibl>
-        <p>Vous aurez encor un Air nouveau que je ne puis me resoudre à laisser vieillir. Il est de la composition de M. du Parc, &amp; vous fera connoistre qu’il sçait la Musique à fond. C'est un Recit de Basse avec Dessus adjousté. La conjoncture de la Paix &amp; des Vendanges en rend les Paroles fort de saison.</p>
-        <p>[Air imprimé pour deux voix, inséré entre les pages 352 et 353.]</p>
+        <p><hi rend="i">Vous aurez encor un Air nouveau que je ne puis me resoudre à laisser vieillir. Il est de la composition de M. du Parc, &amp; vous fera connoistre qu’il sçait la Musique à fond. C’est un Recit de Basse avec un Dessus adjousté. La conjoncture de la Paix &amp; des Vendanges en rend les Paroles fort de saison.</hi></p>
         <quote rend="border">
-          <label rend="center">Air nouveau.</label>
-          <l>Laissons-la les Flamans &amp; Prince d’Orange,</l>
+          <label rend="center">AIR NOUVEAU.</label>
+          <l>Laissons-la les Flamans &amp; le Prince d’Orange,</l>
           <l>Bacchus nous apelle en Vendange</l>
           <l>Pour entonner le Vin nouveau.</l>
           <l>Amis, prenons le Verre &amp; quittons la Rapiere,</l>
-          <l>C'est assez fait la guerre à ces Buveurs de Biere,</l>
+          <l>C'est assez fait la guerre à ces Beuveurs de Biere,</l>
           <l>Il la faut faire aux Beuveurs d’eau.</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par, <hi rend="i">Laissons-là les Flamans &amp; le Prince d’Orange</hi>, doit regarder la page [3]52.</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_352" resp="mercure">
         <head>[Pièces sur la Paix] *</head>

@@ -296,7 +296,6 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 112.</bibl>
         <p>Le Printemps a esté paresseux cette année à venir chasser l’Hyver. Voicy des Paroles qu’un fort galant Homme a faites sur son retour. Elles ont esté mises en Air par M<hi rend="sup">r</hi> de Montigny du Havre.</p>
-        <p>%[Air gravé à deux voix, inséré entre les pages 112 et 113]</p>
         <quote>
           <label type="head">Air nouveau.</label>
           <l>L’Amour folâtrant l’autre jour</l>
@@ -308,6 +307,8 @@
           <l><seg type="tab">    </seg>Que peut l’Amour avec Lysete,</l>
           <l><seg type="tab">    </seg>Sans un Berger ?</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">L’Amour folâtrant l’autre jour</hi>, doit regarder la page 112.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_115" resp="mercure">
         <head>[Le Mort Vivant, Histoire]</head>
@@ -471,11 +472,10 @@
         </quote>
         <p>Avoüez, Madame, qu’un Prince si jeune, qui a de si beaux sentimens, qui aime son Royaume &amp; ses Sujets, qui garde sa foy à ses Alliez, &amp; qui est d’ailleurs tres-grave, méritoit fort d’estre regreté.</p>
       </div>
-      <div type="article" xml:id="MG-1679-05_234" resp="mercure">
+      <div type="article" xml:id="MG-1679-05_235" copyOf="JLB-MG-1679-05_234" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 235-236.</bibl>
         <p>La matiere<note n="2" place="bottom"><p>Celle de la maladie du roi de Suède, cf. article précédent.</p></note> est triste. Je la quite pour vous faire part d’une seconde Chanson sur le retour du Printemps. Les Paroles sont de M<hi rend="sup">r</hi> l’Abbé Mallement de Messange.</p>
-        <p>%[Air gravé anonyme pour une voix et BC, inséré entre les pages 234 et 235.]</p>
         <quote>
           <label type="head">Air nouveau.</label>
           <l>A la fin ces Deserts ont repris leur verdure,</l>
@@ -487,6 +487,8 @@
           <l><seg type="tab">    </seg>Pendant que tout rit en ces lieux,</l>
           <l>J’entretiens ces Forests du tourment que j’endure.</l>
         </quote>
+        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
+        <p>L’Air qui commence par <hi rend="i">A la fin ces Deserts ont repris leur verdure</hi>, doit regarder la page 235.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_236" resp="mercure">
         <head>Les Oiseaux. Idille de Madame des Houlieres</head>
