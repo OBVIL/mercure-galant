@@ -747,20 +747,20 @@
       <div type="article" xml:id="MG-1678-01_224" resp="mercure">
         <head>[Air noté]</head>
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 224-226. </bibl>
-        <p>Enfin, Madame, j’ay trouvé moyen de vous satisfaire, &amp; je vous envoye deux Airs notez que vous ne regardez, s’il vous plaist, que comme un essay de ceux que j’auray soin de vous envoyer tous les Mois. Voicy les Paroles du premier que je mets icy sans les noter, afin que vous les puissiez lire d’abord sans embarras. [Air gravé anonyme à deux voix, inséré entre les pages 226 et 227.]</p>
+        <p>Enfin, Madame, j’ay trouvé moyen de vous satisfaire, &amp; je vous envoye deux Airs notez que vous ne regardez, s’il vous plaist, que comme un essay de ceux que j’auray soin de vous envoyer tous les Mois. Voicy les Paroles du premier que je mets icy sans les noter, afin que vous les puissiez lire d’abord sans embarras.</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.<note resp="editor" place="margin">cf. 
+          <label rend="center">AIR NOUVEAU.<note resp="editor" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_224/"><hi rend="i">Ton troupeau Sylvie</hi></ref>, janvier 1678,
             <hi>in</hi>
             <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
-          <l>Ton Troupeau, Sylvie,</l>
-          <l>Peut seul t’engager.</l>
-          <l>Tu passes la vie</l>
-          <l>Sans prendre un Berger.</l>
-          <l>Soûpire, Cruelle,</l>
-          <l>Pour des soins plus beaux,</l>
-          <l>Un Berger fidelle</l>
-          <l>Vaut mille Troupeaux.</l>
+          <lg><l rend="i">Ton Troupeau, Sylvie,</l>
+          <l rend="i">Peut seul t’engager.</l>
+          <l rend="i">Tu passes la vie</l>
+          <l rend="i">Sans prendre un Berger.</l>
+          <l rend="i">Soûpire, Cruelle,</l>
+          <l rend="i">Pour des soins plus beaux,</l>
+          <l rend="i">Un Berger fidelle</l>
+          <l rend="i">Vaut mille Troupeaux.</l></lg>
         </quote>
         <p>Cet Air est d’un Maistre estimé des Personnes de la plus haute qualité, &amp; comme elles ont le goust bon, je ne doute point que ses Ouvrages ne meritent les éloges qu’elles leur donnent ; mais vous pouvez vous en éclaircir par vous-mesme, jettez les yeux sur la Note. Vous sçavez parfaitement la Musique, &amp; il ne vous faut qu’un moment pour connoistre la beauté de celle-cy.</p>
       </div>
@@ -769,17 +769,17 @@
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 226-229.</bibl>
         <p>Je puis vous assurer, Madame, que tout est nouveau dans cet Air, &amp; que je ne vous envoyeray rien de cette nature qui ait esté veu dans le monde avant que vous le receviez. C’est ce qui m’a empesché de faire graver un fort bel Air de M<hi rend="sup">r</hi> de la Tour, qui comme vous sçavez tient rang parmy les premiers Maistres de Musique. J’ay déja entendu parler de cet Air en quelques endroits, &amp; je prétens que vous puissiez dire que vous aurez chanté la premiere de tout ce que vous trouverez noté dans mes Lettres, si ceux qui me le donneront me tiennent parole. Je ne veux pas cependant vous priver des Paroles sur lesquelles M<hi rend="sup">r</hi> de la Tour a travaillé. Elles vous plairont baucoup, si elles vous plaisent autant qu’elles font icy ; mais comment ne vous plairoient-elles pas, puis qu’elles sont de l’illustre Personne qui ne nous donne jamais rien que d’achevé ? Elles ont un tour qui vous feront connoistre aisément le merveilleux génie de Madame des Houlieres.</p>
         <quote rend="border">
-          <label rend="center">Air.</label>
-          <l><space/><space/>Iris sur la Fougere,</l>
-          <l><space/><space/>Dans un pressant danger,</l>
-          <l><space/>À son temeraire Berger</l>
-          <l><space/><space/>Disoit toute en colere ;</l>
-          <l>Qu’est devenu, Tirsis, cet air respectueux,</l>
-          <l>Qui d’un parfait Amant est le vray caractere</l>
-          <l>Entre deux cœurs, dit-il, brûlez des mesmes feux,</l>
-          <l><space/>Il est certains momens heureux</l>
-          <l><space/><space/>Où, ma Bergere,</l>
-          <l><space/>Il ne faut estre qu’amoureux.</l>
+          <label>AIR.</label>
+          <lg><l rend="i"><space/><space/>Iris sur la Fougere,</l>
+          <l rend="i"><space/><space/>Dans un pressant danger,</l>
+          <l rend="i"><space/>À son temeraire Berger</l>
+          <l rend="i"><space/><space/>Disoit toute en colere ;</l>
+          <l rend="i">Qu’est devenu, Tirsis, cet air respectueux,</l>
+          <l rend="i">Qui d’un parfait Amant est le vray caractere</l>
+          <l rend="i">Entre deux cœurs, dit-il, brûlez des mesmes feux,</l>
+          <l rend="i"><space/>Il est certains momens heureux</l>
+          <l rend="i"><space/><space/>Où, ma Bergere,</l>
+          <l rend="i"><space/>Il ne faut estre qu’amoureux.</l></lg>
         </quote>
         <p>Voyez, Madame, si rien peut estre plus agreablement tourné que ces Paroles.</p>
       </div>
@@ -787,19 +787,19 @@
         <head>[Second Air noté]</head>
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 229-230. 
           </bibl>
-        <p>En voicy d’autres dont vous allez trouver l’Air noté. [Air gravé pour une voix et BC, inséré entre les pages 230 et 231.]</p>
+        <p>En voicy d’autres dont vous allez trouver l’Air noté.</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.<note resp="editor" place="margin">cf. <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_229/"><hi rend="i">Quoy rien ne peut vous arester</hi></ref>, janvier 1678,
+          <label rend="center">AIR NOUVEAU.<note resp="editor" place="margin">cf. <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_229/"><hi rend="i">Quoy rien ne peut vous arester</hi></ref>, janvier 1678,
             <hi>in</hi>
             <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
-          <l>Quoy, rien ne vous peut arrester ?</l>
-          <l><space/><space/>L’Amour cede à la Gloire,</l>
-          <l><space/>Et vous voulez me quiter</l>
-          <l>Pour courir apres la Victoire ?</l>
-          <l>Rend-elle un Vainqueur plus heureux</l>
-          <l><space/><space/>Que la tendresse</l>
-          <l><space/><space/>D’une Maistresse</l>
-          <l><space/><space/>Qui partage ses feux ?</l>
+          <lg><l rend="i">Quoy, rien ne vous peut arrester ?</l>
+          <l rend="i"><space/><space/>L’Amour cede à la Gloire,</l>
+          <l rend="i"><space/>Et vous voulez me quiter</l>
+          <l rend="i">Pour courir apres la Victoire ?</l>
+          <l rend="i">Rend-elle un Vainqueur plus heureux</l>
+          <l rend="i"><space/><space/>Que la tendresse</l>
+          <l rend="i"><space/><space/>D’une Maistresse</l>
+          <l rend="i"><space/><space/>Qui partage ses feux ?</l></lg>
         </quote>
         <p>Je prétens que vous me ferez un fort grand remerciëment de cet Air, puis qu’il est de M<hi rend="sup">r</hi> Charpentier, fameux par mille Ouvrages qui ont esté le charme de toute la France, &amp; entr’autres, par l’Air des Maures du Malade Imaginaire, &amp; par tous ceux de Circé &amp; de l’Inconnu. Il a demeuré longtemps en Italie, où il voyoit souvent le Charissimi, qui estoit le plus grand Maistre de Musique que nous ayons eu depuis longtemps. Vous avez lû les Paroles de l’Air de M<hi rend="sup">r</hi> Charpentier, voyez les notées.</p>
       </div>

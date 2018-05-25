@@ -265,8 +265,8 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 34-35.</bibl>
         <p>Les Paroles de la Chanson que vous allez voir, sont du Solitaire de Pontoise, &amp; l’Air, de M<hi rend="sup">r</hi> de Montigny du Havre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
-          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix,</l>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Amour, cruel Amour, laisse-moy vivre en paix</hi>, doit regarder la page 34.</note>
+          <lg><l rend="i">Amour, cruel Amour, laisse-moy vivre en paix,</l>
           <l rend="i">Amour ne trouble plus les beaux jours de ma vie.</l>
           <l rend="i"> Ne me parle plus d’Uranie,</l>
           <l rend="i"> Je l’abandonne pour jamais,</l>
@@ -274,10 +274,8 @@
           <l rend="i">Je renonce aux langueurs, à la melancolie,</l>
           <l rend="i"> La tendresse est une folie,</l>
           <l rend="i">L’indiference seule a pour moy des attraits,</l>
-          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix.</l>
+          <l rend="i">Amour, cruel Amour, laisse-moy vivre en paix.</l></lg>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p> 
-        <p>La Chanson qui commence par, <hi rend="i">Amour, cruel Amour, laisse-moy vivre en paix</hi>, doit regarder la page 34.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_035" resp="mercure">
         <head>[Nouvel Etablissement de l’Ordre des chevaliers du Bon temps]</head>
@@ -612,7 +610,7 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 136-137.</bibl>
         <p> Quelques charmes que puissent avoir les plus beaux Lieux, ils ne sont particulierement agreables que par la présence de ce qui plaist. Ces Paroles que M<hi rend="sup">r</hi> des Fontaines a mises en Air, en font foy.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Agreables Ruisseaux, &amp; vous sombres Forests</hi>, doit regarder la page 137.</note>
           <l rend="i">Agreables Ruisseaux, &amp; vous sombres Forests,</l>
           <l rend="i">Cessez de m’étaler vostre charme ordinaire,</l>
           <l rend="i">Iris n’est point icy, vous estes sans attraits,</l>
@@ -622,8 +620,6 @@
           <l rend="i">Helas ! si ses beaux yeux vous pouvoient éclairer,</l>
           <l rend="i">Que je serois heureux ! que vous auriez de charmes !</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par, <hi rend="i">Agreables Ruisseaux, &amp; vous sombres Forests</hi>, doit regarder la page 137.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_144" resp="mercure">
         <head>[Suite de la Feste du Perroquet de Montpellier]</head>
@@ -712,7 +708,7 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 162.</bibl>
         <p>Autres Vers sur la rigueur d’une Belle. Je vous les envoye notez, afin que le plaisir de les lire puisse estre suivy pour vous de celuy de les chanter.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Le Soleil sur nos champs trop longtemps arresté</hi>, doit regarder la page 162.</note>
           <l rend="i">Le Soleil sur nos Champs trop longtemps arresté,</l>
           <l rend="i"> Seche nos Fleurs, met en cendre nos Plaines,</l>
           <l rend="i">Fait languir nos Ruisseaux &amp; tarir nos Fontaines ;</l>
@@ -720,8 +716,6 @@
           <l rend="i"> Et ceux qu’Amour allume dans mon ame ;</l>
           <l rend="i">L’Hyver est dans le cœur de celle qui m’enflame.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par, <hi rend="i">Le Soleil sur nos champs trop longtemps arresté</hi>, doit regarder la page 162.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_169" resp="mercure">
         <head>[Avanture arrivée aux Tuileries]</head>
@@ -960,7 +954,7 @@
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 250-251.</bibl>
         <p>Encor un Air nouveau, &amp; je passe à un Article qui fait l’entretien de tout Paris. Les Vers d’une petite Piece que je vous envoyay il y a quelque temps, ont tellement plû à M. l’Abbé Brossard, qu’il en a mis le premier Quatrain en Air.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</note>
           <l rend="i">Vous demandez, Iris, pourquoy je vous évite ?</l>
           <l rend="i"> Cessez de vous en étonner,</l>
           <l rend="i">Vous avez des appas, &amp; mon cœur va trop viste</l>
@@ -969,15 +963,13 @@
         <figure>
           <graphic url="../img/MG-1678-07_NPe.png"/>
         </figure>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_251" copyOf="JLB-MG-1678-07_252a" resp="angele">
         <head>[Autre air nouveau]</head>
         <bibl><title>Mercure galant</title>, juillet [tome 7], 1678, p. 251-252.</bibl>
         <p>Ces autres Paroles m’ont esté envoyées de Montpellier avec les Notes. Vous les trouverez en suite de celles qui vous aprendront l’Air du Quatrain.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l'’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</note>
           <l rend="i"> Pour boire avec plus de plaisir</l>
           <l rend="i"> Cette liqueur qui nous enchante,</l>
           <l rend="i"> Meslons-y le doux souvenir</l>
@@ -990,8 +982,6 @@
         <figure>
           <graphic url="../img/MG-1678-07_NPe.png"/>
         </figure>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par, <hi rend="i">Vous demandez, Iris, pourquoy je vous évite</hi>, &amp; celuy qui le suit, doivent regarder la page 251.</p>
       </div>
       <div type="article" xml:id="MG-1678-07_252b" resp="mercure">
         <head>[Procés touchant la cessation du Testament de Madame du Puis.]</head>

@@ -145,7 +145,7 @@
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 42-43.</bibl>
         <p>Il faut vous faire part des souhaits qui ont esté faits le retour du Printemps où nous commençons d’entrer. Les Paroles sont de M<hi rend="sup">r</hi> Noël, Homme d’un fort grand merite, &amp; que je vous ay déjà dit que la Ville de Chartres avoit choisy pour son Avocat. Elles ont esté mises en Air par M<hi rend="sup">r</hi> le Redde.</p>
         <quote rend="border">
-          <label>Air nouveau.</label>
+          <label>Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</note>
           <l><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
           <l><seg type="tab">    </seg>Durera-t-il longtemps encore ?</l>
           <l><seg type="tab">    </seg>Hastez-vous, ô divine Flore,</l>
@@ -156,8 +156,6 @@
           <l>Les Fleurs dans leurs boutons se cachent à nos yeux,</l>
           <l>Mais à vostre retour nous verrons tout éclore.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</p>
       </div>
       <div type="article" xml:id="MG-1679-03_043" resp="mercure">
         <head>Madrigal</head>
@@ -599,9 +597,7 @@
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 195-197.</bibl>
         <p>Les Amans jurent toûjours d’aimer éternellement. Voyez-le dans ces Vers Italiens, comme vous venez de le voir dans cet Epitaphe. Ils m’ont esté envoyez de Rome avec les Notes que j’ay fait graver. Puis que la Graveure vous plaist mieux en Musique que l’Impression, j’auray soin à l’avenir de vous satisfaire. Les Connoisseurs estiment fort celle qui a esté faite sur ces Paroles. Vous en jugerez.</p>
         <quote rend="border">
-          <label>Air italien.</label>
-        </quote>
-        <quote rend="border">
+          <label>Air italien.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
           <l>E'cosi dolce la pena ch'io sento</l>
           <l><seg type="tab">    </seg>Che nel tormento</l>
           <l><seg type="tab">    </seg>Voglio gioire,</l>
@@ -615,8 +611,6 @@
           <l><seg type="tab">    </seg>Struggasi, abbrugia si,</l>
           <l>Voglio adorare divina beltà.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air Italien doit regarder la page 196.</p>
       </div>
       <div type="article" xml:id="MG-1679-03_202" resp="mercure">
         <head>[Vers contre la seiziéme Conclusion des Theses galantes du Mercure du Mois de Fevrier]</head>
