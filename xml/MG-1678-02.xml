@@ -133,17 +133,17 @@
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_02_016/"><hi rend="i">En vain rivaux assidus</hi></ref>, février 1678,
             <hi>in</hi>
             <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
-          <l>En vain, Rivaux assidus</l>
-          <l>Vous me donnez de la peine,</l>
-          <l>Tous vos soûpirs pour Climene</l>
-          <l>Ne sont que soûpirs perdus.</l>
+          <l rend="i">En vain, Rivaux assidus</l>
+          <l rend="i">Vous me donnez de la peine,</l>
+          <l rend="i">Tous vos soûpirs pour Climene</l>
+          <l rend="i">Ne sont que soûpirs perdus.</l>
           <l>Ce n’est pas que cette Belle</l>
           <l>Veüille recevoir ma foy ;</l>
           <l>C’est plutost que la Cruelle</l>
           <l>N’aimera ny vous ny moy.</l>
         </quote>
         <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>La premiere Chanson qui commence par En vain Rivaux assidus, doit regarder la page 19.</p>
+        <p>La premiere Chanson qui commence par En vain Rivaux assidus, doit regarder la Page 19.</p>
       </div>
       <div type="article" xml:id="MG-1678-02_019" resp="mercure">
         <head>[Mascarade Galante]</head>
@@ -778,7 +778,6 @@
         <p></p>
         <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
         <p>La troisiéme Chanson qui commence par Doux Habitans de ces Bois, doit regarder la Page 218.</p>
-        
       </div>
       <div type="article" xml:id="MG-1678-02_236" resp="mercure">
         <head>L’Hyver, au Roy sur son Départ</head>
