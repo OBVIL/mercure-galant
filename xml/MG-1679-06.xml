@@ -201,7 +201,7 @@
         <bibl><title>Mercure galant</title>, juin [tome 6], 1679, p. 59-61.</bibl>
         <p>Voicy un Air que vous trouverez admirable. Quoy qu’il ne soit pas tout-à-fait nouveau, parce que tout ce que fait le fameux M<hi rend="sup">r</hi> Lambert est incontinent répandu par tout, c’est beaucoup de pouvoir vous dire que vous le pouvez avoir si fidellement noté que je vous l’envoye. La Basse-continuë y est adjoûtée, &amp; c’est ce que peu de Personnes seroient en pouvoir de vous donner. Les Paroles répondent parfaitement au sujet, &amp; ont je ne sçay quoy de si touchant, qu’il est aisé de connoistre qu’elles partent d’une bonne source.</p>
         <quote>
-          <label type="head">AIR.</label>
+          <label type="head">AIR.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ombre de mon Amant, Ombre toûjours plaintive</hi>, doit regarder la page 61.</note>
           <l>Ombre de mon Amant, Ombre toújours plaintive,</l>
           <l><seg type="tab">    </seg>Helas ! que voulez-vous ? je meurs.</l>
           <l><seg type="tab">    </seg>Soyez un moment attentive</l>
@@ -213,8 +213,6 @@
           <l>Ombre de mon Amant, Ombre toújours plaintive,</l>
           <l><seg type="tab">    </seg>Helas ! que voulez-vous ? je meurs.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par <hi rend="i">Ombre de mon Amant, Ombre toûjours plaintive</hi>, doit regarder la page 61.</p>
       </div>
       <div type="article" xml:id="MG-1679-06_062a" resp="mercure">
         <head>[Depart de Monsieur Lorenzani pour aller en Italie chercher des Musiciens pour le Roy]</head>
@@ -545,7 +543,7 @@
         <bibl><title>Mercure galant</title>, juin [tome 6], 1679, p. 254-255.</bibl>
         <p>Je vous envoye cependant un Air nouveau de la composition de M<hi rend="sup">r</hi> le Froid. Les Paroles vous feront connoistre les peines d’un autre Amant, le plus à plaindre de tous, s’il l’en faut croire.</p>
         <quote>
-          <label type="head">Air nouveau.</label>
+          <label type="head">Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Que sert à mon amour que le Printemps renaisse</hi>, doit regarder la page 255.</note>
           <l>Que sert à mon amour que le Printemps renaisse ?</l>
           <l>Que me sert qu’en nos Champs la verdure paroisse,</l>
           <l>Qu’elle invite aux plaisirs mille Amans que je voy ?</l>
@@ -553,8 +551,6 @@
           <l>Et tant que je la trouve insensible à ma peine,</l>
           <l><seg type="tab">    </seg>Il n’est point de beaux jours pour moy.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par <hi rend="i">Que sert à mon amour que le Printemps renaisse</hi>, doit regarder la page 255.</p>
       </div>
       <div type="article" xml:id="MG-1679-06_255" resp="mercure">
         <head>[Reception faite à Turin à Monsieur de Varengeville Ambassadeur à Venise]</head>

@@ -54,7 +54,7 @@
         <bibl><title>Mercure galant</title>, décembre [tome 12], 1679, p. 82-84.</bibl>
         <p>Il y en a un fort grand [chagrin] pour tous les Beuveurs, auquel il sera toûjours assez difficile de remedier. Les Vers qui composent l’Air nouveau que je vous envoye, vous feront connoistre dequoy ils se plaignent.</p>
         <quote>
-          <label>AIR A BOIRE.</label>
+          <label>AIR A BOIRE.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Pendant que vous donnez la chasse</hi>, doit regarder la page 82.</note>
           <l>Pendant que vous donnez la chasse,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Messieurs les Magistras,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>A tous les Scélerats,</l>
@@ -66,8 +66,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Nos Vins les plus délicats.</l>
         </quote>
         <p>Cet Air ne peut estre que tres-beau, puis qu’il est du mesme Autheur qui a fait ceux que je vous ay envoyez depuis trois mois. Les Paroles mesme sont de luy, comme le sont presque toutes celles que vous avez veuës dans les Airs gravez qu’il a donnez au Public. Il n’y a point de Basse au dessous du sujet de cet Air, comme on a de coûtume d’y en trouver, parce que l’Autheur a jugé à propos de mettre à la fin une espece de Basse chantante, qui pourtant ne fait aucun accord avec le Dessus, &amp; qui est seulement faite pour une plus grande varieté de Chant. C’est encor une invention nouvelle, qui sans doute ne plaira pas moins que les Récits de Basse ordinaires, dont il est l’Original, &amp; que vous avez vûs de luy en tres-grand nombre, tous fort agreables selon le sujet.</p>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par <hi rend="i">Pendant que vous donnez la chasse</hi>, doit regarder la page 82.</p>
+      </div>
       <div type="article" xml:id="MG-1679-12_105" resp="mercure">
         <head>[<hi rend="i">Les Amazones dans les Isles fortunées, Opéra de Venise</hi>]</head>
         <bibl><title>Mercure galant</title>, décembre [tome 12], 1679, p. 105-123.</bibl>
@@ -89,7 +88,7 @@
         <bibl><title>Mercure galant</title>, décembre [tome 12], 1679, p. 336-337.</bibl>
         <p>Cet Article de Musique me fait souvenir d’un second Air à vous envoyer. Les Paroles sont de M<hi rend="sup">r</hi> l’Abbé Mallemant.</p>
         <quote>
-          <label>Air nouveau.</label>
+          <label>Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Consolez-vous, mes chers Troupeaux</hi>, doit regarder la page 337.</note>
           <l>Consolez-vous, mes chers Troupeaux,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>De tous les maux</l>
           <l><seg type="tab">    </seg>Que la froide saison nous donne.</l>
@@ -99,8 +98,6 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Pour le pauvre Tircis,</l>
           <l><seg type="tab">    </seg>Dans le cœur de l’ingrate Iris.</l>
         </quote>
-        <p><hi rend="i">Avis pour placer les Figures</hi> :</p>
-        <p>L’Air qui commence par <hi rend="i">Consolez-vous, mes chers Troupeaux</hi>, doit regarder la page 337.</p>
       </div>
       <div type="article" xml:id="MG-1679-12_352" resp="mercure">
         <head>[Représentation de Bellérophon] [suivi de] [<hi rend="i">Statira, Piece nouvelle de M. Pradon</hi>]</head>
