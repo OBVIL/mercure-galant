@@ -164,9 +164,8 @@
         <head>Air Nouveau</head>
         <bibl><title>Mercure galant</title>, décembre [tome 15], 1680, p. 82.</bibl>
         <p>Je vous envoye à mon ordinaire un Air nouveau de M<hi rend="sup">r</hi> de Bassilly. C’est un embellissement qu’il veut bien donner à toutes mes Lettres.</p>
-        <p>%[air gravé à une voix et basse chiffrée, inséré entre les pages 82 et 83]</p>
         <quote>
-          <label>Air nouveau.</label>
+          <label>Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Climene, tu te plains de ma legereté</hi>, doit regarder la page 82.</note>
           <l>Climene, tu te plains de ma legereté,</l>
           <l><space rend="tab">    </space>Et je me plains de ta perséverance.</l>
           <l>Donnant tout à mes feux, tu leur as tout osté,</l>
@@ -228,10 +227,9 @@
       <div type="article" xml:id="MG-1680-12_277" resp="mercure">
         <head>Air Nouveau</head>
         <bibl><title>Mercure galant</title>, décembre [tome 15], 1680, p. 277-278.</bibl>
-        <p>Apparemment les mauvais augures que les Superstitieux pourront tirer de celle<note resp="editor"><p>Une comète, cf. article précédent (note de l’éditeur).</p></note> qui fait icy parler tout le monde, ne vous feront pas renoncer à vous divertir. Ainsi je vous envoye un Air nouveau qui pourra servir à exercer vostre belle voix. Vous en ferez part à vos Amies.</p>
-        <p>%[air gravé à une voix et BC, inséré entre les pages 276 et 277]</p>
+        <p>Apparemment les mauvais augures que les Superstitieux pourront tirer de celle<note resp="editor"><p>Une comète, cf. article précédent </p></note> qui fait icy parler tout le monde, ne vous feront pas renoncer à vous divertir. Ainsi je vous envoye un Air nouveau qui pourra servir à exercer vostre belle voix. Vous en ferez part à vos Amies.</p>
         <quote>
-          <label>Air nouveau.</label>
+          <label>Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Petits Oyseaux</hi>, doit regarder la page 277.</note>
           <l><space rend="tab">    </space>Petits Oyseaux, ne soyez point jaloux</l>
           <l>D’entendre de Philis la voix charmante &amp; belle ;</l>
           <l><space rend="tab">    </space><space rend="tab">    </space>Elle sçait mieux chanter que vous,</l>
