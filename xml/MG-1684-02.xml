@@ -100,6 +100,20 @@
             </lg>
           </quote>
         </div>
+      <div type="article" xml:id="MG-1684-02_012" resp="angele">
+        <head>[Air nouveau]*</head>
+        <bibl><title>Mercure Galant</title>, février [tome 2], 1684, p. 12-13.</bibl>
+        <p>Rien ne convient mieux à ce que je viens de vous dire de la rigueur de l'Hyver, que ces Paroles que je vous envoye notées.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Le plus cruel Hyver qu'on éprouva jamais</hi>, doit regarder la page 13.</note>
+          <lg><l rend="i">Le plus cruel Hyver qu'on éprouva jamais</l>
+            <l rend="i">Fait sentir ses effets.</l>
+            <l rend="i">D'où vient ce nouveau feu qui s'allume en mon ame ?</l>
+            <l rend="i">Pour éviter du Froid la fatale rigueur,</l>
+            <l rend="i">Il semble que l'Amour avec toute sa flâme</l>
+            <l rend="i">Soit venu se cacher dans le fond de mon cœur.</l></lg>
+        </quote>
+      </div>
         <div type="article" xml:id="MG-1684-02_023" resp="wordpro">
           <head>Aux deux aimables Sœurs, Ang. &amp; Crist</head>
           <bibl><title>Mercure Galant</title>, février [tome 2], 1684, p. 23-56.</bibl>
@@ -917,7 +931,7 @@
           </lg>
             <p/>
             <lg>
-          <label>GAVOTE.</label>
+              <label>GAVOTE.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note>
           <l rend="i">Incomparable Dauphine,</l>
           <l rend="i">Qui charmez toute la Cour,</l>
           <l rend="i">Donc, par la bonté Divine,</l>
@@ -961,7 +975,7 @@
           </lg>
             <p/>
             <lg>
-          <label>MENUET.</label>
+              <label>MENUET.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note>
           <l rend="i">Que de biens cette VICTOIRE donne !</l>
           <l rend="i">Que le Ciel favorise nos voeux !</l>
           <l rend="i">Voyez, Mortels, l’éclat qui l’environne,</l>
