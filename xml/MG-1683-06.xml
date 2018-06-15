@@ -623,7 +623,7 @@
         <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 101-102.</bibl>
         <p>S’il est des Amans sinceres dans leurs sermens de tendresse, les Belles devroient défendre leur cœur, par la seule veuë du peu de durée des passions. On ne se plaint d’autre chose que du malheur des ruptures ; &amp; un des plus beaux Airs de Phaëton a esté fait là-dessus.</p>
         <quote>
-          <label>AIR.</label>
+          <label>AIR.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Helas ! une chaîne si belle</hi>, doit regarder la page 102.</note>
           <lg>
             <l rend="i">Helas ! une chaîne si belle</l>
             <l rend="i"> Devoit estre éternelle.</l>
@@ -1032,12 +1032,43 @@
         </div>
         <div type="article" xml:id="MG-1683-06_267" resp="mercure">
           <head>[Pension donnée à M<hi rend="sup">r</hi> Charpentier]</head>
-          <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 267-268</bibl>
+          <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 267-268.</bibl>
           <p>J'ay à vous apprendre en vous parlant de Musique, que le Roy un peu avant son départ donna une Pension à M<hi rend="sup">r</hi> Charpentier. Vous sçavez qu'il a toûjours composé la Musique, qu'on a chantée à la Messe de Monseigneur le Dauphin, lors que ce Prince n'assistoit pas à celle du Roy. Comme je vous ay parlé de luy dans les occasions où sa Musique a fait bruit, je n'ay rien davantage à vous en dire.</p>
         </div>
+      <div type="article" xml:id="MG-1683-06_315" resp="angele">
+        <head>[Air nouveau]*</head>
+        <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 315-317.</bibl>
+        <p>Je vous envoye un Air du fameux M<hi rend="sup">r</hi> d´Ambruys. Les paroles sont de M<hi rend="sup">r</hi> Diéreville.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je n'aime plus ce beau sejour</hi>, doit regarder la page 315.</note>
+          <lg><l rend="i">Je n'aime plus ce beau sejour</l>
+            <l rend="i">Où le Printemps fait briller tant de charmes.</l>
+            <l rend="i">Ces lieux où mille fois Tircis m'a fait la Cour.</l>
+            <l rend="i">N'offrent plus à mes yeux que des sujets de larmes ;</l>
+            <l rend="i">J'y vois ce coeur ingrat brûler d'un autre amour,</l>
+            <l rend="i">Tandis que pour luy seul je fais toûjours constante.</l>
+            <l rend="i">Hélas ! faut-il qu'une fidelle Amante</l>
+            <l rend="i">Ne puisse trouver un beau jour</l>
+            <l rend="i">Dans la saison la plus charmante ?</l></lg>
+        </quote>
+        <p>Voicy une Réponse à ces Vers sur les mesmes rimes.</p>
+        <quote>
+          <lg>
+          <l rend="i">Aimez toûjours ce beau jour,</l>
+            <l rend="i">Où le printemps vous fait voir tant de charmes.</l>
+            <l rend="i">Ces lieux, aimable Iris, où je vous fais la Cour,</l>
+            <l rend="i">N´ont rien qui vous engage à répandre des larmes.</l>
+            <l rend="i">Vos injustes soupçons offensent mon amour,</l>
+            <l rend="i">Une si belle ardeur ne peut estre inconstante,</l>
+            <l rend="i">Hélas, sans vous, tendre &amp; fidelle Amante,</l>
+            <l rend="i">Je ne verrois pas un beau jour,</l>
+            <l rend="i">Dans la saison la plus charmante.</l>
+          </lg>
+        </quote>
+      </div>
         <div type="article" xml:id="MG-1683-06_317" resp="nbb">
           <head>[Recit d’Avanture sur les Lettres Diverses]</head>
-          <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 317-330</bibl>
+          <bibl><title>Mercure Galant</title>, juin [tome 6], 1683, p. 317-330.</bibl>
           <p>Apres ce que vous m’avez écrit à l’avantage des <hi rend="i">Lettres Diverses</hi>, je croy que vous apprendrez avec plaisir ce qu’en a pensé une aimable Dame, dont le jugement sur les Ouvrages d’esprit, est icy d’un tres-grand poids. L’avanture dont elle fait le recit, vous paroistra fort plaisante. C’est une Histoire plûtost qu’une Lettre. On m’en a donné une Copie ; je vous en fais part.</p>
           <quote>
             <label>A MONSIEUR DE L…</label>
