@@ -300,10 +300,9 @@
       <div type="article" xml:id="MG-1689-02a_172" resp="mercure">
         <head>Air nouveau</head>
         <bibl><title>Mercure Galant</title>, février, première partie [tome 2], 1689, p. 172-173.</bibl>
-        <p/>
         <p>C'est là-dessus qu'on a fait les Vers que vous allez lire ; ils ont esté mis en air par un de nos plus sçavans Musiciens.</p>
         <quote>
-          <label>AIR NOUVEAU.</label>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Amour tous tes plaisirs ne sont qu'imaginaires</hi>, doit regarder la page 172.</note>
           <lg>
             <l rend="i">Amour, tous tes plaisirs ne sont qu'imaginaires,</l>
             <l rend="i"> Ne viens point surprendre mon coeur </l>
@@ -411,6 +410,19 @@
           <p>M. le Duc de la Feüillade en a aussi donné un, qui fut ouvert par Monsieur de Chartres &amp; par Mademoiselle. Il y avoit huit pieces, &amp; une Galerie magnifiquement parées, &amp; tout ce qui servoit à les orner fut trouvé d'un tres-bon goust. Monseigneur le Dauphin s'y divertit beaucoup, &amp; y parut sous divers habits. Il y eut un grand repas aprés minuit, appellé <hi rend="i">media noche</hi>.</p>
           <p>Le Balet donc je vous ay fait la description le mois passé, &amp; qui avoit esté préparé pour le retour de Monseigneur, a esté dansé deux fois chaque semaine à Trianon pendant tout le Carnaval, &amp; l'Opera de Thetis &amp; de Pelée y a esté joüé avec les habits. Je dis avec les habits, parce que des Opera qui ont esté faits pour Paris, ne sont ordinairement representez qu'en concert à la Cour. Monseigneur estoit venu voir plusieurs fois cet Opera, mais le Roy &amp; Madame la Dauphine ne l'avoient point encore vû, &amp; les applaudissemens qu'ils y donnerent furent remarquez de tout le monde. Sa Majesté choisit les scenes qui luy plûrent davantage, pour estres chantées dans les Concerts qui se font à Versailles les jours d'appartement. La Tragedie d'Esther dont je vous ay déja parlé, a aussi été representée deux fois la semaine à S. Cir pendant le Carnaval. Le Roy a honoré de sa presence la plus grande partie des representations. Tout ce qu'il y a de personnes distinguées à la Cour &amp; à Paris, prenoient un si grand plaisir à voir cette Piece, &amp; en estoient si édifiez, que chacun auroit voulu estre receu à la voir autant de fois qu'elle a esté representée ; mais pour éviter la confusion qui n'auroit pas manqué d'arriver, on n'y entroit point sans estre nommé, de sorte qu'il ne s'y trouvoit qu'autant de monde que le lieu en pouvoit contenir ; ainsi jamais on n'a goûté aucun divertissement ny avec plus de tranquillité, ny avec plus de plaisir. Il a fait verser beaucoup de larmes, &amp; inspiré des sentimens tout Chrestiens. Le jeu des Actrices a charmé, &amp; Madame de Quelus s'y est fait admirer. Je vous ay déjà parlé des Chœurs, mais sans vous dire que la Musique en estoit de M<hi rend="sup">r</hi> Moreau ; elle a plu à tous ceux qui l'ont entenduë. Elle entroit parfaitement bien dans le sens des paroles, &amp; exprimoit si naturellement ce qu'elles signifoient, que plus on l'entendoit, &amp; plus on y prenoit de plaisir. On preparoit de grandes Mascarades à Versailles pour les deux derniers jours du Carnaval, mais la nouvelle de la mort de la Reine d'Espagne y ayant esté sceuë le Dimanche, tous les divertissemens cesserent dés le mesme jour, &amp; la douleur prit la place de la joye.</p>
         </div>
+      <div type="article" xml:id="MG-1689-02a_310" resp="angele">
+        <head>[Air nouveau]*</head>
+        <bibl><title>Mercure Galant</title>, février, première partie [tome 2], 1689, p. 310-311.</bibl>
+        <p>Les paroles du second Air nouveau que je vous envoye, donnent un conseil à toutes les Belles.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Riez si vous estes sage</hi>, doit regarder la page 311.</note>
+          <lg><l rend="i">Riez, si vous estes sage,</l>
+            <l rend="i">Riez, trop aimable Iris ;</l>
+            <l rend="i">Rien ne vous sied davantage,</l>
+            <l rend="i">Et le cœur le plus sauvage</l>
+            <l rend="i">Est charmé d'un si beau ris.</l></lg>
+        </quote>
+      </div>
       </body>
   </text>
 </TEI>
