@@ -824,7 +824,8 @@
         <p>Vous vous connoissez trop bien en Musique, pour n'estre pas contente de la Chanson nouvelle que je vous envoye.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="editor" place="margin">L’Air doit regarder la page 322.</note>
-          <lg><l rend="i">Que vostre éloignement me fait souffrir de peine !</l>
+          <lg>
+            <l rend="i">Que vostre éloignement me fait souffrir de peine !</l>
             <l rend="i">En vain je prétendois vous le faire sçavoir ;</l>
             <l rend="i">Par un triste recit de tout mon desespoir.</l>
             <l rend="i">Jugez-en seulement, aimable Climene,</l>
