@@ -145,7 +145,7 @@
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 42-43.</bibl>
         <p>Il faut vous faire part des souhaits qui ont esté faits le retour du Printemps où nous commençons d’entrer. Les Paroles sont de M<hi rend="sup">r</hi> Noël, Homme d’un fort grand merite, &amp; que je vous ay déjà dit que la Ville de Chartres avoit choisy pour son Avocat. Elles ont esté mises en Air par M<hi rend="sup">r</hi> le Redde.</p>
         <quote rend="border">
-          <label>Air nouveau.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</note>
           <l><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
           <l><seg type="tab">    </seg>Durera-t-il longtemps encore ?</l>
           <l><seg type="tab">    </seg>Hastez-vous, ô divine Flore,</l>
@@ -597,19 +597,19 @@
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 195-197.</bibl>
         <p>Les Amans jurent toûjours d’aimer éternellement. Voyez-le dans ces Vers Italiens, comme vous venez de le voir dans cet Epitaphe. Ils m’ont esté envoyez de Rome avec les Notes que j’ay fait graver. Puis que la Graveure vous plaist mieux en Musique que l’Impression, j’auray soin à l’avenir de vous satisfaire. Les Connoisseurs estiment fort celle qui a esté faite sur ces Paroles. Vous en jugerez.</p>
         <quote rend="border">
-          <label>Air italien.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
-          <l>E'cosi dolce la pena ch'io sento</l>
-          <l><seg type="tab">    </seg>Che nel tormento</l>
-          <l><seg type="tab">    </seg>Voglio gioire,</l>
-          <l><seg type="tab">    </seg>Voglio morire ;</l>
-          <l><seg type="tab">    </seg>Senza pietà.</l>
-          <l>Godo gioire del mio penare.</l>
-          <l><seg type="tab">    </seg>Voglio amare</l>
-          <l><seg type="tab">    </seg>Con candida fè,</l>
-          <l>Voglio servire senza mercé</l>
-          <l><seg type="tab">    </seg>Ardasi, auvampasi,</l>
-          <l><seg type="tab">    </seg>Struggasi, abbrugia si,</l>
-          <l>Voglio adorare divina beltà.</l>
+          <label>AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
+          <l rend="i">E'cosi dolce la pena ch'io sento</l>
+            <l rend="i"><seg type="tab">    </seg>Che nel tormento</l>
+            <l rend="i"><seg type="tab">    </seg>Voglio gioire,</l>
+            <l rend="i"><seg type="tab">    </seg>Voglio morire ;</l>
+            <l rend="i"><seg type="tab">    </seg>Senza pietà.</l>
+            <l rend="i">Godo gioire del mio penare.</l>
+            <l rend="i"><seg type="tab">    </seg>Voglio amare</l>
+            <l rend="i"><seg type="tab">    </seg>Con candida fè,</l>
+            <l rend="i">Voglio servire senza mercé</l>
+            <l rend="i"><seg type="tab">    </seg>Ardasi, auvampasi,</l>
+            <l rend="i"><seg type="tab">    </seg>Struggasi, abbrugia si,</l>
+            <l rend="i">Voglio adorare divina beltà.</l>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-03_202" resp="mercure">
@@ -621,50 +621,50 @@
           <label>Conclusion des Theses ga-</label>
           <label>lantes du Mercure du Mois</label>
           <label>de Fevrier.</label>
-          <l>Fut-il jamais, grands Dieux ! de semblable manie ?</l>
-          <l>Tout cœur qui sçait aimer, en doit estre surpris.</l>
-          <l>Quoy ! pour sauver l’Amour de la dent de l’Envie,</l>
-          <l>L’exposer à périr dans les bras du Mépris !</l>
+          <l rend="i">Fut-il jamais, grands Dieux ! de semblable manie ?</l>
+          <l rend="i">Tout cœur qui sçait aimer, en doit estre surpris.</l>
+          <l rend="i">Quoy ! pour sauver l’Amour de la dent de l’Envie,</l>
+          <l rend="i">L’exposer à périr dans les bras du Mépris !</l>
           <l/>
-          <l>De quelque vive ardeur qu’un Objet nous anime,</l>
-          <l>Si d’imperfections nous le voyons atteint,</l>
-          <l>La tendresse bientost se perd apres l’estime ;</l>
-          <l>Nostre feu ralenty s’évapore, &amp; s’éteint.</l>
+          <l rend="i">De quelque vive ardeur qu’un Objet nous anime,</l>
+          <l rend="i">Si d’imperfections nous le voyons atteint,</l>
+          <l rend="i">La tendresse bientost se perd apres l’estime ;</l>
+          <l rend="i">Nostre feu ralenty s’évapore, &amp; s’éteint.</l>
           <l/>
-          <l>Un amour alarmé d’un trouble imaginaire,</l>
-          <l>Pour azile doit-il se creuser un Tombeau,</l>
-          <l>Et pour de vains périls d’une guerre étrangere,</l>
-          <l>D’une guerre intestine allumer le flambeau ?</l>
+          <l rend="i">Un amour alarmé d’un trouble imaginaire,</l>
+          <l rend="i">Pour azile doit-il se creuser un Tombeau,</l>
+          <l rend="i">Et pour de vains périls d’une guerre étrangere,</l>
+          <l rend="i">D’une guerre intestine allumer le flambeau ?</l>
           <l/>
-          <l>Que diray-je de plus ? Malgré nos avantages,</l>
-          <l>Sur des maux incertains porter si loin nos yeux,</l>
-          <l>C’est s’éloigner du Port pour chercher des orages,</l>
-          <l>C’est à se perdre enfin se rendre ingénieux.</l>
+          <l rend="i">Que diray-je de plus ? Malgré nos avantages,</l>
+          <l rend="i">Sur des maux incertains porter si loin nos yeux,</l>
+          <l rend="i">C’est s’éloigner du Port pour chercher des orages,</l>
+          <l rend="i">C’est à se perdre enfin se rendre ingénieux.</l>
           <l/>
-          <l>O vous, qui rabaissez ce qu’il faut qu’on adore,</l>
-          <l>Craignez, lâches souhaits, en voulant le ternir,</l>
-          <l>Que sur vostre fureur il n’encherisse encore,</l>
-          <l>Et que son changement ne serve à vous punir.</l>
+          <l rend="i">O vous, qui rabaissez ce qu’il faut qu’on adore,</l>
+          <l rend="i">Craignez, lâches souhaits, en voulant le ternir,</l>
+          <l rend="i">Que sur vostre fureur il n’encherisse encore,</l>
+          <l rend="i">Et que son changement ne serve à vous punir.</l>
         </quote>
         <p>Le mesme M<hi rend="sup">r</hi> Gardien donnant un sens plus étroit à cette Conclusion, &amp; suposant qu’un Amant souhaite des pertes &amp; des disgraces à sa Maistresse, afin qu’en la secourant il puisse estre plus en état de s’en faire aimer, répond ce que vous allez voir.</p>
         <quote rend="border">
-          <l>Qui se flate d’aimer, &amp; peut à ce qu’il aime,</l>
-          <l>Du Destin en couroux souhaiter les rigueurs,</l>
-          <l>Afin qu’à la Beauté dont il tarit les pleurs,</l>
-          <l>Ses bienfaits prouvent mieux sa passion extréme ;</l>
-          <l><seg type="tab">    </seg>Par ce bizarre sentiment,</l>
-          <l>Ou de sa Souveraine il fait sa Tributaire,</l>
-          <l><seg type="tab">    </seg>Il se déclare Mercenaire,</l>
-          <l><seg type="tab">    </seg>Et perd la qualité d’Amant.</l>
+          <l rend="i">Qui se flate d’aimer, &amp; peut à ce qu’il aime,</l>
+          <l rend="i">Du Destin en couroux souhaiter les rigueurs,</l>
+          <l rend="i">Afin qu’à la Beauté dont il tarit les pleurs,</l>
+          <l rend="i">Ses bienfaits prouvent mieux sa passion extréme ;</l>
+          <l rend="i"><seg type="tab">    </seg>Par ce bizarre sentiment,</l>
+          <l rend="i">Ou de sa Souveraine il fait sa Tributaire,</l>
+          <l rend="i"><seg type="tab">    </seg>Il se déclare Mercenaire,</l>
+          <l rend="i"><seg type="tab">    </seg>Et perd la qualité d’Amant.</l>
           <l/>
-          <l>Un véritable amour n’inspire aux belles Ames</l>
-          <l>Que des soins genéreux, &amp; des vœux épurez ;</l>
-          <l>La gloire, &amp; le repos, de l’objet de nos flames,</l>
-          <l>Sont des droits, qui pour nous doivent estre sacrez.</l>
-          <l>Qu’il honore nos dons d’un seul regard propice,</l>
-          <l>Est-il grace plus grande, &amp; sort plus glorieux ?</l>
-          <l>Croyons toûjours du sien luy faire un sacrifice,</l>
-          <l>Et quand nous luy donnons, que ce soit comme aux Dieux.</l>
+          <l rend="i">Un véritable amour n’inspire aux belles Ames</l>
+          <l rend="i">Que des soins genéreux, &amp; des vœux épurez ;</l>
+          <l rend="i">La gloire, &amp; le repos, de l’objet de nos flames,</l>
+          <l rend="i">Sont des droits, qui pour nous doivent estre sacrez.</l>
+          <l rend="i">Qu’il honore nos dons d’un seul regard propice,</l>
+          <l rend="i">Est-il grace plus grande, &amp; sort plus glorieux ?</l>
+          <l rend="i">Croyons toûjours du sien luy faire un sacrifice,</l>
+          <l rend="i">Et quand nous luy donnons, que ce soit comme aux Dieux.</l>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-03_221" resp="mercure">

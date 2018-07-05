@@ -749,7 +749,7 @@
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 224-226. </bibl>
         <p>Enfin, Madame, j’ay trouvé moyen de vous satisfaire, &amp; je vous envoye deux Airs notez que vous ne regardez, s’il vous plaist, que comme un essay de ceux que j’auray soin de vous envoyer tous les Mois. Voicy les Paroles du premier que je mets icy sans les noter, afin que vous les puissiez lire d’abord sans embarras.</p>
         <quote rend="border">
-          <label rend="center">AIR NOUVEAU.<note resp="editor" place="margin">cf. 
+          <label>AIR NOUVEAU.<note resp="author" place="margin">cf. 
             <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_224/"><hi rend="i">Ton troupeau Sylvie</hi></ref>, janvier 1678,
             <hi>in</hi>
             <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
@@ -768,7 +768,7 @@
         <head>[Air de M. de la Tour]</head>
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 226-229.</bibl>
         <p>Je puis vous assurer, Madame, que tout est nouveau dans cet Air, &amp; que je ne vous envoyeray rien de cette nature qui ait esté veu dans le monde avant que vous le receviez. C’est ce qui m’a empesché de faire graver un fort bel Air de M<hi rend="sup">r</hi> de la Tour, qui comme vous sçavez tient rang parmy les premiers Maistres de Musique. J’ay déja entendu parler de cet Air en quelques endroits, &amp; je prétens que vous puissiez dire que vous aurez chanté la premiere de tout ce que vous trouverez noté dans mes Lettres, si ceux qui me le donneront me tiennent parole. Je ne veux pas cependant vous priver des Paroles sur lesquelles M<hi rend="sup">r</hi> de la Tour a travaillé. Elles vous plairont baucoup, si elles vous plaisent autant qu’elles font icy ; mais comment ne vous plairoient-elles pas, puis qu’elles sont de l’illustre Personne qui ne nous donne jamais rien que d’achevé ? Elles ont un tour qui vous feront connoistre aisément le merveilleux génie de Madame des Houlieres.</p>
-        <quote rend="border">
+        <quote>
           <label>AIR.</label>
           <lg><l rend="i"><space/><space/>Iris sur la Fougere,</l>
           <l rend="i"><space/><space/>Dans un pressant danger,</l>
@@ -788,8 +788,8 @@
         <bibl><title>Mercure galant</title>, janvier [tome 1], 1678, p. 229-230. 
           </bibl>
         <p>En voicy d’autres dont vous allez trouver l’Air noté.</p>
-        <quote rend="border">
-          <label rend="center">AIR NOUVEAU.<note resp="editor" place="margin">cf. <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_229/"><hi rend="i">Quoy rien ne peut vous arester</hi></ref>, janvier 1678,
+        <quote>
+          <label>AIR NOUVEAU.<note resp="author" place="margin">cf. <ref target="http://neuma.huma-num.fr/home/opus/timbres:airsmercure:1678_01_229/"><hi rend="i">Quoy rien ne peut vous arester</hi></ref>, janvier 1678,
             <hi>in</hi>
             <ref target="http://neuma.huma-num.fr/home/corpus/timbres:airsmercure/">Airs du Mercure galant (1678-1710)</ref></note></label>
           <lg><l rend="i">Quoy, rien ne vous peut arrester ?</l>

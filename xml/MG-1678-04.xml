@@ -219,14 +219,16 @@
         <head>[Chanson notée]</head>
         <bibl><title>Mercure galant</title>, avril [tome 4], 1678, p. 71-73.</bibl>
         <p>Il est temps de vous donner à mon ordinaire dequoy exercer vostre belle voix. Lisez ces Paroles que vous trouverez en suite notées. Elles ont esté mises en Air par M<hi rend="sup">r</hi> Martin le Fils. Le mérite du Pere est connu de tous ceux qui aiment la Musique ; &amp; ce que je vous envoye du Fils vous persuadera aisément qu’on a eu raison d’attendre beaucoup de luy. Il s’est acquis de l’estime par la maniere dont il jouë du Clavessin, de la Basse &amp; du Dessus de Viole, &amp; il est à croire qu’il n’en acquerra pas moins s’appliquant à la composition des Airs.</p>
-        <quote rend="border">
-          <label rend="center">CHANSON.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Rossignols que pretendez-vous</hi>, doit regarder la Page 73.</note>
-          <lg><l rend="i"><space/>Rossignols, que pretendez-vous</l>
+        <quote>
+          <label rend="center">CHANSON.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Rossignols que pretendez-vous</hi>, doit regarder la Page 73.</note>
+          <lg>
+          <l rend="i"><space/>Rossignols, que pretendez-vous</l>
           <l rend="i"><space/>Par vos Chants languissans &amp; doux ?</l>
           <l rend="i">Que pouvez-vous encor ou desirer, ou craindre ?</l>
           <l rend="i"><space/>Si vostre cœur est enflâmé,</l>
           <l rend="i"><space/>Vous n’avez pas lieu de vous plaindre,</l>
-          <l rend="i">Il n’appartient qu’à moy qui ne suis point aimé.</l></lg>
+          <l rend="i">Il n’appartient qu’à moy qui ne suis point aimé.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-04_073" resp="mercure">
@@ -572,14 +574,15 @@
         <head>[Chanson]</head>
         <bibl><title>Mercure galant</title>, avril [tome 4], 1678, p. 150-151.</bibl>
         <quote rend="border">
-          <label>DISPOSITION D’UNE</label>
-          <label>Belle à aimer.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
-          <lg><l rend="i">Si vous poursuivez de m’aimer,</l>
+          <label>DISPOSITION D’UNE<lb/> Belle à aimer.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
+          <lg>
+            <l rend="i">Si vous poursuivez de m’aimer,</l>
           <l rend="i">Je vous trouve assez redoutable ;</l>
           <l rend="i">Mon cœur me dit déja que vous estes aimable,</l>
           <l rend="i">Je devrois bien m’en allarmer ;</l>
           <l rend="i">Mais le moyen, helas, le moyen de s’armer</l>
-          <l rend="i">Contre un péril qui paroist agreable ?</l></lg>
+          <l rend="i">Contre un péril qui paroist agreable ?</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-04_151" resp="mercure">
@@ -749,9 +752,10 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril [tome 4], 1678, p. 183-184.</bibl>
         <p>Je reçois un Aïr de M<hi rend="sup">r</hi> du Buisson, dont je croy que la reputation vous est connuë. Je vous l’envoye. Les Paroles sont d’une Personne de Qualité qui fit l’an passé, <hi rend="i">Non Printemps, &amp;c.</hi> &amp; <hi rend="i">Soit le Printemps, soit l’Hyver, soit l’Automne</hi>. C‘est luy qui a fait presque toutes les jolies Paroles qui se chantent à Paris. Lisez celles-cy avant que de jetter les yeux sur la Note.</p>
-        <quote rend="border">
-          <label rend="center">AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">L’on vous dit tous les Ans</hi>, doit regarder la Page 184.</note>
-          <lg><l rend="i"><space/>L’on vous dit tous les Ans</l>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">L’on vous dit tous les Ans</hi>, doit regarder la Page 184.</note>
+          <lg>
+            <l rend="i"><space/>L’on vous dit tous les Ans</l>
           <l rend="i"><space/>Au retour du Printemps,</l>
           <l rend="i"><space/>Aimez, jeune Silvie,</l>
           <l rend="i"><space/>Les beaux jours de la vie</l>
@@ -759,7 +763,8 @@
           <l rend="i">Vous n’aurez pas toûjours le pouvoir de charmer,</l>
           <l rend="i"><space/>Et la beauté passe comme une Rose.</l>
           <l rend="i">Hastez vous donc, Silvie, hastez vous donc d’aimer,</l>
-          <l rend="i">Faut-il vous repéter cent fois la mesme chose ?</l></lg>
+          <l rend="i">Faut-il vous repéter cent fois la mesme chose ?</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-04_248" resp="mercure">
@@ -1088,9 +1093,10 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril [tome 4], 1678, p. 389-390.</bibl>
         <p>Ne cherchez plus d’ordre dans ma Lettre. Elle est déja longue, &amp; le dernier jour du Mois m’oblige à finir. Je ne veux pourtant pas oublier à vous faire part d’un Air qui est fort approuvé des Connoisseurs. Il est de M<hi rend="sup">r</hi> Berthet. Je vous laisse juger des Paroles.</p>
-        <quote rend="border">
-          <label>AIR NOUVEAU.</label><note resp="editor" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">La Tendresse</hi>, doit regarder la Page 389.</note>
-          <lg><l rend="i"><space/>La tendresse</l>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">La Tendresse</hi>, doit regarder la Page 389.</note>
+          <lg>
+            <l rend="i"><space/>La tendresse</l>
           <l rend="i"><space/>D’une Maistresse,</l>
           <l rend="i"><space/>Fait le Printemps</l>
           <l rend="i"><space/><space/>Des Amans.</l>
@@ -1106,7 +1112,8 @@
           <l rend="i">Me fit le don de sa foy,</l>
           <l rend="i">La Saison la plus cruelle</l>
           <l rend="i">Fut pleine d’attraits pour moi.</l>
-          <l rend="i"><space/>La tendresse, <hi rend="i">&amp;c</hi>.</l></lg>
+          <l rend="i"><space/>La tendresse, <hi rend="i">&amp;c</hi>.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-04_390" resp="mercure">
