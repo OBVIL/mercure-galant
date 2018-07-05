@@ -608,7 +608,6 @@
         <div type="article" xml:id="MG-1697-08_271" resp="wordpro">
           <head>[Madrigal]</head>
           <bibl><title>Mercure Galant</title>, août 1697 [tome 8], p. 271-272.</bibl>
-        <p/>
           <p>Je finis par un Madrigal de Mademoiselle Itier à M<hi rend="sup">r</hi> le Duc de Vendosme sur la prise de cette importante Place.</p>
           <quote>
             <lg>
@@ -625,6 +624,22 @@
             </lg>
           </quote>
         </div>
+      <div type="article" xml:id="MG-1697-08_283" resp="angele">
+        <head>[Air nouveau]*</head>
+        <bibl><title>Mercure Galant</title>, août 1697 [tome 8], p. 283.</bibl>
+        <p>Les Vers que vous allez lire ont esté mis en Air par une personne qui se connoist parfaitement en Musique.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air doit regarder la page 283.</note>
+          <lg><l rend="i">Ce seroit une étrange chose,</l>
+            <l rend="i">Si je n'avois qu'un seul Amant,</l>
+            <l rend="i">N'accusez point, Lisis, un changement</l>
+            <l rend="i">Dont vous estes la cause.</l>
+            <l rend="i">Quand vous allez dans ce Hameau,</l>
+            <l rend="i">Faire l'amour ailleurs en tout temps, à toute heure,</l>
+            <l rend="i">Prétendez-vous que je demeure</l>
+            <l rend="i">Seulette prés de mon Troupeau ?</l></lg>
+        </quote>
+      </div>
       </body>
   </text>
 </TEI>
