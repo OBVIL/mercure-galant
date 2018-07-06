@@ -562,7 +562,7 @@
           <p>Je ne vous dis rien sur Rondeau noté que je vous envoye. Une personne qui a le goust aussi fin que vous, ne doit jamais estre prévenue.</p>
           <quote>
             <lg>
-              <l rend="i"> Ah, qu’un tendre cœur est à plaindre,</l>
+              <l rend="i"> Ah, qu’un tendre cœur est à plaindre,</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Ah qu’un tendre cœur est à plaindre</hi>, doit regarder la page [21]5.</note>
               <l rend="i"> Quand il aime, sans estre aimé !</l>
               <l rend="i">  Non, rien n’est plus à craindre,</l>
               <l rend="i">Que les cruels soupçons dont il est alarmé.</l>
@@ -571,6 +571,18 @@
             </lg>
           </quote>
         </div>
+      <div type="article" xml:id="MG-1698-10_247" resp="angele">
+        <head>[Air nouveau]*</head>
+        <bibl><title>Mercure Galant</title>, octobre 1698 [tome 10], p. 247-248.</bibl>
+        <p>Voicy une seconde Chanson, notée par un homme qui entend parfaitement la Musique.</p>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Dans le bel âge il est doux de se rendre</hi>, doit regarder la page 247.</note>
+          <lg><l rend="i">Dans le bel âge il est doux de se rendre.</l>
+            <l rend="i">Tranquilles cœurs, laissez vous enflammer.</l>
+            <l rend="i">Il faut aimer, on ne s'en peut défendre.</l>
+            <l rend="i">Il faut aimer, l'amour doit tout charmer.</l></lg>
+        </quote>
+      </div>
         <div type="article" xml:id="MG-1698-10_250" resp="mercure">
           <head>[Monseigneur le Dauphin est regalé à Petit Bourg par M<hi rend="sup">r</hi> le
             Marquis d’Antin]</head>
