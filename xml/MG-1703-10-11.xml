@@ -387,21 +387,19 @@
           <p>Je vous envoye un air que vous trouverez dans l’article suivant, il est noté par Mr
             l’Abbé Castel.</p>
           <quote>
-            <label><hi rend="i">À la belle Mademoiselle R… en luy envoyant un Bouquet, un Cœur,
+            <label><hi rend="i">A la belle Mademoiselle R… en luy envoyant un Bouquet, un Cœur,
                 &amp; un air noté.</hi></label>
+            <p/>
             <p>Belle Iris, aussi tost qu’on a appris le jour de vostre feste, on a resolu de vous
-              envoyer un Bouquet On fait plus, on joint à l’offre du Bouquet, celle d’un cœur ?
+              envoyer un Bouquet[.] On fait plus, on joint à l’offre du Bouquet, celle d’un cœur ?
               pourquoy cette jonction, m’allez vous dire ? il faut vous l’apprendre, c’est
-              parce que,</p>
-            <quote>
-              <lg>
-                <l><hi rend="i">C’est trop peu dans ce beau jour,</hi></l>
+              parceque,</p></quote>
+                <quote><lg><l rend="i">C’est trop peu dans ce beau jour,</l><note resp="author" place="margin">L’Air <hi rend="i">C’est trop peu</hi>, page 148.</note>
                 <l><hi rend="i">D’avoir des presens de Flore,</hi></l>
-                <l><hi rend="i">Belle Iris, il faut encore</hi></l>
-                <l><hi rend="i">En recevoir de l’amour.</hi></l>
-              </lg>
+                <l rend="i">Belle Iris, il faut encore</l>
+                <l rend="i">En recevoir de l’amour.</l>
+                </lg>
             </quote>
-          </quote>
         </div>
         <div type="article" xml:id="MG-1703-10-11_163">
           <head>[Madrigal]</head>
@@ -945,11 +943,11 @@
           </quote>
         </div>
         <div type="article" xml:id="MG-1703-10-11_343">
-          <head>Air nouveau</head>
+          <head>[Air nouveau]*</head>
           <bibl><title>Mercure Galant</title>, octobre et novembre 1703 [tome 10], p. 343.</bibl>
           <p>L’air suivant est de Mr de Montailly, vous en avez souvent admiré de sa façon.</p>
           <quote>
-            <label>AIR NOUVEAU.</label>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Pourquoy me fuyez-vous</hi>, page 343.</note>
             <lg>
               <l> <hi rend="i">Pourquoy me fuyez-vous cruelle ?</hi></l>
               <l><hi rend="i">Mes regards auroient-ils causé vôtre courroux,</hi></l>
