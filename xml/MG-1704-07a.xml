@@ -662,9 +662,9 @@
           <bibl><title>Mercure Galant</title>, juillet 1704, première partie [tome 7], p. 98-99.</bibl>
           <p>Je vous envoye encore un Air de la composition de Mr de Metz de la Flêche en Anjou : les paroles sont à la gloire du Roy, ainsi que celles des Airs precedens du même Auteur, dont on a esté tres satisfait.</p>
           <quote>
-            <label>AIR NOUVEAU.</label>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Grand Dieu ; &amp;c.</hi> doit regarder la page 99.</note>
             <lg>
-              <l><hi rend="i">Grand Dieu, dont les faveurs envers nous font extrêmes,</hi></l>
+              <l><hi rend="i">Grand Dieu, dont les faveurs envers nous sont extrêmes,</hi></l>
               <l><hi rend="i">Qui pour nôtre Monarque as voulu faire choix</hi></l>
               <l> <hi rend="i">De Louis, dont les justes loix</hi></l>
               <l> <hi rend="i">Sont l’image des tiennes mêmes.</hi></l>
@@ -953,7 +953,7 @@
           <head>Air nouveau</head>
           <bibl><title>Mercure Galant</title>, juillet 1704, première partie [tome 7], p. 249-250.</bibl>
           <quote>
-            <label>AIR NOUVEAU.</label>
+            <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">J’ay beau prier Philis, &amp;c,</hi> doit regarder la page 249.</note>
             <lg>
               <l><hi rend="i">J’ay beau prier Philis d’adoucir mon martire,</hi></l>
               <l><hi rend="i">L’Insensible remet toûjours au lendemain.</hi></l>
