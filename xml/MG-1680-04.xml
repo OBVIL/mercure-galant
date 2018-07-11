@@ -58,13 +58,17 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, avril [tome 5], 1680, p. 50-51.</bibl>
         <p>Voicy un Printemps de l’illustre M<hi rend="sup">r</hi> de Bassilly, qui en a fait les Paroles, aussi-bien que l’Air. Vous voyez, Madame, qu’il continuë à me donner ses Ouvrages, &amp; que mes Lettres contiennent la suite du Journal des Nouveautez du Chant, que les impressions peu correctes qu’on en faisoit, luy avoient fait interrompre.</p>
-        <label>AIR NOUVEAU.</label>
-        <l><space rend="tab">    </space><space rend="tab">    </space>Trop cruelle saison,</l>
-        <l><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Qu’avec raison</l>
-        <l><space rend="tab">    </space><space rend="tab">    </space>Je crains tes charmes,</l>
-        <l><space rend="tab">    </space>Et qu’ils me vont causer de larmes,</l>
-        <l>Puis que je sçay que ton fatal retour</l>
-        <l>Me va ravir l’Objet de mon amour ! </l>
+        <quote>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Trop cruelle saison</hi>, doit regarder la page 50.</note>
+        <lg>
+          <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Trop cruelle saison,</l>
+        <l rend="i"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Qu’avec raison</l>
+        <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Je crains tes charmes,</l>
+        <l rend="i"><space rend="tab">    </space>Et qu’ils me vont causer de larmes,</l>
+        <l rend="i">Puis que je sçay que ton fatal retour</l>
+        <l rend="i">Me va ravir l’Objet de mon amour ! </l>
+        </lg>
+        </quote>
       </div>
       <div type="article" xml:id="MG-1680-04_051" resp="mercure">
         <head>[L’avarice punie, Histoire]</head>

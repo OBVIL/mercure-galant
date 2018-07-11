@@ -197,13 +197,13 @@
         <bibl><title>Mercure galant</title>, octobre, première partie [tome 10], 1679, p. 98-102.</bibl>
         <p>Apres l’Air à boire que je vous ay envoyé dans l’Extraordinaire du 15. de ce Mois, il faut vous en faire voir un sérieux du mesme Autheur, c’est à dire, d’un des plus habiles Hommes que nous ayons pour la beauté &amp; pour la méthode du Chant. Les Paroles qui suivent luy ont esté envoyées avec une Lettre fort obligeante, par une Personne de la premiere qualité, &amp; d’un mérite aussi élevé que la naissance. C’est par son ordre qu’il les a notées.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous demandez des Vers, &amp; si j’en croy vos yeux</hi>, doit regarder la page 99.</note>
-          <l>Vous demandez des Vers, &amp; si j’en croy vos yeux,</l>
-          <l>Ils demandent, Philis, quelque chose de mieux.</l>
-          <l><seg type="tab">    </seg>J’aurois plus de panchant qu’un autre</l>
-          <l><seg type="tab">    </seg>A me fier à leur langueur ;</l>
-          <l><seg type="tab">    </seg>Mais quand ils demandent un cœur,</l>
-          <l><seg type="tab">    </seg>Ont-ils bien consulté le vostre ?</l>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous demandez des Vers, &amp; si j’en croy vos yeux</hi>, doit regarder la page 99.</note>
+          <lg><l rend="i">Vous demandez des Vers, &amp; si j’en croy vos yeux,</l>
+          <l rend="i">Ils demandent, Philis, quelque chose de mieux.</l>
+          <l rend="i"><seg type="tab">    </seg>J’aurois plus de panchant qu’un autre</l>
+          <l rend="i"><seg type="tab">    </seg>A me fier à leur langueur ;</l>
+          <l rend="i"><seg type="tab">    </seg>Mais quand ils demandent un cœur,</l>
+          <l rend="i"><seg type="tab">    </seg>Ont-ils bien consulté le vostre ?</l></lg>
         </quote>
         <p>Le tour aisé de ces Vers méritoit bien qu’un grand Maistre les fist chanter. Tout ce que vous avez veu de cet Autheur a toûjours esté de vostre goust, &amp; je croy que vous apprendrez avec beaucoup de plaisir qu’il promet de me donner ses Airs tous les Mois. Ce sera un embellissement pour mes Lettres où vous les aurez corrects, au lieu qu’en les surprenant comme on fait, pour les insérer dans les Livres de diférens Autheurs, on les défigure par mille fautes. Cela se peut remarquer mesme dans celuy qu’on a imprimé cette année, intitulé, <hi rend="i">Premier Livre d’Airs sérieux &amp; à boire, de diférens Autheurs</hi>. Ce Livre n’est à proprement parler que son <hi rend="i">Journal des Nouveautez du Chant</hi> de 1678, qui se vendoit chaque Mois en petits Cayers, &amp; qu’on vend présentement relié en deux Volumes chez les Sieurs de Luyne &amp; Blageart, avec ses seconds Couplets en diminution ; le tout gravé au Burin.</p>
       </div>
@@ -613,12 +613,12 @@
         <p>Voicy un second Air nouveau, dont j’ay fait graver les Notes pour vous. Il est du mesme Autheur que le premier, &amp; fait à la priere de la mesme Dame qui en a aussi donné les Paroles.</p>
         <quote>
           <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous avez de l’esprit, vous avez des appas</hi>, doit regarder la page 322.</note>
-          <l>Vous avez de l’esprit, vous avez des appas,</l>
-          <l>Ils font soufrir des maux que vous ne sentez pas,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Et que rien ne soulage.</l>
-          <l><seg type="tab">    </seg>D’aucun espoir on n’ose se flater ;</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Quand vous voudrez tout écouter,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>On vous en dira davantage.</l>
+          <lg><l rend="i">Vous avez de l’esprit, vous avez des appas,</l>
+          <l rend="i">Ils font soufrir des maux que vous ne sentez pas,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Et que rien ne soulage.</l>
+          <l rend="i"><seg type="tab">    </seg>D’aucun espoir on n’ose se flater ;</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Quand vous voudrez tout écouter,</l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>On vous en dira davantage.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-10a_348" resp="mercure">
