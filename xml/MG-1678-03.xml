@@ -206,11 +206,11 @@
         <p>Si vous acceptez le vostre, songez, je vous prie, que le Berger voudroit bien que sa Musette ne se fist point employer à des Chansons tristes ny plaintives, mais seulement à celles où l’on marque sa reconnoissance à l’Amour.</p></quote>
       </div>
       <div type="article" xml:id="MG-1678-03_026" resp="mercure">
-        <head>[Air nouveau dont les Paroles sont de Madame Deshoulières]</head>
+        <head>[Air nouveau, dont les Paroles sont de Madame des Houlieres]</head>
         <bibl><title>Mercure galant</title>, mars [tome 3], 1678, p. 26-27.</bibl>
         <p>Quelque agreable Chanson que la Musete fasse retentir, elle aura peine à égaler ces belles Paroles de l’incomparable Madame Deshoulieres. Elles ont esté mises en Air par un Homme de qualité de ses Amis. Vous m’en ferez sçavoir vostre sentiment quand vous en aurez appris la Note.</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.</label>
+          <label rend="center">AIR NOUVEAU.</label>
           <l>Le cœur tout déchiré par un secret martyre,</l>
           <l><space/>Je ne demande point, Amour,</l>
           <l><space/>Que sous ton tyrannique empire</l>
@@ -424,11 +424,11 @@
         <l>D’estre avec tant d’éclat couronné par l’Amour.</l></quote>
       </div>
       <div type="article" xml:id="MG-1678-03_102" resp="mercure">
-        <head>[Air nouveau]</head>
+        <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mars [tome 3], 1678, p. 102-105.</bibl>
         <p>Le plaisir d’aimer est grand, mais il a ses peines. Les Vers qui suivent en sont une marque. Ils ont esté envoyez à Madame la Présidente de la Haye-du-Puis par une Personne qui luy est obligée, &amp; qui sçachant qu’elle se connoist parfaitement en Musique &amp; en Poësie, a crû luy faire plaisir de les faire mettre en Air. Je ne doute point que vous ne le trouviez aussi agreable qu’il est nouveau, &amp; vous laisse juger de l’Auhteur des Vers par son Ouvrage. La Dame que je viens de vous nommer est d’une des meilleures Maisons de Normandie, &amp; proche Parente de Monsieur le Mareschal de Belle-fond. Elle a l’esprit tres-délicat &amp; tres-éclairé, &amp; on peut dire d’elle que son rang l’éleve moins que ses belles qualitez. M<hi rend="sup">r</hi> de la Haye-du-Puis, son Mary, est Président au Parlement de Roüen. Sa probité &amp; son exactitude pour les fonctions de sa Charge, luy ont acquis l’estime de tous ceux qui le connoissent. Voicy les Paroles dont vous allez trouver les Notes gravées. [Air imprimé pour deux voix, inséré entre les pages 54 et 55.]</p>
         <quote rend="border">
-          <label rend="center">Air nouveau.</label>
+          <label rend="center">AIR NOUVEAU.</label>
           <l>Je ne reconnois plus ma charmante Lysette.</l>
           <l>L’Ingrate l’autre jour quita nostre Troupeau</l>
           <l><space/>Pour aller au bord d’un Ruisseau</l>
@@ -604,24 +604,28 @@
       <div type="article" xml:id="MG-1678-03_256" resp="mercure">
         <head>[Paroles Italiennes de M. Ménage, notées à Rome]</head>
         <bibl><title>Mercure galant</title>, mars [tome 3], 1678, p. 256-258.</bibl>
-        <p>Apres plusieurs Airs François, je vous en evoye un Italien. Mr Ménage connu par toute la terre à cause de sa profonde érudition, a fait les Paroles. Un de ses Amis les a envoyées à Rome, &amp; elles y ont paru si belles à un des plus fameux Maistres de Musique d’Italie, qu’il a pris plaisir à les noter. Lisez &amp; chantez. [Air imprimé pour une voix et BC, inséré entre les pages 132 et 133.] [Cet air est traduit en français dans le Mercure du mois de mai, p. 110.]</p>
-        <label rend="center">Air italien.</label>
-        <l>Questa bella d’amor nemica é mia</l>
-        <l>La mia tenera Iole.</l>
-        <l>Alle prime parole</l>
-        <l>Che d’amor muovo, torce fiera il guardo,</l>
-        <l>E lieve piu che Pardo,</l>
-        <l>Nè udir i miei mesti lamenti,</l>
-        <l>Ne veder vuole i gravi miei tormenti.</l>
-        <l>Dura piu che le selve,</l>
-        <l>Cruda piu che le belve,</l>
-        <l>Del tuo fido pastore</l>
-        <l>S’udir non vuoi l’amore,</l>
-        <l>Ahi dolorosa sorte,</l>
-        <l>Vedi, vedi la morte.</l>
+        <p>Apres plusieurs Airs François, je vous en evoye un Italien. Mr Ménage connu par toute la terre à cause de sa profonde érudition, a fait les Paroles. Un de ses Amis les a envoyées à Rome, &amp; elles y ont paru si belles à un des plus fameux Maistres de Musique d’Italie, qu’il a pris plaisir à les noter. Lisez &amp; chantez.</p>
+        <quote>
+        <label rend="center">AIR ITALIEN.<note resp="editor">Les paroles de cet air sont traduites dans le Mercure du mois de mai.</note></label>
+        <lg>
+          <l rend="i">Questa bella d’amor nemica é mia</l>
+        <l rend="i">La mia tenera Iole.</l>
+        <l rend="i">Alle prime parole</l>
+        <l rend="i">Che d’amor muovo, torce fiera il guardo,</l>
+        <l rend="i">E lieve piu che Pardo,</l>
+        <l rend="i">Nè udir i miei mesti lamenti,</l>
+        <l rend="i">Ne veder vuole i gravi miei tormenti.</l>
+        <l rend="i">Dura piu che le selve,</l>
+        <l rend="i">Cruda piu che le belve,</l>
+        <l rend="i">Del tuo fido pastore</l>
+        <l rend="i">S’udir non vuoi l’amore,</l>
+        <l rend="i">Ahi dolorosa sorte,</l>
+        <l rend="i">Vedi, vedi la morte.</l>
+        </lg>
+        </quote>
      </div>
       <div type="article" xml:id="MG-1678-03_258" resp="mercure">
-        <head>[Livre nouveau] *</head>
+        <head>[Livre nouveau]*</head>
         <bibl><title>Mercure galant</title>, mars [tome 3], 1678, p. 258-261.</bibl>
         <p>Si le sens de ces Paroles échape à l’aimable Blonde que vous avez aupres de vous, pour peu qu’elle veüille s’appliquer plus régulierement qu’elle n’a fait jusqu’icy à l’étude de cette Langue, elle en surmontera toutes les difficultez en consultant un Livre qu’on a imprimé depuis quelques mois sous le titre du <hi rend="i">Maistre Italien</hi>. La Méthode en est aisée par la maniere dont M<hi rend="sup">r</hi> Veneroni qui en est l’Autheur, l’a réduite en Regles. S’il y en avoit une aussi prompte &amp; aussi facile pour se rendre parfait au Lut, je conseilleroit fort à cette belle Personne de quiter tout pour en prendre des Leçons. Je fus charmé de ce que j’entendis il y a trois jours sur cet admirable Instrument. M<hi rend="sup">r</hi> Dessansonnieres le touchoit, &amp; il le touche avec tant de force &amp; de délicatesse tout-ensemble, qu’on peut dire qu’il vaut luy seul un Concert. C’est un plaisir qu’il donne toutes les Semaines à ses Amis, &amp; à ceux qu’ils veulent mener chez luy. Le Jeudy est le jour qu’il a choisy pour cela. Apres avoir esté écouté avec applaudissement dans toutes les Cours de l’Europe, il s’est enfin arresté à Paris, où les Ecoliers qu’il perfectionne font admirer sa maniere d’executer tout ce qui a jamais esté fait de plus achevé sur le Lut. Pour en estre persuadé, il ne faut qu’entendre Mademoiselle Ange, qui depuis deux mois qu’elle a pris Leçon de luy, a tellement augmenté, soit pour la methode, soit pour la finesse du Jeu, qu’il semble qu’elle ne se reconnoisse plus elle-mesme. M<hi rend="sup">r</hi> Dessansonnieres s’attache particulierement à rendre l’ame à tous les Ouvrages de feu M<hi rend="sup">r</hi> Gautier de Lyon, par l’air &amp; le mouvement qui leur est particulier, &amp; il est aisé de connoistre qu’il s’étudie à les imiter dans les Pieces qu’il compose.</p>
       </div>
@@ -967,20 +971,20 @@
         <p>Vous trouvez <hi rend="i">la Duchesse de Cleves</hi> dans mon Paquet. Vous sçavez depuis quel temps &amp; avec quelle favorable préoccupation tout le monde l’attendoit. Elle a remply cette attente, &amp; je suis certain que je ne vous pouvois procurer une lecture plus agreable. On continuë à remettre les vieilles Pieces de l’incomparable M<hi rend="sup">r</hi> de Corneille l’aîné, &amp; son <hi rend="i">Polyeucte</hi> a esté representé tous ces derniers jours avec une foule &amp; des acclamations extraordinaires. En verité on peut dire qu’il y a de grands traits de Maistre dans tout ce qu’il fait, &amp; que jamais Homme n’a si bien manié toute sorte de Sujets. Son raisonnement est toûjours juste, il ne s’écarte point, il dit précisément ce qu’il faut dire, &amp; ne vous laisse jamais rien à souhaiter. J’apprens que <hi rend="i">Psyché</hi>  esté mise en Opéra, &amp; que M<hi rend="sup">r</hi> Lully nous le doit donner incontinent apres Pasques, avec tous ces beaux Airs qui entroient dans les divertissement de cette Piece quand la Troupe de feu Moliere la representa devant le Roy.</p>
       </div>
       <div type="article" xml:id="MG-1678-03_381" resp="mercure">
-        <head>[Air à boire de M. Sicard]</head>
+        <head>[Air à Boire de M. Sicard]</head>
         <bibl><title>Mercure galant</title>, mars [tome 3], 1678, p. 381-383.</bibl>
-        <p>On m’apporte un Air nouveau à boire, que je ne puis me résoudre à vous garder jusqu’à l’autre Mois. En voicy les Paroles. [Air imprimé à deux voix, inséré entre les pages 198 et 199.]</p>
-        <quote rend="border">
-          <label rend="center">Air à boire.</label>
-          <l>Du Vin, du Vin, du Vin. Ah, le maudit Laquais !</l>
-          <l><space/><space/>Voila trois fois que j’en demande.</l>
-          <l>Que font-ils ? où sont-ils ? je ne les voy jamais.</l>
-          <l><space/><space/>Quoy, faut-il encor que j’attende ?</l>
-          <l><space/><space/>Vaine parade, vain Bufet,</l>
-          <l><space/><space/>Que vostre mode est détestable !</l>
-          <l><space/>Morbleu, morbleu, vive le Cabaret,</l>
-          <l><space/><space/>On y met le Vin sur la Table,</l>
-          <l><space/><space/>Et chacun boit quand il luy plaist.</l>
+        <p>On m’apporte un Air nouveau à boire, que je ne puis me résoudre à vous garder jusqu’à l’autre Mois. En voicy les Paroles.</p>
+        <quote>
+          <label>AIR A BOIRE.</label>
+          <lg><l rend="i">Du Vin, du Vin, du Vin. Ah, le maudit Laquais !</l>
+          <l rend="i"><space/><space/>Voila trois fois que j’en demande.</l>
+          <l rend="i">Que font-ils ? où sont-ils ? je ne les voy jamais.</l>
+          <l rend="i"><space/><space/>Quoy, faut-il encor que j’attende ?</l>
+          <l rend="i"><space/><space/>Vaine parade, vain Bufet,</l>
+          <l rend="i"><space/><space/>Que vostre mode est détestable !</l>
+          <l rend="i"><space/>Morbleu, morbleu, vive le Cabaret,</l>
+          <l rend="i"><space/><space/>On y met le Vin sur la Table,</l>
+          <l rend="i"><space/><space/>Et chacun boit quand il luy plaist.</l></lg>
         </quote>
         <p>Cet Air dont vous voyez icy la Note, est du fameux M<hi rend="sup">r</hi> Sicard. Il est à sa maniere, qui est toûjours pleine de feu, &amp; qui ne manque jamais d’avoir quelque chose d’extraordinaire.</p>
       </div>

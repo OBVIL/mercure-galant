@@ -388,14 +388,14 @@
         <p>Les uns soufrent par la mort, les autres par l’infidelité. Cependant toutes les peines qui suivent l’amour, n’empeschent point qu’on ne conseille toûjours d’aimer. Voyez-le par les Vers qui suivent. M<hi rend="sup">r</hi> Lesgu les a mis en Air.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence [par], <hi rend="i">Si vous voulez charmer</hi>, doit regarder la page 71.</note>
-          <l>Si vous voulez charmer,</l>
-          <l>Ne soyez plus cruelle :</l>
-          <l>Une Beauté rebelle</l>
-          <l>Ne peut se faire aimer.</l>
-          <l>Pour donner de l’amour,</l>
-          <l>Iris, il en faut prendre ;</l>
-          <l>Qui n’a point le cœur tendre,</l>
-          <l>N’a jamais un beau jour.</l>
+          <lg><l rend="i">Si vous voulez charmer,</l>
+          <l rend="i">Ne soyez plus cruelle :</l>
+          <l rend="i">Une Beauté rebelle</l>
+          <l rend="i">Ne peut se faire aimer.</l>
+          <l rend="i">Pour donner de l’amour,</l>
+          <l rend="i">Iris, il en faut prendre ;</l>
+          <l rend="i">Qui n’a point le cœur tendre,</l>
+          <l rend="i">N’a jamais un beau jour.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-06_107" resp="mercure">
@@ -699,15 +699,15 @@
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 170-171.</bibl>
         <p>Heureux qui pourroit se servir de ces leçons ! On se mettroit à couvert de bien des chagrins, &amp; particulierement de ceux que cause le changement qui est presque toûjours inévitable en amour. Nous n’avons rien à reprocher là-dessus à vostre Sexe, si on s’en rapporte à ces Vers que j’ay reçeus de Puyperlan en Xaintonge. Ils m’ont esté envoyez avec la Note, au nom d’une tres-spirituelle Communauté. C’est le moindre éloge que je luy puisse donner sur la Lettre dont ils estoient accompagnez.</p>
         <quote><label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Quand sur nos charmans rivages</hi>, doit regarder la page 171.</note>
-          <l>Quand sur nos charmans rivages</l>
-          <l>Tirsis faisoit mille tours,</l>
-          <l>Et chantoit que les amours</l>
-          <l>Des Bergeres sont volages ;</l>
-          <l>Philis sous nos Orangers</l>
-          <l>Répondoit, si les Bergeres</l>
-          <l>En amour sont si legeres,</l>
-          <l>Tirsis, croy moy, les Bergers</l>
-          <l>Sont encore plus legers.</l></quote>
+          <lg><l rend="i">Quand sur nos charmans rivages</l>
+          <l rend="i">Tirsis faisoit mille tours,</l>
+          <l rend="i">Et chantoit que les amours</l>
+          <l rend="i">Des Bergeres sont volages ;</l>
+          <l rend="i">Philis sous nos Orangers</l>
+          <l rend="i">Répondoit, si les Bergeres</l>
+          <l rend="i">En amour sont si legeres,</l>
+          <l rend="i">Tirsis, croy moy, les Bergers</l>
+          <l rend="i">Sont encore plus legers.</l></quote></lg>
       </div>
       <div type="article" xml:id="MG-1678-06_171" resp="mercure">
         <head>[Le Mary Patissier, Histoire]</head>
@@ -813,22 +813,20 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-06_207" resp="mercure">
-        <head>[Air nouveau]</head>
+        <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 207-209.</bibl>
         <p>Il faut achever de vous faire connoistre celuy de Mr Merville par ces Paroles que je vous envoye notées pour exercer vostre belle voix. Elles ont esté mises en Air par Mr l’Abbé Maistre de Musique de S. Jacques à Dieppe. C‘est un tres-habile Homme, &amp; qui s’est acquis assez de réputation pour faire dire qu’il y a peu de Musiciens qui soient de sa force dans la Province.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Pour une jeune Merveille</hi>, doit regarder la page 208.</note>
-          <l>Pour une jeune Merveille</l>
-          <l>Je soûpire nuit &amp; jour,</l>
-          <l>Et quelquefois la Bouteille</l>
-          <l>Me fait oublier l’Amour.</l>
-          <l>J’accorde la goinfrerie</l>
-          <l>Avec les tendres momens,</l>
-          <l>Et suis de la Confrairie</l>
-          <l>Des Beuveurs &amp; des Amans.</l>
+          <lg><l rend="i">Pour une jeune Merveille</l>
+          <l rend="i">Je soûpire nuit &amp; jour,</l>
+          <l rend="i">Et quelquefois la Bouteille</l>
+          <l rend="i">Me fait oublier l’Amour.</l>
+          <l rend="i">J’accorde la goinfrerie</l>
+          <l rend="i">Avec les tendres momens,</l>
+          <l rend="i">Et suis de la Confrairie</l>
+          <l rend="i">Des Beuveurs &amp; des Amans.</l></lg>
         </quote>
-        <p></p>
-        <p></p>
       </div>
       <div type="article" xml:id="MG-1678-06_209" resp="mercure">
         <head>[Réjouissance à Vichy.] *</head>
@@ -941,14 +939,14 @@
         <p>Les uns songent à l’amour, les autres à boire. Cette Chanson qui s’adresse à nos Amis les Hollandois, a esté faite pour les derniers. L’Air est de M<hi rend="sup">r</hi> Rigaut de Tours.</p>
         <quote>
           <label rend="center">AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Puis que le grand Loüis en bornant ses Exploits</hi>, doit regarder la page 316.</note>
-          <lg><l>Puis que le grand Loüis en bornant ses Exploits,</l>
-          <l><space/>Vous a permis de quiter la rapiere,</l>
-          <l><space/><space/>Venez, pauvres Beuveurs de Biere,</l>
-          <l><space/><space/>Boire nos Vins comme autrefois.</l>
-          <l>Sortez de vos Marais, venez rougir vos trognes ;</l>
-          <l><space/><space/>Nous n’avons plus d’autres soucis</l>
-          <l><space/><space/>Que de trouver assez d’Yvrognes</l>
-          <l><space/>Pour vuider promptement nos Muids.</l></lg>
+          <lg><l rend="i">Puis que le grand Loüis en bornant ses Exploits,</l>
+          <l rend="i"><space/>Vous a permis de quiter la rapiere,</l>
+          <l rend="i"><space/><space/>Venez, pauvres Beuveurs de Biere,</l>
+          <l rend="i"><space/><space/>Boire nos Vins comme autrefois.</l>
+          <l rend="i">Sortez de vos Marais, venez rougir vos trognes ;</l>
+          <l rend="i"><space/><space/>Nous n’avons plus d’autres soucis</l>
+          <l rend="i"><space/><space/>Que de trouver assez d’Yvrognes</l>
+          <l rend="i"><space/>Pour vuider promptement nos Muids.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-06_317" resp="mercure">

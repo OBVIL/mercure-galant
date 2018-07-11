@@ -144,17 +144,19 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 42-43.</bibl>
         <p>Il faut vous faire part des souhaits qui ont esté faits le retour du Printemps où nous commençons d’entrer. Les Paroles sont de M<hi rend="sup">r</hi> Noël, Homme d’un fort grand merite, &amp; que je vous ay déjà dit que la Ville de Chartres avoit choisy pour son Avocat. Elles ont esté mises en Air par M<hi rend="sup">r</hi> le Redde.</p>
-        <quote rend="border">
+        <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah, que l’Hyver est ennuyeux</hi>, doit regarder la page 42.</note>
-          <l><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
-          <l><seg type="tab">    </seg>Durera-t-il longtemps encore ?</l>
-          <l><seg type="tab">    </seg>Hastez-vous, ô divine Flore,</l>
-          <l><seg type="tab">    </seg>De venir regner en ces lieux.</l>
-          <l>Ramenez avec nous la Beauté que j’adore,</l>
-          <l><seg type="tab">    </seg>Ramenez nos Ris &amp; nos Jeux.</l>
-          <l><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
-          <l>Les Fleurs dans leurs boutons se cachent à nos yeux,</l>
-          <l>Mais à vostre retour nous verrons tout éclore.</l>
+          <lg>
+            <l rend="i"><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
+          <l rend="i"><seg type="tab">    </seg>Durera-t-il longtemps encore ?</l>
+          <l rend="i"><seg type="tab">    </seg>Hastez-vous, ô divine Flore,</l>
+          <l rend="i"><seg type="tab">    </seg>De venir regner en ces lieux.</l>
+          <l rend="i">Ramenez avec nous la Beauté que j’adore,</l>
+          <l rend="i"><seg type="tab">    </seg>Ramenez nos Ris &amp; nos Jeux.</l>
+          <l rend="i"><seg type="tab">    </seg>Ah, que l’Hyver est ennuyeux !</l>
+          <l rend="i">Les Fleurs dans leurs boutons se cachent à nos yeux,</l>
+          <l rend="i">Mais à vostre retour nous verrons tout éclore.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-03_043" resp="mercure">
@@ -593,12 +595,12 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-03_195" resp="mercure">
-        <head>Air Italien</head>
+        <head>Air italien</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 195-197.</bibl>
         <p>Les Amans jurent toûjours d’aimer éternellement. Voyez-le dans ces Vers Italiens, comme vous venez de le voir dans cet Epitaphe. Ils m’ont esté envoyez de Rome avec les Notes que j’ay fait graver. Puis que la Graveure vous plaist mieux en Musique que l’Impression, j’auray soin à l’avenir de vous satisfaire. Les Connoisseurs estiment fort celle qui a esté faite sur ces Paroles. Vous en jugerez.</p>
-        <quote rend="border">
+        <quote>
           <label>AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 196.</note>
-          <l rend="i">E'cosi dolce la pena ch'io sento</l>
+          <lg><l rend="i">E'cosi dolce la pena ch'io sento</l>
             <l rend="i"><seg type="tab">    </seg>Che nel tormento</l>
             <l rend="i"><seg type="tab">    </seg>Voglio gioire,</l>
             <l rend="i"><seg type="tab">    </seg>Voglio morire ;</l>
@@ -609,7 +611,7 @@
             <l rend="i">Voglio servire senza mercé</l>
             <l rend="i"><seg type="tab">    </seg>Ardasi, auvampasi,</l>
             <l rend="i"><seg type="tab">    </seg>Struggasi, abbrugia si,</l>
-            <l rend="i">Voglio adorare divina beltà.</l>
+            <l rend="i">Voglio adorare divina beltà.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-03_202" resp="mercure">

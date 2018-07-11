@@ -474,7 +474,7 @@
         <p>Ainsi il vaut mieux que je vous en fasse voir de François, que M<hi rend="sup">r</hi> Merieux a mis depuis peu en Air.</p>
         <quote rend="border">
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si mes rigueurs te font mourir</hi>, doit regarder la page 48.</note>
-          <l rend="i"><seg type="tab">    </seg>Si mes rigueurs te font mourir,</l>
+          <lg><l rend="i"><seg type="tab">    </seg>Si mes rigueurs te font mourir,</l>
           <l rend="i"><seg type="tab">    </seg>Helas ! Tircis, que ton absence</l>
           <l rend="i"><seg type="tab">    </seg>Tire une cruelle vengeance</l>
           <l rend="i"><seg type="tab">    </seg>Des maux que je te fais soufrir !</l>
@@ -483,7 +483,7 @@
           <l rend="i"><seg type="tab">    </seg>Pour me résoudre à te chasser ;</l>
           <l rend="i">Mais depuis ton depart, nuit &amp; jour je soûpire.</l>
           <l rend="i">Si tu ne pouvois pas m’aimer sans m’offencer,</l>
-          <l rend="i">Que ne m’offençois-tu du moins sans me le dire !</l>
+          <l rend="i">Que ne m’offençois-tu du moins sans me le dire !</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-02_048" resp="mercure">
@@ -671,40 +671,44 @@
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 152-154.</bibl>
         <p>La Paix si solemnellement publiée depuis quelques mois, n’a pas éteint la guerre par tout, s’il en faut croire les reproches que M<hi rend="sup">r</hi> Vuaubert de Noyon, fait par ces Vers à une Belle insensible.</p>
         <quote rend="border">
-          <label>A Philis.</label>
-          <label>Sur la Paix.</label>
-          <l>Pourquoy vous opposer au repos de la Terre ?</l>
-          <l><seg type="tab">    </seg>Apres que <hi rend="sc">Louis</hi> a soûmis</l>
-          <l><seg type="tab">    </seg>Les plus fiers de ses Ennemis,</l>
-          <l>Osez-vous bien encor entretenir la Guerre ?</l>
-          <l/>
-          <l>Nos Voisins en tous lieux mettant les armes bas,</l>
-          <l><seg type="tab">    </seg>Ont eu recours à sa clemence ;</l>
-          <l>Vos yeux seuls plus hardis, dans le sein de la France,</l>
-          <l><seg type="tab">    </seg>Troublent la paix de ses Etats.</l>
-          <l/>
-          <l><seg type="tab">    </seg>Que nous peut servir que l’Empire</l>
-          <l><seg type="tab">    </seg>Se montre prest à se desarmer ?</l>
-          <l>Si vostre cœur, Philis, ne se laisse enflâmer,</l>
-          <l>Les nostres accablez de leur cruel martyre,</l>
-          <l>Toûjours pleins de leurs maux, goûteront jamais</l>
-          <l>De repos assuré, ny de solide Paix.</l>
+          <label>A PHILIS, <lb/>SUR LA PAIX.</label>
+          <lg>
+            <l rend="i">Pourquoy vous opposer au repos de la Terre ?</l>
+          <l rend="i"><seg type="tab">    </seg>Apres que <hi rend="sc">Louis</hi> a soûmis</l>
+          <l rend="i"><seg type="tab">    </seg>Les plus fiers de ses Ennemis,</l>
+          <l rend="i">Osez-vous bien encor entretenir la Guerre ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Nos Voisins en tous lieux mettant les armes bas,</l>
+          <l rend="i"><seg type="tab">    </seg>Ont eu recours à sa clemence ;</l>
+          <l rend="i">Vos yeux seuls plus hardis, dans le sein de la France,</l>
+          <l rend="i"><seg type="tab">    </seg>Troublent la paix de ses Etats.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i"><seg type="tab">    </seg>Que nous peut servir que l’Empire</l>
+          <l rend="i"><seg type="tab">    </seg>Se montre prest à se desarmer ?</l>
+          <l rend="i">Si vostre cœur, Philis, ne se laisse enflâmer,</l>
+          <l rend="i">Les nostres accablez de leur cruel martyre,</l>
+          <l rend="i">Toûjours pleins de leurs maux, goûteront jamais</l>
+          <l rend="i">De repos assuré, ny de solide Paix.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-02_154" resp="mercure">
-        <head>Recit de basse</head>
+        <head>Récit de basse</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 154-155.</bibl>
         <p>Cet Amant plaintif seroit bien tost delivré de ses chagrins, s’il estoit d’humeur à profiter du conseil que l’Autheur de ces autres Vers luy donne. Ils ont esté mis en Air par M<hi rend="sup">r</hi> Labbé, Maistre de Musique de S. Jacques de Dieppe.</p>
-        <quote rend="border">
+        <quote>
           <label>RECIT DE BASSE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Amans quand finiront vos peines</hi>, doit regarder la page 155.</note>
-          <l rend="i"><seg type="tab">    </seg>Amans, quand finiront vos peines ?</l>
+          <lg><l rend="i"><seg type="tab">    </seg>Amans, quand finiront vos peines ?</l>
           <l rend="i">Que vous m’importunez par vos tristes accens !</l>
           <l rend="i">Vos charmantes Philis sont toujours inhumaines,</l>
           <l rend="i"><seg type="tab">    </seg>Et vous n’estes jamais contens.</l>
           <l rend="i">Renoncez à l’Amour en faveur de la Treille,</l>
           <l rend="i">Son jus est plein d’appas, ses plaisirs sont parfaits.</l>
           <l rend="i"><seg type="tab">    </seg>Un Buveur ne se plaint jamais,</l>
-          <l rend="i"><seg type="tab">    </seg>Quand il est pres de sa Bouteille.</l>
+          <l rend="i"><seg type="tab">    </seg>Quand il est pres de sa Bouteille.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-02_155" resp="mercure">
@@ -913,17 +917,17 @@
         <p>Toute l’Assemblée fut assez contente de cette Piece. L’invention en parut fort agreable. On dit qu’à la bien examiner, on y trouveroit tout ce qui se passe dans la Guerre, qu’elle estoit morale &amp; utile, &amp; qu’on ne s’étonnoit plus si certaines Gens s’estoient fait un point-d’honneur d’aller à l’Armée.</p>
       </div>
       <div type="article" xml:id="MG-1679-02_253" resp="mercure">
-        <head>[Air à une voix de Dupré]*</head>
+        <head>[Air de M. du Pré]*</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 253.</bibl>
         <p>La liberté est un bien si doux, qu’on ne se lasse jamais d’en chanter les avantages. L'Air qui suit vous le fera voir. Il est de M<hi rend="sup">r</hi> du Pré.</p>
-        <quote rend="border">
-          <l rend="i">Ah, qu’il est doux de vivre en liberté !</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah qu’il est doux de vivre en liberté</hi>, doit regarder la page 253.</note>
+        <quote>
+          <lg><l rend="i">Ah, qu’il est doux de vivre en liberté !</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah qu’il est doux de vivre en liberté</hi>, doit regarder la page 253.</note>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Quand on s’engage,</l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>On est peu sage,</l>
           <l rend="i">Et le repos n’est plus en seûreté.</l>
           <l rend="i"><seg type="tab">    </seg>Vit-on jamais sans aimer sans peine ?</l>
           <l rend="i"><seg type="tab">    </seg>Et jamais aima-t on sa chaîne ?</l>
-          <l rend="i">Ah, qu’il est doux de vivre en liberté !</l>
+          <l rend="i">Ah, qu’il est doux de vivre en liberté !</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-02_267" resp="mercure">
@@ -967,19 +971,19 @@
         <p>On donne la Comédie en visite, &amp; on n’y sauroit donner l’Opera. Les autres Explications ont esté sur <hi rend="i">le Bal, le Jeu de Cartes, la Montre sonnante, un Temple, &amp; un Navire.</hi></p>
       </div>
       <div type="article" xml:id="MG-1679-02_357" resp="mercure">
-        <head>Air par algebre</head>
+        <head>Air par algèbre</head>
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 357-358.</bibl>
         <p>J'adjoûte icy un quatriéme Air, fait d’une maniere qui vous surprendra. Il est d’un tres-habile Homme qui ne sçait point la Musique. Il compose par Algebre, ou progression harmonique, &amp; sçachant les Paroles d’un Opéra, il viendroit aisément à bout de le copier entier dans une demy-feüille de papier avec toutes ses parties.</p>
-        <quote rend="border">
+        <quote>
           <label>AIR PAR ALGEBRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Une langueur extréme occupe tous mes sens</hi>, doit regarder la page 358.</note>
-          <l rend="i">Une langueur extréme</l>
+          <lg><l rend="i">Une langueur extréme</l>
           <l rend="i">Occupe tous mes sens.</l>
           <l rend="i">Helas ! quand on aime,</l>
           <l rend="i">Qu'on souffre de tourmens !</l>
           <l rend="i">Il seroit impossible</l>
           <l rend="i">D'éviter tous leurs coups.</l>
           <l rend="i">Mon cœur est trop sensible,</l>
-          <l rend="i">Mais ce n’est que pour vous.</l>
+          <l rend="i">Mais ce n’est que pour vous.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1679-02_360" resp="mercure">
