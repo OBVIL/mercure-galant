@@ -427,7 +427,7 @@
 <bibl><title>Mercure Galant</title>, mars 1707 [tome 3], p. 111-113.</bibl>
 <p>Je vous envoye un Air nouveau de Mr Metz de la Fléche en Anjou, dont les paroles vous feront connoistre que les François sont toûjours animez d’un veritable zele ; &amp; quoyqu’ils ayent continué d’en donner des marques dans toutes les réjoüissances qui se sont faites pour la naissance de Monseigneur le Duc de Bretagne, ils ne laissent pas d’en donner tous les jours de nouvelles, selon les occasions qui s’en presentent.</p>
 <quote>
-<label>AIR NOUVEAU.</label>
+  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Ecoute-nous Seigneur</hi>, doit regarder la p. 112.</note>
 <lg>
 <l><hi rend="i">Ecoute-nous Seigneur, répons à nostre zele</hi></l>
 <l><hi rend="i">En faveur de Loüis, ton serviteur fidelle.</hi></l>
@@ -461,9 +461,9 @@
 <div type="article" xml:id="MG-1707-03_330">
 <head>Air nouveau</head>
 <bibl><title>Mercure Galant</title>, mars 1707 [tome 3], p. 330-331.</bibl>
-<p>Si ces Mrs aimoient autant la Musique qu’ils aiment le métier des armes, ils chanteroient l’Air suivant avec plaisir en reconnoissance des bien-faits qu’ils viennent de recevoir de Sa Majesté. Il est de Mr Metz de la Fleche en Anjou.</p>
+  <p>Si ces Mrs<note resp="editor">Monsieur le Marquis de Bouzolles, Messieurs de Kercado, de Sigogne et de Valouze que le roi vient de gratifier. Voir p. 329-330.</note> aimoient autant la Musique qu’ils aiment le métier des armes, ils chanteroient l’Air suivant avec plaisir en reconnoissance des bien-faits qu’ils viennent de recevoir de Sa Majesté. Il est de Mr Metz de la Fleche en Anjou.</p>
 <quote>
-<label>AIR NOUVEAU.</label>
+  <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Monarque Souverain</hi>, doit regarder la page 330.</note>
 <lg>
 <l><hi rend="i">Monarque Souverain dont nous suivons les Loix</hi></l>
 <l><hi rend="i">Soutiens le Grand Loüis le plus parfait des Rois,</hi></l>
