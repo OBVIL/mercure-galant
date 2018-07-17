@@ -73,7 +73,7 @@
       <div type="article" xml:id="MG-1678-09e_000b" resp="mercure">
         <head>Avis pour toûjours</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, non paginé.</bibl>
-        <label rend="center">Avis pour toûjours.</label>
+        <label rend="center"><hi rend="i">Avis pour toûjours.</hi></label>
         <p>ON prie ceux qui envoyeront des Memoires où il y aura des Noms propres, d’écrires ces Noms en caracteres tres-bien formez &amp; qui imitent l’Impression, s’il se peut, afin qu’on ne soit plus sujet à s’y tromper.</p>
         <p>On prie aussi qu’on mette sur des papiers diférens toutes les Pieces qu’on envoyera.</p>
         <p>On reçoit tout ce qu’on envoye, &amp; l’on fait plaisir d’envoyer.</p>
@@ -90,208 +90,249 @@
         <p>On prie qu’on affranchisse les Ports de Lettres, &amp; qu’on les adresse toûjours chez ledit Sieur Blageart, Imprimeur-Libraire, Ruë S. Jacques, à l’entrée de la Ruë du Plastre.</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_00" resp="mercure">
-        <head>[Avant-Propos] *</head>
+        <head>[Avant-Propos]*</head>
         <bibl>1<title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 1-2.</bibl>
         <p>Je vous l’ay deja dit, Madame. Mes Lettres Extraordinaires sont un Suplément des Ordinaires, &amp; vous les trouverez composées en partie de ce que je ne puis faire entrer dans celles que vous recevez de moy tous les Mois. Ainsi vous devez regarder comme un Recüeil de ce qui m’est envoyé de tous costez. N'y cherchez point d’ordre pour les matières, la diversité en est trop grande pour y en pouvoir garder aucun. Les Vers seront indiferemment meslez à la Prose, &amp; le nom de l’Autheur que vous verrez au bas de chaque Ouvrage, quand cet Autheur voudra bien estre connu, sera bien souvent tout ce que je vous en diray.</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_003" resp="mercure">
-        <head>[Six Poèmes de M. Laussel, Avocat à Montpellier, sur des articles du Mercure du mois de Juin] *</head>
+        <head>[Six Poèmes de M. Laussel, Avocat à Montpellier, sur des articles du Mercure du mois de Juin]*</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 3-7.</bibl>
-        <p>Je commence par les Sentimens de M. Laussel Avocat à Montpellier, sur quelques endroits de ma Lettre du mois de Juin.</p>
-        <quote rend="border">
-          <label rend="center">L'Heureux Infortuné.</label>
-          <l>Je viens de lire le Mercures ;</l>
-          <l>Mais quel plaisir ne m’a-t-il pas donné ?</l>
-          <l>Trois fois en un matin j’en ay fait la lecture,</l>
-          <l>Et j’ay pleuré trois fois l’Heureux Infortuné.</l>
-          <l>Quand je voyois das cette Histoire</l>
-          <l>Qu'il quitoit l’Amour pour la Gloire,</l>
-          <l>Que n’est il malheureux, disois-je, en ses combats ?</l>
-          <l>Amour, si d’une main favorable &amp; cruelle,</l>
-          <l>Mars qui sçait t’obeïr luy casse encor le bras,</l>
-          <l>Il reviendra guerir aupres de cette Belle,</l>
-          <l>Et la Belle ne mourra pas.</l>
-          <l>Mais helas ! Mes desirs ont tous esté de reste,</l>
-          <l>L'honneur l’a toûjours retenu,</l>
-          <l>Et cet Amant n’est revenu,</l>
-          <l>Apres s’estre défait d’un employ si funeste,</l>
-          <l>Que pour souffrir à son retour</l>
-          <l>Ce qu’ont de plus cruel Mars, la Mort, &amp; l’Amour.</l>
-          <label rend="center">La Jonquille.</label>
-          <l>Quant à l’éloquente Jonquille,</l>
-          <l>Elle charme l’oreille, elle ravit le cœur,</l>
-          <l>Flore n’a jamais eu de plus aimable Fille,</l>
-          <l>Tout cede à cette belle Fleur.</l>
-          <l>Aupres d’elle les Tubéreuses</l>
-          <l>Ne seroit pas les plus heureuses,</l>
-          <l>Si les Zéphirs avoient les mesmes yeux que moy.</l>
-          <l>Ils seroient penétrez d’une douceur si grande,</l>
-          <l>Et pour un seul Zéphir que sa beauté demande,</l>
-          <l>Elle les verroit tous se soûmettre à sa Loy.</l>
-          <label rend="center">Les Faux Cheveux.</label>
-          <l>Lors que la Rousse devient Blonde</l>
-          <l>Aux yeux du Vieillard amoureux,</l>
-          <l>Qu'elle luy prend le cœur avec faux cheveux,</l>
-          <l>S'il en ressent une douleur profonde</l>
-          <l>Il est en droit de se mettre en courroux.</l>
-          <l>Je ne m’étonne point qu’il gronde,</l>
-          <l>Mais je m’étonnerois que cela vinst de vous,</l>
-          <l>Mercure-ingénieux, sans charmer tout le monde.</l>
-          <label rend="center">Le Mary Patissier.</label>
-          <l>Qu'il est plaisant de voir l’amoureux Officier</l>
-          <l>Surpris du Mary Patissier,</l>
-          <l>Apporter le Cadeau, s’aller placer à table !</l>
-          <l>Jamais Gens préparez n’eurent moins d’appétit,</l>
-          <l>Jamais Collation ne fut moins agreable,</l>
-          <l>Et jamais Cuisinier ne sera plus maudit.</l>
-          <l>Il est pourtant vray qu’on peut dire,</l>
-          <l>Bien que tout fust de meschant goust,</l>
-          <l>Que puis qu’il mous a fait tant rire,</l>
-          <l>Jamais pompeux Repas n’eut un meilleur ragoust.</l>
-          <label rend="center">Lettre de M. Le Duc de S. Aignan.</label>
-          <l>Cette Lettre éloquente et belle</l>
-          <l>Nous dit quel est le Duc genéreux &amp; fidelle</l>
-          <l>À qui le Roy répond, &amp; qu’il estime tant ;</l>
-          <l>Mais quand elle eust caché le Nom de <hi rend="sc">Saint Aignan</hi>,</l>
-          <l>On l’auroit sçeu sans elle ;</l>
-          <l>Ce qu’il fait pour <hi rend="sc">Loüis le Grand</hi></l>
-          <l>Est connu par son Nom bien moins que par son zele.</l>
-          <label rend="center">L'Amour Blessé.</label>
-          <l>Mais sans y songer, j’ay passé</l>
-          <l>Ce Idille galant qui peint l’Amour blessé.</l>
-          <l>Qu'il ait déjà paru, ce n’est pas une affaire ;</l>
-          <l>Il est spirituel &amp; beau,</l>
-          <l>Et l’Ouvrage est toûjours nouveau</l>
-          <l>Lors qu’il a le secret de plaire.</l>
+        <quote>
+          <label rend="center">L'HEUREUX INFORTUNÉ.</label>
+          <lg><l rend="i">Je viens de lire le Mercures ;</l>
+          <l rend="i">Mais quel plaisir ne m’a-t-il pas donné ?</l>
+          <l rend="i">Trois fois en un matin j’en ay fait la lecture,</l>
+          <l rend="i">Et j’ay pleuré trois fois l’Heureux Infortuné.</l>
+          <l rend="i">Quand je voyois das cette Histoire</l>
+          <l rend="i">Qu'il quitoit l’Amour pour la Gloire,</l>
+          <l rend="i">Que n’est il malheureux, disois-je, en ses combats ?</l>
+          <l rend="i">Amour, si d’une main favorable &amp; cruelle,</l>
+          <l rend="i">Mars qui sçait t’obeïr luy casse encor le bras,</l>
+          <l rend="i">Il reviendra guerir aupres de cette Belle,</l>
+          <l rend="i">Et la Belle ne mourra pas.</l>
+          <l rend="i">Mais helas ! Mes desirs ont tous esté de reste,</l>
+          <l rend="i">L'honneur l’a toûjours retenu,</l>
+          <l rend="i">Et cet Amant n’est revenu,</l>
+          <l rend="i">Apres s’estre défait d’un employ si funeste,</l>
+          <l rend="i">Que pour souffrir à son retour</l>
+          <l rend="i">Ce qu’ont de plus cruel Mars, la Mort, &amp; l’Amour.</l>
+          </lg>
+        </quote>
+        <quote>
+          <label rend="center">LA JONQUILLE.</label>
+          <lg>
+            <l rend="i">Quant à l’éloquente Jonquille,</l>
+          <l rend="i">Elle charme l’oreille, elle ravit le cœur,</l>
+          <l rend="i">Flore n’a jamais eu de plus aimable Fille,</l>
+          <l rend="i">Tout cede à cette belle Fleur.</l>
+          <l rend="i">Aupres d’elle les Tubéreuses</l>
+          <l rend="i">Ne seroit pas les plus heureuses,</l>
+          <l rend="i">Si les Zéphirs avoient les mesmes yeux que moy.</l>
+          <l rend="i">Ils seroient penétrez d’une douceur si grande,</l>
+          <l rend="i">Et pour un seul Zéphir que sa beauté demande,</l>
+          <l rend="i">Elle les verroit tous se soûmettre à sa Loy.</l>
+          </lg>
+        </quote>
+        <quote>
+          <label rend="center">LEST FAUX CHEVEUX.</label>
+          <lg>
+            <l rend="i">Lors que la Rousse devient Blonde</l>
+          <l rend="i">Aux yeux du Vieillard amoureux,</l>
+          <l rend="i">Qu'elle luy prend le cœur avec faux cheveux,</l>
+          <l rend="i">S'il en ressent une douleur profonde</l>
+          <l rend="i">Il est en droit de se mettre en courroux.</l>
+          <l rend="i">Je ne m’étonne point qu’il gronde,</l>
+          <l rend="i">Mais je m’étonnerois que cela vinst de vous,</l>
+          <l rend="i">Mercure-ingénieux, sans charmer tout le monde.</l>
+          </lg>
+        </quote>
+          <label rend="center">LE MARY PATISSIER.</label>
+          <lg>
+            <l rend="i">Qu'il est plaisant de voir l’amoureux Officier</l>
+          <l rend="i">Surpris du Mary Patissier,</l>
+          <l rend="i">Apporter le Cadeau, s’aller placer à table !</l>
+          <l rend="i">Jamais Gens préparez n’eurent moins d’appétit,</l>
+          <l rend="i">Jamais Collation ne fut moins agreable,</l>
+          <l rend="i">Et jamais Cuisinier ne sera plus maudit.</l>
+          <l rend="i">Il est pourtant vray qu’on peut dire,</l>
+          <l rend="i">Bien que tout fust de meschant goust,</l>
+          <l rend="i">Que puis qu’il mous a fait tant rire,</l>
+          <l rend="i">Jamais pompeux Repas n’eut un meilleur ragoust.</l>
+          </lg>
+        <quote>
+          <label rend="center">LETTRE DE M. LE DUC DE S. AIGNAN.</label>
+          <lg>
+            <l rend="i">Cette Lettre éloquente et belle</l>
+          <l rend="i">Nous dit quel est le Duc genéreux &amp; fidelle</l>
+          <l rend="i">À qui le Roy répond, &amp; qu’il estime tant ;</l>
+          <l rend="i">Mais quand elle eust caché le Nom de <hi rend="sc">Saint Aignan</hi>,</l>
+          <l rend="i">On l’auroit sçeu sans elle ;</l>
+          <l rend="i">Ce qu’il fait pour <hi rend="sc">Loüis le Grand</hi></l>
+          <l rend="i">Est connu par son Nom bien moins que par son zele.</l>
+          </lg>
+          </quote>
+        <quote>
+          <label rend="center">L'AMOUR BLESSÉ.</label>
+          <lg>
+            <l rend="i">Mais sans y songer, j’ay passé</l>
+          <l rend="i">Ce Idille galant qui peint l’Amour blessé.</l>
+          <l rend="i">Qu'il ait déjà paru, ce n’est pas une affaire ;</l>
+          <l rend="i">Il est spirituel &amp; beau,</l>
+          <l rend="i">Et l’Ouvrage est toûjours nouveau</l>
+          <l rend="i">Lors qu’il a le secret de plaire.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_007" resp="mercure">
         <head>[Lettre de M. Gardien Secrétaire du Roy à Madame la Marquise de Fl.] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 7-19.</bibl>
         <p>Ce que j’ay proposé sur l’origine des Mouches, a donné lieu à plusieurs Personnes d’esprit d’imaginer de fort agreables choses. Voicy ce que M. Gardien Secretaire du Roy en écrit à une Dame d’un fort grand merite.</p>
-        <quote rend="border">
-          <label rend="center">À Madame</label>
-          <label rend="center">La Marquise de Fl.</label>
-          <p>VOus le demandez, Madame, une Fable sur l’origine des Mouches dont les Dames se parent, suivant ce qu’a proposé l’Autheur du Mercure Galant dans son dernier Extraordinaire. Je vous obeïs sans raisonner, &amp; voicy ce que mon foible génie m’a dicté sur ce sujet.</p>
-          <lg><l><hi rend="i">Vénus, cette Reyne des Belles</hi>, 
-</l>
-          <l rend="i">Vénus, la Reyne des Amours. </l></lg>
+        <quote>
+          <label rend="center">À MADAME <lb/>LA MARQUISE DE FL.</label>
+          <p>Vous le demandez, Madame, une Fable sur l’origine des Mouches dont les Dames se parent, suivant ce qu’a proposé l’Autheur du Mercure Galant dans son dernier Extraordinaire. Je vous obeïs sans raisonner, &amp; voicy ce que mon foible génie m’a dicté sur ce sujet.</p>
+          <lg>
+            <l><hi rend="i">Vénus, cette Reyne des Belles</hi>,</l>
+          <l rend="i">Vénus, la Reyne des Amours.</l>
+          </lg>
           <p>Ce sont deux petits Vers qui m’échapent. J'ay presque autant de peine à retenir les Vers quand je ne les appelle pas, qu’à les faire venir quand j’en ay besoin. Quoy qu’il en soit, c’est tout ce que vous en aurez icy. Vénus donc estant un jour venuë sur la terre pour quelque affaire d’amour, comme vous pouvez bien penser, l’esprit content, mais un peu lasse &amp; fatiguée, s’endormit insensiblement sur un Lit de gazon à l’ombre des Myrtes, des Palmes, &amp; des Oliviers. Son sommeil fut tres-profond, &amp; les Graces qui la suivent toûjours de pres, la voyant en cet état, ne s’en écarterent qu’autant qu’il le faloit pour ne pas troubler son repos. Cependant afin de ne pas demeurer oisives, elles employerent le temps à discourir de quelques Questions qu’il n’appartient qu’à elles de bien décider. Tandis qu’elles disputoient entr'elles (car il est rare que trois Filles soient d’un mesme sentiment) voicy, Madame, ce qui arriva. Ce lieu qui pour sa fraicheur &amp; pour son ombre, sembloit un azile assuré contre l’importunité des Mouches, qui naturellement se plaisent à la chaleur &amp; à la lumiere, se trouva neantmoins accessible par un endroit, à quelques rayons du Soleil, à la faveur desquels une petite troupe de Mouches de diferentes especes eut le moyen de voler sur le visage de nostre Belle endormie. Elles ne s’y placerent que dans le dessein de l’insulter, soit qu’elles cherchassent à faire plaisir au Soleil qui leur avoit servy de guide, &amp; qui est une Divinité peu amie de Vénus, soit que la chasteté vraye ou controuvée qu’il plaist aux Poëtes &amp; aux Naturalistes de leur attribuer, les rende ennemies de cette Déesse, qui comme vous sçavez s’abandonne un peu licentieusement aux plaisirs. Ces impertinentes Mouches qui depuis ce guet à-pend sont devenuës le symbole de l’impudence, ne demeurerent pas longtemps sur ce beau visage sans y laisser des marques de leur animosité. Chacune se servit pour cela des armes qu’elle avoit reçeuës de la Nature. Les moins malfaisantes luy causerent des rougeurs &amp; des élevûres par des picotemens de leurs petites trompes. Le Cousin insolent &amp; traitre Moucheron s’il en fut jamais, qui par une maniere de chant flate nos oreilles, au moment qu’il tient le poignard prest pour nous blesser, fut sur le point de porter dans cette chair délicate ce subtil venin dont l’ardeur fait de chaque piqueure une petite montagne de feu. Mais une chose dont la seule pensée fait trembler, c’est que déjà une Abeille furieuse avoit choisy un œil de Vénus pour y exercer sa cruauté au travers de sa paupiere fermée, &amp; cette enragée alloit y enfoncer son aiguillon, aux despens de sa propre vie qu’elle s’estimoit heureuse de sacrifier à la gloire d’un attentat de cette importance, quand les Graces s’appercevant de ce péril qui les mit presque hors d’elles mesmes, s’avancerent en toute diligence vers leur Souveraine. La premiere chose qu’elles firent, fut d’exterminer sans pitié tous ces insolens Insectes ; mais comme cette foible vengeance sur ces misérables Victimes, ne reparoit pas le dommage fait à la beauté de Vénus, ces belles Filles touchées de la douleur pour son interest, &amp; pour le leur propre, dans la crainte qu’estant éveillée elle ne leur reprochast leur peu de soin, s’aviserent d’un expédient. Il y avoit là un Meurier sur lequel se trouverent tout à propos des Vers à soye, dont quelques-uns avoient déjà fait leurs coques. Elles en tirerent des filets, dont en moins de rien elles firent un ouvrage assez mince, qui fut enduit d’un costé d’un peu de gomme que fournit un autre Arbre voisin. Quoy qu’il n’y ait rien de si propre que les Graces, neantmoins l’empressement où elles estoient leur fit oublier en filant cette soye, qu’elles avoient les doigts encor teints du sang &amp; de l’humeur noire des Mouches exterminées. C'est ce qui en donna la couleur à cette foible Etoffe qui fut decoupée en autant de petites pièces que les Mouches avoient causé d’élevûres &amp; de rougeurs. Les Graces les appliquerent sur ces rougeurs, &amp; elles ne douterent point que tout ne sust guery, &amp; qu’elles ne pûssent lever ce leger appareil avant le résveil de la Déesse ; mais elles furent trompées en leur attente, &amp; soit que Vénus fust effectivement au bout de son sommeil, soit qu’elles n’eussent pû appliquer ces petits morceaux découpez sans qu’elle en eust senty quelque chose, elle s’éveilla un moment apres. Jugez de sa surprise, quand ayant demandée le Miroir pour rajuster sa coiffure, elle vit son beau visage, ce Ciel ordinairement si serain, chargé pour lors de petits Astres tenebreux. Les Graces luy conterent l’Avanture. Elle reçeut la nouvelle du mal qui luy avoit esté fait avec sa douceur ordinaire, &amp; loüa le zele qui les avoit portées à y chercher du remede. Elle admira le bizarre effet qu’il faisoit sur son visage, &amp; trouva tant d’agrément dans toutes ces petites pieces découpées, que les ayant appellées ses Mouches par raport à leur origine, elle résolut de s’en faire honneur en de bonnes occasions. L'Invention fut bientost perfectionnée. L'Amour en trouva sa Mere plus belle, &amp; elle en plût davantage dans les Assemblées celestes. Les Déesses &amp; les Dieux, à la reserve de Mome qui en rit quelque temps, y donnerent leur approbation. Le Soleil mesme se vit obligé de faire comme les autres, &amp; dissimula le déplaisir secret qu’il sentit d’avoir esté cause que la beauté de Vénus fust augmentée. Mars le bon amy de cette Déesse, luy fit voir sa complaisance ordinaire, en consacrant ce qu’elle nomma ses Mouches, par le digne employ de couvrir &amp; de marquer en mesme temps les plus honorables cicatrices de ses Guerriers. Il choisit pour cela ce qu’elle en avoit de plus grandes, &amp; en fit faire encor de plus étenduës. Vénus de son costé en accommoda les Déesses qui voulurent se servir de cet agrément, &amp; permit aux Graces d’en inspirer l’usage aux Beautez mortelles. Elle trouva bon aussi que ces mesme Graces à qui l’invention en estoit deuë, fussent consultées pour les bien placer. Depuis ce temps-là les Dames s’en servent avec l’avantage que nous voyons ; quelquefois par necessité, &amp; en d’autres temps par caprice. En effet il est des rencontres où il seroit assez difficile de pouvoir dire quelle Mouche les a piquées ; &amp; si l’on en veut croire bien des Amans, elles prennent souvent la Mouche pour peu de chose. Je m’entendrois volontiers, Madame, sur la diversité de ces Mouches, &amp; sur les raisons de leurs noms diférens ; mais quelque divertissant que pût estre ce détail, je craindrois enfin qu’il ne devinst ennuyeux. C'est pourquoy je me contenteray de vous dire sur ce sujet, que cette Mouche teméraire &amp; barbare qui en vouloit aux yeux de Vénus, en a retenu avec justice le nom d’assassin. Au reste si vous voulez un sens moral, il n’est pas fort difficile à trouver. Quiconque outrage la Beauté, est une Beste des plus malignes &amp; des plus viles ; il ne peut échapper à son suplice ; &amp; la Beauté offensée, sçait toûjours tourner à son avantage toutes les injures qu’on luy fait. Je ne sçay, Madame, si j’ay bien rencontré, &amp; si cette Fable aura le bonheur de vous plaire ; mais si une vérité tres-respectueuse venant de moy, pouvoit ne vous déplaire pas, je serois assuré d’estre heureux, puis que personne n’est avec plus de verité &amp; de respect que je le suis, vostre tres, &amp;c.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_019" resp="mercure">
         <head>Lettre a Mademoiselle D. S. C.</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 19-23.</bibl>
-        <p>Tandis que nous sommes sur les Fables, il faut vous apprendre une Métamorphose dont beaucoup de Gens devroient profiter. Vous la trouverez dans cette Lettre.</p>
-        <quote rend="border">
-          <label rend="center">À Mademoiselle</label>
-          <label rend="center">D. S. C.</label>
-          <p>MOnsieur D. L. G. vous donnera les Palettes &amp; les Volans que je vous avois promis. J'eusse bien voulu vous les porter moy mesme, mais par un malheur le plus grand du monde, les Portes de Paris sont fermées pour moy &amp; je n’espere pas d’en sortir de tout ce Printemps. Je ne veux point icy vous entretenir de mes plaintes ; c’est un fort mauvais régal pour des personnes qui sont à la Campagne &amp; qui ne doivent songer qu’a se réjoüir. Je vous avertiray seulement en qualité de Poëte, que si quelques-uns de vos Amis sont par hazard de la partie quant vous joüerez au Volant, vous estes obligée de leur dire que ce Volant fut autrefois le Cœur d’un Amant, que l’Amour metamorphosa de la sorte pour punir sa legereté.</p>
-          <lg><l>Oüy, l’on dit que ce jeu qui plaist si fort aux Belles,</l>
-          <l>Et qui regne à la Ville aussi bien qu’à la Cour,</l>
-          <l>N'est qu’un effet du couroux de l’Amoureux</l>
-          <l>Contre un Cœur embrasé de flames infidelles.</l>
-          </lg><lg>
-          <l>Ce Vagabond sans respecter les Loix</l>
-          <l>Dont l’Empire amoureux reconnoist la puissance,</l>
-          <l>Sur les ailles de l’Inconstance</l>
-          <l>Couroit incessamment les Villes &amp; les Boix.</l>
-          </lg><lg>
-          <l>Là suivant son libertinage,</l>
-          <l>Il voloit chaque jour</l>
-          <l>De Philis en Philis, &amp; d’Amour en Amour</l>
-          <l>Sans jamais embrasser un sincere Esclavage.</l>
-          </lg><lg>
-          <l>C'estoit l’Amant commun de toutes les Beautez,</l>
-          <l>Et sans estre à pas-une,</l>
-          <l>Il se donnoit tour-à-tour à chacune,</l>
-          <l>Et répandoit ainsi ses feux de tous costez.</l>
-          </lg><lg>
-          <l>Mais l’Amour qui sous ses Drapeaux</l>
-          <l>Ne souffre point de Volontaire,</l>
-          <l>Résolut de punir enfin ce teméraire,</l>
-          <l>Et de chercher pour luy des suplices nouveaux.</l>
-          </lg><lg>
-          <l>Par l’ordre de ce Dieu, fut en Volant changé ;</l>
-          <l>Et chacun des Amours dans son poste rangé,</l>
-          <l>Aussitost à ce jeu fit son apprentissage.</l>
+        <p><hi rend="i">Tandis que nous sommes sur les Fables, il faut vous apprendre une Métamorphose dont beaucoup de Gens devroient profiter. Vous la trouverez dans cette Lettre.</hi></p>
+        <quote>
+          <label rend="center">À MADEMOISELLE <lb/>D. S. C.</label>
+          <p>Monsieur D. L. G. vous donnera les Palettes &amp; les Volans que je vous avois promis. J'eusse bien voulu vous les porter moy mesme, mais par un malheur le plus grand du monde, les Portes de Paris sont fermées pour moy &amp; je n’espere pas d’en sortir de tout ce Printemps. Je ne veux point icy vous entretenir de mes plaintes ; c’est un fort mauvais régal pour des personnes qui sont à la Campagne &amp; qui ne doivent songer qu’a se réjoüir. Je vous avertiray seulement en qualité de Poëte, que si quelques-uns de vos Amis sont par hazard de la partie quant vous joüerez au Volant, vous estes obligée de leur dire que ce Volant fut autrefois le Cœur d’un Amant, que l’Amour metamorphosa de la sorte pour punir sa legereté.</p>
+          <lg>
+            <l rend="i">Oüy, l’on dit que ce jeu qui plaist si fort aux Belles,</l>
+          <l rend="i">Et qui regne à la Ville aussi bien qu’à la Cour,</l>
+          <l rend="i">N'est qu’un effet du couroux de l’Amoureux</l>
+          <l rend="i">Contre un Cœur embrasé de flames infidelles.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Ce Vagabond sans respecter les Loix</l>
+          <l rend="i">Dont l’Empire amoureux reconnoist la puissance,</l>
+          <l rend="i">Sur les ailles de l’Inconstance</l>
+          <l rend="i">Couroit incessamment les Villes &amp; les Boix.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Là suivant son libertinage,</l>
+          <l rend="i">Il voloit chaque jour</l>
+          <l rend="i">De Philis en Philis, &amp; d’Amour en Amour</l>
+          <l rend="i">Sans jamais embrasser un sincere Esclavage.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">C'estoit l’Amant commun de toutes les Beautez,</l>
+          <l rend="i">Et sans estre à pas-une,</l>
+          <l rend="i">Il se donnoit tour-à-tour à chacune,</l>
+          <l rend="i">Et répandoit ainsi ses feux de tous costez.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Mais l’Amour qui sous ses Drapeaux</l>
+          <l rend="i">Ne souffre point de Volontaire,</l>
+          <l rend="i">Résolut de punir enfin ce teméraire,</l>
+          <l rend="i">Et de chercher pour luy des suplices nouveaux.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Par l’ordre de ce Dieu, fut en Volant changé ;</l>
+          <l rend="i">Et chacun des Amours dans son poste rangé,</l>
+          <l rend="i">Aussitost à ce jeu fit son apprentissage.</l>
           </lg>
           <p>Cette Histoire obligera ces Messieurs de penser à leur conscience, &amp; leur aprendra ce que c’est que l’infidelité en matiere d’amour. Je vous prie en mesme temps, Mademoiselle, de faire un peu de reflexion sur le merite de la constance &amp; sur les récompenses qui luy sont deuës en considérant comme l’on punit son contraire. C'est là le vray moyen de joindre l’utile à l’agreable. Je suis vostre tres, &amp;c.</p>
-          <p rend="sc">Alcidon. </p>
+          <p rend="sc">Alcidon.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_024" resp="mercure">
         <head>Lettre I</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 24-28.</bibl>
-        <p>Il faut commencer à vous faire part du commerce que je continuë d’avoir avec le Public. Vous trouverez fort peu de Lettres de suite. J'auray soin de diversifier par tout les matieres. C'est le moyen de vous rendre cet Extraordinaire plus agréable.</p>
-        <quote rend="border">
-          <label rend="center">Lettre I.</label>
-          <p rend="i">À Lyon. </p>
-          <p>BIen en prend à vostre Mercure, qu’il n’y a plus de Dieux parmy-nous, il n’y auroit pas grande seureté pour luy. Je pense que le feu seroit le moindre de ses suplices. Quoy qu’il ne le merite pas, le crédit qu’il s’est acquis &amp; qu’il continuë de s’acquerir tous les jours, ne manqueroit pas d’allumer leur jalousie, &amp; sous quelque peau qu’il se mist, il auroit lieu de trembler. Mais graces au Ciel nous sommes delivrez de toutes ces inquiétudes pour luy. La Fable n’est plus qu’un jeu pour nous, &amp; de tous ces noms fameux &amp; fabuleux, il n’en reste qu’un qui conserve extrémement sa réputation. C'est à vous, Monsieur, à qui il en doit toute la gloire, le soin que vous prenez de le rendre celebre a tout le succés possible. On n’entend part tout que ce nom, &amp; il est plus connu dans ce Siecle qu’il ne l’estoit dans l’Antiquité. Aussi n’est-il pas ingrat des biens qu’il reçoit de vous, puis qu’il fait rejaillir sur vostre Extraordinaire cet éclat que vous luy donnez, en luy procurant des Lettres si spirituelles &amp; si galantes qui en font le plus bel ornement. Ce n’est pas que tout le reste n’en soit merveilleux. Les Questions que vous y proposez sont admirées d’un chacun. La derniere me paroist fort problématique ; mais comme j’ay esté touché du triste sort du Prince de Cleves, je panche plus à taire une confidence de cette nature, qu’à la faire. Bien que la probité d’une Femme la mette à couvert de tout soupçon, elle ne doit jamais se hazarder à donner des allarmes à un Mary. La jalousie est un Monstre tellement à redouter, qu’on doit fuir toutes les voyes qui y conduisent. En peut-on voir une plus infaillible qu’un aveu de cette force ? Les feux d’un Amant, quelques respectueux &amp; quelques mal reconnus qu’ils soient, font toûjours trembler un Mary. On a beau le rassurer, il craint que la vertu d’une Femme pour severe qu’elle se montre, ne succombe à la tendresse d’un Amant. En effet il est bien malaisé de ne pas se rendre quelque jour à ses poursuites, quand il a trouvé le secret de plaire. La retraite peut bien donner quelque repos à un jaloux, mais non pas le guerir.. Ainsi le plus seur est de travailler à étouffer une passion dont on prévoit de fâcheuses suites. Il faut éviter la rencontre d’un Ennemy qui nous paroist dangereux, &amp; puis que c’est une Femme de vertu, elle peut bien sacrifier un peu de son repos à celuy de son Mary, jusqu’à ce que le temps qui est un grand Medecin, rende la santé à ces cœurs languissans. Voilà, Monsieur, le sentiment de vostre tres, &amp;c.</p>
-          <p rend="sc">Le Celeste Allobroge. </p>
+        <p rend="i">Il faut commencer à vous faire part du commerce que je continuë d’avoir avec le Public. Vous trouverez fort peu de Lettres de suite. J'auray soin de diversifier par tout les matieres. C'est le moyen de vous rendre cet Extraordinaire plus agreable.</p>
+        <quote>
+          <label rend="center">LETTRE I.</label>
+          <p rend="i">À Lyon.</p>
+          <p>Bien en prend à vostre Mercure, qu’il n’y a plus de Dieux parmy-nous, il n’y auroit pas grande seureté pour luy. Je pense que le feu seroit le moindre de ses suplices. Quoy qu’il ne le merite pas, le crédit qu’il s’est acquis &amp; qu’il continuë de s’acquerir tous les jours, ne manqueroit pas d’allumer leur jalousie, &amp; sous quelque peau qu’il se mist, il auroit lieu de trembler. Mais graces au Ciel nous sommes delivrez de toutes ces inquiétudes pour luy. La Fable n’est plus qu’un jeu pour nous, &amp; de tous ces noms fameux &amp; fabuleux, il n’en reste qu’un qui conserve extrémement sa réputation. C'est à vous, Monsieur, à qui il en doit toute la gloire, le soin que vous prenez de le rendre celebre a tout le succés possible. On n’entend part tout que ce nom, &amp; il est plus connu dans ce Siecle qu’il ne l’estoit dans l’Antiquité. Aussi n’est-il pas ingrat des biens qu’il reçoit de vous, puis qu’il fait rejaillir sur vostre Extraordinaire cet éclat que vous luy donnez, en luy procurant des Lettres si spirituelles &amp; si galantes qui en font le plus bel ornement. Ce n’est pas que tout le reste n’en soit merveilleux. Les Questions que vous y proposez sont admirées d’un chacun. La derniere me paroist fort problématique ; mais comme j’ay esté touché du triste sort du Prince de Cleves, je panche plus à taire une confidence de cette nature, qu’à la faire. Bien que la probité d’une Femme la mette à couvert de tout soupçon, elle ne doit jamais se hazarder à donner des allarmes à un Mary. La jalousie est un Monstre tellement à redouter, qu’on doit fuir toutes les voyes qui y conduisent. En peut-on voir une plus infaillible qu’un aveu de cette force ? Les feux d’un Amant, quelques respectueux &amp; quelques mal reconnus qu’ils soient, font toûjours trembler un Mary. On a beau le rassurer, il craint que la vertu d’une Femme pour severe qu’elle se montre, ne succombe à la tendresse d’un Amant. En effet il est bien malaisé de ne pas se rendre quelque jour à ses poursuites, quand il a trouvé le secret de plaire. La retraite peut bien donner quelque repos à un jaloux, mais non pas le guerir.. Ainsi le plus seur est de travailler à étouffer une passion dont on prévoit de fâcheuses suites. Il faut éviter la rencontre d’un Ennemy qui nous paroist dangereux, &amp; puis que c’est une Femme de vertu, elle peut bien sacrifier un peu de son repos à celuy de son Mary, jusqu’à ce que le temps qui est un grand Medecin, rende la santé à ces cœurs languissans. Voilà, Monsieur, le sentiment de vostre tres, &amp;c.</p>
+          <p rend="sc">Le Celeste Allobroge.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_028" resp="mercure">
         <head>Lettre II</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 28-34.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre II.</label>
-          <p>IL faut, Monsieur vous faire connoistre l’esprit d’une tres-charmante Solitaire, qui en se faisant un plaisir de ne voir que fort peu de monde, ne laisse pas d’avoir toûjours quelque agreable commerce avec des Amis choisis. Elle en entretient un depuis quelque temps avec une Personne qui n’a pas moins d’estime pour sa vertu que d’admiration pour sa beauté, &amp; qui tient quelque rang dans vostre Mercure. Elle l’appelle son Petrarque, &amp; elle a pris le nom de Laure. Vous pouvez juger par ces noms de quel caractere leur galanterie put estre. Quoy qu’elle soit fort éloignée des folies ordinaires de l’Amour, celuy qu’ils ont l’un pour l’autre n’est pas si austere qu’il les empesche de se divertir, &amp; de badiner quelquefois.</p>
+        <quote>
+          <label rend="center">LETTRE II.</label>
+          <p>Il faut, Monsieur vous faire connoistre l’esprit d’une tres-charmante Solitaire, qui en se faisant un plaisir de ne voir que fort peu de monde, ne laisse pas d’avoir toûjours quelque agreable commerce avec des Amis choisis. Elle en entretient un depuis quelque temps avec une Personne qui n’a pas moins d’estime pour sa vertu que d’admiration pour sa beauté, &amp; qui tient quelque rang dans vostre Mercure. Elle l’appelle son Petrarque, &amp; elle a pris le nom de Laure. Vous pouvez juger par ces noms de quel caractere leur galanterie put estre. Quoy qu’elle soit fort éloignée des folies ordinaires de l’Amour, celuy qu’ils ont l’un pour l’autre n’est pas si austere qu’il les empesche de se divertir, &amp; de badiner quelquefois.</p>
           <p>Son Petrarque portant le mesme nom qu’elle, ils s’aviserent de se faire un présent le jour de leur Feste. Ils s’en aquiterent avec adresse, &amp; pour mieux cacher le mistere, ils changerent leurs noms &amp; leur écriture. Petrarque trouva dans sa Toilette en s’habillant une Cravate &amp; des Manchettes d’un Point admirable, accompagnées de ces Vers.</p>
-          <lg><l>Graces, mon aimable Tirsis,</l>
-          <l>À l’invention de Sapate,</l>
-          <l>J'ose vous presenter Manchettes &amp; Cravate,</l>
-          <l>Comme au meilleur de mes Amis.</l>
-          <l>Mais quelque soupçon qui vous flate,</l>
-          <l>De peur que ce présent m’éclate,</l>
-          <l>Vous ne sçaurez point qui je suis.</l>
-          </lg><lg>
-          <l>N'allez donc point vous mettre en teste</l>
-          <l>Que ce peut estre Aminte, Amarante ou Cloris ;</l>
-          <l>Il est aujourd’huy vostre Feste,</l>
-          <l>Il faut avoir d’autre soucis.</l>
-          <l>Parez-vous seulement du present qu’on vous donne.</l>
-          <l>Si vous en faites cas,</l>
-          <l>Du nom de la Personne</l>
-          <l>Ne vous informez pas.</l>
-          </lg><lg>
-          <l>Pour tout remercîment, c’est ce que l’on souhaite.</l>
-          <l>On vous aime, il suffit, vous n’en pouvez douter.</l>
-          <l>La chose doit estre secrete,</l>
-          <l>Vous ne devez pas l’éventer.</l>
+          <lg><l rend="i">Graces, mon aimable Tirsis,</l>
+          <l rend="i">À l’invention de Sapate,</l>
+          <l rend="i">J'ose vous presenter Manchettes &amp; Cravate,</l>
+          <l rend="i">Comme au meilleur de mes Amis.</l>
+          <l rend="i">Mais quelque soupçon qui vous flate,</l>
+          <l rend="i">De peur que ce présent m’éclate,</l>
+          <l rend="i">Vous ne sçaurez point qui je suis.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">N'allez donc point vous mettre en teste</l>
+          <l rend="i">Que ce peut estre Aminte, Amarante ou Cloris ;</l>
+          <l rend="i">Il est aujourd’huy vostre Feste,</l>
+          <l rend="i">Il faut avoir d’autre soucis.</l>
+          <l rend="i">Parez-vous seulement du present qu’on vous donne.</l>
+          <l rend="i">Si vous en faites cas,</l>
+          <l rend="i">Du nom de la Personne</l>
+          <l rend="i">Ne vous informez pas.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Pour tout remercîment, c’est ce que l’on souhaite.</l>
+          <l rend="i">On vous aime, il suffit, vous n’en pouvez douter.</l>
+          <l rend="i">La chose doit estre secrete,</l>
+          <l rend="i">Vous ne devez pas l’éventer.</l>
           </lg>
           <p>Laure trouva aussi dans sa Toillette une riche coëffure avec ces Vers.</p>
-          <lg><l>Comme il n’est point de Rime en oiffe,</l>
-          <l>On ne sçauroit sur une Coiffe</l>
-          <l>Faire Madrigal ny Sonnet,</l>
-          <l>Mais s’il en faut une douezaine,</l>
-          <l>On les fera sur un Bonnet.</l>
-          <l>Cependant, aimable Climene,</l>
-          <l>Celuy-cy n’en vaut pas la peine.</l></lg>
           <lg>
-          <l>Il me suffit de quatre Vers</l>
-          <l>Pour empescher qu’à cette Feste</l>
-          <l>Vous ne mettiez sur votre teste</l>
-          <l>Un méchant Bonnet de travers.</l>
-          </lg><lg>
-          <l>Bonnet, quoy que sans ornement,</l>
-          <l>Coiffez donc aujourd’huy Climene,</l>
-          <l>Mais coiffez-la bien proprement,</l>
-          <l>Sans soin, sans chagrin, &amp; sans peine,</l>
-          <l>Et qu’elle soit comme une Reyne</l>
-          <l>Avec ce simple ajustement.</l>
-          </lg><lg>
-          <l>Car enfin je le dis tout net,</l>
-          <l>Quand à Climene je vous donne,</l>
-          <l>Je voudrois au lieu d’un Bonnet</l>
-          <l>Luy presenter une Couronne.</l></lg>
+            <l rend="i">Comme il n’est point de Rime en oiffe,</l>
+          <l rend="i">On ne sçauroit sur une Coiffe</l>
+          <l rend="i">Faire Madrigal ny Sonnet,</l>
+          <l rend="i">Mais s’il en faut une douezaine,</l>
+          <l rend="i">On les fera sur un Bonnet.</l>
+          <l rend="i">Cependant, aimable Climene,</l>
+          <l rend="i">Celuy-cy n’en vaut pas la peine.</l></lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Il me suffit de quatre Vers</l>
+          <l rend="i">Pour empescher qu’à cette Feste</l>
+          <l rend="i">Vous ne mettiez sur votre teste</l>
+          <l rend="i">Un méchant Bonnet de travers.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Bonnet, quoy que sans ornement,</l>
+          <l rend="i">Coiffez donc aujourd’huy Climene,</l>
+          <l rend="i">Mais coiffez-la bien proprement,</l>
+          <l rend="i">Sans soin, sans chagrin, &amp; sans peine,</l>
+          <l rend="i">Et qu’elle soit comme une Reyne</l>
+          <l rend="i">Avec ce simple ajustement.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Car enfin je le dis tout net,</l>
+          <l rend="i">Quand à Climene je vous donne,</l>
+          <l rend="i">Je voudrois au lieu d’un Bonnet</l>
+          <l rend="i">Luy presenter une Couronne.</l>
+          </lg>
           <p>Quelques précautions qu’ils eussent prises, la Feste ne se passa point sans que la galanterie fust découverte. Il est difficile de cacher un grand engagement. Laure aime avec chaleur, &amp; ne fait pas de mystere de sa tendresse. Elle se plaignoit un jour à Petrarque qu’il n’aimoit que foiblement, &amp; qu’il n’avoit point ces empressemens qui paroissent dans les moindres choses qu’on fait pour la Personne qu’on aime. Voicy ce qu’il luy répondit.</p>
-          <lg><l>En vain sur ce sujet on fait de beaux discours ;</l>
-          <l>Laure, pour bien aimer, il faut aimer toûjours.</l>
-          <l>On croit, dans le moment qu’un fort amour nous presse,</l>
-          <l>Qu'on ne verra jamais la fin de sa tendresse ;</l>
-          <l>Helas ! Qu'ils durent peu ces grands empressemens !</l>
-          <l>Aimez plus doucement, pour aimer plus longtemps.</l></lg>
+          <lg>
+            <l rend="i">En vain sur ce sujet on fait de beaux discours ;</l>
+          <l rend="i">Laure, pour bien aimer, il faut aimer toûjours.</l>
+          <l rend="i">On croit, dans le moment qu’un fort amour nous presse,</l>
+          <l rend="i">Qu'on ne verra jamais la fin de sa tendresse ;</l>
+          <l rend="i">Helas ! Qu'ils durent peu ces grands empressemens !</l>
+          <l rend="i">Aimez plus doucement, pour aimer plus longtemps.</l>
+          </lg>
           <p>Il m’est si doux de faire connoistre le merite de cette charmante Solitaire, que je ne finirois pas si-tost, si je n’avois impatience de vous assurer que je suis vostre tres, &amp;c.</p>
           <p><hi rend="sc">L. Ch</hi>.</p>
         </quote>
@@ -299,136 +340,146 @@
       <div type="article" xml:id="MG-1678-09e_034" resp="mercure">
         <head>Lettre III</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 34-36.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre III.</label>
+        <quote>
+          <label rend="center">LETTRE III.</label>
           <p rend="i">À Tournay. </p>
-          <p>JE me presse, Monsieur, de peur que je ne sois des derniers à vous donner des marques de la reconnoissance particuliere que j’ay de toutes les peines que vous vous donnez pour le Public. Vostre Mercure a passé l’Escaut, &amp; se lit avec tant de plaisir par le beau Sexe de ce Canton, qu’il est à croire qu’il a de l’impatience de revoir le calme que nostre Auguste Monarque s’est proposé de remettre dans nos Provinces. Si tant de Personnes differentes se font une joye d’y avoir place, il n’est pas moins avantageux à nos Guerriers d’y voir immortaliser leur noms. Ceux qui se sont rencontrez dans les Sieges de Puycerda &amp; de Leuve, en reçoivent aujourd’huy des témoignages tres-grands par la description que vous en avez faite. Il faut avoüer que s’il y a de la gloire à combattre sous les Etendarts d’un aussi grand Monarque que le nostre, il y a aussi du plaisir pour ceux qui se signalent par leurs belles Actions à rencontrer un Autheur aussi exact &amp; aussi fidelle que vous. Si le style d’un Homme de ma profession n’estoit pas si Cavalier, je m’étendrois davantage sur ce que je pense du vostre Mercure, mais je dois me contenter de vous envoyer l’Explication de vos Enigmes, &amp; de vous assurer que je suis vostre, &amp;c.</p>
-          <p rend="sc">Le Brave Ardennois. </p>
+          <p>Je me presse, Monsieur, de peur que je ne sois des derniers à vous donner des marques de la reconnoissance particuliere que j’ay de toutes les peines que vous vous donnez pour le Public. Vostre Mercure a passé l’Escaut, &amp; se lit avec tant de plaisir par le beau Sexe de ce Canton, qu’il est à croire qu’il a de l’impatience de revoir le calme que nostre Auguste Monarque s’est proposé de remettre dans nos Provinces. Si tant de Personnes differentes se font une joye d’y avoir place, il n’est pas moins avantageux à nos Guerriers d’y voir immortaliser leur noms. Ceux qui se sont rencontrez dans les Sieges de Puycerda &amp; de Leuve, en reçoivent aujourd’huy des témoignages tres-grands par la description que vous en avez faite. Il faut avoüer que s’il y a de la gloire à combattre sous les Etendarts d’un aussi grand Monarque que le nostre, il y a aussi du plaisir pour ceux qui se signalent par leurs belles Actions à rencontrer un Autheur aussi exact &amp; aussi fidelle que vous. Si le style d’un Homme de ma profession n’estoit pas si Cavalier, je m’étendrois davantage sur ce que je pense du vostre Mercure, mais je dois me contenter de vous envoyer l’Explication de vos Enigmes, &amp; de vous assurer que je suis vostre, &amp;c.</p>
+          <p rend="sc">Le Brave Ardennois.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_036" resp="mercure">
         <head>Lettre IV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 36-38.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre IV.</label>
-          <p rend="i">À Compiegne. </p>
-          <p>DEpuis que le Mercure Galant va par toute la France, on peut dire, Monsieur, qu’il y a répandu une certaine semence d’esprit si generale, &amp; si féconde, qu’il n’y a point de lieu, si sauvage &amp; si rude qu’il puisse estre, qui n’en ressente l’effet. Je commence à m’apercevoir par moy-mesme de cette verité ; car quoy que je ne me sois jamais attaché qu’aux choses de ma profession, &amp; aux affaires de mon Chapitre, je remarque depuis quelques jours que vostre Mercure m’a inspiré des lumieres &amp; des sentimens que je ne me croyois point capable d’avoir. Je les dois à l’envie que j’ay euë de trouver le sens de vos Enigmes. J'en ay expliqué plusieurs sans me hazarder à vous le faire sçavoir : Mais si je suis assez heureux pour avoir encor reüssy cette fois, cela me donnera le courage d’entreprendre davantage à l’avenir, &amp; c’est à vous Monsieur, à qui j’en auray l’obligation. Ayez donc la bonté de voir si j’auray bien rencontré, &amp; me croyez vostre, &amp;c.</p>
+        <quote>
+          <label rend="center">LETTRE IV.</label>
+          <p rend="i">À Compiegne.</p>
+          <p>Depuis que le Mercure Galant va par toute la France, on peut dire, Monsieur, qu’il y a répandu une certaine semence d’esprit si generale, &amp; si féconde, qu’il n’y a point de lieu, si sauvage &amp; si rude qu’il puisse estre, qui n’en ressente l’effet. Je commence à m’apercevoir par moy-mesme de cette verité ; car quoy que je ne me sois jamais attaché qu’aux choses de ma profession, &amp; aux affaires de mon Chapitre, je remarque depuis quelques jours que vostre Mercure m’a inspiré des lumieres &amp; des sentimens que je ne me croyois point capable d’avoir. Je les dois à l’envie que j’ay euë de trouver le sens de vos Enigmes. J'en ay expliqué plusieurs sans me hazarder à vous le faire sçavoir : Mais si je suis assez heureux pour avoir encor reüssy cette fois, cela me donnera le courage d’entreprendre davantage à l’avenir, &amp; c’est à vous Monsieur, à qui j’en auray l’obligation. Ayez donc la bonté de voir si j’auray bien rencontré, &amp; me croyez vostre, &amp;c.</p>
           <p><hi rend="sc">Charmolue</hi>, <hi rend="i">Doyen de S. Clement de Compiegne</hi>.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_038" resp="mercure">
         <head>Lettre V</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 38-49.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre V.</label>
-          <p rend="i">Des Rives de Jüine. </p>
-          <p>TOut ce qu’un galant Homme peut souhaiter, vous l’avez obtenu, Monsieur ; c’est de plaire également aux deux Sexes. Quoy que le mien ne puisse voir sans jalousie que vous soyez si bien aupres de l’autre, il ne m’est possible de vous cacher que nos Bergeres n’ont plus d’œillades pour nous. Elles sont toutes pour le Mercure, &amp; cet adroit Messager des Dieux ne s’est jamais metamorphosé plus heureusement que sous la figure d’un Livre. S'il prit autrefois celle d’un Berger pour endormir Argus au son de sa Fluste, il m’avoüera que sous l’habit qu’il porte, il a trompé bien plus d’un Argus. Il s’est attiré l’amitié de toutes nos Bergeres au grand des-avantage de leurs Marys qu’elles quittent à tous momens pour voir ce nouveau Galant. Pour nous, nous ne sommes jamais mieux reçeus d’elles que quand elles nous voyent aprocher avec un Mercure à la main. Elles sautent de joye, &amp; je croy qu’elles nous récompenseroient volontiers d’un baiser, si leur retenuë n’y mettoit obstacle. Mais mon dessein n’est pas de vous informer icy de tout ce que vostre Mercure produit d’extraordinaire en ce Païs. Il est à propos de vous dire que la Princesse de Cleves n’y est pas inconnuë, mesme chez les Bergers. Quoy qu’une déclaration pareille à celle de cette Princesse ne se soit jamais faite parmy eux, ils demeurent d’accord qu’elle a pû se faire dans un temps où les Marys n’estoient pas si délicats &amp; si raffinez qu’aujourd’huy ; mais ils prétendent que si Madame de Cleves avoit autant d’esprit que cette Histoire luy en donne, elle en a peu manqué quand elle a pû se résoudre d’en venir à cette déclaration. Pour moy, je sçay bien que par toutes les Rives de Jüine, où l’on n’est pas plus beste qu’ailleurs, elle ne sera imitée d’aucune Bergere. Mais c’est aussi ce qui fait le merite de la Princesse de Cleves, que de s’estre renduë inimitable.</p>
+        <quote>
+          <label rend="center">LETTRE V.</label>
+          <p rend="i">Des Rives de Jüine.</p>
+          <p>Tout ce qu’un galant Homme peut souhaiter, vous l’avez obtenu, Monsieur ; c’est de plaire également aux deux Sexes. Quoy que le mien ne puisse voir sans jalousie que vous soyez si bien aupres de l’autre, il ne m’est possible de vous cacher que nos Bergeres n’ont plus d’œillades pour nous. Elles sont toutes pour le Mercure, &amp; cet adroit Messager des Dieux ne s’est jamais metamorphosé plus heureusement que sous la figure d’un Livre. S'il prit autrefois celle d’un Berger pour endormir Argus au son de sa Fluste, il m’avoüera que sous l’habit qu’il porte, il a trompé bien plus d’un Argus. Il s’est attiré l’amitié de toutes nos Bergeres au grand des-avantage de leurs Marys qu’elles quittent à tous momens pour voir ce nouveau Galant. Pour nous, nous ne sommes jamais mieux reçeus d’elles que quand elles nous voyent aprocher avec un Mercure à la main. Elles sautent de joye, &amp; je croy qu’elles nous récompenseroient volontiers d’un baiser, si leur retenuë n’y mettoit obstacle. Mais mon dessein n’est pas de vous informer icy de tout ce que vostre Mercure produit d’extraordinaire en ce Païs. Il est à propos de vous dire que la Princesse de Cleves n’y est pas inconnuë, mesme chez les Bergers. Quoy qu’une déclaration pareille à celle de cette Princesse ne se soit jamais faite parmy eux, ils demeurent d’accord qu’elle a pû se faire dans un temps où les Marys n’estoient pas si délicats &amp; si raffinez qu’aujourd’huy ; mais ils prétendent que si Madame de Cleves avoit autant d’esprit que cette Histoire luy en donne, elle en a peu manqué quand elle a pû se résoudre d’en venir à cette déclaration. Pour moy, je sçay bien que par toutes les Rives de Jüine, où l’on n’est pas plus beste qu’ailleurs, elle ne sera imitée d’aucune Bergere. Mais c’est aussi ce qui fait le merite de la Princesse de Cleves, que de s’estre renduë inimitable.</p>
           <p>J'oubliois, Monsieur, à vous parler de la mort du Serin d’une de nos Nymphes. Il l’avoit divertie pendant plus de dix années, &amp; c’estoit le plus ancien Domestique de sa Maison. Caliste, l’une de nos plus belles Bergeres, le trouva couché sur le costé dans sa cage. Il avoit les aisles étenduës, &amp; se debatoit encor. Elle le mit dans son sein pour le faire revenir, mais je croy que si la douleur l’avoit réduit à l’extremité, le plaisir acheva lors de le perdre. En effet elle l’en retira mort peu de temps apres l’y avoir mis, &amp; l’on disputa vainement de la qualité de la maladie qui l’avoit fait mourir. L'opinion la plus probable &amp; qui tomba mieux dans le sens de la Nymphe, fut que c’estoit une vapeur, puis qu’il avoit tant d’esprit. Une autre qu’elle se seroit consolée par cette reflexion ; mais elle l’avoit trop aimé pour ne le pas regreter davantage. Apres avoir apris qu’il estoit mort de la maladie des beaux Esprits, elle demeura plus de deux heures inconsolable, &amp; je fus obligé pour la remettre, de luy dire, qu’à la verité son Serin meritoit une vie plus longue, mais qu’elle trouveroit peu de Personnes raisonnables qui n’enviassent le bonheur qu’il avoit eu, d’estre mort dans le sein de la charmante Caliste. Si l’on sçavoit, me répondit-elle, quel estoit le merite de mon Serin, on me plaindroit sans-doute plûtost que de me consoler. Il est vray Madame, luy repartis-je, que tout le monde vous peut plaindre. Je sçay mesme un moyen assez facile pour vous attirer la compassion de toute la Terre. Je prieray l’Autheur de ce Mercure qui va jusques aux Indes, de parler de cet accident. On ne luy refusera pas des larmes, s’il en demande pour vous ; il donne trop de satisfaction à tout le monde pour n’en pas obtenir des plaintes quand il en souhaitera. Je m’offre à luy envoyer l’Epitaphe du Defunt. La Nymphe goûta ma proposition. Elle y consentit, &amp; me pria de m’aquiter de ma promesse le plûtost que je pourrois. Dés ce moment-là elle commença d’estre moins triste, &amp; je ne doute pas qu’elle ne reprenne sa gayeté ordinaire quant elle verra son Serin immortalisé dans le Mercure. Voicy l’Epitaphe de cet Oyseau.</p>
-          <lg><l>Je vins exprés de Canarie</l>
-          <l>Pour le service de Silvie ;</l>
-          <l>Je la servis fidellement,</l>
-          <l>Et cette Nymphe estoit si belle ;</l>
-          <l>Que je ne chantay que pour elle,</l>
-          <l>Et pour ses Amis seulement.</l>
-          <l>Enfin apres dix ans de vie,</l>
-          <l>Une secrette maladie</l>
-          <l>Me vint attaquer un matin ;</l>
-          <l>Ma Maitresse en fut toute triste,</l>
-          <l>Caliste me  mit en son sein,</l>
-          <l>Je mourus au sein de Caliste ;</l>
-          <l>Fut-il un plus heureux Serin ?</l></lg>
+          <lg>
+            <l rend="i">Je vins exprés de Canarie</l>
+          <l rend="i">Pour le service de Silvie ;</l>
+          <l rend="i">Je la servis fidellement,</l>
+          <l rend="i">Et cette Nymphe estoit si belle ;</l>
+          <l rend="i">Que je ne chantay que pour elle,</l>
+          <l rend="i">Et pour ses Amis seulement.</l>
+          <l rend="i">Enfin apres dix ans de vie,</l>
+          <l rend="i">Une secrette maladie</l>
+          <l rend="i">Me vint attaquer un matin ;</l>
+          <l rend="i">Ma Maitresse en fut toute triste,</l>
+          <l rend="i">Caliste me  mit en son sein,</l>
+          <l rend="i">Je mourus au sein de Caliste ;</l>
+          <l rend="i">Fut-il un plus heureux Serin ?</l>
+          </lg>
           <p>Afin de vous faire connoistre, Monsieurs, que mos Bergeres ne son pas des Bergeres du commun, il faut vous dire ce que me répondit l’autre jour une d’elles, qui se pique d’estre reconnoissante jusqu’à ne vouloir jamais rien devoir à personne. Je luy reprochois que c’estoit injustement qu’elle faisoit tant la genereuse, puis qu’elle n’aimoit point quoy qu’elle fust fort aimée. <hi rend="i">Il est vray</hi>, me répondit-elle, <hi rend="i">que je n’aime pas à estre long-temps redevable aux Gens, &amp; que je ne soufre qu’on m’oblige que dans le dessein d’obliger de mesme ; mais comme je mets l’amour qu’on a pour moy au nombre des injures qu’on me peut faire, je ne me sens pas assez vindicative pour rendre jamais la pareille.</hi></p>
           <p>Je viens à l’origine des Mouches. Soufrez que je vous en dise ma pensée par ces Vers.</p>
-          <lg><l>Un jour Bacchus en voyageant,</l>
-          <l>Devint amoureux d’une Belle ;</l>
-          <l>Il n’avoit pas l’air engageant,</l>
-          <l>Et sa Belle luy fut cruelle.</l>
-          <l>Il pleure des larmes de Vin,</l>
-          <l>Et soûpire d’une maniere</l>
-          <l>À faire tourner un Moulin ;</l>
-          <l>Sa Belle n’en est pas moins fiere.</l>
-          <l>Il fait retentir les Echos</l>
-          <l>Par tout du nom de sa Maistresse,</l>
-          <l>Et ne laisse rien en repos,</l>
-          <l>Afin que sa Belle l’y laisse.</l>
-          <l>Déja les Maisons d’alentour</l>
-          <l>Par ses soûpirs sont abatuës,</l>
-          <l>Et ses cris poussez nuit &amp; jour,</l>
-          <l>Font trembler la terre &amp; les nuës ;</l>
-          <l>Ses larmes au travers des Champs</l>
-          <l>Se font de rapides passages,</l>
-          <l>Et par d’invincibles torrens</l>
-          <l>Entraînent toits, grains, &amp; ménages.</l>
-          <l>L'Amour qui du plus haut des Cieux</l>
-          <l>Connoit que Bacchus en est cause,</l>
-          <l>Est aussitost commis des Dieux</l>
-          <l>Pour pacifier toute chose.</l>
-          <l>Il le rencontre pres Paris</l>
-          <l>Qui soûpiroit toûjours de mesme,</l>
-          <l>Ses boutons estoient défleuris,</l>
-          <l>Ses yeux mourans &amp; son teint bléme ;</l>
-          <l>Alors le tirant à l’écart,</l>
-          <l>Avec une livre de gomme,</l>
-          <l>Et le secours du plus beau fard,</l>
-          <l>Il en fait un joly jeune Homme ;</l>
-          <l>Mais, dit Bacchus à Cupidon,</l>
-          <l>Elle hait une rude trogne,</l>
-          <l>Et ne sçauroit souffrir bourgeon</l>
-          <l>sur le visage d’un Yvrogne.</l>
-          <l>Laissez-faire, luy dit l’Amour,</l>
-          <l>J'en ay prévû la conséquence,</l>
-          <l>Mais chaque chose aura son tour ;</l>
-          <l>Ayez seulement patience.</l>
-          <l>Lors il luy coupe les cheveux,</l>
-          <l>Laisse derriere une Couleuvre,</l>
-          <l>Le poudre &amp; frise de son mieux,</l>
-          <l>Et jamais du Mont n’y fit oeuvre ;</l>
-          <l>Certain jus qu’il y fait couler</l>
-          <l>Fait apres luy sentir sa trace,</l>
-          <l>Puis il prend des Mouches en l’air,</l>
-          <l>Noircit leurs aisles &amp; les place.</l>
-          <l>La Bonne Faiseuse à quartier</l>
-          <l>Profita de tout ce mystere ;</l>
-          <l>C'est là qu’elle apprit son mêtier,</l>
-          <l>Tant à les placer qu’à les faire.</l>
-          <l>Alors frais comme un Jouvenceau,</l>
-          <l>Bacchus court finir son suplice,</l>
-          <l>Et la teste comme un Boisseau,</l>
-          <l>Il se croit plus beau que Narcisse.</l>
-          <l>En effet, Philis le crût tel</l>
-          <l>D'abord qu’elle le vit parestre,</l>
-          <l>Et ne voyant rien du mortel,</l>
-          <l>Jugea bien qu’il ne pouvoit l’estre.</l>
-          <l>Ses boutons ne paroissant plus,</l>
-          <l>Nos Amans unirent leurs bouches ;</l>
-          <l>Ainsi devins heureux Bacchus,</l>
-          <l>De là vint au monde des Mouches.</l></lg>
+          <lg>
+            <l rend="i">Un jour Bacchus en voyageant,</l>
+          <l rend="i">Devint amoureux d’une Belle ;</l>
+          <l rend="i">Il n’avoit pas l’air engageant,</l>
+          <l rend="i">Et sa Belle luy fut cruelle.</l>
+          <l rend="i">Il pleure des larmes de Vin,</l>
+          <l rend="i">Et soûpire d’une maniere</l>
+          <l rend="i">À faire tourner un Moulin ;</l>
+          <l rend="i">Sa Belle n’en est pas moins fiere.</l>
+          <l rend="i">Il fait retentir les Echos</l>
+          <l rend="i">Par tout du nom de sa Maistresse,</l>
+          <l rend="i">Et ne laisse rien en repos,</l>
+          <l rend="i">Afin que sa Belle l’y laisse.</l>
+          <l rend="i">Déja les Maisons d’alentour</l>
+          <l rend="i">Par ses soûpirs sont abatuës,</l>
+          <l rend="i">Et ses cris poussez nuit &amp; jour,</l>
+          <l rend="i">Font trembler la terre &amp; les nuës ;</l>
+          <l rend="i">Ses larmes au travers des Champs</l>
+          <l rend="i">Se font de rapides passages,</l>
+          <l rend="i">Et par d’invincibles torrens</l>
+          <l rend="i">Entraînent toits, grains, &amp; ménages.</l>
+          <l rend="i">L'Amour qui du plus haut des Cieux</l>
+          <l rend="i">Connoit que Bacchus en est cause,</l>
+          <l rend="i">Est aussitost commis des Dieux</l>
+          <l rend="i">Pour pacifier toute chose.</l>
+          <l rend="i">Il le rencontre pres Paris</l>
+          <l rend="i">Qui soûpiroit toûjours de mesme,</l>
+          <l rend="i">Ses boutons estoient défleuris,</l>
+          <l rend="i">Ses yeux mourans &amp; son teint bléme ;</l>
+          <l rend="i">Alors le tirant à l’écart,</l>
+          <l rend="i">Avec une livre de gomme,</l>
+          <l rend="i">Et le secours du plus beau fard,</l>
+          <l rend="i">Il en fait un joly jeune Homme ;</l>
+          <l rend="i">Mais, dit Bacchus à Cupidon,</l>
+          <l rend="i">Elle hait une rude trogne,</l>
+          <l rend="i">Et ne sçauroit souffrir bourgeon</l>
+          <l rend="i">sur le visage d’un Yvrogne.</l>
+          <l rend="i">Laissez-faire, luy dit l’Amour,</l>
+          <l rend="i">J'en ay prévû la conséquence,</l>
+          <l rend="i">Mais chaque chose aura son tour ;</l>
+          <l rend="i">Ayez seulement patience.</l>
+          <l rend="i">Lors il luy coupe les cheveux,</l>
+          <l rend="i">Laisse derriere une Couleuvre,</l>
+          <l rend="i">Le poudre &amp; frise de son mieux,</l>
+          <l rend="i">Et jamais du Mont n’y fit oeuvre ;</l>
+          <l rend="i">Certain jus qu’il y fait couler</l>
+          <l rend="i">Fait apres luy sentir sa trace,</l>
+          <l rend="i">Puis il prend des Mouches en l’air,</l>
+          <l rend="i">Noircit leurs aisles &amp; les place.</l>
+          <l rend="i">La Bonne Faiseuse à quartier</l>
+          <l rend="i">Profita de tout ce mystere ;</l>
+          <l rend="i">C'est là qu’elle apprit son mêtier,</l>
+          <l rend="i">Tant à les placer qu’à les faire.</l>
+          <l rend="i">Alors frais comme un Jouvenceau,</l>
+          <l rend="i">Bacchus court finir son suplice,</l>
+          <l rend="i">Et la teste comme un Boisseau,</l>
+          <l rend="i">Il se croit plus beau que Narcisse.</l>
+          <l rend="i">En effet, Philis le crût tel</l>
+          <l rend="i">D'abord qu’elle le vit parestre,</l>
+          <l rend="i">Et ne voyant rien du mortel,</l>
+          <l rend="i">Jugea bien qu’il ne pouvoit l’estre.</l>
+          <l rend="i">Ses boutons ne paroissant plus,</l>
+          <l rend="i">Nos Amans unirent leurs bouches ;</l>
+          <l rend="i">Ainsi devins heureux Bacchus,</l>
+          <l rend="i">De là vint au monde des Mouches.</l>
+          </lg>
           <p>STEDROC, Berger des Rives de Jüine.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_049" resp="mercure">
         <head>Lettre VI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 49-52.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre VI.</label>
-          <p>IL y a quelques temps, Monsieur, que je me mets sur le pied de bel Esprit, c’est à dire de bel Esprit de Province, &amp; personne ne s’estoit encore avisé de m’en disputer le Titre, que dans une Compagnie où je me trouvay hier apres dîné. Je tâchois là de debiter mes Fleuretes à demy-fletries entre cinq ou six Belles, &amp; je me faisois attentivement écouter par deux ou trois Sots qui se récrimoient à chaque parole, quand un nouveau venu, lequel apparament n’avoit pas accoûtumé de demeurer sans rien dire, ennuyé de m’entendre toûjours parler, &amp; se fâchant de me voir trop applaudy ; Mon Dieu ! Dit-il, il semble que Monsieur est icy quelque Oracle ; il veut faire le bel Esprit, &amp; son nom n’est point dans le Mercure. Je vous avoüe, Monsieur, que ce reproche me toucha. Je sortis brusquement sans répondre une parole, &amp; j’allay chercher un Mercure, avec lequel je me vins enfermer dans mon Cabinet, où apres avoir vû vos Enigmes avec attention, j’invoquay plus de six fois Apollon &amp; les Muses, lesquelles m’inspirerent ces pensées.</p>
-          <lg><l>Ce petit Nain avec son gros teignon,</l>
-          <l>Qui d’un pied vient en diligence,</l>
-          <l>Et comme un rude Compagnon</l>
-          <l>Peut terrasser un Homme d’importance,</l>
-          <l>Sçavez-vous bien ce que j’en pense ?</l>
-          <l>Ce n’est ma foy qu’un <hi rend="i">Champignon.</hi></l>
-          </lg><lg>
-          <l>Sans tant tourner autour du pot,</l>
-          <l>Pour trouver de ces Vers le veritable Mot,</l>
-          <l>Qu'à deviner chacun s’appreste,</l>
-          <l>Je ne me dis pas grand Prophete,</l>
-          <l>Mais c’est la <hi rend="i">Barbe</hi>, ou je ne suis qu’un Sot.</l>
-          </lg><lg>
-          <l>Qu'il est doux de s’imaginer</l>
-          <l>Ce que dans ce Tableau cette Enigme nous marque !</l>
-          <l>C'est le fruit des travaux de nostre grand Monarque,</l>
-          <l>C'est l<hi rend="i">a Paix</hi> que LOUIS s’appreste à nous donner.</l></lg>
+        <quote>
+          <label rend="center">LETTRE VI.</label>
+          <p>Il y a quelques temps, Monsieur, que je me mets sur le pied de bel Esprit, c’est à dire de bel Esprit de Province, &amp; personne ne s’estoit encore avisé de m’en disputer le Titre, que dans une Compagnie où je me trouvay hier apres dîné. Je tâchois là de debiter mes Fleuretes à demy-fletries entre cinq ou six Belles, &amp; je me faisois attentivement écouter par deux ou trois Sots qui se récrimoient à chaque parole, quand un nouveau venu, lequel apparament n’avoit pas accoûtumé de demeurer sans rien dire, ennuyé de m’entendre toûjours parler, &amp; se fâchant de me voir trop applaudy ; Mon Dieu ! Dit-il, il semble que Monsieur est icy quelque Oracle ; il veut faire le bel Esprit, &amp; son nom n’est point dans le Mercure. Je vous avoüe, Monsieur, que ce reproche me toucha. Je sortis brusquement sans répondre une parole, &amp; j’allay chercher un Mercure, avec lequel je me vins enfermer dans mon Cabinet, où apres avoir vû vos Enigmes avec attention, j’invoquay plus de six fois Apollon &amp; les Muses, lesquelles m’inspirerent ces pensées.</p>
+          <lg>
+            <l rend="i">Ce petit Nain avec son gros teignon,</l>
+          <l rend="i">Qui d’un pied vient en diligence,</l>
+          <l rend="i">Et comme un rude Compagnon</l>
+          <l rend="i">Peut terrasser un Homme d’importance,</l>
+          <l rend="i">Sçavez-vous bien ce que j’en pense ?</l>
+          <l><hi rend="i">Ce n’est ma foy qu’un</hi> Champignon.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Sans tant tourner autour du pot,</l>
+          <l rend="i">Pour trouver de ces Vers le veritable Mot,</l>
+          <l rend="i">Qu'à deviner chacun s’appreste,</l>
+          <l rend="i">Je ne me dis pas grand Prophete,</l>
+          <l><hi rend="i">Mais c’est</hi> la Barbe<hi rend="i">, ou je ne suis qu’un Sot.</hi></l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Qu'il est doux de s’imaginer</l>
+          <l rend="i">Ce que dans ce Tableau cette Enigme nous marque !</l>
+          <l rend="i">C'est le fruit des travaux de nostre grand Monarque,</l>
+            <l><hi rend="i">C'est </hi>la Paix <hi rend="i">que LOUIS s’appreste à nous donner.</hi></l>
+          </lg>
           <p>Apres cela, Monsieur, je demeureray fort satisfait de moy, &amp; je pris bien dessein de me vanger de l’Homme qui m’avoit méprisé, en luy faisant voir dans la premier Mercure, entre les autres noms imprimez, celuy de vostre tres-humble serviteur,</p>
           <p>Y. Z.</p>
         </quote>
@@ -436,9 +487,9 @@
       <div type="article" xml:id="MG-1678-09e_053" resp="mercure">
         <head>Lettre VII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 53-55.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre VII.</label>
-          <p>J'Explique, Monsieur, l’Enigme du Serpent d’Epidaure sur la Paix. Elle vient cette Paix, l’amour &amp; les délices des Peuples, sous la figure de ce salutaire Serpent, qui accourt au secours des Romains qu’une mortelle peste avoit réduits aux derniers abois, apres avoir fait mourir un si grand nombre d’Hommes, que ce vaste &amp; orgueilleux Empire sembloit estre devenu celuy de la mort.</p>
+        <quote>
+          <label rend="center">LETTRE VII.</label>
+          <p>J'explique, Monsieur, l’Enigme du Serpent d’Epidaure sur la Paix. Elle vient cette Paix, l’amour &amp; les délices des Peuples, sous la figure de ce salutaire Serpent, qui accourt au secours des Romains qu’une mortelle peste avoit réduits aux derniers abois, apres avoir fait mourir un si grand nombre d’Hommes, que ce vaste &amp; orgueilleux Empire sembloit estre devenu celuy de la mort.</p>
           <p>Parmy les dangereuses piqueures du Serpent, la Medecine feconde en puissans Remedes, en a heureusement tiré de grands Antidotes, qui n’ont pas une mediocre ressemblance à ce divin secours, dont le Rameau d’Olives tant desiré, fut autrefois un si heureux présage.</p>
           <p>Ces Peuples qui accourent en foule, ces Affligez, ces Mourans &amp; ces Malades, font ces Villes &amp; ces Provinces réduites aux dernieres extremitez. Ces Figures qui portent &amp; jettent des fleurs en habits longs &amp; courts, avec des Tambours de Basque &amp; des Trompettes, sont les Electeurs &amp; Princes de l’Empire, qui s’empressent d’honorer le retour de cette divine Paix, pour laquelle ils ont tant soûpiré.</p>
           <p>Ces trois Figures élevées sur une espece de Trône, sont les trois mobiles de la Guerre. L'Empereur est placé au milieu portant un Monde à la main gauche, &amp; à costé la Hollande &amp; l’Espagne qui témoignent en dansant une tres-grande joye de voir renaistre le repos par le retour de la Paix</p>
@@ -452,27 +503,25 @@
       <div type="article" xml:id="MG-1678-09e_055" resp="mercure">
         <head>Lettre VIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 55-57.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre VIII.</label>
-          <p>Au Mans.</p>
-          <p>JE suis fort trompé, Monsieur, si la premiere de vos deux Enigmes du mois de Juillet n’est un <hi rend="i">Champignon.</hi> Il n’a qu’un pied avec une grosse teste. Il vient dans une nuit. Ses Freres bastards sont les Potirons. Quand on le prend dans sa mauvaise humeur, c’est à dire sans en faire sortir quelquefois une certaine eau, il fait beaucoup de mal. Plusieurs Personnes sont mortes pour en avoir mangé. Il terrasse le plus fort, témoin l’Empereur Claude que Neron fit mourir avec des Champignons. Il est vray qu’il y mesla un peu de poison, &amp; c’est pourquoy il les appelloit un manger de Dieux, parce que les Empeureurs morts estoient mis au nombre des Dieux par de superbes Apotheoses. C'est aussi ce qui fit faire à Seneque ce plaisant discours sur la mort de Claide qu’il intitula, <hi rend="i">Apocolokyntofis</hi>, c’est à dire, <hi rend="i">Immortalité acquise par le moyen des Champignons</hi>. Dioscoride en compte que de deux sortes, les uns qui sont bons à manger, &amp; les autres qui sont venimeux ; mais j’ay veu un Gentilhomme qui en connoissoit de trente-sept especes differentes, &amp; qu’il accommodoit d’une maniere admirable. Je suis vostre tres, &amp;c.</p>
+        <quote>
+          <label rend="center">LETTRE VIII.</label>
+          <p rend="i">Au Mans.</p>
+          <p>Je suis fort trompé, Monsieur, si la premiere de vos deux Enigmes du mois de Juillet n’est un <hi rend="i">Champignon.</hi> Il n’a qu’un pied avec une grosse teste. Il vient dans une nuit. Ses Freres bastards sont les Potirons. Quand on le prend dans sa mauvaise humeur, c’est à dire sans en faire sortir quelquefois une certaine eau, il fait beaucoup de mal. Plusieurs Personnes sont mortes pour en avoir mangé. Il terrasse le plus fort, témoin l’Empereur Claude que Neron fit mourir avec des Champignons. Il est vray qu’il y mesla un peu de poison, &amp; c’est pourquoy il les appelloit un manger de Dieux, parce que les Empeureurs morts estoient mis au nombre des Dieux par de superbes Apotheoses. C'est aussi ce qui fit faire à Seneque ce plaisant discours sur la mort de Claide qu’il intitula, <hi rend="i">Apocolokyntofis</hi>, c’est à dire, <hi rend="i">Immortalité acquise par le moyen des Champignons</hi>. Dioscoride en compte que de deux sortes, les uns qui sont bons à manger, &amp; les autres qui sont venimeux ; mais j’ay veu un Gentilhomme qui en connoissoit de trente-sept especes differentes, &amp; qu’il accommodoit d’une maniere admirable. Je suis vostre tres, &amp;c.</p>
           <p rend="sc">Desgallesnieres. </p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_058" resp="mercure">
-        <head>[Réponse aux Énigmes] *</head>
+        <head>[Réponse aux Énigmes]*</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 58-64.</bibl>
         <p>[…]</p>
       </div>
       <div type="article" xml:id="MG-1678-09e_064" resp="mercure">
         <head>Aux Chevaliers de Bacchus, Alcipe et Philandre</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 64-68.</bibl>
-        <p>Voyez, Madame, comme les gousts sont diférens. Des deux premieres Pieces que vous allez voir, la premiere est toute pour Bacchus, &amp; la seconde fait connoistre que le plaisir d’aimer dois estre preferé à tous les autres plaisirs. Vous les trouverez suivies de quelques Ouvrages de Vers que je ne croy pas indignes de vostre approbation.</p>
-        <quote rend="border">
-          <label rend="center">Aux Chevaliers</label>
-          <label rend="center"> de Bacchus, </label>
-          <label rend="center">Alcipe et Philandre.</label>
-          <p rend="i">Salut, bon feu, bon vin &amp; bonne chere. </p>
+        <p rend="i">Voyez, Madame, comme les gousts sont diférens. Des deux premieres Pieces que vous allez voir, la premiere est toute pour Bacchus, &amp; la seconde fait connoistre que le plaisir d’aimer dois estre preferé à tous les autres plaisirs. Vous les trouverez suivies de quelques Ouvrages de Vers que je ne croy pas indignes de vostre approbation.</p>
+        <quote>
+          <label rend="center">AUX CHEVALIERS <lb/>DE BACCHUS, <lb/>ALCIPE ET PHILANDRE.</label>
+          <p rend="i">Salut, bon feu, bon vin &amp; bonne chere.</p>
           <p>Comme je prens part à tout ce qui vous regarde, je crois estre obligé de vous avertir du mauvais tour qu’une méchante Langue vous joüe, &amp; de la dangereuse accusation qu’elle a formée contre vous devant le plus redoutable Juge que nous autres Chevaliers de Bacchus reconnoissions. Vous sçaurez donc, mes chers Camarades, que Bacchus seant hier sur un Tonneau à l’ombre d’un bouchon, &amp; assisté de six ou sept de ses Favoris Yvrognes qui composent son Conseil ; une venerable Langue de Porc, secondée de quelques Cervelats ses Complices, vint faire de grosses plaintes de vous, de ce qu’estant sommez de venir secourir ce bon Roy dans une pressante necessité, lors que la Pluye son Ennemie se fiant sur ses forces tâchoit de l’opprimer injustement, &amp; que ses bons &amp; fidelles Serviteurs haussant le temps faisoient tous leurs efforts pour détourner cet orage de dessus la teste de leur bon Maistre, vous vous estiez tous deux amusez à resver dans vostre Cabinet songeant à toute autre chose qu’à le secourir. D'où elle concluoit que vous eussiez à estre déclarez incapables de manier le verre sous ce Monarque. Déjà mesme ces braves Conseillers par un branlement de teste qui leur est assez ordinaire, sembloient approuver la demande de vostre Accusatrice, lors qu’ayant demandé d’estre entendu à mon tour, (voyez ce que valent les Amis au besoin) je representeray fort au long merite des deux Accusez, &amp; combien ils avoient servy dans les occasions ; ensuite je suppliay Bacchus de vous continuer &amp; maintenir dans les droits, privileges &amp; immunitez de ses Chevaliers, à la charge neanmoins &amp; condition que vous viendrez Dimanche prochain, malgré la Pluye &amp; la Neige, vous justifier plus amplement dans la Chambre où Bacchus préside d’ordinaire. Icy finit ma Harangue, &amp; si vous le trouvez bon, icy finira ma Lettre.</p>
           <p><hi rend="sc">Alcidon</hi>.</p>
         </quote>
@@ -480,7 +529,7 @@
       <div type="article" xml:id="MG-1678-09e_069" resp="mercure">
         <head>À Madame**. De la préférence que le plaisir d’aimer doit avoir sur tous les autres</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 69-79.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">À Madame**.</label>
           <label rend="center">
             <hi rend="i">De la préférence que le plaisir d’aimer doit avoir sur tous les autres.</hi>
@@ -503,7 +552,7 @@
       <div type="article" xml:id="MG-1678-09e_079" resp="mercure">
         <head>Le Silence d’une Belle qui se défendoit d’écrire sur ce qu’elle ne sçavoit pas biens s’expliquer par Lettres</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 79-80.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Le Silence d’une Belle </label>
           <label rend="center">qui se défendoit d’écrire sur ce qu’elle ne sçavoit pas biens s’expliquer par Lettres.</label>
           <l>LA main est engourdie où le cœur n’est pas pris ;</l>
@@ -526,7 +575,7 @@
       <div type="article" xml:id="MG-1678-09e_080" resp="mercure">
         <head>Consultation d’Amour</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 80-81.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Consultation d’Amour.</label>
           <lg><l>VOir une Belle, admirer ses attraits,</l>
           <l>La regarder sans cesse, étudier ses charmes,</l>
@@ -553,7 +602,7 @@
       <div type="article" xml:id="MG-1678-09e_082" resp="mercure">
         <head>Rondeau Sur un Moineau que la perte de sa Femelle a fait mourir de douleur</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 82-83.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Rondeau </label>
           <label rend="center">Sur un Moineau que la perte de sa Femelle a fait mourir de douleur.</label>
           <lg><l>Mourir d’amour est un fort grand suplice,</l>
@@ -580,7 +629,7 @@
       <div type="article" xml:id="MG-1678-09e_083" resp="mercure">
         <head>Sonnet</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 83-84.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sonnet.</label>
           <lg><l>LE cœur d’Iphis se laissa prendre</l>
           <l>Aux yeux brillans d’une Beauté,</l>
@@ -605,7 +654,7 @@
       <div type="article" xml:id="MG-1678-09e_084" resp="mercure">
         <head>Fiction sur l’Origine des Mouches Galantes</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 84-88.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Fiction </label>
           <label rend="center">sur l’Origine des Mouches Galantes.</label>
           <p>L'Amour ne pouvoit souffrir sans chagrin l’indépendance des Mouches. On sçait qu’elles se multiplient &amp; se conservent sans le secours de cette Divinité. Il devenoit encor plus chagrin contre elles par les plaisanteries de Momus, qui faisoit rire quelquefois les Immortels par une comparaison badine de l’Amour &amp; des Mouches. N'ont-elles pas, disoit-il, un aiguillon qui leur sert de flêches, &amp; des aisles comme luy ? Il n’y a que l’Amour &amp; la Mouche qui osent distraire par leur importunité l’Homme le plus Philosophe du Monde. L'Amour piqué de ces railleries se fit une affaire d’exterminer les Mouches, comme cet Empereur Romain, qui s’enfermoit dans son Cabinet, pour en prendre. La belle Vénus approuvoit la vangeance de son Fils, &amp; nourissoit de cette chasse les Moineaux de l’attelage de son Char. Ces Moineaux prirent goust à ce Gibier, &amp; c’est ce qui les porta à faire une ligue offensive avec l’Amour contre les Mouches, qui n’ont pas aujourd’huy de plus terribles Ennemis qu’eux. Pour ce qui est de l’Amour, il se reservoit les aisles des Mouches comme autant de marques de Chasse. Il avoit remarqué que Diane en usoit ainsi, &amp; que la porte de son Palais estoit couverte ou de Bois de Cerfs, ou de Testes de Renard, de Loup, ou de quelque autre Beste. Il estoit prest de suivre cet exemple, lors que Vénus luy remontra que c’estoit une Loy établie dans tout l’Univers de servir à l’Amour ; que les Precieuses de ce Monde devenoient Coquettes dans l’autre, &amp; par conséquent qu’il estoit à propos de faire un usage galant de ces Aisles de Mouches. Elle luy fit comprendre qu’elle fourniroit assez de gomme, pour en attacher sur toutes celles qui dépendoient de luy, autant qu’il seroit necessaire pour donner de nouveaux charmes à leur beauté. L'Amour obeït à sa Mere, &amp; les Mouches servirent si bien à la galanterie, que l’Amour ne pouvoit attendre une plus entiere satisfaction, puis qu’il y en a mesmes qui luy servent d’assassins. Pourquoy donc resister à l’Amour, puis que tost ou tard il a de nous, ou pied, ou aisle ?</p>
@@ -616,7 +665,7 @@
       <div type="article" xml:id="MG-1678-09e_088" resp="mercure">
         <head>Problème Tiré du Mercure Galant du Mois de juin 1678</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 88-106.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Problème</label>
           <label rend="center">Tiré du Mercure Galant du Mois de Juin 1678.</label>
           <p>UN Viellard fort riche, charmé des cheveux blons d’une jeune Fille qui avoit peu de bien l’épousa. Quelque temps apres son Mariage, ayant reconnu l’artifice de sa Femme, &amp; que ses beaux cheveux n’estoient à elle que parce qu’elle les avoit payez, il luy ordonna de se retirer chez sa Mere, &amp; depuis il ne l’a pas voulu voir. On dit mesme qu’il prétend que cette tromperie est une cause suffisante pour faire rompre son Mariage. Il s’agit de sçavoir s’il est bien ou mal fondé en sa prétention.</p>
@@ -639,7 +688,7 @@
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 106-112.</bibl>
         <p>Les trois Sonnets qui suivent sont une imitation de trois autres de Petrarque, dont les premiers Vers vous sont marquez. M<hi rend="sup">r</hi>  Chaluet Avocat à Marseille en est l’Autheur. Il a beaucoup de talent pour-la Poësie, &amp; doit donner au Public avant qu’il soit peu, la Traduction de ce qui nous reste des œuvres de Petrarque.</p>
         <p>Imitation du Sonnet de Petrarque, qui commence, <hi rend="i">Asprocuore e selvagio, e cruda voglia, &amp;c</hi>.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sonnet.</label>
           <lg><l>D'Un visage si beau la trompeuse douceur</l>
           <l>Cache aux yeux d’un Amant une ame si farouche !</l>
@@ -660,7 +709,7 @@
           <l>Il n’est rien qui ne-cede à de si douces armes.</l></lg>
         </quote>
         <p>Imitation du Sonnet de Petrarque, qui commence, <hi rend="i">Amor che vedi ogni pensiero aperto, &amp;c.</hi></p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sonnet Libre.</label>
           <lg><l>TOy qui n’ignores pas le secret de mon ame,</l>
           <l>Ny le rude chemin par où tu me conduis ;</l>
@@ -681,7 +730,7 @@
           <l>Celle pour qui je meurs ne s’en offence pas.</l></lg>
         </quote>
         <p>Imitation du Sonnet de Petrarque, qui commence, <hi rend="i">S'amor non è, ch'è dunque quel ch'i sento</hi> ?</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sonnet Libre.</label>
           <lg><l>SI ce n’est pas amour, qu’est-ce donc que je sens ?</l>
           <l>Mais si c’estoit amour, Dieux ! Quelle est sa nature ?</l>
@@ -706,7 +755,7 @@
         <head>[Autres Pièces : Le Berger Heureux et Élégie] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 112-118.</bibl>
         <p>Voicy d’autres Pieces qui portent leur recommandation par elles-mesmes ; ainsi je ne vous dis rien à leur avantage.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Le Berger Heureux, </label>
           <label rend="center">preferé à son Rival par sa Maitresse, à ses yeux mesmes.</label>
           <l>ADieu, Prairie, adieu, puis que l’ingrate Annette</l>
@@ -781,7 +830,7 @@
       <div type="article" xml:id="MG-1678-09e_118" resp="mercure">
         <head>À Monsieur D. M. sous le nom de Philandre</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 118-122.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">À Monsieur D. M. sous le nom de Philandre.</label>
           <p>J'Ay à vous donner avis, Monsieur, d’une affaire qui vous concerne aussi bien que moy.</p>
           <lg><l>Ce matin au plus frais du jour</l>
@@ -798,7 +847,7 @@
           <l>Qu'en mes mains il devoit remettre,</l>
           <l>Où j’ay trouvé ce mot de Lettre</l>
           <l>Datté du Plessis-Picquet.</l></lg>
-          <label rend="center">Lettre du Printemps,</label>
+          <label rend="center">LETTRE du Printemps,</label>
           <label rend="center"><hi rend="i">Aux Illustres Chevaliers des Plaisirs Alcidon, Alcipe &amp; Philandre</hi>.</label>
           <p>Il y a plus de quinze jours que les Plaisirs vous attendent, Illustres Chevaliers. Ils se sont rendus icy par ordre pour vous y recevoir avec plus de magnificence. Ma Cour est plus belle qu’elle n’a jamais esté, &amp; l’esperance de vous y posseder bien-tost y a tant attiré de jeux, de graces &amp; de charmes, que vous y trouverez un second Siecle d’or. Pour moy sans vanité j’ay fait tout ce que je pouvois faire, puis que malgré les avantages que j’avois sur l’Hyver &amp; l’Esté mes perpetuels Ennemis, j’ay bien voulu accorder treve à l’un &amp; à l’autre pour l’amour de vous, de crainte que pendant le séjour que vous ferez en ces lieux, ils ne troublassent par quelque acte d’hostilité vostre repos, &amp; les douceurs dont je prétens vous régaler ; ainsi vous n’aurez point à redouter ny le froid du matin, ny la trop grande chaleur du Midy. Flore s’y est aussi assez bien employée de son costé. Vous ne verrez icy que de ses Ouvrages : tout mon Palais est tendu de riches Tapisseries de Tulipes, d’Anemones, de Narcisses, de Couronnes Imperiales, &amp; de tout ce qui est jamais party de plus beau de ses sçavantes mains. Le mois de May arrivera Mardy sans faute, accompagné de ses plus beaux jours pour rendre la Feste plus celebre. Le pauvre Avril vous sçait fort mauvais gré de n’estre pas venus comme vous luy aviez promis pendant qu’il estoit de quartier ; mais ce fera, je vous assure, le seul mécontent que vous ferez. Du Plessis Piquet le 29. Avril, &amp; de nostre Regne le ….. signé, <hi rend="sc">Printemps</hi>.</p>
           <p>Voilà, Monsieur, une Lettre bien obligeante &amp; bien familiere pour venir de la part d’un grand Roy. Elle m’a tellement surpris d’abord, que quoy que je fusse bien certain de n’estre pas des-avoüé, je n’ay osé rendre aucune réponce à cet Ambassadeur, je l’ay seulement prié d’assurer son Maistre de mes tres-humbles respects. Au reste je ne vous envoye point l’original de cette Lettre. Elle est écrite sur un papier si délicat &amp; si fin, que je craindrois qu’on ne la rompit en vous la portant. J'attens à vous la montrer à nostre premiere veuë, &amp; suis vostre tres, &amp;c.</p>
@@ -809,7 +858,7 @@
         <head>[De l’origine de la Porcelaine] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 122-142.</bibl>
         <p>Pour diversifier la matiere, je passe, Madame aux nouvelles que vous me demandez de la Foire de S. Laurens. Elle est toujours ce que vous l’avez veuë, c’est à dire un assemblage de Monstres, de Raretez, &amp; de Beautez. Les Monstres sont aux environs des principales Entrées. On les y fait venir de toutes les Parties du Monde, &amp; on peut satisfaire sa curiosoté là-dessus pour peu de chose. Les Raretez sont dans les Boutiques, &amp; la veuë n’en couste rien. Quant aux Beautez, elles se promenent tous les soirs dans la Foire, &amp; quoy qu’on les voye facilement, c’est un plaisir que beaucoup de Regardans achetent quelquefois bien cher. Parmy les Raretez qui n’y manquent presque jamais, il s’en est veu cette année d’extraordinaires. Ce sont les Porcelaines que Madame la Duchesse de Clevenand y a fait vendre. Il y en avoit d’admirables par leurs figures, par les choses qui estoient representées dessus, &amp; par la diversité de leur couleurs. Les plus rares estoient montées ou d’or, ou de vermeil doré, &amp; garnies diversement de la mesme matiere en plusieurs endroits. Comme on me les avoit fort vantées, je me hastay de les aller voir. À peine commençois-je à considérer tant de merveilles de la Nature &amp; de l’Art, quand je vis entrer une Compagnie de ma connoissance dans la Boutique où elles estoient exposées aux Curieux. Un fort galant Homme donnoit la main à une jeune Veuve dont on ne le croit pas hay ; &amp; comme la Dame avoit toûjours estimé les Porcelaines ordinaires, elle fut charmée de celles de Madame la Duchesse de Cleveland (j’entens de celles qui estoient de diverses couleurs, &amp; elle ne pouvoit comprendre comment une mesme Personne avoit amassé un si grand nombre de Pieces si rares. Le Cavalier luy fit connoistre qu’il n’y avoit pas lieu de s’étonner que Madame de Cleveland eust fait cet amas en Angleterre, &amp; que c’estoit l’élite des plus belles Porcelaines que plusieurs Vaisseaux de ce Païs y avoient apportées pendant plusieurs années de tous le lieux où ils avoient accés pour le Commerce. On les admira toutes en general, &amp; chacun parla de celles qui luy plaisoient davantage. La Dame fit comme les autres, &amp; en marqua quelques-unes où elle trouvoit une plus agreable diversité de couleurs. On demanda en suite s’il falloit dire Pourcelines, ou Porcelaines. La plûpart furent pour ce premier nom. Le Cavalier qui avoit beaucoup leû, &amp; encore plus voyagé, soûtint que c’estoit mal dit ; que les Chinois mesmes n’avoient point d’autre mot que celuy de Porcelaine, &amp; qu’on l’avoit trouvé si facile à prononcer, que nous l’avions conservé en France, quoy qu’il fust purement Chinois. Il ajoûta que ce mot estoit si vieux, qu’on ne sçavoit pas mesme dans le Païs pourquoy on l’avait donné à cette sorte de terre dont on fait la Porcelaine, &amp; que la plus commune opinion estoit qu’il avoit quelque raport avec le nom de celuy qui s’avisa le premier d’en former des Vases. Ce n’est pas la seule chose dont nous ne connoissons point l’origine. La Dame fit une autre Question, &amp; voulut sçavoir s’il estoit vray que la Porcelaine eust besoin d’estre enterrée cent ans pour estre parfaite, comme beaucoup se le persuadent en France &amp; en d’autres lieux, en sorte que celuy qui luy donnoit la premiere forme, n’avoit jamais la joye de voir l’ouvrage dans son entiere beauté. Le Cavalier entamoit déjà cette matiere, quand plusieurs Personnes de qualité arriverent dans cette Boutique. La Conversation changea par cette augmentation de Compagnie. On parla de Paix &amp; de Guerre, &amp; comme on fit Partie pour les divertissemens de la Foire, la Dame qui vouloit estre éclaircie sur la Porcelaine, pria le Cavalier de luy rendre visite le lendemain, afin de résoudre sa Question. Je fus bien aise d’entendre ce qu’il diroit, &amp; me rendis chez cette aimable Personne de fort bonne heure. Le Cavalier n’y vint point, mais il en usa galamment, en luy envoyant les Porcelaines qu’elle avoit préferées aux autres, avec une Lettre qui luy apprenoit plus qu’elle n’avoit demandé. Elle se défendit de recevoir le Présens ; mais le Porteur qui avoit ses ordres, n’attendit point de Réponse, &amp; laissa outre les Porcelaines, un Tableau qui representoient une magnifique Tour. La Dame, apres avoir parcouru la Lettre, ne me permis pas seulement de la lire, mais d’en prendre Copie, que je la priay de me donner. Elle estoit conçeuë en ces termes.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">À Madame**</label>
           <p>Je vous conjure, Madame, de ne pas refuser les Porcelaines que je remarquay hier qui vous avoient plû. Ce n’est qu’à cette condition que je vay satisfaire vostre curiosité, &amp; vous dire tout ce que je sçay des Porcelaines en general. Comme elles sont devenuës un meuble quasi necessaire, vous avez des Amies qui seront peut-estre bien-aises d’apprendre de vous, dequoy elles parlent quand elles s’entretiennent de ce qui fait une partie de l’ornement des Appartemens les plus somptueux. Il est certain que la plus belle, c’est à dire ce qu’on appelle veritable Porcelaine, vient de la Chine, &amp; que les Chinois qui en font beaucoup exprés pour eux, en font moins de bleües que de vertes, de rouges &amp; de jaunes. Ce qui est cause que nous n’en voyons presque en Europe que de cette premiere couleur, c’est que les Marchands qui trafiquent dans la Chine, sçachant que nous préferons icy les bleües, n’en choisissent presque jamais d’autres. Cependant il semble que la mode d’en aporter de toutes les couleurs soit sur le point de commencer. On ne peut faire de Porcelaine à la Chine que dans une petite étenduë de Païs. On va prendre la terre dont on la forme dans une autre Province que celle où elle se fait, car dans la Province où cette terre se trouve, il est impossible d’en faire de bonne, soit que la qualité des eaux soit contraire, soit que le bois ne puisse faire un feu assez sec. La terre dont on se sert pour cet admirable travail est maigre, menuë, &amp; luisante Ainsi, Madame, quand vous trouvez icy des Porcelaines qui n’ont point cette derniere qualité dans la mesme perfection que les autres, vous ne devez point douter qu’elles n’ayent esté refaites. En voicy la raison. Quand la Porcelaine est cassée, on en broye &amp; pile les morceaux, &amp; ces morceaux ainsi broyer, servent à en faire de nouvelles qui n’ont plus l’éclat &amp; la beauté des premiéres. Comme les couleurs qu’on y met ne font autre chose qu’une peinture, vous jugez bien que les rouges, les vertes, &amp; les jaunes, ne doivent pas estre plus rares que les bleuës. Cependant il est tres-vray que la Porcelaine est fort difficile à faire, &amp; que le secret n’en est pas sçeu de tous les Chinois. Cette Science les rend extrémement fiers, &amp; qui en feroit part à d’autres qu’à ses Heritiers, seroit estimé tres criminel parmy eux. La terre dont on fait les Porcelaines, se prépare de diferentes manieres. Les uns en font dés qu’ils la reçoivent, &amp; les autres tout au contraire la font secher jusqu’à ce qu’elle soit dure comme un caillou. Ils la broyent, &amp; pilent en suite dans des Mortiers ou Moulins, la pétrissent avec de l’eau, &amp; en forment des Vases qu’ils exposent longtemps au vent &amp; au Soleil, avant que d’y mettre la derniere main. Apres qu’ils sont bien sechez, on les met dans des Fourneaux à bois, qu’on bouche avec soin, &amp; où l’on entretient le feu pendant quinze jours. On les y laisse encor le mesme espace de temps, afin qu’estant refroidis lentement, ils soient moins sujets à se casser, car l’experience a fait voir que lors qu’on les a tirez tout rouges hors du feu, ils avoient autant de fragilité que le verre. Ce feu doit estre de bois sec &amp; clair, autrement la fumée gâteroit tout. Les trente jours estant expirez, l’Intendant de ce Mestier vient déboucher les Fourneaux, &amp; en tire le cinquième Vase pour l’Empereur. Avoüez Madame, vous qui aimez la Porcelaine autant que vous faites, que vous ne sçaurez lire cet endroit sans souhaiter de vous voir Reyne de la Chine, afin d’estre maistresse d’une si grande quantité de Vases exquis. La bonne Porcelaine a toutes les merveilleuses qualitez que vous sçavez qu’on luy attribuë. Elle endure le feu des viandes chaudes, &amp; ce feu ne la fend jamais. Elle se rejoint si aisément, &amp; la matiere en est si unie, qu’estant cassée, elle retient l’eau, pourveu seulement qu’on en lie les morceaux avec un fil d’archal. Croirez-vous apres cela ce qu’on vous a voulu persuader, &amp; que beaucoup de Gens croyent encor aujourd’huy, que la Porcelaine ne se fait que de calles d’œufs, ou de coquilles de Mer pilées, dont la poudre se garde en masse cent ans dans la terre avant qu’on en forme les Vases que nous voyons ? Quoy que la Porcelaine se fasse à la Chine, vous pouvez conoistre apres tout ce que je viens de vous expliquer, qu’elle n’y est pas si commune. Cependant il y a un Bastiment en ce Païs-là tout de Porcelaine, qui passeroit icy pour une Merveille, &amp; qui cousteroit des sommes immenses, quand il ne seroit basty que de nos Pierres, &amp; mesme sur le bord de nos Carrieres. C'est une Tour que je vous prie de considerer dans le Tableau que je vous envoye. Elle peut passer pour la huitiéme Merveille du Monde, &amp; passeroit peut-estre pour la premiere, si elle avoit l’avantage de l’Antiquité. Comme elle est entierement de ce qu’on appelle icy veritable Porcelaine, le prix n’en pourroit estre estimé, si elle estoit ailleurs que dans le Païs. Elle paroist toute d’une piece, tant chaque morceau en est bien joint. Cette Tour a neuf Etages voûtez, &amp; chaque Etage une Gallerie à balustrades qui regne tout autour, &amp; dont l’ouvrage est si merveilleux, qu’il n’est pas possible d’en exprimer la beauté. Les Fenestres de cette Tour sont rondes, &amp; entre chacune il y a de petites Ouvertures quarrées qui sont plus élevées que ces Fenestres. Ces Ouvertures sont fermées comme des Jalousies, d’une matiere qui ressemble à de l’argent. Toutes les Porcelaines qui forment cette Tour, sont vertes, rouges, &amp; jaunes. Il n’y en a que tres-peu de bleuës. Quand elles sont frapées du Soleil, le luisant qu’elles ont par elles-mesmes rend un éclat si ébloüissant, que les yeux ne le sçauroient soütenir. Joignez à cela le brillant des Balustres, des petites Fenestres dont je vous viens de parler, &amp; de neuf toits verts qui sont au dessus de chaque Gallerie, &amp; que le Verny rend luisans, Huit Solivaux dorez &amp; travaillez admirablement, sortent de chaque toit d’un espace égal, de maniere que chaque toit est partagé en huit pans. Au bout de chaque Solivau pend une petite Cloche de cuivre attachée à une chaîne d’or. Le vent fait quelquefois sonner toutes ces Cloches ensemble, &amp; elles ont une si agreable varieté dans leur son, que le plus mélancolique en est diverty. La pointe de cette Tour est ornée d’une Pomme de Pin d’or d’une grosseur proportionnée à tout l’Ouvrage. Il y a plusieurs Cercles d’or au dessous, qui entourent une maniere de Baston de mesme métal, sur le bout duquel et la Pomme de Pin. Plusieurs Chaînes d’or pendent des premieres feüilles de cette Pomme, &amp; retombent jusques sur les bouts des Solivaux qui saillent de la voûte du dernier Etage, &amp; ausquelles pendent les Cloches de cette derniere voûte. J'oubliois à vous dire que le pied de cette Tour est environné d’une Terasse fort large. Une Balustrade la borde, &amp; regne aux costez des degrez par lesques on monte sur cette Terrasse. On entre dans la Tour par vingt-quatre Portes rondes, au dessus desquelles est un toit de la maniere de ceux dont je vous ay déjà parlé, mais beaucoup plus grand. Je ne vous dis rien de ce qui se voit sur tout cet Ouvrage, puis que vous pouvez distinguer plusieurs Figures dans le Dessein que je vous envoye. Il y a pres de huit cens ans que les Tartares ayant envahy le Royaume de la Chine, obligerent ceux du Païs de dresser cette Tour comme un monument de leurs Victoires.</p>
           <p>Il sera peut-estre peu galant de finir ma Lettre, sans vous parler de ce qui me tient plus au cœur que la Porcelaine ; mais, Madame, si ce que je vous auray appris sur cette matiere ne vous occupe pas tout-à fait l’Esprit, j’espere que vous voudrez bien entendre dans toute sa force, la sincere protestation que je fais d’estre tant que je vivray, vostre tres, &amp;c.</p>
@@ -820,7 +869,7 @@
         <head>Ode Bachique</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 142-146.</bibl>
         <p>Je reviens aux Ouvrages d’esprit. L'ode Bachique que vous allez voir sera pour vos Amis de bon goust. Elle est de saison. Nous sommes dans le plus fort des Vendanges.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Ode Bachique.</label>
           <lg><l>DAmon, c’est une folie</l>
           <l>De se tourmenter si fort,</l>
@@ -913,7 +962,7 @@
       <div type="article" xml:id="MG-1678-09e_147" resp="mercure">
         <head>La Reservée</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 147.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">La Reservée.</label>
           <l>Vostre cœur, belle Iris, est-il si precieux,</l>
           <l>Que jamais l’amour ne le touche ?</l>
@@ -931,7 +980,7 @@
       <div type="article" xml:id="MG-1678-09e_148" resp="mercure">
         <head>L'Amour Poete, Rondeau</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 148-149.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">L'Amour </label>
           <label rend="center">Poete, </label>
           <label rend="center">Rondeau.</label>
@@ -957,7 +1006,7 @@
       <div type="article" xml:id="MG-1678-09e_149" resp="mercure">
         <head>L'Amant Indifférent, Madrigal</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 149-150.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">L'Amant </label>
           <label rend="center">Indiferent,</label>
           <label rend="center">Madrigal.</label>
@@ -979,8 +1028,8 @@
       <div type="article" xml:id="MG-1678-09e_150" resp="mercure">
         <head>Lettre IX [sur l’origine des Mouches Galantes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 150-157.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre IX.</label>
+        <quote>
+          <label rend="center">LETTRE IX.</label>
           <p rend="i">D'aupres de S. Mai vent </p>
           <p rend="i">en Poitou. </p>
           <p>IL faut, Monsieur, que je vous apprenne ce que j’ay pensé de l’origine des Mouches. Il n’y a personne qui n’ait oüy parler des Pygmées, &amp; de la guerre qu’ils ont euë longtemps contre les Gruës ; mais on ne sçait peut-être pas ce qui a esté la cause de leur entiere ruine. En voicy l’Histoire.</p>
@@ -993,8 +1042,8 @@
       <div type="article" xml:id="MG-1678-09e_157" resp="mercure">
         <head>Lettre X</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 157-159.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre X.</label>
+        <quote>
+          <label rend="center">LETTRE X.</label>
           <p>VOus sçaurez par cette Lettre, Monsieur, que vostre Mercure s’acquite parfaitement bien de son devoir selon vos intentions, c’est à dire qu’il parvient régulierement jusqu’aux extrémitez de la France, pour nous faire part de vos galantes nouveautez. Si j’en demeurois là, il n’y auroit rien d’extraordinaire à vous apprendre. Vous sçaurez donc que cette extrémité dont je vous veux parler, est une Province où sans le secours d’autruy, on ne peut avoir aucun commerce, par la difficulté qu’il y a d’en entendre la Langue. Vous en serez assez persuadé, quand je vous auray dit que nostre Païs est la Basse Bretagne. Le Mercure Galant a besoin d’estre Mercure pour y reüssir aussi-bien qu’il fait. En effet, il peut vous assurer que quoy que le Bas Bréton ait réputation parmy les Etrangers d’estre le langage des Démons, il peut estre le langage des honestes Gens, puis que le Dieu d’amour s’en sert. Il peut vous certifier encor qu’il y a autant de politesse en ce Païs-cy qu’en pas-un autre lieu, &amp; qu’il disputera en galanterie contre tous les autres. Afin que vous soyez persuadé de ce que je vous dis, je vous fais part des Explications que l’on a données icy à vos Enigmes du Mois de Juin, en attendant quelques traits de l’Amour Bas Breton. Mercure à qui toutes les Langues sont familieres, aura le temps durant le voyage de cette Lettre, de la traduire en François, pour vous la rendre intelligible.</p>
           <p><hi rend="sc">Le Chat</hi>, <hi rend="i">de l’Isle de Bas en Leon.</hi></p>
         </quote>
@@ -1003,16 +1052,16 @@
         <head>Lettre XI [au nom du Dieu Mercure] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 159-163.</bibl>
         <p>Il faut vous avertir, Madame, que c’est au nom du Dieu Mercure qu’on m’a envoyé la Lettre suivante. Sa lecture vous pourroit embarrasser, si vous ne songez pas que c’est luy qui parle.</p>
-        <quote rend="border">
-          <label rend="center">Lettre XI.</label>
+        <quote>
+          <label rend="center">LETTRE XI.</label>
           <p>Si je suis jaloux de vos Enfans, ce n’est pas sans raison. Je n’entens parler que d’eux. Ce sont des Mercures à bonne fortune, &amp; je ne suis plus qu’un Misérable abandonné de tout le monde. Autrefois les plus belles Princesses de la Grece, si l’on en croit Messieurs les Poëtes de l’Antiquité, m’accordoient des faveurs plus que je n’en voulois. Enfin tout s’empressoit à me plaire. Mais helas ! cet heureux temps n’est plus. Si la Servante d’Alcmene que je ne voulois pas seulement regarder lors que Jupiter mon Pere estoit avec sa Maistresse, revenoit à present au monde, elle me dédaigneroit, &amp; n’auroit des yeux que pour ces heureux Enfans à qui vous avez fait prendre  mon nom. Vous leur donnez cet air insinuant qui plaist tant à cette auguste Princesse qui fait son grand soin de l’éducation d’un Prince tout aimable, je veux dire, Madame Royale. J'ay oüy sortir de sa bouche des éloges, qui quoy que justes, me donnoient un secret dépit, &amp; je ne regardois qu’avec des yeux d’envie la faveur que vostre Mercure Galant s’est acquise dans sa Cour aussi-bien qu’en beaucoup d’autres lieux. Il n’est pas jusqu’aux Braves qui soûtiennent si bien la gloire de la France, qui n’ayent de l’estime pour luy, qui ne le chérissent, &amp; qui ne s’empressent à luy témoigner les justes reconnoissances qu’ils ont de ses bienfaits. Ils le considérent comme un fidelle Monument où leur gloire éclatera dans les Siecles à venir, où leurs noms vivront en seûreté, &amp; donneront de l’émulation à leurs Neveux. Mais je ne considere pas que je me détruis moy mesme, &amp; qu’en voulant faire une plainte contre vostre Mercure, je fais son éloge. Voilà ce que c’est. Il gagne le cœur de ses Rivaux malgré eux-mesmes, &amp; quelque sujet de dépit que l’on ait contre luy, on ne peut luy refuser ce qu’il merite. Il  faut que je reconnoisse presentement qu’il est le veritable Dieu de l’Eloquence, que la mienne n’est pas d’assez haut goust pour l’emporter sur ses Champignons, &amp; qu’il me fait la Barbe de toutes façons par ses Enigmes &amp; par ses agreables diversitez. Mais enfin, puis qu’il m’a tant décredité dans le monde que je n’ose plus y paroistre seul, je vous prie de trouver bon que je voyage en sa compagnie. Je ne l’incommoderay pas beaucoup, &amp; je vous assure que j’auray autant de docilité qu’il le pourra souhaiter. Vous trouverez un Billet de Mars, où vous verrez que les Gens de guerre ne disent pas beaucoup. Il ne vous ennuyera pas tant que celuy de <hi rend="sc">Mercure</hi>.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_164b" resp="mercure">
         <head>Lettre XII [relative aux Énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 164-170.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XII.</label>
+        <quote>
+          <label rend="center">LETTRE XII.</label>
           <p rend="i">À Bourg en Bresse. </p>
           <p>UNe Societé de Dames fort spirituelles, &amp; qui ne vous sont pas tout-à-fait inconnuës, s’est chargée, Monsieur, d’expliquer les Enigmes en Vers qui sont dans le Mercure du Mois de Juillet. Je n’entre point en lice avec elles. Je m’attache uniquement à l’examen de celle qui est en Figure. On a si mal réüssy dans l’application qu’on a faite de la plûpart des précedentes, <hi rend="i">à la Paix</hi>, que je n’oserois la chercher dans le Serpent d’Epidaure. Bien des Gens pourtant sont persuadez qu’on ne sçauroit trouver un mot qui convienne mieux à ce qu’il nous cache. Ce Serpent salutaire qu’on invite avec tant d’éclat, que des Ambassadeurs conduisent en triomphe à Rome, ne peut, à leurs sens, s’ajuster qu’à cette Paix si necessaire aux Conféderez, qu’on negotie avec tant d’application, &amp; que les Ambassadeurs des plus grands Potentats de l’Europe emmeneront bientost de Nimegue, qui est figurée par la Ville d’Epidaure. Ces Hommes abatus &amp; languissans, que la seule presence du Serpent peut rétablir, ne peuvent marquer que les Ennemis de la France, qu’une Guerre fatale a absolument épuisez. Ceux qui sement des Fleurs à l’approche d’Esculape, ces Mimes qui dancent, ces Pantomimes qui fautent à sa veuë, sont sans-doute une image de la joye des Peuples, &amp; du retour des Festes &amp; des Plaisirs. Cette Explication m’a paru si naturelle, que j’ay d’abord crû qu’il estoit impossible d’y trouver un sens qui fust aussi juste. Cependant, Monsieur, le Printemps m’a semblé dans la suite ne convenir pas moins naturellement à cette Enigme, que <hi rend="i">la Paix</hi>. Le Serpent qui commence à paroistre dans cette saison en est le symbole. L'Hyver est dans le sens de quelques Anciens, une maladie de la nature de celles que le retour du Printemps dissipe. L'application des Fleurs qu’on répant devant le Serpent, est facile à faire. La Dance &amp; les Postures enjoüées dont on solemnise l’arrivée d’Esculape, s’ajustent à tout ce qui paroist au retour de la belle saison. Les Oyseaux chantent, la Terre fleurit, les Bergers s’animent, l’Amour se réveille ; enfin, pour ainsi dire, l’Univers est en joye, la Nature rit,</p>
           <lg><l>D'un Hyver desolant les mortelles rigueurs,</l>
@@ -1053,8 +1102,8 @@
       <div type="article" xml:id="MG-1678-09e_171" resp="mercure">
         <head>Lettre XIII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 171-179.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XIII.</label>
+        <quote>
+          <label rend="center">LETTRE XIII.</label>
           <p rend="i">À Paris. </p>
           <p>IL faut, Monsieur, tâcher de répondre à la Question que vous proposez dans vostre dernier Extraordinaire, touchant la declaration que la Princesse de Cleves fait à son Mary.</p>
           <p>Dans toutes les affaires, je dis toutes sans exeption, &amp; particulieremnt dans celles où il y a le plus à esperer, &amp; le plus à craindre, quelque vertueux &amp; prudent qu’on soit, on ne sçauroit trop apporter de précautions pour en regarder les suites, &amp; ce n’est que par les bons ou mauvais évenemens qu’on réüssit ou qu’on manque, qu’on est approuvé ou blâmé, qu’on trouve le bien ou le mal, le plaisir ou la peine. La Question proposée n’est pas d’une petite consequence. Il y va de ce qu’une Femme a de plus cher. Il y va d’une foy qu’elle a jurée solemnellement, &amp; qui ne tient presque à rien. L'honneur du Mary y est engagé bien avant. La bonne intelligence de l’un &amp; de l’autre est en danger. L'union des deux qui jusqu’alors n’a pas reçeu la moindre attaque, est sur le point de se rompre, &amp; pour comble de malheur, il faut que ce soit cette mesme Femme qui declare sa passion criminelle à celuy qu’elle offence, qui ne peut que s’en choquer, en prendre des chagrins, de la crainte &amp; des déplaisirs. C'est un Mary qui s’est toûjours crû possesseur d’un cœur, duquel si à peine il luy reste l’ombre, ce n’est que par une retenuë, où l’inclination &amp; l’amour n’ont point de part. Les passions ont des degrez de vigueur, &amp; leurs feux ont autant de diferences qu’ils embrasent de diferens sujets. L'amour conjugal est un amour de choix. Il a la liberté des yeux a des mains. il gouverne ses mouvemens &amp; ses actions. Il ne fait rien sans avoir veu &amp; bien consideré, &amp; ne se conduit que par raison. Il ne nous vient point par hazard, &amp; nous ne le prenons qu’avec dessein prémedité. Nous en faisons nous mesmes les chaisnes plus ou moins fortes.</p>
@@ -1072,8 +1121,8 @@
       <div type="article" xml:id="MG-1678-09e_181" resp="mercure">
         <head>Lettre XV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 181-183.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XV.</label>
+        <quote>
+          <label rend="center">LETTRE XV.</label>
           <p>SEñor, Como el Libro de V. M. corre todas las partes de la tierra, sin deternese solamente en las de Francia, vino tambien à mi casa, y me ensenò V. M. ser curioso de saber todo loque se compone de nuevo para enriquecer el, publico, tanto lo que hazen los Franceses, como lo que que obran les Estranjeros, segun muestran las Fiestas de Saboya que su pluma ha eternisadas. Creo pues que la guerra itravada entre las dos Naciones, no sera parte para dexar sin lugar a las coplas que me atreno de embiarla, que por cierto salen de muy buena mano. Si las gustare V. M. puede ser que le entregare una corta Novela, que en verdad es la mas linda y curiosa del mundo. Es un juego de la fortuna para acabar un casamiento de un Frances con una Flamenca. Yo le beso muy humilmente la mano como criado obediente de V. M.</p>
           <p>Es Cavallero Desdichado.</p>
         </quote>
@@ -1083,8 +1132,8 @@
         <head>Lettre XV [relative aux énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 183-195.</bibl>
         <p>mais je vous puis assurer avec une entiere certitude, que celle qui suit, quoy que Françoise vient de Madrid mesme, d’où elle a esté envoyée pour moy à un des plus fameux Banquiers de Paris. Comme l’éloignement des lieux demande quelque privilege, vous ne devez pas estre surprise de la voir accompagnée de quelques Explications qui auroient dù estre dans le dernier Extraordinaire.</p>
-        <quote rend="border">
-          <label rend="center">Lettre XV. </label>
+        <quote>
+          <label rend="center">LETTRE XV. </label>
           <p><hi rend="i">À Madrid</hi>.</p>
           <p>VOus serez sans-doute surpris d’aprendre, Monsieur, que vostre Mercure ait passé les Pyrenées, puis que vous n’ignorez pas les raisons qui devroient luy defendre l’entrée de l’Espagne : mais il faut qu’il se fasse jour par tout, &amp; il se sert si bien des aisles de la Renommée qu’il a jointes aux siennes, qu’il n’est lieu de si difficile accés, qu’il n’y penetre ; deserts si cachez, qu’il ne découvre ; ny montagnes si élevées, qu’il ne passe ; témoin les Alpes, dont il y a déjà longtemps qu’il a franchy les mauvais pas, pour se faire admirer en Italie. L'on sçait qu’il est connu &amp; estimé en Allemagne, en Pologne, aux Païs-Bas, &amp; en Angleterre ; mais qui se seroit imaginé qu’il le fût en Espagne ? Car vous m’avoüerez, que tout galant qu’il est, il se trouve habillé d’une façon à faire peur ; &amp; que pour spirituels que soient ses recits, difficilement pourront-ils estre bien reçeus en ce Païs. Je ne puis vous dissimuler que je n’aye contribué à le faire connoistre à Madrid ; &amp; quoy que je me sois un peu exposée à la severité de l’Inquisition, je n’ay pû me priver de la satisfaction de voir tant de belles choses que j’avois appris que l’on publioit de luy, &amp; d’en faire part à mes Amies de par-deça, ausquelles son langage est connu. Il est vray que ç'a esté un peu tard, puis que je n’ay reçeu que depuis peu de jours, tous ensemble, les six premiers Volumes de cette année, &amp; l’Extraordinaire du premier Quartier, qu’une Personne de ma connoissance a pris la peine de m’aporter de Paris : mais quand l’on est si éloigné, il est mal-aisé de faire choses à temps. Comme toutes les Enigmes que ces Volumes contiennent, s’y sont trouvées expliquées, à la réserve de celles du moi de Juin &amp; de la Lettre en Chiffre de l’Extraordinaire, je n’ay pû m’attacher qu’à la recherche des trois Explications que je vous envoye. Si j’avois moins de timidité que je n’en ay 'naturellement, j’oserois me promettre que les sens que je leur donne sont les veritables ; mais je ne veux pas me flatter de cette penétration, &amp; j’aime mieux vous assurer d’une autre verité, qui m’est parfaitement connuë, en vous disant, que je suis, Monsieur, vostre tres-humble servante,</p>
           <p rend="sc">La Lorraine </p>
@@ -1100,8 +1149,8 @@
       <div type="article" xml:id="MG-1678-09e_195" resp="mercure">
         <head>Lettre XVII [relative aux Mouches galantes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 195-198.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XVII.</label>
+        <quote>
+          <label rend="center">LETTRE XVII.</label>
           <p>EN lisant dans vostre dernier Extraordinaire l’Article qui regarde les Mouches galantes, je me suis souvenu, Monsieur, que quelques Autheurs en attribuënt l’origine aux Egyptiens. Ils rapportent que les neuf Muses estant un jours apparuës en forme de Mouches à Ibis, une de leurs fameuses Pretresses, qui n’estoit pas moins considerable par la beauté de son esprit, que par celle de son corps, elle ordonna aux Egyptiens d’adorer les Mouches à l’avenir, pour rendre honneur par là aux Muses qui avoient bien voulu se montrer à elle ; &amp; afin d’en conserver la memoire, elle laissa en mourant un certain fond pour servir à l’entretien de neuf Mouches que les Sacrificateurs nourissoient soigneusement, en sorte qu’à mesure qu’il en mouroit une, ils en mettoient une autre en sa place pour en avoir toûjours de vivantes, à l’imitation des Vestales qui entretenoient à Rome le Feu sacré. Mais une peste horrible qui survint, ayant porté la désolation par tout, ces neuf Mouches se trouverent envelopées dans ce ravage. Les Egyptiens qui resterent apres cette Peste, leur firent de tres-somptueuses funerailles, &amp; afin que la memoire n’en fust jamais effacée, ils voulurent que leurs Femmes portassent des Figures de ces Mouches sur leurs visages. Vous sçavez, Monsieur, que les Egyptiens passoient autrefois pour les Peuples du monde les plus ingénieux, &amp; les plus polis ; &amp; que tous les autres faisoient gloire d’imiter ce qu’ils pratiquoient. Ainsi il est à croire que cette façon de porter des Mouches a esté successivement transmise chez toute sorte de Nations, &amp; qu’elle nous est venuë par une espece de tradition, qui ne manquera pas d’aller à nos Descendans. Je suis vostre, &amp;c.</p>
           <p><hi rend="sc">Houppin</hi>, le jeune,</p>
           <p>de Beauvais.</p>
@@ -1115,8 +1164,8 @@
       <div type="article" xml:id="MG-1678-09e_202" resp="mercure">
         <head>Lettre XIX [relative aux Énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 202-204.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XIX.</label>
+        <quote>
+          <label rend="center">LETTRE XIX.</label>
           <p rend="i">Du Camp devant Deinse. </p>
           <p>VOstre Mercure, Monsieur, n’est pas si mignon qu’on le pense. Il ne fuit ny le Soleil ny la pluye ; &amp; quoy qu’accoûtumé aux douceurs des Ruelles de Paris, il vient encor avec nous partager nos fatigues. Il s’accommode assez de nos Tentes. Il suit l’Armée dans tous ses Camps. Je l’ay vû mesme plus d’une fois dans la Tranchée ; &amp; à force d’occasions vous verrez qu’il deviendra brave. Pour estre nouveau dans la Guerre, il ne s’y prend pas mal. Il en parle en Homme du mestier. On ne voit pas qu’il fasse d’équivoque, &amp; parce qu’il est fort aimé, il n’y a point d’Officier qui ne le soufre. Tout le monde se plaist avec luy. Il occupe les Gens agreablement ; &amp; s’il en coûte des inquiétudes, ce ne sont point de celles qui dégoûtent. On resve sur ses mysteres plus d’un jour sans s’ennuyer. Heureux qui pour les développer n’y passe que vingt-quatre heures. J'y donne beaucoup plus de temps ; mais je ne m’en applaudis pas moins quand à la fin je trouve un sens à ses Enigmes. Voyez si j’ay réüssy dans les Explications que je vous envoye, &amp; me croyez vostre, &amp;c.</p>
           <p>D. L. M.</p>
@@ -1125,8 +1174,8 @@
       <div type="article" xml:id="MG-1678-09e_204" resp="mercure">
         <head>Lettre XX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 204-208.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XX.</label>
+        <quote>
+          <label rend="center">LETTRE XX.</label>
           <p rend="i">D'un Desert du Perigord. </p>
           <p>IL y a six moi, Monsieur, que je songe à vous écrire, &amp; que je n’ose satisfaire ce desir par la crainte  de vous accabler d’une méchante Lettre. Cependant il ne m’est pas possible de resister plus longtemps à l’envie que j’ay de vous entretenir sur vostre Mercure, qui cause le plaisir &amp; l’admiration des plus beaux Esprits que nous ayons. Quoy que le mien soit fort médiocre, &amp; que j’habite un Desert le plus solitaire de la Province, je ne laisse pas d’y goûter pleinement l’agreable diversité de vos Escrits. Agréez donc, Monsieurs, que je vous fasse des remerciemens de m’avoir donné le secret de trouver de la douceur dans ma solitude, par le plaisir que je prens d’y reserver tous les jours à la vie miraculeuse de <hi rend="sc">Loüis</hi> le Grand. Il y a tant de choses surprenantes &amp; d’un éclat si nouveau, dans toutes les Actions de ce grand Roy, &amp; vous les representez d’une maniere si naturelle &amp; si forte tout ensemble, qu’il est aisé de voir que vostre cœur est bien d’accord avec vostre esprit, pour publier les loüanges de cet incomparable Monarque. En effet, il paroist que la respectueuse tendresse qu’il vous inspire, &amp; que vous unissez si bien avec la connoissance de ses admirables qualitez, vous fournit des termes plus touchans &amp; plus significatifs, que ceux dont vous vous serviriez sans doute, si vous n’estiez animé que de l’estime &amp; de l’étonnement que causent les surprenantes Conquestes qu’il fait. Continuez donc, Monsieur, d’écrire d’un air si charmant la plus belle &amp; la plus importante Vie de l’Univers, avec cette assurance que le sujet que vous traitez est le plus élevé, &amp; le plus rare qui se pust jamais presenter à vostre esprit, puis que tous les siecles passez &amp; ceux qui viendront, n’auront rien vû &amp; ne pourront rien voir qui approche de ce Grand Prince. Mais comme le récit de ses grandes &amp; éclatantes Victoires, prend toute l’application de nostre esprit, &amp; que le mien n’est pas capable de soutenir l’idée continuelle de tant de choses heroïques, on se sert de l’invention que vous donnez si agreablement pour détourner la veuë d’un sujet trop sublime, &amp; l’on descend vers cette aimable diversité, qui se trouve à propos dans vostre Mercure, &amp; qui est si propre à charmer les peines les plus sensibles. Pour moy, je sens bien que les soucis de ma vie diminuënt de la moitié par la douceur que cette lecture me cause, &amp; je me flate méme de la pensée que vous n’en serez point fâché, car je remarque à vostre façon d’écrire que vous avez de la bonté. Il faut mesme que j’en sois bien persuadée, puis que je vous écris une Lettre si longue. Pardonnez moy, Monsieur, l’ennuy qu’elle vous causera, &amp; croyez, je vous suplie, qu’il n’y a point de Dame en Perigord qui soit plus que je suis, vostre tres-humble, &amp;c.</p>
         </quote>
@@ -1134,8 +1183,8 @@
       <div type="article" xml:id="MG-1678-09e_208" resp="mercure">
         <head>Lettre XXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 208-217.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXI.</label>
+        <quote>
+          <label rend="center">LETTRE XXI.</label>
           <p rend="i">À Dieppe. </p>
           <p>ON est fort embarassé quand on vous écrit, Monsieur. L'on a dans la teste mille loüanges à vous donner, &amp; mille remerciemens à vous faire, &amp; vostre modestie se cabre mal à propos contre les belles dispositions où l’on est de vous dire ce qu’on pense de vous. Il n’est permis qu’à vous seul de faire ce que vous defendez ; &amp; si l’on ne vous dispute pas ce privilege ouvertement, c’est qu’on craint de déplaire à un galant Homme, qui n’a point d’autre but que d’obliger toute la Terre. Vous contraignez ainsi les Esprits reconnoissans, à chercher de grands détours pour vous loüer, &amp; cette difficulté produit assurément une partie des belles Lettres de vostre Extraordinaire. La diversité des expressions délicates, &amp; peu communes, surprend agreablement ceux qui le lisent car il est certain qu’on fait des efforts qu’on ne feroit pas, si vous donniez une libre carriere aux reconnoissances. Mais comme je vais toûjours d’une extrémité à l’autre, je suis le seul au monde assez effronté pour vous dire que je trouve un petit defaut dans le dernier Extraordinaire. Dites-moy, Monsieur, y a-t-il rien de plus à la mode que le Mercure Galant, &amp; pour estre fidelle en mode, ne deviez vous pas plûtost en mettre un Tome dans la main de vostre Dame burinée, que la Canne qu’elle tient ? Il n’est rien de si vray que chacun le prend aujourd’huy pour modelle. Il detruit la Satyre chez les honestes Gens. Il aprend l’art de se faire des Amis de tout le monde, &amp; l’on peut dire qu’il est l’ame de la société, le tombeau de la médisance, &amp; le triomphe des Muses, puis que chacun s’éforce à l’envie d’en meriter une page, &amp; d’aller à l’immortalité sur les ailes du Mercure Galant. Il n’est pas plûtost arrivé en ce Païs-cy, qu’on se l’arrache des mains pour le devorer. En suite on se caballe pour les Enigmes. On s’échaufe pour soûtenir son opinion, &amp; l’on fait toûjours quelque gageure qui donne une impatience extrême de voir le suivant. Je suis au nombre de ces impatiens Lecteurs, &amp; j’attens avec empressement le premier qui viendra pour m’ôter l’inquiétude que me donnent les Enigmes du mois de Juin. La premiere m’a fait resver plus d’un jour ; enfin un de mes Amis a rencontré l’<hi rend="i">Ameçon.</hi> J'en trouve l’application assez juste. Les deux Vers, <hi rend="i">Et toûjours mon nom se donne à ce qui vaut mieux que moy</hi>, nous firent un peu de peine, mais nous les avons donnez aux appas, qui font d’un plus grand prix chez une Belle, qu’au bout d’un Filet.</p>
           <p>La seconde est la Couronne d’un Souverain ; &amp; l’Enigme en Figure, veut faire voir (je croy) la Ligue étouffée par Louïs XIV. Je prens les Hollandois pour Neptune, &amp; la Maison d’Autriche pour la Terre. La Ligue est representée par Antée, ce Geant formidable, à tout autre qu’à nostre grand Roy, à qui le nom d’Hercule convient si bien par ses travaux &amp; par ses forces. Il étoufe la Ligue entre ses bras, c’est à dire avec la Paix qu’il donne à ses Ennemis. On dit pourtant qu’elle respire encor, mais elle ne luy peut échaper, &amp; de quelque maniere que ce soit, il l’étouffera toûjours glorieusemet. Je ne suis ny assez vain, ny assez patient pour tenter l’Explication de la Lettre en chiffre, mais je vais vous dire ce que je sçay de l’origine des Mouches.</p>
@@ -1147,8 +1196,8 @@
       <div type="article" xml:id="MG-1678-09e_217" resp="mercure">
         <head>Lettre XXII [relative aux Mouches Galantes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 217-219.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXII.</label>
+        <quote>
+          <label rend="center">LETTRE XXII.</label>
           <p>J'Ay songé, Monsieur, à ce qui avoit pû donner lieu aux Mouches, dont les Dames font un de leurs agreémens. Voicy ce que j’ay trouvé. Orphée avec sa Lyre inspira de la passion aux choses les plus insensibles. Il aima Euridice, &amp; en fut aimé. Aristée Roy d’Arcadie, soûpira inutilement pour elle. Ce fut en fuyant sa violence, qu’elle fut morduë au talon par un Serpent. Sa blessure fut mortelle. Toutes les Nymphes prirent part au chagrin d’Orphée, &amp; pour punir Aristée de l’emportemet qu’il avoit eu, elles détruisirent toutes ses Mouches. C'est luy qui en estoit l’inventeur. La description du Voyage d’Aristée vers Cyrene sa Mere, qui alla consulter avec luy l’Oracle de Prothée sur la perte qu’il avoit faite, c’est un des plus beaux endroits de Virgile. Prothée répondit, que les Nymphes Amies d’Euridice devoient porter les figures des Mouches sur leur visage, pour punition de les avoir exterminée ;  &amp; que Cyrene avec les autres Nymphes de sa cabale, porteroient la peau d’un Serpent autour de leur col, pour appaiser l’ombre d’Euridice. Du moins c’est le sens que l’on donna à la réponse fort obscure de l’Oracle. Mais elles changerent bien tost ces marques de vengeance en ornemens.  Elles embellirent la peau de Serpent d’Ambre &amp; de Perles, &amp; firent des colliers, &amp; changerent aussi leur Mouches en agréemens, pour donner de l’éclat à leur teint, &amp; enfin ces agréemens en ayant perdu la figure, n’en ont plus retenu que le nom.</p>
           <p><hi rend="sc">Le Prothée</hi>,</p>
           <p rend="i">du Perche. </p>
@@ -1157,8 +1206,8 @@
       <div type="article" xml:id="MG-1678-09e_219" resp="mercure">
         <head>Lettre XXIII [relative aux Énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 219-222.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXIII.</label>
+        <quote>
+          <label rend="center">LETTRE XXIII.</label>
           <p rend="i">La presente set donnée à stila qu’en appel Loteur du Marcure. </p>
           <p>HOneu, Monseu, Je some deu sabitan de... . Attandé je ne savon si je vou le devon diren car j’en voion tan dan voute Marcure qui ne voulon pas dire com i sapelon, que palsangué je nan diron rian nan pu qu’eu. Es qui simaginon qua caure qui son des Monsieux &amp; quil avon du bian pu que nou, que je ne sron pas com i selon ; e si l’on tan de bian, qui fasle bone chere, qui mangien des Padri, &amp; qui desne deu fouas, Je somme assé contan can je manjon des poüas o lar ; ma tou sa ne sar de rian à lafere, &amp; snest pas acaure de sa que je prenon la pene &amp; la arguesse que de von recrire ; ces margué que javon deviné vos Animes, &amp; si je voulon vou baillé des Vars de noute façon, car jan savon fare da. Tné, luisé.</p>
           <lg><l>Palsangué com dit lotre, en vidan noute pot,</l>
@@ -1194,8 +1243,8 @@
       <div type="article" xml:id="MG-1678-09e_223" resp="mercure">
         <head>Lettre XXIV</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 223-234.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXIV.</label>
+        <quote>
+          <label rend="center">LETTRE XXIV.</label>
           <p rend="i">À Richelieu. </p>
           <p>L'Interruption de mes Lettres n’a esté causée, Monsieur, qui par un Voyage que j’ay esté obligé de faire dans un lieu, où les affaires qui m’y avoient fait aller, m’ont retenu plus longtemps que je ne pensois. JE les terminay le plus promptement que je pûs, afin de venir icy joüir d’un Ciel plus serein, &amp; qu’un commerce plus tranquile &amp; plus spirituel, Je n’y fus pas plûstost arrivé, que je trrouvay vostre Extraordinaire d’Avril, qui me consola heureusement de tous les mauvais momens que j’avois passez dans le triste sejour dont je viens de vous parler. Je le lûs avec bien du plaisir : mais comme il n’en est point de parfait, vostre Lettre en chiffres m’inquieta furieusement, &amp; me donna une migraine qui me tient encor. Je m’en consolerois si j’estois venu à bout de la déchiffrer. Mais apres trois jours de meditation, je ne suis pas plus avancé que je l’estois le premier. Cependant</p>
           <lg><l>Si l’on a peine à découvrir</l>
@@ -1217,8 +1266,8 @@
         <head>Lettres sur les Enigmes en Peinture, A. M. L. D. D. S. A. à l’Autheur du Mercure Galant</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 234-273.</bibl>
         <p>J'interromps ces Lettres, pour vous en faire voir d’une autre nature. Vous m’avez témoigné estre si satisfaite de celles qui ont esté écrites sur les Enigmes en Paroles, qu’ayant découvert que M. l’Abbé de la Valt en estoit l’Autheur, je l’ay prié de nous dire ses Sentimens sur les Enigmes qui sont en Figures. Il a eu l’honnesteté de le faire, &amp; je luy suis d’autant plus obligé de la complaisance qu’il a euë, qu’en me donnant par là une marque de son estime, il me donne en mesme temps le moyen de satisfaire vostre curiosité. Vous l’aurez peut-estre crû Provençal, parce que je vous ay écrit que c’estoit d’Aix que j’avois reçeu ses premieres Lettres. Il est vray que quelques affaires l’y arrestent depuis quelque temps ; mais il est de Verneüil au Perche, &amp; fait trop d’honneur à son Païs, pour ne prendre pas soin de vous le marquer.</p>
-        <quote rend="border">
-          <label rend="center">Lettres</label>
+        <quote>
+          <label rend="center">LETTREs</label>
           <label rend="center"> sur les Enigmes</label>
           <label rend="center"> en Peinture,</label>
           <label rend="center"> A. M. L. D. D. S. A. </label>
@@ -1248,20 +1297,20 @@
         <head>[Réponse à l’énigme de la lettre en chiffre] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 273-280.</bibl>
         <p>Je passe à un autre genre d’Enigmes, si on peut donner ce nom à tout ce qui est obscur. Je parle de ma Lettre en Chiffre du dernier Extraordinaire, qui est demeurée un secret impénetrable pour vous &amp; pour vos Amies. Beaucoup d’autres ont renoncé à la déchiffrer ; &amp; d’un tres-grand nombre de Personnes qui ont essayé d’y réüssir, il n’y en a eu que cinq qui en soient venuës à bout. Je vous envoye leurs Billets pour ne rien oster à leur gloire. Vous seray surprise, vous qui avez crû la chose tres-difficle, de trouver des plaintes du contraire dans le premier.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">I. BILLET.</label>
           <p>[…]</p>
         </quote>
-<quote rend="border">
+<quote>
           <p>[…]</p>
         </quote>
-<quote rend="border">
+<quote>
           <p>[…]</p>
         </quote>
-<quote rend="border">
+<quote>
           <p>[…]</p>
         </quote>
-<quote rend="border">
+<quote>
           <p>[…]</p>
         </quote>
         <p>Vous voyez, Madame, par la lecture de ces Billets, que le déchiffrement de cette Lettre n’a pas cousté beaucoup à ceux qui l’ont fait. Vous ne devez pas vous étonner qu’ils soient en si petit nombre. Peu de Gens se sont addonnez jusqu’icy à cette étude. Anisi ceux qui ne s’y sont point appliquez ne sçauroient développer le Chiffre le plus facile, au lieu que les Sçavans en cette matiere, c’est à dire, ceux qui ont pris l’habitude de déchifrer, ne se trouveroient que fort peu embarassez des plus difficiles qu’on leur pourroit proposer.</p>
@@ -1278,67 +1327,67 @@
         <head>[Remarques sur un article portant sur une étrange inscription apparaissant sur l’œuf d’un Serpent] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 287-297.</bibl>
         <p>Comme cette Lettre est extraordinaire, vos Amies me permettront s’il leur plaist, d’y mesler extraordinairement quelques lignes de Latin, pour vous faire voir l’explication que plusieurs Personnes d’esprit ont donnée aux six monosyllabes écrits sur l’œuf de ce prodigieux Serpent, dont je vous parlay dans ma Lettre du mois de Juillet. Ce fut au Village de Poussan prés de Montpellier qu’on le trouva. Vous vous souvenez que ces monosyllabes estoient <hi rend="i">ou, pa, re, ma, ne, pa.</hi> Ce sont autant de commencemens de mots qui ont esté achevez de cette sorte.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovationem parat Rex Maximus nectens Pacem. </l>
           <l><hi rend="sc">Loüis le Grand</hi> faisant la Paix,</l>
           <l>Se prépare un Triomphe à noublier jamais.</l>
         </quote>
         <p>Un bel Esprit de Montpellier les a expliquez ainsi.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovo parturito regnum manebit pacificum. </l>
           <l>L'œuf qu’on a découvert de ce Serpent horrible,</l>
           <l>Rendra le Royaume paisible.</l>
         </quote>
         <p>M<hi rend="sup">r</hi> Brossard, Conseiller au Presidial de Bourg en Bresse, apres avoir dit que plusieurs vouloient que ces Caracteres signifiassent</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovationes Regi parara Martem nefarium pacant. </l>
           <l>Les Triomphes au Roy justement apprestez,</l>
           <l>Vont faire du Dieu Mars cesser les cruautez,</l>
         </quote>
         <p>ajoûte qu’il croit que les Syllabes gravées sur l’œuf de ce Serpent monstrueux, ne marque rien autre chose que ce que disent les anciens Naturalistes de la nature du Vipere, qui en naissant donne la mort à sa Mere, &amp; vange celle de son Pere par là, la femelle coupans la teste du mâle lors de leur accouplement.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovum restituit Patrem, Mater necatur  partu. </l>
           <l>Si l’œuf fait revivre le Pere,</l>
           <l>L'enfantement est la mort de la Mere.</l>
         </quote>
         <p>Voicy ce qu’a écrit sur ce sujet le jeune Solitaire du Langon.</p>
-        <quote rend="border">
+        <quote>
           <p>Il estoit juste qu’une Action aussi genéreuse que celle que vient de faire le Roy en donnant la Paix à toute l’Europe, éclatast par quelque Prodige surprenant &amp; tout extraordinaire. La Nature en a voulu marquer de la joye, en impriment sur un œuf, d’un caractère ineffaçable, ces paroles, <hi rend="i">ou, pa, re, ma, ne, pa.</hi> L'invention d’écrire est nouvelle, &amp; il falloit que l’encre fust bien subtile pour penétrer le corps d’un gros Serpent. Cela ne s’apelle pas écrire sur des feüilles de Chesne, comme faisoit la Sybille de Cumes. Aussi le sujet est-il de plus grande importance, puis que c’est la Prophetie de la Paix dont nous voyons l’accomplissement.</p>
           <l rend="i">Ovo patefacto Reges manebunt pacifici. </l>
           <l>L'œuf trouvé nous apprend que banissant la Guerre,</l>
           <l>Les Roy vont rétablir le calme sur la Terre.</l>
         </quote>
         <p>L'explication qui suit est plus particuliere.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovabit pace Respublica, mactabuntur Nemetes Paladino. </l>
           <l>Quand la Hollande en paix gouste un bien sans égal,</l>
           <l>Vers Strasbourg quel sang verse un vaillant Mareschal !</l>
         </quote>
         <p>Tandis que la Paix arrestée avec la Hollande donnoit bien aux Peuples qui composent cette Republique de se réjoüir de leur bonheur, M<hi rend="sup">r</hi>  le Marechal de Crequy a remporté de grands avantages sur les Allemens. Il est designé par ce mot de <hi rend="i">Paladin</hi>, qui estoit autrefois une dignité fort renommée. C'est en effet aux anciens <hi rend="i">Paladin</hi> que les Mareschaux de France ont succedé. <hi rend="i">Nemetes</hi>, sont les Peuples de la Germanie d’entre les Villes de Strasbourg &amp; de Mayance, dont César dans ses Commentaires, &amp; Pline liv. 4. chap. 17. ont fait mention. Ces curieuses Observations sont deuës à M. Allard, dont vous avez veu plusieurs Lettres sous le nom de l’Hermite de S. Giraud.</p>
         <p>Le Medecin Solitaire de Tarascon en Provence, qui regarde les Caractères imprimez sur l’œuf du Serpent, comme un de ces Prodiges qui n’arrivent jamais que pour annoncer de grands évenemens, dit que puis que nos Modernes assurent que toutes choses dérivent des œufs, que les Anciens en ont fait naistre leur Divinitez, &amp; que les Augures en tiroient des conjonctures pour ce qui devoit arriver, il ne doute point que l’œuf d’un Animal qui est le Symbole de la Sagesse, &amp; qui a paru dans l’Empire &amp; sous le Regne de Loüis le Grand, ne nous prophetise que cet Auguste Monarque qui n’a jamais eu d’égal en puissance ny en vertu, sera suivy en tous lieux de la Victoire.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovanti Palma Regi manebit nemini pari. </l>
           <l>Ce Roy qu’aucun n’égale en ses nobles Conquestes,</l>
           <l>Verra par tout pour luy des Palmes toûjours prestes.</l>
         </quote>
         <p>Quelques-uns ont expliqué ces Caracteres sur l’impossibilité de les expliquer.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Ovum patefacit reconditum manuscriptum nemini patens </l>
           <l>L'œuf nous découvre un Manuscrit caché,</l>
           <l>Dont en vain le sens est cherché.</l>
         </quote>
         <p>D'autres au contraire veulent qu’il n’y ait rien que de naturel dans ces paroles trouvées sur l’œuf.  Voicy ce qu’ils disent. <hi rend="i">Comme une Groiselle ou une Cerise se trouvent marquées sur quelque membre d’un Enfant nouveau né, par la forte impression que ces sortes de choses ont faite à l’imagination de la Mere : de mesme quelque feüillet d’un Breviaire ou Missel dont les lettres sont rouges en partie, peut avoir esté laissé parmy les ordures d’un fumier. Le Serpent les aura regardées fixement, lors que le Soleil dardoit ses rayons dessus. La Sympathie qu’il y a entre cette couleur rouge, &amp; la mesme couleur qui est aux yeux du Serpent, aura fait une forte impression qui aura émeu l’imagination de cet Animal ; en sorte que l’œuf se sera trouvé disposé à recevoir les lettres qu’on y a veuës. Si on demande pourquoy ces lettres sont deux par deux, on peut répondre que peut estre les lettres rouges estoient effacées par l’ordure, ou que cela s’est fait à diferentes reprises, selon que les rayons visuels donnoient par ligne droite sur deux lettre, n’en pouvant comprendre davantage.</hi></p>
         <p>Vous en croirez ce qu’il vous plaira. Il est certain que nos Anciens Druïdes prenoient pour Enseigne un œuf de Serpent, &amp; qu’ils croyoient qu’il contribuoit beaucoup à la Victoire. Ils vouloient mesme que le Serpent marquast la Concorde, &amp; c’est pour cela qu’ils faisoient porter le Caducée de Mercure en signe de Paix, parce que deux Serpens s’y voyent embrassez. Cette remarque a donné lieu à M<hi rend="sup">r</hi> Portes, Prestre &amp; Docteur de Lyon, de faire cet Epigramme Latin. Vous l’expliquerez à vos Amies.</p>
-        <quote rend="border">
+        <quote>
           <l rend="i">Anguibus oviparis concordia nascitur armis. </l>
           <l rend="i">Serpentis partus Omina pacis habent. </l>
         </quote>
         <p>Le mesme M. Portes a fait l’Anagramme des six Caracteres du Serpent par ces mots sans aucun changement de lettres,</p>
-        <quote rend="border">
+        <quote>
           <l>DONE ARMA, PAVE.</l>
         </quote>
         <p>Ce qu’il y a d’admirable, c’est que plusieurs Personnes ayant entrepris de les expliquer en des lieux fort éloignez l’un de l’autre, semblent s’estre communiqué leurs pensées en n’y cherchant aucun autre sens que la Paix. Croiriez vous, Madame, que Nostradamus l’eust prédite par cet œuf ? Voicy ce qu’on assure qui se trouve dans ses Centuries.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Prophetie </label>
           <label rend="center">de Michel Nostradamus.</label>
           <l>L'An sept &amp; huit le Serpent concevra.</l>
@@ -1351,8 +1400,8 @@
         <head>LETTRE XXV [Remarques sur un article concernant un enfant monstrueux de Toulouse] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 298-300.</bibl>
         <p>On n’a pas seulement expliqué ces caracteres de l’œuf du Serpent sur la Paix. L'enfant monstrueux de Toulouse en a esté un présage. Vous le retrouverez dans cette Lettre.</p>
-        <quote rend="border">
-          <label rend="center">Lettre XXV.</label>
+        <quote>
+          <label rend="center">LETTRE XXV.</label>
           <p rend="i">À Rheims. </p>
           <p>L'Utile est si heureusement meslé avec l’agreable dans ce que vous nous donnez tous les Mois, que la lecture de vos Ouvrages n’instruit pas moins qu’elle divertit. C'est une verité, Monsieur, dont vous serez aisément persuadé, quand je vous auray dit dequelle maniere les Esprits ont esté exercez par vostre Mercure de Juillet. L'Enfant de Toulouse dont vous nous parlez, a donné l’estre à bien des pensées. Il est cause qu’un fameux Medecin de nostre Ville a pris dessein de faire voir au Public un Traité qu’il a composé sur ce Prodige. Mais d’autres sans vouloir feüilleter ny Avicennes, ny Galien, pour découvrir les causes d’une naissance si extraordinaire, ont crû qu’un Enfant si merveilleux n’estoit rien autre chose qu’un présage de la Paix, qui apres avoir tenu longtemps en travail (pour me servir de l’Allégorie) tous les Plenipotentiaires des Princes de l’Europe, a pris enfin naissance lors qu’on s’y attendoit le moins. J'aurois bien des choses à vous dire, si je ne voulois m’arrester sur toutes les matieres qui ont fait icy le sujet des plus agreables conversations. Le Procés d’un Chat a fourny des pensées fort spirituelles, aussi bien que l’œuvre trouvé dans le ventre du Serpent de Montpellier. Je vous en rendrois compte, si je n’avoit impatience de vous dire que je suis vostre, &amp;c.</p>
           <p><hi rend="sc">Roland</hi>, Avocat.</p>
@@ -1383,7 +1432,7 @@
       <div type="article" xml:id="MG-1678-09e_302" resp="mercure">
         <head>Fiction sur les Mouches</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 302-305.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Fiction </label>
           <label rend="center">sur les Mouches.</label>
           <p>L'Amour cueilloit du Miel dans un Jardin. Il prétendoit que ses Flêches en seroient plus douces, &amp; que l’on se plaindroit moins de leurs coups. Les Mouches, qui sont naturellement ses ennemies, ne pûrent suporter le dégast des fleurs d’un beau Parterre qu’il mettoit en desordre, ny son larcin. Elles bourdonnerent autour de luy, &amp; quelques-unes le piquerent de leurs aiguillons. Il alla aussitost se plaindre à Vénus du sacrilege des Mouches qui avoient osé l’attaquer, elles qui sont les plus petites des Insectes. <hi rend="i">Vous qui n’estes qu’un Enfant, &amp; le plus petit des Dieux</hi>, luy repartit Vénus, <hi rend="i">n’attaquez-vous pas tous les jours &amp; Jupiter, &amp; moy-mesme</hi> ? Cependant elle prit soin de ses playes, qui estoient fort legeres, &amp; dont il n’auroit pas fait tant de bruit, s’il n’estoit pas accoustumé à estre fort sensible, &amp; à crier aisément. Elle se servit de la Gomme que les Anciens luy ont consacrée ; &amp; ayant coupé de son Voile noir, elle luy en fit quelques emplastres. Mais j’ay tort de les nommer ainsi. Les Graces furent surprises du nouvel éclat qu’elles donnoient aux belles couleurs de l’Amour. Tout le Voile fut bientost coupé en figures diférentes. Vénus &amp; les Graces s’en servirent pour paroistre encor plus belles qu’elles n’estoient. Il n’y avoit que le nom d’Emplastre qui ne plaisoit pas. Vénus ordonna qu’il seroit défendu, &amp; que celuy de Mouches prendroit sa place, puis que l’Avanture des Mouches avoit donné l’occasion d’inventer cette maniere aisée d’embellir la Beauté mesme, s’il est permis de parler ainsy.</p>
@@ -1392,9 +1441,9 @@
       <div type="article" xml:id="MG-1678-09e_305" resp="mercure">
         <head>Reponse à la Question Galante, Lettre XXVI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 305-308.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Reponse à la Question Galante, </label>
-          <label rend="center">Lettre XXVI.</label>
+          <label rend="center">LETTRE XXVI.</label>
           <p>LA fuite peut estre d’un grand secours contre les atteintes &amp; les progrés de l’Amour, s’il est vray qu’il soit aussi funeste à un Cœur qui s’en laisse surprendre, que tous les Amans le publient par leurs plaintes. Mais comme ce n’est pas à cette belle Passion qu’il s’en faut prendre, &amp; qu’au contraire c’est à ceux qui ne la sçavent pas ménager avec l’adresse qu’elle demande, on doit croire que la Dame dont il s’agit en aura assez pour n’en gouster que les douceurs. Il faut convenir que le Mariage a ses loix, &amp; qu’il est dangereux à ceux qui y sont engagez, de ne les pas suivre. Mais elle ne risquera guére en ne s’en éloignant pas. Elle a de la vertu, &amp; j’ay trop bonne opinion du beau Sexe, pour croire que celles qui en ont, fassent rien qui les en détourne. Sa passion n’ira pas jusqu’à l’excés, puis qu’elle sera partagée avec son Mary, pour lequel elle a toute l’estime possible par son merite. Ce seroit à mon sens une espece de perfidie contre son cœur &amp; contre son Amant malheureux, de se hazarder à une confidence qui pourroit l’exposer, &amp; peut-estre elle-mesme, aux emportemens de la jalousie. On ne voit pas qu’elle avançast beaucoup par la retraite. Souvent elle fortifie plutost l’amour qu’elle ne l’affoiblit. On dit qu’il est extrémement ingénieux à trouver des moyens. Si cet Amant sçait faire son devoir, il n’en manquera pas assurément pour voir ce qu’il aime, &amp; pour en estre veu, &amp; alors le remede deviendroit un poison.</p>
           <p>Point de retraite, &amp; encor moins de confidence. Je décide comme vous voyez, Monsieur, sans guére hésiter. Mais je ne sçauroit faire autrement ; Je suis un des Partisans du Mercure Galant, &amp; je ne veux rien luy répondre qui déroge à ses qualitez. Rien de moins galant que le procedé d’une Dame qui fait confidence à son Mary de sa passion &amp; de celle de son Amant, pour ne s’occuper qu’à son ménage. Mais rien de plus galant &amp; de plus agreable pour elle, que de soûtenir adroitement &amp; avec mystere une belle Passion, qui ne souffre jamais d’autre déclaration que celle qu’une tendresse toûjours respectueuses peut faire. Je suis vostre, &amp;c.</p>
           <p><hi rend="sc">Bouchet</hi>, <hi rend="i">de Grenoble.</hi></p>
@@ -1404,7 +1453,7 @@
         <head>[Réponses aux énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 309-317.</bibl>
         <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i">Tournebroche</hi> ont esté expliquées par diférentes Personnes.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Explication des Deux.</label>
           <l>Je ne sçay si je me méprens</l>
           <l>Sur ces Enigmes cy ; ce que je m’imagine,</l>
@@ -1484,7 +1533,7 @@
           <label rend="center">Sur le Coq.</label>
           <l>[…]</l></quote>
         <p>Ceux qui ont donné les cinq Explications suivantes, prennent tous le titre d’Académiciens de Boüilly lez-Troyes.</p>
-        <quote rend="border">
+        <quote>
           <l>Vous demandez quelles merveilles</l>
           <l>Font retentir ces lieux d’un accord tout divin ;</l>
           <l>Apollons de Boüilly, n’avez-vous plus d’oreilles ?</l>
@@ -1522,7 +1571,7 @@
         <head>[Madrigal répondant à l’Énigme du Clavecin] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 317-319.</bibl>
         <p>Le Madrigal qui suit a esté fait à l’occasion d’une belle Dame dont un Cavalier qu’on avoit mené chez elle se trouva charmé à l’entendre joüer du Clavessin. Comme on ne le peut toucher plus délicatement qu’elle fait, il fut si sensible à cette harmonie, qu’il paslit tout-à-coup, &amp; tomba en foiblesse, jusqu’à perdre connoissance. On eut recours aux remedes ; il revint à luy, &amp; cet accident luy donna lieu de dire cens jolies choses sur ce qu’il sentoit pour cette admirable Personne. Cette premiere Visite en attira d’autres. La Dame fut fortement aimée du Cavalier ; mais enfin soit qu’elle ait esté cruelle, soit que l’amour diminuë de luy-mesme quand il ne sçauroit plus augmenter, cette passion s’est ralentie depuis quelque temps ; &amp; voicy ce qu’il luy a répondu sur l’Enigme du Clavessin, qu’elle l’avoit priée d’expliquer.</p>
-        <quote rend="border">
+        <quote>
           <l>FAut-il m’écrire Vers &amp; prose</l>
           <l>Pour m’obliger à deviner</l>
           <l>L'Enigme que l’Autheur du Mercure propose ?</l>
@@ -1537,8 +1586,8 @@
         <head>Lettre XXVII</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 319-325.</bibl>
         <p>La Lettre que vous allez voir est d’un Particulier à un Amy.</p>
-        <quote rend="border">
-          <label rend="center">Lettre XXVII.</label>
+        <quote>
+          <label rend="center">LETTRE XXVII.</label>
           <p>LA Question que nous propose l’Extraordinaire du Mercure, fust dernierement agitée dans une Compagnie où je me trouvay. Chacun y dit son sentiment ; mais de cinq ou six aimables Personnes qui y estoient, il n’y en eust pas une qui fust de vostre avis. Elles plaignirent toutes le malheur de cette Femme qui se voyoit exposée à la veuë d’un Amant pour qui elle sentoit en secret une passion violente qu’elle vouloit étouffer ; mais elles soûtinrent que puis qu’il n’y avoit pour cette malheureuse aucun moyen de s’éloigner de ce qu’elle aimoit, qu’en confiant son secret à son Mary, il valoit mieux eternellement combatre, &amp; mourir mesme dans les combats, que d’aller faire une confidence si dangereuse à une Personne dont elle devoit toûjours dépendre. Pour moy, Monsieur, je n’eus pas de peine à me ranger de ce party, &amp; toutes les raisons que vous m’aviez fait la grace de m’écrire pour soûtenir vostre sentiment, s’évanoüirent de devant mes yeux. Je consideray avec elles quelle peine cruelle c’estoit pour une Femme, que de se résoudre à aller elle-mesme découvrir un amour qui la devoit faire rougir, &amp; de l’aller découvrir à celuy des Hommes auquel elle avoit plus d’interest qu’il fust eternellement caché. Mais sur tout j’examinay le coup mortel que c’estoit porter au cœur d’un Mary, que de luy apprendre cette nouvelle. Il faut avoir aimé, Monsieur, pour bien entrer dans ces sentimens, &amp; pour concevoir la secrete douleur d’un honneste Homme qui sçait qu’il ne possede de sa Femme que ce qu’elle ne luy peut refuser ; qui ne doit l’affection qu’elle luy fait paroistre qu’au lien qui les unit, &amp; qui n’est pas le maistre d’un cœur dont il ne se sent que trop digne par son merite. Il est vray que sa Femme tâche d’étouffer cette passion criminelle, il en est mesme convaincu, &amp; il semble que l’aveu qu’elle luy vient de faire est une marque de sa vertu, &amp; de l’estime qu’elle a pour luy. Mais il faut ne pas connoistre l’Amour, pour ignorer qu’il ferme toûjours les yeux sur ce qui peut le soulager dans son malheur, &amp; qu’il ne considere que ce qui accroist ses déplaisirs. Qui peut rassurer ce Mary contre tout ce que son chagrin luy va representer ? Il sçait que l’absence n’efface pas toûjours les impressions qui se sont formées dans un cœur ; que le mal peut s’aigrir par la violence qu’on luy fait ; &amp; que la passion ne trouvant plus dequoy se flatter, monte quelquefois à un tel excés, que la vertu la plus forte qui luy resistoit au commencement, n’est plus en état de la combatre. Une Femme qui jettera les yeux sur tous ces périls, ne balancera pas longtemps sur la résolution qu’elle doit prendre ; elle se déterminera sans doute à demeurer exposée à la veuë dangereuse de son Amant. Il est vray qu’elle aura de rudes combats à rendre ; mais, Monsieur,</p>
           <lg><l>Ce n’est qu’en ces combats qu’éclate la Vertu,</l>
           <l>Et l’on doute d’un Cœur qui n’a point combattu.</l></lg>
@@ -1549,8 +1598,8 @@
       <div type="article" xml:id="MG-1678-09e_326" resp="mercure">
         <head>Lettre XXVIII [relative aux Énigmes] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 326-327.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXVIII.</label>
+        <quote>
+          <label rend="center">LETTRE XXVIII.</label>
           <p rend="i">À Angers. </p>
           <p>J'Ay leu plusieurs de vos Mercures Galans avec tant de satisfaction, que je puis vous protester que la lecture de ces Ouvrages est une des plus agreables occupations que j’aye en France. Elle me fait apprendre la Langue en mesme temps qu’elle me divertit l’esprit. Je ne les ay leus que quelque temps apres qu’ils ont esté faits, à l’exeption de celuy du Mois d’Aoust. J'ay un peu resvé sur les Enigmes que j’y ay trouvées. La premier m’a paru estre <hi rend="i">le Clavessin</hi> ; &amp; la seconde, <hi rend="i">une Horloge à pendule.</hi> Si je n’ay pas deviné juste, cela doit estre pardonné à un Estranger, qui a de la peine à entendre le langage. Au moins cecy me fera une occasion de vous dire que je suis vostre, &amp;c.</p>
           <p><hi rend="sc">François-Loüis Vander Weillen</hi>, <hi rend="i">Gentilhomme Allemand.</hi></p>
@@ -1559,8 +1608,8 @@
       <div type="article" xml:id="MG-1678-09e_327" resp="mercure">
         <head>Lettre XXIX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 327-331.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXIX.</label>
+        <quote>
+          <label rend="center">LETTRE XXIX.</label>
           <p rend="i">À Saumur. </p>
           <p>JE croyt, Monsieur, que la Statuë de Memnon peut tres-bien s’expliquer de l’Astrologie. Cette Statuë qui regarde le Soleil, &amp; qui ne rend ses Oracles qu’en recevant ses rayons, represente les Astres, &amp; particulierement les Planetes, dont l’usage est tres-grand dans l’Astrologie, &amp; qui tirent toute leur force &amp; leur lumiere du Soleil. La Sphere qui paroist sous les pieds de Memnon, peut signifier le Globe Celeste. Le Viellard qui considere la Statuë, c’est l’Astrologue qui consulte les Astres. Ceux qui viennent à luy, sont ceux qui veulent sçavoir l’avenir, &amp; qui se font dire la bonne Aventure, &amp; tirer l’Horoscope. Mais pour confirmer cette Explication, il faut encor considerer le raport que les Prédictions de l’Astrologie ont avec les Oracles. Il n’y avoit rien de plus ambigu ny de plus obscur que ces réponses des faux Dieux, comme il paroist par celles qui furent rendûes à Crésus, à Pyrrhus, &amp; à mille autres qu’il seroit trop long de nommer icy. De mesme on ne voit rien de plus embroüillé que les Prédictions des Astrologues. De plus, les Oracles estoient presque tous faux ; &amp; si quelquefois ils se trouvoient veritables, ce n’estoit que par un pur hazard. Oenomanus, Philosophe &amp; Orateur Grec, ayant esté souvent trompé par celuy de Delphes, fit un Livre de ses mensonges, qu’il intitula, <hi rend="i">De la Fausseté des Oracles.</hi> Et Porphyre, ce grand Ennemy des Chrestiens, avouë en son Traité des Réponses &amp; des Oracles, que pour l’ordinaire ils se trouvoient faux. Il en est de mesme de ce que prédisent les Astrologues ; ce que je vay faire voir en peu de mots par quelques exemples mémorables. En l’année 1179. il courut par toute l’Europe des Prédictions des plus fameux Astrologues, par lesquelles ils menaçoient qu’en l’année 1186. il arriveroit de si effroyables tempestes, &amp; des vents si impétueux, que les Tours ny les Chasteaux les plus forts ne seroient pas capables d’y resister. Cela jetta tout le monde en une consternation terrible, &amp; la plûpart s’alloient cacher dans les creux des Rochers. Cependant cette année-là fut extrémement tranquille. Depuis, d’autres Astrologues publierent qu’en l’an 1524. au mois de Fevrier, il y auroit de si grandes pluyes, qu’à peine se pourroit-on sauver de cette espece de deluge. Mais il arriva tout le contraire de ce qu’ils avoient prédit, &amp; le mois de Fevrier fut extraordinairement sec. Qui ne sçait enfin (car j’ay honte d’estre si long) ce qu’on pronostiqua de l’année 1588. qu’on nomma la merveilleuse, à cause des prodigieux accidens qu’on devoit voir, &amp; de la fameuse Eclypse de Soleil de l’an 1654. Neantmoins toutes ces Predictions n’eurent point d’effet, &amp; elles ne servirent qu’à confondre la vaine Science des Astrologues. Je suis, &amp;c. <space>                                                         </space><hi rend="sc">De la Tousche.</hi></p>
         </quote>
@@ -1568,8 +1617,8 @@
       <div type="article" xml:id="MG-1678-09e_332" resp="mercure">
         <head>Lettre XXX</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 332-338.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXX.</label>
+        <quote>
+          <label rend="center">LETTRE XXX.</label>
           <p rend="i">À Ablouville, pres d’Argentan. </p>
           <p>J'Entre d’abord en matiere touchant la Question galante que vous proposez, &amp; crois, Monsieur, qu’une Femme qui est bien persuadée du merite du Rival de son Mary, &amp; qui a du panchant à luy vouloir du bien, a lieu de craindre pour sa vertu, si elle reste en un lieu où elle ne peut honnestement éviter sa veuë. Il luy rend malgré elle mille services qu’elle ne peut refuser. Il les assaisonne d’un langage muet qui luy dit plus qu’elle ne voudroit entendre. Il ne perd pas la moindre occasion de la voir &amp; de devenir necessaire. Cette complaisance achevée, son air, &amp; ses manieres, donnent de terribles assauts à la vertu de la Dame, &amp; grand sujet d’appréhender certaine heure du jour plus redoutable encor pour le Mary dans un teste à teste commode pour les Amans : mais d’ailleurs si par une avanture assez rare la Dame aime tendrement son Epoux, &amp; que l’amour soit reciproque, elle hazarde de le faire changer en jalousie par un aveu trop sincere, qu’il peut croire n’avoir esté fait que pour sauver les apparences, &amp; servir en suite à le mieux tromper. Tout luy devient suspect, jusqu’à la retraite proposée. Il s’imagine que loin du monde &amp; du bruit, les rendez vous se donnent plus à propos. Je conseille donc à la Dame de ne point découvrir son foible, &amp; de faire tout son possible pour le vaincre. Il y a plus de peine mais il y a plus de gloire, &amp; par une indiférence un peu de longue haleine, elle pourra obliger l’Amant à l’imiter, &amp; le tout sans donner d’ombrage au Mary. Peu de Gens seront d’un avis contraire ; mais peut-estre que les voix seront plus partagées touchant les Mouches dont j’attribuë l’usage à Omphale Reyne de Lydie. Comme elle se coëffoit un jour devant son Miroir, une Mouche se vint mettre sur sa jouë. Elle vit que la couleur de ce petit insecte relevoit admirablement bien l’eclat de son teint. Elle s’avisa d’avoir des Mouches plus fixes, &amp; pour cela elle se fit apporter du Taffetas noir, dont elle tailla quelques petits morceaux qu’elle s’appliqua en divers endroits du visage, &amp; donna ordre à ses Suivantes de ne l’en pas laisser manquer. Elles y travaillerent avec succés, &amp; chacune fit de son mieux pour meriter qu’on l’appellast la Bonne Faiseuse. Toutes les Dames de Lydie suivirent l’exemple de leur Reyne, &amp; dans ce temps le grand Hercule passa par là.</p>
           <lg><l>Il vit la Reyne, &amp; ne pût se défendre,</l>
@@ -1589,8 +1638,8 @@
       <div type="article" xml:id="MG-1678-09e_338" resp="mercure">
         <head>Lettre XXXI</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 338-340.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXXI.</label>
+        <quote>
+          <label rend="center">LETTRE XXXI.</label>
           <p>JE suis obligé, Monsieur, de vous apprendre le bruit que vostre Mercure fait à Madrid parmy les Personnes de la premiere qualité. Voicy ce qu’un Homme de merite qui est dans cette Cour, &amp; à qui je l’envoyay il y a quelque mois, m’en a écrit. <hi rend="i">J'admire la nouvelle &amp; agreable maniere de s’immortaliser, que l’Autheur du Mercure fournit aux Gens d’esprit, dont je trouve qu’il fait une troisiéme espece de Héros.</hi></p>
           <lg><l><hi rend="i">Car il est des Héros de toutes les manieres</hi>, 
 </l>
@@ -1627,7 +1676,7 @@
       <div type="article" xml:id="MG-1678-09e_340" resp="mercure">
         <head>De l’origine des Mouches des Dames</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 340-351.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">De l’origine </label>
           <label rend="center">des Mouches </label>
           <label rend="center">des Dames.</label>
@@ -1654,7 +1703,7 @@
         <head>[Pièces sur la Paix] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 352-373.</bibl>
         <p>J'adjoûte icy quelques Pieces sur la Paix, à celles que je vous ay envoyées dans ma Lettre du dernier mois.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Pour le Roy,</label>
           <label rend="center">Sonnet.</label>
           <lg><l>Des Roys morts la valeur vivante dans l’Histoire,</l>
@@ -1966,8 +2015,8 @@
       <div type="article" xml:id="MG-1678-09e_373" resp="mercure">
         <head>Lettre XXXII. À Madame de ***</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 373-377.</bibl>
-        <quote rend="border">
-          <label rend="center">Lettre XXXII. </label>
+        <quote>
+          <label rend="center">LETTRE XXXII. </label>
           <label rend="center">À Madame de ***</label>
           <p rend="i">À Riom en Auvergne. </p>
           <p>JE devrois, dites-vous, à l’exemple de beaucoup d’autres, composer quelque Ouvrage à la gloire de <hi rend="sc">Loüis le Grand</hi>, ou de Monseigneur <hi rend="sc">Le Dauphin</hi>. Ah, Madame, ou vous prétendez me railler, ou connoissant comme vous faites &amp; cet invincible Monarque &amp; cet aimable Prince, je dois croire que vous ne me connoissez pas. Pour des desseins si beaux, si relevez, il faut des Hommes extraordinaires. Je doute mesme qu’ils pûssent s’en acquiter comme il faut.</p>
@@ -2011,7 +2060,7 @@
       <div type="article" xml:id="MG-1678-09e_378" resp="mercure">
         <head>Lettre XXXIII</head>
         <bibl>MG-1678-09e_378<title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 378-386.</bibl>
-        <quote rend="border">
+        <quote>
           <p>LE bien que j’ay de vous écrire, Monsieur, n’en est pas moins solide, pour estre aujourd’huy l’effet d’un Songe. Je vous trace le recit de ce Songe à l’instant &amp; à l’endroit que je l’ay eu, c’est à dire au fond d’un Bois, où assis au bord d’une Fontaine, &amp; appuyé contre un Arbre, je me suis mis à resver sur ce que vous proposez dans vostre dernier Extraordinaire. Comme j’y resvois avec plaisir, insensiblement le murmure de l’eau, &amp; le bruit des feüilles qu’un doux Zéphire agitoit, m’ont incité à dormir. À peine ay je eu les yeux fermez, que mon imagination m’a représenté l’Amour assez loin de moy, qui apres avoir essuyé une de ses Fleches, la remettoit dans son Carquois, &amp; qui en suite s’estant approché, me tenoit ce discours. <hi rend="i">J'ay percé le cœur de cette Insensible que tu adores ; tu ne soûpireras plus en vain. &amp; un mesme feu consumera vos deux cœurs ;</hi> &amp; puis jettant les yeux sur vostre Livre (car alors il n’avoit point son Bandeau) il se récrioit sur les galans Ouvrages qui le composent. Apparemment, adjoûtoit il, tu en estois sur la Question de la confidence que fait la Princesse de Cleves à son Mary, &amp; sur ce qu’on laisse à inventer touchant l’origine des Mouches galantes, puis que l’Extraordinaire est ouvert en ces deux endroits. Si cela est, je viens tout à propos te tirer d’affaire. Lors que l’Hymen unit deux cœurs, dont il y en a un que je n’ay point formé pour l’autre, &amp; que ce Dieu l’engage par des motifs de devoir, d’estime &amp; d’amitié, je remarque qu’on s’imagine quelquefois que le plus seûr est de déclarer à un Mary, que l’on a toûjours aimé éperduëment un Amant ; que l’amour que cause cet Amant est invincible, &amp; qu’on ne répondroit pas de ne luy estre point complaisante, si l’on avoit à se rencontrer souvent avec luy, parce qu’on soûtient que ce procedé sincere convainc ce Mary de la fidelité de sa Femme, &amp; l’oblige à en avoir une réciproque ; ce qui semble ne devoir produire qu’un tres-bon effet. Il y a d’autres Gens qui croyent qu’il vaut mieux voir cet Amant combatre &amp; soufrir, que d’en venir à une senblable déclaration. Ils se persuadent qu’elle est capable d’inspirer une tres-forte jalousie à un Mary, qui se mettra en teste que sa Femme, quoy qu’éloignée de celuy qu’elle aime, n’en sera pas moins à redouter ; Qu'elle ne s’est résoluë à luy faire un aveu si extraordinaire, que pour le mieux ébloüir ; Qu'elle ne montre des sentimes si nobles, qu’afin de n’estre pas soupçonnée d’entretenir de secretes correspondances avec son Amant ; Que l’ambition &amp; l’interest seuls ont contracté son Mariage ; Que le bonheur de l’Amant est préferable au sien ; &amp; qu’enfin le beau Sexe resistant rarement à une galanterie, des yeux d’Argus auroient peine à découvrir jusqu’où sa Femme poussera la sienne. Il conclüent de là qu’une confidence de cette nature ne peut causer que du trouble &amp; du divorce. Voilà ce que j’ay à t’apprendre sur cette Question, me dit l’Amour. Je ne te la décideray point, puis que je ne conclurois pas à mon avantage.</p>
           <p>Quant à l’origine des Mouches, tu es heureux de ce que je la sçay mieux que personne du monde. N'as-tu jamais leu que Psyché fut d’une beauté achevée, qu’elle s’attira une partie du culte qu’on rendoit à Vénus ma Mere, &amp; de l’encens qu’on luy offroit ; que ma Mere en fut indignée, &amp; que comme il n’y a pas loin de l’indignation à la colere, elle la chercha par par tout, afin de l’immoler à sa jalousie, pendant le temps que tout amour que je suis, j’estois tout amour pour cette Psyché, &amp; que m’estant blessé de mes propres traits, j’entretenois cette Belle dans un Palais enchanté ? Ce fut durant cette recherche qu’une Mouche piqua ma Mere au visage. Elle porta aussitost sa main un peu rudement sur cette Mouche. Cela fut cause qu’il y en resta une aisle que la sueur y attacha, parce que l’Eté n’avoit point encor ue de jours si chauds. Dans le mesme instant les Graces qui n’abandonnent jamais Vénus, tomberent d’accord que cette aisle donnoit un nouvel ornement à sa beauté, c’est pourquoy elle la laissa jusqu’à ce qu’apres s’estre vangée de Psyché, Jupiter accompagné d’autres Divinitez, immortalisa cette belle Nymphe. Tout les yeux de ces Divinitez estant attachez sur ma Mere plus que de coûtume, elle jugea que la noirceur de cette aisle rehaussoit la blancheur de son teint. Jupiter la confirma luy-mesme dans cette pensée, &amp; luy dit, <hi rend="i">Je veux croire, ma Fille, que tu n’as inventé cet agrément qu’afin de montrer aux Mortels qu’ils ont eu tort de mestre Psyché en comparaison avec toy. Ils reconnoistront sans-doute l’erreur où ils sont tombez, quand ils te verront de retour dans l’Isle de Chypre, où ils sont sur le point de celebrer une grande Feste.</hi> Il est vray que ma Mere n’a jamais esté tant admirée qu’elle le fut dans la Feste dont Jupiter luy parla. Tout ce qu’il y avoit de Jeunesse galante dans le monde s’estoit assemblé pour la celébrer. Les Belles surprises du nouvel éclat de la Déesse, la voulurent imiter, &amp; se servirent de petits morceaux de Taffetas à peu pres de la longueur de cette aisle, ausquels elles donnerent le nom de Mouche, ayant sçeu des Graces ce qui s’estoit passé en la personne de Vénus. À peine l’Amour achevoit-il ces derniers mots, qu’une Mouche est venuë me piquer &amp; me réveiller. Il semble qu’il y ait eu du dessein, &amp; je me persuade que ce Dieu l’a ordonné ainsi, afin que je n’oubliasse aucune circonstance du Songe, &amp; que je ne perdisse point de temps à vous l’écrire. Je suis vostre, &amp;c.</p>
           <p><hi rend="sc">De la Salle</hi>, <hi rend="i">S<hi rend="sup">t</hi>  de Lestang.</hi></p>
@@ -2021,7 +2070,7 @@
         <head>[Proposition pour construire des fictions sur l’origine de l’Horloge de Sable] *</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 386-387.</bibl>
         <p>On a pris tant de plaisir à faire des Fictions sur cette origine des Mouches galantes, que je ne doute point qu’on ne se divertisse également à chercher celle de l’Horloge de Sable. La version que j’ay veu d’une Epigramme Latine, pourra servir d’idée à inventer quelque chose d’agreable sur ce sujet. La voicy.</p>
-        <quote rend="border">
+        <quote>
           <l>ALcippe dont le cœur fut autrefois si tendre,</l>
           <l>Compte icy les Heures du Jour.</l>
           <l>Il fut consumé de l’Amoureux</l>
@@ -2055,9 +2104,9 @@
         <head>Lettre</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet, tome III, 1678, p. 398-407.</bibl>
         <p>J'allois fermer mon Paquet, lors que j’en ay reçeu un de Lyon qui contenoit trois Lettres. Je ne puis m’empescher de vous envoyer la premiere, &amp; de vous dire que vous aurez les deux autres dans celle que vous attendez de moy le dernier jour de ce Mois. Elles sont remplies de choses si sçavantes &amp; si curieuses touchant l’origine des Cadrans, &amp; la division des Jours &amp; des Heures, qu’elles meritent l’impatience où vous allez estre de les recevoir.</p>
-        <quote rend="border">
-          <label rend="center">Lettre.</label>
-          <p>VOus avez ouvert une Cariere où l’on peut entrer en lice, de quelque âge, &amp; de quelque Païs que l’on soit, pour peu qu’on ait bon goust, &amp; d’amour pour les belles choses. Vous n’avez ny borné le nombre, ny fixé les années de ceux qui peuvent vous écrire. Tout ce qui se mesle de Literature vous doit tribut, &amp; j’ay crû puis qu’on devoit vous le payer tôt ou tard, qu’il valoit autant que je commençasse aujourd’huy. J'ay quelquefois deviné vos Enigmes ; mais sans parler des passez, je croy que ceux du mois d’Aoust sont le <hi rend="i">Clavessin</hi> &amp; le <hi rend="i">Tournebroche</hi>. Je suis si novice à ce métier &amp; je voy tant d’habiles Gens s’y tromper, que je n’oserois me répondre d’avoir pensé juste. Vostre Mercure de Septembre m’aprendra ce qui en est. Je me flate aussi d’avoir rencontré l’explication de vostre Enigme en Figure. Deux Lettres que j’écrivis là-dessus il y a quelques jours à un de mes Amis, &amp; qu’on veut que je vous envoye, vous apprendront ma pensée. Je les garde pour la fin. Voulez vous bien en attendant que je vous fasse part de ce qui se dit hier au soir dans une petite compagnie de Personnes choisies, où je me trouvay par bonheur ? Vous n’ignorez pas que vous faites souvent le sujet des conversations. Presque toutes les Personnes qui composoient nostre Troupe avoient leu le Mercure d’Aoust &amp; l’Extraordinaire depuis peu de jours ; ainsi tout roula là dessus. La nouvelle invention de l’Ordre de la Liberté des Cœurs eût ses Defenseurs &amp; ses Partisans : d’autres prétendoient qu’elle estoit inutile.</p>
+        <quote>
+          <label rend="center">LETTRE.</label>
+          <p>Vous avez ouvert une Cariere où l’on peut entrer en lice, de quelque âge, &amp; de quelque Païs que l’on soit, pour peu qu’on ait bon goust, &amp; d’amour pour les belles choses. Vous n’avez ny borné le nombre, ny fixé les années de ceux qui peuvent vous écrire. Tout ce qui se mesle de Literature vous doit tribut, &amp; j’ay crû puis qu’on devoit vous le payer tôt ou tard, qu’il valoit autant que je commençasse aujourd’huy. J'ay quelquefois deviné vos Enigmes ; mais sans parler des passez, je croy que ceux du mois d’Aoust sont le <hi rend="i">Clavessin</hi> &amp; le <hi rend="i">Tournebroche</hi>. Je suis si novice à ce métier &amp; je voy tant d’habiles Gens s’y tromper, que je n’oserois me répondre d’avoir pensé juste. Vostre Mercure de Septembre m’aprendra ce qui en est. Je me flate aussi d’avoir rencontré l’explication de vostre Enigme en Figure. Deux Lettres que j’écrivis là-dessus il y a quelques jours à un de mes Amis, &amp; qu’on veut que je vous envoye, vous apprendront ma pensée. Je les garde pour la fin. Voulez vous bien en attendant que je vous fasse part de ce qui se dit hier au soir dans une petite compagnie de Personnes choisies, où je me trouvay par bonheur ? Vous n’ignorez pas que vous faites souvent le sujet des conversations. Presque toutes les Personnes qui composoient nostre Troupe avoient leu le Mercure d’Aoust &amp; l’Extraordinaire depuis peu de jours ; ainsi tout roula là dessus. La nouvelle invention de l’Ordre de la Liberté des Cœurs eût ses Defenseurs &amp; ses Partisans : d’autres prétendoient qu’elle estoit inutile.</p>
           <lg><l>Que l’on se targue en vain de cette Liberté,</l>
           <l>Que tôt ou tard il faut se rendre,</l>
           <l>Que la plus altiere Fierté</l>
