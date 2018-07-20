@@ -103,7 +103,7 @@
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_000d" resp="mercure">
-        <head>[Erratum concernant l’<hi rend="i">Extraordinaire du Mercure galant</hi>, tome III] *</head>
+        <head>[Erratum concernant l’<hi rend="i">Extraordinaire du Mercure galant</hi>, tome III]*</head>
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, non paginé.</bibl>
         <p>Il s’est glissé une faute dans la Lettre de Messieurs de l’Académie d’Arles, qui est dans l’Extraordinaire ; on y trouvera <hi rend="i">Oyseaux</hi> pour <hi rend="i">Oyseux.</hi> On prie ceux que ce mot arrestera, de se donner la peine de le corriger.</p>
       </div>
@@ -456,13 +456,13 @@
         <quote>
           <label rend="center">AIR NOUVEAU.</label>
           <lg>
-          <l>Pourquoy venir troubler le repos de ma vie,</l>
-          <l>Quand mon cœur contre vous se croit en seûreté ?</l>
-          <l>Eloigné de vostre beauté,</l>
-          <l>Je ne gardois aucune envie</l>
-          <l>De revoir ces beaux yeux dont je suis enchanté.</l>
-          <l>Pourquoy venir troubler le repos de ma vie,</l>
-          <l>Quand mon cœur contre vous je crois en seüreté ?</l>
+          <l rend="i">Pourquoy venir troubler le repos de ma vie,</l>
+          <l rend="i">Quand mon cœur contre vous se croit en seûreté ?</l>
+          <l rend="i">Eloigné de vostre beauté,</l>
+          <l rend="i">Je ne gardois aucune envie</l>
+          <l rend="i">De revoir ces beaux yeux dont je suis enchanté.</l>
+          <l rend="i">Pourquoy venir troubler le repos de ma vie,</l>
+          <l rend="i">Quand mon cœur contre vous je crois en seüreté ?</l>
           </lg>
         </quote>
       </div>
@@ -835,14 +835,16 @@
         <p>La joye est fort necessaire pour faire profiter les Remedes. Celuy qui a fait la Chanson qui suit, en doit estre persuadé, puis qu’il ne parle que de ce qui est contraire au chagrin. Voyez-en les Paroles. M<hi rend="sup">r</hi> l’Egu les a mises en Air.</p>
         <quote>
           <label>AIR NOUVEAU.</label>
-          <lg><l rend="i">Pendant que nos braves Guerriers</l>
+          <lg>
+            <l rend="i">Pendant que nos braves Guerriers</l>
           <l rend="i">S’entredisputent les Lauriers,</l>
           <l rend="i">Entredisputons nous la gloire</l>
           <l rend="i">De chanter, de rire, &amp; de boire.</l>
           <l rend="i"><space/>Unissons nous tous,</l>
           <l rend="i">Buvons ; chantons, faisons des vœux,</l>
           <l rend="i">Puis qu’ils combatent pour nous,</l>
-          <l rend="i">Amis, buvons pour eux.</l></lg>
+          <l rend="i">Amis, buvons pour eux.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_109b" resp="mercure" copyOf="JLB-1678-05_212">
@@ -975,16 +977,16 @@
           <p>Ainsi en qualitez de Chien vous seriez malheureux avec moy. Je ne remarque qu’une bonne qualité dans ces Animaux là, c’est la fidélité qu’ils ont pour leurs Maistresses. Mais mon Berger m’ayant juré de n’avoir jamais d’autre Musette que moy, il faut que je me donne le loisir d’éprouver s’il sera fidelle, avant que je puisse examiner s’il me seroit avantageux de vous écouter.</p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_245" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_126" resp="mercure" copyOf="JLB-1678-05_245">
         <head>La Renommée à Monseigneur le Dauphin</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 245-252.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 126-130.</bibl>
         <p>Monseigneur le Dauphin, dont les grandes qualitez se font tout les jour admirer de plus en plus, continuë ses Exercices avec des progrés incroyables. Cette matiere, si digne d’ocuper les meilleures Plumes, à fourny de nouvelles idées à M du Mata-d’Emery. Il a déja fait parler si agreablement les Chevaux de Manege dont ce jeune Prince se sert, que vous pouvez vous promettre beaucoup de plaisir de ce qu’il fait dire à la Renommée. Un peu d’audience. Vous ne serez pas fâchée de l’écouter.</p>
         <quote rend="border">
           <label rend="center">La </label>
           <label rend="center">Renommée</label>
           <label rend="center">À Monseigneur</label>
           <label rend="center">Le Dauphin.</label>
-          <lg><l>J'Allois un jour à haute voix</l>
+          <lg><l>J'allois un jour à haute voix</l>
           <l>Semer sur la Terre &amp; sur l’Onde</l>
           <l>Les incomparables Exploits</l>
           <l>Du plus grand Monarque du monde.</l>
@@ -1090,14 +1092,14 @@
           <l>Adieu Mars, adieu Renommée.</l></lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_252" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_130a" resp="mercure" copyOf="JLB-1678-05_252">
         <head>[M. de Boulogne réüssit tres-bien dans le Tableau du May de cette année]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 252-253.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 130.</bibl>
         <p>Le Tableau qu’on expose tous les Ans à Nostre-Dame pendant tout le Mois de May, a esté trouvé cette Année un des plus beaux qu’on y ait veus depuis fort longtemps. Il represente le Paralytique. Les Connoisseurs en admirent sur tout l’Architecture. Ce Tableau a esté fait par M<hi rend="sup">r</hi> Boulogne, &amp; donné par M<hi rend="sup">rs</hi> de Villers &amp; Guillard, Marchands Orfevres &amp; Joüailliers.</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_253" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_130b" resp="mercure" copyOf="JLB-1678-05_253">
         <head>[Paroles de M. Marcelle mises en Air par M. de la Tour]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 253-254.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 130-131.</bibl>
         <p>Les Vers qui suivent m’ont paru si naturels pour une Amante trahie, que j’ay crû vous les devoir envoyer, au hazard que vous les ayez déja veus, car on les chante icy depuis quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
         <quote>
           <label>CHANSON.</label>
@@ -1109,32 +1111,34 @@
           <l rend="i">Printemps, Plaisirs, Amours, tout est passé pour moy.</l></lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_255" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_131" resp="mercure" copyOf="JLB-1678-05_255">
         <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 255.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 131-132.</bibl>
         <p>Si l’envie de chanter vous prend, vous pouvez la satisfaire. Voicy un Air tout nouveau, &amp; dont j’ay fait graver les Notes pour vous. Ainsi vous serez assurément la premiere qui l’aurez chanté. Il est de M<hi rend="sup">r</hi> Berthet qui l’a fait sur ces Paroles.</p>
         <quote>
           <label>AIR NOUVEAU</label>
-          <lg><l rend="i">Que l’Amour flate doucement !</l>
+          <lg>
+            <l rend="i">Que l’Amour flate doucement !</l>
           <l rend="i">Qu’il est agreable &amp; charmant,</l>
           <l rend="i">Lorsqu’il veut engager un cœur sous son empire.</l>
           <l rend="i">Mais helas, le cruel, quand il nous a soûmis,</l>
           <l rend="i">Et qu’on ne peut plus s’en dédire !</l>
-          <l rend="i">Qu’il tient mal ce qu’il a promis,</l></lg>
+          <l rend="i">Qu’il tient mal ce qu’il a promis,</l>
+          </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_256" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_132" resp="mercure" copyOf="JLB-1678-05_256">
         <head>[Lettre d’un Amant désesperé]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 256-266.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 132-137.</bibl>
         <p>On est tous les jours trompé en amour, &amp; il se fait sans cesse de nouveaux engagemens. La Lettre que je vous envoye d’un Amant desesperé, devroit servir de remede contre cette passion, si on examinoit à quoy l’on s’expose avant que de s’embarquer ; mais les premieres amorces de l’amour sont si flateuse, qu’on s’en laisse toûjours séduire, &amp; on ne songe à luy resister, que quand on n’a plus de forces pour le combatre. Il n’y a rien à mon sens de mieux touché que cette Lettre. Je ne sçay si elle aura paru touchante à la Dame, mais je sçay qu’elle est fort digne de votre admiration.</p>
         <quote rend="border">
           <label rend="center">Lettre.</label>
           <p>Avez-vous oublié Madame, le désespoir où vous me vistes hier, ou avez vous pû croire que ce seroit l’adoucir, de me faire aller chez vous pour vous voir joüer à la Bassete ? Quelle consolation pour moy de vous avoir trouvée dans une gayeté extraordinaire, &amp; de vous entendre loüer vous-mesme vostre beauté ? Vous m’avez laissé sortir sans me dire une seule parole, &amp; vous sçavez avec qui je vous ay laissée. La journée d’un Malheureux pouvoit-elle mieux finir ? Quel trouble ! quelles peines ! Que n’ay je point souffert ? Il faut, Madame, que vous ayez un grand fonds d’inhumanité, si vous n’en estes bien contente ; &amp; si ceux qui m’ont veu ne sont pas persuadez que je vous aime, ils s’y connoissent peu. Mais, Madame, cela ne vous regarde pas, ils ne sçauroient me croire amoureux sans me croire miserable. La tristesse &amp; le desordre où ils m’ont veu, ne peut leur avoir permis de separer ces deux choses. Ne vous contraignez point, Madame. Vous voulez me faire mourir, &amp; je ne dois pas avoir de peine à m’y résoudre. Quelle mort peut-il y avoir qui ne soit préferable à tout ce que vous me faites souffrir depuis si longtemps ? Ce n’est pas une exagération, vous ne le sçavez que trop. Peut-on imaginer quelque chose que je n’aye fait pour vous plaire, ou pour me guérir, &amp; peut-on l’avoir fait plus inutilement ? Dans ces états si opposez, que n’avez-vous point veu de moy, &amp; de quel œil l’avez-vous veu ? Mais si la passion la plus respectueuse, la plus vive, &amp; la plus tendre qui fut jamais, n’a pû toucher vostre cœur, vous ne pouvez pas trouver étrange que toutes vos rigueurs, &amp; la mort mesme que vous m’avez fait voir si souvent &amp; de si pres, n’ayent pû détacher le mien. Quand on a osé vous aimer, Madame, peut-on se retrouver sensible à quelqu’autre chose ? Vostre personne, vostre esprit, &amp; vostre cœur, n’effacent-ils pas jusqu’aux idées de tout ce qui peut plaire ou divertir ? Cependant il est vray, Madame, &amp; je ne puis m’empescher de vous le dire encor, mais c’est pour la deniere fois, je ne dois pas me prendre à moy seul l’accablement où je suis enfin parvenu. C'est dans le fonds le pur ouvrage de vos mains, soit que ma passion vous ait plû, soit parce qu’on veut rarement se défaire d’un Homme dévoüé par amour. Enfin directement, ou par vos manieres, aux despens de mon repos, &amp; au péril de ma propre vie, vous vous estes toûjours opposée aux efforts que j’ay voulu faire pour vous quiter. Il est vray qu’ils ont esté inutiles dans la suite, mais peut-estre qu’ils ne l’eussent pas esté dans les commencemens. Si vous n’aviez affoibly ma raison, j’ose croire qu’elle eust pû alors se rendre la plus forte. Les pensées que vous avez eü pour ma fortune, tant de marques d’estime &amp; d’amitié que j’ay reçeu de vous, ont encor achevé de me perdre. J'avouë, Madame, que toutes ces choses auroient esté d’un prix inestimable dans un cœur libre ; mais que ne m’ont-elles point cousté ? Vous sçavez qu’elles ont soûtenu mes foles espérances, &amp; ranimé mille fois mon attachement. Faites moy justice, Madame. Un Homme éperdu d’amour pouvoit-il avoir la veuë assez bonne pour penétrer qu’à travers tant de graces de vostre part, &amp; tant de constance de la sienne, il ne seroit jamais heureux ? Que ne vous dirois-je point là-dessus, Madame, si je me laissois aller à tout ce qui me vient dans l’esprit ? Mais ne sçay-je point assez l’inutilité de mes discours &amp; de mes plaintes, &amp; ne vois-je pas depuis quelque temps que vous estes occupée à tant d’autres choses, que tout ce que je vous dis vous aigrit ? La Personne du monde qui vous plaist le moins, n’a qu’à m’interrompre pour estre bien reçeuë ; &amp; cette dureté me touche d’autant plus vivement, qu’elle n’a pas toûjours esté si grande. Je vous demande pardon, Madame. La crainte que j’ay de vous fâcher, me fait sentir que je vous parle trop libremens. Vous sçavez que si j’ay eu quelquefois de la force pour soûtenir ma destinée, je n’en ay jamais eu pour soûtenir vostre colere. Dans ce moment mesme où je n’ay plus rien à ménager, je me trouve également penetré de cette crainte. Adieu, Madame, adieu. Je prens enfin le party dont je vous ay parlé si souvent. J'abandonne ma fortune. Je quite Paris &amp; la Cour pour toute ma vie. Je ne sçaurois y estre sans vous voir, ny vous voir sans me redonner à vous, &amp; c’est le seul péril que je puisse craindre en l’état où je suis.</p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_280" resp="mercure">
-        <head>[Impromptu sur le Mariage de M<hi rend="sup">r</hi> Richon et de Mademoiselle de Bigot par M<hi rend="sup">r</hi> Barré] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 280-282.</bibl>
+      <div type="article" xml:id="MG-1678-05_144" resp="mercure" copyOf="JLB-1678-05_280">
+        <head>[Impromptu sur le Mariage de M<hi rend="sup">r</hi> Richon et de Mademoiselle de Bigot par M<hi rend="sup">r</hi> Barré]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 144-145.</bibl>
         <p>On fait des Epitaphes d’un costé, &amp; des Epitalames de l’autre. En voicy un qui fut fait impromptu ces derniers jours sur le Mariage de M<hi rend="sup">r</hi> Richon, Petit-Fils du feu Trésorier de France de ce nom, &amp; de Mademoiselle de Bigot, fille de M<hi rend="sup">r</hi> Bigot Receveur General pour la Taxe des Charges Royales du Ressort du Parlement de Bordeaux. M<hi rend="sup">r</hi> Barré en est l’Autheur. Il a beaucoup de talent pour la Poësie, quoy que dans un âge tres-peu avancé. La Demande à Iris est de luy, aussi-bien que les trois Pieces suivantes que vous avez veuës dans ma Lettre du Mois d’Avril.</p>
         <quote rend="border">
           <label rend="center">Impromptu.</label>
@@ -1153,32 +1157,33 @@
           <l>Couronne vos tendres amours.</l></lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_283" resp="mercure">
-        <head>[Deux Madrigaux : l’Amant content et l’Amant plaintif] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 283-284.</bibl>
+      <div type="article" xml:id="MG-1678-05_145" resp="mercure" copyOf="JLB-1678-05_283">
+        <head>[Deux Madrigaux : l’Amant content et l’Amant plaintif]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 145-146.</bibl>
         <p>J'adjoûte deux Madrigaux qui sont d’un caractere bien opposé. L'un est d’un Amant content, &amp; l’autre d’un Amant plaintif. Il y en a toûjours eu de toutes manieres.</p>
         <quote rend="border">
           <label rend="center">L'Amant Content.</label>
           <label rend="center">Madrigal.</label>
           <l>Ah, que je suis heureux !</l>
-          <l>Apres avoir souffert depuis le temps que j’aime</l>
+          <lg><l>Apres avoir souffert depuis le temps que j’aime</l>
           <l>Tout ce que fait soufrir un destin rigoureux,</l>
           <l>Iris ne doute plus de mon amour extrême,</l>
           <l>Et je luy parle quand je veux.</l>
-          <l>Ah, que je suis heureux !</l>
+          <l>Ah, que je suis heureux !</l></lg></quote>
+        <quote>
           <label rend="center">L'Amant Plaintif.</label>
           <label rend="center">Madrigal.</label>
-          <l>Que ne m’accablez vous de mortelles rigueurs,</l>
+          <lg><l>Que ne m’accablez vous de mortelles rigueurs,</l>
           <l>Vous qui me reprocherez de frivoles faveurs.</l>
           <l>Helas ! loin d’êcouter tant d’esperances vaines,</l>
           <l>Dont ma raison ne peut interrompre le cours,</l>
           <l>Peut-estre qu’à vos yeux je briserois mes chaînes,</l>
-          <l>Et je vay les traisner le reste de mes jours.</l>
+          <l>Et je vay les traisner le reste de mes jours.</l></lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_324" resp="mercure">
-        <head>[Chanson adressé aux confédérés d’Allemagne] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 324-327.</bibl>
+      <div type="article" xml:id="MG-1678-05_166" resp="mercure" copyOf="JLB-1678-05_324">
+        <head>[Chanson adressé aux confédérés d’Allemagne]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 166-167.</bibl>
         <p>Cependant pour vous parler d’un autre torrent de Jaloux déchaîner contre la gloire de Sa Majesté, je vous diray que les Conféderez d’Allemagne s’assemblent, &amp; font des mouvemens depuis plus d’un mois ; qu’on n’entend parler que de leurs Magasins, &amp; qu’ils font apporter des Provisions de mille endroits diférens. Ils sont beaucoup, ils se souviennent de l’année derniere. Je ne sçay s’ils feront de grand progrés, &amp; si l’on n’en doit point croire cette Chanson.</p>
         <quote rend="border">
           <lg><l>Pourquoy quiter vostre charmante Reyne,</l>
@@ -1195,9 +1200,9 @@
           <p>D. V.</p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_327" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_168" resp="mercure" copyOf="JLB-1678-05_327">
         <head>[Lettre sur l’Extraordinaire du Mercure Galant]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 327-336.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 168-174.</bibl>
         <p>Vostre difficuté sur le mot <hi rend="i">Diamant brute</hi> que j’ay employé dans l’Epistre aux Dames de ma Lettre Extraordinaire, me paroist fort juste. Ce mot m’avoit fait peine comme il vous en fait, &amp; il n’y eut que l’avantage de la Rime qui l’emporta sur mon scrupule. J'ay consulté nos Maistres depuis ce temps-là. Quelques-uns des plus délicats, &amp; de ceux-mesme dont on trouve les Livres écrits avec la plus exacte pureté, sont pour cette maniere de parler. D'autres soûtiennent qu’il faut dire <hi rend="i">Diamant Brut</hi>, &amp; ceux-là sont en plus grand nombre. Ainsi je croy qu’il faut estre de leur sentiment, parce qu’en matiere de doute, la pluralité doit prévaloir. J'attens avec bien de l’impatience ce que vous me promettez sur la Question galante, &amp; sur l’Histoire Enigmatique de cet Extraordinaire. Vous pouvez ne vous point embarassez, si vous voulez, de la Lettre en Chifres ; mais ne dites point que pour la déchifrer on ne distingue point assez les Oyseaux &amp; les Animaux qui en sont les caracteres. On m’en a déja envoyé le sens, &amp; quoy qu’il n’y ait que deux seules Personnes qui l’ayent trouvé, la chose n’est pas impossible, puis qu’on a pû en venir à bout. Pour ce que vous me dites que cet Extraordinaire ne déplaist point dans vostre Province, mais que le prix en dégoûte beaucoup de Gens qui voudroient l’avoir, j’y ay déja donné ordre, &amp; consenty volontiers à ce qui m’a esté demandé par la Lettre que vous allez voir.</p>
         <quote rend="border">
           <label rend="center">À L'Autheur</label>
@@ -1206,9 +1211,9 @@
           <p>Je croy estre obligé, Monsieur, de vous apprendre ce qui m’arriva hyer au soir. J'estois dans une Auberge où j’ay accoustumé de trouver un assez bon nombre de Provinciaux. Ils me parurent plus fiers qu’à l’ordinaire. Chacun d’eux tranchoit du bel Esprit, &amp; la cause ne m’en fut pas longtemps inconnuë. On parla de l’Extraordinaire de vostre Mercure Galant, &amp; je m’aperçeus bientost que leur fierté venoit du Panégyrique que vous y avez fait d’eux, &amp; de leurs Lettres qui composent la plus grande partie de cet Ouvrage. Ils estoient modestes, vous les rendez fiers, &amp; on seroit mal venu à les traiter presentement de Provinciaux. Quelqu’un de la Compagnie (il estoit Parisien comme moy) ne pût s’empescher de dire, que quoy que parmy ces Lettres il y en eust de tres-agreables, le trop d’Explications des mesmes Enigmes importunoit, &amp; que vous en auriez dû retrancher du moins la moitié. Trois ou quatre Provinciaux, zelez tout ce qu’on peut l’estre pour le bien commun, parlerent tout-à-la-fois, &amp; dirent avec chaleur que vous auriez mal fait si vous vous fussiez dispensé de les mettre toutes, puis que tout le monde s’estant empressé de vous écrire, il falloit que chaque Province trouvast dans vostre Extraordinaire des Explications de quelques Personnes de toutes les Villes qui les composent, afin qu’aucune n’eust sujet de se plaindre d’avoir esté oubliée, comme quelques-unes ont déja fait par leurs Lettres que vous nous venez de donner. Leur raisonnement me persuada. Je me joignis à eux pour défendre vostre Livre, &amp; je ne sçay pourquoi je vous en fais icy l’Apologie à vous-mesme, puis que je devrois vous vouloir un peu de mal d’avoir tellement élevé les Provinciaux, qu’ils croiront bientost ne devoir ceder au Parisiens ny en galanterie ny en esprit ; Je consens pourtant volontiers au bien que vous dites d’eux, parce qu’ils sont François comme moy, &amp; que la gloire en retombe sur toute la France. Je diray plus. Il n’y a pas-une des Villes de ce florissans Royaume qui ne doive garder vostre Extraordinaire dans ses Archives, ny pas-un Provincial qui ne le doive conserver dans son Cabinet, comme des Titres de l’Esprit de sa Famille. Cependant si les Provinciaux sont satisfaits de l’encens que vous leur donnez, j’ay à vous dire que plusieurs ne le sont pas du prix qu’il leur couste. Un d’entr'eux me le dit en particulier, &amp; me pria mesme de vous le faire sçavoir sans le commettre. À dire le vray, l’honneur que vous faites à leurs Ouvrages, en les faisant vendre plus que les vostres, leur couste un peu cher. C'est un honneur dont ils se passeroient sans beaucoup de peine, &amp; je vous assure que leur vanité est tres-médiocre sur cet article. S'ils sont bien-aises d’apprendre que vous les avez mis au nombre des beaux Esprits imprimez, ils voudroient bien que leurs Ouvrages leur fussent donnez à meilleur compte, &amp; ils en trouveroient leurs Lettres la moitié plus belle. Un peu de ménage ne sied point mal en toutes choses. S'il y en a qui ne s’arrestent point au prix quand quelque chose leur plaist, il en est beaucoup qui se privent par là de ce qu’ils souhaitent, &amp; il faut toûjours contenter le plus grand nombre. Je vous dis mesmes, car les beaux Esprits sont fiers ; &amp; à quoy serviroit d’avoir de l’esprit, si on ne sçavoit se déguiser ? Quoy qu’il en soit, Monsieur, puis que vous voulez bien mettre les Provinciaux au monde, faites qu’ils achetent moins la satisfaction qu’ils en reçoivent. Vous leur avez fait honneur en jugeant leurs Ouvrages dignes d’un grand prix, faites leur plaisir en faisant qu’ils puissent voir ceux des autres Provinces &amp; de la leur, sans qu’il leur en couste davantage que pour Mercure. Plus de Gens les acheteront ; &amp; plus ils seront veus, plus ceux qui les ont faits en auront de gloire. Ils ne croiront point que cette diminution de prix les fasse trouver moins beaux. Ils sçavent qu’on en a usé de cette sorte pour les plus belles Pieces de Theatre, quand elles n’ont plus esté si nouvelles. Ainsi vostre Extraodinaire n’en sera pas moins estimé. Faites-y reflection, Monsieur. Je sçay que vos Figures de Modes de toutes manieres, vos autres Planches sur le mesme sujet, &amp; toutes celles qui sont dans ce Livre, vous ont obligé à de fort grandes dépenses, mais vous devez récompenser par là les Provinces de l’estime qu’elles ont pour vostre Mercure, qu’on y achete souvent plus cher qu’à Paris.</p>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_337" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_174" resp="mercure" copyOf="JLB-1678-05_337">
         <head>[Explication de la premiere Enigme en Vers du mois d’Avril]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 337-342.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 174-176.</bibl>
         <p>Je viens aux Enigmes du dernier Mois. Vous les aurez sans-doute examinées avec plus de soin, apres avoir leu à la teste de ma Lettre Extraordinaire, ce qui a esté écrit sur ce sujet par un bel Esprit d’Aix. Je ne suis point surpris que vous traitiez de Chef d’œuvre les dix ou douze Lettres qui en font une espece de Dissertation. Tout le monde les a admirées, &amp; on souhaiteroit fort que leur Autheur voulust embellir souvent celles que je vous adresse de quelque Traité de sa façon. Il écrit si finement, qu’il est assuré de réüssir dans tout ce qu’il voudra entreprendre, &amp; on ne peut avoir autant d’esprit qu’il en a, sans estre comptable au Public de la meilleure partie de ses heures. Vous n’avez pas perdu celles que vous avez données à chercher le sens des deux dernieres Enigmes, puis que vous les avez devinées. Le Fils d’un Auditeur de la Chambre des Comptes de Dijon, qui a trouvé comme vous le vray mot de la premiere, s’en explique de cette sorte à une aimable Personne qui luy en avoit demandé le sens.</p>
         <quote rend="border">
           <label rend="center">À Iris.</label>
@@ -1247,14 +1252,14 @@
           <l>Il ne vous vit jamais plus charmante &amp; plus belle.</l>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_342" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_177" resp="mercure" copyOf="JLB-1678-05_342">
         <head>[Noms de ceux qui l’ont devinée]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 342-344.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 177-178.</bibl>
         <p>[…]</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_344" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_178" resp="mercure" copyOf="JLB-1678-05_344">
         <head>[Explication de la seconde Enigme avec ceux qui l’ont devinée]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 344-349.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 178-180.</bibl>
         <p>L'Explication qui suit apprendra le vray Mot de la seconde à ceux qui n’ont pas eu les mesmes lumieres que vous pour les trouver.</p>
         <quote rend="border">
           <l><space/>C'est une Canne</l>
@@ -1270,18 +1275,19 @@
         </quote>
         <p>Voici d’autres Mots qui ont esté appliquez à cette seconde Enigme, <hi rend="i">La Pique, le Dard, un vieil Baston de Mareschal de France, l’Oignon, le Papier timbré, une Plume de Héron, une Pertuisane, &amp; le Bois de Brésil.</hi> Le Mot de la <hi rend="i">Canne</hi> qui est son vray sens, a esté trouvé par [… liste de noms]</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_349" resp="mercure">
-        <head>[Noms de ceux qui ont devinée les deux Enigmes] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 349-355.</bibl>
+      <div type="article" xml:id="MG-1678-05_180" resp="mercure" copyOf="JLB-1678-05_349">
+        <head>[Noms de ceux qui ont devinée les deux Enigmes]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 180-183.</bibl>
         <p>[…]</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_355" resp="mercure">
-        <head>[Deux nouvelles énigmes] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 355-358.</bibl>
+      <div type="article" xml:id="MG-1678-05_183" resp="mercure" copyOf="JLB-1678-05_355">
+        <head>[Deux nouvelles énigmes]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 183-185.</bibl>
         <p>Je vous envoye deux nouvelles Enigmes. La premiere est de M<hi rend="sup">r</hi> l’Abbé d’Albert d’Aix.</p>
         <quote rend="border">
           <label rend="center">Enigme.</label>
-          <l>Je suis de divers lieux, je nais dans les Forests,</l>
+          <lg>
+            <l>Je suis de divers lieux, je nais dans les Forests,</l>
           <l>Tantost pres des Ruisseaux ; tantost pres des Marets ;</l>
           <l>Je suis de toute taille &amp; de seche figure,</l>
           <l>Je n’ay jambes n’y bras ; cependant la Nature</l>
@@ -1296,9 +1302,11 @@
           <l>Ce qu’en ouvrant la bouche on voit faire en tout lieux</l>
           <l>À mille Gens qui par là sçavent plaire,</l>
           <l>Moy de qui la méthode à la leur est contraire,</l>
-          <l>Je le fais en fermant la plûpart de mes yeux.</l>
+          <l>Je le fais en fermant la plûpart de mes yeux.</l></lg></quote>
+        <quote>
           <label rend="center">Autre Enigme.</label>
-          <l>Comme l’heur de me voir est un bien important,</l>
+          <lg>
+            <l>Comme l’heur de me voir est un bien important,</l>
           <l>Je mets mon Corps en veuë autant qu’il y peut estre.</l>
           <l>Cependant de ce Corps que l’on estime tant,</l>
           <l>On ne voit presque rien paroistre.</l>
@@ -1315,40 +1323,40 @@
           <l>Passez à me chercher &amp; les jours &amp; les nuit,</l>
           <l>Ce soin sera tres-inutile.</l>
           <l>Où me trouveriez-vous ? Plus vous serez habile,</l>
-          <l>Et moins vous sçaurait où je suis.</l>
+          <l>Et moins vous sçaurait où je suis.</l></lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1678-05_358" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_185" resp="mercure" copyOf="JLB-1678-05_358">
         <head>[Enigme en Figure]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 358-369.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 185-192.</bibl>
         <p>Quant à l’Enigme en Figures, vous allez demeurer d’accord par les divers sens qu’on luy a donnez, qu’elle a fait étudier la Nature à bien des Gens, &amp; que cette sorte de délassement d’esprit ne peut estre sans utilité, puis qu’il engage à faire des recherches fort curieuses. […liste de noms avec leur réponse]</p>
         <p>Cependant, le vray Mot est <hi rend="i">le Vers Burlesque</hi>, &amp; il n’y a eu que le seul M<hi rend="sup">r</hi> Langlois de Paris qui l’ait trouvé. <hi rend="i">Marsye</hi> estoit une espece de Musicien champestre, habile Joüeur de Flûte. C'est par là qu’il represente le Vers. Il avoit osé s’égaler à Apollon. C'est ce qu’a fait le Vers Burlesque dont on s’est servy pour traduire en ridicules les plus Illustres Poëtes de l’Antiquité, tels que Virgile &amp; Ovide. Cet Homme couronné de Laurier, qui lie Marsye par les pieds, est le Poëte qui fait le Vers par de certaines mesures qu’on nomme pieds. Apollon est le Dieu qui l’inspire. Les Génies qui volent en l’air avec des Masques, sont les Ris qui naissent ordinairement des plaisanteries du Vers Burlesque.</p>
         <p><hi rend="i">Ino</hi>, est la nouvelle Enigme que je vous propose ; Examinez-en les Figures. Vous n’y trouverez rien qui ne réponde à la Fable. Elle avoit épousé Athamas Roy de Thébes, qui poursuivant cette malheureuse Princesse, par un effet de la fureur que Junon luy avoit inspirée, l’obligea de se précipiter dans la Mer du haut du Rocher. Elle fut changée en Déesse des Eaux par Neptune. Ses Filles courant apres elle pour l’arrester, furent métamorphosées en Statuës, &amp; demeurerent dans la mesme posture qu’elles avoient dans l’instant de ce changement.</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_369" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_192" resp="mercure" copyOf="JLB-1678-05_369">
         <head>[Sur la Réception d’une Lettre de Monsieur le Duc de S. Aignan expliquant les Enigmes]</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 369-370.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 192-193.</bibl>
         <p>En achevant cet Article, je reçois une Lettre de Monsieur le Duc de S. Aignan, qui me fait l’honneur de m’emvoyer des Explications en Vers sur les deux Enigmes. Je vous les reserve pour une autre occasion. Dire qu’il a fait des Vers, c’est dire qu’il en a fait d’agreables. Rien n’est ny plus spirituel, ny plus galant, que ce que cet Illustre Duc adjoûte en prose aux Explications dont je vous parle. Il dit, <hi rend="i">qu’il ne se peut qu’un Premier Gentilhomme de la Chambre du Roy méconnoisse une Chemise qui a l’honneur d’approcher de si pres, comme dit l’Enigme, de la Personne de sa Majesté ; ny qu’un Lieutenant General en ses Armées, se puisse tromper facilement à la description d’une Canne.</hi></p>
       </div>
-      <div type="article" xml:id="MG-1678-05_370" resp="mercure">
+      <div type="article" xml:id="MG-1678-05_194" resp="mercure" copyOf="JLB-1678-05_370">
         <head>[Impressions de deux Livres Nouveaux] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 372-373.</bibl>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 194.</bibl>
         <p>On a achevé d’imprimer deux Livres nouveaux, dont l’un a pour titre, <hi rend="i">Alfrede Reyne d’Angleterre, Nouvelle Historique</hi> ; &amp; l’autre, <hi rend="i">Meroüée Fils de France</hi>. Je vous les envoyeray si-tost qu’il seront publics. Ils sont d’un Homme dont les Ouvrages ont déja réüssy, &amp; ainsi il ne se peut qu’ils ne soient dignes de vostre curiosité.</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_375" resp="mercure">
-        <head>[Sur le contenu du prochain Mercure Galant concernant la Paix entre la France et les Etats de Hollande] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 375-376.</bibl>
+      <div type="article" xml:id="MG-1678-05_196" resp="mercure" copyOf="JLB-1678-05_375">
+        <head>[Sur le contenu du prochain Mercure Galant concernant la Paix entre la France et les Etats de Hollande]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 196-197.</bibl>
         <p>Si les Harangues de Messieurs du Parlement, &amp; celle de l’Académie Françoise, qui estoient dans ma derniere Lettre, ont causé tant d’admiration, &amp; donné tant de plaisir aux beaux Esprits de vostre Province, je croy que celles que je vous envoyeray le Mois prochain sur la Paix, ne les charmeront pas moins. Je vous feray part aussi des Réjoüissances qui se feront dans toute l’Europe sur le mesme sujet ; &amp; si l’on a soin de m’en envoyer les Desseins, je les feray graver, afin que l’on se souvienne plus longtemps des grandes Conquestes du Roy, &amp; du triomphe qu’il a remporté sur Luy-mesme, en interrompant le cours de ses Victoires, pour faire joüir toute l’Europe d’une heureuse tranquilité ; ce qui doit faire dire de ce Grand Monarque, ce que Virgile a dit autrefois d’Auguste,</p>
         <quote rend="border">
-          <l rend="i">Deus nobis haec otia fecit. </l>
+          <l rend="i">Deus nobis haec otia fecit.</l>
         </quote>
         <p>Les plus belles Langues vous estant familieres, il n’est pas necessaire que je vous explique ce que ces paroles veulent dire. Vos Amis à qui vous en apprendrez le sens, n’auront pas de peine à se persuader que toute l’Europe ne devra qu’à un Dieu le repos dont elle est sur le point de joüir. Je suis, &amp;c.</p>
-        <p rend="i">À Paris ce 31. May 1678. </p>
+        <p rend="i">À Paris ce 31. May 1678.</p>
       </div>
-      <div type="article" xml:id="MG-1678-05_000d_" resp="mercure"><!-- VJ l’id MG-1678-05_000d est déjà attribué... revoir les id -->
-        <head>[Informations pratiques sur le journal] *</head>
-        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, non paginé.</bibl>
-        <p>ON donnera un Volume du Mercure Galant, le premier jour de chaque Mois sans aucun retardement. Tous les Volumes de l’année 1678. à commencer par celuy de Janvier, se donneront à Vingt sols en feuïlles, chez le Sieur Blageart, Imprimeur-Libraire, Ruë S. Jacques, à l’entrée de la Ruë du Plastre ; &amp; au Palais à Trente sols reliez en Veau, &amp; à Vingt-cinq sols en Parchemin. L'Extraordinaire, se donnera à l’avenir au mesme prix du Mercure, quoy qu’il soit marqué à un Escu dans ledit Extraordinaire. Les dix Volumes de l’Année 1677. se donneront toûjours au prix ordinaire, c’est à dire vingt sols en Veau, &amp; quinze en Parchemin au Palais, &amp; dix sols en feüilles chez ledit Sieur Blageart.</p>
+      <div type="article" xml:id="MG-1678-05_197" resp="mercure" copyOf="JLB-1678-05_000d">
+        <head>[Informations pratiques sur le journal]*</head>
+        <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 197.</bibl>
+        <p>On donnera un Volume du Mercure Galant, le premier jour de chaque Mois sans aucun retardement. [Tous les Volumes de l’année 1678. à commencer par celuy de Janvier, se donneront à Vingt sols en feuïlles, chez le Sieur Blageart, Imprimeur-Libraire, Ruë S. Jacques, à l’entrée de la Ruë du Plastre ; &amp; au Palais à Trente sols reliez en Veau, &amp; à Vingt-cinq sols en Parchemin. L'Extraordinaire, se donnera à l’avenir au mesme prix du Mercure, quoy qu’il soit marqué à un Escu dans ledit Extraordinaire. Les dix Volumes de l’Année 1677. se donneront toûjours au prix ordinaire, c’est à dire vingt sols en Veau, &amp; quinze en Parchemin au Palais, &amp; dix sols en feüilles chez ledit Sieur Blageart.]</p>
       </div>
     </body>
   </text>
