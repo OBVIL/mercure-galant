@@ -82,9 +82,9 @@
         <p>On reçoit tous les jours des Lettres de Gens qui se plaignent qu’on n’a point parlé d’eux. Leurs plaintes cesseroient s’ils avoient veu l’Extraordinaire. Ceux qui envoyeront des Explications de la Lettre en Chiffres, de l’Histoire Enigmatique, &amp; leurs Pensées sur la Question qu’on y propose, sont priez de les mettre sur des papiers séparez, &amp; de ne les confondre point avec des Explications qui regardent le Mercure. Cela cause trop d’embarras à l’Autheur, qui ayant un grand nombre de Lettres, est obligé de separer les matieres qu’elles contiennent, pour ne point relire la Lettre autant de fois qu’il a besoin des Articles diferens qui y sont. La Lettre qu’on a reçeuë touchant le prix de l’Extraordinaire, &amp; qu’on trouvera sur la fin de ce Volume, a fait faire reflexion qu’estant beaucoup plus gros que le Mercure, il coustoit encor d’avantage à cause du port. Ainsi pour obliger les Provinces, on veut bien le mettre à Trente sols, &amp; n’en pas dédire le galant Homme qui l’a demandé pour elles. L'Extraordinaire ne vaudra donc plus que Trente sols, quoy qu’il soit marqué à un Escu. Ceux qui se plaignent qu’on ne leur fait pas connoistre s’ils ont perdu touchant les Gageures qui se font sur les Enigmes, ne songent pas que c’est assez les éclaircir, que d’en mettre le veritable Mot.</p>
       </div>
       <div type="article" xml:id="MG-1678-05_000c" resp="mercure">
-        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i">Mercure</hi> au Ballet Impromptu de Monsieur le Duc de S. Aignan, p. 174-182]*</head>
+        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i">Mercure</hi> au <hi rend="i">Ballet Impromptu</hi> de M. le Duc de S. Aignan, p. 174-182]*</head>
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, non paginé.</bibl>
-        <p>L'Impression de ce Volume estant achevée, on s’est apperçeu que dans le Ballet Impromptu de Monsieur le Duc de S. Aignan, on avoit oublié le Recit qui suit. Il doit estre mis entre le Concert des Flustes, &amp; la sixiéme Entrée.</p>
+        <p>L'Impression de ce Volume estant achevée, on s’est apperçeu que dans le Ballet Impromptu de Monsieur le Duc de S. Aignan, on avoit oublié le Recit qui suit. Il doit estre mis entre le <ref target="#MG-1678-05_170">Concert des Flustes</ref>, &amp; la sixiéme Entrée.</p>
         <quote rend="border">
           <label rend="center">RECIT DU DIEU PAN,<lb/>Au milieu des Bergers joüans &amp; dansans.</label>
           <lg>
@@ -683,38 +683,27 @@
           <stage>M<hi rend="sup">r</hi> Buisson Juge de Village ; M<hi rend="sup">e</hi> Macé &amp; M<hi rend="sup">e</hi>Hilaire Avocats, faisant devant luy un Plaidoyé tres-ridicule en Vers.</stage>
           <label rend="center">5. ENTRÉE.</label>
           <stage>Deux Bergers, deux Bergeres, &amp; deux Pastres.</stage>
-          <label rend="center">CONCERT DE FLUSTES.</label>
+          <label rend="center"><hi rend="i">CONCERT DE FLUSTES.</hi></label>
         </quote>
-        <p>[<hi rend="i">Recit du Dieu Pan</hi> (récit oublié lors de l’impression et donné au début de ce Mercure Galant de Mai 1678)</p>
-        <quote rend="border">
-          <label rend="center">Recit du Dieux Pan,</label>
-          <stage>Au milieu des Bergers joüans &amp; dansans.</stage>
-          <l>COulez, coulez charmans Ruissaux,</l>
-          <l>Que le bruit de vos claires Eaux</l>
-          <l>Anime les Oiseaux</l>
-          <l>À chanter mille Chansonnettes.</l>
-          <l>Que les Bergers contens dans leurs douces Retraites,</l>
-          <l>Ne respirent qu’amour en ces jours des plus beaux.</l>
-          <l>Bondissez, innocens Troupeaux,</l>
-          <l>Aux doux échos de leurs Musettes.</l>
-          <l>Coulez, coulez, charmans Ruisseaux,</l>
-          <l>Que le bruit de vos claires Eaux</l>
-          <l>Anime les Oiseaux</l>
-          <l>À chanter mille Chansonnettes.]</l>
+        <p>[Voir le <ref target="#MG-1678-05_000c"><hi rend="i">Recit du Dieu Pan</hi> oublié lors de l’impression et donné au début de ce volume</ref>.]</p>
           <label rend="center">6. ENTRÉE.</label>
           <stage>L’Amour de Village, &amp; l’Hymen champestre, accompagnez du Jeu, du Ris, &amp; de l’Innocence.</stage>
-          <label rend="center">CHANSON DE L’AMOUR.</label>
-          <lg><l>Je suis l’Amour de Village,</l>
-          <l>Plein des constance &amp; de foy.</l>
-          <l>Ceux qui vivent sous ma loy</l>
-          <l>Ont mille biens en partage,</l>
-          <l>Et rien n’est plus doux que moy,</l>
-          </lg><lg>
-          <l>Loin du bruit &amp; de l’envie,</l>
-          <l>De la crainte, &amp; des soûpirs,</l>
-          <l>Si j’inspire des desirs,</l>
-          <l>Dans une si douce vie</l>
-          <l>Il en naist mille plaisirs.</l></lg>
+          <label rend="center"><hi rend="i">CHANSON DE L’AMOUR.</hi></label>
+          <lg>
+            <l rend="i">Je suis l’Amour de Village,</l>
+          <l rend="i">Plein des constance &amp; de foy.</l>
+          <l rend="i">Ceux qui vivent sous ma loy</l>
+          <l rend="i">Ont mille biens en partage,</l>
+          <l rend="i">Et rien n’est plus doux que moy,</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Loin du bruit &amp; de l’envie,</l>
+          <l rend="i">De la crainte, &amp; des soûpirs,</l>
+          <l rend="i">Si j’inspire des desirs,</l>
+          <l rend="i">Dans une si douce vie</l>
+          <l rend="i">Il en naist mille plaisirs.</l>
+          </lg>
           <label rend="center">7. ENTRÉE.</label>
           <stage>Un Vielleur &amp; deux Aveugles.</stage>
           <label rend="center">8. ENTRÉE.</label>
@@ -731,48 +720,54 @@
           <stage>Bacchus &amp; quatre de ses Suivans, chasse les Bacchantes, &amp; se réjoüit apres avec les siens qu’il enyvre.</stage>
           <label rend="center">CHANSON À BOIRE</label>
           <stage>de l’un des Yvrognes, à laquelle tous les autres répondent.</stage>
-          <lg><l>L’Amour est souvent fâcheux,</l>
-          <l>Nous aimons mieux la Bouteille,</l>
-          <l>Sa douce liqueur réveille,</l>
-          <l>Elle rend le cœur joyeux.</l>
-          <l>Quand on boit sous une Treille,</l>
-          <l>Chers Amis, qu’on est heureux !</l>
-          <l>Vive la liqueur vermeille.</l>
-          <l>L’Amour est souvent facheux,</l>
-          <l>Nous aimons mieux la Bouteille.</l>
-          </lg><lg>
-          <l>Suivons les Ris &amp; les Jeux,</l>
-          <l>Dans le Vin faisons merveille ;</l>
-          <l>Celuy-cy n’a qu’une oreille,</l>
-          <l>Buvons donc un coup ou deux.</l>
-          <l>Camarade, à la pareille.</l>
-          <l>Mes avis sont genereux,</l>
-          <l>Fais ce que je te conseille.</l>
-          <l>Suivons les Ris &amp; les Jeux,</l>
-          <l>Dans le Vin saisons merveille.</l></lg>
-          <label rend="center">CONCERT DE VOIX</label>
-          <label rend="center">&amp; d’Instrumens.</label>
-          <label rend="center">CHANSON.</label>
-          <lg><l>Quand il est doux de se rendre,</l>
-          <l>Peut-on défendre</l>
-          <l>Sa liberté ?</l>
-          <l>Est-il quelque Beauté</l>
-          <l>Qui veüille prendre</l>
-          <l>Contre un cœur tendre</l>
-          <l>De la fierté ?</l>
-          </lg><lg>
-          <l>Lors que la peine a des charmes,</l>
-          <l>On rend les armes</l>
-          <l>Fort aisement.</l>
-          <l>Un doux soulagement</l>
-          <l>Suit les allarmes,</l>
-          <l>Et jusqu’aux larmes</l>
-          <l>Tout est charmant.</l></lg>
+          <lg>
+            <l rend="i">L’Amour est souvent fâcheux,</l>
+          <l rend="i">Nous aimons mieux la Bouteille,</l>
+          <l rend="i">Sa douce liqueur réveille,</l>
+          <l rend="i">Elle rend le cœur joyeux.</l>
+          <l rend="i">Quand on boit sous une Treille,</l>
+          <l rend="i">Chers Amis, qu’on est heureux !</l>
+          <l rend="i">Vive la liqueur vermeille.</l>
+          <l rend="i">L’Amour est souvent facheux,</l>
+          <l rend="i">Nous aimons mieux la Bouteille.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Suivons les Ris &amp; les Jeux,</l>
+          <l rend="i">Dans le Vin faisons merveille ;</l>
+          <l rend="i">Celuy-cy n’a qu’une oreille,</l>
+          <l rend="i">Buvons donc un coup ou deux.</l>
+          <l rend="i">Camarade, à la pareille.</l>
+          <l rend="i">Mes avis sont genereux,</l>
+          <l rend="i">Fais ce que je te conseille.</l>
+          <l rend="i">Suivons les Ris &amp; les Jeux,</l>
+          <l rend="i">Dans le Vin saisons merveille.</l>
+          </lg>
+          <label rend="center">CONCERT DE VOIX<lb/>&amp; d’Instrumens.<lb/></label>
+          <label rend="center"><hi rend="i">CHANSON.</hi></label>
+          <lg>
+            <l rend="i">Quand il est doux de se rendre,</l>
+          <l rend="i">Peut-on défendre</l>
+          <l rend="i">Sa liberté ?</l>
+          <l rend="i">Est-il quelque Beauté</l>
+          <l rend="i">Qui veüille prendre</l>
+          <l rend="i">Contre un cœur tendre</l>
+          <l rend="i">De la fierté ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Lors que la peine a des charmes,</l>
+          <l rend="i">On rend les armes</l>
+          <l rend="i">Fort aisement.</l>
+          <l rend="i">Un doux soulagement</l>
+          <l rend="i">Suit les allarmes,</l>
+          <l rend="i">Et jusqu’aux larmes</l>
+          <l rend="i">Tout est charmant.</l>
+          </lg>
           <label rend="center">14. ENTRÉE.</label>
           <stage>Deux fameux Capitaines Bohemes.</stage>
           <label rend="center">15. &amp; DER. ENTRÉE.</label>
           <stage>Deux autres Bohemiens &amp; quatre Bohemiennes.</stage>
-        </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_182" resp="mercure">
         <head>[Description de la Feste du jeu de l’Arc qui se fait tous les ans à Montpellier]</head>
@@ -790,79 +785,88 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 197-204.</bibl>
         <p>J'adjoûteray seulement icy une tres-agreable Galanterie qui a esté envoyée pour Bouquet à M<hi rend="sup">r</hi> le Président Charton par une Demoiselle toute belle &amp; toute aimable, &amp; qui est de ses particulieres Amies.</p>
         <quote rend="border">
-          <label rend="center">Bouquet </label>
-          <label rend="center">pour Monsieur</label>
-          <label rend="center">le </label>
-          <label rend="center">President Charton.</label>
-          <lg><l>Président, je fais un Bouquet,</l>
-          <l>J'y mets la Rose &amp; le Muguet,</l>
-          <l>Le Jacinte &amp; la Tubéreuse ;</l>
-          <l>Sans-doute il vous divertira.</l>
-          <l>Cà, voyons quelle Fleur sera la plus heureuse,</l>
-          <l>Vostre choix en décidera.</l>
-          </lg><lg>
-          <l>On voit déja chacune de ces Fleurs</l>
-          <l>Prendre ses plus vives couleurs,</l>
-          <l>Pour vous aller faire la revérence,</l>
-          <l>Et vous témoigner son desir,</l>
-          <l>Vous disant ; plairoit-il à vostre Présidence</l>
-          <l>De me faire l’honneur de me vouloir choisir ?</l>
-          </lg><lg>
-          <l>La Rose s’en va vous parler</l>
-          <l>De toutes les grandeurs qu’elle peut étaler.</l>
-          <l>Elle vous vantera son illustre naissance,</l>
-          <l>Vous dira qu’il n’est point une plus belle Fleur ;</l>
-          <l>Que relevée en éclat, en puissance,</l>
-          <l>C'est du sang de Vénus qu’elle tient sa couleur,</l>
-          <l>Méritant en tous lieux d’avoir la préférence,</l>
-          <l>Elle a tout ce qu’il faut pour conquérir un cœur.</l>
-          </lg><lg>
-          <l>Le Muguet va vous assurer,</l>
-          <l>Que qui connoit son prix, le doit considérer ;</l>
-          <l>Qu'il a des beautez, du mérite ;</l>
-          <l>Que bien que sa Fleur soit petite,</l>
-          <l>Elle marque à tous sa candeur ;</l>
-          <l>Qu'elle est en assez bonne odeur</l>
-          <l>Par tout où le bon goust à l’estimer invite,</l>
-          <l>Et qu’à certaines Gens elle tient fort au cœur.</l>
-          </lg><lg>
-          <l>La Tubéreuse va vous dire,</l>
-          <l>Que de tous les airs qu’on respire,</l>
-          <l>Celuy qu’elle veut parfumer</l>
-          <l>Fais naistre le desir d’aimer ;</l>
-          <l>Qu'à la chérir tout le monde s’empresse ;</l>
-          <l>Qu'elle inspire à chacun les plus brulans desirs ;</l>
-          <l>Mais que si son odeur fait naistre la tendresse,</l>
-          <l>Sa Fleur pourroit donner les plus charmans plaisirs.</l>
-          </lg><lg>
-          <l>Pour la Jacinte, il faut l’entendre,</l>
-          <l>Cette Fleur vous dira d’un air plus fier que tendre ;</l>
-          <l>Moy, je ne me vante de rien,</l>
-          <l>Je suis telle que Dieu m’a faite ;</l>
-          <l>Mais tout le monde sçait fort bien</l>
-          <l>Qu'entre les choses qu’on souhaite,</l>
-          <l>De tous ce qui s’appelle un bien,</l>
-          <l>Il n’en est point de plus parfaite.</l>
-          <l>Ma bonne grace &amp; ma beauté</l>
-          <l>Mettroient en d’autres cœurs beaucoup de vanité,</l>
-          <l>Ma couleur marque ma constance.</l>
-          <l>Président, si vous en avez,</l>
-          <l>Je ne veux rien vous dire, vous sçavez</l>
-          <l>Jusqu’où je fais pour vous aller ma complaisance.</l>
-          <l>D'autres y songeroient ; sur cette connoissance,</l>
-          <l>Sur l’ardeur de mes soins tant de fois éprouvez,</l>
-          <l>Soit par justice, ou par reconnoissance,</l>
-          <l>Choisissez bien, si vous pouvez,</l>
-          <l>Mais sçachez que ce choix sera de conséquence.</l>
-          <l>Quand mon cœur n’est point satisfait,</l>
-          <l>Je deviens fiere en toute chose,</l>
-          <l>Et dans le choix qui se propose,</l>
-          <l>Je vous dis tout franc &amp; tout net,</l>
-          <l>Que je croy surpasser la Rose,</l>
-          <l>La Tubéreuse, &amp; le Muguet.</l>
-          </lg><lg>
-          <l>Président, voila mon Bouquet,</l>
-          <l>Pensez à l’ordre qu’il impose.</l></lg>
+          <label rend="center">BOUQUET<lb/>POUR MONSIEUR<lb/>LE<lb/>PRESIDENT CHARTON.</label>
+          <lg>
+            <l rend="i">Président, je fais un Bouquet,</l>
+          <l rend="i">J'y mets la Rose &amp; le Muguet,</l>
+          <l rend="i">Le Jacinte &amp; la Tubéreuse ;</l>
+          <l rend="i">Sans-doute il vous divertira.</l>
+          <l rend="i">Cà, voyons quelle Fleur sera la plus heureuse,</l>
+          <l rend="i">Vostre choix en décidera.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">On voit déja chacune de ces Fleurs</l>
+          <l rend="i">Prendre ses plus vives couleurs,</l>
+          <l rend="i">Pour vous aller faire la revérence,</l>
+          <l rend="i">Et vous témoigner son desir,</l>
+          <l rend="i">Vous disant ; plairoit-il à vostre Présidence</l>
+          <l rend="i">De me faire l’honneur de me vouloir choisir ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">La Rose s’en va vous parler</l>
+          <l rend="i">De toutes les grandeurs qu’elle peut étaler.</l>
+          <l rend="i">Elle vous vantera son illustre naissance,</l>
+          <l rend="i">Vous dira qu’il n’est point une plus belle Fleur ;</l>
+          <l rend="i">Que relevée en éclat, en puissance,</l>
+          <l rend="i">C'est du sang de Vénus qu’elle tient sa couleur,</l>
+          <l rend="i">Méritant en tous lieux d’avoir la préférence,</l>
+          <l rend="i">Elle a tout ce qu’il faut pour conquérir un cœur.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Le Muguet va vous assurer,</l>
+          <l rend="i">Que qui connoit son prix, le doit considérer ;</l>
+          <l rend="i">Qu'il a des beautez, du mérite ;</l>
+          <l rend="i">Que bien que sa Fleur soit petite,</l>
+          <l rend="i">Elle marque à tous sa candeur ;</l>
+          <l rend="i">Qu'elle est en assez bonne odeur</l>
+          <l rend="i">Par tout où le bon goust à l’estimer invite,</l>
+          <l rend="i">Et qu’à certaines Gens elle tient fort au cœur.</l>
+          </lg>
+          <lg>
+          <l rend="i">La Tubéreuse va vous dire,</l>
+          <l rend="i">Que de tous les airs qu’on respire,</l>
+          <l rend="i">Celuy qu’elle veut parfumer</l>
+          <l rend="i">Fais naistre le desir d’aimer ;</l>
+          <l rend="i">Qu'à la chérir tout le monde s’empresse ;</l>
+          <l rend="i">Qu'elle inspire à chacun les plus brulans desirs ;</l>
+          <l rend="i">Mais que si son odeur fait naistre la tendresse,</l>
+          <l rend="i">Sa Fleur pourroit donner les plus charmans plaisirs.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Pour la Jacinte, il faut l’entendre,</l>
+          <l rend="i">Cette Fleur vous dira d’un air plus fier que tendre ;</l>
+          <l rend="i">Moy, je ne me vante de rien,</l>
+          <l rend="i">Je suis telle que Dieu m’a faite ;</l>
+          <l rend="i">Mais tout le monde sçait fort bien</l>
+          <l rend="i">Qu'entre les choses qu’on souhaite,</l>
+          <l rend="i">De tous ce qui s’appelle un bien,</l>
+          <l rend="i">Il n’en est point de plus parfaite.</l>
+          <l rend="i">Ma bonne grace &amp; ma beauté</l>
+          <l rend="i">Mettroient en d’autres cœurs beaucoup de vanité,</l>
+          <l rend="i">Ma couleur marque ma constance.</l>
+          <l rend="i">Président, si vous en avez,</l>
+          <l rend="i">Je ne veux rien vous dire, vous sçavez</l>
+          <l rend="i">Jusqu’où je fais pour vous aller ma complaisance.</l>
+          <l rend="i">D'autres y songeroient ; sur cette connoissance,</l>
+          <l rend="i">Sur l’ardeur de mes soins tant de fois éprouvez,</l>
+          <l rend="i">Soit par justice, ou par reconnoissance,</l>
+          <l rend="i">Choisissez bien, si vous pouvez,</l>
+          <l rend="i">Mais sçachez que ce choix sera de conséquence.</l>
+          <l rend="i">Quand mon cœur n’est point satisfait,</l>
+          <l rend="i">Je deviens fiere en toute chose,</l>
+          <l rend="i">Et dans le choix qui se propose,</l>
+          <l rend="i">Je vous dis tout franc &amp; tout net,</l>
+          <l rend="i">Que je croy surpasser la Rose,</l>
+          <l rend="i">La Tubéreuse, &amp; le Muguet.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Président, voila mon Bouquet,</l>
+          <l rend="i">Pensez à l’ordre qu’il impose.</l></lg>
         </quote>
         <p>M<hi rend="sup">r</hi> le Président Charton choisit le Jacinte, &amp; apprit en suite que Madame la D. D. B. estoit la Rose ; Madame de M. le Muguet ; Mademoiselle B. le Jacinte qu’il avoit choisy. Il donna une magnifique Collation à ces Dames. Il y eut cinq Services, entre lesquels des Hautbois, des Violons, des Théorbes, des Violes, &amp; des Voix, firent cinq Chœurs de Musique. Cette Feste fut terminée par le Bal, où ce Président se montra aussi galant parmy les Dames, qu’il est habile Homme dans le Palais.</p>
       </div>
@@ -896,23 +900,23 @@
         <quote>
           <label rend="center">Traduction de la Chanson Italienne du Mois de Mars, qui commence par, <hi rend="i">Questa bella d’amor nemica.</hi></label>
           <lg>
-          <l>Cette Belle qu’Amour n’a jamais pû toucher,</l>
-          <l>Dont le cœur fut toûjours aussi dur qu’un Rocher,</l>
-          <l>Est la jeunes Climene.</l>
-          <l>Quoy que je brûle jour &amp; nuit,</l>
-          <l>Quand j’ose luy parler de l’excés de ma peine,</l>
-          <l>D’un œil plein de couroux aussitost l’Inhumaine</l>
-          <l>Me regarde &amp; s’enfuit.</l>
-          <l>Cette Ingrate que j’aime</l>
-          <l>Ne veut pas seulement écouter mes malheurs,</l>
-          <l>Ny voir couler mes pleurs.</l>
-          <l>Bergere, que pour moy ta rigueur est extréme !</l>
-          <l>Ton ame est mille fois</l>
-          <l>Plus insensible que nos Bois.</l>
-          <l>Ah, si tu ne veux pas, cruelle,</l>
-          <l>Entendre soûpirer</l>
-          <l>Le cœur de ton Amant si tendre &amp; si fidelle,</l>
-          <l>Du moins ouvre les yeux pour le voir expirer.</l>
+          <l rend="i">Cette Belle qu’Amour n’a jamais pû toucher,</l>
+          <l rend="i">Dont le cœur fut toûjours aussi dur qu’un Rocher,</l>
+          <l rend="i">Est la jeunes Climene.</l>
+          <l rend="i">Quoy que je brûle jour &amp; nuit,</l>
+          <l rend="i">Quand j’ose luy parler de l’excés de ma peine,</l>
+          <l rend="i">D’un œil plein de couroux aussitost l’Inhumaine</l>
+          <l rend="i">Me regarde &amp; s’enfuit.</l>
+          <l rend="i">Cette Ingrate que j’aime</l>
+          <l rend="i">Ne veut pas seulement écouter mes malheurs,</l>
+          <l rend="i">Ny voir couler mes pleurs.</l>
+          <l rend="i">Bergere, que pour moy ta rigueur est extréme !</l>
+          <l rend="i">Ton ame est mille fois</l>
+          <l rend="i">Plus insensible que nos Bois.</l>
+          <l rend="i">Ah, si tu ne veux pas, cruelle,</l>
+          <l rend="i">Entendre soûpirer</l>
+          <l rend="i">Le cœur de ton Amant si tendre &amp; si fidelle,</l>
+          <l rend="i">Du moins ouvre les yeux pour le voir expirer.</l>
           </lg>
         </quote>
         <p>Ces Vers sont du Fils d’un Auditeur de la Chambre des Comptes de Dijon. C’est tout ce qui m’en est connu.</p>
@@ -922,25 +926,32 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 215-217.</bibl>
         <p>Cependant quand vos Amies devroient encor murmurer, elles n’auront que par vous l’intelligence du Sonnet Italien que je vous envoye. À dire vray, je ne croy pas qu’il soit possible de le traduire, &amp; d’en conserver les graces. La Poësie Italienne a des élevations dont nostre Langue ne sçauroit s’accommoder. Ce Sonnet est adressé au Roy. Le nom de l’Autheur est au bas.</p>
         <quote rend="border">
-          <label rend="center">Al Invitissimo </label>
-          <label rend="center">Ré Luigi XIV.</label>
-          <lg><l>INclito Ré, Tu de la Guerra il Nume</l>
-          <l>De Traci ad onta onnipotente sei :</l>
-          <l>Del cui cimier nell’ondeggiatti piume</l>
-          <l>Nuotano le vittorie, ed’i trofei.</l>
-          </lg><lg>
-          <l>Sparsi di polue gia'prisco costume</l>
-          <l>Gli Eroi deificò ne campi Elei ;</l>
-          <l>E tra gli astri brillar gemino lume</l>
-          <l>Fe'la garrula Grecia i due Amiclei.</l>
-          </lg><lg>
-          <l>Pur del tuo Nome in paragon che furo ?</l>
-          <l>Nome cui de la Gallie il giro é angusto :</l>
-          <l>Nome che rende ogn’altro nome oscuro.</l>
-          </lg><lg>
-          <l>Deh venga il di che di trionfi onusto</l>
-          <l>(Poëtico furor suela il futuro)</l>
-          <l>T'adori il Mondo incoronato</l></lg>
+          <label rend="center">AL INVITISSIMO<lb/>RÉ LUIGI XIV</label>
+          <lg>
+            <l rend="i">Inclito Ré, Tu de la Guerra il Nume</l>
+          <l rend="i">De Traci ad onta onnipotente sei :</l>
+          <l rend="i">Del cui cimier nell’ondeggiatti piume</l>
+          <l rend="i">Nuotano le vittorie, ed’i trofei.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Sparsi di polue gia'prisco costume</l>
+          <l rend="i">Gli Eroi deificò ne campi Elei ;</l>
+          <l rend="i">E tra gli astri brillar gemino lume</l>
+          <l rend="i">Fe'la garrula Grecia i due Amiclei.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Pur del tuo Nome in paragon che furo ?</l>
+          <l rend="i">Nome cui de la Gallie il giro é angusto :</l>
+          <l rend="i">Nome che rende ogn’altro nome oscuro.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Deh venga il di che di trionfi onusto</l>
+          <l rend="i">(Poëtico furor suela il futuro)</l>
+          <l rend="i">T'adori il Mondo incoronato</l>
+          </lg>
           <p><hi rend="sc">Augusto.</hi></p>
           <p>Del D. A. PAJOLI, <hi rend="i">Ferrarese.</hi></p>
         </quote>
@@ -950,43 +961,51 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 217-219.</bibl>
         <p>Dans le temps du depart du Roy pour sa seconde Campagne de cette Année, M<hi rend="sup">r</hi> l’Abbé Minot dont le talent pour la Chaire est fort connu, expliqua ainsi les Vœux de la France.</p>
         <quote rend="border">
-          <label rend="center">Sonnet.</label>
+          <label rend="center">SONNET.</label>
           <lg>
-            <l>Que de <hi rend="sc">Loüis le Grand</hi> le Nom si venérable,</l>
-          <l>Si charmant &amp; si doux, à ses Peuples soûmis,</l>
-          <l>Soit malgré les efforts de nos fiers Ennemis,</l>
-          <l>En tous lieux, en tout temps, auguste &amp; venérable !</l>
-          </lg><lg>
-          <l>Que le Ciel à ses vœux soit toûjours favorable,</l>
-          <l>Pour punir les excés que l’Empire a commis ;</l>
-          <l>Qu'à la jalouse Espagne il ne soit plus permission</l>
-          <l>De douter que son Bras est un Bras indomptable.</l>
-          </lg><lg>
-          <l>Que du Levant au Nort il porte la terreur,</l>
-          <l>Que loin de nos Climats il bannisse l’Erreur,</l>
-          <l>Pour couronner par là ses Campagnes passées.</l>
-          </lg><lg>
-          <l>Que sa Sagesse enfin pour combler nos souhaits,</l>
-          <l>À des Lauriers cueillis dans des Saisons glacées,</l>
-          <l>Joigne dessus son Front l’Olive de la Paix.</l></lg>
+            <l><hi rend="i">Que de </hi><hi rend="sc">Loüis le Grand</hi> <hi rend="i">le Nom si venérable,</hi></l>
+          <l rend="i">Si charmant &amp; si doux, à ses Peuples soûmis,</l>
+          <l rend="i">Soit malgré les efforts de nos fiers Ennemis,</l>
+          <l rend="i">En tous lieux, en tout temps, auguste &amp; venérable !</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que le Ciel à ses vœux soit toûjours favorable,</l>
+          <l rend="i">Pour punir les excés que l’Empire a commis ;</l>
+          <l rend="i">Qu'à la jalouse Espagne il ne soit plus permission</l>
+          <l rend="i">De douter que son Bras est un Bras indomptable.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que du Levant au Nort il porte la terreur,</l>
+          <l rend="i">Que loin de nos Climats il bannisse l’Erreur,</l>
+          <l rend="i">Pour couronner par là ses Campagnes passées.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que sa Sagesse enfin pour combler nos souhaits,</l>
+          <l rend="i">À des Lauriers cueillis dans des Saisons glacées,</l>
+          <l rend="i">Joigne dessus son Front l’Olive de la Paix.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_219" resp="mercure">
         <head>Madrigal</head>
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 219-221.</bibl>
         <p>Le Madrigal qui suit est d’une Dame qui a infiniment du mérite. Je ne vous dis rien de son Esprit, vous en jugerez par ses Vers. Si elle estoit infaillible dans ce qu’elle veut quelquefois deviner, le Tirsis dont elle parle auroit sujet de se croire heureux, car la Bergere est des plus aimables, &amp; la gloire d’avoir quelque place dans son cœur seroit une des meilleures fortunes qu’il pust esperer.</p>
-        <quote rend="border">
-          <label rend="center">Madrigal.</label>
-          <l>La Bergere Lisete</l>
-          <l>Dit qu’elle n’aime rien,</l>
-          <l>Pas mesme sa Houlete,</l>
-          <l>Son Troupeau, ny son Chien.</l>
-          <l>Cependant quand Tyrsis la trouve sur l’herbete,</l>
-          <l>Ou qu’il va dans sa Maisonnete,</l>
-          <l>On connoist bien par sa rougeur,</l>
-          <l>Et par un air tout languissant &amp; tendre,</l>
-          <l>Que si cette Bergere est encor à se rendre,</l>
-          <l>Elle aura bientost un Vainqueur.</l>
+        <quote>
+          <label>MADRIGAL.</label>
+          <lg>
+          <l rend="i">La Bergere Lisete</l>
+          <l rend="i">Dit qu’elle n’aime rien,</l>
+          <l rend="i">Pas mesme sa Houlete,</l>
+          <l rend="i">Son Troupeau, ny son Chien.</l>
+          <l rend="i">Cependant quand Tyrsis la trouve sur l’herbete,</l>
+          <l rend="i">Ou qu’il va dans sa Maisonnete,</l>
+          <l rend="i">On connoist bien par sa rougeur,</l>
+          <l rend="i">Et par un air tout languissant &amp; tendre,</l>
+          <l rend="i">Que si cette Bergere est encor à se rendre,</l>
+          <l rend="i">Elle aura bientost un Vainqueur.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_221" resp="mercure">
@@ -999,24 +1018,30 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 229-235.</bibl>
         <p>Je vous envoyay la derniere fois une Réponse à une Belle de ce qui s’estoit passé dans une Assemblée d’Amours touchant le nom de Musete qu’ils avoient arresté qu’elle accepteroit. Cette aimable et spirituelle Personne a crû devoir prendre l’interest de son Berger, &amp; voici ce qu’elle a écrit à cet inconnu Rival qui a voulu se mesler de ses affaires.</p>
         <quote rend="border">
-          <label rend="center">La Musette,</label>
-          <label rend="center">À celuy qui prend le Nom de son Chien.</label>
-          <p>Vous, Amant inconnu, Daphnis, Alcidon, ou Damon (car dans la foule je ne vous reconnois point) pourquoy vous meslez-vous de répondre pour moy à la Lettre de mon Berger, &amp; pourquoy me faites-vous dire des choses dont vous n’estes pas trop bien instruit ? Il semble que vous tâchier à me faire trouver mauvais qu’il m’ait donné le nom de Musette.</p>
-          <lg><l>Mais sçachez que j’ay mes raisons</l>
+          <label rend="center">LA MUSETTE,<lb/>À celuy qui prend le Nom de son Chien.</label>
+          <p/>
+          <p rend="i">Vous, Amant inconnu, Daphnis, Alcidon, ou Damon (car dans la foule je ne vous reconnois point) pourquoy vous meslez-vous de répondre pour moy à la Lettre de mon Berger, &amp; pourquoy me faites-vous dire des choses dont vous n’estes pas trop bien instruit ? Il semble que vous tâchier à me faire trouver mauvais qu’il m’ait donné le nom de Musette.</p>
+          <lg>
+            <l>Mais sçachez que j’ay mes raisons</l>
           <l>Pour en demeurer satisfaite :</l>
           <l>Payant comme je fais mon Berger de Chansons,</l>
-          <l>Ne suis-je pas une Musette ?</l></lg>
-          <p>Je n’ay pas fait les choses à la legere pour m’en repentir si promptement. J'ay trop bien examiné ce nom avant que de l’accepter. Les Amours me l’avoient donné, &amp; cela suffisoit pour m’obliger à y regarder de pres. Je sçay bien que tout ce qui vient de ces petits Libertins doit estre suspect, &amp; qu’il est bon de voir si l’on ne s’engage point trop en recevant des Noms, où tout autre qu’eux n’entendroit point de finesse. Je n’eusse pas reçeu celuy qu’ils m’avoient choisy, si je n’eusse bien fait reflexion qu’un Berger peut chanter avec sa Musette tant de Chansons tendres qu’il luy plaira, sans qu’elle soit pour cela obligée d’en ressentir la tendresse. Elle est naturellement insensible, comme vous sçavez, quoy qu’elle inspire de l’amour à ceux qui l’écoutent.</p>
-          <lg><l>Par mes sons amoureux on me trouve charmante ;</l>
+          <l>Ne suis-je pas une Musette ?</l>
+          </lg>
+          <p rend="i">Je n’ay pas fait les choses à la legere pour m’en repentir si promptement. J'ay trop bien examiné ce nom avant que de l’accepter. Les Amours me l’avoient donné, &amp; cela suffisoit pour m’obliger à y regarder de pres. Je sçay bien que tout ce qui vient de ces petits Libertins doit estre suspect, &amp; qu’il est bon de voir si l’on ne s’engage point trop en recevant des Noms, où tout autre qu’eux n’entendroit point de finesse. Je n’eusse pas reçeu celuy qu’ils m’avoient choisy, si je n’eusse bien fait reflexion qu’un Berger peut chanter avec sa Musette tant de Chansons tendres qu’il luy plaira, sans qu’elle soit pour cela obligée d’en ressentir la tendresse. Elle est naturellement insensible, comme vous sçavez, quoy qu’elle inspire de l’amour à ceux qui l’écoutent.</p>
+          <lg>
+            <l>Par mes sons amoureux on me trouve charmante ;</l>
           <l>Mais me touche-t-on ? Nullement.</l>
           <l>Pour mon Berger je chante tendrement,</l>
-          <l>Et ne sens rien de tout ce que je chante.</l></lg>
-          <p>D'autre costé il a beau chanter des Chansons tristes &amp; plaintives, je ne partage point sa tristesse. C'est ce me semble estre assez heureuse, &amp; je ne changerois pour rien ma condition de Musette, à celle de Bergere que vous m’offrez. J'avouë cependant que vouloir estre son Chien, c’est marquer assez de soûmission, mais un Chien ne me touche pas ; &amp; si vous en voulez sçavoir la raison,</p>
-          <lg><l>Il est cent libertez qu’il luy faut accorder,</l>
+          <l>Et ne sens rien de tout ce que je chante.</l>
+          </lg>
+          <p rend="i">D'autre costé il a beau chanter des Chansons tristes &amp; plaintives, je ne partage point sa tristesse. C'est ce me semble estre assez heureuse, &amp; je ne changerois pour rien ma condition de Musette, à celle de Bergere que vous m’offrez. J'avouë cependant que vouloir estre son Chien, c’est marquer assez de soûmission, mais un Chien ne me touche pas ; &amp; si vous en voulez sçavoir la raison,</p>
+          <lg>
+            <l>Il est cent libertez qu’il luy faut accorder,</l>
           <l>Il ne sçauroit exprimer ses tendresses,</l>
           <l>Que par d’importantes caresses,</l>
-          <l>Dont je ne puis m’acommoder.</l></lg>
-          <p>Ainsi en qualitez de Chien vous seriez malheureux avec moy. Je ne remarque qu’une bonne qualité dans ces Animaux là, c’est la fidélité qu’ils ont pour leurs Maistresses. Mais mon Berger m’ayant juré de n’avoir jamais d’autre Musette que moy, il faut que je me donne le loisir d’éprouver s’il sera fidelle, avant que je puisse examiner s’il me seroit avantageux de vous écouter.</p>
+          <l>Dont je ne puis m’acommoder.</l>
+          </lg>
+          <p rend="i">Ainsi en qualitez de Chien vous seriez malheureux avec moy. Je ne remarque qu’une bonne qualité dans ces Animaux là, c’est la fidélité qu’ils ont pour leurs Maistresses. Mais mon Berger m’ayant juré de n’avoir jamais d’autre Musette que moy, il faut que je me donne le loisir d’éprouver s’il sera fidelle, avant que je puisse examiner s’il me seroit avantageux de vous écouter.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_245" resp="mercure">
@@ -1024,114 +1049,152 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 245-252.</bibl>
         <p>Monseigneur le Dauphin, dont les grandes qualitez se font tout les jour admirer de plus en plus, continuë ses Exercices avec des progrés incroyables. Cette matiere, si digne d’ocuper les meilleures Plumes, à fourny de nouvelles idées à M du Mata-d’Emery. Il a déja fait parler si agreablement les Chevaux de Manege dont ce jeune Prince se sert, que vous pouvez vous promettre beaucoup de plaisir de ce qu’il fait dire à la Renommée. Un peu d’audience. Vous ne serez pas fâchée de l’écouter.</p>
         <quote rend="border">
-          <label rend="center">La </label>
-          <label rend="center">Renommée</label>
-          <label rend="center">À Monseigneur</label>
-          <label rend="center">Le Dauphin.</label>
-          <lg><l>J'allois un jour à haute voix</l>
-          <l>Semer sur la Terre &amp; sur l’Onde</l>
-          <l>Les incomparables Exploits</l>
-          <l>Du plus grand Monarque du monde.</l>
-          </lg><lg>
-          <l>J'estois preste à prendre l’essor,</l>
-          <l>Et j’avois étendu mes ailes ;</l>
-          <l>J'allois déja donner du Cor,</l>
-          <l>Pour faire écouter mes nouvelles.</l>
-          </lg><lg>
-          <l>Quand Mars venu subitement,</l>
-          <l>Me fait connoistre qu’il desire,</l>
-          <l>Que pour luy j’arreste un moment,</l>
-          <l>Et qu’il a beaucoup à me dire.</l>
-          </lg><lg>
-          <l>C'est le moins qu’on doive à celuy</l>
-          <l>Dont l’employ m’est si necessaire,</l>
-          <l>Et qui seul m’empesche aujourd’huy</l>
-          <l>De m’ennuyer &amp; de me taire.</l>
-          </lg><lg>
-          <l>Promptement, luy dis-je, en deux mots,</l>
-          <l>À vous oüir je me dispose ;</l>
-          <l><hi rend="sc">Loüis</hi>, le plus grand des Héros,</l>
-          <l>Ne permet pas que je repose.</l>
-          </lg><lg>
-          <l>Alors ce Dieu tout glorieux</l>
-          <l>De la grandeur de sa matiere,</l>
-          <l>La fierté peinte dans les yeux,</l>
-          <l>Me parla de cette maniere.</l>
-          </lg><lg>
-          <l>Va, dit-il, fendent les airs</l>
-          <l>D'une rapide violence,</l>
-          <l>Apprendre dans tout l’Univers</l>
-          <l>Les Prodiges que fait la France.</l>
-          </lg><lg>
-          <l>Va publier les grands Exploits,</l>
-          <l>Et les Campagnes renommées</l>
-          <l>Que fait le plus vaillant des Roys</l>
-          <l>À la teste de ses Armées.</l>
-          </lg><lg>
-          <l>Que mille Peuples inouïs,</l>
-          <l>Dont les mœurs sont les plus farouches</l>
-          <l>Apprennent le Nom de <hi rend="sc">Loüis</hi>,</l>
-          <l>Par ce qu’en diront tes cent bouches.</l>
-          </lg><lg>
-          <l>Fay qu’il ne soit Rocher affreux,</l>
-          <l>Ny Valon, qui n’en retentisse,</l>
-          <l>Et que de ses progrés heureux</l>
-          <l>Tout l’Univers se réjoüisse.</l>
-          </lg><lg>
-          <l>En parlant de ce Conquérant</l>
-          <l>Dans l’un &amp; dans l’autre hémisphere,</l>
-          <l>Dy que son Fils est le plus grand</l>
-          <l>Des Miracles qu’il a sçeu faire.</l>
-          </lg><lg>
-          <l>Qu'il est aux beaux Arts élevé ;</l>
-          <l>Que sous les Maistres qui l’avancent,</l>
-          <l>Il paroist un Prince achevé</l>
-          <l>À l’âge où les autres commencent.</l>
-          </lg><lg>
-          <l>Que son Esprit a le beau tour,</l>
-          <l>Et fait tout avec tant de grace,</l>
-          <l>Qu'il semble que le Dieu d’Amour</l>
-          <l>L'ait fait naistre sur le Parnasse.</l>
-          </lg><lg>
-          <l>Qu'estant le mieux fait des Humains</l>
-          <l>Il possede un cœur intrépide,</l>
-          <l>Un cœur fait de mes propres mains,</l>
-          <l>Que je gouverne &amp; que je guide.</l>
-          </lg><lg>
-          <l>Que seûr de porter la terreur,</l>
-          <l>S'il se déclare &amp; s’il menace,</l>
-          <l>Il peut aller de cœur en cœur</l>
-          <l>Avec tous les cœurs de sa Race.</l>
-          </lg><lg>
-          <l>Va donc, vole, mais souviens-toy</l>
-          <l>Que pour faire ce qu’on souhaite,</l>
-          <l>Et fournir à ce grand employ,</l>
-          <l>Il te faut plus d’une Trompete.</l>
-          </lg><lg>
-          <l>Si-tost que Mars eut achevé</l>
-          <l>De m’entretenir de la sorte,</l>
-          <l>Je pris un vol plus élevé,</l>
-          <l>Et me fis une voix plus forte.</l>
-          </lg><lg>
-          <l>Voy, luy criay-je, avec quel soin,</l>
-          <l>Volant plus haut qu’a l’ordinaire,</l>
-          <l>Je rens tout l’univers témoin</l>
-          <l>Des vertus du Fils &amp; du Pere.</l>
-          </lg><lg>
-          <l>Voy par moy leurs noms glorieux</l>
-          <l>Portez, sans que ce soin me lasse,</l>
-          <l>Jusqu’au sein de ces Demy-Dieux</l>
-          <l>À qui les Astres ont fait place.</l>
-          </lg><lg>
-          <l>Bientost la Terre en parlera,</l>
-          <l>L'ocean ne pourra s’en taire,</l>
-          <l>L'air par tout en retentira,</l>
-          <l>voilà tout ce que je puis faire.</l>
-          </lg><lg>
-          <l>Mars parut fort content de moy,</l>
-          <l>Et s’en retournant à l’Armée,</l>
-          <l>Nous nous dismes de bonne-foy,</l>
-          <l>Adieu Mars, adieu Renommée.</l></lg>
+          <label rend="center">LA<lb/>RENOMMÉE<lb/>À MONSEIGNEUR<lb/>LE DAUPHIN.</label>
+          <lg>
+            <l rend="i">J'allois un jour à haute voix</l>
+          <l rend="i">Semer sur la Terre &amp; sur l’Onde</l>
+          <l rend="i">Les incomparables Exploits</l>
+          <l rend="i">Du plus grand Monarque du monde.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">J'estois preste à prendre l’essor,</l>
+          <l rend="i">Et j’avois étendu mes ailes ;</l>
+          <l rend="i">J'allois déja donner du Cor,</l>
+          <l rend="i">Pour faire écouter mes nouvelles.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Quand Mars venu subitement,</l>
+          <l rend="i">Me fait connoistre qu’il desire,</l>
+          <l rend="i">Que pour luy j’arreste un moment,</l>
+          <l rend="i">Et qu’il a beaucoup à me dire.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">C'est le moins qu’on doive à celuy</l>
+          <l rend="i">Dont l’employ m’est si necessaire,</l>
+          <l rend="i">Et qui seul m’empesche aujourd’huy</l>
+          <l rend="i">De m’ennuyer &amp; de me taire.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Promptement, luy dis-je, en deux mots,</l>
+            <l rend="i">À vous oüir je me dispose ;</l>
+          <l><hi rend="sc">Loüis</hi>, <hi rend="i">le plus grand des Héros,</hi></l>
+            <l rend="i">Ne permet pas que je repose.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Alors ce Dieu tout glorieux</l>
+          <l rend="i">De la grandeur de sa matiere,</l>
+          <l rend="i">La fierté peinte dans les yeux,</l>
+          <l rend="i">Me parla de cette maniere.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Va, dit-il, fendent les airs</l>
+          <l rend="i">D'une rapide violence,</l>
+          <l rend="i">Apprendre dans tout l’Univers</l>
+          <l rend="i">Les Prodiges que fait la France.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Va publier les grands Exploits,</l>
+          <l rend="i">Et les Campagnes renommées</l>
+          <l rend="i">Que fait le plus vaillant des Roys</l>
+          <l rend="i">À la teste de ses Armées.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que mille Peuples inouïs,</l>
+          <l rend="i">Dont les mœurs sont les plus farouches</l>
+          <l><hi rend="i">Apprennent le Nom de</hi> <hi rend="sc">Loüis,</hi></l>
+            <l rend="i">Par ce qu’en diront tes cent bouches.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Fay qu’il ne soit Rocher affreux,</l>
+          <l rend="i">Ny Valon, qui n’en retentisse,</l>
+          <l rend="i">Et que de ses progrés heureux</l>
+          <l rend="i">Tout l’Univers se réjoüisse.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">En parlant de ce Conquérant</l>
+          <l rend="i">Dans l’un &amp; dans l’autre hémisphere,</l>
+          <l rend="i">Dy que son Fils est le plus grand</l>
+          <l rend="i">Des Miracles qu’il a sçeu faire.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Qu'il est aux beaux Arts élevé ;</l>
+          <l rend="i">Que sous les Maistres qui l’avancent,</l>
+          <l rend="i">Il paroist un Prince achevé</l>
+          <l rend="i">À l’âge où les autres commencent.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que son Esprit a le beau tour,</l>
+          <l rend="i">Et fait tout avec tant de grace,</l>
+          <l rend="i">Qu'il semble que le Dieu d’Amour</l>
+          <l rend="i">L'ait fait naistre sur le Parnasse.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Qu'estant le mieux fait des Humains</l>
+          <l rend="i">Il possede un cœur intrépide,</l>
+          <l rend="i">Un cœur fait de mes propres mains,</l>
+          <l rend="i">Que je gouverne &amp; que je guide.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Que seûr de porter la terreur,</l>
+          <l rend="i">S'il se déclare &amp; s’il menace,</l>
+          <l rend="i">Il peut aller de cœur en cœur</l>
+          <l rend="i">Avec tous les cœurs de sa Race.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Va donc, vole, mais souviens-toy</l>
+          <l rend="i">Que pour faire ce qu’on souhaite,</l>
+          <l rend="i">Et fournir à ce grand employ,</l>
+          <l rend="i">Il te faut plus d’une Trompete.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Si-tost que Mars eut achevé</l>
+          <l rend="i">De m’entretenir de la sorte,</l>
+          <l rend="i">Je pris un vol plus élevé,</l>
+          <l rend="i">Et me fis une voix plus forte.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Voy, luy criay-je, avec quel soin,</l>
+          <l rend="i">Volant plus haut qu’a l’ordinaire,</l>
+          <l rend="i">Je rens tout l’univers témoin</l>
+          <l rend="i">Des vertus du Fils &amp; du Pere.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Voy par moy leurs noms glorieux</l>
+          <l rend="i">Portez, sans que ce soin me lasse,</l>
+          <l rend="i">Jusqu’au sein de ces Demy-Dieux</l>
+          <l rend="i">À qui les Astres ont fait place.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Bientost la Terre en parlera,</l>
+          <l rend="i">L'ocean ne pourra s’en taire,</l>
+          <l rend="i">L'air par tout en retentira,</l>
+          <l rend="i">voilà tout ce que je puis faire.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Mars parut fort content de moy,</l>
+          <l rend="i">Et s’en retournant à l’Armée,</l>
+          <l rend="i">Nous nous dismes de bonne-foy,</l>
+          <l rend="i">Adieu Mars, adieu Renommée.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_252" resp="mercure">
@@ -1145,7 +1208,8 @@
         <p>Les Vers qui suivent m’ont paru si naturels pour une Amante trahie, que j’ay crû vous les devoir envoyer, au hazard que vous les ayez déja veus, car on les chante icy depuis quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
         <quote>
           <label>CHANSON.</label>
-          <lg><l rend="i">Le Printemps m’ofre en vain ses plaisirs innocens,</l>
+          <lg>
+            <l rend="i">Le Printemps m’ofre en vain ses plaisirs innocens,</l>
           <l rend="i">Je ne vous verray plus, Boccages renaissans,</l>
           <l rend="i">Où l’amour de Tyrsis m’a tant de fois charmée.</l>
           <l rend="i">Sous vos ombrages verds il me donna sa foy,</l>
@@ -1174,8 +1238,8 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 256-266.</bibl>
         <p>On est tous les jours trompé en amour, &amp; il se fait sans cesse de nouveaux engagemens. La Lettre que je vous envoye d’un Amant desesperé, devroit servir de remede contre cette passion, si on examinoit à quoy l’on s’expose avant que de s’embarquer ; mais les premieres amorces de l’amour sont si flateuse, qu’on s’en laisse toûjours séduire, &amp; on ne songe à luy resister, que quand on n’a plus de forces pour le combatre. Il n’y a rien à mon sens de mieux touché que cette Lettre. Je ne sçay si elle aura paru touchante à la Dame, mais je sçay qu’elle est fort digne de votre admiration.</p>
         <quote rend="border">
-          <label rend="center">Lettre.</label>
-          <p>Avez-vous oublié Madame, le désespoir où vous me vistes hier, ou avez vous pû croire que ce seroit l’adoucir, de me faire aller chez vous pour vous voir joüer à la Bassete ? Quelle consolation pour moy de vous avoir trouvée dans une gayeté extraordinaire, &amp; de vous entendre loüer vous-mesme vostre beauté ? Vous m’avez laissé sortir sans me dire une seule parole, &amp; vous sçavez avec qui je vous ay laissée. La journée d’un Malheureux pouvoit-elle mieux finir ? Quel trouble ! quelles peines ! Que n’ay je point souffert ? Il faut, Madame, que vous ayez un grand fonds d’inhumanité, si vous n’en estes bien contente ; &amp; si ceux qui m’ont veu ne sont pas persuadez que je vous aime, ils s’y connoissent peu. Mais, Madame, cela ne vous regarde pas, ils ne sçauroient me croire amoureux sans me croire miserable. La tristesse &amp; le desordre où ils m’ont veu, ne peut leur avoir permis de separer ces deux choses. Ne vous contraignez point, Madame. Vous voulez me faire mourir, &amp; je ne dois pas avoir de peine à m’y résoudre. Quelle mort peut-il y avoir qui ne soit préferable à tout ce que vous me faites souffrir depuis si longtemps ? Ce n’est pas une exagération, vous ne le sçavez que trop. Peut-on imaginer quelque chose que je n’aye fait pour vous plaire, ou pour me guérir, &amp; peut-on l’avoir fait plus inutilement ? Dans ces états si opposez, que n’avez-vous point veu de moy, &amp; de quel œil l’avez-vous veu ? Mais si la passion la plus respectueuse, la plus vive, &amp; la plus tendre qui fut jamais, n’a pû toucher vostre cœur, vous ne pouvez pas trouver étrange que toutes vos rigueurs, &amp; la mort mesme que vous m’avez fait voir si souvent &amp; de si pres, n’ayent pû détacher le mien. Quand on a osé vous aimer, Madame, peut-on se retrouver sensible à quelqu’autre chose ? Vostre personne, vostre esprit, &amp; vostre cœur, n’effacent-ils pas jusqu’aux idées de tout ce qui peut plaire ou divertir ? Cependant il est vray, Madame, &amp; je ne puis m’empescher de vous le dire encor, mais c’est pour la deniere fois, je ne dois pas me prendre à moy seul l’accablement où je suis enfin parvenu. C'est dans le fonds le pur ouvrage de vos mains, soit que ma passion vous ait plû, soit parce qu’on veut rarement se défaire d’un Homme dévoüé par amour. Enfin directement, ou par vos manieres, aux despens de mon repos, &amp; au péril de ma propre vie, vous vous estes toûjours opposée aux efforts que j’ay voulu faire pour vous quiter. Il est vray qu’ils ont esté inutiles dans la suite, mais peut-estre qu’ils ne l’eussent pas esté dans les commencemens. Si vous n’aviez affoibly ma raison, j’ose croire qu’elle eust pû alors se rendre la plus forte. Les pensées que vous avez eü pour ma fortune, tant de marques d’estime &amp; d’amitié que j’ay reçeu de vous, ont encor achevé de me perdre. J'avouë, Madame, que toutes ces choses auroient esté d’un prix inestimable dans un cœur libre ; mais que ne m’ont-elles point cousté ? Vous sçavez qu’elles ont soûtenu mes foles espérances, &amp; ranimé mille fois mon attachement. Faites moy justice, Madame. Un Homme éperdu d’amour pouvoit-il avoir la veuë assez bonne pour penétrer qu’à travers tant de graces de vostre part, &amp; tant de constance de la sienne, il ne seroit jamais heureux ? Que ne vous dirois-je point là-dessus, Madame, si je me laissois aller à tout ce qui me vient dans l’esprit ? Mais ne sçay-je point assez l’inutilité de mes discours &amp; de mes plaintes, &amp; ne vois-je pas depuis quelque temps que vous estes occupée à tant d’autres choses, que tout ce que je vous dis vous aigrit ? La Personne du monde qui vous plaist le moins, n’a qu’à m’interrompre pour estre bien reçeuë ; &amp; cette dureté me touche d’autant plus vivement, qu’elle n’a pas toûjours esté si grande. Je vous demande pardon, Madame. La crainte que j’ay de vous fâcher, me fait sentir que je vous parle trop libremens. Vous sçavez que si j’ay eu quelquefois de la force pour soûtenir ma destinée, je n’en ay jamais eu pour soûtenir vostre colere. Dans ce moment mesme où je n’ay plus rien à ménager, je me trouve également penetré de cette crainte. Adieu, Madame, adieu. Je prens enfin le party dont je vous ay parlé si souvent. J'abandonne ma fortune. Je quite Paris &amp; la Cour pour toute ma vie. Je ne sçaurois y estre sans vous voir, ny vous voir sans me redonner à vous, &amp; c’est le seul péril que je puisse craindre en l’état où je suis.</p>
+          <label rend="center">LETTRE.</label>
+          <p rend="i">Avez-vous oublié Madame, le désespoir où vous me vistes hier, ou avez vous pû croire que ce seroit l’adoucir, de me faire aller chez vous pour vous voir joüer à la Bassete ? Quelle consolation pour moy de vous avoir trouvée dans une gayeté extraordinaire, &amp; de vous entendre loüer vous-mesme vostre beauté ? Vous m’avez laissé sortir sans me dire une seule parole, &amp; vous sçavez avec qui je vous ay laissée. La journée d’un Malheureux pouvoit-elle mieux finir ? Quel trouble ! quelles peines ! Que n’ay je point souffert ? Il faut, Madame, que vous ayez un grand fonds d’inhumanité, si vous n’en estes bien contente ; &amp; si ceux qui m’ont veu ne sont pas persuadez que je vous aime, ils s’y connoissent peu. Mais, Madame, cela ne vous regarde pas, ils ne sçauroient me croire amoureux sans me croire miserable. La tristesse &amp; le desordre où ils m’ont veu, ne peut leur avoir permis de separer ces deux choses. Ne vous contraignez point, Madame. Vous voulez me faire mourir, &amp; je ne dois pas avoir de peine à m’y résoudre. Quelle mort peut-il y avoir qui ne soit préferable à tout ce que vous me faites souffrir depuis si longtemps ? Ce n’est pas une exagération, vous ne le sçavez que trop. Peut-on imaginer quelque chose que je n’aye fait pour vous plaire, ou pour me guérir, &amp; peut-on l’avoir fait plus inutilement ? Dans ces états si opposez, que n’avez-vous point veu de moy, &amp; de quel œil l’avez-vous veu ? Mais si la passion la plus respectueuse, la plus vive, &amp; la plus tendre qui fut jamais, n’a pû toucher vostre cœur, vous ne pouvez pas trouver étrange que toutes vos rigueurs, &amp; la mort mesme que vous m’avez fait voir si souvent &amp; de si pres, n’ayent pû détacher le mien. Quand on a osé vous aimer, Madame, peut-on se retrouver sensible à quelqu’autre chose ? Vostre personne, vostre esprit, &amp; vostre cœur, n’effacent-ils pas jusqu’aux idées de tout ce qui peut plaire ou divertir ? Cependant il est vray, Madame, &amp; je ne puis m’empescher de vous le dire encor, mais c’est pour la deniere fois, je ne dois pas me prendre à moy seul l’accablement où je suis enfin parvenu. C'est dans le fonds le pur ouvrage de vos mains, soit que ma passion vous ait plû, soit parce qu’on veut rarement se défaire d’un Homme dévoüé par amour. Enfin directement, ou par vos manieres, aux despens de mon repos, &amp; au péril de ma propre vie, vous vous estes toûjours opposée aux efforts que j’ay voulu faire pour vous quiter. Il est vray qu’ils ont esté inutiles dans la suite, mais peut-estre qu’ils ne l’eussent pas esté dans les commencemens. Si vous n’aviez affoibly ma raison, j’ose croire qu’elle eust pû alors se rendre la plus forte. Les pensées que vous avez eü pour ma fortune, tant de marques d’estime &amp; d’amitié que j’ay reçeu de vous, ont encor achevé de me perdre. J'avouë, Madame, que toutes ces choses auroient esté d’un prix inestimable dans un cœur libre ; mais que ne m’ont-elles point cousté ? Vous sçavez qu’elles ont soûtenu mes foles espérances, &amp; ranimé mille fois mon attachement. Faites moy justice, Madame. Un Homme éperdu d’amour pouvoit-il avoir la veuë assez bonne pour penétrer qu’à travers tant de graces de vostre part, &amp; tant de constance de la sienne, il ne seroit jamais heureux ? Que ne vous dirois-je point là-dessus, Madame, si je me laissois aller à tout ce qui me vient dans l’esprit ? Mais ne sçay-je point assez l’inutilité de mes discours &amp; de mes plaintes, &amp; ne vois-je pas depuis quelque temps que vous estes occupée à tant d’autres choses, que tout ce que je vous dis vous aigrit ? La Personne du monde qui vous plaist le moins, n’a qu’à m’interrompre pour estre bien reçeuë ; &amp; cette dureté me touche d’autant plus vivement, qu’elle n’a pas toûjours esté si grande. Je vous demande pardon, Madame. La crainte que j’ay de vous fâcher, me fait sentir que je vous parle trop libremens. Vous sçavez que si j’ay eu quelquefois de la force pour soûtenir ma destinée, je n’en ay jamais eu pour soûtenir vostre colere. Dans ce moment mesme où je n’ay plus rien à ménager, je me trouve également penetré de cette crainte. Adieu, Madame, adieu. Je prens enfin le party dont je vous ay parlé si souvent. J'abandonne ma fortune. Je quite Paris &amp; la Cour pour toute ma vie. Je ne sçaurois y estre sans vous voir, ny vous voir sans me redonner à vous, &amp; c’est le seul péril que je puisse craindre en l’état où je suis.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_280" resp="mercure">
@@ -1183,20 +1247,24 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 280-282.</bibl>
         <p>On fait des Epitaphes d’un costé, &amp; des Epitalames de l’autre. En voicy un qui fut fait impromptu ces derniers jours sur le Mariage de M<hi rend="sup">r</hi> Richon, Petit-Fils du feu Trésorier de France de ce nom, &amp; de Mademoiselle de Bigot, fille de M<hi rend="sup">r</hi> Bigot Receveur General pour la Taxe des Charges Royales du Ressort du Parlement de Bordeaux. M<hi rend="sup">r</hi> Barré en est l’Autheur. Il a beaucoup de talent pour la Poësie, quoy que dans un âge tres-peu avancé. La Demande à Iris est de luy, aussi-bien que les trois Pieces suivantes que vous avez veuës dans ma Lettre du Mois d’Avril.</p>
         <quote rend="border">
-          <label rend="center">Impromptu.</label>
-          <lg><l>Descendez, charmante Cypris,</l>
-          <l>Voyez cet heureux assemblage,</l>
-          <l>Et tâcher d’achever l’ouvrage</l>
-          <l>De l’Amour vostre Fils.</l>
-          </lg><lg>
-          <l>Vivez contens, vivez heureux Epoux ;</l>
-          <l>Que chacun de vous s’interesse</l>
-          <l>À faire paroistre sans cesse,</l>
-          <l>S'il se peut, un amour plus doux.</l>
-          <l>Faites que dans vostre jeunesse</l>
-          <l>Vous ne voyez que de beaux jours ;</l>
-          <l>Faites qu’une belle vieillesse</l>
-          <l>Couronne vos tendres amours.</l></lg>
+          <label rend="center">INPROMPTU.</label>
+          <lg>
+            <l rend="i">Descendez, charmante Cypris,</l>
+          <l rend="i">Voyez cet heureux assemblage,</l>
+          <l rend="i">Et tâcher d’achever l’ouvrage</l>
+          <l rend="i">De l’Amour vostre Fils.</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Vivez contens, vivez heureux Epoux ;</l>
+          <l rend="i">Que chacun de vous s’interesse</l>
+          <l rend="i">À faire paroistre sans cesse,</l>
+          <l rend="i">S'il se peut, un amour plus doux.</l>
+          <l rend="i">Faites que dans vostre jeunesse</l>
+          <l rend="i">Vous ne voyez que de beaux jours ;</l>
+          <l rend="i">Faites qu’une belle vieillesse</l>
+          <l rend="i">Couronne vos tendres amours.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_283" resp="mercure">
@@ -1204,14 +1272,17 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 283-284.</bibl>
         <p>J'adjoûte deux Madrigaux qui sont d’un caractere bien opposé. L'un est d’un Amant content, &amp; l’autre d’un Amant plaintif. Il y en a toûjours eu de toutes manieres.</p>
         <quote rend="border">
-          <label rend="center">L'Amant Content.</label>
-          <label rend="center">Madrigal.</label>
-          <l>Ah, que je suis heureux !</l>
-          <lg><l>Apres avoir souffert depuis le temps que j’aime</l>
+          <label rend="center">L'AMANT CONTENT.</label>
+          <label rend="center"><hi rend="sc">Madrigal.</hi></label>
+          <lg>
+            <l>Ah, que je suis heureux !</l>
+          <l>Apres avoir souffert depuis le temps que j’aime</l>
           <l>Tout ce que fait soufrir un destin rigoureux,</l>
           <l>Iris ne doute plus de mon amour extrême,</l>
           <l>Et je luy parle quand je veux.</l>
-          <l>Ah, que je suis heureux !</l></lg></quote>
+          <l>Ah, que je suis heureux !</l>
+          </lg>
+        </quote>
         <quote>
           <label rend="center">L'Amant Plaintif.</label>
           <label rend="center">Madrigal.</label>
