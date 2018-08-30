@@ -1272,26 +1272,26 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 283-284.</bibl>
         <p>J'adjoûte deux Madrigaux qui sont d’un caractere bien opposé. L'un est d’un Amant content, &amp; l’autre d’un Amant plaintif. Il y en a toûjours eu de toutes manieres.</p>
         <quote rend="border">
-          <label rend="center">L'AMANT CONTENT.</label>
-          <label rend="center"><hi rend="sc">Madrigal.</hi></label>
+          <label rend="center">L'AMANT CONTENT.<lb/><hi rend="sc">Madrigal.</hi></label>
           <lg>
-            <l>Ah, que je suis heureux !</l>
-          <l>Apres avoir souffert depuis le temps que j’aime</l>
-          <l>Tout ce que fait soufrir un destin rigoureux,</l>
-          <l>Iris ne doute plus de mon amour extrême,</l>
-          <l>Et je luy parle quand je veux.</l>
-          <l>Ah, que je suis heureux !</l>
+            <l rend="i">Ah, que je suis heureux !</l>
+          <l rend="i">Apres avoir souffert depuis le temps que j’aime</l>
+          <l rend="i">Tout ce que fait soufrir un destin rigoureux,</l>
+          <l rend="i">Iris ne doute plus de mon amour extrême,</l>
+          <l rend="i">Et je luy parle quand je veux.</l>
+          <l rend="i">Ah, que je suis heureux !</l>
           </lg>
         </quote>
         <quote>
-          <label rend="center">L'Amant Plaintif.</label>
-          <label rend="center">Madrigal.</label>
-          <lg><l>Que ne m’accablez vous de mortelles rigueurs,</l>
-          <l>Vous qui me reprocherez de frivoles faveurs.</l>
-          <l>Helas ! loin d’êcouter tant d’esperances vaines,</l>
-          <l>Dont ma raison ne peut interrompre le cours,</l>
-          <l>Peut-estre qu’à vos yeux je briserois mes chaînes,</l>
-          <l>Et je vay les traisner le reste de mes jours.</l></lg>
+          <label rend="center">L'AMANT PLAINTIF.<lb/><hi rend="sc">Madrigal.</hi></label>
+          <lg>
+            <l rend="i">Que ne m’accablez vous de mortelles rigueurs,</l>
+          <l rend="i">Vous qui me reprocherez de frivoles faveurs.</l>
+          <l rend="i">Helas ! loin d’êcouter tant d’esperances vaines,</l>
+          <l rend="i">Dont ma raison ne peut interrompre le cours,</l>
+          <l rend="i">Peut-estre qu’à vos yeux je briserois mes chaînes,</l>
+          <l rend="i">Et je vay les traisner le reste de mes jours.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_324" resp="mercure">
@@ -1299,17 +1299,21 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 324-327.</bibl>
         <p>Cependant pour vous parler d’un autre torrent de Jaloux déchaîner contre la gloire de Sa Majesté, je vous diray que les Conféderez d’Allemagne s’assemblent, &amp; font des mouvemens depuis plus d’un mois ; qu’on n’entend parler que de leurs Magasins, &amp; qu’ils font apporter des Provisions de mille endroits diférens. Ils sont beaucoup, ils se souviennent de l’année derniere. Je ne sçay s’ils feront de grand progrés, &amp; si l’on n’en doit point croire cette Chanson.</p>
         <quote rend="border">
-          <lg><l>Pourquoy quiter vostre charmante Reyne,</l>
-          <l>Et vous priver d’un entretien si doux ?</l>
-          <l>Où courez-vous, Grand Prince de Lorraine ?</l>
-          <l>Pourquoy quiter vostre charmante Reyne</l>
-          <l>Pour le Dieu Mars qui ne fait rien pour vous ?</l>
-          </lg><lg>
-          <l>Ne pleurez pas, adorable Princesse ;</l>
-          <l>Si Charles part, l’Empire en a besoin.</l>
-          <l>Créquy sçaura servir vostre tendresse.</l>
-          <l>Ne pleurez pas, adorable Princesse,</l>
-          <l>Si Charles part, il n’ira pas fort loin.</l></lg>
+          <lg>
+            <l rend="i">Pourquoy quiter vostre charmante Reyne,</l>
+          <l rend="i">Et vous priver d’un entretien si doux ?</l>
+          <l rend="i">Où courez-vous, Grand Prince de Lorraine ?</l>
+          <l rend="i">Pourquoy quiter vostre charmante Reyne</l>
+          <l rend="i">Pour le Dieu Mars qui ne fait rien pour vous ?</l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+          <l rend="i">Ne pleurez pas, adorable Princesse ;</l>
+          <l rend="i">Si Charles part, l’Empire en a besoin.</l>
+          <l rend="i">Créquy sçaura servir vostre tendresse.</l>
+          <l rend="i">Ne pleurez pas, adorable Princesse,</l>
+          <l rend="i">Si Charles part, il n’ira pas fort loin.</l>
+          </lg>
           <p>D. V.</p>
         </quote>
       </div>
@@ -1318,10 +1322,9 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 327-336.</bibl>
         <p>Vostre difficuté sur le mot <hi rend="i">Diamant brute</hi> que j’ay employé dans l’Epistre aux Dames de ma Lettre Extraordinaire, me paroist fort juste. Ce mot m’avoit fait peine comme il vous en fait, &amp; il n’y eut que l’avantage de la Rime qui l’emporta sur mon scrupule. J'ay consulté nos Maistres depuis ce temps-là. Quelques-uns des plus délicats, &amp; de ceux-mesme dont on trouve les Livres écrits avec la plus exacte pureté, sont pour cette maniere de parler. D'autres soûtiennent qu’il faut dire <hi rend="i">Diamant Brut</hi>, &amp; ceux-là sont en plus grand nombre. Ainsi je croy qu’il faut estre de leur sentiment, parce qu’en matiere de doute, la pluralité doit prévaloir. J'attens avec bien de l’impatience ce que vous me promettez sur la Question galante, &amp; sur l’Histoire Enigmatique de cet Extraordinaire. Vous pouvez ne vous point embarassez, si vous voulez, de la Lettre en Chifres ; mais ne dites point que pour la déchifrer on ne distingue point assez les Oyseaux &amp; les Animaux qui en sont les caracteres. On m’en a déja envoyé le sens, &amp; quoy qu’il n’y ait que deux seules Personnes qui l’ayent trouvé, la chose n’est pas impossible, puis qu’on a pû en venir à bout. Pour ce que vous me dites que cet Extraordinaire ne déplaist point dans vostre Province, mais que le prix en dégoûte beaucoup de Gens qui voudroient l’avoir, j’y ay déja donné ordre, &amp; consenty volontiers à ce qui m’a esté demandé par la Lettre que vous allez voir.</p>
         <quote rend="border">
-          <label rend="center">À L'Autheur</label>
-          <label rend="center">du </label>
-          <label rend="center">Mercure Galant.</label>
-          <p>Je croy estre obligé, Monsieur, de vous apprendre ce qui m’arriva hyer au soir. J'estois dans une Auberge où j’ay accoustumé de trouver un assez bon nombre de Provinciaux. Ils me parurent plus fiers qu’à l’ordinaire. Chacun d’eux tranchoit du bel Esprit, &amp; la cause ne m’en fut pas longtemps inconnuë. On parla de l’Extraordinaire de vostre Mercure Galant, &amp; je m’aperçeus bientost que leur fierté venoit du Panégyrique que vous y avez fait d’eux, &amp; de leurs Lettres qui composent la plus grande partie de cet Ouvrage. Ils estoient modestes, vous les rendez fiers, &amp; on seroit mal venu à les traiter presentement de Provinciaux. Quelqu’un de la Compagnie (il estoit Parisien comme moy) ne pût s’empescher de dire, que quoy que parmy ces Lettres il y en eust de tres-agreables, le trop d’Explications des mesmes Enigmes importunoit, &amp; que vous en auriez dû retrancher du moins la moitié. Trois ou quatre Provinciaux, zelez tout ce qu’on peut l’estre pour le bien commun, parlerent tout-à-la-fois, &amp; dirent avec chaleur que vous auriez mal fait si vous vous fussiez dispensé de les mettre toutes, puis que tout le monde s’estant empressé de vous écrire, il falloit que chaque Province trouvast dans vostre Extraordinaire des Explications de quelques Personnes de toutes les Villes qui les composent, afin qu’aucune n’eust sujet de se plaindre d’avoir esté oubliée, comme quelques-unes ont déja fait par leurs Lettres que vous nous venez de donner. Leur raisonnement me persuada. Je me joignis à eux pour défendre vostre Livre, &amp; je ne sçay pourquoi je vous en fais icy l’Apologie à vous-mesme, puis que je devrois vous vouloir un peu de mal d’avoir tellement élevé les Provinciaux, qu’ils croiront bientost ne devoir ceder au Parisiens ny en galanterie ny en esprit ; Je consens pourtant volontiers au bien que vous dites d’eux, parce qu’ils sont François comme moy, &amp; que la gloire en retombe sur toute la France. Je diray plus. Il n’y a pas-une des Villes de ce florissans Royaume qui ne doive garder vostre Extraordinaire dans ses Archives, ny pas-un Provincial qui ne le doive conserver dans son Cabinet, comme des Titres de l’Esprit de sa Famille. Cependant si les Provinciaux sont satisfaits de l’encens que vous leur donnez, j’ay à vous dire que plusieurs ne le sont pas du prix qu’il leur couste. Un d’entr'eux me le dit en particulier, &amp; me pria mesme de vous le faire sçavoir sans le commettre. À dire le vray, l’honneur que vous faites à leurs Ouvrages, en les faisant vendre plus que les vostres, leur couste un peu cher. C'est un honneur dont ils se passeroient sans beaucoup de peine, &amp; je vous assure que leur vanité est tres-médiocre sur cet article. S'ils sont bien-aises d’apprendre que vous les avez mis au nombre des beaux Esprits imprimez, ils voudroient bien que leurs Ouvrages leur fussent donnez à meilleur compte, &amp; ils en trouveroient leurs Lettres la moitié plus belle. Un peu de ménage ne sied point mal en toutes choses. S'il y en a qui ne s’arrestent point au prix quand quelque chose leur plaist, il en est beaucoup qui se privent par là de ce qu’ils souhaitent, &amp; il faut toûjours contenter le plus grand nombre. Je vous dis mesmes, car les beaux Esprits sont fiers ; &amp; à quoy serviroit d’avoir de l’esprit, si on ne sçavoit se déguiser ? Quoy qu’il en soit, Monsieur, puis que vous voulez bien mettre les Provinciaux au monde, faites qu’ils achetent moins la satisfaction qu’ils en reçoivent. Vous leur avez fait honneur en jugeant leurs Ouvrages dignes d’un grand prix, faites leur plaisir en faisant qu’ils puissent voir ceux des autres Provinces &amp; de la leur, sans qu’il leur en couste davantage que pour Mercure. Plus de Gens les acheteront ; &amp; plus ils seront veus, plus ceux qui les ont faits en auront de gloire. Ils ne croiront point que cette diminution de prix les fasse trouver moins beaux. Ils sçavent qu’on en a usé de cette sorte pour les plus belles Pieces de Theatre, quand elles n’ont plus esté si nouvelles. Ainsi vostre Extraodinaire n’en sera pas moins estimé. Faites-y reflection, Monsieur. Je sçay que vos Figures de Modes de toutes manieres, vos autres Planches sur le mesme sujet, &amp; toutes celles qui sont dans ce Livre, vous ont obligé à de fort grandes dépenses, mais vous devez récompenser par là les Provinces de l’estime qu’elles ont pour vostre Mercure, qu’on y achete souvent plus cher qu’à Paris.</p>
+          <label rend="center">À L'AUTHEUR<lb/>DU<lb/>MERCURE GALANT.</label>
+          <p/>
+          <p rend="i">Je croy estre obligé, Monsieur, de vous apprendre ce qui m’arriva hyer au soir. J'estois dans une Auberge où j’ay accoustumé de trouver un assez bon nombre de Provinciaux. Ils me parurent plus fiers qu’à l’ordinaire. Chacun d’eux tranchoit du bel Esprit, &amp; la cause ne m’en fut pas longtemps inconnuë. On parla de l’Extraordinaire de vostre Mercure Galant, &amp; je m’aperçeus bientost que leur fierté venoit du Panégyrique que vous y avez fait d’eux, &amp; de leurs Lettres qui composent la plus grande partie de cet Ouvrage. Ils estoient modestes, vous les rendez fiers, &amp; on seroit mal venu à les traiter presentement de Provinciaux. Quelqu’un de la Compagnie (il estoit Parisien comme moy) ne pût s’empescher de dire, que quoy que parmy ces Lettres il y en eust de tres-agreables, le trop d’Explications des mesmes Enigmes importunoit, &amp; que vous en auriez dû retrancher du moins la moitié. Trois ou quatre Provinciaux, zelez tout ce qu’on peut l’estre pour le bien commun, parlerent tout-à-la-fois, &amp; dirent avec chaleur que vous auriez mal fait si vous vous fussiez dispensé de les mettre toutes, puis que tout le monde s’estant empressé de vous écrire, il falloit que chaque Province trouvast dans vostre Extraordinaire des Explications de quelques Personnes de toutes les Villes qui les composent, afin qu’aucune n’eust sujet de se plaindre d’avoir esté oubliée, comme quelques-unes ont déja fait par leurs Lettres que vous nous venez de donner. Leur raisonnement me persuada. Je me joignis à eux pour défendre vostre Livre, &amp; je ne sçay pourquoi je vous en fais icy l’Apologie à vous-mesme, puis que je devrois vous vouloir un peu de mal d’avoir tellement élevé les Provinciaux, qu’ils croiront bientost ne devoir ceder au Parisiens ny en galanterie ny en esprit ; Je consens pourtant volontiers au bien que vous dites d’eux, parce qu’ils sont François comme moy, &amp; que la gloire en retombe sur toute la France. Je diray plus. Il n’y a pas-une des Villes de ce florissans Royaume qui ne doive garder vostre Extraordinaire dans ses Archives, ny pas-un Provincial qui ne le doive conserver dans son Cabinet, comme des Titres de l’Esprit de sa Famille. Cependant si les Provinciaux sont satisfaits de l’encens que vous leur donnez, j’ay à vous dire que plusieurs ne le sont pas du prix qu’il leur couste. Un d’entr'eux me le dit en particulier, &amp; me pria mesme de vous le faire sçavoir sans le commettre. À dire le vray, l’honneur que vous faites à leurs Ouvrages, en les faisant vendre plus que les vostres, leur couste un peu cher. C'est un honneur dont ils se passeroient sans beaucoup de peine, &amp; je vous assure que leur vanité est tres-médiocre sur cet article. S'ils sont bien-aises d’apprendre que vous les avez mis au nombre des beaux Esprits imprimez, ils voudroient bien que leurs Ouvrages leur fussent donnez à meilleur compte, &amp; ils en trouveroient leurs Lettres la moitié plus belle. Un peu de ménage ne sied point mal en toutes choses. S'il y en a qui ne s’arrestent point au prix quand quelque chose leur plaist, il en est beaucoup qui se privent par là de ce qu’ils souhaitent, &amp; il faut toûjours contenter le plus grand nombre. Je vous dis mesmes, car les beaux Esprits sont fiers ; &amp; à quoy serviroit d’avoir de l’esprit, si on ne sçavoit se déguiser ? Quoy qu’il en soit, Monsieur, puis que vous voulez bien mettre les Provinciaux au monde, faites qu’ils achetent moins la satisfaction qu’ils en reçoivent. Vous leur avez fait honneur en jugeant leurs Ouvrages dignes d’un grand prix, faites leur plaisir en faisant qu’ils puissent voir ceux des autres Provinces &amp; de la leur, sans qu’il leur en couste davantage que pour Mercure. Plus de Gens les acheteront ; &amp; plus ils seront veus, plus ceux qui les ont faits en auront de gloire. Ils ne croiront point que cette diminution de prix les fasse trouver moins beaux. Ils sçavent qu’on en a usé de cette sorte pour les plus belles Pieces de Theatre, quand elles n’ont plus esté si nouvelles. Ainsi vostre Extraodinaire n’en sera pas moins estimé. Faites-y reflection, Monsieur. Je sçay que vos Figures de Modes de toutes manieres, vos autres Planches sur le mesme sujet, &amp; toutes celles qui sont dans ce Livre, vous ont obligé à de fort grandes dépenses, mais vous devez récompenser par là les Provinces de l’estime qu’elles ont pour vostre Mercure, qu’on y achete souvent plus cher qu’à Paris.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_337" resp="mercure">
@@ -1329,40 +1332,42 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 337-342.</bibl>
         <p>Je viens aux Enigmes du dernier Mois. Vous les aurez sans-doute examinées avec plus de soin, apres avoir leu à la teste de ma Lettre Extraordinaire, ce qui a esté écrit sur ce sujet par un bel Esprit d’Aix. Je ne suis point surpris que vous traitiez de Chef d’œuvre les dix ou douze Lettres qui en font une espece de Dissertation. Tout le monde les a admirées, &amp; on souhaiteroit fort que leur Autheur voulust embellir souvent celles que je vous adresse de quelque Traité de sa façon. Il écrit si finement, qu’il est assuré de réüssir dans tout ce qu’il voudra entreprendre, &amp; on ne peut avoir autant d’esprit qu’il en a, sans estre comptable au Public de la meilleure partie de ses heures. Vous n’avez pas perdu celles que vous avez données à chercher le sens des deux dernieres Enigmes, puis que vous les avez devinées. Le Fils d’un Auditeur de la Chambre des Comptes de Dijon, qui a trouvé comme vous le vray mot de la premiere, s’en explique de cette sorte à une aimable Personne qui luy en avoit demandé le sens.</p>
         <quote rend="border">
-          <label rend="center">À Iris.</label>
-          <l>Iris, il faut vous satisfaire,</l>
-          <l>Le Mot que vous cherchez avec empressement</l>
-          <l>Est la Chemise assurêment.</l>
-          <l>Quand le matin vous vous parez pour plaire</l>
-          <l>À de certains Blondins qui vous font les yeux doux,</l>
-          <l>N'est ce pas la premiere chose</l>
-          <l>Dont vous cachez ce qui pourroit chez vous</l>
-          <l>Faire honte à l’éclat du Lys &amp; de la Rose ?</l>
-          <l>Et sur tout ce qui peut orner un Courtisan</l>
-          <l>N'a-t-elle pas toûjours le premier rang ?</l>
-          <l>N'a-t-elle pas aussi la faveur sans égale</l>
-          <l>D'approcher de fort pres la Personne Royale ?</l>
-          <l>Trop heureux ! Si j’osois d’aussi pres quelque jour</l>
-          <l>Toucher comme elle fait plus parfait ouvrage</l>
-          <l>De la Nature &amp; de l’Amours ;</l>
-          <l>Ou du moins si j’avois, Iris, cet avantage</l>
-          <l>Que le Roy donne au premier de sa Cour,</l>
-          <l>De vous mettre vostre Chemise.</l>
-          <l>Lors qu’une fois vous l’avez mise</l>
-          <l>Vous ne la gardez pas longtemps,</l>
-          <l>Vous en changez souvent comme d’Amans.</l>
-          <l>Sa beauté n’est que passagere,</l>
-          <l>Et sa faveur ne dure guére,</l>
-          <l>Non plus que celle aussi de tous vos Soûpirans.</l>
-          <l>L'eau bientost luy redonne une beauté nouvelle ;</l>
-          <l>Et si l’on dit que rien n’est éclatant sans elle,</l>
-          <l>Ou qu’avec elle seule on est sans ornement ;</l>
-          <l>Pour tout autre on dit vray, mais pour vous, bagatelle,</l>
-          <l><space/>Il en est autrement ;</l>
-          <l>Et tel qui par hazard caché dans la Ruelle</l>
-          <l>Pourroit vous voir ainsi sortant de vostre Lit,</l>
-          <l>Jureroit que sans contredit</l>
-          <l>Il ne vous vit jamais plus charmante &amp; plus belle.</l>
+          <label rend="center">À IRIS.</label>
+          <lg>
+          <l rend="i">Iris, il faut vous satisfaire,</l>
+          <l rend="i">Le Mot que vous cherchez avec empressement</l>
+          <l rend="i">Est la Chemise assurêment.</l>
+          <l rend="i">Quand le matin vous vous parez pour plaire</l>
+          <l rend="i">À de certains Blondins qui vous font les yeux doux,</l>
+          <l rend="i">N'est ce pas la premiere chose</l>
+          <l rend="i">Dont vous cachez ce qui pourroit chez vous</l>
+          <l rend="i">Faire honte à l’éclat du Lys &amp; de la Rose ?</l>
+          <l rend="i">Et sur tout ce qui peut orner un Courtisan</l>
+          <l rend="i">N'a-t-elle pas toûjours le premier rang ?</l>
+          <l rend="i">N'a-t-elle pas aussi la faveur sans égale</l>
+          <l rend="i">D'approcher de fort pres la Personne Royale ?</l>
+          <l rend="i">Trop heureux ! Si j’osois d’aussi pres quelque jour</l>
+          <l rend="i">Toucher comme elle fait plus parfait ouvrage</l>
+          <l rend="i">De la Nature &amp; de l’Amours ;</l>
+          <l rend="i">Ou du moins si j’avois, Iris, cet avantage</l>
+          <l rend="i">Que le Roy donne au premier de sa Cour,</l>
+          <l rend="i">De vous mettre vostre Chemise.</l>
+          <l rend="i">Lors qu’une fois vous l’avez mise</l>
+          <l rend="i">Vous ne la gardez pas longtemps,</l>
+          <l rend="i">Vous en changez souvent comme d’Amans.</l>
+          <l rend="i">Sa beauté n’est que passagere,</l>
+          <l rend="i">Et sa faveur ne dure guére,</l>
+          <l rend="i">Non plus que celle aussi de tous vos Soûpirans.</l>
+          <l rend="i">L'eau bientost luy redonne une beauté nouvelle ;</l>
+          <l rend="i">Et si l’on dit que rien n’est éclatant sans elle,</l>
+          <l rend="i">Ou qu’avec elle seule on est sans ornement ;</l>
+          <l rend="i">Pour tout autre on dit vray, mais pour vous, bagatelle,</l>
+          <l rend="i"><space/>Il en est autrement ;</l>
+          <l rend="i">Et tel qui par hazard caché dans la Ruelle</l>
+          <l rend="i">Pourroit vous voir ainsi sortant de vostre Lit,</l>
+          <l rend="i">Jureroit que sans contredit</l>
+          <l rend="i">Il ne vous vit jamais plus charmante &amp; plus belle.</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_342" resp="mercure">
@@ -1375,18 +1380,18 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 344-349.</bibl>
         <p>L'Explication qui suit apprendra le vray Mot de la seconde à ceux qui n’ont pas eu les mesmes lumieres que vous pour les trouver.</p>
         <quote rend="border">
-          <l><space/>C'est une Canne</l>
-          <l>Qui vient d’un Païs étranger,</l>
-          <l>Et dont le corps est droit, sec &amp; leger.</l>
-          <l><space/>Gens de Cabane</l>
-          <l>Ne la portent jamais,</l>
-          <l>Mais gens de Guerre &amp; de Palais,</l>
-          <l>Les Femmes mesme avec beaucoup de grace.</l>
-          <l>Elle est commode à tous,</l>
-          <l>Et lors que l’on s’en sert, souvent on se délasse,</l>
-          <l>Mais Dieu nous garde de ses coups.</l>
+          <l rend="i"><space/>C'est une Canne</l>
+          <l rend="i">Qui vient d’un Païs étranger,</l>
+          <l rend="i">Et dont le corps est droit, sec &amp; leger.</l>
+          <l rend="i"><space/>Gens de Cabane</l>
+          <l rend="i">Ne la portent jamais,</l>
+          <l rend="i">Mais gens de Guerre &amp; de Palais,</l>
+          <l rend="i">Les Femmes mesme avec beaucoup de grace.</l>
+          <l rend="i">Elle est commode à tous,</l>
+          <l rend="i">Et lors que l’on s’en sert, souvent on se délasse,</l>
+          <l rend="i">Mais Dieu nous garde de ses coups.</l>
         </quote>
-        <p>Voici d’autres Mots qui ont esté appliquez à cette seconde Enigme, <hi rend="i">La Pique, le Dard, un vieil Baston de Mareschal de France, l’Oignon, le Papier timbré, une Plume de Héron, une Pertuisane, &amp; le Bois de Brésil.</hi> Le Mot de la <hi rend="i">Canne</hi> qui est son vray sens, a esté trouvé par […liste de noms]</p>
+        <p>Voici d’autres Mots qui ont esté appliquez à cette seconde Enigme, <hi rend="i">La Pique, le Dard, un vieil Baston de Mareschal de France, l’Oignon, le Papier timbré, une Plume de Héron, une Pertuisane, &amp; le Bois de Brésil.</hi> Le Mot de la <hi rend="i">Canne</hi> qui est son vray sens, a esté trouvé par... [liste des noms].</p>
       </div>
       <div type="article" xml:id="MG-1678-05_349" resp="mercure">
         <head>[Noms de ceux qui ont devinée les deux Enigmes]*</head>
@@ -1398,45 +1403,45 @@
         <bibl><title>Mercure galant</title>, mai [tome 05], 1678, p. 355-358.</bibl>
         <p>Je vous envoye deux nouvelles Enigmes. La premiere est de M<hi rend="sup">r</hi> l’Abbé d’Albert d’Aix.</p>
         <quote rend="border">
-          <label rend="center">Enigme.</label>
+          <label rend="center">ENIGME.</label>
           <lg>
-            <l>Je suis de divers lieux, je nais dans les Forests,</l>
-          <l>Tantost pres des Ruisseaux ; tantost pres des Marets ;</l>
-          <l>Je suis de toute taille &amp; de seche figure,</l>
-          <l>Je n’ay jambes n’y bras ; cependant la Nature</l>
-          <l>Ne m’a pas fais un Monstre, &amp; j’en vaux beaucoup mieux,</l>
-          <l>Reparant ce defaut par un grand nombre d’yeux.</l>
-          <l>Qu'ils soient toûjours ouverts, il n’est pas necessaire ;</l>
-          <l>Qu'ils soient fermez ou non, ils sçavent toûjours plaire.</l>
-          <l>Comme un Cameleon je me nourris de l’air.</l>
-          <l>Quoy que je ne puisse parler,</l>
-          <l>J'ay le don de me faire entendre,</l>
-          <l>Et par une vertu qui pourra vous surprendre,</l>
-          <l>Ce qu’en ouvrant la bouche on voit faire en tout lieux</l>
-          <l>À mille Gens qui par là sçavent plaire,</l>
-          <l>Moy de qui la méthode à la leur est contraire,</l>
-          <l>Je le fais en fermant la plûpart de mes yeux.</l></lg></quote>
+            <l rend="i">Je suis de divers lieux, je nais dans les Forests,</l>
+          <l rend="i">Tantost pres des Ruisseaux ; tantost pres des Marets ;</l>
+          <l rend="i">Je suis de toute taille &amp; de seche figure,</l>
+          <l rend="i">Je n’ay jambes n’y bras ; cependant la Nature</l>
+          <l rend="i">Ne m’a pas fais un Monstre, &amp; j’en vaux beaucoup mieux,</l>
+          <l rend="i">Reparant ce defaut par un grand nombre d’yeux.</l>
+          <l rend="i">Qu'ils soient toûjours ouverts, il n’est pas necessaire ;</l>
+          <l rend="i">Qu'ils soient fermez ou non, ils sçavent toûjours plaire.</l>
+          <l rend="i">Comme un Cameleon je me nourris de l’air.</l>
+          <l rend="i">Quoy que je ne puisse parler,</l>
+          <l rend="i">J'ay le don de me faire entendre,</l>
+          <l rend="i">Et par une vertu qui pourra vous surprendre,</l>
+          <l rend="i">Ce qu’en ouvrant la bouche on voit faire en tout lieux</l>
+          <l rend="i">À mille Gens qui par là sçavent plaire,</l>
+          <l rend="i">Moy de qui la méthode à la leur est contraire,</l>
+          <l rend="i">Je le fais en fermant la plûpart de mes yeux.</l></lg></quote>
         <quote>
-          <label rend="center">Autre Enigme.</label>
+          <label rend="center">AUTRE ENIGME.</label>
           <lg>
-            <l>Comme l’heur de me voir est un bien important,</l>
-          <l>Je mets mon Corps en veuë autant qu’il y peut estre.</l>
-          <l>Cependant de ce Corps que l’on estime tant,</l>
-          <l>On ne voit presque rien paroistre.</l>
-          <l>Quoy que fort ancien je nais à chaque instant,</l>
-          <l>Et je suis avant que de naistre.</l>
-          <l>C'est fort peu de chose pour moy</l>
-          <l>Que ce qui m’occupe sans cesse,</l>
-          <l>Et je ne puis, je le confesse,</l>
-          <l>Remplir qu’à demy mon employ.</l>
-          <l>Ma fille jamais ne me quite,</l>
-          <l>Si ce n’est dans les lieux où je suis trop puissant.</l>
-          <l>Plus on me voit, moins on me sent,</l>
-          <l>Et plus je crois, plus ma force est petite.</l>
-          <l>Passez à me chercher &amp; les jours &amp; les nuit,</l>
-          <l>Ce soin sera tres-inutile.</l>
-          <l>Où me trouveriez-vous ? Plus vous serez habile,</l>
-          <l>Et moins vous sçaurait où je suis.</l></lg>
+            <l rend="i">Comme l’heur de me voir est un bien important,</l>
+          <l rend="i">Je mets mon Corps en veuë autant qu’il y peut estre.</l>
+          <l rend="i">Cependant de ce Corps que l’on estime tant,</l>
+          <l rend="i">On ne voit presque rien paroistre.</l>
+          <l rend="i">Quoy que fort ancien je nais à chaque instant,</l>
+          <l rend="i">Et je suis avant que de naistre.</l>
+          <l rend="i">C'est fort peu de chose pour moy</l>
+          <l rend="i">Que ce qui m’occupe sans cesse,</l>
+          <l rend="i">Et je ne puis, je le confesse,</l>
+          <l rend="i">Remplir qu’à demy mon employ.</l>
+          <l rend="i">Ma fille jamais ne me quite,</l>
+          <l rend="i">Si ce n’est dans les lieux où je suis trop puissant.</l>
+          <l rend="i">Plus on me voit, moins on me sent,</l>
+          <l rend="i">Et plus je crois, plus ma force est petite.</l>
+          <l rend="i">Passez à me chercher &amp; les jours &amp; les nuit,</l>
+          <l rend="i">Ce soin sera tres-inutile.</l>
+          <l rend="i">Où me trouveriez-vous ? Plus vous serez habile,</l>
+          <l rend="i">Et moins vous sçaurait où je suis.</l></lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-05_358" resp="mercure">
