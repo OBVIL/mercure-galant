@@ -77,6 +77,10 @@
       <div type="article" xml:id="MG-1678-06_000b" resp="mercure">
         <head>[Dialogue du Fleuret &amp; de l’Epée]</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, non paginé.</bibl>
+        <castList>
+          <castItem xml:id="le-fleuret"/>
+          <castItem xml:id="l-epee"/>
+        </castList>
         <quote><label rend="center">Dialogue</label>
           <label rend="center">Du</label>
           <label rend="center">Fleuret &amp; de l’Epée.</label>
@@ -210,7 +214,7 @@
         <head>[L’Amour blessé, Idylle]</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 35-49.</bibl>
         <p>Voila, Madame, tout ce que j’avois à vous dire ce fameux Monument qui fait tant d’honneur à la Ville de Rheims. J’ay beaucoup de joye d’avoir pû satisfaire vostre curiosité sur cet article, &amp; n’en ay pas moins d’avoir enfin recouvré le galant Idylle de l’Amour blessé, que vous avez envie de voir depuis si long-temps. On m’a dit qu’il n’est pas tout-à-fait nouveau ; mais outre qu’il sera pour vous, je l’ay demandé à tant de Gens qui n’en avoient point entendu parler, qu’il y a grande apparence qu’on en a fait courir fort peu de Copies. Je l’ay trouvé tout ce qu’on vous a dit qu’il estoit. Ceux qui vous l’ont vanté, l’ont fait avec beaucoup de justice, &amp; quoy qu’ils vous disent une autre fois en matiere de Vers aisément tournez, vous aurez sujet de les croire sur leur parole.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">L’Amour</label>
           <label rend="center">blessé.</label>
           <label rend="center">Idylle.</label>
@@ -402,7 +406,7 @@
         <head>Sur les Conquestes du Roy, faites en Hyver, Sonnet.</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 107-110.</bibl>
         <p>Le Regne de <hi rend="sc">Loüis le Grand</hi> nous a tellement accoûtumez aux Prodiges, que si nous ne cessons pas de les admirer, nous cessons du moins d’en estre surpris. Ces miracles qui commencent à devenir si communs pour nous, ont fait faire le Sonnet qui suit. Je ne vous l’envoye pas seulement pour la matiere, mais parce qu’il enferme un mistere de galanterie qu’il ne m’est pas encor permis de vous éclaircir. Comme il doit avoir de la suite, &amp; que je ne doute pas que l’Autheur ne m’en fasse part, je vous apprendray l’Avanture entiere, &amp; vous connoistrez alors que mes Lettres produisent quelquefois d’autres effets que celuy de vous divertir.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sur les</label>
           <label rend="center">Conquestes</label>
           <label rend="center">du Roy,</label>
@@ -611,7 +615,7 @@
         <head>Stances sur la vanité du Monde</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 162-170.</bibl>
         <p>Ces morts prématurées qui semblent renverser l’ordre de la Nature, engagent à des refléxions que je ne doute point que vous ne trouviez heureusement exprimées dans les Vers qui suivent.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Stances</label>
           <label rend="center">sur la vanité</label>
           <label rend="center">du Monde.</label>
@@ -707,7 +711,7 @@
           <l rend="i">Répondoit, si les Bergeres</l>
           <l rend="i">En amour sont si legeres,</l>
           <l rend="i">Tirsis, croy moy, les Bergers</l>
-          <l rend="i">Sont encore plus legers.</l></quote></lg>
+            <l rend="i">Sont encore plus legers.</l></lg></quote>
       </div>
       <div type="article" xml:id="MG-1678-06_171" resp="mercure">
         <head>[Le Mary Patissier, Histoire]</head>
@@ -727,7 +731,7 @@
         <head>Madrigal</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 185-187.</bibl>
         <p>L’inconsiderée jalousie de certains Marys engage souvent les Femmes à une conduite fort éloignée de leurs propres sentimens. L’honnesteté est née avec elles ; &amp; si on les abandonnoit à leur vertu, je ne doute point qu’on n’eust sujet de dire presque de toutes ce que vous allez voir dans ce Madrigal. Il m’a esté envoyé de Nismes sans qu’on m’ait appris le nom de l’Autheur.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Madrigal.</label>
           <l>Non, non, de mes Rivaux je ne suis point jaloux,</l>
           <l>Ils n’ont aucune part à mon chagrin extréme.</l>
@@ -837,7 +841,7 @@
         <head>[Lettre de M. le Duc de S ; Aignan au Roy]</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 211-217.</bibl>
         <p>Si-tost que Sa Majesté fut de retour de ce Voyage, la nouvelle qui s’estoit répanduë de la Paix arrestée avec la Hollande, obligea Monsieur le Duc de S. Aignan de donner au Roy de nouvelles marques de son zele, en luy faisant paroistre son admiration par la Lettre que vous allez voir.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Lettre </label>
           <label rend="center">de Monsieur</label>
           <label rend="center">le Duc de S. Aignan,</label>
@@ -891,7 +895,7 @@
         <head>[Sonnet sur la Paix] *</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 241-243.</bibl>
         <p>Voicy un Sonnet qui m’a esté envoyé sur cette Paix [la Paix generale en Europe], sous le nom de M<hi rend="sup">r</hi> de la Tuilerie.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sonnet.</label>
           <lg><l>O Vous qu’un vain orgueil arme contre la France,</l>
             <l>Trop foibles Ennemis du plus puissant des Rois,</l>
@@ -1007,7 +1011,7 @@
         <head>Enigme</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 331-332.</bibl>
         <p>Nouvelles Enigmes que je vous propose. La premiere est d’une Personne de la premiere qualité.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Enigme.</label>
           <l>Tantost pauvre, tantost riche,</l>
           <l>Presque tout le long du jour</l>
@@ -1034,7 +1038,7 @@
       <div type="article" xml:id="MG-1678-06_332" resp="mercure">
         <head>Autre Enigme</head>
         <bibl><title>Mercure galant</title>, juin [tome 6], 1678, p. 332-333.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Autre Enigme.</label>
           <lg><l><space/>Avec les Rois je prens naissance,</l>
             <l>Ils ont besoin de moy, je ne suis rien sans eux,</l>
