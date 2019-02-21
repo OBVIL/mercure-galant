@@ -880,7 +880,7 @@
         <bibl><title>Mercure Galant</title>, <date>juillet 1682</date> [<biblScope unit="volume">tome 7</biblScope>], <biblScope unit="page">p. 232-236</biblScope>.</bibl>
         <p>Les Vers qui suivent, semblent avoir esté faits pour estre notez. Ils sont de Mademoiselle de Castille, dont l’heureux génie vous est connu. Cette spirituelle Personne mérite bien qu’on travaille sur ce qu’elle fait.</p>
         <quote>
-          <label>VERS AMETTRE EN AIR.</label>
+          <label>VERS À METTRE EN AIR.</label>
           <lg>
             <l rend="i">Sans l’Amour &amp; le Vin,</l>
             <l rend="i">Quels plaisirs dans la vie !</l>
@@ -934,7 +934,8 @@
           <lg>
             <l rend="i">O Que dans les Champs d’Harnouville</l>
             <l rend="i">La vie est charmante &amp; tranquille !</l>
-            <l rend="i"> Souvent le Seigneur du Chasteau Y donne le Cadeau.</l>
+            <l rend="i"> Souvent le Seigneur du Chasteau</l>
+              <l rend="i">Y donne le Cadeau.</l>
             <l rend="i"> Heureux l’Amy qu’il y régale !</l>
             <l rend="i">Le Lait, l’Oeuf frais, le Pain &amp; l’Eau,</l>
             <l rend="i">Sont d’un goust qu’ailleurs rien n’égale.</l>
