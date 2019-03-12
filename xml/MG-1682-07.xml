@@ -411,7 +411,7 @@
       </div>
         <div type="article" xml:id="MG-1682-07_063" resp="angele">
           <head>Air nouveau</head>
-          <bibl><title>Mercure Galant</title>, <date>juillet 1682</date> [<biblScope unit="volume">tome 7</biblScope>], <biblScope unit="page">p. 63</biblScope>.</bibl>
+          <bibl><title>Mercure Galant</title>, <date>juillet 1682</date> [<biblScope unit="volume">tome 7</biblScope>], <biblScope unit="page">p. 63</biblScope>.<note resp="editor" place="margin">L'attribution de cet air à Lambert est possible grâce au <hi rend="i">XXVIe Livre d'airs de differents autheurs [...]</hi> (Paris, C. Ballard, 1683) et aux sources manuscrites F-Pn/ Res. Vm7. 583. et Res. Vma. ms. 958, ainsi que F-Pc/ Res. 584.</note></bibl>
         <p>Un fort habile Homme a fait l’Air nouveau que je vous envoye. Vous en jugerez mieux que personne, quand vous en aurez parcouru les Notes.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je meurs des maux que vous me faites</hi>, doit regarder la page 63.</note>
@@ -420,6 +420,11 @@
             <l rend="i">Helas, Cruelle que vous estes,</l>
             <l rend="i">Bientost il ne sera plus temps.</l></lg>
         </quote>
+          <ref target="1682-07_063.JPG">
+            <figure>
+              <graphic url="1682-07_063.JPG"/>
+            </figure>
+          </ref>
       </div>
       <div type="article" xml:id="MG-1682-07_064">
         <head>Sur l’heureux Accouchement de Madame de T</head>
@@ -874,6 +879,11 @@
             <l rend="i">Et j'aime encor cet infidelle,</l>
             <l rend="i">Malgré tous mes sermens, &amp; malgré sa rigueur.</l></lg>
         </quote>
+        <ref target="1682-07_231.JPG">
+          <figure>
+            <graphic url="1682-07_231.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1682-07_232">
         <head>[Paroles à mettre en Air]</head>

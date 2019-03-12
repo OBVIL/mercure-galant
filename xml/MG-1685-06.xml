@@ -590,7 +590,7 @@
         </div>
       <div type="article" xml:id="MG-1685-06_334" resp="angele">
         <head>Air nouveau</head>
-        <bibl><title>Mercure Galant</title>, juin [tome 6], 1685, p. 334.</bibl>
+        <bibl><title>Mercure Galant</title>, juin [tome 6], 1685, p. 334.<note resp="editor" place="margin">L'air est attribué à Lambert d'après le <hi rend="i">XXIXe Livre d'airs de differents autheurs [...]</hi> (Paris, C. Ballard, 1686), et les sources manuscrites F-Pn/ Vmd. ms. 302, F-Pn/ Res. Vma. ms. 958, F-Pn/ Res. Vmc. ms. 63 et F-Pc/ Res. F. 673.</note></bibl>
         <p>Je vous envoye un second Air qui ne vous déplaira pas.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je suis aimé de celle que j'adore</hi>, doit regarder la page 334.</note>
@@ -600,6 +600,11 @@
             <l rend="i">Que tout le monde les ignore,</l>
             <l rend="i">Et que nous trompons les jaloux.</l></lg>
         </quote>
+        <ref target="1685-06_334.JPG">
+          <figure>
+            <graphic url="1685-06_334.JPG"/>
+          </figure>
+        </ref>
       </div>
       </body>
   </text>

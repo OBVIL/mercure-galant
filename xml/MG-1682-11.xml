@@ -728,7 +728,7 @@
       </div>
       <div type="article" xml:id="MG-1682-11_242">
         <head>Chanson</head>
-        <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 242-243</biblScope>.</bibl>
+        <bibl><title>Mercure Galant</title>, <date>novembre 1682</date> [<biblScope unit="volume">tome 13</biblScope>], <biblScope unit="page">p. 242-243</biblScope>.<note resp="editor" place="margin">L'attribution à M. Daubaine est due à l'article du <hi rend="i"><ref target="MG-1681-11_113">Mercure</ref></hi></note></bibl>
         <p>Voicy une Chanson dont les paroles ne vous sont pas inconnuës. Je vous les envoyay au commencement de l’Hyver dernier, notées par un habile Maistre. Elles ont paru si belles au fameux M<hi rend="sup">r</hi> Dambrüis, qu’il les a mises aussi en Air depuis peu de jours. Comme il est difficile de mieux réüssir que luy pour les choses dont il se mesle, je croy que vous me serez obligée du soin que je prens de vous faire part de son Ouvrage.</p>
         <quote>
           <label>CHANSON.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">On peut encor dans la Prairie</hi>, doit regarder la page 243.</note>
@@ -743,6 +743,11 @@
             <l rend="i">C’est pour moy seulement que l’Hyver est venu.</l>
           </lg>
         </quote>
+        <ref target="1682-11_242.JPG">
+          <figure>
+            <graphic url="1682-11_242.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1682-11_244">
         <head>[Dieppe]</head>
@@ -830,6 +835,11 @@
             <l rend="i"> Je puis me noyer dans le Vin.</l>
           </lg>
         </quote>
+        <ref target="1682-11_334.JPG">
+          <figure>
+            <graphic url="1682-11_334.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1682-11_343">
         <head>[Divertissemens de Chambord, Fontaineblau &amp; Versailles […]]</head>

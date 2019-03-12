@@ -84,7 +84,7 @@
         </div>
       <div type="article" xml:id="MG-1682-03_135" resp="mercure">
         <head>Air nouveau</head>
-        <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 135-136.</bibl>
+        <bibl><title>Mercure Galant</title>, mars [tome 3], 1682, p. 135-136.<note resp="editor" place="margin">A.-M. Goulet attribue cet air à J.-B. de La Borde en se fondant sur le <hi rend="i">Troisième recueil de chansons de J.-B. La Borde</hi> [F-Pn/ Res Vm7 340 (3)]. Voir LADDA 1683-20.</note></bibl>
         <p>L´Air qui suit est du mesme Autheur qui a fait celuy que je vous envoyay il y a un mois, &amp; dont les Paroles commencent par, <hi rend="i">Quand nous allons, &amp;c</hi>. La Basse manquoit à ce dernier Air ; &amp; afin que vous l'ayez aussi entier que les autres, on l'a mise au bas de celuy-cy.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Croyez-vous, aimable Lisete</hi>, doit regarder la page 136.</note>
@@ -96,6 +96,11 @@
             <l rend="i">Mais vous sçavez que l'on badine,</l>
             <l rend="i">Quand l'Amour se paye en Chansons.</l></lg>
         </quote>
+        <ref target="1682-03_135.JPG">
+          <figure>
+            <graphic url="1682-03_135.JPG"/>
+          </figure>
+        </ref>
       </div>
         <div type="article" xml:id="MG-1682-03_283" resp="mercure">
           <head>Bouts rimez sur l'Opéra d'Atys</head>
@@ -139,6 +144,11 @@
           <l rend="i">Vous m'avez fait les maux que vous me pouviez faire,</l>
           <l rend="i">En me rendant amoureux.</l></lg>
           </quote>
+        <ref target="1682-03_321.JPG">
+          <figure>
+            <graphic url="1682-03_321.JPG"/>
+          </figure>
+        </ref>
       </div>
       </body>
   </text>

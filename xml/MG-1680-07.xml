@@ -51,7 +51,7 @@
     <body>
       <div type="article" xml:id="MG-1680-07_155" resp="mercure">
         <head>Air nouveau</head>
-        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 155-156.</bibl>
+        <bibl><title>Mercure galant</title>, juillet [tome 8], 1680, p. 155-156.<note resp="editor" place="margin"><hi rend="i">Le fameux Autheur</hi> est probablement Bacilly, auteur de dix des dix-neuf airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le Mercure) et la publication de l'air précédant celui-ci. Quatre de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note></bibl>
         <p>Le fameux Autheur dont je vous ay déja envoyé tant d’Airs nouveaux, a fait encor celuy-cy.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Sur ces Rives fleuries</hi>, doit regarder la page 156.</note>
@@ -64,6 +64,11 @@
           <l rend="i">Pousse de languissans soûpirs</l>
           <l rend="i">Qu’il n’ose faire entendre.</l></lg>
         </quote>
+        <ref target="1680-07_155.JPG">
+          <figure>
+            <graphic url="1680-07_155.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1680-07_156" resp="mercure">
         <head>Paroles à mettre en air</head>
@@ -162,6 +167,11 @@
           <l rend="i">Ah, Printemps, vos douceurs</l>
           <l rend="i">Ne font plaisir qu’aux Fleurs.</l></lg>
         </quote>
+        <ref target="1680-07_298.JPG">
+          <figure>
+            <graphic url="1680-07_298.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1680-07_313" resp="mercure">
         <head>[Depart du Roy de Fontainebleau, avec la suite de son Voyage]</head>

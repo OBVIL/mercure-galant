@@ -115,7 +115,7 @@
       </div>
       <div type="article" xml:id="MG-1680-08_103" resp="mercure">
         <head>Air à boire</head>
-        <bibl><title>Mercure galant</title>, août [tome 9], 1680, p. 103-104.</bibl>
+        <bibl><title>Mercure galant</title>, août [tome 9], 1680, p. 103-104.<note resp="editor" place="margin">L'<hi rend="i">illustre Autheur qui me donne ses Ouvrages depuis un an</hi> est probablement Bacilly, auteur de onze des vingt-et-un airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le Mercure) et la publication de l'air précédant celui-ci. Cinq de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note></bibl>
         <p>Jamais de plus magnifiques Paroles n’ont esté employées pour un Air à boire, que celles dont l’illustre Autheur qui me donne ses Ouvrages depuis un an, a fait le sujet de celuy qui suit.</p>
         <quote>
           <label>AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si vous voulez me croire</hi>, doit regarder la page 1[0]4.</note>
@@ -128,6 +128,11 @@
           <l rend="i">S’il n’eust jamais appris à boire.</l></lg>
         </quote>
         <p>Voilà, Madame, de quelle maniere les Buveurs conservent entr’eux la memoire des Grands Hommes, tandis que les Amans celébrent celle de leurs Maistresses par les tendres marques de leur souvenir.</p>
+        <ref target="1680-08_103.JPG">
+          <figure>
+            <graphic url="1680-08_103.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1680-08_128" resp="mercure">
         <head>[Le Musicien Medecin]</head>
@@ -174,7 +179,7 @@
             <cell>
               <label>PRO REGE</label>
               <label>PRECATIO.</label>
-              <lg><l>Ps. 71. v.1. <hi rend="i">Deus judicium tuum <hi> Reg? da</hi>,</l>
+              <lg><l>Ps. 71. v.1. <hi rend="i">Deus judicium tuum Reg? da,</hi></l>
               <l rend="i">Et justiciam tuam filio Regis.</l>
               <l>2. v.1. <hi rend="i">Quare fremuerunt Gentes,</hi></l>
                 <l>82. v.4. <hi rend="i">Et super populum tuum malignaverunt consilium ?</hi></l>
@@ -293,6 +298,11 @@
         <l rend="i">Que je suis constant &amp; fidelle. </l>
         </lg>
         </quote>
+        <ref target="1680-08_312.JPG">
+          <figure>
+            <graphic url="1680-08_312.JPG"/>
+          </figure>
+        </ref>
       </div>
       <div type="article" xml:id="MG-1680-08_332" resp="mercure">
         <head>[Jonction des deux Troupes de Comédiens François]</head>
