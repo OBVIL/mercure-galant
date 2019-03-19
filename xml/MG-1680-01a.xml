@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -326,7 +326,7 @@
       </div>
       <div type="article" xml:id="MG-1680-01a_299" resp="mercure">
         <head>[Mort du Sieur Guichard à Madrid]</head>
-        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 299.</bibl>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1680, p. 299.<note resp="author" place="margin">Voir également <ref target="MG-1680-02_261">cet article</ref> pour un démenti de ce décès.</note></bibl>
         <p>Le Sieur Guichard, dont la passion dominante estoit de mettre tout en usage pour faire des Opéra, &amp; en établir en quelque lieu du monde que ce fust, est mort à Madrid, apres avoir crû estre venu a bout de son dessein. </p>
       </div>
       <div type="article" xml:id="MG-1680-01a_300" resp="mercure">

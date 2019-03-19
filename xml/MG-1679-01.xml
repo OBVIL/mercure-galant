@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1055,7 +1055,7 @@
       </div>
       <div type="article" xml:id="MG-1679-01_325" resp="mercure">
         <head>Enigme</head>
-        <bibl><title>Mercure galant</title>, janvier [tome 1], 1679, p. 325-327.</bibl>
+        <bibl><title>Mercure galant</title>, janvier [tome 1], 1679, p. 325-327.<note resp="author" place="margin">La <ref target="MG-1679-02_345">solution de l'énigme</ref> dans <hi rend="i">Mercure</hi></note></bibl>
         <p><hi rend="i">Le Poivre, l’Oignon, &amp; la Roquembole</hi>, sont des Mots sur lesquels on a expliqué la seconde Enigme. Je vous en envoye deux nouvelles, dont la premiere est de M<hi rend="sup">r</hi> de Valné Controlleur de la Maison du Roy. Vous en ferez part à vos Amies.</p>
         <p>%[La solution se trouve dans le <hi rend="i">Mercure</hi> du mois de février, p. 345-346]</p>
         <table>
