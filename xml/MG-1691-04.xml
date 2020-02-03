@@ -475,12 +475,12 @@
                 <l rend="i">Ce Dieu de pampre couronné,</l>
                 <l rend="i">Qui s'enyvra dés qu'il fut né.</l>
               </lg>
-          <label typer="speaker">BACCUS &amp; SILENE.</label>
+          <label type="speaker">BACCUS &amp; SILENE.</label>
                 <lg>
                 <l rend="i">Beuvons, chantons, vuidons les pots,</l>
                 <l rend="i">Pour boire à la santé du plus grand des Heros.</l>
               </lg>
-           <label typer="speaker">CHOEUR.</label>
+           <label type="speaker">CHOEUR.</label>
                 <lg>
                 <l rend="i">Prions les Immortels de nous donner la paix ;</l>
                 <l rend="i">Que le bruit des Canons, des Mousquets, des Trompettes</l>
@@ -490,7 +490,7 @@
                 <lg>
                 <l rend="i">Ah, quand viendra ce temps avec tous ses attraits !</l>
           </lg>
-          <label speaker="speaker">CHOEUR.</label>
+          <label type="speaker">CHOEUR.</label>
                 <lg>
                 <l rend="i">Il va rendre bien-tost nos desirs satisfaits.</l>
                 <l rend="i">Le siecle d'or qu'on vit sous le regne d'Auguste,</l>
