@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1687-09a">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1687-09a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -284,15 +284,17 @@
             <l rend="i">D'où vient que sur ces bords éloignez des alarmes</l>
             <l rend="i">Le Tambour vient mesler le bruit affreux des Armes</l>
             <l rend="i">Au doux murmure de mes eaux ?</l>
-          </lg>
+          
               <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Quelle Divinité se presente à mes yeux ?</l>
             <l rend="i">Quel est cet air, ce port, &amp; cette noble audace ?</l>
             <l rend="i">Je croyois que la Paix regnoit seule en ces lieux ;</l>
             <l rend="i">D'où vient que Mars a pris sa place ?</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Peuples, qu'on voit icy luy dresser des Autels,</l>
             <l rend="i">Aimez-vous encor les alarmes ?</l>
@@ -451,12 +453,12 @@
             <l rend="i">Helas ! il n'est point d'azile</l>
             <l rend="i">Contre les traits de l'amour.</l>
           </lg>
-        </quote>
+        
         <ref target="1687-09a_210.JPG">
           <figure>
             <graphic url="1687-09a_210.JPG"/>
           </figure>
-        </ref>
+        </ref></quote>
         </div>
       <div type="article" xml:id="MG-1687-09a_241" resp="mercure">
         <head>[Détail de tout ce qui s'est passé pendant le séjour que Monseigneur le Dauphin a fait à Anet]</head>
@@ -475,15 +477,17 @@
             <l rend="i">Vous l'estes chaque jour de mes plus doux plaisirs,</l>
             <l rend="i">Depuis que j'ay rendu sensible</l>
             <l rend="i">L'objet de mes tendres desirs.</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Je vois avec transport ces lieux où Celimene</l>
             <l rend="i">Pour la premiere fois daigna m'ouvrir son coeur,</l>
             <l rend="i">Qui penetré de l'excés de ma peine</l>
             <l rend="i">Me reconnut pour son Vainqueur.</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Chaque instant me découvre en elle</l>
             <l rend="i">Quelque beauté nouvelle,</l>
@@ -491,24 +495,24 @@
             <l rend="i">Mais elle est encor plus fidelle</l>
             <l rend="i">Que belle.</l>
             <l rend="i">Dieux tout-puissans, jugez si mon sort est heureux.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">Charmé de sa fidelité</l>
             <l rend="i">Je viens dans cette retraite</l>
             <l rend="i">Chanter en liberté</l>
             <l rend="i">Sur ma Musette,</l>
             <l rend="i">Et mon bonheur &amp; sa beauté.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">J'aperçois Licidas, il se plaignoit sans cesse</l>
             <l rend="i">Des rigueurs de l'ingrate Iris,</l>
             <l rend="i">Dans ses yeux aujourd'huy je vois moins de tristesse,</l>
             <l rend="i">Et peut-estre à la fin il a receu le prix</l>
             <l rend="i">Que meritoit sa tendresse.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">Apprens-moy quel est ton sort,</l>
             <l rend="i">Cher Licidas, contente mon envie.</l>
@@ -553,16 +557,16 @@
               <l rend="i">Je ne sçaurois la quitter,</l>
               <l rend="i">Ny surmonter</l>
               <l rend="i">La foiblesse que j'ay pour elle:</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Quelques maux qu'en aimant mon coeur puisse souffrir,</l>
               <l rend="i">Il aime encor mieux sans doute,</l>
               <l rend="i">Soupirer, se plaindre &amp; mourir,</l>
               <l rend="i">Que de tenter les efforts qu'il en coute</l>
               <l rend="i">Pour se guerir.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Mais je vois sous ces ombrages</l>
               <l rend="i">Tous nos Bergers assemblez.</l>
@@ -591,8 +595,8 @@
             <lg>
               <l rend="i">Venez tous, suivez-moy, que rien ne vous retienne,</l>
               <l rend="i">Joignez vostre voix à la mienne.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Qu'à l'envy chacun chante,</l>
               <l rend="i">Mille &amp; mille fois</l>
@@ -613,8 +617,8 @@
             <l rend="i">Que la Nature &amp; l'Art d'intelligence,</l>
             <l rend="i">Offrent en abondance</l>
             <l rend="i">A ses premiers desirs.</l>
-          </lg>
-            <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">L'ardeur de luy plaire</l>
               <l rend="i">Toûjours pure, toûjours sincere,</l>
@@ -636,8 +640,8 @@
             <lg>
               <l rend="i">Quelques foibles qu'ils puissent estre,</l>
               <l rend="i">Il ne les méprisera pas.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Il a trop bien appris de son Auguste Pere,</l>
               <l rend="i">Par mille exemples divers</l>
@@ -659,8 +663,8 @@
               <l rend="i">Les ans n'y durent qu'un jour;</l>
               <l rend="i">La felicité parfaite</l>
               <l rend="i">Fuit l'embaras de la Cour.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Que toûjours la noire envie</l>
               <l rend="i">Respecte vos jeux charmans ;</l>
@@ -777,15 +781,15 @@
             <l rend="i">Pour mon repos je m'en garderay :</l>
             <l rend="i">Je soupirois sur ma Musette ;</l>
             <l rend="i">Mais malgré vous, Amour, j'y danserai.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
             <lg>
             <l rend="i">Si le plaisir vient s'offrir sans peine,</l>
               <l rend="i">Peut-estre alors je m'engageray :</l>
               <l rend="i">Je me plaignois d'une inhumaine,</l>
               <l rend="i">Mais malgré vous, Amour, je m'en riray.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Tant que dureront nos beaux jours,</l>
               <l rend="i">Cherchons, cherchons souvent de nouvelles amours.</l>
@@ -811,8 +815,8 @@
             <lg>
               <l rend="i">Je crains qu'on ne me surprenne</l>
               <l rend="i">Avec des Amans transis</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Avec vous toûjours on s'ennuye,</l>
               <l rend="i">Vous qui d'un triste amour suivez la dure loy :</l>
@@ -863,8 +867,8 @@
               <l rend="i">Oubliez à jamais leurs charmes,</l>
               <l rend="i">À moins que ces objets si doux</l>
               <l rend="i">Ne viennent quelquefois rire &amp; boire avec nous.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Vous qui servez des Beautez inhumaines,</l>
               <l rend="i">Cherchez Bacchus, il brisera vos chaines.</l>
@@ -986,12 +990,12 @@
             <l rend="i">Helas ! Iris, je languis sous vos Loix ;</l>
             <l rend="i">Mes yeux pourroient mieux vous l'apprendre,</l>
             <l rend="i">Que je ne puis l'exprimer par ma voix.</l></lg>
-        </quote>
+        
         <ref target="1687-09a_350.JPG">
           <figure>
             <graphic url="1687-09a_350.JPG"/>
           </figure>
-        </ref>
+        </ref></quote>
       </div>
       </body>
   </text>

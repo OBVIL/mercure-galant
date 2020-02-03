@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1685-09e">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1685-09e">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1256,9 +1256,9 @@
                   <l rend="i">Les plus grands Princes d'icy-bas</l>
                   <l rend="i">Font gloire d'y porter les draps.</l>
                 </lg>
-                <lg>
+                
                   <p><hi rend="i"><hi rend="sc">L. Bouchet</hi>,<lb/>ancien Curé de Nogent le Roy</hi></p>
-                </lg>
+                
                 </quote>
             </quote>
         </div>
