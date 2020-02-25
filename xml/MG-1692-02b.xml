@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-01b">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-02b">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-01b</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-02b</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
       <head><hi rend="i">Mercure Galant</hi>, février 1692 (seconde partie), Affaires du temps (tome 13).</head>
-        <div type="article" xml:id="MG-1692-01b_003" resp="wordpro">
+      <div type="article" xml:id="MG-1692-02b_003" copyOf="MG-1692-01b_003" resp="mercure">
           <head>Avis au Lecteur</head>
           <bibl><title>Mercure galant</title>, février 1692 (seconde partie), Affaires du temps (tome 13), p. 3-8.</bibl>
           <quote>
@@ -75,7 +75,7 @@
             <p><hi rend="i">L’Entretien de Marphorio &amp; de Pasquin commence la XIII. Partie des Affaires du Temps. Ils seront continuez tous les mois sur une nouvelle matiere.</hi></p>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1692-01b_009" resp="wordpro">
+      <div type="article" xml:id="MG-1692-02b_009" copyOf="JLB-MG-1692-01b_009" resp="mercure">
           <head>Entretien, Pasquin et Marphorio</head>
           <bibl><title>Mercure galant</title>, février 1692 (seconde partie), Affaires du temps (tome 13), p. 9-59.</bibl>
           <quote>
