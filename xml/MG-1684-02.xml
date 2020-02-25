@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1684-02">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1684-02">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1684-02</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, février 1684 [tome 2].</bibl>
+        <bibl><title>Mercure galant</title>, <date>février 1684</date> [tome 2].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1684-02"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -113,9 +121,9 @@
             <l rend="i">Il semble que l'Amour avec toute sa flâme</l>
             <l rend="i">Soit venu se cacher dans le fond de mon cœur.</l></lg>
         </quote>
-        <ref target="1684-02_012.JPG">
+        <ref target="images/1684-02_012.JPG">
           <figure>
-            <graphic url="1684-02_012.JPG"/>
+            <graphic url="images/1684-02_012.JPG"/>
           </figure>
         </ref>
       </div>
@@ -936,7 +944,7 @@
           </lg>
             <p/>
             <lg>
-              <label>GAVOTE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note>
+              <label>GAVOTE.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note></label>
               <l> <hi rend="i">Incomparable Dauphine,</hi><note resp="author" place="margin">Voir <ref target="MG-1684-02_234">cet article</ref> pour la publication des deux danses mentionnées.</note></l>
           <l rend="i">Qui charmez toute la Cour,</l>
           <l rend="i">Donc, par la bonté Divine,</l>
@@ -980,7 +988,7 @@
           </lg>
             <p/>
             <lg>
-              <label>MENUET.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note>
+              <label>MENUET.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note></label>
           <l rend="i">Que de biens cette VICTOIRE donne !</l>
           <l rend="i">Que le Ciel favorise nos voeux !</l>
           <l rend="i">Voyez, Mortels, l’éclat qui l’environne,</l>
@@ -1003,9 +1011,9 @@
             </lg>
             </quote>
           <p>Quoy que tous les Airs ayent esté fort applaudis, estant de la Composition du S<hi rend="sup">r</hi> Daches, de la Musique du Roy, ceux de la Gavote &amp; du Menüet ont paru si agreables, &amp; si propres aux Paroles qu’on voudra faire dessus, que je vous les envoye notez, afin que vos illustres Amies ayent dequoy vous divertir par une chose qui a esté trouvée si galante.</p>
-          <ref target="1684-02_234.JPG">
+          <ref target="images/1684-02_234.JPG">
             <figure>
-              <graphic url="1684-02_234.JPG"/>
+              <graphic url="images/1684-02_234.JPG"/>
             </figure>
           </ref>
         </div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1691-08">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1691-08">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1691-08</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, août 1691 [tome 8].</bibl>
+        <bibl><title>Mercure galant</title>, <date>août 1691</date> [tome 8].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1691-08"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -60,7 +68,7 @@
           <p/>
           <p>Mr des Forges, a fait un Prologue, intitulé Les Geans. Le dessein qu’il a eu dans cet Ouvrage se fait assez connoistre, sans qu’il soit besoin de se l’expliquer. Il a esté mis en Musique par Mr de Brossard, Maistre de Musique de la Cathedrale de Strasbours.</p>
           <quote>
-          <label><l rend="i">PROLOGUE.</l><lb/>TIPHON ET LES GEANTS.</label>
+          <label><hi rend="i">PROLOGUE.</hi><lb/>TIPHON ET LES GEANTS.</label>
             <p></p>
             <label type="speaker"> <hi rend="i">LES GEANTS.</hi></label>
           <lg>
@@ -123,7 +131,7 @@
             <l rend="i">Mars en tous lieux accompagne ses pas ;</l>
             <l rend="i">Malheureux, redoutez la force de son bras.</l>
           </lg>
-            <label type="speaker"><l rend="i">CHOEUR DE GEANTS.</l></label>
+            <label type="speaker"><hi rend="i">CHOEUR DE GEANTS.</hi></label>
             <lg>
               <l rend="i">Nous méprisons ce Dieu terrible</l>
               <l rend="i">De nostre audace en vain on croit nous voir punis.</l>
@@ -379,9 +387,9 @@
             <l rend="i">Mais, helas ! n'est-il pas dangereux de l'entendre,</l>
             <l rend="i">Quand on ne veut plus rien aimer ?</l></lg>
         </quote>
-        <ref target="1691-08_096.JPG">
+        <ref target="images/1691-08_096.JPG">
           <figure>
-            <graphic url="1691-08_096.JPG"/>
+            <graphic url="images/1691-08_096.JPG"/>
           </figure>
         </ref>
       </div>
@@ -494,9 +502,9 @@
             <l rend="i">Et bien loin d'en vouloir à vostre liberté,</l>
             <l rend="i">Je viens pleurer celle qu'on m'a ravie.</l></lg>
         </quote>
-        <ref target="1691-08_337.JPG">
+        <ref target="images/1691-08_337.JPG">
           <figure>
-            <graphic url="1691-08_337.JPG"/>
+            <graphic url="images/1691-08_337.JPG"/>
           </figure>
         </ref>
         </div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,17 +21,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-06/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -43,7 +51,7 @@
         <date when="1680-06"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -62,9 +70,9 @@
             <l rend="i">Hastez-vous donc d’aimer, ô jeune Beauté fiere,</l>
             <l rend="i">Hastez-vous, on n’est pas jeune &amp; belle toûjours.</l></lg>
         </quote>
-        <ref target="1680-06_057 copyOf_034.JPG">
+        <ref target="images/1680-06_057 copyOf_034.JPG">
           <figure>
-            <graphic url="1680-06_057 copyOf_034.JPG"/>
+            <graphic url="images/1680-06_057 copyOf_034.JPG"/>
           </figure>
         </ref>
       </div>
@@ -91,9 +99,9 @@
         <p>Vous aurez tout lieu d’estre contente de moy sur les Vers de Mademoiselle Castille qui vous ont tant plû, &amp; que vous aurez déjà veus notez au commencement de cette Lettre<note resp="editor">Une mise en musique différente de ce poème, par M. Besson, figure dans la même livraison du Mercure (<ref target="#MG-1680-06_057">Air Nouveau</ref>). Le poème a été édité en avril de la même année (<ref target="#MG-1680-04_242">Paroles à mettre en air</ref>).</note>. Je vous les donne encor une fois avec d’autres Notes, afin que vous les puissiez chanter diféremment. M<hi rend="sup">r</hi> Charpentier qui vient de les mettre en Air, en a fait une façon de Rondeau. Vous y trouverez ce caractere aisé &amp; particulier qui vous fait aimer tous ces Ouvrages. Examinez celuy-cy ; mais en chantant,</p>
         <quote><hi rend="i">Ah qu’ils sont courts les beaux jours, &amp;c.</hi><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air le plus grand, doit regarder la page 209.</note></quote>
         <p>n’oubliez pas que vous devez profiter de la moralité de ces Vers.</p>
-        <ref target="1680-06_209.JPG">
+        <ref target="images/1680-06_209.JPG">
           <figure>
-            <graphic url="1680-06_209.JPG"/>
+            <graphic url="images/1680-06_209.JPG"/>
           </figure>
         </ref>
       </div>

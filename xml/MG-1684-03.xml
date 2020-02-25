@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1684-03">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1684-03">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1684-03</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, mars 1684 [tome 3].</bibl>
+        <bibl><title>Mercure galant</title>, <date>mars 1684</date> [tome 3].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1684-03"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -1351,9 +1359,9 @@
                 <l rend="i">Est pour moy le meilleur temps.</l></lg>
             </quote>
           </quote>
-          <ref target="1684-03_211.JPG">
+          <ref target="images/1684-03_211.JPG">
             <figure>
-              <graphic url="1684-03_211.JPG"/>
+              <graphic url="images/1684-03_211.JPG"/>
             </figure>
           </ref>
         </div>
@@ -1424,7 +1432,7 @@
           <bibl><title>Mercure galant</title>, mars 1684 [tome 3], p. 348.</bibl>
           <p>Les Paroles de l’Air nouveau que je vous envoye, ont esté faites par M<hi rend="sup">r</hi> Chef non de Tours, &amp; mises en Air par M<hi rend="sup">r</hi> Genais, Maistre de Musique de la même Ville. Elles sont sur ce que la Riviere de Loire estant extraordinairement grossie par le dégel, rompit environ 50. toises de la Levée, deux lieuës au-dessus de Blois, ce qui causa une fort grande inondation, qui entre autres choses ruina quantité de Vignes. Comme celles qui sont situées dans des lieux bas, ne produisent ordinairement que de petits Vins, l’Autheur de cette Chanson prit de là occasion de dire.</p>
           <quote>
-            <lg><l rend="i">Buveurs, ne craignez pas</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Buveurs ne craignez pas</hi>, doit regarder la page 349.</note>
+            <lg><l rend="i">Buveurs, ne craignez pas<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Buveurs ne craignez pas</hi>, doit regarder la page 349.</note></l>
               <l rend="i">La cruelle disgrace</l>
               <l rend="i">Dont la fureur de l'onde nous menace.</l>
               <l rend="i">Buveurs, ne craignez pas</l>
@@ -1435,9 +1443,9 @@
               <l rend="i">Le bon Vin croist à couvert de sa haine,</l>
               <l rend="i">Sur des Costeaux, voisins des Cieux.</l></lg>
           </quote>
-          <ref target="1684-03_348.JPG">
+          <ref target="images/1684-03_348.JPG">
             <figure>
-              <graphic url="1684-03_348.JPG"/>
+              <graphic url="images/1684-03_348.JPG"/>
             </figure>
           </ref>
         </div>

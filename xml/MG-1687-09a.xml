@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1687-09a">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-09a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,29 +25,37 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-09a</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, septembre 1687 (première partie) [tome 13].</bibl>
+        <bibl><title>Mercure galant</title>, <date>septembre 1687</date> (première partie) [tome 13].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1687-09a"/>
+        <date when="1687-09"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -277,22 +285,24 @@
         <p>La Place ayant changé de nom depuis l'érection de la Statuë, on avoit exprimé ce changement par une Emblême qui se trouva peinte à tous les endroits par où l'on y pouvoit entrer. C'estoit la figure d'un homme couronné, qui donnoit la main à une figure de Femme en signe d'alliance, avec ces mots, <hi rend="i">Regio decorat nomine</hi>. Cette Figure de Femme representoit la Place, que la Statuë du Roy, figuré par cet homme couronné, honoroit du nom de PLACE ROYALE, son érection estant une espece d'alliance qu'elle contracte avec elle.</p>
           <p>Toutes ces Décorations ayant esté executées avec tout le soin possible, on ne songea plus qu'à se préparer à la Feste, qui commença le 24. Aoust, par un Acte de Philosophie dedié au Roy. Cette action fut d'autant plus belle, que les éloges de ce grand Monarque y eurent autant de part que la Philosophie. L'Acte estant finy, les Ecoliers, qui avoient fait paroistre leur capacité &amp; leur esprit, allerent chez M<hi rend="sup">r</hi> l'Intendant, luy porter en pompe la These de Satin où estoit le Portrait de Sa Majesté. Ils furent précedez des Hautbois &amp; des Trompettes &amp; celuy qui la portoit, marcha environné des Drapeaux des Compagnies de chaque Classe. Le soir toutes les Cloches sonnerent, &amp; leur carillon se joignant au bruit du Canon, &amp; à celuy des Trompettes &amp; des Tambours que l'on avoit disposez sur les Tours &amp; sur les lieux les plus élevez de la Ville, annonça la Feste du lendemain. Elle commença par une action de pieté. Le Clergé composé de six Chapitres, de vingt deux Paroisses, &amp; d'un grand nombre de Communautez Religieuses, s'estant assemblé dans l'Eglise Cathedrale, avec tous les Corps de la Ville, M<hi rend="sup">r</hi> Foucault s'y rendit à la teste du Presidial, qui estoit ce jour-là en Robes rouges, &amp; qui fut suivy ou prévenu d'une affluence extraordinaire de Peuple. L'Eglise qui est tres-vaste, se trouva parfaitement bien decorée &amp; illuminée, par les soins de M. l'Abbé Du Soucy, qui est Chanoine de la Cathedrale, &amp; Conseiller d'Eglise. M<hi rend="sup">r</hi> Rabereul, Doyen de l'Eglise de Saint Pierre, celebra la Messe avec beaucoup de solemnité. Elle fut suivie d'un <hi rend="i">Te Deum</hi>, pour rendre graces à Dieu des faveurs particulieres que la pieté du Roy, &amp; son affection paternelle pour ses Sujets attirent sur ce Royaume. Il y eut une excellente Musique, composée des plus belles voix de la Province, &amp; de plusieurs autres que M l'Intendant avoit fait venir des Provinces voisines. Le Pere Chesnon, Jesuite, prononça un tres-beau Panegyrique du Roy. Il prit pour texte ces paroles de S. Mathieu, qui convenoient naturellement à son sujet. <hi rend="i">De qiu est cette Image? On luy répondit que c'estoit celle de Cesar. Alors il leur dit, Rendez donc à Cesar ce qui est à Cesar,  &amp; à Dieu ce qui est à Dieu</hi>. Il commença d'abord par expliquer la différence qui se trouve entre le culte que l'on rend à Dieu, &amp; celuy qu'on rend aux Souverains de la Terre, &amp; fit connoistre à tout le monde, que si le Roy ne possede pas ces perfections infinies qui ne conviennent qu'à Dieu, il a pourtant receu toutes celles qui en approchent davantage, &amp; qui le rendent l'Image la plus sensible de la Divinité. Ensuite voulant interesser l'Assemblée à cette Ceremonie, il fit voir trois choses ; la premiere, qu'il estoit de la reconnoissance de la Ville d'ériger cette Statuë à Sa Majesté, en sorte qu'il seroit à souhaiter que toutes les villes du Poitou en fissent autant, pour reconnoistre les graces que la Province reçoit de sa bonté &amp; sur tout en ce qui concerne le rétablissement de la Religion; la seconde, qu'il estoit de la gloire de la Ville d'avoir cet ornement, qui doit estre le Monument éternel de la fidelité qu'elle a toujours euë pour son Prince, &amp; la troisiéme, qu'il estoit de son interest d'attirer par ce gage de son zele &amp; de son attachement pour le Roy, la faveur &amp; la protection de Sa Majesté. ces trois parties furent solidement prouvées, &amp; remplies de plusieurs beaux traits de l'Ecriture, de l'Histoire Ecclesiastique, &amp; de la vie de ce Prince, avec tous les agrémens que l'Eloquence Chrestienne peut permettre.</p>
         <p>Après que cette action fut finie, tous les Corps se retirerent, excepté la Milice du College, qui ayant assisté à cette Ceremonie avec toute la devotion que pouvoit souffrir l'équipage guerrier où elle estoit, se rendit en tres-bon ordre à la nouvelle Place Royale, où tous ceux dont elle estoit composée, saluërent la Statue du Roy, d'une contenance fiere, mais qui marquoit que le coeur avoit beaucoup de part à cette action. Ensuite, après y avoir fait l'exercice avec toute la justesse des Troupes bien disciplinées, cette Milice fit place à une autre, qui ne fut pas moins agreable à voir. Ce fut celle des Bourgeois, qui s'estant rangez chacun sous son Drapeau, se rendirent l'après-dînée à la Place au bruit des Tambours, des Fifres, &amp; des Hautbois, &amp; dans un ordre qui fit admirer leur marche. La Statuë estant le premier objet de leurs regards, le fut aussi de leurs respects. Elle fut salüée à plusieurs reprises par la décharge du Canon &amp; de la Mousqueterie, à laquelle se joignirent les fanfares des Trompettes, &amp; mille cris de <hi rend="i">Vive le Roy</hi>. Aprés le mouvement des Troupes, &amp; les devoirs rendus aussi à la Statuë par le Corps des Marchands, qui estoient là en robes de ceremonie, M<hi rend="sup">r</hi> Foucault à la teste du Corps de Ville, fit trois tours autour de la Place, precedé par les Trompettes &amp; par les Tambours. Il mit ensuite le feu à un bucher que l'on avoit preparé, &amp; voulut bien que l'on donnast un flambeau au Juge des Marchands, comme une reconnoissance publique des soins qu'avoient pris ce Corps pour l'érection de ce Monument. Ce fut là que redoublerent les cris &amp; les acclamations du Peuple, ainsi que le bruit du Canon &amp; des Mousquets, qui ne finit qu'avec le feu du bucher ; aprés quoy on entendit un concert de Trompettes, qui attirant l'attention de tout le monde, qui s'estoit dissipée dans le fracas &amp; le tumulte de la Feste, prépara à une simphonie admirable de Violons, de Flûtes &amp; de Hautbois. Elle fut suivie d'un grand concert de Voix &amp; d'Instrumens, auquel l'Eloge du Roy servit de matiere. On feignit que le Dieu du Clain, nom de la Riviere qui passe à Poitiers, avoit esté réveillé par un bruit confus de Tambours &amp; de Trompettes ; &amp; voicy les Vers qu'on luy fit chanter.</p>
-        <p/>
+
         <quote>
           <lg>
             <l rend="i">Quel bruit Guerrier vient troubler mon repos ?</l>
             <l rend="i">D'où vient que sur ces bords éloignez des alarmes</l>
             <l rend="i">Le Tambour vient mesler le bruit affreux des Armes</l>
             <l rend="i">Au doux murmure de mes eaux ?</l>
-          </lg>
+          
               <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Quelle Divinité se presente à mes yeux ?</l>
             <l rend="i">Quel est cet air, ce port, &amp; cette noble audace ?</l>
             <l rend="i">Je croyois que la Paix regnoit seule en ces lieux ;</l>
             <l rend="i">D'où vient que Mars a pris sa place ?</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Peuples, qu'on voit icy luy dresser des Autels,</l>
             <l rend="i">Aimez-vous encor les alarmes ?</l>
@@ -451,12 +461,12 @@
             <l rend="i">Helas ! il n'est point d'azile</l>
             <l rend="i">Contre les traits de l'amour.</l>
           </lg>
-        </quote>
-        <ref target="1687-09a_210.JPG">
+        
+        <ref target="images/1687-09a_210.JPG">
           <figure>
-            <graphic url="1687-09a_210.JPG"/>
+            <graphic url="images/1687-09a_210.JPG"/>
           </figure>
-        </ref>
+        </ref></quote>
         </div>
       <div type="article" xml:id="MG-1687-09a_241" resp="mercure">
         <head>[Détail de tout ce qui s'est passé pendant le séjour que Monseigneur le Dauphin a fait à Anet]</head>
@@ -475,15 +485,17 @@
             <l rend="i">Vous l'estes chaque jour de mes plus doux plaisirs,</l>
             <l rend="i">Depuis que j'ay rendu sensible</l>
             <l rend="i">L'objet de mes tendres desirs.</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Je vois avec transport ces lieux où Celimene</l>
             <l rend="i">Pour la premiere fois daigna m'ouvrir son coeur,</l>
             <l rend="i">Qui penetré de l'excés de ma peine</l>
             <l rend="i">Me reconnut pour son Vainqueur.</l>
-          </lg>
+          
           <ab type="ornament">***</ab>
+          </lg>
           <lg>
             <l rend="i">Chaque instant me découvre en elle</l>
             <l rend="i">Quelque beauté nouvelle,</l>
@@ -491,24 +503,24 @@
             <l rend="i">Mais elle est encor plus fidelle</l>
             <l rend="i">Que belle.</l>
             <l rend="i">Dieux tout-puissans, jugez si mon sort est heureux.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">Charmé de sa fidelité</l>
             <l rend="i">Je viens dans cette retraite</l>
             <l rend="i">Chanter en liberté</l>
             <l rend="i">Sur ma Musette,</l>
             <l rend="i">Et mon bonheur &amp; sa beauté.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">J'aperçois Licidas, il se plaignoit sans cesse</l>
             <l rend="i">Des rigueurs de l'ingrate Iris,</l>
             <l rend="i">Dans ses yeux aujourd'huy je vois moins de tristesse,</l>
             <l rend="i">Et peut-estre à la fin il a receu le prix</l>
             <l rend="i">Que meritoit sa tendresse.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
           <lg>
             <l rend="i">Apprens-moy quel est ton sort,</l>
             <l rend="i">Cher Licidas, contente mon envie.</l>
@@ -553,16 +565,16 @@
               <l rend="i">Je ne sçaurois la quitter,</l>
               <l rend="i">Ny surmonter</l>
               <l rend="i">La foiblesse que j'ay pour elle:</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Quelques maux qu'en aimant mon coeur puisse souffrir,</l>
               <l rend="i">Il aime encor mieux sans doute,</l>
               <l rend="i">Soupirer, se plaindre &amp; mourir,</l>
               <l rend="i">Que de tenter les efforts qu'il en coute</l>
               <l rend="i">Pour se guerir.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Mais je vois sous ces ombrages</l>
               <l rend="i">Tous nos Bergers assemblez.</l>
@@ -591,8 +603,8 @@
             <lg>
               <l rend="i">Venez tous, suivez-moy, que rien ne vous retienne,</l>
               <l rend="i">Joignez vostre voix à la mienne.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Qu'à l'envy chacun chante,</l>
               <l rend="i">Mille &amp; mille fois</l>
@@ -613,8 +625,8 @@
             <l rend="i">Que la Nature &amp; l'Art d'intelligence,</l>
             <l rend="i">Offrent en abondance</l>
             <l rend="i">A ses premiers desirs.</l>
-          </lg>
-            <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">L'ardeur de luy plaire</l>
               <l rend="i">Toûjours pure, toûjours sincere,</l>
@@ -636,8 +648,8 @@
             <lg>
               <l rend="i">Quelques foibles qu'ils puissent estre,</l>
               <l rend="i">Il ne les méprisera pas.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Il a trop bien appris de son Auguste Pere,</l>
               <l rend="i">Par mille exemples divers</l>
@@ -659,8 +671,8 @@
               <l rend="i">Les ans n'y durent qu'un jour;</l>
               <l rend="i">La felicité parfaite</l>
               <l rend="i">Fuit l'embaras de la Cour.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Que toûjours la noire envie</l>
               <l rend="i">Respecte vos jeux charmans ;</l>
@@ -777,15 +789,15 @@
             <l rend="i">Pour mon repos je m'en garderay :</l>
             <l rend="i">Je soupirois sur ma Musette ;</l>
             <l rend="i">Mais malgré vous, Amour, j'y danserai.</l>
-          </lg>
-          <ab type="ornament">***</ab>
+          
+            <ab type="ornament">***</ab></lg>
             <lg>
             <l rend="i">Si le plaisir vient s'offrir sans peine,</l>
               <l rend="i">Peut-estre alors je m'engageray :</l>
               <l rend="i">Je me plaignois d'une inhumaine,</l>
               <l rend="i">Mais malgré vous, Amour, je m'en riray.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Tant que dureront nos beaux jours,</l>
               <l rend="i">Cherchons, cherchons souvent de nouvelles amours.</l>
@@ -811,8 +823,8 @@
             <lg>
               <l rend="i">Je crains qu'on ne me surprenne</l>
               <l rend="i">Avec des Amans transis</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Avec vous toûjours on s'ennuye,</l>
               <l rend="i">Vous qui d'un triste amour suivez la dure loy :</l>
@@ -863,8 +875,8 @@
               <l rend="i">Oubliez à jamais leurs charmes,</l>
               <l rend="i">À moins que ces objets si doux</l>
               <l rend="i">Ne viennent quelquefois rire &amp; boire avec nous.</l>
-            </lg>
-            <ab type="ornament">***</ab>
+            
+              <ab type="ornament">***</ab></lg>
             <lg>
               <l rend="i">Vous qui servez des Beautez inhumaines,</l>
               <l rend="i">Cherchez Bacchus, il brisera vos chaines.</l>
@@ -986,12 +998,12 @@
             <l rend="i">Helas ! Iris, je languis sous vos Loix ;</l>
             <l rend="i">Mes yeux pourroient mieux vous l'apprendre,</l>
             <l rend="i">Que je ne puis l'exprimer par ma voix.</l></lg>
-        </quote>
-        <ref target="1687-09a_350.JPG">
+        
+        <ref target="images/1687-09a_350.JPG">
           <figure>
-            <graphic url="1687-09a_350.JPG"/>
+            <graphic url="images/1687-09a_350.JPG"/>
           </figure>
-        </ref>
+        </ref></quote>
       </div>
       </body>
   </text>

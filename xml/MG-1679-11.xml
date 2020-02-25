@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,17 +21,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-11/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -43,7 +51,7 @@
         <date when="1679-11"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -79,9 +87,9 @@
           <l rend="i"><space rend="tab">    </space>Ah, que mon sort sera digne d’envie !</l></lg>
         </quote>
         <p>Cet Air est du mesme Autheur qui a fait ceux de ma Lettre du dernier Mois. Cela fait bien voir que s’il a discontinué depuis quelque temps de donner au Public son sçavant &amp; agreable Journal, ce n’a pas esté manque de génie &amp; d’invention, soit pour les Paroles, soit pour le Chant, mais seulement parce qu’on luy avoit contrefait celuy de toute l’Année 1678. C’est dont il a crû n’avoir point de plus seûr moyen de se garantir, qu’en me donnant ses Ouvrages. L’avantage que mes Lettres ont d’estre leuës dans toute l’Europe, y doit faire trop connoistre ses Airs, pour ne pas oster au Contrefaisant l’envie de les défigurer comme il a fait jusqu’icy par des impressions peu correctes. Il y en a quelques-unes qui ont esté jusqu’à vous, &amp; qui vous ont empeschée de découvrir l’excellence des Originaux dans l’imperfection des Copies.</p>
-        <ref target="1679-11_040.JPG">
+        <ref target="images/1679-11_040.JPG">
           <figure>
-            <graphic url="1679-11_040.JPG"/>
+            <graphic url="images/1679-11_040.JPG"/>
           </figure>
         </ref>
       </div>
@@ -677,9 +685,9 @@
           <l rend="i">Mon cœur pour ses appas brûle d’un feu nouveau.</l></lg>
         </quote>
         <p>Ce Recit de Basse, avec sa Contrepartie, est du mesme Autheur dont je vous ay parlé dans ma derniere Lettre &amp; dans celle-cy. Il a fait imprimer un Recueil de toutes les Paroles des Chansons à boire qui ont paru depuis plus de cinquante ans. C’est un Repertoire tres curieux pour ceux qui voudront se rafraîchir la mémoire de ces Chansons. Il se vend trente sols relié en veau chez les Sieurs de Luyne &amp; Blageart, qui vendent aussi ses huit Livres gravez, &amp; son Traité de l’Art de bien chanter.</p>
-        <ref target="1679-11_332.JPG">
+        <ref target="images/1679-11_332.JPG">
           <figure>
-            <graphic url="1679-11_332.JPG"/>
+            <graphic url="images/1679-11_332.JPG"/>
           </figure>
         </ref>
       </div>

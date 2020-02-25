@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1683-05">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-05">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-05</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, mai 1683 [tome 5].</bibl>
+        <bibl><title>Mercure galant</title>, <date>mai 1683</date> [tome 5].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1683-05"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -821,14 +829,14 @@
         <l rend="i">Et les rivaux fâcheux ne sont que trop punis.</l>
         </quote>
         <p>Je vous ay marqué dans une autre Lettre, que les Vers de cet Opéra, sont de la mesme Personne qui nous a donné depuis des mois <hi rend="i">La Politique des Amans</hi>, Ouvrage fort estimé. M<hi rend="sup">r</hi> le Comte de Duras, Fils de M<hi rend="sup">r</hi> le Maréchal Duc de Duras, Capitaine des Gardes du Corps, y représentoit Lisandre. Il est parfaitement beau, dance tres-bien, &amp; a un teint que les plus belles Femmes regardent avec envie. M<hi rend="sup">r</hi> le Comte de Teride, second Fils de M<hi rend="sup">r</hi> le Marquis de Mirepoix, Gouverneur de la Province de Foix, Senéchal de Beziers, de Carcassonne, de Limours, &amp; de Pamiers, faisoit Daphnis, &amp; s'aquita de ce rôle avec beaucoup d'agrément. Ceux de Philiste &amp; de Céladon, furent joüez par M<hi rend="sup">r</hi> le Marquis de Grignan, &amp; par M<hi rend="sup">r</hi> de la Martelliere, qui s'attirerent beaucoup d'aplaudissemens. Le premier est Fils de M<hi rend="sup">r</hi> le Comte de Grignan, seul Lieutenant General pour le Roy en Provence. Il représentoit Philiste, &amp; ce fut avec le plus aimable enjoüement du monde, qu'il soûtint le caractere d'un Berger qui quite l'Amour pour suivre Bacchus. L'autre est Fils de feu M<hi rend="sup">r</hi> de la Martelliere, Maistre des Requestes, &amp; a pres de soixante mille livres de rente, &amp; beaucoup de Gens de qualité pour Parens. M<hi rend="sup">r</hi> le Marquis de Vins, Fils de M<hi rend="sup">r</hi> le Marquis de Vins, Sous-Lieutenant de la Compagnie des Mousquetaires Noirs, se fit admirer dans le rôle de l'Amour. Il en avoit la beauté, la taille, &amp; la hardiesse. Il y avoit six jolies Actrices, à peu prés de l'âge de ces aimables Acteurs. L'une estoit la petite Mademoiselle Laurens, qui ne fut pas un petit ornement pour cet Opéra. Elle chanta bien, dança de mesme, &amp; ne fut pas moins bonne Actrice dans la Pastorale. La petite Mademoiselle le Clerc se distingua fort aussi, en dançant avec la justesse, &amp; la disposition qu'elle a fait paroistre au <hi rend="i">Triomphe de l'Amour</hi>, à <hi rend="i">Proserpine</hi>, &amp; à <hi rend="i">Persée</hi>.</p>
-        <ref target="1683-05_175.JPG">
+        <ref target="images/1683-05_175.JPG">
           <figure>
-            <graphic url="1683-05_175.JPG"/>
+            <graphic url="images/1683-05_175.JPG"/>
           </figure>
         </ref>
-        <ref target="1683-05_175(2).JPG">
+        <ref target="images/1683-05_175(2).JPG">
           <figure>
-            <graphic url="1683-05_175(2).JPG"/>
+            <graphic url="images/1683-05_175(2).JPG"/>
           </figure>
         </ref>
       </div>

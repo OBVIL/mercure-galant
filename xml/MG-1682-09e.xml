@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09e" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09e" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, quartier de juillet 1682 [tome 19]</title>
+        <title>Extraordinaire du Mercure galant, quartier de juillet 1682 (tome XIX)</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -21,21 +21,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-09e/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>].</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -43,7 +51,7 @@
         <date when="1682-09"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -51,7 +59,7 @@
     <body>
       <div type="article" xml:id="MG-1682-09e_001">
         <head>De l’Origine de la Pourpre […]</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 1-29</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 1-29</biblScope>.</bibl>
         <p/>
         <p><hi rend="i">Quoy que vous ayez déja vû plusieurs Traitez sur l’Origine, &amp; l’usage de la Pourpre, je croy, Madame, que vous ne serez pas fâchée, que je vous fasse encor part de celuy que j’ay receu de M. la Selve, de Nismes. Il seroit injuste de le priver de la gloire qu’il doit esperer de son travail ; &amp; d’ailleurs, si divers Autheurs traitent la mesme matiere, c’est toûjours d’une maniere si diférente, qu’on pourroit dire que tous leurs Ouvrages ramassez n’en forment qu’un seul. L’un rapporte ce que l’autre a oublié, &amp; pour estre instruit à fond d’une chose, il faut lire tout ce qui en a esté écrit. Ceux qui veulent bien se donner la peine de travailler sur les Sujets proposez dans mes Lettres Extraordinaires, peuvent s’assurer que je tiendray ce que j’ay promis, lors que j’ay dit que chacun auroit son tour. Il y a déja plus de quatre mois que l’Ouvrage que vous allez voir m’a esté rendu. J’en avois d’autres qui m’ayant esté donnez auparavant, devoient passer les premiers, &amp; je rends aujourd’huy la mesme justice à celuy que je viens de vous nommer, en commençant ce dix-neufiéme Extraordinaire par le Traité que je réserve de luy depuis si longtemps.</hi></p>
         <quote>
@@ -111,7 +119,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_029">
         <head>Traduction du Bucanan</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 29-35</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 29-35</biblScope>.</bibl>
         <quote>
           <label>TRADUCTION<lb/>DE BUCANAN.</label>
           <lg>
@@ -186,7 +194,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_035">
         <head>[Sentiments sur des questions posées précédemment.]*</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 35-96</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 35-96</biblScope>.</bibl>
         <quote>
           <label>S’il est plus honteux à une Femme, d’accorder des faveurs à un Homme qu’elle a aimé, mais qu’elle n’aime plus, &amp; dont elle n’est plus aimée, qu’à un autre qu’elle n’a jamais aimé, &amp; qui l’aime fortement.</label>
           <lg>
@@ -365,7 +373,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_250">
         <head>Sentimens sur les Questions proposées dans le dernier Extraordinaire</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 250-257</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 250-257</biblScope>.</bibl>
         <quote>
           <label><hi rend="i">SENTIMENS SUR LES</hi><lb/><hi rend="i">Questions proposées dans le dernier Extraordinaire</hi>.</label>
           <quote>
@@ -495,7 +503,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_252">
         <head>Sentiment sur les questions proposées dans le dernier Extraordinaire</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 252-253</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 252-253</biblScope>.</bibl>
         <p>SENTIMENS SUR LES Questions proposées dans le dernier Extraordinaire.<note resp="author" place="margin">Voir <ref target="MG-1682-06e_398b">cet article</ref> pour la question et <ref target="MG-1682-12e_168">cet article</ref> pour une autre réponse</note></p>
         <p/>
         <p>[...]</p>
@@ -517,7 +525,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_258">
         <head>Rondeau</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 258-259</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 258-259</biblScope>.</bibl>
         <p><hi rend="i">Des Dames ayant fait une Partie de Campagne pour aller à Bcaulieu, y furent menées par un Cocher maladroit, qui les versa. C’est ce qui a donné lieu à ces Vers.</hi></p>
         <quote>
           <label>RONDEAU.</label>
@@ -549,7 +557,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_259">
         <head>Le Rossignol, et l’Hirondelle. Fable</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 259-272</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 259-272</biblScope>.</bibl>
         <quote>
           <label>LE ROSSIGNOL,<lb/>ET L’HIRONDELLE.<lb/>FABLE.</label>
           <lg>
@@ -780,7 +788,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_371">
         <head>Sentiment sur les questions du dernier Extraordinaire</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 371-372</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 371-372</biblScope>.</bibl>
         <p>SENTIMENS SUR LES Questions du dernier Extraordinaire.<note resp="author" place="margin">Voir <ref target="MG-1682-09e_370">cet article</ref> et <ref target="MG-1682-09e_390">cet article</ref>.</note></p>
         <p/>
         <p>[...]</p>
@@ -802,7 +810,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_273">
         <head>Continuation de l’ouverture de l’Ecriture, &amp; de la Langue Universelle</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 273-330</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 273-330</biblScope>.</bibl>
         <p><hi rend="i">Je vous envoye la Suite de la Langue Universelle que vous espériez trouver dans le dernier Extraordinaire. Elle en eust fait un des principaux Articles, si le Paquet de M<hi rend="sup">r</hi> de Vienne-Plancy m’eust esté rendu assez tost pour l’y employer. Je l’ay reçeu seulement depuis six semaines, &amp; ne vous puis dire par quel accident il est demeuré deux mois en chemin.</hi></p>
         <quote>
           <label><hi rend="i">CONTINUATION DE</hi><lb/><hi rend="i">l’ouverture de l’Ecriture, &amp; de la Langue Universelle.</hi><lb/>A Fau-Cleranton.</label>
@@ -868,7 +876,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_362">
         <head>Lettre de la Bergere Caliste, au Berger Fleuriste du Païs des Ambarriens, sur son Enigme en Prose</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 362-369</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 362-369</biblScope>.</bibl>
         <quote>
           <label><hi rend="i">LETTRE DE LA BERGERE</hi><lb/><hi rend="i">Caliste, au Berger Fleuriste du Païs des Ambarriens, sur son Enigme en Prose</hi>.</label>
           <p>I’Ajoûte vostre Païs à vostre nom, Amy Berger, pour vous distinguer du <hi rend="i">Berger Fleuriste du Païs de Côtentin</hi>, qui a deviné vostre Enigme du Lys &amp; de la Roze, &amp; qui en devine beaucoup d’autres, &amp; souvent avec des Explications en petits Vers bien tournez. Il me semble pourtant que je ne devrois pas vous donner de marque de distinction, &amp; que ce seroit à luy à en prendre une par tout, puis que vous estes le premier qui a paru dans les Mercures sous le nom de <hi rend="i">Berger Fleuriste</hi>, &amp; qu’il n’est pour ainsi dire que vostre Cadet. Je ne sçay mesmes comme vous souffrez qu’il se nomme de la sorte ; &amp; si j’estois en vostre place, j’aurois un Düel ou un Procés pour cela. Il est vray qu’il seroit dangereux de plaider contre luy, veu le Païs dont il est, &amp; plus dangereux encore de se batre, veu les rigoureuses défenses du Roy. Je le prîrois donc civilement de vouloir bien prendre un autre nom, ou au moins de reprendre celuy de <hi rend="i">Berger Floriste</hi>, qui luy est donné dans le Mercure de May de l’année derniere, &amp; je ne dirois pas, comme vous, <hi rend="i">qu’il me fait honneur de porter mon nom, puis que c’est une marque que ce nom est bien choisy, est agreable, est galant, &amp; que ce Berger se plaist, comme moy, à semer des Fleurettes, &amp; à cultiver des Fleurs</hi>. Si vous consultiez là-dessus la belle Cloris, la Nimphe des Bruyeres, &amp; la Fleur d’Orange, je suis seûre qu’elles seroient de mon sentiment plûtost que du vostre. Vous y penserez donc ; c’est un avis d’Amie. Je viens au sujet qui m’oblige de vous écrire. Vostre Enigme m’a esté renduë, &amp; je l’ay fait voir aux Personnes qui vous sont cheres dans nostre Contrée. O Dieux, quelle malice, d’avoir assemblé pour la composer, tout ce qu’on se peut imaginer de plus propre à embarasser l’esprit des Gens ! Mais quel crevecœur aussi à la nouvelle, que tous vos efforts ont esté inutiles, &amp; que vous avez vainement caché la lumiere sous le boisseau ! Sphinx mourut d’un pareil dépit, apres un trait de cette nature, &amp; vous mériteriez d’en estre un peu malade, pour la punition de la peine que vous nous avez faite. Je ne vous en conteray pas le détail, vous seriez encor assez malicieux pour en rire. Sçachez seulement à vostre confusion, que nous avons delié vostre Nœud gordien, malgré tout son embarras ; &amp; pour vous le faire connoistre, sans que le Porteur de ma Lettre en profite, s’il a la curiosité de l’ouvrir, je vais vous expliquer Enigme par Enigme.</p>
@@ -885,7 +893,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_370">
         <head>Sentimens sur les Questions de dernier Extraordinaire</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 370-392</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 370-392</biblScope>.</bibl>
         <quote>
           <label><hi rend="i">SENTIMENS SUR LES</hi><lb/><hi rend="i">Questions du dernier Extraordinaire</hi>.</label>
           <label>Quel choix doit faire un Homme, &amp;c.</label>
@@ -1370,7 +1378,7 @@
       </div>
       <div type="article" xml:id="MG-1682-09e_390">
         <head>Sur la question de l'opéra de Persée</head>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet <date>1682</date> [<biblScope unit="volume">tome 19</biblScope>], <biblScope unit="page">p. 390-391</biblScope>.</bibl>
+        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1682</date> (<biblScope unit="volume">tome XIX</biblScope>), <biblScope unit="page">p. 390-391</biblScope>.</bibl>
         <p>Sur la question de l'Opéra de Persée.<note resp="author" place="margin">Voir <ref target="MG-1682-09e_252">cet article</ref> et <ref target="MG-1682-09e_371">cet article</ref>.</note></p>
         <p/>
         <p>LA Cruauté sans-doute avec moy n'est point née,</p>

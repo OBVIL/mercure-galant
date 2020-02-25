@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-01" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-01" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,17 +33,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2014"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-01/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -55,7 +63,7 @@
         <date when="1678-01"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -72,7 +80,7 @@
         <bibl><title>Mercure galant</title>, janvier 1678 [tome 1], p. 19-25.</bibl>
         <p>Le mesme qui a donné la parole aux Fleurs pour répondre à Madame des Houlieres, a pris soin de la faire parler de la maniere que vous allez entendre. Il s’appelle M<hi rend="sup">r</hi> de Roux, &amp; je vous ay déja marqué qu’il est Provençal.</p>
         <quote rend="border">
-          <label type="title" rend="center">L’Année<lb/>
+          <label type="head" rend="center">L’Année<lb/>
             M. DC. LXXVII.<lb/>
             À l’Année<lb/>
             M. DC. LXXVIII</label>
@@ -831,9 +839,9 @@
           <l rend="i">Vaut mille Troupeaux.</l></lg>
         </quote>
         <p>Cet Air est d’un Maistre estimé des Personnes de la plus haute qualité, &amp; comme elles ont le goust bon, je ne doute point que ses Ouvrages ne meritent les éloges qu’elles leur donnent ; mais vous pouvez vous en éclaircir par vous-mesme, jettez les yeux sur la Note. Vous sçavez parfaitement la Musique, &amp; il ne vous faut qu’un moment pour connoistre la beauté de celle-cy.</p>
-        <ref target="1678-01_224.JPG">
+        <ref target="images/1678-01_224.JPG">
           <figure>
-            <graphic url="1678-01_224.JPG"/>
+            <graphic url="images/1678-01_224.JPG"/>
           </figure>
         </ref>
       </div>
@@ -874,9 +882,9 @@
           <l rend="i"><space/><space/>Qui partage ses feux ?</l></lg>
         </quote>
         <p>Je prétens que vous me ferez un fort grand remerciëment de cet Air, puis qu’il est de M<hi rend="sup">r</hi> Charpentier, fameux par mille Ouvrages qui ont esté le charme de toute la France, &amp; entr’autres, par l’Air des Maures du Malade Imaginaire, &amp; par tous ceux de Circé &amp; de l’Inconnu. Il a demeuré longtemps en Italie, où il voyoit souvent le Charissimi, qui estoit le plus grand Maistre de Musique que nous ayons eu depuis longtemps. Vous avez lû les Paroles de l’Air de M<hi rend="sup">r</hi> Charpentier, voyez les notées.
-          <ref target="1678-01_229.JPG">
+          <ref target="images/1678-01_229.JPG">
             <figure>
-              <graphic url="1678-01_229.JPG"/>
+              <graphic url="images/1678-01_229.JPG"/>
             </figure>
           </ref></p>
       </div>

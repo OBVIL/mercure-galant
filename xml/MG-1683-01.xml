@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1683-01">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-01">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-01</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, janvier 1683 [tome 1].</bibl>
+        <bibl><title>Mercure galant</title>, <date>janvier 1683</date> [tome 1].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1683-01"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -514,9 +522,9 @@
         <head>[Air de Violon]*</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 147-148.</bibl>
         <p>Les Airs de Violon<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air de Violon, doit regarder la page 147.</note> qui estoient dans ma Lettre du mois passé<note resp="editor">Voir l'<ref target="#MG-1682-12_386">Air sur la guerre</ref> du volume de décembre 1682.</note>, ayant esté trouvez beaux, j´en ay fait graver une Suite que je vous envoy. Vous trouverez le véritable nom de l´Autheur dans la mesme Planche. Je dis véritable, parce qu´on le donna peu correct la dernière fois, &amp; qu´on y mit des lettres pour d´autres. A peine a-t-il eu le temps de revoir cette seconde Planche de ses Airs, qu´il est party pour retourner auprès de M<hi rend="sup">r</hi> l´Electeur de Saxe son Prince, qui veut l´employer pour les divertissemens du Carnaval.</p>
-        <ref target="1683-01_147.JPG">
+        <ref target="images/1683-01_147.JPG">
           <figure>
-            <graphic url="1682-01_147.JPG"/>
+            <graphic url="images/1682-01_147.JPG"/>
           </figure>
         </ref>
       </div>
@@ -787,9 +795,9 @@
         <head>[Piece de Lut de M<hi rend="sup">r</hi> Gallot]*</head>
         <bibl><title>Mercure galant</title>, janvier 1683 [tome 1], p. 248-249.</bibl>
         <p>Comme je sçay que vous estimez beaucoup M<hi rend="sup">r</hi> Gallot,<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Piece de Lut, doit regarder la page 248.</note> je vous envoye une de ses Pieces de Lut<note resp="author" place="margin">Le <hi rend="i">Mercure</hi> publie dans la même livraison une pièce pour le luth de Jacques Gallot</note>, qui m'est tombée entre les mains, &amp; que j'ay fait graver. Cet habile Maistre est revenu d’un long Voyage qu´il estoit allé faire &amp; qui a privé Paris des concerts qu´il donnoit tous les Samedis au Public. Il les doit recommencer dans peu de temps, &amp; l´on aura le plaisir d´entendre cet excellent Homme qui réüssit si bien, tant pour la finesse du Jeu, que pour la position des doigts &amp; la propreté.</p>
-        <ref target="1683-01_248.JPG">
+        <ref target="images/1683-01_248.JPG">
           <figure>
-            <graphic url="1683-01_248.JPG"/>
+            <graphic url="images/1683-01_248.JPG"/>
           </figure>
         </ref>
       </div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-12e" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-12e" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,17 +33,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2014"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-12e/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -55,7 +63,7 @@
         <date when="1679"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -1315,7 +1323,7 @@
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 (tome IV), p. 182-184.</bibl>
        <p><hi rend="i">Je vous envoye une nouvelle Lettre à déchifrer. Vous n'y verrez aucunes figures. Elle est toute composée de Chifres qui ne font qu'un seul Alphabet, quoy qu'ils parroissent tous diférens. Ainsi il n'y en a aucun qui n'ait sa marque particuliere pour faire connaistre la lettre dont il tient la place, &amp; il ne s'agit que d'en trouver le secret. Tant ce que je vous diray pour vous en faciliter la connoissance, c'est que tous les Chifres finis par un point sont autant de lettres, soit qu'il n'y ait qu'un seul Chifre, soit qu'il y en ait plusieurs. Les deux points font la séparation des mots. On doit l'Invention de ce Chifre à M<hi rend="sup">r</hi> de Monmiral, Gentilhomme d'Orange.</hi></p>
       <lb/>
-        <label type="center">LETTRE EN CHIFRE</label>
+        <label rend="center">LETTRE EN CHIFRE</label>
       <p>
         <hi rend="center">21. 19. 235. 45. 789 : 812. 81. 354.<lb/>
                            895 : 765. 15. 33. 432. 294. 527.<lb/>

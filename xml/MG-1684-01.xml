@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1684-01">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1684-01">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1684-01</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, janvier 1684 [tome 1].</bibl>
+        <bibl><title>Mercure galant</title>, <date>janvier 1684</date> [tome 1].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1684-01"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -333,9 +341,9 @@
             <l rend="i">Des monceaux de glaçons font mourir la verdure,</l>
             <l rend="i">Où l'Amour me faisoit gouster mille douceurs.</l></lg>
         </quote>
-        <ref target="1684-01_108.JPG">
+        <ref target="images/1684-01_108.JPG">
           <figure>
-            <graphic url="1684-01_108.JPG"/>
+            <graphic url="images/1684-01_108.JPG"/>
           </figure>
         </ref>
       </div>
@@ -741,7 +749,7 @@
         <quote>
           <label>AIR NOUVEAU.</label>
           <label>Servant d´Explication aux deux Enigmes du mois de Decembre 1683.</label>
-          <lg><l rend="i">Je fuis l'Amour &amp; les Procés ;</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je fuis l'Amour &amp; les Procés</hi>, doit regarder la page 330.</note>
+          <lg><l rend="i">Je fuis l'Amour &amp; les Procés ;<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je fuis l'Amour &amp; les Procés</hi>, doit regarder la page 330.</note></l>
             <l rend="i">Pour en avoir un bon succés,</l>
             <l rend="i">On devient trop mélancolique.</l>
             <l rend="i">J'aime mieux chanter la Musique,</l>
@@ -751,9 +759,9 @@
             <l rend="i">Et le voila ce bon Amy.</l></lg>
         </quote>
         <p>La sillabe <hi rend="i">Mi</hi>, est le vray Mot de l´une &amp; de l´autre. Plusieurs ont expliqué la premiere sur la seule lettre <hi rend="i">I</hi>, &amp; d´autres ont expliqué la seconde sur la seule lettre <hi rend="i">M</hi>.</p>
-        <ref target="1684-01_329.JPG">
+        <ref target="images/1684-01_329.JPG">
           <figure>
-            <graphic url="1684-01_329.JPG"/>
+            <graphic url="images/1684-01_329.JPG"/>
           </figure>
         </ref>
       </div>

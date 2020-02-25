@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,17 +21,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-02/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -43,7 +51,7 @@
         <date when="1679-02"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -485,9 +493,9 @@
           <l rend="i">Si tu ne pouvois pas m’aimer sans m’offencer,</l>
           <l rend="i">Que ne m’offençois-tu du moins sans me le dire !</l></lg>
         </quote>
-        <ref target="1679-02_047.JPG">
+        <ref target="images/1679-02_047.JPG">
           <figure>
-            <graphic url="1679-02_047.JPG"/>
+            <graphic url="images/1679-02_047.JPG"/>
           </figure>
         </ref>
       </div>
@@ -721,9 +729,9 @@
           <l rend="i"><seg type="tab">    </seg>Un Buveur ne se plaint jamais,</l>
           <l rend="i"><seg type="tab">    </seg>Quand il est pres de sa Bouteille.</l></lg>
         </quote>
-        <ref target="1679-02_154.JPG">
+        <ref target="images/1679-02_154.JPG">
           <figure>
-            <graphic url="1679-02_154.JPG"/>
+            <graphic url="images/1679-02_154.JPG"/>
           </figure>
         </ref>
       </div>
@@ -950,7 +958,7 @@
         <bibl><title>Mercure galant</title>, février 1679 [tome 2], p. 253. <note resp="editor" place="margin"> 	Peut-être s'agit-il de Laurent Dupré (1642-1709) ?</note></bibl>
         <p>La liberté est un bien si doux, qu’on ne se lasse jamais d’en chanter les avantages. L'Air qui suit vous le fera voir. Il est de M<hi rend="sup">r</hi> du Pré.</p>
         <quote>
-          <lg><l rend="i">Ah, qu’il est doux de vivre en liberté !</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah qu’il est doux de vivre en liberté</hi>, doit regarder la page 253.</note>
+          <lg><l rend="i">Ah, qu’il est doux de vivre en liberté !<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ah qu’il est doux de vivre en liberté</hi>, doit regarder la page 253.</note></l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Quand on s’engage,</l>
           <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>On est peu sage,</l>
           <l rend="i">Et le repos n’est plus en seûreté.</l>
@@ -958,9 +966,9 @@
           <l rend="i"><seg type="tab">    </seg>Et jamais aima-t on sa chaîne ?</l>
           <l rend="i">Ah, qu’il est doux de vivre en liberté !</l></lg>
         </quote>
-        <ref target="1679-02_253.JPG">
+        <ref target="images/1679-02_253.JPG">
           <figure>
-            <graphic url="1679-02_253.JPG"/>
+            <graphic url="images/1679-02_253.JPG"/>
           </figure>
         </ref>
       </div>
@@ -1026,9 +1034,9 @@
           <l rend="i">Mon cœur est trop sensible,</l>
           <l rend="i">Mais ce n’est que pour vous.</l></lg>
         </quote>
-        <ref target="1679-02_357.JPG">
+        <ref target="images/1679-02_357.JPG">
           <figure>
-            <graphic url="1679-02_357.JPG"/>
+            <graphic url="images/1679-02_357.JPG"/>
           </figure>
         </ref>
       </div>

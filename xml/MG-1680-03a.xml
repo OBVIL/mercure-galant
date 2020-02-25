@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,17 +21,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-03a/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -43,7 +51,7 @@
         <date when="1680-03"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -68,9 +76,9 @@
             <l rend="i">M’obliger à l’aimer quand je le dois hair ?</l></lg>
         </quote>
         <p>Vous voyez, Madame, que cet Autheur continuë toûjours à me donner de ses Airs pour en embellir mes Lettres. Il est certain qu’on les y trouvera beaucoup plus corrects, que dans les Recueils où l’on met sans aucun choix, tous ceux qu’on apporte à l’Imprimeur, de quelque part qu’on les puisse recevoir. On ne les a fort souvent que pour les avoir entendu chanter, &amp; la Note ne venant point de l’Autheur, on ne doit pas s’étonner si tant de fautes s’y glissent. Celuy dont je vous parle presentement, a reconnu encor ce defaut depuis peu de jours dans le Livre de Chansons notées de 1680. On y a mis deux des siennes, l’une &amp; l’autre à boire ; la premiere imprimée il y a cinq ou six ans dans son second Livre gravé d’Airs Bachiques, &amp; l’autre aussi imprimée dans son Journal de l’année derniere. Cette premiere qui commence par <hi rend="i">Eh quoy, mes chers Amis, &amp;c.</hi> est entierement falsifiée, soit pour le Chant, soit pour les Paroles. Il n’y a qu’un simple Dessus, au lieu de deux avec la Basse, &amp; ce Dessus est avec une Clef de Basse. Joignez à cela qu’il n’y a qu’un couplet au lieu de trois, &amp; que ce couplet mesme est défectueux. Pour la seconde Chanson qui est, <hi rend="i">Les Moucherons sur nos Tonneaux, &amp;c.</hi> on n’a qu’à se donner la peine de la confronter avec celle qui est dans le Livre que l’Autheur a donné depuis huit jours, sous le Titre de <hi rend="i">Mélanges d’Airs</hi>, &amp; on en connoistra aisément la diférence. On y trouvera la Contrepartie de cette Chanson, avec plusieurs nouveaux seconds couplets en diminution, les plus beaux, &amp; les plus riches qu’on ait encor eus de luy.</p>
-        <ref target="1680-03a_015.JPG">
+        <ref target="images/1680-03a_015.JPG">
           <figure>
-            <graphic url="1680-03a_015.JPG"/>
+            <graphic url="images/1680-03a_015.JPG"/>
           </figure>
         </ref>
       </div>
@@ -102,9 +110,9 @@
             <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Je ne cherche pas le danger,</l>
             <l rend="i"><space rend="tab">    </space><space rend="tab">    </space>Mais du moins je voudrois le craindre.</l></lg>
         </quote>
-        <ref target="1680-03a_287.JPG">
+        <ref target="images/1680-03a_287.JPG">
           <figure>
-            <graphic url="1680-03a_287.JPG"/>
+            <graphic url="images/1680-03a_287.JPG"/>
           </figure>
         </ref>
       </div>

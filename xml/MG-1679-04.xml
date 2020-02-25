@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,17 +21,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-04/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -43,7 +51,7 @@
         <date when="1679-04"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -378,9 +386,9 @@
         <bibl><note resp="author" place="margin">Voir <ref target="MG-1679-04_132">cet article</ref> du Mecure pour la mise en musique de l'air extrait de l'opéra Nerone de Carlo Pallavicino.</note></bibl>
         <p>Quarante Intrumens des meilleurs qu’on eust pû trouver, servoient à la Simphonie. L'ouverture du Théatre se faisoit par une grande Place dans Rome, avec des Arcs de triomphe, &amp; un Globe qui en s’ouvrant laissoit voir plus de cent Personnes en armes. Néron paroissoit dans une autre Scene. Son Char estoit traîné par deux Elephans. Apres luy, le Roy Tiridate venoit à cheval avec les principaux de sa suite. La Reyne sa Femme estoit portée par des Hommes dans une Chaise fort magnifique, &amp; l’un &amp; l’autre aloient se prosterner aux pieds de Néron, qui ordonnoit un Bal pour les divertir. Une fort grande quantité de lumières faisoit briller la Décoration qui fut particulière à ce Bal. Néron, &amp; toute sa Cour tant de l’un que de l’autre Sexe, y dançoit à l’Italienne au son de plusieurs Instrumens extraordinaires qui estoient sur le Théatre. On voyoit ensuite une Académie de Musique dans laquelle Néron chantoit, ainsi que les principaux de ceux qui l’accompagnoient, ausquels il distribuoit des Rôles pour représenter une Comédie. Cet Empereur y joüoit luy-mesme, &amp; c’estoit quelque chose d’assez particulier que cette Scene. Il y avoit des Loges des deux costez du Théatre. Des Dames &amp; des Cavaliers entroient dans ces Loges, comme Auditeurs de la Comédie, &amp; une toile se levant laissoit paroistre une autre Théatre. On y voyoit la Lune &amp; sept Etoiles en Machines, toutes si brillantes, que leur éclat n’éboüissoit pas moins qu’il surprenoit. La Comédie estant faite, Néron donnoit l’ordre pour un superbe Festin. Il avoit esté preparé dans une Grote toute remplie de nüages, qui formoit une Décoration d’une beauté merveilleuse. On croyoit voir un lieu enchanté. Il y avoit de la Simphonie dans tous les coins de la Grote. Les Tables estoient élevées en manieres de Machines, &amp; on n’y pouvoit aller qu’en montant vingt degrez de chaque costé. Au milieu de ce Festin on venoit avertir Néron que son Palais alloit estre assiégé par des Conjurez. La Scene suivante faisoit paroistre un grand Peuple en armes, qui avec les Conjurez donnoit l’assaut au Palais. On se servoit d’Echelles &amp; de Machines pour y monter, &amp; toutes sortes d’Armes estoient employées pour en abatre les Tours, &amp; y renverser les Murailles. Les Assiegez faisoient éclater une vigueur extraordinaire pour leur défense, &amp; ils estoient secondez par Tyridate, qui accompagné d’un bon nombre de Soldats, entreprenoit un combat si furieux contre les Assiegeans, que quoy qu’il fust feint, il ne laissoit pas de causer de l’épouvante aux Spéctateurs. Plus de cent Personnes estoient engagées dans ce combat. Il duroit pres de demy heure, &amp; finissoit par la défaite des Conjurez. Néron faisoit voir la joye qu’il avoit de cette Victoire par une Simphonie ordonnée dans le mesme temps. Elle venoit sur une Machine roulante, qui sortant de la Porte de son Palais, s’élargissoit à mesure qu’on la voyoit avancer. Elle occupoit insensiblement tout le Théatre, &amp; certains nüages qui la couvroient, se dissipant, on y découvroit quantité d’Instrumens de toutes sortes, Flûtes douces, Trompetes, Timbales, Violes, &amp; Violons, qui se joignant à la grande Simphonie de l’Opéra, formoient la plus belle &amp; la plus mélodieuse harmonie qu’on eust jamais entenduë.</p>
         <p>Le dernier jour du Carnaval, apres qu’on eut représenté cet Opéra, M<hi rend="sup">rs</hi> Grimani, aussi estimez pour leur mérite particulier que pour les avantages de leur naissance, (ils sont alliez de M<hi rend="sup">r</hi> le Duc de Mantoüe, &amp; de la Maison de Gonzague,) donnerent le Bal à toute la Noblesse dans ce lieu mesme. Rien ne pouvoit estre plus magnifique. Toutes les Dames qui avoient esté invitées à l’Opéra, furent régalées dans leurs Loges, de plusieurs Bassins remplis de merveilleux mets de la saison, &amp; de toute sorte de liqueurs. Plus de cent Flambeaux de cire blanche qu’on alluma sur des Bras d’or attachez aux dehors des Loges, répandoient un nouveau jour sur le Parterre. Quantité de Dames des plus belles &amp; des plus jeunes s’y placerent apres le Repas, sur des sieges qu’on avoit préparez tout autour. Elles estoient habillées à la derniere mode de France, mais dans un ajustement si superbe, qu’on ne voyoit qu’or, argent, broderie, points, &amp; pierreries. Plus de deux cens Gentilhommes se trouverent dans le mesme lieu. La magnificence de leurs Habits ne se doit en rien à celle des Dames, &amp; on ne leur voyoit comme à elles que Broderie, Pierreries, &amp; Points des plus fins. Il ne s’estoit fait de longtemps aucune assemblée où la Noblesse Venitienne se fut renduë, ny en si grand nombre, ny dans une si riche parure. Toute la Simphonie de l’Opéra estoit en cercle sur le Théatre. Vous jugez bien qu’une si charmante harmonie ne fut pas un des moindres plaisirs que causa la Bal. Il n’y avoit que les Personnes qui en estoient dans le Parterre. Tout le reste demeura dans les Loges à voir dancer. On donna encor un nouveau Régal aux Dames, &amp; la Feste ne finit que quand le jour commença.</p>
-        <ref target="1679-04_132 copyOf_133.JPG">
+        <ref target="images/1679-04_132 copyOf_133.JPG">
           <figure>
-            <graphic url="1679-04_132 copyOf_133.JPG"/>
+            <graphic url="images/1679-04_132 copyOf_133.JPG"/>
           </figure>
         </ref>
       </div>
@@ -614,9 +622,9 @@
         <p>Voicy l’Air dont il est parlé sur la fin de cette Lettre<note resp="editor">Les paroles de cet air figurent dans l´article précédent de la même tomaison (<ref target="#MG-1679-04_202">Lettre en prose &amp; en vers).</ref></note>. Comme vous en avez déjà lû les Vers, je me contente de vous les envoyer meslez avec les Notes. Ce sont ceux qui commencent par</p>
         <quote><l rend="i">Le cruel Hyver fait place, &amp;c.</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Le cruel Hyver fait place</hi>, doit regarder la page 215.</note></quote>
       </div>
-      <ref target="1679-04_215.JPG">
+      <ref target="images/1679-04_215.JPG">
         <figure>
-          <graphic url="1679-04_215.JPG"/>
+          <graphic url="images/1679-04_215.JPG"/>
         </figure>
       </ref>
       <div type="article" xml:id="MG-1679-04_215b" resp="mercure">

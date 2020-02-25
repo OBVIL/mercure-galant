@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1685-02">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1685-02">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1685-02</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, février 1685 [tome 2].</bibl>
+        <bibl><title>Mercure galant</title>, <date>février 1685</date> [tome 2].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1685-02"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -594,9 +602,9 @@
             <l rend="i">Ah, c'est aimer plus qu'on ne pense</l>
             <l rend="i">Que de dire qu'on n'aime plus.</l></lg>
         </quote>
-        <ref target="1685-02_137.JPG">
+        <ref target="images/1685-02_137.JPG">
           <figure>
-            <graphic url="1685-02_137.JPG"/>
+            <graphic url="images/1685-02_137.JPG"/>
           </figure>
         </ref>
       </div>
@@ -817,7 +825,7 @@
           <head>[Etablissement d'un Opéra à Marseille]</head>
           <bibl><title>Mercure galant</title>, février 1685 [tome 2], p. 287-289</bibl>
           <p/>
-          <p>L'établissement d'un Opera ayant réüssy à Paris, M<hi rend="sup">r</hi> Gautier, dont la réputation est connuë de tous ceux qui aiment la Musique, s'est accommodé avec M<hi rend="sup">r</hi> de Lully, pour avoir permission de faire le mesme établissement à Marseille, où il fit representer pour la premiere fois le 28. de Janvier, un Opera intitulé, <hi send="hi">Le Triomphe de la Paix</hi>. Les Habits furent trouvez magnifiques, les Machines justes, &amp; les Décorations tres-belles. La Dance y plut fort, la Simphonie encore davantage, &amp; toutes ces choses firent donner beaucoup de loüanges à M<hi rend="sup">r</hi> Gautier, qui a bien voulu prendre tant de peines, &amp; hazarder tant de frais pour le divertissement de la Province. On s'est rendu de tous costez à Marseille, pour voir ce spectacle que l'on y donne plusieurs fois chaque semaine.</p>
+          <p>L'établissement d'un Opera ayant réüssy à Paris, M<hi rend="sup">r</hi> Gautier, dont la réputation est connuë de tous ceux qui aiment la Musique, s'est accommodé avec M<hi rend="sup">r</hi> de Lully, pour avoir permission de faire le mesme établissement à Marseille, où il fit representer pour la premiere fois le 28. de Janvier, un Opera intitulé, <hi rend="hi">Le Triomphe de la Paix</hi>. Les Habits furent trouvez magnifiques, les Machines justes, &amp; les Décorations tres-belles. La Dance y plut fort, la Simphonie encore davantage, &amp; toutes ces choses firent donner beaucoup de loüanges à M<hi rend="sup">r</hi> Gautier, qui a bien voulu prendre tant de peines, &amp; hazarder tant de frais pour le divertissement de la Province. On s'est rendu de tous costez à Marseille, pour voir ce spectacle que l'on y donne plusieurs fois chaque semaine.</p>
         </div>
         <div type="article" xml:id="MG-1685-02_311" resp="wordpro">
           <head>Chanson à boire</head>
@@ -834,9 +842,9 @@
               <l rend="i">Le vray secret est de prendre du Vin.</l>
             </lg>
           </quote>
-          <ref target="1685-02_311.JPG">
+          <ref target="images/1685-02_311.JPG">
             <figure>
-              <graphic url="1685-02_311.JPG"/>
+              <graphic url="images/1685-02_311.JPG"/>
             </figure>
           </ref>
         </div>
@@ -851,7 +859,7 @@
           <p>La Comédie de <hi rend="i">l’Usurier</hi>, qu’on jouë alternativement avec cette Piéce, n’a pas esté traitée d’abord si favorablement, &amp; plusieurs ont imité le Marquis de la Critique de l’Ecole des Femmes. C’est le sort des Piéces qui reprennent les vices, d’estre condamnées dans les premieres Représentations. Le chagrin de se reconnoistre dans des Portraits genéraux, &amp; de s’accuser en secret des defauts qu’on blâme, oblige ceux qui se les reprochent à eux-mesmes, à décrier une Piéce, afin d’empêcher qu’on ne la voye ; mais les Gens sinceres &amp; de bon goust, rétablissent dans la suite ce que ces Critiques intéressez ont tâché d’abatre. C’est ce qui ne pouvoit manquer à <hi rend="i">l’Usurier</hi>, puis que la Piéce passe pour bien écrite, &amp; bien conduire, &amp; qu’on y rit depuis le commencement jusques à la fin, sans qu’il y ait ny fade plaisanterie, ny équivoque dont la modestie puisse estre blessée. Ainsi l’on n’y peut rire que de la verité des choses qu’on y dit en reprenant les defauts des Hommes. Ces sortes de choses ne peuvent rendre un Autheur blâmable. Quand on fera voir que de certains Courtisans sont gueux par leur faute, loin de s’en fâcher, ils doivent remercier ceux qui en leur faisant ouvrir les yeux, leur donnent moyen d’éviter leur ruine entiere. Il est si vray qu’on n’a pas eu dessein de choquer la Cour dans cette Piéce, qu’apres avoir donné dans un Acte un Portrait des Courtisans qui vivent dans le desordre, on en donne un dans l’Acte qui suit, entiérement à l’avantage de la Cour. On s’est récrié sur ce que dans cette Piéce on avoit mis des Abbez sur le Théatre ; mais si ceux qui critiquent cet endroit, l’avoient bien examiné, ils connoistroient que le Personnage qu’ils prennent pour un Abbé, n’est qu’un des Usurpateurs de ce Tître, qui s’en servent seulement afin d’estre mieux receus dans les Compagnies ; de sorte qu’on ne peut faire aucune comparaison de ce personnage avec un veritable Abbé. D’ailleurs quand c’en seroit un, on ne pourroit alleguer qu’il désigne particuliérement aucun Abbé, puis qu’il dit des choses genérales, &amp; qui ne peuvent estre appliquées à une mesme Personne. Cela fait voir que c’est fort injustement que l’on impute à un Particulier ce qui en regarde plus de cent. Il en est de mesme des Banquiers dont on parle dans la Piéce. Il est certain que l’Autheur n’en a eu aucun en veuë, mais seulement les vices de leur Profession. Ceux qui prêtent à usure, peuvent ne se pas corriger pour cela ; mais le Public sera du moins averty de beaucoup de choses qu’il doit éviter à leur égard. Cette maniere de corriger les vices à esté trouvée si utile de tout temps, que les Anciens se servoient de Masques semblables à ceux dont ils vouloient faire voir les defauts, afin de les faire remarquer au Public. Il n’en est pas de même aujourd’huy ; &amp; l’on n’attaque à la Comédie que les vices, &amp; non pas les Hommes.</p>
           <p>Comme ma Lettre finit avant la fin du Carnaval, &amp; que je veux vous en donner tous les Divertissemens en un seul Article, je remets au mois prochain à vous en parler, aussi-bien que de l’Abbaïe donnée à M<hi rend="sup">r</hi> le Cardinal d’Etrées. Si je ne vous dis rien encore de l’Accommodement de Génes, vous pouvez croire que je n’en oublieray aucune des circonstances, quand il sera temps de vous en entretenir. Je suis, Madame, Vostre, &amp;c.</p>
           <p/>
-          <p><hi send="i">A Paris, ce 28. Fevrier 1685.</hi></p>
+          <p><hi rend="i">A Paris, ce 28. Fevrier 1685.</hi></p>
         </div>
       </body>
   </text>

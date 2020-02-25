@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1690-08">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1690-08">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1690-08</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, août 1690 [tome 9].</bibl>
+        <bibl><title>Mercure galant</title>, <date>août 1690</date> [tome 9].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1690-08"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -330,9 +338,9 @@
               <l rend="i"> Qu’on chante à la Cour, &amp;c.</l>
             </lg>
           </quote>
-          <ref target="1690-08_033.JPG">
+          <ref target="images/1690-08_033.JPG">
             <figure>
-              <graphic url="1690-08_033.JPG"/>
+              <graphic url="images/1690-08_033.JPG"/>
             </figure>
           </ref>
         </div>
@@ -609,7 +617,7 @@
           <bibl><title>Mercure galant</title>, août 1690 [tome 9], p. 180-181.</bibl>
           <p>Les Particuliers n'ont pas esté moins sensibles aux glorieux succés des Armes de Sa Majesté que les Communautez &amp; les Villes. M<hi rend="sup">r</hi> le Comte de Bouligneux en ayant eu la nouvelle à Bouligneux, y fit chanter le <hi rend="i">Te Deum</hi>, qui fut accompagné d'un Feu d'artifice, &amp; de la décharge de vingt pieces de Canon. On fit par son ordre une grande distribution d'argent, &amp; les Habitans ne se contentant pas de crier <hi rend="i">Vive le Roy</hi>, joignirent mille loüanges à ces cris de joye.</p>
         </div>
-        <div type="article" xml:id="MG-1690-08_341" resp="mercure" sameAs="#MG-1690-08_342">
+        <div type="article" xml:id="MG-1690-08_341" resp="mercure" copyOf="#MG-1690-08_342">
           <head>[Feste de S. Louis celebrée par l'Academie Françoise]</head>
           <bibl><title>Mercure galant</title>, août 1690 [tome 9], p. 341-343.</bibl>
           <p>Le 25. de ce mois, la Feste de Saint Loüis fut solemnisée à l'ordinaire par Mrs de l'Academie Françoise dans la Chapelle du Louvre. M. L'Abbé de la Vau, l'un des Academiciens, celebra la Messe, pendant laquelle, un fort grand Chœur de Musique chanta un Motet de la composition de M. Oudot, &amp; M. l'Abbé de Pezene prononça ensuite le Panégyrique du Saint. J’affoiblirois la force de ses pensées, &amp; le noble tour qu’il leur donna, si je voulois faire icy un extrait de son discours. Il receut une approbation generale, &amp; je ne puis mieux vous marquer combien tout le monde en fut satisfait, qu’en vous envoyant la copie d’un Billet qu’un homme d’esprit écrivit le lendemain à M. l’Abbé du Fay sur cette action. En voicy les termes.</p>

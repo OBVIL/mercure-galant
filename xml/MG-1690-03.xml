@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1690-03">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1690-03">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1690-03</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, mars 1690 [tome 3].</bibl>
+        <bibl><title>Mercure galant</title>, <date>mars 1690</date> [tome 3].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1690-03"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -172,7 +180,7 @@
         <bibl><title>Mercure galant</title>, mars 1690 [tome 3], p. 17-18.</bibl>
         <p>Nous sommes dans un temps tout saint. Ainsi, Madame, je croy vous faire plaisir de vous envoyer au lieu de Chanson nouvelle, le commencement du <hi rend="i">Veni Creator</hi>, traduit par M<hi rend="sup">r</hi> Perachon, &amp; mis en Musique par M<hi rend="sup">r</hi> l'Abbé Chastelain, Chanoine de l'Eglise de Paris. La Basse-continuë est de M<hi rend="sup">r</hi> le Roux, Maistre de Musique.</p>
         <quote>
-          <lg><l rend="i">Esprit Divin, Auteur du Monde,</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Esprit Divin, Auteur du Monde</hi>, doit regarder la page 18.</note>
+          <lg><l rend="i">Esprit Divin, Auteur du Monde,<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Esprit Divin, Auteur du Monde</hi>, doit regarder la page 18.</note></l>
             <l rend="i">Répans dans nos esprits cette clarté feconde</l>
             <l rend="i">Qui leur donne l'estre &amp; le jour.</l>
             <l rend="i">Viens remplir tous nos cœurs de cette grace immense,</l>
@@ -180,9 +188,9 @@
             <l rend="i">Dans l'ouvrage de ta puissance</l>
             <l rend="i">Le Chef-d'œuvre de ton amour.</l></lg>
         </quote>
-        <ref target="1690-03_017.JPG">
+        <ref target="images/1690-03_017.JPG">
           <figure>
-            <graphic url="1690-03_017.JPG"/>
+            <graphic url="images/1690-03_017.JPG"/>
           </figure>
         </ref>
       </div>
@@ -402,9 +410,9 @@
           </lg>
         </quote>
           <p>Le mesme M<hi rend="sup">r</hi> de Bacilly a repassé encore depuis peu tous ses Airs Spirituels, où il a trouvé plusieurs fautes de graveure qu'il a corrigées ; il a marqué ces corrections avec de petites Etoiles. Ceux qui voudront lire un peu attentivement un avis fort ample qu'il a fait mettre à la fin de ses Livres, touchant le merite peu connu de ces sortes d'Airs, &amp; sur tout les luy entendre chanter chez luy vis à vis les Ecuries de Monsiegneur, proche S. Roch, seront surpris de leur beauté, &amp; ne pourront s'empescher de les preferer à ceux que l'on estime le plus dans les Airs profanes.</p>
-        <ref target="1690-03_294.JPG">
+        <ref target="images/1690-03_294.JPG">
           <figure>
-            <graphic url="1690-03_294.JPG"/>
+            <graphic url="images/1690-03_294.JPG"/>
           </figure>
         </ref>  
       </div>

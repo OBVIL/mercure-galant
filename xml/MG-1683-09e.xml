@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1683-09e">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-09e">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Extraordinaire du Mercure Galant, quartier de juillet [tome 23], 1683</title>
+        <title>Extraordinaire du Mercure galant, quartier de juillet 1683 (tome XXIII)</title>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL/IReMuS</edition>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-09e</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683</bibl>
+        <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de <date>juillet 1683</date> [tome 23]</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,16 +55,16 @@
         <date when="1683-09"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-        <head><hi rend="i">Extraordinaire du Mercure Galant</hi>, quartier de juillet [tome 23], 1683</head>
+        <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de juillet 1683 (tome XXIII)</head>
         <div type="article" xml:id="MG-1683-09e_001" resp="nbb">
           <head>Du Stile Epistolaire</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 1-67.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 1-67.</bibl>
           <quote>
             <p><hi rend="i">Vous estiez surprise, Madame, de n’avoir rien veu de M<hi rend="sup">r</hi> de la Févrerie dans mes dernieres Lettres Extraordinaires. Heureusement je suis en pouvoir de reparer ce defaut dans celle-cy, &amp; je la commence par un Ouvrage de sa façon. Quelques affaires, qui l’ont occupé entierement depuis quelque temps, l’ayant empesché d’écrire sur les Questions qu’on a proposées à l’ordinaire, il n’est pas fort étonnant que vous vous soyez apperçeuë de son silence. Tout ce que je vous ay envoyé de luy est si digne d’estre leû, qu’il est difficile que vous ne cherchiez d’abord son nom parmy ceux qui entrent dans ce Recueil de Pieces diverses que vous recevez de moy tous les trois mois. Le nouveau Traité qu’il m’a fait tenir, &amp; dont je me haste de vous faire part, est sur une matiere d’autant plus utile, qu’il n’y a personne à qui elle ne soit propre. Tout le monde écrit &amp; reçoit des Lettres, &amp; l’on trouvera dans ce Traité les diverses regles qu’il faut observer dans les diverses manieres d’écrire.</hi></p>
           </quote>
@@ -93,7 +101,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_068" resp="nbb">
           <head>Si la beauté du Visage est plus propre à plaire, que la beauté de la Taille</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 68-70.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 68-70.</bibl>
           <quote>
             <label>Si la beauté du Visage est plus propre à plaire, que la beauté de la Taille.</label>
             <lg>
@@ -164,7 +172,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_071" resp="nbb">
           <head>Pourquoy un Bien dont la conqueste nous a cousté des fatigues […] nous est plus cher</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 71-73.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 71-73.</bibl>
           <quote>
             <label>Pourquoy un Bien dont la conqueste nous a coûté des fatigues, quoy qu’il soit de peu de conséquence, nous est plus cher qu’un autre infiniment plus précieux, que nous avons acquis sans peine.</label>
             <lg>
@@ -210,7 +218,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_073" resp="nbb">
           <head>Si les Astres ont du pouvoir sur les inclinations des Hommes</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 73-74.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 73-74.</bibl>
           <quote>
             <label>Si les Astres ont du pouvoir sur les inclinations des Hommes.</label>
             <lg>
@@ -235,7 +243,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_075" resp="nbb">
           <head>Si un Amant fort passionné […] devroit écouter son ressentiment […]</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 75-85.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 75-85.</bibl>
           <quote>
             <label><hi rend="i">SI UN AMANT<lb/>fort passionné, qui auroit reçeu<lb/>un sensible outrage d’une Personne<lb/>tres-considerée de sa Maîtresse,<lb/>devroit écouter son ressentiment,<lb/>&amp; obeïr plûtost à<lb/>l’honneur qu’à l’amour.</hi></label>
             <p>Apres ce que l’incomparable M<hi rend="sup">r</hi> de Corneille, dans son immortelle Tragédie du Cid, a fait prononcer sur ce sujet par deux Amans passionnez, mais interessez au dernier point en cette question, l’un par le des-honneur de son Pere, &amp; l’autre par la mort du sien, je pense qu’il faut s’en tenir à ce qu’ils en ont decidé. J’entens neantmoins que ce soit à raisonner par leurs mesmes principes, c’est à dire, par le point d’honneur mondain, &amp; par la considération la plus forte que nous puissions avoir pour une Personne, à qui nous ayons donné nos plus tendres affections. Chimene avoit déja dit.</p>
@@ -290,7 +298,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_086" resp="nbb">
           <head>Lequel de ces mots, prononcez par la Personne aimée, <hi rend="i">Je vous aime</hi> ou <hi rend="i">Esperez</hi>, doit estre le plus agréable à un Amant</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 86-89.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 86-89.</bibl>
           <quote>
             <label><hi rend="i">Lequel de ces mots, prononcez par la Personne aimée</hi>, Je vous aime, <hi rend="i">ou</hi> Esperez, <hi rend="i">doit estre le plus agreable à un Amant.</hi></label>
             <p>Donner un bien qui est commun à tout le Genre-humain, &amp; que l’on ne peut presque jamais oster à personne, ce n’est pas faire un grand présent, ny se mettre beaucoup en dépense. L’espérance estant un bien de cette nature, qui soûtient generalement tous les Hommes, &amp; qui ne les quitte qu’aux dernieres extrémitez, je ne voy pas que l’on ait beaucoup d’obligation à une Dame qui prend la peine d’ouvrir la bouche, pour ne dire que ce beau mot, <hi rend="i">Esperez</hi>, ny qu’il soit à mettre en comparaison avec ces charmantes paroles, <hi rend="i">Je vous aime</hi> ; si ce n’est en tant que chez une Maîtresse peu sincere, tout ce qu’elle dit peut estre également trompeur. Cette proposition me fait souvenir du méchant Sonnet condamné par le Misantrope, dans la Comédie de ce nom. Dans ce Sonnet qui est sur le sujet d’un semblable espoir, s’il y a quelque chose qui puisse n’estre pas rejetté du moins pour le fond de la pensée, c’est ce me semble cet endroit.</p>
@@ -305,7 +313,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_106" resp="nbb">
           <head>Voyage du Roy</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 106-207.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 106-207.</bibl>
           <quote>
             <lg>
               <l rend="i"> L’on admire ses gentillesses,</l>
@@ -341,7 +349,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_207" resp="nbb">
           <head>A M<hi rend="sup">r</hi> le Comte de Cominge. Epistre</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 207-210.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 207-210.</bibl>
           <p><hi rend="i">Je vous ay promis de vous envoyer les Veuës des plus considérables Edifices d’Espagne, vous en avez déja tout ce qui regarde Madrid, &amp; l’Escurial ; c’est pourquoy je passe aux Provinces, &amp; vous envoye l’une des Veuës du Palais Royal de Tolede, qui n’est qu’à douze lieuës de Madrid.</hi></p>
           <quote>
             <label>De Paris, ce 15. Juin 1683.<lb/>A M<hi rend="sup">r</hi> LE COMTE<lb/>DE COMINGE.<lb/>EPISTRE.</label>
@@ -404,7 +412,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_211" resp="nbb">
           <head>Imitation d’une Pensée de Montemayor</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 211.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 211.</bibl>
           <quote>
             <label>IMITATION<lb/>D’une Pensée de Montemayor.</label>
             <lg>
@@ -437,7 +445,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_212" resp="nbb">
           <head>Discours en Vers. De la Médisance</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 212-224.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 212-224.</bibl>
           <quote>
             <label>DISCOURS<lb/>EN VERS.<lb/>DE LA MEDISANCE.</label>
             <lg>
@@ -757,7 +765,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_225" resp="nbb">
           <head>Maniere d’exprimer les variations des mots du second Dictionnaire</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 225-257.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 225-257.</bibl>
           <quote>
             <label><hi rend="i">Maniere d’exprimer les variations des mots du second Dictionnaire.</hi></label>
             <p>J’ay distingué les variations des mots, en directes &amp; en obliques ; &amp; j’ay exprimé une partie des directes dans le cours de ce Dictionnaire, puis que j’y ay marqué les substantifs de qualité, &amp; les adjectifs, avec leurs adverbes, &amp; leurs genres. Voicy l’autre Partie, qui consiste aux degrez de comparaison de ces adjectifs, &amp; aux degrez de diminution &amp; d’augmentation d’eux, de leurs adverbes, &amp; des noms substantifs. Un exemple servira d’éclaircissement &amp; de regle.</p>
@@ -849,7 +857,7 @@
         </div>
         <div type="article" xml:id="MG-1683-09e_322" resp="nbb">
           <head>Sentimens sur toutes les Questions du dernier Extraordinaire</head>
-          <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de juillet [tome 23], 1683, p. 322-334.</bibl>
+          <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1683 (tome XXIII), p. 322-334.</bibl>
           <quote>
             <label>SENTIMENS SUR<lb/>toutes les Questions du dernier Extraordinaire.</label>
             <lg>

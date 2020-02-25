@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="MG-1686-08">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-08">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,21 +25,29 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-08</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, août 1686 [tome 10].</bibl>
+        <bibl><title>Mercure galant</title>, <date>août 1686</date> [tome 10].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,7 +55,7 @@
         <date when="1686-08"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -178,9 +186,9 @@
             <l rend="i">Et malgré moy luy jure une amour éternelle.</l>
           </lg>
         </quote>
-        <ref target="1686-08_042.JPG">
+        <ref target="images/1686-08_042.JPG">
           <figure>
-            <graphic url="1686-08_042.JPG"/>
+            <graphic url="images/1686-08_042.JPG"/>
           </figure>
         </ref>
       </div>
@@ -410,7 +418,7 @@
           <p/>
           <p>Madame le Camus, qui a infiniment de l’esprit, &amp; dont je vous ay déja envoyé de fort agreables Inpromptu, répondit à celuy-cy par un autre, mais en attribuant l’avanture à M<hi rend="sup">r</hi> le Duc de Saint Aignan, quoy qu’il n’y ait point d’autre part, que d’avoir répondu sur l’heure à la Question. Voicy son Billet.</p>
           <quote>
-            <p/><hi rend="i">Je vous rends tres-humbles graces, Monsieur, de l’honneur de vostre souvenir, &amp; des galantes choses que vous m’avez envoyées. Je vous reconnois bien aux petits Vers que vous avez faits. L’envie de battre ceux qui le meritent, ne vous quitte point, mais je m’étonne qu’un homme comme vous puisse comprendre qu’un Rival luy puisse estre preferé, &amp; que vous ayez decidé là dessus, ce qui ne pourroit estre qu’une simpathie de l’Amante &amp; de l’Amant, qui meriteroit plûtost vostre compassion que vostre emportement contre le Rival. Pour moy je prendrois toûjours ce party.</hi></quote>
+            <p><hi rend="i">Je vous rends tres-humbles graces, Monsieur, de l’honneur de vostre souvenir, &amp; des galantes choses que vous m’avez envoyées. Je vous reconnois bien aux petits Vers que vous avez faits. L’envie de battre ceux qui le meritent, ne vous quitte point, mais je m’étonne qu’un homme comme vous puisse comprendre qu’un Rival luy puisse estre preferé, &amp; que vous ayez decidé là dessus, ce qui ne pourroit estre qu’une simpathie de l’Amante &amp; de l’Amant, qui meriteroit plûtost vostre compassion que vostre emportement contre le Rival. Pour moy je prendrois toûjours ce party.</hi></p></quote>
             <quote>
               <lg>
                 <l>Lors que l’on sçait sa Maistresse infidelle,</l>
@@ -547,9 +555,9 @@
         <l rend="i">Et vive le Café.</l></lg>
       </quote>
       <p>Cet Air est un recit de Basse, qui ne cede à aucun de plus de cent que M<hi rend="sup">r</hi> de Bacilly a composez depuis vingt-cinq ans qu'il s'avisa de fai[r]e de ces sortes de recits de Basse, dont il est l'Inventeur.</p>
-      <ref target="1686-08_209.JPG">
+      <ref target="images/1686-08_209.JPG">
         <figure>
-          <graphic url="1686-08_209.JPG"/>
+          <graphic url="images/1686-08_209.JPG"/>
         </figure>
       </ref>
     </div>

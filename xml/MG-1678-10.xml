@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-10" xml:lang="fr">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-10" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,17 +37,25 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2014"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-10/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
-          </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+    sur les bases de données (L341-1) est mise à disposition de la communauté
+    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication
+    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+    l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+    toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+    électronique, notamment en intégrant toutes les contributions extérieures, la
+    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -59,7 +67,7 @@
         <date when="1678"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -276,9 +284,9 @@
           <l rend="i">Et vous ne pouvez plus soulager mon martyre.</l></lg>
         </quote>
         <p>Vous m’avez paru si contente des Airs de M<hi rend="sup">r</hi> Goüet, que j’ay crû ne pouvoir mieux commencer que par celuy-cy à vous en envoyer de nouveaux. Comme il est Maistre de la Musique des Dames Religieuses de Lonchamp, on ne doit pas s’étonner si on y trouve dequoy satisfaire les oreilles les plus difficiles. En effet, on n’y entend pas seulement tout ce que le beau Chant a d’aimable, on y remarque encor une façon de chanter qui n’est pas commune, tant l’Autheur s’étudie à faire toûjours quelque chose qui ne se chante point ailleurs. Les belles Voix qui entrent dans ces Concerts se font admirer &amp; par leur diversité &amp; par leur justesse. La Symphonie qui les accompagne est merveilleuse. Elle est executée avec une délicatesse qui répond à la recherche des beaux Accords, &amp; l’on diroit que ce sont autant de maistresses mains qui touchent ou les Violes, ou les Clavessins qui la composent. Je n’avance rien qui ne soit connu. Le mêlange des Voix &amp; des Instrumens qui forment cette charmante Musique, est si doctement ménagé, que les meilleurs Connoisseurs demeurent d’accord qu’on ne peut rien entendre de plus beau dans aucun Monastere de Filles.</p>
-        <ref target="1678-10_031.JPG">
+        <ref target="images/1678-10_031.JPG">
           <figure>
-            <graphic url="1678-10_031.JPG"/>
+            <graphic url="images/1678-10_031.JPG"/>
           </figure>
         </ref>
       </div>
@@ -611,7 +619,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 126-128.</bibl>
         <p>C’est là-dessus<note resp="editor">Sur la paix. Voir l'article précédent.</note> qu’on a fait les Vers que vous allez voir. Ils ont esté mis en Air par M<hi rend="sup">r</hi> du Parc.</p>
         <quote>
-          <lg><label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Qu’on ne me parle plus d’Armes ny de Défaites</hi>, doit regarder la page 127.</note>
+          <lg><label>AIR NOUVEAU.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Qu’on ne me parle plus d’Armes ny de Défaites</hi>, doit regarder la page 127.</note></label>
           <l rend="i">Qu’on ne me parle plus d’Armes ny de Défaites,</l>
           <l rend="i">Bacchus seul aujourd’huy doit remplir les Gazetes ;</l>
           <l rend="i">Depuis que par la Paix les Guerres ont pris fin,</l>
@@ -631,9 +639,9 @@
           <l rend="i">Pour conserver la Paix, par ton pouvoir divin,</l>
           <l rend="i">Fay qu’il n’arrive rien de nouveau que du vin.</l></lg>
         </quote>
-        <ref target="1678-10_126.JPG">
+        <ref target="images/1678-10_126.JPG">
           <figure>
-            <graphic url="1678-10_126.JPG"/>
+            <graphic url="images/1678-10_126.JPG"/>
           </figure>
         </ref>
       </div>
@@ -754,9 +762,9 @@
           <l rend="i">Si je dois estre miserable,</l>
           <l rend="i">Quand j’auray veu l’Original.</l></lg>
         </quote>
-        <ref target="1678-10_224.JPG">
+        <ref target="images/1678-10_224.JPG">
           <figure>
-            <graphic url="1678-10_224.JPG"/>
+            <graphic url="images/1678-10_224.JPG"/>
           </figure>
         </ref>
       </div>
@@ -849,9 +857,9 @@
           <l rend="i"><space/>Si l’ingrate Beauté que j’aime,</l>
           <l rend="i">Me vouloit, comme vous, écouter un moment.</l></lg>
         </quote>
-        <ref target="1678-10_328.JPG">
+        <ref target="images/1678-10_328.JPG">
           <figure>
-            <graphic url="1678-10_328.JPG"/>
+            <graphic url="images/1678-10_328.JPG"/>
           </figure>
         </ref>
       </div>
