@@ -55,7 +55,7 @@
         <artifactId>lucene-core</artifactId>
         <groupId>org.apache.lucene</groupId>
         <type>jar</type>
-        <version>5.0.0</version>
+        <version>7.1.0</version>
     </dependency>
     <dependency>
         <artifactId>lucene-misc</artifactId>
