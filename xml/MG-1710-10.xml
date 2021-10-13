@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1710-01">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1710-10">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mercure galant, janvier 1710 [tome 1].</title>
+        <title>Mercure galant, septembre et octobre 1710 [tome 7].</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
@@ -28,12 +28,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1710</date> [tome 1].</bibl>
+        <bibl><title>Mercure galant</title>, <date>septembre-octobre 1710</date> [tome 1].</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1710-01"/>
+        <date when="1710-10"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -42,31 +42,130 @@
   </teiHeader>
   <text>
     <body>
-                <head><hi rend="i">Mercure galant</hi>, janvier 1710 [tome 1].</head>
-                <div type="article" xml:id="MG-1710-01_299">
-                    <head>Air nouveau</head>
-                    <bibl><title>Mercure galant</title>, janvier 1710 [tome 1], p. 299-300.</bibl>
-                    <p>Je crois pouvoir placer une Chanson aprés l’Eloge d’un homme qui en a fait de si belles ; elle est du Solitaire du Bois du Val-Dieu.</p>
+                <head><hi rend="i">Mercure galant</hi>, septembre, octobre 1710 [tome 7].</head>
+                <div type="article" xml:id="MG-1710-10_219">
+                    <head>Chansons.</head>
+                    <bibl><title>Mercure galant</title>septembre, ocotobre 1710 [tome 7], p. 219-230.</bibl>
+                  <p>J'avois prévû que quelqu'un me chicaneroit sur l'ancienneté de mes Chansons, sans me sçavoir gré des Nouvelles que j'y joins ; mais le goust de quelques particuliers qui ne cherchent dans les Ouvrages que la nouveauté seule, ne l'emportera pas sur le goust du Public. Il y a long-temps qu'on s'attend à voir un Recuëil de mes Chansons caracterisez, comme l'<hi rend="i">Opera</hi>, le <hi rend="i">Tabac</hi>, les <hi rend="i">Cloches</hi>, les <hi rend="i">Siflets</hi>, &amp;c. Je les donneray toutes en détail à deux par mois. Je prie ceux qui les souhaitteroient toutes à la fois, de prendre patience : ceux qui n'en voudroient point du tout, prendront patience aussi, car j'en ay provision pour deux années.</p>
                     <quote>
-                        <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence [par], <hi rend="i">Si vous voulez charmer</hi>, doit regarder la page 71.</note>
-                        <lg>
-                            <l> <hi rend="i">Fiers Aquilons, quittez nos Plaines,</hi></l>
-                            <l><hi rend="i">Laissez regner un vent plus doux.</hi></l>
-                            <l><hi rend="i">Poëtes, faites couler vos veines ;</hi></l>
-                            <l><hi rend="i">Broüillards épais dissipez-vous.</hi></l>
-                            <l><hi rend="i">Charmans Hostes de ces Bocages,</hi></l>
-                            <l><hi rend="i">Oiseaux, reprenez vos ramages :</hi></l>
-                            <l><hi rend="i">Plus belle que l’Astre du jour</hi></l>
-                            <l><hi rend="i">Philis revient faire icy son sejour.</hi></l>
+                      <label>CHANSON À SIFLER.</label>
+ <lg>
+   <l><hi rend="i">Prés de la jeune<note resp="editor" place="margin">« belle » dans la source musicale.</note> Iris, un Marquis scelerat</hi></l>
+   <l><hi rend="i">Aprés mille serments qui valloient un Contrat,</hi></l>
+   <l><hi rend="i">Avoit tant pressé l'Avanture,</hi></l>
+   <l><hi rend="i">Que la Belle à son tour pressoit la signature.</hi></l></lg>
+                      <ab type="ornament">***</ab>
+                      <lg>
+                        <l><hi rend="i">Un jour avec empressement</hi></l>
+                        <l><hi rend="i">Elle conjuroit cet<note resp="editor" place="margin">« son » dans la source musicale.</note> Amant</hi></l>
+                        <l><hi rend="i">De haster l'hymenée,</hi></l>
+                        <l><hi rend="i">Et luy sans s'émouvoir sifloit nonchalemment,</hi></l>
                         </lg>
-                        <ab type="ornament">***</ab>
                         <lg>
-                            <l><hi rend="i">Heureux l’homme de bonne foy,</hi></l>
-                            <l><hi rend="i">Simple, sage, plein d’innocence,</hi></l>
-                            <l><hi rend="i">Qui toûjours severe pour soy,</hi></l>
-                            <l><hi rend="i">Pour son prochain est rempli de clemence !</hi></l>
+                          <l>LE MARQUIS, Sifle.</l>
+                          <l>u u u u u u</l>
                         </lg>
+                      <lg>
+                          <l><hi rend="i">Iris d'abord fut allarmée,</hi></l>
+                          <l><hi rend="i">Elle fremit pleurant amerement ;</hi></l>
+                          <l><hi rend="i">Mais le Marquis touché sifla plus tendrement,</hi></l>
+                      </lg>
+                      <lg>
+                            <l>Il sifle</l>
+                          <l>u u u u u</l>
+                        </lg>
+                      <l><hi rend="i">Et mesme par pitié pour l'aimable affigée,</hi></l>
+                      <l><hi rend="i">Sifla l'Echo plaintif de ses tristes accens,</hi></l>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l>Sifle l'Echo du Chant précedent.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Parlez-moy donc dit-elle, helas !</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l>Sifle l'Echo.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">M'auriez-vous abusée ?</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l>Sifle l'Echo.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">J'ay conté sur vos serments,</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l>Sifle l'Echo.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Il est temps de montrer que vous m'avez aimée.</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l>Sifle l'Echo.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Il est temps de finir.</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l><hi rend="i">Je veux finir aussi,</hi></l>
+                        <l>il Sifle. </l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Mes Parens sont d'accord, le Notaire est icy.</hi></l>
+                        <l><hi rend="i">Terminez, tout est prest.</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l><hi rend="i">Je suis tout prest aussi ;</hi></l>
+                        <l>il Sifle une Boutade.</l>
+                        <l>u u u u u u</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Allons donc tout est prest ?</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l><hi rend="i">Je suis tout prest aussi ;</hi></l>
+                        <l>il Sifle le mesme Chant.</l>
+                      </lg>
+                      <lg>
+                        <l>IRIS.</l>
+                        <l><hi rend="i">Ma famille assemblée...</hi></l>
+                      </lg>
+                      <lg>
+                        <l>LE MARQUIS </l>
+                        <l><hi rend="i">Je suis tout prest;</hi></l>
+                        <l>il Sifle.</l>
+                        <l>u u u u u u</l>
+                        <l><hi rend="i">Tout prest ; </hi></l>
+                        <l>il Sifle.</l>
+                        <l>u u u u u u</l>
+                        <l><hi rend="i">Tout prest ; </hi></l>
+                        <l>il Sifle.</l>
+                        <l>u u u u u u</l>
+                        <l><hi rend="i">Je suis tout prest à partir pour l'armée.</hi></l>
+                      </lg>
                     </quote>
+                  <p>On n'a pas pû mettre dans la Musique la Basse continue comme on la mettra dans la suite dans toutes les Chansons que je donneray, parce que cette Basse a relation avec une Cantate de Flutes que Mr. De la Barre a faite sur cette Chanson. Cette Cantate de Flutes se vend chez Mr. Foucault, ruë S. Honoré à la Regle d'Or, vis-à-vis la ruë des Bourdonnois.</p>
                 </div>        
             </body>
   </text>

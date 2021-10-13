@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1710-01">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1710-08">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -80,7 +80,7 @@
           <lg>
             <l><hi rend="i">Un Sot qui veut faire l'habile,</hi></l>
             <l><hi rend="i">Dit qu'en lisant il prétend tout sçavoir,</hi></l>
-            <l><hi rend="i">Un fou<note resp="editor" place="margin">« fol » dans la source musicale.</note>qui court de Ville en Ville</hi></l>
+            <l><hi rend="i">Un fou<note resp="editor" place="margin">« fol » dans la source musicale.</note> qui court de Ville en Ville</hi></l>
             <l><hi rend="i">En voyageant dit qu'il prétend tout voir,</hi></l>
             <l><hi rend="i">Et moy je dis d'un ton plus veritable,</hi></l>
             <l><hi rend="i">Que sans sortir de table</hi></l>
