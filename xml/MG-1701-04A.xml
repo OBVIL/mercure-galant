@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-04A">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-04a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-04A</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-04a</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1701 [première partie] [tome 4].</head>
-        <div type="article" xml:id="MG-1701-04A_005" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_005" resp="wordpro">
           <head>Au Roy</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 5-9.</bibl>
           <p>Le Roy fait tous les jours une infinité d’actions qui meritent d’estre sceuës, &amp; dont cependant il est difficile que l’on soit instruit. Ainsi je ne doute point qu’il n’y en ait beaucoup qui échaperont à la posterité, puis que dans le temps qu’elles se passent, les unes succedent aux autres avec tant de promptitude, que les dernieres dont on est frapé, font perdre l’attention qu’on doit aux premieres. La pieté &amp; la charité de ce grand Monarque l’engagent sur tout à faire du bien à tous momens, &amp; combien de grandes choses luy font-elles faire qui demeurent inconnuës ? J’apprens dans ce moment même, qu’il a donné une somme fort considerable pour aider à reparer le dommage que l’embrasement a fait à la belle Voûte de l’Eglise de Troye, dont je vous ay parlé dans mes Lettres. Ce Prince n’en est pas demeuré là. Il est entré dans les moyens de trouver des fonds pour la rétablir entierement, &amp; sa bonté y a pourvû de telle maniere, que l’on y travaille à force, &amp; que ce grand édifice sera bien tost remis dans sa premiere beauté. Il n’y a point de vertus morales, ou politiques, sur lesquelles on ne puisse également faire l’Eloge du Roy. La moderation est une de celles qui font son principal caractère, &amp; ce Madrigal la marque fort bien. Il est de M<hi rend="sup">r</hi> Alison, Avocat au Presidial de Nismes.</p>
@@ -84,7 +84,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_016" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_016" resp="wordpro">
           <head>[Ceremonie curieuse faite à Senlis]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], première partie, p. 16-37.</bibl>
           <p>Il n’est pas nouveau de voir des gens mariez, qui aprés cinquante ans de mariage, marquent par une espece de feste la joye qu’ils ont de la grace que Dieu leur a faite de les avoir laissé vivre ensemble un demi Siecle ; mais on n’a peut estre encore rien vu de semblable à ce qui vient de se passer à Senlis, à l’égard d’un mariage spirituel, contracté avec cette Eglise. M<hi rend="sup">r</hi> l’Abbé de Pruines, Doyen du Chapitre, ayant representé, le premier jour du mois passé, à M<hi rend="sup">rs</hi> les Chanoines qui le composent, qu’il croyoit qu’ils devoient donner à M<hi rend="sup">r</hi> Sanguin, Evêque de cette Eglise, quelque marque publique de leur reconnoissance &amp; de leur attachement, &amp; rendre graces à Dieu de leur avoir donné un Prelat, avec lequel ils vivent depuis cinquante ans dans une union qui a peu d’exemples, il ajoûta que l’occasion de satisfaire à ce devoir se presentoit naturellement ; que ce Prelat entroit dans la cinquantiéme année de son Episcopat, &amp; qu’il seroit à propos de profiter de cette conjoncture. Cette proposition fut reçuë avec une extrême joye, &amp; il n’y eut personne qui ne fût d’avis que l’on ne pouvoit trop faire pour un Prelat qui avoit toujours eu pour son Chapitre des manieres si honêtes &amp; si obligeantes. M<hi rend="sup">r</hi> le Doyen &amp; M<hi rend="sup">rs</hi> le Chantre, le Souchantre &amp; le Theologal furent députez pour aller luy faire les complimens de la Compagnie, &amp; le prier d’agréer le projet qu’elle avoit fait, M<hi rend="sup">r</hi> le Doyen porta la parole, &amp; M<hi rend="sup">r</hi> l’Evêque receut la proposition d’une maniere qui fit connoistre que la disposition de son Chapitre luy faisoit plaisir. Ainsi il fut arresté que la ceremonie se feroit le Jeudy 31 du même mois.</p>
@@ -107,7 +107,7 @@
           <p>Lors que ce Prelat eut achevé de parler, on alla dans le Chœur, où tous les Corps de la Ville estoient à leurs places. La Messe fut celebrée avec toutes les ceremonies qui s’observent dans les plus grandes solemnitez. Elle fut chantée par une excellente Musique, composée de tout ce qu’il y a de meilleures voix qu’on avoit fait venir de Paris, &amp; elle se termina par un Motet fait exprés, dont les paroles répondoient à la ceremonie, &amp; qui estoient parfaitement bien mises en œuvre. La Messe finie, le Chapitre accompagna M<hi rend="sup">r</hi> l’Evêque jusque chez luy, &amp; un moment aprés, M<hi rend="sup">r</hi> le Doyen vint le prendre pour le conduire à S. Maurice, où on luy avoit préparé à dîner. Tous les Chefs des Compagnies y estoient invitez, &amp; tous les Chanoines de la Cathedrale s’y trouverent. On servit deux tables de vingt-huit couverts chacune, &amp; tout s’y passa avec beaucoup d’ordre ; mais ce qu’il y eut de plus agreable, ce fut la joye que tout le monde fit paroistre, &amp; l’empressement avec lequel on marqua à ce Prelat le respect &amp; la tendresse que l’on a pour luy, &amp; le plaisir qu’on a eu de voir qu’estant âgé de quatre vingts ans, il soit d’une santé si parfaite, qu’on peut esperer de le garder encore plusieurs années.</p>
           <p>Le Dimanche suivant 3. de ce mois, il fit assembler M<hi rend="sup">rs</hi> du Chapitre, pour les remercier. Il prit les paroles de l’Evangile, <hi rend="i">Pax vobis</hi>, &amp; dit que c’estoit le don le plus précieux qu’il pust souhaiter ; qu’il avoit toujours infiniment estimé la paix ; que depuis cinquante ans il avoit tâché de l’entretenir ; qu’il avoit la joye d’y avoir réussi ; qu’il regardoit comme une des plus grandes graces que Dieu luy eût faites, de luy avoir donné un Chapitre tel que celuy de Senlis ; qu’il l’aimoit tendrement ; qu’il ne pouvoit assez leur marquer combien il estoit sensible à ce qu’ils avoient fait pour luy ; qu’il auroit souhaité de les en pouvoir remercier chacun en particulier ; qu’il estoit redevable à la Compagnie de tous les témoignages d’amitié qu’il venoit de recevoir de son Clergé &amp; de son Peuple ; que cette démarche auroit augmenté la tendresse qu’il avoit pour eux, si elle avoit pû recevoir quelque accroissement ; qu’il leur demandoit la continuation de leur amitié, &amp; qu’il les prioit de compter absolument sur la sienne, rien ne pouvant luy causer plus de joye que d’avoir des occasions de leur en donner des marques. Cela fut dit avec un épanchement de cœur qui attendrit tout le monde, &amp; l’on peut assurer que jamais Discours ne fit plus d’impression.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04A_037" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_037" resp="wordpro">
           <head>Appelle &amp; Protogene</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 37-48.</bibl>
           <p>Lisez le Conte que je vous envoye, &amp; qui est adressé à M<hi rend="sup">r</hi> le Marquis de la Vrilliere, Secretaire d’Etat. Vous n’aurez pas de peine à deviner quel en est l’Auteur. Vous avez déja vu beaucoup de Pieces de ce même stile, &amp; il n’est pas fort aisé de l’attraper.</p>
@@ -261,12 +261,12 @@
           </quote>
           <p>Vous voyez bien qu’il n’y a que M<hi rend="sup">r</hi> de Senecé capable de donner à un Conte toute la grace qui se trouve en celuy-cy. Il est tourné d’une maniere fort agreable, &amp; vous me sçaurez gré sans doute de vous l’avoir envoyé.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04A_048" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_048" resp="wordpro">
           <head>[Le Défy des Muses]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], première partie, p. 48-50.</bibl>
           <p>Si vous avez envie de voir ce que peut un esprit fecond ; vous n’avez qu’à lire un petit livre, qui a pour titre, <hi rend="i">Le Défy des Muses</hi>. Vous y trouverez trente Sonnets Moraux, que M<hi rend="sup">r</hi> Mallemant de Messange, qui en est l’Auteur, a remplis en trois jours, sur les mêmes Bouts-rimez donnez par Madame la Duchesse du Maine. Chaque Sonnet a un sujet different. M<hi rend="sup">r</hi> Mallemant de Messange s’estant vû accusé d’estre à bout par ces trente Sonnets, en ajoûta aussitost dix autres sur d’autres sujets, pour sa justification, &amp; il se sent si peu épuisé, qu’il declare, que pour peu qu’on le défie d’aller plus loin, il menace de la centaine :</p>
         </div>
-        <div type="article" xml:id="MG-1701-04A_050" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_050" resp="wordpro">
           <head>[Bouts-rimez]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 50-51.</bibl>
           <p>Voicy encore un Sonnet sur les mêmes Bouts rimez de Madame la Duchesse du Maine. Le même M<hi rend="sup">r</hi> Mallemant de Messange les a remplis sur la maladie, &amp; sur le rétablissement de la santé de Monseigneur le Dauphin.</p>
@@ -298,7 +298,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_052a" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_052a" resp="wordpro">
           <head>[Quatrain]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 52.</bibl>
           <p>Ce Quatrain, pour mettre au Portrait de M<hi rend="sup">r</hi> le Comte de Noailles, representé avec une cuirasse de fer, est aussi du même.</p>
@@ -311,7 +311,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_052b" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_052b" resp="wordpro">
           <head>[Madrigaux]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 52-57.</bibl>
           <p>Je ne puis vous dire de qui est le Madrigal que vous allez lire.</p>
@@ -354,7 +354,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_055" resp="angèle">
+        <div type="article" xml:id="MG-1701-04a_055" resp="angèle">
           <head>[La temeritê blâmée de ceux qui trouvent à redire à la timidité respectueuse de ceux qui haranguent les Princes]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 55-57.</bibl>
           <p>Vous ne serez point fachée de voir ce que l’on a répondu aux Témeraires qui ont trouvé à redire à la timidité respectueuse de quelques-uns de ceux qui ont eu l’honneur de haranguer Messeigneurs les Princ[e]s. Elle ne peut jamais estre regardée que comme une marque de la veneration qu’on a pour la grandeur de leur rang.</p>
@@ -379,7 +379,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_057" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_057" resp="wordpro">
           <head>[Description à la mode]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 57-75.</bibl>
           <p>Je vous ay parlé du Ballet que les Peres de la Doctrine Chrestienne du College de l’Esquille firent danser au sujet de l’arrivée de Messeigneurs les Princes dans la Ville de Toulouse, &amp; je vous ay dit que la Musique estoit de M<hi rend="sup">r</hi> Aphroidise, dont l’habileté en cet art est connuë. Nous n’aurons pas de peine à le croire, si nous en jugeons par le sçavoir de ceux que Toulouse nous a donnez, Je vous ay envoyé une description de toutes les entrées de ce Ballet. Vous m’en demandez de l’Illumination &amp; du Feu, &amp; je vais vous satisfaire.</p>
@@ -462,7 +462,7 @@
             <p>Il roule également sur l’un &amp; l’autre Pôle.</p>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_106" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_106" resp="wordpro">
           <head>[Detail de ce qui s'est passé à la derniere Assemblée publique de l’Academie des Sciences]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 106-113.</bibl>
           <p>Le 6. de ce mois, l’Academie des Sciences tint une Assemblée publique, qui fut honorée de la presence de S.A.R. Monsieur le Duc de Chartres. Elle fut ouverte par M<hi rend="sup">r</hi> de Fontenelle, Secrétaire de cette Compagnie, qui leut une Preface qu’il doit mettre à la teste de son Histoire de l’Academie des Sciences, depuis le Reglement de 1699 Cette Preface rouloit toute entiere sur l’utilité des Mathematiques &amp; de la Phisique. Il fit voir que ces Sciences sont necessaires pour la conservation de la vie des hommes, &amp; pour l’invention ou la perfection des Arts ; que souvent leurs speculations les plus subtiles, &amp; en apparence les plus inutiles, s’appliquent à ces usages si solides, mais sans que le gros du monde, qui n’est pas instruit de ces sortes de choses, s’en apperçoive ; que ce qu’il y a dans ces Sciences de simplement curieux, éléve &amp; enrichit extrémement l’esprit humain, sur tout par la haute idée que l’on prend de Dieu, en étudiant la Nature, &amp; qu’enfin il n’y a que des Compagnies, &amp; des Compagnies protegées par un grand Prince, qui puissent embrasser avec succés, &amp; suivre aussi long-temps qu’il le faut avec le même esprit, tant de connoissances si differentes, si vastes, &amp; presque inépuisables. Il parut que ce Discours persuada le Public, par la justesse des raisonnemens, &amp; qu’il luy plut même assez par le stile. Aussi l’applaudissement fut-il general.</p>
@@ -471,7 +471,7 @@
           <p>M<hi rend="sup">r</hi> Homberg termina la Séance par un Discours sur les fermentations, qui peut conduire à des reflexions tres utiles sur les fermentations du sang dans nostre corps, &amp; sur la composition des Remedes. Pour mêler aux raisonnemens quelque Spectacle Philosophique, qui piquast la curiosité de l’Assemblée, il fit voir deux liqueurs froides dont le mélange produisoit subitement de la flame. Ensuite il mit le feu à de la Poudre à Canon, qui estoit dans un peu de liqueur, en versant seulement dessus quelques gouttes d’une autre liqueur.</p>
           <p>M<hi rend="sup">r</hi> l’Abbé Bignon qui présidoit, répandit des fleurs sur toutes ces matieres naturellement seches &amp; peu agreables, &amp; donna des explications tres-claires &amp; tres précises, sur tout ce qui pouvoit n’estre pas assez à la portée de la pluspart des Auditeurs.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04A_114" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_114" resp="wordpro">
           <head>[Suite du Journal de la route de Messeigneurs les Princes]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 114-272.</bibl>
           <p>Je viens à l’article de la route de Messeigneurs les Princes, dont vous attendez la suite. Ils partirent de Nismes le 3 de Mars à neuf heures du matin, aprés avoir entendu la Messe aux Jesuites. S’ils eussent suivi la route ordinaire, ils auroient esté coucher à Arles, mais la petite verole estoit en plusieurs endroits de cette Ville, &amp; l’Archevêque même en avoit esté attaqué, ce qui fut cause que M<hi rend="sup">r</hi> le Maréchal de Noailles ne jugea pas à propos de les y laisser passer. Les Habitans s’estoient fait un si grand plaisir de les y recevoir, qu’ils n’avoient rien oublié de tout ce qu’il falloit faire pour en donner d’éclatantes marques. Ils avoient fait dresser dans leur Ville quantité de fort grands Arcs de triomphe, &amp; depuis la porte de la Ville jusqu’au lieu où Messeigneurs les Princes devoient loger, on devoit passer au milieu d’une double haye d’orangers, entre mêlée de Bourgeois sous les armes. On trouva plus de deux mille Habitans sur la route, qui se plaignirent de ce qu’on n’avoit pas passé dans leur Ville. On assure qu’ils avoient fait une dépense tres-considerable. Messeigneurs les Princes allerent coucher à Beaucaire, qui est une petite Ville assez jolie, &amp; assez bien bâtie. Il y a de tres belles promenades, &amp; la Cour y fut bien logée. Le vent fut si grand que Messeigneurs les Princes ne purent se promener le soir. Dés le même jour, on fit aller tous les gros équipages à Tarascon, le Pont de la Chaussée s’estant trouvé assez large.</p>
@@ -740,13 +740,13 @@
             <p>La Cour de la Maison du Roy estoit illuminée, &amp; sur tout un grand Arbre qui est fort élevé dont les lumieres desinoient si bien toutes les parties, qu’il arresta longtemps les regards de tous ceux qui eurent le plaisir de voir cette Feste. Messeigneurs les Princes qui estoient entrez par la porte du Jardin, sortirent par la grande porte au bruit du canon, des boëttes, des trompettes, &amp; des tambours, &amp; trouverent jusqu’à leur Palais, une infinité de Dames, &amp; de gens de consideration, qui les ayant déja suivis par tout, &amp; ne se lassant point de les admirer, s’estoient encore postez pour les voir passer, &amp; leur souhaiter mille benedictions.</p>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_307" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_307" resp="wordpro">
           <head>[Anecdote, ou Histoire secrette des Vestales ; Modeles de conversation pour les Personnes polies]*</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 307-309.</bibl>
           <p>On vend à Paris, chez Guillaume Cavelier, à l’entrée de la grande Salle du Palais, du costé de la Cour des Aides, &amp; à la Palme, un livre intitulé <hi rend="i">Anecdote, ou l’Histoire secrete des Vestales</hi>. Cet ouvrage commence d’abord par une belle Préface historique sur l’institution &amp; la Religion des Vestales. L’on y voit les privileges &amp; les avantages qu’elles avoient, leurs habillemens &amp; leurs ceremonies, leur antiquité, qui surpasse celle de l’Empire Romain, &amp; plusieurs autres choses sçavantes &amp; curieuses. Le reste du livre contient diverses avantures amoureuses, &amp; sur tout une, dont la catastrophe est funeste par la jalousie de l’Empereur Domitien. Tout cela est accompagné d’une intrigue tres-belle &amp; des mieux écrite. L’art y regne par tout, &amp; la délicatesse des expressions égale celle des pensées. On attribuë cette Histoire à l’Auteur des Avantures, des Lettres galantes, &amp; de la Promenade des Tuilleries, qu’on vend en deux volumes chez le même Libraire, &amp; dont le succés est un préjugé favorable pour le debit de celuy-cy.</p>
           <p>Le sieur Guignard, Libraire, ruë S. Jacques, vient de donner la troisiéme édition du livre intitulé, <hi rend="i">Modeles de conversation pour les Personnes polies</hi>. M<hi rend="sup">r</hi> l’Abbé de Bellegarde, qui en est l’Auteur, l’a augmenté d’une Conversation sur les Modes, que vous trouverez fort agréable.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04A_319" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_319" resp="wordpro">
           <head>[Actions de graces renduës à Dieu pour la convalescence de Monseigneur le Dauphin]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 319-325.</bibl>
           <p>La triste nouvelle de la maladie de Monseigneur fut comme un coup de tonnere, qui se fait entendre fort loin dans le moment qu’il éclate. Tout Paris l’a sçût presque en même temps, &amp; quelque mauvaise qu’elle fust, on ne peut pas dire avec raison, qu’on l’apprit trop tost, puisque pendant que les Medecins employoient leurs remedes &amp; donnoient leurs soins à sa guerison, les personnes pieuses, sensiblement touchées d’un accident si soudain &amp; si surprenant, qui faisoit craindre pour la vie d’un si bon Prince, se mirent aussitost en prieres pour l’obtenir. Madame de Harlay, Abbesse du Port-Royal de Paris, fut la premiere, qui ne se contentant pas de celles de sa Communauté &amp; des siennes, pour exciter le public à ce saint devoir, estant convaincue des grands miracles, que fait continuellement la Sainte Epine de la Couronne de Nostre-Seigneur, qui est en son Monastere, dés le matin &amp; en l’instant qu’on luy dit cette facheuse nouvelle, exposa cette précieuse Relique, à la devotion des Fidelles, se mit en prieres avec toutes ses Religieuses, pour demander à Dieu le recouvrement d’une santé si chere &amp; si importante au Royaume ; &amp; fit veu que si Dieu exauçoit sa demande, elle feroit chanter le Vendredy d’aprés Pâques une Messe solennelle à la Sainte Epine, &amp; le <hi rend="i">Te Deum</hi> en Action de graces ; ce qu’elle a executé tres-exactement, puisqu’à peine eut on apris le retablissement de la Santé de ce grand Prince, que ne pouvant retenir son empressement, le Mardy, seconde Feste de Pâques, elle fit dire dans l’Eglise de son Convent un Salut, &amp; le <hi rend="i">Te Deum</hi> ensuite, qui fut le premier de ceux qui ont esté chantez, pour remercier Dieu de cette faveur. La ceremonie fut d’autant plus solemnelle, que Son Altesse Royale Madame y assista, &amp; édifia l’Assemblée par sa pieté exemplaire. Le Vendredy suivant cette Abbesse fit celebrer une Messe haute, pour s’acquitter entierement par ce Saint Sacrifice du vœu que son zele luy avoit fait faire.</p>
@@ -765,7 +765,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04A_325" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04a_325" resp="wordpro">
           <head>[Sonnet sur le retour de Monseigneur le Duc de Bourgogne]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [première partie] [tome 4], p. 325-327.</bibl>
           <p>Je vous envoye un Sonnet qui a esté fait par M<hi rend="sup">r</hi> d’Aubicourt, sur le retour de Monseigneur le Duc de Bourgogne.</p>

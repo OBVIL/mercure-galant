@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-04B">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-04b">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-04B</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-04b</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1701 [deuxième partie] [tome 5].</head>
-        <div type="article" xml:id="MG-1701-04B_003" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_003" resp="wordpro">
           <head>[Suite du journal de la route de Messeigneurs les Princes]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 3-208.</bibl>
           <p>La pluye ayant recommencé le 13. Mars, avant que Messeigneurs les Princes partissent pour Marseille, ainsi que je vous ay déja marqué que ces Princes en estoient partis, ils n’allerent point coucher à Aubagne comme il avoit esté resolu ; mais au Bausset qui est un Bourg à deux lieuës de Toulon. Ils en partirent le lendemain à neuf heures du matin, &amp; trouverent une route fâcheuse. Ils allerent toûjours entre des rochers affreux qui retressissent si fort les chemins en certains endroits, qu’il ne se trouvoit souvent que l’espace qu’il falloit pour les carosses, &amp; un precipice au bas. Les Princes monterent à cheval dans ces endroits perilleux. M<hi rend="sup">r</hi> le Maréchal de Noailles les avoit preparés à les passer à pied, ce qu’ils auroient fait si le vent eust esté aussi violent qu’il l’avoit esté le jour precedent, parce qu’il s’engoufre souvent dans ces chemins estroits, jusqu’à renverser les litieres qui sont les voitures ordinaires de ce pays-là. Messeigneurs les Princes, aprés avoir passé tous ces chemins dangereux, &amp; conduit leurs chevaux dans les passages les plus estroits avec l’adresse qui leur est ordinaire, remonterent en carosse une lieuë en deça de Toulon, où ils arriverent sur le midy. Le corps qui estoit à la droite estoit composé de cent cinquante hommes, tous jeunes, &amp; bien faits. Ils estoient en justaucorps rouge, &amp; en plumets blancs. Le corps qui se trouva à la gauche, estoit composé de dix compagnies des vaisseaux, dont les soldats aussi bien que les Officiers estoient habillez de neuf. Les Officiers avoient un habit uniforme galonné d’or, sur un drap gris-blanc, ce qui faisoit plaisir à la vûë. Messeigneurs les Princes passerent entre ces deux corps, &amp; trouverent M<hi rend="sup">r</hi> le Comte de Grignan Lieutenant General, Commandant en Provence, M<hi rend="sup">r</hi> le Marquis de Chalmasel, Commandant de la Place, M<hi rend="sup">r</hi> le Lieutenant de Roy, &amp; le Maire, &amp; les Consuls en chaperon, accompagnez du Corps de Ville, &amp; des principaux habitans, tous vestus de noir, qui eurent l’honneur de les salüer, &amp; de les recevoir hors de la demy-lune de la porte Royale, où l’on avoit dressé de grands palmiers, au dessus, &amp; au milieu desquels il y avoit une grande couronne Royale formée de fleurs de differentes couleurs. Il y avoit de chaque costé une rangée d’Orangers, &amp; de citronniers en pleine terre tous chargés de fruits, qui formoient une allée jusqu’au pont levis de la demy-lune, au devant duquel il y avoit un Arc de Triomphe de 45. pieds de haut, revestu de mirthe, de laurier, de palmes, &amp; de verdure. Les Armes de France, &amp; celles de Messeigneurs les Princes estoient sur le fronton, &amp; l’on voyoit au-dessus de ces armes un grand Soleil d’or, avec ces mots, tirez de la devise du Roy. <hi rend="i">Nec pluribus impar</hi>. Ils estoient en gros caracteres d’or. Il y avoit à toutes les faces du dedans, &amp; du dehors de cet Arc des tableaux qui representoient les Vertus morales, &amp; heroïques.</p>
@@ -607,7 +607,7 @@
           <p>J’ay oublié de vous dire, que ce fut à Montelimar que cet Intendant commença à tenir ces tables, qui ont esté toûjours magnifiquement servies, &amp; que le premier jour d’Avril, ce mesme Intendant donna un grand Bal à Valence. Il y avoit deux Reines, l’une blonde &amp; l’autre brune, sçavoir Mademoiselle de Villefranche &amp; Mademoiselle de Bayane, toutes deux d’une tres-grande beauté. Comme il y avoit deux Reines, il y eut aussi deux Rois. L’un fut M<hi rend="sup">r</hi> le Marquis de Livri, &amp; l’autre M<hi rend="sup">r</hi> le Comte de Quintin.</p>
           <p>Je remets au mois prochain la suite de ce Journal, qui commencera par l’arrivée de Messeigneurs les Princes à Lyon.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04B_216" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_216" resp="wordpro">
           <head>[Vers à la gloire de M<hi rend="sup">r</hi> de Rohan de Soubise]*</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 216-218.</bibl>
           <p>On a fait un petit Ouvrage en vers latins à la gloire de M<hi rend="sup">r</hi> de Rohan de Soubise, il a esté mis en nostre Langue par ces vers.</p>
@@ -632,7 +632,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_224" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_224" resp="wordpro">
           <head>[<hi rend="i">Te Deum</hi> chantez]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 224-238.</bibl>
           <p>Outre les <hi rend="i">Te Deum</hi> dont je vous ay parle dans ma Lettre, dont celle-cy fait la suite, ces deux Lettres doivent vous estre renduës ensemble, parce qu’elles sont toutes deux datées du mesme jour, les Dames de l’Union Chrestienne en ont fait chanter un, de la composition de M<hi rend="sup">r</hi> Campra. On peut juger par le profond savoir, &amp; par la reputation de ce Maître de Musique, de la beauté de ce <hi rend="i">Te Deum</hi>, &amp; du desir que les Dames de l’Union Chrestienne avoient de faire éclater leur joye, en marquant leur pieté.</p>
@@ -688,7 +688,7 @@
           </quote>
           <p>La Paroisse de S. Louis dans Lisle n’avoit garde de manquer à un devoir aussi juste qu’étoit celuy de rendre des actions de graces à Dieu pour la parfaite santé du Roy, &amp; pour l’entiere convalescence de Monseigneur le Dauphin. C’est la seule Paroisse de Paris dediée à Dieu sous l’invocation de S. Louis, Patron, &amp; un des Ayeuls de Sa Majesté. Elle se sentit d’autant plus obligée à ce devoir, que Sa Majesté a fait poser en son nom la premiere pierre de la nouvelle Eglise, &amp; a contribué de sommes considerables pour ce Bâtiment, ce qui fait qu’elle a la qualité &amp; le nom de <hi rend="i">Paroisse Royale</hi>. M<hi rend="sup">rs</hi> les Curez &amp; Marguilliers y firent chanter le dixiéme d’Avril un Salut solemnel, où l’on fit plusieurs Prieres pour là conservation de la personne sacrée de Sa Majesté, &amp; pour la Paix. Le <hi rend="i">Te Deum</hi> fut chanté en actions de graces du rétablissement de la santé de Monseigneur. L’Autel estoit paré magnifiquement, &amp; éclairé d’un grand nombre de luminaires. Tout le Clergé de la Paroisse y assista, &amp; il s’y trouva une foule incroyable de peuple, tant de cette Paroisse que des Paroisses voisines. La Ceremonie finit par une Procession du saint Sacrement qui se fit autour de l’Eglise, aprés quoy les Paroissiens marquerent leur joye par des feux qu’ils allumerent, &amp; par des boëtes qui furent tirées.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04B_238" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_238" resp="wordpro">
           <head>[Madrigaux sur la convalescence de Monseigneur]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 238-242.</bibl>
           <p>Je vous envoye un Madrigal de M<hi rend="sup">r</hi> Dader, sur l’accident qui a fait trembler toute la France, en menaçant la vie de Monseigneur le Dauphin.</p>
@@ -741,7 +741,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_242" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_242" resp="wordpro">
           <head>[Autre sur la succession d’Espagne]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 242-244.</bibl>
           <p>Ce Madrigal que j’ajouste est parti de la même veine. Il est sur le grand événement de la succession d’Espagne, &amp; adressé à M. le Duc de Beauvilliers.</p>
@@ -773,7 +773,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_249" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_249" resp="wordpro">
           <head>[Places remplies dans l’Academie Françoise]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 249-252.</bibl>
           <p>Il y a long-temps que vous sçavez la mort de M<hi rend="sup">r</hi> l’Evêque, Comte de Noyon, qui a laissé une place vacante dans l’Académie Françoise. Depuis ce tems-là, il y en a vaqué une seconde, par celle de M<hi rend="sup">r</hi> de Segrais, arrivée à Caën le 24. Mars. Ces deux Places furent remplies le Jeudy 28. d’Avril, par le choix que fit cet illustre corps de M<hi rend="sup">r</hi> de Malezieu pour la premiere &amp; de M<hi rend="sup">r</hi> Capistron pour la seconde. Je vous parleray du merite de l’un &amp; de l’autre quand je vous apprendray leur reception. Je vous diray seulement aujourd’huy, à l’égard de feu M. de Segrais, qu’il a esté generalement regretté à Caën, où la douceur de ses Vers le faisoit regarder comme un digne successeur du fameux Malherbe, qui estoit né dans la même Ville. Vous n’ignorez pas combien son excellente traduction de l’Eneïde en vers François, luy a acquis de reputation. La droiture de son cœur &amp; la bonté de ses mœurs égaloient la beauté de son esprit. Il avoit établi une espece d’Academie, &amp; plusieurs personnes considerables par leur sçavoir &amp; par leur merite s’y assembloient toutes les semaines. M<hi rend="sup">r</hi> Foucault Intendant de la Province, avoit avec luy une liaison étroite. C’est ce qui a donné lieu à M<hi rend="sup">r</hi> de la Monnoye de Dijon, si connu par ses beaux Ouvrages de Poësie, de faire cette Epitaphe.</p>
@@ -797,12 +797,12 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_255" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_255" resp="wordpro">
           <head>[Nouvelle Edition du Dictionnaire de Moreri]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 255-256.</bibl>
           <p>Il n’y a personne qui ne sçache qu’elle est l’utilité du Dictionnaire Historique de Morery. Les Libraires de Paris qui ont debité en tres peu de temps la derniere édition qu’ils en avoient faite, travaillent actuellement à en donner une nouvelle. Pour ne rien omettre de ce qui peut la rendre plus parfaite, M<hi rend="sup">r</hi> Vautier, qui s’est chargé de la revoir, &amp; qui avoit déja pris soin de la precedente, vient de publier un projet qu’il soumet au jugement du public. Ceux qui voudront bien luy faire part de leurs lumieres pour la correction &amp; l’augmentation de ce Livre, ou qui auront quelques memoires à luy fournir sur les Genealogies qui y sont contenuës, &amp; sur celles qu’on y pourroit ajoûter, sont priez de les addresser aux Sieurs Herissant, Coignard &amp; Mariette Libraires à Paris, chez qui le Projet se distribue gratis.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04B_260" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_260" resp="wordpro">
           <head>[Le Thé à M<hi rend="sup">elle</hi> de Scuderi]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 260-261.</bibl>
           <p>Vous voudrez bien entendre parler le Thé, à l’illustre Mademoiselle de Scuderi.</p>
@@ -817,7 +817,7 @@
           <p>Ce quatrain fut rendu à Mademoiselle de Scuderi avec une boëte de Thé. Il est de M<hi rend="sup">r</hi>. Moreau de Mautour, qui a fait une Parodie sur la loure de l’Opera d’Hesione, pour une Dame de la premiere qualité, dont le mary a un des premiers &amp; des plus considerables emplois de l’Armée. Cette Parodie peut convenir aux Epouses tendres dont les Maris doivent partir pour l’Armée.</p>
           <p>Sur l’air, <hi rend="i">Aimable Vainqueur</hi>, &amp;c.</p>
         </div>
-        <div type="article" xml:id="MG-1701-04B_261" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_261" resp="wordpro">
           <head>À Madame la Comtesse D.L.F. Sur le bruit de la Guerre</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 261-262.</bibl>
           <quote>
@@ -849,7 +849,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_262" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_262" resp="wordpro">
           <head>[Madrigal aux Courtisans]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 262-264.</bibl>
           <p>Voicy des Vers qui devroient estre de quelque utilité au Public, en faisant ouvrir les yeux aux Courtisans qui pourroient rendre autant de service à ceux qui ont besoin de trouver des Protecteurs, qu’a toûjours fait feu M<hi rend="sup">r</hi>. Bontemps.</p>
@@ -871,7 +871,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-04B_305" resp="wordpro">
+        <div type="article" xml:id="MG-1701-04b_305" resp="wordpro">
           <head>[Entrée publique du Roy d’Espagne à Madrid]</head>
           <bibl><title>Mercure galant</title>, avril 1701 [deuxième partie] [tome 5], p. 305-311.</bibl>
           <p>L’entrée publique du Roy Philippe V. se fit à Madrid, le 14. d’Avril, comme il avoit esté résolu. L’heure ayant esté marquée à trois heures aprés midy, on partit du <hi rend="i">Retiro</hi>. Les trompettes des plaisirs precedoient celles du Corps de Ville. Tous les Directeurs estoient habillez en robbe à la Romaine, d’une estoffe blanche &amp; argent, &amp; allerent jusqu’à <hi rend="i">l’Arco</hi>. C’est-là que s’estoient assemblez les differens Ordres Militaires en habits de couleur, avec la <hi rend="i">Golilla</hi> &amp; des plumes differentes. Tous les Chevaliers avoient de tres-beaux chevaux, &amp; leurs harnois faisoient éclater une égale magnificence. Les Gentilshommes de la maison &amp; de la bouche les suivoient. La premiere Noblesse, &amp; les Grands du Royaume venoient ensuite tous à cheval, en habits à l’Espagnole en broderie, ou chamarrez de dentelles de soye sans or ny argent. Ils marchoient devant Sa Majesté Catholique, qui montoit un cheval Alezan, dont elle moderoit la fougue par son adresse. Elle estoit precedée par sa garde Espagnole, Flamande, Allemande, &amp; par les gardes du Corps à pied, &amp; estoit vestuë fort simplement à la reserve des pierreries qui estoient sur son habit. Si-tost que le Roy parut à <hi rend="i">l’Arco</hi>, la Ville en corps vint le recevoir. Dom Francisco Ronquillo, Corregidor, luy en offrit les clefs. Sa Majesté osta son chapeau pour les recevoir ; &amp; se mettant sous le Dais qu’on luy offrit, on marcha jusqu’à l’Eglise de sainte Marie. Sa Majesté descendit de Cheval à la porte de cette Eglise, &amp; y entra pour faire les actions de graces, Le Cardinal Portocarrero officia au <hi rend="i">Te Deum</hi> qui fut chanté. Aprés cet acte de Religion, Sa Majesté continua sa route, &amp; trouva à quelque distance de-là un arc de triomphe élevé à sa gloire dans toutes les regles de l’Art. Des Chœurs de Nimphes l’y attendoient, &amp; le conduisirent avec une charmante melodie jusqu’à son Palais, en chantant ses loüanges à ses deux costez. On avoit disposé cette grande ruë en trois chemins differens. Celuy du milieu estoit celuy où passoit le Roy &amp; ceux qui composoient sa suite. Des barrieres à droit &amp; à gauche, les separoient de la foule, à hauteur d’apuy. Les Comediens &amp; les Filles de la Musique marchoient de chaque costé avec les instrumens de musique, qui accompagnoient leurs voix.</p>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-05B">
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-05b">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-05B</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-05b</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
     Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -62,7 +62,7 @@
   <text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1701 [deuxième partie] [tome 7].</head>
-        <div type="article" xml:id="MG-1701-05B_003" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_003" resp="wordpro">
           <head>L’Alliance de la Sagesse avec la Jeunesse</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 3-23.</bibl>
           <p>Comme je ne me suis pas seulement engagé à vous donner la suite de ce qui s’est passé dans le Voyage de Messeigneurs les Princes, mais même à vous envoyer quantité de Pieces, qui ne m’ont pas esté renduës assez à temps, pour estre placées dans l’ordre où elles auroient dû l’estre, si je les avois receuës plûtost, je commence par un Idille qui a esté chanté devant Messeigneurs les Princes à Toulouse. Cet Ouvrage est du Pere Capistron, Jesuite, Frere de M<hi rend="sup">r</hi> de Capistron, Secretaire des Galeres, &amp; de M<hi rend="sup">r</hi> le Duc de Vendôme, &amp; dont les Ouvrages de Theatre ont eu un si grand succés, qu’ils luy ont fait meriter une place à l’Academie Françoise. Vous verrez par cet Idille que l’entousiasme qui fait les bons Poëtes, regne dans cette Famille.</p>
@@ -407,7 +407,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-05B_029" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_029" resp="wordpro">
           <head>[Divers ouvrages presentez au Roy d’Espagne estant encore en France]</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 29-33.</bibl>
           <p>Voicy des Vers qui ont aussi esté presentez au Roy d’Espagne pendant sa route.</p>
@@ -469,7 +469,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-05B_043" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_043" resp="wordpro">
           <head>[Diverses pieces adressées au Roy d’Espagne, à Monseigneur le Dauphin &amp; à Monseigneur le Duc de Berry]</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 43-53.</bibl>
           <p>Quoy que les quatre pieces suivantes ne soient pas toutes adressées au Roy d’Espagne, elles luy ont esté néanmoins presentées pendant sa route.</p>
@@ -610,7 +610,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-05B_059" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_059" resp="wordpro">
           <head>[Explication des sept miracles de Dauphiné, avec autant de Devises sur ces miracles appliquées au Roy, à S. M. Catholique, &amp; à Monseigneur le Dauphin]</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 59-79.</bibl>
           <p>Le premier des sept miracles de Dauphiné est une montagne à six lieuës de Grenoble dans le Diocese de Die. Elle est d’une hauteur prodigieuse, escarpée de toutes parts, &amp; separée des montagnes voisines, beaucoup plus étroite par le bas ; de sorte qu’elle ressemble de loin à une piramide renversée.</p>
@@ -811,7 +811,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-05B_079" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_079" resp="wordpro">
           <head>[Ode présentée à Messeigneurs les Princes pendant leur séjour à Avignon &amp; trouvée parfaitement belle]</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 79-86.</bibl>
           <p>Je vous envoye une Ode qui a esté trouvée parfaitement bonne, &amp; qui a reçu de grands applaudissemens. Elle fut presentée à Avignon à Messeigneurs les Princes, par M<hi rend="sup">r</hi> Limoion de S. Didier, Neveu de feu M<hi rend="sup">r</hi> le Chevalier de S. Didier, connu par l’Histoire de Venise, par le Traité de Paix de Nimegue, &amp; par un Traité de Chimie qu’il a mis au jour.</p>
@@ -935,7 +935,7 @@
             </lg>
           </quote>
         </div>
-        <div type="article" xml:id="MG-1701-05B_087" resp="wordpro">
+        <div type="article" xml:id="MG-1701-05b_087" resp="wordpro">
           <head>[Suite du Voyage de Messeigneurs les Princes]*</head>
           <bibl><title>Mercure galant</title>, mai 1701 [deuxième partie] [tome 7], p. 87-348.</bibl>
           <p>Il est temps que je finisse ce Journal que j’ay si heureusement commencé, &amp; dont toute l’Europe a paru contente. Messeigneurs les Princes ayant couché le 8. Mars dans un Bourg du Dauphiné appellé Pyrieu, en partirent le 9. &amp; ayant traversé le belle &amp; vaste plaine de Sainfons, il parurent à la vûe de Lyon à une heure aprés midy. M<hi rend="sup">r</hi> Despincelle Prevost des Maréchaux de Lyon avec les Maréchaussées, de Forest, &amp; de Beaujollois dépendantes du Gouvernement de cette Ville, allerent au-devant d’eux à une lieuë &amp; demie. Ces Compagnies étoient vêtuës de neuf, &amp; les Officiers avoient des habits magnifiques. M<hi rend="sup">r</hi> le Marquis de Rochebonne, Commandant pour le Roy dans la Province, accompagné d’environ deux cens Gentilshommes des environs, tous bien montez, trouva Messeigneurs les Princes à demi-lieuë au delà du Faubourg de la Guillotiere, &amp; eut l’honneur de leur faire un compliment qui fut fort applaudi par sa justesse. Aprés cela la Noblesse suivit leur carrosse &amp; prit avec eux la route de la Ville. Les Academistes allerent aussi au devant des Princes, &amp; formerent un petit Corps à part, des plus lestes &amp; des plus brillans. M<hi rend="sup">r</hi> Pavant de Floratis, leur Ecuyer, &amp; le Gouverneur de l’Academie de Lyon, qui les avoit disposez sur une ligne, avec beaucoup d’ordre, eut avec eux l’honneur de les saluer trois fois l’épée à la main, M<hi rend="sup">r</hi> Deviau, Lieutenant Criminel de Robe-courte estoit avec les Officiers &amp; Archers de sa Compagnie à l’entrée du Fauxbourg de la Guillotiere. Aprés ces divers Corps de Cavalerie, les Princes avançant un peu plus vers le Fauxbourg, trouverent le corps le plus avancé de la Bourgeoisie de la Ville. Elle formoit dans cet endroit-là un Bataillon complet, dont la teste &amp; la queuë estoient composées de Piquiers &amp; de Cuirassiers, ou de Gens armez de toutes pieces. Leurs armes estoient toutes dorées &amp; damasquinées pour la plus part. Ce premier Bataillon estoit suivi immediatement d’une longue file d’environ deux cens carrosses, qui occupoient une assez grande espace, estant tous rangez sur une même ligne, pour laisser la droite à Messeigneurs les Princes. Six cens Dames des plus distinguées de la Ville, vestuës de noir &amp; ornées de pierreries remplissoient cette suite de carrosses, qui alloit aboutir au commencement du Fauxbourg.</p>
