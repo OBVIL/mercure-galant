@@ -26,21 +26,23 @@
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-09b/</idno>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
+              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
+              vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas
+            souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -1569,10 +1571,11 @@
           Ville.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_242">
-        <head>[Réjouissances au Havre et distiques .]*</head>
+        <head>[Réjouissances au Havre et distiques.]*</head>
         <bibl><title>Mercure galant</title>, septembre 1682 (seconde partie) [tome 10],
           p. 242-262.</bibl>
-        <p/>
+        <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : La
+          Planche des Devises doit regarder la page 250.</note>
         <p>L’absence de M<hi rend="sup">r</hi> le Duc de S. Aignan, Gouverneur du Havre, qui estoit
           au Château d’Alincourt, ny l’indisposition de M<hi rend="sup">r</hi> de la Vaissiere,
           Lieutenant de Roy, n’auroient pas esté des obstacles à retarder la juste impatience
