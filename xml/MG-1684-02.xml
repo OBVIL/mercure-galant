@@ -945,6 +945,11 @@
             <p/>
             <lg>
               <label>GAVOTE.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note></label>
+              <ref target="images/1684-02_234y.JPG">
+                <figure>
+                  <graphic url="images/1684-02_234y.JPG"/>
+                </figure>
+              </ref>
               <l> <hi rend="i">Incomparable Dauphine,</hi><note resp="author" place="margin">Voir <ref target="MG-1684-02_234">cet article</ref> pour la publication des deux danses mentionnées.</note></l>
           <l rend="i">Qui charmez toute la Cour,</l>
           <l rend="i">Donc, par la bonté Divine,</l>
@@ -989,7 +994,12 @@
             <p/>
             <lg>
               <label>MENUET.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : le Menüet &amp; la Gavote doivent regarder la page 240.</note></label>
-          <l rend="i">Que de biens cette VICTOIRE donne !</l>
+              <ref target="images/1684-02_234z.JPG">
+                <figure>
+                  <graphic url="images/1684-02_234z.JPG"/>
+                </figure>
+              </ref>
+              <l rend="i">Que de biens cette VICTOIRE donne !</l>
           <l rend="i">Que le Ciel favorise nos voeux !</l>
           <l rend="i">Voyez, Mortels, l’éclat qui l’environne,</l>
           <l rend="i">En la servant vous serez trop heureux.</l>
@@ -1011,11 +1021,6 @@
             </lg>
             </quote>
           <p>Quoy que tous les Airs ayent esté fort applaudis, estant de la Composition du S<hi rend="sup">r</hi> Daches, de la Musique du Roy, ceux de la Gavote &amp; du Menüet ont paru si agreables, &amp; si propres aux Paroles qu’on voudra faire dessus, que je vous les envoye notez, afin que vos illustres Amies ayent dequoy vous divertir par une chose qui a esté trouvée si galante.</p>
-          <ref target="images/1684-02_234.JPG">
-            <figure>
-              <graphic url="images/1684-02_234.JPG"/>
-            </figure>
-          </ref>
         </div>
         <div type="article" xml:id="MG-1684-02_240" resp="wordpro">
           <head>[Madrigal en italien au duc de S. Aignan.]*</head>
