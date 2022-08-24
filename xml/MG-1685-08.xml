@@ -213,7 +213,7 @@
         </div>
         <div type="article" xml:id="MG-1685-08_047" resp="wordpro">
           <head>[Lettre en Vers &amp; en Prose]</head>
-          <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 47-52.</bibl>
+          <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 47-51.</bibl>
           <p>Plusieurs Ouvrages galans que vous avez veus de M. Vignier, vous ont assez divertie, pour me donner lieu de croire, que vous lirez la Lettre suivante avec plaisir. Il l’a écrite au commencement de ce mois à une Dame de ses Amies.</p>
           <quote>
             <label>A MADAME DE M.…</label>
@@ -255,7 +255,10 @@
                 <l rend="i">Comme aux fleurs de vôtre Parterre.</l>
               </lg>
             </quote>
-            <p>Vous vous connoissez trop bien en Musique, pour n’estre pas contente de l’Air nouveau que je vous envoye. Il est d’un fort sçavant Homme, estimé de tout le monde.</p>
+        </div>
+            <div type="article" xml:id="MG-1685-08_051" resp="wordpro">
+              <head>[Air nouveau]</head>
+              <bibl><title>Mercure galant</title>, août 1685 [tome 8], p. 51-52.</bibl>            <p>Vous vous connoissez trop bien en Musique, pour n’estre pas contente de l’Air nouveau que je vous envoye. Il est d’un fort sçavant Homme, estimé de tout le monde.</p>
             <quote>
               <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Dans un Bois la jeune Iris</hi>, doit regarder la page 51.</note>
               <lg>
@@ -276,9 +279,9 @@
               </lg>
             </quote>
           </quote>
-          <ref target="images/1685-08_047.JPG">
+          <ref target="images/1685-08_051.JPG">
             <figure>
-              <graphic url="images/1685-08_047.JPG"/>
+              <graphic url="images/1685-08_051.JPG"/>
             </figure>
           </ref>
         </div>
