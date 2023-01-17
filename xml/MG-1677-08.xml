@@ -194,7 +194,7 @@
       </div>
       <div type="article" xml:id="MG-1677-08_013" resp="mercure">
         <head>[Chanson pour Madame, dont l’Air a esté fait par M. Boisset]</head>
-        <bibl><title>Le Nouveau Mercure galant</title>, août 1677 (tome VI), p. 13-15.<note resp="author" place="margin">Voir <ref target="MG-1677-08_015"><hi rend="i">cet article</hi></ref></note></bibl>
+        <bibl><title>Le Nouveau Mercure galant</title>, août 1677 (tome VI), p. 13-15.</bibl>
         <p>Puis que les Chansons ont tant de charmes pour vos belles Provinciales, je croy ne devoir pas quitter cette matiere sans vous faire encor part de deux qui sont tombées entre mes mains. L’Air de la premiere est de M<hi rend="sup">r</hi> Boisset ; les Paroles furent faites sur le bruit qui courut que Monsieur retourneroit à l’Armée peu de temps apres que ce Prince fut arrivé à Paris, &amp; c’est sur ce sujet que l’Autheur feint que Madame s’adresse à ce Prince pour luy dire ce qui suit.</p>
         <quote>
           <label>CHANSON.</label>
@@ -215,7 +215,7 @@
       </div>
       <div type="article" xml:id="MG-1677-08_015" resp="mercure">
         <head>[Chanson pour Madame la Mareschale de Lorge, dont l’Air est de M. d’Ambroüys]</head>
-        <bibl><title>Le Nouveau Mercure galant</title>, août 1677 (tome VI), p. 15-16.<note resp="author" place="margin">Voir <ref target="MG-1677-08_013"><hi rend="i">cet article</hi></ref></note></bibl>
+        <bibl><title>Le Nouveau Mercure galant</title>, août 1677 (tome VI), p. 15-16.</bibl>
         <p>Les deux Couplets qui suivent sont pour Madame la Mareschale de Lorge. L’Air en a esté fait par M<hi rend="sup">r</hi> Dambroüys.</p>
         <quote>
           <label>CHANSON.</label>
@@ -374,8 +374,8 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i">Là sans crainte des Grands, sans faste &amp; sans tristesse,<note resp="editor">Dans le volume le vers suivant est manquant. Il est précisé dans l'encart « Au Lecteur », au début du tome : « La seconde faute, est le deuxième Vers oublié du second Quatrain du Sonnet du Solitaire, Page 32, où il faut lire apres le cinquiéme Vers du Sonnet, <hi rend="i">Mes yeux apres la nuit verront naistre le jour</hi>. » Nous l’avons ajouté entre crochets.</note></l>
-            <l>[<hi rend="i">Mes yeux apres la nuit verront naistre le jour.</hi>]</l>
+            <l rend="i">Là sans crainte des Grands, sans faste &amp; sans tristesse,</l>
+            <l>[<hi rend="i">Mes yeux apres la nuit verront naistre le jour.</hi>]<note resp="editor">Vers manquant dans la livraison. L'encart « Au Lecteur » indique : « La seconde faute, est le deuxième Vers oublié du second Quatrain du Sonnet du Solitaire, Page 32, où il faut lire apres le cinquiéme Vers du Sonnet, <hi rend="i">Mes yeux apres la nuit verront naistre le jour</hi>. »</note></l>
             <l rend="i">Je verray les Saisons se suivre tour-à-tour,</l>
             <l rend="i">Et dans un doux repos j’attendray la Vieillesse.</l>
           </lg>
