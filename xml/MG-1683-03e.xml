@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-03e">
+sentiments<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-03e">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,7 +101,7 @@
           </quote>
         </div>
         <div type="article" xml:id="MG-1683-03e_065" resp="nbb">
-          <head>[Sentiments sur les questions posées par les précédents Extraordinaires]</head>
+          <head>[Sentiments sur les questions posées par les précédents Extraordinaires]*</head>
           <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de janvier [tome 21], 1683, p. 65-81</bibl>
           <quote>
             <label>Si la beauté de l’Esprit est plus<lb/>propre à charmer que celle<lb/>du Corps.</label>
@@ -228,7 +228,7 @@
           </quote>
         </div>
         <div type="article" xml:id="MG-1683-03e_102" resp="nbb">
-          <head>[Epître de Mr Comiers à Monseigneur le Duc de Bougogne]</head>
+          <head>[Epître de Mr Comiers à Monseigneur le Duc de Bougogne]*</head>
           <bibl><title>Extraordinaire du Mercure Galant</title>, quartier de janvier [tome 21], 1683, p. 102-108.</bibl>
           <quote>
             <p><hi rend="i">Lors que je vous eus envoyé le commencement du Traité des Lunetes employé dans le XIX. Tome de l’Extraordinaire, vous me témoignastes que puis qu’il estoit dédié à Monseigneur le Duc de Bourgogne, vous seriez bien-aise d’en voir l’Epistre, parce qu’il avoit paru singulier à quelques-uns qu’on eust adressé un Traité de cette nature à un Prince qui estoit encor dans le Berceau. Lisez, Madame, &amp; faites lire à tous vos Amis cette Epistre qu’ils attendent avec tant d’impatience. Ils la trouveront tres-digne de son Autheur, &amp; je ne doute point qu’apres l’avoir lûe, ils n’avoüent que les choses les plus éloignées entr’elles, peuvent avoir du raport, pourveu qu’on les sçache bien tourner. Voicy de quelle maniere M<hi rend="sup">r</hi> Comiers parle à Monseigneur le Duc de Bourgogne.</hi></p>
