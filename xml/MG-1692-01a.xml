@@ -422,7 +422,7 @@
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Vous sçaurez donc énigmatiquement</l>
-            <l rend="i">Qu’une * Viole, agreable Instrument,</l>
+            <l rend="i">Qu’une <note resp="author">Viole est l’Anagramme de Voile.</note> Viole, agreable Instrument,</l>
             <l rend="i">Me declare suffisamment ;</l>
             <l rend="i">Car sans un grand dérangement,</l>
             <l rend="i">Sans m’y chercher peniblement</l>
@@ -430,7 +430,6 @@
             <l rend="i">C’est assez d’éclaircissement.</l>
             <l rend="i">Je vous souhaite le bon an.</l>
           </lg>
-          <note><p>* Viole est l’Anagramme de Voile.</p></note>
         </quote>
       </div>
       <div type="article" xml:id="MG-1692-01a_153" resp="mercure">
@@ -670,7 +669,7 @@
       </div>
       <div type="article" xml:id="MG-1692-01a_263" resp="mercure">
         <head>[Détail sur ce qui s'est passé touchant le secours que le Duc de Savoye vouloit donner
-          à cette Place<note resp="editor" place="buttom">Montmélian.</note></head>
+          à cette Place [Montmélian]</head>
         <bibl><title>Mercure Galant</title>, janvier 1692, p. 263-265.</bibl>
         <p/>
         <p>Aprés vous avoir fait part de tout ce qui regarde le Siege de Monmelian, je croy vous
@@ -701,7 +700,7 @@
             <l rend="i"> Dont nous menaçoit autrefois</l>
             <l rend="i"> Vostre timide inquietude,</l>
             <l><hi rend="i">Et sommes-nous encor tous reduits aux abbois,</hi></l>
-            <l rend="i">Comme vous le disiez quand Bourbon * &amp; Turenne</l>
+            <l rend="i">Comme vous le disiez quand Bourbon <note resp="author">Feu Monsieur le Prince.</note> &amp; Turenne</l>
             <l rend="i">Tomberent sous les coups de la Parque inhumaine ?</l>
             <l rend="i">Si pour nostre malheur on vous en avoit cru,</l>
             <l rend="i">La France alloit perir, &amp; tout estoit perdu,</l>
@@ -831,7 +830,6 @@
             <l rend="i"> Et qu’au retour des hirondelles</l>
             <l rend="i">Tel qui s’en croit sauver, &amp; qui n’y pense pas,</l>
             <l rend="i">Sentira de nouveau ce que pesent leurs bras.</l>
-            <note><p>* Feu Monsieur le Prince.</p></note>
           </lg>
         </quote>
         <quote>
@@ -939,10 +937,9 @@
       </div>
       <div type="article" xml:id="MG-1692-01a_299" resp="mercure">
         <head>[Loterie chez M. Philidor]*</head>
-        <bibl><title>Mercure Galant</title>, janvier 1692, p. 299-302.<note resp="author"
-            place="margin">Voir également à ce sujet <ref target="MG-1692-10_306">cet article</ref>
-            et <ref target="MG-1692-11_261">cet article</ref>.</note></bibl>
-        <p>Pour vous répondre sur ce que vous demandez si les Lotteries font encore un des
+        <bibl><title>Mercure Galant</title>, janvier 1692, p. 299-302.</bibl>
+        <p>Pour vous répondre sur ce que vous demandez si les Lotteries<note resp="editor">Pour les loteries, voir aussi <ref target="MG-1692-10_306">cet article</ref>
+          et <ref target="MG-1692-11_261">cet article</ref>.</note> font encore un des
           divertissemens du Carnaval, comme elles firent l'année derniere, je vous diray qu'il y en
           a peu, &amp; que l'on ne parle plus que de celle de M<hi rend="sup">r</hi> de Philidor
           l'ainé, Ordinaire de la Musique du Roy, qui fut ouverte à Versailles le Carnaval dernier,
