@@ -353,7 +353,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l> <hi rend="i">Philippe</hi> <note resp='author' place="below"><p>Mr le Marquis de Dangeau.</p></note> <hi rend="i">est nostre Chef illustre</hi></l>
+              <l> <hi rend="i">Philippe</hi> <note resp="author">Mr le Marquis de Dangeau.</note> <hi rend="i">est nostre Chef illustre</hi></l>
               <l><hi rend="i">Redouble nostre ardeur à marcher sur ses pas ;</hi></l>
               <l> <hi rend="i">Fais que toûjours d’un nouveau lustre</hi></l>
               <l> <hi rend="i">Son nom brille jusqu’au trépas.</hi></l>
@@ -705,9 +705,8 @@
                 <l>Et nos peuples charmez de sa grace immortelle,</l>
                 <l>S’écriérent, grands Dieux ! d’un heureux &amp; long cours,</l>
                 <l>Daignez accompagner vôtre faveur nouvelle,</l>
-                <l><note resp="author" place="below"><p>Il a fallu s’assujettir au mot, <hi rend="i">Soles</hi>, de la Devise.
-                  D’ailleurs les Poëtes ont dit que le Soleil naissoit du sein de
-                  l’Aurore.</p></note> Les Soleils qui naistront du sein de cette belle</l>
+                <l> Les Soleils<note resp="author">Il a fallu s’assujettir au mot, <hi rend="i">Soles</hi>, de la Devise. D’ailleurs les Poëtes ont dit que le Soleil naissoit du sein de
+                  l’Aurore.</note> qui naistront du sein de cette belle</l>
                 <l> Ne donneront que de beaux jours.</l>
               </lg>
               

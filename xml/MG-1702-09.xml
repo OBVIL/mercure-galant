@@ -326,7 +326,7 @@
               <l><hi rend="i">Tu fais voir à nos yeux la justesse de l’Art ;</hi></l>
               <l> <hi rend="i">Vaste &amp; pompeuse Gallerie,</hi></l>
               <l> <hi rend="i">Et vous superbe Orangerie !</hi></l>
-              <l><hi rend="i">Pour charmer l’Univers, vous attendiez<note resp="editor">Le texte original indique "a" sans tiret, puis "diez" à la ligne.</note> Mansart.</hi></l>
+              <l><hi rend="i">Pour charmer l’Univers, vous a[tten]diez Mansart.</hi></l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
@@ -367,9 +367,9 @@
               <l><hi rend="i">Des attraits de ces lieux, ainsi que moy touchées,</hi></l>
               <l><hi rend="i">Admirent ce sejour si beau, si doux à voir,</hi></l>
               <l><hi rend="i">Que la vaste étenduë a fait nommer Beauvoir.</hi></l>
-              <l><hi rend="i">Il a produit à Mars des Guerriers magnanimes,</hi> *</l>
-              <l><hi rend="i">Themis y medita ses loix &amp; ses maximes,</hi> †</l>
-              <l><hi rend="i">La Pieté longtemps y fixa son sejour,</hi> ‡</l>
+              <l><hi rend="i">Il a produit à Mars des Guerriers magnanimes,</hi> <note resp="author">le brave de Givry.</note></l>
+              <l><hi rend="i">Themis y medita ses loix &amp; ses maximes,</hi> <note resp="author">M<hi rend="sup">r</hi> le President B.</note></l>
+              <l><hi rend="i">La Pieté longtemps y fixa son sejour,</hi> <note resp="author">Madame D. jadis Seigneur &amp; Dame de Beauvoir.</note></l>
               <l><hi rend="i">Et l’on voit les Vertus l’habiter tour à tour.</hi></l>
               <l><hi rend="i">Cerés cette Déesse en ce lieu reverée,</hi></l>
               <l><hi rend="i">Enrichit ses guerets d’une moisson dorée ;</hi></l>
@@ -392,9 +392,6 @@
               <l><hi rend="i">Quitte donc ta retraite &amp; tes bois de Mautour,</hi></l>
               <l><hi rend="i">Et viens pour animer ma voix &amp; ce sejour.</hi></l>
             </lg>
-            <note><p>* le brave de Givry.</p></note>
-            <note><p>* M<hi rend="sup">r</hi> le President B.</p></note>
-            <note><p>* Madame D. jadis Seigneur &amp; Dame de Beauvoir.</p></note>
           </quote>
         </div>
         <div type="article" xml:id="MG-1702-09_121">

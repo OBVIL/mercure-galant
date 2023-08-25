@@ -289,7 +289,7 @@
             <ab type="ornament">***</ab>
             <lg>          
               <l>Les jours passent comme un moment</l>
-              <l>Avec l'Ambassadrice<note><p><hi rend="i">Me de Meyercron, Danoise.</hi></p></note>  :</l>
+              <l>Avec l'Ambassadrice resp="author"><hi rend="i">Me de Meyercron, Danoise.</hi></note>  :</l>
               <l>Chacun à son esprit charmant</l>
               <l>A l'envi rend justice.</l>
               <l>Les Jeux, les Plaisirs empressez</l>
@@ -299,7 +299,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>          
-              <l>Charmante Abbesse<note><p><hi rend="i">Me de Frontevaux.</hi></p></note>, en ce sejour</l>
+              <l>Charmante Abbesse resp="author"><hi rend="i">Me de Frontevaux.</hi></note>, en ce sejour</l>
               <l>Quand chacun vous revere,</l>
               <l>Croyez-moy, l'on cache l'amour,</l>
               <l>Sous ce respect sincere.</l>
@@ -313,7 +313,7 @@
               <l>Vous avez pour nous enflâmer</l>
               <l>Un droit trop legitime :</l>
               <l>Vous voir, &amp; ne vous pas aimer,</l>
-              <l>Comtesse<note><p><hi rend="i">Me de Sors.</hi></p></note>, c'est un crime.</l>
+              <l>Comtesse resp="author"><hi rend="i">Me de Sors.</hi></note>, c'est un crime.</l>
               <l>Mais aussi-tost qu'on voit vos yeux,</l>
               <l>Un certain trouble aimable</l>
               <l>Nous fait trop sentir qu'en ces lieux</l>
@@ -350,12 +350,12 @@
               <l>Un esprit amusant &amp; doux,</l>
               <l>Une beauté touchante.</l>
               <l>Ces traits font reconnoistre à tous</l>
-              <l>L'aimable Lieutenante<note><p><hi rend="i">Me Pasquier, Lieutenante Particuliere du Chastelet.</hi></p></note>.</l>
+              <l>L'aimable Lieutenante<note resp="author"><hi rend="i">Me Pasquier, Lieutenante Particuliere du Chastelet.</hi></note>.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
               <l>Ah, que l'on goûte de douceur</l>
-              <l>Lorsque l'on vous<note><p><hi rend="i">Me Rafard, Religieuse de Vernou, dont la voix est admirable.</hi></p></note> écoute  !</l>
+              <l>Lorsque l'on vous<note resp="author"><hi rend="i">Me Rafard, Religieuse de Vernou, dont la voix est admirable.</hi></note> écoute  !</l>
               <l>Que vostre voix de notre coeur</l>
               <l>Découvre bien la route !</l>
               <l>Mais vous consacrez aux Autels</l>
@@ -513,7 +513,7 @@
           <p>Le Lundy 5. Monseigneur alla à Montargis, accompagné de Madame la Princesse de Conty ; de Monsieur le Prince de Conty, &amp; de quelques Dames. Il y eut chasse du Cerf, &amp; le Roy en courut deux.</p>
           <p>Le Mardy 6. il y eut Chasse du Chevreüil.</p>
           <p>le Mercredy 7. le Roy ne sortit point, &amp; il n'y eut rien le soir. Monseigneur revint de Montargis.</p>
-          <p>Le Jeudy 8. il y eut Chasse du Cerf, &amp; le soir la Comedie des Fées. Je vous donneray le reste de ce Journal avant que de fermer cette Lettre.<note resp="author" place="margin">Suite dans <ref target="MG-1699-10_266">cet article</ref>.</note></p>
+          <p>Le Jeudy 8. il y eut Chasse du Cerf, &amp; le soir la Comedie des Fées. Je vous donneray le reste de ce Journal avant que de fermer cette Lettre.<note resp="editor">Pour la suite, voir <ref target="MG-1699-10_266">cet article</ref>.</note></p>
         </div>
         <div type="article" xml:id="MG-1699-10_141" resp="wordpro">
           <head>[Sonnet sur la Statuë Equestre du Roy]</head>
@@ -676,7 +676,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l> Les monstres de la Mer, les pestes<note><p><hi rend="i">M<hi rend="sup">r</hi> de Pointis fut malade de la peste.</hi></p></note>, les tempestes,</l>
+              <l> Les monstres de la Mer, les pestes<note resp="author"><hi rend="i">M<hi rend="sup">r</hi> de Pointis fut malade de la peste.</hi></note>, les tempestes,</l>
               <l>Ne peuvent point donner de frein à tes Conquestes.</l>
               <l>Hercule avoit vaincu cent Monstres furieux ;</l>
               <l>Mais il ne put fléchir l’Ocean Atlantique.</l>
@@ -851,8 +851,8 @@
         </div>
         <div type="article" xml:id="MG-1699-10_266" resp="mercure">
           <head>[Suite du Journal de Fontainebleau]</head>
-          <bibl><title>Mercure galant</title>, octobre 1699 [tome 10], p. 266-270.<note resp="author" place="margin">Fait suite à <ref target="MG-1699-10_122">cet article</ref></note>.</bibl>
-          <p>Je vous tiens parole, en vous envoyant la suite du Journal du Voyage de Fontainebleau.</p>
+          <bibl><title>Mercure galant</title>, octobre 1699 [tome 10], p. 266-270..</bibl>
+          <p>Je vous tiens parole, en vous envoyant la suite du Journal du Voyage de Fontainebleau<note resp="editor">Pour le début du <hi rend="italic">Journal de Fontainebleau</hi>, voir <ref target="MG-1699-10_122">cet article</ref></note>.</p>
           <p>Le Vendredy 9. le Roy alla tirer, Monseigneur courut le Cerf avec l'Equipage de M<hi rend="sup">r</hi> le Duc du Maine, &amp; Messeigneurs les Princes coururent le Liévre avec les chiens de M<hi rend="sup">r</hi> le Comte de Toulouse. Il  eut le soir Appartemens.</p>
           <p>Le Samedy 10. il y eut Chasse du Loup, &amp; le soir la Comedie de Surena, suivie des Plaideurs.</p>
           <p>Le Dimanche 11. le Roy alla tirer, &amp; le soir il y eut pour Monseigneur grande répetition de la Musique de l'Opera de Martésie, dans la Galerie des Cerfs.</p>
