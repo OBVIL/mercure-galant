@@ -109,7 +109,7 @@
             <ab type="ornament">***</ab>
             <lg>
               <l rend="i">Regardez le Griffon au travers du grillage,</l>
-              <l><hi rend="i">Observez le Sagoin, la Civete, l’Elan,</hi> *</l>
+              <l><hi rend="i">Observez le Sagoin, la Civete, l’Elan,</hi><note resp="author"> L’Elan a la tête de Veau, &amp; le corps d’un Cerf.</note></l>
               <l><hi rend="i">Icy la Poule hupée, &amp; le Canard sauvage</hi></l>
               <l rend="i"> Qu’on appelle Arquelan.</l>
             </lg>
@@ -122,7 +122,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l>† <hi rend="i">Icy ce gros Oiseau que l’Inde nous envoye,</hi></l>
+              <l><hi rend="i">Icy<note resp="author">Le Casuel.</note> ce gros Oiseau que l’Inde nous envoye,</hi></l>
               <l rend="i">Paroît estre formé sur un nouveau dessein ;</l>
               <l rend="i">Il a le corps couvert d’une espece de soye,</l>
               <l rend="i"> Qui ressemble à du crin.</l>
@@ -147,7 +147,7 @@
               <l rend="i">Son char par des chemins aux mortels inconnus,</l>
               <l rend="i">Et c’est d’elle qu’il tient la dépoüille dorée</l>
               <l rend="i"> De tous les yeux d’Argus.</l>
-              <l>‡ <hi rend="i">Là, dans une autre cour, l’Oiseau dont le plumage</hi></l>
+              <l><hi rend="i">Là, dans une autre cour, <note resp="author">L’Autruche.</note>l’Oiseau dont le plumage</hi></l>
               <l rend="i">Fait de nos Cavaliers le plus digne ornement,</l>
               <l rend="i">Ayant quitté chez luy son naturel volage,</l>
               <l rend="i"> Vit familierement.</l>
@@ -182,7 +182,7 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l>§ <hi rend="i">Cet Oiseau qui nous chante un air plaintif &amp; tendre,</hi></l>
+              <l>§ <hi rend="i">Cet Oiseau<note resp="author">Le Cigne.</note> qui nous chante un air plaintif &amp; tendre,</hi></l>
               <l rend="i">Au point que son destin luy vient fermes les yeux,</l>
               <l rend="i">Abandonnant pour nous les rives du Meandre.</l>
               <l rend="i"> Habite dans ces lieux.</l>
@@ -196,21 +196,21 @@
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l>** <hi rend="i">Remarquez cet Oiseau d’une si rare espece</hi></l>
+              <l><hi rend="i">Remarquez<note resp="author"> Le Pelican.</note> cet Oiseau d’une si rare espece</hi></l>
               <l rend="i">Qui se perce le flanc pour nourrir ses petits ;</l>
               <l rend="i">On ne peut concevoir cet excez de tendresse,</l>
               <l rend="i"> Sans en estre surpris.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l>†† <hi rend="i">Sous ces Dômes ouverts environnez de grilles,</hi></l>
+              <l><hi rend="i">Sous ces Dômes<note resp="author">Les Volieres.</note> ouverts environnez de grilles,</hi></l>
               <l rend="i">Vole un nombre d’Oiseaux comme au milieu des airs,</l>
               <l rend="i">Nourrissant dans ce lieu leurs paisibles familles,</l>
               <l rend="i"> Sans craindre les dangers.</l>
             </lg>
             <ab type="ornament">***</ab>
             <lg>
-              <l>‡‡ <hi rend="i">L’Oiseau qui de Venus a reçû pour partage</hi></l>
+              <l><hi rend="i">L’Oiseau<note resp="author">La Colombe.</note> qui de Venus a reçû pour partage</hi></l>
               <l rend="i">De traisner son beau char dans la route des Cieux,</l>
               <l rend="i">Aussi-tost qu’il paroist, l’éclat de son plumage</l>
               <l rend="i"> Vient ébloüir nos yeux.</l>
@@ -285,18 +285,11 @@
               <l rend="i">Amenez vostre Cour, pour goûter avec elle,</l>
               <l rend="i"> D’un autre amusement.</l>
             </lg>
-            <note><p>* L’Elan a la tête de Veau, &amp; le corps d’un Cerf.</p></note>
-            <note><p>† Le Casuel.</p></note>
-            <note><p>‡ L’Autruche.</p></note>
-            <note><p>§ Le Cigne.</p></note>
-            <note><p>** Le Pelican.</p></note>
-            <note><p>†† Les Volieres.</p></note>
-            <note><p>‡‡ La Colombe.</p></note>
           </quote>
         </div>
         <div type="article" xml:id="MG-1699-05_090" resp="mercure">
-          <head>[Suite du Journal concernant l'Ambassadeur de Maroc, avec la Harangue qu'il a faite au Roy le jour de son audience de congé]</head>
-          <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 90.<note resp="author" place="margin">Voir <ref target="MG-1699-02_215">cet article</ref> et <ref target="MG-1699-04_058">cet article</ref> pour le début du journal.</note></bibl>
+          <head>[Suite du Journal concernant l'Ambassadeur de Maroc, avec la Harangue qu'il a faite au Roy le jour de son audience de congé]<note resp="editor">Voir <ref target="MG-1699-02_215">cet article</ref> et <ref target="MG-1699-04_058">celui-ci</ref> pour le début du journal.</note></head>
+          <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 90.</bibl>
           <p>Deux jours aprés, il [l'ambassadeur] alla voir l'Opera d'Amadis de Grece, &amp; parut étonné d'avoir toujours vû des choses qui l'avoient enchanté toutes les fois qu'on l'avoit mené à l'Opera.</p>
         </div>
         <div type="article" xml:id="MG-1699-05_128" resp="wordpro">
@@ -380,7 +373,7 @@
               <l>Plus loin paroist Corbeil avec ses vieilles Tours.</l>
               <l>Sur un penchant se voit Villeneuve Saint George,</l>
               <l>Et plus bas dans son lit la Marne se dégorge.</l>
-              <l>Elle admire en passant ces superbes Maisons, *</l>
+              <l>Elle admire en passant ces superbes Maisons,<note resp="author"> <hi rend="i">Choisy, Conflans, Bercy, &amp;c.</hi></note></l>
               <l>Où regne un doux Printemps dans toutes les saisons.</l>
               <l>A sa droite est aussi le Chasteau de Vincenne,</l>
               <l>Avec l’Arc de Triomphe érigé dans la Plaine,</l>
@@ -406,7 +399,7 @@
               <l>Chef-d’œuvre merveilleux de Perrault l’Architecte.</l>
               <l>Si de le voir finir ce n’est pas la saison,</l>
               <l>C’est à d’autres qu’à nous d’en sçavoir la raison.</l>
-              <l> D’un College fameux, † riche en toute maniere,</l>
+              <l> D’un College fameux,<note resp="author"><hi rend="i">Le College des Quatre Nations.</hi></note> riche en toute maniere,</l>
               <l>Elle voit tout à plein la face réguliere.</l>
               <l>Jule par ces bienfaits a voulu dans ce lieu</l>
               <l>Eterniser son nom, imitant Richelieu,</l>
@@ -587,8 +580,6 @@
               <l> L’Architecte obéit, &amp; par mille jets d’eau</l>
               <l>On voit briller Marly d’un ornement nouveau.</l>
             </lg>
-            <note><p>* <hi rend="i">Choisy, Conflans, Bercy, &amp;c.</hi></p></note>
-            <note><p>† <hi rend="i">Le College des Quatre Nations.</hi></p></note>
           </quote>
         </div>
         <div type="article" xml:id="MG-1699-05_180" resp="wordpro">
@@ -668,9 +659,9 @@
       <div type="article" xml:id="MG-1699-05_194" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 194-195.</bibl>
-        <p>Ces autres Vers ont esté mis en Air par un habile Musicien. Quiconque aura la force de s'attacher à la maxime qu'ils renferment, peut s'assurer de vivre sans inquietude. <note resp="editor">Le texte forme la deuxième strophe de l'air « L'on y doit bien songer » paru dans le <hi rend="italic">II. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1659, f. 21v-22, cf. LADDA 1659-19).</note></p>
+        <p>Ces autres Vers ont esté mis en Air par un habile Musicien. Quiconque aura la force de s'attacher à la maxime qu'ils renferment, peut s'assurer de vivre sans inquietude.  resp="editor">Le texte forme la deuxième strophe de l'air « L'on y doit bien songer » paru dans le <hi rend="italic">II. livre d'airs de différents auteurs</hi> (Paris, Christophe Ballard, 1659, f. 21v-22, cf. LADDA 1659-19).</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air qui commence par, <hi rend="i">Si jamais l'Amour</hi>, page 194.</note>
+          <label>AIR NOUVEAU.</label> resp="author" place="margin">L'Air qui commence par, <hi rend="i">Si jamais l'Amour</hi>, page 194.</note>
           <lg><l rend="i">Si jamais à l'amour</l>
             <l rend="i">Je suis sensible un jour,</l>
             <l rend="i">On le sera de même.</l>
@@ -720,9 +711,9 @@
       <div type="article" xml:id="MG-1699-05_280" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1699 [tome 5], p. 280-281.</bibl>
-        <p>Je croy que vous serez contente de l'Air qu'un habile Musicien a fait sur ces Vers que je vous envoye notez.<note resp="editor">Poème attribué à Louis de Mollier dans la <hi rend="italic">Suite du recueil des plus beaux vers</hi> (Paris, Charles de Sercy, 1661, p. 483). Il a été publié dans le <hi rend="italic">II. livre d'airs de différents auteurs</hi> (Paris, Ballard, 1659, f. 31v-32 ; cf. LADDA 1659-29). L'air publié dans le <hi rend="italic">Mercure galant</hi> n'en reprend que la deuxième strophe, avec une mise en musique différente.</note></p>
+        <p>Je croy que vous serez contente de l'Air qu'un habile Musicien a fait sur ces Vers que je vous envoye notez. resp="editor">Poème attribué à Louis de Mollier dans la <hi rend="italic">Suite du recueil des plus beaux vers</hi> (Paris, Charles de Sercy, 1661, p. 483). Il a été publié dans le <hi rend="italic">II. livre d'airs de différents auteurs</hi> (Paris, Ballard, 1659, f. 31v-32 ; cf. LADDA 1659-29). L'air publié dans le <hi rend="italic">Mercure galant</hi> n'en reprend que la deuxième strophe, avec une mise en musique différente.</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air qui commence par, <hi rend="i">Ne craignez rien</hi>, page 280.</note>
+          <label>AIR NOUVEAU.</label> resp="author" place="margin">L'Air qui commence par, <hi rend="i">Ne craignez rien</hi>, page 280.</note>
           <lg><l rend="i">Ne craignez rien dans l'amoureux Empire.</l>
             <l rend="i">Le mal n'est pas, Iris, si grand que l'on le fait,</l>
             <l rend="i">Et lorsqu'on aime, &amp; que le cœur soupire,</l>
