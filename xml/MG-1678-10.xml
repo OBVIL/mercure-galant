@@ -257,7 +257,7 @@
           Ouvrage en reconnoissance de cette association ; &amp; l’Idylle que vous allez voir, est
           celuy dont elle luy a fait présent cette année. Messieurs de l’Académie Françoise l’ont
           fort estimé, &amp; je ne doute pas que leur approbation ne soit suivie de la vostre.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Idylle.</label>
           <l>Le riche émail des Fleurs orne bien nos Prairies,</l>
           <l>Le Fruit sied bien à nos Vergers,</l>
@@ -469,7 +469,7 @@
           l’ont obligé jusqu’icy d’étoufer de fort jolies Pieces dont j’espere que je vous feray
           part à l’avenir. Celle-cy vous fera connoistre combien vous pouvez attendre d’un Génie
           aussi galant que le sien.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">À Madame </label>
           <label rend="center">La Comtesse de ***</label>
           <label rend="center">
@@ -552,7 +552,7 @@
           Madrigal donné à une Belle au jour de sa Feste avant qu’on eust fait aucune proposition de
           Paix. Vous pourriez ne le pas trouver de saison, si j’attendois plus tard à vous
           l’envoyer.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Bouquet </label>
           <label rend="center">pour une Belle.</label>
           <l><space/>À Present qu’une Guerre juste</l>
@@ -628,7 +628,7 @@
             rend="sup">r</hi> l’Abbé de la Chaise, que vous ne serez pas fâchée de voir ce qu’il a
           fait sur la consternation où la prise de Gand avoit mis les Espagnols. La Fiction est
           ingénieuse, &amp; vous ne pouvez attendre que beaucoup de plaisir de cette lecture.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">L’Ombre </label>
           <label rend="center">de l’Empereur</label>
           <label rend="center">Charles-Quint.</label>
@@ -1028,7 +1028,7 @@
           ay mandé qu’il m’en estoit resté quelques unes. Il faut satisfaire la curiosité que vous
           avez de les voir. Celle qui suit est écrite avec méthode. Elle a un tour particulier qui
           en rend le raisonnement persuasif.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sur la Question </label>
           <label rend="center">proposée dans l’Extraordinaire du Quartier d’Avril, page 299. au
             sujet de la confidence que la Princesse de Cleves fait de sa Passion à son Mary.</label>
@@ -1135,7 +1135,7 @@
       <div type="article" xml:id="MG-1678-10_151a" resp="mercure">
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 151.</bibl>
-        <quote rend="border">
+        <quote>
           <label rend="center">Madrigal.</label>
           <l>IL est dangereux quand on aime,</l>
           <l>De trop s’abandonner à son ressentiment.</l>
@@ -1153,7 +1153,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 151-152.</bibl>
         <p>Ces autres Vers vous feront connoistre qu’on n’a jamais regardé la necessité de cesser
           d’aimer, que comme un fort grand suplice.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Autre Madrigal.</label>
           <l>AH, qu’on est malheureux d’avoir eu des desirs,</l>
           <l>D’avoir fait de l’Amour ses plus charmans plaisirs,</l>
@@ -1167,7 +1167,7 @@
         <head>[Vers sur un Baiser dérobé]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 152-153.</bibl>
         <p>Il faut vous faire voir quelque chose de plus enjoüé.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Sur un Baiser</label>
           <label rend="center">Derobé.</label>
           <l>QUoy, pour vous avoir pris un baiser en secret,</l>
@@ -1191,7 +1191,7 @@
           adressées ; mais je ne hazarde rien en vous assurant que l’explication de l’Enigme du
           Cadran qu’elles contiennent, est accompagnée de quantité de Remarques fort curieuses dont
           vous me sçaurez bon gré de vous avoir fait part.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Lettre I.</label>
           <label rend="center">A. M. D. R</label>
           <p>VOUS estes un étrange Homme. Vous demandez les choses d’une maniere si absoluë, qu’on
@@ -1265,7 +1265,8 @@
             ait inventez, on donne presque toûjours le mesme Autheur au Globe &amp; à l’Horloge
             Solaire. Il me vient quelque chose en pensée sur la Statuë de Memnon que je pourray vous
             mander une autre fois. En voila plus qu’il n’en faut pour aujourd’huy.</p>
-      </div>
+          </quote>
+     </div>
       <div type="article" xml:id="MG-1678-10_166" resp="mercure">
         <head>[Autre sur le mesme sujet]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 166-185.</bibl>
@@ -1362,7 +1363,6 @@
             découvertes de l’Astronomie, n’avoient garde d’oublier d’y mettre des memoriaux de leurs
             Inventions. Vous tirerez aisément la conclusion que la Statuë de Memnon y estoit aussi
             tres à propos, pour marquer le Cadran, auquel elle se raportoit si juste.</p>
-        </quote>
         <p>J’attends vos sentimens sur ces Lettres. Je ne doute point qu’il ne soient conformes à
           ceux de quantité de Personnes tres-spirituelles qui les ont leuës plus d’une fois, &amp;
           qui ont toûjours trouvé de justes sujets de les admirer.</p>
@@ -1939,7 +1939,7 @@
           Femmes auroit bien fait son profit de cette conversation pour les salutaires avis qu’il
           donne a Agnés. On dit quelque chose de fort plaisant sur ces Maximes qu’un autre tourna
           sur le champ en Vers par l’Inpromptu que vous allez voir.</p>
-        <quote rend="border">
+        <quote>
           <lg>
             <l><space/>Dangereuse est la politique</l>
             <l><space/>D’un cœur qui sentant à regret</l>
@@ -1962,7 +1962,7 @@
           On la crût, parce qu’elle avoit un talent aisé pour la Poësie. On la pressa de dire ses
           Vers, &amp; apres s’estre fait prier, pour voir le temps de songer veritablement à en
           faire, elle dit le Quadrain qui suit.</p>
-        <quote rend="border">
+        <quote>
           <l>C’est en user peu prudemment</l>
           <l>D’oser à son Mary découvrir sa foiblesse,</l>
           <l>Et je ne choisirois pour aller à confesse,</l>
@@ -1972,7 +1972,7 @@
           qu’il vouloit aussi faire des Vers. Il se tira un peu à l’écart, resva quelque temps,
           &amp; vint en suite régaler la Compagnie de ceux-cy, pour favoriser les sentimens de la
           Belle.</p>
-        <quote rend="border">
+        <quote>
           <lg>
             <l>Quand une Femme veut guerir</l>
             <l>D’un amour secret qui l’obsede ;</l>
@@ -2005,7 +2005,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 327-328.</bibl>
         <p>Le beau Sexe ne se taist pas quand il s’agist de marquer l’admiration où l’on est des
           grandes Actions du Roy. Voyez les par ces Vers de Mademoiselle Certain-Huron.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Au Roy,</label>
           <label rend="center">Epigramme.</label>
           <l>On n’entendra plus tant parler</l>
@@ -2109,7 +2109,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 341-342.</bibl>
         <p>Je passe à l’Explication des Enigmes. Celle de la premiere en Vers est renfermée dans ce
           Madrigal de M<hi rend="sup">r</hi> le Brun Segusien.</p>
-        <quote rend="border">
+        <quote>
           <l>Lorsque l’on a passé les plus beaux de ses jours,</l>
           <l><space/>Tant sur l’onde que sur la terre,</l>
           <l><space/>À faire l’amour ou la guerre,</l>
@@ -2136,7 +2136,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 343.</bibl>
         <p>La seconde a esté ainsi expliquée dans son vray sens par M<hi rend="sup">r</hi> Brossard
           Conseiller au Presidial de Bourg en Bresse.</p>
-        <quote rend="border">
+        <quote>
           <l><space/>Que vostre Enigme est difficile !</l>
           <l>Depuis deux jours j’y resve en me rongeant les doigts ;</l>
           <l><space/>Je me suis dépité vingt fois,</l>
@@ -2194,7 +2194,7 @@
         <p>Les deux nouvelles Enigmes que je vous envoye sont, la premiere de M<hi rend="sup"
           >r</hi> Saurin, &amp; l’autre de M<hi rend="sup">r</hi>   Brossard Conseiller au Presidial
           de Bourg en Bresse.</p>
-        <quote rend="border">
+        <quote>
           <label rend="center">Enigme.</label>
           <l>On feroit mal sans moy toute importante affaire,</l>
           <l>Et je puis à la Cour trancher du necessaire.</l>
@@ -2235,7 +2235,7 @@
         <p>L’Enigme en figure qui represente Daphné fuyant Apollon, n’est autre chose que <hi
             rend="i">l’Ombre</hi>. Voicy l’Explication que M<hi rend="sup">r</hi> Rault de Roüen en
           a donnée.</p>
-        <quote rend="border">
+        <quote>
           <l>Dans cette Forest verte &amp; Sombre.</l>
           <l>Allons, Daphné, nous mettre à <hi rend="i">l’ombre</hi>,</l>
           <l>Le frais y cause un doux sommeil :</l>
